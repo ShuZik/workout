@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 subtitle: 1–2–3–2: finish the hook with the rear hand.
 sequence: ["jab","cross","lead_hook","cross"]
 ---
 
-# Jab-Cross-Lead Hook-Cross
+## Title
+
+Jab-Cross-Lead Hook-Cross
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Throw the jab and cross, turn the lead hook around the guard, then finish with another rear cross. Recover the hook before committing to the final punch.

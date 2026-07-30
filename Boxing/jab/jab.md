@@ -8,11 +8,20 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: basic
 subtitle: A quick, straight punch with the lead hand.
 target: head
 durationSeconds: 180
 ---
 
-# Jab
+## Title
+
+Jab
+
+## Сложность
+
+База
+
+## Описание
 
 From the guard, drive the lead hand straight to the head. Keep the rear hand at the cheek, raise the lead shoulder to protect the chin, and return the fist immediately to guard.

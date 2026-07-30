@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: intermediate
 subtitle: 1–3–2: change the line before the rear hand.
 sequence: ["jab","lead_hook","cross"]
 ---
 
-# Jab-Lead Hook-Cross
+## Title
+
+Jab-Lead Hook-Cross
+
+## Сложность
+
+Средний
+
+## Описание
 
 Use the jab to occupy the guard, turn the lead hook around it, then finish with the rear cross. Keep the hook compact instead of swinging wide.

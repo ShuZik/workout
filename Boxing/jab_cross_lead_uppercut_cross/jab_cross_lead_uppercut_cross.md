@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 subtitle: 1–2–5–2: change level and finish straight.
 sequence: ["jab","cross","lead_uppercut","cross"]
 ---
 
-# Jab-Cross-Lead Uppercut-Cross
+## Title
+
+Jab-Cross-Lead Uppercut-Cross
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Start high with the jab and cross, bend the knees for a compact lead uppercut, then rise into the rear cross. Change level with your legs instead of folding at the waist.

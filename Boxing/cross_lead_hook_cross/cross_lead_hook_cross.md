@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 subtitle: 2–3–2: rear hand, lead hook, rear hand.
 sequence: ["cross","lead_hook","cross"]
 ---
 
-# Cross-Lead Hook-Cross
+## Title
+
+Cross-Lead Hook-Cross
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Start with the rear cross, turn into the lead hook, then recover and fire the rear cross again. Stay balanced so the last punch does not pull you forward.

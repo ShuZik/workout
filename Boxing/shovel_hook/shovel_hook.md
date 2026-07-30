@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 ---
 
-# Shovel Hook
+## Title
+
+Shovel Hook
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Practice Shovel Hook with controlled movement, a balanced stance, and a clean return to guard.

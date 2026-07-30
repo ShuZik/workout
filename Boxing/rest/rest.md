@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: basic
 ---
 
-# Rest
+## Title
+
+Rest
+
+## Сложность
+
+База
+
+## Описание
 
 Practice Rest with controlled movement, a balanced stance, and a clean return to guard.

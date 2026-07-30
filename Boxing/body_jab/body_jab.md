@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: intermediate
 subtitle: A straight lead-hand punch to the body.
 target: body
 ---
 
-# Body Jab
+## Title
+
+Body Jab
+
+## Сложность
+
+Средний
+
+## Описание
 
 Bend the knees to change level without folding at the waist, then extend the lead hand straight into the torso. Keep the rear hand high and recover to guard.

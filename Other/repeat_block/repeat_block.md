@@ -8,9 +8,18 @@ icon: Icon.png
 symbol: repeat
 workoutType: other
 valueType: repeatCount
+difficulty: basic
 repeatCount: 1
 ---
 
-# Repeat
+## Title
+
+Repeat
+
+## Сложность
+
+База
+
+## Описание
 
 Use Repeat to keep the workout structure clear and controlled.

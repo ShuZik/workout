@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
+difficulty: basic
 ---
 
-# Shadow Warm-up
+## Title
+
+Shadow Warm-up
+
+## Сложность
+
+База
+
+## Описание
 
 Use Shadow Warm-up to raise your temperature gradually and prepare for focused training.

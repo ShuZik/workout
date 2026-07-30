@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
+difficulty: basic
 ---
 
-# Dynamic Stretching
+## Title
+
+Dynamic Stretching
+
+## Сложность
+
+База
+
+## Описание
 
 Use Dynamic Stretching to raise your temperature gradually and prepare for focused training.

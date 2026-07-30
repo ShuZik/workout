@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 subtitle: 1–2–slip–2: punch, defend, return.
 sequence: ["jab","cross","defense_slips","cross"]
 ---
 
-# Jab-Cross-Slip-Cross
+## Title
+
+Jab-Cross-Slip-Cross
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Throw the jab and cross, slip outside the expected return without bending at the waist, then send the rear cross. Keep the slip small enough to stay ready to punch.

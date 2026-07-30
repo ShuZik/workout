@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: pro
 ---
 
-# Boxing
+## Title
+
+Boxing
+
+## Сложность
+
+Профи
+
+## Описание
 
 Practice Boxing with controlled movement, a balanced stance, and a clean return to guard.

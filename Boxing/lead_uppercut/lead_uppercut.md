@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: basic
 subtitle: A rising lead-hand punch to the head.
 target: head
 ---
 
-# Lead Uppercut
+## Title
+
+Lead Uppercut
+
+## Сложность
+
+База
+
+## Описание
 
 Lower your level by bending the knees, then drive upward from the lead leg as the lead fist rises toward the chin. Keep the punch compact and recover immediately.

@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 ---
 
-# High Guard Pressure
+## Title
+
+High Guard Pressure
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Practice High Guard Pressure with controlled movement, a balanced stance, and a clean return to guard.

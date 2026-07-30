@@ -8,9 +8,18 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: basic
 subtitle: A rising punch that travels upward from below.
 ---
 
-# Uppercut
+## Title
+
+Uppercut
+
+## Сложность
+
+База
+
+## Описание
 
 Bend the knees slightly and drive upward from the legs while the fist rises toward the chin. Keep the movement compact and return the hand to the guard position.

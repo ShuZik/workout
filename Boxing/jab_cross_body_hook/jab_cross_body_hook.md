@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 subtitle: 1–2–3B: finish to the body.
 sequence: ["jab","cross","lead_body_hook"]
 ---
 
-# Jab-Cross-Body Hook
+## Title
+
+Jab-Cross-Body Hook
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Throw the jab and cross to bring the guard high, then change level and turn the lead body hook into the ribs. Keep the opposite hand protecting your head.

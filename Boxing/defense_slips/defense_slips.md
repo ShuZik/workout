@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: intermediate
 ---
 
-# Defense Slips
+## Title
+
+Defense Slips
+
+## Сложность
+
+Средний
+
+## Описание
 
 Practice Defense Slips with controlled movement, a balanced stance, and a clean return to guard.

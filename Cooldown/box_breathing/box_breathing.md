@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.flexibility
 workoutType: cooldown
 valueType: time
+difficulty: basic
 ---
 
-# Box Breathing
+## Title
+
+Box Breathing
+
+## Сложность
+
+База
+
+## Описание
 
 Use Box Breathing to lower your pace and bring your breathing back under control.

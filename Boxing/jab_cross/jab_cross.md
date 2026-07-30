@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: basic
 subtitle: 1–2: lead jab followed by the rear cross.
 sequence: ["jab","cross"]
 ---
 
-# Jab-Cross
+## Title
+
+Jab-Cross
+
+## Сложность
+
+База
+
+## Описание
 
 Start with a sharp lead jab, then drive the rear cross straight through the target. Return both hands to guard before repeating the combination.

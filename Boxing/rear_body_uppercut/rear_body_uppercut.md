@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: intermediate
 subtitle: A rising rear-hand punch to the body.
 target: body
 ---
 
-# Rear Body Uppercut
+## Title
+
+Rear Body Uppercut
+
+## Сложность
+
+Средний
+
+## Описание
 
 Bend the knees and drive the rear fist upward into the solar plexus or upper abdomen. Rotate the rear hip through the punch and return the hand to guard.

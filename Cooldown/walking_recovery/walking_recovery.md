@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.flexibility
 workoutType: cooldown
 valueType: time
+difficulty: basic
 ---
 
-# Walking Recovery
+## Title
+
+Walking Recovery
+
+## Сложность
+
+База
+
+## Описание
 
 Use Walking Recovery to lower your pace and bring your breathing back under control.

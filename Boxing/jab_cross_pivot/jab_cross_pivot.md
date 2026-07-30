@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 subtitle: 1–2–pivot: finish at a new angle.
 sequence: ["jab","cross","pivot_after_cross"]
 ---
 
-# Jab-Cross-Pivot
+## Title
+
+Jab-Cross-Pivot
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Throw the jab and cross, then pivot out after the rear hand returns. Move the feet together and keep your stance under you instead of crossing your legs.

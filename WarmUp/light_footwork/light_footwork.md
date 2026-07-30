@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
+difficulty: basic
 ---
 
-# Light Footwork
+## Title
+
+Light Footwork
+
+## Сложность
+
+База
+
+## Описание
 
 Use Light Footwork to raise your temperature gradually and prepare for focused training.

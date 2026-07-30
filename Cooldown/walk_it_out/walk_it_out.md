@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.flexibility
 workoutType: cooldown
 valueType: time
+difficulty: basic
 ---
 
-# Walk It Out
+## Title
+
+Walk It Out
+
+## Сложность
+
+База
+
+## Описание
 
 Use Walk It Out to lower your pace and bring your breathing back under control.

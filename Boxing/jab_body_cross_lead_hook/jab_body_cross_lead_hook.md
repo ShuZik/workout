@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: advanced
 subtitle: 1–2B–3: head, body, head.
 sequence: ["jab","body_cross","lead_hook"]
 ---
 
-# Jab-Body Cross-Lead Hook
+## Title
+
+Jab-Body Cross-Lead Hook
+
+## Сложность
+
+Продвинутый
+
+## Описание
 
 Use the jab to lift the guard, send the rear cross to the body with a level change, then come back up with the lead hook. Keep your eyes up while changing levels.

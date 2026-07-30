@@ -8,10 +8,19 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: intermediate
 subtitle: A looping lead-hand punch over the guard.
 target: head
 ---
 
-# Lead Overhand
+## Title
+
+Lead Overhand
+
+## Сложность
+
+Средний
+
+## Описание
 
 Transfer your weight as the lead fist travels over the opponent's guard in a descending arc toward the head. Keep the motion controlled and recover quickly to protect against counters.

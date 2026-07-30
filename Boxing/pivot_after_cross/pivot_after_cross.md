@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.boxing
 workoutType: boxing
 valueType: time
+difficulty: intermediate
 ---
 
-# Pivot after Cross
+## Title
+
+Pivot after Cross
+
+## Сложность
+
+Средний
+
+## Описание
 
 Practice Pivot after Cross with controlled movement, a balanced stance, and a clean return to guard.

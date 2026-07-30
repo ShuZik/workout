@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
+difficulty: basic
 ---
 
-# Arm Circles
+## Title
+
+Arm Circles
+
+## Сложность
+
+База
+
+## Описание
 
 Use Arm Circles to raise your temperature gradually and prepare for focused training.

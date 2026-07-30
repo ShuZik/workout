@@ -8,8 +8,17 @@ icon: Icon.png
 symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
+difficulty: basic
 ---
 
-# Jump Rope
+## Title
+
+Jump Rope
+
+## Сложность
+
+База
+
+## Описание
 
 Use Jump Rope to raise your temperature gradually and prepare for focused training.
