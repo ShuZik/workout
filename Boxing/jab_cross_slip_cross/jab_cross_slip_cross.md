@@ -1,0 +1,17 @@
+---
+id: jab_cross_slip_cross
+key: jab_cross_slip_cross
+title: Jab-Cross-Slip-Cross
+description: Throw the jab and cross, slip outside the expected return without bending at the waist, then send the rear cross. Keep the slip small enough to stay ready to punch.
+color: boxing
+icon: Icon.png
+symbol: figure.boxing
+workoutType: boxing
+valueType: time
+subtitle: 1–2–slip–2: punch, defend, return.
+sequence: ["jab","cross","defense_slips","cross"]
+---
+
+# Jab-Cross-Slip-Cross
+
+Throw the jab and cross, slip outside the expected return without bending at the waist, then send the rear cross. Keep the slip small enough to stay ready to punch.
