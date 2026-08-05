@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: advanced
+level: 4
 subtitle: 2–3–2: rear hand, lead hook, rear hand.
 sequence: ["cross","lead_hook","cross"]
 ---
@@ -18,6 +19,10 @@ sequence: ["cross","lead_hook","cross"]
 Cross-Lead Hook-Cross
 
 ## Сложность
+
+Продвинутый
+
+## Уровень
 
 Продвинутый
 

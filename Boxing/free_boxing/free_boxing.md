@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: pro
+level: 0
 ---
 
 ## Title
@@ -18,6 +19,10 @@ Boxing
 ## Сложность
 
 Профи
+
+## Уровень
+
+0
 
 ## Описание
 

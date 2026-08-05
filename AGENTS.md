@@ -19,6 +19,19 @@ Keep the YAML front matter first. Preserve all existing structured fields requir
 - `advanced` — `Продвинутый`
 - `pro` — `Профи`
 
+### Boxing levels
+
+The `level` field is required for every `workoutType: boxing` exercise and must be an integer from `0` to `5`:
+
+- `0` — the single `Boxing` entry (`key: free_boxing`) shown in the untitled first section.
+- `1` — `База`: fundamental punches and the basic jab-cross.
+- `2` — `Новичок`: simple body punches and overhands.
+- `3` — `Уверенный`: short combinations, defense, and simple angle work.
+- `4` — `Продвинутый`: multi-phase combinations, level changes, defense counters, or footwork.
+- `5` — `Профи`: unusually technical work such as the bolo punch.
+
+Non-boxing records omit `level`. The displayed `## Уровень` value must match the front matter `level`.
+
 ### Allowed `valueType` values
 
 `valueType` is a required closed enum for exercises. Use only these machine-readable values:
@@ -43,6 +56,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 ---
 
 ## Title
@@ -53,12 +67,16 @@ Exercise Title
 
 База
 
+## Уровень
+
+1
+
 ## Описание
 
 Short exercise description.
 ```
 
-- `## Title`, `## Сложность`, and `## Описание` are required and must appear in this order.
+- `## Title`, `## Сложность`, `## Уровень`, and `## Описание` are required and must appear in this order.
 - The title in the body must match front matter `title`.
 - The displayed difficulty must match front matter `difficulty` when that field is present.
 - The description in the body must match front matter `description`.
@@ -71,7 +89,7 @@ Short exercise description.
 Before creating or editing a record:
 
 1. Inspect the target tag folder and an existing matching record.
-2. Decide the correct difficulty from the exercise complexity. Use `basic` for fundamentals, `intermediate` for added body work or short combinations, `advanced` for multi-phase combinations, defense, or footwork, and `pro` for freestyle or unusually technical work.
+2. Decide the correct difficulty and, for boxing records, the correct level from the exercise complexity using the definitions above.
 3. Keep the Markdown file, `Icon.png`, front matter, body sections, and `manifest.json` in sync.
 4. Validate that every tag folder contains the required Markdown/icon pair and every Markdown file follows the shared section order.
 5. Make only the requested catalog change; do not perform unrelated cleanup or app changes.

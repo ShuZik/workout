@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 3
 subtitle: 3–2: turn the lead hook into the rear cross.
 sequence: ["lead_hook","cross"]
 ---
@@ -20,6 +21,10 @@ Lead Hook-Cross
 ## Сложность
 
 Средний
+
+## Уровень
+
+Уверенный
 
 ## Описание
 

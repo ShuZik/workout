@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: advanced
+level: 4
 subtitle: 1–2–slip–2: punch, defend, return.
 sequence: ["jab","cross","defense_slips","cross"]
 ---
@@ -18,6 +19,10 @@ sequence: ["jab","cross","defense_slips","cross"]
 Jab-Cross-Slip-Cross
 
 ## Сложность
+
+Продвинутый
+
+## Уровень
 
 Продвинутый
 

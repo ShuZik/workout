@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 subtitle: 1–2: lead jab followed by the rear cross.
 sequence: ["jab","cross"]
 ---
@@ -18,6 +19,10 @@ sequence: ["jab","cross"]
 Jab-Cross
 
 ## Сложность
+
+База
+
+## Уровень
 
 База
 

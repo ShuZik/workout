@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 subtitle: A semi-circular lead-hand punch to the head.
 target: head
 ---
@@ -18,6 +19,10 @@ target: head
 Lead Hook
 
 ## Сложность
+
+База
+
+## Уровень
 
 База
 

@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 3
 subtitle: 1–2–1: finish behind the lead hand.
 sequence: ["jab","cross","jab"]
 ---
@@ -20,6 +21,10 @@ Jab-Cross-Jab
 ## Сложность
 
 Средний
+
+## Уровень
+
+Уверенный
 
 ## Описание
 

@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 subtitle: A quick, straight punch with the lead hand.
 target: head
 durationSeconds: 180
@@ -19,6 +20,10 @@ durationSeconds: 180
 Jab
 
 ## Сложность
+
+База
+
+## Уровень
 
 База
 

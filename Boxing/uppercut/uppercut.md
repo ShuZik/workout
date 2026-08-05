@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 subtitle: A rising punch that travels upward from below.
 ---
 
@@ -17,6 +18,10 @@ subtitle: A rising punch that travels upward from below.
 Uppercut
 
 ## Сложность
+
+База
+
+## Уровень
 
 База
 

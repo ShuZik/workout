@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: advanced
+level: 4
 subtitle: 1–2–5–2: change level and finish straight.
 sequence: ["jab","cross","lead_uppercut","cross"]
 ---
@@ -18,6 +19,10 @@ sequence: ["jab","cross","lead_uppercut","cross"]
 Jab-Cross-Lead Uppercut-Cross
 
 ## Сложность
+
+Продвинутый
+
+## Уровень
 
 Продвинутый
 

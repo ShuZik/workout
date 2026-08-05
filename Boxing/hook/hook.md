@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 subtitle: A short, semi-circular punch to the head.
 ---
 
@@ -17,6 +18,10 @@ subtitle: A short, semi-circular punch to the head.
 Hook
 
 ## Сложность
+
+База
+
+## Уровень
 
 База
 

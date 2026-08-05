@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 2
 subtitle: A looping lead-hand punch over the guard.
 target: head
 ---
@@ -20,6 +21,10 @@ Lead Overhand
 ## Сложность
 
 Средний
+
+## Уровень
+
+Новичок
 
 ## Описание
 

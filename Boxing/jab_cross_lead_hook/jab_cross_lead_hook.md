@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 3
 subtitle: 1–2–3: the classic three-punch combination.
 sequence: ["jab","cross","lead_hook"]
 ---
@@ -20,6 +21,10 @@ Jab-Cross-Lead Hook
 ## Сложность
 
 Средний
+
+## Уровень
+
+Уверенный
 
 ## Описание
 

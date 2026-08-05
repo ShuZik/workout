@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 3
 subtitle: 1–1–2: two lead jabs followed by the rear cross.
 sequence: ["jab","jab","cross"]
 ---
@@ -20,6 +21,10 @@ Double Jab-Cross
 ## Сложность
 
 Средний
+
+## Уровень
+
+Уверенный
 
 ## Описание
 

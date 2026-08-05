@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 2
 subtitle: A looping power punch thrown over the guard.
 ---
 
@@ -19,6 +20,10 @@ Overhand
 ## Сложность
 
 Средний
+
+## Уровень
+
+Новичок
 
 ## Описание
 

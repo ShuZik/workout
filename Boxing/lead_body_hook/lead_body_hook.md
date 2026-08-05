@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 2
 subtitle: A curved punch to the side of the body.
 target: body
 ---
@@ -20,6 +21,10 @@ Lead Body Hook
 ## Сложность
 
 Средний
+
+## Уровень
+
+Новичок
 
 ## Описание
 

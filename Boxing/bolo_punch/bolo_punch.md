@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: pro
+level: 5
 ---
 
 ## Title
@@ -16,6 +17,10 @@ difficulty: pro
 Bolo Punch
 
 ## Сложность
+
+Профи
+
+## Уровень
 
 Профи
 

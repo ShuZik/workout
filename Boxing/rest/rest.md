@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 ---
 
 ## Title
@@ -16,6 +17,10 @@ difficulty: basic
 Rest
 
 ## Сложность
+
+База
+
+## Уровень
 
 База
 

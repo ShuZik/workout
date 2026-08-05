@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 3
 ---
 
 ## Title
@@ -18,6 +19,10 @@ Pivot after Cross
 ## Сложность
 
 Средний
+
+## Уровень
+
+Уверенный
 
 ## Описание
 

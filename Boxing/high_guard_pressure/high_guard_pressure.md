@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: advanced
+level: 4
 ---
 
 ## Title
@@ -16,6 +17,10 @@ difficulty: advanced
 High Guard Pressure
 
 ## Сложность
+
+Продвинутый
+
+## Уровень
 
 Продвинутый
 

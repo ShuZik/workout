@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: advanced
+level: 4
 subtitle: 1–2–pivot: finish at a new angle.
 sequence: ["jab","cross","pivot_after_cross"]
 ---
@@ -18,6 +19,10 @@ sequence: ["jab","cross","pivot_after_cross"]
 Jab-Cross-Pivot
 
 ## Сложность
+
+Продвинутый
+
+## Уровень
 
 Продвинутый
 

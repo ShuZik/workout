@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 3
 subtitle: 1–3–2: change the line before the rear hand.
 sequence: ["jab","lead_hook","cross"]
 ---
@@ -20,6 +21,10 @@ Jab-Lead Hook-Cross
 ## Сложность
 
 Средний
+
+## Уровень
+
+Уверенный
 
 ## Описание
 

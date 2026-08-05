@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: basic
+level: 1
 subtitle: A powerful straight punch with the rear hand.
 target: head
 ---
@@ -18,6 +19,10 @@ target: head
 Cross
 
 ## Сложность
+
+База
+
+## Уровень
 
 База
 

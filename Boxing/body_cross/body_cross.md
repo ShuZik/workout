@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: intermediate
+level: 2
 subtitle: A straight rear-hand punch to the body.
 target: body
 ---
@@ -20,6 +21,10 @@ Body Cross
 ## Сложность
 
 Средний
+
+## Уровень
+
+Новичок
 
 ## Описание
 

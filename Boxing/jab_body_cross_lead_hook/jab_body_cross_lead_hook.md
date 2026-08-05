@@ -9,6 +9,7 @@ symbol: figure.boxing
 workoutType: boxing
 valueType: time
 difficulty: advanced
+level: 4
 subtitle: 1–2B–3: head, body, head.
 sequence: ["jab","body_cross","lead_hook"]
 ---
@@ -18,6 +19,10 @@ sequence: ["jab","body_cross","lead_hook"]
 Jab-Body Cross-Lead Hook
 
 ## Сложность
+
+Продвинутый
+
+## Уровень
 
 Продвинутый
 
