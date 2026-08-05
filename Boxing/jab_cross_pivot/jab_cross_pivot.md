@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: advanced
 level: 4
+section: 4 Advanced
 subtitle: 1–2–pivot: finish at a new angle.
 sequence: ["jab","cross","pivot_after_cross"]
 ---
@@ -25,6 +26,10 @@ Jab-Cross-Pivot
 ## Уровень
 
 Продвинутый
+
+## Секция
+
+4 Advanced
 
 ## Описание
 

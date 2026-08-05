@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: basic
 level: 1
+section: 1 Base
 subtitle: A rising punch that travels upward from below.
 ---
 
@@ -24,6 +25,10 @@ Uppercut
 ## Уровень
 
 База
+
+## Секция
+
+1 Base
 
 ## Описание
 

@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: intermediate
 level: 3
+section: 3 Intermediate
 subtitle: 1–3–2: change the line before the rear hand.
 sequence: ["jab","lead_hook","cross"]
 ---
@@ -25,6 +26,10 @@ Jab-Lead Hook-Cross
 ## Уровень
 
 Уверенный
+
+## Секция
+
+3 Intermediate
 
 ## Описание
 

@@ -9,6 +9,7 @@ symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
 difficulty: basic
+section: 2 Activation
 durationSeconds: 30
 ---
 
@@ -19,6 +20,10 @@ Breathing Reset
 ## Сложность
 
 База
+
+## Секция
+
+2 Activation
 
 ## Описание
 

@@ -9,6 +9,7 @@ symbol: figure.flexibility
 workoutType: cooldown
 valueType: time
 difficulty: basic
+section: 1 Breathing
 ---
 
 ## Title
@@ -18,6 +19,10 @@ Box Breathing
 ## Сложность
 
 База
+
+## Секция
+
+1 Breathing
 
 ## Описание
 

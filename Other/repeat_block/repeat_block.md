@@ -9,6 +9,7 @@ symbol: repeat
 workoutType: other
 valueType: repeatCount
 difficulty: basic
+section: 2 Structure
 repeatCount: 1
 ---
 
@@ -19,6 +20,10 @@ Repeat
 ## Сложность
 
 База
+
+## Секция
+
+2 Structure
 
 ## Описание
 

@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: advanced
 level: 4
+section: 4 Advanced
 subtitle: 1–2–3B: finish to the body.
 sequence: ["jab","cross","lead_body_hook"]
 ---
@@ -25,6 +26,10 @@ Jab-Cross-Body Hook
 ## Уровень
 
 Продвинутый
+
+## Секция
+
+4 Advanced
 
 ## Описание
 

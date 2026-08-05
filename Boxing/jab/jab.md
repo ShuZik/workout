@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: basic
 level: 1
+section: 1 Base
 subtitle: A quick, straight punch with the lead hand.
 target: head
 durationSeconds: 180
@@ -26,6 +27,10 @@ Jab
 ## Уровень
 
 База
+
+## Секция
+
+1 Base
 
 ## Описание
 

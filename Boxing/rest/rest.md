@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: basic
 level: 1
+section: 1 Base
 ---
 
 ## Title
@@ -23,6 +24,10 @@ Rest
 ## Уровень
 
 База
+
+## Секция
+
+1 Base
 
 ## Описание
 

@@ -9,6 +9,7 @@ symbol: pause.fill
 workoutType: other
 valueType: time
 difficulty: basic
+section: 1 Rest
 durationSeconds: 30
 actions: ["number","choose"]
 ---
@@ -20,6 +21,10 @@ Rest
 ## Сложность
 
 База
+
+## Секция
+
+1 Rest
 
 ## Описание
 

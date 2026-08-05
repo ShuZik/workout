@@ -9,6 +9,7 @@ symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
 difficulty: basic
+section: 1 Mobility
 ---
 
 ## Title
@@ -18,6 +19,10 @@ Dynamic Stretching
 ## Сложность
 
 База
+
+## Секция
+
+1 Mobility
 
 ## Описание
 

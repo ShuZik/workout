@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: basic
 level: 1
+section: 1 Base
 subtitle: A short, semi-circular punch to the head.
 ---
 
@@ -24,6 +25,10 @@ Hook
 ## Уровень
 
 База
+
+## Секция
+
+1 Base
 
 ## Описание
 

@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: pro
 level: 0
+section: 0 Boxing
 ---
 
 ## Title
@@ -23,6 +24,10 @@ Boxing
 ## Уровень
 
 0
+
+## Секция
+
+0 Boxing
 
 ## Описание
 

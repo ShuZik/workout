@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: pro
 level: 5
+section: 5 Pro
 ---
 
 ## Title
@@ -23,6 +24,10 @@ Bolo Punch
 ## Уровень
 
 Профи
+
+## Секция
+
+5 Pro
 
 ## Описание
 

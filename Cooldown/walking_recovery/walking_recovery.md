@@ -9,6 +9,7 @@ symbol: figure.flexibility
 workoutType: cooldown
 valueType: time
 difficulty: basic
+section: 2 Walking
 ---
 
 ## Title
@@ -18,6 +19,10 @@ Walking Recovery
 ## Сложность
 
 База
+
+## Секция
+
+2 Walking
 
 ## Описание
 

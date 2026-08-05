@@ -19,6 +19,20 @@ Keep the YAML front matter first. Preserve all existing structured fields requir
 - `advanced` — `Продвинутый`
 - `pro` — `Профи`
 
+### Named sections
+
+The `section` field is required for every exercise. It is an ordered label in
+the format `N Name` or `N Two Word Name`:
+
+- `N` is a non-negative integer used only for sorting;
+- the label is one or two words shown as the section title in the app;
+- the app removes the numeric prefix before displaying the title;
+- `0 Boxing` is reserved for the single `free_boxing` entry shown in the
+  untitled first section; all other sections start at `1`.
+
+Use the same section value in the Markdown body under `## Секция`. Do not add
+extra section fields or invent a second grouping scheme.
+
 ### Boxing levels
 
 The `level` field is required for every `workoutType: boxing` exercise and must be an integer from `0` to `5`:
@@ -57,6 +71,7 @@ workoutType: boxing
 valueType: time
 difficulty: basic
 level: 1
+section: 1 Base
 ---
 
 ## Title
@@ -71,14 +86,19 @@ Exercise Title
 
 1
 
+## Секция
+
+1 Base
+
 ## Описание
 
 Short exercise description.
 ```
 
-- `## Title`, `## Сложность`, `## Уровень`, and `## Описание` are required and must appear in this order.
+- `## Title`, `## Сложность`, `## Секция`, and `## Описание` are required and must appear in this order. Boxing records keep `## Уровень` between `## Сложность` and `## Секция`.
 - The title in the body must match front matter `title`.
 - The displayed difficulty must match front matter `difficulty` when that field is present.
+- The displayed section must match front matter `section`.
 - The description in the body must match front matter `description`.
 - Do not keep a duplicate `# Title` heading.
 - Keep one blank line between headings and their values and between sections.

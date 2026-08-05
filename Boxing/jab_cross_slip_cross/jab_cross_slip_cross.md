@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: advanced
 level: 4
+section: 4 Advanced
 subtitle: 1–2–slip–2: punch, defend, return.
 sequence: ["jab","cross","defense_slips","cross"]
 ---
@@ -25,6 +26,10 @@ Jab-Cross-Slip-Cross
 ## Уровень
 
 Продвинутый
+
+## Секция
+
+4 Advanced
 
 ## Описание
 

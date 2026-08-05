@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: intermediate
 level: 3
+section: 3 Intermediate
 subtitle: 1–2–1: finish behind the lead hand.
 sequence: ["jab","cross","jab"]
 ---
@@ -25,6 +26,10 @@ Jab-Cross-Jab
 ## Уровень
 
 Уверенный
+
+## Секция
+
+3 Intermediate
 
 ## Описание
 

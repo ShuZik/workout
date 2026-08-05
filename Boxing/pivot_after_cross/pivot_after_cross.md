@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: intermediate
 level: 3
+section: 3 Intermediate
 ---
 
 ## Title
@@ -23,6 +24,10 @@ Pivot after Cross
 ## Уровень
 
 Уверенный
+
+## Секция
+
+3 Intermediate
 
 ## Описание
 

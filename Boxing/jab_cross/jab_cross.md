@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: basic
 level: 1
+section: 1 Base
 subtitle: 1–2: lead jab followed by the rear cross.
 sequence: ["jab","cross"]
 ---
@@ -25,6 +26,10 @@ Jab-Cross
 ## Уровень
 
 База
+
+## Секция
+
+1 Base
 
 ## Описание
 

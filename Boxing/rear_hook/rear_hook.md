@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: basic
 level: 1
+section: 1 Base
 subtitle: A semi-circular rear-hand punch to the head.
 target: head
 ---
@@ -25,6 +26,10 @@ Rear Hook
 ## Уровень
 
 База
+
+## Секция
+
+1 Base
 
 ## Описание
 

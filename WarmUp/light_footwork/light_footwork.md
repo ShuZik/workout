@@ -9,6 +9,7 @@ symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
 difficulty: basic
+section: 3 Cardio
 ---
 
 ## Title
@@ -18,6 +19,10 @@ Light Footwork
 ## Сложность
 
 База
+
+## Секция
+
+3 Cardio
 
 ## Описание
 

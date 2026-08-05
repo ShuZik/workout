@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: intermediate
 level: 2
+section: 2 Beginner
 subtitle: A looping power punch thrown over the guard.
 ---
 
@@ -24,6 +25,10 @@ Overhand
 ## Уровень
 
 Новичок
+
+## Секция
+
+2 Beginner
 
 ## Описание
 

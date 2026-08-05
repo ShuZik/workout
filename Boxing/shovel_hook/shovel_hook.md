@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: advanced
 level: 4
+section: 4 Advanced
 ---
 
 ## Title
@@ -23,6 +24,10 @@ Shovel Hook
 ## Уровень
 
 Продвинутый
+
+## Секция
+
+4 Advanced
 
 ## Описание
 

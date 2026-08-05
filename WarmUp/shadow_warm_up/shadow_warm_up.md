@@ -9,6 +9,7 @@ symbol: figure.jumprope
 workoutType: warmUp
 valueType: time
 difficulty: basic
+section: 4 Shadowboxing
 ---
 
 ## Title
@@ -18,6 +19,10 @@ Shadow Warm-up
 ## Сложность
 
 База
+
+## Секция
+
+4 Shadowboxing
 
 ## Описание
 

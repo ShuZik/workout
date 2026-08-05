@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: advanced
 level: 4
+section: 4 Advanced
 subtitle: 1–2–5–2: change level and finish straight.
 sequence: ["jab","cross","lead_uppercut","cross"]
 ---
@@ -25,6 +26,10 @@ Jab-Cross-Lead Uppercut-Cross
 ## Уровень
 
 Продвинутый
+
+## Секция
+
+4 Advanced
 
 ## Описание
 

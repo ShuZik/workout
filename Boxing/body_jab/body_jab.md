@@ -10,6 +10,7 @@ workoutType: boxing
 valueType: time
 difficulty: intermediate
 level: 2
+section: 2 Beginner
 subtitle: A straight lead-hand punch to the body.
 target: body
 ---
@@ -25,6 +26,10 @@ Body Jab
 ## Уровень
 
 Новичок
+
+## Секция
+
+2 Beginner
 
 ## Описание
 
