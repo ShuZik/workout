@@ -1,11 +1,8 @@
 ---
-id: cross_lead_hook_cross
 key: cross_lead_hook_cross
 title: Cross-Lead Hook-Cross
 description: Start with the rear cross, turn into the lead hook, then recover and fire the rear cross again. Stay balanced so the last punch does not pull you forward.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: advanced
@@ -25,7 +22,7 @@ Cross-Lead Hook-Cross
 
 ## Уровень
 
-Продвинутый
+4
 
 ## Секция
 

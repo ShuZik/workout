@@ -1,11 +1,8 @@
 ---
-id: walking_recovery
 key: walking_recovery
 title: Walking Recovery
 description: Use Walking Recovery to lower your pace and bring your breathing back under control.
-color: coolDown
-icon: Icon.png
-symbol: figure.flexibility
+color: "#3A86FF"
 workoutType: cooldown
 valueType: time
 difficulty: basic

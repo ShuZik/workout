@@ -1,11 +1,8 @@
 ---
-id: bolo_punch
 key: bolo_punch
 title: Bolo Punch
 description: Practice Bolo Punch with controlled movement, a balanced stance, and a clean return to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: pro
@@ -23,7 +20,7 @@ Bolo Punch
 
 ## Уровень
 
-Профи
+5
 
 ## Секция
 

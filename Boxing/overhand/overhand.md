@@ -1,11 +1,8 @@
 ---
-id: overhand
 key: overhand
 title: Overhand
 description: Drive from the rear leg and transfer your weight as the fist travels over the opponent's guard in a descending arc toward the head. Recover quickly because the motion can open the guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: intermediate
@@ -24,7 +21,7 @@ Overhand
 
 ## Уровень
 
-Новичок
+2
 
 ## Секция
 

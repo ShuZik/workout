@@ -1,11 +1,8 @@
 ---
-id: free_boxing
 key: free_boxing
 title: Boxing
 description: Practice Boxing with controlled movement, a balanced stance, and a clean return to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: pro

@@ -4,11 +4,15 @@ These rules apply to every exercise record in this repository.
 
 ## Catalog structure
 
-- A top-level folder is a workout tag: `Boxing`, `WarmUp`, `Cooldown`, or `Other`.
+- A top-level folder is a workout tag: `Boxing`, `JuniorBoxing`, `AmateurBoxing`, `ProBoxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`, `Taekwondo`, `WarmUp`, `Cooldown`, or `Other`.
 - Every exercise has its own folder inside exactly one tag folder.
 - Every exercise folder must contain the matching Markdown file and `Icon.png`.
 - The Markdown filename and folder name use the same `snake_case` slug.
 - `manifest.json` must contain one Markdown/icon pair for every exercise folder.
+- `icon-registry.json` records the exact SF Symbol used to create each `Icon.png`.
+- `key` is the required stable catalog identifier and must match the exercise
+  slug. Do not add an `id` field to Markdown; the app derives its technical
+  `Identifiable` id from `key`.
 
 ## Markdown file format
 
@@ -46,6 +50,85 @@ The `level` field is required for every `workoutType: boxing` exercise and must 
 
 Non-boxing records omit `level`. The displayed `## Уровень` value must match the front matter `level`.
 
+### Named combat-style tags
+
+Each named combat style is its own top-level tag and currently contains exactly
+one timed starter record. The tag and `workoutType` pairs are:
+
+- `JuniorBoxing` / `juniorBoxing` — `Junior Boxing`
+- `AmateurBoxing` / `amateurBoxing` — `Amateur Boxing`
+- `ProBoxing` / `proBoxing` — `Pro Boxing`
+- `MuayThai` / `muayThai` — `Muay Thai`
+- `KickBoxing` / `kickBoxing` — `Kick Boxing`
+- `MMA` / `mma` — `MMA`
+- `UFC` / `ufc` — `UFC`
+- `BJJ` / `bjj` — `BJJ`
+- `Wrestling` / `wrestling` — `Wrestling`
+- `Taekwondo` / `taekwondo` — `Taekwondo`
+
+Use `valueType: time` and `section: 1 Styles` for these starter records. Omit
+`level` and do not add `repeatCount`, `countAndWeight`, or technique-specific
+fields.
+
+### Visual identity and SF Symbols
+
+The catalog has two visual layers. Keep them separate and keep both layers
+stable:
+
+1. Every top-level tag/group (`Boxing`, `JuniorBoxing`, `AmateurBoxing`,
+   `ProBoxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
+   `Taekwondo`, `WarmUp`, `Cooldown`, and `Other`) must have its own unique
+   group icon and its own unique group color in the app. The group identity is
+   represented by the matching `WorkoutType` and `ShortcutFilter`; do not
+   create a fake `MartialArts` container or add an unapproved Markdown field.
+2. Every exercise must have its own exercise icon. The required `Icon.png` is
+   the asset downloaded into the catalog; `icon-registry.json` is the only
+   source of its SF Symbol provenance. Do not add a `symbol` or `icon` field
+   to Markdown and do not copy one placeholder icon into multiple unrelated
+   exercises or groups. The app may keep an internal fallback symbol for
+   bundled presets, but that fallback is not catalog metadata.
+3. Select symbols only from Apple SF Symbols using the SF Symbols app:
+   [SF Symbols](plugin://computer-use@openai-bundled?app=com.apple.SFSymbols).
+   Search the app, choose an existing symbol that describes the group or
+   exercise, and use its exact name. Never invent a symbol name, use emoji, or
+   generate a replacement image when a suitable SF Symbol exists.
+4. Export or render the selected symbol as `Icon.png` with a transparent
+   background and keep the file in the exercise folder. `manifest.json` and
+   the app catalog parser must refer to that same downloaded asset; the
+   Markdown file does not repeat the asset path.
+5. The Markdown `color` field is a required six-digit hex color in the exact
+   format `#RRGGBB` (for example `#E63946`). Never write symbolic tokens such
+   as `boxing`, `warmUp`, `round`, or `coolDown`, localized names, or arbitrary
+   color formats. A group color must not be silently reused for another group.
+   The app parser must validate the hex format and render the same value.
+6. Before adding or editing a record, check `icon-registry.json` and the
+   existing catalog. Reject duplicate group icon/color pairs, duplicate
+   exercise symbols, missing `Icon.png`, and mismatches between the registry
+   and the exported image. If no distinct suitable SF Symbol exists, stop and
+   ask instead of reusing a placeholder.
+
+The current group-color registry is:
+
+| Top-level tag | Required `color` |
+| --- | --- |
+| `Boxing` | `#E63946` |
+| `JuniorBoxing` | `#F4A261` |
+| `AmateurBoxing` | `#E9C46A` |
+| `ProBoxing` | `#9B2226` |
+| `MuayThai` | `#F77F00` |
+| `KickBoxing` | `#D62828` |
+| `MMA` | `#6A4C93` |
+| `UFC` | `#1D3557` |
+| `BJJ` | `#457B9D` |
+| `Wrestling` | `#2A9D8F` |
+| `Taekwondo` | `#2E7D32` |
+| `WarmUp` | `#F4B400` |
+| `Cooldown` | `#3A86FF` |
+| `Other` | `#6C757D` |
+
+Do not change an existing group color or assign the same hex to another group
+without updating this registry and the app's group presentation together.
+
 ### Allowed `valueType` values
 
 `valueType` is a required closed enum for exercises. Use only these machine-readable values:
@@ -60,13 +143,10 @@ The Markdown body must use this order and these headings:
 
 ```markdown
 ---
-id: exercise_slug
 key: exercise_slug
 title: Exercise Title
 description: Short exercise description.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: basic
@@ -108,8 +188,8 @@ Short exercise description.
 
 Before creating or editing a record:
 
-1. Inspect the target tag folder and an existing matching record.
+1. Inspect the target tag folder, `icon-registry.json`, and an existing matching record.
 2. Decide the correct difficulty and, for boxing records, the correct level from the exercise complexity using the definitions above.
-3. Keep the Markdown file, `Icon.png`, front matter, body sections, and `manifest.json` in sync.
+3. Keep the Markdown file, `Icon.png`, front matter, body sections, `manifest.json`, and `icon-registry.json` in sync.
 4. Validate that every tag folder contains the required Markdown/icon pair and every Markdown file follows the shared section order.
 5. Make only the requested catalog change; do not perform unrelated cleanup or app changes.

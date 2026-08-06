@@ -1,11 +1,8 @@
 ---
-id: jab_cross
 key: jab_cross
 title: Jab-Cross
 description: Start with a sharp lead jab, then drive the rear cross straight through the target. Return both hands to guard before repeating the combination.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: basic
@@ -25,7 +22,7 @@ Jab-Cross
 
 ## Уровень
 
-База
+1
 
 ## Секция
 

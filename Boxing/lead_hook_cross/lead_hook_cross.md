@@ -1,11 +1,8 @@
 ---
-id: lead_hook_cross
 key: lead_hook_cross
 title: Lead Hook-Cross
 description: Rotate through the lead hook, bring the hand back to guard, then drive the rear cross. Keep your head protected as your weight transfers between sides.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: intermediate
@@ -25,7 +22,7 @@ Lead Hook-Cross
 
 ## Уровень
 
-Уверенный
+3
 
 ## Секция
 

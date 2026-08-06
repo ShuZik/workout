@@ -1,11 +1,8 @@
 ---
-id: rest
 key: rest
 title: Rest
 description: Practice Rest with controlled movement, a balanced stance, and a clean return to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: basic
@@ -23,7 +20,7 @@ Rest
 
 ## Уровень
 
-База
+1
 
 ## Секция
 

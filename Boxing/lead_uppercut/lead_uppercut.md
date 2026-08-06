@@ -1,11 +1,8 @@
 ---
-id: lead_uppercut
 key: lead_uppercut
 title: Lead Uppercut
 description: Lower your level by bending the knees, then drive upward from the lead leg as the lead fist rises toward the chin. Keep the punch compact and recover immediately.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: basic
@@ -25,7 +22,7 @@ Lead Uppercut
 
 ## Уровень
 
-База
+1
 
 ## Секция
 

@@ -1,11 +1,8 @@
 ---
-id: jab_cross_body_hook
 key: jab_cross_body_hook
 title: Jab-Cross-Body Hook
 description: Throw the jab and cross to bring the guard high, then change level and turn the lead body hook into the ribs. Keep the opposite hand protecting your head.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: advanced
@@ -25,7 +22,7 @@ Jab-Cross-Body Hook
 
 ## Уровень
 
-Продвинутый
+4
 
 ## Секция
 

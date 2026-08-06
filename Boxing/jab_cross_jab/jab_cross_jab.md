@@ -1,11 +1,8 @@
 ---
-id: jab_cross_jab
 key: jab_cross_jab
 title: Jab-Cross-Jab
 description: Throw the jab and cross with clean recovery, then send the lead jab again as you exit. The final jab protects the retreat and resets your range.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: intermediate
@@ -25,7 +22,7 @@ Jab-Cross-Jab
 
 ## Уровень
 
-Уверенный
+3
 
 ## Секция
 

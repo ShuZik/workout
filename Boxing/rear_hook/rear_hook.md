@@ -1,11 +1,8 @@
 ---
-id: rear_hook
 key: rear_hook
 title: Rear Hook
 description: Rotate the hips and torso toward the target while the bent rear arm travels in a tight arc. Turn the rear foot with the rotation and recover the hand to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: basic
@@ -25,7 +22,7 @@ Rear Hook
 
 ## Уровень
 
-База
+1
 
 ## Секция
 

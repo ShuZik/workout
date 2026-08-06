@@ -1,11 +1,8 @@
 ---
-id: lead_hook
 key: lead_hook
 title: Lead Hook
 description: Keep the elbow bent and rotate the hips and torso as the lead fist travels across a short horizontal arc. Pivot the lead foot, keep the rear hand at the cheek, and return to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: basic
@@ -25,7 +22,7 @@ Lead Hook
 
 ## Уровень
 
-База
+1
 
 ## Секция
 

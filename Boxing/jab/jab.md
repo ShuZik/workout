@@ -1,11 +1,8 @@
 ---
-id: jab
 key: jab
 title: Jab
 description: From the guard, drive the lead hand straight to the head. Keep the rear hand at the cheek, raise the lead shoulder to protect the chin, and return the fist immediately to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: basic
@@ -26,7 +23,7 @@ Jab
 
 ## Уровень
 
-База
+1
 
 ## Секция
 

@@ -1,11 +1,8 @@
 ---
-id: defense_slips
 key: defense_slips
 title: Defense Slips
 description: Practice Defense Slips with controlled movement, a balanced stance, and a clean return to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: intermediate
@@ -23,7 +20,7 @@ Defense Slips
 
 ## Уровень
 
-Уверенный
+3
 
 ## Секция
 

@@ -1,11 +1,8 @@
 ---
-id: jab_cross_lead_uppercut_cross
 key: jab_cross_lead_uppercut_cross
 title: Jab-Cross-Lead Uppercut-Cross
 description: Start high with the jab and cross, bend the knees for a compact lead uppercut, then rise into the rear cross. Change level with your legs instead of folding at the waist.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: advanced
@@ -25,7 +22,7 @@ Jab-Cross-Lead Uppercut-Cross
 
 ## Уровень
 
-Продвинутый
+4
 
 ## Секция
 

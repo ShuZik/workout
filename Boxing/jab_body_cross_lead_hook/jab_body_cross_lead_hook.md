@@ -1,11 +1,8 @@
 ---
-id: jab_body_cross_lead_hook
 key: jab_body_cross_lead_hook
 title: Jab-Body Cross-Lead Hook
 description: Use the jab to lift the guard, send the rear cross to the body with a level change, then come back up with the lead hook. Keep your eyes up while changing levels.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: advanced
@@ -25,7 +22,7 @@ Jab-Body Cross-Lead Hook
 
 ## Уровень
 
-Продвинутый
+4
 
 ## Секция
 

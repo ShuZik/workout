@@ -1,11 +1,8 @@
 ---
-id: pivot_after_cross
 key: pivot_after_cross
 title: Pivot after Cross
 description: Practice Pivot after Cross with controlled movement, a balanced stance, and a clean return to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: intermediate
@@ -23,7 +20,7 @@ Pivot after Cross
 
 ## Уровень
 
-Уверенный
+3
 
 ## Секция
 

@@ -1,11 +1,8 @@
 ---
-id: arm_circles
 key: arm_circles
 title: Arm Circles
 description: Use Arm Circles to raise your temperature gradually and prepare for focused training.
-color: warmUp
-icon: Icon.png
-symbol: figure.jumprope
+color: "#F4B400"
 workoutType: warmUp
 valueType: time
 difficulty: basic

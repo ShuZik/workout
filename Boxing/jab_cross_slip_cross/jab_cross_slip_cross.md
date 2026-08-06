@@ -1,11 +1,8 @@
 ---
-id: jab_cross_slip_cross
 key: jab_cross_slip_cross
 title: Jab-Cross-Slip-Cross
 description: Throw the jab and cross, slip outside the expected return without bending at the waist, then send the rear cross. Keep the slip small enough to stay ready to punch.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: advanced
@@ -25,7 +22,7 @@ Jab-Cross-Slip-Cross
 
 ## Уровень
 
-Продвинутый
+4
 
 ## Секция
 

@@ -1,11 +1,8 @@
 ---
-id: high_guard_pressure
 key: high_guard_pressure
 title: High Guard Pressure
 description: Practice High Guard Pressure with controlled movement, a balanced stance, and a clean return to guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: advanced
@@ -23,7 +20,7 @@ High Guard Pressure
 
 ## Уровень
 
-Продвинутый
+4
 
 ## Секция
 

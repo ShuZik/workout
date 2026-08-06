@@ -1,11 +1,8 @@
 ---
-id: double_jab_cross
 key: double_jab_cross
 title: Double Jab-Cross
 description: Use the first jab to find range, step or settle with the second jab, then finish with a straight rear cross. Keep the non-punching hand at the guard.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: intermediate
@@ -25,7 +22,7 @@ Double Jab-Cross
 
 ## Уровень
 
-Уверенный
+3
 
 ## Секция
 

@@ -1,11 +1,8 @@
 ---
-id: jab_cross_lead_hook
 key: jab_cross_lead_hook
 title: Jab-Cross-Lead Hook
 description: Establish the line with the jab, turn the rear cross through the target, then rotate into a compact lead hook. Return to guard after the hook.
-color: boxing
-icon: Icon.png
-symbol: figure.boxing
+color: "#E63946"
 workoutType: boxing
 valueType: time
 difficulty: intermediate
@@ -25,7 +22,7 @@ Jab-Cross-Lead Hook
 
 ## Уровень
 
-Уверенный
+3
 
 ## Секция
 
