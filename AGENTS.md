@@ -5,10 +5,11 @@ These rules apply to every exercise record in this repository.
 ## Catalog structure
 
 - A top-level folder is a workout tag: `Boxing`, `JuniorBoxing`, `AmateurBoxing`, `ProBoxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`, `Taekwondo`, `WarmUp`, `Cooldown`, or `Other`.
+- Every top-level tag folder contains its group `Icon.png`.
 - Every exercise has its own folder inside exactly one tag folder.
 - Every exercise folder must contain the matching Markdown file and `Icon.png`.
 - The Markdown filename and folder name use the same `snake_case` slug.
-- `manifest.json` must contain one Markdown/icon pair for every exercise folder.
+- `manifest.json` must contain one tag record and one Markdown/icon pair for every exercise folder.
 - `icon-registry.json` records the exact SF Symbol used to create each `Icon.png`.
 - `key` is the required stable catalog identifier and must match the exercise
   slug. Do not add an `id` field to Markdown; the app derives its technical
@@ -79,8 +80,10 @@ stable:
    `ProBoxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
    `Taekwondo`, `WarmUp`, `Cooldown`, and `Other`) must have its own unique
    group icon and its own unique group color in the app. The group identity is
-   represented by the matching `WorkoutType` and `ShortcutFilter`; do not
-   create a fake `MartialArts` container or add an unapproved Markdown field.
+   is defined in the `tags` array of `manifest.json` and represented by the
+   matching `WorkoutType`. Its root `Icon.png`, title, SF Symbol name, and
+   hex color are downloaded together with the exercise catalog. Do not create
+   a fake `MartialArts` container or add an unapproved Markdown field.
 2. Every exercise must have its own exercise icon. The required `Icon.png` is
    the asset downloaded into the catalog; `icon-registry.json` is the only
    source of its SF Symbol provenance. Do not add a `symbol` or `icon` field
@@ -93,9 +96,10 @@ stable:
    exercise, and use its exact name. Never invent a symbol name, use emoji, or
    generate a replacement image when a suitable SF Symbol exists.
 4. Export or render the selected symbol as `Icon.png` with a transparent
-   background and keep the file in the exercise folder. `manifest.json` and
-   the app catalog parser must refer to that same downloaded asset; the
-   Markdown file does not repeat the asset path.
+   background and keep the group asset in its tag folder or the exercise asset
+   in its exercise folder. `manifest.json` and the app catalog parser must
+   refer to that same downloaded asset; the Markdown file does not repeat the
+   asset path.
 5. The Markdown `color` field is a required six-digit hex color in the exact
    format `#RRGGBB` (for example `#E63946`). Never write symbolic tokens such
    as `boxing`, `warmUp`, `round`, or `coolDown`, localized names, or arbitrary
@@ -109,22 +113,22 @@ stable:
 
 The current group-color registry is:
 
-| Top-level tag | Required `color` |
-| --- | --- |
-| `Boxing` | `#E63946` |
-| `JuniorBoxing` | `#F4A261` |
-| `AmateurBoxing` | `#E9C46A` |
-| `ProBoxing` | `#9B2226` |
-| `MuayThai` | `#F77F00` |
-| `KickBoxing` | `#D62828` |
-| `MMA` | `#6A4C93` |
-| `UFC` | `#1D3557` |
-| `BJJ` | `#457B9D` |
-| `Wrestling` | `#2A9D8F` |
-| `Taekwondo` | `#2E7D32` |
-| `WarmUp` | `#F4B400` |
-| `Cooldown` | `#3A86FF` |
-| `Other` | `#6C757D` |
+| Top-level tag | SF Symbol | Required `color` |
+| --- | --- | --- |
+| `Boxing` | `figure.boxing` | `#E63946` |
+| `JuniorBoxing` | `figure.child` | `#F4A261` |
+| `AmateurBoxing` | `figure.2` | `#E9C46A` |
+| `ProBoxing` | `figure.boxing.circle.fill` | `#9B2226` |
+| `MuayThai` | `figure.fencing` | `#F77F00` |
+| `KickBoxing` | `figure.kickboxing` | `#D62828` |
+| `MMA` | `figure.martial.arts` | `#6A4C93` |
+| `UFC` | `figure.highintensity.intervaltraining` | `#1D3557` |
+| `BJJ` | `figure.rolling` | `#457B9D` |
+| `Wrestling` | `figure.fall` | `#2A9D8F` |
+| `Taekwondo` | `figure.archery` | `#2E7D32` |
+| `WarmUp` | `figure.jumprope` | `#F4B400` |
+| `Cooldown` | `figure.flexibility` | `#3A86FF` |
+| `Other` | `list.bullet` | `#6C757D` |
 
 Do not change an existing group color or assign the same hex to another group
 without updating this registry and the app's group presentation together.
@@ -190,6 +194,6 @@ Before creating or editing a record:
 
 1. Inspect the target tag folder, `icon-registry.json`, and an existing matching record.
 2. Decide the correct difficulty and, for boxing records, the correct level from the exercise complexity using the definitions above.
-3. Keep the Markdown file, `Icon.png`, front matter, body sections, `manifest.json`, and `icon-registry.json` in sync.
+3. Keep the Markdown file, exercise `Icon.png`, tag `Icon.png`, front matter, body sections, `manifest.json`, and `icon-registry.json` in sync.
 4. Validate that every tag folder contains the required Markdown/icon pair and every Markdown file follows the shared section order.
 5. Make only the requested catalog change; do not perform unrelated cleanup or app changes.

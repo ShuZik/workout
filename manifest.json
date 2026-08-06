@@ -1,4 +1,118 @@
 {
+  "tags" : [
+    {
+      "color" : "#E63946",
+      "folder" : "Boxing",
+      "icon" : "Boxing\/Icon.png",
+      "symbolName" : "figure.boxing",
+      "title" : "Boxing",
+      "workoutType" : "boxing"
+    },
+    {
+      "color" : "#F4A261",
+      "folder" : "JuniorBoxing",
+      "icon" : "JuniorBoxing\/Icon.png",
+      "symbolName" : "figure.child",
+      "title" : "Junior Boxing",
+      "workoutType" : "juniorBoxing"
+    },
+    {
+      "color" : "#E9C46A",
+      "folder" : "AmateurBoxing",
+      "icon" : "AmateurBoxing\/Icon.png",
+      "symbolName" : "figure.2",
+      "title" : "Amateur Boxing",
+      "workoutType" : "amateurBoxing"
+    },
+    {
+      "color" : "#9B2226",
+      "folder" : "ProBoxing",
+      "icon" : "ProBoxing\/Icon.png",
+      "symbolName" : "figure.boxing.circle.fill",
+      "title" : "Pro Boxing",
+      "workoutType" : "proBoxing"
+    },
+    {
+      "color" : "#F77F00",
+      "folder" : "MuayThai",
+      "icon" : "MuayThai\/Icon.png",
+      "symbolName" : "figure.fencing",
+      "title" : "Muay Thai",
+      "workoutType" : "muayThai"
+    },
+    {
+      "color" : "#D62828",
+      "folder" : "KickBoxing",
+      "icon" : "KickBoxing\/Icon.png",
+      "symbolName" : "figure.kickboxing",
+      "title" : "Kick Boxing",
+      "workoutType" : "kickBoxing"
+    },
+    {
+      "color" : "#6A4C93",
+      "folder" : "MMA",
+      "icon" : "MMA\/Icon.png",
+      "symbolName" : "figure.martial.arts",
+      "title" : "MMA",
+      "workoutType" : "mma"
+    },
+    {
+      "color" : "#1D3557",
+      "folder" : "UFC",
+      "icon" : "UFC\/Icon.png",
+      "symbolName" : "figure.highintensity.intervaltraining",
+      "title" : "UFC",
+      "workoutType" : "ufc"
+    },
+    {
+      "color" : "#457B9D",
+      "folder" : "BJJ",
+      "icon" : "BJJ\/Icon.png",
+      "symbolName" : "figure.rolling",
+      "title" : "BJJ",
+      "workoutType" : "bjj"
+    },
+    {
+      "color" : "#2A9D8F",
+      "folder" : "Wrestling",
+      "icon" : "Wrestling\/Icon.png",
+      "symbolName" : "figure.fall",
+      "title" : "Wrestling",
+      "workoutType" : "wrestling"
+    },
+    {
+      "color" : "#2E7D32",
+      "folder" : "Taekwondo",
+      "icon" : "Taekwondo\/Icon.png",
+      "symbolName" : "figure.archery",
+      "title" : "Taekwondo",
+      "workoutType" : "taekwondo"
+    },
+    {
+      "color" : "#F4B400",
+      "folder" : "WarmUp",
+      "icon" : "WarmUp\/Icon.png",
+      "symbolName" : "figure.jumprope",
+      "title" : "Warm-up",
+      "workoutType" : "warmUp"
+    },
+    {
+      "color" : "#3A86FF",
+      "folder" : "Cooldown",
+      "icon" : "Cooldown\/Icon.png",
+      "symbolName" : "figure.flexibility",
+      "title" : "Cool-down",
+      "workoutType" : "cooldown"
+    },
+    {
+      "color" : "#6C757D",
+      "folder" : "Other",
+      "icon" : "Other\/Icon.png",
+      "symbolName" : "list.bullet",
+      "title" : "Other",
+      "workoutType" : "other"
+    }
+  ],
   "files" : [
     {
       "icon" : "Boxing\/body_cross\/Icon.png",
