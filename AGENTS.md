@@ -4,7 +4,7 @@ These rules apply to every exercise record in this repository.
 
 ## Catalog structure
 
-- A top-level folder is a workout tag: `Boxing`, `JuniorBoxing`, `AmateurBoxing`, `ProBoxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`, `Taekwondo`, `WarmUp`, `Cooldown`, or `Other`.
+- A top-level folder is a workout tag: `Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`, `Taekwondo`, `WarmUp`, `Cooldown`, or `Other`.
 - Every top-level tag folder contains its group `Icon.png`.
 - Every exercise has its own folder inside exactly one tag folder.
 - Every exercise folder must contain the matching Markdown file and `Icon.png`.
@@ -56,9 +56,6 @@ Non-boxing records omit `level`. The displayed `## Уровень` value must ma
 Each named combat style is its own top-level tag and currently contains exactly
 one timed starter record. The tag and `workoutType` pairs are:
 
-- `JuniorBoxing` / `juniorBoxing` — `Junior Boxing`
-- `AmateurBoxing` / `amateurBoxing` — `Amateur Boxing`
-- `ProBoxing` / `proBoxing` — `Pro Boxing`
 - `MuayThai` / `muayThai` — `Muay Thai`
 - `KickBoxing` / `kickBoxing` — `Kick Boxing`
 - `MMA` / `mma` — `MMA`
@@ -76,20 +73,23 @@ fields.
 The catalog has two visual layers. Keep them separate and keep both layers
 stable:
 
-1. Every top-level tag/group (`Boxing`, `JuniorBoxing`, `AmateurBoxing`,
-   `ProBoxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
-   `Taekwondo`, `WarmUp`, `Cooldown`, and `Other`) must have its own unique
-   group icon and its own unique group color in the app. The group identity is
-   is defined in the `tags` array of `manifest.json` and represented by the
-   matching `WorkoutType`. Its root `Icon.png`, title, SF Symbol name, and
-   hex color are downloaded together with the exercise catalog. Do not create
-   a fake `MartialArts` container or add an unapproved Markdown field.
+1. Every top-level tag/group (`Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
+   `Taekwondo`, `WarmUp`, `Cooldown`, and `Other`) must have a stable group
+   icon and its own group color in the app. Combat groups intentionally share
+   the exact SF Symbol when they belong to the same visual family: striking
+   groups use `figure.boxing`, while grappling groups use `figure.wrestling`.
+   The group identity is defined in the `tags` array of `manifest.json` and
+   represented by the matching `WorkoutType`. Its root `Icon.png`, title, SF
+   Symbol name, and hex color are downloaded together with the exercise
+   catalog. Do not create a fake `MartialArts` container or add an unapproved
+   Markdown field.
 2. Every exercise must have its own exercise icon. The required `Icon.png` is
    the asset downloaded into the catalog; `icon-registry.json` is the only
    source of its SF Symbol provenance. Do not add a `symbol` or `icon` field
-   to Markdown and do not copy one placeholder icon into multiple unrelated
-   exercises or groups. The app may keep an internal fallback symbol for
-   bundled presets, but that fallback is not catalog metadata.
+   to Markdown and do not copy one placeholder icon into unrelated exercises.
+   Shared group icons are allowed only for the documented visual families. The
+   app may keep an internal fallback symbol for bundled presets, but that
+   fallback is not catalog metadata.
 3. Select symbols only from Apple SF Symbols using the SF Symbols app:
    [SF Symbols](plugin://computer-use@openai-bundled?app=com.apple.SFSymbols).
    Search the app, choose an existing symbol that describes the group or
@@ -106,9 +106,10 @@ stable:
    color formats. A group color must not be silently reused for another group.
    The app parser must validate the hex format and render the same value.
 6. Before adding or editing a record, check `icon-registry.json` and the
-   existing catalog. Reject duplicate group icon/color pairs, duplicate
-   exercise symbols, missing `Icon.png`, and mismatches between the registry
-   and the exported image. If no distinct suitable SF Symbol exists, stop and
+   existing catalog. Reject duplicate group colors, duplicate exercise
+   symbols, missing `Icon.png`, and mismatches between the registry and the
+   exported image. Allow a duplicate group symbol only when it matches the
+   documented visual-family mapping. If no suitable SF Symbol exists, stop and
    ask instead of reusing a placeholder.
 
 The current group-color registry is:
@@ -116,16 +117,13 @@ The current group-color registry is:
 | Top-level tag | SF Symbol | Required `color` |
 | --- | --- | --- |
 | `Boxing` | `figure.boxing` | `#E63946` |
-| `JuniorBoxing` | `figure.child` | `#F4A261` |
-| `AmateurBoxing` | `figure.2` | `#E9C46A` |
-| `ProBoxing` | `figure.boxing.circle.fill` | `#9B2226` |
-| `MuayThai` | `figure.fencing` | `#F77F00` |
-| `KickBoxing` | `figure.kickboxing` | `#D62828` |
-| `MMA` | `figure.martial.arts` | `#6A4C93` |
-| `UFC` | `figure.highintensity.intervaltraining` | `#1D3557` |
-| `BJJ` | `figure.rolling` | `#457B9D` |
-| `Wrestling` | `figure.fall` | `#2A9D8F` |
-| `Taekwondo` | `figure.archery` | `#2E7D32` |
+| `MuayThai` | `figure.boxing` | `#F77F00` |
+| `KickBoxing` | `figure.boxing` | `#D62828` |
+| `MMA` | `figure.wrestling` | `#6A4C93` |
+| `UFC` | `figure.wrestling` | `#1D3557` |
+| `BJJ` | `figure.boxing` | `#457B9D` |
+| `Wrestling` | `figure.wrestling` | `#2A9D8F` |
+| `Taekwondo` | `figure.boxing` | `#2E7D32` |
 | `WarmUp` | `figure.jumprope` | `#F4B400` |
 | `Cooldown` | `figure.flexibility` | `#3A86FF` |
 | `Other` | `list.bullet` | `#6C757D` |
