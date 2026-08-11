@@ -2,7 +2,7 @@
 key: arm_circles
 title: Arm Circles
 description: Use Arm Circles to raise your temperature gradually and prepare for focused training.
-color: "#E85D04"
+color: "#0057FF"
 workoutType: warmUp
 valueType: time
 difficulty: basic
