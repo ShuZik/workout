@@ -124,7 +124,7 @@ The current group-color registry is:
 | `BJJ` | `figure.boxing` | `#457B9D` |
 | `Wrestling` | `figure.wrestling` | `#2A9D8F` |
 | `Taekwondo` | `figure.boxing` | `#2E7D32` |
-| `WarmUp` | `figure.jumprope` | `#F4B400` |
+| `WarmUp` | `figure.jumprope` | `#E85D04` |
 | `Cooldown` | `figure.flexibility` | `#3A86FF` |
 | `Other` | `list.bullet` | `#6C757D` |
 

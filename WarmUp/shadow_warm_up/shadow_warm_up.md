@@ -2,7 +2,7 @@
 key: shadow_warm_up
 title: Shadow Warm-up
 description: Use Shadow Warm-up to raise your temperature gradually and prepare for focused training.
-color: "#F4B400"
+color: "#E85D04"
 workoutType: warmUp
 valueType: time
 difficulty: basic
