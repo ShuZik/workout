@@ -17,11 +17,11 @@ Every new or edited exercise JSON record must contain these fields:
 - `workoutType`
 - `valueType`
 - `section`
-- `availableFrom: "1.1.1"`
+- `availableFrom: "1.1.0"`
 - `availableUntil: null` unless the exercise has an explicit removal version
 
 Optional fields are `difficulty`, `level` for boxing, `subtitle`, `target`,
-`durationSeconds`, `durationUnit`, `actions`, and `sequence`.
+`durationSeconds`, `durationUnit`, and `sequence`.
 Add only fields supported by the app schema. Do not add `id`, `symbol`, or
 `icon` to an exercise JSON file. The app derives `id` from `key`, and icon
 provenance belongs to `icon-registry.json` while the asset itself is
@@ -73,7 +73,7 @@ grouping scheme or duplicate the value in a text body.
 
 `availableFrom` and `availableUntil` are inclusive bounds using a numeric
 dot-separated app version such as `1.1.1`. In the `1.1.1` branch every current
-exercise uses `availableFrom: "1.1.1"` and `availableUntil: null`. A `null`
+exercise uses `availableFrom: "1.1.0"` and `availableUntil: null`. A `null`
 upper bound means no end. An exercise is shown in the new-exercise picker only
 when the current app version is within these bounds. Keep the record in the
 catalog after it becomes unavailable so saved workouts that reference its
@@ -108,8 +108,7 @@ one timed starter record. The tag and `workoutType` pairs are:
 - `Taekwondo` / `taekwondo` — `Taekwondo`
 
 Use `valueType: time` and `section: 1 Styles` for these starter records. Omit
-`level` and do not add `repeatCount`, `countAndWeight`, or technique-specific
-fields.
+`level` and do not add technique-specific fields.
 
 ### Visual identity and SF Symbols
 
@@ -197,13 +196,13 @@ The JSON record must follow this structure:
   "difficulty": "basic",
   "level": 1,
   "section": "1 Base",
-  "availableFrom": "1.1.1",
+  "availableFrom": "1.1.0",
   "availableUntil": null
 }
 ```
 
 - Optional fields such as `subtitle`, `target`, `durationSeconds`,
-  `durationUnit`, `actions`, and `sequence` are included only when the
+  `durationUnit`, and `sequence` are included only when the
   exercise needs them.
 - Do not invent random fields, colors, icons, or workout tags. Reuse the existing catalog conventions.
 

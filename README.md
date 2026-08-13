@@ -46,9 +46,8 @@ The supported JSON fields are:
   "difficulty": "basic",
   "durationSeconds": 180,
   "durationUnit": "seconds",
-  "actions": ["number", "choose"],
   "sequence": ["jab", "cross"],
-  "availableFrom": "1.1.1",
+  "availableFrom": "1.1.0",
   "availableUntil": null
 }
 ```
