@@ -2,6 +2,35 @@
 
 These rules apply to every exercise record in this repository.
 
+## JSON-only authoring contract
+
+The `1.1.1` branch is JSON-only. Never create or edit an exercise Markdown
+file. Every exercise must be stored as `<tag>/<slug>/<slug>.json` beside its
+real `<tag>/<slug>/Icon.png`; the tag icon remains `<tag>/Icon.png`.
+
+Every new or edited exercise JSON record must contain these fields:
+
+- `key`
+- `title`
+- `description`
+- `color`
+- `workoutType`
+- `valueType`
+- `section`
+- `availableFrom: "1.1.1"`
+- `availableUntil: null` unless the exercise has an explicit removal version
+
+Optional fields are `difficulty`, `level` for boxing, `subtitle`, `target`,
+`durationSeconds`, `durationUnit`, `actions`, and `sequence`.
+Add only fields supported by the app schema. Do not add `id`, `symbol`, or
+`icon` to an exercise JSON file. The app derives `id` from `key`, and icon
+provenance belongs to `icon-registry.json` while the asset itself is
+`Icon.png`.
+
+`manifest.json` must use schema `version: 2` and its exercise entries must use
+the `json` path field, never `markdown`. When adding an exercise, update the
+manifest and validate the JSON, icon pair, tag, color, and registry together.
+
 ## Catalog structure
 
 - A top-level folder is a workout tag: `Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`, `Taekwondo`, `WarmUp`, `Cooldown`, or `Other`.
