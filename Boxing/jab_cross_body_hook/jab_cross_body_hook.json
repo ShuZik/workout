@@ -1,0 +1,19 @@
+{
+  "key": "jab_cross_body_hook",
+  "title": "Jab-Cross-Body Hook",
+  "description": "Throw the jab and cross to bring the guard high, then change level and turn the lead body hook into the ribs. Keep the opposite hand protecting your head.",
+  "color": "#E63946",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "difficulty": "advanced",
+  "level": 4,
+  "section": "4 Advanced",
+  "subtitle": "1–2–3B: finish to the body.",
+  "sequence": [
+    "jab",
+    "cross",
+    "lead_body_hook"
+  ],
+  "availableFrom": "1.1.1",
+  "availableUntil": null
+}

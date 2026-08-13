@@ -1,0 +1,20 @@
+{
+  "key": "jab_cross_lead_hook_cross",
+  "title": "Jab-Cross-Lead Hook-Cross",
+  "description": "Throw the jab and cross, turn the lead hook around the guard, then finish with another rear cross. Recover the hook before committing to the final punch.",
+  "color": "#E63946",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "difficulty": "advanced",
+  "level": 4,
+  "section": "4 Advanced",
+  "subtitle": "1–2–3–2: finish the hook with the rear hand.",
+  "sequence": [
+    "jab",
+    "cross",
+    "lead_hook",
+    "cross"
+  ],
+  "availableFrom": "1.1.1",
+  "availableUntil": null
+}

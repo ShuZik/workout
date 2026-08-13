@@ -1,0 +1,18 @@
+{
+  "key": "jab_cross",
+  "title": "Jab-Cross",
+  "description": "Start with a sharp lead jab, then drive the rear cross straight through the target. Return both hands to guard before repeating the combination.",
+  "color": "#E63946",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "1 Base",
+  "subtitle": "1–2: lead jab followed by the rear cross.",
+  "sequence": [
+    "jab",
+    "cross"
+  ],
+  "availableFrom": "1.1.1",
+  "availableUntil": null
+}

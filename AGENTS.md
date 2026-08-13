@@ -7,17 +7,19 @@ These rules apply to every exercise record in this repository.
 - A top-level folder is a workout tag: `Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`, `Taekwondo`, `WarmUp`, `Cooldown`, or `Other`.
 - Every top-level tag folder contains its group `Icon.png`.
 - Every exercise has its own folder inside exactly one tag folder.
-- Every exercise folder must contain the matching Markdown file and `Icon.png`.
-- The Markdown filename and folder name use the same `snake_case` slug.
-- `manifest.json` must contain one tag record and one Markdown/icon pair for every exercise folder.
+- Every exercise folder must contain the matching JSON file and `Icon.png`.
+- The JSON filename and folder name use the same `snake_case` slug.
+- `manifest.json` must contain one tag record and one JSON/icon pair for every exercise folder.
 - `icon-registry.json` records the exact SF Symbol used to create each `Icon.png`.
 - `key` is the required stable catalog identifier and must match the exercise
-  slug. Do not add an `id` field to Markdown; the app derives its technical
+  slug. Do not add an `id` field to JSON; the app derives its technical
   `Identifiable` id from `key`.
 
-## Markdown file format
+## JSON file format
 
-Keep the YAML front matter first. Preserve all existing structured fields required by the app. The `difficulty` field is optional, but when it is present it must use one of these machine-readable values:
+Each exercise file is a single JSON object. Preserve all existing structured
+fields required by the app. The `difficulty` field is optional, but when it is
+present it must use one of these machine-readable values:
 
 - `basic` — `База`
 - `intermediate` — `Средний`
@@ -35,8 +37,19 @@ the format `N Name` or `N Two Word Name`:
 - `0 Boxing` is reserved for the single `free_boxing` entry shown in the
   untitled first section; all other sections start at `1`.
 
-Use the same section value in the Markdown body under `## Секция`. Do not add
-extra section fields or invent a second grouping scheme.
+Store the section value only in the JSON `section` field. Do not add a second
+grouping scheme or duplicate the value in a text body.
+
+### Availability by app version
+
+`availableFrom` and `availableUntil` are inclusive bounds using a numeric
+dot-separated app version such as `1.1.1`. In the `1.1.1` branch every current
+exercise uses `availableFrom: "1.1.1"` and `availableUntil: null`. A `null`
+upper bound means no end. An exercise is shown in the new-exercise picker only
+when the current app version is within these bounds. Keep the record in the
+catalog after it becomes unavailable so saved workouts that reference its
+stable `key` continue to resolve. Do not use the catalog manifest `version`
+field for this; that field is the catalog schema version.
 
 ### Boxing levels
 
@@ -49,7 +62,8 @@ The `level` field is required for every `workoutType: boxing` exercise and must 
 - `4` — `Продвинутый`: multi-phase combinations, level changes, defense counters, or footwork.
 - `5` — `Профи`: unusually technical work such as the bolo punch.
 
-Non-boxing records omit `level`. The displayed `## Уровень` value must match the front matter `level`.
+Non-boxing records omit `level`. The app displays the JSON `level` value
+directly.
 
 ### Named combat-style tags
 
@@ -82,11 +96,11 @@ stable:
    represented by the matching `WorkoutType`. Its root `Icon.png`, title, SF
    Symbol name, and hex color are downloaded together with the exercise
    catalog. Do not create a fake `MartialArts` container or add an unapproved
-   Markdown field.
+   JSON field.
 2. Every exercise must have its own exercise icon. The required `Icon.png` is
    the asset downloaded into the catalog; `icon-registry.json` is the only
    source of its SF Symbol provenance. Do not add a `symbol` or `icon` field
-   to Markdown and do not copy one placeholder icon into unrelated exercises.
+   to JSON and do not copy one placeholder icon into unrelated exercises.
    Shared group icons are allowed only for the documented visual families. The
    app may keep an internal fallback symbol for bundled presets, but that
    fallback is not catalog metadata.
@@ -98,9 +112,9 @@ stable:
 4. Export or render the selected symbol as `Icon.png` with a transparent
    background and keep the group asset in its tag folder or the exercise asset
    in its exercise folder. `manifest.json` and the app catalog parser must
-   refer to that same downloaded asset; the Markdown file does not repeat the
+   refer to that same downloaded asset; the JSON file does not repeat the
    asset path.
-5. The Markdown `color` field is a required six-digit hex color in the exact
+5. The JSON `color` field is a required six-digit hex color in the exact
    format `#RRGGBB` (for example `#E63946`). Never write symbolic tokens such
    as `boxing`, `warmUp`, `round`, or `coolDown`, localized names, or arbitrary
    color formats. A group color must not be silently reused for another group.
@@ -141,49 +155,27 @@ without updating this registry and the app's group presentation together.
 
 Do not create other values such as `rounds`, `reps`, `duration`, `weight`, `distance`, or localized variants. If the exercise does not clearly require one of these types, stop and ask before changing the schema.
 
-The Markdown body must use this order and these headings:
+The JSON record must follow this structure:
 
-```markdown
----
-key: exercise_slug
-title: Exercise Title
-description: Short exercise description.
-color: "#E63946"
-workoutType: boxing
-valueType: time
-difficulty: basic
-level: 1
-section: 1 Base
----
-
-## Title
-
-Exercise Title
-
-## Сложность
-
-База
-
-## Уровень
-
-1
-
-## Секция
-
-1 Base
-
-## Описание
-
-Short exercise description.
+```json
+{
+  "key": "jab",
+  "title": "Jab",
+  "description": "Short exercise description.",
+  "color": "#E63946",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "1 Base",
+  "availableFrom": "1.1.1",
+  "availableUntil": null
+}
 ```
 
-- `## Title`, `## Сложность`, `## Секция`, and `## Описание` are required and must appear in this order. Boxing records keep `## Уровень` between `## Сложность` and `## Секция`.
-- The title in the body must match front matter `title`.
-- The displayed difficulty must match front matter `difficulty` when that field is present.
-- The displayed section must match front matter `section`.
-- The description in the body must match front matter `description`.
-- Do not keep a duplicate `# Title` heading.
-- Keep one blank line between headings and their values and between sections.
+- Optional fields such as `subtitle`, `target`, `durationSeconds`,
+  `durationUnit`, `actions`, and `sequence` are included only when the
+  exercise needs them.
 - Do not invent random fields, colors, icons, or workout tags. Reuse the existing catalog conventions.
 
 ## Creating or editing an exercise
@@ -192,6 +184,8 @@ Before creating or editing a record:
 
 1. Inspect the target tag folder, `icon-registry.json`, and an existing matching record.
 2. Decide the correct difficulty and, for boxing records, the correct level from the exercise complexity using the definitions above.
-3. Keep the Markdown file, exercise `Icon.png`, tag `Icon.png`, front matter, body sections, `manifest.json`, and `icon-registry.json` in sync.
-4. Validate that every tag folder contains the required Markdown/icon pair and every Markdown file follows the shared section order.
+3. Keep the JSON file, exercise `Icon.png`, tag `Icon.png`, `manifest.json`,
+   and `icon-registry.json` in sync.
+4. Validate that every tag folder contains the required JSON/icon pair and
+   every JSON file follows the shared schema.
 5. Make only the requested catalog change; do not perform unrelated cleanup or app changes.

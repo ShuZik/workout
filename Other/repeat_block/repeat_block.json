@@ -1,0 +1,15 @@
+{
+  "key": "repeat_block",
+  "title": "Repeat",
+  "description": "Repeat the selected workout steps a specified number of times.",
+  "color": "#6C757D",
+  "workoutType": "other",
+  "valueType": "none",
+  "difficulty": "basic",
+  "section": "2 Structure",
+  "actions": [
+    "count"
+  ],
+  "availableFrom": "1.1.1",
+  "availableUntil": null
+}
