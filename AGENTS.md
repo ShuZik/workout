@@ -20,6 +20,8 @@ Every new or edited exercise JSON record must contain these fields:
 - `availableFrom: "1.1.0"`
 - `availableUntil: null` unless the exercise has an explicit removal version
 
+Timed exercises (`valueType: "time"`) must additionally contain `timerRole`.
+
 Optional fields are `difficulty`, `level` for boxing, `subtitle`, `target`,
 `durationSeconds`, `durationUnit`, and `sequence`.
 Add only fields supported by the app schema. Do not add `id`, `symbol`, or
@@ -183,6 +185,21 @@ without updating this registry and the app's group presentation together.
 
 Do not create other values such as `rounds`, `reps`, `duration`, `weight`, `distance`, or localized variants. If the exercise does not clearly require one of these types, stop and ask before changing the schema.
 
+### Timer role
+
+`timerRole` is a closed enum used only by the timer presentation. It is required
+for every `valueType: "time"` record and must be one of:
+
+- `active` — a regular active exercise;
+- `intense` — an explicitly designated high-intensity exercise;
+- `rest` — a recovery interval.
+
+Every non-timed record (`valueType: "none"` or `"countAndWeight"`) must omit
+`timerRole`. Do not infer a timer role from the title, tag, difficulty, color,
+or duration. For the current catalog, `Other/pause/pause.json` is `rest`; all
+other timed records are `active` unless an explicit catalog decision changes
+them.
+
 The JSON record must follow this structure:
 
 ```json
@@ -193,6 +210,7 @@ The JSON record must follow this structure:
   "color": "#E63946",
   "workoutType": "boxing",
   "valueType": "time",
+  "timerRole": "active",
   "difficulty": "basic",
   "level": 1,
   "section": "1 Base",
@@ -213,7 +231,7 @@ Before creating or editing a record:
 1. Inspect the target tag folder, `icon-registry.json`, and an existing matching record.
 2. Decide the correct difficulty and, for boxing records, the correct level from the exercise complexity using the definitions above.
 3. Keep the JSON file, exercise `Icon.png`, tag `Icon.png`, `manifest.json`,
-   and `icon-registry.json` in sync.
+   `icon-registry.json`, and `timerRole` contract in sync.
 4. Validate that every tag folder contains the required JSON/icon pair and
    every JSON file follows the shared schema.
 5. Make only the requested catalog change; do not perform unrelated cleanup or app changes.
