@@ -5,8 +5,9 @@ These rules apply to every exercise record in this repository.
 ## JSON-only authoring contract
 
 The `1.1.1` branch is JSON-only. Never create or edit an exercise Markdown
-file. Every exercise must be stored as `<tag>/<slug>/<slug>.json` beside its
-real `<tag>/<slug>/Icon.png`; the tag icon remains `<tag>/Icon.png`.
+file. Every exercise must be stored as `<tag>/<title>/<title>.json` beside its
+real `<tag>/<title>/Icon.png`; the title path uses lowerCamelCase and the tag
+icon remains `<tag>/Icon.png`.
 
 Every new or edited exercise JSON record must contain these fields:
 
@@ -39,12 +40,13 @@ manifest and validate the JSON, icon pair, tag, color, and registry together.
 - Every top-level tag folder contains its group `Icon.png`.
 - Every exercise has its own folder inside exactly one tag folder.
 - Every exercise folder must contain the matching JSON file and `Icon.png`.
-- The JSON filename and folder name use the same `snake_case` slug.
+- The JSON filename and folder name use the same lowerCamelCase form of the
+  exercise title; single-word titles use lowercase.
 - `manifest.json` must contain one tag record and one JSON/icon pair for every exercise folder.
 - `icon-registry.json` records the exact SF Symbol used to create each `Icon.png`.
-- `key` is the required stable catalog identifier and must match the exercise
-  slug. Do not add an `id` field to JSON; the app derives its technical
-  `Identifiable` id from `key`.
+- `key` is the required stable catalog identifier and is independent of the
+  title-based folder and filename. Do not add an `id` field to JSON; the app
+  derives its technical `Identifiable` id from `key`.
 
 ## JSON file format
 
@@ -196,7 +198,7 @@ for every `valueType: "time"` record and must be one of:
 
 Every non-timed record (`valueType: "none"` or `"countAndWeight"`) must omit
 `timerRole`. Do not infer a timer role from the title, tag, difficulty, color,
-or duration. For the current catalog, `Other/pause/pause.json` is `rest`; all
+or duration. For the current catalog, `Other/rest/rest.json` is `rest`; all
 other timed records are `active` unless an explicit catalog decision changes
 them.
 

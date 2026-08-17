@@ -13,9 +13,9 @@ Boxing/
     jab.json
 WarmUp/
   Icon.png
-  jump_rope/
+  jumpRope/
     Icon.png
-    jump_rope.json
+    jumpRope.json
 Cooldown/
   Icon.png
   breathing/
@@ -23,10 +23,13 @@ Cooldown/
     breathing.json
 Other/
   Icon.png
-  pause/
+  rest/
     Icon.png
-    pause.json
+    rest.json
 ```
+
+Exercise folders and JSON filenames use the exercise title in lowerCamelCase;
+the JSON `key` remains the stable catalog identifier.
 
 Each JSON file is the structured exercise record downloaded by the app. `Icon.png` is downloaded with the record and stored in the local SwiftData catalog. `icon-registry.json` records which SF Symbol was used to create each icon.
 
