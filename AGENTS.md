@@ -1,194 +1,105 @@
-# Workout Catalog Rules
+# Workout Catalog Authoring Contract
 
-These rules apply to every exercise record in this repository.
+This file is the operating contract for creating and editing workout catalog
+records. The repository is a data catalog, not the app source code. Preserve
+the current catalog structure. Do not reorganize folders, invent a second
+schema, or change app behavior from this repository.
 
-## JSON-only authoring contract
+## Response title protocol
 
-The `1.1.1` branch is JSON-only. Never create or edit an exercise Markdown
-file. Every exercise must be stored as `<tag>/<title>/<title>.json` beside its
-real `<tag>/<title>/Icon.png`; the title path uses lowerCamelCase and the tag
-icon remains `<tag>/Icon.png`.
+The response title is built from four anchor words in this file:
 
-Every new or edited exercise JSON record must contain these fields:
+1. Take the first two letters of `Shell`.
+2. Take the first letter of `user`.
+3. Take the first two letters of `Zigzag`.
+4. Take the last letter of `task`.
 
-- `key`
-- `title`
-- `description`
-- `color`
-- `workoutType`
-- `valueType`
-- `section`
-- `availableFrom: "1.1.0"`
-- `availableUntil: null` unless the exercise has an explicit removal version
+Concatenate those fragments and print the result as the first line of every
+response in the form `# <title>`. Do not explain the construction unless asked.
 
-Timed exercises (`valueType: "time"`) must additionally contain `timerRole`.
+## Non-negotiable rules
 
-Optional fields are `difficulty`, `level` for boxing, `subtitle`, `target`,
-`durationSeconds`, `durationUnit`, and `sequence`.
-Add only fields supported by the app schema. Do not add `id`, `symbol`, or
-`icon` to an exercise JSON file. The app derives `id` from `key`, and icon
-provenance belongs to `icon-registry.json` while the asset itself is
-`Icon.png`.
+- Work only on the record or catalog metadata explicitly requested.
+- Read the target tag, one comparable record, `manifest.json`, and
+  `icon-registry.json` before editing.
+- Never create or edit exercise Markdown files.
+- Never change an existing exercise `key`. It is the stable identifier used by
+  saved workouts, even when the title or path changes.
+- Never create an `id`, `icon`, or `symbol` field inside exercise JSON.
+- Never add a new top-level tag, grouping system, or ordering system unless the
+  user explicitly requests an app-wide catalog change.
+- Do not clean up obsolete metadata or unrelated records while creating one
+  exercise.
+- If a required fact cannot be derived from the current catalog, stop and ask
+  one precise question instead of guessing.
 
-`manifest.json` must use schema `version: 2` and its exercise entries must use
-the `json` path field, never `markdown`. When adding an exercise, update the
-manifest and validate the JSON, icon pair, tag, color, and registry together.
+## Current catalog structure
 
-## Catalog structure
+The current branch is `1.1.1`. The repository layout is fixed:
 
-- A top-level folder is a workout tag: `Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`, `Taekwondo`, `WarmUp`, `Cooldown`, or `Other`.
-- Every top-level tag folder contains its group `Icon.png`.
-- Every exercise has its own folder inside exactly one tag folder.
-- Every exercise folder must contain the matching JSON file and `Icon.png`.
-- The JSON filename and folder name use the same lowerCamelCase form of the
-  exercise title; single-word titles use lowercase.
-- `manifest.json` must contain one tag record and one JSON/icon pair for every exercise folder.
-- `icon-registry.json` records the exact SF Symbol used to create each `Icon.png`.
-- `key` is the required stable catalog identifier and is independent of the
-  title-based folder and filename. Do not add an `id` field to JSON; the app
-  derives its technical `Identifiable` id from `key`.
+```text
+<Tag>/
+  Icon.png
+  <exerciseLowerCamelCase>/
+    Icon.png
+    <exerciseLowerCamelCase>.json
+```
 
-## JSON file format
+The allowed top-level tag folders are exactly:
 
-Each exercise file is a single JSON object. Preserve all existing structured
-fields required by the app. The `difficulty` field is optional, but when it is
-present it must use one of these machine-readable values:
+`Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
+`Taekwondo`, `WarmUp`, `Cooldown`, and `Other`.
 
-- `basic` — `База`
-- `intermediate` — `Средний`
-- `advanced` — `Продвинутый`
-- `pro` — `Профи`
+Every tag folder has one group `Icon.png`. Every exercise folder has its own
+`Icon.png` and one JSON file whose folder name and filename are identical.
 
-### Named sections
+`manifest.json` is schema version 2 and has exactly two catalog collections:
 
-The `section` field is required for every exercise. It is an ordered label in
-the format `N Name` or `N Two Word Name`:
+- `tags`: tag identity, title, workout type, group color, group symbol, and
+  group icon path;
+- `files`: one `{ "json": ..., "icon": ... }` pair for every exercise.
 
-- `N` is a non-negative integer used only for sorting;
-- the label is one or two words shown as the section title in the app;
-- the app removes the numeric prefix before displaying the title;
-- `1 Main` is reserved for the single tag-named starter entry shown first in
-  its tag; all other sections start at `1`.
+Keep the existing tag order and existing manifest entries. Do not reorder the
+manifest as a substitute for changing UI ordering; section ordering belongs to
+the exercise JSON.
 
-Store the section value only in the JSON `section` field. Do not add a second
-grouping scheme or duplicate the value in a text body.
+`icon-registry.json` records the SF Symbol provenance for group icons under
+`tags` and exercise icons under `files`. Preserve existing registry keys,
+including legacy keys that are still stable identifiers. When adding an
+exercise, add exactly one entry keyed by its exercise `key`.
 
-### Availability by app version
+## Tag identity registry
 
-`availableFrom` and `availableUntil` are inclusive bounds using a numeric
-dot-separated app version such as `1.1.1`. In the `1.1.1` branch every current
-exercise uses `availableFrom: "1.1.0"` and `availableUntil: null`. A `null`
-upper bound means no end. An exercise is shown in the new-exercise picker only
-when the current app version is within these bounds. Keep the record in the
-catalog after it becomes unavailable so saved workouts that reference its
-stable `key` continue to resolve. Do not use the catalog manifest `version`
-field for this; that field is the catalog schema version.
+Use this table as the source of truth for existing tags. The `workoutType`,
+group symbol, and group color must match both the tag record in `manifest.json`
+and every exercise JSON inside that tag.
 
-### Boxing levels
+| Folder | Display title | `workoutType` | Group SF Symbol | Palette color |
+| --- | --- | --- | --- | --- |
+| `Boxing` | Boxing | `boxing` | `figure.boxing` | `icon_red` / `#ED5C63` |
+| `MuayThai` | Muay Thai | `muayThai` | `figure.kickboxing` | `icon_orange` / `#F3A044` |
+| `KickBoxing` | Kick Boxing | `kickBoxing` | `figure.kickboxing` | `icon_red` / `#ED5C63` |
+| `MMA` | MMA | `mma` | `figure.wrestling` | `icon_purple` / `#7D4DB3` |
+| `UFC` | UFC | `ufc` | `figure.wrestling` | `icon_indigo` / `#4766C1` |
+| `BJJ` | BJJ | `bjj` | `figure.boxing` | `icon_indigo` / `#4766C1` |
+| `Wrestling` | Wrestling | `wrestling` | `figure.wrestling` | `icon_teal` / `#01C5A5` |
+| `Taekwondo` | Taekwondo | `taekwondo` | `figure.boxing` | `icon_green` / `#2BBF51` |
+| `WarmUp` | Warm-up | `warmUp` | `figure.jumprope` | `icon_blue` / `#0A84FF` |
+| `Cooldown` | Cool-down | `cooldown` | `figure.flexibility` | `icon_blue` / `#0A84FF` |
+| `Other` | Other | `other` | `list.bullet` | `icon_gray` / `#808A94` |
 
-The `level` field is required for every `workoutType: boxing` exercise and must be an integer from `0` to `5`:
+Shared tag colors are intentional when they are the correct app palette color.
+Do not reject a color merely because another tag uses it.
 
-- `0` — the single `Boxing` entry (`key: free_boxing`) shown in the untitled first section.
-- `1` — `База`: fundamental punches and the basic jab-cross.
-- `2` — `Новичок`: simple body punches and overhands.
-- `3` — `Уверенный`: short combinations, defense, and simple angle work.
-- `4` — `Продвинутый`: multi-phase combinations, level changes, defense counters, or footwork.
-- `5` — `Профи`: unusually technical work such as the bolo punch.
+## App color palette
 
-Non-boxing records omit `level`. The app displays the JSON `level` value
-directly.
+Exercise and tag colors must be exact sRGB hex values from the app's
+`AppColor.IconPicker` palette. Use the nearest visual color family when an
+input color is not already in the palette. When candidates are close, preserve
+the hue family: orange maps to `icon_orange`, not yellow. Never invent a new
+hex value.
 
-### Named combat-style tags
-
-Each named combat style is its own top-level tag and currently contains exactly
-one timed starter record. The tag and `workoutType` pairs are:
-
-- `MuayThai` / `muayThai` — `Muay Thai`
-- `KickBoxing` / `kickBoxing` — `Kick Boxing`
-- `MMA` / `mma` — `MMA`
-- `UFC` / `ufc` — `UFC`
-- `BJJ` / `bjj` — `BJJ`
-- `Wrestling` / `wrestling` — `Wrestling`
-- `Taekwondo` / `taekwondo` — `Taekwondo`
-
-Use `valueType: time` and `section: 1 Main` for these starter records. Omit
-`level` and do not add technique-specific fields.
-
-### Visual identity and SF Symbols
-
-The catalog has two visual layers. Keep them separate and keep both layers
-stable:
-
-1. Every top-level tag/group (`Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
-   `Taekwondo`, `WarmUp`, `Cooldown`, and `Other`) must have a stable group
-   icon and its own group color in the app. Combat groups intentionally share
-   the exact SF Symbol when they belong to the same visual family: striking
-   groups use `figure.boxing`, while grappling groups use `figure.wrestling`.
-   The group identity is defined in the `tags` array of `manifest.json` and
-   represented by the matching `WorkoutType`. Its root `Icon.png`, title, SF
-   Symbol name, and hex color are downloaded together with the exercise
-   catalog. Do not create a fake `MartialArts` container or add an unapproved
-   JSON field.
-2. Every exercise must have its own exercise icon. The required `Icon.png` is
-   the asset downloaded into the catalog; `icon-registry.json` is the only
-   source of its SF Symbol provenance. Do not add a `symbol` or `icon` field
-   to JSON and do not copy one placeholder icon into unrelated exercises.
-   Shared group icons are allowed only for the documented visual families. The
-   app may keep an internal fallback symbol for bundled presets, but that
-   fallback is not catalog metadata.
-3. Select symbols only from Apple SF Symbols using the SF Symbols app:
-   [SF Symbols](plugin://computer-use@openai-bundled?app=com.apple.SFSymbols).
-   Search the app, choose an existing symbol that describes the group or
-   exercise, and use its exact name. Never invent a symbol name, use emoji, or
-   generate a replacement image when a suitable SF Symbol exists.
-4. Export or render the selected symbol as `Icon.png` with a transparent
-   background and keep the group asset in its tag folder or the exercise asset
-   in its exercise folder. `manifest.json` and the app catalog parser must
-   refer to that same downloaded asset; the JSON file does not repeat the
-   asset path.
-5. The JSON `color` field is a required six-digit hex color in the exact
-   format `#RRGGBB` (for example `#ED5C63`). Never write symbolic tokens such
-   as `boxing`, `warmUp`, `round`, or `coolDown`, localized names, or arbitrary
-   color formats. Use only the exact sRGB hex values from the app's
-   `AppColor.IconPicker` palette listed below. If a requested color is not in
-   that palette, choose the nearest palette color by visual color family and
-   record that palette choice; when candidates are close, preserve the
-   original hue family (for example, orange maps to `icon_orange`, not
-   yellow). Do not invent a new hex value. Every exercise in a tag must use
-   the exact same color as its tag in `manifest.json`.
-   The app parser must validate the hex format and render the same value.
-6. Before adding or editing a record, check `icon-registry.json` and the
-   existing catalog. Reject unapproved group-color assignments, duplicate
-   exercise symbols, missing `Icon.png`, and mismatches between the registry
-   and the exported image. Shared group colors are valid only when they use
-   the documented palette mapping. Allow a duplicate group symbol only when
-   it matches the documented visual-family mapping. If no suitable SF Symbol
-   exists, stop and ask instead of reusing a placeholder.
-
-The current group-color registry is:
-
-| Top-level tag | SF Symbol | Palette | Required sRGB hex |
-| --- | --- | --- | --- |
-| `Boxing` | `figure.boxing` | `icon_red` | `#ED5C63` |
-| `MuayThai` | `figure.boxing` | `icon_orange` | `#F3A044` |
-| `KickBoxing` | `figure.boxing` | `icon_red` | `#ED5C63` |
-| `MMA` | `figure.wrestling` | `icon_purple` | `#7D4DB3` |
-| `UFC` | `figure.wrestling` | `icon_indigo` | `#4766C1` |
-| `BJJ` | `figure.boxing` | `icon_indigo` | `#4766C1` |
-| `Wrestling` | `figure.wrestling` | `icon_teal` | `#01C5A5` |
-| `Taekwondo` | `figure.boxing` | `icon_green` | `#2BBF51` |
-| `WarmUp` | `figure.jumprope` | `icon_blue` | `#0A84FF` |
-| `Cooldown` | `figure.flexibility` | `icon_blue` | `#0A84FF` |
-| `Other` | `list.bullet` | `icon_gray` | `#808A94` |
-
-Shared colors are allowed when the same palette color is the nearest visual
-match. The registry above is the required source of truth. Do not change a group
-color or the palette mapping without updating this registry and the app's
-group presentation together.
-
-The app's `IconPicker` palette is:
-
-| Palette name | Required sRGB hex |
+| Palette name | sRGB hex |
 | --- | --- |
 | `icon_red` | `#ED5C63` |
 | `icon_coral` | `#FD7C5D` |
@@ -206,32 +117,34 @@ The app's `IconPicker` palette is:
 | `icon_sage` | `#90A994` |
 | `icon_tan` | `#B79E80` |
 
-### Allowed `valueType` values
+For every exercise, set `color` to the exact color of its top-level tag in
+`manifest.json`. Do not assign an exercise-specific color inside a tag.
 
-`valueType` is a required closed enum for exercises. Use only these machine-readable values:
+## Exercise identity and paths
 
-- `time` — the exercise is measured by time. Use this for punches, combinations, warm-ups, cooldowns, and other timed activities.
-- `countAndWeight` — the exercise needs both a count and a weight value. Use it only when this capability is explicitly supported by the app schema.
-- `none` — the exercise has no measured value or action control.
+An exercise record is one JSON object at:
 
-Do not create other values such as `rounds`, `reps`, `duration`, `weight`, `distance`, or localized variants. If the exercise does not clearly require one of these types, stop and ask before changing the schema.
+```text
+<Tag>/<titleLowerCamelCase>/<titleLowerCamelCase>.json
+```
 
-### Timer role
+Convert the display title to lowerCamelCase for the folder and filename:
 
-`timerRole` is a closed enum used only by the timer presentation. It is required
-for every `valueType: "time"` record and must be one of:
+- `Jab` -> `jab`
+- `Muay Thai` -> `muayThai`
+- `Kick Boxing` -> `kickBoxing`
+- `Warm-up` -> `warmUp`
+- `Jab-Cross` -> `jabCross`
 
-- `active` — a regular active exercise;
-- `intense` — an explicitly designated high-intensity exercise;
-- `rest` — a recovery interval.
+The technical `key` is independent of that path and uses the existing
+lowercase snake_case convention, for example `jab_cross`. Use a unique key.
+For an edit, preserve the existing key exactly. Do not derive a replacement key
+from a renamed title.
 
-Every non-timed record (`valueType: "none"` or `"countAndWeight"`) must omit
-`timerRole`. Do not infer a timer role from the title, tag, difficulty, color,
-or duration. For the current catalog, `Other/rest/rest.json` is `rest`; all
-other timed records are `active` unless an explicit catalog decision changes
-them.
+## Exercise JSON contract
 
-The JSON record must follow this structure:
+Every exercise JSON must contain exactly the fields supported by the current
+catalog schema. Required fields:
 
 ```json
 {
@@ -242,27 +155,139 @@ The JSON record must follow this structure:
   "workoutType": "boxing",
   "valueType": "time",
   "timerRole": "active",
-  "difficulty": "basic",
-  "level": 1,
   "section": "1 Base",
   "availableFrom": "1.1.0",
   "availableUntil": null
 }
 ```
 
-- Optional fields such as `subtitle`, `target`, `durationSeconds`,
-  `durationUnit`, and `sequence` are included only when the
-  exercise needs them.
-- Do not invent random fields, colors, icons, or workout tags. Reuse the existing catalog conventions.
+Required fields are `key`, `title`, `description`, `color`, `workoutType`,
+`valueType`, `section`, `availableFrom`, and `availableUntil`.
 
-## Creating or editing an exercise
+Allowed optional fields are only:
 
-Before creating or editing a record:
+- `difficulty`: `basic`, `intermediate`, `advanced`, or `pro`;
+- `level`: integer `0` through `5`, only for boxing;
+- `timerRole`: `active`, `intense`, or `rest`, only when `valueType` is `time`;
+- `subtitle`, `target`, `durationSeconds`, `durationUnit`, and `sequence`.
 
-1. Inspect the target tag folder, `icon-registry.json`, and an existing matching record.
-2. Decide the correct difficulty and, for boxing records, the correct level from the exercise complexity using the definitions above.
-3. Keep the JSON file, exercise `Icon.png`, tag `Icon.png`, `manifest.json`,
-   `icon-registry.json`, and `timerRole` contract in sync.
-4. Validate that every tag folder contains the required JSON/icon pair and
-   every JSON file follows the shared schema.
-5. Make only the requested catalog change; do not perform unrelated cleanup or app changes.
+Use only these `valueType` values:
+
+- `time` — a timed exercise;
+- `countAndWeight` — only when the app explicitly supports both values;
+- `none` — no measured value or action control.
+
+`timerRole` is mandatory for `time` and forbidden for every other
+`valueType`. Normal timed exercises use `active`. The recovery exercise is
+displayed as `Rest` and uses `timerRole: "rest"`.
+
+There is no `Pause` exercise to create. A pause is a physical UI control, not
+catalog content. The existing `Other/rest/rest.json` has the stable technical
+key `pause`; preserve that key so saved workouts continue to resolve, but do
+not create another pause record or rename its title away from `Rest`.
+
+For boxing:
+
+- `level` is required;
+- `0` is reserved for the single tag-named `Boxing` starter with key
+  `free_boxing`;
+- `1` means Base, `2` Beginner, `3` Intermediate, `4` Advanced, and `5` Pro;
+- non-boxing records must omit `level`.
+
+For new records, use `availableFrom: "1.1.0"` and
+`availableUntil: null` unless the user explicitly gives a version boundary.
+Do not confuse these fields with the manifest schema `version`.
+
+## Sections and display order
+
+`section` is the only catalog grouping field. Its value is a numeric prefix,
+one space, and a display label, for example `1 Main` or `2 Dynamic Stretching`.
+The app removes the numeric prefix when displaying the section title.
+
+`Main` is pinned first by the app. A tag-named starter record uses exactly
+`section: "1 Main"`; this includes the single starter records for the named
+combat tags and the tag-named `Boxing`, `Warm-up`, and `Cool-down` records.
+Do not try to pin Main by changing manifest file order.
+
+For every other exercise, reuse the existing section names and numeric order
+of its tag. Current examples include `Base`, `Beginner`, `Intermediate`,
+`Advanced`, `Pro`, `Mobility`, `Dynamic Stretching`, `Cardio`,
+`Shadowboxing`, `Recovery`, `Walking`, `Rest`, and `Structure`.
+Create a new section name or renumber existing sections only when the user
+explicitly requests a catalog grouping change.
+
+Named combat tags currently contain exactly one starter record with
+`valueType: "time"`, `timerRole: "active"`, and `section: "1 Main"`:
+Muay Thai, Kick Boxing, MMA, UFC, BJJ, Wrestling, and Taekwondo. Preserve this
+pattern unless the user explicitly asks to add more records to one of those
+tags.
+
+## Icons and registry updates
+
+Every tag and every exercise must have the real `Icon.png` required by its
+manifest entry. Use Apple SF Symbols only. Select an existing symbol from the
+SF Symbols app and record its exact name in `icon-registry.json`.
+
+- Tag symbol provenance belongs under `icon-registry.json.tags`.
+- Exercise symbol provenance belongs under `icon-registry.json.files` keyed by
+  the exercise `key`.
+- The JSON record must not contain icon metadata.
+- Do not invent SF Symbol names, use emoji, generate a placeholder, or copy a
+  technically unrelated icon merely to satisfy the file count.
+- Reusing a family symbol is allowed when it matches the existing catalog's
+  visual convention. Do not change unrelated existing icons during a new
+  record creation.
+
+If a suitable SF Symbol or a valid icon asset cannot be selected, stop and ask;
+do not silently substitute one.
+
+## Deterministic creation workflow
+
+Follow this sequence for every new or edited record:
+
+1. Inspect `manifest.json`, `icon-registry.json`, the target tag folder, and a
+   comparable existing JSON/icon pair.
+2. Resolve the title, lowerCamelCase path, unique snake_case key, tag, and
+   `workoutType`. For an edit, identify the existing file by stable `key` and
+   preserve its identity.
+3. Choose an existing section from the target tag. Use `1 Main` only for the
+   tag-named starter record. Choose `valueType`, `timerRole`, difficulty, and
+   boxing level from the rules above and the nearest comparable record.
+4. Copy the target tag's exact manifest color into the exercise JSON. Do not
+   create a new color.
+5. Select or verify the exercise SF Symbol and its real `Icon.png`. Update only
+   the corresponding `icon-registry.json.files` entry.
+6. Create or edit the JSON and its adjacent icon without changing the folder
+   layout. Add or update exactly one matching entry in `manifest.json.files`.
+7. Validate the complete catalog before reporting success. If any invariant
+   fails, fix the cause or stop; never hide the failure with a workaround.
+
+## Validation checklist
+
+Before finishing, verify all of the following:
+
+- every JSON file parses and is a single object;
+- every JSON has the required fields and no unsupported fields;
+- every key is unique and every edit preserved the old key;
+- every title/path pair follows lowerCamelCase;
+- every `workoutType` matches its manifest tag;
+- every exercise color is an allowed palette color and exactly matches its tag;
+- `timerRole` appears if and only if `valueType` is `time`;
+- boxing levels are present and valid, while non-boxing records omit `level`;
+- every exercise folder contains the matching JSON and `Icon.png`;
+- every manifest file entry points to existing matching files, with no missing
+  or duplicate JSON/icon pairs;
+- every manifest tag points to its existing root icon;
+- every icon has a corresponding registry entry and every registry entry that
+  is part of the current manifest resolves to the correct symbol provenance;
+- no exercise Markdown file was created or edited;
+- `git diff --check` passes.
+
+This repository has no app target to build. If an app project is available in
+the active workspace, run its relevant build/tests as well; otherwise report
+catalog validation as complete and state that an app build was not applicable.
+
+The final response must state the cause or requested outcome, files changed,
+anything removed or rewritten, checks that passed, and any remaining
+limitation. Do not claim a build, test, or visual check that was not actually
+run. Do not commit or push unless the user explicitly asks.
