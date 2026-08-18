@@ -43,7 +43,7 @@ The supported JSON fields are:
   "title": "Jab",
   "description": "Exercise instructions",
   "target": "head",
-  "color": "#E63946",
+  "color": "#ED5C63",
   "workoutType": "boxing",
   "valueType": "time",
   "difficulty": "basic",

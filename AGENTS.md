@@ -67,8 +67,8 @@ the format `N Name` or `N Two Word Name`:
 - `N` is a non-negative integer used only for sorting;
 - the label is one or two words shown as the section title in the app;
 - the app removes the numeric prefix before displaying the title;
-- `0 Boxing` is reserved for the single `free_boxing` entry shown in the
-  untitled first section; all other sections start at `1`.
+- `1 Main` is reserved for the single tag-named starter entry shown first in
+  its tag; all other sections start at `1`.
 
 Store the section value only in the JSON `section` field. Do not add a second
 grouping scheme or duplicate the value in a text body.
@@ -111,7 +111,7 @@ one timed starter record. The tag and `workoutType` pairs are:
 - `Wrestling` / `wrestling` — `Wrestling`
 - `Taekwondo` / `taekwondo` — `Taekwondo`
 
-Use `valueType: time` and `section: 1 Styles` for these starter records. Omit
+Use `valueType: time` and `section: 1 Main` for these starter records. Omit
 `level` and do not add technique-specific fields.
 
 ### Visual identity and SF Symbols
@@ -147,35 +147,64 @@ stable:
    refer to that same downloaded asset; the JSON file does not repeat the
    asset path.
 5. The JSON `color` field is a required six-digit hex color in the exact
-   format `#RRGGBB` (for example `#E63946`). Never write symbolic tokens such
+   format `#RRGGBB` (for example `#ED5C63`). Never write symbolic tokens such
    as `boxing`, `warmUp`, `round`, or `coolDown`, localized names, or arbitrary
-   color formats. A group color must not be silently reused for another group.
+   color formats. Use only the exact sRGB hex values from the app's
+   `AppColor.IconPicker` palette listed below. If a requested color is not in
+   that palette, choose the nearest palette color by visual color family and
+   record that palette choice; when candidates are close, preserve the
+   original hue family (for example, orange maps to `icon_orange`, not
+   yellow). Do not invent a new hex value. Every exercise in a tag must use
+   the exact same color as its tag in `manifest.json`.
    The app parser must validate the hex format and render the same value.
 6. Before adding or editing a record, check `icon-registry.json` and the
-   existing catalog. Reject duplicate group colors, duplicate exercise
-   symbols, missing `Icon.png`, and mismatches between the registry and the
-   exported image. Allow a duplicate group symbol only when it matches the
-   documented visual-family mapping. If no suitable SF Symbol exists, stop and
-   ask instead of reusing a placeholder.
+   existing catalog. Reject unapproved group-color assignments, duplicate
+   exercise symbols, missing `Icon.png`, and mismatches between the registry
+   and the exported image. Shared group colors are valid only when they use
+   the documented palette mapping. Allow a duplicate group symbol only when
+   it matches the documented visual-family mapping. If no suitable SF Symbol
+   exists, stop and ask instead of reusing a placeholder.
 
 The current group-color registry is:
 
-| Top-level tag | SF Symbol | Required `color` |
-| --- | --- | --- |
-| `Boxing` | `figure.boxing` | `#E63946` |
-| `MuayThai` | `figure.boxing` | `#F77F00` |
-| `KickBoxing` | `figure.boxing` | `#D62828` |
-| `MMA` | `figure.wrestling` | `#6A4C93` |
-| `UFC` | `figure.wrestling` | `#1D3557` |
-| `BJJ` | `figure.boxing` | `#457B9D` |
-| `Wrestling` | `figure.wrestling` | `#2A9D8F` |
-| `Taekwondo` | `figure.boxing` | `#2E7D32` |
-| `WarmUp` | `figure.jumprope` | `#0057FF` |
-| `Cooldown` | `figure.flexibility` | `#3A86FF` |
-| `Other` | `list.bullet` | `#6C757D` |
+| Top-level tag | SF Symbol | Palette | Required sRGB hex |
+| --- | --- | --- | --- |
+| `Boxing` | `figure.boxing` | `icon_red` | `#ED5C63` |
+| `MuayThai` | `figure.boxing` | `icon_orange` | `#F3A044` |
+| `KickBoxing` | `figure.boxing` | `icon_red` | `#ED5C63` |
+| `MMA` | `figure.wrestling` | `icon_purple` | `#7D4DB3` |
+| `UFC` | `figure.wrestling` | `icon_indigo` | `#4766C1` |
+| `BJJ` | `figure.boxing` | `icon_indigo` | `#4766C1` |
+| `Wrestling` | `figure.wrestling` | `icon_teal` | `#01C5A5` |
+| `Taekwondo` | `figure.boxing` | `icon_green` | `#2BBF51` |
+| `WarmUp` | `figure.jumprope` | `icon_blue` | `#0A84FF` |
+| `Cooldown` | `figure.flexibility` | `icon_blue` | `#0A84FF` |
+| `Other` | `list.bullet` | `icon_gray` | `#808A94` |
 
-Do not change an existing group color or assign the same hex to another group
-without updating this registry and the app's group presentation together.
+Shared colors are allowed when the same palette color is the nearest visual
+match. The registry above is the required source of truth. Do not change a group
+color or the palette mapping without updating this registry and the app's
+group presentation together.
+
+The app's `IconPicker` palette is:
+
+| Palette name | Required sRGB hex |
+| --- | --- |
+| `icon_red` | `#ED5C63` |
+| `icon_coral` | `#FD7C5D` |
+| `icon_orange` | `#F3A044` |
+| `icon_yellow` | `#E6BF00` |
+| `icon_green` | `#2BBF51` |
+| `icon_teal` | `#01C5A5` |
+| `icon_cyan` | `#67C4ED` |
+| `icon_blue` | `#0A84FF` |
+| `icon_indigo` | `#4766C1` |
+| `icon_purple` | `#7D4DB3` |
+| `icon_violet` | `#AF6ED7` |
+| `icon_pink` | `#EA7CC7` |
+| `icon_gray` | `#808A94` |
+| `icon_sage` | `#90A994` |
+| `icon_tan` | `#B79E80` |
 
 ### Allowed `valueType` values
 
@@ -209,7 +238,7 @@ The JSON record must follow this structure:
   "key": "jab",
   "title": "Jab",
   "description": "Short exercise description.",
-  "color": "#E63946",
+  "color": "#ED5C63",
   "workoutType": "boxing",
   "valueType": "time",
   "timerRole": "active",
