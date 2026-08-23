@@ -39,7 +39,7 @@ The supported JSON fields are:
 
 ```json
 {
-  "id": "1\\jab",
+  "id": "1.1",
   "key": "jab",
   "title": "Jab",
   "description": "Exercise instructions",
@@ -59,6 +59,7 @@ The supported JSON fields are:
 Only the fields relevant to an exercise need to be present. `id`, `key`, `title`,
 `description`, `color`, `workoutType`, `valueType`, `availableFrom`, and
 `availableUntil` are required in the `main` catalog; `difficulty` is optional.
+Exercise IDs use the numeric `tagId.exerciseId` format, such as `1.1`.
 The icon path is authoritative in `manifest.json`, and the app derives its
 technical identity from the explicit catalog `id` while keeping `key` as the
 stable exercise identifier.

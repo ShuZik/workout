@@ -26,8 +26,8 @@ response in the form `# <title>`. Do not explain the construction unless asked.
 - Never change an existing exercise `key`. It is the stable identifier used by
   saved workouts, even when the title or path changes.
 - Every tag and every exercise must have an explicit string `id` in JSON.
-  Exercise ids use `<tagId>\\<key>`; `icon` and `symbol` still do not belong
-  inside exercise JSON.
+  Exercise ids use `<tagId>.<exerciseId>`, where both values are decimal
+  integers; `icon` and `symbol` still do not belong inside exercise JSON.
 - Never add a new top-level tag, grouping system, or ordering system unless the
   user explicitly requests an app-wide catalog change.
 - Do not clean up obsolete metadata or unrelated records while creating one
@@ -160,10 +160,11 @@ Every tag id is a decimal string. The stable tag id registry is:
 | `WarmUp` | `"9"` |
 | `Cooldown` | `"10"` |
 
-Every exercise id is the tag id, one backslash, and the stable exercise key.
-For example, the `Jab` record has `"id": "1\\jab"`, and `End Repeat` has
-`"id": "0\\repeat_end"`. Do not use the folder name, title, or a random UUID
-for a catalog id.
+Every exercise id is the tag id, one dot, and a stable numeric exercise id.
+For example, the first Boxing record has `"id": "1.1"`, and the first Other
+record has `"id": "0.1"`. Assign new exercise ids by taking the next unused
+number within the tag; do not renumber existing records. Do not use the folder
+name, title, or a random UUID for a catalog id.
 
 ## Exercise JSON contract
 
@@ -172,7 +173,7 @@ catalog schema. Required fields:
 
 ```json
 {
-  "id": "1\\jab",
+  "id": "1.1",
   "key": "jab",
   "title": "Jab",
   "description": "Short exercise description.",
@@ -294,7 +295,8 @@ Before finishing, verify all of the following:
 - every JSON file parses and is a single object;
 - every JSON has the required fields and no unsupported fields;
 - every tag has a unique decimal-string `id` and every exercise has a unique
-  `<tagId>\\<key>` string id with the correct tag prefix;
+  `<tagId>.<exerciseId>` string id where both components are decimal integers
+  with the correct tag prefix;
 - every key is unique and every edit preserved the old key;
 - every title/path pair follows lowerCamelCase;
 - every `workoutType` matches its manifest tag;
