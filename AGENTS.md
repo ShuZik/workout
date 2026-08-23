@@ -25,7 +25,9 @@ response in the form `# <title>`. Do not explain the construction unless asked.
 - Never create or edit exercise Markdown files.
 - Never change an existing exercise `key`. It is the stable identifier used by
   saved workouts, even when the title or path changes.
-- Never create an `id`, `icon`, or `symbol` field inside exercise JSON.
+- Every tag and every exercise must have an explicit string `id` in JSON.
+  Exercise ids use `<tagId>\\<key>`; `icon` and `symbol` still do not belong
+  inside exercise JSON.
 - Never add a new top-level tag, grouping system, or ordering system unless the
   user explicitly requests an app-wide catalog change.
 - Do not clean up obsolete metadata or unrelated records while creating one
@@ -35,7 +37,8 @@ response in the form `# <title>`. Do not explain the construction unless asked.
 
 ## Current catalog structure
 
-The current branch is `1.1.1`. The repository layout is fixed:
+The current catalog branch is `main` for app version `1.1.2`. The repository
+layout is fixed:
 
 ```text
 <Tag>/
@@ -55,8 +58,8 @@ Every tag folder has one group `Icon.png`. Every exercise folder has its own
 
 `manifest.json` is schema version 2 and has exactly two catalog collections:
 
-- `tags`: tag identity, title, workout type, group color, group symbol, and
-  group icon path;
+- `tags`: tag id, tag identity, title, workout type, group color, group symbol,
+  and group icon path;
 - `files`: one `{ "json": ..., "icon": ... }` pair for every exercise.
 
 Keep the existing tag order and existing manifest entries. Do not reorder the
@@ -141,6 +144,27 @@ lowercase snake_case convention, for example `jab_cross`. Use a unique key.
 For an edit, preserve the existing key exactly. Do not derive a replacement key
 from a renamed title.
 
+Every tag id is a decimal string. The stable tag id registry is:
+
+| Tag | id |
+| --- | --- |
+| `Other` | `"0"` |
+| `Boxing` | `"1"` |
+| `MuayThai` | `"2"` |
+| `KickBoxing` | `"3"` |
+| `MMA` | `"4"` |
+| `UFC` | `"5"` |
+| `BJJ` | `"6"` |
+| `Wrestling` | `"7"` |
+| `Taekwondo` | `"8"` |
+| `WarmUp` | `"9"` |
+| `Cooldown` | `"10"` |
+
+Every exercise id is the tag id, one backslash, and the stable exercise key.
+For example, the `Jab` record has `"id": "1\\jab"`, and `End Repeat` has
+`"id": "0\\repeat_end"`. Do not use the folder name, title, or a random UUID
+for a catalog id.
+
 ## Exercise JSON contract
 
 Every exercise JSON must contain exactly the fields supported by the current
@@ -148,6 +172,7 @@ catalog schema. Required fields:
 
 ```json
 {
+  "id": "1\\jab",
   "key": "jab",
   "title": "Jab",
   "description": "Short exercise description.",
@@ -161,7 +186,7 @@ catalog schema. Required fields:
 }
 ```
 
-Required fields are `key`, `title`, `description`, `color`, `workoutType`,
+Required fields are `id`, `key`, `title`, `description`, `color`, `workoutType`,
 `valueType`, `section`, `availableFrom`, and `availableUntil`.
 
 Allowed optional fields are only:
@@ -268,6 +293,8 @@ Before finishing, verify all of the following:
 
 - every JSON file parses and is a single object;
 - every JSON has the required fields and no unsupported fields;
+- every tag has a unique decimal-string `id` and every exercise has a unique
+  `<tagId>\\<key>` string id with the correct tag prefix;
 - every key is unique and every edit preserved the old key;
 - every title/path pair follows lowerCamelCase;
 - every `workoutType` matches its manifest tag;
