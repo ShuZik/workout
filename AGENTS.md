@@ -181,7 +181,7 @@ catalog schema. Required fields:
   "workoutType": "boxing",
   "valueType": "time",
   "timerRole": "active",
-  "section": "1 Base",
+  "section": "2 Base",
   "availableFrom": "1.1.0",
   "availableUntil": null
 }
