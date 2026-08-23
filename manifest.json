@@ -3,7 +3,6 @@
     {
       "color": "#0A84FF",
       "folder": "WarmUp",
-      "id": "9",
       "icon": "WarmUp/Icon.png",
       "symbolName": "figure.jumprope",
       "title": "Warm-up",
@@ -12,7 +11,6 @@
     {
       "color": "#0A84FF",
       "folder": "Cooldown",
-      "id": "10",
       "icon": "Cooldown/Icon.png",
       "symbolName": "figure.flexibility",
       "title": "Cool-down",
@@ -21,7 +19,6 @@
     {
       "color": "#ED5C63",
       "folder": "Boxing",
-      "id": "1",
       "icon": "Boxing/Icon.png",
       "symbolName": "figure.boxing",
       "title": "Boxing",
@@ -30,7 +27,6 @@
     {
       "color": "#F3A044",
       "folder": "MuayThai",
-      "id": "2",
       "icon": "MuayThai/Icon.png",
       "symbolName": "figure.kickboxing",
       "title": "Muay Thai",
@@ -39,7 +35,6 @@
     {
       "color": "#ED5C63",
       "folder": "KickBoxing",
-      "id": "3",
       "icon": "KickBoxing/Icon.png",
       "symbolName": "figure.kickboxing",
       "title": "Kick Boxing",
@@ -48,7 +43,6 @@
     {
       "color": "#7D4DB3",
       "folder": "MMA",
-      "id": "4",
       "icon": "MMA/Icon.png",
       "symbolName": "figure.wrestling",
       "title": "MMA",
@@ -57,7 +51,6 @@
     {
       "color": "#4766C1",
       "folder": "UFC",
-      "id": "5",
       "icon": "UFC/Icon.png",
       "symbolName": "figure.wrestling",
       "title": "UFC",
@@ -66,7 +59,6 @@
     {
       "color": "#4766C1",
       "folder": "BJJ",
-      "id": "6",
       "icon": "BJJ/Icon.png",
       "symbolName": "figure.boxing",
       "title": "BJJ",
@@ -75,7 +67,6 @@
     {
       "color": "#01C5A5",
       "folder": "Wrestling",
-      "id": "7",
       "icon": "Wrestling/Icon.png",
       "symbolName": "figure.wrestling",
       "title": "Wrestling",
@@ -84,7 +75,6 @@
     {
       "color": "#2BBF51",
       "folder": "Taekwondo",
-      "id": "8",
       "icon": "Taekwondo/Icon.png",
       "symbolName": "figure.boxing",
       "title": "Taekwondo",
@@ -93,7 +83,6 @@
     {
       "color": "#808A94",
       "folder": "Other",
-      "id": "0",
       "icon": "Other/Icon.png",
       "symbolName": "list.bullet",
       "title": "Other",
@@ -296,14 +285,6 @@
     {
       "icon": "Other/repeat/Icon.png",
       "json": "Other/repeat/repeat.json"
-    },
-    {
-      "icon": "Other/endRepeat/Icon.png",
-      "json": "Other/endRepeat/endRepeat.json"
-    },
-    {
-      "icon": "Other/preparation/Icon.png",
-      "json": "Other/preparation/preparation.json"
     },
     {
       "icon": "WarmUp/ankleCircles/Icon.png",
