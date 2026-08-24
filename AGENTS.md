@@ -253,6 +253,8 @@ tags.
 Every tag and every exercise must have the real `Icon.png` required by its
 manifest entry. Use Apple SF Symbols only. Select an existing symbol from the
 SF Symbols app and record its exact name in `icon-registry.json`.
+Every exercise icon outside the `Other` tag must use a filled SF Symbol. The
+`Other` tag is the only exception and must not be changed by this rule.
 
 - Tag symbol provenance belongs under `icon-registry.json.tags`.
 - Exercise symbol provenance belongs under `icon-registry.json.files` keyed by
@@ -309,6 +311,7 @@ Before finishing, verify all of the following:
 - every manifest tag points to its existing root icon;
 - every icon has a corresponding registry entry and every registry entry that
   is part of the current manifest resolves to the correct symbol provenance;
+- every exercise icon outside `Other` uses a filled SF Symbol;
 - no exercise Markdown file was created or edited;
 - `git diff --check` passes.
 
