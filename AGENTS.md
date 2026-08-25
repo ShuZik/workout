@@ -37,7 +37,7 @@ response in the form `# <title>`. Do not explain the construction unless asked.
 
 ## Current catalog structure
 
-The current catalog branch is `main` for app version `1.1.2`. The repository
+The current catalog branch is `main` for app version `1.1.3`. The repository
 layout is fixed:
 
 ```text
@@ -51,7 +51,7 @@ layout is fixed:
 The allowed top-level tag folders are exactly:
 
 `Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
-`Taekwondo`, `WarmUp`, `Cooldown`, and `Other`.
+`Taekwondo`, `WarmUp`, `Cooldown`, `Other`, and `Custom`.
 
 Every tag folder has one group `Icon.png`. Every exercise folder has its own
 `Icon.png` and one JSON file whose folder name and filename are identical.
@@ -90,6 +90,7 @@ and every exercise JSON inside that tag.
 | `WarmUp` | Warm-up | `warmUp` | `figure.jumprope` | `icon_blue` / `#0A84FF` |
 | `Cooldown` | Cool-down | `cooldown` | `figure.flexibility` | `icon_blue` / `#0A84FF` |
 | `Other` | Other | `other` | `list.bullet` | `icon_gray` / `#808A94` |
+| `Custom` | Custom | `custom` | `figure.strengthtraining.traditional` | `icon_red` / `#ED5C63` |
 
 Shared tag colors are intentional when they are the correct app palette color.
 Do not reject a color merely because another tag uses it.
@@ -159,6 +160,7 @@ Every tag id is a decimal string. The stable tag id registry is:
 | `Taekwondo` | `"8"` |
 | `WarmUp` | `"9"` |
 | `Cooldown` | `"10"` |
+| `Custom` | `"999999"` |
 
 Every exercise id is the tag id, one dot, and a stable numeric exercise id.
 For example, the first Boxing record has `"id": "1.1"`, and the first Other

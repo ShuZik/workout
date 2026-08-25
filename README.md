@@ -33,7 +33,7 @@ the JSON `key` remains the stable catalog identifier.
 
 Each JSON file is the structured exercise record downloaded by the app. `Icon.png` is downloaded with the record and stored in the local SwiftData catalog. `icon-registry.json` records which SF Symbol was used to create each icon.
 
-The `main` branch is the source for app version `1.1.2`. `manifest.json` lists every tag identity and every JSON/icon pair. The app first reads the latest commit SHA of that branch from GitHub. If that SHA matches the revision stored in its local database, no catalog files are downloaded. When the SHA is newer, the app downloads the complete manifest, tag icons, JSON files, and exercise icons from that exact commit and replaces the local catalog in one sync.
+The `main` branch is the source for app version `1.1.3`. `manifest.json` lists every tag identity and every JSON/icon pair. The app first reads the latest commit SHA of that branch from GitHub. If that SHA matches the revision stored in its local database, no catalog files are downloaded. When the SHA is newer, the app downloads the complete manifest, tag icons, JSON files, and exercise icons from that exact commit and replaces the local catalog in one sync.
 
 The supported JSON fields are:
 
