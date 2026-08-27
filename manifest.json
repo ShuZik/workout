@@ -19,6 +19,15 @@
       "workoutType": "cooldown"
     },
     {
+      "color": "#FD7C5D",
+      "folder": "Cardio",
+      "id": "11",
+      "icon": "Cardio/Icon.png",
+      "symbolName": "figure.run",
+      "title": "Cardio",
+      "workoutType": "cardio"
+    },
+    {
       "color": "#ED5C63",
       "folder": "Boxing",
       "id": "1",
@@ -865,6 +874,66 @@
     {
       "icon": "Cooldown/gluteStretch/Icon.png",
       "json": "Cooldown/gluteStretch/gluteStretch.json"
+    },
+    {
+      "icon": "Cardio/cardio/Icon.png",
+      "json": "Cardio/cardio/cardio.json"
+    },
+    {
+      "icon": "Cardio/outdoorRun/Icon.png",
+      "json": "Cardio/outdoorRun/outdoorRun.json"
+    },
+    {
+      "icon": "Cardio/treadmillRun/Icon.png",
+      "json": "Cardio/treadmillRun/treadmillRun.json"
+    },
+    {
+      "icon": "Cardio/outdoorWalk/Icon.png",
+      "json": "Cardio/outdoorWalk/outdoorWalk.json"
+    },
+    {
+      "icon": "Cardio/stationaryBike/Icon.png",
+      "json": "Cardio/stationaryBike/stationaryBike.json"
+    },
+    {
+      "icon": "Cardio/outdoorCycling/Icon.png",
+      "json": "Cardio/outdoorCycling/outdoorCycling.json"
+    },
+    {
+      "icon": "Cardio/jumpRope/Icon.png",
+      "json": "Cardio/jumpRope/jumpRope.json"
+    },
+    {
+      "icon": "Cardio/rowingMachine/Icon.png",
+      "json": "Cardio/rowingMachine/rowingMachine.json"
+    },
+    {
+      "icon": "Cardio/elliptical/Icon.png",
+      "json": "Cardio/elliptical/elliptical.json"
+    },
+    {
+      "icon": "Cardio/stairClimber/Icon.png",
+      "json": "Cardio/stairClimber/stairClimber.json"
+    },
+    {
+      "icon": "Cardio/hiking/Icon.png",
+      "json": "Cardio/hiking/hiking.json"
+    },
+    {
+      "icon": "Cardio/treadmillWalk/Icon.png",
+      "json": "Cardio/treadmillWalk/treadmillWalk.json"
+    },
+    {
+      "icon": "Cardio/openWaterSwimming/Icon.png",
+      "json": "Cardio/openWaterSwimming/openWaterSwimming.json"
+    },
+    {
+      "icon": "Cardio/poolSwimming/Icon.png",
+      "json": "Cardio/poolSwimming/poolSwimming.json"
+    },
+    {
+      "icon": "Cardio/mixedCardio/Icon.png",
+      "json": "Cardio/mixedCardio/mixedCardio.json"
     }
   ],
   "version": 2

@@ -13,6 +13,7 @@
     "Taekwondo": "figure.boxing",
     "WarmUp": "figure.jumprope",
     "Cooldown": "figure.flexibility",
+    "Cardio": "figure.run",
     "Other": "list.bullet",
     "Custom": "figure.strengthtraining.traditional"
   },
@@ -205,6 +206,21 @@
     "hamstring_stretch": "figure.flexibility",
     "calf_stretch": "figure.flexibility",
     "adductor_stretch": "figure.flexibility",
-    "glute_stretch": "figure.flexibility"
+    "glute_stretch": "figure.flexibility",
+    "cardio": "figure.run",
+    "outdoor_run": "figure.run",
+    "treadmill_run": "figure.run.treadmill",
+    "brisk_walk": "figure.walk",
+    "stationary_cycling": "figure.indoor.cycle",
+    "outdoor_cycling": "figure.outdoor.cycle",
+    "cardio_jump_rope": "figure.jumprope",
+    "rowing_machine": "figure.rower",
+    "elliptical": "figure.elliptical",
+    "stair_climber": "figure.stair.stepper",
+    "hiking": "figure.hiking",
+    "treadmill_walk": "figure.walk",
+    "open_water_swimming": "figure.open.water.swim",
+    "pool_swimming": "figure.pool.swim",
+    "mixed_cardio": "figure.mixed.cardio"
   }
 }
