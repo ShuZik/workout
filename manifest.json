@@ -316,24 +316,6 @@
       "workoutType": "bootcamp"
     },
     {
-      "color": "#7D4DB3",
-      "folder": "KettlebellTraining",
-      "id": "34",
-      "icon": "KettlebellTraining\/Icon.png",
-      "symbolName": "figure.strengthtraining.traditional",
-      "title": "Kettlebell Training",
-      "workoutType": "kettlebellTraining"
-    },
-    {
-      "color": "#B79E80",
-      "folder": "SandbagTraining",
-      "id": "35",
-      "icon": "SandbagTraining\/Icon.png",
-      "symbolName": "figure.strengthtraining.traditional",
-      "title": "Sandbag Training",
-      "workoutType": "sandbagTraining"
-    },
-    {
       "color": "#2BBF51",
       "folder": "AgilityTraining",
       "id": "36",
@@ -404,6 +386,24 @@
       "symbolName": "figure.dance",
       "title": "Capoeira",
       "workoutType": "capoeira"
+    },
+    {
+      "color": "#7D4DB3",
+      "folder": "KettlebellTraining",
+      "id": "34",
+      "icon": "KettlebellTraining\/Icon.png",
+      "symbolName": "figure.strengthtraining.traditional",
+      "title": "Kettlebell Training",
+      "workoutType": "kettlebellTraining"
+    },
+    {
+      "color": "#B79E80",
+      "folder": "SandbagTraining",
+      "id": "35",
+      "icon": "SandbagTraining\/Icon.png",
+      "symbolName": "figure.strengthtraining.traditional",
+      "title": "Sandbag Training",
+      "workoutType": "sandbagTraining"
     }
   ],
   "files": [
@@ -3602,6 +3602,10 @@
     {
       "icon": "Capoeira\/roda\/Icon.png",
       "json": "Capoeira\/roda\/roda.json"
+    },
+    {
+      "icon": "Custom\/deleteIt\/Icon.png",
+      "json": "Custom\/deleteIt\/deleteIt.json"
     }
   ],
   "version": 2
