@@ -51,7 +51,8 @@ layout is fixed:
 The allowed top-level tag folders are exactly:
 
 `Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
-`Taekwondo`, `WarmUp`, `Cooldown`, `Other`, and `Custom`.
+`Taekwondo`, `HIIT`, `Strength`, `CoreTraining`, `Mobility`, `Yoga`,
+`Pilates`, `Breathwork`, `WarmUp`, `Cooldown`, `Other`, and `Custom`.
 
 Every tag folder has one group `Icon.png`. Every exercise folder has its own
 `Icon.png` and one JSON file whose folder name and filename are identical.
@@ -81,15 +82,22 @@ and every exercise JSON inside that tag.
 | --- | --- | --- | --- | --- |
 | `Boxing` | Boxing | `boxing` | `figure.boxing` | `icon_red` / `#ED5C63` |
 | `MuayThai` | Muay Thai | `muayThai` | `figure.kickboxing` | `icon_orange` / `#F3A044` |
-| `KickBoxing` | Kick Boxing | `kickBoxing` | `figure.kickboxing` | `icon_red` / `#ED5C63` |
+| `KickBoxing` | Kickboxing | `kickBoxing` | `figure.kickboxing` | `icon_red` / `#ED5C63` |
 | `MMA` | MMA | `mma` | `figure.wrestling` | `icon_purple` / `#7D4DB3` |
-| `UFC` | UFC | `ufc` | `figure.wrestling` | `icon_indigo` / `#4766C1` |
+| `UFC` | MMA Conditioning | `ufc` | `figure.wrestling` | `icon_indigo` / `#4766C1` |
 | `BJJ` | BJJ | `bjj` | `figure.boxing` | `icon_indigo` / `#4766C1` |
 | `Wrestling` | Wrestling | `wrestling` | `figure.wrestling` | `icon_teal` / `#01C5A5` |
 | `Taekwondo` | Taekwondo | `taekwondo` | `figure.boxing` | `icon_green` / `#2BBF51` |
+| `HIIT` | HIIT | `hiit` | `figure.cross.training` | `icon_coral` / `#FD7C5D` |
+| `Strength` | Strength | `strength` | `figure.strengthtraining.traditional` | `icon_purple` / `#7D4DB3` |
+| `CoreTraining` | Core Training | `coreTraining` | `figure.strengthtraining.functional` | `icon_indigo` / `#4766C1` |
+| `Mobility` | Mobility | `mobility` | `figure.flexibility` | `icon_cyan` / `#67C4ED` |
+| `Yoga` | Yoga | `yoga` | `figure.yoga` | `icon_violet` / `#AF6ED7` |
+| `Pilates` | Pilates | `pilates` | `figure.pilates` | `icon_pink` / `#EA7CC7` |
+| `Breathwork` | Breathwork | `breathwork` | `lungs.fill` | `icon_teal` / `#01C5A5` |
 | `WarmUp` | Warm-up | `warmUp` | `figure.jumprope` | `icon_blue` / `#0A84FF` |
 | `Cooldown` | Cool-down | `cooldown` | `figure.flexibility` | `icon_blue` / `#0A84FF` |
-| `Other` | Other | `other` | `list.bullet` | `icon_gray` / `#808A94` |
+| `Other` | Workout Structure | `other` | `list.bullet` | `icon_gray` / `#808A94` |
 | `Custom` | Custom | `custom` | `figure.strengthtraining.traditional` | `icon_red` / `#ED5C63` |
 
 Shared tag colors are intentional when they are the correct app palette color.
@@ -160,6 +168,14 @@ Every tag id is a decimal string. The stable tag id registry is:
 | `Taekwondo` | `"8"` |
 | `WarmUp` | `"9"` |
 | `Cooldown` | `"10"` |
+| `Cardio` | `"11"` |
+| `HIIT` | `"12"` |
+| `Strength` | `"13"` |
+| `CoreTraining` | `"14"` |
+| `Mobility` | `"15"` |
+| `Yoga` | `"16"` |
+| `Pilates` | `"17"` |
+| `Breathwork` | `"18"` |
 | `Custom` | `"999999"` |
 
 Every exercise id is the tag id, one dot, and a stable numeric exercise id.
@@ -246,7 +262,7 @@ explicitly requests a catalog grouping change.
 
 Named combat tags currently contain exactly one starter record with
 `valueType: "time"`, `timerRole: "active"`, and `section: "1 Main"`:
-Muay Thai, Kick Boxing, MMA, UFC, BJJ, Wrestling, and Taekwondo. Preserve this
+Muay Thai, Kickboxing, MMA, MMA Conditioning, BJJ, Wrestling, and Taekwondo. Preserve this
 pattern unless the user explicitly asks to add more records to one of those
 tags.
 

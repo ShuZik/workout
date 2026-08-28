@@ -1,0 +1,16 @@
+{
+  "id": "13.1",
+  "key": "strength",
+  "title": "Strength",
+  "description": "A free timed strength training session using controlled resistance exercises and planned recovery.",
+  "color": "#7D4DB3",
+  "workoutType": "strength",
+  "valueType": "time",
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "durationSeconds": 180,
+  "durationUnit": "minutes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null
+}
