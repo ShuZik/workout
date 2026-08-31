@@ -52,7 +52,7 @@ The allowed top-level tag folders are exactly:
 
 `Boxing`, `MuayThai`, `KickBoxing`, `MMA`, `UFC`, `BJJ`, `Wrestling`,
 `Taekwondo`, `HIIT`, `Strength`, `CoreTraining`, `Mobility`, `Yoga`,
-`Pilates`, `Breathwork`, `WarmUp`, `Cooldown`, `Other`, and `Custom`.
+`Pilates`, `Breathwork`, `WarmUp`, `Cooldown`, `Other`, `Custom`, and `Shaking`.
 
 Every tag folder has one group `Icon.png`. Every exercise folder has its own
 `Icon.png` and one JSON file whose folder name and filename are identical.
@@ -99,6 +99,7 @@ and every exercise JSON inside that tag.
 | `Cooldown` | Cool-down | `cooldown` | `figure.flexibility` | `icon_blue` / `#0A84FF` |
 | `Other` | Workout Structure | `other` | `list.bullet` | `icon_gray` / `#808A94` |
 | `Custom` | Custom | `custom` | `figure.strengthtraining.traditional` | `icon_red` / `#ED5C63` |
+| `Shaking` | Shaking 😏 | `shaking` | `hand.palm.facing.fill` | `icon_violet` / `#AF6ED7` |
 
 Shared tag colors are intentional when they are the correct app palette color.
 Do not reject a color merely because another tag uses it.
@@ -176,6 +177,7 @@ Every tag id is a decimal string. The stable tag id registry is:
 | `Yoga` | `"16"` |
 | `Pilates` | `"17"` |
 | `Breathwork` | `"18"` |
+| `Shaking` | `"42"` |
 | `Custom` | `"999999"` |
 
 Every exercise id is the tag id, one dot, and a stable numeric exercise id.

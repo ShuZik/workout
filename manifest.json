@@ -233,6 +233,15 @@
       "symbolName": "list.bullet",
       "title": "Other",
       "workoutType": "other"
+    },
+    {
+      "color": "#AF6ED7",
+      "folder": "Shaking",
+      "id": "42",
+      "icon": "Shaking/Icon.png",
+      "symbolName": "hand.palm.facing.fill",
+      "title": "Shaking 😏",
+      "workoutType": "shaking"
     }
   ],
   "files": [
@@ -2543,6 +2552,22 @@
     {
       "icon": "Other/endRepeat/Icon.png",
       "json": "Other/endRepeat/endRepeat.json"
+    },
+    {
+      "icon": "Shaking/rightHandShake/Icon.png",
+      "json": "Shaking/rightHandShake/rightHandShake.json"
+    },
+    {
+      "icon": "Shaking/leftHandShake/Icon.png",
+      "json": "Shaking/leftHandShake/leftHandShake.json"
+    },
+    {
+      "icon": "Shaking/partnerSwitch/Icon.png",
+      "json": "Shaking/partnerSwitch/partnerSwitch.json"
+    },
+    {
+      "icon": "Shaking/theStranger/Icon.png",
+      "json": "Shaking/theStranger/theStranger.json"
     }
   ],
   "version": 2
