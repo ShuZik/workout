@@ -6,7 +6,7 @@
   "color": "#FD7C5D",
   "workoutType": "hiit",
   "valueType": "time",
-  "defaultValue": {"seconds":30},
+  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":7.5,"moderate":11,"vigorous":11,"lightCode":"12020","moderateCode":"02078","vigorousCode":"02078"},
   "timerRole": "intense",

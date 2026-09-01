@@ -6,7 +6,7 @@
   "color": "#2BBF51",
   "workoutType": "cardio",
   "valueType": "time",
-  "defaultValue": {"seconds":30},
+  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":6.8,"moderate":8.5,"vigorous":11.3,"lightCode":"19080","moderateCode":"19090","vigorousCode":"19100"},
   "timerRole": "active",

@@ -6,7 +6,7 @@
   "color": "#2BBF51",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "defaultValue": {"seconds":30},
+  "default": 30,
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
   "timerRole": "active",
   "difficulty": "basic",

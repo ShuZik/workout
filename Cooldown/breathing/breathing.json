@@ -6,7 +6,7 @@
   "color": "#0A84FF",
   "workoutType": "cooldown",
   "valueType": "time",
-  "defaultValue": {"seconds":30},
+  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1.3,"vigorous":2,"lightCode":"07021","moderateCode":"07040","vigorousCode":"02170"},
   "timerRole": "active",

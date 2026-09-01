@@ -200,7 +200,7 @@ catalog schema. Required fields:
   "color": "#ED5C63",
   "workoutType": "boxing",
   "valueType": "time",
-  "defaultValue": {"seconds":30},
+  "default": 30,
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5.8,"moderate":8.5,"vigorous":10.8,"lightCode":"15110","moderateCode":"15115","vigorousCode":"15118"},
   "timerRole": "active",
   "section": "2 Base",
@@ -210,7 +210,7 @@ catalog schema. Required fields:
 ```
 
 Required fields are `id`, `key`, `title`, `description`, `color`, `workoutType`,
-`valueType`, `defaultValue`, `energyProfile`, `section`, `availableFrom`, and
+`valueType`, `default`, `energyProfile`, `section`, `availableFrom`, and
 `availableUntil`.
 
 Allowed optional fields are only:
@@ -218,24 +218,28 @@ Allowed optional fields are only:
 - `difficulty`: `basic`, `intermediate`, `advanced`, or `pro`;
 - `level`: integer `0` through `5`, only for boxing;
 - `timerRole`: `active`, `intense`, or `rest`, only when `valueType` is `time`;
+- `default2`, only as the second value for a two-value type;
 - `subtitle`, `target`, `durationSeconds`, `durationUnit`, and `sequence`.
 
 Use only these `valueType` values:
 
 - `time` — a timed exercise;
+- `stepper` — a single Stepper cell initialized by `default`;
 - `countAndWeight` — only when the app explicitly supports both values;
-- `none` — no measured value or action control.
+- `action` — an explicit action without an editable numeric value.
 
-`timerRole` is mandatory for `time` and forbidden for every other
-`valueType`. Normal timed exercises use `active`. The recovery exercise is
+`timerRole` is mandatory for `time` and forbidden otherwise. Normal timed
+exercises use `active`. The recovery exercise is
 displayed as `Rest` and uses `timerRole: "rest"`.
 
-`defaultValue` is required on every record and stores only the catalog's
-initial value. Use `{"seconds":30}` for timed records, except Preparation,
-which uses `{"seconds":900}`. Keep the legacy `durationSeconds` field equal to
-`defaultValue.seconds`. Use `{"count":10,"weight":10}` for
-`countAndWeight`, and `{"count":1}` for the existing Repeat record. Records
-without an editable value, such as End Repeat and Delete It!, use `null`.
+`default` is required on every record and stores the first initial value.
+`default2` stores the second initial value only for a two-value type. The app
+interprets both values from `valueType`; the JSON does not name their units.
+Use `"default": 30` for every `time` record, `"default": 1` for `stepper`,
+and `"default": 10, "default2": 10` for `countAndWeight`. Records without an
+editable value, such as End Repeat and Delete It!, use `"default": null`.
+Keep the legacy `durationSeconds` field equal to `default` for `time` records
+until app 1.1.2 is retired; app 1.1.3 reads `default` first.
 Minimums, maximums, warnings, and errors are consumer-app validation rules and
 must not be stored in the catalog.
 
@@ -247,8 +251,8 @@ override intensity. Use `source: "adultCompendium2024"` with
 `unit: "MET"`, or `source: "wheelchairCompendium2024"` with `unit: "METWC"`
 for wheelchair-specific activities. If the source publishes only one suitable
 intensity, repeat that exact value and code rather than inventing another.
-`energyProfile` is `null` only for non-activity controls whose `valueType` is
-`none`.
+`energyProfile` is `null` only for non-activity controls, including structural
+controls whose `valueType` is `stepper` or `action`.
 
 Default intensity follows the prescribed catalog tempo: use `light` for
 warm-up, cool-down, yoga, meditation, breathwork, and individual combat
@@ -259,7 +263,7 @@ Energy estimation does not use or require heart rate. The catalog supplies all
 static inputs: the energy unit, the three published intensity values and codes,
 and `defaultIntensity`. The consumer supplies `bodyWeightKg`; the workout timer
 supplies actual elapsed time. A user-selected intensity may override
-`defaultIntensity`. `durationSeconds` is only a catalog timer default and must
+`defaultIntensity`. `default` is only a catalog initial value and must
 not replace actual elapsed time. Repetition count and external training weight
 are workout log values and do not enter the MET equation directly.
 
@@ -348,7 +352,8 @@ Follow this sequence for every new or edited record:
 3. Choose an existing section from the target tag. Use `1 Main` only for the
    tag-named starter record. Choose `valueType`, `timerRole`, difficulty, and
    boxing level from the rules above and the nearest comparable record. Set
-   `defaultValue` from `valueType` using the catalog defaults above.
+   `default` and optional `default2` from `valueType` using the catalog
+   defaults above.
 4. Copy the target tag's exact manifest color into the exercise JSON. Do not
    create a new color.
 5. Select or verify the exercise SF Symbol and its real `Icon.png`. Update only
@@ -364,12 +369,12 @@ Before finishing, verify all of the following:
 
 - every JSON file parses and is a single object;
 - every JSON has the required fields and no unsupported fields;
-- every exercise has a valid `defaultValue`; timed records have a matching
-  `durationSeconds`, Repeat defaults to one, and value-less controls use
-  `null`;
+- every exercise has a valid `default`; `time` records default to 30 and have
+  a matching legacy `durationSeconds`, `stepper` defaults to one,
+  `countAndWeight` has both defaults, and `action` controls use `null`;
 - every exercise has a valid `energyProfile`, with `defaultIntensity` matching
-  one of its three intensity fields and `null` used only when `valueType` is
-  `none`;
+  one of its three intensity fields and `null` used only for non-activity
+  controls;
 - every tag has a unique decimal-string `id` and every exercise has a unique
   `<tagId>.<exerciseId>` string id where both components are decimal integers
   with the correct tag prefix;

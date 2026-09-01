@@ -6,7 +6,7 @@
   "color": "#2BBF51",
   "workoutType": "cardio",
   "valueType": "time",
-  "defaultValue": {"seconds":30},
+  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {"source":"wheelchairCompendium2024","unit":"METWC","defaultIntensity":"moderate","light":4.3,"moderate":5.9,"vigorous":7.9,"lightCode":"90157","moderateCode":"90159","vigorousCode":"90160"},
   "timerRole": "active",

@@ -6,7 +6,7 @@
   "color": "#0A84FF",
   "workoutType": "warmUp",
   "valueType": "time",
-  "defaultValue": {"seconds":30},
+  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.8,"lightCode":"02101","moderateCode":"02024","vigorousCode":"02022"},
   "timerRole": "active",
