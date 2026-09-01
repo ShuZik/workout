@@ -221,12 +221,17 @@ Allowed optional fields are only:
 - `default2`, only as the second value for a two-value type;
 - `subtitle`, `target`, `durationSeconds`, `durationUnit`, and `sequence`.
 
-Use only these `valueType` values:
+The app model uses these `valueType` values:
 
 - `time` — a timed exercise;
 - `stepper` — a single Stepper cell initialized by `default`;
 - `countAndWeight` — only when the app explicitly supports both values;
 - `action` — an explicit action without an editable numeric value.
+
+For the published JSON wire format, retain compatibility with app 1.1.2:
+encode `stepper` as `repeatCount` and `action` as `none`. App 1.1.3
+normalizes those legacy values internally. Do not publish `stepper` or `action`
+until 1.1.2 is retired.
 
 `timerRole` is mandatory for `time` and forbidden otherwise. Normal timed
 exercises use `active`. The recovery exercise is
@@ -252,7 +257,7 @@ override intensity. Use `source: "adultCompendium2024"` with
 for wheelchair-specific activities. If the source publishes only one suitable
 intensity, repeat that exact value and code rather than inventing another.
 `energyProfile` is `null` only for non-activity controls, including structural
-controls whose `valueType` is `stepper` or `action`.
+controls whose wire `valueType` is `repeatCount` or `none`.
 
 Default intensity follows the prescribed catalog tempo: use `light` for
 warm-up, cool-down, yoga, meditation, breathwork, and individual combat
@@ -371,7 +376,7 @@ Before finishing, verify all of the following:
 - every JSON has the required fields and no unsupported fields;
 - every exercise has a valid `default`; `time` records default to 30 and have
   a matching legacy `durationSeconds`, `stepper` defaults to one,
-  `countAndWeight` has both defaults, and `action` controls use `null`;
+  `countAndWeight` has both defaults, and `none` action controls use `null`;
 - every exercise has a valid `energyProfile`, with `defaultIntensity` matching
   one of its three intensity fields and `null` used only for non-activity
   controls;

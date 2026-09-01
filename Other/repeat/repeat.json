@@ -5,7 +5,7 @@
   "description": "1. Place Repeat before the first workout step that should loop.\n2. Add the steps that belong inside the repeated block.\n3. Close the block with End Repeat so the enclosed steps run again as configured.",
   "color": "#808A94",
   "workoutType": "other",
-  "valueType": "stepper",
+  "valueType": "repeatCount",
   "default": 1,
   "energyProfile": null,
   "difficulty": "basic",
