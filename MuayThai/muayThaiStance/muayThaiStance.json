@@ -2,14 +2,16 @@
   "id": "2.22",
   "key": "muay_thai_muay_thai_stance",
   "title": "Muay Thai Stance",
-  "description": "1. Stand with the lead foot forward, feet slightly wider than a boxing stance, and both knees soft.\n2. Keep the torso upright, weight balanced, and the rear heel light so either shin can lift to check.\n3. Hold a high guard with the elbows close and keep the chin tucked while moving.",
+  "description": "1. Place one foot forward and one back with the hips more square than in boxing and both heels ready to lift.\n2. Soften the knees, tuck the chin, hold the forearms high, and keep the elbows close enough to protect the body.\n3. Test short steps, knee chambers, and checks without crossing the feet or shifting all weight onto one leg.",
   "color": "#F3A044",
   "workoutType": "muayThai",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

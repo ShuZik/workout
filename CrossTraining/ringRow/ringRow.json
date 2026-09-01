@@ -6,10 +6,12 @@
   "color": "#ED5C63",
   "workoutType": "crossTraining",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":7.5,"lightCode":"02034","moderateCode":"02035","vigorousCode":"02040"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Gymnastics",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

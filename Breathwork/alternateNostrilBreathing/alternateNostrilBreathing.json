@@ -2,14 +2,16 @@
   "id": "18.7",
   "key": "breathwork_alternate_nostril_breathing",
   "title": "Alternate-Nostril Breathing",
-  "description": "1. Sit comfortably, exhale, and use the right thumb to close the right nostril.\n2. Inhale through the left nostril, close it, open the right nostril, and exhale; then inhale through the right.\n3. Close the right nostril, exhale through the left to complete one cycle, and continue slowly without forcing.",
+  "description": "1. Sit comfortably, exhale, and close the right nostril with the right thumb.\n2. Inhale through the left, close it, open the right, exhale, then inhale through the right.\n3. Close the right, open the left, and exhale to complete one cycle before repeating.",
   "color": "#01C5A5",
   "workoutType": "breathwork",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1.3,"vigorous":2,"lightCode":"07021","moderateCode":"07040","vigorousCode":"02170"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

@@ -2,14 +2,16 @@
   "id": "4.28",
   "key": "mma_lead_uppercut",
   "title": "Lead Uppercut",
-  "description": "1. Lower your level by bending the knees, then drive upward from the lead leg as the lead fist rises toward the chin.\n2. Keep the punch compact and recover immediately.\n3. Use pads or a trained partner as appropriate, keep the intensity controlled, and reset safely after each repetition.",
+  "description": "1. From guard, bend the knees slightly and load the lead leg without dropping either hand.\n2. Drive upward and rotate the lead hip as the bent fist rises tightly through the centerline.\n3. Retract the fist to the cheek and restore the knees, hips, and takedown-ready stance.",
   "color": "#7D4DB3",
   "workoutType": "mma",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

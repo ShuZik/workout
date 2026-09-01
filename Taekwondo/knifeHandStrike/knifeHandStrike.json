@@ -2,14 +2,16 @@
   "id": "8.27",
   "key": "taekwondo_knife_hand_strike",
   "title": "Knife-Hand Strike",
-  "description": "1. Open the striking hand with the fingers together, thumb tucked, and wrist aligned.\n2. Rotate the hips and deliver the outer edge of the hand into a pad while the opposite hand protects the body.\n3. Stop the strike under control and retract immediately to guard.",
+  "description": "1. Open the striking hand with the fingers together, thumb tucked, and wrist aligned, then chamber it beside the shoulder.\n2. Rotate the hips and deliver the outer edge of the hand into a pad while the opposite hand protects or retracts.\n3. Stop the strike under control without bending the wrist and return the hand immediately to guard.",
   "color": "#2BBF51",
   "workoutType": "taekwondo",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

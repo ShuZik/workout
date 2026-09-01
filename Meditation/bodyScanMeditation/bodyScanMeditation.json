@@ -2,14 +2,16 @@
   "id": "19.43",
   "key": "meditation_body_scan_meditation",
   "title": "Body Scan Meditation",
-  "description": "1. Lie or sit comfortably, close the eyes if safe, and take several slow breaths.\n2. Move attention gradually from the feet through the legs, torso, hands, arms, neck, face, and head, noticing sensations without changing them.\n3. Return attention to the whole body and the natural breath before ending the practice.",
+  "description": "1. Lie or sit comfortably and begin with sensations in the feet.\n2. Move attention in order through the legs, pelvis, abdomen, back, chest, hands, arms, neck, face, and head.\n3. Notice pressure, temperature, tension, or absence of sensation in each area, then finish by sensing the whole body.",
   "color": "#AF6ED7",
   "workoutType": "meditation",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07075","moderateCode":"07075","vigorousCode":"07075"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Mindfulness",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

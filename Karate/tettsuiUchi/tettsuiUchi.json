@@ -2,14 +2,16 @@
   "id": "40.26",
   "key": "karate_tettsui_uchi",
   "title": "Tettsui Uchi",
-  "description": "1. Close the fist firmly with the wrist straight and chamber the striking hand beside or above the body.\n2. Rotate the body and deliver the bottom of the fist like a hammer along a controlled arc.\n3. Stop on the pad without bending the wrist and retract to the chamber or guard.",
+  "description": "1. Close the fist firmly, align the wrist, and chamber the hand beside or above the body according to the strike line.\n2. Rotate the body and deliver the little-finger side of the fist like a hammer along a controlled arc into a pad.\n3. Stop without bending the wrist and retract the fist directly to chamber or guard.",
   "color": "#ED5C63",
   "workoutType": "karate",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

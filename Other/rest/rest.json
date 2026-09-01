@@ -6,6 +6,8 @@
   "color": "#808A94",
   "workoutType": "other",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07021","moderateCode":"07021","vigorousCode":"07021"},
   "timerRole": "rest",
   "difficulty": "basic",
   "section": "1 Rest",

@@ -2,14 +2,16 @@
   "id": "14.13",
   "key": "core_training_superman_back_extension",
   "title": "Superman (Back Extension)",
-  "description": "1. Lie face down with the legs long and the arms reaching forward or beside the head.\n2. Brace the trunk and lift the arms, chest, and legs only as high as the spine can stay comfortable.\n3. Pause, lower slowly, and repeat without throwing the head back.",
+  "description": "1. Lie face down with the legs long, arms extended, and forehead facing the floor.\n2. Brace lightly and lift the arms, chest, and legs only a small distance without compressing the lower back.\n3. Keep the neck in line with the spine, pause briefly, then lower all limbs under control.",
   "color": "#4766C1",
   "workoutType": "coreTraining",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

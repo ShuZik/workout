@@ -2,14 +2,16 @@
   "id": "19.46",
   "key": "meditation_guided_imagery_meditation",
   "title": "Guided Imagery Meditation",
-  "description": "1. Sit or lie comfortably, close the eyes if safe, and follow a recorded or self-directed relaxation cue.\n2. Imagine a calm place using visual details, sounds, temperature, texture, and the rhythm of the breath.\n3. Let the image fade gradually, notice the room again, and open the eyes when ready.",
+  "description": "1. Sit or lie comfortably and choose one safe, calm place to imagine.\n2. Build the scene using specific sights, sounds, temperature, texture, and smells while breathing naturally.\n3. Keep returning to those sensory details, then let the image fade and notice the actual room before opening the eyes.",
   "color": "#AF6ED7",
   "workoutType": "meditation",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07075","moderateCode":"07075","vigorousCode":"07075"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Wellbeing",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

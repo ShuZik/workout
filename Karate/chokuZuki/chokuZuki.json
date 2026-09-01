@@ -2,14 +2,16 @@
   "id": "40.24",
   "key": "karate_choku_zuki",
   "title": "Choku Zuki",
-  "description": "1. Stand in a stable stance with one fist chambered at the hip and the other hand ready to punch.\n2. Drive the fist straight along the center line while rotating it near extension and pulling the opposite fist to the hip.\n3. Stop before locking the elbow, retract with the same path, and alternate sides with posture tall.",
+  "description": "1. Stand in a stable parallel or horse stance with one fist chambered at the hip and the other ready to retract.\n2. Drive the chambered fist straight along the centerline while rotating it near extension and pulling the opposite fist to the hip.\n3. Stop before locking the elbow and retract along the same line while keeping the shoulders level.",
   "color": "#ED5C63",
   "workoutType": "karate",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

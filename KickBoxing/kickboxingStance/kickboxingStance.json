@@ -2,14 +2,16 @@
   "id": "3.23",
   "key": "kick_boxing_kickboxing_stance",
   "title": "Kickboxing Stance",
-  "description": "1. Stand with the preferred side forward, feet about shoulder-width apart, and the rear heel light.\n2. Bend the knees slightly, distribute the weight so either leg can kick, and keep the hips ready to rotate.\n3. Raise both hands to the cheeks, tuck the elbows and chin, and maintain the stance while moving.",
+  "description": "1. Place one foot forward and one back with a slightly wider base than a boxing stance and both heels light.\n2. Bend the knees, tuck the chin, hold the hands at cheek level, and keep the elbows ready to protect the ribs.\n3. Test small steps and kick chambers while keeping the feet from crossing and the body balanced over the base.",
   "color": "#ED5C63",
   "workoutType": "kickBoxing",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

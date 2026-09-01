@@ -2,14 +2,16 @@
   "id": "41.28",
   "key": "judo_hadaka_jime",
   "title": "Hadaka Jime",
-  "description": "1. From controlled back position, place one forearm around the neck while keeping the partner's head and spine aligned.\n2. Connect the hands or secure the supporting arm, bring the elbows inward, and keep the chest close without jerking.\n3. Apply only gradual supervised pressure and release immediately at the first tap or verbal signal.",
+  "description": "1. From controlled back position, place one forearm around the neck while keeping the partner's head and spine aligned.\n2. Connect the hands or secure the supporting arm, bring the elbows inward, and keep the chest close without jerking.\n3. Apply pressure only gradually and release immediately at a tap, verbal signal, or loss of responsiveness.",
   "color": "#4766C1",
   "workoutType": "judo",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":11.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15433"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Osaekomi-waza",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

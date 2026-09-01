@@ -2,14 +2,16 @@
   "id": "19.42",
   "key": "meditation_seated_meditation",
   "title": "Seated Meditation",
-  "description": "1. Sit in a stable comfortable position, lengthen the spine, and rest the hands easily.\n2. Choose the breath or another neutral sensation as an anchor and observe it without trying to control it.\n3. When attention wanders, acknowledge it gently and return to the anchor until the interval ends.",
+  "description": "1. Sit with feet supported or legs comfortably crossed, pelvis stable, spine long, and hands resting.\n2. Choose the breath or another neutral body sensation and observe it without trying to change it.\n3. When attention wanders, acknowledge where it went and return to the chosen sensation.",
   "color": "#AF6ED7",
   "workoutType": "meditation",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07075","moderateCode":"07075","vigorousCode":"07075"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Mindfulness",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

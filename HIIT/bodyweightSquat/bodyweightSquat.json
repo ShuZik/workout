@@ -2,14 +2,16 @@
   "id": "12.49",
   "key": "hiit_bodyweight_squat",
   "title": "Bodyweight Squat",
-  "description": "1. Prepare any required equipment and take a stable starting position for Bodyweight Squat.\n2. Send the hips back and down while the knees track over the toes, reach a controlled depth, then drive through the whole foot to stand.\n3. Keep each repetition controlled as fatigue rises; slow down or stop before technique breaks down.",
+  "description": "1. Stand with the feet about shoulder-width apart, toes turned slightly out, and weight spread across each whole foot.\n2. Push the hips back and down while the knees track in the same direction as the toes and the chest stays lifted.\n3. Drive through the whole feet to extend the knees and hips, finishing upright without locking the knees backward.",
   "color": "#FD7C5D",
   "workoutType": "hiit",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":5,"moderate":7,"vigorous":11,"lightCode":"02008","moderateCode":"02210","vigorousCode":"02214"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Bootcamp",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

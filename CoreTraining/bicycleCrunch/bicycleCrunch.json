@@ -2,14 +2,16 @@
   "id": "14.10",
   "key": "core_training_bicycle_crunch",
   "title": "Bicycle Crunch",
-  "description": "1. Lie on the back, place the fingertips lightly behind the head, and lift the knees over the hips.\n2. Curl the shoulders up and rotate one shoulder toward the opposite knee while extending the other leg.\n3. Switch sides smoothly without pulling the neck or allowing the low back to arch.",
+  "description": "1. Lie on the back with hands lightly supporting the head and hips and knees bent to 90 degrees.\n2. Rotate the rib cage toward one bent knee while extending the opposite leg without pulling the neck.\n3. Return through center and switch sides while the lower back remains controlled.",
   "color": "#4766C1",
   "workoutType": "coreTraining",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

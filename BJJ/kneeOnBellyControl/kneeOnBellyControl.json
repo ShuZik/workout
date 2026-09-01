@@ -2,14 +2,16 @@
   "id": "6.35",
   "key": "bjj_knee_on_belly_control",
   "title": "Knee-on-Belly Control",
-  "description": "1. From secure side control, post the hands on the partner's upper body and near hip while keeping your base wide.\n2. Place the near shin across the abdomen with the knee controlled and the far foot posted away for balance.\n3. Keep pressure gradual, monitor the partner, and release immediately if discomfort or a tap occurs.",
+  "description": "1. From side control, grip or post at the partner's upper body and near hip while keeping the far foot available for balance.\n2. Place the near shin across the abdomen with the toes off the floor and extend the far leg into a wide base.\n3. Keep pressure gradual and mobile, removing the knee immediately if the partner taps or cannot breathe comfortably.",
   "color": "#4766C1",
   "workoutType": "bjj",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

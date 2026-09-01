@@ -2,14 +2,16 @@
   "id": "9.55",
   "key": "warm_up_butt_kicks",
   "title": "Butt Kicks",
-  "description": "1. Stand tall with the feet under the hips and keep the knees pointing down.\n2. Jog in place while alternating the heels toward the glutes without leaning forward.\n3. Use quick light contacts, swing the arms naturally, and maintain relaxed breathing.",
+  "description": "1. Stand tall with feet under the hips and elbows bent.\n2. Jog in place while drawing one heel toward the glute without letting that knee travel forward.\n3. Alternate heels with quick light contacts and keep the torso upright.",
   "color": "#0A84FF",
   "workoutType": "warmUp",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Cardio",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

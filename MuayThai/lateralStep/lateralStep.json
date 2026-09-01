@@ -2,14 +2,16 @@
   "id": "2.24",
   "key": "muay_thai_lateral_step",
   "title": "Lateral Step",
-  "description": "1. Begin in Muay Thai stance with the torso upright and the guard high.\n2. Push from the foot opposite the travel direction and move the near foot sideways first.\n3. Slide the trailing foot to restore stance width without crossing the feet or dropping the guard.",
+  "description": "1. Begin in Muay Thai stance with the hips centered and the forearms protecting the head and body.\n2. Step first with the foot nearest the direction of travel while keeping the toes and knees aligned.\n3. Slide the other foot after it to restore stance width without crossing the legs.",
   "color": "#F3A044",
   "workoutType": "muayThai",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

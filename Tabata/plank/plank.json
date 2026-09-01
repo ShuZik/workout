@@ -2,14 +2,16 @@
   "id": "20.15",
   "key": "tabata_plank",
   "title": "Plank",
-  "description": "1. Prepare any required equipment and take a stable starting position for Plank.\n2. Hold a straight supported position from shoulders through heels while bracing the core and breathing steadily.\n3. Keep each repetition controlled as fatigue rises; slow down or stop before technique breaks down.",
+  "description": "1. Place the elbows under the shoulders or the hands under the shoulders and extend both legs behind you.\n2. Brace the abdomen and glutes to hold one straight line from the head through the heels.\n3. Press away from the floor and keep the hips level without sagging, piking, or holding the breath.",
   "color": "#FD7C5D",
   "workoutType": "tabata",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":5,"moderate":7,"vigorous":11,"lightCode":"02008","moderateCode":"02210","vigorousCode":"02214"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Core",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

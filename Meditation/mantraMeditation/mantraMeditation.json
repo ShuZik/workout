@@ -2,14 +2,16 @@
   "id": "19.44",
   "key": "meditation_mantra_meditation",
   "title": "Mantra Meditation",
-  "description": "1. Sit comfortably, settle the breath, and choose a short neutral word or phrase as the mantra.\n2. Repeat the mantra silently or softly at an even pace while allowing the body to remain relaxed.\n3. Notice distractions without judgment and return to the mantra until the interval ends.",
+  "description": "1. Sit comfortably, settle the breath, and choose one short neutral word or phrase.\n2. Repeat the mantra silently or softly at an even pace without matching it forcefully to the breath.\n3. Notice distractions, let them pass, and resume the next repetition of the mantra.",
   "color": "#AF6ED7",
   "workoutType": "meditation",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07075","moderateCode":"07075","vigorousCode":"07075"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Mindfulness",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

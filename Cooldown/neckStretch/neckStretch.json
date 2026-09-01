@@ -2,14 +2,16 @@
   "id": "10.33",
   "key": "cooldown_neck_stretch",
   "title": "Neck Stretch",
-  "description": "1. Sit or stand tall with the shoulders relaxed and the chin level.\n2. Tilt one ear gently toward the same-side shoulder until a mild stretch is felt on the opposite side of the neck.\n3. Hold without pulling on the head, return to center, and repeat on the other side.",
+  "description": "1. Sit or stand tall with shoulders relaxed and chin level.\n2. Tilt one ear toward the same-side shoulder without lifting that shoulder or rotating the head.\n3. Hold at mild tension without pulling on the head, return to center, and repeat on the other side.",
   "color": "#0A84FF",
   "workoutType": "cooldown",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.3,"vigorous":2.3,"lightCode":"02101","moderateCode":"02101","vigorousCode":"02101"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Recovery",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

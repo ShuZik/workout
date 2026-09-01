@@ -2,14 +2,16 @@
   "id": "8.22",
   "key": "taekwondo_middle_block",
   "title": "Middle Block",
-  "description": "1. Take a stable stance and chamber the blocking arm across the body with the fist closed and wrist straight.\n2. Rotate the forearm across the middle line to deflect the attack while the opposite fist retracts to the hip.\n3. Stop the block within the body line, maintain posture, and return to ready position.",
+  "description": "1. Take a stable stance and chamber the blocking arm across the body with the fist closed and wrist straight.\n2. Rotate the forearm across the middle line as the opposite fist retracts to the hip.\n3. Stop within the body line with the elbow bent and shoulder down, then hold the stance without leaning.",
   "color": "#2BBF51",
   "workoutType": "taekwondo",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

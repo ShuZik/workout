@@ -2,14 +2,16 @@
   "id": "14.8",
   "key": "core_training_bird_dog",
   "title": "Bird Dog",
-  "description": "1. Prepare any required equipment and take a stable starting position for Bird Dog.\n2. From hands and knees, extend the opposite arm and leg without rotating the pelvis, then return and alternate sides.\n3. Maintain alignment and steady breathing until the interval ends; stop if you cannot keep control.",
+  "description": "1. Start on hands and knees with wrists under shoulders, knees under hips, and spine neutral.\n2. Extend one arm and the opposite leg until both align with the trunk without rotating the pelvis.\n3. Return the hand and knee under control, then repeat with the opposite pair.",
   "color": "#4766C1",
   "workoutType": "coreTraining",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

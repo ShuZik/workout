@@ -2,14 +2,16 @@
   "id": "2.25",
   "key": "muay_thai_lead_uppercut_elbow",
   "title": "Lead Uppercut Elbow",
-  "description": "1. Start in a high guard at close range with the lead elbow bent and the chin protected.\n2. Rotate the lead hip and shoulder while driving the point of the lead elbow upward through the center line.\n3. Stop the motion under control, return immediately to guard, and practise only on pads or with qualified supervision.",
+  "description": "1. From close guard, bend the knees slightly and load the lead side with the forearm tight to the body.\n2. Drive upward and rotate the lead hip so the point of the elbow rises vertically into an elbow pad.\n3. Stop below full shoulder elevation and return the forearm directly to the head guard.",
   "color": "#F3A044",
   "workoutType": "muayThai",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

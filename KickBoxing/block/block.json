@@ -2,14 +2,16 @@
   "id": "3.29",
   "key": "kick_boxing_block",
   "title": "Block",
-  "description": "1. Clear enough space to move safely and take a balanced starting position for Block.\n2. Use a compact guard to absorb or deflect the incoming punch, then return immediately to a balanced defensive position.\n3. Work in the air or on pads with control, reset to guard after each repetition, and continue until the interval ends.",
+  "description": "1. From guard, brace the stance and identify whether the attack is aimed at the head, body, or leg.\n2. Catch punches on the gloves and forearms, close the elbow over body targets, or raise the shin to check a low kick.\n3. Absorb the contact with soft knees and immediately restore sight, stance, and guard.",
   "color": "#ED5C63",
   "workoutType": "kickBoxing",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

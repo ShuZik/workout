@@ -2,14 +2,16 @@
   "id": "12.48",
   "key": "hiit_jumping_jack",
   "title": "Jumping Jack",
-  "description": "1. Stand with the feet together, arms by the sides, and knees soft.\n2. Jump the feet wider while sweeping both arms overhead and keeping the trunk tall.\n3. Jump back to the start, land softly, and repeat at a pace that preserves alignment.",
+  "description": "1. Stand with feet together and arms by the sides.\n2. Jump the feet wider than the hips while sweeping both arms overhead.\n3. Jump the feet together as the arms return to the sides, landing softly each time.",
   "color": "#FD7C5D",
   "workoutType": "hiit",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":5,"moderate":7,"vigorous":11,"lightCode":"02008","moderateCode":"02210","vigorousCode":"02214"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Bootcamp",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

@@ -2,14 +2,16 @@
   "id": "2.27",
   "key": "muay_thai_lead_downward_elbow",
   "title": "Lead Downward Elbow",
-  "description": "1. Begin in a high guard and raise the lead elbow above the intended pad line while protecting the chin with the rear hand.\n2. Rotate the torso and guide the lead elbow downward on a controlled diagonal path.\n3. Recoil to guard without overreaching and practise the strike only on pads with qualified supervision.",
+  "description": "1. From close guard, raise the bent lead elbow above the target without flaring the opposite hand away.\n2. Step or rotate forward and drive the point of the elbow down on a diagonal into an elbow pad.\n3. Stop the descent under control and bring the forearm back to the brow and cheek.",
   "color": "#F3A044",
   "workoutType": "muayThai",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

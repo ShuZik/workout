@@ -2,14 +2,16 @@
   "id": "29.17",
   "key": "step_training_kick",
   "title": "Kick",
-  "description": "1. Face the platform and step one foot fully onto it with the knee aligned over the toes.\n2. Drive through the standing foot and extend the free leg into a controlled front kick without locking the knee.\n3. Return the kicking foot to the floor, step down safely, and alternate sides.",
+  "description": "1. Place the lead foot fully on the platform near one corner.\n2. Lift the opposite knee and extend a low front kick without snapping or locking the knee.\n3. Retract the leg, step it to the floor, step the lead foot down, and repeat on the other side.",
   "color": "#E6BF00",
   "workoutType": "stepTraining",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5.5,"moderate":7.3,"vigorous":9,"lightCode":"02001","moderateCode":"02002","vigorousCode":"02003"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

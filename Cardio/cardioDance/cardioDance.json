@@ -2,14 +2,16 @@
   "id": "11.44",
   "key": "cardio_cardio_dance",
   "title": "Cardio Dance",
-  "description": "1. Stand tall with soft knees, brace the core, and clear enough space to move in every direction.\n2. Follow simple rhythmic steps and arm patterns continuously, changing direction while keeping a sustainable aerobic pace.\n3. Land softly, breathe steadily, and reduce the range or impact whenever form begins to break down.",
+  "description": "1. Stand with knees soft and begin with a simple side-to-side or forward-and-back step on the beat.\n2. Add arm patterns, turns, or knee lifts only after the foot rhythm is stable.\n3. Keep the steps light and reduce the range before balance or timing is lost.",
   "color": "#2BBF51",
   "workoutType": "cardio",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":4.8,"moderate":6.5,"vigorous":8,"lightCode":"02005","moderateCode":"02310","vigorousCode":"02006"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Conditioning",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

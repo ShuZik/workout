@@ -2,14 +2,16 @@
   "id": "6.34",
   "key": "bjj_single_leg_takedown",
   "title": "Single-Leg Takedown",
-  "description": "1. Clear enough space to move safely and take a balanced starting position for Single-Leg Takedown.\n2. Change level with a straight back, wrap one leg, keep the head and hips in strong position, and finish with a controlled off-balance.\n3. Use a trained partner, apply no sudden force, and release immediately at a tap or verbal signal.",
+  "description": "1. With a trained partner on mats, change level and step close enough to wrap one leg above or behind the knee.\n2. Keep the head tight to the torso, connect the hands, and stand with the captured leg held close to the hips.\n3. Turn the corner or run the pipe to remove the base, then guide the partner down and stabilize on top.",
   "color": "#4766C1",
   "workoutType": "bjj",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

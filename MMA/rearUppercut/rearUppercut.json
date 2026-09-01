@@ -2,14 +2,16 @@
   "id": "4.29",
   "key": "mma_rear_uppercut",
   "title": "Rear Uppercut",
-  "description": "1. Bend the knees and drive upward from the rear side while the rear fist travels toward the chin.\n2. Rotate the hips and rear heel, then return the hand to guard.\n3. Use pads or a trained partner as appropriate, keep the intensity controlled, and reset safely after each repetition.",
+  "description": "1. From guard, bend the knees and load the rear leg while the lead hand stays high.\n2. Push through the rear foot and rotate the hip as the bent rear fist rises through the centerline.\n3. Pull the hand back to the cheek and unwind to the original stance.",
   "color": "#7D4DB3",
   "workoutType": "mma",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

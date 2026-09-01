@@ -2,14 +2,16 @@
   "id": "6.32",
   "key": "bjj_scissor_sweep",
   "title": "Scissor Sweep",
-  "description": "1. From guard, control the partner's sleeve and upper body, turn onto one side, and place the near shin across the torso.\n2. Pull the partner forward while the lower leg chops across the base and the shin drives in the opposite direction.\n3. Follow the rotation to the top position, establish control, and reset with a cooperative partner.",
+  "description": "1. From guard, control the partner's sleeve and upper body, turn onto one side, and place the near shin across the torso.\n2. Pull the partner forward while the lower leg chops across the base and the upper shin drives in the opposite direction.\n3. Follow the rotation to the top, establish mount or another stable control, and then release the grips.",
   "color": "#4766C1",
   "workoutType": "bjj",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

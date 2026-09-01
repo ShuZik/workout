@@ -2,14 +2,16 @@
   "id": "3.28",
   "key": "kick_boxing_parry",
   "title": "Parry",
-  "description": "1. Clear enough space to move safely and take a balanced starting position for Parry.\n2. Redirect an incoming straight punch with a short hand movement while keeping the opposite hand at guard and the stance balanced.\n3. Work in the air or on pads with control, reset to guard after each repetition, and continue until the interval ends.",
+  "description": "1. From guard, read the incoming straight punch and keep the head behind the gloves.\n2. Use the same-side palm for a short inward tap that moves the punch just outside the centerline.\n3. Return the hand immediately to the cheek and keep the opposite hand ready to protect or counter.",
   "color": "#ED5C63",
   "workoutType": "kickBoxing",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

@@ -2,14 +2,16 @@
   "id": "14.7",
   "key": "core_training_dead_bug",
   "title": "Dead Bug",
-  "description": "1. Prepare any required equipment and take a stable starting position for Dead Bug.\n2. Keep the lower back gently supported as the opposite arm and leg extend away, then return to the tabletop position and alternate.\n3. Maintain alignment and steady breathing until the interval ends; stop if you cannot keep control.",
+  "description": "1. Lie on the back with hips and knees bent to 90 degrees, arms vertical, and the lower back gently supported.\n2. Extend one leg and the opposite arm toward the floor only as far as the lower back stays still.\n3. Return to the starting position and alternate sides without rushing or lifting the ribs.",
   "color": "#4766C1",
   "workoutType": "coreTraining",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

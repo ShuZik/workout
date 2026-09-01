@@ -2,14 +2,16 @@
   "id": "10.31",
   "key": "cooldown_it_band_stretch",
   "title": "IT Band Stretch",
-  "description": "1. Lie on the back with both legs long, arms out, and one heel resting over the opposite toes.\n2. Keep both knees straight and rotate the hips slowly so the top foot moves toward the floor across the body without arching the low back.\n3. Hold at gentle tension without bouncing, return to center, and repeat on the other side.",
+  "description": "1. Lie on the back with both legs long and arms extended to the sides.\n2. Lift one straight leg and guide it across the body while both shoulders remain on the floor.\n3. Hold the outer-hip and thigh stretch without bouncing, return to center, and switch legs.",
   "color": "#0A84FF",
   "workoutType": "cooldown",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.3,"vigorous":2.3,"lightCode":"02101","moderateCode":"02101","vigorousCode":"02101"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Recovery",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

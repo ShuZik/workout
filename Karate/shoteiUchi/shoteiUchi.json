@@ -2,14 +2,16 @@
   "id": "40.27",
   "key": "karate_shotei_uchi",
   "title": "Shotei Uchi",
-  "description": "1. Open the hand, keep the fingers together, tuck the thumb, and align the wrist behind the heel of the palm.\n2. Drive the palm heel straight into a pad using hip rotation while the opposite hand returns to the body.\n3. Avoid hyperextending the wrist and retract immediately to guard.",
+  "description": "1. Open the hand with fingers together, thumb tucked, and the wrist aligned behind the heel of the palm.\n2. Drive the palm heel straight into a pad using the stance and hip rotation while the opposite hand retracts or guards.\n3. Stop before hyperextending the wrist and bring the hand immediately back to guard.",
   "color": "#ED5C63",
   "workoutType": "karate",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

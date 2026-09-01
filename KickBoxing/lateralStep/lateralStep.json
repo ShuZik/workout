@@ -2,14 +2,16 @@
   "id": "3.25",
   "key": "kick_boxing_lateral_step",
   "title": "Lateral Step",
-  "description": "1. Begin in kickboxing stance with the guard high and the feet separated.\n2. Push from the foot opposite the travel direction, step sideways with the near foot, and slide the other foot the same distance.\n3. Finish in the original stance width without crossing the feet, then repeat in both directions.",
+  "description": "1. Begin in kickboxing stance with the hips centered and both hands at guard.\n2. Step first with the foot nearest the direction of travel while keeping the toes and knees aligned.\n3. Slide the other foot after it to restore stance width without crossing the legs or standing upright.",
   "color": "#ED5C63",
   "workoutType": "kickBoxing",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

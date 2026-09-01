@@ -2,14 +2,16 @@
   "id": "40.25",
   "key": "karate_empi_uchi_enpi",
   "title": "Empi Uchi (Enpi)",
-  "description": "1. Set a stable stance with the striking arm bent and the opposite hand protecting the body.\n2. Rotate the hips and torso to drive the point of the elbow along the chosen line into a pad.\n3. Keep the wrist relaxed, stop under control, and return the elbow to guard.",
+  "description": "1. Set a stable stance with the striking arm bent tightly and the opposite hand protecting or controlling near the body.\n2. Rotate the hips and torso to drive the point of the elbow along the chosen horizontal, rising, or downward line into a pad.\n3. Stop the elbow under control and return the forearm to the chamber or guard without overrotating.",
   "color": "#ED5C63",
   "workoutType": "karate",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

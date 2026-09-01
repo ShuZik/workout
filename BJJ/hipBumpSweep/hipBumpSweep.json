@@ -2,14 +2,16 @@
   "id": "6.33",
   "key": "bjj_hip_bump_sweep",
   "title": "Hip Bump Sweep",
-  "description": "1. From closed guard, sit up as the partner's posture rises and post one hand behind you for support.\n2. Control the partner's arm, drive the hips upward into the torso, and rotate toward the trapped side.\n3. Follow the partner to the mat, establish mount or top control, and reset under supervision.",
+  "description": "1. From closed guard, open the ankles and sit up as the partner's posture rises, posting one hand behind the hips.\n2. Trap the partner's arm on one side and drive the hips upward and across the torso toward that side.\n3. Follow the partner to the mat, settle into mount or top control, and release the trapped arm.",
   "color": "#4766C1",
   "workoutType": "bjj",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

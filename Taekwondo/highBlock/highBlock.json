@@ -2,14 +2,16 @@
   "id": "8.23",
   "key": "taekwondo_high_block",
   "title": "High Block",
-  "description": "1. Take a stable stance and chamber the blocking forearm across the torso.\n2. Raise and rotate the forearm above the forehead on a slight angle while pulling the opposite fist to the hip.\n3. Keep space between the forearm and head, lower the shoulders, and return to ready position.",
+  "description": "1. Take a stable stance and chamber the blocking forearm across the torso while the other arm prepares to retract.\n2. Raise and rotate the forearm above the forehead on a slight angle while pulling the opposite fist to the hip.\n3. Keep space between the forearm and head, the wrist aligned, and the shoulders relaxed.",
   "color": "#2BBF51",
   "workoutType": "taekwondo",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

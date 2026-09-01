@@ -2,14 +2,16 @@
   "id": "3.32",
   "key": "kick_boxing_body_cross",
   "title": "Body Cross",
-  "description": "1. Change level with the knees and send the rear hand straight into the solar plexus or torso.\n2. Rotate the hips for power, keep the lead hand protecting the face, and recover quickly.\n3. Work in the air or on pads with control, reset to guard after each repetition, and continue until the interval ends.",
+  "description": "1. From guard, bend the knees to lower the body while the lead hand protects the face.\n2. Push through the rear foot, rotate the hip, and drive the rear fist straight into the torso.\n3. Pull the fist back along the same path and return to the original height and stance.",
   "color": "#ED5C63",
   "workoutType": "kickBoxing",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

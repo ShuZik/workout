@@ -2,14 +2,16 @@
   "id": "17.21",
   "key": "pilates_plank",
   "title": "Plank",
-  "description": "1. Place the hands under the shoulders and extend the legs so the body forms one long line.\n2. Press the floor away, brace the abdominals, and keep the pelvis level without sagging or piking.\n3. Breathe laterally into the ribs and hold only while the shoulders and spine remain controlled.",
+  "description": "1. Place the elbows under the shoulders or the hands under the shoulders and extend both legs behind you.\n2. Brace the abdomen and glutes to hold one straight line from the head through the heels.\n3. Press away from the floor and keep the hips level without sagging, piking, or holding the breath.",
   "color": "#EA7CC7",
   "workoutType": "pilates",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":1.8,"moderate":2.8,"vigorous":2.8,"lightCode":"02103","moderateCode":"02105","vigorousCode":"02105"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

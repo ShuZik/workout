@@ -2,14 +2,16 @@
   "id": "3.36",
   "key": "kick_boxing_rear_body_uppercut",
   "title": "Rear Body Uppercut",
-  "description": "1. Bend the knees and drive the rear fist upward into the solar plexus or upper abdomen.\n2. Rotate the rear hip through the punch and return the hand to guard.\n3. Work in the air or on pads with control, reset to guard after each repetition, and continue until the interval ends.",
+  "description": "1. From guard, lower with the knees and load the rear leg without leaning over the front foot.\n2. Push through the rear foot and rotate the hip as the rear fist rises into the center of the torso.\n3. Return the fist to the cheek, unwind the hips, and restore balance before the next action.",
   "color": "#ED5C63",
   "workoutType": "kickBoxing",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

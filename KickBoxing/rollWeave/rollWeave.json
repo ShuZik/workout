@@ -2,14 +2,16 @@
   "id": "3.30",
   "key": "kick_boxing_roll_weave",
   "title": "Roll/Weave",
-  "description": "1. Clear enough space to move safely and take a balanced starting position for Roll/Weave.\n2. Bend through the knees and move the head under a looping punch while keeping the eyes forward and returning to stance.\n3. Work in the air or on pads with control, reset to guard after each repetition, and continue until the interval ends.",
+  "description": "1. From guard, bend the knees as an imagined hook approaches while keeping the torso upright.\n2. Move the head beneath the punch in a shallow U by shifting between the legs and rotating the hips.\n3. Rise on the opposite side into the same stance with both hands high and the chin tucked.",
   "color": "#ED5C63",
   "workoutType": "kickBoxing",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

@@ -2,14 +2,16 @@
   "id": "4.27",
   "key": "mma_rear_hook",
   "title": "Rear Hook",
-  "description": "1. Rotate the hips and torso toward the target while the bent rear arm travels in a tight arc.\n2. Turn the rear foot with the rotation and recover the hand to guard.\n3. Use pads or a trained partner as appropriate, keep the intensity controlled, and reset safely after each repetition.",
+  "description": "1. From guard, load the rear side and keep the rear elbow bent.\n2. Pivot the rear foot and rotate the rear hip and shoulder so the fist crosses the target on a short arc.\n3. Reverse the rotation and return the rear hand to guard without narrowing the stance.",
   "color": "#7D4DB3",
   "workoutType": "mma",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

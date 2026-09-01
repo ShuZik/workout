@@ -2,14 +2,16 @@
   "id": "2.29",
   "key": "muay_thai_kick_catch",
   "title": "Kick Catch",
-  "description": "1. Work with a partner or coach at low speed, keep the guard high, and stay balanced as the round kick arrives.\n2. Receive the kick against the arm and side, then wrap the near arm around the lower leg without twisting the partner's knee.\n3. Secure the leg only briefly, maintain posture, and release safely before resetting the drill.",
+  "description": "1. With a trained partner using light contact, brace the near forearm against an incoming body kick and keep the head protected.\n2. Guide the leg against the side of the torso and secure below the knee without twisting the partner's standing leg.\n3. Keep posture upright, release the caught leg promptly, and let the partner regain stance before repeating.",
   "color": "#F3A044",
   "workoutType": "muayThai",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

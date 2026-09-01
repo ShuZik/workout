@@ -6,10 +6,12 @@
   "color": "#01C5A5",
   "workoutType": "breathwork",
   "valueType": "time",
+  "defaultValue": {"seconds":30},
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1.3,"vigorous":2,"lightCode":"07021","moderateCode":"07040","vigorousCode":"02170"},
   "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
-  "durationSeconds": 180,
+  "durationSeconds": 30,
   "availableFrom": "1.1.2",
   "availableUntil": null
 }
