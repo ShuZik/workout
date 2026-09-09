@@ -39,16 +39,16 @@ The `main` branch is the source for app version `1.1.3`. `manifest.json` lists e
 
 The app uses its own version, for example `1.1.4`:
 
-- Tag `catalog-stop/1.1.4` exists: use the catalog at that tag.
+- Tag `stop/1.1.4` exists: use the catalog at that tag.
 - No matching tag: use `main`.
 - That catalog is already stored: skip downloading its files.
-- App updates to `1.1.5`: look for `catalog-stop/1.1.5` instead.
+- App updates to `1.1.5`: look for `stop/1.1.5` instead.
 
 Publish the tag on the last compatible commit before changing the catalog:
 
 ```sh
-git tag catalog-stop/1.1.4
-git push origin refs/tags/catalog-stop/1.1.4
+git tag stop/1.1.4
+git push origin refs/tags/stop/1.1.4
 ```
 
 The match is exact: a tag for 1.1.4 does not stop 1.1.3 or 1.1.5.
