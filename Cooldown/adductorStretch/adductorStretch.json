@@ -4,6 +4,7 @@
   "title": "Adductor Stretch",
   "description": "1. Stand wide with toes forward and shift the hips toward one side.\n2. Bend that knee while the opposite leg stays long and both feet remain flat.\n3. Hold the stretch along the inner straight leg, return to center, and switch sides.",
   "color": "#0A84FF",
+  "colorType": "blue",
   "workoutType": "cooldown",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.3,"vigorous":2.3,"lightCode":"02101","moderateCode":"02101","vigorousCode":"02101"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "1 Recovery",
+  "section": "2 Recovery",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

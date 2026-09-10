@@ -4,6 +4,7 @@
   "title": "Treadmill",
   "description": "1. Attach the safety clip and start the belt at a slow walking speed.\n2. Walk in the center with natural heel-to-toe steps and arms swinging freely.\n3. Raise speed or incline gradually, then slow the belt before stepping off.",
   "color": "#0A84FF",
+  "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.8,"moderate":3.8,"vigorous":5.5,"lightCode":"17152","moderateCode":"17190","vigorousCode":"17220"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "3 Cardio",
+  "section": "4 Cardio",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

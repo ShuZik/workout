@@ -2,6 +2,7 @@
   "tags": [
     {
       "color": "#ED5C63",
+      "colorType": "red",
       "folder": "Custom",
       "id": "999999",
       "icon": "Custom/Icon.png",
@@ -11,6 +12,7 @@
     },
     {
       "color": "#2BBF51",
+      "colorType": "green",
       "folder": "Cardio",
       "id": "11",
       "icon": "Cardio/Icon.png",
@@ -20,6 +22,7 @@
     },
     {
       "color": "#0A84FF",
+      "colorType": "blue",
       "folder": "WarmUp",
       "id": "9",
       "icon": "WarmUp/Icon.png",
@@ -29,6 +32,7 @@
     },
     {
       "color": "#0A84FF",
+      "colorType": "blue",
       "folder": "Cooldown",
       "id": "10",
       "icon": "Cooldown/Icon.png",
@@ -38,6 +42,7 @@
     },
     {
       "color": "#ED5C63",
+      "colorType": "red",
       "folder": "Boxing",
       "id": "1",
       "icon": "Boxing/Icon.png",
@@ -47,6 +52,7 @@
     },
     {
       "color": "#ED5C63",
+      "colorType": "red",
       "folder": "KickBoxing",
       "id": "3",
       "icon": "KickBoxing/Icon.png",
@@ -56,6 +62,7 @@
     },
     {
       "color": "#F3A044",
+      "colorType": "orange",
       "folder": "MuayThai",
       "id": "2",
       "icon": "MuayThai/Icon.png",
@@ -65,6 +72,7 @@
     },
     {
       "color": "#7D4DB3",
+      "colorType": "purple",
       "folder": "MMA",
       "id": "4",
       "icon": "MMA/Icon.png",
@@ -74,6 +82,7 @@
     },
     {
       "color": "#4766C1",
+      "colorType": "indigo",
       "folder": "BJJ",
       "id": "6",
       "icon": "BJJ/Icon.png",
@@ -83,6 +92,7 @@
     },
     {
       "color": "#ED5C63",
+      "colorType": "red",
       "folder": "Karate",
       "id": "40",
       "icon": "Karate/Icon.png",
@@ -92,6 +102,7 @@
     },
     {
       "color": "#2BBF51",
+      "colorType": "green",
       "folder": "Taekwondo",
       "id": "8",
       "icon": "Taekwondo/Icon.png",
@@ -101,6 +112,7 @@
     },
     {
       "color": "#4766C1",
+      "colorType": "indigo",
       "folder": "Judo",
       "id": "41",
       "icon": "Judo/Icon.png",
@@ -110,6 +122,7 @@
     },
     {
       "color": "#4766C1",
+      "colorType": "indigo",
       "folder": "CoreTraining",
       "id": "14",
       "icon": "CoreTraining/Icon.png",
@@ -119,6 +132,7 @@
     },
     {
       "color": "#FD7C5D",
+      "colorType": "coral",
       "folder": "HIIT",
       "id": "12",
       "icon": "HIIT/Icon.png",
@@ -128,6 +142,7 @@
     },
     {
       "color": "#01C5A5",
+      "colorType": "teal",
       "folder": "SuspensionTraining",
       "id": "22",
       "icon": "SuspensionTraining/Icon.png",
@@ -137,6 +152,7 @@
     },
     {
       "color": "#ED5C63",
+      "colorType": "red",
       "folder": "CrossTraining",
       "id": "23",
       "icon": "CrossTraining/Icon.png",
@@ -146,6 +162,7 @@
     },
     {
       "color": "#FD7C5D",
+      "colorType": "coral",
       "folder": "Tabata",
       "id": "20",
       "icon": "Tabata/Icon.png",
@@ -155,6 +172,7 @@
     },
     {
       "color": "#7D4DB3",
+      "colorType": "purple",
       "folder": "Strength",
       "id": "13",
       "icon": "Strength/Icon.png",
@@ -163,34 +181,8 @@
       "workoutType": "strength"
     },
     {
-      "color": "#EA7CC7",
-      "folder": "Pilates",
-      "id": "17",
-      "icon": "Pilates/Icon.png",
-      "symbolName": "figure.pilates",
-      "title": "Pilates",
-      "workoutType": "pilates"
-    },
-    {
-      "color": "#E6BF00",
-      "folder": "StepTraining",
-      "id": "29",
-      "icon": "StepTraining/Icon.png",
-      "symbolName": "figure.step.training",
-      "title": "Step Training",
-      "workoutType": "stepTraining"
-    },
-    {
       "color": "#AF6ED7",
-      "folder": "Yoga",
-      "id": "16",
-      "icon": "Yoga/Icon.png",
-      "symbolName": "figure.yoga",
-      "title": "Yoga",
-      "workoutType": "yoga"
-    },
-    {
-      "color": "#AF6ED7",
+      "colorType": "violet",
       "folder": "Meditation",
       "id": "19",
       "icon": "Meditation/Icon.png",
@@ -200,6 +192,7 @@
     },
     {
       "color": "#01C5A5",
+      "colorType": "teal",
       "folder": "Breathwork",
       "id": "18",
       "icon": "Breathwork/Icon.png",
@@ -209,6 +202,7 @@
     },
     {
       "color": "#7D4DB3",
+      "colorType": "purple",
       "folder": "FunctionalTraining",
       "id": "24",
       "icon": "FunctionalTraining/Icon.png",
@@ -218,6 +212,7 @@
     },
     {
       "color": "#0A84FF",
+      "colorType": "blue",
       "folder": "Calisthenics",
       "id": "25",
       "icon": "Calisthenics/Icon.png",
@@ -227,6 +222,7 @@
     },
     {
       "color": "#808A94",
+      "colorType": "gray",
       "folder": "Other",
       "id": "0",
       "icon": "Other/Icon.png",
@@ -236,10 +232,6 @@
     }
   ],
   "files": [
-    {
-      "icon": "Custom/deleteIt/Icon.png",
-      "json": "Custom/deleteIt/deleteIt.json"
-    },
     {
       "icon": "Cardio/cardio/Icon.png",
       "json": "Cardio/cardio/cardio.json"
@@ -591,10 +583,6 @@
     {
       "icon": "Cooldown/breathing/Icon.png",
       "json": "Cooldown/breathing/breathing.json"
-    },
-    {
-      "icon": "Cooldown/lightShadowboxing/Icon.png",
-      "json": "Cooldown/lightShadowboxing/lightShadowboxing.json"
     },
     {
       "icon": "Cooldown/shoulderStretch/Icon.png",
@@ -2049,242 +2037,6 @@
       "icon": "Strength/dumbbellReverseLunge/Icon.png"
     },
     {
-      "icon": "Pilates/pilates/Icon.png",
-      "json": "Pilates/pilates/pilates.json"
-    },
-    {
-      "json": "Pilates/breathing/breathing.json",
-      "icon": "Pilates/breathing/Icon.png"
-    },
-    {
-      "json": "Pilates/imprintRelease/imprintRelease.json",
-      "icon": "Pilates/imprintRelease/Icon.png"
-    },
-    {
-      "json": "Pilates/catStretch/catStretch.json",
-      "icon": "Pilates/catStretch/Icon.png"
-    },
-    {
-      "json": "Pilates/hipRolls/hipRolls.json",
-      "icon": "Pilates/hipRolls/Icon.png"
-    },
-    {
-      "json": "Pilates/abPrep/abPrep.json",
-      "icon": "Pilates/abPrep/Icon.png"
-    },
-    {
-      "json": "Pilates/hundred/hundred.json",
-      "icon": "Pilates/hundred/Icon.png"
-    },
-    {
-      "json": "Pilates/halfRollBack/halfRollBack.json",
-      "icon": "Pilates/halfRollBack/Icon.png"
-    },
-    {
-      "json": "Pilates/oneLegCircle/oneLegCircle.json",
-      "icon": "Pilates/oneLegCircle/Icon.png"
-    },
-    {
-      "json": "Pilates/spineTwist/spineTwist.json",
-      "icon": "Pilates/spineTwist/Icon.png"
-    },
-    {
-      "json": "Pilates/singleLegStretch/singleLegStretch.json",
-      "icon": "Pilates/singleLegStretch/Icon.png"
-    },
-    {
-      "json": "Pilates/shoulderBridgePrep/shoulderBridgePrep.json",
-      "icon": "Pilates/shoulderBridgePrep/Icon.png"
-    },
-    {
-      "json": "Pilates/spineStretchForward/spineStretchForward.json",
-      "icon": "Pilates/spineStretchForward/Icon.png"
-    },
-    {
-      "json": "Pilates/rollUp/rollUp.json",
-      "icon": "Pilates/rollUp/Icon.png"
-    },
-    {
-      "json": "Pilates/rollingLikeABall/rollingLikeABall.json",
-      "icon": "Pilates/rollingLikeABall/Icon.png"
-    },
-    {
-      "json": "Pilates/doubleLegStretch/doubleLegStretch.json",
-      "icon": "Pilates/doubleLegStretch/Icon.png"
-    },
-    {
-      "json": "Pilates/scissors/scissors.json",
-      "icon": "Pilates/scissors/Icon.png"
-    },
-    {
-      "json": "Pilates/saw/saw.json",
-      "icon": "Pilates/saw/Icon.png"
-    },
-    {
-      "json": "Pilates/sideKick/sideKick.json",
-      "icon": "Pilates/sideKick/Icon.png"
-    },
-    {
-      "json": "Pilates/swanDivePrep/swanDivePrep.json",
-      "icon": "Pilates/swanDivePrep/Icon.png"
-    },
-    {
-      "json": "Pilates/plank/plank.json",
-      "icon": "Pilates/plank/Icon.png"
-    },
-    {
-      "json": "Pilates/pushUpPrep/pushUpPrep.json",
-      "icon": "Pilates/pushUpPrep/Icon.png"
-    },
-    {
-      "json": "Pilates/neckPullPrep/neckPullPrep.json",
-      "icon": "Pilates/neckPullPrep/Icon.png"
-    },
-    {
-      "json": "Pilates/seal/seal.json",
-      "icon": "Pilates/seal/Icon.png"
-    },
-    {
-      "json": "Pilates/teaserPrep/teaserPrep.json",
-      "icon": "Pilates/teaserPrep/Icon.png"
-    },
-    {
-      "icon": "StepTraining/stepTraining/Icon.png",
-      "json": "StepTraining/stepTraining/stepTraining.json"
-    },
-    {
-      "icon": "StepTraining/basicStep/Icon.png",
-      "json": "StepTraining/basicStep/basicStep.json"
-    },
-    {
-      "icon": "StepTraining/vStep/Icon.png",
-      "json": "StepTraining/vStep/vStep.json"
-    },
-    {
-      "icon": "StepTraining/aStep/Icon.png",
-      "json": "StepTraining/aStep/aStep.json"
-    },
-    {
-      "icon": "StepTraining/cornerToCornerStep/Icon.png",
-      "json": "StepTraining/cornerToCornerStep/cornerToCornerStep.json"
-    },
-    {
-      "icon": "StepTraining/kneeLift/Icon.png",
-      "json": "StepTraining/kneeLift/kneeLift.json"
-    },
-    {
-      "icon": "StepTraining/hamstringCurl/Icon.png",
-      "json": "StepTraining/hamstringCurl/hamstringCurl.json"
-    },
-    {
-      "icon": "StepTraining/gluteLift/Icon.png",
-      "json": "StepTraining/gluteLift/gluteLift.json"
-    },
-    {
-      "icon": "StepTraining/sideLegLift/Icon.png",
-      "json": "StepTraining/sideLegLift/sideLegLift.json"
-    },
-    {
-      "icon": "StepTraining/lStep/Icon.png",
-      "json": "StepTraining/lStep/lStep.json"
-    },
-    {
-      "icon": "StepTraining/turnStep/Icon.png",
-      "json": "StepTraining/turnStep/turnStep.json"
-    },
-    {
-      "icon": "StepTraining/overTheTop/Icon.png",
-      "json": "StepTraining/overTheTop/overTheTop.json"
-    },
-    {
-      "icon": "StepTraining/repeaterKnee/Icon.png",
-      "json": "StepTraining/repeaterKnee/repeaterKnee.json"
-    },
-    {
-      "icon": "StepTraining/straddleDown/Icon.png",
-      "json": "StepTraining/straddleDown/straddleDown.json"
-    },
-    {
-      "json": "StepTraining/kick/kick.json",
-      "icon": "StepTraining/kick/Icon.png"
-    },
-    {
-      "json": "StepTraining/lunge/lunge.json",
-      "icon": "StepTraining/lunge/Icon.png"
-    },
-    {
-      "icon": "Yoga/yoga/Icon.png",
-      "json": "Yoga/yoga/yoga.json"
-    },
-    {
-      "json": "Yoga/mountainPose/mountainPose.json",
-      "icon": "Yoga/mountainPose/Icon.png"
-    },
-    {
-      "json": "Yoga/childsPose/childsPose.json",
-      "icon": "Yoga/childsPose/Icon.png"
-    },
-    {
-      "json": "Yoga/catCow/catCow.json",
-      "icon": "Yoga/catCow/Icon.png"
-    },
-    {
-      "json": "Yoga/downwardFacingDog/downwardFacingDog.json",
-      "icon": "Yoga/downwardFacingDog/Icon.png"
-    },
-    {
-      "json": "Yoga/cobraPose/cobraPose.json",
-      "icon": "Yoga/cobraPose/Icon.png"
-    },
-    {
-      "json": "Yoga/lowLunge/lowLunge.json",
-      "icon": "Yoga/lowLunge/Icon.png"
-    },
-    {
-      "json": "Yoga/warriorI/warriorI.json",
-      "icon": "Yoga/warriorI/Icon.png"
-    },
-    {
-      "json": "Yoga/warriorII/warriorII.json",
-      "icon": "Yoga/warriorII/Icon.png"
-    },
-    {
-      "json": "Yoga/trianglePose/trianglePose.json",
-      "icon": "Yoga/trianglePose/Icon.png"
-    },
-    {
-      "json": "Yoga/treePose/treePose.json",
-      "icon": "Yoga/treePose/Icon.png"
-    },
-    {
-      "json": "Yoga/bridgePose/bridgePose.json",
-      "icon": "Yoga/bridgePose/Icon.png"
-    },
-    {
-      "json": "Yoga/seatedForwardFold/seatedForwardFold.json",
-      "icon": "Yoga/seatedForwardFold/Icon.png"
-    },
-    {
-      "json": "Yoga/savasana/savasana.json",
-      "icon": "Yoga/savasana/Icon.png"
-    },
-    {
-      "json": "Yoga/easyPoseSukhasana/easyPoseSukhasana.json",
-      "icon": "Yoga/easyPoseSukhasana/Icon.png"
-    },
-    {
-      "json": "Yoga/standingForwardBendUttanasana/standingForwardBendUttanasana.json",
-      "icon": "Yoga/standingForwardBendUttanasana/Icon.png"
-    },
-    {
-      "json": "Yoga/chairPoseUtkatasana/chairPoseUtkatasana.json",
-      "icon": "Yoga/chairPoseUtkatasana/Icon.png"
-    },
-    {
-      "json": "Yoga/upwardFacingDog/upwardFacingDog.json",
-      "icon": "Yoga/upwardFacingDog/Icon.png"
-    },
-    {
       "icon": "Meditation/meditation/Icon.png",
       "json": "Meditation/meditation/meditation.json"
     },
@@ -2543,6 +2295,82 @@
     {
       "icon": "Other/endRepeat/Icon.png",
       "json": "Other/endRepeat/endRepeat.json"
+    },
+    {
+      "icon": "Other/note/Icon.png",
+      "json": "Other/note/note.json"
+    },
+    {
+      "icon": "Other/work/Icon.png",
+      "json": "Other/work/work.json"
+    },
+    {
+      "icon": "CoreTraining/hollowHold/Icon.png",
+      "json": "CoreTraining/hollowHold/hollowHold.json"
+    },
+    {
+      "icon": "CoreTraining/reverseCrunch/Icon.png",
+      "json": "CoreTraining/reverseCrunch/reverseCrunch.json"
+    },
+    {
+      "icon": "CoreTraining/bearPlank/Icon.png",
+      "json": "CoreTraining/bearPlank/bearPlank.json"
+    },
+    {
+      "icon": "SuspensionTraining/suspensionPushUp/Icon.png",
+      "json": "SuspensionTraining/suspensionPushUp/suspensionPushUp.json"
+    },
+    {
+      "icon": "SuspensionTraining/suspensionYFly/Icon.png",
+      "json": "SuspensionTraining/suspensionYFly/suspensionYFly.json"
+    },
+    {
+      "icon": "CrossTraining/thruster/Icon.png",
+      "json": "CrossTraining/thruster/thruster.json"
+    },
+    {
+      "icon": "CrossTraining/powerClean/Icon.png",
+      "json": "CrossTraining/powerClean/powerClean.json"
+    },
+    {
+      "icon": "CrossTraining/cleanAndJerk/Icon.png",
+      "json": "CrossTraining/cleanAndJerk/cleanAndJerk.json"
+    },
+    {
+      "icon": "CrossTraining/wallBall/Icon.png",
+      "json": "CrossTraining/wallBall/wallBall.json"
+    },
+    {
+      "icon": "CrossTraining/boxJump/Icon.png",
+      "json": "CrossTraining/boxJump/boxJump.json"
+    },
+    {
+      "icon": "CrossTraining/toesToBar/Icon.png",
+      "json": "CrossTraining/toesToBar/toesToBar.json"
+    },
+    {
+      "icon": "Strength/dumbbellBicepsCurl/Icon.png",
+      "json": "Strength/dumbbellBicepsCurl/dumbbellBicepsCurl.json"
+    },
+    {
+      "icon": "Strength/dumbbellLateralRaise/Icon.png",
+      "json": "Strength/dumbbellLateralRaise/dumbbellLateralRaise.json"
+    },
+    {
+      "icon": "Strength/dumbbellTricepsExtension/Icon.png",
+      "json": "Strength/dumbbellTricepsExtension/dumbbellTricepsExtension.json"
+    },
+    {
+      "icon": "Strength/dumbbellFly/Icon.png",
+      "json": "Strength/dumbbellFly/dumbbellFly.json"
+    },
+    {
+      "icon": "Calisthenics/invertedRow/Icon.png",
+      "json": "Calisthenics/invertedRow/invertedRow.json"
+    },
+    {
+      "icon": "Calisthenics/pikePushUp/Icon.png",
+      "json": "Calisthenics/pikePushUp/pikePushUp.json"
     }
   ],
   "version": 2

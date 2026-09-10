@@ -1,0 +1,17 @@
+{
+  "id": "23.32",
+  "key": "cross_training_wall_ball",
+  "title": "Wall Ball",
+  "description": "1. Hold a medicine ball at the chest while facing a clear wall target and stand with feet about shoulder width apart.\n2. Squat to a controlled depth, then drive through the legs and throw the ball to the target.\n3. Receive the ball softly at the chest and descend into the next squat without letting the knees collapse inward.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":7.5,"lightCode":"02034","moderateCode":"02035","vigorousCode":"02040"},
+  "difficulty": "intermediate",
+  "section": "5 Mixed Load",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

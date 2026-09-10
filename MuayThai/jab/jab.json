@@ -4,6 +4,7 @@
   "title": "Jab",
   "description": "1. From a high Muay Thai guard, push lightly from the rear foot and extend the lead fist straight.\n2. Turn the fist near extension, raise the lead shoulder, and keep the rear glove beside the cheek.\n3. Retract the hand along the same line and restore the more square stance before kicking or punching again.",
   "color": "#F3A044",
+  "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "2 Base",
+  "section": "2 Foundations",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

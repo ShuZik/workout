@@ -4,6 +4,7 @@
   "title": "MMA Stance and Movement",
   "description": "1. Place one foot forward in a slightly lower and wider stance than boxing, with the chin tucked and hands near the temples.\n2. Advance, retreat, circle, and pivot with short steps while keeping the feet apart and the hips ready to drop for a sprawl.\n3. Change range without crossing the legs, then settle both feet beneath the body before striking or shooting.",
   "color": "#7D4DB3",
+  "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "2 Base",
+  "section": "2 Striking",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

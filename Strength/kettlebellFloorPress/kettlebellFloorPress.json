@@ -4,6 +4,7 @@
   "title": "Kettlebell Floor Press",
   "description": "1. Lie on the back with knees bent and hold the kettlebell over one shoulder with wrist straight.\n2. Lower the upper arm until it touches the floor gently while the forearm stays vertical.\n3. Press the bell back above the shoulder without lifting the torso, then switch arms after the set.",
   "color": "#7D4DB3",
+  "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
   "default": 10,
@@ -11,6 +12,6 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
   "difficulty": "basic",
   "section": "4 Kettlebell",
-  "availableFrom": "1.1.5",
+  "availableFrom": "1.1.4",
   "availableUntil": null
 }

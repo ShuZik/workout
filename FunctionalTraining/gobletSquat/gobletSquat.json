@@ -4,6 +4,7 @@
   "title": "Goblet Squat",
   "description": "1. Hold one dumbbell or kettlebell close to the chest and stand with feet about shoulder-width apart.\n2. Squat between the hips while the knees track over the toes and the weight stays close to the torso.\n3. Drive through the whole feet to stand, keeping the chest lifted and the load steady.",
   "color": "#7D4DB3",
+  "colorType": "purple",
   "workoutType": "functionalTraining",
   "valueType": "countAndWeight",
   "default": 10,
@@ -11,6 +12,6 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
   "difficulty": "basic",
   "section": "4 Loaded Movement",
-  "availableFrom": "1.1.5",
+  "availableFrom": "1.1.4",
   "availableUntil": null
 }

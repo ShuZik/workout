@@ -59,8 +59,8 @@ Every tag folder has one group `Icon.png`. Every exercise folder has its own
 
 `manifest.json` is schema version 2 and has exactly two catalog collections:
 
-- `tags`: tag id, tag identity, title, workout type, group color, group symbol,
-  and group icon path;
+- `tags`: tag id, tag identity, title, workout type, legacy group color,
+  semantic group color type, group symbol, and group icon path;
 - `files`: one `{ "json": ..., "icon": ... }` pair for every exercise.
 
 Keep the existing tag order and existing manifest entries. Do not reorder the
@@ -75,63 +75,68 @@ exercise, add exactly one entry keyed by its exercise `key`.
 ## Tag identity registry
 
 Use this table as the source of truth for existing tags. The `workoutType`,
-group symbol, and group color must match both the tag record in `manifest.json`
-and every exercise JSON inside that tag.
+group symbol, legacy group color, and semantic group color type must match both
+the tag record in `manifest.json` and every exercise JSON inside that tag.
 
-| Folder | Display title | `workoutType` | Group SF Symbol | Palette color |
+| Folder | Display title | `workoutType` | Group SF Symbol | `colorType` / legacy color |
 | --- | --- | --- | --- | --- |
-| `Boxing` | Boxing | `boxing` | `figure.boxing` | `icon_red` / `#ED5C63` |
-| `MuayThai` | Muay Thai | `muayThai` | `figure.kickboxing` | `icon_orange` / `#F3A044` |
-| `KickBoxing` | Kickboxing | `kickBoxing` | `figure.kickboxing` | `icon_red` / `#ED5C63` |
-| `MMA` | MMA | `mma` | `figure.wrestling` | `icon_purple` / `#7D4DB3` |
-| `UFC` | MMA Conditioning | `ufc` | `figure.wrestling` | `icon_indigo` / `#4766C1` |
-| `BJJ` | BJJ | `bjj` | `figure.boxing` | `icon_indigo` / `#4766C1` |
-| `Wrestling` | Wrestling | `wrestling` | `figure.wrestling` | `icon_teal` / `#01C5A5` |
-| `Taekwondo` | Taekwondo | `taekwondo` | `figure.boxing` | `icon_green` / `#2BBF51` |
-| `HIIT` | HIIT | `hiit` | `figure.cross.training` | `icon_coral` / `#FD7C5D` |
-| `Strength` | Strength | `strength` | `figure.strengthtraining.traditional` | `icon_purple` / `#7D4DB3` |
-| `CoreTraining` | Core Training | `coreTraining` | `figure.strengthtraining.functional` | `icon_indigo` / `#4766C1` |
-| `Mobility` | Mobility | `mobility` | `figure.flexibility` | `icon_cyan` / `#67C4ED` |
-| `Yoga` | Yoga | `yoga` | `figure.yoga` | `icon_violet` / `#AF6ED7` |
-| `Pilates` | Pilates | `pilates` | `figure.pilates` | `icon_pink` / `#EA7CC7` |
-| `Breathwork` | Breathwork | `breathwork` | `lungs.fill` | `icon_teal` / `#01C5A5` |
-| `WarmUp` | Warm-up | `warmUp` | `figure.jumprope` | `icon_blue` / `#0A84FF` |
-| `Cooldown` | Cool-down | `cooldown` | `figure.flexibility` | `icon_blue` / `#0A84FF` |
-| `Other` | Workout Structure | `other` | `list.bullet` | `icon_gray` / `#808A94` |
-| `Custom` | Custom | `custom` | `figure.strengthtraining.traditional` | `icon_red` / `#ED5C63` |
-| `Shaking` | Shaking 😏 | `shaking` | `hand.palm.facing.fill` | `icon_violet` / `#AF6ED7` |
+| `Boxing` | Boxing | `boxing` | `figure.boxing` | `red` / `#ED5C63` |
+| `MuayThai` | Muay Thai | `muayThai` | `figure.kickboxing` | `orange` / `#F3A044` |
+| `KickBoxing` | Kickboxing | `kickBoxing` | `figure.kickboxing` | `red` / `#ED5C63` |
+| `MMA` | MMA | `mma` | `figure.wrestling` | `purple` / `#7D4DB3` |
+| `UFC` | MMA Conditioning | `ufc` | `figure.wrestling` | `indigo` / `#4766C1` |
+| `BJJ` | BJJ | `bjj` | `figure.boxing` | `indigo` / `#4766C1` |
+| `Wrestling` | Wrestling | `wrestling` | `figure.wrestling` | `teal` / `#01C5A5` |
+| `Taekwondo` | Taekwondo | `taekwondo` | `figure.boxing` | `green` / `#2BBF51` |
+| `HIIT` | HIIT | `hiit` | `figure.cross.training` | `coral` / `#FD7C5D` |
+| `Strength` | Strength | `strength` | `figure.strengthtraining.traditional` | `purple` / `#7D4DB3` |
+| `CoreTraining` | Core Training | `coreTraining` | `figure.strengthtraining.functional` | `indigo` / `#4766C1` |
+| `Mobility` | Mobility | `mobility` | `figure.flexibility` | `cyan` / `#67C4ED` |
+| `Yoga` | Yoga | `yoga` | `figure.yoga` | `violet` / `#AF6ED7` |
+| `Pilates` | Pilates | `pilates` | `figure.pilates` | `pink` / `#EA7CC7` |
+| `Breathwork` | Breathwork | `breathwork` | `lungs.fill` | `teal` / `#01C5A5` |
+| `WarmUp` | Warm-up | `warmUp` | `figure.jumprope` | `blue` / `#0A84FF` |
+| `Cooldown` | Cool-down | `cooldown` | `figure.flexibility` | `blue` / `#0A84FF` |
+| `Other` | Workout Structure | `other` | `list.bullet` | `gray` / `#808A94` |
+| `Custom` | Custom | `custom` | `figure.strengthtraining.traditional` | `red` / `#ED5C63` |
+| `Shaking` | Shaking 😏 | `shaking` | `hand.palm.facing.fill` | `violet` / `#AF6ED7` |
 
 Shared tag colors are intentional when they are the correct app palette color.
 Do not reject a color merely because another tag uses it.
 
 ## App color palette
 
-Exercise and tag colors must be exact sRGB hex values from the app's
-`AppColor.IconPicker` palette. Use the nearest visual color family when an
-input color is not already in the palette. When candidates are close, preserve
-the hue family: orange maps to `icon_orange`, not yellow. Never invent a new
-hex value.
+Exercise and tag `colorType` values must be one of the app's approved bare
+palette names. The design system resolves that type through the identically
+named Asset and automatically selects its light or dark appearance value.
+`color` remains the exact legacy sRGB hex for older releases and fallback data.
+Use the nearest visual color family when an input color is not already in the
+palette. When candidates are close, preserve the hue family: orange maps to
+`orange`, not `yellow`. Never invent a new palette type or legacy hex value.
 
-| Palette name | sRGB hex |
+| `colorType` | Legacy sRGB hex |
 | --- | --- |
-| `icon_red` | `#ED5C63` |
-| `icon_coral` | `#FD7C5D` |
-| `icon_orange` | `#F3A044` |
-| `icon_yellow` | `#E6BF00` |
-| `icon_green` | `#2BBF51` |
-| `icon_teal` | `#01C5A5` |
-| `icon_cyan` | `#67C4ED` |
-| `icon_blue` | `#0A84FF` |
-| `icon_indigo` | `#4766C1` |
-| `icon_purple` | `#7D4DB3` |
-| `icon_violet` | `#AF6ED7` |
-| `icon_pink` | `#EA7CC7` |
-| `icon_gray` | `#808A94` |
-| `icon_sage` | `#90A994` |
-| `icon_tan` | `#B79E80` |
+| `red` | `#ED5C63` |
+| `coral` | `#FD7C5D` |
+| `orange` | `#F3A044` |
+| `yellow` | `#E6BF00` |
+| `green` | `#2BBF51` |
+| `teal` | `#01C5A5` |
+| `cyan` | `#67C4ED` |
+| `blue` | `#0A84FF` |
+| `indigo` | `#4766C1` |
+| `purple` | `#7D4DB3` |
+| `violet` | `#AF6ED7` |
+| `pink` | `#EA7CC7` |
+| `gray` | `#808A94` |
+| `sage` | `#90A994` |
+| `tan` | `#B79E80` |
 
-For every exercise, set `color` to the exact color of its top-level tag in
-`manifest.json`. Do not assign an exercise-specific color inside a tag.
+For every exercise, set `color` and `colorType` to the exact values of its
+top-level tag in `manifest.json`. Do not assign an exercise-specific color
+family inside a tag. The intentional exception is `Other/note`: it uses its
+own retained legacy color `#9B7B00` and `colorType: "yellow"` so the Note
+control remains visually distinct from structural controls.
 
 ## Exercise identity and paths
 
@@ -198,6 +203,7 @@ catalog schema. Required fields:
   "title": "Jab",
   "description": "Short exercise description.",
   "color": "#ED5C63",
+  "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
   "default": 30,
@@ -209,9 +215,9 @@ catalog schema. Required fields:
 }
 ```
 
-Required fields are `id`, `key`, `title`, `description`, `color`, `workoutType`,
-`valueType`, `default`, `energyProfile`, `section`, `availableFrom`, and
-`availableUntil`.
+Required fields are `id`, `key`, `title`, `description`, `color`, `colorType`,
+`workoutType`, `valueType`, `default`, `energyProfile`, `section`,
+`availableFrom`, and `availableUntil`.
 
 Allowed optional fields are only:
 
@@ -386,7 +392,9 @@ Before finishing, verify all of the following:
 - every key is unique and every edit preserved the old key;
 - every title/path pair follows lowerCamelCase;
 - every `workoutType` matches its manifest tag;
-- every exercise color is an allowed palette color and exactly matches its tag;
+- every exercise `color` and `colorType` exactly match its tag, except for the
+  intentional yellow `Other/note` control, and every `colorType` is an
+  approved bare palette name;
 - `timerRole` appears if and only if `valueType` is `time`;
 - boxing levels are present and valid, while non-boxing records omit `level`;
 - every exercise folder contains the matching JSON and `Icon.png`;

@@ -4,6 +4,7 @@
   "title": "Cross",
   "description": "1. From kickboxing guard, drive through the rear foot and rotate the rear hip and shoulder forward.\n2. Send the rear fist straight while the lead hand protects the face and the chin remains tucked.\n3. Unwind the hips and retract the fist along the same line to regain stance and guard.",
   "color": "#ED5C63",
+  "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "2 Base",
+  "section": "2 Foundations",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

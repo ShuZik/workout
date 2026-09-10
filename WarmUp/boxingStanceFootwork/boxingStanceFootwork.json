@@ -4,6 +4,7 @@
   "title": "Boxing Stance & Footwork",
   "description": "1. Take a boxing stance with knees soft, rear heel raised, and hands protecting the cheeks.\n2. Step forward, back, and sideways with the nearest foot moving first while stance width stays constant.\n3. Add small pivots on the balls of the feet without crossing the legs or bringing the feet together.",
   "color": "#0A84FF",
+  "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":5.8,"vigorous":7,"lightCode":"15425","moderateCode":"15110","vigorousCode":"15113"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "4 Boxing Prep",
+  "section": "5 Boxing Prep",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

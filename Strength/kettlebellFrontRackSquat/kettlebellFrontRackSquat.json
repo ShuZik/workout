@@ -4,6 +4,7 @@
   "title": "Kettlebell Front Rack Squat",
   "description": "1. Clean or lift the kettlebell into a front rack with the wrist straight and elbow close to the ribs.\n2. Squat while the weight stays connected to the torso and the knees track over the toes.\n3. Drive through the whole feet to stand, then re-rack the bell before lowering it safely.",
   "color": "#7D4DB3",
+  "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
   "default": 10,
@@ -11,6 +12,6 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
   "difficulty": "basic",
   "section": "4 Kettlebell",
-  "availableFrom": "1.1.5",
+  "availableFrom": "1.1.4",
   "availableUntil": null
 }

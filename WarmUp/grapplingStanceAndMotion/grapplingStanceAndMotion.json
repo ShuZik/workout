@@ -4,6 +4,7 @@
   "title": "Grappling Stance & Motion",
   "description": "1. Lower into a staggered grappling stance with hips back, spine long, and hands ready.\n2. Move forward, backward, and sideways with short steps while the feet do not cross.\n3. Change direction from the legs and return to the same stance height after every step.",
   "color": "#0A84FF",
+  "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "6 Grappling Prep",
+  "section": "7 Grappling Prep",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

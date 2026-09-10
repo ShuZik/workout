@@ -1,0 +1,17 @@
+{
+  "id": "23.29",
+  "key": "cross_training_thruster",
+  "title": "Thruster",
+  "description": "1. Hold a barbell or dumbbells at the shoulders with feet under the hips and the trunk braced.\n2. Descend into a controlled front squat with knees tracking over the toes and the chest lifted.\n3. Drive through the floor to stand and use the leg drive to press the load overhead before returning it to the shoulders.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "intermediate",
+  "section": "4 Barbell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

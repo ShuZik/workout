@@ -4,6 +4,7 @@
   "title": "Calf Roll",
   "description": "1. Sit with a foam roller under one calf, hands behind the body, and the other foot on the floor for support.\n2. Lift the hips slightly and roll from above the ankle to below the knee.\n3. Turn the leg gently inward and outward to cover the calf, pausing on tender areas without pressing sharply.",
   "color": "#0A84FF",
+  "colorType": "blue",
   "workoutType": "cooldown",
   "valueType": "time",
   "default": 30,
@@ -11,7 +12,7 @@
   "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.3,"vigorous":2.3,"lightCode":"02101","moderateCode":"02101","vigorousCode":"02101"},
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "3 Foam Rolling",
+  "section": "4 Foam Rolling",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }
