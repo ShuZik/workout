@@ -11,16 +11,6 @@
       "workoutType": "custom"
     },
     {
-      "color": "#2BBF51",
-      "colorType": "green",
-      "folder": "Cardio",
-      "id": "11",
-      "icon": "Cardio/Icon.png",
-      "symbolName": "figure.run",
-      "title": "Cardio",
-      "workoutType": "cardio"
-    },
-    {
       "color": "#0A84FF",
       "colorType": "blue",
       "folder": "WarmUp",
@@ -29,16 +19,6 @@
       "symbolName": "figure.jumprope",
       "title": "Warm-up",
       "workoutType": "warmUp"
-    },
-    {
-      "color": "#0A84FF",
-      "colorType": "blue",
-      "folder": "Cooldown",
-      "id": "10",
-      "icon": "Cooldown/Icon.png",
-      "symbolName": "figure.flexibility",
-      "title": "Cool-down",
-      "workoutType": "cooldown"
     },
     {
       "color": "#ED5C63",
@@ -127,68 +107,28 @@
       "id": "14",
       "icon": "CoreTraining/Icon.png",
       "symbolName": "figure.strengthtraining.functional",
-      "title": "Core Training",
+      "title": "Core",
       "workoutType": "coreTraining"
     },
     {
-      "color": "#FD7C5D",
-      "colorType": "coral",
-      "folder": "HIIT",
-      "id": "12",
-      "icon": "HIIT/Icon.png",
-      "symbolName": "figure.cross.training",
-      "title": "HIIT",
-      "workoutType": "hiit"
+      "color": "#2BBF51",
+      "colorType": "green",
+      "folder": "Cardio",
+      "id": "11",
+      "icon": "Cardio/Icon.png",
+      "symbolName": "figure.run",
+      "title": "Cardio",
+      "workoutType": "cardio"
     },
     {
-      "color": "#01C5A5",
-      "colorType": "teal",
-      "folder": "SuspensionTraining",
-      "id": "22",
-      "icon": "SuspensionTraining/Icon.png",
-      "symbolName": "figure.strengthtraining.functional",
-      "title": "TRX",
-      "workoutType": "suspensionTraining"
-    },
-    {
-      "color": "#ED5C63",
-      "colorType": "red",
-      "folder": "CrossTraining",
-      "id": "23",
-      "icon": "CrossTraining/Icon.png",
-      "symbolName": "figure.cross.training",
-      "title": "CrossFit",
-      "workoutType": "crossTraining"
-    },
-    {
-      "color": "#FD7C5D",
-      "colorType": "coral",
-      "folder": "Tabata",
-      "id": "20",
-      "icon": "Tabata/Icon.png",
-      "symbolName": "figure.highintensity.intervaltraining",
-      "title": "Tabata",
-      "workoutType": "tabata"
-    },
-    {
-      "color": "#7D4DB3",
-      "colorType": "purple",
-      "folder": "Strength",
-      "id": "13",
-      "icon": "Strength/Icon.png",
-      "symbolName": "figure.strengthtraining.traditional",
-      "title": "Strength",
-      "workoutType": "strength"
-    },
-    {
-      "color": "#AF6ED7",
-      "colorType": "violet",
-      "folder": "Meditation",
-      "id": "19",
-      "icon": "Meditation/Icon.png",
-      "symbolName": "figure.mind.and.body",
-      "title": "Meditation",
-      "workoutType": "meditation"
+      "color": "#0A84FF",
+      "colorType": "green",
+      "folder": "Cooldown",
+      "id": "10",
+      "icon": "Cooldown/Icon.png",
+      "symbolName": "figure.flexibility",
+      "title": "Rest",
+      "workoutType": "cooldown"
     },
     {
       "color": "#01C5A5",
@@ -203,22 +143,62 @@
     {
       "color": "#7D4DB3",
       "colorType": "purple",
-      "folder": "FunctionalTraining",
-      "id": "24",
-      "icon": "FunctionalTraining/Icon.png",
-      "symbolName": "figure.strengthtraining.functional",
-      "title": "Functional Training",
-      "workoutType": "functionalTraining"
+      "folder": "Strength",
+      "id": "13",
+      "icon": "Strength/Icon.png",
+      "symbolName": "figure.strengthtraining.traditional",
+      "title": "Strength",
+      "workoutType": "strength"
     },
     {
-      "color": "#0A84FF",
-      "colorType": "blue",
-      "folder": "Calisthenics",
-      "id": "25",
-      "icon": "Calisthenics/Icon.png",
-      "symbolName": "figure.core.training",
-      "title": "Calisthenics",
-      "workoutType": "calisthenics"
+      "color": "#FD7C5D",
+      "colorType": "coral",
+      "folder": "HIIT",
+      "id": "12",
+      "icon": "HIIT/Icon.png",
+      "symbolName": "figure.cross.training",
+      "title": "HIIT",
+      "workoutType": "hiit"
+    },
+    {
+      "color": "#FD7C5D",
+      "colorType": "coral",
+      "folder": "Tabata",
+      "id": "20",
+      "icon": "Tabata/Icon.png",
+      "symbolName": "figure.highintensity.intervaltraining",
+      "title": "Tabata",
+      "workoutType": "tabata"
+    },
+    {
+      "color": "#ED5C63",
+      "colorType": "red",
+      "folder": "CrossTraining",
+      "id": "23",
+      "icon": "CrossTraining/Icon.png",
+      "symbolName": "figure.cross.training",
+      "title": "CrossFit",
+      "workoutType": "crossTraining"
+    },
+    {
+      "color": "#01C5A5",
+      "colorType": "teal",
+      "folder": "SuspensionTraining",
+      "id": "22",
+      "icon": "SuspensionTraining/Icon.png",
+      "symbolName": "figure.strengthtraining.functional",
+      "title": "TRX",
+      "workoutType": "suspensionTraining"
+    },
+    {
+      "color": "#AF6ED7",
+      "colorType": "violet",
+      "folder": "Meditation",
+      "id": "19",
+      "icon": "Meditation/Icon.png",
+      "symbolName": "figure.mind.and.body",
+      "title": "Meditation",
+      "workoutType": "meditation"
     },
     {
       "color": "#808A94",
@@ -1849,10 +1829,6 @@
       "json": "Strength/strength/strength.json"
     },
     {
-      "icon": "Strength/functionalStrengthTraining/Icon.png",
-      "json": "Strength/functionalStrengthTraining/functionalStrengthTraining.json"
-    },
-    {
       "icon": "Strength/traditionalStrengthTraining/Icon.png",
       "json": "Strength/traditionalStrengthTraining/traditionalStrengthTraining.json"
     },
@@ -2125,160 +2101,100 @@
       "icon": "Breathwork/alternateNostrilBreathing/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/functionalTraining/Icon.png",
-      "json": "FunctionalTraining/functionalTraining/functionalTraining.json"
+      "json": "Strength/hipHinge/hipHinge.json",
+      "icon": "Strength/hipHinge/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/hipHinge/Icon.png",
-      "json": "FunctionalTraining/hipHinge/hipHinge.json"
+      "json": "Strength/bodyweightSquat/bodyweightSquat.json",
+      "icon": "Strength/bodyweightSquat/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/bodyweightSquat/Icon.png",
-      "json": "FunctionalTraining/bodyweightSquat/bodyweightSquat.json"
+      "json": "Strength/stepUp/stepUp.json",
+      "icon": "Strength/stepUp/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/stepUp/Icon.png",
-      "json": "FunctionalTraining/stepUp/stepUp.json"
+      "json": "Strength/reverseLunge/reverseLunge.json",
+      "icon": "Strength/reverseLunge/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/reverseLunge/Icon.png",
-      "json": "FunctionalTraining/reverseLunge/reverseLunge.json"
+      "json": "Strength/lateralLunge/lateralLunge.json",
+      "icon": "Strength/lateralLunge/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/lateralLunge/Icon.png",
-      "json": "FunctionalTraining/lateralLunge/lateralLunge.json"
+      "json": "Strength/pushUp/pushUp.json",
+      "icon": "Strength/pushUp/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/pushUp/Icon.png",
-      "json": "FunctionalTraining/pushUp/pushUp.json"
+      "json": "Strength/dumbbellStepUp/dumbbellStepUp.json",
+      "icon": "Strength/dumbbellStepUp/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/birdDog/Icon.png",
-      "json": "FunctionalTraining/birdDog/birdDog.json"
+      "json": "Strength/dumbbellSplitSquat/dumbbellSplitSquat.json",
+      "icon": "Strength/dumbbellSplitSquat/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/deadBug/Icon.png",
-      "json": "FunctionalTraining/deadBug/deadBug.json"
+      "json": "CoreTraining/dumbbellWoodChop/dumbbellWoodChop.json",
+      "icon": "CoreTraining/dumbbellWoodChop/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/gluteBridge/Icon.png",
-      "json": "FunctionalTraining/gluteBridge/gluteBridge.json"
+      "json": "CoreTraining/feetTogetherStand/feetTogetherStand.json",
+      "icon": "CoreTraining/feetTogetherStand/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/gobletSquat/Icon.png",
-      "json": "FunctionalTraining/gobletSquat/gobletSquat.json"
+      "json": "CoreTraining/singleLegStand/singleLegStand.json",
+      "icon": "CoreTraining/singleLegStand/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/dumbbellRomanianDeadlift/Icon.png",
-      "json": "FunctionalTraining/dumbbellRomanianDeadlift/dumbbellRomanianDeadlift.json"
+      "json": "Strength/wallSit/wallSit.json",
+      "icon": "Strength/wallSit/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/dumbbellStepUp/Icon.png",
-      "json": "FunctionalTraining/dumbbellStepUp/dumbbellStepUp.json"
+      "json": "Strength/kneePushUp/kneePushUp.json",
+      "icon": "Strength/kneePushUp/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/dumbbellSplitSquat/Icon.png",
-      "json": "FunctionalTraining/dumbbellSplitSquat/dumbbellSplitSquat.json"
+      "json": "Strength/splitSquat/splitSquat.json",
+      "icon": "Strength/splitSquat/Icon.png"
     },
     {
-      "icon": "FunctionalTraining/dumbbellWoodChop/Icon.png",
-      "json": "FunctionalTraining/dumbbellWoodChop/dumbbellWoodChop.json"
+      "json": "Strength/walkingLunge/walkingLunge.json",
+      "icon": "Strength/walkingLunge/Icon.png"
     },
     {
-      "json": "FunctionalTraining/feetTogetherStand/feetTogetherStand.json",
-      "icon": "FunctionalTraining/feetTogetherStand/Icon.png"
+      "json": "Strength/calfRaise/calfRaise.json",
+      "icon": "Strength/calfRaise/Icon.png"
     },
     {
-      "json": "FunctionalTraining/singleLegStand/singleLegStand.json",
-      "icon": "FunctionalTraining/singleLegStand/Icon.png"
+      "json": "Strength/pullUp/pullUp.json",
+      "icon": "Strength/pullUp/Icon.png"
     },
     {
-      "json": "FunctionalTraining/plank/plank.json",
-      "icon": "FunctionalTraining/plank/Icon.png"
+      "json": "Strength/chinUp/chinUp.json",
+      "icon": "Strength/chinUp/Icon.png"
     },
     {
-      "json": "FunctionalTraining/wallSit/wallSit.json",
-      "icon": "FunctionalTraining/wallSit/Icon.png"
+      "json": "Strength/dip/dip.json",
+      "icon": "Strength/dip/Icon.png"
     },
     {
-      "icon": "Calisthenics/calisthenics/Icon.png",
-      "json": "Calisthenics/calisthenics/calisthenics.json"
+      "json": "CoreTraining/supermanHold/supermanHold.json",
+      "icon": "CoreTraining/supermanHold/Icon.png"
     },
     {
-      "icon": "Calisthenics/kneePushUp/Icon.png",
-      "json": "Calisthenics/kneePushUp/kneePushUp.json"
+      "json": "Strength/burpee/burpee.json",
+      "icon": "Strength/burpee/Icon.png"
     },
     {
-      "icon": "Calisthenics/pushUp/Icon.png",
-      "json": "Calisthenics/pushUp/pushUp.json"
+      "json": "Strength/wallHandstand/wallHandstand.json",
+      "icon": "Strength/wallHandstand/Icon.png"
     },
     {
-      "icon": "Calisthenics/bodyweightSquat/Icon.png",
-      "json": "Calisthenics/bodyweightSquat/bodyweightSquat.json"
+      "json": "CoreTraining/lSit/lSit.json",
+      "icon": "CoreTraining/lSit/Icon.png"
     },
     {
-      "icon": "Calisthenics/splitSquat/Icon.png",
-      "json": "Calisthenics/splitSquat/splitSquat.json"
-    },
-    {
-      "icon": "Calisthenics/walkingLunge/Icon.png",
-      "json": "Calisthenics/walkingLunge/walkingLunge.json"
-    },
-    {
-      "icon": "Calisthenics/calfRaise/Icon.png",
-      "json": "Calisthenics/calfRaise/calfRaise.json"
-    },
-    {
-      "icon": "Calisthenics/gluteBridge/Icon.png",
-      "json": "Calisthenics/gluteBridge/gluteBridge.json"
-    },
-    {
-      "icon": "Calisthenics/plank/Icon.png",
-      "json": "Calisthenics/plank/plank.json"
-    },
-    {
-      "icon": "Calisthenics/pullUp/Icon.png",
-      "json": "Calisthenics/pullUp/pullUp.json"
-    },
-    {
-      "icon": "Calisthenics/chinUp/Icon.png",
-      "json": "Calisthenics/chinUp/chinUp.json"
-    },
-    {
-      "icon": "Calisthenics/dip/Icon.png",
-      "json": "Calisthenics/dip/dip.json"
-    },
-    {
-      "icon": "Calisthenics/sidePlank/Icon.png",
-      "json": "Calisthenics/sidePlank/sidePlank.json"
-    },
-    {
-      "icon": "Calisthenics/hollowHold/Icon.png",
-      "json": "Calisthenics/hollowHold/hollowHold.json"
-    },
-    {
-      "icon": "Calisthenics/supermanHold/Icon.png",
-      "json": "Calisthenics/supermanHold/supermanHold.json"
-    },
-    {
-      "icon": "Calisthenics/mountainClimber/Icon.png",
-      "json": "Calisthenics/mountainClimber/mountainClimber.json"
-    },
-    {
-      "icon": "Calisthenics/burpee/Icon.png",
-      "json": "Calisthenics/burpee/burpee.json"
-    },
-    {
-      "icon": "Calisthenics/wallHandstand/Icon.png",
-      "json": "Calisthenics/wallHandstand/wallHandstand.json"
-    },
-    {
-      "icon": "Calisthenics/lSit/Icon.png",
-      "json": "Calisthenics/lSit/lSit.json"
-    },
-    {
-      "json": "Calisthenics/hangingLegRaise/hangingLegRaise.json",
-      "icon": "Calisthenics/hangingLegRaise/Icon.png"
+      "json": "CoreTraining/hangingLegRaise/hangingLegRaise.json",
+      "icon": "CoreTraining/hangingLegRaise/Icon.png"
     },
     {
       "icon": "Other/rest/Icon.png",
@@ -2365,12 +2281,12 @@
       "json": "Strength/dumbbellFly/dumbbellFly.json"
     },
     {
-      "icon": "Calisthenics/invertedRow/Icon.png",
-      "json": "Calisthenics/invertedRow/invertedRow.json"
+      "json": "Strength/invertedRow/invertedRow.json",
+      "icon": "Strength/invertedRow/Icon.png"
     },
     {
-      "icon": "Calisthenics/pikePushUp/Icon.png",
-      "json": "Calisthenics/pikePushUp/pikePushUp.json"
+      "json": "Strength/pikePushUp/pikePushUp.json",
+      "icon": "Strength/pikePushUp/Icon.png"
     }
   ],
   "version": 2

@@ -1,0 +1,28 @@
+{
+  "id": "13.88",
+  "key": "calisthenics_inverted_row",
+  "title": "Inverted Row",
+  "description": "1. Set a secure bar at waist height, grip it with straight arms, and place the body in one line beneath it.\n2. Pull the chest toward the bar by driving the elbows back and squeezing the shoulder blades.\n3. Lower under control to straight arms without dropping the hips or craning the neck.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

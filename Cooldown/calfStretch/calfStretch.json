@@ -4,15 +4,25 @@
   "title": "Calf Stretch",
   "description": "1. Face a wall and step one foot back with toes pointing forward.\n2. Keep the rear heel down and rear knee straight while bending the front knee toward the wall.\n3. Hold the stretch in the rear calf, then bring the rear foot forward and switch sides.",
   "color": "#0A84FF",
-  "colorType": "blue",
+  "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
   "default": 30,
   "durationSeconds": 30,
-  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.3,"vigorous":2.3,"lightCode":"02101","moderateCode":"02101","vigorousCode":"02101"},
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "2 Recovery",
+  "section": "4 Static Stretching",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }

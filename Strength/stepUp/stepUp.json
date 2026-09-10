@@ -1,0 +1,28 @@
+{
+  "id": "13.72",
+  "key": "functional_step_up",
+  "title": "Step-Up",
+  "description": "1. Face a stable step and place the whole lead foot on top with the knee aligned over the toes.\n2. Drive through the lead foot to raise the body without pushing off strongly from the trailing leg.\n3. Stand tall on the step, then lower the trailing foot and lead foot under control before switching sides.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

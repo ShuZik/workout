@@ -4,15 +4,25 @@
   "title": "Walking Recovery",
   "description": "1. Walk with short easy steps and let the arms swing loosely.\n2. Reduce the pace every few minutes while inhaling through the nose and exhaling without strain.\n3. Continue until conversation and breathing feel comfortable, then stop gradually.",
   "color": "#0A84FF",
-  "colorType": "blue",
+  "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
   "default": 30,
   "durationSeconds": 30,
-  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.8,"moderate":3.8,"vigorous":5.5,"lightCode":"17152","moderateCode":"17190","vigorousCode":"17220"},
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 5.5,
+    "lightCode": "17152",
+    "moderateCode": "17190",
+    "vigorousCode": "17220"
+  },
   "timerRole": "active",
   "difficulty": "basic",
-  "section": "3 Walking",
+  "section": "2 Active Rest",
   "availableFrom": "1.1.2",
   "availableUntil": null
 }
