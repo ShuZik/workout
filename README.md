@@ -2,6 +2,12 @@
 
 This repository is the source of truth for the workout exercise catalog used by Fighting AI.
 
+## White-label catalog freeze
+
+The legacy catalog for Boxing Timer `1.1.5` is frozen at
+`fce1bac7becba9d73fe30ec5745e50f4a35a87fe` on `main`. The corresponding
+release tag is `stop/1.1.5`.
+
 Each exercise has its own directory inside exactly one top-level tag directory.
 The folder contains the exercise JSON and its real SF Symbols-derived icon:
 
