@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-strength-v1",
+  "productID": "gym",
+  "title": "Barbell Strength",
+  "description": "A manual reps-and-weight strength session with timed rests.",
+  "difficulty": "basic",
+  "availableFrom": "1.1.5",
+  "segments": [
+    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 30 },
+    { "id": "back-squat", "exerciseID": "13.55", "kind": "manual", "reps": 10, "weight": 10 },
+    { "id": "rest-1", "exerciseID": "0.1", "kind": "timed", "durationSeconds": 90 },
+    { "id": "bench-press", "exerciseID": "13.57", "kind": "manual", "reps": 10, "weight": 10 },
+    { "id": "rest-2", "exerciseID": "0.1", "kind": "timed", "durationSeconds": 90 },
+    { "id": "bent-over-row", "exerciseID": "13.59", "kind": "manual", "reps": 10, "weight": 10 },
+    { "id": "rest-3", "exerciseID": "0.1", "kind": "timed", "durationSeconds": 90 },
+    { "id": "overhead-press", "exerciseID": "13.58", "kind": "manual", "reps": 10, "weight": 10 },
+    { "id": "cooldown", "exerciseID": "10.1", "kind": "timed", "durationSeconds": 30 }
+  ]
+}

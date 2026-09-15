@@ -62,6 +62,20 @@ Create a separate tag for each version you want to stop; they can point to
 the same commit. Keep published tags and their data available and unchanged.
 Both lightweight and annotated tags work. No tags are created automatically.
 
+## White-label product catalogs
+
+Boxing, Fitness, and Gym catalog manifests live at `box/manifest.json`,
+`fitness/manifest.json`, and `gym/manifest.json` on `main`. They reference
+the shared exercise JSON and icon files; the product directories do not copy
+exercise assets.
+
+`stop/1.1.5` freezes the legacy root manifest for the existing Boxing Timer.
+It remains independent of the product-manifest work on `main`. A white-label
+client resolves its own immutable `stop/<product>/<version>` tag when one
+exists, then loads that product's manifest from the selected revision. Without
+such a tag it resolves the product manifest from the current `main` revision.
+One product's tag must never select another product's manifest or cached data.
+
 A fresh installation downloads the tagged catalog once. Network errors do
 not bypass the tag; only a missing tag allows main. Already released apps
 without this support, including 1.1.3, continue reading main directly.

@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "productID": "boxing",
+  "minimumAppVersion": "1.1.5",
+  "tags": [
+    {
+      "color": "#ED5C63",
+      "colorType": "red",
+      "folder": "Custom",
+      "id": "999999",
+      "icon": "Custom/Icon.png",
+      "symbolName": "figure.strengthtraining.traditional",
+      "title": "Custom",
+      "workoutType": "custom"
+    },
+    {
+      "color": "#0A84FF",
+      "colorType": "blue",
+      "folder": "WarmUp",
+      "id": "9",
+      "icon": "WarmUp/Icon.png",
+      "symbolName": "figure.jumprope",
+      "title": "Warm-up",
+      "workoutType": "warmUp"
+    },
+    {
+      "color": "#ED5C63",
+      "colorType": "red",
+      "folder": "Boxing",
+      "id": "1",
+      "icon": "Boxing/Icon.png",
+      "symbolName": "figure.boxing",
+      "title": "Boxing",
+      "workoutType": "boxing"
+    },
+    {
+      "color": "#0A84FF",
+      "colorType": "green",
+      "folder": "Cooldown",
+      "id": "10",
+      "icon": "Cooldown/Icon.png",
+      "symbolName": "figure.flexibility",
+      "title": "Rest",
+      "workoutType": "cooldown"
+    },
+    {
+      "color": "#808A94",
+      "colorType": "gray",
+      "folder": "Other",
+      "id": "0",
+      "icon": "Other/Icon.png",
+      "symbolName": "list.bullet",
+      "title": "Other",
+      "workoutType": "other"
+    }
+  ],
+  "files": [
+    {
+      "icon": "WarmUp/warmUp/Icon.png",
+      "json": "WarmUp/warmUp/warmUp.json"
+    },
+    {
+      "icon": "WarmUp/armCircles/Icon.png",
+      "json": "WarmUp/armCircles/armCircles.json"
+    },
+    {
+      "icon": "WarmUp/elbowCircles/Icon.png",
+      "json": "WarmUp/elbowCircles/elbowCircles.json"
+    },
+    {
+      "icon": "WarmUp/neckMobility/Icon.png",
+      "json": "WarmUp/neckMobility/neckMobility.json"
+    },
+    {
+      "icon": "WarmUp/scapularSqueezes/Icon.png",
+      "json": "WarmUp/scapularSqueezes/scapularSqueezes.json"
+    },
+    {
+      "icon": "WarmUp/shoulderCircles/Icon.png",
+      "json": "WarmUp/shoulderCircles/shoulderCircles.json"
+    },
+    {
+      "icon": "WarmUp/handOpenClose/Icon.png",
+      "json": "WarmUp/handOpenClose/handOpenClose.json"
+    },
+    {
+      "icon": "WarmUp/ankleCircles/Icon.png",
+      "json": "WarmUp/ankleCircles/ankleCircles.json"
+    },
+    {
+      "icon": "WarmUp/hipCircles/Icon.png",
+      "json": "WarmUp/hipCircles/hipCircles.json"
+    },
+    {
+      "icon": "WarmUp/wristCircles/Icon.png",
+      "json": "WarmUp/wristCircles/wristCircles.json"
+    },
+    {
+      "icon": "WarmUp/thoracicRotations/Icon.png",
+      "json": "WarmUp/thoracicRotations/thoracicRotations.json"
+    },
+    {
+      "icon": "WarmUp/catCow/Icon.png",
+      "json": "WarmUp/catCow/catCow.json"
+    },
+    {
+      "icon": "WarmUp/dynamicToeReaches/Icon.png",
+      "json": "WarmUp/dynamicToeReaches/dynamicToeReaches.json"
+    },
+    {
+      "icon": "WarmUp/armSwings/Icon.png",
+      "json": "WarmUp/armSwings/armSwings.json"
+    },
+    {
+      "icon": "WarmUp/hipOpeners/Icon.png",
+      "json": "WarmUp/hipOpeners/hipOpeners.json"
+    },
+    {
+      "icon": "WarmUp/legSwings/Icon.png",
+      "json": "WarmUp/legSwings/legSwings.json"
+    },
+    {
+      "icon": "WarmUp/torsoTwists/Icon.png",
+      "json": "WarmUp/torsoTwists/torsoTwists.json"
+    },
+    {
+      "icon": "WarmUp/jumpRope/Icon.png",
+      "json": "WarmUp/jumpRope/jumpRope.json"
+    },
+    {
+      "icon": "WarmUp/stationaryBike/Icon.png",
+      "json": "WarmUp/stationaryBike/stationaryBike.json"
+    },
+    {
+      "icon": "WarmUp/treadmill/Icon.png",
+      "json": "WarmUp/treadmill/treadmill.json"
+    },
+    {
+      "icon": "WarmUp/marchInPlace/Icon.png",
+      "json": "WarmUp/marchInPlace/marchInPlace.json"
+    },
+    {
+      "icon": "WarmUp/lightJog/Icon.png",
+      "json": "WarmUp/lightJog/lightJog.json"
+    },
+    {
+      "icon": "WarmUp/walkingLunges/Icon.png",
+      "json": "WarmUp/walkingLunges/walkingLunges.json"
+    },
+    {
+      "icon": "WarmUp/inchworms/Icon.png",
+      "json": "WarmUp/inchworms/inchworms.json"
+    },
+    {
+      "icon": "WarmUp/standingWindmills/Icon.png",
+      "json": "WarmUp/standingWindmills/standingWindmills.json"
+    },
+    {
+      "icon": "WarmUp/squatToStand/Icon.png",
+      "json": "WarmUp/squatToStand/squatToStand.json"
+    },
+    {
+      "icon": "WarmUp/lateralLunges/Icon.png",
+      "json": "WarmUp/lateralLunges/lateralLunges.json"
+    },
+    {
+      "icon": "WarmUp/kneeLifts/Icon.png",
+      "json": "WarmUp/kneeLifts/kneeLifts.json"
+    },
+    {
+      "icon": "WarmUp/heelDigs/Icon.png",
+      "json": "WarmUp/heelDigs/heelDigs.json"
+    },
+    {
+      "icon": "WarmUp/boxingStanceFootwork/Icon.png",
+      "json": "WarmUp/boxingStanceFootwork/boxingStanceFootwork.json"
+    },
+    {
+      "icon": "WarmUp/lightBoxingShadowboxing/Icon.png",
+      "json": "WarmUp/lightBoxingShadowboxing/lightBoxingShadowboxing.json"
+    },
+    {
+      "icon": "WarmUp/boxingSlipsAndRolls/Icon.png",
+      "json": "WarmUp/boxingSlipsAndRolls/boxingSlipsAndRolls.json"
+    },
+    {
+      "icon": "Cooldown/coolDown/Icon.png",
+      "json": "Cooldown/coolDown/coolDown.json"
+    },
+    {
+      "icon": "Cooldown/breathing/Icon.png",
+      "json": "Cooldown/breathing/breathing.json"
+    },
+    {
+      "icon": "Cooldown/shoulderStretch/Icon.png",
+      "json": "Cooldown/shoulderStretch/shoulderStretch.json"
+    },
+    {
+      "icon": "Cooldown/tricepsStretch/Icon.png",
+      "json": "Cooldown/tricepsStretch/tricepsStretch.json"
+    },
+    {
+      "icon": "Cooldown/chestStretch/Icon.png",
+      "json": "Cooldown/chestStretch/chestStretch.json"
+    },
+    {
+      "icon": "Cooldown/latStretch/Icon.png",
+      "json": "Cooldown/latStretch/latStretch.json"
+    },
+    {
+      "icon": "Cooldown/hipFlexorStretch/Icon.png",
+      "json": "Cooldown/hipFlexorStretch/hipFlexorStretch.json"
+    },
+    {
+      "icon": "Cooldown/quadricepsStretch/Icon.png",
+      "json": "Cooldown/quadricepsStretch/quadricepsStretch.json"
+    },
+    {
+      "icon": "Cooldown/hamstringStretch/Icon.png",
+      "json": "Cooldown/hamstringStretch/hamstringStretch.json"
+    },
+    {
+      "icon": "Cooldown/calfStretch/Icon.png",
+      "json": "Cooldown/calfStretch/calfStretch.json"
+    },
+    {
+      "icon": "Cooldown/adductorStretch/Icon.png",
+      "json": "Cooldown/adductorStretch/adductorStretch.json"
+    },
+    {
+      "icon": "Cooldown/gluteStretch/Icon.png",
+      "json": "Cooldown/gluteStretch/gluteStretch.json"
+    },
+    {
+      "icon": "Cooldown/walkingRecovery/Icon.png",
+      "json": "Cooldown/walkingRecovery/walkingRecovery.json"
+    },
+    {
+      "json": "Cooldown/calfRoll/calfRoll.json",
+      "icon": "Cooldown/calfRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/hamstringRoll/hamstringRoll.json",
+      "icon": "Cooldown/hamstringRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/quadricepsRoll/quadricepsRoll.json",
+      "icon": "Cooldown/quadricepsRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/adductorRoll/adductorRoll.json",
+      "icon": "Cooldown/adductorRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/gluteRoll/gluteRoll.json",
+      "icon": "Cooldown/gluteRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/piriformisRoll/piriformisRoll.json",
+      "icon": "Cooldown/piriformisRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/latRoll/latRoll.json",
+      "icon": "Cooldown/latRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/thoracicSpineRoll/thoracicSpineRoll.json",
+      "icon": "Cooldown/thoracicSpineRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/upperBackRoll/upperBackRoll.json",
+      "icon": "Cooldown/upperBackRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/itBandStretch/itBandStretch.json",
+      "icon": "Cooldown/itBandStretch/Icon.png"
+    },
+    {
+      "json": "Cooldown/childsPose/childsPose.json",
+      "icon": "Cooldown/childsPose/Icon.png"
+    },
+    {
+      "json": "Cooldown/neckStretch/neckStretch.json",
+      "icon": "Cooldown/neckStretch/Icon.png"
+    },
+    {
+      "icon": "Boxing/boxing/Icon.png",
+      "json": "Boxing/boxing/boxing.json"
+    },
+    {
+      "icon": "Boxing/jab/Icon.png",
+      "json": "Boxing/jab/jab.json"
+    },
+    {
+      "icon": "Boxing/cross/Icon.png",
+      "json": "Boxing/cross/cross.json"
+    },
+    {
+      "icon": "Boxing/leadHook/Icon.png",
+      "json": "Boxing/leadHook/leadHook.json"
+    },
+    {
+      "icon": "Boxing/rearHook/Icon.png",
+      "json": "Boxing/rearHook/rearHook.json"
+    },
+    {
+      "icon": "Boxing/leadUppercut/Icon.png",
+      "json": "Boxing/leadUppercut/leadUppercut.json"
+    },
+    {
+      "icon": "Boxing/rearUppercut/Icon.png",
+      "json": "Boxing/rearUppercut/rearUppercut.json"
+    },
+    {
+      "icon": "Boxing/bodyJab/Icon.png",
+      "json": "Boxing/bodyJab/bodyJab.json"
+    },
+    {
+      "icon": "Boxing/bodyCross/Icon.png",
+      "json": "Boxing/bodyCross/bodyCross.json"
+    },
+    {
+      "icon": "Boxing/leadBodyHook/Icon.png",
+      "json": "Boxing/leadBodyHook/leadBodyHook.json"
+    },
+    {
+      "icon": "Boxing/rearBodyHook/Icon.png",
+      "json": "Boxing/rearBodyHook/rearBodyHook.json"
+    },
+    {
+      "icon": "Boxing/leadBodyUppercut/Icon.png",
+      "json": "Boxing/leadBodyUppercut/leadBodyUppercut.json"
+    },
+    {
+      "icon": "Boxing/rearBodyUppercut/Icon.png",
+      "json": "Boxing/rearBodyUppercut/rearBodyUppercut.json"
+    },
+    {
+      "icon": "Boxing/boxingStance/Icon.png",
+      "json": "Boxing/boxingStance/boxingStance.json"
+    },
+    {
+      "icon": "Boxing/forwardBackwardStep/Icon.png",
+      "json": "Boxing/forwardBackwardStep/forwardBackwardStep.json"
+    },
+    {
+      "icon": "Boxing/sideStep/Icon.png",
+      "json": "Boxing/sideStep/sideStep.json"
+    },
+    {
+      "icon": "Boxing/slips/Icon.png",
+      "json": "Boxing/slips/slips.json"
+    },
+    {
+      "icon": "Boxing/parry/Icon.png",
+      "json": "Boxing/parry/parry.json"
+    },
+    {
+      "icon": "Boxing/block/Icon.png",
+      "json": "Boxing/block/block.json"
+    },
+    {
+      "icon": "Boxing/rollWeave/Icon.png",
+      "json": "Boxing/rollWeave/rollWeave.json"
+    },
+    {
+      "json": "Boxing/guard/guard.json",
+      "icon": "Boxing/guard/Icon.png"
+    },
+    {
+      "icon": "Other/rest/Icon.png",
+      "json": "Other/rest/rest.json"
+    },
+    {
+      "icon": "Other/repeat/Icon.png",
+      "json": "Other/repeat/repeat.json"
+    },
+    {
+      "icon": "Other/preparation/Icon.png",
+      "json": "Other/preparation/preparation.json"
+    },
+    {
+      "icon": "Other/endRepeat/Icon.png",
+      "json": "Other/endRepeat/endRepeat.json"
+    },
+    {
+      "icon": "Other/note/Icon.png",
+      "json": "Other/note/note.json"
+    },
+    {
+      "icon": "Other/work/Icon.png",
+      "json": "Other/work/work.json"
+    }
+  ],
+  "workouts": [
+    "box/workouts/boxing-fundamentals.json"
+  ]
+}

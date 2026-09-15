@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "tabata-express-v1",
+  "productID": "fitness",
+  "title": "Tabata Express",
+  "description": "A compact Tabata interval with high-intensity work and short recovery.",
+  "difficulty": "basic",
+  "availableFrom": "1.1.5",
+  "segments": [
+    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 30 },
+    { "id": "burpees", "exerciseID": "20.2", "kind": "timed", "durationSeconds": 20 },
+    { "id": "rest-1", "exerciseID": "0.1", "kind": "timed", "durationSeconds": 10 },
+    { "id": "jumping-jacks", "exerciseID": "20.3", "kind": "timed", "durationSeconds": 20 },
+    { "id": "rest-2", "exerciseID": "0.1", "kind": "timed", "durationSeconds": 10 },
+    { "id": "high-knees", "exerciseID": "20.4", "kind": "timed", "durationSeconds": 20 },
+    { "id": "rest-3", "exerciseID": "0.1", "kind": "timed", "durationSeconds": 10 },
+    { "id": "mountain-climbers", "exerciseID": "20.5", "kind": "timed", "durationSeconds": 20 },
+    { "id": "cooldown", "exerciseID": "10.1", "kind": "timed", "durationSeconds": 30 }
+  ]
+}
