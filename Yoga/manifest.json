@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "productID": "yoga",
+  "minimumAppVersion": "1.1.5",
+  "tags": [
+    { "color": "#ED5C63", "colorType": "red", "folder": "Custom", "id": "999999", "icon": "Yoga/exercises/Custom/Icon.png", "symbolName": "figure.yoga", "title": "Custom", "workoutType": "custom" },
+    { "color": "#91A994", "colorType": "sage", "folder": "Yoga", "id": "24", "icon": "Yoga/exercises/Yoga/Icon.png", "symbolName": "figure.yoga", "title": "Yoga", "workoutType": "yoga" },
+    { "color": "#01C5A5", "colorType": "teal", "folder": "Breathwork", "id": "18", "icon": "Yoga/exercises/Breathwork/Icon.png", "symbolName": "lungs.fill", "title": "Breathwork", "workoutType": "breathwork" },
+    { "color": "#AF6ED7", "colorType": "violet", "folder": "Meditation", "id": "19", "icon": "Yoga/exercises/Meditation/Icon.png", "symbolName": "figure.mind.and.body", "title": "Meditation", "workoutType": "meditation" },
+    { "color": "#0A84FF", "colorType": "green", "folder": "Cooldown", "id": "10", "icon": "Yoga/exercises/Cooldown/Icon.png", "symbolName": "figure.flexibility", "title": "Restore", "workoutType": "cooldown" },
+    { "color": "#808A94", "colorType": "gray", "folder": "Other", "id": "0", "icon": "Yoga/exercises/Other/Icon.png", "symbolName": "list.bullet", "title": "Rest", "workoutType": "other" }
+  ],
+  "files": [
+    { "json": "Yoga/exercises/Yoga/mountainPose/mountainPose.json", "icon": "Yoga/exercises/Yoga/mountainPose/Icon.png" },
+    { "json": "Yoga/exercises/Yoga/catCow/catCow.json", "icon": "Yoga/exercises/Yoga/catCow/Icon.png" },
+    { "json": "Yoga/exercises/Yoga/downwardDog/downwardDog.json", "icon": "Yoga/exercises/Yoga/downwardDog/Icon.png" },
+    { "json": "Yoga/exercises/Yoga/warriorOne/warriorOne.json", "icon": "Yoga/exercises/Yoga/warriorOne/Icon.png" },
+    { "json": "Yoga/exercises/Yoga/warriorTwo/warriorTwo.json", "icon": "Yoga/exercises/Yoga/warriorTwo/Icon.png" },
+    { "json": "Yoga/exercises/Yoga/treePose/treePose.json", "icon": "Yoga/exercises/Yoga/treePose/Icon.png" },
+    { "json": "Yoga/exercises/Yoga/seatedForwardFold/seatedForwardFold.json", "icon": "Yoga/exercises/Yoga/seatedForwardFold/Icon.png" },
+    { "json": "Yoga/exercises/Yoga/savasana/savasana.json", "icon": "Yoga/exercises/Yoga/savasana/Icon.png" },
+    { "json": "Yoga/exercises/Breathwork/alternateNostrilBreathing/alternateNostrilBreathing.json", "icon": "Yoga/exercises/Breathwork/alternateNostrilBreathing/Icon.png" },
+    { "json": "Yoga/exercises/Breathwork/bellyBreathing/bellyBreathing.json", "icon": "Yoga/exercises/Breathwork/bellyBreathing/Icon.png" },
+    { "json": "Yoga/exercises/Breathwork/boxBreathing/boxBreathing.json", "icon": "Yoga/exercises/Breathwork/boxBreathing/Icon.png" },
+    { "json": "Yoga/exercises/Breathwork/coherentBreathing/coherentBreathing.json", "icon": "Yoga/exercises/Breathwork/coherentBreathing/Icon.png" },
+    { "json": "Yoga/exercises/Breathwork/fourSevenEightBreathing/fourSevenEightBreathing.json", "icon": "Yoga/exercises/Breathwork/fourSevenEightBreathing/Icon.png" },
+    { "json": "Yoga/exercises/Breathwork/guidedBreathing/guidedBreathing.json", "icon": "Yoga/exercises/Breathwork/guidedBreathing/Icon.png" },
+    { "json": "Yoga/exercises/Breathwork/pursedLipBreathing/pursedLipBreathing.json", "icon": "Yoga/exercises/Breathwork/pursedLipBreathing/Icon.png" },
+    { "json": "Yoga/exercises/Meditation/breathMeditation/breathMeditation.json", "icon": "Yoga/exercises/Meditation/breathMeditation/Icon.png" },
+    { "json": "Yoga/exercises/Meditation/bodyScanMeditation/bodyScanMeditation.json", "icon": "Yoga/exercises/Meditation/bodyScanMeditation/Icon.png" },
+    { "json": "Yoga/exercises/Meditation/guidedMindfulness/guidedMindfulness.json", "icon": "Yoga/exercises/Meditation/guidedMindfulness/Icon.png" },
+    { "json": "Yoga/exercises/Meditation/sleepMeditation/sleepMeditation.json", "icon": "Yoga/exercises/Meditation/sleepMeditation/Icon.png" },
+    { "json": "Yoga/exercises/Cooldown/coolDown/coolDown.json", "icon": "Yoga/exercises/Cooldown/coolDown/Icon.png" },
+    { "json": "Yoga/exercises/Cooldown/childsPose/childsPose.json", "icon": "Yoga/exercises/Cooldown/childsPose/Icon.png" },
+    { "json": "Yoga/exercises/Cooldown/hipFlexorStretch/hipFlexorStretch.json", "icon": "Yoga/exercises/Cooldown/hipFlexorStretch/Icon.png" },
+    { "json": "Yoga/exercises/Cooldown/hamstringStretch/hamstringStretch.json", "icon": "Yoga/exercises/Cooldown/hamstringStretch/Icon.png" },
+    { "json": "Yoga/exercises/Cooldown/shoulderStretch/shoulderStretch.json", "icon": "Yoga/exercises/Cooldown/shoulderStretch/Icon.png" },
+    { "json": "Yoga/exercises/Cooldown/neckStretch/neckStretch.json", "icon": "Yoga/exercises/Cooldown/neckStretch/Icon.png" },
+    { "json": "Yoga/exercises/Other/rest/rest.json", "icon": "Yoga/exercises/Other/rest/Icon.png" },
+    { "json": "Yoga/exercises/Other/preparation/preparation.json", "icon": "Yoga/exercises/Other/preparation/Icon.png" }
+  ],
+  "workouts": [
+    "Yoga/workouts/morning-flow.json"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "24.8",
+  "key": "yoga_savasana",
+  "title": "Savasana",
+  "description": "1. Lie comfortably on the back with feet and arms relaxed.\n2. Allow the shoulders, jaw, and belly to soften.\n3. Rest with natural breathing and return to sitting slowly when finished.",
+  "color": "#91A994",
+  "colorType": "sage",
+  "workoutType": "yoga",
+  "valueType": "time",
+  "default": 120,
+  "durationSeconds": 120,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1.3,"moderate":1.5,"vigorous":2,"lightCode":"07075","moderateCode":"07075","vigorousCode":"07075"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Restore",
+  "availableFrom": "1.1.5",
+  "availableUntil": null
+}

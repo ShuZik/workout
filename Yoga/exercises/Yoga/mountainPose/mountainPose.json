@@ -1,0 +1,18 @@
+{
+  "id": "24.1",
+  "key": "yoga_mountain_pose",
+  "title": "Mountain Pose",
+  "description": "1. Stand with feet grounded and weight balanced across both soles.\n2. Lengthen through the spine, soften the shoulders, and rest the arms by the sides.\n3. Breathe steadily while keeping the jaw and face relaxed.",
+  "color": "#91A994",
+  "colorType": "sage",
+  "workoutType": "yoga",
+  "valueType": "time",
+  "default": 45,
+  "durationSeconds": 45,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.3,"lightCode":"02170","moderateCode":"02175","vigorousCode":"02185"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Foundation",
+  "availableFrom": "1.1.5",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "24.2",
+  "key": "yoga_cat_cow",
+  "title": "Cat-Cow",
+  "description": "1. Start on hands and knees with wrists below shoulders and knees below hips.\n2. Inhale to open the chest and extend the spine into Cow.\n3. Exhale to press the floor away and round the spine into Cat.",
+  "color": "#91A994",
+  "colorType": "sage",
+  "workoutType": "yoga",
+  "valueType": "time",
+  "default": 60,
+  "durationSeconds": 60,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.8,"lightCode":"02101","moderateCode":"02024","vigorousCode":"02022"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Foundation",
+  "availableFrom": "1.1.5",
+  "availableUntil": null
+}

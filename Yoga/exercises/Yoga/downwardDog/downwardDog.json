@@ -1,0 +1,18 @@
+{
+  "id": "24.3",
+  "key": "yoga_downward_dog",
+  "title": "Downward Dog",
+  "description": "1. From hands and knees, lift the hips up and back into an inverted V.\n2. Press evenly through both hands and lengthen the spine.\n3. Keep a soft bend in the knees when needed to avoid forcing the hamstrings.",
+  "color": "#91A994",
+  "colorType": "sage",
+  "workoutType": "yoga",
+  "valueType": "time",
+  "default": 45,
+  "durationSeconds": 45,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.5,"moderate":3,"vigorous":3.5,"lightCode":"02170","moderateCode":"02175","vigorousCode":"02185"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Flow",
+  "availableFrom": "1.1.5",
+  "availableUntil": null
+}

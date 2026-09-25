@@ -1,0 +1,18 @@
+{
+  "id": "24.7",
+  "key": "yoga_seated_forward_fold",
+  "title": "Seated Forward Fold",
+  "description": "1. Sit tall with legs extended and bend the knees as much as needed.\n2. Hinge from the hips and reach forward without rounding aggressively.\n3. Let the neck relax and breathe into the back of the legs.",
+  "color": "#91A994",
+  "colorType": "sage",
+  "workoutType": "yoga",
+  "valueType": "time",
+  "default": 60,
+  "durationSeconds": 60,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.3,"lightCode":"02170","moderateCode":"02175","vigorousCode":"02185"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Restore",
+  "availableFrom": "1.1.5",
+  "availableUntil": null
+}
