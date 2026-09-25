@@ -1,0 +1,18 @@
+{
+  "id": "9.17",
+  "key": "stationary_bike",
+  "title": "Stationary Bike",
+  "description": "1. Adjust the saddle so the knee remains slightly bent at the bottom of the pedal stroke.\n2. Begin with low resistance and pedal smoothly while the knees track forward.\n3. Increase cadence gradually until the body feels warm without creating leg fatigue.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":3.5,"moderate":6,"vigorous":10.3,"lightCode":"01210","moderateCode":"01220","vigorousCode":"01232"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Cardio",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

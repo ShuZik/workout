@@ -1,0 +1,18 @@
+{
+  "id": "22.16",
+  "key": "suspension_suspension_plank",
+  "title": "Suspension Plank",
+  "description": "1. Place both feet securely in the cradles and set the hands or forearms directly under the shoulders.\n2. Extend the legs and brace the abdomen and glutes to form a straight suspended plank.\n3. Keep equal strap tension and hold the pelvis level without sagging or drawing the knees forward.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3,"moderate":3.8,"vigorous":6.5,"lightCode":"02056","moderateCode":"02022","vigorousCode":"02057"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Core",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

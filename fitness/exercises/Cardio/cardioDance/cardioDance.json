@@ -1,0 +1,18 @@
+{
+  "id": "11.44",
+  "key": "cardio_cardio_dance",
+  "title": "Cardio Dance",
+  "description": "1. Stand with knees soft and begin with a simple side-to-side or forward-and-back step on the beat.\n2. Add arm patterns, turns, or knee lifts only after the foot rhythm is stable.\n3. Keep the steps light and reduce the range before balance or timing is lost.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":4.8,"moderate":6.5,"vigorous":8,"lightCode":"02005","moderateCode":"02310","vigorousCode":"02006"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Conditioning",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

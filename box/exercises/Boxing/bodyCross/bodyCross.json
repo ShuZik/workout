@@ -1,0 +1,20 @@
+{
+  "id": "1.11",
+  "key": "body_cross",
+  "title": "Body Cross",
+  "description": "1. From guard, bend the knees to lower the target line while keeping the lead hand beside the face.\n2. Push from the rear foot, rotate the rear hip, and send the rear fist straight into the torso.\n3. Pull the fist back along the same path and rise only after the hand and head are protected.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.8,"moderate":8.5,"vigorous":10.8,"lightCode":"15110","moderateCode":"15115","vigorousCode":"15118"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "target": "body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

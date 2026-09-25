@@ -1,0 +1,18 @@
+{
+  "id": "9.1",
+  "key": "warm_up",
+  "title": "Warm-up",
+  "description": "1. Begin with controlled circles at the ankles, hips, shoulders, elbows, and wrists.\n2. Add dynamic movements such as squats, lunges, arm swings, and torso rotations through an easy range.\n3. Finish with light versions of the first sport-specific movements, increasing speed without adding full power.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.5,"moderate":4,"vigorous":6,"lightCode":"02140","moderateCode":"02143","vigorousCode":"02145"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

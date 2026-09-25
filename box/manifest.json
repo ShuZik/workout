@@ -8,7 +8,7 @@
       "colorType": "red",
       "folder": "Custom",
       "id": "999999",
-      "icon": "Custom/Icon.png",
+      "icon": "box/exercises/Custom/Icon.png",
       "symbolName": "figure.strengthtraining.traditional",
       "title": "Custom",
       "workoutType": "custom"
@@ -18,7 +18,7 @@
       "colorType": "blue",
       "folder": "WarmUp",
       "id": "9",
-      "icon": "WarmUp/Icon.png",
+      "icon": "box/exercises/WarmUp/Icon.png",
       "symbolName": "figure.jumprope",
       "title": "Warm-up",
       "workoutType": "warmUp"
@@ -28,17 +28,87 @@
       "colorType": "red",
       "folder": "Boxing",
       "id": "1",
-      "icon": "Boxing/Icon.png",
+      "icon": "box/exercises/Boxing/Icon.png",
       "symbolName": "figure.boxing",
       "title": "Boxing",
       "workoutType": "boxing"
+    },
+    {
+      "color": "#ED5C63",
+      "colorType": "red",
+      "folder": "KickBoxing",
+      "id": "3",
+      "icon": "box/exercises/KickBoxing/Icon.png",
+      "symbolName": "figure.kickboxing",
+      "title": "Kickboxing",
+      "workoutType": "kickBoxing"
+    },
+    {
+      "color": "#F3A044",
+      "colorType": "orange",
+      "folder": "MuayThai",
+      "id": "2",
+      "icon": "box/exercises/MuayThai/Icon.png",
+      "symbolName": "figure.kickboxing",
+      "title": "Muay Thai",
+      "workoutType": "muayThai"
+    },
+    {
+      "color": "#7D4DB3",
+      "colorType": "purple",
+      "folder": "MMA",
+      "id": "4",
+      "icon": "box/exercises/MMA/Icon.png",
+      "symbolName": "figure.wrestling",
+      "title": "MMA",
+      "workoutType": "mma"
+    },
+    {
+      "color": "#4766C1",
+      "colorType": "indigo",
+      "folder": "BJJ",
+      "id": "6",
+      "icon": "box/exercises/BJJ/Icon.png",
+      "symbolName": "figure.boxing",
+      "title": "BJJ",
+      "workoutType": "bjj"
+    },
+    {
+      "color": "#ED5C63",
+      "colorType": "red",
+      "folder": "Karate",
+      "id": "40",
+      "icon": "box/exercises/Karate/Icon.png",
+      "symbolName": "figure.martial.arts",
+      "title": "Karate",
+      "workoutType": "karate"
+    },
+    {
+      "color": "#2BBF51",
+      "colorType": "green",
+      "folder": "Taekwondo",
+      "id": "8",
+      "icon": "box/exercises/Taekwondo/Icon.png",
+      "symbolName": "figure.boxing",
+      "title": "Taekwondo",
+      "workoutType": "taekwondo"
+    },
+    {
+      "color": "#4766C1",
+      "colorType": "indigo",
+      "folder": "Judo",
+      "id": "41",
+      "icon": "box/exercises/Judo/Icon.png",
+      "symbolName": "figure.wrestling",
+      "title": "Judo",
+      "workoutType": "judo"
     },
     {
       "color": "#0A84FF",
       "colorType": "green",
       "folder": "Cooldown",
       "id": "10",
-      "icon": "Cooldown/Icon.png",
+      "icon": "box/exercises/Cooldown/Icon.png",
       "symbolName": "figure.flexibility",
       "title": "Rest",
       "workoutType": "cooldown"
@@ -48,7 +118,7 @@
       "colorType": "gray",
       "folder": "Other",
       "id": "0",
-      "icon": "Other/Icon.png",
+      "icon": "box/exercises/Other/Icon.png",
       "symbolName": "list.bullet",
       "title": "Other",
       "workoutType": "other"
@@ -56,340 +126,1180 @@
   ],
   "files": [
     {
-      "icon": "WarmUp/warmUp/Icon.png",
-      "json": "WarmUp/warmUp/warmUp.json"
+      "icon": "box/exercises/WarmUp/warmUp/Icon.png",
+      "json": "box/exercises/WarmUp/warmUp/warmUp.json"
     },
     {
-      "icon": "WarmUp/armCircles/Icon.png",
-      "json": "WarmUp/armCircles/armCircles.json"
+      "icon": "box/exercises/WarmUp/armCircles/Icon.png",
+      "json": "box/exercises/WarmUp/armCircles/armCircles.json"
     },
     {
-      "icon": "WarmUp/elbowCircles/Icon.png",
-      "json": "WarmUp/elbowCircles/elbowCircles.json"
+      "icon": "box/exercises/WarmUp/elbowCircles/Icon.png",
+      "json": "box/exercises/WarmUp/elbowCircles/elbowCircles.json"
     },
     {
-      "icon": "WarmUp/neckMobility/Icon.png",
-      "json": "WarmUp/neckMobility/neckMobility.json"
+      "icon": "box/exercises/WarmUp/neckMobility/Icon.png",
+      "json": "box/exercises/WarmUp/neckMobility/neckMobility.json"
     },
     {
-      "icon": "WarmUp/scapularSqueezes/Icon.png",
-      "json": "WarmUp/scapularSqueezes/scapularSqueezes.json"
+      "icon": "box/exercises/WarmUp/scapularSqueezes/Icon.png",
+      "json": "box/exercises/WarmUp/scapularSqueezes/scapularSqueezes.json"
     },
     {
-      "icon": "WarmUp/shoulderCircles/Icon.png",
-      "json": "WarmUp/shoulderCircles/shoulderCircles.json"
+      "icon": "box/exercises/WarmUp/shoulderCircles/Icon.png",
+      "json": "box/exercises/WarmUp/shoulderCircles/shoulderCircles.json"
     },
     {
-      "icon": "WarmUp/handOpenClose/Icon.png",
-      "json": "WarmUp/handOpenClose/handOpenClose.json"
+      "icon": "box/exercises/WarmUp/handOpenClose/Icon.png",
+      "json": "box/exercises/WarmUp/handOpenClose/handOpenClose.json"
     },
     {
-      "icon": "WarmUp/ankleCircles/Icon.png",
-      "json": "WarmUp/ankleCircles/ankleCircles.json"
+      "icon": "box/exercises/WarmUp/ankleCircles/Icon.png",
+      "json": "box/exercises/WarmUp/ankleCircles/ankleCircles.json"
     },
     {
-      "icon": "WarmUp/hipCircles/Icon.png",
-      "json": "WarmUp/hipCircles/hipCircles.json"
+      "icon": "box/exercises/WarmUp/hipCircles/Icon.png",
+      "json": "box/exercises/WarmUp/hipCircles/hipCircles.json"
     },
     {
-      "icon": "WarmUp/wristCircles/Icon.png",
-      "json": "WarmUp/wristCircles/wristCircles.json"
+      "icon": "box/exercises/WarmUp/wristCircles/Icon.png",
+      "json": "box/exercises/WarmUp/wristCircles/wristCircles.json"
     },
     {
-      "icon": "WarmUp/thoracicRotations/Icon.png",
-      "json": "WarmUp/thoracicRotations/thoracicRotations.json"
+      "icon": "box/exercises/WarmUp/thoracicRotations/Icon.png",
+      "json": "box/exercises/WarmUp/thoracicRotations/thoracicRotations.json"
     },
     {
-      "icon": "WarmUp/catCow/Icon.png",
-      "json": "WarmUp/catCow/catCow.json"
+      "icon": "box/exercises/WarmUp/catCow/Icon.png",
+      "json": "box/exercises/WarmUp/catCow/catCow.json"
     },
     {
-      "icon": "WarmUp/dynamicToeReaches/Icon.png",
-      "json": "WarmUp/dynamicToeReaches/dynamicToeReaches.json"
+      "icon": "box/exercises/WarmUp/dynamicToeReaches/Icon.png",
+      "json": "box/exercises/WarmUp/dynamicToeReaches/dynamicToeReaches.json"
     },
     {
-      "icon": "WarmUp/armSwings/Icon.png",
-      "json": "WarmUp/armSwings/armSwings.json"
+      "icon": "box/exercises/WarmUp/armSwings/Icon.png",
+      "json": "box/exercises/WarmUp/armSwings/armSwings.json"
     },
     {
-      "icon": "WarmUp/hipOpeners/Icon.png",
-      "json": "WarmUp/hipOpeners/hipOpeners.json"
+      "icon": "box/exercises/WarmUp/hipOpeners/Icon.png",
+      "json": "box/exercises/WarmUp/hipOpeners/hipOpeners.json"
     },
     {
-      "icon": "WarmUp/legSwings/Icon.png",
-      "json": "WarmUp/legSwings/legSwings.json"
+      "icon": "box/exercises/WarmUp/legSwings/Icon.png",
+      "json": "box/exercises/WarmUp/legSwings/legSwings.json"
     },
     {
-      "icon": "WarmUp/torsoTwists/Icon.png",
-      "json": "WarmUp/torsoTwists/torsoTwists.json"
+      "icon": "box/exercises/WarmUp/torsoTwists/Icon.png",
+      "json": "box/exercises/WarmUp/torsoTwists/torsoTwists.json"
     },
     {
-      "icon": "WarmUp/jumpRope/Icon.png",
-      "json": "WarmUp/jumpRope/jumpRope.json"
+      "icon": "box/exercises/WarmUp/jumpRope/Icon.png",
+      "json": "box/exercises/WarmUp/jumpRope/jumpRope.json"
     },
     {
-      "icon": "WarmUp/stationaryBike/Icon.png",
-      "json": "WarmUp/stationaryBike/stationaryBike.json"
+      "icon": "box/exercises/WarmUp/stationaryBike/Icon.png",
+      "json": "box/exercises/WarmUp/stationaryBike/stationaryBike.json"
     },
     {
-      "icon": "WarmUp/treadmill/Icon.png",
-      "json": "WarmUp/treadmill/treadmill.json"
+      "icon": "box/exercises/WarmUp/treadmill/Icon.png",
+      "json": "box/exercises/WarmUp/treadmill/treadmill.json"
     },
     {
-      "icon": "WarmUp/marchInPlace/Icon.png",
-      "json": "WarmUp/marchInPlace/marchInPlace.json"
+      "icon": "box/exercises/WarmUp/marchInPlace/Icon.png",
+      "json": "box/exercises/WarmUp/marchInPlace/marchInPlace.json"
     },
     {
-      "icon": "WarmUp/lightJog/Icon.png",
-      "json": "WarmUp/lightJog/lightJog.json"
+      "icon": "box/exercises/WarmUp/lightJog/Icon.png",
+      "json": "box/exercises/WarmUp/lightJog/lightJog.json"
     },
     {
-      "icon": "WarmUp/walkingLunges/Icon.png",
-      "json": "WarmUp/walkingLunges/walkingLunges.json"
+      "icon": "box/exercises/WarmUp/walkingLunges/Icon.png",
+      "json": "box/exercises/WarmUp/walkingLunges/walkingLunges.json"
     },
     {
-      "icon": "WarmUp/inchworms/Icon.png",
-      "json": "WarmUp/inchworms/inchworms.json"
+      "icon": "box/exercises/WarmUp/inchworms/Icon.png",
+      "json": "box/exercises/WarmUp/inchworms/inchworms.json"
     },
     {
-      "icon": "WarmUp/standingWindmills/Icon.png",
-      "json": "WarmUp/standingWindmills/standingWindmills.json"
+      "icon": "box/exercises/WarmUp/standingWindmills/Icon.png",
+      "json": "box/exercises/WarmUp/standingWindmills/standingWindmills.json"
     },
     {
-      "icon": "WarmUp/squatToStand/Icon.png",
-      "json": "WarmUp/squatToStand/squatToStand.json"
+      "icon": "box/exercises/WarmUp/squatToStand/Icon.png",
+      "json": "box/exercises/WarmUp/squatToStand/squatToStand.json"
     },
     {
-      "icon": "WarmUp/lateralLunges/Icon.png",
-      "json": "WarmUp/lateralLunges/lateralLunges.json"
+      "icon": "box/exercises/WarmUp/lateralLunges/Icon.png",
+      "json": "box/exercises/WarmUp/lateralLunges/lateralLunges.json"
     },
     {
-      "icon": "WarmUp/kneeLifts/Icon.png",
-      "json": "WarmUp/kneeLifts/kneeLifts.json"
+      "icon": "box/exercises/WarmUp/kneeLifts/Icon.png",
+      "json": "box/exercises/WarmUp/kneeLifts/kneeLifts.json"
     },
     {
-      "icon": "WarmUp/heelDigs/Icon.png",
-      "json": "WarmUp/heelDigs/heelDigs.json"
+      "icon": "box/exercises/WarmUp/heelDigs/Icon.png",
+      "json": "box/exercises/WarmUp/heelDigs/heelDigs.json"
     },
     {
-      "icon": "WarmUp/boxingStanceFootwork/Icon.png",
-      "json": "WarmUp/boxingStanceFootwork/boxingStanceFootwork.json"
+      "icon": "box/exercises/WarmUp/boxingStanceFootwork/Icon.png",
+      "json": "box/exercises/WarmUp/boxingStanceFootwork/boxingStanceFootwork.json"
     },
     {
-      "icon": "WarmUp/lightBoxingShadowboxing/Icon.png",
-      "json": "WarmUp/lightBoxingShadowboxing/lightBoxingShadowboxing.json"
+      "icon": "box/exercises/WarmUp/lightBoxingShadowboxing/Icon.png",
+      "json": "box/exercises/WarmUp/lightBoxingShadowboxing/lightBoxingShadowboxing.json"
     },
     {
-      "icon": "WarmUp/boxingSlipsAndRolls/Icon.png",
-      "json": "WarmUp/boxingSlipsAndRolls/boxingSlipsAndRolls.json"
+      "icon": "box/exercises/WarmUp/boxingSlipsAndRolls/Icon.png",
+      "json": "box/exercises/WarmUp/boxingSlipsAndRolls/boxingSlipsAndRolls.json"
     },
     {
-      "icon": "Cooldown/coolDown/Icon.png",
-      "json": "Cooldown/coolDown/coolDown.json"
+      "icon": "box/exercises/WarmUp/kickFightingStanceAndFootwork/Icon.png",
+      "json": "box/exercises/WarmUp/kickFightingStanceAndFootwork/kickFightingStanceAndFootwork.json"
     },
     {
-      "icon": "Cooldown/breathing/Icon.png",
-      "json": "Cooldown/breathing/breathing.json"
+      "icon": "box/exercises/WarmUp/hipRotationFlow/Icon.png",
+      "json": "box/exercises/WarmUp/hipRotationFlow/hipRotationFlow.json"
     },
     {
-      "icon": "Cooldown/shoulderStretch/Icon.png",
-      "json": "Cooldown/shoulderStretch/shoulderStretch.json"
+      "icon": "box/exercises/WarmUp/kneeChamberFlow/Icon.png",
+      "json": "box/exercises/WarmUp/kneeChamberFlow/kneeChamberFlow.json"
     },
     {
-      "icon": "Cooldown/tricepsStretch/Icon.png",
-      "json": "Cooldown/tricepsStretch/tricepsStretch.json"
+      "icon": "box/exercises/WarmUp/lightFrontKickFlow/Icon.png",
+      "json": "box/exercises/WarmUp/lightFrontKickFlow/lightFrontKickFlow.json"
     },
     {
-      "icon": "Cooldown/chestStretch/Icon.png",
-      "json": "Cooldown/chestStretch/chestStretch.json"
+      "icon": "box/exercises/WarmUp/lightRoundhouseKickFlow/Icon.png",
+      "json": "box/exercises/WarmUp/lightRoundhouseKickFlow/lightRoundhouseKickFlow.json"
     },
     {
-      "icon": "Cooldown/latStretch/Icon.png",
-      "json": "Cooldown/latStretch/latStretch.json"
+      "icon": "box/exercises/WarmUp/kickCheckFlow/Icon.png",
+      "json": "box/exercises/WarmUp/kickCheckFlow/kickCheckFlow.json"
     },
     {
-      "icon": "Cooldown/hipFlexorStretch/Icon.png",
-      "json": "Cooldown/hipFlexorStretch/hipFlexorStretch.json"
+      "icon": "box/exercises/WarmUp/grapplingStanceAndMotion/Icon.png",
+      "json": "box/exercises/WarmUp/grapplingStanceAndMotion/grapplingStanceAndMotion.json"
     },
     {
-      "icon": "Cooldown/quadricepsStretch/Icon.png",
-      "json": "Cooldown/quadricepsStretch/quadricepsStretch.json"
+      "icon": "box/exercises/WarmUp/levelChangeFlow/Icon.png",
+      "json": "box/exercises/WarmUp/levelChangeFlow/levelChangeFlow.json"
     },
     {
-      "icon": "Cooldown/hamstringStretch/Icon.png",
-      "json": "Cooldown/hamstringStretch/hamstringStretch.json"
+      "icon": "box/exercises/WarmUp/penetrationStepFlow/Icon.png",
+      "json": "box/exercises/WarmUp/penetrationStepFlow/penetrationStepFlow.json"
     },
     {
-      "icon": "Cooldown/calfStretch/Icon.png",
-      "json": "Cooldown/calfStretch/calfStretch.json"
+      "icon": "box/exercises/WarmUp/bridgeFlow/Icon.png",
+      "json": "box/exercises/WarmUp/bridgeFlow/bridgeFlow.json"
     },
     {
-      "icon": "Cooldown/adductorStretch/Icon.png",
-      "json": "Cooldown/adductorStretch/adductorStretch.json"
+      "icon": "box/exercises/WarmUp/hipEscapeFlow/Icon.png",
+      "json": "box/exercises/WarmUp/hipEscapeFlow/hipEscapeFlow.json"
     },
     {
-      "icon": "Cooldown/gluteStretch/Icon.png",
-      "json": "Cooldown/gluteStretch/gluteStretch.json"
+      "icon": "box/exercises/WarmUp/technicalStandUpFlow/Icon.png",
+      "json": "box/exercises/WarmUp/technicalStandUpFlow/technicalStandUpFlow.json"
     },
     {
-      "icon": "Cooldown/walkingRecovery/Icon.png",
-      "json": "Cooldown/walkingRecovery/walkingRecovery.json"
+      "icon": "box/exercises/WarmUp/forwardAndBackwardRolls/Icon.png",
+      "json": "box/exercises/WarmUp/forwardAndBackwardRolls/forwardAndBackwardRolls.json"
     },
     {
-      "json": "Cooldown/calfRoll/calfRoll.json",
-      "icon": "Cooldown/calfRoll/Icon.png"
+      "icon": "box/exercises/WarmUp/mmaStanceAndMovement/Icon.png",
+      "json": "box/exercises/WarmUp/mmaStanceAndMovement/mmaStanceAndMovement.json"
     },
     {
-      "json": "Cooldown/hamstringRoll/hamstringRoll.json",
-      "icon": "Cooldown/hamstringRoll/Icon.png"
+      "icon": "box/exercises/WarmUp/lightMMAShadowboxing/Icon.png",
+      "json": "box/exercises/WarmUp/lightMMAShadowboxing/lightMMAShadowboxing.json"
     },
     {
-      "json": "Cooldown/quadricepsRoll/quadricepsRoll.json",
-      "icon": "Cooldown/quadricepsRoll/Icon.png"
+      "icon": "box/exercises/WarmUp/stanceSwitches/Icon.png",
+      "json": "box/exercises/WarmUp/stanceSwitches/stanceSwitches.json"
     },
     {
-      "json": "Cooldown/adductorRoll/adductorRoll.json",
-      "icon": "Cooldown/adductorRoll/Icon.png"
+      "icon": "box/exercises/WarmUp/lightClinchPummeling/Icon.png",
+      "json": "box/exercises/WarmUp/lightClinchPummeling/lightClinchPummeling.json"
     },
     {
-      "json": "Cooldown/gluteRoll/gluteRoll.json",
-      "icon": "Cooldown/gluteRoll/Icon.png"
+      "icon": "box/exercises/Cooldown/coolDown/Icon.png",
+      "json": "box/exercises/Cooldown/coolDown/coolDown.json"
     },
     {
-      "json": "Cooldown/piriformisRoll/piriformisRoll.json",
-      "icon": "Cooldown/piriformisRoll/Icon.png"
+      "icon": "box/exercises/Cooldown/breathing/Icon.png",
+      "json": "box/exercises/Cooldown/breathing/breathing.json"
     },
     {
-      "json": "Cooldown/latRoll/latRoll.json",
-      "icon": "Cooldown/latRoll/Icon.png"
+      "icon": "box/exercises/Cooldown/shoulderStretch/Icon.png",
+      "json": "box/exercises/Cooldown/shoulderStretch/shoulderStretch.json"
     },
     {
-      "json": "Cooldown/thoracicSpineRoll/thoracicSpineRoll.json",
-      "icon": "Cooldown/thoracicSpineRoll/Icon.png"
+      "icon": "box/exercises/Cooldown/tricepsStretch/Icon.png",
+      "json": "box/exercises/Cooldown/tricepsStretch/tricepsStretch.json"
     },
     {
-      "json": "Cooldown/upperBackRoll/upperBackRoll.json",
-      "icon": "Cooldown/upperBackRoll/Icon.png"
+      "icon": "box/exercises/Cooldown/chestStretch/Icon.png",
+      "json": "box/exercises/Cooldown/chestStretch/chestStretch.json"
     },
     {
-      "json": "Cooldown/itBandStretch/itBandStretch.json",
-      "icon": "Cooldown/itBandStretch/Icon.png"
+      "icon": "box/exercises/Cooldown/latStretch/Icon.png",
+      "json": "box/exercises/Cooldown/latStretch/latStretch.json"
     },
     {
-      "json": "Cooldown/childsPose/childsPose.json",
-      "icon": "Cooldown/childsPose/Icon.png"
+      "icon": "box/exercises/Cooldown/hipFlexorStretch/Icon.png",
+      "json": "box/exercises/Cooldown/hipFlexorStretch/hipFlexorStretch.json"
     },
     {
-      "json": "Cooldown/neckStretch/neckStretch.json",
-      "icon": "Cooldown/neckStretch/Icon.png"
+      "icon": "box/exercises/Cooldown/quadricepsStretch/Icon.png",
+      "json": "box/exercises/Cooldown/quadricepsStretch/quadricepsStretch.json"
     },
     {
-      "icon": "Boxing/boxing/Icon.png",
-      "json": "Boxing/boxing/boxing.json"
+      "icon": "box/exercises/Cooldown/hamstringStretch/Icon.png",
+      "json": "box/exercises/Cooldown/hamstringStretch/hamstringStretch.json"
     },
     {
-      "icon": "Boxing/jab/Icon.png",
-      "json": "Boxing/jab/jab.json"
+      "icon": "box/exercises/Cooldown/calfStretch/Icon.png",
+      "json": "box/exercises/Cooldown/calfStretch/calfStretch.json"
     },
     {
-      "icon": "Boxing/cross/Icon.png",
-      "json": "Boxing/cross/cross.json"
+      "icon": "box/exercises/Cooldown/adductorStretch/Icon.png",
+      "json": "box/exercises/Cooldown/adductorStretch/adductorStretch.json"
     },
     {
-      "icon": "Boxing/leadHook/Icon.png",
-      "json": "Boxing/leadHook/leadHook.json"
+      "icon": "box/exercises/Cooldown/gluteStretch/Icon.png",
+      "json": "box/exercises/Cooldown/gluteStretch/gluteStretch.json"
     },
     {
-      "icon": "Boxing/rearHook/Icon.png",
-      "json": "Boxing/rearHook/rearHook.json"
+      "icon": "box/exercises/Cooldown/walkingRecovery/Icon.png",
+      "json": "box/exercises/Cooldown/walkingRecovery/walkingRecovery.json"
     },
     {
-      "icon": "Boxing/leadUppercut/Icon.png",
-      "json": "Boxing/leadUppercut/leadUppercut.json"
+      "json": "box/exercises/Cooldown/calfRoll/calfRoll.json",
+      "icon": "box/exercises/Cooldown/calfRoll/Icon.png"
     },
     {
-      "icon": "Boxing/rearUppercut/Icon.png",
-      "json": "Boxing/rearUppercut/rearUppercut.json"
+      "json": "box/exercises/Cooldown/hamstringRoll/hamstringRoll.json",
+      "icon": "box/exercises/Cooldown/hamstringRoll/Icon.png"
     },
     {
-      "icon": "Boxing/bodyJab/Icon.png",
-      "json": "Boxing/bodyJab/bodyJab.json"
+      "json": "box/exercises/Cooldown/quadricepsRoll/quadricepsRoll.json",
+      "icon": "box/exercises/Cooldown/quadricepsRoll/Icon.png"
     },
     {
-      "icon": "Boxing/bodyCross/Icon.png",
-      "json": "Boxing/bodyCross/bodyCross.json"
+      "json": "box/exercises/Cooldown/adductorRoll/adductorRoll.json",
+      "icon": "box/exercises/Cooldown/adductorRoll/Icon.png"
     },
     {
-      "icon": "Boxing/leadBodyHook/Icon.png",
-      "json": "Boxing/leadBodyHook/leadBodyHook.json"
+      "json": "box/exercises/Cooldown/gluteRoll/gluteRoll.json",
+      "icon": "box/exercises/Cooldown/gluteRoll/Icon.png"
     },
     {
-      "icon": "Boxing/rearBodyHook/Icon.png",
-      "json": "Boxing/rearBodyHook/rearBodyHook.json"
+      "json": "box/exercises/Cooldown/piriformisRoll/piriformisRoll.json",
+      "icon": "box/exercises/Cooldown/piriformisRoll/Icon.png"
     },
     {
-      "icon": "Boxing/leadBodyUppercut/Icon.png",
-      "json": "Boxing/leadBodyUppercut/leadBodyUppercut.json"
+      "json": "box/exercises/Cooldown/latRoll/latRoll.json",
+      "icon": "box/exercises/Cooldown/latRoll/Icon.png"
     },
     {
-      "icon": "Boxing/rearBodyUppercut/Icon.png",
-      "json": "Boxing/rearBodyUppercut/rearBodyUppercut.json"
+      "json": "box/exercises/Cooldown/thoracicSpineRoll/thoracicSpineRoll.json",
+      "icon": "box/exercises/Cooldown/thoracicSpineRoll/Icon.png"
     },
     {
-      "icon": "Boxing/boxingStance/Icon.png",
-      "json": "Boxing/boxingStance/boxingStance.json"
+      "json": "box/exercises/Cooldown/upperBackRoll/upperBackRoll.json",
+      "icon": "box/exercises/Cooldown/upperBackRoll/Icon.png"
     },
     {
-      "icon": "Boxing/forwardBackwardStep/Icon.png",
-      "json": "Boxing/forwardBackwardStep/forwardBackwardStep.json"
+      "json": "box/exercises/Cooldown/itBandStretch/itBandStretch.json",
+      "icon": "box/exercises/Cooldown/itBandStretch/Icon.png"
     },
     {
-      "icon": "Boxing/sideStep/Icon.png",
-      "json": "Boxing/sideStep/sideStep.json"
+      "json": "box/exercises/Cooldown/childsPose/childsPose.json",
+      "icon": "box/exercises/Cooldown/childsPose/Icon.png"
     },
     {
-      "icon": "Boxing/slips/Icon.png",
-      "json": "Boxing/slips/slips.json"
+      "json": "box/exercises/Cooldown/neckStretch/neckStretch.json",
+      "icon": "box/exercises/Cooldown/neckStretch/Icon.png"
     },
     {
-      "icon": "Boxing/parry/Icon.png",
-      "json": "Boxing/parry/parry.json"
+      "icon": "box/exercises/Boxing/boxing/Icon.png",
+      "json": "box/exercises/Boxing/boxing/boxing.json"
     },
     {
-      "icon": "Boxing/block/Icon.png",
-      "json": "Boxing/block/block.json"
+      "icon": "box/exercises/Boxing/jab/Icon.png",
+      "json": "box/exercises/Boxing/jab/jab.json"
     },
     {
-      "icon": "Boxing/rollWeave/Icon.png",
-      "json": "Boxing/rollWeave/rollWeave.json"
+      "icon": "box/exercises/Boxing/cross/Icon.png",
+      "json": "box/exercises/Boxing/cross/cross.json"
     },
     {
-      "json": "Boxing/guard/guard.json",
-      "icon": "Boxing/guard/Icon.png"
+      "icon": "box/exercises/Boxing/leadHook/Icon.png",
+      "json": "box/exercises/Boxing/leadHook/leadHook.json"
     },
     {
-      "icon": "Other/rest/Icon.png",
-      "json": "Other/rest/rest.json"
+      "icon": "box/exercises/Boxing/rearHook/Icon.png",
+      "json": "box/exercises/Boxing/rearHook/rearHook.json"
     },
     {
-      "icon": "Other/repeat/Icon.png",
-      "json": "Other/repeat/repeat.json"
+      "icon": "box/exercises/Boxing/leadUppercut/Icon.png",
+      "json": "box/exercises/Boxing/leadUppercut/leadUppercut.json"
     },
     {
-      "icon": "Other/preparation/Icon.png",
-      "json": "Other/preparation/preparation.json"
+      "icon": "box/exercises/Boxing/rearUppercut/Icon.png",
+      "json": "box/exercises/Boxing/rearUppercut/rearUppercut.json"
     },
     {
-      "icon": "Other/endRepeat/Icon.png",
-      "json": "Other/endRepeat/endRepeat.json"
+      "icon": "box/exercises/Boxing/bodyJab/Icon.png",
+      "json": "box/exercises/Boxing/bodyJab/bodyJab.json"
     },
     {
-      "icon": "Other/note/Icon.png",
-      "json": "Other/note/note.json"
+      "icon": "box/exercises/Boxing/bodyCross/Icon.png",
+      "json": "box/exercises/Boxing/bodyCross/bodyCross.json"
     },
     {
-      "icon": "Other/work/Icon.png",
-      "json": "Other/work/work.json"
+      "icon": "box/exercises/Boxing/leadBodyHook/Icon.png",
+      "json": "box/exercises/Boxing/leadBodyHook/leadBodyHook.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/rearBodyHook/Icon.png",
+      "json": "box/exercises/Boxing/rearBodyHook/rearBodyHook.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/leadBodyUppercut/Icon.png",
+      "json": "box/exercises/Boxing/leadBodyUppercut/leadBodyUppercut.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/rearBodyUppercut/Icon.png",
+      "json": "box/exercises/Boxing/rearBodyUppercut/rearBodyUppercut.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/boxingStance/Icon.png",
+      "json": "box/exercises/Boxing/boxingStance/boxingStance.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/forwardBackwardStep/Icon.png",
+      "json": "box/exercises/Boxing/forwardBackwardStep/forwardBackwardStep.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/sideStep/Icon.png",
+      "json": "box/exercises/Boxing/sideStep/sideStep.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/slips/Icon.png",
+      "json": "box/exercises/Boxing/slips/slips.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/parry/Icon.png",
+      "json": "box/exercises/Boxing/parry/parry.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/block/Icon.png",
+      "json": "box/exercises/Boxing/block/block.json"
+    },
+    {
+      "icon": "box/exercises/Boxing/rollWeave/Icon.png",
+      "json": "box/exercises/Boxing/rollWeave/rollWeave.json"
+    },
+    {
+      "json": "box/exercises/Boxing/guard/guard.json",
+      "icon": "box/exercises/Boxing/guard/Icon.png"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/kickboxing/Icon.png",
+      "json": "box/exercises/KickBoxing/kickboxing/kickboxing.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/jab/Icon.png",
+      "json": "box/exercises/KickBoxing/jab/jab.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/cross/Icon.png",
+      "json": "box/exercises/KickBoxing/cross/cross.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/leadHook/Icon.png",
+      "json": "box/exercises/KickBoxing/leadHook/leadHook.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/rearHook/Icon.png",
+      "json": "box/exercises/KickBoxing/rearHook/rearHook.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/leadUppercut/Icon.png",
+      "json": "box/exercises/KickBoxing/leadUppercut/leadUppercut.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/rearUppercut/Icon.png",
+      "json": "box/exercises/KickBoxing/rearUppercut/rearUppercut.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/leadFrontKick/Icon.png",
+      "json": "box/exercises/KickBoxing/leadFrontKick/leadFrontKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/rearFrontKick/Icon.png",
+      "json": "box/exercises/KickBoxing/rearFrontKick/rearFrontKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/leadRoundhouseKick/Icon.png",
+      "json": "box/exercises/KickBoxing/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/rearRoundhouseKick/Icon.png",
+      "json": "box/exercises/KickBoxing/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/leadSideKick/Icon.png",
+      "json": "box/exercises/KickBoxing/leadSideKick/leadSideKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/rearSideKick/Icon.png",
+      "json": "box/exercises/KickBoxing/rearSideKick/rearSideKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/kickBlockCheckDrill/Icon.png",
+      "json": "box/exercises/KickBoxing/kickBlockCheckDrill/kickBlockCheckDrill.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/leadLowKick/Icon.png",
+      "json": "box/exercises/KickBoxing/leadLowKick/leadLowKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/rearLowKick/Icon.png",
+      "json": "box/exercises/KickBoxing/rearLowKick/rearLowKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/leadKnee/Icon.png",
+      "json": "box/exercises/KickBoxing/leadKnee/leadKnee.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/rearKnee/Icon.png",
+      "json": "box/exercises/KickBoxing/rearKnee/rearKnee.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/crescentKick/Icon.png",
+      "json": "box/exercises/KickBoxing/crescentKick/crescentKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/axeKick/Icon.png",
+      "json": "box/exercises/KickBoxing/axeKick/axeKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/spinningBackKick/Icon.png",
+      "json": "box/exercises/KickBoxing/spinningBackKick/spinningBackKick.json"
+    },
+    {
+      "icon": "box/exercises/KickBoxing/footSweep/Icon.png",
+      "json": "box/exercises/KickBoxing/footSweep/footSweep.json"
+    },
+    {
+      "json": "box/exercises/KickBoxing/kickboxingStance/kickboxingStance.json",
+      "icon": "box/exercises/KickBoxing/kickboxingStance/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/forwardBackwardStep/forwardBackwardStep.json",
+      "icon": "box/exercises/KickBoxing/forwardBackwardStep/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/lateralStep/lateralStep.json",
+      "icon": "box/exercises/KickBoxing/lateralStep/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/leadHookKick/leadHookKick.json",
+      "icon": "box/exercises/KickBoxing/leadHookKick/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/rearHookKick/rearHookKick.json",
+      "icon": "box/exercises/KickBoxing/rearHookKick/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/parry/parry.json",
+      "icon": "box/exercises/KickBoxing/parry/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/block/block.json",
+      "icon": "box/exercises/KickBoxing/block/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/rollWeave/rollWeave.json",
+      "icon": "box/exercises/KickBoxing/rollWeave/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/bodyJab/bodyJab.json",
+      "icon": "box/exercises/KickBoxing/bodyJab/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/bodyCross/bodyCross.json",
+      "icon": "box/exercises/KickBoxing/bodyCross/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/leadBodyHook/leadBodyHook.json",
+      "icon": "box/exercises/KickBoxing/leadBodyHook/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/rearBodyHook/rearBodyHook.json",
+      "icon": "box/exercises/KickBoxing/rearBodyHook/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/leadBodyUppercut/leadBodyUppercut.json",
+      "icon": "box/exercises/KickBoxing/leadBodyUppercut/Icon.png"
+    },
+    {
+      "json": "box/exercises/KickBoxing/rearBodyUppercut/rearBodyUppercut.json",
+      "icon": "box/exercises/KickBoxing/rearBodyUppercut/Icon.png"
+    },
+    {
+      "icon": "box/exercises/MuayThai/muayThai/Icon.png",
+      "json": "box/exercises/MuayThai/muayThai/muayThai.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/jab/Icon.png",
+      "json": "box/exercises/MuayThai/jab/jab.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/cross/Icon.png",
+      "json": "box/exercises/MuayThai/cross/cross.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/leadHook/Icon.png",
+      "json": "box/exercises/MuayThai/leadHook/leadHook.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/rearHook/Icon.png",
+      "json": "box/exercises/MuayThai/rearHook/rearHook.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/leadUppercut/Icon.png",
+      "json": "box/exercises/MuayThai/leadUppercut/leadUppercut.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/rearUppercut/Icon.png",
+      "json": "box/exercises/MuayThai/rearUppercut/rearUppercut.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/leadTeep/Icon.png",
+      "json": "box/exercises/MuayThai/leadTeep/leadTeep.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/rearTeep/Icon.png",
+      "json": "box/exercises/MuayThai/rearTeep/rearTeep.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/leadLowKick/Icon.png",
+      "json": "box/exercises/MuayThai/leadLowKick/leadLowKick.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/rearLowKick/Icon.png",
+      "json": "box/exercises/MuayThai/rearLowKick/rearLowKick.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/leadRoundhouseKick/Icon.png",
+      "json": "box/exercises/MuayThai/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/rearRoundhouseKick/Icon.png",
+      "json": "box/exercises/MuayThai/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/leadKnee/Icon.png",
+      "json": "box/exercises/MuayThai/leadKnee/leadKnee.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/rearKnee/Icon.png",
+      "json": "box/exercises/MuayThai/rearKnee/rearKnee.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/leadHorizontalElbow/Icon.png",
+      "json": "box/exercises/MuayThai/leadHorizontalElbow/leadHorizontalElbow.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/rearHorizontalElbow/Icon.png",
+      "json": "box/exercises/MuayThai/rearHorizontalElbow/rearHorizontalElbow.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/clinchControl/Icon.png",
+      "json": "box/exercises/MuayThai/clinchControl/clinchControl.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/kickCheck/Icon.png",
+      "json": "box/exercises/MuayThai/kickCheck/kickCheck.json"
+    },
+    {
+      "icon": "box/exercises/MuayThai/sweep/Icon.png",
+      "json": "box/exercises/MuayThai/sweep/sweep.json"
+    },
+    {
+      "json": "box/exercises/MuayThai/muayThaiStance/muayThaiStance.json",
+      "icon": "box/exercises/MuayThai/muayThaiStance/Icon.png"
+    },
+    {
+      "json": "box/exercises/MuayThai/forwardBackwardStep/forwardBackwardStep.json",
+      "icon": "box/exercises/MuayThai/forwardBackwardStep/Icon.png"
+    },
+    {
+      "json": "box/exercises/MuayThai/lateralStep/lateralStep.json",
+      "icon": "box/exercises/MuayThai/lateralStep/Icon.png"
+    },
+    {
+      "json": "box/exercises/MuayThai/leadUppercutElbow/leadUppercutElbow.json",
+      "icon": "box/exercises/MuayThai/leadUppercutElbow/Icon.png"
+    },
+    {
+      "json": "box/exercises/MuayThai/rearUppercutElbow/rearUppercutElbow.json",
+      "icon": "box/exercises/MuayThai/rearUppercutElbow/Icon.png"
+    },
+    {
+      "json": "box/exercises/MuayThai/leadDownwardElbow/leadDownwardElbow.json",
+      "icon": "box/exercises/MuayThai/leadDownwardElbow/Icon.png"
+    },
+    {
+      "json": "box/exercises/MuayThai/rearDownwardElbow/rearDownwardElbow.json",
+      "icon": "box/exercises/MuayThai/rearDownwardElbow/Icon.png"
+    },
+    {
+      "json": "box/exercises/MuayThai/kickCatch/kickCatch.json",
+      "icon": "box/exercises/MuayThai/kickCatch/Icon.png"
+    },
+    {
+      "icon": "box/exercises/MMA/mma/Icon.png",
+      "json": "box/exercises/MMA/mma/mma.json"
+    },
+    {
+      "icon": "box/exercises/MMA/mmaStanceAndMovement/Icon.png",
+      "json": "box/exercises/MMA/mmaStanceAndMovement/mmaStanceAndMovement.json"
+    },
+    {
+      "icon": "box/exercises/MMA/jab/Icon.png",
+      "json": "box/exercises/MMA/jab/jab.json"
+    },
+    {
+      "icon": "box/exercises/MMA/cross/Icon.png",
+      "json": "box/exercises/MMA/cross/cross.json"
+    },
+    {
+      "json": "box/exercises/MMA/leadHook/leadHook.json",
+      "icon": "box/exercises/MMA/leadHook/Icon.png"
+    },
+    {
+      "json": "box/exercises/MMA/rearHook/rearHook.json",
+      "icon": "box/exercises/MMA/rearHook/Icon.png"
+    },
+    {
+      "json": "box/exercises/MMA/leadUppercut/leadUppercut.json",
+      "icon": "box/exercises/MMA/leadUppercut/Icon.png"
+    },
+    {
+      "json": "box/exercises/MMA/rearUppercut/rearUppercut.json",
+      "icon": "box/exercises/MMA/rearUppercut/Icon.png"
+    },
+    {
+      "icon": "box/exercises/MMA/rearLowKick/Icon.png",
+      "json": "box/exercises/MMA/rearLowKick/rearLowKick.json"
+    },
+    {
+      "icon": "box/exercises/MMA/clinchPummeling/Icon.png",
+      "json": "box/exercises/MMA/clinchPummeling/clinchPummeling.json"
+    },
+    {
+      "icon": "box/exercises/MMA/doubleLegTakedown/Icon.png",
+      "json": "box/exercises/MMA/doubleLegTakedown/doubleLegTakedown.json"
+    },
+    {
+      "icon": "box/exercises/MMA/singleLegTakedown/Icon.png",
+      "json": "box/exercises/MMA/singleLegTakedown/singleLegTakedown.json"
+    },
+    {
+      "icon": "box/exercises/MMA/bodyLockTakedown/Icon.png",
+      "json": "box/exercises/MMA/bodyLockTakedown/bodyLockTakedown.json"
+    },
+    {
+      "icon": "box/exercises/MMA/sprawl/Icon.png",
+      "json": "box/exercises/MMA/sprawl/sprawl.json"
+    },
+    {
+      "icon": "box/exercises/MMA/wallGetUp/Icon.png",
+      "json": "box/exercises/MMA/wallGetUp/wallGetUp.json"
+    },
+    {
+      "icon": "box/exercises/MMA/technicalStandUp/Icon.png",
+      "json": "box/exercises/MMA/technicalStandUp/technicalStandUp.json"
+    },
+    {
+      "icon": "box/exercises/MMA/hipEscape/Icon.png",
+      "json": "box/exercises/MMA/hipEscape/hipEscape.json"
+    },
+    {
+      "icon": "box/exercises/MMA/guardPass/Icon.png",
+      "json": "box/exercises/MMA/guardPass/guardPass.json"
+    },
+    {
+      "icon": "box/exercises/MMA/groundAndPound/Icon.png",
+      "json": "box/exercises/MMA/groundAndPound/groundAndPound.json"
+    },
+    {
+      "icon": "box/exercises/MMA/rearNakedChoke/Icon.png",
+      "json": "box/exercises/MMA/rearNakedChoke/rearNakedChoke.json"
+    },
+    {
+      "json": "box/exercises/MMA/guillotineChoke/guillotineChoke.json",
+      "icon": "box/exercises/MMA/guillotineChoke/Icon.png"
+    },
+    {
+      "icon": "box/exercises/MMA/leadLowKick/Icon.png",
+      "json": "box/exercises/MMA/leadLowKick/leadLowKick.json"
+    },
+    {
+      "icon": "box/exercises/MMA/leadRoundhouseKick/Icon.png",
+      "json": "box/exercises/MMA/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/MMA/rearRoundhouseKick/Icon.png",
+      "json": "box/exercises/MMA/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/MMA/strikingDefense/Icon.png",
+      "json": "box/exercises/MMA/strikingDefense/strikingDefense.json"
+    },
+    {
+      "icon": "box/exercises/MMA/kickDefense/Icon.png",
+      "json": "box/exercises/MMA/kickDefense/kickDefense.json"
+    },
+    {
+      "icon": "box/exercises/MMA/fenceControl/Icon.png",
+      "json": "box/exercises/MMA/fenceControl/fenceControl.json"
+    },
+    {
+      "icon": "box/exercises/MMA/fenceEscape/Icon.png",
+      "json": "box/exercises/MMA/fenceEscape/fenceEscape.json"
+    },
+    {
+      "icon": "box/exercises/MMA/submissionDefense/Icon.png",
+      "json": "box/exercises/MMA/submissionDefense/submissionDefense.json"
+    },
+    {
+      "icon": "box/exercises/MMA/groundReversal/Icon.png",
+      "json": "box/exercises/MMA/groundReversal/groundReversal.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/bjj/Icon.png",
+      "json": "box/exercises/BJJ/bjj/bjj.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/technicalStandUp/Icon.png",
+      "json": "box/exercises/BJJ/technicalStandUp/technicalStandUp.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/hipEscape/Icon.png",
+      "json": "box/exercises/BJJ/hipEscape/hipEscape.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/bridge/Icon.png",
+      "json": "box/exercises/BJJ/bridge/bridge.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/closedGuardControl/Icon.png",
+      "json": "box/exercises/BJJ/closedGuardControl/closedGuardControl.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/mountControl/Icon.png",
+      "json": "box/exercises/BJJ/mountControl/mountControl.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/sideControl/Icon.png",
+      "json": "box/exercises/BJJ/sideControl/sideControl.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/backControl/Icon.png",
+      "json": "box/exercises/BJJ/backControl/backControl.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/trapAndRollEscape/Icon.png",
+      "json": "box/exercises/BJJ/trapAndRollEscape/trapAndRollEscape.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/elbowEscapeFromMount/Icon.png",
+      "json": "box/exercises/BJJ/elbowEscapeFromMount/elbowEscapeFromMount.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/guardPass/Icon.png",
+      "json": "box/exercises/BJJ/guardPass/guardPass.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/elevatorSweep/Icon.png",
+      "json": "box/exercises/BJJ/elevatorSweep/elevatorSweep.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/takeTheBack/Icon.png",
+      "json": "box/exercises/BJJ/takeTheBack/takeTheBack.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/rearNakedChoke/Icon.png",
+      "json": "box/exercises/BJJ/rearNakedChoke/rearNakedChoke.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/americana/Icon.png",
+      "json": "box/exercises/BJJ/americana/americana.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/armbarFromMount/Icon.png",
+      "json": "box/exercises/BJJ/armbarFromMount/armbarFromMount.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/armbarFromGuard/Icon.png",
+      "json": "box/exercises/BJJ/armbarFromGuard/armbarFromGuard.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/triangleChoke/Icon.png",
+      "json": "box/exercises/BJJ/triangleChoke/triangleChoke.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/guillotineChoke/Icon.png",
+      "json": "box/exercises/BJJ/guillotineChoke/guillotineChoke.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/doubleLegTakedown/Icon.png",
+      "json": "box/exercises/BJJ/doubleLegTakedown/doubleLegTakedown.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/pullGuard/Icon.png",
+      "json": "box/exercises/BJJ/pullGuard/pullGuard.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/hookSweep/Icon.png",
+      "json": "box/exercises/BJJ/hookSweep/hookSweep.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/shrimpEscapeFromSideControl/Icon.png",
+      "json": "box/exercises/BJJ/shrimpEscapeFromSideControl/shrimpEscapeFromSideControl.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/elbowEscapeFromSideControl/Icon.png",
+      "json": "box/exercises/BJJ/elbowEscapeFromSideControl/elbowEscapeFromSideControl.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/kimuraFromGuard/Icon.png",
+      "json": "box/exercises/BJJ/kimuraFromGuard/kimuraFromGuard.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/doubleUnderhookGuardPass/Icon.png",
+      "json": "box/exercises/BJJ/doubleUnderhookGuardPass/doubleUnderhookGuardPass.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/guillotineDefense/Icon.png",
+      "json": "box/exercises/BJJ/guillotineDefense/guillotineDefense.json"
+    },
+    {
+      "icon": "box/exercises/BJJ/headlockEscape/Icon.png",
+      "json": "box/exercises/BJJ/headlockEscape/headlockEscape.json"
+    },
+    {
+      "json": "box/exercises/BJJ/scissorSweep/scissorSweep.json",
+      "icon": "box/exercises/BJJ/scissorSweep/Icon.png"
+    },
+    {
+      "json": "box/exercises/BJJ/hipBumpSweep/hipBumpSweep.json",
+      "icon": "box/exercises/BJJ/hipBumpSweep/Icon.png"
+    },
+    {
+      "json": "box/exercises/BJJ/singleLegTakedown/singleLegTakedown.json",
+      "icon": "box/exercises/BJJ/singleLegTakedown/Icon.png"
+    },
+    {
+      "json": "box/exercises/BJJ/kneeOnBellyControl/kneeOnBellyControl.json",
+      "icon": "box/exercises/BJJ/kneeOnBellyControl/Icon.png"
+    },
+    {
+      "json": "box/exercises/BJJ/backEscape/backEscape.json",
+      "icon": "box/exercises/BJJ/backEscape/Icon.png"
+    },
+    {
+      "icon": "box/exercises/Karate/karate/Icon.png",
+      "json": "box/exercises/Karate/karate/karate.json"
+    },
+    {
+      "icon": "box/exercises/Karate/fightingStance/Icon.png",
+      "json": "box/exercises/Karate/fightingStance/fightingStance.json"
+    },
+    {
+      "icon": "box/exercises/Karate/zenkutsuDachi/Icon.png",
+      "json": "box/exercises/Karate/zenkutsuDachi/zenkutsuDachi.json"
+    },
+    {
+      "icon": "box/exercises/Karate/kibaDachi/Icon.png",
+      "json": "box/exercises/Karate/kibaDachi/kibaDachi.json"
+    },
+    {
+      "icon": "box/exercises/Karate/kokutsuDachi/Icon.png",
+      "json": "box/exercises/Karate/kokutsuDachi/kokutsuDachi.json"
+    },
+    {
+      "icon": "box/exercises/Karate/oiZuki/Icon.png",
+      "json": "box/exercises/Karate/oiZuki/oiZuki.json"
+    },
+    {
+      "icon": "box/exercises/Karate/gyakuZuki/Icon.png",
+      "json": "box/exercises/Karate/gyakuZuki/gyakuZuki.json"
+    },
+    {
+      "icon": "box/exercises/Karate/kizamiZuki/Icon.png",
+      "json": "box/exercises/Karate/kizamiZuki/kizamiZuki.json"
+    },
+    {
+      "icon": "box/exercises/Karate/urakenUchi/Icon.png",
+      "json": "box/exercises/Karate/urakenUchi/urakenUchi.json"
+    },
+    {
+      "icon": "box/exercises/Karate/ageUke/Icon.png",
+      "json": "box/exercises/Karate/ageUke/ageUke.json"
+    },
+    {
+      "icon": "box/exercises/Karate/sotoUke/Icon.png",
+      "json": "box/exercises/Karate/sotoUke/sotoUke.json"
+    },
+    {
+      "icon": "box/exercises/Karate/uchiUke/Icon.png",
+      "json": "box/exercises/Karate/uchiUke/uchiUke.json"
+    },
+    {
+      "icon": "box/exercises/Karate/gedanBarai/Icon.png",
+      "json": "box/exercises/Karate/gedanBarai/gedanBarai.json"
+    },
+    {
+      "icon": "box/exercises/Karate/shutoUke/Icon.png",
+      "json": "box/exercises/Karate/shutoUke/shutoUke.json"
+    },
+    {
+      "icon": "box/exercises/Karate/maeGeri/Icon.png",
+      "json": "box/exercises/Karate/maeGeri/maeGeri.json"
+    },
+    {
+      "icon": "box/exercises/Karate/mawashiGeri/Icon.png",
+      "json": "box/exercises/Karate/mawashiGeri/mawashiGeri.json"
+    },
+    {
+      "icon": "box/exercises/Karate/yokoGeri/Icon.png",
+      "json": "box/exercises/Karate/yokoGeri/yokoGeri.json"
+    },
+    {
+      "icon": "box/exercises/Karate/ushiroGeri/Icon.png",
+      "json": "box/exercises/Karate/ushiroGeri/ushiroGeri.json"
+    },
+    {
+      "icon": "box/exercises/Karate/hizaGeri/Icon.png",
+      "json": "box/exercises/Karate/hizaGeri/hizaGeri.json"
+    },
+    {
+      "icon": "box/exercises/Karate/kihonFlow/Icon.png",
+      "json": "box/exercises/Karate/kihonFlow/kihonFlow.json"
+    },
+    {
+      "json": "box/exercises/Karate/chokuZuki/chokuZuki.json",
+      "icon": "box/exercises/Karate/chokuZuki/Icon.png"
+    },
+    {
+      "json": "box/exercises/Karate/empiUchiEnpi/empiUchiEnpi.json",
+      "icon": "box/exercises/Karate/empiUchiEnpi/Icon.png"
+    },
+    {
+      "json": "box/exercises/Karate/tettsuiUchi/tettsuiUchi.json",
+      "icon": "box/exercises/Karate/tettsuiUchi/Icon.png"
+    },
+    {
+      "json": "box/exercises/Karate/shoteiUchi/shoteiUchi.json",
+      "icon": "box/exercises/Karate/shoteiUchi/Icon.png"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/taekwondo/Icon.png",
+      "json": "box/exercises/Taekwondo/taekwondo/taekwondo.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/taekwondoStanceAndFootwork/Icon.png",
+      "json": "box/exercises/Taekwondo/taekwondoStanceAndFootwork/taekwondoStanceAndFootwork.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/leadFrontKick/Icon.png",
+      "json": "box/exercises/Taekwondo/leadFrontKick/leadFrontKick.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/rearFrontKick/Icon.png",
+      "json": "box/exercises/Taekwondo/rearFrontKick/rearFrontKick.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/leadRoundhouseKick/Icon.png",
+      "json": "box/exercises/Taekwondo/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/rearRoundhouseKick/Icon.png",
+      "json": "box/exercises/Taekwondo/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/leadSideKick/Icon.png",
+      "json": "box/exercises/Taekwondo/leadSideKick/leadSideKick.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/rearSideKick/Icon.png",
+      "json": "box/exercises/Taekwondo/rearSideKick/rearSideKick.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/backKick/Icon.png",
+      "json": "box/exercises/Taekwondo/backKick/backKick.json"
+    },
+    {
+      "icon": "box/exercises/Taekwondo/bodyPunch/Icon.png",
+      "json": "box/exercises/Taekwondo/bodyPunch/bodyPunch.json"
+    },
+    {
+      "json": "box/exercises/Taekwondo/lowBlock/lowBlock.json",
+      "icon": "box/exercises/Taekwondo/lowBlock/Icon.png"
+    },
+    {
+      "json": "box/exercises/Taekwondo/middleBlock/middleBlock.json",
+      "icon": "box/exercises/Taekwondo/middleBlock/Icon.png"
+    },
+    {
+      "json": "box/exercises/Taekwondo/highBlock/highBlock.json",
+      "icon": "box/exercises/Taekwondo/highBlock/Icon.png"
+    },
+    {
+      "json": "box/exercises/Taekwondo/frontStance/frontStance.json",
+      "icon": "box/exercises/Taekwondo/frontStance/Icon.png"
+    },
+    {
+      "json": "box/exercises/Taekwondo/backStance/backStance.json",
+      "icon": "box/exercises/Taekwondo/backStance/Icon.png"
+    },
+    {
+      "json": "box/exercises/Taekwondo/horseSittingStance/horseSittingStance.json",
+      "icon": "box/exercises/Taekwondo/horseSittingStance/Icon.png"
+    },
+    {
+      "json": "box/exercises/Taekwondo/knifeHandStrike/knifeHandStrike.json",
+      "icon": "box/exercises/Taekwondo/knifeHandStrike/Icon.png"
+    },
+    {
+      "icon": "box/exercises/Judo/judo/Icon.png",
+      "json": "box/exercises/Judo/judo/judo.json"
+    },
+    {
+      "icon": "box/exercises/Judo/backBreakfall/Icon.png",
+      "json": "box/exercises/Judo/backBreakfall/backBreakfall.json"
+    },
+    {
+      "icon": "box/exercises/Judo/sideBreakfall/Icon.png",
+      "json": "box/exercises/Judo/sideBreakfall/sideBreakfall.json"
+    },
+    {
+      "icon": "box/exercises/Judo/forwardBreakfall/Icon.png",
+      "json": "box/exercises/Judo/forwardBreakfall/forwardBreakfall.json"
+    },
+    {
+      "icon": "box/exercises/Judo/forwardRollBreakfall/Icon.png",
+      "json": "box/exercises/Judo/forwardRollBreakfall/forwardRollBreakfall.json"
+    },
+    {
+      "icon": "box/exercises/Judo/shintaiMovement/Icon.png",
+      "json": "box/exercises/Judo/shintaiMovement/shintaiMovement.json"
+    },
+    {
+      "icon": "box/exercises/Judo/taiSabaki/Icon.png",
+      "json": "box/exercises/Judo/taiSabaki/taiSabaki.json"
+    },
+    {
+      "icon": "box/exercises/Judo/kumiKata/Icon.png",
+      "json": "box/exercises/Judo/kumiKata/kumiKata.json"
+    },
+    {
+      "icon": "box/exercises/Judo/kuzushi/Icon.png",
+      "json": "box/exercises/Judo/kuzushi/kuzushi.json"
+    },
+    {
+      "icon": "box/exercises/Judo/seoiNage/Icon.png",
+      "json": "box/exercises/Judo/seoiNage/seoiNage.json"
+    },
+    {
+      "icon": "box/exercises/Judo/oGoshi/Icon.png",
+      "json": "box/exercises/Judo/oGoshi/oGoshi.json"
+    },
+    {
+      "icon": "box/exercises/Judo/ukiGoshi/Icon.png",
+      "json": "box/exercises/Judo/ukiGoshi/ukiGoshi.json"
+    },
+    {
+      "icon": "box/exercises/Judo/oSotoGari/Icon.png",
+      "json": "box/exercises/Judo/oSotoGari/oSotoGari.json"
+    },
+    {
+      "icon": "box/exercises/Judo/oUchiGari/Icon.png",
+      "json": "box/exercises/Judo/oUchiGari/oUchiGari.json"
+    },
+    {
+      "icon": "box/exercises/Judo/koUchiGari/Icon.png",
+      "json": "box/exercises/Judo/koUchiGari/koUchiGari.json"
+    },
+    {
+      "icon": "box/exercises/Judo/deAshiHarai/Icon.png",
+      "json": "box/exercises/Judo/deAshiHarai/deAshiHarai.json"
+    },
+    {
+      "icon": "box/exercises/Judo/kesaGatame/Icon.png",
+      "json": "box/exercises/Judo/kesaGatame/kesaGatame.json"
+    },
+    {
+      "icon": "box/exercises/Judo/yokoShihoGatame/Icon.png",
+      "json": "box/exercises/Judo/yokoShihoGatame/yokoShihoGatame.json"
+    },
+    {
+      "icon": "box/exercises/Judo/sasaeTsurikomiAshi/Icon.png",
+      "json": "box/exercises/Judo/sasaeTsurikomiAshi/sasaeTsurikomiAshi.json"
+    },
+    {
+      "icon": "box/exercises/Judo/kataGatame/Icon.png",
+      "json": "box/exercises/Judo/kataGatame/kataGatame.json"
+    },
+    {
+      "icon": "box/exercises/Judo/tateShihoGatame/Icon.png",
+      "json": "box/exercises/Judo/tateShihoGatame/tateShihoGatame.json"
+    },
+    {
+      "icon": "box/exercises/Judo/kamiShihoGatame/Icon.png",
+      "json": "box/exercises/Judo/kamiShihoGatame/kamiShihoGatame.json"
+    },
+    {
+      "json": "box/exercises/Judo/hizaGuruma/hizaGuruma.json",
+      "icon": "box/exercises/Judo/hizaGuruma/Icon.png"
+    },
+    {
+      "json": "box/exercises/Judo/hadakaJime/hadakaJime.json",
+      "icon": "box/exercises/Judo/hadakaJime/Icon.png"
+    },
+    {
+      "json": "box/exercises/Judo/jujiGatame/jujiGatame.json",
+      "icon": "box/exercises/Judo/jujiGatame/Icon.png"
+    },
+    {
+      "icon": "box/exercises/Other/rest/Icon.png",
+      "json": "box/exercises/Other/rest/rest.json"
+    },
+    {
+      "icon": "box/exercises/Other/repeat/Icon.png",
+      "json": "box/exercises/Other/repeat/repeat.json"
+    },
+    {
+      "icon": "box/exercises/Other/preparation/Icon.png",
+      "json": "box/exercises/Other/preparation/preparation.json"
+    },
+    {
+      "icon": "box/exercises/Other/endRepeat/Icon.png",
+      "json": "box/exercises/Other/endRepeat/endRepeat.json"
+    },
+    {
+      "icon": "box/exercises/Other/note/Icon.png",
+      "json": "box/exercises/Other/note/note.json"
+    },
+    {
+      "icon": "box/exercises/Other/work/Icon.png",
+      "json": "box/exercises/Other/work/work.json"
     }
   ],
   "workouts": [

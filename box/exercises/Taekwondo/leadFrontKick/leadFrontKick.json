@@ -1,0 +1,18 @@
+{
+  "id": "8.3",
+  "key": "taekwondo_lead_front_kick",
+  "title": "Lead Front Kick",
+  "description": "1. Shift weight to the rear leg and lift the lead knee straight toward the chest with the toes pulled back.\n2. Extend the lower leg and drive the ball of the foot forward while keeping the supporting knee soft and hands high.\n3. Recoil the foot to the chamber before placing it back into the original stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

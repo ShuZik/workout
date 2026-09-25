@@ -1,0 +1,18 @@
+{
+  "id": "0.1",
+  "key": "pause",
+  "title": "Rest",
+  "description": "1. Stop the active exercise when the Rest interval begins.\n2. Relax the working muscles and breathe steadily without becoming completely inactive.\n3. Prepare the next exercise and resume when the Rest interval ends.",
+  "color": "#808A94",
+  "colorType": "green",
+  "workoutType": "other",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07021","moderateCode":"07021","vigorousCode":"07021"},
+  "timerRole": "rest",
+  "difficulty": "basic",
+  "section": "1 Rest",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

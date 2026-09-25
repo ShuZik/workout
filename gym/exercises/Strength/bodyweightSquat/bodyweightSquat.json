@@ -1,0 +1,28 @@
+{
+  "id": "13.71",
+  "key": "functional_bodyweight_squat",
+  "title": "Bodyweight Squat",
+  "description": "1. Stand with the feet about shoulder-width apart, toes turned slightly out, and weight spread across each whole foot.\n2. Push the hips back and down while the knees track in the same direction as the toes and the chest stays lifted.\n3. Drive through the whole feet to extend the knees and hips, finishing upright without locking the knees backward.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

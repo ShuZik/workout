@@ -1,0 +1,17 @@
+{
+  "id": "13.69",
+  "key": "strength_dumbbell_fly",
+  "title": "Dumbbell Fly",
+  "description": "1. Lie on a stable bench with dumbbells held above the chest and a small bend in both elbows.\n2. Open the arms in a wide arc until the chest stretches through a comfortable range while the shoulder blades stay set.\n3. Squeeze the chest to return the dumbbells above the chest without locking the elbows or dropping the shoulders forward.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

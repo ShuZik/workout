@@ -1,0 +1,18 @@
+{
+  "id": "22.5",
+  "key": "suspension_suspension_hip_hinge",
+  "title": "Suspension Hip Hinge",
+  "description": "1. Face the anchor with arms straight, straps tensioned, feet hip-width apart, and knees soft.\n2. Push the hips back while the torso inclines as one unit and the shins remain nearly vertical.\n3. Squeeze the glutes to bring the hips forward and return upright without pulling with the arms.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3,"moderate":3.8,"vigorous":6.5,"lightCode":"02056","moderateCode":"02022","vigorousCode":"02057"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundational",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

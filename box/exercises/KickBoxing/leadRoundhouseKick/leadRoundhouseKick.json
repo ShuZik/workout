@@ -1,0 +1,18 @@
+{
+  "id": "3.10",
+  "key": "kick_boxing_lead_roundhouse_kick",
+  "title": "Lead Roundhouse Kick",
+  "description": "1. From stance, shift weight to the rear leg and lift the lead knee across the target line.\n2. Pivot the supporting foot away and turn the lead hip so the shin or instep swings horizontally through the target.\n3. Recoil the leg along the same arc and place the lead foot back into a balanced guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

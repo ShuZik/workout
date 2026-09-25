@@ -1,0 +1,18 @@
+{
+  "id": "9.35",
+  "key": "light_front_kick_flow",
+  "title": "Light Front Kick Flow",
+  "description": "1. Take a guarded stance and lift the lead knee into a compact chamber.\n2. Extend the foot forward through an easy range without snapping or locking the knee.\n3. Retract the knee along the same path, return to stance, and alternate legs.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Kicking Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

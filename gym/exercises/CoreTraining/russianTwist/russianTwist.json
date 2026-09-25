@@ -1,0 +1,18 @@
+{
+  "id": "14.12",
+  "key": "core_training_russian_twist",
+  "title": "Russian Twist",
+  "description": "1. Sit with the knees bent, feet grounded or lightly lifted, and lean back with a long neutral spine.\n2. Brace the abdomen and rotate the rib cage and hands toward one hip without collapsing the chest.\n3. Return through center and alternate sides while keeping the hips stable.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

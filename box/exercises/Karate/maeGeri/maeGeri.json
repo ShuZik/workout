@@ -1,0 +1,18 @@
+{
+  "id": "40.15",
+  "key": "karate_mae_geri",
+  "title": "Mae Geri",
+  "description": "1. Shift weight to the supporting leg and lift the kicking knee straight ahead into a compact chamber.\n2. Extend the lower leg and drive the ball of the foot toward the target while keeping the supporting knee soft.\n3. Recoil the foot to the knee chamber before placing it back into a stable stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

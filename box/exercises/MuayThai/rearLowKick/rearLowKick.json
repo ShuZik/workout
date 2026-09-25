@@ -1,0 +1,18 @@
+{
+  "id": "2.11",
+  "key": "muay_thai_rear_low_kick",
+  "title": "Rear Low Kick",
+  "description": "1. From stance, plant the lead foot near the outside line and begin pivoting it away from the target.\n2. Rotate the rear hip fully and swing the lower shin through the thigh with the knee slightly bent.\n3. Recoil or carry the kick through under control, then regain stance with both hands high.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

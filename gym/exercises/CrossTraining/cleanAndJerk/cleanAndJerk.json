@@ -1,0 +1,17 @@
+{
+  "id": "23.31",
+  "key": "cross_training_clean_and_jerk",
+  "title": "Clean and Jerk",
+  "description": "1. Perform a controlled clean from the floor and receive the bar on the front shoulders with a stable rack position.\n2. Reset the feet, brace the trunk, and dip straight down a short distance with the torso upright.\n3. Drive the bar overhead into a stable split or power stance, recover to standing, then return the bar safely.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "advanced",
+  "section": "4 Barbell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

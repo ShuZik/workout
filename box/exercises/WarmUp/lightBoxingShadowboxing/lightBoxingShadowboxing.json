@@ -1,0 +1,18 @@
+{
+  "id": "9.19",
+  "key": "shadow_warm_up",
+  "title": "Light Boxing Shadowboxing",
+  "description": "1. Take a relaxed boxing stance with hands in guard and shoulders loose.\n2. Throw light single jabs, crosses, hooks, and uppercuts while each hand returns directly to guard.\n3. Move between punches with short steps and pivots, using speed only after balance is stable.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":5.8,"vigorous":7,"lightCode":"15425","moderateCode":"15110","vigorousCode":"15113"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Boxing Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

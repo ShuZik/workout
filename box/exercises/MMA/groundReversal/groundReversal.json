@@ -1,0 +1,18 @@
+{
+  "id": "4.25",
+  "key": "mma_ground_reversal",
+  "title": "Ground Reversal",
+  "description": "1. From bottom position, frame against the partner's shoulder and hip and plant the feet close enough to bridge.\n2. Bridge to shift the partner's weight, turn onto one side, and use the frames to create space or trap a posting arm.\n3. Follow the opening to recover guard or come to the top, then stabilize before releasing the controls.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Ground",
+  "availableFrom": "1.1.0",
+  "availableUntil": null
+}

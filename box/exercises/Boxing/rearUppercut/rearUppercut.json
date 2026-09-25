@@ -1,0 +1,20 @@
+{
+  "id": "1.9",
+  "key": "rear_uppercut",
+  "title": "Rear Uppercut",
+  "description": "1. From guard, bend the knees slightly and load the rear leg while keeping the lead hand at the cheek.\n2. Push through the rear foot and turn the rear hip as the bent rear fist rises tightly through the centerline.\n3. Reverse the rotation and return the rear hand to the cheek before beginning another action.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.8,"moderate":8.5,"vigorous":10.8,"lightCode":"15110","moderateCode":"15115","vigorousCode":"15118"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "2 Base",
+  "target": "head",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

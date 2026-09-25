@@ -1,0 +1,18 @@
+{
+  "id": "9.3",
+  "key": "elbow_stretching",
+  "title": "Elbow Circles",
+  "description": "1. Stand tall and place the fingertips lightly on the shoulders.\n2. Draw circles with both elbows by bringing them forward, up, back, and down.\n3. Reverse the circles while keeping the neck relaxed and the movement pain-free.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.8,"lightCode":"02101","moderateCode":"02024","vigorousCode":"02022"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

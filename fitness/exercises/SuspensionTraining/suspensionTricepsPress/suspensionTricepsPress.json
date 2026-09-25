@@ -1,0 +1,18 @@
+{
+  "id": "22.12",
+  "key": "suspension_suspension_triceps_press",
+  "title": "Suspension Triceps Press",
+  "description": "1. Face away from the anchor with arms extended in front and body leaning forward in one line.\n2. Keep the upper arms fixed and bend the elbows until the handles approach the forehead.\n3. Press through the handles to straighten the elbows without arching the lower back.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3,"moderate":3.8,"vigorous":6.5,"lightCode":"02056","moderateCode":"02022","vigorousCode":"02057"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Upper Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

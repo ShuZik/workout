@@ -1,0 +1,18 @@
+{
+  "id": "22.23",
+  "key": "suspension_y_fly",
+  "title": "Suspension Y-Fly",
+  "description": "1. Hold the suspension handles with straight arms and lean back into a stable plank.\n2. Raise the arms diagonally overhead into a Y while keeping the ribs down and the shoulders away from the ears.\n3. Return slowly to the starting angle without bending the elbows or losing body alignment.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3,"moderate":3.8,"vigorous":6.5,"lightCode":"02056","moderateCode":"02022","vigorousCode":"02057"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Upper Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

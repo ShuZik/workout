@@ -1,0 +1,18 @@
+{
+  "id": "19.10",
+  "key": "meditation_gratitude",
+  "title": "Gratitude Meditation",
+  "description": "1. Sit quietly and recall one specific person, event, or ordinary support from the day.\n2. Attend to concrete details and name silently what was helpful rather than listing items quickly.\n3. Notice the response in the body, then move to one more example or rest with the first.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "meditation",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07075","moderateCode":"07075","vigorousCode":"07075"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Themes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

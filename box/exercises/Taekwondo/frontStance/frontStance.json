@@ -1,0 +1,18 @@
+{
+  "id": "8.24",
+  "key": "taekwondo_front_stance",
+  "title": "Front Stance",
+  "description": "1. Step one foot forward on a separate track and point the front toes ahead with the rear foot grounded behind.\n2. Bend the front knee over the foot and keep the rear leg long without locking it.\n3. Direct the hips forward, keep the torso upright, and align both knees with their toes.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

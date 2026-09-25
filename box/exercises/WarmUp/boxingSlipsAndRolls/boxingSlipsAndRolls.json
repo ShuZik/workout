@@ -1,0 +1,18 @@
+{
+  "id": "9.30",
+  "key": "boxing_slips_and_rolls",
+  "title": "Boxing Slips & Rolls",
+  "description": "1. Take a boxing stance and imagine a straight line running between the opponent's shoulders.\n2. Bend the knees and rotate slightly to move the head just outside that line for a slip.\n3. Trace a shallow U under an imagined hook for a roll, then return to stance without bending at the waist.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":5.8,"vigorous":7,"lightCode":"15425","moderateCode":"15110","vigorousCode":"15113"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Boxing Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "22.21",
+  "key": "suspension_suspension_standing_rollout",
+  "title": "Suspension Standing Rollout",
+  "description": "1. Face the anchor with both handles, arms straight, and feet set behind the anchor point.\n2. Lean the body forward as the arms travel overhead while the ribs and pelvis stay braced.\n3. Press the handles down and pull the body back to standing without bending the elbows or hips.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3,"moderate":3.8,"vigorous":6.5,"lightCode":"02056","moderateCode":"02022","vigorousCode":"02057"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Core",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

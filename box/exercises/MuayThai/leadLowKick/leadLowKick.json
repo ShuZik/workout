@@ -1,0 +1,18 @@
+{
+  "id": "2.10",
+  "key": "muay_thai_lead_low_kick",
+  "title": "Lead Low Kick",
+  "description": "1. From stance, load the rear leg and step or angle the support foot to open the lead hip.\n2. Turn the hip over and swing the lower lead shin through the thigh while the support foot pivots.\n3. Recoil the leg immediately and recover the lead foot, guard, and balance.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

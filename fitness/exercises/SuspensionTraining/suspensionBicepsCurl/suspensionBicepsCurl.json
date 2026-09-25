@@ -1,0 +1,18 @@
+{
+  "id": "22.11",
+  "key": "suspension_suspension_biceps_curl",
+  "title": "Suspension Biceps Curl",
+  "description": "1. Face the anchor with palms up, arms straight at shoulder height, and body leaning back in one line.\n2. Keep the upper arms fixed and bend the elbows to bring the handles toward the temples.\n3. Extend the elbows under control without dropping the hips or letting the straps go slack.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3,"moderate":3.8,"vigorous":6.5,"lightCode":"02056","moderateCode":"02022","vigorousCode":"02057"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Upper Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "11.5",
+  "key": "stationary_cycling",
+  "title": "Stationary Bike",
+  "description": "1. Adjust the saddle so the knee stays slightly bent at the bottom and place both feet securely on the pedals.\n2. Pedal smoothly with the knees tracking forward and the hips staying level on the saddle.\n3. Add resistance until the pedals remain controlled through the full circle without rocking the torso.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":6,"vigorous":10.3,"lightCode":"01210","moderateCode":"01220","vigorousCode":"01232"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "3.6",
+  "key": "kick_boxing_lead_uppercut",
+  "title": "Lead Uppercut",
+  "description": "1. From guard, bend the knees slightly and load the lead leg without lowering the hands.\n2. Drive upward and rotate the lead hip as the bent fist rises through the centerline.\n3. Stop near chin height, retract the fist, and recover both guard and balance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

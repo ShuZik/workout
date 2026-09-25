@@ -1,0 +1,18 @@
+{
+  "id": "8.21",
+  "key": "taekwondo_low_block",
+  "title": "Low Block",
+  "description": "1. Take a stable stance and chamber the blocking fist near the opposite shoulder with the other arm extended low.\n2. Rotate the forearm diagonally down and outward while pulling the opposite fist to the hip.\n3. Finish just outside the thigh with the wrist straight and elbow slightly bent.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Blocks",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

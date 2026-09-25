@@ -1,0 +1,18 @@
+{
+  "id": "12.36",
+  "key": "agility_forward_backward_shuffle",
+  "title": "Forward-Backward Shuffle",
+  "description": "1. Place a forward and rear marker and start between them in an athletic stance.\n2. Shuffle forward with short steps, lower the hips at the marker, then push back without turning around.\n3. Backpedal to the rear marker, decelerate under control, and repeat the direction change.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":5,"moderate":7,"vigorous":11,"lightCode":"02008","moderateCode":"02210","vigorousCode":"02214"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Agility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

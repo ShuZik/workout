@@ -1,0 +1,18 @@
+{
+  "id": "3.9",
+  "key": "kick_boxing_rear_front_kick",
+  "title": "Rear Front Kick",
+  "description": "1. From stance, transfer weight to the lead leg and chamber the rear knee toward the chest.\n2. Drive the ball or heel of the rear foot forward as the hips press toward the target and the hands stay high.\n3. Retract to the chamber and return the rear foot behind the lead foot without falling forward.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

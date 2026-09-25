@@ -1,0 +1,18 @@
+{
+  "id": "11.14",
+  "key": "pool_swimming",
+  "title": "Pool Swimming",
+  "description": "1. Push away from the wall in a long streamlined position and begin the chosen stroke without rushing.\n2. Coordinate the arm pull and kick while exhaling into the water and turning or lifting to inhale.\n3. Approach each wall under control, turn or stop, and push off only when the lane ahead is clear.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5.8,"moderate":8,"vigorous":9.8,"lightCode":"18240","moderateCode":"18290","vigorousCode":"18230"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

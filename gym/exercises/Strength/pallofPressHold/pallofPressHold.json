@@ -1,0 +1,18 @@
+{
+  "id": "13.20",
+  "key": "resistance_band_pallof_press_hold",
+  "title": "Pallof Press Hold",
+  "description": "1. Secure the band at chest height and stand side-on to the anchor with both hands at the sternum.\n2. Step away for tension, brace, and press the hands straight forward without rotating toward the anchor.\n3. Hold the arms extended with ribs and pelvis facing forward, then return the hands to the chest and switch sides.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Resistance Bands",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

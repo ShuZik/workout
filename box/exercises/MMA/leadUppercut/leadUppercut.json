@@ -1,0 +1,18 @@
+{
+  "id": "4.28",
+  "key": "mma_lead_uppercut",
+  "title": "Lead Uppercut",
+  "description": "1. From guard, bend the knees slightly and load the lead leg without dropping either hand.\n2. Drive upward and rotate the lead hip as the bent fist rises tightly through the centerline.\n3. Retract the fist to the cheek and restore the knees, hips, and takedown-ready stance.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Striking",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

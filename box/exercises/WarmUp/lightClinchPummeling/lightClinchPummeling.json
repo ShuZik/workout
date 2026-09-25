@@ -1,0 +1,18 @@
+{
+  "id": "9.50",
+  "key": "light_clinch_pummeling",
+  "title": "Light Clinch Pummeling",
+  "description": "1. Face a partner in an upright clinch with one arm inside and one arm outside.\n2. Circle the outside arm under the partner's arm to gain an underhook while the partner mirrors the exchange.\n3. Alternate sides slowly, keep head position controlled, and avoid pulling or twisting the neck.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "8 MMA Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

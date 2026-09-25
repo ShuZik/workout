@@ -1,0 +1,17 @@
+{
+  "id": "23.14",
+  "key": "cross_training_barbell_front_squat",
+  "title": "Barbell Front Squat",
+  "description": "1. Support the bar on the front shoulders with elbows high, feet shoulder-width apart, and trunk braced.\n2. Push the hips down between the heels while the knees track over the toes and the elbows stay lifted.\n3. Drive through the whole feet to stand, keeping the bar stacked over the midfoot.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "intermediate",
+  "section": "4 Barbell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "40.16",
+  "key": "karate_mawashi_geri",
+  "title": "Mawashi Geri",
+  "description": "1. Shift weight to the supporting leg and chamber the kicking knee across the target line.\n2. Pivot the supporting foot and rotate the hip as the lower leg extends toward the target with the instep or ball of the foot.\n3. Bend the knee immediately after contact and return the foot to stance without letting the torso fall away.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

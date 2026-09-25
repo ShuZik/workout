@@ -1,0 +1,17 @@
+{
+  "id": "13.68",
+  "key": "strength_dumbbell_triceps_extension",
+  "title": "Dumbbell Triceps Extension",
+  "description": "1. Hold one dumbbell overhead with both hands or use one dumbbell in each hand, keeping the ribs stacked over the hips.\n2. Bend only at the elbows to lower the load behind the head while the upper arms stay mostly vertical.\n3. Extend the elbows to raise the load overhead without arching the lower back.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

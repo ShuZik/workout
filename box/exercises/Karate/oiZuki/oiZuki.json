@@ -1,0 +1,18 @@
+{
+  "id": "40.6",
+  "key": "karate_oi_zuki",
+  "title": "Oi Zuki",
+  "description": "1. From a ready stance, step forward into zenkutsu dachi with the advancing knee tracking over the foot.\n2. Punch with the arm on the same side as the stepping leg, rotating the hip and fist toward the centerline.\n3. Stop before locking the elbow and finish with the opposite fist chambered at the hip and the stance stable.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Punches",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

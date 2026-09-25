@@ -1,0 +1,18 @@
+{
+  "id": "4.10",
+  "key": "mma_sprawl",
+  "title": "Sprawl",
+  "description": "1. From a low stance, react to the shot by placing the hands or forearms on the attacker's shoulders as the legs move back.\n2. Drop the hips toward the upper back, extend both legs, and keep the chest and head upright rather than falling to the knees.\n3. Widen the base, control the head or near arm, and circle to an angle before standing or resetting.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Wrestling",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

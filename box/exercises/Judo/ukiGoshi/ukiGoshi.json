@@ -1,0 +1,18 @@
+{
+  "id": "41.14",
+  "key": "judo_uki_goshi",
+  "title": "Uki Goshi",
+  "description": "1. Draw the partner forward with the sleeve and wrap the other arm around the waist while stepping close.\n2. Place only the near side of the hip across the partner's front and continue the upper-body turn without lifting deeply.\n3. Rotate the partner around the shallow hip contact and guide the sleeve through the breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":11.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15433"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Koshi-waza",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

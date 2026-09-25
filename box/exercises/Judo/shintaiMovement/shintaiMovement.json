@@ -1,0 +1,18 @@
+{
+  "id": "41.6",
+  "key": "judo_shintai_movement",
+  "title": "Shintai Movement",
+  "description": "1. Stand in natural posture with knees soft, feet beneath the hips, and a light partner grip.\n2. Advance and retreat with walking or sliding steps, moving the body as one unit without crossing or dragging the feet.\n3. Restore a stable base after each direction change while keeping the head upright and the grip relaxed.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":11.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15433"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

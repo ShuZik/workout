@@ -1,0 +1,18 @@
+{
+  "id": "23.34",
+  "key": "cross_training_toes_to_bar",
+  "title": "Toes-to-Bar",
+  "description": "1. Hang from a secure bar with active shoulders and a grip that can support the full body weight.\n2. Use a controlled hollow-to-arch swing, then raise the straight legs toward the bar by bracing the abdomen.\n3. Touch the toes to the bar if mobility permits and return to an active hang without dropping abruptly.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":7.5,"lightCode":"02034","moderateCode":"02035","vigorousCode":"02040"},
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Bodyweight",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

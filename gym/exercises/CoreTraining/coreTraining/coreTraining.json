@@ -1,0 +1,19 @@
+{
+  "id": "14.1",
+  "key": "core_training",
+  "title": "Core",
+  "description": "1. Choose one core movement and take its required floor, seated, or hanging start position.\n2. Brace the trunk before moving and perform each repetition without using momentum.\n3. Complete the full controlled return phase before the next repetition or change to another core movement.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "durationSeconds": 30,
+  "durationUnit": "seconds",
+  "availableFrom": "1.1.0",
+  "availableUntil": null
+}

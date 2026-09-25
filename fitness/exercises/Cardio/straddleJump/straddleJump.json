@@ -1,0 +1,18 @@
+{
+  "id": "11.35",
+  "key": "jump_rope_straddle_jump",
+  "title": "Straddle Jump",
+  "description": "1. Begin with feet together and establish a steady rope rhythm.\n2. Jump the feet wider than hip width as the rope passes under.\n3. Bring the feet together on the next pass, landing softly with toes and knees pointing forward.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":8.3,"moderate":11.8,"vigorous":12.3,"lightCode":"15552","moderateCode":"15551","vigorousCode":"15550"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Jump Rope",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

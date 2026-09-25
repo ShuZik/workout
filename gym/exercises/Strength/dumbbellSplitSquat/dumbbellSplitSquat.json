@@ -1,0 +1,27 @@
+{
+  "id": "13.77",
+  "key": "functional_dumbbell_split_squat",
+  "title": "Dumbbell Split Squat",
+  "description": "1. Hold dumbbells beside the body and take a stable staggered stance with the rear heel raised.\n2. Lower the rear knee while the front knee tracks over the toes and the torso remains upright.\n3. Drive through the front foot to rise without changing foot position, then switch the lead leg.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

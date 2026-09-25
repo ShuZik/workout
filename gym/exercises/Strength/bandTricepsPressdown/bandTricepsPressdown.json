@@ -1,0 +1,18 @@
+{
+  "id": "13.11",
+  "key": "resistance_band_band_triceps_pressdown",
+  "title": "Band Triceps Pressdown",
+  "description": "1. Secure the band above head height and hold both ends with elbows bent and pinned beside the ribs.\n2. Press the hands down by straightening the elbows while the shoulders and torso stay still.\n3. Return the hands upward under control without allowing the elbows to drift forward.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Resistance Bands",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

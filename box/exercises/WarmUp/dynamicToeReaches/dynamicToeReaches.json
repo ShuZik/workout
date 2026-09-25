@@ -1,0 +1,18 @@
+{
+  "id": "9.7",
+  "key": "dynamic_stretching",
+  "title": "Dynamic Toe Reaches",
+  "description": "1. Stand with feet wide, knees soft, and arms extended to the sides.\n2. Hinge at the hips and reach toward the right foot, return through center, then reach toward the left foot.\n3. Continue right, center, and left without bouncing or holding the end positions.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

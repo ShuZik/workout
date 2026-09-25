@@ -1,0 +1,18 @@
+{
+  "id": "23.3",
+  "key": "cross_training_burpee",
+  "title": "Burpee",
+  "description": "1. Stand with the feet about hip-width apart, then squat and place both hands on the floor.\n2. Step or jump the feet back to a stable plank, then bring them forward outside or behind the hands.\n3. Stand tall or jump vertically, land softly, and bend the knees before starting the next repetition.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":7.5,"lightCode":"02034","moderateCode":"02035","vigorousCode":"02040"},
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "2 Bodyweight",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

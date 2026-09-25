@@ -64,10 +64,18 @@ Both lightweight and annotated tags work. No tags are created automatically.
 
 ## White-label product catalogs
 
-Boxing, Fitness, and Gym catalog manifests live at `box/manifest.json`,
-`fitness/manifest.json`, and `gym/manifest.json` on `main`. They reference
-the shared exercise JSON and icon files; the product directories do not copy
-exercise assets.
+Box, Fitness, and Gym catalog manifests live at `box/manifest.json`,
+`fitness/manifest.json`, and `gym/manifest.json` on `main`. Each product has
+its own complete exercise folder:
+
+```text
+box/exercises/<Tag>/<exercise>/<exercise>.json
+fitness/exercises/<Tag>/<exercise>/<exercise>.json
+gym/exercises/<Tag>/<exercise>/<exercise>.json
+```
+
+Every manifest references only assets in its own product directory. The root
+catalog remains only for older apps that still request `manifest.json`.
 
 `stop/1.1.5` freezes the legacy root manifest for the existing Boxing Timer.
 It remains independent of the product-manifest work on `main`. A white-label

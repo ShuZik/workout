@@ -1,0 +1,18 @@
+{
+  "id": "8.7",
+  "key": "taekwondo_lead_side_kick",
+  "title": "Lead Side Kick",
+  "description": "1. Shift weight to the rear leg and chamber the lead knee across the body with the heel close to the hip.\n2. Pivot the supporting foot and drive the lead heel sideways in a straight line with the toes turned slightly down.\n3. Pull the heel back to the same chamber before lowering the foot into stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

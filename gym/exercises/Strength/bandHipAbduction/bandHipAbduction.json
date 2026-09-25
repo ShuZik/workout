@@ -1,0 +1,18 @@
+{
+  "id": "13.16",
+  "key": "resistance_band_band_hip_abduction",
+  "title": "Band Hip Abduction",
+  "description": "1. Anchor a loop around the ankles or attach the band to one ankle and stand tall with light support.\n2. Keep the pelvis level and move the working leg out to the side without leaning the trunk.\n3. Return the foot slowly against the band's pull, complete the repetitions, and switch legs.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Resistance Bands",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

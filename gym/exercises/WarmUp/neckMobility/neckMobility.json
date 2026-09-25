@@ -1,0 +1,18 @@
+{
+  "id": "9.4",
+  "key": "neck_stretching",
+  "title": "Neck Mobility",
+  "description": "1. Sit or stand tall with shoulders down and chin level.\n2. Turn the head slowly to look over one shoulder, return to center, then turn to the other side.\n3. Alternate gentle chin nods and side tilts without rolling the head in a full circle.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.8,"lightCode":"02101","moderateCode":"02024","vigorousCode":"02022"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -8,7 +8,7 @@
       "colorType": "red",
       "folder": "Custom",
       "id": "999999",
-      "icon": "Custom/Icon.png",
+      "icon": "fitness/exercises/Custom/Icon.png",
       "symbolName": "figure.strengthtraining.traditional",
       "title": "Custom",
       "workoutType": "custom"
@@ -18,7 +18,7 @@
       "colorType": "blue",
       "folder": "WarmUp",
       "id": "9",
-      "icon": "WarmUp/Icon.png",
+      "icon": "fitness/exercises/WarmUp/Icon.png",
       "symbolName": "figure.jumprope",
       "title": "Warm-up",
       "workoutType": "warmUp"
@@ -28,7 +28,7 @@
       "colorType": "indigo",
       "folder": "CoreTraining",
       "id": "14",
-      "icon": "CoreTraining/Icon.png",
+      "icon": "fitness/exercises/CoreTraining/Icon.png",
       "symbolName": "figure.strengthtraining.functional",
       "title": "Core",
       "workoutType": "coreTraining"
@@ -38,7 +38,7 @@
       "colorType": "green",
       "folder": "Cardio",
       "id": "11",
-      "icon": "Cardio/Icon.png",
+      "icon": "fitness/exercises/Cardio/Icon.png",
       "symbolName": "figure.run",
       "title": "Cardio",
       "workoutType": "cardio"
@@ -48,7 +48,7 @@
       "colorType": "green",
       "folder": "Cooldown",
       "id": "10",
-      "icon": "Cooldown/Icon.png",
+      "icon": "fitness/exercises/Cooldown/Icon.png",
       "symbolName": "figure.flexibility",
       "title": "Rest",
       "workoutType": "cooldown"
@@ -58,7 +58,7 @@
       "colorType": "coral",
       "folder": "HIIT",
       "id": "12",
-      "icon": "HIIT/Icon.png",
+      "icon": "fitness/exercises/HIIT/Icon.png",
       "symbolName": "figure.cross.training",
       "title": "HIIT",
       "workoutType": "hiit"
@@ -68,7 +68,7 @@
       "colorType": "coral",
       "folder": "Tabata",
       "id": "20",
-      "icon": "Tabata/Icon.png",
+      "icon": "fitness/exercises/Tabata/Icon.png",
       "symbolName": "figure.highintensity.intervaltraining",
       "title": "Tabata",
       "workoutType": "tabata"
@@ -78,7 +78,7 @@
       "colorType": "red",
       "folder": "CrossTraining",
       "id": "23",
-      "icon": "CrossTraining/Icon.png",
+      "icon": "fitness/exercises/CrossTraining/Icon.png",
       "symbolName": "figure.cross.training",
       "title": "CrossFit",
       "workoutType": "crossTraining"
@@ -88,17 +88,37 @@
       "colorType": "teal",
       "folder": "SuspensionTraining",
       "id": "22",
-      "icon": "SuspensionTraining/Icon.png",
+      "icon": "fitness/exercises/SuspensionTraining/Icon.png",
       "symbolName": "figure.strengthtraining.functional",
       "title": "TRX",
       "workoutType": "suspensionTraining"
+    },
+    {
+      "color": "#01C5A5",
+      "colorType": "teal",
+      "folder": "Breathwork",
+      "id": "18",
+      "icon": "fitness/exercises/Breathwork/Icon.png",
+      "symbolName": "lungs.fill",
+      "title": "Breathwork",
+      "workoutType": "breathwork"
+    },
+    {
+      "color": "#AF6ED7",
+      "colorType": "violet",
+      "folder": "Meditation",
+      "id": "19",
+      "icon": "fitness/exercises/Meditation/Icon.png",
+      "symbolName": "figure.mind.and.body",
+      "title": "Meditation",
+      "workoutType": "meditation"
     },
     {
       "color": "#808A94",
       "colorType": "gray",
       "folder": "Other",
       "id": "0",
-      "icon": "Other/Icon.png",
+      "icon": "fitness/exercises/Other/Icon.png",
       "symbolName": "list.bullet",
       "title": "Other",
       "workoutType": "other"
@@ -106,772 +126,860 @@
   ],
   "files": [
     {
-      "icon": "Cardio/cardio/Icon.png",
-      "json": "Cardio/cardio/cardio.json"
+      "icon": "fitness/exercises/Cardio/cardio/Icon.png",
+      "json": "fitness/exercises/Cardio/cardio/cardio.json"
     },
     {
-      "icon": "Cardio/outdoorRun/Icon.png",
-      "json": "Cardio/outdoorRun/outdoorRun.json"
+      "icon": "fitness/exercises/Cardio/outdoorRun/Icon.png",
+      "json": "fitness/exercises/Cardio/outdoorRun/outdoorRun.json"
     },
     {
-      "icon": "Cardio/outdoorWalk/Icon.png",
-      "json": "Cardio/outdoorWalk/outdoorWalk.json"
+      "icon": "fitness/exercises/Cardio/outdoorWalk/Icon.png",
+      "json": "fitness/exercises/Cardio/outdoorWalk/outdoorWalk.json"
     },
     {
-      "icon": "Cardio/outdoorCycling/Icon.png",
-      "json": "Cardio/outdoorCycling/outdoorCycling.json"
+      "icon": "fitness/exercises/Cardio/outdoorCycling/Icon.png",
+      "json": "fitness/exercises/Cardio/outdoorCycling/outdoorCycling.json"
     },
     {
-      "icon": "Cardio/hiking/Icon.png",
-      "json": "Cardio/hiking/hiking.json"
+      "icon": "fitness/exercises/Cardio/hiking/Icon.png",
+      "json": "fitness/exercises/Cardio/hiking/hiking.json"
     },
     {
-      "icon": "Cardio/openWaterSwimming/Icon.png",
-      "json": "Cardio/openWaterSwimming/openWaterSwimming.json"
+      "icon": "fitness/exercises/Cardio/openWaterSwimming/Icon.png",
+      "json": "fitness/exercises/Cardio/openWaterSwimming/openWaterSwimming.json"
     },
     {
-      "icon": "Cardio/outdoorRowing/Icon.png",
-      "json": "Cardio/outdoorRowing/outdoorRowing.json"
+      "icon": "fitness/exercises/Cardio/outdoorRowing/Icon.png",
+      "json": "fitness/exercises/Cardio/outdoorRowing/outdoorRowing.json"
     },
     {
-      "icon": "Cardio/paddling/Icon.png",
-      "json": "Cardio/paddling/paddling.json"
+      "icon": "fitness/exercises/Cardio/paddling/Icon.png",
+      "json": "fitness/exercises/Cardio/paddling/paddling.json"
     },
     {
-      "icon": "Cardio/crossCountrySkiing/Icon.png",
-      "json": "Cardio/crossCountrySkiing/crossCountrySkiing.json"
+      "icon": "fitness/exercises/Cardio/crossCountrySkiing/Icon.png",
+      "json": "fitness/exercises/Cardio/crossCountrySkiing/crossCountrySkiing.json"
     },
     {
-      "icon": "Cardio/treadmillRun/Icon.png",
-      "json": "Cardio/treadmillRun/treadmillRun.json"
+      "icon": "fitness/exercises/Cardio/treadmillRun/Icon.png",
+      "json": "fitness/exercises/Cardio/treadmillRun/treadmillRun.json"
     },
     {
-      "icon": "Cardio/stationaryBike/Icon.png",
-      "json": "Cardio/stationaryBike/stationaryBike.json"
+      "icon": "fitness/exercises/Cardio/stationaryBike/Icon.png",
+      "json": "fitness/exercises/Cardio/stationaryBike/stationaryBike.json"
     },
     {
-      "icon": "Cardio/rowingMachine/Icon.png",
-      "json": "Cardio/rowingMachine/rowingMachine.json"
+      "icon": "fitness/exercises/Cardio/rowingMachine/Icon.png",
+      "json": "fitness/exercises/Cardio/rowingMachine/rowingMachine.json"
     },
     {
-      "icon": "Cardio/elliptical/Icon.png",
-      "json": "Cardio/elliptical/elliptical.json"
+      "icon": "fitness/exercises/Cardio/elliptical/Icon.png",
+      "json": "fitness/exercises/Cardio/elliptical/elliptical.json"
     },
     {
-      "icon": "Cardio/stairClimber/Icon.png",
-      "json": "Cardio/stairClimber/stairClimber.json"
+      "icon": "fitness/exercises/Cardio/stairClimber/Icon.png",
+      "json": "fitness/exercises/Cardio/stairClimber/stairClimber.json"
     },
     {
-      "icon": "Cardio/treadmillWalk/Icon.png",
-      "json": "Cardio/treadmillWalk/treadmillWalk.json"
+      "icon": "fitness/exercises/Cardio/treadmillWalk/Icon.png",
+      "json": "fitness/exercises/Cardio/treadmillWalk/treadmillWalk.json"
     },
     {
-      "icon": "Cardio/poolSwimming/Icon.png",
-      "json": "Cardio/poolSwimming/poolSwimming.json"
+      "icon": "fitness/exercises/Cardio/poolSwimming/Icon.png",
+      "json": "fitness/exercises/Cardio/poolSwimming/poolSwimming.json"
     },
     {
-      "icon": "Cardio/waterFitness/Icon.png",
-      "json": "Cardio/waterFitness/waterFitness.json"
+      "icon": "fitness/exercises/Cardio/waterFitness/Icon.png",
+      "json": "fitness/exercises/Cardio/waterFitness/waterFitness.json"
     },
     {
-      "icon": "Cardio/jumpRope/Icon.png",
-      "json": "Cardio/jumpRope/jumpRope.json"
+      "icon": "fitness/exercises/Cardio/jumpRope/Icon.png",
+      "json": "fitness/exercises/Cardio/jumpRope/jumpRope.json"
     },
     {
-      "icon": "Cardio/mixedCardio/Icon.png",
-      "json": "Cardio/mixedCardio/mixedCardio.json"
+      "icon": "fitness/exercises/Cardio/mixedCardio/Icon.png",
+      "json": "fitness/exercises/Cardio/mixedCardio/mixedCardio.json"
     },
     {
-      "icon": "Cardio/stairs/Icon.png",
-      "json": "Cardio/stairs/stairs.json"
+      "icon": "fitness/exercises/Cardio/stairs/Icon.png",
+      "json": "fitness/exercises/Cardio/stairs/stairs.json"
     },
     {
-      "icon": "Cardio/stepTraining/Icon.png",
-      "json": "Cardio/stepTraining/stepTraining.json"
+      "icon": "fitness/exercises/Cardio/stepTraining/Icon.png",
+      "json": "fitness/exercises/Cardio/stepTraining/stepTraining.json"
     },
     {
-      "icon": "Cardio/handCycling/Icon.png",
-      "json": "Cardio/handCycling/handCycling.json"
+      "icon": "fitness/exercises/Cardio/handCycling/Icon.png",
+      "json": "fitness/exercises/Cardio/handCycling/handCycling.json"
     },
     {
-      "icon": "Cardio/outdoorWheelchairWalk/Icon.png",
-      "json": "Cardio/outdoorWheelchairWalk/outdoorWheelchairWalk.json"
+      "icon": "fitness/exercises/Cardio/outdoorWheelchairWalk/Icon.png",
+      "json": "fitness/exercises/Cardio/outdoorWheelchairWalk/outdoorWheelchairWalk.json"
     },
     {
-      "icon": "Cardio/outdoorWheelchairRun/Icon.png",
-      "json": "Cardio/outdoorWheelchairRun/outdoorWheelchairRun.json"
+      "icon": "fitness/exercises/Cardio/outdoorWheelchairRun/Icon.png",
+      "json": "fitness/exercises/Cardio/outdoorWheelchairRun/outdoorWheelchairRun.json"
     },
     {
-      "json": "Cardio/basicBounce/basicBounce.json",
-      "icon": "Cardio/basicBounce/Icon.png"
+      "json": "fitness/exercises/Cardio/basicBounce/basicBounce.json",
+      "icon": "fitness/exercises/Cardio/basicBounce/Icon.png"
     },
     {
-      "json": "Cardio/alternateFootStep/alternateFootStep.json",
-      "icon": "Cardio/alternateFootStep/Icon.png"
+      "json": "fitness/exercises/Cardio/alternateFootStep/alternateFootStep.json",
+      "icon": "fitness/exercises/Cardio/alternateFootStep/Icon.png"
     },
     {
-      "json": "Cardio/boxerStep/boxerStep.json",
-      "icon": "Cardio/boxerStep/Icon.png"
+      "json": "fitness/exercises/Cardio/boxerStep/boxerStep.json",
+      "icon": "fitness/exercises/Cardio/boxerStep/Icon.png"
     },
     {
-      "json": "Cardio/runningStep/runningStep.json",
-      "icon": "Cardio/runningStep/Icon.png"
+      "json": "fitness/exercises/Cardio/runningStep/runningStep.json",
+      "icon": "fitness/exercises/Cardio/runningStep/Icon.png"
     },
     {
-      "json": "Cardio/sideToSideJump/sideToSideJump.json",
-      "icon": "Cardio/sideToSideJump/Icon.png"
+      "json": "fitness/exercises/Cardio/sideToSideJump/sideToSideJump.json",
+      "icon": "fitness/exercises/Cardio/sideToSideJump/Icon.png"
     },
     {
-      "json": "Cardio/forwardBackwardJump/forwardBackwardJump.json",
-      "icon": "Cardio/forwardBackwardJump/Icon.png"
+      "json": "fitness/exercises/Cardio/forwardBackwardJump/forwardBackwardJump.json",
+      "icon": "fitness/exercises/Cardio/forwardBackwardJump/Icon.png"
     },
     {
-      "json": "Cardio/highKnees/highKnees.json",
-      "icon": "Cardio/highKnees/Icon.png"
+      "json": "fitness/exercises/Cardio/highKnees/highKnees.json",
+      "icon": "fitness/exercises/Cardio/highKnees/Icon.png"
     },
     {
-      "json": "Cardio/skierJump/skierJump.json",
-      "icon": "Cardio/skierJump/Icon.png"
+      "json": "fitness/exercises/Cardio/skierJump/skierJump.json",
+      "icon": "fitness/exercises/Cardio/skierJump/Icon.png"
     },
     {
-      "json": "Cardio/bellJump/bellJump.json",
-      "icon": "Cardio/bellJump/Icon.png"
+      "json": "fitness/exercises/Cardio/bellJump/bellJump.json",
+      "icon": "fitness/exercises/Cardio/bellJump/Icon.png"
     },
     {
-      "json": "Cardio/straddleJump/straddleJump.json",
-      "icon": "Cardio/straddleJump/Icon.png"
+      "json": "fitness/exercises/Cardio/straddleJump/straddleJump.json",
+      "icon": "fitness/exercises/Cardio/straddleJump/Icon.png"
     },
     {
-      "json": "Cardio/cardioDance/cardioDance.json",
-      "icon": "Cardio/cardioDance/Icon.png"
+      "json": "fitness/exercises/Cardio/cardioDance/cardioDance.json",
+      "icon": "fitness/exercises/Cardio/cardioDance/Icon.png"
     },
     {
-      "icon": "WarmUp/warmUp/Icon.png",
-      "json": "WarmUp/warmUp/warmUp.json"
+      "icon": "fitness/exercises/WarmUp/warmUp/Icon.png",
+      "json": "fitness/exercises/WarmUp/warmUp/warmUp.json"
     },
     {
-      "icon": "WarmUp/armCircles/Icon.png",
-      "json": "WarmUp/armCircles/armCircles.json"
+      "icon": "fitness/exercises/WarmUp/armCircles/Icon.png",
+      "json": "fitness/exercises/WarmUp/armCircles/armCircles.json"
     },
     {
-      "icon": "WarmUp/elbowCircles/Icon.png",
-      "json": "WarmUp/elbowCircles/elbowCircles.json"
+      "icon": "fitness/exercises/WarmUp/elbowCircles/Icon.png",
+      "json": "fitness/exercises/WarmUp/elbowCircles/elbowCircles.json"
     },
     {
-      "icon": "WarmUp/neckMobility/Icon.png",
-      "json": "WarmUp/neckMobility/neckMobility.json"
+      "icon": "fitness/exercises/WarmUp/neckMobility/Icon.png",
+      "json": "fitness/exercises/WarmUp/neckMobility/neckMobility.json"
     },
     {
-      "icon": "WarmUp/scapularSqueezes/Icon.png",
-      "json": "WarmUp/scapularSqueezes/scapularSqueezes.json"
+      "icon": "fitness/exercises/WarmUp/scapularSqueezes/Icon.png",
+      "json": "fitness/exercises/WarmUp/scapularSqueezes/scapularSqueezes.json"
     },
     {
-      "icon": "WarmUp/shoulderCircles/Icon.png",
-      "json": "WarmUp/shoulderCircles/shoulderCircles.json"
+      "icon": "fitness/exercises/WarmUp/shoulderCircles/Icon.png",
+      "json": "fitness/exercises/WarmUp/shoulderCircles/shoulderCircles.json"
     },
     {
-      "icon": "WarmUp/handOpenClose/Icon.png",
-      "json": "WarmUp/handOpenClose/handOpenClose.json"
+      "icon": "fitness/exercises/WarmUp/handOpenClose/Icon.png",
+      "json": "fitness/exercises/WarmUp/handOpenClose/handOpenClose.json"
     },
     {
-      "icon": "WarmUp/ankleCircles/Icon.png",
-      "json": "WarmUp/ankleCircles/ankleCircles.json"
+      "icon": "fitness/exercises/WarmUp/ankleCircles/Icon.png",
+      "json": "fitness/exercises/WarmUp/ankleCircles/ankleCircles.json"
     },
     {
-      "icon": "WarmUp/hipCircles/Icon.png",
-      "json": "WarmUp/hipCircles/hipCircles.json"
+      "icon": "fitness/exercises/WarmUp/hipCircles/Icon.png",
+      "json": "fitness/exercises/WarmUp/hipCircles/hipCircles.json"
     },
     {
-      "icon": "WarmUp/wristCircles/Icon.png",
-      "json": "WarmUp/wristCircles/wristCircles.json"
+      "icon": "fitness/exercises/WarmUp/wristCircles/Icon.png",
+      "json": "fitness/exercises/WarmUp/wristCircles/wristCircles.json"
     },
     {
-      "icon": "WarmUp/thoracicRotations/Icon.png",
-      "json": "WarmUp/thoracicRotations/thoracicRotations.json"
+      "icon": "fitness/exercises/WarmUp/thoracicRotations/Icon.png",
+      "json": "fitness/exercises/WarmUp/thoracicRotations/thoracicRotations.json"
     },
     {
-      "icon": "WarmUp/catCow/Icon.png",
-      "json": "WarmUp/catCow/catCow.json"
+      "icon": "fitness/exercises/WarmUp/catCow/Icon.png",
+      "json": "fitness/exercises/WarmUp/catCow/catCow.json"
     },
     {
-      "icon": "WarmUp/dynamicToeReaches/Icon.png",
-      "json": "WarmUp/dynamicToeReaches/dynamicToeReaches.json"
+      "icon": "fitness/exercises/WarmUp/dynamicToeReaches/Icon.png",
+      "json": "fitness/exercises/WarmUp/dynamicToeReaches/dynamicToeReaches.json"
     },
     {
-      "icon": "WarmUp/armSwings/Icon.png",
-      "json": "WarmUp/armSwings/armSwings.json"
+      "icon": "fitness/exercises/WarmUp/armSwings/Icon.png",
+      "json": "fitness/exercises/WarmUp/armSwings/armSwings.json"
     },
     {
-      "icon": "WarmUp/hipOpeners/Icon.png",
-      "json": "WarmUp/hipOpeners/hipOpeners.json"
+      "icon": "fitness/exercises/WarmUp/hipOpeners/Icon.png",
+      "json": "fitness/exercises/WarmUp/hipOpeners/hipOpeners.json"
     },
     {
-      "icon": "WarmUp/legSwings/Icon.png",
-      "json": "WarmUp/legSwings/legSwings.json"
+      "icon": "fitness/exercises/WarmUp/legSwings/Icon.png",
+      "json": "fitness/exercises/WarmUp/legSwings/legSwings.json"
     },
     {
-      "icon": "WarmUp/torsoTwists/Icon.png",
-      "json": "WarmUp/torsoTwists/torsoTwists.json"
+      "icon": "fitness/exercises/WarmUp/torsoTwists/Icon.png",
+      "json": "fitness/exercises/WarmUp/torsoTwists/torsoTwists.json"
     },
     {
-      "icon": "WarmUp/jumpRope/Icon.png",
-      "json": "WarmUp/jumpRope/jumpRope.json"
+      "icon": "fitness/exercises/WarmUp/jumpRope/Icon.png",
+      "json": "fitness/exercises/WarmUp/jumpRope/jumpRope.json"
     },
     {
-      "icon": "WarmUp/stationaryBike/Icon.png",
-      "json": "WarmUp/stationaryBike/stationaryBike.json"
+      "icon": "fitness/exercises/WarmUp/stationaryBike/Icon.png",
+      "json": "fitness/exercises/WarmUp/stationaryBike/stationaryBike.json"
     },
     {
-      "icon": "WarmUp/treadmill/Icon.png",
-      "json": "WarmUp/treadmill/treadmill.json"
+      "icon": "fitness/exercises/WarmUp/treadmill/Icon.png",
+      "json": "fitness/exercises/WarmUp/treadmill/treadmill.json"
     },
     {
-      "icon": "WarmUp/marchInPlace/Icon.png",
-      "json": "WarmUp/marchInPlace/marchInPlace.json"
+      "icon": "fitness/exercises/WarmUp/marchInPlace/Icon.png",
+      "json": "fitness/exercises/WarmUp/marchInPlace/marchInPlace.json"
     },
     {
-      "icon": "WarmUp/lightJog/Icon.png",
-      "json": "WarmUp/lightJog/lightJog.json"
+      "icon": "fitness/exercises/WarmUp/lightJog/Icon.png",
+      "json": "fitness/exercises/WarmUp/lightJog/lightJog.json"
     },
     {
-      "icon": "WarmUp/walkingLunges/Icon.png",
-      "json": "WarmUp/walkingLunges/walkingLunges.json"
+      "icon": "fitness/exercises/WarmUp/walkingLunges/Icon.png",
+      "json": "fitness/exercises/WarmUp/walkingLunges/walkingLunges.json"
     },
     {
-      "icon": "WarmUp/inchworms/Icon.png",
-      "json": "WarmUp/inchworms/inchworms.json"
+      "icon": "fitness/exercises/WarmUp/inchworms/Icon.png",
+      "json": "fitness/exercises/WarmUp/inchworms/inchworms.json"
     },
     {
-      "icon": "WarmUp/standingWindmills/Icon.png",
-      "json": "WarmUp/standingWindmills/standingWindmills.json"
+      "icon": "fitness/exercises/WarmUp/standingWindmills/Icon.png",
+      "json": "fitness/exercises/WarmUp/standingWindmills/standingWindmills.json"
     },
     {
-      "icon": "WarmUp/squatToStand/Icon.png",
-      "json": "WarmUp/squatToStand/squatToStand.json"
+      "icon": "fitness/exercises/WarmUp/squatToStand/Icon.png",
+      "json": "fitness/exercises/WarmUp/squatToStand/squatToStand.json"
     },
     {
-      "icon": "WarmUp/lateralLunges/Icon.png",
-      "json": "WarmUp/lateralLunges/lateralLunges.json"
+      "icon": "fitness/exercises/WarmUp/lateralLunges/Icon.png",
+      "json": "fitness/exercises/WarmUp/lateralLunges/lateralLunges.json"
     },
     {
-      "icon": "WarmUp/kneeLifts/Icon.png",
-      "json": "WarmUp/kneeLifts/kneeLifts.json"
+      "icon": "fitness/exercises/WarmUp/kneeLifts/Icon.png",
+      "json": "fitness/exercises/WarmUp/kneeLifts/kneeLifts.json"
     },
     {
-      "icon": "WarmUp/heelDigs/Icon.png",
-      "json": "WarmUp/heelDigs/heelDigs.json"
+      "icon": "fitness/exercises/WarmUp/heelDigs/Icon.png",
+      "json": "fitness/exercises/WarmUp/heelDigs/heelDigs.json"
     },
     {
-      "json": "WarmUp/jumpingJacks/jumpingJacks.json",
-      "icon": "WarmUp/jumpingJacks/Icon.png"
+      "json": "fitness/exercises/WarmUp/jumpingJacks/jumpingJacks.json",
+      "icon": "fitness/exercises/WarmUp/jumpingJacks/Icon.png"
     },
     {
-      "json": "WarmUp/buttKicks/buttKicks.json",
-      "icon": "WarmUp/buttKicks/Icon.png"
+      "json": "fitness/exercises/WarmUp/buttKicks/buttKicks.json",
+      "icon": "fitness/exercises/WarmUp/buttKicks/Icon.png"
     },
     {
-      "icon": "Cooldown/coolDown/Icon.png",
-      "json": "Cooldown/coolDown/coolDown.json"
+      "icon": "fitness/exercises/Cooldown/coolDown/Icon.png",
+      "json": "fitness/exercises/Cooldown/coolDown/coolDown.json"
     },
     {
-      "icon": "Cooldown/breathing/Icon.png",
-      "json": "Cooldown/breathing/breathing.json"
+      "icon": "fitness/exercises/Cooldown/breathing/Icon.png",
+      "json": "fitness/exercises/Cooldown/breathing/breathing.json"
     },
     {
-      "icon": "Cooldown/shoulderStretch/Icon.png",
-      "json": "Cooldown/shoulderStretch/shoulderStretch.json"
+      "icon": "fitness/exercises/Cooldown/shoulderStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/shoulderStretch/shoulderStretch.json"
     },
     {
-      "icon": "Cooldown/tricepsStretch/Icon.png",
-      "json": "Cooldown/tricepsStretch/tricepsStretch.json"
+      "icon": "fitness/exercises/Cooldown/tricepsStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/tricepsStretch/tricepsStretch.json"
     },
     {
-      "icon": "Cooldown/chestStretch/Icon.png",
-      "json": "Cooldown/chestStretch/chestStretch.json"
+      "icon": "fitness/exercises/Cooldown/chestStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/chestStretch/chestStretch.json"
     },
     {
-      "icon": "Cooldown/latStretch/Icon.png",
-      "json": "Cooldown/latStretch/latStretch.json"
+      "icon": "fitness/exercises/Cooldown/latStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/latStretch/latStretch.json"
     },
     {
-      "icon": "Cooldown/hipFlexorStretch/Icon.png",
-      "json": "Cooldown/hipFlexorStretch/hipFlexorStretch.json"
+      "icon": "fitness/exercises/Cooldown/hipFlexorStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/hipFlexorStretch/hipFlexorStretch.json"
     },
     {
-      "icon": "Cooldown/quadricepsStretch/Icon.png",
-      "json": "Cooldown/quadricepsStretch/quadricepsStretch.json"
+      "icon": "fitness/exercises/Cooldown/quadricepsStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/quadricepsStretch/quadricepsStretch.json"
     },
     {
-      "icon": "Cooldown/hamstringStretch/Icon.png",
-      "json": "Cooldown/hamstringStretch/hamstringStretch.json"
+      "icon": "fitness/exercises/Cooldown/hamstringStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/hamstringStretch/hamstringStretch.json"
     },
     {
-      "icon": "Cooldown/calfStretch/Icon.png",
-      "json": "Cooldown/calfStretch/calfStretch.json"
+      "icon": "fitness/exercises/Cooldown/calfStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/calfStretch/calfStretch.json"
     },
     {
-      "icon": "Cooldown/adductorStretch/Icon.png",
-      "json": "Cooldown/adductorStretch/adductorStretch.json"
+      "icon": "fitness/exercises/Cooldown/adductorStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/adductorStretch/adductorStretch.json"
     },
     {
-      "icon": "Cooldown/gluteStretch/Icon.png",
-      "json": "Cooldown/gluteStretch/gluteStretch.json"
+      "icon": "fitness/exercises/Cooldown/gluteStretch/Icon.png",
+      "json": "fitness/exercises/Cooldown/gluteStretch/gluteStretch.json"
     },
     {
-      "icon": "Cooldown/walkingRecovery/Icon.png",
-      "json": "Cooldown/walkingRecovery/walkingRecovery.json"
+      "icon": "fitness/exercises/Cooldown/walkingRecovery/Icon.png",
+      "json": "fitness/exercises/Cooldown/walkingRecovery/walkingRecovery.json"
     },
     {
-      "json": "Cooldown/calfRoll/calfRoll.json",
-      "icon": "Cooldown/calfRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/calfRoll/calfRoll.json",
+      "icon": "fitness/exercises/Cooldown/calfRoll/Icon.png"
     },
     {
-      "json": "Cooldown/hamstringRoll/hamstringRoll.json",
-      "icon": "Cooldown/hamstringRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/hamstringRoll/hamstringRoll.json",
+      "icon": "fitness/exercises/Cooldown/hamstringRoll/Icon.png"
     },
     {
-      "json": "Cooldown/quadricepsRoll/quadricepsRoll.json",
-      "icon": "Cooldown/quadricepsRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/quadricepsRoll/quadricepsRoll.json",
+      "icon": "fitness/exercises/Cooldown/quadricepsRoll/Icon.png"
     },
     {
-      "json": "Cooldown/adductorRoll/adductorRoll.json",
-      "icon": "Cooldown/adductorRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/adductorRoll/adductorRoll.json",
+      "icon": "fitness/exercises/Cooldown/adductorRoll/Icon.png"
     },
     {
-      "json": "Cooldown/gluteRoll/gluteRoll.json",
-      "icon": "Cooldown/gluteRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/gluteRoll/gluteRoll.json",
+      "icon": "fitness/exercises/Cooldown/gluteRoll/Icon.png"
     },
     {
-      "json": "Cooldown/piriformisRoll/piriformisRoll.json",
-      "icon": "Cooldown/piriformisRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/piriformisRoll/piriformisRoll.json",
+      "icon": "fitness/exercises/Cooldown/piriformisRoll/Icon.png"
     },
     {
-      "json": "Cooldown/latRoll/latRoll.json",
-      "icon": "Cooldown/latRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/latRoll/latRoll.json",
+      "icon": "fitness/exercises/Cooldown/latRoll/Icon.png"
     },
     {
-      "json": "Cooldown/thoracicSpineRoll/thoracicSpineRoll.json",
-      "icon": "Cooldown/thoracicSpineRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/thoracicSpineRoll/thoracicSpineRoll.json",
+      "icon": "fitness/exercises/Cooldown/thoracicSpineRoll/Icon.png"
     },
     {
-      "json": "Cooldown/upperBackRoll/upperBackRoll.json",
-      "icon": "Cooldown/upperBackRoll/Icon.png"
+      "json": "fitness/exercises/Cooldown/upperBackRoll/upperBackRoll.json",
+      "icon": "fitness/exercises/Cooldown/upperBackRoll/Icon.png"
     },
     {
-      "json": "Cooldown/itBandStretch/itBandStretch.json",
-      "icon": "Cooldown/itBandStretch/Icon.png"
+      "json": "fitness/exercises/Cooldown/itBandStretch/itBandStretch.json",
+      "icon": "fitness/exercises/Cooldown/itBandStretch/Icon.png"
     },
     {
-      "json": "Cooldown/childsPose/childsPose.json",
-      "icon": "Cooldown/childsPose/Icon.png"
+      "json": "fitness/exercises/Cooldown/childsPose/childsPose.json",
+      "icon": "fitness/exercises/Cooldown/childsPose/Icon.png"
     },
     {
-      "json": "Cooldown/neckStretch/neckStretch.json",
-      "icon": "Cooldown/neckStretch/Icon.png"
+      "json": "fitness/exercises/Cooldown/neckStretch/neckStretch.json",
+      "icon": "fitness/exercises/Cooldown/neckStretch/Icon.png"
     },
     {
-      "icon": "CoreTraining/coreTraining/Icon.png",
-      "json": "CoreTraining/coreTraining/coreTraining.json"
+      "icon": "fitness/exercises/CoreTraining/coreTraining/Icon.png",
+      "json": "fitness/exercises/CoreTraining/coreTraining/coreTraining.json"
     },
     {
-      "icon": "CoreTraining/plank/Icon.png",
-      "json": "CoreTraining/plank/plank.json"
+      "icon": "fitness/exercises/CoreTraining/plank/Icon.png",
+      "json": "fitness/exercises/CoreTraining/plank/plank.json"
     },
     {
-      "icon": "CoreTraining/sitUp/Icon.png",
-      "json": "CoreTraining/sitUp/sitUp.json"
+      "icon": "fitness/exercises/CoreTraining/sitUp/Icon.png",
+      "json": "fitness/exercises/CoreTraining/sitUp/sitUp.json"
     },
     {
-      "icon": "CoreTraining/legRaise/Icon.png",
-      "json": "CoreTraining/legRaise/legRaise.json"
+      "icon": "fitness/exercises/CoreTraining/legRaise/Icon.png",
+      "json": "fitness/exercises/CoreTraining/legRaise/legRaise.json"
     },
     {
-      "icon": "CoreTraining/mountainClimber/Icon.png",
-      "json": "CoreTraining/mountainClimber/mountainClimber.json"
+      "icon": "fitness/exercises/CoreTraining/mountainClimber/Icon.png",
+      "json": "fitness/exercises/CoreTraining/mountainClimber/mountainClimber.json"
     },
     {
-      "json": "CoreTraining/sidePlank/sidePlank.json",
-      "icon": "CoreTraining/sidePlank/Icon.png"
+      "json": "fitness/exercises/CoreTraining/sidePlank/sidePlank.json",
+      "icon": "fitness/exercises/CoreTraining/sidePlank/Icon.png"
     },
     {
-      "json": "CoreTraining/deadBug/deadBug.json",
-      "icon": "CoreTraining/deadBug/Icon.png"
+      "json": "fitness/exercises/CoreTraining/deadBug/deadBug.json",
+      "icon": "fitness/exercises/CoreTraining/deadBug/Icon.png"
     },
     {
-      "json": "CoreTraining/birdDog/birdDog.json",
-      "icon": "CoreTraining/birdDog/Icon.png"
+      "json": "fitness/exercises/CoreTraining/birdDog/birdDog.json",
+      "icon": "fitness/exercises/CoreTraining/birdDog/Icon.png"
     },
     {
-      "json": "CoreTraining/gluteBridge/gluteBridge.json",
-      "icon": "CoreTraining/gluteBridge/Icon.png"
+      "json": "fitness/exercises/CoreTraining/gluteBridge/gluteBridge.json",
+      "icon": "fitness/exercises/CoreTraining/gluteBridge/Icon.png"
     },
     {
-      "json": "CoreTraining/bicycleCrunch/bicycleCrunch.json",
-      "icon": "CoreTraining/bicycleCrunch/Icon.png"
+      "json": "fitness/exercises/CoreTraining/bicycleCrunch/bicycleCrunch.json",
+      "icon": "fitness/exercises/CoreTraining/bicycleCrunch/Icon.png"
     },
     {
-      "json": "CoreTraining/crunch/crunch.json",
-      "icon": "CoreTraining/crunch/Icon.png"
+      "json": "fitness/exercises/CoreTraining/crunch/crunch.json",
+      "icon": "fitness/exercises/CoreTraining/crunch/Icon.png"
     },
     {
-      "json": "CoreTraining/russianTwist/russianTwist.json",
-      "icon": "CoreTraining/russianTwist/Icon.png"
+      "json": "fitness/exercises/CoreTraining/russianTwist/russianTwist.json",
+      "icon": "fitness/exercises/CoreTraining/russianTwist/Icon.png"
     },
     {
-      "json": "CoreTraining/supermanBackExtension/supermanBackExtension.json",
-      "icon": "CoreTraining/supermanBackExtension/Icon.png"
+      "json": "fitness/exercises/CoreTraining/supermanBackExtension/supermanBackExtension.json",
+      "icon": "fitness/exercises/CoreTraining/supermanBackExtension/Icon.png"
     },
     {
-      "icon": "HIIT/hiit/Icon.png",
-      "json": "HIIT/hiit/hiit.json"
+      "icon": "fitness/exercises/HIIT/hiit/Icon.png",
+      "json": "fitness/exercises/HIIT/hiit/hiit.json"
     },
     {
-      "json": "HIIT/alternatingWaves/alternatingWaves.json",
-      "icon": "HIIT/alternatingWaves/Icon.png"
+      "json": "fitness/exercises/HIIT/alternatingWaves/alternatingWaves.json",
+      "icon": "fitness/exercises/HIIT/alternatingWaves/Icon.png"
     },
     {
-      "json": "HIIT/doubleArmWaves/doubleArmWaves.json",
-      "icon": "HIIT/doubleArmWaves/Icon.png"
+      "json": "fitness/exercises/HIIT/doubleArmWaves/doubleArmWaves.json",
+      "icon": "fitness/exercises/HIIT/doubleArmWaves/Icon.png"
     },
     {
-      "json": "HIIT/powerSlams/powerSlams.json",
-      "icon": "HIIT/powerSlams/Icon.png"
+      "json": "fitness/exercises/HIIT/powerSlams/powerSlams.json",
+      "icon": "fitness/exercises/HIIT/powerSlams/Icon.png"
     },
     {
-      "json": "HIIT/shuttleRun/shuttleRun.json",
-      "icon": "HIIT/shuttleRun/Icon.png"
+      "json": "fitness/exercises/HIIT/shuttleRun/shuttleRun.json",
+      "icon": "fitness/exercises/HIIT/shuttleRun/Icon.png"
     },
     {
-      "json": "HIIT/burpee/burpee.json",
-      "icon": "HIIT/burpee/Icon.png"
+      "json": "fitness/exercises/HIIT/burpee/burpee.json",
+      "icon": "fitness/exercises/HIIT/burpee/Icon.png"
     },
     {
-      "json": "HIIT/pushUp/pushUp.json",
-      "icon": "HIIT/pushUp/Icon.png"
+      "json": "fitness/exercises/HIIT/pushUp/pushUp.json",
+      "icon": "fitness/exercises/HIIT/pushUp/Icon.png"
     },
     {
-      "json": "HIIT/squatJump/squatJump.json",
-      "icon": "HIIT/squatJump/Icon.png"
+      "json": "fitness/exercises/HIIT/squatJump/squatJump.json",
+      "icon": "fitness/exercises/HIIT/squatJump/Icon.png"
     },
     {
-      "json": "HIIT/walkingLunge/walkingLunge.json",
-      "icon": "HIIT/walkingLunge/Icon.png"
+      "json": "fitness/exercises/HIIT/walkingLunge/walkingLunge.json",
+      "icon": "fitness/exercises/HIIT/walkingLunge/Icon.png"
     },
     {
-      "json": "HIIT/mountainClimber/mountainClimber.json",
-      "icon": "HIIT/mountainClimber/Icon.png"
+      "json": "fitness/exercises/HIIT/mountainClimber/mountainClimber.json",
+      "icon": "fitness/exercises/HIIT/mountainClimber/Icon.png"
     },
     {
-      "json": "HIIT/plankJack/plankJack.json",
-      "icon": "HIIT/plankJack/Icon.png"
+      "json": "fitness/exercises/HIIT/plankJack/plankJack.json",
+      "icon": "fitness/exercises/HIIT/plankJack/Icon.png"
     },
     {
-      "json": "HIIT/highKnees/highKnees.json",
-      "icon": "HIIT/highKnees/Icon.png"
+      "json": "fitness/exercises/HIIT/highKnees/highKnees.json",
+      "icon": "fitness/exercises/HIIT/highKnees/Icon.png"
     },
     {
-      "json": "HIIT/broadJump/broadJump.json",
-      "icon": "HIIT/broadJump/Icon.png"
+      "json": "fitness/exercises/HIIT/broadJump/broadJump.json",
+      "icon": "fitness/exercises/HIIT/broadJump/Icon.png"
     },
     {
-      "json": "HIIT/kettlebellSwing/kettlebellSwing.json",
-      "icon": "HIIT/kettlebellSwing/Icon.png"
+      "json": "fitness/exercises/HIIT/kettlebellSwing/kettlebellSwing.json",
+      "icon": "fitness/exercises/HIIT/kettlebellSwing/Icon.png"
     },
     {
-      "json": "HIIT/quickFeet/quickFeet.json",
-      "icon": "HIIT/quickFeet/Icon.png"
+      "json": "fitness/exercises/HIIT/quickFeet/quickFeet.json",
+      "icon": "fitness/exercises/HIIT/quickFeet/Icon.png"
     },
     {
-      "json": "HIIT/lateralShuffle/lateralShuffle.json",
-      "icon": "HIIT/lateralShuffle/Icon.png"
+      "json": "fitness/exercises/HIIT/lateralShuffle/lateralShuffle.json",
+      "icon": "fitness/exercises/HIIT/lateralShuffle/Icon.png"
     },
     {
-      "json": "HIIT/backpedal/backpedal.json",
-      "icon": "HIIT/backpedal/Icon.png"
+      "json": "fitness/exercises/HIIT/backpedal/backpedal.json",
+      "icon": "fitness/exercises/HIIT/backpedal/Icon.png"
     },
     {
-      "json": "HIIT/forwardBackwardShuffle/forwardBackwardShuffle.json",
-      "icon": "HIIT/forwardBackwardShuffle/Icon.png"
+      "json": "fitness/exercises/HIIT/forwardBackwardShuffle/forwardBackwardShuffle.json",
+      "icon": "fitness/exercises/HIIT/forwardBackwardShuffle/Icon.png"
     },
     {
-      "json": "HIIT/inInOutOutLadder/inInOutOutLadder.json",
-      "icon": "HIIT/inInOutOutLadder/Icon.png"
+      "json": "fitness/exercises/HIIT/inInOutOutLadder/inInOutOutLadder.json",
+      "icon": "fitness/exercises/HIIT/inInOutOutLadder/Icon.png"
     },
     {
-      "json": "HIIT/coneWeave/coneWeave.json",
-      "icon": "HIIT/coneWeave/Icon.png"
+      "json": "fitness/exercises/HIIT/coneWeave/coneWeave.json",
+      "icon": "fitness/exercises/HIIT/coneWeave/Icon.png"
     },
     {
-      "json": "HIIT/jumpingJack/jumpingJack.json",
-      "icon": "HIIT/jumpingJack/Icon.png"
+      "json": "fitness/exercises/HIIT/jumpingJack/jumpingJack.json",
+      "icon": "fitness/exercises/HIIT/jumpingJack/Icon.png"
     },
     {
-      "json": "HIIT/bodyweightSquat/bodyweightSquat.json",
-      "icon": "HIIT/bodyweightSquat/Icon.png"
+      "json": "fitness/exercises/HIIT/bodyweightSquat/bodyweightSquat.json",
+      "icon": "fitness/exercises/HIIT/bodyweightSquat/Icon.png"
     },
     {
-      "json": "SuspensionTraining/trx/trx.json",
-      "icon": "SuspensionTraining/trx/Icon.png"
+      "json": "fitness/exercises/SuspensionTraining/trx/trx.json",
+      "icon": "fitness/exercises/SuspensionTraining/trx/Icon.png"
     },
     {
-      "icon": "SuspensionTraining/suspensionRow/Icon.png",
-      "json": "SuspensionTraining/suspensionRow/suspensionRow.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionRow/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionRow/suspensionRow.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionChestPress/Icon.png",
-      "json": "SuspensionTraining/suspensionChestPress/suspensionChestPress.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionChestPress/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionChestPress/suspensionChestPress.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionSquat/Icon.png",
-      "json": "SuspensionTraining/suspensionSquat/suspensionSquat.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionSquat/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionSquat/suspensionSquat.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionHipHinge/Icon.png",
-      "json": "SuspensionTraining/suspensionHipHinge/suspensionHipHinge.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionHipHinge/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionHipHinge/suspensionHipHinge.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionReverseLunge/Icon.png",
-      "json": "SuspensionTraining/suspensionReverseLunge/suspensionReverseLunge.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionReverseLunge/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionReverseLunge/suspensionReverseLunge.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionHamstringCurl/Icon.png",
-      "json": "SuspensionTraining/suspensionHamstringCurl/suspensionHamstringCurl.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionHamstringCurl/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionHamstringCurl/suspensionHamstringCurl.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionBicepsCurl/Icon.png",
-      "json": "SuspensionTraining/suspensionBicepsCurl/suspensionBicepsCurl.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionBicepsCurl/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionBicepsCurl/suspensionBicepsCurl.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionTricepsPress/Icon.png",
-      "json": "SuspensionTraining/suspensionTricepsPress/suspensionTricepsPress.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionTricepsPress/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionTricepsPress/suspensionTricepsPress.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionPlank/Icon.png",
-      "json": "SuspensionTraining/suspensionPlank/suspensionPlank.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionPlank/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionPlank/suspensionPlank.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionStandingRollout/Icon.png",
-      "json": "SuspensionTraining/suspensionStandingRollout/suspensionStandingRollout.json"
+      "icon": "fitness/exercises/SuspensionTraining/suspensionStandingRollout/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionStandingRollout/suspensionStandingRollout.json"
     },
     {
-      "json": "CrossTraining/crossFit/crossFit.json",
-      "icon": "CrossTraining/crossFit/Icon.png"
+      "json": "fitness/exercises/CrossTraining/crossFit/crossFit.json",
+      "icon": "fitness/exercises/CrossTraining/crossFit/Icon.png"
     },
     {
-      "icon": "CrossTraining/airSquat/Icon.png",
-      "json": "CrossTraining/airSquat/airSquat.json"
+      "icon": "fitness/exercises/CrossTraining/airSquat/Icon.png",
+      "json": "fitness/exercises/CrossTraining/airSquat/airSquat.json"
     },
     {
-      "icon": "CrossTraining/burpee/Icon.png",
-      "json": "CrossTraining/burpee/burpee.json"
+      "icon": "fitness/exercises/CrossTraining/burpee/Icon.png",
+      "json": "fitness/exercises/CrossTraining/burpee/burpee.json"
     },
     {
-      "icon": "CrossTraining/pushUp/Icon.png",
-      "json": "CrossTraining/pushUp/pushUp.json"
+      "icon": "fitness/exercises/CrossTraining/pushUp/Icon.png",
+      "json": "fitness/exercises/CrossTraining/pushUp/pushUp.json"
     },
     {
-      "icon": "CrossTraining/jumpRope/Icon.png",
-      "json": "CrossTraining/jumpRope/jumpRope.json"
+      "icon": "fitness/exercises/CrossTraining/jumpRope/Icon.png",
+      "json": "fitness/exercises/CrossTraining/jumpRope/jumpRope.json"
     },
     {
-      "icon": "CrossTraining/pullUp/Icon.png",
-      "json": "CrossTraining/pullUp/pullUp.json"
+      "icon": "fitness/exercises/CrossTraining/pullUp/Icon.png",
+      "json": "fitness/exercises/CrossTraining/pullUp/pullUp.json"
     },
     {
-      "icon": "CrossTraining/handstandHold/Icon.png",
-      "json": "CrossTraining/handstandHold/handstandHold.json"
+      "icon": "fitness/exercises/CrossTraining/handstandHold/Icon.png",
+      "json": "fitness/exercises/CrossTraining/handstandHold/handstandHold.json"
     },
     {
-      "icon": "CrossTraining/barbellDeadlift/Icon.png",
-      "json": "CrossTraining/barbellDeadlift/barbellDeadlift.json"
+      "icon": "fitness/exercises/CrossTraining/barbellDeadlift/Icon.png",
+      "json": "fitness/exercises/CrossTraining/barbellDeadlift/barbellDeadlift.json"
     },
     {
-      "icon": "CrossTraining/barbellFrontSquat/Icon.png",
-      "json": "CrossTraining/barbellFrontSquat/barbellFrontSquat.json"
+      "icon": "fitness/exercises/CrossTraining/barbellFrontSquat/Icon.png",
+      "json": "fitness/exercises/CrossTraining/barbellFrontSquat/barbellFrontSquat.json"
     },
     {
-      "icon": "CrossTraining/barbellOverheadSquat/Icon.png",
-      "json": "CrossTraining/barbellOverheadSquat/barbellOverheadSquat.json"
+      "icon": "fitness/exercises/CrossTraining/barbellOverheadSquat/Icon.png",
+      "json": "fitness/exercises/CrossTraining/barbellOverheadSquat/barbellOverheadSquat.json"
     },
     {
-      "icon": "CrossTraining/barbellShoulderPress/Icon.png",
-      "json": "CrossTraining/barbellShoulderPress/barbellShoulderPress.json"
+      "icon": "fitness/exercises/CrossTraining/barbellShoulderPress/Icon.png",
+      "json": "fitness/exercises/CrossTraining/barbellShoulderPress/barbellShoulderPress.json"
     },
     {
-      "icon": "CrossTraining/barbellPushPress/Icon.png",
-      "json": "CrossTraining/barbellPushPress/barbellPushPress.json"
+      "icon": "fitness/exercises/CrossTraining/barbellPushPress/Icon.png",
+      "json": "fitness/exercises/CrossTraining/barbellPushPress/barbellPushPress.json"
     },
     {
-      "icon": "CrossTraining/barbellPushJerk/Icon.png",
-      "json": "CrossTraining/barbellPushJerk/barbellPushJerk.json"
+      "icon": "fitness/exercises/CrossTraining/barbellPushJerk/Icon.png",
+      "json": "fitness/exercises/CrossTraining/barbellPushJerk/barbellPushJerk.json"
     },
     {
-      "icon": "CrossTraining/kettlebellSwing/Icon.png",
-      "json": "CrossTraining/kettlebellSwing/kettlebellSwing.json"
+      "icon": "fitness/exercises/CrossTraining/kettlebellSwing/Icon.png",
+      "json": "fitness/exercises/CrossTraining/kettlebellSwing/kettlebellSwing.json"
     },
     {
-      "icon": "CrossTraining/medicineBallClean/Icon.png",
-      "json": "CrossTraining/medicineBallClean/medicineBallClean.json"
+      "icon": "fitness/exercises/CrossTraining/medicineBallClean/Icon.png",
+      "json": "fitness/exercises/CrossTraining/medicineBallClean/medicineBallClean.json"
     },
     {
-      "json": "CrossTraining/sumoDeadliftHighPull/sumoDeadliftHighPull.json",
-      "icon": "CrossTraining/sumoDeadliftHighPull/Icon.png"
+      "json": "fitness/exercises/CrossTraining/sumoDeadliftHighPull/sumoDeadliftHighPull.json",
+      "icon": "fitness/exercises/CrossTraining/sumoDeadliftHighPull/Icon.png"
     },
     {
-      "json": "CrossTraining/ringRow/ringRow.json",
-      "icon": "CrossTraining/ringRow/Icon.png"
+      "json": "fitness/exercises/CrossTraining/ringRow/ringRow.json",
+      "icon": "fitness/exercises/CrossTraining/ringRow/Icon.png"
     },
     {
-      "json": "CrossTraining/abMatSitUp/abMatSitUp.json",
-      "icon": "CrossTraining/abMatSitUp/Icon.png"
+      "json": "fitness/exercises/CrossTraining/abMatSitUp/abMatSitUp.json",
+      "icon": "fitness/exercises/CrossTraining/abMatSitUp/Icon.png"
     },
     {
-      "icon": "Tabata/tabata/Icon.png",
-      "json": "Tabata/tabata/tabata.json"
+      "icon": "fitness/exercises/Tabata/tabata/Icon.png",
+      "json": "fitness/exercises/Tabata/tabata/tabata.json"
     },
     {
-      "icon": "Tabata/burpees/Icon.png",
-      "json": "Tabata/burpees/burpees.json"
+      "icon": "fitness/exercises/Tabata/burpees/Icon.png",
+      "json": "fitness/exercises/Tabata/burpees/burpees.json"
     },
     {
-      "icon": "Tabata/jumpingJacks/Icon.png",
-      "json": "Tabata/jumpingJacks/jumpingJacks.json"
+      "icon": "fitness/exercises/Tabata/jumpingJacks/Icon.png",
+      "json": "fitness/exercises/Tabata/jumpingJacks/jumpingJacks.json"
     },
     {
-      "icon": "Tabata/highKnees/Icon.png",
-      "json": "Tabata/highKnees/highKnees.json"
+      "icon": "fitness/exercises/Tabata/highKnees/Icon.png",
+      "json": "fitness/exercises/Tabata/highKnees/highKnees.json"
     },
     {
-      "icon": "Tabata/mountainClimbers/Icon.png",
-      "json": "Tabata/mountainClimbers/mountainClimbers.json"
+      "icon": "fitness/exercises/Tabata/mountainClimbers/Icon.png",
+      "json": "fitness/exercises/Tabata/mountainClimbers/mountainClimbers.json"
     },
     {
-      "icon": "Tabata/squatJumps/Icon.png",
-      "json": "Tabata/squatJumps/squatJumps.json"
+      "icon": "fitness/exercises/Tabata/squatJumps/Icon.png",
+      "json": "fitness/exercises/Tabata/squatJumps/squatJumps.json"
     },
     {
-      "icon": "Tabata/skaterJumps/Icon.png",
-      "json": "Tabata/skaterJumps/skaterJumps.json"
+      "icon": "fitness/exercises/Tabata/skaterJumps/Icon.png",
+      "json": "fitness/exercises/Tabata/skaterJumps/skaterJumps.json"
     },
     {
-      "icon": "Tabata/reverseLunges/Icon.png",
-      "json": "Tabata/reverseLunges/reverseLunges.json"
+      "icon": "fitness/exercises/Tabata/reverseLunges/Icon.png",
+      "json": "fitness/exercises/Tabata/reverseLunges/reverseLunges.json"
     },
     {
-      "icon": "Tabata/pushUps/Icon.png",
-      "json": "Tabata/pushUps/pushUps.json"
+      "icon": "fitness/exercises/Tabata/pushUps/Icon.png",
+      "json": "fitness/exercises/Tabata/pushUps/pushUps.json"
     },
     {
-      "icon": "Tabata/plankJacks/Icon.png",
-      "json": "Tabata/plankJacks/plankJacks.json"
+      "icon": "fitness/exercises/Tabata/plankJacks/Icon.png",
+      "json": "fitness/exercises/Tabata/plankJacks/plankJacks.json"
     },
     {
-      "icon": "Tabata/bicycleCrunches/Icon.png",
-      "json": "Tabata/bicycleCrunches/bicycleCrunches.json"
+      "icon": "fitness/exercises/Tabata/bicycleCrunches/Icon.png",
+      "json": "fitness/exercises/Tabata/bicycleCrunches/bicycleCrunches.json"
     },
     {
-      "icon": "Tabata/fastFeet/Icon.png",
-      "json": "Tabata/fastFeet/fastFeet.json"
+      "icon": "fitness/exercises/Tabata/fastFeet/Icon.png",
+      "json": "fitness/exercises/Tabata/fastFeet/fastFeet.json"
     },
     {
-      "json": "Tabata/squatsAirSquat/squatsAirSquat.json",
-      "icon": "Tabata/squatsAirSquat/Icon.png"
+      "json": "fitness/exercises/Tabata/squatsAirSquat/squatsAirSquat.json",
+      "icon": "fitness/exercises/Tabata/squatsAirSquat/Icon.png"
     },
     {
-      "json": "Tabata/plank/plank.json",
-      "icon": "Tabata/plank/Icon.png"
+      "json": "fitness/exercises/Tabata/plank/plank.json",
+      "icon": "fitness/exercises/Tabata/plank/Icon.png"
     },
     {
-      "json": "CoreTraining/dumbbellWoodChop/dumbbellWoodChop.json",
-      "icon": "CoreTraining/dumbbellWoodChop/Icon.png"
+      "icon": "fitness/exercises/Meditation/meditation/Icon.png",
+      "json": "fitness/exercises/Meditation/meditation/meditation.json"
     },
     {
-      "json": "CoreTraining/feetTogetherStand/feetTogetherStand.json",
-      "icon": "CoreTraining/feetTogetherStand/Icon.png"
+      "icon": "fitness/exercises/Meditation/breathMeditation/Icon.png",
+      "json": "fitness/exercises/Meditation/breathMeditation/breathMeditation.json"
     },
     {
-      "json": "CoreTraining/singleLegStand/singleLegStand.json",
-      "icon": "CoreTraining/singleLegStand/Icon.png"
+      "icon": "fitness/exercises/Meditation/sleepMeditation/Icon.png",
+      "json": "fitness/exercises/Meditation/sleepMeditation/sleepMeditation.json"
     },
     {
-      "json": "CoreTraining/supermanHold/supermanHold.json",
-      "icon": "CoreTraining/supermanHold/Icon.png"
+      "icon": "fitness/exercises/Meditation/soundMeditation/Icon.png",
+      "json": "fitness/exercises/Meditation/soundMeditation/soundMeditation.json"
     },
     {
-      "json": "CoreTraining/lSit/lSit.json",
-      "icon": "CoreTraining/lSit/Icon.png"
+      "icon": "fitness/exercises/Meditation/focusMeditation/Icon.png",
+      "json": "fitness/exercises/Meditation/focusMeditation/focusMeditation.json"
     },
     {
-      "json": "CoreTraining/hangingLegRaise/hangingLegRaise.json",
-      "icon": "CoreTraining/hangingLegRaise/Icon.png"
+      "icon": "fitness/exercises/Meditation/kindnessMeditation/Icon.png",
+      "json": "fitness/exercises/Meditation/kindnessMeditation/kindnessMeditation.json"
     },
     {
-      "icon": "Other/rest/Icon.png",
-      "json": "Other/rest/rest.json"
+      "icon": "fitness/exercises/Meditation/gratitudeMeditation/Icon.png",
+      "json": "fitness/exercises/Meditation/gratitudeMeditation/gratitudeMeditation.json"
     },
     {
-      "icon": "Other/repeat/Icon.png",
-      "json": "Other/repeat/repeat.json"
+      "icon": "fitness/exercises/Meditation/awarenessMeditation/Icon.png",
+      "json": "fitness/exercises/Meditation/awarenessMeditation/awarenessMeditation.json"
     },
     {
-      "icon": "Other/preparation/Icon.png",
-      "json": "Other/preparation/preparation.json"
+      "icon": "fitness/exercises/Meditation/mindfulWalking/Icon.png",
+      "json": "fitness/exercises/Meditation/mindfulWalking/mindfulWalking.json"
     },
     {
-      "icon": "Other/endRepeat/Icon.png",
-      "json": "Other/endRepeat/endRepeat.json"
+      "icon": "fitness/exercises/Meditation/guidedMindfulness/Icon.png",
+      "json": "fitness/exercises/Meditation/guidedMindfulness/guidedMindfulness.json"
     },
     {
-      "icon": "Other/note/Icon.png",
-      "json": "Other/note/note.json"
+      "json": "fitness/exercises/Meditation/seatedMeditation/seatedMeditation.json",
+      "icon": "fitness/exercises/Meditation/seatedMeditation/Icon.png"
     },
     {
-      "icon": "Other/work/Icon.png",
-      "json": "Other/work/work.json"
+      "json": "fitness/exercises/Meditation/bodyScanMeditation/bodyScanMeditation.json",
+      "icon": "fitness/exercises/Meditation/bodyScanMeditation/Icon.png"
     },
     {
-      "icon": "CoreTraining/hollowHold/Icon.png",
-      "json": "CoreTraining/hollowHold/hollowHold.json"
+      "json": "fitness/exercises/Meditation/mantraMeditation/mantraMeditation.json",
+      "icon": "fitness/exercises/Meditation/mantraMeditation/Icon.png"
     },
     {
-      "icon": "CoreTraining/reverseCrunch/Icon.png",
-      "json": "CoreTraining/reverseCrunch/reverseCrunch.json"
+      "json": "fitness/exercises/Meditation/progressiveMuscleRelaxation/progressiveMuscleRelaxation.json",
+      "icon": "fitness/exercises/Meditation/progressiveMuscleRelaxation/Icon.png"
     },
     {
-      "icon": "CoreTraining/bearPlank/Icon.png",
-      "json": "CoreTraining/bearPlank/bearPlank.json"
+      "json": "fitness/exercises/Meditation/guidedImageryMeditation/guidedImageryMeditation.json",
+      "icon": "fitness/exercises/Meditation/guidedImageryMeditation/Icon.png"
     },
     {
-      "icon": "SuspensionTraining/suspensionPushUp/Icon.png",
-      "json": "SuspensionTraining/suspensionPushUp/suspensionPushUp.json"
+      "icon": "fitness/exercises/Breathwork/guidedBreathing/Icon.png",
+      "json": "fitness/exercises/Breathwork/guidedBreathing/guidedBreathing.json"
     },
     {
-      "icon": "SuspensionTraining/suspensionYFly/Icon.png",
-      "json": "SuspensionTraining/suspensionYFly/suspensionYFly.json"
+      "json": "fitness/exercises/Breathwork/bellyBreathing/bellyBreathing.json",
+      "icon": "fitness/exercises/Breathwork/bellyBreathing/Icon.png"
     },
     {
-      "icon": "CrossTraining/thruster/Icon.png",
-      "json": "CrossTraining/thruster/thruster.json"
+      "json": "fitness/exercises/Breathwork/boxBreathing/boxBreathing.json",
+      "icon": "fitness/exercises/Breathwork/boxBreathing/Icon.png"
     },
     {
-      "icon": "CrossTraining/powerClean/Icon.png",
-      "json": "CrossTraining/powerClean/powerClean.json"
+      "json": "fitness/exercises/Breathwork/fourSevenEightBreathing/fourSevenEightBreathing.json",
+      "icon": "fitness/exercises/Breathwork/fourSevenEightBreathing/Icon.png"
     },
     {
-      "icon": "CrossTraining/cleanAndJerk/Icon.png",
-      "json": "CrossTraining/cleanAndJerk/cleanAndJerk.json"
+      "json": "fitness/exercises/Breathwork/coherentBreathing/coherentBreathing.json",
+      "icon": "fitness/exercises/Breathwork/coherentBreathing/Icon.png"
     },
     {
-      "icon": "CrossTraining/wallBall/Icon.png",
-      "json": "CrossTraining/wallBall/wallBall.json"
+      "json": "fitness/exercises/Breathwork/pursedLipBreathing/pursedLipBreathing.json",
+      "icon": "fitness/exercises/Breathwork/pursedLipBreathing/Icon.png"
     },
     {
-      "icon": "CrossTraining/boxJump/Icon.png",
-      "json": "CrossTraining/boxJump/boxJump.json"
+      "json": "fitness/exercises/Breathwork/alternateNostrilBreathing/alternateNostrilBreathing.json",
+      "icon": "fitness/exercises/Breathwork/alternateNostrilBreathing/Icon.png"
     },
     {
-      "icon": "CrossTraining/toesToBar/Icon.png",
-      "json": "CrossTraining/toesToBar/toesToBar.json"
+      "json": "fitness/exercises/CoreTraining/dumbbellWoodChop/dumbbellWoodChop.json",
+      "icon": "fitness/exercises/CoreTraining/dumbbellWoodChop/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/feetTogetherStand/feetTogetherStand.json",
+      "icon": "fitness/exercises/CoreTraining/feetTogetherStand/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/singleLegStand/singleLegStand.json",
+      "icon": "fitness/exercises/CoreTraining/singleLegStand/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/supermanHold/supermanHold.json",
+      "icon": "fitness/exercises/CoreTraining/supermanHold/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/lSit/lSit.json",
+      "icon": "fitness/exercises/CoreTraining/lSit/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/hangingLegRaise/hangingLegRaise.json",
+      "icon": "fitness/exercises/CoreTraining/hangingLegRaise/Icon.png"
+    },
+    {
+      "icon": "fitness/exercises/Other/rest/Icon.png",
+      "json": "fitness/exercises/Other/rest/rest.json"
+    },
+    {
+      "icon": "fitness/exercises/Other/repeat/Icon.png",
+      "json": "fitness/exercises/Other/repeat/repeat.json"
+    },
+    {
+      "icon": "fitness/exercises/Other/preparation/Icon.png",
+      "json": "fitness/exercises/Other/preparation/preparation.json"
+    },
+    {
+      "icon": "fitness/exercises/Other/endRepeat/Icon.png",
+      "json": "fitness/exercises/Other/endRepeat/endRepeat.json"
+    },
+    {
+      "icon": "fitness/exercises/Other/note/Icon.png",
+      "json": "fitness/exercises/Other/note/note.json"
+    },
+    {
+      "icon": "fitness/exercises/Other/work/Icon.png",
+      "json": "fitness/exercises/Other/work/work.json"
+    },
+    {
+      "icon": "fitness/exercises/CoreTraining/hollowHold/Icon.png",
+      "json": "fitness/exercises/CoreTraining/hollowHold/hollowHold.json"
+    },
+    {
+      "icon": "fitness/exercises/CoreTraining/reverseCrunch/Icon.png",
+      "json": "fitness/exercises/CoreTraining/reverseCrunch/reverseCrunch.json"
+    },
+    {
+      "icon": "fitness/exercises/CoreTraining/bearPlank/Icon.png",
+      "json": "fitness/exercises/CoreTraining/bearPlank/bearPlank.json"
+    },
+    {
+      "icon": "fitness/exercises/SuspensionTraining/suspensionPushUp/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionPushUp/suspensionPushUp.json"
+    },
+    {
+      "icon": "fitness/exercises/SuspensionTraining/suspensionYFly/Icon.png",
+      "json": "fitness/exercises/SuspensionTraining/suspensionYFly/suspensionYFly.json"
+    },
+    {
+      "icon": "fitness/exercises/CrossTraining/thruster/Icon.png",
+      "json": "fitness/exercises/CrossTraining/thruster/thruster.json"
+    },
+    {
+      "icon": "fitness/exercises/CrossTraining/powerClean/Icon.png",
+      "json": "fitness/exercises/CrossTraining/powerClean/powerClean.json"
+    },
+    {
+      "icon": "fitness/exercises/CrossTraining/cleanAndJerk/Icon.png",
+      "json": "fitness/exercises/CrossTraining/cleanAndJerk/cleanAndJerk.json"
+    },
+    {
+      "icon": "fitness/exercises/CrossTraining/wallBall/Icon.png",
+      "json": "fitness/exercises/CrossTraining/wallBall/wallBall.json"
+    },
+    {
+      "icon": "fitness/exercises/CrossTraining/boxJump/Icon.png",
+      "json": "fitness/exercises/CrossTraining/boxJump/boxJump.json"
+    },
+    {
+      "icon": "fitness/exercises/CrossTraining/toesToBar/Icon.png",
+      "json": "fitness/exercises/CrossTraining/toesToBar/toesToBar.json"
     }
   ],
   "workouts": [

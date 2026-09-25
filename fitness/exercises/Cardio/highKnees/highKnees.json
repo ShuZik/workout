@@ -1,0 +1,18 @@
+{
+  "id": "11.32",
+  "key": "jump_rope_high_knees",
+  "title": "High Knees",
+  "description": "1. Begin with a slow alternate-foot step and elbows close to the ribs.\n2. Turn the rope once while lifting one knee toward hip height, then switch knees on the next pass.\n3. Land lightly under the hips and lower the knee height before the rope rhythm breaks.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":8.3,"moderate":11.8,"vigorous":12.3,"lightCode":"15552","moderateCode":"15551","vigorousCode":"15550"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Jump Rope",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

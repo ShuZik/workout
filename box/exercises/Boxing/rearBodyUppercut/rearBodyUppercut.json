@@ -1,0 +1,20 @@
+{
+  "id": "1.18",
+  "key": "rear_body_uppercut",
+  "title": "Rear Body Uppercut",
+  "description": "1. From guard, lower with the knees and load the rear leg without leaning over the front foot.\n2. Push through the rear foot and rotate the hip as the rear fist rises into the center of the torso.\n3. Bring the fist back to the cheek, unwind the hips, and recover the original height and balance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.8,"moderate":8.5,"vigorous":10.8,"lightCode":"15110","moderateCode":"15115","vigorousCode":"15118"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "target": "body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

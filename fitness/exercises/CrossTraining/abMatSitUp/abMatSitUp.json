@@ -1,0 +1,18 @@
+{
+  "id": "23.28",
+  "key": "cross_training_ab_mat_sit_up",
+  "title": "AbMat Sit-Up",
+  "description": "1. Place the AbMat under the low back, bring the soles of the feet together, and let the knees open comfortably.\n2. Lie back until the shoulders touch the floor, then use the abdomen to sit up through a full controlled range.\n3. Keep the feet and knees stable, lower back to the mat, and repeat without using momentum.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":7.5,"lightCode":"02034","moderateCode":"02035","vigorousCode":"02040"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Bodyweight",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "8.16",
+  "key": "taekwondo_body_punch",
+  "title": "Body Punch",
+  "description": "1. From a stable stance, chamber one fist at the hip or hold it at guard while the opposite shoulder remains relaxed.\n2. Drive the fist straight toward the center of a body pad, rotating it near extension and coordinating the hips.\n3. Stop before locking the elbow and retract along the same line to the chamber or guard.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Strikes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

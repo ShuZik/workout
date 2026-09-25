@@ -1,0 +1,18 @@
+{
+  "id": "40.8",
+  "key": "karate_kizami_zuki",
+  "title": "Kizami Zuki",
+  "description": "1. From fighting stance, keep the rear hand protecting the face and load the rear leg lightly.\n2. Slide the lead foot forward as the lead fist travels straight, using a small hip turn without overreaching.\n3. Retract the fist and draw the rear foot up enough to restore the original stance length.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Punches",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

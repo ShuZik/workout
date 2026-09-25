@@ -1,0 +1,18 @@
+{
+  "id": "11.4",
+  "key": "brisk_walk",
+  "title": "Outdoor Walk",
+  "description": "1. Stand tall with the head over the shoulders and begin with relaxed heel-to-toe steps.\n2. Swing the arms naturally and increase cadence without lengthening the stride so far that the hips twist.\n3. Keep both feet pointing forward and maintain a pace that raises breathing without forcing a jog.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":5.5,"lightCode":"17152","moderateCode":"17190","vigorousCode":"17220"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Outdoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

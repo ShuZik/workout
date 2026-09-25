@@ -1,0 +1,18 @@
+{
+  "id": "3.26",
+  "key": "kick_boxing_lead_hook_kick",
+  "title": "Lead Hook Kick",
+  "description": "1. Shift weight to the rear leg and chamber the lead knee as for a side kick.\n2. Extend the lead foot slightly past the target, then bend the knee and whip the heel across the target line.\n3. Retract to the chamber and lower the lead foot into stance with the guard restored.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Advanced",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

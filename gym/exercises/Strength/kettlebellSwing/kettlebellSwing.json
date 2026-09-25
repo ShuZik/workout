@@ -1,0 +1,17 @@
+{
+  "id": "13.28",
+  "key": "kettlebell_kettlebell_swing",
+  "title": "Kettlebell Swing",
+  "description": "1. Place the kettlebell ahead of the feet, hinge with a neutral spine, and grip the handle with both hands.\n2. Hike the bell between the thighs, then extend the hips forcefully so the bell floats without an arm pull.\n3. Let the bell fall and guide it back into the next hinge while the feet stay planted.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5,"moderate":7.5,"vigorous":9.8,"lightCode":"02052","moderateCode":"02040","vigorousCode":"02058"},
+  "difficulty": "basic",
+  "section": "4 Kettlebell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

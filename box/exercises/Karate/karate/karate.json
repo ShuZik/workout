@@ -1,0 +1,18 @@
+{
+  "id": "40.1",
+  "key": "karate",
+  "title": "Karate",
+  "description": "1. Begin in a balanced ready or fighting stance with the knees soft, hips level, hands prepared, and eyes forward.\n2. Drill one stance, punch, block, or kick at a time, coordinating the foot placement, hip action, and finishing position.\n3. Rechamber every limb and settle the stance completely before linking the next basic technique.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

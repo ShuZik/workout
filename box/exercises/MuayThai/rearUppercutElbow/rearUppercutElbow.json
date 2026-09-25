@@ -1,0 +1,18 @@
+{
+  "id": "2.26",
+  "key": "muay_thai_rear_uppercut_elbow",
+  "title": "Rear Uppercut Elbow",
+  "description": "1. From close guard, load the rear leg while the lead forearm protects the face.\n2. Push through the rear foot and rotate the hip so the rear elbow rises vertically into an elbow pad.\n3. Retract the elbow along the same path and restore the rear forearm to guard.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Elbows",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

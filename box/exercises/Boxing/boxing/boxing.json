@@ -1,0 +1,19 @@
+{
+  "id": "1.1",
+  "key": "free_boxing",
+  "title": "Boxing",
+  "description": "1. Stand orthodox or southpaw with the feet staggered, knees soft, chin tucked, and both fists beside the cheeks.\n2. Move in every direction and combine straight punches, hooks, uppercuts, and defensive actions while rotating from the feet and hips.\n3. Return both hands to guard and restore stance width after every action, keeping the movement balanced through the interval.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5.8,"moderate":9.3,"vigorous":12.3,"lightCode":"15110","moderateCode":"15125","vigorousCode":"15100"},
+  "timerRole": "active",
+  "difficulty": "pro",
+  "level": 0,
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

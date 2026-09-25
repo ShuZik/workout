@@ -1,0 +1,18 @@
+{
+  "id": "11.1",
+  "key": "cardio",
+  "title": "Cardio",
+  "description": "1. Choose one continuous activity such as running, cycling, rowing, or swimming.\n2. Start at an easy effort, then raise the pace until breathing is faster but still controlled.\n3. Hold that effort for the work interval and reduce the pace gradually instead of stopping abruptly.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":4.8,"moderate":7.3,"vigorous":8,"lightCode":"02005","moderateCode":"02000","vigorousCode":"02006"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

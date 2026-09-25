@@ -1,0 +1,18 @@
+{
+  "id": "8.4",
+  "key": "taekwondo_rear_front_kick",
+  "title": "Rear Front Kick",
+  "description": "1. Transfer weight to the lead leg and chamber the rear knee directly in front of the body.\n2. Press the rear hip forward and extend the ball of the foot toward the target without leaning excessively backward.\n3. Retract to the knee chamber and return the rear foot behind the lead foot under control.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":14.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15432"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

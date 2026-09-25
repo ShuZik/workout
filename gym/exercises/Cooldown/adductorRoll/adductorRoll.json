@@ -1,0 +1,28 @@
+{
+  "id": "10.20",
+  "key": "foam_rolling_adductor_roll",
+  "title": "Adductor Roll",
+  "description": "1. Lie face down, move one knee out to the side, and bend it about 90 degrees over the roller.\n2. Support the body on the forearms and roll the inner thigh from above the knee toward the groin.\n3. Use short controlled passes and reduce pressure near sensitive tissue.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Release Work",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

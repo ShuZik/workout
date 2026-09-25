@@ -1,0 +1,18 @@
+{
+  "id": "12.26",
+  "key": "bootcamp_broad_jump",
+  "title": "Broad Jump",
+  "description": "1. Stand with feet about hip-width apart, bend the knees, hinge the hips, and swing the arms back.\n2. Swing the arms forward and extend the hips, knees, and ankles to jump forward.\n3. Land on both feet with knees bent, stabilize completely, and walk back before repeating.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":5,"moderate":7,"vigorous":11,"lightCode":"02008","moderateCode":"02210","vigorousCode":"02214"},
+  "timerRole": "intense",
+  "difficulty": "intermediate",
+  "section": "3 Bootcamp",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

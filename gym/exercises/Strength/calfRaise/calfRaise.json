@@ -1,0 +1,28 @@
+{
+  "id": "13.82",
+  "key": "calisthenics_calf_raise",
+  "title": "Calf Raise",
+  "description": "1. Stand tall with the feet parallel and use a wall or rail only for light balance support.\n2. Press through the balls of both feet to lift the heels as high as possible without rolling the ankles outward.\n3. Pause briefly, then lower the heels under control until the whole foot is grounded.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

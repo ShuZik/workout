@@ -1,0 +1,20 @@
+{
+  "id": "1.14",
+  "key": "lead_body_uppercut",
+  "title": "Lead Body Uppercut",
+  "description": "1. From guard, bend the knees and load the lead leg while keeping the rear hand at the cheek.\n2. Drive the lead fist upward on a compact line into the center or near side of the torso.\n3. Retract the fist before rising and restore both hands, posture, and stance width.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.8,"moderate":8.5,"vigorous":10.8,"lightCode":"15110","moderateCode":"15115","vigorousCode":"15118"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "target": "body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

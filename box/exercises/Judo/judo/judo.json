@@ -1,0 +1,18 @@
+{
+  "id": "41.1",
+  "key": "judo",
+  "title": "Judo",
+  "description": "1. Begin on tatami with a trained partner, upright posture, knees soft, and a relaxed sleeve-and-lapel grip.\n2. Drill breakfalls, stepping, off-balancing, throwing entries, and hold-down transitions with controlled resistance.\n3. Maintain the partner's sleeve through every throw, guide the landing, and reset only after both athletes are stable.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5.3,"moderate":10.3,"vigorous":11.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15433"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

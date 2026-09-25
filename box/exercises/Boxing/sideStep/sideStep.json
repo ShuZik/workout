@@ -1,0 +1,19 @@
+{
+  "id": "1.39",
+  "key": "side_step",
+  "title": "Side Step",
+  "description": "1. Begin in boxing stance and keep the knees soft, chin tucked, and hands at guard.\n2. Move left by stepping the left foot first and move right by stepping the right foot first.\n3. Follow with the opposite foot to restore the same stance width without crossing the legs or bouncing upright.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":5.8,"vigorous":7,"lightCode":"15425","moderateCode":"15110","vigorousCode":"15113"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "2 Base",
+  "availableFrom": "1.1.0",
+  "availableUntil": null
+}

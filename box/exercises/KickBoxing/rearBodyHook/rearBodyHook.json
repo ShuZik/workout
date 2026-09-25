@@ -1,0 +1,18 @@
+{
+  "id": "3.34",
+  "key": "kick_boxing_rear_body_hook",
+  "title": "Rear Body Hook",
+  "description": "1. From guard, bend the knees and keep the lead hand protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the bent fist travels into the side of the torso.\n3. Reverse the rotation and return the rear hand to the cheek without narrowing the stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

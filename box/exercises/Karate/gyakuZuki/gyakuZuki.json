@@ -1,0 +1,18 @@
+{
+  "id": "40.7",
+  "key": "karate_gyaku_zuki",
+  "title": "Gyaku Zuki",
+  "description": "1. From zenkutsu dachi or fighting stance, keep the front knee stable and chamber the rear fist at the hip or guard.\n2. Drive from the rear foot and rotate the rear hip forward as the rear fist travels straight along the centerline.\n3. Stop before locking the elbow, retract the fist, and square the hips back to the starting guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Punches",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2.17",
+  "key": "muay_thai_rear_horizontal_elbow",
+  "title": "Rear Horizontal Elbow",
+  "description": "1. From close guard, load the rear side and keep the lead forearm protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the point of the bent elbow travels horizontally across an elbow pad.\n3. Reverse the rotation and return the rear forearm to guard without continuing past the target.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Elbows",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

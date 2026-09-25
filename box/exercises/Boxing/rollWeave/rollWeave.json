@@ -1,0 +1,19 @@
+{
+  "id": "1.42",
+  "key": "roll_weave",
+  "title": "Roll/Weave",
+  "description": "1. From guard, bend the knees as an imagined hook approaches while keeping the back upright and eyes forward.\n2. Trace a shallow U with the head beneath the punch by shifting from one leg to the other and rotating the torso.\n3. Rise on the opposite side into the same stance width with both hands at the cheeks and the chin tucked.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":5.8,"vigorous":7,"lightCode":"15425","moderateCode":"15110","vigorousCode":"15113"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 3,
+  "section": "4 Intermediate",
+  "availableFrom": "1.1.0",
+  "availableUntil": null
+}

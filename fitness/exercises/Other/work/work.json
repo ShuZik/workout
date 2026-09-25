@@ -1,0 +1,18 @@
+{
+  "id": "0.6",
+  "key": "work",
+  "title": "Work",
+  "description": "1. Choose the exercise you will perform during this work interval.\n2. Move at a controlled, repeatable effort while maintaining safe technique.\n3. Continue until the interval ends, then transition to the next workout step.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "other",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":7.5,"lightCode":"02034","moderateCode":"02035","vigorousCode":"02040"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Structure",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

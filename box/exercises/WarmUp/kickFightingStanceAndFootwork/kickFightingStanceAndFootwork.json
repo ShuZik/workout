@@ -1,0 +1,18 @@
+{
+  "id": "9.32",
+  "key": "kick_fighting_stance_and_footwork",
+  "title": "Kick-Fighting Stance & Footwork",
+  "description": "1. Take a guarded stance with knees soft and enough width to check or kick from either side.\n2. Move forward, backward, and laterally with short steps while the feet never cross.\n3. Pivot on the balls of the feet and return to a stance that remains ready to punch, kick, or defend.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Kicking Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

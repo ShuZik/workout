@@ -1,0 +1,18 @@
+{
+  "id": "23.1",
+  "key": "cross_training",
+  "title": "CrossFit",
+  "description": "1. Choose the prescribed movements, repetitions, and loads, then arrange the equipment before starting.\n2. Complete each movement through its defined range before moving to the next station or round.\n3. Scale the load, repetition count, or movement variation when the required technique cannot be maintained.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":5,"moderate":7,"vigorous":11,"lightCode":"02008","moderateCode":"02210","vigorousCode":"02214"},
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

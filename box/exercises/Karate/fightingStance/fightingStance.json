@@ -1,0 +1,18 @@
+{
+  "id": "40.2",
+  "key": "karate_fighting_stance",
+  "title": "Fighting Stance",
+  "description": "1. Place one foot forward and the other back with enough width to keep the hips balanced rather than standing on one line.\n2. Bend the knees lightly, keep the torso upright, tuck the chin, and hold both hands where they can strike or block.\n3. Slide and pivot without crossing the feet, returning to the same stance length and guard after each movement.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

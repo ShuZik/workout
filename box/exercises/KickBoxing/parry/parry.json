@@ -1,0 +1,18 @@
+{
+  "id": "3.28",
+  "key": "kick_boxing_parry",
+  "title": "Parry",
+  "description": "1. From guard, read the incoming straight punch and keep the head behind the gloves.\n2. Use the same-side palm for a short inward tap that moves the punch just outside the centerline.\n3. Return the hand immediately to the cheek and keep the opposite hand ready to protect or counter.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Defense",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

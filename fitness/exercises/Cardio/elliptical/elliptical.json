@@ -1,0 +1,18 @@
+{
+  "id": "11.9",
+  "key": "elliptical",
+  "title": "Elliptical",
+  "description": "1. Place both feet flat on the pedals, hold the handles lightly, and begin at low resistance.\n2. Press one pedal down and back as the opposite handle moves forward, keeping the torso upright.\n3. Maintain smooth continuous cycles without bouncing or shifting weight onto the handles.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":5,"moderate":5,"vigorous":9,"lightCode":"02048","moderateCode":"02048","vigorousCode":"02049"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

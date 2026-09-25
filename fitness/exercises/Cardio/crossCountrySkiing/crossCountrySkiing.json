@@ -1,0 +1,18 @@
+{
+  "id": "11.19",
+  "key": "cross_country_skiing",
+  "title": "Cross-Country Skiing",
+  "description": "1. Stand centered over parallel skis with knees and ankles softly bent and poles angled behind.\n2. Shift weight fully onto one ski and glide as the opposite leg and arm move forward.\n3. Push through the pole and ski, recover underneath the body, and alternate sides without crossing the skis.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":6.8,"moderate":8.5,"vigorous":11.3,"lightCode":"19080","moderateCode":"19090","vigorousCode":"19100"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Outdoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

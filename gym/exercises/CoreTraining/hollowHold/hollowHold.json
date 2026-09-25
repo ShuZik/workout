@@ -1,0 +1,18 @@
+{
+  "id": "14.14",
+  "key": "core_hollow_hold",
+  "title": "Hollow Hold",
+  "description": "1. Lie on the back, press the lower back gently into the floor, and extend the arms overhead.\n2. Lift the shoulders and straight legs to create a shallow hollow shape while keeping the ribs down.\n3. Hold with steady breathing and lower the legs or bend the knees before the lower back loses contact.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":2.8,"moderate":3.8,"vigorous":7.5,"lightCode":"02024","moderateCode":"02022","vigorousCode":"02020"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Intermediate",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

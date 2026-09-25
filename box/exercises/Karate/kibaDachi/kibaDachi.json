@@ -1,0 +1,18 @@
+{
+  "id": "40.4",
+  "key": "karate_kiba_dachi",
+  "title": "Kiba Dachi",
+  "description": "1. Place the feet wider than shoulder width with the toes pointing mostly forward and the heels on one line.\n2. Bend both knees evenly and lower the hips between the feet while keeping the chest upright.\n3. Press the knees in the direction of the toes, brace the trunk, and hold equal pressure through both feet.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

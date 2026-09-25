@@ -1,0 +1,17 @@
+{
+  "id": "23.30",
+  "key": "cross_training_power_clean",
+  "title": "Power Clean",
+  "description": "1. Stand with the bar over the mid-foot, hinge to grip it, and set the back neutral with shoulders slightly ahead of the bar.\n2. Push through the floor, extend the hips powerfully, and keep the bar close to the body.\n3. Catch the bar on the front shoulders in a partial squat, stand tall, and lower it under control.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "advanced",
+  "section": "4 Barbell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

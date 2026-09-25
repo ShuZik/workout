@@ -1,0 +1,28 @@
+{
+  "id": "13.89",
+  "key": "calisthenics_pike_push_up",
+  "title": "Pike Push-Up",
+  "description": "1. Start in a high plank and lift the hips to form an inverted V with hands shoulder width apart.\n2. Bend the elbows to lower the crown of the head toward the floor in front of the hands.\n3. Press back to the pike position while keeping the core braced and the neck neutral.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

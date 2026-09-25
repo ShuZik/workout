@@ -1,0 +1,18 @@
+{
+  "id": "9.47",
+  "key": "light_mma_shadowboxing",
+  "title": "Light MMA Shadowboxing",
+  "description": "1. Begin in an MMA stance with hands protecting the head and hips ready to move.\n2. Throw light single punches and kicks, then add controlled level changes or sprawls without impact.\n3. Reset the stance after every action and keep all movements smooth rather than powerful.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "8 MMA Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

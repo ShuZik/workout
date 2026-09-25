@@ -1,0 +1,19 @@
+{
+  "id": "3.22",
+  "key": "kick_boxing_rear_knee",
+  "title": "Rear Knee",
+  "description": "1. From guard, transfer weight to the lead leg and draw the rear knee forward under the hip.\n2. Extend the rear hip and drive the knee upward into a pad while keeping the torso tall and hands protecting the head.\n3. Retract the knee and return the rear foot behind the lead foot without stepping across.",
+  "subtitle": "K-1",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.0",
+  "availableUntil": null
+}

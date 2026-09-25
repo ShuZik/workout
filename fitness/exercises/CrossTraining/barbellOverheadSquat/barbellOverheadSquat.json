@@ -1,0 +1,17 @@
+{
+  "id": "23.15",
+  "key": "cross_training_barbell_overhead_squat",
+  "title": "Barbell Overhead Squat",
+  "description": "1. Take a wide grip and lock the bar overhead with active shoulders, feet in squat stance, and trunk braced.\n2. Squat while the bar remains stacked over the midfoot and the knees track in the direction of the toes.\n3. Reach controlled depth, then drive through the feet to stand without letting the bar drift forward.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "advanced",
+  "section": "4 Barbell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

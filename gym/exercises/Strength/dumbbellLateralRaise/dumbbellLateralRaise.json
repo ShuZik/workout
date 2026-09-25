@@ -1,0 +1,17 @@
+{
+  "id": "13.67",
+  "key": "strength_dumbbell_lateral_raise",
+  "title": "Dumbbell Lateral Raise",
+  "description": "1. Stand with a dumbbell in each hand, soft knees, and the arms resting by the sides.\n2. Raise the arms out to the sides to about shoulder height with a slight bend in the elbows and neutral wrists.\n3. Lower slowly without shrugging the shoulders or swinging the torso.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":3.5,"moderate":5,"vigorous":6,"lightCode":"02054","moderateCode":"02052","vigorousCode":"02050"},
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null
+}

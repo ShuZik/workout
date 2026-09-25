@@ -1,0 +1,18 @@
+{
+  "id": "9.11",
+  "key": "hip_circles",
+  "title": "Hip Circles",
+  "description": "1. Stand with feet wider than hip width, knees soft, and hands on the hips.\n2. Move the hips forward, to one side, back, and to the other side to trace a smooth circle.\n3. Complete equal circles in both directions while the feet remain planted.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.8,"lightCode":"02101","moderateCode":"02024","vigorousCode":"02022"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

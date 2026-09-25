@@ -1,0 +1,18 @@
+{
+  "id": "2.29",
+  "key": "muay_thai_kick_catch",
+  "title": "Kick Catch",
+  "description": "1. With a trained partner using light contact, brace the near forearm against an incoming body kick and keep the head protected.\n2. Guide the leg against the side of the torso and secure below the knee without twisting the partner's standing leg.\n3. Keep posture upright, release the caught leg promptly, and let the partner regain stance before repeating.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Clinch",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

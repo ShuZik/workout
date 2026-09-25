@@ -1,0 +1,18 @@
+{
+  "id": "3.33",
+  "key": "kick_boxing_lead_body_hook",
+  "title": "Lead Body Hook",
+  "description": "1. From guard, lower with the knees and shift the head slightly outside while the rear hand stays high.\n2. Pivot the lead foot and rotate the hips so the bent lead fist travels into the side of the torso.\n3. Retract directly to the cheek and recover stance before adding a kick or another punch.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,9 +1,9 @@
 # Product catalog manifest v1
 
-The legacy root `manifest.json` remains the complete shared-source catalog.
-`box/manifest.json`, `fitness/manifest.json`, and `gym/manifest.json` define
-which existing catalog records each product may download. Product manifests
-must reference shared JSON and icon paths; they must not copy exercise assets.
+The legacy root `manifest.json` remains the compatibility catalog for older
+clients. `box/manifest.json`, `fitness/manifest.json`, and `gym/manifest.json`
+are the catalogs for the three 1.1.5 products. Each product owns local copies
+of every JSON and PNG asset it exposes under `<product>/exercises/`.
 
 ## Manifest shape
 
@@ -23,9 +23,10 @@ Required fields:
 - `schemaVersion`: integer `1`.
 - `productID`: exactly `boxing`, `fitness`, or `gym`, matching its directory.
 - `minimumAppVersion`: the earliest app version that understands this schema.
-- `tags`: explicit copies of allowed tag metadata from the root manifest.
-- `files`: explicit `{ "json": "<shared path>", "icon": "<shared path>" }`
-  references to existing root-catalog exercise files.
+- `tags`: explicit copies of allowed tag metadata. Each icon is at
+  `<product>/exercises/<Tag>/Icon.png`.
+- `files`: explicit `{ "json": "<product>/exercises/<Tag>/<exercise>/<exercise>.json",
+  "icon": "<product>/exercises/<Tag>/<exercise>/Icon.png" }` pairs.
 - `workouts`: explicit relative paths to product workout definitions.
 
 The tags and files arrays are allowlists. An app must reject a manifest when a
@@ -48,19 +49,23 @@ Every product manifest must be checked before a product release tag is made.
 | Gym CrossTraining references are a strict subset of the source folder | Confirm excluded conditioning-only entries remain absent. |
 | A failed update | Preserve only the last valid cache for the same product. |
 
-## Shared-source and product rules
+## Product ownership and exercise rules
 
-- Existing top-level tag folders, their JSON records, and their icons remain
-  the single source of truth.
-- Product manifests may reference the same common source record. Sharing is
-  explicit in each manifest and never causes a product to import another
-  product's entire domain.
+- Product manifests may reference only assets below their own
+  `<product>/exercises/` directory. A manifest must never read another
+  product's assets or the legacy root catalog.
+- Local copies keep the original JSON `id`, `key`, record contents, and icon
+  bytes so saved workouts remain stable across catalog updates.
+- The root catalog is not removed while older apps can still read it. New
+  product clients never use it.
 - `WarmUp`, `Cooldown`, `Other`, and `Custom` are common structural tags when
   included explicitly. `Custom` has local app persistence; its root tag does
   not make another product's user-created records visible.
-- Boxing uses `Boxing` plus the common structural tags only.
+- Box uses every combat discipline: `Boxing`, `KickBoxing`, `MuayThai`, `MMA`,
+  `BJJ`, `Karate`, `Taekwondo`, `Judo`, and combat-specific warm-ups.
 - Fitness uses `HIIT`, `Tabata`, `CrossTraining`, `Cardio`, `CoreTraining`,
-  `SuspensionTraining`, plus common structural tags.
+  `SuspensionTraining`, `Breathwork`, and `Meditation`, plus common structural
+  tags.
 - Gym uses `Strength` plus an exercise-level selection of weight-bearing
   CrossTraining/CoreTraining records and common structural tags. It must not
   import all of `CrossTraining`, `HIIT`, or `Tabata`.

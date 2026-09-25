@@ -1,0 +1,18 @@
+{
+  "id": "41.23",
+  "key": "judo_kata_gatame",
+  "title": "Kata Gatame",
+  "description": "1. From the side, press one of the partner's arms across the neck and connect head-and-arm control.\n2. Set the head close, extend the legs into a stable base, and lower the chest without twisting the cervical spine.\n3. Apply pressure gradually, monitor breathing, and release immediately at a tap or verbal signal.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":10.3,"vigorous":11.3,"lightCode":"15425","moderateCode":"15430","vigorousCode":"15433"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "7 Groundwork",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

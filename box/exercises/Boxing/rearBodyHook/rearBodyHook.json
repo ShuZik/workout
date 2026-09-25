@@ -1,0 +1,20 @@
+{
+  "id": "1.17",
+  "key": "rear_body_hook",
+  "title": "Rear Body Hook",
+  "description": "1. From guard, lower with the knees and keep the lead hand protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the bent rear fist travels into the side of the torso.\n3. Reverse the rotation, return the fist to the cheek, and recover the original stance height.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.8,"moderate":8.5,"vigorous":10.8,"lightCode":"15110","moderateCode":"15115","vigorousCode":"15118"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "target": "body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

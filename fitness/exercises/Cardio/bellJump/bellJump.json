@@ -1,0 +1,18 @@
+{
+  "id": "11.34",
+  "key": "jump_rope_bell_jump",
+  "title": "Bell Jump",
+  "description": "1. Start with feet together and a low basic bounce.\n2. Move both feet forward as one unit on one rope turn.\n3. Rebound both feet behind the start line on the next turn without leaning the torso.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":8.3,"moderate":11.8,"vigorous":12.3,"lightCode":"15552","moderateCode":"15551","vigorousCode":"15550"},
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Jump Rope",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

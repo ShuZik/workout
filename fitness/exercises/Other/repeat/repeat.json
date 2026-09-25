@@ -1,0 +1,16 @@
+{
+  "id": "0.2",
+  "key": "repeat_block",
+  "title": "Repeat",
+  "description": "1. Place Repeat before the first workout step that should loop.\n2. Add the steps that belong inside the repeated block.\n3. Close the block with End Repeat so the enclosed steps run again as configured.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "other",
+  "valueType": "repeatCount",
+  "default": 1,
+  "energyProfile": null,
+  "difficulty": "basic",
+  "section": "2 Structure",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

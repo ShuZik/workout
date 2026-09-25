@@ -1,0 +1,18 @@
+{
+  "id": "19.9",
+  "key": "meditation_kindness",
+  "title": "Kindness Meditation",
+  "description": "1. Sit comfortably and bring yourself to mind without trying to create a particular emotion.\n2. Repeat simple phrases such as “May I be safe; may I be well,” pausing for one breath after each phrase.\n3. Direct the same phrases toward a loved person, a neutral person, and then a wider group.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "meditation",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":1,"moderate":1,"vigorous":1,"lightCode":"07075","moderateCode":"07075","vigorousCode":"07075"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Themes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "11.3",
+  "key": "treadmill_run",
+  "title": "Treadmill Run",
+  "description": "1. Attach the safety clip, start the belt slowly, and move to the center without holding the rails.\n2. Run tall with short natural strides landing under the body while the arms swing freely.\n3. Change speed or incline gradually and slow to a walk before stepping off the belt.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"moderate","light":6.5,"moderate":9.3,"vigorous":12,"lightCode":"12028","moderateCode":"12050","vigorousCode":"12090"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "20.2",
+  "key": "tabata_burpees",
+  "title": "Burpees",
+  "description": "1. Stand with the feet about hip-width apart, then squat and place both hands on the floor.\n2. Step or jump the feet back to a stable plank, then bring them forward outside or behind the hands.\n3. Stand tall or jump vertically, land softly, and bend the knees before starting the next repetition.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "tabata",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"vigorous","light":5,"moderate":7,"vigorous":11,"lightCode":"02008","moderateCode":"02210","vigorousCode":"02214"},
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "2 Full Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}

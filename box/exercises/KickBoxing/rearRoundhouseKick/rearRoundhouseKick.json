@@ -1,0 +1,18 @@
+{
+  "id": "3.11",
+  "key": "kick_boxing_rear_roundhouse_kick",
+  "title": "Rear Roundhouse Kick",
+  "description": "1. From stance, step or load the lead foot and begin turning it away from the target.\n2. Pivot fully on the lead foot and rotate the rear hip so the shin or instep swings through the target.\n3. Recoil the kicking leg and return it behind the lead foot with both hands restored to guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":5.3,"moderate":7.3,"vigorous":10.3,"lightCode":"15425","moderateCode":"15457","vigorousCode":"15430"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null
+}
