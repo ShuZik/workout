@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "evening-unwind-v1",
+  "productID": "yoga",
+  "title": "Evening Unwind",
+  "description": "Slow stretching and a sleep meditation to let the day settle.",
+  "difficulty": "basic",
+  "availableFrom": "1.1.5",
+  "segments": [
+    { "id": "neck", "exerciseID": "10.33", "kind": "timed", "durationSeconds": 45 },
+    { "id": "shoulders", "exerciseID": "10.6", "kind": "timed", "durationSeconds": 45 },
+    { "id": "hips", "exerciseID": "10.10", "kind": "timed", "durationSeconds": 60 },
+    { "id": "child", "exerciseID": "10.32", "kind": "timed", "durationSeconds": 75 },
+    { "id": "forward-fold", "exerciseID": "24.7", "kind": "timed", "durationSeconds": 60 },
+    { "id": "body-scan", "exerciseID": "19.43", "kind": "timed", "durationSeconds": 180 },
+    { "id": "sleep", "exerciseID": "19.3", "kind": "timed", "durationSeconds": 180 }
+  ]
+}

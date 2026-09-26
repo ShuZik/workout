@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "breath-and-focus-v1",
+  "productID": "yoga",
+  "title": "Breath & Focus",
+  "description": "A short pranayama and meditation practice to steady attention.",
+  "difficulty": "basic",
+  "availableFrom": "1.1.5",
+  "segments": [
+    { "id": "guided-breath", "exerciseID": "18.1", "kind": "timed", "durationSeconds": 120 },
+    { "id": "alternate-nostril", "exerciseID": "18.7", "kind": "timed", "durationSeconds": 120 },
+    { "id": "focus", "exerciseID": "19.7", "kind": "timed", "durationSeconds": 180 },
+    { "id": "seated", "exerciseID": "19.42", "kind": "timed", "durationSeconds": 180 }
+  ]
+}

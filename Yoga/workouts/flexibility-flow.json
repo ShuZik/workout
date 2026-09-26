@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "flexibility-flow-v1",
+  "productID": "yoga",
+  "title": "Flexibility Flow",
+  "description": "A gentle full-body sequence for hips, hamstrings, and the spine.",
+  "difficulty": "basic",
+  "availableFrom": "1.1.5",
+  "segments": [
+    { "id": "arrive", "exerciseID": "24.1", "kind": "timed", "durationSeconds": 45 },
+    { "id": "cat-cow", "exerciseID": "24.2", "kind": "timed", "durationSeconds": 60 },
+    { "id": "downward-dog", "exerciseID": "24.3", "kind": "timed", "durationSeconds": 45 },
+    { "id": "cobra", "exerciseID": "24.9", "kind": "timed", "durationSeconds": 30 },
+    { "id": "bridge", "exerciseID": "24.10", "kind": "timed", "durationSeconds": 45 },
+    { "id": "pigeon-left", "exerciseID": "24.11", "kind": "timed", "durationSeconds": 60 },
+    { "id": "pigeon-right", "exerciseID": "24.11", "kind": "timed", "durationSeconds": 60 },
+    { "id": "forward-fold", "exerciseID": "24.7", "kind": "timed", "durationSeconds": 60 },
+    { "id": "savasana", "exerciseID": "24.8", "kind": "timed", "durationSeconds": 120 }
+  ]
+}

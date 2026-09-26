@@ -1,0 +1,18 @@
+{
+  "id": "24.12",
+  "key": "yoga_chair_pose",
+  "title": "Chair Pose",
+  "description": "1. Stand with feet grounded, bend the knees, and send the hips back.\n2. Lift the arms beside the ears without raising the shoulders.\n3. Keep weight balanced through the feet and breathe through the effort.",
+  "color": "#91A994",
+  "colorType": "sage",
+  "workoutType": "yoga",
+  "valueType": "time",
+  "default": 45,
+  "durationSeconds": 45,
+  "energyProfile": {"source":"adultCompendium2024","unit":"MET","defaultIntensity":"light","light":2.3,"moderate":2.8,"vigorous":3.3,"lightCode":"02170","moderateCode":"02175","vigorousCode":"02185"},
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Strength & Balance",
+  "availableFrom": "1.1.5",
+  "availableUntil": null
+}

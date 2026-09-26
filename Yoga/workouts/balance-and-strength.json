@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "balance-and-strength-v1",
+  "productID": "yoga",
+  "title": "Balance & Strength",
+  "description": "Foundational standing poses for stable legs, balance, and posture.",
+  "difficulty": "basic",
+  "availableFrom": "1.1.5",
+  "segments": [
+    { "id": "mountain", "exerciseID": "24.1", "kind": "timed", "durationSeconds": 45 },
+    { "id": "chair", "exerciseID": "24.12", "kind": "timed", "durationSeconds": 45 },
+    { "id": "warrior-one-left", "exerciseID": "24.4", "kind": "timed", "durationSeconds": 45 },
+    { "id": "warrior-one-right", "exerciseID": "24.4", "kind": "timed", "durationSeconds": 45 },
+    { "id": "warrior-two-left", "exerciseID": "24.5", "kind": "timed", "durationSeconds": 45 },
+    { "id": "warrior-two-right", "exerciseID": "24.5", "kind": "timed", "durationSeconds": 45 },
+    { "id": "tree-left", "exerciseID": "24.6", "kind": "timed", "durationSeconds": 45 },
+    { "id": "tree-right", "exerciseID": "24.6", "kind": "timed", "durationSeconds": 45 },
+    { "id": "bridge", "exerciseID": "24.10", "kind": "timed", "durationSeconds": 45 },
+    { "id": "savasana", "exerciseID": "24.8", "kind": "timed", "durationSeconds": 90 }
+  ]
+}
