@@ -7,6 +7,7 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
+    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 30 },
     { "id": "arrive", "exerciseID": "24.1", "kind": "timed", "durationSeconds": 45 },
     { "id": "cat-cow", "exerciseID": "24.2", "kind": "timed", "durationSeconds": 60 },
     { "id": "downward-dog", "exerciseID": "24.3", "kind": "timed", "durationSeconds": 45 },

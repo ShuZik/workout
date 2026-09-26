@@ -7,6 +7,7 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
+    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 30 },
     { "id": "neck", "exerciseID": "10.33", "kind": "timed", "durationSeconds": 45 },
     { "id": "shoulders", "exerciseID": "10.6", "kind": "timed", "durationSeconds": 45 },
     { "id": "hips", "exerciseID": "10.10", "kind": "timed", "durationSeconds": 60 },
