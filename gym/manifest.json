@@ -1,10 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "productID": "gym",
   "minimumAppVersion": "1.1.5",
   "tags": [
     {
-      "color": "#ED5C63",
       "colorType": "red",
       "folder": "Custom",
       "id": "999999",
@@ -14,7 +13,6 @@
       "workoutType": "custom"
     },
     {
-      "color": "#0A84FF",
       "colorType": "blue",
       "folder": "WarmUp",
       "id": "9",
@@ -24,7 +22,6 @@
       "workoutType": "warmUp"
     },
     {
-      "color": "#4766C1",
       "colorType": "indigo",
       "folder": "CoreTraining",
       "id": "14",
@@ -34,7 +31,6 @@
       "workoutType": "coreTraining"
     },
     {
-      "color": "#808A94",
       "colorType": "gray",
       "folder": "Cooldown",
       "id": "10",
@@ -44,7 +40,6 @@
       "workoutType": "cooldown"
     },
     {
-      "color": "#7D4DB3",
       "colorType": "purple",
       "folder": "Strength",
       "id": "13",
@@ -54,7 +49,6 @@
       "workoutType": "strength"
     },
     {
-      "color": "#ED5C63",
       "colorType": "red",
       "folder": "CrossTraining",
       "id": "23",
@@ -64,7 +58,6 @@
       "workoutType": "crossTraining"
     },
     {
-      "color": "#808A94",
       "colorType": "gray",
       "folder": "Other",
       "id": "0",

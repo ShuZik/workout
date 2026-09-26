@@ -3,12 +3,10 @@
   "key": "glute_stretch",
   "title": "Glute Stretch",
   "description": "1. Lie on the back, cross one ankle over the opposite thigh, and flex the crossed foot.\n2. Draw the uncrossed thigh toward the chest while the head and pelvis stay grounded.\n3. Hold the stretch in the crossed-side glute, release slowly, and switch legs.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cooldown",
   "valueType": "time",
   "default": 30,
-  "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -20,9 +18,8 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
-  "difficulty": "basic",
   "section": "4 Static Stretching",
   "availableFrom": "1.1.2",
-  "availableUntil": null
+  "availableUntil": null,
+  "state": "active"
 }

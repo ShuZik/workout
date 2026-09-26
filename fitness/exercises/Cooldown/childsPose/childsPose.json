@@ -3,7 +3,6 @@
   "key": "cooldown_childs_pose",
   "title": "Child's Pose",
   "description": "1. Kneel with big toes together, widen the knees comfortably, and place both hands on the mat.\n2. Send the hips toward the heels while reaching the arms forward and lengthening the spine.\n3. Rest the forehead down, relax the shoulders, and breathe without forcing the hips lower.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cooldown",
   "valueType": "time",
@@ -19,10 +18,8 @@
     "moderateCode": "02175",
     "vigorousCode": "02185"
   },
-  "timerRole": "active",
-  "difficulty": "basic",
   "section": "4 Static Stretching",
-  "durationSeconds": 30,
   "availableFrom": "1.1.2",
-  "availableUntil": null
+  "availableUntil": null,
+  "state": "active"
 }

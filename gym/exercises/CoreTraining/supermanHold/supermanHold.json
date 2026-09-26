@@ -3,12 +3,10 @@
   "key": "calisthenics_superman_hold",
   "title": "Superman Hold",
   "description": "1. Lie face down with the legs long, arms extended, and forehead facing the floor.\n2. Brace lightly and lift the arms, chest, and legs only a small distance without compressing the lower back.\n3. Keep the neck in line with the spine, hold briefly, then lower all limbs under control.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
   "default": 30,
-  "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -20,9 +18,8 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
-  "difficulty": "intermediate",
   "section": "3 Intermediate",
   "availableFrom": "1.1.2",
-  "availableUntil": null
+  "availableUntil": null,
+  "state": "active"
 }

@@ -3,12 +3,10 @@
   "key": "cool_down",
   "title": "Rest",
   "description": "1. Walk or move lightly for several minutes instead of stopping immediately after hard work.\n2. Slow the pace until breathing and heart rate begin to settle.\n3. Finish with relaxed breathing and gentle static stretches for the muscles used in training.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cooldown",
   "valueType": "time",
   "default": 30,
-  "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -20,9 +18,8 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
-  "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.2",
-  "availableUntil": null
+  "availableUntil": null,
+  "state": "active"
 }

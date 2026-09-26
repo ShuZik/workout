@@ -3,7 +3,6 @@
   "key": "calisthenics_hanging_leg_raise",
   "title": "Hanging Leg Raise",
   "description": "1. Hang from a secure bar with straight arms, active shoulders, and the legs together.\n2. Brace the trunk and raise the knees or straight legs without swinging until the hips flex under control.\n3. Lower the legs slowly to a stable hang before beginning the next repetition.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
@@ -19,10 +18,8 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
-  "difficulty": "basic",
   "section": "3 Intermediate",
-  "durationSeconds": 30,
   "availableFrom": "1.1.2",
-  "availableUntil": null
+  "availableUntil": null,
+  "state": "active"
 }

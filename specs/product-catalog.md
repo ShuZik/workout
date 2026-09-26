@@ -1,4 +1,4 @@
-# Product catalog manifest v1
+# Product catalog manifest v2
 
 The legacy root `manifest.json` remains the compatibility catalog for older
 clients. `box/manifest.json`, `fitness/manifest.json`, and `gym/manifest.json`
@@ -9,7 +9,7 @@ of every JSON and PNG asset it exposes under `<product>/exercises/`.
 
 ```json
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "productID": "boxing",
   "minimumAppVersion": "1.1.5",
   "tags": [],
@@ -20,11 +20,12 @@ of every JSON and PNG asset it exposes under `<product>/exercises/`.
 
 Required fields:
 
-- `schemaVersion`: integer `1`.
+- `schemaVersion`: integer `2`.
 - `productID`: exactly `boxing`, `fitness`, or `gym`, matching its directory.
 - `minimumAppVersion`: the earliest app version that understands this schema.
 - `tags`: explicit copies of allowed tag metadata. Each icon is at
-  `<product>/exercises/<Tag>/Icon.png`.
+  `<product>/exercises/<Tag>/Icon.png`; every tag has one `colorType` from
+  the shared palette. Hex colors are never stored in the catalog.
 - `files`: explicit `{ "json": "<product>/exercises/<Tag>/<exercise>/<exercise>.json",
   "icon": "<product>/exercises/<Tag>/<exercise>/Icon.png" }` pairs.
 - `workouts`: explicit relative paths to product workout definitions.
@@ -78,6 +79,14 @@ an ordered `segments` array. Each segment references one allowlisted stable
 exercise ID and declares either a timed value or a manual count-and-weight
 value. Manual segments are supported by the Gym product only after the app
 runtime supports them.
+
+## Exercise records
+
+Exercise JSON stores `colorType`, not a hexadecimal `color`. The application
+resolves that stable palette identifier through its shared color enum. Timed
+exercise duration is stored once in `default`; `state` replaces `timerRole`.
+The catalog does not store `level`, `difficulty`, `target`, `subtitle`,
+`durationSeconds`, `durationUnit`, `defaultValue`, or `sequence`.
 
 ## Revision and release rules
 
