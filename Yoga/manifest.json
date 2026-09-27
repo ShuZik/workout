@@ -45,7 +45,7 @@
       "id": "10",
       "icon": "Yoga/exercises/Cooldown/Icon.png",
       "symbolName": "figure.flexibility",
-      "title": "Stretching",
+      "title": "Rest",
       "workoutType": "cooldown"
     },
     {
@@ -59,6 +59,10 @@
     }
   ],
   "files": [
+    {
+      "json": "Yoga/exercises/Yoga/yoga/yoga.json",
+      "icon": "Yoga/exercises/Yoga/yoga/Icon.png"
+    },
     {
       "json": "Yoga/exercises/Yoga/mountainPose/mountainPose.json",
       "icon": "Yoga/exercises/Yoga/mountainPose/Icon.png"
@@ -108,6 +112,10 @@
       "icon": "Yoga/exercises/Yoga/chairPose/Icon.png"
     },
     {
+      "json": "Yoga/exercises/Breathwork/breathwork/breathwork.json",
+      "icon": "Yoga/exercises/Breathwork/breathwork/Icon.png"
+    },
+    {
       "json": "Yoga/exercises/Breathwork/alternateNostrilBreathing/alternateNostrilBreathing.json",
       "icon": "Yoga/exercises/Breathwork/alternateNostrilBreathing/Icon.png"
     },
@@ -136,6 +144,10 @@
       "icon": "Yoga/exercises/Breathwork/pursedLipBreathing/Icon.png"
     },
     {
+      "json": "Yoga/exercises/Meditation/meditation/meditation.json",
+      "icon": "Yoga/exercises/Meditation/meditation/Icon.png"
+    },
+    {
       "json": "Yoga/exercises/Meditation/breathMeditation/breathMeditation.json",
       "icon": "Yoga/exercises/Meditation/breathMeditation/Icon.png"
     },
@@ -150,10 +162,6 @@
     {
       "json": "Yoga/exercises/Meditation/sleepMeditation/sleepMeditation.json",
       "icon": "Yoga/exercises/Meditation/sleepMeditation/Icon.png"
-    },
-    {
-      "json": "Yoga/exercises/Meditation/meditation/meditation.json",
-      "icon": "Yoga/exercises/Meditation/meditation/Icon.png"
     },
     {
       "json": "Yoga/exercises/Meditation/soundMeditation/soundMeditation.json",
@@ -196,8 +204,8 @@
       "icon": "Yoga/exercises/Meditation/guidedImageryMeditation/Icon.png"
     },
     {
-      "json": "Yoga/exercises/Cooldown/coolDown/coolDown.json",
-      "icon": "Yoga/exercises/Cooldown/coolDown/Icon.png"
+      "json": "Yoga/exercises/Cooldown/rest/rest.json",
+      "icon": "Yoga/exercises/Cooldown/rest/Icon.png"
     },
     {
       "json": "Yoga/exercises/Cooldown/childsPose/childsPose.json",
@@ -250,10 +258,6 @@
     {
       "json": "Yoga/exercises/Cooldown/tricepsStretch/tricepsStretch.json",
       "icon": "Yoga/exercises/Cooldown/tricepsStretch/Icon.png"
-    },
-    {
-      "icon": "Yoga/exercises/Other/rest/Icon.png",
-      "json": "Yoga/exercises/Other/rest/rest.json"
     },
     {
       "icon": "Yoga/exercises/Other/repeat/Icon.png",

@@ -193,8 +193,8 @@
       "icon": "gym/exercises/WarmUp/buttKicks/Icon.png"
     },
     {
-      "icon": "gym/exercises/Cooldown/coolDown/Icon.png",
-      "json": "gym/exercises/Cooldown/coolDown/coolDown.json"
+      "json": "gym/exercises/Cooldown/rest/rest.json",
+      "icon": "gym/exercises/Cooldown/rest/Icon.png"
     },
     {
       "icon": "gym/exercises/Cooldown/breathing/Icon.png",
@@ -343,6 +343,10 @@
     {
       "json": "gym/exercises/CoreTraining/supermanBackExtension/supermanBackExtension.json",
       "icon": "gym/exercises/CoreTraining/supermanBackExtension/Icon.png"
+    },
+    {
+      "json": "gym/exercises/CrossTraining/crossFit/crossFit.json",
+      "icon": "gym/exercises/CrossTraining/crossFit/Icon.png"
     },
     {
       "icon": "gym/exercises/CrossTraining/barbellDeadlift/Icon.png",
@@ -715,10 +719,6 @@
     {
       "json": "gym/exercises/Strength/pikePushUp/pikePushUp.json",
       "icon": "gym/exercises/Strength/pikePushUp/Icon.png"
-    },
-    {
-      "icon": "gym/exercises/Other/rest/Icon.png",
-      "json": "gym/exercises/Other/rest/rest.json"
     },
     {
       "icon": "gym/exercises/Other/repeat/Icon.png",
