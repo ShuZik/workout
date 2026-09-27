@@ -82,6 +82,10 @@ that app version. The tag must point to a commit containing every product
 manifest supported by the release. When no matching tag exists, every product
 resolves the current `main` revision and then loads only its own manifest.
 
+White-label release `1.1.5` is frozen by `stop/1.1.5` at
+`a1e334ac3d49daaa7e5119fc1b3de92cae714073`, which contains all four product
+manifests.
+
 A fresh installation downloads the selected catalog once. Network errors do
 not bypass a tag; only a missing tag allows `main`. Already released apps
 without this support, including 1.1.3, continue reading `main` directly.
