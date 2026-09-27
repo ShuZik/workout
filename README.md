@@ -4,9 +4,9 @@ This repository is the source of truth for the workout exercise catalog used by 
 
 ## White-label catalog freeze
 
-The legacy catalog for Boxing Timer `1.1.5` is frozen at
+The legacy catalog for Boxing Timer `1.1.4` is frozen at
 `fce1bac7becba9d73fe30ec5745e50f4a35a87fe` on `main`. The corresponding
-release tag is `stop/1.1.5`.
+release tag is `stop/1.1.4`.
 
 Each exercise has its own directory inside exactly one top-level tag directory.
 The folder contains the exercise JSON and its real SF Symbols-derived icon:
@@ -39,7 +39,7 @@ the JSON `key` remains the stable catalog identifier.
 
 Each JSON file is the structured exercise record downloaded by the app. `Icon.png` is downloaded with the record and stored in the local SwiftData catalog. `icon-registry.json` records which SF Symbol was used to create each icon.
 
-The `main` branch is the source for app version `1.1.3`. `manifest.json` lists every tag identity and every JSON/icon pair. The app first reads the latest commit SHA of that branch from GitHub. If that SHA matches the revision stored in its local database, no catalog files are downloaded. When the SHA is newer, the app downloads the complete manifest, tag icons, JSON files, and exercise icons from that exact commit and replaces the local catalog in one sync.
+The `main` branch is the source for any app version without a matching global stop tag. `manifest.json` lists every tag identity and every JSON/icon pair for legacy clients. The app first reads the selected revision SHA from GitHub. If that SHA matches the revision stored in its local database, no catalog files are downloaded. When the SHA is newer, the app downloads the complete manifest, tag icons, JSON files, and exercise icons from that exact commit and replaces the local catalog in one sync.
 
 ## Stop catalog updates for an app version
 
