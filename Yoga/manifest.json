@@ -54,7 +54,7 @@
       "id": "0",
       "icon": "Yoga/exercises/Other/Icon.png",
       "symbolName": "list.bullet",
-      "title": "Rest",
+      "title": "Other",
       "workoutType": "other"
     }
   ],
@@ -252,12 +252,28 @@
       "icon": "Yoga/exercises/Cooldown/tricepsStretch/Icon.png"
     },
     {
-      "json": "Yoga/exercises/Other/rest/rest.json",
-      "icon": "Yoga/exercises/Other/rest/Icon.png"
+      "icon": "Yoga/exercises/Other/rest/Icon.png",
+      "json": "Yoga/exercises/Other/rest/rest.json"
     },
     {
-      "json": "Yoga/exercises/Other/preparation/preparation.json",
-      "icon": "Yoga/exercises/Other/preparation/Icon.png"
+      "icon": "Yoga/exercises/Other/repeat/Icon.png",
+      "json": "Yoga/exercises/Other/repeat/repeat.json"
+    },
+    {
+      "icon": "Yoga/exercises/Other/preparation/Icon.png",
+      "json": "Yoga/exercises/Other/preparation/preparation.json"
+    },
+    {
+      "icon": "Yoga/exercises/Other/endRepeat/Icon.png",
+      "json": "Yoga/exercises/Other/endRepeat/endRepeat.json"
+    },
+    {
+      "icon": "Yoga/exercises/Other/note/Icon.png",
+      "json": "Yoga/exercises/Other/note/note.json"
+    },
+    {
+      "icon": "Yoga/exercises/Other/work/Icon.png",
+      "json": "Yoga/exercises/Other/work/work.json"
     }
   ],
   "workouts": [
