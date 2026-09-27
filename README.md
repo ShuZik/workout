@@ -77,16 +77,14 @@ gym/exercises/<Tag>/<exercise>/<exercise>.json
 Every manifest references only assets in its own product directory. The root
 catalog remains only for older apps that still request `manifest.json`.
 
-`stop/1.1.5` freezes the legacy root manifest for the existing Boxing Timer.
-It remains independent of the product-manifest work on `main`. A white-label
-client resolves its own immutable `stop/<product>/<version>` tag when one
-exists, then loads that product's manifest from the selected revision. Without
-such a tag it resolves the product manifest from the current `main` revision.
-One product's tag must never select another product's manifest or cached data.
+A single immutable `stop/<version>` tag freezes every white-label product for
+that app version. The tag must point to a commit containing every product
+manifest supported by the release. When no matching tag exists, every product
+resolves the current `main` revision and then loads only its own manifest.
 
-A fresh installation downloads the tagged catalog once. Network errors do
-not bypass the tag; only a missing tag allows main. Already released apps
-without this support, including 1.1.3, continue reading main directly.
+A fresh installation downloads the selected catalog once. Network errors do
+not bypass a tag; only a missing tag allows `main`. Already released apps
+without this support, including 1.1.3, continue reading `main` directly.
 
 The supported JSON fields are:
 
