@@ -6,6 +6,12 @@
   "description": "5 rounds of Muay Thai: 3 minutes of work and 2 minutes of rest.",
   "segments": [
     {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
       "id": "rounds",
       "exerciseID": "0.2",
       "kind": "repeat",

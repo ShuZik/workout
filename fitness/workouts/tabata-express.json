@@ -7,7 +7,7 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
-    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 30 },
+    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 5 },
     { "id": "burpees", "exerciseID": "20.2", "kind": "timed", "durationSeconds": 20 },
     { "id": "rest-1", "exerciseID": "10.1", "kind": "timed", "durationSeconds": 10 },
     { "id": "jumping-jacks", "exerciseID": "20.3", "kind": "timed", "durationSeconds": 20 },

@@ -6,6 +6,12 @@
   "description": "12 rounds of boxing: 3 minutes of work and 1 minute of rest.",
   "segments": [
     {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
       "id": "rounds",
       "exerciseID": "0.2",
       "kind": "repeat",
