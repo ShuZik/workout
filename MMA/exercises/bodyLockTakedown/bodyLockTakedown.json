@@ -1,0 +1,90 @@
+{
+  "id": "4.9",
+  "key": "mma_body_lock_takedown",
+  "title": "Body-Lock Takedown",
+  "description": "1. From a supervised clinch, gain inside position and connect the hands around the partner's torso with the head upright.\n2. Step the hips close, shift the partner's weight, and block or trip a leg while steering the upper body across the blocked side.\n3. Maintain the body lock long enough to guide a controlled landing, then settle into a stable top position.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Wrestling",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Body-Lock Takedown",
+      "description": "1. From a supervised clinch, gain inside position and connect the hands around the partner's torso with the head upright.\n2. Step the hips close, shift the partner's weight, and block or trip a leg while steering the upper body across the blocked side.\n3. Maintain the body lock long enough to guide a controlled landing, then settle into a stable top position.",
+      "sectionTitle": "Wrestling"
+    },
+    "es": {
+      "title": "Derribo con body lock",
+      "description": "1. Desde un clinch supervisado, gana la posición interior y une las manos alrededor del torso del compañero con la cabeza erguida.\n2. Acerca la cadera, desplaza el peso del compañero y bloquea o barre una pierna mientras llevas su tronco por encima del lado bloqueado.\n3. Mantén el body lock lo suficiente para guiar una caída controlada y asiéntate en una posición superior estable.",
+      "sectionTitle": "Lucha"
+    },
+    "pt": {
+      "title": "Queda com body lock",
+      "description": "1. A partir de um clinch supervisionado, ganhe a posição por dentro e una as mãos ao redor do tronco do parceiro com a cabeça erguida.\n2. Aproxime o quadril, desloque o peso do parceiro e bloqueie ou rasteire uma perna enquanto conduz o tronco dele por cima do lado bloqueado.\n3. Mantenha o body lock o suficiente para guiar uma queda controlada e estabilize-se em uma posição por cima.",
+      "sectionTitle": "Luta agarrada"
+    },
+    "fr": {
+      "title": "Amenée au sol en ceinture",
+      "description": "1. Depuis un clinch supervisé, gagnez la position intérieure et joignez les mains autour du buste du partenaire, tête droite.\n2. Rapprochez les hanches, déplacez son poids et bloquez ou fauchez une jambe en guidant le haut du corps par-dessus le côté bloqué.\n3. Gardez la ceinture assez longtemps pour guider une chute contrôlée, puis installez-vous dans une position dominante stable.",
+      "sectionTitle": "Lutte"
+    },
+    "de": {
+      "title": "Body-Lock-Takedown",
+      "description": "1. Gewinne aus einem betreuten Clinch die Innenposition und verbinde die Hände um den Oberkörper des Partners, den Kopf aufrecht.\n2. Bring die Hüfte nah heran, verlagere sein Gewicht und blockiere oder fege ein Bein, während du den Oberkörper über die blockierte Seite lenkst.\n3. Halte den Body Lock lange genug, um eine kontrollierte Landung zu führen, und stabilisiere dich dann in einer oberen Position.",
+      "sectionTitle": "Ringen"
+    },
+    "it": {
+      "title": "Atterramento in body lock",
+      "description": "1. Da un clinch supervisionato, conquista la posizione interna e unisci le mani attorno al busto del compagno con la testa dritta.\n2. Avvicina le anche, sposta il peso del compagno e blocca o falcia una gamba mentre guidi il busto oltre il lato bloccato.\n3. Mantieni il body lock quanto basta per guidare un atterraggio controllato, poi stabilizzati in una posizione superiore.",
+      "sectionTitle": "Lotta"
+    },
+    "zh-Hans": {
+      "title": "抱腰摔",
+      "description": "1. 在有人监督的缠抱中抢到内侧位置，双手在同伴躯干周围扣紧，头部保持直立。\n2. 髋部贴近，转移同伴的重心，阻挡或绊住一条腿，同时把对方上身带向被阻挡的一侧。\n3. 保持抱腰直到引导对方有控制地落地，然后稳住上位。",
+      "sectionTitle": "摔跤"
+    },
+    "ja": {
+      "title": "ボディロック・テイクダウン",
+      "description": "1. 指導者の監督下でクリンチから内側のポジションを取り、頭を起こしたまま相手の胴に両手を回して組みます。\n2. 腰を近づけて相手の体重を移し、片脚をブロックするか払いながら上体をブロックした側へ倒します。\n3. コントロールされた着地に導くまでボディロックを保ち、安定したトップポジションに落ち着きます。",
+      "sectionTitle": "レスリング"
+    },
+    "ko": {
+      "title": "바디록 테이크다운",
+      "description": "1. 감독 하의 클린치에서 안쪽 포지션을 잡고 머리를 세운 채 파트너의 몸통을 두 손으로 감싸 연결합니다.\n2. 엉덩이를 붙이고 파트너의 체중을 옮기며, 한쪽 다리를 막거나 걸면서 상체를 막은 쪽으로 넘깁니다.\n3. 통제된 착지로 이끌 때까지 바디록을 유지한 뒤 안정적인 상위 포지션에 자리 잡습니다.",
+      "sectionTitle": "레슬링"
+    },
+    "th": {
+      "title": "ทุ่มด้วยการล็อกลำตัว",
+      "description": "1. จากคลินช์ภายใต้การดูแล ชิงตำแหน่งด้านใน แล้วประสานมือรอบลำตัวคู่โดยตั้งศีรษะตรง\n2. ขยับสะโพกเข้าชิด ถ่ายน้ำหนักของคู่ และกันหรือขัดขาข้างหนึ่งพร้อมพาลำตัวช่วงบนข้ามไปทางด้านที่กันไว้\n3. ล็อกลำตัวไว้จนประคองคู่ลงพื้นอย่างควบคุมได้ แล้วตั้งหลักในตำแหน่งด้านบนให้มั่นคง",
+      "sectionTitle": "มวยปล้ำ"
+    },
+    "ru": {
+      "title": "Бросок с захватом корпуса",
+      "description": "1. Из клинча под присмотром тренера займите внутреннюю позицию и сцепите руки вокруг корпуса партнёра, держа голову ровно.\n2. Придвиньте таз, сместите вес партнёра и заблокируйте или подсеките ногу, направляя его корпус через заблокированную сторону.\n3. Удерживайте захват корпуса, пока не проведёте контролируемое приземление, затем закрепитесь в устойчивой верхней позиции.",
+      "sectionTitle": "Борьба"
+    },
+    "uk": {
+      "title": "Кидок із захопленням корпусу",
+      "description": "1. З клінчу під наглядом тренера займіть внутрішню позицію й зчепіть руки навколо корпусу партнера, тримаючи голову рівно.\n2. Присуньте таз, змістіть вагу партнера й заблокуйте або підсічіть ногу, спрямовуючи його корпус через заблокований бік.\n3. Утримуйте захоплення корпусу, доки не проведете контрольоване приземлення, потім закріпіться в стійкій верхній позиції.",
+      "sectionTitle": "Боротьба"
+    }
+  }
+}

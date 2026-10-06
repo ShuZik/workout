@@ -1,0 +1,90 @@
+{
+  "id": "45.7",
+  "key": "arnis_pad_work_level_1",
+  "title": "Pad Work Level 1",
+  "description": "1. The holder grips a striking pad firmly and stands at stick range; the striker takes stance with the stick.\n2. The holder presents the pad on different target lines and calls combinations of one to three strikes, which the striker delivers with full chambering and accurate contact.\n3. The holder moves the pad between combinations, the striker resets guard after each, and partners swap roles at the end of the round.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "arnis",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pad Work Level 1",
+      "description": "1. The holder grips a striking pad firmly and stands at stick range; the striker takes stance with the stick.\n2. The holder presents the pad on different target lines and calls combinations of one to three strikes, which the striker delivers with full chambering and accurate contact.\n3. The holder moves the pad between combinations, the striker resets guard after each, and partners swap roles at the end of the round.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Trabajo con paos nivel 1",
+      "description": "1. El que sostiene agarra firmemente un pao y se sitúa a distancia de bastón; el que golpea toma guardia con el bastón.\n2. El que sostiene presenta el pao en distintas líneas y pide combinaciones de uno a tres golpes, que el golpeador ejecuta con armado completo y contacto preciso.\n3. El que sostiene mueve el pao entre combinaciones, el golpeador recupera la guardia tras cada una y se cambian los roles al final del asalto.",
+      "sectionTitle": "Ejercicios con compañero"
+    },
+    "pt": {
+      "title": "Trabalho com aparadores nível 1",
+      "description": "1. Quem segura agarra firmemente um aparador e fica à distância de bastão; quem golpeia toma a base com o bastão.\n2. Quem segura apresenta o aparador em diferentes linhas e pede combinações de um a três golpes, que o golpeador executa com armado completo e contato preciso.\n3. Quem segura move o aparador entre combinações, o golpeador recupera a guarda após cada uma e os papéis trocam ao fim do round.",
+      "sectionTitle": "Exercícios com parceiro"
+    },
+    "fr": {
+      "title": "Travail aux pattes niveau 1",
+      "description": "1. Le teneur tient fermement une patte de frappe à distance de bâton ; le frappeur se met en garde avec le bâton.\n2. Le teneur présente la patte sur différentes lignes et annonce des enchaînements de une à trois frappes, que le frappeur exécute avec armé complet et contact précis.\n3. Le teneur déplace la patte entre les enchaînements, le frappeur reprend la garde après chacun et les rôles changent en fin de reprise.",
+      "sectionTitle": "Exercices avec partenaire"
+    },
+    "de": {
+      "title": "Pratzenarbeit Level 1",
+      "description": "1. Der Halter hält eine Schlagpratze fest auf Stockdistanz; der Schläger geht mit dem Stock in Stellung.\n2. Der Halter zeigt die Pratze auf verschiedenen Ziellinien und ruft Kombinationen aus ein bis drei Schlägen, die der Schläger mit vollem Ausholen und genauem Treffer ausführt.\n3. Der Halter bewegt die Pratze zwischen den Kombinationen, der Schläger nimmt nach jeder die Deckung ein, und am Rundenende werden die Rollen getauscht.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Lavoro ai colpitori livello 1",
+      "description": "1. Chi tiene impugna saldamente un colpitore a distanza di bastone; chi colpisce si mette in guardia con il bastone.\n2. Chi tiene presenta il colpitore su diverse linee e chiama combinazioni da uno a tre colpi, che chi colpisce esegue con caricamento completo e contatto preciso.\n3. Chi tiene sposta il colpitore tra le combinazioni, chi colpisce torna in guardia dopo ognuna e i ruoli si scambiano a fine ripresa.",
+      "sectionTitle": "Esercizi con partner"
+    },
+    "zh-Hans": {
+      "title": "手靶练习一级",
+      "description": "1. 持靶者在一棍距离牢牢握住击打靶，击打者持棍成站姿。\n2. 持靶者在不同目标线上出示靶并喊出一至三击的组合，击打者以完整蓄势和准确接触完成。\n3. 持靶者在组合之间移动靶，击打者每组后恢复戒备，一回合结束后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ミット打ち レベル1",
+      "description": "1. 持ち手は棒の届く距離で打撃用ミットをしっかり持ち、打ち手は棒を持って構えます。\n2. 持ち手はさまざまな目標線にミットを出し、一〜三打のコンビネーションを指示し、打ち手は十分な振りかぶりと正確な当たりで打ちます。\n3. 持ち手はコンビネーションの合間にミットを動かし、打ち手は毎回構えに戻り、ラウンドの終わりに役割を交代します。",
+      "sectionTitle": "相手との練習"
+    },
+    "ko": {
+      "title": "패드 훈련 1단계",
+      "description": "1. 패드 잡는 사람은 스틱 거리에서 타격 패드를 단단히 잡고, 치는 사람은 스틱을 들고 자세를 잡습니다.\n2. 패드 잡는 사람은 여러 목표선에 패드를 내밀고 한 번에서 세 번의 타격 조합을 부르며, 치는 사람은 충분한 준비 동작과 정확한 접촉으로 칩니다.\n3. 조합 사이에 패드를 옮기고 치는 사람은 매번 가드로 돌아오며 라운드가 끝나면 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฝึกเป้าล่อระดับ 1",
+      "description": "1. ผู้ถือเป้าจับเป้าตีให้มั่นในระยะไม้ ผู้ตียืนในท่าพร้อมไม้\n2. ผู้ถือเป้ายื่นเป้าในแนวเป้าต่างๆ และเรียกชุดการตีหนึ่งถึงสามครั้ง ผู้ตีตีด้วยการง้างเต็มที่และสัมผัสแม่นยำ\n3. ผู้ถือเป้าย้ายเป้าระหว่างชุด ผู้ตีกลับสู่การ์ดหลังทุกชุด และสลับบทบาทเมื่อจบยก",
+      "sectionTitle": "การฝึกกับคู่ฝึก"
+    },
+    "ru": {
+      "title": "Работа по лапам, уровень 1",
+      "description": "1. Держащий крепко держит ударную лапу на дистанции палки; бьющий встаёт в стойку с палкой.\n2. Держащий подставляет лапу на разных линиях и называет комбинации из одного–трёх ударов, которые бьющий выполняет с полным замахом и точным контактом.\n3. Между комбинациями держащий перемещает лапу, бьющий после каждой возвращается в защиту, в конце раунда партнёры меняются ролями.",
+      "sectionTitle": "Упражнения с партнёром"
+    },
+    "uk": {
+      "title": "Робота по лапах, рівень 1",
+      "description": "1. Той, хто тримає, міцно тримає ударну лапу на дистанції палиці; той, хто б’є, стає в стійку з палицею.\n2. Той, хто тримає, підставляє лапу на різних лініях і називає комбінації з одного–трьох ударів, які виконуються з повним замахом і точним контактом.\n3. Між комбінаціями лапу переміщують, після кожної той, хто б’є, повертається в захист, наприкінці раунду партнери міняються ролями.",
+      "sectionTitle": "Вправи з партнером"
+    }
+  }
+}

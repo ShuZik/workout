@@ -1,0 +1,92 @@
+{
+  "id": "1.9",
+  "key": "rear_uppercut",
+  "title": "Rear Uppercut",
+  "description": "1. From guard, bend the knees slightly and load the rear leg while keeping the lead hand at the cheek.\n2. Push through the rear foot and turn the rear hip as the bent rear fist rises tightly through the centerline.\n3. Reverse the rotation and return the rear hand to the cheek before beginning another action.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "2 Base",
+  "target": "head",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Uppercut",
+      "description": "1. From guard, bend the knees slightly and load the rear leg while keeping the lead hand at the cheek.\n2. Push through the rear foot and turn the rear hip as the bent rear fist rises tightly through the centerline.\n3. Reverse the rotation and return the rear hand to the cheek before beginning another action.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Uppercut trasero",
+      "description": "1. Desde la guardia, flexiona ligeramente las rodillas y carga la pierna trasera, manteniendo la mano delantera junto a la mejilla.\n2. Impulsa el pie trasero y gira la cadera trasera mientras el puño trasero flexionado asciende cerca de la línea central.\n3. Invierte el giro y devuelve la mano trasera a la mejilla antes de comenzar otra acción.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Uppercut de trás",
+      "description": "1. Da guarda, flexione ligeiramente os joelhos e carregue a perna de trás, mantendo a mão da frente junto à bochecha.\n2. Impulsione o pé de trás e gire o quadril de trás enquanto o punho de trás, com braço dobrado, sobe junto à linha central.\n3. Inverta a rotação e volte a mão de trás à bochecha antes de iniciar outra ação.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Uppercut arrière",
+      "description": "1. Depuis la garde, fléchissez légèrement les genoux et chargez la jambe arrière, main avant près de la joue.\n2. Poussez sur le pied arrière et tournez la hanche arrière tandis que le poing arrière, bras fléchi, monte près de l’axe central.\n3. Inversez la rotation et ramenez la main arrière à la joue avant une nouvelle action.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Hinterer Aufwärtshaken",
+      "description": "1. Beuge aus der Deckung die Knie leicht und belaste das hintere Bein; die vordere Hand bleibt neben der Wange.\n2. Drücke über den hinteren Fuß und drehe die hintere Hüfte, während die hintere Faust am gebeugten Arm eng an der Mittellinie steigt.\n3. Drehe zurück und bringe die hintere Hand zur Wange, bevor du die nächste Aktion beginnst.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Montante posteriore",
+      "description": "1. Dalla guardia, piega leggermente le ginocchia e carica la gamba posteriore, tenendo la mano anteriore alla guancia.\n2. Spingi sul piede posteriore e gira l’anca posteriore mentre il pugno posteriore, a braccio piegato, sale stretto lungo la linea centrale.\n3. Inverti la rotazione e riporta la mano posteriore alla guancia prima di un’altra azione.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "后手上勾拳",
+      "description": "1. 从防守位略屈膝，重心放在后腿，前手置于脸颊旁。\n2. 后脚发力，后侧髋部转动，弯曲手臂的后拳紧沿中线上升。\n3. 反向旋转，在下一个动作前将后手收回脸颊。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "後ろ手のアッパーカット",
+      "description": "1. ガードから膝を少し曲げ、前手を頬に置いたまま後ろ脚へ荷重します。\n2. 後ろ足で押し、後ろ側の腰を回して、腕を曲げた後ろの拳を中心線に沿ってコンパクトに上げます。\n3. 逆に回転し、次の動作に入る前に後ろの手を頬へ戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "뒷손 어퍼컷",
+      "description": "1. 가드에서 무릎을 약간 굽히고 앞손을 뺨에 둔 채 뒷다리에 체중을 싣습니다.\n2. 뒷발로 밀고 뒤쪽 골반을 돌리며 팔을 굽힌 뒷주먹을 중심선 가까이 올립니다.\n3. 반대로 회전하고 다음 동작 전에 뒷손을 뺨으로 되돌립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "อัปเปอร์คัตหลัง",
+      "description": "1. จากการ์ด งอเข่าเล็กน้อยและลงน้ำหนักขาหลังโดยมือหน้ายังอยู่ข้างแก้ม\n2. ออกแรงจากเท้าหลังและหมุนสะโพกหลังขณะหมัดหลังที่งอแขนยกขึ้นชิดแนวกึ่งกลาง\n3. หมุนกลับและคืนมือหลังข้างแก้มก่อนเริ่มการเคลื่อนไหวถัดไป",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Задний апперкот",
+      "description": "1. Из защиты слегка согните колени и загрузите заднюю ногу, сохраняя переднюю руку у щеки.\n2. Толкнитесь задней стопой и поверните заднее бедро, поднимая кулак согнутой задней руки близко к центральной линии.\n3. Развернитесь обратно и верните заднюю руку к щеке до следующего действия.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Задній аперкот",
+      "description": "1. Із захисту трохи зігніть коліна й навантажте задню ногу, зберігаючи передню руку біля щоки.\n2. Відштовхніться задньою стопою й поверніть заднє стегно, піднімаючи кулак зігнутої задньої руки близько до центральної лінії.\n3. Розверніться назад і поверніть задню руку до щоки перед наступною дією.",
+      "sectionTitle": "База"
+    }
+  }
+}

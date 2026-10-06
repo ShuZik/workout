@@ -1,0 +1,90 @@
+{
+  "id": "8.44",
+  "key": "taekwondo_taegeuk_5_jang",
+  "title": "Taegeuk 5 Jang",
+  "description": "1. Start in basic ready stance and perform the fifth Taegeuk, opening with a left-stance low block and downward hammer-fist strike.\n2. Include the turning elbow strikes into the open palm, side kicks, and the back-fist strike landing in crossed stance.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Taegeuk 5 Jang",
+      "description": "1. Start in basic ready stance and perform the fifth Taegeuk, opening with a left-stance low block and downward hammer-fist strike.\n2. Include the turning elbow strikes into the open palm, side kicks, and the back-fist strike landing in crossed stance.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taegeuk 5 Jang",
+      "description": "1. Empieza en posición de preparación básica y realiza el quinto Taegeuk, abriendo con bloqueo bajo en posición izquierda y golpe descendente con puño de martillo.\n2. Incluye los codazos circulares contra la palma abierta, las patadas laterales y el golpe con dorso del puño aterrizando en posición cruzada.\n3. Termina con los bloqueos y puñetazos finales con kihap y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taegeuk 5 Jang",
+      "description": "1. Comece na posição de preparação básica e execute o quinto Taegeuk, abrindo com bloqueio baixo em base esquerda e golpe descendente com punho de martelo.\n2. Inclua as cotoveladas circulares na palma aberta, os chutes laterais e o golpe com dorso do punho aterrissando em base cruzada.\n3. Termine com os bloqueios e socos finais com kihap e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taegeuk 5 Jang",
+      "description": "1. Partez en position de préparation de base et exécutez le cinquième Taegeuk, en ouvrant par un blocage bas en position gauche et une frappe descendante du poing-marteau.\n2. Intégrez les coups de coude circulaires dans la paume ouverte, les coups de pied latéraux et le revers du poing réceptionné en position croisée.\n3. Terminez par les derniers blocages et coups de poing avec kihap, puis revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taegeuk 5 Jang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe die fünfte Taegeuk-Form, eröffnet mit tiefem Block im Links-Stand und abwärts geführtem Hammerfaustschlag.\n2. Baue Drehellbogenschläge in die offene Handfläche, Seittritte und den Rückfaustschlag mit Landung im gekreuzten Stand ein.\n3. Schließe mit den letzten Blocks und Fauststößen mit Kihap ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taegeuk 5 Jang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui il quinto Taegeuk, aprendo con parata bassa in posizione sinistra e colpo discendente a pugno a martello.\n2. Inserisci le gomitate circolari nel palmo aperto, i calci laterali e il colpo di dorso del pugno con atterraggio in posizione incrociata.\n3. Concludi con le ultime parate e pugni con kihap, poi torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极五章",
+      "description": "1. 以基本预备式开始，太极五章以左式下格挡和下砸锤拳开头。\n2. 包括转身肘击掌心、侧踢，以及落成交叉步的背拳击打。\n3. 以最后的格挡和冲拳并发声收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極5章（テグク・オジャン）",
+      "description": "1. 基本準備立ちから始め、左立ちの下段受けと鉄槌打ち下ろしで太極5章を開始します。\n2. 開いた掌への回し肘打ち、横蹴り、交差立ちに着地しての裏拳打ちを含めます。\n3. 最後の受けと突きを気合とともに行い、基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태극 5장",
+      "description": "1. 기본 준비서기에서 시작해 왼서기 아래막기와 메주먹 내려치기로 태극 5장을 엽니다.\n2. 펼친 손바닥에 팔굽 돌려치기, 옆차기, 꼬아서기로 내려서며 등주먹 치기를 포함합니다.\n3. 마지막 막기와 지르기를 기합과 함께 하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทกึก 5 จัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทกึกชุดที่ห้า โดยเปิดด้วยการปัดต่ำในท่ายืนซ้ายและการทุบลงด้วยสันกำปั้น\n2. รวมการเหวี่ยงศอกเข้าฝ่ามือที่แบ การเตะข้าง และการตีหลังกำปั้นที่ลงในท่ายืนไขว้\n3. จบด้วยการปัดและหมัดชุดสุดท้ายพร้อมคีอัป แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэгык 5 джан",
+      "description": "1. Начните из базовой готовой стойки и выполните пятый тхэгык, открыв его нижним блоком в левой стойке и нисходящим ударом кулаком-молотом.\n2. Включите круговые удары локтем в открытую ладонь, боковые удары ногой и удар тыльной стороной кулака с приземлением в скрёстную стойку.\n3. Завершите последними блоками и ударами с кихапом и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхегик 5 джан",
+      "description": "1. Почніть із базової готової стійки й виконайте п’ятий тхегик, відкривши його нижнім блоком у лівій стійці та низхідним ударом кулаком-молотом.\n2. Додайте кругові удари ліктем у розкриту долоню, бічні удари ногою та удар тильним боком кулака з приземленням у схрещену стійку.\n3. Завершіть останніми блоками й ударами з кіхапом і поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

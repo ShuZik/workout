@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "Pankration",
+    "id": "85",
+    "icon": "Pankration/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Pankration",
+    "workoutType": "pankration",
+    "translations": {
+      "en": {
+        "title": "Pankration"
+      },
+      "es": {
+        "title": "Pancracio"
+      },
+      "pt": {
+        "title": "Pancrácio"
+      },
+      "fr": {
+        "title": "Pancrace"
+      },
+      "de": {
+        "title": "Pankration"
+      },
+      "it": {
+        "title": "Pancrazio"
+      },
+      "zh-Hans": {
+        "title": "古希腊式搏击"
+      },
+      "ja": {
+        "title": "パンクラチオン"
+      },
+      "ko": {
+        "title": "판크라티온"
+      },
+      "th": {
+        "title": "แพนเครช��น"
+      },
+      "ru": {
+        "title": "��анкратион"
+      },
+      "uk": {
+        "title": "Панкратіон"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Pankration/exercises/pankration/Icon.png",
+      "json": "Pankration/exercises/pankration/pankration.json"
+    },
+    {
+      "icon": "Pankration/exercises/straightAnkleLock/Icon.png",
+      "json": "Pankration/exercises/straightAnkleLock/straightAnkleLock.json"
+    },
+    {
+      "icon": "Pankration/exercises/armInGuillotine/Icon.png",
+      "json": "Pankration/exercises/armInGuillotine/armInGuillotine.json"
+    }
+  ]
+}

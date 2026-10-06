@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "Gatka",
+    "id": "55",
+    "icon": "Gatka/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Gatka",
+    "workoutType": "gatka",
+    "translations": {
+      "en": {
+        "title": "Gatka"
+      },
+      "es": {
+        "title": "Gatka"
+      },
+      "pt": {
+        "title": "Gatka"
+      },
+      "fr": {
+        "title": "Gatka"
+      },
+      "de": {
+        "title": "Gatka"
+      },
+      "it": {
+        "title": "Gatka"
+      },
+      "zh-Hans": {
+        "title": "加特卡"
+      },
+      "ja": {
+        "title": "ガトカ"
+      },
+      "ko": {
+        "title": "가트카"
+      },
+      "th": {
+        "title": "กัตกา"
+      },
+      "ru": {
+        "title": "Гатка"
+      },
+      "uk": {
+        "title": "Гатка"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Gatka/exercises/gatka/Icon.png",
+      "json": "Gatka/exercises/gatka/gatka.json"
+    },
+    {
+      "icon": "Gatka/exercises/fullStrike/Icon.png",
+      "json": "Gatka/exercises/fullStrike/fullStrike.json"
+    },
+    {
+      "icon": "Gatka/exercises/halfStrike/Icon.png",
+      "json": "Gatka/exercises/halfStrike/halfStrike.json"
+    }
+  ]
+}

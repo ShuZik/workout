@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "Buhurt",
+    "id": "47",
+    "icon": "Buhurt/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Buhurt",
+    "workoutType": "buhurt",
+    "translations": {
+      "en": {
+        "title": "Buhurt"
+      },
+      "es": {
+        "title": "Buhurt"
+      },
+      "pt": {
+        "title": "Buhurt"
+      },
+      "fr": {
+        "title": "Bohourt"
+      },
+      "de": {
+        "title": "Buhurt"
+      },
+      "it": {
+        "title": "Buhurt"
+      },
+      "zh-Hans": {
+        "title": "中世纪团体格斗"
+      },
+      "ja": {
+        "title": "ブフルト"
+      },
+      "ko": {
+        "title": "부후르트"
+      },
+      "th": {
+        "title": "บูฮูร์ต"
+      },
+      "ru": {
+        "title": "Бугурт"
+      },
+      "uk": {
+        "title": "Бугурт"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Buhurt/exercises/buhurt/Icon.png",
+      "json": "Buhurt/exercises/buhurt/buhurt.json"
+    },
+    {
+      "icon": "Buhurt/exercises/weaponGrabbing/Icon.png",
+      "json": "Buhurt/exercises/weaponGrabbing/weaponGrabbing.json"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#FD7C5D",
+    "colorType": "coral",
+    "folder": "Tabata",
+    "id": "20",
+    "icon": "Tabata/Icon.png",
+    "symbolName": "figure.highintensity.intervaltraining",
+    "title": "Tabata",
+    "workoutType": "tabata",
+    "translations": {
+      "en": {
+        "title": "Tabata"
+      },
+      "es": {
+        "title": "Tabata"
+      },
+      "pt": {
+        "title": "Tabata"
+      },
+      "fr": {
+        "title": "Tabata"
+      },
+      "de": {
+        "title": "Tabata"
+      },
+      "it": {
+        "title": "Tabata"
+      },
+      "zh-Hans": {
+        "title": "塔巴塔"
+      },
+      "ja": {
+        "title": "タバタ"
+      },
+      "ko": {
+        "title": "타바타"
+      },
+      "th": {
+        "title": "ทาบาตะ"
+      },
+      "ru": {
+        "title": "Табата"
+      },
+      "uk": {
+        "title": "Табата"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Tabata/exercises/tabata/Icon.png",
+      "json": "Tabata/exercises/tabata/tabata.json"
+    },
+    {
+      "icon": "Tabata/exercises/burpees/Icon.png",
+      "json": "Tabata/exercises/burpees/burpees.json"
+    },
+    {
+      "icon": "Tabata/exercises/jumpingJacks/Icon.png",
+      "json": "Tabata/exercises/jumpingJacks/jumpingJacks.json"
+    },
+    {
+      "icon": "Tabata/exercises/highKnees/Icon.png",
+      "json": "Tabata/exercises/highKnees/highKnees.json"
+    },
+    {
+      "icon": "Tabata/exercises/mountainClimbers/Icon.png",
+      "json": "Tabata/exercises/mountainClimbers/mountainClimbers.json"
+    },
+    {
+      "icon": "Tabata/exercises/squatJumps/Icon.png",
+      "json": "Tabata/exercises/squatJumps/squatJumps.json"
+    },
+    {
+      "icon": "Tabata/exercises/skaterJumps/Icon.png",
+      "json": "Tabata/exercises/skaterJumps/skaterJumps.json"
+    },
+    {
+      "icon": "Tabata/exercises/reverseLunges/Icon.png",
+      "json": "Tabata/exercises/reverseLunges/reverseLunges.json"
+    },
+    {
+      "icon": "Tabata/exercises/pushUps/Icon.png",
+      "json": "Tabata/exercises/pushUps/pushUps.json"
+    },
+    {
+      "icon": "Tabata/exercises/plankJacks/Icon.png",
+      "json": "Tabata/exercises/plankJacks/plankJacks.json"
+    },
+    {
+      "icon": "Tabata/exercises/bicycleCrunches/Icon.png",
+      "json": "Tabata/exercises/bicycleCrunches/bicycleCrunches.json"
+    },
+    {
+      "icon": "Tabata/exercises/fastFeet/Icon.png",
+      "json": "Tabata/exercises/fastFeet/fastFeet.json"
+    },
+    {
+      "json": "Tabata/exercises/squatsAirSquat/squatsAirSquat.json",
+      "icon": "Tabata/exercises/squatsAirSquat/Icon.png"
+    },
+    {
+      "json": "Tabata/exercises/plank/plank.json",
+      "icon": "Tabata/exercises/plank/Icon.png"
+    }
+  ]
+}

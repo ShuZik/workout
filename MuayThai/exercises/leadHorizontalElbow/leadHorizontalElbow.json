@@ -1,0 +1,90 @@
+{
+  "id": "2.16",
+  "key": "muay_thai_lead_horizontal_elbow",
+  "title": "Lead Horizontal Elbow",
+  "description": "1. From close guard, step or shift onto the lead side and keep the lead arm bent tightly.\n2. Pivot the lead foot and rotate the hips so the point of the lead elbow travels horizontally across an elbow pad.\n3. Stop the arc under control and return the forearm immediately to the head guard.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Elbows",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Horizontal Elbow",
+      "description": "1. From close guard, step or shift onto the lead side and keep the lead arm bent tightly.\n2. Pivot the lead foot and rotate the hips so the point of the lead elbow travels horizontally across an elbow pad.\n3. Stop the arc under control and return the forearm immediately to the head guard.",
+      "sectionTitle": "Elbows"
+    },
+    "es": {
+      "title": "Codazo horizontal delantero",
+      "description": "1. Desde una guardia cerrada, da un paso o desplázate hacia el lado delantero y mantén el brazo delantero bien flexionado.\n2. Pivota el pie delantero y gira las caderas para que la punta del codo delantero cruce en horizontal una manopla de codo.\n3. Detén el arco con control y devuelve el antebrazo de inmediato a la guardia de la cabeza.",
+      "sectionTitle": "Codazos"
+    },
+    "pt": {
+      "title": "Cotovelada horizontal da frente",
+      "description": "1. Na guarda fechada, dê um passo ou desloque-se para o lado da frente e mantenha o braço da frente bem flexionado.\n2. Gire o pé da frente e o quadril para que a ponta do cotovelo da frente atravesse na horizontal um aparador de cotovelo.\n3. Pare o arco com controle e leve o antebraço imediatamente de volta à guarda da cabeça.",
+      "sectionTitle": "Cotoveladas"
+    },
+    "fr": {
+      "title": "Coude horizontal avant",
+      "description": "1. En garde rapprochée, avancez ou basculez sur le côté avant et gardez le bras avant bien fléchi.\n2. Pivotez sur le pied avant et tournez les hanches pour que la pointe du coude avant traverse une patte d’ours à l’horizontale.\n3. Arrêtez l’arc avec contrôle et ramenez aussitôt l’avant-bras en protection de la tête.",
+      "sectionTitle": "Coups de coude"
+    },
+    "de": {
+      "title": "Vorderer horizontaler Ellbogen",
+      "description": "1. Mache aus enger Deckung einen Schritt oder verlagere dich auf die vordere Seite und halte den vorderen Arm eng gebeugt.\n2. Drehe den vorderen Fuß und die Hüften, sodass die Spitze des vorderen Ellbogens waagerecht über ein Schlagpolster zieht.\n3. Stoppe den Bogen kontrolliert und bringe den Unterarm sofort in die Kopfdeckung zurück.",
+      "sectionTitle": "Ellbogentechniken"
+    },
+    "it": {
+      "title": "Gomitata orizzontale anteriore",
+      "description": "1. Da una guardia stretta, fai un passo o spostati sul lato anteriore e mantieni il braccio anteriore ben piegato.\n2. Ruota il piede anteriore e le anche affinché la punta del gomito anteriore attraversi in orizzontale un colpitore.\n3. Ferma l’arco con controllo e riporta subito l’avambraccio a protezione della testa.",
+      "sectionTitle": "Gomitate"
+    },
+    "zh-Hans": {
+      "title": "前手横肘",
+      "description": "1. 从近距离防守位上步或将重心移向前侧，前臂紧紧弯曲。\n2. 前脚转动并转髋，使前肘尖水平横扫过肘靶。\n3. 有控制地停住弧线，前臂立即回到护头位置。",
+      "sectionTitle": "肘法"
+    },
+    "ja": {
+      "title": "前手の横肘打ち",
+      "description": "1. 接近したガードから前側へ踏み込むか体重を移し、前腕をしっかり曲げておきます。\n2. 前足を軸に腰を回し、前の肘先をミットに対して水平に振り抜きます。\n3. コントロールして弧を止め、すぐに前腕を頭のガードに戻します。",
+      "sectionTitle": "肘打ち"
+    },
+    "ko": {
+      "title": "앞손 수평 팔꿈치",
+      "description": "1. 근접 가드에서 앞쪽으로 내딛거나 체중을 옮기고 앞팔을 단단히 굽힙니다.\n2. 앞발을 돌리고 골반을 회전해 앞 팔꿈치 끝이 미트를 수평으로 가로지르게 합니다.\n3. 호를 통제하며 멈추고 즉시 전완을 머리 가드로 되돌립니다.",
+      "sectionTitle": "팔꿈치 공격"
+    },
+    "th": {
+      "title": "ศอกตัดมือหน้า",
+      "description": "1. จากการ์ดระยะประชิด ก้าวหรือถ่ายน้ำหนักไปด้านหน้า และงอแขนหน้าให้แน่น\n2. หมุนเท้าหน้าและสะโพก ให้ปลายศอกหน้าตัดผ่านเป้าศอกในแนวนอน\n3. หยุดวงศอกอย่างควบคุมและยกแขนท่อนล่างกลับป้องกันศีรษะทันที",
+      "sectionTitle": "ศอก"
+    },
+    "ru": {
+      "title": "Горизонтальный удар передним локтем",
+      "description": "1. Из плотной защиты шагните или сместитесь на переднюю сторону, держа переднюю руку плотно согнутой.\n2. Поверните переднюю стопу и таз, чтобы кончик переднего локтя горизонтально прошёл через лапу.\n3. Подконтрольно остановите дугу и сразу верните предплечье в защиту головы.",
+      "sectionTitle": "Удары локтями"
+    },
+    "uk": {
+      "title": "Горизонтальний удар переднім ліктем",
+      "description": "1. Зі щільного захисту ступніть або зміститеся на передній бік, тримаючи передню руку щільно зігнутою.\n2. Поверніть передню стопу й таз, щоб кінчик переднього ліктя горизонтально пройшов крізь лапу.\n3. Контрольовано зупиніть дугу й одразу поверніть передпліччя в захист голови.",
+      "sectionTitle": "Удари ліктями"
+    }
+  }
+}

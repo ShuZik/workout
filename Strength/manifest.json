@@ -1,0 +1,337 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#7D4DB3",
+    "colorType": "purple",
+    "folder": "Strength",
+    "id": "13",
+    "icon": "Strength/Icon.png",
+    "symbolName": "figure.strengthtraining.traditional",
+    "title": "Strength",
+    "workoutType": "strength",
+    "translations": {
+      "en": {
+        "title": "Strength"
+      },
+      "es": {
+        "title": "Fuerza"
+      },
+      "pt": {
+        "title": "Força"
+      },
+      "fr": {
+        "title": "Musculation"
+      },
+      "de": {
+        "title": "Kraft"
+      },
+      "it": {
+        "title": "Forza"
+      },
+      "zh-Hans": {
+        "title": "力量训练"
+      },
+      "ja": {
+        "title": "筋力"
+      },
+      "ko": {
+        "title": "근력"
+      },
+      "th": {
+        "title": "ความแข็งแรง"
+      },
+      "ru": {
+        "title": "Сила"
+      },
+      "uk": {
+        "title": "Сила"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Strength/exercises/strength/Icon.png",
+      "json": "Strength/exercises/strength/strength.json"
+    },
+    {
+      "icon": "Strength/exercises/traditionalStrengthTraining/Icon.png",
+      "json": "Strength/exercises/traditionalStrengthTraining/traditionalStrengthTraining.json"
+    },
+    {
+      "icon": "Strength/exercises/circuitTraining/Icon.png",
+      "json": "Strength/exercises/circuitTraining/circuitTraining.json"
+    },
+    {
+      "json": "Strength/exercises/bandRow/bandRow.json",
+      "icon": "Strength/exercises/bandRow/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandChestPress/bandChestPress.json",
+      "icon": "Strength/exercises/bandChestPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandOverheadPress/bandOverheadPress.json",
+      "icon": "Strength/exercises/bandOverheadPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandPullApart/bandPullApart.json",
+      "icon": "Strength/exercises/bandPullApart/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandFacePull/bandFacePull.json",
+      "icon": "Strength/exercises/bandFacePull/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandBicepsCurl/bandBicepsCurl.json",
+      "icon": "Strength/exercises/bandBicepsCurl/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandTricepsPressdown/bandTricepsPressdown.json",
+      "icon": "Strength/exercises/bandTricepsPressdown/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandLateralRaise/bandLateralRaise.json",
+      "icon": "Strength/exercises/bandLateralRaise/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandSquat/bandSquat.json",
+      "icon": "Strength/exercises/bandSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandLateralWalk/bandLateralWalk.json",
+      "icon": "Strength/exercises/bandLateralWalk/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandGluteBridge/bandGluteBridge.json",
+      "icon": "Strength/exercises/bandGluteBridge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandHipAbduction/bandHipAbduction.json",
+      "icon": "Strength/exercises/bandHipAbduction/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandClamshell/bandClamshell.json",
+      "icon": "Strength/exercises/bandClamshell/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandGoodMorning/bandGoodMorning.json",
+      "icon": "Strength/exercises/bandGoodMorning/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandDeadlift/bandDeadlift.json",
+      "icon": "Strength/exercises/bandDeadlift/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/pallofPressHold/pallofPressHold.json",
+      "icon": "Strength/exercises/pallofPressHold/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bandWoodChop/bandWoodChop.json",
+      "icon": "Strength/exercises/bandWoodChop/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellDeadlift/kettlebellDeadlift.json",
+      "icon": "Strength/exercises/kettlebellDeadlift/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellGobletSquat/kettlebellGobletSquat.json",
+      "icon": "Strength/exercises/kettlebellGobletSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellSumoDeadlift/kettlebellSumoDeadlift.json",
+      "icon": "Strength/exercises/kettlebellSumoDeadlift/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellRomanianDeadlift/kettlebellRomanianDeadlift.json",
+      "icon": "Strength/exercises/kettlebellRomanianDeadlift/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellReverseLunge/kettlebellReverseLunge.json",
+      "icon": "Strength/exercises/kettlebellReverseLunge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellSwing/kettlebellSwing.json",
+      "icon": "Strength/exercises/kettlebellSwing/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellFrontRackSquat/kettlebellFrontRackSquat.json",
+      "icon": "Strength/exercises/kettlebellFrontRackSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellStrictPress/kettlebellStrictPress.json",
+      "icon": "Strength/exercises/kettlebellStrictPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellRow/kettlebellRow.json",
+      "icon": "Strength/exercises/kettlebellRow/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellFloorPress/kettlebellFloorPress.json",
+      "icon": "Strength/exercises/kettlebellFloorPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kettlebellHalo/kettlebellHalo.json",
+      "icon": "Strength/exercises/kettlebellHalo/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/sandbagDeadlift/sandbagDeadlift.json",
+      "icon": "Strength/exercises/sandbagDeadlift/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/sandbagFrontSquat/sandbagFrontSquat.json",
+      "icon": "Strength/exercises/sandbagFrontSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/sandbagBearHugSquat/sandbagBearHugSquat.json",
+      "icon": "Strength/exercises/sandbagBearHugSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/sandbagReverseLunge/sandbagReverseLunge.json",
+      "icon": "Strength/exercises/sandbagReverseLunge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/sandbagBentOverRow/sandbagBentOverRow.json",
+      "icon": "Strength/exercises/sandbagBentOverRow/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/barbellBackSquat/barbellBackSquat.json",
+      "icon": "Strength/exercises/barbellBackSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/barbellDeadlift/barbellDeadlift.json",
+      "icon": "Strength/exercises/barbellDeadlift/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/barbellBenchPress/barbellBenchPress.json",
+      "icon": "Strength/exercises/barbellBenchPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/barbellOverheadPress/barbellOverheadPress.json",
+      "icon": "Strength/exercises/barbellOverheadPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/barbellBentOverRow/barbellBentOverRow.json",
+      "icon": "Strength/exercises/barbellBentOverRow/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dumbbellGobletSquat/dumbbellGobletSquat.json",
+      "icon": "Strength/exercises/dumbbellGobletSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dumbbellRomanianDeadlift/dumbbellRomanianDeadlift.json",
+      "icon": "Strength/exercises/dumbbellRomanianDeadlift/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dumbbellBenchPress/dumbbellBenchPress.json",
+      "icon": "Strength/exercises/dumbbellBenchPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dumbbellShoulderPress/dumbbellShoulderPress.json",
+      "icon": "Strength/exercises/dumbbellShoulderPress/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/oneArmDumbbellRow/oneArmDumbbellRow.json",
+      "icon": "Strength/exercises/oneArmDumbbellRow/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dumbbellReverseLunge/dumbbellReverseLunge.json",
+      "icon": "Strength/exercises/dumbbellReverseLunge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/hipHinge/hipHinge.json",
+      "icon": "Strength/exercises/hipHinge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/bodyweightSquat/bodyweightSquat.json",
+      "icon": "Strength/exercises/bodyweightSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/stepUp/stepUp.json",
+      "icon": "Strength/exercises/stepUp/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/reverseLunge/reverseLunge.json",
+      "icon": "Strength/exercises/reverseLunge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/lateralLunge/lateralLunge.json",
+      "icon": "Strength/exercises/lateralLunge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/pushUp/pushUp.json",
+      "icon": "Strength/exercises/pushUp/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dumbbellStepUp/dumbbellStepUp.json",
+      "icon": "Strength/exercises/dumbbellStepUp/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dumbbellSplitSquat/dumbbellSplitSquat.json",
+      "icon": "Strength/exercises/dumbbellSplitSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/wallSit/wallSit.json",
+      "icon": "Strength/exercises/wallSit/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/kneePushUp/kneePushUp.json",
+      "icon": "Strength/exercises/kneePushUp/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/splitSquat/splitSquat.json",
+      "icon": "Strength/exercises/splitSquat/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/walkingLunge/walkingLunge.json",
+      "icon": "Strength/exercises/walkingLunge/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/calfRaise/calfRaise.json",
+      "icon": "Strength/exercises/calfRaise/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/pullUp/pullUp.json",
+      "icon": "Strength/exercises/pullUp/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/chinUp/chinUp.json",
+      "icon": "Strength/exercises/chinUp/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/dip/dip.json",
+      "icon": "Strength/exercises/dip/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/burpee/burpee.json",
+      "icon": "Strength/exercises/burpee/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/wallHandstand/wallHandstand.json",
+      "icon": "Strength/exercises/wallHandstand/Icon.png"
+    },
+    {
+      "icon": "Strength/exercises/dumbbellBicepsCurl/Icon.png",
+      "json": "Strength/exercises/dumbbellBicepsCurl/dumbbellBicepsCurl.json"
+    },
+    {
+      "icon": "Strength/exercises/dumbbellLateralRaise/Icon.png",
+      "json": "Strength/exercises/dumbbellLateralRaise/dumbbellLateralRaise.json"
+    },
+    {
+      "icon": "Strength/exercises/dumbbellTricepsExtension/Icon.png",
+      "json": "Strength/exercises/dumbbellTricepsExtension/dumbbellTricepsExtension.json"
+    },
+    {
+      "icon": "Strength/exercises/dumbbellFly/Icon.png",
+      "json": "Strength/exercises/dumbbellFly/dumbbellFly.json"
+    },
+    {
+      "json": "Strength/exercises/invertedRow/invertedRow.json",
+      "icon": "Strength/exercises/invertedRow/Icon.png"
+    },
+    {
+      "json": "Strength/exercises/pikePushUp/pikePushUp.json",
+      "icon": "Strength/exercises/pikePushUp/Icon.png"
+    }
+  ]
+}

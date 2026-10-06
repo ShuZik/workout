@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "Kalarippayattu",
+    "id": "67",
+    "icon": "Kalarippayattu/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Kalarippayattu",
+    "workoutType": "kalarippayattu",
+    "translations": {
+      "en": {
+        "title": "Kalarippayattu"
+      },
+      "es": {
+        "title": "Kalaripayattu"
+      },
+      "pt": {
+        "title": "Kalaripayattu"
+      },
+      "fr": {
+        "title": "Kalaripayatt"
+      },
+      "de": {
+        "title": "Kalarippayat"
+      },
+      "it": {
+        "title": "Kalaripayattu"
+      },
+      "zh-Hans": {
+        "title": "卡拉里帕亚图"
+      },
+      "ja": {
+        "title": "カラリパヤット"
+      },
+      "ko": {
+        "title": "칼라리파야투"
+      },
+      "th": {
+        "title": "กาลาริปปายัตตุ"
+      },
+      "ru": {
+        "title": "Каларипаятту"
+      },
+      "uk": {
+        "title": "Каларіпаятту"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Kalarippayattu/exercises/kalarippayattu/Icon.png",
+      "json": "Kalarippayattu/exercises/kalarippayattu/kalarippayattu.json"
+    },
+    {
+      "icon": "Kalarippayattu/exercises/vattaChuvadu/Icon.png",
+      "json": "Kalarippayattu/exercises/vattaChuvadu/vattaChuvadu.json"
+    },
+    {
+      "icon": "Kalarippayattu/exercises/kaaluyarthippayattu/Icon.png",
+      "json": "Kalarippayattu/exercises/kaaluyarthippayattu/kaaluyarthippayattu.json"
+    }
+  ]
+}

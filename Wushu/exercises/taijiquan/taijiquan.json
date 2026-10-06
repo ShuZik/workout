@@ -1,0 +1,90 @@
+{
+  "id": "109.4",
+  "key": "wushu_taijiquan",
+  "title": "Taijiquan",
+  "description": "1. Stand with the feet together and arms relaxed, then step to shoulder width and raise the arms slowly for the opening movement.\n2. Perform the taijiquan routine continuously and evenly, shifting weight smoothly between legs and coordinating waist, arms, and gaze, including controlled balances and kicks.\n3. Keep the speed even to the last posture, then close by lowering the arms and bringing the feet together.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Taijiquan",
+      "description": "1. Stand with the feet together and arms relaxed, then step to shoulder width and raise the arms slowly for the opening movement.\n2. Perform the taijiquan routine continuously and evenly, shifting weight smoothly between legs and coordinating waist, arms, and gaze, including controlled balances and kicks.\n3. Keep the speed even to the last posture, then close by lowering the arms and bringing the feet together.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taijiquan",
+      "description": "1. Ponte de pie con los pies juntos y los brazos relajados, luego separa los pies al ancho de hombros y eleva los brazos lentamente para el movimiento de apertura.\n2. Ejecuta la rutina de taijiquan de forma continua y uniforme, transfiriendo el peso suavemente entre las piernas y coordinando cintura, brazos y mirada, con equilibrios y patadas controlados.\n3. Mantén una velocidad uniforme hasta la última postura y cierra bajando los brazos y juntando los pies.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taijiquan",
+      "description": "1. Fique com os pés juntos e braços relaxados, depois afaste os pés na largura dos ombros e eleve os braços lentamente para o movimento de abertura.\n2. Execute a rotina de taijiquan de forma contínua e uniforme, transferindo o peso suavemente entre as pernas e coordenando cintura, braços e olhar, com equilíbrios e chutes controlados.\n3. Mantenha a velocidade uniforme até a última postura e feche baixando os braços e unindo os pés.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taijiquan",
+      "description": "1. Tenez-vous pieds joints, bras relâchés, puis écartez les pieds à largeur d’épaules et levez lentement les bras pour le mouvement d’ouverture.\n2. Exécutez l’enchaînement de taijiquan de façon continue et régulière, en transférant le poids en douceur d’une jambe à l’autre et en coordonnant taille, bras et regard, avec équilibres et coups de pied contrôlés.\n3. Gardez une vitesse régulière jusqu’à la dernière posture, puis fermez en abaissant les bras et en rejoignant les pieds.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taijiquan",
+      "description": "1. Stehe mit geschlossenen Füßen und lockeren Armen, setze dann einen Fuß auf Schulterbreite und hebe die Arme langsam zur Eröffnungsbewegung.\n2. Laufe die Taijiquan-Routine fließend und gleichmäßig, verlagere das Gewicht weich zwischen den Beinen und koordiniere Taille, Arme und Blick, einschließlich kontrollierter Gleichgewichtspositionen und Tritte.\n3. Halte das Tempo bis zur letzten Position gleichmäßig und schließe, indem du die Arme senkst und die Füße zusammenführst.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taijiquan",
+      "description": "1. Stai in piedi a piedi uniti con le braccia rilassate, poi apri i piedi alla larghezza delle spalle e solleva lentamente le braccia per il movimento d’apertura.\n2. Esegui la routine di taijiquan in modo continuo e uniforme, spostando il peso dolcemente tra le gambe e coordinando vita, braccia e sguardo, con equilibri e calci controllati.\n3. Mantieni la velocità uniforme fino all’ultima postura, poi chiudi abbassando le braccia e unendo i piedi.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极拳",
+      "description": "1. 并步站立，两臂放松，然后开步与肩同宽，两臂缓缓上抬起势。\n2. 连贯均匀地演练太极拳套路，重心在两腿间平稳转换，腰、臂与眼神协调配合，包括控制良好的平衡和腿法。\n3. 速度均匀直到最后一式，然后两臂下落、并步收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極拳",
+      "description": "1. 足をそろえ腕を緩めて立ち、肩幅に開いてから両腕をゆっくり上げて起勢を行います。\n2. 体重を左右の脚へ滑らかに移し、腰・腕・目線を協調させながら、制御された平衡と蹴りを含む太極拳套路を途切れなく均一に行います。\n3. 最後の姿勢まで速度を一定に保ち、両腕を下ろして足をそろえ収勢します。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "태극권",
+      "description": "1. 두 발을 모으고 팔을 이완한 채 선 뒤 어깨너비로 벌리고 두 팔을 천천히 올려 기세를 합니다.\n2. 다리 사이로 체중을 부드럽게 옮기고 허리, 팔, 시선을 조화시키며 통제된 균형과 발차기를 포함한 태극권 투로를 끊김 없이 고르게 수행합니다.\n3. 마지막 자세까지 속도를 일정하게 유지한 뒤 팔을 내리고 두 발을 모아 수세합니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "ไท่จี๋เฉวียน",
+      "description": "1. ยืนชิดเท้า แขนผ่อนคลาย แล้วก้าวเท้าออกกว้างเท่าไหล่และยกแขนขึ้นช้า ๆ เป็นท่าเปิด\n2. รำชุดไท่จี๋เฉวียนอย่างต่อเนื่องและสม่ำเสมอ ถ่ายน้ำหนักระหว่างขาอย่างนุ่มนวล ประสานเอว แขน และสายตา รวมถึงการทรงตัวและการเตะที่ควบคุมได้\n3. รักษาความเร็วสม่ำเสมอจนถึงท่าสุดท้าย แล้วปิดโดยลดแขนลงและชิดเท้า",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тайцзицюань",
+      "description": "1. Встаньте, стопы вместе, руки расслаблены, затем поставьте стопы на ширину плеч и медленно поднимите руки в начальном движении.\n2. Выполните комплекс тайцзицюань непрерывно и равномерно, плавно перенося вес между ногами и согласуя поясницу, руки и взгляд, включая контролируемые равновесия и удары ногами.\n3. Сохраняйте ровный темп до последней позы, затем завершите, опустив руки и приставив стопы.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тайцзіцюань",
+      "description": "1. Станьте, стопи разом, руки розслаблені, потім поставте стопи на ширину плечей і повільно підніміть руки в початковому русі.\n2. Виконайте комплекс тайцзіцюань безперервно й рівномірно, плавно переносячи вагу між ногами та узгоджуючи поперек, руки й погляд, зокрема контрольовані рівноваги та удари ногами.\n3. Зберігайте рівний темп до останньої пози, потім завершіть, опустивши руки й приставивши стопи.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

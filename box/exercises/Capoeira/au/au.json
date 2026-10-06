@@ -1,0 +1,87 @@
+{
+  "id": "49.11",
+  "key": "capoeira_au",
+  "title": "Aú",
+  "description": "1. On mats with clear space, stand side-on in a low ginga and place the near hand on the floor in line with the feet.\n2. Kick the legs up and over one at a time while the second hand lands further along the line, keeping the eyes on the floor ahead and the arms firm.\n3. Bring the legs down one after the other on the far side and rise into the ginga; use a low, bent-leg version until the full aú is stable.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Acrobatics",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Aú",
+      "description": "1. On mats with clear space, stand side-on in a low ginga and place the near hand on the floor in line with the feet.\n2. Kick the legs up and over one at a time while the second hand lands further along the line, keeping the eyes on the floor ahead and the arms firm.\n3. Bring the legs down one after the other on the far side and rise into the ginga; use a low, bent-leg version until the full aú is stable.",
+      "sectionTitle": "Acrobatics"
+    },
+    "es": {
+      "title": "Aú",
+      "description": "1. Sobre colchonetas y con espacio libre, colócate de lado en una ginga baja y apoya la mano cercana en el suelo en línea con los pies.\n2. Lanza las piernas arriba y por encima una a una mientras la segunda mano se apoya más adelante en la línea, con la mirada en el suelo y los brazos firmes.\n3. Baja las piernas una tras otra al otro lado y sube a la ginga; usa una versión baja con piernas flexionadas hasta que el aú completo sea estable.",
+      "sectionTitle": "Acrobacias"
+    },
+    "pt": {
+      "title": "Aú",
+      "description": "1. Em colchonetes e com espaço livre, fique de lado em uma ginga baixa e apoie a mão próxima no chão em linha com os pés.\n2. Lance as pernas para cima e por cima uma de cada vez enquanto a segunda mão apoia mais à frente na linha, olhando o chão e com braços firmes.\n3. Desça as pernas uma após a outra do outro lado e suba para a ginga; use uma versão baixa com pernas flexionadas até o aú completo ficar estável.",
+      "sectionTitle": "Acrobacias"
+    },
+    "fr": {
+      "title": "Aú",
+      "description": "1. Sur tapis et avec de l’espace, placez-vous de profil dans une ginga basse et posez la main proche au sol dans l’alignement des pieds.\n2. Lancez les jambes l’une après l’autre par-dessus pendant que la seconde main se pose plus loin sur la ligne, regard au sol et bras fermes.\n3. Reposez les jambes l’une après l’autre de l’autre côté et revenez dans la ginga ; utilisez une version basse jambes fléchies tant que l’aú complet n’est pas stable.",
+      "sectionTitle": "Acrobaties"
+    },
+    "de": {
+      "title": "Aú",
+      "description": "1. Stelle dich auf Matten mit freiem Raum seitlich in eine tiefe Ginga und setze die nahe Hand in einer Linie mit den Füßen auf.\n2. Schwinge die Beine nacheinander nach oben und hinüber, während die zweite Hand weiter auf der Linie landet, Blick zum Boden, Arme fest.\n3. Setze die Beine nacheinander auf der anderen Seite ab und richte dich in die Ginga auf; übe eine tiefe Variante mit gebeugten Beinen, bis der volle Aú stabil ist.",
+      "sectionTitle": "Akrobatik"
+    },
+    "it": {
+      "title": "Aú",
+      "description": "1. Su materassini e con spazio libero, mettiti di fianco in una ginga bassa e appoggia la mano vicina a terra in linea con i piedi.\n2. Lancia le gambe in alto e oltre una alla volta mentre la seconda mano si appoggia più avanti sulla linea, sguardo a terra e braccia salde.\n3. Riporta giù le gambe una dopo l’altra dall’altro lato e risali in ginga; usa una versione bassa a gambe piegate finché l’aú completo non è stabile.",
+      "sectionTitle": "Acrobazie"
+    },
+    "zh-Hans": {
+      "title": "侧手翻（Aú）",
+      "description": "1. 在垫子上并确保空间充足，以低位金加侧身站立，近侧手按在与双脚同一直线的地面上。\n2. 双腿依次向上翻越，另一只手沿直线向前撑地，眼睛看前方地面，手臂保持稳固。\n3. 双腿依次落在另一侧并起身回到金加步；在完整动作稳定之前，先练低位屈腿版本。",
+      "sectionTitle": "技巧动作"
+    },
+    "ja": {
+      "title": "アウー",
+      "description": "1. マットの上で十分な空間を確保し、低いジンガで横向きに立ち、近い方の手を足と一直線上の床につきます。\n2. 脚を一本ずつ振り上げて越え、二本目の手をライン上の先につき、目線は前方の床、腕はしっかり保ちます。\n3. 反対側へ脚を一本ずつ下ろしてジンガに戻ります。完全なアウーが安定するまでは膝を曲げた低いバージョンで行います。",
+      "sectionTitle": "アクロバット"
+    },
+    "ko": {
+      "title": "아우",
+      "description": "1. 매트 위 충분한 공간에서 낮은 징가로 옆을 향해 서고 가까운 손을 발과 일직선인 바닥에 짚습니다.\n2. 다리를 하나씩 차올려 넘기며 두 번째 손을 선 위 더 앞쪽에 짚고, 시선은 앞쪽 바닥에 두고 팔을 단단히 유지합니다.\n3. 반대쪽에 다리를 하나씩 내리고 징가로 일어납니다. 완전한 아우가 안정될 때까지 무릎을 굽힌 낮은 버전으로 연습합니다.",
+      "sectionTitle": "아크로바틱"
+    },
+    "th": {
+      "title": "อาอู",
+      "description": "1. บนเบาะและมีพื้นที่ว่าง ยืนหันข้างในจิงกาต่ำ วางมือข้างใกล้บนพื้นให้อยู่แนวเดียวกับเท้า\n2. เหวี่ยงขาขึ้นข้ามทีละข้าง ขณะมือที่สองวางถัดไปตามแนว ตามองพื้นข้างหน้าและแขนมั่นคง\n3. วางขาลงทีละข้างอีกด้านแล้วลุกขึ้นสู่จิงกา ฝึกแบบต่ำงอขาจนกว่าอาอูเต็มรูปแบบจะมั่นคง",
+      "sectionTitle": "กายกรรม"
+    },
+    "ru": {
+      "title": "Ау",
+      "description": "1. На матах и при свободном пространстве встаньте боком в низкой джинге и поставьте ближнюю руку на пол на одной линии со стопами.\n2. Поочерёдно забросьте ноги вверх и через себя, ставя вторую руку дальше по линии, глядя на пол впереди и держа руки твёрдо.\n3. Поочерёдно опустите ноги на другой стороне и поднимитесь в джингу; используйте низкий вариант с согнутыми ногами, пока полное ау не станет устойчивым.",
+      "sectionTitle": "Акробатика"
+    },
+    "uk": {
+      "title": "Ау",
+      "description": "1. На матах і з вільним простором станьте боком у низькій джинзі й поставте ближню руку на підлогу на одній лінії зі стопами.\n2. По черзі закиньте ноги вгору й через себе, ставлячи другу руку далі по лінії, дивлячись на підлогу попереду й тримаючи руки твердо.\n3. По черзі опустіть ноги з іншого боку й підведіться в джингу; використовуйте низький варіант із зігнутими ногами, доки повне ау не стане стійким.",
+      "sectionTitle": "Акробатика"
+    }
+  }
+}

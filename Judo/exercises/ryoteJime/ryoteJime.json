@@ -1,0 +1,90 @@
+{
+  "id": "41.95",
+  "key": "judo_ryote_jime",
+  "title": "Ryote Jime",
+  "description": "1. From mount or guard, grip the partner's left collar with the left hand and right collar with the right hand, without crossing the arms.\n2. Turn the wrists inward so the knuckle side of each wrist presses the side of the neck.\n3. Draw the collars together gradually and release immediately at a tap or signal.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "7 Groundwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ryote Jime",
+      "description": "1. From mount or guard, grip the partner's left collar with the left hand and right collar with the right hand, without crossing the arms.\n2. Turn the wrists inward so the knuckle side of each wrist presses the side of the neck.\n3. Draw the collars together gradually and release immediately at a tap or signal.",
+      "sectionTitle": "Groundwork"
+    },
+    "es": {
+      "title": "Ryote Jime",
+      "description": "1. Desde la montada o la guardia, agarra el cuello izquierdo del compañero con la mano izquierda y el derecho con la derecha, sin cruzar los brazos.\n2. Gira las muñecas hacia dentro para que el lado de los nudillos de cada muñeca presione el lado del cuello.\n3. Junta los cuellos de forma gradual y suelta de inmediato ante un golpe de rendición o señal.",
+      "sectionTitle": "Trabajo en suelo"
+    },
+    "pt": {
+      "title": "Ryote Jime",
+      "description": "1. Da montada ou da guarda, agarre a gola esquerda do parceiro com a mão esquerda e a direita com a direita, sem cruzar os braços.\n2. Gire os punhos para dentro para que o lado dos nós dos dedos de cada punho pressione a lateral do pescoço.\n3. Junte as golas gradualmente e solte imediatamente a um toque de desistência ou sinal.",
+      "sectionTitle": "Trabalho de solo"
+    },
+    "fr": {
+      "title": "Ryote Jime",
+      "description": "1. Depuis la montée ou la garde, saisissez son col gauche de la main gauche et le droit de la main droite, sans croiser les bras.\n2. Tournez les poignets vers l’intérieur pour que le côté des phalanges de chaque poignet presse le côté du cou.\n3. Rapprochez progressivement les cols et relâchez immédiatement au tapotement ou au signal.",
+      "sectionTitle": "Travail au sol"
+    },
+    "de": {
+      "title": "Ryote Jime",
+      "description": "1. Fasse aus der Mount oder Guard seinen linken Kragen mit der linken und den rechten mit der rechten Hand, ohne die Arme zu kreuzen.\n2. Drehe die Handgelenke nach innen, sodass die Knöchelseite jedes Handgelenks auf die Halsseite drückt.\n3. Ziehe die Kragen allmählich zusammen und löse sofort bei Abklopfen oder Signal.",
+      "sectionTitle": "Bodentechniken"
+    },
+    "it": {
+      "title": "Ryote Jime",
+      "description": "1. Dalla monta o dalla guardia, afferra il colletto sinistro del compagno con la mano sinistra e il destro con la destra, senza incrociare le braccia.\n2. Ruota i polsi verso l’interno così che il lato delle nocche di ogni polso prema sul lato del collo.\n3. Avvicina gradualmente i colletti e rilascia subito al tap o a un segnale.",
+      "sectionTitle": "Lavoro a terra"
+    },
+    "zh-Hans": {
+      "title": "两手绞",
+      "description": "1. 从骑乘位或防守位，左手抓搭档左领，右手抓右领，双臂不交叉。\n2. 手腕向内转，使每只手腕的指节侧压迫颈部侧面。\n3. 逐渐把两侧衣领拉拢，搭档拍击或示意时立即松开。",
+      "sectionTitle": "寝技"
+    },
+    "ja": {
+      "title": "両手絞",
+      "description": "1. 馬乗りまたはガードから、腕を交差させずに左手で相手の左襟、右手で右襟を握ります。\n2. 手首を内側へ返し、それぞれの手首の拳側で首の側面を圧迫します。\n3. 襟を徐々に寄せ、タップや合図で直ちに解きます。",
+      "sectionTitle": "寝技"
+    },
+    "ko": {
+      "title": "료테 지메",
+      "description": "1. 마운트나 가드에서 팔을 교차하지 않고 왼손으로 파트너 왼쪽 깃, 오른손으로 오른쪽 깃을 잡습니다.\n2. 손목을 안쪽으로 돌려 각 손목의 주먹 쪽이 목 옆을 누르게 합니다.\n3. 깃을 서서히 모으고 탭이나 신호 시 즉시 놓습니다.",
+      "sectionTitle": "굳히기"
+    },
+    "th": {
+      "title": "เรียวเตะจิเมะ",
+      "description": "1. จากท่าคร่อมหรือการ์ด ใช้มือซ้ายจับปกซ้ายและมือขวาจับปกขวาของคู่ฝึก โดยไม่ไขว้แขน\n2. หมุนข้อมือเข้าด้านใน ให้ด้านข้อนิ้วของข้อมือแต่ละข้างกดด้านข้างคอ\n3. ค่อย ๆ ดึงปกเสื้อเข้าหากัน และปล่อยทันทีเมื่อคู่ฝึกตบยอมแพ้หรือให้สัญญาณ",
+      "sectionTitle": "การต่อสู้บนพื้น"
+    },
+    "ru": {
+      "title": "Рётэ-дзимэ",
+      "description": "1. Из положения верхом или из гарда захватите левый ворот партнёра левой рукой, а правый — правой, не скрещивая руки.\n2. Поверните запястья внутрь, чтобы сторона костяшек каждого запястья давила на боковую сторону шеи.\n3. Постепенно сводите вороты и немедленно отпускайте при постукивании или сигнале.",
+      "sectionTitle": "Партер"
+    },
+    "uk": {
+      "title": "Рьоте-дзіме",
+      "description": "1. З положення верхи або з гарду захопіть лівий комір партнера лівою рукою, а правий — правою, не схрещуючи рук.\n2. Поверніть зап’ястя всередину, щоб бік кісточок кожного зап’ястя тиснув на бокову сторону шиї.\n3. Поступово зводьте коміри й негайно відпускайте при постукуванні чи сигналі.",
+      "sectionTitle": "Партер"
+    }
+  }
+}

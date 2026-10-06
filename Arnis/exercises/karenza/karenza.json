@@ -1,0 +1,90 @@
+{
+  "id": "45.4",
+  "key": "arnis_karenza",
+  "title": "Karenza",
+  "description": "1. Start in stance with the stick relaxed and the free hand at the chest.\n2. Flow freely through the white-belt strikes, blocks, and footwork in all directions like shadow sparring, linking techniques without stopping.\n3. Vary angles and rhythm, keep balance on every step, and finish back in guard.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "arnis",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Solo Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Karenza",
+      "description": "1. Start in stance with the stick relaxed and the free hand at the chest.\n2. Flow freely through the white-belt strikes, blocks, and footwork in all directions like shadow sparring, linking techniques without stopping.\n3. Vary angles and rhythm, keep balance on every step, and finish back in guard.",
+      "sectionTitle": "Solo Drills"
+    },
+    "es": {
+      "title": "Karenza",
+      "description": "1. Empieza en guardia con el bastón relajado y la mano libre en el pecho.\n2. Fluye libremente con los golpes, bloqueos y desplazamientos de cinturón blanco en todas direcciones, como un combate de sombra, enlazando técnicas sin parar.\n3. Varía ángulos y ritmo, mantén el equilibrio en cada paso y termina de nuevo en guardia.",
+      "sectionTitle": "Ejercicios individuales"
+    },
+    "pt": {
+      "title": "Karenza",
+      "description": "1. Comece na base com o bastão relaxado e a mão livre no peito.\n2. Flua livremente pelos golpes, bloqueios e deslocamentos de faixa branca em todas as direções, como luta de sombra, ligando técnicas sem parar.\n3. Varie ângulos e ritmo, mantenha o equilíbrio a cada passo e termine de volta em guarda.",
+      "sectionTitle": "Exercícios individuais"
+    },
+    "fr": {
+      "title": "Karenza",
+      "description": "1. Commencez en garde, bâton détendu et main libre à la poitrine.\n2. Enchaînez librement frappes, blocages et déplacements de ceinture blanche dans toutes les directions, comme un combat contre une ombre, sans vous arrêter.\n3. Variez angles et rythme, gardez l’équilibre à chaque pas et terminez en garde.",
+      "sectionTitle": "Exercices en solo"
+    },
+    "de": {
+      "title": "Karenza",
+      "description": "1. Beginne in der Stellung mit locker gehaltenem Stock und freier Hand an der Brust.\n2. Fließe frei durch die Weißgurt-Schläge, Blocks und Schritte in alle Richtungen wie beim Schattenkampf und verbinde die Techniken ohne Pause.\n3. Variiere Winkel und Rhythmus, halte bei jedem Schritt das Gleichgewicht und ende wieder in der Deckung.",
+      "sectionTitle": "Soloübungen"
+    },
+    "it": {
+      "title": "Karenza",
+      "description": "1. Inizia in posizione con il bastone rilassato e la mano libera al petto.\n2. Fluisci liberamente tra colpi, parate e spostamenti da cintura bianca in tutte le direzioni, come in un combattimento con l’ombra, collegando le tecniche senza fermarti.\n3. Varia angoli e ritmo, mantieni l’equilibrio a ogni passo e termina di nuovo in guardia.",
+      "sectionTitle": "Esercizi individuali"
+    },
+    "zh-Hans": {
+      "title": "自由流动练习（卡伦萨）",
+      "description": "1. 以放松持棍的站姿开始，空手在胸前。\n2. 像影子对练一样，在各个方向自由连贯白带阶段的击打、格挡和步法，技术之间不停顿。\n3. 变化角度和节奏，每一步保持平衡，最后回到戒备。",
+      "sectionTitle": "单人练习"
+    },
+    "ja": {
+      "title": "カレンザ",
+      "description": "1. 棒を楽に持ち、空いた手を胸に置いた構えから始めます。\n2. シャドースパーリングのように、白帯の打ち・受け・足運びをあらゆる方向へ止めずにつなげて自由に流します。\n3. 角度とリズムを変え、一歩ごとにバランスを保ち、最後は構えに戻ります。",
+      "sectionTitle": "単独練習"
+    },
+    "ko": {
+      "title": "카렌사",
+      "description": "1. 스틱을 편하게 들고 빈손을 가슴에 둔 자세로 시작합니다.\n2. 섀도 스파링처럼 흰 띠 타격, 막기, 발놀림을 모든 방향으로 멈추지 않고 자유롭게 이어갑니다.\n3. 각도와 리듬을 바꾸고 매 걸음 균형을 유지하며 마지막에 가드로 돌아옵니다.",
+      "sectionTitle": "단독 훈련"
+    },
+    "th": {
+      "title": "คาเรนซา",
+      "description": "1. เริ่มในท่ายืนโดยถือไม้แบบผ่อนคลายและมือที่ว่างอยู่ที่หน้าอก\n2. เคลื่อนไหลอย่างอิสระผ่านการตี การปัดป้อง และฟุตเวิร์กระดับสายขาวในทุกทิศทาง คล้ายชกลม โดยเชื่อมเทคนิคไม่หยุด\n3. เปลี่ยนมุมและจังหวะ รักษาสมดุลทุกก้าว และจบกลับสู่การ์ด",
+      "sectionTitle": "การฝึกเดี่ยว"
+    },
+    "ru": {
+      "title": "Каренза",
+      "description": "1. Начните в стойке, палка расслаблена, свободная рука у груди.\n2. Свободно перетекайте через удары, блоки и передвижения белого пояса во всех направлениях, как в бою с тенью, связывая техники без остановок.\n3. Меняйте углы и ритм, сохраняйте равновесие на каждом шаге и закончите в защите.",
+      "sectionTitle": "Одиночные упражнения"
+    },
+    "uk": {
+      "title": "Каренса",
+      "description": "1. Почніть у стійці, палиця розслаблена, вільна рука біля грудей.\n2. Вільно перетікайте через удари, блоки й пересування білого пояса в усіх напрямках, як у бою з тінню, поєднуючи техніки без зупинок.\n3. Змінюйте кути й ритм, зберігайте рівновагу на кожному кроці й завершіть у захисті.",
+      "sectionTitle": "Одиночні вправи"
+    }
+  }
+}

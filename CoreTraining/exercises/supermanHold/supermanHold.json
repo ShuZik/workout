@@ -1,0 +1,90 @@
+{
+  "id": "14.22",
+  "key": "calisthenics_superman_hold",
+  "title": "Superman Hold",
+  "description": "1. Lie face down with the legs long, arms extended, and forehead facing the floor.\n2. Brace lightly and lift the arms, chest, and legs only a small distance without compressing the lower back.\n3. Keep the neck in line with the spine, hold briefly, then lower all limbs under control.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Intermediate",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Superman Hold",
+      "description": "1. Lie face down with the legs long, arms extended, and forehead facing the floor.\n2. Brace lightly and lift the arms, chest, and legs only a small distance without compressing the lower back.\n3. Keep the neck in line with the spine, hold briefly, then lower all limbs under control.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Superman estático",
+      "description": "1. Túmbate boca abajo con las piernas estiradas, los brazos extendidos y la frente hacia el suelo.\n2. Activa suavemente el tronco y eleva los brazos, el pecho y las piernas solo un poco, sin comprimir la zona lumbar.\n3. Mantén el cuello alineado con la columna, sostén brevemente y baja todas las extremidades con control.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Superman isométrico",
+      "description": "1. Deite de barriga para baixo com pernas alongadas, braços estendidos e testa voltada para o chão.\n2. Ative levemente o tronco e levante braços, peito e pernas apenas um pouco, sem comprimir a lombar.\n3. Mantenha o pescoço alinhado à coluna, segure brevemente e abaixe todos os membros com controle.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Maintien Superman",
+      "description": "1. Allongez-vous sur le ventre, jambes allongées, bras tendus et front vers le sol.\n2. Engagez légèrement le tronc et soulevez un peu les bras, la poitrine et les jambes sans comprimer le bas du dos.\n3. Gardez le cou aligné avec la colonne, maintenez brièvement puis abaissez tous les membres avec contrôle.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "Superman-Halten",
+      "description": "1. Lege dich auf den Bauch mit langen Beinen, ausgestreckten Armen und Stirn zum Boden.\n2. Spanne den Rumpf leicht an und hebe Arme, Brust und Beine nur wenig an, ohne den unteren Rücken zu stauchen.\n3. Halte den Nacken in Linie mit der Wirbelsäule, halte kurz und senke dann alle Gliedmaßen kontrolliert ab.",
+      "sectionTitle": "Fortgeschritten"
+    },
+    "it": {
+      "title": "Tenuta Superman",
+      "description": "1. Sdraiati a pancia in giù con gambe allungate, braccia distese e fronte rivolta al pavimento.\n2. Attiva leggermente il tronco e solleva di poco braccia, petto e gambe senza comprimere la zona lombare.\n3. Mantieni il collo allineato alla colonna, tieni brevemente e abbassa tutti gli arti con controllo.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "超人式保持",
+      "description": "1. 俯卧，双腿伸长，双臂伸直，额头朝向地面。\n2. 轻轻收紧躯干，将手臂、胸部和双腿仅抬起少许，不要挤压下背部。\n3. 保持颈部与脊柱对齐，短暂保持，然后控制着放下所有四肢。",
+      "sectionTitle": "进阶"
+    },
+    "ja": {
+      "title": "スーパーマンホールド",
+      "description": "1. うつ伏せになり、脚を伸ばし、腕を伸ばして、額を床に向けます。\n2. 体幹を軽く締め、腰を圧迫しないよう腕、胸、脚を少しだけ持ち上げます。\n3. 首を背骨と一直線に保ち、短く保持してから四肢をゆっくり下ろします。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "슈퍼맨 홀드",
+      "description": "1. 엎드려 다리와 팔을 길게 뻗고 이마를 바닥 쪽으로 향합니다.\n2. 몸통에 가볍게 힘을 주고 허리를 압박하지 않도록 팔, 가슴, 다리를 조금만 들어 올립니다.\n3. 목을 척추와 일직선으로 유지하며 잠시 버틴 뒤 모든 팔다리를 조절하며 내립니다.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "ค้างท่าซูเปอร์แมน",
+      "description": "1. นอนคว่ำ เหยียดขาและแขนยาว และหันหน้าผากเข้าหาพื้น\n2. เกร็งลำตัวเบา ๆ แล้วยกแขน หน้าอก และขาขึ้นเพียงเล็กน้อยโดยไม่กดอัดหลังส่วนล่าง\n3. รักษาคอให้อยู่ในแนวเดียวกับกระดูกสันหลัง ค้างสั้น ๆ แล้วลดแขนขาทั้งหมดลงอย่างควบคุม",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Удержание «Супермен»",
+      "description": "1. Лягте на живот, вытяните ноги и руки, направьте лоб к полу.\n2. Слегка напрягите корпус и немного поднимите руки, грудь и ноги, не сдавливая поясницу.\n3. Держите шею на одной линии с позвоночником, ненадолго задержитесь, затем плавно опустите все конечности.",
+      "sectionTitle": "Средний уровень"
+    },
+    "uk": {
+      "title": "Утримання «Супермен»",
+      "description": "1. Ляжте на живіт, витягніть ноги й руки та спрямуйте лоб до підлоги.\n2. Злегка напружте тулуб і трохи підніміть руки, груди та ноги, не стискаючи поперек.\n3. Тримайте шию на одній лінії з хребтом, ненадовго затримайтеся, потім плавно опустіть усі кінцівки.",
+      "sectionTitle": "Середній рівень"
+    }
+  }
+}

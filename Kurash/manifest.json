@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#67C4ED",
+    "colorType": "cyan",
+    "folder": "Kurash",
+    "id": "75",
+    "icon": "Kurash/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Kurash",
+    "workoutType": "kurash",
+    "translations": {
+      "en": {
+        "title": "Kurash"
+      },
+      "es": {
+        "title": "Kurash"
+      },
+      "pt": {
+        "title": "Kurash"
+      },
+      "fr": {
+        "title": "Kourach"
+      },
+      "de": {
+        "title": "Kurasch"
+      },
+      "it": {
+        "title": "Kurash"
+      },
+      "zh-Hans": {
+        "title": "库拉什"
+      },
+      "ja": {
+        "title": "クラッシュ"
+      },
+      "ko": {
+        "title": "쿠라시"
+      },
+      "th": {
+        "title": "คูราช"
+      },
+      "ru": {
+        "title": "Кураш"
+      },
+      "uk": {
+        "title": "Кураш"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Kurash/exercises/kurash/Icon.png",
+      "json": "Kurash/exercises/kurash/kurash.json"
+    },
+    {
+      "icon": "Kurash/exercises/gripFighting/Icon.png",
+      "json": "Kurash/exercises/gripFighting/gripFighting.json"
+    },
+    {
+      "icon": "Kurash/exercises/orqadanChalish/Icon.png",
+      "json": "Kurash/exercises/orqadanChalish/orqadanChalish.json"
+    },
+    {
+      "icon": "Kurash/exercises/oldidanChalish/Icon.png",
+      "json": "Kurash/exercises/oldidanChalish/oldidanChalish.json"
+    },
+    {
+      "icon": "Kurash/exercises/ichkiIldirma/Icon.png",
+      "json": "Kurash/exercises/ichkiIldirma/ichkiIldirma.json"
+    },
+    {
+      "icon": "Kurash/exercises/tizzadanTosib/Icon.png",
+      "json": "Kurash/exercises/tizzadanTosib/tizzadanTosib.json"
+    },
+    {
+      "icon": "Kurash/exercises/belOshirish/Icon.png",
+      "json": "Kurash/exercises/belOshirish/belOshirish.json"
+    },
+    {
+      "icon": "Kurash/exercises/qarshiUsul/Icon.png",
+      "json": "Kurash/exercises/qarshiUsul/qarshiUsul.json"
+    }
+  ]
+}

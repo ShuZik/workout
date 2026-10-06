@@ -1,0 +1,87 @@
+{
+  "id": "105.8",
+  "key": "unifight_ring_fight",
+  "title": "Unifight Ring Fight",
+  "description": "1. After a short obstacle run and about one minute of rest, enter the padded ring with a matched partner, full protective gear and a coach.\n2. Spar a controlled round with punches, kicks, throws and brief ground control within the agreed rules.\n3. Stop on the coach's command or any tap, reset, and alternate rounds with obstacle runs.",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Unifight Ring Fight",
+      "description": "1. After a short obstacle run and about one minute of rest, enter the padded ring with a matched partner, full protective gear and a coach.\n2. Spar a controlled round with punches, kicks, throws and brief ground control within the agreed rules.\n3. Stop on the coach's command or any tap, reset, and alternate rounds with obstacle runs.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Combate en el ring de Unifight",
+      "description": "1. Tras un recorrido corto de obstáculos y un minuto de descanso aproximadamente, entra al ring acolchado con un compañero de nivel similar, protección completa y un entrenador.\n2. Haz un asalto controlado con puñetazos, patadas, proyecciones y breve control en el suelo dentro de las reglas acordadas.\n3. Para a la orden del entrenador o ante cualquier palmada, reinicia y alterna asaltos con recorridos de obstáculos.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Luta no ringue de Unifight",
+      "description": "1. Após uma curta pista de obstáculos e cerca de um minuto de descanso, entre no ringue acolchoado com um parceiro de nível semelhante, proteção completa e um treinador.\n2. Faça um round controlado com socos, chutes, projeções e breve controle no chão dentro das regras combinadas.\n3. Pare ao comando do treinador ou a qualquer toque, reinicie e alterne rounds com passagens pela pista.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Combat sur ring d’Unifight",
+      "description": "1. Après un court parcours d’obstacles et environ une minute de repos, entrez sur le ring rembourré avec un partenaire de niveau comparable, des protections complètes et un entraîneur.\n2. Disputez un round contrôlé avec coups de poing, coups de pied, projections et bref contrôle au sol selon les règles convenues.\n3. Arrêtez au commandement de l’entraîneur ou à toute frappe au sol, recommencez et alternez rounds et parcours.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Unifight-Ringkampf",
+      "description": "1. Betritt nach einem kurzen Hindernislauf und etwa einer Minute Pause den gepolsterten Ring mit passendem Partner, voller Schutzausrüstung und Trainer.\n2. Sparre eine kontrollierte Runde mit Schlägen, Tritten, Würfen und kurzer Bodenkontrolle nach den vereinbarten Regeln.\n3. Stoppe auf Kommando des Trainers oder bei jedem Abklopfen, setze neu an und wechsle Runden mit Hindernisläufen ab.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Combattimento sul ring di Unifight",
+      "description": "1. Dopo un breve percorso a ostacoli e circa un minuto di recupero, entra nel ring imbottito con un compagno di livello simile, protezioni complete e un allenatore.\n2. Fai un round controllato con pugni, calci, proiezioni e breve controllo a terra secondo le regole concordate.\n3. Fermati al comando dell’allenatore o a qualsiasi battito, riparti e alterna round e percorsi a ostacoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "Unifight擂台对抗",
+      "description": "1. 完成一段短障碍跑并休息约一分钟后，与水平相当的同伴穿戴全套护具在教练监督下进入有护垫的擂台。\n2. 在约定规则内进行一回合可控对练，使用拳、腿、摔法和短暂的地面控制。\n3. 听到教练口令或任何拍垫即停，重置后将对练回合与障碍跑交替进行。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ユニファイトのリングファイト",
+      "description": "1. 短い障害物走のあと約1分休み、力量の近いパートナーと完全な防具を着け、指導者のいるパッド付きリングに入ります。\n2. 合意したルールの範囲で、突き、蹴り、投げ、短い寝技の抑えを使ってコントロールされたラウンドを行います。\n3. 指導者の号令やタップで止め、リセットして、ラウンドと障害物走を交互に行います。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "유니파이트 링 파이트",
+      "description": "1. 짧은 장애물 달리기 후 약 1분 쉬고, 비슷한 수준의 파트너와 보호구를 모두 착용한 채 코치가 있는 패드 링에 들어갑니다.\n2. 합의한 규칙 안에서 펀치, 킥, 던지기, 짧은 그라운드 제압으로 통제된 라운드를 진행합니다.\n3. 코치의 구령이나 탭에 멈추고 다시 시작하며, 라운드와 장애물 달리기를 ���갈아 합니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "การต่อสู้บนเวทียูนิไฟต์",
+      "description": "1. หลังวิ่งผ่านเครื่องกีดขวางสั้น ๆ และพักราวหนึ่งนาที เข้าสู่เวทีที่มีเบาะกับค���่ฝึกระดับใกล้เคียง สวมอุปกรณ์ป้องกันครบและมีโค้ช\n2. ซ้อมหนึ่งยกอย่างควบคุมด้วยหมัด เตะ ทุ่ม และการคุมบนพื้นช่วงสั้น ภายใต้กติกาที่ตกลง\n3. หยุดตามคำสั่งโค้ชหรือเมื่อมีการตบเบาะ เริ่มใหม่ และสลับยกซ้อมกับการวิ่งเครื่องกีดขวาง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Бой на ринге в универсальном бою",
+      "description": "1. После короткой полосы препятствий и примерно минуты отдыха выйдите на ринговую площадку с равным по уровню партнёром, в полной защите и под присмотром тренера.\n2. Проведите контролируемый раунд с ударами руками и ногами, бросками и кратким контролем в партере по оговорённым правилам.\n3. Останавливайтесь по команде тренера или по любому хлопку, начинайте заново и чередуйте раунды с прохождением полосы.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Бій на рингу в універсальному бою",
+      "description": "1. Після короткої смуги перешкод і приблизно хвилини відпочинку вийдіть на ринговий майданчик із рівним за рівнем партнером, у повному захисті й під наглядом тренера.\n2. Проведіть контрольований раунд з ударами руками й ногами, кидками та коротким контролем у партері за узгодженими правилами.\n3. Зупиняйтеся за командою тренера або за будь-яким поплескуванням, починайте знову й чергуйте раунди з проходженням смуги.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

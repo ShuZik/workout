@@ -1,0 +1,87 @@
+{
+  "id": "89.1",
+  "key": "savate",
+  "title": "Savate",
+  "description": "1. Wear savate shoes and gloves and take a side-on guard with the lead hand forward, knees soft and weight slightly on the rear leg.\n2. Move with small steps and combine the savate kicks fouetté, chassé, revers and coup de pied bas with straight punches, hooks and uppercuts.\n3. Touch only with the shoe or glove, never the shin or knee, and recover guard and distance after every combination.",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Savate",
+      "description": "1. Wear savate shoes and gloves and take a side-on guard with the lead hand forward, knees soft and weight slightly on the rear leg.\n2. Move with small steps and combine the savate kicks fouetté, chassé, revers and coup de pied bas with straight punches, hooks and uppercuts.\n3. Touch only with the shoe or glove, never the shin or knee, and recover guard and distance after every combination.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Savate",
+      "description": "1. Usa zapatillas de savate y guantes y adopta una guardia de perfil con la mano adelantada, rodillas flexibles y el peso algo sobre la pierna trasera.\n2. Desplázate con pasos cortos y combina las patadas fouetté, chassé, revers y coup de pied bas con golpes rectos, ganchos y uppercuts.\n3. Toca solo con la zapatilla o el guante, nunca con la espinilla o la rodilla, y recupera guardia y distancia tras cada combinación.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Savate",
+      "description": "1. Use sapatilhas de savate e luvas e assuma uma guarda de lado com a mão da frente avançada, joelhos soltos e o peso um pouco na perna de trás.\n2. Desloque-se com passos curtos e combine os chutes fouetté, chassé, revers e coup de pied bas com diretos, ganchos e uppercuts.\n3. Toque apenas com a sapatilha ou a luva, nunca com a canela ou o joelho, e recupere guarda e distância após cada combinação.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Savate",
+      "description": "1. Chaussez les chaussures de savate et les gants, et prenez une garde de profil, main avant devant, genoux souples et poids légèrement sur la jambe arrière.\n2. Déplacez-vous à petits pas et enchaînez fouetté, chassé, revers et coup de pied bas avec directs, crochets et uppercuts.\n3. Touchez uniquement avec la chaussure ou le gant, jamais avec le tibia ou le genou, et retrouvez garde et distance après chaque enchaînement.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Savate",
+      "description": "1. Trage Savate-Schuhe und Handschuhe und nimm eine seitliche Deckung ein: Führhand vorn, Knie locker, Gewicht leicht auf dem hinteren Bein.\n2. Bewege dich mit kleinen Schritten und kombiniere die Savate-Tritte Fouetté, Chassé, Revers und Coup de pied bas mit Geraden, Haken und Aufwärtshaken.\n3. Triff nur mit Schuh oder Handschuh, nie mit Schienbein oder Knie, und stelle nach jeder Kombination Deckung und Distanz wieder her.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Savate",
+      "description": "1. Indossa scarpe da savate e guantoni e assumi una guardia di profilo con la mano avanzata davanti, ginocchia morbide e peso leggermente sulla gamba posteriore.\n2. Muoviti a piccoli passi e combina i calci fouetté, chassé, revers e coup de pied bas con diretti, ganci e montanti.\n3. Tocca solo con la scarpa o il guantone, mai con la tibia o il ginocchio, e recupera guardia e distanza dopo ogni combinazione.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "法式踢拳（Savate）",
+      "description": "1. 穿上法式踢拳鞋和拳套，侧身站成防守势，前手在前，膝盖放松，重心略偏后腿。\n2. 以小步移动，将鞭腿（fouetté）、蹬踢（chassé）、反勾踢（revers）和低踢（coup de pied bas）与直拳、勾拳、上勾拳组合。\n3. 只用鞋或拳套接触，绝不用小腿或膝盖，每次组合后恢复防守与距离。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "サバット",
+      "description": "1. サバットシューズとグローブを着け、前手を出した半身の構えをとり、膝を柔らかく、体重をやや後ろ脚に置きます。\n2. 小さなステップで動き、フェッテ、シャッセ、ルヴェール、クー・ド・ピエ・バをストレート、フック、アッパーと組み合わせます。\n3. 当てるのはシューズ��グローブだけにし、すねや膝は使わず、コンビネーションごとに構えと間合いを戻します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "사바트",
+      "description": "1. 사바트 신발과 글러브를 착용하고 앞손을 내민 옆선 가드를 잡으며 무릎은 부드럽게, 체중은 뒷다리에 약간 둡니다.\n2. 작은 스텝으로 움직이며 푸에테, 샤세, 르베르, 쿠 드 피에 바 킥을 스트레이트, 훅, 어퍼컷과 조합합니다.\n3. 신발이나 글러브로만 접촉하고 정강이나 무릎은 쓰지 않으며, 콤비네이션마다 가드와 거리를 회복합��다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ซาวาต",
+      "description": "1. สวมรองเท้าซาวาตและนวม ยืนการ์ดเฉียงข้าง มือหน้ายื่นไปข้างหน้า เข่าผ่อนคลาย น้ำหนักค่อนไปทางขาหลังเล็กน้อย\n2. เคลื่อนที่ด้วยก้าวสั้น ๆ และผสมลูกเตะฟูเอ็ตเต ชาสเซ เรอแวร์ และคูเดอปีเยบา กับหมัดตรง หมัดฮุก และอัปเปอร์คัต\n3. สัมผัสด้วยรองเท้าหรือนวมเท่านั้น ห้ามใช้หน้าแข้งหรือเข่า และกลับสู่การ์ดและระยะเดิมหลังทุกชุด",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Сават",
+      "description": "1. Наденьте обувь для савата и перчатки, встаньте в боковую стойку с выдвинутой передней рукой, мягкими коленями и весом чуть больше на задней ноге.\n2. Перемещайтесь короткими шагами и сочетайте удары ногами фуэте, шассе, ревер и ку-де-пье-ба с прямыми, боковыми и апперкотами.\n3. Касайтесь только обувью или перчаткой, никогда голенью или коленом, и после каждой связки восстанавливайте защиту и дистанцию.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Сават",
+      "description": "1. Взуйте взуття для савату й одягніть рукавиці, станьте в бічну стійку з висунутою передньою рукою, м’якими колінами й вагою трохи більше на задній нозі.\n2. Пересувайтеся короткими кроками й поєднуйте удари ногами фуете, шасе, ревер і ку-де-п’є-ба з прямими, боковими й аперкотами.\n3. Торкайтеся лише взуттям або рукавицею, ніколи гомілкою чи коліном, і після кожної зв’язки відновлюйте захист і дистанцію.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

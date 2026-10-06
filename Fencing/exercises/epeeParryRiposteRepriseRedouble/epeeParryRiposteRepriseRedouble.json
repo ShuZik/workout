@@ -1,0 +1,90 @@
+{
+  "id": "54.36",
+  "key": "fencing_epee_parry_riposte_reprise_redouble",
+  "title": "Épée: Parry, Riposte, Reprise, Redouble",
+  "description": "1. With épées and full kit, the partner attacks; you parry and riposte, and the partner parries or retreats.\n2. Return to en garde and launch a reprise of attack; when the partner parries again, renew from the lunge with a redouble into a new opening.\n3. Recover after the final touch and swap roles; keep the hand covering the line throughout to avoid double hits.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Sequences",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Épée: Parry, Riposte, Reprise, Redouble",
+      "description": "1. With épées and full kit, the partner attacks; you parry and riposte, and the partner parries or retreats.\n2. Return to en garde and launch a reprise of attack; when the partner parries again, renew from the lunge with a redouble into a new opening.\n3. Recover after the final touch and swap roles; keep the hand covering the line throughout to avoid double hits.",
+      "sectionTitle": "Partner Sequences"
+    },
+    "es": {
+      "title": "Espada: parada, respuesta, reprise y redoble",
+      "description": "1. Con espada y equipo completo, el compañero ataca; tú paras y respondes, y el compañero para o retrocede.\n2. Vuelve a guardia y lanza una reprise de ataque; cuando el compañero vuelva a parar, renueva desde el fondo con un redoble a una nueva apertura.\n3. Recupera tras el toque final y cambia papeles; mantén la mano cubriendo la línea para evitar dobles toques.",
+      "sectionTitle": "Secuencias en pareja"
+    },
+    "pt": {
+      "title": "Espada: parada, resposta, reprise e redobramento",
+      "description": "1. Com espada e equipamento completo, o parceiro ataca; você para e responde, e o parceiro para ou recua.\n2. Volte à guarda e lance uma retomada de ataque; quando o parceiro parar de novo, renove do afundo com redobramento numa nova abertura.\n3. Recupere após o toque final e troque papéis; mantenha a mão cobrindo a linha para evitar toques duplos.",
+      "sectionTitle": "Sequências em dupla"
+    },
+    "fr": {
+      "title": "Épée : parade, riposte, reprise, redoublement",
+      "description": "1. À l’épée, équipés, le partenaire attaque ; vous parez et ripostez, et il pare ou rompt.\n2. Revenez en garde et lancez une reprise d’attaque ; s’il pare encore, renouvelez depuis la fente par un redoublement dans une nouvelle ouverture.\n3. Revenez après la touche finale et inversez ; gardez la main couvrant la ligne pour éviter les coups doubles.",
+      "sectionTitle": "Enchaînements à deux"
+    },
+    "de": {
+      "title": "Degen: Parade, Riposte, Reprise, Redoublement",
+      "description": "1. Mit Degen und voller Ausrüstung greift der Partner an; du parierst und ripostierst, der Partner pariert oder weicht.\n2. Kehre in die Stellung zurück und starte eine Reprise; pariert der Partner erneut, erneuere aus dem Ausfall mit einem Redoublement in eine neue Blöße.\n3. Kehre nach dem letzten Treffer zurück und tauscht; halte die Hand stets linienabdeckend, um Doppeltreffer zu vermeiden.",
+      "sectionTitle": "Partnerfolgen"
+    },
+    "it": {
+      "title": "Spada: parata, risposta, ripresa, raddoppio",
+      "description": "1. Con spada e attrezzatura completa, il compagno attacca; tu pari e rispondi, e il compagno para o arretra.\n2. Torna in guardia e lancia una ripresa d’attacco; quando il compagno para di nuovo, rinnova dall’affondo con un raddoppio in una nuova apertura.\n3. Rientra dopo la stoccata finale e scambiate; tieni la mano a coprire la linea per evitare colpi doppi.",
+      "sectionTitle": "Sequenze in coppia"
+    },
+    "zh-Hans": {
+      "title": "重剑：防守、还击、回位再攻、变线再攻",
+      "description": "1. 使用重剑并穿戴全套护具，同伴进攻；你防守并还击，同伴防守或后退。\n2. 回到实战姿势发起回位再攻；同伴再次防守时，在弓步中以变线再攻攻向新的空档。\n3. 最后一次击中后恢复并交换角色；手始终封住线位以避免互中。",
+      "sectionTitle": "双人组合"
+    },
+    "ja": {
+      "title": "エペ：パラード、リポスト、ルプリーズ、ルドゥブルマン",
+      "description": "1. エペと全装備で相手が攻撃し、あなたはパラードしてリポストし、相手はパラードするか下がります。\n2. アンガルドに戻ってルプリーズで攻撃し、相手が再びパラードしたら、ファントのまま新しい空きへルドゥブルマンします。\n3. 最後の突きの後に戻って交代します。相打ちを避けるため手は常にラインを覆います。",
+      "sectionTitle": "ペアシークエンス"
+    },
+    "ko": {
+      "title": "에페: 패리, 리포스트, 르프리즈, 르두블르망",
+      "description": "1. 에페와 전체 장비로 파트너가 공격하면 패리 후 리포스트하고, 파트너는 패리하거나 물러납니다.\n2. 앙가르드로 돌아와 르프리즈로 공격하고, 파트너가 다시 패리하면 런지 상태에서 새 빈틈으로 르두블르망합니다.\n3. 마지막 찌르기 후 돌아와 역할을 바꾸며, 동시 타격을 피하도록 손으로 라인을 계속 막습니다.",
+      "sectionTitle": "파트너 시퀀스"
+    },
+    "th": {
+      "title": "เอเป้: ปัด โต้กลับ เรอพรีซ เรอดูเบลอม็อง",
+      "description": "1. ใช้ดาบเอเป้และชุดป้องกันครบ คู่ฝึกโจมตี คุณปัดและโต้กลับ คู่ฝึกปัดหรือถอย\n2. กลับอองการ์ดแล้วโจมตีใหม่แบบเรอพรีซ เมื่อคู่ฝึกปัดอีกครั้ง ให้โจมตีใหม่จากท่าลันจ์ด้วยเรอดูเบลอม็องไปยังช่องว่างใหม่\n3. กลับท่าหลังแทงถึงครั้งสุดท้ายแล้วสลับบทบาท ใช้มือปิดแนวตลอดเพื่อเลี่ยงการแทงถึงพร้อมกัน",
+      "sectionTitle": "ลำดับท่าคู่"
+    },
+    "ru": {
+      "title": "Шпага: защита, ответ, реприза, редубль",
+      "description": "1. Со шпагой в полной экипировке партнёр атакует; вы берёте защиту и отвечаете, партнёр защищается или отступает.\n2. Вернитесь в стойку и выполните репризу атаки; когда партнёр снова защитится, возобновите из выпада редублем в новое открытие.\n3. После последнего укола вернитесь и поменяйтесь ролями; рука постоянно закрывает линию, чтобы избежать обоюдных уколов.",
+      "sectionTitle": "Связки в паре"
+    },
+    "uk": {
+      "title": "Шпага: захист, відповідь, реприза, редубль",
+      "description": "1. Зі шпагою в повному спорядженні партнер атакує; ви берете захист і відповідаєте, партнер захищається чи відступає.\n2. Поверніться в стійку й виконайте репризу атаки; коли партнер знову захиститься, відновіть із випаду редублем у нове відкриття.\n3. Після останнього уколу поверніться й поміняйтеся ролями; рука постійно закриває лінію, щоб уникнути обопільних уколів.",
+      "sectionTitle": "Зв'язки в парі"
+    }
+  }
+}

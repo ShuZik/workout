@@ -1,0 +1,87 @@
+{
+  "id": "40.40",
+  "key": "karate_jitte",
+  "title": "Jitte",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Begin with the left hand covering the right fist, then use palm-heel strikes, the mountain guard, and staff-catching blocks in horse and front stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Jitte",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Begin with the left hand covering the right fist, then use palm-heel strikes, the mountain guard, and staff-catching blocks in horse and front stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Jitte",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Empieza con la mano izquierda cubriendo el puño derecho y usa golpes de palma, la guardia en montaña y bloqueos de captura de bastón en kiba-dachi y posición adelantada.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Jitte",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Comece com a mão esquerda cobrindo o punho direito e use golpes com a base da palma, a guarda em montanha e bloqueios de captura de bastão em kiba-dachi e base frontal.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Jitte",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Commencez la main gauche couvrant le poing droit, puis utilisez des frappes de paume, la garde en montagne et des blocages de saisie de bâton en kiba-dachi et en position avant.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Jitte",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Beginne mit der linken Hand über der rechten Faust und nutze Handballenstöße, die Berghaltung und Stockfang-Abwehren im Kiba-dachi und Vorwärtsstand.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Jitte",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Inizia con la mano sinistra che copre il pugno destro, poi usa colpi di palmo, la guardia a montagna e parate di presa del bastone in kiba-dachi e in posizione avanzata.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "十手",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 以左手包右拳开始，随后在骑马立和前屈立中使用掌底击、山形架势以及接棍格挡。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "十手",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 左手で右拳を包んで始め、騎馬立ちと前屈立ちで底掌、山構え、棒受けを行います。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "짓테",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 왼손으로 오른 주먹을 감싸고 시작해 기마서기와 앞굽이에서 바탕손 치기, 산 모양 자세, 봉 잡아 막기를 합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "จิตเตะ",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. เริ่มด้วยมือซ้ายคลุมหมัดขวา แล้วใช้การกระแทกด้วยฝ่ามือ ท่าภูเขา และการปัดรับไม้พลองในท่าคิบะดาจิและท่ายืนหน้า\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Дзиттэ",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Начните, накрыв правый кулак левой ладонью, затем используйте удары основанием ладони, позицию горы и блоки с захватом шеста в киба-дати и передней стойке.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Джітте",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Почніть, накривши правий кулак лівою долонею, далі використовуйте удари основою долоні, позицію гори та блоки із захопленням жердини в кіба-дачі й передній стійці.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

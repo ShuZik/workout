@@ -1,0 +1,87 @@
+{
+  "id": "41.81",
+  "key": "judo_daki_wakare",
+  "title": "Daki Wakare",
+  "description": "1. With the partner on all fours, reach over from the front side and wrap the partner's torso.\n2. Lift the partner slightly and throw yourself back to the side while turning the partner over.\n3. Roll the partner onto the back beside you and settle into a stable top position.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Daki Wakare",
+      "description": "1. With the partner on all fours, reach over from the front side and wrap the partner's torso.\n2. Lift the partner slightly and throw yourself back to the side while turning the partner over.\n3. Roll the partner onto the back beside you and settle into a stable top position.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Daki Wakare",
+      "description": "1. Con el compañero a cuatro apoyos, pasa por encima desde el lado frontal y rodea su torso.\n2. Levanta un poco al compañero y lánzate hacia atrás de lado mientras lo das la vuelta.\n3. Haz rodar al compañero sobre la espalda junto a ti y asienta una posición superior estable.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Daki Wakare",
+      "description": "1. Com o parceiro de quatro apoios, passe por cima pelo lado da frente e envolva o tronco dele.\n2. Levante um pouco o parceiro e jogue-se para trás de lado enquanto o vira.\n3. Role o parceiro de costas ao seu lado e estabeleça uma posição por cima estável.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Daki Wakare",
+      "description": "1. Le partenaire à quatre pattes, passez par-dessus depuis l’avant sur le côté et entourez son tronc.\n2. Soulevez-le légèrement et jetez-vous en arrière sur le côté en le retournant.\n3. Faites rouler le partenaire sur le dos à côté de vous et installez une position dessus stable.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Daki Wakare",
+      "description": "1. Ist der Partner im Vierfüßlerstand, greife von vorn seitlich über ihn und umfasse seinen Rumpf.\n2. Hebe den Partner leicht an und wirf dich seitlich rückwärts, während du ihn umdrehst.\n3. Rolle den Partner neben dir auf den Rücken und stabilisiere eine sichere obere Position.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Daki Wakare",
+      "description": "1. Con il compagno a quattro appoggi, passa sopra dal lato anteriore e avvolgi il suo busto.\n2. Solleva leggermente il compagno e lanciati all’indietro di lato mentre lo giri.\n3. Fai rotolare il compagno sulla schiena accanto a te e stabilisci una posizione superiore stabile.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "抱分",
+      "description": "1. 搭档四点跪撑时，从其前侧上方伸手环抱其躯干。\n2. 稍微抬起搭档，向侧后方倒下的同时将其翻转。\n3. 使搭档在你身旁翻成仰卧，并建立稳定的上位。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "抱分",
+      "description": "1. 相手が四つんばいのとき、前横から覆いかぶさって胴を抱えます。\n2. 相手を少し持ち上げ、横後方へ身を捨てながら相手を返します。\n3. 相手を自分の横で仰向けに転がし、安定した上の姿勢をとります。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "다키 와카레",
+      "description": "1. 파트너가 네발 자세일 때 앞쪽 옆에서 위로 넘어 몸통을 감쌉니다.\n2. 파트너를 약간 들어 올리고 옆 뒤로 몸을 던지며 파트너를 뒤집습니다.\n3. 파트너를 내 옆에 등으로 굴리고 안정된 위 자세를 잡습니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "ดากิวากาเระ",
+      "description": "1. เมื่อคู่ฝึกอยู่ในท่าคลานสี่ขา ให้เอื้อมข้ามจากด้านหน้าเฉียงข้างและโอบลำตัว\n2. ยกคู่ฝึกขึ้นเล็กน้อยและทิ้งตัวไปด้านหลังเฉียงข้าง พร้อมพลิกคู่ฝึก\n3. กลิ้งคู่ฝึกให้นอนหงายข้างคุณ แล้วตั้งท่าด้านบนให้มั่นคง",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Даки-вакарэ",
+      "description": "1. Когда партнёр в положении на четвереньках, перегнитесь через него спереди-сбоку и обхватите корпус.\n2. Слегка приподнимите партнёра и бросьтесь назад в сторону, переворачивая его.\n3. Перекатите партнёра на спину рядом с собой и закрепите устойчивое положение сверху.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Дакі-вакаре",
+      "description": "1. Коли партнер у положенні рачки, перехиліться через нього спереду-збоку й обхопіть тулуб.\n2. Трохи підніміть партнера й киньтеся назад убік, перевертаючи його.\n3. Перекотіть партнера на спину поруч із собою й закріпіть стійке положення зверху.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

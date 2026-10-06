@@ -1,0 +1,90 @@
+{
+  "id": "101.12",
+  "key": "tang_soo_do_koon_san_goon",
+  "title": "Koon San Goon",
+  "description": "1. From ready stance, raise the open hands overhead to frame the sky between the fingers, then separate them in a wide circle.\n2. Perform knife-hand blocks, side kicks with back-fists, double-hand techniques in several directions, and a jumping turn that drops low to the floor before rising.\n3. Close with the final strikes on the main line, repeat the opening circle of the hands, and return to ready stance at the starting point.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "tangSooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "pro",
+  "section": "2 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Koon San Goon",
+      "description": "1. From ready stance, raise the open hands overhead to frame the sky between the fingers, then separate them in a wide circle.\n2. Perform knife-hand blocks, side kicks with back-fists, double-hand techniques in several directions, and a jumping turn that drops low to the floor before rising.\n3. Close with the final strikes on the main line, repeat the opening circle of the hands, and return to ready stance at the starting point.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Koon San Goon",
+      "description": "1. Desde la preparación, eleva las manos abiertas sobre la cabeza enmarcando el cielo entre los dedos y luego sepáralas en un amplio círculo.\n2. Realiza bloqueos de mano de cuchillo, patadas laterales con golpes de revés, técnicas a dos manos en varias direcciones y un giro en salto que baja hasta el suelo antes de levantarte.\n3. Cierra con los golpes finales en la línea principal, repite el círculo inicial de las manos y vuelve a la preparación en el punto de partida.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Koon San Goon",
+      "description": "1. Da prontidão, eleve as mãos abertas acima da cabeça enquadrando o céu entre os dedos e depois separe-as num amplo círculo.\n2. Faça bloqueios de mão em faca, chutes laterais com golpes de costas de punho, técnicas de duas mãos em várias direções e um giro saltando que desce ao chão antes de levantar.\n3. Feche com os golpes finais na linha principal, repita o círculo inicial das mãos e volte à prontidão no ponto de partida.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Koon San Goon",
+      "description": "1. Depuis la position prête, levez les mains ouvertes au-dessus de la tête pour encadrer le ciel entre les doigts, puis séparez-les en un large cercle.\n2. Exécutez blocages sabre de main, coups de pied latéraux avec revers, techniques à deux mains dans plusieurs directions et une rotation sautée qui descend au sol avant de vous relever.\n3. Concluez par les frappes finales sur la ligne principale, répétez le cercle d’ouverture des mains et revenez en position prête au point de départ.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Koon San Goon",
+      "description": "1. Aus der Bereitschaft die offenen Hände über den Kopf heben, den Himmel zwischen den Fingern einrahmen, dann in einem weiten Kreis trennen.\n2. Handkantenblocks, Seitwärtstritte mit Rückfaustschlägen, beidhändige Techniken in mehrere Richtungen und eine Sprungdrehung bis tief zum Boden, dann wieder aufstehen.\n3. Mit den Schlusstechniken auf der Hauptlinie abschließen, den Eröffnungskreis der Hände wiederholen und am Startpunkt in Bereitschaft zurückkehren.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Koon San Goon",
+      "description": "1. Dalla posizione di attesa, alza le mani aperte sopra la testa incorniciando il cielo tra le dita, poi separale in un ampio cerchio.\n2. Esegui parate a mano a coltello, calci laterali con pugni rovesci, tecniche a due mani in più direzioni e una rotazione saltata che scende fino a terra prima di rialzarti.\n3. Chiudi con i colpi finali sulla linea principale, ripeti il cerchio iniziale delle mani e torna in posizione di attesa al punto di partenza.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "公相君",
+      "description": "1. 从准备式将张开的双手举过头顶，从指间框住天空，然后大圈分开。\n2. 做手刀格挡、侧踢配反手拳、多方向双手技术，以及跳转后伏低至地面再起身。\n3. 在主线上完成最后的击打，重复开头的双手画圈，在起点回到准备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "公相君（クーサンクン）",
+      "description": "1. 準備の姿勢から開いた両手を頭上に上げ、指の間から天を仰ぎ、大きな円を描いて分けます。\n2. 手刀受け、横蹴りと裏拳、多方向への両手技、そして跳んで回転し床近くまで伏せてから立ち上がる動作を行います。\n3. 主線上の最後の技で締め、冒頭の両手の円を繰り返し、開始位置で準備の姿勢に戻ります。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "공상군",
+      "description": "1. 준비 자세에서 편 두 손을 머리 위로 올려 손가락 사이로 하늘을 바라본 뒤 큰 원을 그리며 나눕니다.\n2. 손날 막기, 등주먹 치기와 옆차기, 여러 방향의 양손 기술, 뛰어 돌며 바닥까지 낮게 엎드렸다 일어나는 동작을 합니다.\n3. 주 연무선에서 마지막 기술로 마무리하고 처음의 양손 원 동작을 반복한 뒤 시작점에서 준비 자세로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "คุนซันกุน",
+      "description": "1. จากท่าเตรียม ยกมือที่แบขึ้นเหนือศีรษะมองท้องฟ้าผ่านช่องนิ้ว แล้วแยกมือออกเป็นวงกว้าง\n2. ปัดสันมือ เตะข้างพร้อมหมัดหลังมือ ใช้เทคนิคสองมือหลายทิศทาง และกระโดดหมุนตัวลงต่ำถึงพื้นก่อนลุกขึ้น\n3. ปิดท้ายด้วยท่าตีสุดท้ายบนแนวหลัก ทำวงมือเปิดซ้ำ และกลับสู่ท่าเตรียมที่จุดเริ่ม",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Кун сан гун",
+      "description": "1. Из стойки готовности поднимите открытые ладони над головой, обрамив небо между пальцами, затем разведите их широким кругом.\n2. Выполните блоки ребром ладони, боковые удары ногой с ударами тыльной стороной кулака, техники двумя руками в нескольких направлениях и прыжок с поворотом с опусканием низко к полу перед подъёмом.\n3. Завершите финальными ударами на основной линии, повторите начальный круг руками и вернитесь в стойку готовности в исходной точке.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Кун сан ґун",
+      "description": "1. Зі стійки готовності підніміть відкриті долоні над головою, обрамивши небо між пальцями, потім розведіть їх широким колом.\n2. Виконайте блоки ребром долоні, бічні удари ногою з ударами тильним боком кулака, техніки двома руками в кількох напрямках і стрибок із поворотом з опусканням низько до підлоги перед підйомом.\n3. Завершіть фінальними ударами на основній лінії, повторіть початкове коло руками й поверніться в стійку готовності у вихідній точці.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

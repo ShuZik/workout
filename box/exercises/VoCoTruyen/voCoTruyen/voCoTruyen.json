@@ -1,0 +1,87 @@
+{
+  "id": "106.1",
+  "key": "vo_co_truyen",
+  "title": "Vo Co Truyen",
+  "description": "1. Stand in a ready stance with the feet planted, the chest upright, and the hands prepared at the chest or hips.\n2. Practise stance transitions such as front and horse stance, combining hand strikes, blocks and kicks in short traditional sequences.\n3. Settle each stance completely before the next technique, then finish with the traditional salute and a steady breath.",
+  "colorType": "indigo",
+  "workoutType": "voCoTruyen",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Vo Co Truyen",
+      "description": "1. Stand in a ready stance with the feet planted, the chest upright, and the hands prepared at the chest or hips.\n2. Practise stance transitions such as front and horse stance, combining hand strikes, blocks and kicks in short traditional sequences.\n3. Settle each stance completely before the next technique, then finish with the traditional salute and a steady breath.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Vo Co Truyen",
+      "description": "1. Colócate en postura de preparado con los pies firmes, el pecho erguido y las manos listas a la altura del pecho o de la cadera.\n2. Practica cambios de postura como la adelantada y la de jinete, combinando golpes de mano, bloqueos y patadas en secuencias tradicionales cortas.\n3. Asienta por completo cada postura antes de la siguiente técnica y termina con el saludo tradicional y una respiración tranquila.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Vo Co Truyen",
+      "description": "1. Fique em postura de prontidão com os pés firmes, o peito ereto e as mãos preparadas na altura do peito ou do quadril.\n2. Pratique trocas de base como a base frontal e a de cavaleiro, combinando golpes de mão, bloqueios e chutes em sequências tradicionais curtas.\n3. Assente totalmente cada base antes da técnica seguinte e termine com a saudação tradicional e uma respiração calma.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Vo Co Truyen",
+      "description": "1. Tenez-vous en position prête, pieds ancrés, buste droit, mains prêtes à hauteur de la poitrine ou des hanches.\n2. Travaillez les transitions de positions, comme la fente avant et le cavalier, en combinant frappes de main, blocages et coups de pied dans de courtes séquences traditionnelles.\n3. Stabilisez complètement chaque position avant la technique suivante, puis terminez par le salut traditionnel et une respiration calme.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Vo Co Truyen",
+      "description": "1. Stehe in Bereitschaftsstellung mit fest aufgesetzten Füßen, aufrechter Brust und Händen bereit an Brust oder Hüften.\n2. Übe Stellungswechsel wie Vorwärts- und Reiterstellung und kombiniere Handschläge, Abwehren und Tritte in kurzen traditionellen Folgen.\n3. Festige jede Stellung vollständig vor der nächsten Technik und schließe mit dem traditionellen Gruß und ruhigem Atem ab.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Vo Co Truyen",
+      "description": "1. Mettiti in posizione di pronto con i piedi ben piantati, il petto eretto e le mani pronte all’altezza del petto o dei fianchi.\n2. Allena i passaggi tra posizioni come la frontale e quella del cavaliere, combinando colpi di mano, parate e calci in brevi sequenze tradizionali.\n3. Stabilizza completamente ogni posizione prima della tecnica successiva e concludi con il saluto tradizionale e un respiro calmo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "越南传统武术",
+      "description": "1. 以预备姿势站立，双脚踏实，挺胸，双手置于胸前或腰间准备。\n2. 练习弓步、马步等步型转换，在简短的传统组合中结合手法、格挡和腿法。\n3. 每个步型完全站稳后再做下一个技术，最后以传统礼节和平稳呼吸收势。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ヴォーコートゥエン（ベトナム伝統武術）",
+      "description": "1. 足をしっかりつけ、胸を起こし、手を胸か腰の位置に用意して、用意の姿勢で立ちます。\n2. 前屈立ちや騎馬立ちなどの立ち方の移行を練習し、短い伝統的な連続動作の中で手技、受け、蹴りを組み合わせます。\n3. 次の技の前に各立ち方を完全に安定させ、最後に伝統的な礼と落ち着いた呼吸で終えます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "보꼬쭈옌(베트남 전통 무술)",
+      "description": "1. 발을 단단히 딛고 가슴을 세우며 손을 가슴이나 허리 높이에 준비한 채 준비 자세로 섭니다.\n2. 앞굽이와 기마 자세 같은 자세 전환을 연습하며 짧은 전통 연결 동작 속에서 손 치기, 막기, 차기를 조합합니다.\n3. 다음 기술 전에 각 자세를 완전히 안정시키고, 전통 인사와 차분한 호흡으로 마무리합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "โวโกจรูเหวียน (ศิลปะการต่อสู้ดั้งเดิมเวียดนาม)",
+      "description": "1. ยืนในท่าเตรียม เท้าวางมั่นคง อกตั้งตรง และมือเตรียมพร้อมที่ระดับอกหรือสะโพก\n2. ฝึกการเปลี่ยนท่ายืน เช่น ท่าย่อหน้าและท่าม้า โดยผสมการตีด้วยมือ การปัด และการเตะในชุดท่าดั้งเดิมสั้น ๆ\n3. ตั้งท่ายืนให้มั่นคงเต็มที่ก่อนเทคนิคถัดไป แล้วจบด้วยการทำความเคารพแบบดั้งเดิมและหายใจสม่ำเสมอ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Во ко чуен",
+      "description": "1. Встаньте в готовую стойку: стопы плотно на полу, грудь расправлена, руки готовы на уровне груди или бёдер.\n2. Отрабатывайте переходы между стойками, например передней и стойкой всадника, сочетая удары руками, блоки и удары ногами в коротких традиционных связках.\n3. Полностью фиксируйте каждую стойку перед следующей техникой, затем завершите традиционным приветствием и спокойным дыханием.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Во ко чуєн",
+      "description": "1. Станьте в готову стійку: стопи щільно на підлозі, груди розправлені, руки готові на рівні грудей або стегон.\n2. Відпрацьовуйте переходи між стійками, наприклад передньою та стійкою вершника, поєднуючи удари руками, блоки й удари ногами в коротких традиційних зв’язках.\n3. Повністю фіксуйте кожну стійку перед наступною технікою, потім завершіть традиційним привітанням і спокійним диханням.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

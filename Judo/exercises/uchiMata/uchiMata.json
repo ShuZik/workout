@@ -1,0 +1,90 @@
+{
+  "id": "41.54",
+  "key": "judo_uchi_mata",
+  "title": "Uchi Mata",
+  "description": "1. Draw the partner forward and up to a front corner while turning in on the supporting foot.\n2. Swing the throwing leg up between the partner's legs to lift the inner thigh while the upper body bends forward.\n3. Turn the head and shoulders toward the sleeve hand to project the partner, keeping the sleeve for a controlled landing.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Uchi Mata",
+      "description": "1. Draw the partner forward and up to a front corner while turning in on the supporting foot.\n2. Swing the throwing leg up between the partner's legs to lift the inner thigh while the upper body bends forward.\n3. Turn the head and shoulders toward the sleeve hand to project the partner, keeping the sleeve for a controlled landing.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Uchi Mata",
+      "description": "1. Lleva al compañero hacia delante y arriba hacia una esquina delantera mientras giras sobre el pie de apoyo.\n2. Balancea la pierna de proyección hacia arriba entre las piernas del compañero para levantar el interior del muslo mientras el tronco se inclina hacia delante.\n3. Gira la cabeza y los hombros hacia la mano de la manga para proyectar al compañero, conservando la manga para una caída controlada.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Uchi Mata",
+      "description": "1. Leve o parceiro para a frente e para cima em direção a um canto frontal enquanto gira sobre o pé de apoio.\n2. Balance a perna de projeção para cima entre as pernas do parceiro para levantar a parte interna da coxa enquanto o tronco se inclina para a frente.\n3. Gire a cabeça e os ombros em direção à mão da manga para projetar o parceiro, mantendo a manga para uma queda controlada.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Uchi Mata",
+      "description": "1. Amenez le partenaire vers l’avant et le haut vers un coin avant en pivotant sur le pied d’appui.\n2. Lancez la jambe de projection vers le haut entre ses jambes pour soulever l’intérieur de la cuisse tandis que le buste se penche en avant.\n3. Tournez la tête et les épaules vers la main de manche pour projeter le partenaire, en gardant la manche pour une chute contrôlée.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Uchi Mata",
+      "description": "1. Ziehe den Partner nach vorn und oben zu einer vorderen Ecke, während du auf dem Standfuß eindrehst.\n2. Schwinge das Wurfbein zwischen den Beinen des Partners hoch, um die Oberschenkelinnenseite anzuheben, während sich der Oberkörper vorbeugt.\n3. Drehe Kopf und Schultern zur Ärmelhand, um den Partner zu werfen, und halte den Ärmel für einen kontrollierten Fall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Uchi Mata",
+      "description": "1. Porta il compagno avanti e in alto verso un angolo anteriore mentre ruoti sul piede d’appoggio.\n2. Fai oscillare la gamba di proiezione in alto tra le gambe del compagno per sollevare l’interno coscia mentre il busto si piega in avanti.\n3. Ruota testa e spalle verso la mano della manica per proiettare il compagno, mantenendo la manica per una caduta controllata.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "内股",
+      "description": "1. 以支撑脚转身，同时把搭档向前上方拉向前角。\n2. 投掷腿从搭档两腿之间向上摆起，挑起其大腿内侧，上身前倾。\n3. 头肩转向抓袖手投出搭档，保持袖口抓握完成受控倒地。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "内股",
+      "description": "1. 軸足で回りながら、相手を前上方の前隅へ引き出します。\n2. 上体を前へ倒しながら、投げる脚を相手の両脚の間に振り上げて内ももを跳ね上げます。\n3. 頭と肩を袖の手の方へ回して相手を投げ、袖を持って制御された受身をとらせます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "우치 마타",
+      "description": "1. 지지발로 돌며 파트너를 앞위로 앞 모서리 쪽으로 끌어냅니다.\n2. 상체를 앞으로 숙이며 던지는 다리를 파트너 다리 사이로 휘둘러 올려 허벅지 안쪽을 들어 올립니다.\n3. 머리와 어깨를 소매 잡은 손 쪽으로 돌려 파트너를 던지고 소매를 유지해 통제된 낙법을 돕습니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "อุจิมาตะ",
+      "description": "1. ดึงคู่ฝึกไปข้างหน้าและขึ้นไปทางมุมด้านหน้า ขณะหมุนตัวบนเท้าที่รับน้ำหนัก\n2. เหวี่ยงขาที่ใช้ทุ่มขึ้นระหว่างขาคู่ฝึกเพื่อยกต้นขาด้านใน ขณะที่ลำตัวโน้มไปข้างหน้า\n3. หันศีรษะและไหล่ไปทางมือที่จับแขนเสื้อเพื่อทุ่มคู่ฝึก จับแขนเสื้อไว้ให้ล้มอย่างควบคุมได้",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Ути-мата",
+      "description": "1. Выведите партнёра вперёд-вверх к переднему углу, разворачиваясь на опорной ноге.\n2. Махните бросающей ногой вверх между ногами партнёра, поднимая внутреннюю сторону бедра, наклоняя корпус вперёд.\n3. Поверните голову и плечи к руке на рукаве, бросая партнёра и удерживая рукав для контролируемой страховки.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Учі-мата",
+      "description": "1. Виведіть партнера вперед-угору до переднього кута, розвертаючись на опорній нозі.\n2. Махніть кидальною ногою вгору між ногами партнера, піднімаючи внутрішній бік стегна й нахиляючи тулуб уперед.\n3. Поверніть голову й плечі до руки на рукаві, кидаючи партнера й утримуючи рукав для контрольованої страховки.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

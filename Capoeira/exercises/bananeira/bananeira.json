@@ -1,0 +1,90 @@
+{
+  "id": "49.12",
+  "key": "capoeira_bananeira",
+  "title": "Bananeira",
+  "description": "1. On mats, place both hands shoulder-width on the floor about a hand's length from a wall or with a spotter beside you.\n2. Kick up one leg at a time into a handstand, pushing the floor away with straight arms and keeping the head neutral between the arms.\n3. Hold briefly with the body tight, then lower one leg at a time back to the floor; progress away from the wall only when the balance is controlled.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Acrobatics",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bananeira",
+      "description": "1. On mats, place both hands shoulder-width on the floor about a hand's length from a wall or with a spotter beside you.\n2. Kick up one leg at a time into a handstand, pushing the floor away with straight arms and keeping the head neutral between the arms.\n3. Hold briefly with the body tight, then lower one leg at a time back to the floor; progress away from the wall only when the balance is controlled.",
+      "sectionTitle": "Acrobatics"
+    },
+    "es": {
+      "title": "Bananeira",
+      "description": "1. Sobre colchonetas, apoya ambas manos a la anchura de los hombros a un palmo de una pared o con un ayudante al lado.\n2. Sube una pierna tras otra a la vertical, empujando el suelo con los brazos estirados y la cabeza neutra entre los brazos.\n3. Mantén un momento con el cuerpo firme y baja una pierna tras otra; aléjate de la pared solo cuando controles el equilibrio.",
+      "sectionTitle": "Acrobacias"
+    },
+    "pt": {
+      "title": "Bananeira",
+      "description": "1. Em colchonetes, apoie as duas mãos na largura dos ombros a um palmo de uma parede ou com um ajudante ao lado.\n2. Suba uma perna de cada vez para a parada de mãos, empurrando o chão com os braços estendidos e a cabeça neutra entre os braços.\n3. Segure por um instante com o corpo firme e desça uma perna de cada vez; afaste-se da parede só quando controlar o equilíbrio.",
+      "sectionTitle": "Acrobacias"
+    },
+    "fr": {
+      "title": "Bananeira",
+      "description": "1. Sur tapis, posez les deux mains à largeur d’épaules à une main d’un mur ou avec un pareur à côté.\n2. Montez une jambe après l’autre à l’appui tendu renversé, en repoussant le sol bras tendus, tête neutre entre les bras.\n3. Tenez brièvement corps gainé, puis redescendez une jambe après l’autre ; éloignez-vous du mur seulement quand l’équilibre est maîtrisé.",
+      "sectionTitle": "Acrobaties"
+    },
+    "de": {
+      "title": "Bananeira",
+      "description": "1. Setze auf Matten beide Hände schulterbreit etwa eine Handlänge vor einer Wand auf oder lass dich seitlich sichern.\n2. Schwinge die Beine nacheinander in den Handstand, drücke den Boden mit gestreckten Armen weg und halte den Kopf neutral zwischen den Armen.\n3. Halte kurz mit fester Körperspannung und senke die Beine nacheinander ab; löse dich erst von der Wand, wenn das Gleichgewicht kontrolliert ist.",
+      "sectionTitle": "Akrobatik"
+    },
+    "it": {
+      "title": "Bananeira",
+      "description": "1. Su materassini, appoggia le mani alla larghezza delle spalle a una spanna da un muro o con un assistente accanto.\n2. Sali in verticale una gamba alla volta, spingendo il pavimento con le braccia tese e la testa neutra tra le braccia.\n3. Mantieni brevemente con il corpo compatto, poi scendi una gamba alla volta; allontanati dal muro solo quando l’equilibrio è controllato.",
+      "sectionTitle": "Acrobazie"
+    },
+    "zh-Hans": {
+      "title": "倒立（Bananeira）",
+      "description": "1. 在垫子上，双手与肩同宽撑地，距离墙壁约一掌，或身旁有保护者。\n2. 双腿依次踢起成倒立，手臂伸直推地，头部自然位于两臂之间。\n3. 身体收紧短暂停留，然后双腿依次落地；只有在平衡可控时才离开墙壁练习。",
+      "sectionTitle": "技巧动作"
+    },
+    "ja": {
+      "title": "バナネイラ",
+      "description": "1. マットの上で、壁から手のひら一つ分ほど離して両手を肩幅につくか、横に補助者をつけます。\n2. 片脚ずつ蹴り上げて逆立ちになり、腕を伸ばして床を押し、頭は両腕の間で自然に保ちます。\n3. 体を締めて少し保持し、片脚ずつ床に下ろします。バランスをコントロールできてから壁を離れて練習します。",
+      "sectionTitle": "アクロバット"
+    },
+    "ko": {
+      "title": "바나네이라",
+      "description": "1. 매트 위에서 벽에서 손 한 뼘 정도 떨어진 곳에 두 손을 어깨너비로 짚거나 옆에 보조자를 둡니다.\n2. 다리를 하나씩 차올려 물구나무를 서고, 팔을 편 채 바닥을 밀며 머리는 두 팔 사이에서 중립을 유지합니다.\n3. 몸을 단단히 하고 잠시 유지한 뒤 다리를 하나씩 내립니다. 균형을 통제할 수 있을 때만 벽에서 떨어져 연습합니다.",
+      "sectionTitle": "아크로바틱"
+    },
+    "th": {
+      "title": "บานาเนรา",
+      "description": "1. บนเบาะ วางสองมือกว้างเท่าไหล่ห่างจากผนังประมาณหนึ่งฝ่ามือ หรือมีผู้ช่วยประคองอยู่ข้าง ๆ\n2. เตะขาขึ้นทีละข้างเป็นท่ายืนด้วยมือ ดันพื้นด้วยแขนเหยียดตรงและให้ศีรษะอยู่ตรงระหว่างแขน\n3. ค้างสั้น ๆ โดยเกร็งลำตัว แล้วลดขาลงทีละข้าง ฝึกห่างผนังเมื่อควบคุมสมดุลได้แล้วเท่านั้น",
+      "sectionTitle": "กายกรรม"
+    },
+    "ru": {
+      "title": "Бананейра",
+      "description": "1. На матах поставьте руки на ширине плеч примерно в ладони от стены или со страхующим рядом.\n2. Поочерёдным махом ног выйдите в стойку на руках, отталкивая пол прямыми руками и держа голову нейтрально между руками.\n3. Коротко удержите положение с напряжённым корпусом и поочерёдно опустите ноги; отходите от стены, только когда равновесие под контролем.",
+      "sectionTitle": "Акробатика"
+    },
+    "uk": {
+      "title": "Бананейра",
+      "description": "1. На матах поставте руки на ширині плечей приблизно за долоню від стіни або зі страхувальником поруч.\n2. Почерговим махом ніг вийдіть у стійку на руках, відштовхуючи підлогу прямими руками й тримаючи голову нейтрально між руками.\n3. Коротко втримайте положення з напруженим корпусом і по черзі опустіть ноги; відходьте від стіни, лише коли рівновага під контролем.",
+      "sectionTitle": "Акробатика"
+    }
+  }
+}

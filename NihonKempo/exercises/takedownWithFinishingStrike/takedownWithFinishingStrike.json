@@ -1,0 +1,90 @@
+{
+  "id": "84.6",
+  "key": "nihon_kempo_takedown_finishing_strike",
+  "title": "Takedown with Finishing Strike",
+  "description": "1. Attacker closes in and grips; defender clinches, controls the attacker's sleeve and collar, and breaks the balance.\n2. Defender throws the attacker to the mat with a hip throw or leg sweep, then delivers a controlled finishing punch toward the men.\n3. Attacker breakfalls safely; defender stops the punch short or touches the protector lightly, helps the attacker up, and roles switch.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Takedown with Finishing Strike",
+      "description": "1. Attacker closes in and grips; defender clinches, controls the attacker's sleeve and collar, and breaks the balance.\n2. Defender throws the attacker to the mat with a hip throw or leg sweep, then delivers a controlled finishing punch toward the men.\n3. Attacker breakfalls safely; defender stops the punch short or touches the protector lightly, helps the attacker up, and roles switch.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Derribo con golpe de remate",
+      "description": "1. El atacante acorta la distancia y agarra; el defensor entra en clinch, controla la manga y el cuello del atacante y le rompe el equilibrio.\n2. El defensor proyecta al atacante al tatami con una proyección de cadera o un barrido de pierna y remata con un puño controlado hacia el men.\n3. El atacante cae con técnica segura; el defensor detiene el puño antes o toca el protector suavemente, lo ayuda a levantarse y se intercambian los papeles.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Queda com golpe de finalização",
+      "description": "1. O atacante encurta a distância e agarra; o defensor entra no clinch, controla a manga e a gola do atacante e quebra seu equilíbrio.\n2. O defensor projeta o atacante no tatame com uma projeção de quadril ou rasteira e finaliza com um soco controlado em direção ao men.\n3. O atacante cai com segurança; o defensor para o soco antes ou toca o protetor de leve, ajuda o atacante a levantar e os papéis se invertem.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Projection avec frappe de finition",
+      "description": "1. L'attaquant réduit la distance et saisit ; le défenseur entre au corps, contrôle la manche et le col de l'attaquant et le déséquilibre.\n2. Le défenseur projette l'attaquant au sol par une projection de hanche ou un balayage, puis porte un coup de poing de finition contrôlé vers le men.\n3. L'attaquant chute en sécurité ; le défenseur arrête le coup avant ou touche légèrement la protection, aide l'attaquant à se relever et les rôles s'inversent.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Wurf mit Abschlussschlag",
+      "description": "1. Der Angreifer kommt heran und greift; der Verteidiger geht in den Clinch, kontrolliert Ärmel und Kragen des Angreifers und bricht sein Gleichgewicht.\n2. Der Verteidiger wirft den Angreifer mit einem Hüftwurf oder Fußfeger auf die Matte und setzt einen kontrollierten Abschlussschlag Richtung Men.\n3. Der Angreifer fällt sicher; der Verteidiger stoppt den Schlag davor oder berührt den Schutz nur leicht, hilft dem Angreifer auf, dann werden die Rollen getauscht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Atterramento con colpo finale",
+      "description": "1. L'attaccante accorcia la distanza e afferra; il difensore entra in clinch, controlla manica e bavero dell'attaccante e ne rompe l'equilibrio.\n2. Il difensore proietta l'attaccante sul tatami con una proiezione d'anca o una spazzata e porta un pugno finale controllato verso il men.\n3. L'attaccante cade in sicurezza; il difensore ferma il pugno prima o tocca appena la protezione, aiuta l'attaccante a rialzarsi e i ruoli si scambiano.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "摔倒后补击",
+      "description": "1. 攻者逼近并抓握；守者贴身缠抱，控制攻者的袖口和衣领，破坏其平衡。\n2. 守者以腰摔或扫腿将攻者摔倒在垫上，随即向面罩打出有控制的补击拳。\n3. 攻者安全受身；守者的拳在接触前停住或轻触护具，扶攻者起身后互换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "投げからの極め突き",
+      "description": "1. 攻者が間合いを詰めて組み付き、守者は組んで攻者の袖と襟を制し、崩します。\n2. 守者は腰投げや足払いで攻者を畳に投げ、面に向けて制御した極めの突きを入れます。\n3. 攻者は安全に受身を取り、守者は突きを寸止めにするか防具に軽く触れる程度にとどめ、攻者を助け起こして役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "메치기 후 마무리 지르기",
+      "description": "1. 공격자가 거리를 좁혀 잡으면, 방어자는 붙잡아 공격자의 소매와 깃을 제압하고 균형을 무너뜨립니다.\n2. 방어자는 허리후리기나 발 걸기로 공격자를 매트에 던진 뒤, 면 보호구를 향해 조절된 마무리 지르기를 합니다.\n3. 공격자는 안전하게 낙법을 하고, 방어자는 지르기를 직전에 멈추거나 보호구에 가볍게 대기만 한 뒤 공격자를 일으켜 세우고 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "ทุ่มแล้วปิดท้ายด้วยหมัด",
+      "description": "1. ผู้โจมตีเข้าประชิดและจับ ผู้ป้องกันเข้าคลินช์ ควบคุมแขนเสื้อและคอเสื้อของผู้โจมตีแล้วทำลายสมดุล\n2. ผู้ป้องกันทุ่มผู้โจมตีลงเบาะด้วยการทุ่มสะโพกหรือกวาดขา แล้วปิดท้ายด้วยหมัดที่ควบคุมแรงไปยังเมง\n3. ผู้โจมตีล้มอย่างปลอดภัย ผู้ป้องกันหยุดหมัดก่อนถึงหรือแตะเครื่องป้องกันเบาๆ ช่วยพยุงผู้โจมตีขึ้น แล้วสลับบทบาท",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Бросок с добивающим ударом",
+      "description": "1. Атакующий сокращает дистанцию и берёт захват; защищающийся входит в клинч, контролирует рукав и ворот атакующего и выводит его из равновесия.\n2. Защищающийся бросает атакующего на татами броском через бедро или подсечкой и наносит контролируемый добивающий удар в сторону мэн.\n3. Атакующий безопасно страхуется; защищающийся останавливает удар до касания или лишь касается защиты, помогает атакующему встать, и партнёры меняются ролями.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Кидок із добивальним ударом",
+      "description": "1. Нападник скорочує дистанцію й бере захоплення; захисник входить у клінч, контролює рукав і комір нападника та виводить його з рівноваги.\n2. Захисник кидає нападника на татамі кидком через стегно або підсічкою й завдає контрольованого добивального удару в бік мен.\n3. Нападник безпечно страхується; захисник зупиняє удар до дотику або лише торкається захисту, допомагає нападникові підвестися, і партнери міняються ролями.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

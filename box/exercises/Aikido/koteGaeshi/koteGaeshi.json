@@ -1,0 +1,87 @@
+{
+  "id": "43.13",
+  "key": "aikido_kote_gaeshi",
+  "title": "Kote Gaeshi",
+  "description": "1. Hold uke's hand with your thumb on the back of the hand and turn uke's palm toward uke's own face.\n2. Step back and pivot so uke's wrist turns outward and uke's balance moves to the outside corner.\n3. Uke takes a side breakfall; turn the wrist slowly and release as soon as uke falls or taps.",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kote Gaeshi",
+      "description": "1. Hold uke's hand with your thumb on the back of the hand and turn uke's palm toward uke's own face.\n2. Step back and pivot so uke's wrist turns outward and uke's balance moves to the outside corner.\n3. Uke takes a side breakfall; turn the wrist slowly and release as soon as uke falls or taps.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Kote Gaeshi",
+      "description": "1. Sujeta la mano de uke con el pulgar en el dorso y gira su palma hacia su propia cara.\n2. Retrocede y pivota para que la muñeca de uke gire hacia fuera y su equilibrio vaya a la esquina exterior.\n3. Uke hace una caída lateral; gira la muñeca despacio y suelta en cuanto uke caiga o golpee.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Kote Gaeshi",
+      "description": "1. Segure a mão de uke com o polegar no dorso e vire a palma dele em direção ao próprio rosto.\n2. Recue e gire para que o punho de uke vire para fora e o equilíbrio dele vá para o canto externo.\n3. Uke faz uma queda lateral; gire o punho devagar e solte assim que uke cair ou bater.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Kote Gaeshi",
+      "description": "1. Tenez la main de uke, pouce sur le dos de la main, et tournez sa paume vers son propre visage.\n2. Reculez et pivotez pour que le poignet de uke tourne vers l’extérieur et que son équilibre parte vers le coin extérieur.\n3. Uke chute sur le côté ; tournez le poignet lentement et relâchez dès que uke tombe ou tape.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kote Gaeshi",
+      "description": "1. Halte Ukes Hand mit dem Daumen auf dem Handrücken und drehe seine Handfläche zu seinem eigenen Gesicht.\n2. Tritt zurück und drehe dich, sodass Ukes Handgelenk nach außen dreht und sein Gleichgewicht zur äußeren Ecke geht.\n3. Uke fällt mit seitlicher Fallschule; drehe das Handgelenk langsam und löse, sobald Uke fällt oder abklopft.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Kote Gaeshi",
+      "description": "1. Tieni la mano di uke con il pollice sul dorso e ruota il suo palmo verso il suo stesso viso.\n2. Arretra e ruota così che il polso di uke giri verso l’esterno e il suo equilibrio vada verso l’angolo esterno.\n3. Uke esegue una caduta laterale; ruota il polso lentamente e lascia appena uke cade o batte.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "小手返",
+      "description": "1. 拇指按在受方手背握住其手，使其掌心转向自己的脸。\n2. 后撤并转身，使受方手腕向外翻转，重心移向外侧角。\n3. 受方做侧倒受身；缓慢转动手腕，对方一倒地或拍垫即松开。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "小手返",
+      "description": "1. 親指を受けの手の甲に当てて手を持ち、受けの手のひらを受け自身の顔の方へ向けます。\n2. 下がって体を転換し、受けの手首を外へ返して重心を外側の隅へ崩します。\n3. 受けは横受身を取ります。手首はゆっくり返し、受けが倒れるかタップしたらすぐ離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "고테 가에시",
+      "description": "1. 엄지를 우케의 손등에 대고 손을 잡아 우케의 손바닥이 자신의 얼굴을 향하게 돌립니다.\n2. 물러나며 회전해 우케의 손목이 바깥으로 꺾이고 균형이 바깥 모서리로 가게 합니다.\n3. 우케는 측방 낙법을 하며, 손목은 천천히 돌리고 우케가 넘어지거나 탭하면 바로 놓습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "โคเตะกาเอชิ",
+      "description": "1. จับมืออุเกะโดยวางนิ้วโป้งบนหลังมือ แล้วหมุนฝ่ามืออุเกะให้หันเข้าหาใบหน้าของอุเกะเอง\n2. ถอยและหมุนตัวให้ข้อมืออุเกะบิดออกด้านนอก และสมดุลเคลื่อนไปมุมด้านนอก\n3. อุเกะล้มตะแคง หมุนข้อมือช้า ๆ และปล่อยทันทีเมื่ออุเกะล้มหรือตบ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Котэ-гаэси",
+      "description": "1. Держите кисть уке большим пальцем на тыльной стороне и поверните его ладонь к его же лицу.\n2. Отступите и развернитесь, чтобы запястье уке вывернулось наружу, а равновесие ушло во внешний угол.\n3. Уке выполняет страховку на бок; поворачивайте запястье медленно и отпустите, как только уке упадёт или хлопнет.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Коте-гаесі",
+      "description": "1. Тримайте кисть уке великим пальцем на тильному боці й поверніть його долоню до його ж обличчя.\n2. Відступіть і розверніться, щоб зап’ястя уке вивернулося назовні, а рівновага пішла в зовнішній кут.\n3. Уке виконує страховку на бік; повертайте зап’ястя повільно й відпустіть, щойно уке впаде або плесне.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

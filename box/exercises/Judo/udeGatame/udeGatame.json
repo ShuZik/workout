@@ -1,0 +1,87 @@
+{
+  "id": "41.98",
+  "key": "judo_ude_gatame",
+  "title": "Ude Gatame",
+  "description": "1. With the partner on the back, trap the partner's straight arm so the wrist rests on your shoulder or against your neck.\n2. Clasp both hands over the back of the partner's elbow with the palm side of the arm facing up.\n3. Draw the elbow toward you only gradually and release immediately at a tap or verbal signal.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "7 Groundwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ude Gatame",
+      "description": "1. With the partner on the back, trap the partner's straight arm so the wrist rests on your shoulder or against your neck.\n2. Clasp both hands over the back of the partner's elbow with the palm side of the arm facing up.\n3. Draw the elbow toward you only gradually and release immediately at a tap or verbal signal.",
+      "sectionTitle": "Groundwork"
+    },
+    "es": {
+      "title": "Ude Gatame",
+      "description": "1. Con el compañero de espaldas, atrapa su brazo estirado de modo que la muñeca descanse sobre tu hombro o contra tu cuello.\n2. Junta ambas manos sobre la parte posterior del codo del compañero con la cara palmar del brazo hacia arriba.\n3. Atrae el codo hacia ti solo de forma gradual y suelta de inmediato ante un golpe de rendición o señal verbal.",
+      "sectionTitle": "Trabajo en suelo"
+    },
+    "pt": {
+      "title": "Ude Gatame",
+      "description": "1. Com o parceiro de costas, prenda o braço estendido dele de modo que o punho repouse sobre seu ombro ou contra seu pescoço.\n2. Junte ambas as mãos sobre a parte de trás do cotovelo do parceiro com a face da palma do braço para cima.\n3. Puxe o cotovelo em sua direção apenas gradualmente e solte imediatamente a um toque de desistência ou sinal verbal.",
+      "sectionTitle": "Trabalho de solo"
+    },
+    "fr": {
+      "title": "Ude Gatame",
+      "description": "1. Le partenaire sur le dos, bloquez son bras tendu pour que le poignet repose sur votre épaule ou contre votre cou.\n2. Joignez les deux mains sur l’arrière de son coude, face palmaire du bras vers le haut.\n3. Ramenez le coude vers vous uniquement progressivement et relâchez immédiatement au tapotement ou au signal verbal.",
+      "sectionTitle": "Travail au sol"
+    },
+    "de": {
+      "title": "Ude Gatame",
+      "description": "1. Klemme bei dem auf dem Rücken liegenden Partner den gestreckten Arm so, dass das Handgelenk auf deiner Schulter oder an deinem Hals liegt.\n2. Lege beide Hände über die Rückseite seines Ellbogens, die Handflächenseite des Arms nach oben.\n3. Ziehe den Ellbogen nur allmählich zu dir und löse sofort bei Abklopfen oder verbalem Signal.",
+      "sectionTitle": "Bodentechniken"
+    },
+    "it": {
+      "title": "Ude Gatame",
+      "description": "1. Con il compagno sulla schiena, blocca il suo braccio teso così che il polso poggi sulla tua spalla o contro il collo.\n2. Unisci entrambe le mani sul retro del suo gomito con il lato del palmo del braccio rivolto in alto.\n3. Tira il gomito verso di te solo gradualmente e rilascia subito al tap o a un segnale verbale.",
+      "sectionTitle": "Lavoro a terra"
+    },
+    "zh-Hans": {
+      "title": "腕挫腕固",
+      "description": "1. 搭档仰卧时，夹住其伸直的手臂，使手腕搭在你的肩上或抵在颈侧。\n2. 双手合扣在搭档肘关节后侧，使其手臂掌心面朝上。\n3. 只逐渐把肘部拉向自己，搭档拍击或口头示意时立即松开。",
+      "sectionTitle": "寝技"
+    },
+    "ja": {
+      "title": "腕挫腕固",
+      "description": "1. 相手が仰向けのとき、伸ばした腕を手首が自分の肩または首に当たるように抱えます。\n2. 腕の手のひら側を上に向け、両手を組んで相手の肘の裏に当てます。\n3. 肘を徐々に自分の方へ引き、タップや口頭の合図で直ちに解きます。",
+      "sectionTitle": "寝技"
+    },
+    "ko": {
+      "title": "우데 가타메",
+      "description": "1. 파트너가 등을 대고 있을 때 펴진 팔을 손목이 내 어깨나 목에 닿도록 고정합니다.\n2. 팔의 손바닥 쪽이 위를 향하게 하고 양손을 모아 파트너 팔꿈치 뒤에 댑니다.\n3. 팔꿈치를 서서히만 내 쪽으로 당기고 탭이나 구두 신호 시 즉시 놓습니다.",
+      "sectionTitle": "굳히기"
+    },
+    "th": {
+      "title": "อุเดะกาตาเมะ",
+      "description": "1. เมื่อคู่ฝึกนอนหงาย ล็อกแขนที่เหยียดตรงให้ข้อมือพาดบนไหล่หรือแนบคอคุณ\n2. ประสานมือทั้งสองไว้หลังข้อศอกคู่ฝึก โดยให้ด้านฝ่ามือของแขนหงายขึ้น\n3. ค่อย ๆ ดึงข้อศอกเข้าหาตัวเท่านั้น และปล่อยทันทีเมื่อคู่ฝึกตบยอมแพ้หรือให้สัญญาณด้วยเสียง",
+      "sectionTitle": "การต่อสู้บนพื้น"
+    },
+    "ru": {
+      "title": "Удэ-гатамэ",
+      "description": "1. Когда партнёр лежит на спине, зафиксируйте его прямую руку так, чтобы запястье лежало на вашем плече или у шеи.\n2. Сцепите обе руки на тыльной стороне его локтя, развернув руку ладонной стороной вверх.\n3. Подтягивайте локоть к себе только постепенно и немедленно отпускайте при постукивании или голосовом сигнале.",
+      "sectionTitle": "Партер"
+    },
+    "uk": {
+      "title": "Уде-гатаме",
+      "description": "1. Коли партнер лежить на спині, зафіксуйте його пряму руку так, щоб зап’ястя лежало на вашому плечі або біля шиї.\n2. Зчепіть обидві руки на тильному боці його ліктя, розвернувши руку долонною стороною вгору.\n3. Підтягуйте лікоть до себе лише поступово й негайно відпускайте при постукуванні чи голосовому сигналі.",
+      "sectionTitle": "Партер"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "Chidaoba",
+    "id": "51",
+    "icon": "Chidaoba/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Chidaoba",
+    "workoutType": "chidaoba",
+    "translations": {
+      "en": {
+        "title": "Chidaoba"
+      },
+      "es": {
+        "title": "Chidaoba"
+      },
+      "pt": {
+        "title": "Chidaoba"
+      },
+      "fr": {
+        "title": "Tchidaoba"
+      },
+      "de": {
+        "title": "Tschidaoba"
+      },
+      "it": {
+        "title": "Chidaoba"
+      },
+      "zh-Hans": {
+        "title": "奇达奥巴"
+      },
+      "ja": {
+        "title": "チダオバ"
+      },
+      "ko": {
+        "title": "치다오바"
+      },
+      "th": {
+        "title": "ชิดาโอบา"
+      },
+      "ru": {
+        "title": "Чидаоба"
+      },
+      "uk": {
+        "title": "Чідаоба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Chidaoba/exercises/chidaoba/Icon.png",
+      "json": "Chidaoba/exercises/chidaoba/chidaoba.json"
+    },
+    {
+      "icon": "Chidaoba/exercises/sarma/Icon.png",
+      "json": "Chidaoba/exercises/sarma/sarma.json"
+    },
+    {
+      "icon": "Chidaoba/exercises/kauri/Icon.png",
+      "json": "Chidaoba/exercises/kauri/kauri.json"
+    },
+    {
+      "icon": "Chidaoba/exercises/tseruli/Icon.png",
+      "json": "Chidaoba/exercises/tseruli/tseruli.json"
+    },
+    {
+      "icon": "Chidaoba/exercises/mogverdi/Icon.png",
+      "json": "Chidaoba/exercises/mogverdi/mogverdi.json"
+    },
+    {
+      "icon": "Chidaoba/exercises/tedzo/Icon.png",
+      "json": "Chidaoba/exercises/tedzo/tedzo.json"
+    },
+    {
+      "icon": "Chidaoba/exercises/kisruli/Icon.png",
+      "json": "Chidaoba/exercises/kisruli/kisruli.json"
+    }
+  ]
+}

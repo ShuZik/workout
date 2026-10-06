@@ -1,0 +1,90 @@
+{
+  "id": "80.6",
+  "key": "lucha_leonesa_mediana",
+  "title": "Mediana",
+  "description": "1. From the belt grip, pull the partner close and step your leg between the partner's legs.\n2. Hook the inside of one of the partner's legs with your leg and lift it.\n3. Drive forward with the chest and belt grips to topple the partner backward, guide the fall with the belt, then release.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "luchaLeonesa",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Mediana",
+      "description": "1. From the belt grip, pull the partner close and step your leg between the partner's legs.\n2. Hook the inside of one of the partner's legs with your leg and lift it.\n3. Drive forward with the chest and belt grips to topple the partner backward, guide the fall with the belt, then release.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Mediana",
+      "description": "1. Desde el agarre al cinto, acerca al compañero y mete tu pierna entre sus piernas.\n2. Engancha con tu pierna el interior de una de sus piernas y levántala.\n3. Empuja con el pecho y los agarres al cinto para volcarlo hacia atrás, guía la caída con el cinto y luego suelta.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Mediana",
+      "description": "1. A partir da pegada no cinto, puxe o parceiro para perto e coloque sua perna entre as pernas dele.\n2. Enganche com a sua perna o lado de dentro de uma das pernas dele e levante-a.\n3. Avance com o peito e as pegadas no cinto para derrubá-lo para trás, guie a queda com o cinto e depois solte.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Mediana",
+      "description": "1. Depuis la prise à la ceinture, rapprochez le partenaire et placez votre jambe entre ses jambes.\n2. Crochetez avec votre jambe l'intérieur d'une de ses jambes et soulevez-la.\n3. Poussez de la poitrine et des saisies à la ceinture pour le renverser en arrière, guidez la chute avec la ceinture, puis lâchez.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Mediana",
+      "description": "1. Zieh den Partner aus dem Gürtelgriff eng an dich und setze dein Bein zwischen seine Beine.\n2. Hake mit deinem Bein innen an einem seiner Beine ein und hebe es an.\n3. Schieb mit Brust und Gürtelgriffen nach vorn, um ihn rückwärts umzuwerfen, führe den Fall mit dem Gürtel und lass dann los.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Mediana",
+      "description": "1. Dalla presa alla cintura, avvicina il partner e porta la gamba tra le sue gambe.\n2. Aggancia con la gamba l'interno di una delle sue gambe e sollevala.\n3. Spingi in avanti con il petto e le prese alla cintura per rovesciarlo all'indietro, guida la caduta con la cintura, poi lascia.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "梅迪亚纳（Mediana）",
+      "description": "1. 从抓腰带把位开始，把同伴拉近，将你的腿插入对方两腿之间。\n2. 用你的腿从内侧勾住对方一条腿并向上提起。\n3. 用胸部和抓腰带的手向前推，使同伴向后倒，用腰带引导下落，然后松手。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "メディアナ",
+      "description": "1. ベルトの組み手から相手を引き寄せ、自分の脚を相手の両脚の間に踏み入れます。\n2. 自分の脚で相手の片脚の内側を掛けて持ち上げます。\n3. 胸とベルトの組み手で前へ押し込んで相手を後ろへ倒し、ベルトで落下を導いてから離します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "메디아나",
+      "description": "1. 벨트 그립에서 파트너를 끌어당기고 내 다리를 상대의 두 다리 사이에 넣습니다.\n2. 내 다리로 상대 한쪽 다리 안쪽을 걸어 들어 올립니다.\n3. 가슴과 벨트 그립으로 앞으로 밀어 파트너를 뒤로 넘어뜨리고, 벨트로 낙하를 이끈 뒤 놓습니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เมดีอานา",
+      "description": "1. จากท่าจับเข็มขัด ดึงคู่ฝึกเข้ามาใกล้แล้วก้าวขาของคุณเข้าระหว่างขาของคู่ฝึก\n2. ใช้ขาของคุณเกี่ยวด้านในขาข้างหนึ่งของคู่ฝึกแล้วยกขึ้น\n3. ดันไปข้างหน้าด้วยหน้าอกและมือที่จับเข็มขัดให้คู่ฝึกล้มไปด้านหลัง ใช้เข็มขัดนำการล้ม แล้วจึงปล่อย",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Медиана",
+      "description": "1. Из захвата за пояс притяните партнёра и поставьте свою ногу между его ног.\n2. Зацепите своей ногой одну его ногу изнутри и поднимите её.\n3. Давите вперёд грудью и захватами за пояс, опрокидывая партнёра назад, направляйте падение поясом, затем отпустите.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Медіана",
+      "description": "1. Із захоплення за пояс притягніть партнера й поставте свою ногу між його ногами.\n2. Зачепіть своєю ногою одну його ногу зсередини й підніміть її.\n3. Тисніть уперед грудьми й захопленнями за пояс, перекидаючи партнера назад, спрямовуйте падіння поясом, потім відпустіть.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

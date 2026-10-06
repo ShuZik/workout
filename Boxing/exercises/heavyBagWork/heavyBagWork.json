@@ -1,0 +1,91 @@
+{
+  "id": "1.44",
+  "key": "heavy_bag_work",
+  "title": "Heavy-Bag Work",
+  "description": "1. Stand in boxing stance at arm's length from a securely hung heavy bag, with wrapped hands and bag gloves.\n2. Work the round to a set theme, such as three-punch combinations or every fourth punch to the body, moving the feet and changing angle between combinations.\n3. Return both hands to guard after every combination, step out of range, and keep an imagined opponent in mind until the round ends.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Heavy-Bag Work",
+      "description": "1. Stand in boxing stance at arm's length from a securely hung heavy bag, with wrapped hands and bag gloves.\n2. Work the round to a set theme, such as three-punch combinations or every fourth punch to the body, moving the feet and changing angle between combinations.\n3. Return both hands to guard after every combination, step out of range, and keep an imagined opponent in mind until the round ends.",
+      "sectionTitle": "Beginner"
+    },
+    "es": {
+      "title": "Trabajo en saco pesado",
+      "description": "1. Colócate en guardia a un brazo de distancia de un saco pesado bien colgado, con vendas y guantes de saco.\n2. Trabaja el asalto con un tema fijo, como combinaciones de tres golpes o cada cuarto golpe al cuerpo, moviendo los pies y cambiando de ángulo entre combinaciones.\n3. Vuelve con ambas manos a la guardia tras cada combinación, sal de distancia e imagina a un rival hasta que termine el asalto.",
+      "sectionTitle": "Principiante"
+    },
+    "pt": {
+      "title": "Trabalho no saco pesado",
+      "description": "1. Fique em guarda a um braço de distância de um saco pesado bem preso, com bandagens e luvas de saco.\n2. Trabalhe o round com um tema definido, como combinações de três golpes ou cada quarto golpe no corpo, movendo os pés e mudando o ângulo entre as combinações.\n3. Volte as duas mãos à guarda após cada combinação, saia da distância e imagine um adversário até o fim do round.",
+      "sectionTitle": "Iniciante"
+    },
+    "fr": {
+      "title": "Travail au sac lourd",
+      "description": "1. Placez-vous en garde à longueur de bras d’un sac lourd solidement suspendu, mains bandées et gants de sac.\n2. Travaillez le round sur un thème fixé, par exemple des enchaînements de trois coups ou un coup au corps sur quatre, en bougeant les pieds et en changeant d’angle entre les enchaînements.\n3. Ramenez les deux mains en garde après chaque enchaînement, sortez de la distance et gardez un adversaire imaginaire en tête jusqu’à la fin du round.",
+      "sectionTitle": "Débutant"
+    },
+    "de": {
+      "title": "Arbeit am schweren Sandsack",
+      "description": "1. Stelle dich in Boxstellung eine Armlänge vor einen sicher aufgehängten schweren Sandsack, mit Bandagen und Sandsackhandschuhen.\n2. Arbeite die Runde nach einem festen Thema, etwa Dreierkombinationen oder jeder vierte Schlag zum Körper, und bewege dabei die Füße und wechsle zwischen den Kombinationen den Winkel.\n3. Bringe nach jeder Kombination beide Hände in die Deckung zurück, verlasse die Distanz und behalte bis zum Rundenende einen gedachten Gegner im Blick.",
+      "sectionTitle": "Anfänger"
+    },
+    "it": {
+      "title": "Lavoro al sacco pesante",
+      "description": "1. Mettiti in guardia a un braccio di distanza da un sacco pesante ben appeso, con bendaggi e guantoni da sacco.\n2. Svolgi la ripresa su un tema preciso, come combinazioni da tre colpi o un colpo al corpo ogni quattro, muovendo i piedi e cambiando angolo tra le combinazioni.\n3. Riporta entrambe le mani in guardia dopo ogni combinazione, esci dalla distanza e immagina un avversario fino alla fine della ripresa.",
+      "sectionTitle": "Principiante"
+    },
+    "zh-Hans": {
+      "title": "重沙袋训练",
+      "description": "1. 缠好绷带、戴上沙袋手套，以拳击站姿站在牢固悬挂的重沙袋前一臂距离处。\n2. 按设定主题完成本回合，例如只打三拳组合或每第四拳击打躯干，组合之间移动脚步并变换角度。\n3. 每组组合后双手回到防守位，退出攻击距离，并在回合结束前始终假想一名对手。",
+      "sectionTitle": "初级"
+    },
+    "ja": {
+      "title": "ヘビーバッグワーク",
+      "description": "1. バンデージとバッググローブを着け、しっかり吊るしたヘビーバッグから腕一本分の距離でボクシングの構えを取ります。\n2. 3連打のみ、4発に1発はボディなど、テーマを決めてラウンドを行い、コンビネーションの間に足を動かして角度を変えます。\n3. コンビネーションごとに両手をガードに戻して距離を外し、ラウンド終了まで相手をイメージし続けます。",
+      "sectionTitle": "初級"
+    },
+    "ko": {
+      "title": "헤비백 훈련",
+      "description": "1. 핸드랩과 백 글러브를 착용하고, 단단히 매단 헤비백에서 팔 길이만큼 떨어져 복싱 자세를 잡습니다.\n2. 3연타 콤비네이션이나 네 번째 펀치마다 몸통 공격 같은 주제를 정해 라운드를 진행하고, 콤비네이션 사이에 발을 움직여 각도를 바꿉니다.\n3. 콤비네이션마다 두 손을 가드로 되돌리고 거리에서 빠져나오며, 라운드가 끝날 때까지 ��대를 떠올립니다.",
+      "sectionTitle": "초급"
+    },
+    "th": {
+      "title": "ฝึกกระสอบทราย",
+      "description": "1. พันมือและสวมนวมกระสอบ ยืนท่ามวยห่างจากกระสอบทรายที่แขวนแน่นหนาประมาณหนึ่งช่วงแขน\n2. ฝึกตามหัวข้อที่กำหนดในแต่ละยก ���ช่น ชุดหมัดสามหมัด หรือหมัดที่สี่ทุกครั้งเข้าลำตัว โดยขยับเท้าและเปลี่ยนมุมระหว่างชุด\n3. ยกมือทั้งสองกลับการ์ดหลังจบทุกชุด ถอยออกจากระยะ และนึกภาพคู่ต่อสู้ไว้จนจบยก",
+      "sectionTitle": "ระดับเริ่มต้น"
+    },
+    "ru": {
+      "title": "Работа на тяжёлом мешке",
+      "description": "1. Встаньте в боксёрскую стойку на расстоянии вытянутой руки от надёжно подвешенного тяжёлого мешка, в бинтах и снарядных перчатках.\n2. Работайте раунд по заданной теме, например только тройки или каждый четвёртый удар в корпус, перемещаясь и меняя угол между сериями.\n3. После каждой серии возвращайте обе руки в защиту, выходите из дистанции и держите в голове воображаемого соперника до конца раунда.",
+      "sectionTitle": "Начальный"
+    },
+    "uk": {
+      "title": "Робота на важкому мішку",
+      "description": "1. Станьте в боксерську стійку на відстані витягнутої руки від надійно підвішеного важкого мішка, у бинтах і снарядних рукавицях.\n2. Працюйте раунд за заданою темою, наприклад лише трійки або кожен четвертий удар у корпус, пересуваючись і змінюючи кут між серіями.\n3. Після кожної серії повертайте обидві руки в захист, виходьте з дистанції й тримайте в уяві суперника до кінця раунду.",
+      "sectionTitle": "Початковий"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "46.8",
+  "key": "backhold_best_of_three_falls",
+  "title": "Best of Three Falls",
+  "description": "1. Take the backhold with a trained partner and wait for the referee or partner to call hold.\n2. Wrestle until someone touches the mat with anything but the feet or breaks the hold, and award that fall to the opponent.\n3. Retake the hold after each fall and continue until one wrestler wins two falls, controlling every landing.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "backhold",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Best of Three Falls",
+      "description": "1. Take the backhold with a trained partner and wait for the referee or partner to call hold.\n2. Wrestle until someone touches the mat with anything but the feet or breaks the hold, and award that fall to the opponent.\n3. Retake the hold after each fall and continue until one wrestler wins two falls, controlling every landing.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Al mejor de tres caídas",
+      "description": "1. Toma el backhold con un compañero entrenado y espera a que el árbitro o el compañero den la señal de agarre.\n2. Lucha hasta que alguien toque el suelo con algo que no sean los pies o rompa el agarre, y concede esa caída al rival.\n3. Vuelve a tomar el agarre tras cada caída y sigue hasta que uno gane dos caídas, controlando cada aterrizaje.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Melhor de três quedas",
+      "description": "1. Faça o backhold com um parceiro treinado e espere o árbitro ou o parceiro dar o sinal de pegada.\n2. Lute até alguém tocar o chão com algo além dos pés ou romper a pegada, e conceda essa queda ao adversário.\n3. Refaça a pegada após cada queda e continue até alguém vencer duas quedas, controlando cada aterrissagem.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Au meilleur des trois chutes",
+      "description": "1. Prenez la backhold avec un partenaire entraîné et attendez le signal de prise de l'arbitre ou du partenaire.\n2. Luttez jusqu'à ce que quelqu'un touche le tapis avec autre chose que les pieds ou rompe la prise, et accordez cette chute à l'adversaire.\n3. Reprenez la prise après chaque chute et continuez jusqu'à ce qu'un lutteur gagne deux chutes, en contrôlant chaque réception.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kampf über drei Fälle",
+      "description": "1. Nimm mit einem geübten Partner den Backhold und warte auf das Griffkommando von Kampfrichter oder Partner.\n2. Ringt, bis jemand die Matte mit etwas anderem als den Füssen berührt oder den Griff löst, und gib diesen Fall dem Gegner.\n3. Nimm nach jedem Fall den Griff neu und macht weiter, bis einer zwei Fälle gewonnen hat, mit kontrollierter Landung jedes Mal.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Al meglio delle tre cadute",
+      "description": "1. Prendi il backhold con un partner esperto e attendi il segnale di presa dell'arbitro o del partner.\n2. Lottate finché qualcuno tocca il tappeto con qualcosa che non siano i piedi o rompe la presa, e assegna quella caduta all'avversario.\n3. Riprendi la presa dopo ogni caduta e continua finché uno vince due cadute, controllando ogni atterraggio.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "三局两胜",
+      "description": "1. 与受过训练的同伴做好背抱把位，等待裁判或同伴发出开始口令。\n2. 进行摔跤，直到有人除双脚外的身体部位触垫或松开把位，此局判给对手。\n3. 每局后重新抱好把位继续，直到一方赢得两局，每次落地都要控制。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "3本勝負",
+      "description": "1. 経験のあるパートナーとバックホールドを組み、審判かパートナーの合図を待ちます。\n2. どちらかが足以外でマットに触れるか組み手を切るまで組み合い、その1本を相手に与えます。\n3. 1本ごとに組み直し、どちらかが2本取るまで続け、毎回着地を制御します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "3판 2선승",
+      "description": "1. 숙련된 파트너와 백홀드를 잡고 심판이나 파트너의 시작 신호를 기다립니다.\n2. 누군가 발 이외의 부위로 매트에 닿거나 그립을 풀 때까지 겨루고, 그 판을 상대에게 줍니다.\n3. 매 판 후 다시 그립을 잡고 한 사람이 두 판을 이길 때까지 계속하며, 매번 착지를 통제합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "แข่งสามครั้งชนะสอง",
+      "description": "1. จับท่าแบ็กโฮลด์กับคู่ฝึกที่ผ่านการฝึก แล้วรอสัญญาณเริ่มจากผู้ตัดสินหรือคู่ฝึก\n2. ปล้ำจนกว่าจะมีคนแตะเบาะด้วยส่วนอื่นนอกจากเท้าหรือปล่อยมือที่ล็อก แล้วให้แต้มครั้งนั้นแก่ฝ่ายตรงข้าม\n3. จับท่าใหม่หลังการล้มทุกครั้ง และปล้ำต่อจนกว่าจะมีฝ่ายหนึ่งชนะสองครั้ง โดยควบคุมการลงพื้นทุกครั้ง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Схватка из трёх падений",
+      "description": "1. Возьмите бэкхолд с подготовленным партнёром и дождитесь команды судьи или партнёра.\n2. Боритесь, пока кто-то не коснётся ковра чем-либо, кроме стоп, или не разорвёт захват, и засчитайте это падение сопернику.\n3. После каждого падения снова берите захват и продолжайте, пока один борец не выиграет два падения, контролируя каждое приземление.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Сутичка з трьох падінь",
+      "description": "1. Візьміть бекхолд із підготовленим партнером і дочекайтеся команди судді або партнера.\n2. Боріться, доки хтось не торкнеться килима чимось, окрім стоп, або не розірве захоплення, і зарахуйте це падіння суперникові.\n3. Після кожного падіння знову беріть захоплення й продовжуйте, доки один борець не виграє два падіння, контролюючи кожне приземлення.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

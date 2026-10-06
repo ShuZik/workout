@@ -1,0 +1,90 @@
+{
+  "id": "23.33",
+  "key": "cross_training_box_jump",
+  "title": "Box Jump",
+  "description": "1. Stand facing a stable box with enough clearance and choose a height that allows a controlled landing.\n2. Swing the arms, load the hips, and jump to land with both feet fully on the box and knees softly bent.\n3. Stand tall, then step down under control rather than rebounding from the edge.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 7.5,
+    "lightCode": "02034",
+    "moderateCode": "02035",
+    "vigorousCode": "02040"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Bodyweight",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Box Jump",
+      "description": "1. Stand facing a stable box with enough clearance and choose a height that allows a controlled landing.\n2. Swing the arms, load the hips, and jump to land with both feet fully on the box and knees softly bent.\n3. Stand tall, then step down under control rather than rebounding from the edge.",
+      "sectionTitle": "Bodyweight"
+    },
+    "es": {
+      "title": "Salto al cajón",
+      "description": "1. Colócate frente a un cajón estable con espacio suficiente y elige una altura que permita un aterrizaje controlado.\n2. Balancea los brazos, carga la cadera y salta para aterrizar con ambos pies completamente sobre el cajón y las rodillas suavemente flexionadas.\n3. Ponte erguido y luego baja caminando con control en lugar de rebotar desde el borde.",
+      "sectionTitle": "Peso corporal"
+    },
+    "pt": {
+      "title": "Salto na caixa",
+      "description": "1. Fique de frente para uma caixa estável com espaço suficiente e escolha uma altura que permita uma aterrissagem controlada.\n2. Balance os braços, carregue o quadril e salte para aterrissar com os dois pés inteiros sobre a caixa e os joelhos levemente flexionados.\n3. Fique ereto e depois desça com controle, um pé de cada vez, em vez de quicar da borda.",
+      "sectionTitle": "Peso corporal"
+    },
+    "fr": {
+      "title": "Saut sur box",
+      "description": "1. Placez-vous face à une box stable avec assez d’espace et choisissez une hauteur qui permet une réception contrôlée.\n2. Balancez les bras, chargez les hanches et sautez pour poser les deux pieds entièrement sur la box, genoux souplement fléchis.\n3. Redressez-vous, puis redescendez en marchant avec contrôle plutôt que de rebondir depuis le bord.",
+      "sectionTitle": "Poids du corps"
+    },
+    "de": {
+      "title": "Kastensprung",
+      "description": "1. Stell dich mit genug Freiraum vor eine stabile Box und wähle eine Höhe, die eine kontrollierte Landung erlaubt.\n2. Schwing die Arme, lade die Hüfte und spring so, dass beide Füße vollständig auf der Box landen und die Knie leicht gebeugt sind.\n3. Richte dich auf und steig dann kontrolliert herunter, statt von der Kante abzufedern.",
+      "sectionTitle": "Körpergewicht"
+    },
+    "it": {
+      "title": "Salto sul box",
+      "description": "1. Mettiti di fronte a un box stabile con spazio sufficiente e scegli un’altezza che consenta un atterraggio controllato.\n2. Slancia le braccia, carica le anche e salta per atterrare con entrambi i piedi completamente sul box e le ginocchia morbide.\n3. Alzati in piedi, poi scendi con controllo un piede alla volta invece di rimbalzare dal bordo.",
+      "sectionTitle": "Corpo libero"
+    },
+    "zh-Hans": {
+      "title": "跳箱",
+      "description": "1. 面对一个稳固的跳箱站立，周围留足空间，选择能控制落地的高度。\n2. 摆臂、髋部蓄力后起跳，双脚完整落在箱面上，膝盖柔和弯曲。\n3. 站直后有控制地走下来，不要从箱边反弹跳下。",
+      "sectionTitle": "自重"
+    },
+    "ja": {
+      "title": "ボックスジャンプ",
+      "description": "1. 十分なスペースのある安定したボックスに向かって立ち、コントロールして着地できる高さを選びます。\n2. 腕を振り、腰に力をためて跳び、膝を柔らかく曲げて両足全体でボックスに着地します。\n3. まっすぐ立ち、縁から跳ね返らずにコントロールしながら降ります。",
+      "sectionTitle": "自重"
+    },
+    "ko": {
+      "title": "박스 점프",
+      "description": "1. 공간이 충분한 안정적인 박스를 마주하고 통제된 착지가 가능한 높이를 고릅니다.\n2. 팔을 흔들고 엉덩이에 힘을 실어 점프해 두 발 전체로 박스 위에 착지하며 무릎을 부드럽게 굽힙니다.\n3. 곧게 선 뒤 가장자리에서 튕겨 내려오지 말고 통제하며 걸어 내려옵니다.",
+      "sectionTitle": "맨몸"
+    },
+    "th": {
+      "title": "กระโดดขึ้นกล่อง",
+      "description": "1. ยืนหันหน้าเข้ากล่องที่มั่นคงโดยมีพื้นที่เพียงพอ และเลือกความสูงที่ลงได้อย่างควบคุม\n2. เหวี่ยงแขน ย่อสะโพกเตรียมแรง แล้วกระโดดให้เท้าทั้งสองลงบนกล่องเต็มฝ่าเท้า โดยงอเข่าอย่างนุ่มนวล\n3. ยืนตัวตรง แล้วก้าวลงอย่างควบคุมแทนการเด้งตัวลงจากขอบกล่อง",
+      "sectionTitle": "น้ำหนักตัว"
+    },
+    "ru": {
+      "title": "Запрыгивания на тумбу",
+      "description": "1. Встаньте лицом к устойчивой тумбе со свободным пространством вокруг и выберите высоту, позволяющую контролируемое приземление.\n2. Взмахните руками, загрузите таз и прыгните, приземлившись обеими стопами полностью на тумбу с мягко согнутыми коленями.\n3. Выпрямитесь, затем подконтрольно сойдите вниз шагом, а не отскакивайте с края.",
+      "sectionTitle": "Собственный вес"
+    },
+    "uk": {
+      "title": "Застрибування на тумбу",
+      "description": "1. Станьте обличчям до стійкої тумби з вільним простором навколо й оберіть висоту, що дозволяє контрольоване приземлення.\n2. Змахніть руками, завантажте таз і стрибніть, приземлившись обома стопами повністю на тумбу з м’яко зігнутими колінами.\n3. Випряміться, потім підконтрольно зійдіть униз кроком, а не відскакуйте з краю.",
+      "sectionTitle": "Власна вага"
+    }
+  }
+}

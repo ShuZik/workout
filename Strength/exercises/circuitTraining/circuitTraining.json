@@ -1,0 +1,90 @@
+{
+  "id": "13.4",
+  "key": "circuit_training",
+  "title": "Circuit Training",
+  "description": "1. Arrange the exercises and equipment in station order and set the work or repetition target for each.\n2. Complete one station with its correct technique before moving to the next station.\n3. Use the planned transition or rest, then repeat the circuit only while every movement remains controlled.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 7.5,
+    "lightCode": "02034",
+    "moderateCode": "02035",
+    "vigorousCode": "02040"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Circuit Training",
+      "description": "1. Arrange the exercises and equipment in station order and set the work or repetition target for each.\n2. Complete one station with its correct technique before moving to the next station.\n3. Use the planned transition or rest, then repeat the circuit only while every movement remains controlled.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Entrenamiento en circuito",
+      "description": "1. Ordena los ejercicios y el material por estaciones y fija el objetivo de trabajo o de repeticiones de cada una.\n2. Completa una estación con la técnica correcta antes de pasar a la siguiente.\n3. Usa la transición o el descanso previstos y repite el circuito solo mientras todos los movimientos sigan controlados.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Treino em circuito",
+      "description": "1. Organize os exercícios e o equipamento na ordem das estações e defina a meta de trabalho ou de repetições de cada uma.\n2. Complete uma estação com a técnica correta antes de passar para a próxima.\n3. Use a transição ou o descanso planejados e repita o circuito apenas enquanto todos os movimentos continuarem controlados.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Entraînement en circuit",
+      "description": "1. Disposez les exercices et le matériel dans l’ordre des ateliers et fixez l’objectif de travail ou de répétitions pour chacun.\n2. Terminez un atelier avec la bonne technique avant de passer au suivant.\n3. Respectez la transition ou la récupération prévue, puis répétez le circuit uniquement tant que chaque mouvement reste contrôlé.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Zirkeltraining",
+      "description": "1. Ordne Übungen und Geräte in Stationsreihenfolge an und lege für jede Station das Arbeits- oder Wiederholungsziel fest.\n2. Absolviere eine Station mit korrekter Technik, bevor du zur nächsten wechselst.\n3. Halte den geplanten Wechsel oder die Pause ein und wiederhole den Zirkel nur, solange jede Bewegung kontrolliert bleibt.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Allenamento a circuito",
+      "description": "1. Disponi esercizi e attrezzi in ordine di stazione e fissa per ciascuna l’obiettivo di lavoro o di ripetizioni.\n2. Completa una stazione con la tecnica corretta prima di passare alla successiva.\n3. Rispetta la transizione o il recupero previsti e ripeti il circuito solo finché ogni movimento resta controllato.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "循环训练",
+      "description": "1. 按站点顺序摆放动作和器材，并为每站设定训练时长或次数目标。\n2. 以正确技术完成一站后再进入下一站。\n3. 按计划过渡或休息，只有在每个动作都保持受控时才重复整轮循环。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "サーキットトレーニング",
+      "description": "1. 種目と器具をステーション順に並べ、各ステーションの運動量または回数の目標を決めます。\n2. 正しいフォームで1つのステーションを終えてから次へ移ります。\n3. 予定どおりの移動や休憩をとり、すべての動きをコントロールできている間だけサーキットを繰り返します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "서킷 트레이닝",
+      "description": "1. 운동과 기구를 스테이션 순서대로 배치하고 각 스테이션의 운동량 또는 반복 목표를 정합니다.\n2. 한 스테이션을 올바른 자세로 마친 뒤 다음 스테이션으로 이동합니다.\n3. 계획한 전환 또는 휴식을 취하고 모든 동작이 통제될 때만 서킷을 반복합니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "เซอร์กิตเทรนนิ่ง",
+      "description": "1. จัดท่าฝึกและอุปกรณ์ตามลำดับสถานี และกำหนดเป้าหมายเวลาหรือจำนวนครั้งของแต่ละสถานี\n2. ทำสถานีหนึ่งให้ครบด้วยเทคนิคที่ถูกต้องก่อนย้ายไปสถานีถัดไป\n3. เปลี่ยนสถานีหรือพักตามแผน แล้วทำเซอร์กิตซ้ำเฉพาะเมื่อทุกการเคลื่อนไหวยังควบคุมได้",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Круговая тренировка",
+      "description": "1. Расставьте упражнения и инвентарь по порядку станций и задайте для каждой цель по времени работы или повторениям.\n2. Выполните одну станцию с правильной техникой, прежде чем переходить к следующей.\n3. Соблюдайте запланированный переход или отдых и повторяйте круг, только пока каждое движение остаётся контролируемым.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Кругове тренування",
+      "description": "1. Розставте вправи й інвентар у порядку станцій і визначте для кожної мету за часом роботи або повтореннями.\n2. Виконайте одну станцію з правильною технікою, перш ніж переходити до наступної.\n3. Дотримуйтеся запланованого переходу чи відпочинку й повторюйте коло, лише поки кожен рух лишається контрольованим.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

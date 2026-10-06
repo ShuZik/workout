@@ -1,0 +1,90 @@
+{
+  "id": "54.12",
+  "key": "fencing_change_beat",
+  "title": "Change Beat",
+  "description": "1. Begin engaged with the partner's blade in one line at lunging distance.\n2. Pass your point under the partner's blade to the opposite side and beat it from that new side in one continuous motion.\n3. Extend into the opened line and lunge to hit, recover to en garde, and alternate the starting engagement before swapping roles.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Change Beat",
+      "description": "1. Begin engaged with the partner's blade in one line at lunging distance.\n2. Pass your point under the partner's blade to the opposite side and beat it from that new side in one continuous motion.\n3. Extend into the opened line and lunge to hit, recover to en garde, and alternate the starting engagement before swapping roles.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Cambio y batimiento",
+      "description": "1. Comienza enganchado con la hoja del compañero en una línea a distancia de fondo.\n2. Pasa tu punta por debajo de la hoja del compañero al lado opuesto y batela desde ese nuevo lado en un solo movimiento continuo.\n3. Extiende hacia la línea abierta y tira a fondo para tocar, vuelve a guardia y alterna el enganche inicial antes de cambiar papeles.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Troca e batida",
+      "description": "1. Comece engajado com a lâmina do parceiro numa linha à distância de afundo.\n2. Passe sua ponta por baixo da lâmina do parceiro para o lado oposto e bata nela desse novo lado num só movimento contínuo.\n3. Estenda para a linha aberta e afunde para tocar, volte à guarda e alterne o engajamento inicial antes de trocar papéis.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Changement-battement",
+      "description": "1. Commencez engagé avec le fer du partenaire dans une ligne, à distance de fente.\n2. Passez la pointe sous le fer adverse vers le côté opposé et battez-le de ce nouveau côté en un seul mouvement continu.\n3. Allongez dans la ligne ouverte et fendez-vous pour toucher, revenez en garde et alternez l’engagement de départ avant d’inverser.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Wechselbattuta",
+      "description": "1. Beginne in Bindung mit der Partnerklinge in einer Linie auf Ausfalldistanz.\n2. Führe deine Spitze unter der Partnerklinge auf die Gegenseite und schlage sie von dort in einer durchgehenden Bewegung.\n3. Strecke in die geöffnete Linie und falle zum Treffer aus, kehre zurück und wechsle die Ausgangsbindung, bevor ihr tauscht.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Cambio di battuta",
+      "description": "1. Parti legato con la lama del compagno in una linea a distanza d’affondo.\n2. Passa la punta sotto la lama del compagno al lato opposto e battila da quel nuovo lato in un unico movimento continuo.\n3. Distendi nella linea aperta e affonda per toccare, torna in guardia e alterna il legamento iniziale prima di scambiare.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "换位击打",
+      "description": "1. 在弓步距离，与同伴的剑在某一线位接剑开始。\n2. 剑尖从同伴剑下绕到对侧，并在一个连贯动作中从新的一侧击打其剑。\n3. 沿打开的线位伸臂弓步刺中，恢复实战姿势，交替起始接剑位置后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "シャンジュマン・バットマン",
+      "description": "1. ファントの間合いで、相手の剣と一つのラインでアンガージュした状態から始めます。\n2. 剣先を相手の剣の下にくぐらせて反対側へ回し、そのまま新しい側から一続きの動作で打ちます。\n3. 開いたラインへ腕を伸ばしてファントで突き、アンガルドに戻り、開始のアンガージュを交互に変えてから交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "체인지 비트",
+      "description": "1. 런지 거리에서 파트너 칼과 한 라인으로 인게이지한 상태로 시작합니다.\n2. 칼끝을 파트너 칼 아래로 반대쪽으로 넘기고, 이어지는 한 동작으로 새 쪽에서 칼을 칩니다.\n3. 열린 라인으로 팔을 뻗어 런지로 찌르고 앙가르드로 돌아와 시작 인게이지를 바꿔 가며 반복한 뒤 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เชนจ์บีต",
+      "description": "1. เริ่มโดยแตะใบดาบคู่ฝึกในแนวหนึ่งในระยะลันจ์\n2. ลอดปลายดาบใต้ใบดาบคู่ฝึกไปอีกด้าน แล้วตีดาบจากด้านใหม่ในจังหวะต่อเนื่องเดียว\n3. เหยียดแขนเข้าแนวที่เปิดแล้วลันจ์แทง กลับสู่อองการ์ด สลับการแตะดาบเริ่มต้นแล้วสลับบทบาท",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Перемена и батман",
+      "description": "1. Начните из соединения с клинком партнёра в одной линии на дистанции выпада.\n2. Проведите остриё под клинком партнёра на противоположную сторону и одним слитным движением нанесите батман с новой стороны.\n3. Выпрямите руку в открытую линию и выпадом нанесите укол, вернитесь в стойку, чередуйте исходное соединение и поменяйтесь ролями.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Зміна й батман",
+      "description": "1. Почніть зі з’єднання з клинком партнера в одній лінії на дистанції випаду.\n2. Проведіть вістря під клинком партнера на протилежний бік і одним злитим рухом завдайте батману з нового боку.\n3. Випряміть руку у відкриту лінію й випадом завдайте уколу, поверніться в стійку, чергуйте вихідне з’єднання й поміняйтеся ролями.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

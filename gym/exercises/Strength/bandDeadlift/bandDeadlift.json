@@ -21,5 +21,67 @@
   "section": "3 Resistance Bands",
   "availableFrom": "1.1.4",
   "availableUntil": null,
-  "state": "active"
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Band Deadlift",
+      "description": "1. Stand on the middle of the band, hinge to hold both ends, and brace with the spine neutral.\n2. Drive through the feet and extend the hips and knees while the hands remain beside the legs.\n3. Finish upright, then push the hips back and bend the knees to lower under control.",
+      "sectionTitle": "Resistance Bands"
+    },
+    "es": {
+      "title": "Peso muerto con banda",
+      "description": "1. Pisa el centro de la banda, flexiona la cadera para sujetar ambos extremos y activa el tronco con la columna neutra.\n2. Empuja con los pies y extiende caderas y rodillas mientras las manos permanecen junto a las piernas.\n3. Termina erguido y luego lleva las caderas atrás y flexiona las rodillas para bajar con control.",
+      "sectionTitle": "Bandas de resistencia"
+    },
+    "pt": {
+      "title": "Levantamento terra com elástico",
+      "description": "1. Pise no meio do elástico, flexione o quadril para segurar as duas pontas e contraia o tronco com a coluna neutra.\n2. Empurre o chão com os pés e estenda o quadril e os joelhos enquanto as mãos permanecem ao lado das pernas.\n3. Termine em pé e depois leve o quadril para trás e dobre os joelhos para descer com controle.",
+      "sectionTitle": "Elásticos de resistência"
+    },
+    "fr": {
+      "title": "Soulevé de terre avec élastique",
+      "description": "1. Placez-vous au milieu de l’élastique, basculez le bassin pour saisir les deux extrémités et gainez-vous, colonne neutre.\n2. Poussez dans les pieds et tendez hanches et genoux pendant que les mains restent le long des jambes.\n3. Terminez debout, puis reculez les hanches et fléchissez les genoux pour redescendre avec contrôle.",
+      "sectionTitle": "Élastiques de résistance"
+    },
+    "de": {
+      "title": "Kreuzheben mit Band",
+      "description": "1. Stelle dich auf die Mitte des Bands, beuge dich in der Hüfte, um beide Enden zu greifen, und spanne den Rumpf mit neutraler Wirbelsäule an.\n2. Drücke über die Füße und strecke Hüfte und Knie, während die Hände neben den Beinen bleiben.\n3. Beende aufrecht, schiebe dann die Hüfte zurück und beuge die Knie, um kontrolliert abzusenken.",
+      "sectionTitle": "Widerstandsbänder"
+    },
+    "it": {
+      "title": "Stacco con elastico",
+      "description": "1. Sali al centro dell’elastico, piegati dalle anche per afferrare entrambe le estremità e contrai il tronco con la colonna neutra.\n2. Spingi con i piedi ed estendi anche e ginocchia mentre le mani restano accanto alle gambe.\n3. Concludi in piedi, poi porta indietro le anche e piega le ginocchia per scendere con controllo.",
+      "sectionTitle": "Elastici di resistenza"
+    },
+    "zh-Hans": {
+      "title": "弹力带硬拉",
+      "description": "1. 双脚踩住弹力带中段，屈髋握住两端，脊柱保持中立并收紧躯干。\n2. 双脚发力，伸展髋部和膝盖，双手始终位于双腿两侧。\n3. 站直后，髋部向后推并屈膝，有控制地下放。",
+      "sectionTitle": "弹力带"
+    },
+    "ja": {
+      "title": "バンドデッドリフト",
+      "description": "1. バンドの中央を踏み、股関節から前傾して両端を持ち、背骨をニュートラルに保って体幹を固めます。\n2. 両手を脚の横に保ったまま、足で床を押して股関節と膝を伸ばします。\n3. まっすぐ立ったら、腰を後ろに引いて膝を曲げ、コントロールして下ろします。",
+      "sectionTitle": "レジスタンスバンド"
+    },
+    "ko": {
+      "title": "밴드 데드리프트",
+      "description": "1. 밴드 가운데를 밟고 엉덩이를 접어 양 끝을 잡은 뒤 척추를 중립으로 유지하며 몸통에 힘을 줍니다.\n2. 손을 다리 옆에 둔 채 발로 바닥을 밀며 엉덩이와 무릎을 폅니다.\n3. 똑바로 선 뒤 엉덩이를 뒤로 밀고 무릎을 굽혀 통제하며 내려갑니다.",
+      "sectionTitle": "저항 밴드"
+    },
+    "th": {
+      "title": "เดดลิฟต์ด้วยยางยืด",
+      "description": "1. เหยียบกลางยางยืด พับสะโพกลงจับปลายทั้งสองข้าง และเกร็งลำตัวโดยให้กระดูกสันหลังอยู่ในแนวกลาง\n2. ดันผ่านเท้าและเหยียดสะโพกกับเข่า ขณะที่มืออยู่ข้างขา\n3. ยืนตรงให้สุด แล้วดันสะโพกไปด้านหลังและงอเข่าเพื่อลดตัวลงอย่างควบคุม",
+      "sectionTitle": "ยางยืดแรงต้าน"
+    },
+    "ru": {
+      "title": "Становая тяга с резинкой",
+      "description": "1. Встаньте на середину резинки, наклонитесь в тазобедренных суставах, возьмите оба конца и напрягите корпус с нейтральной спиной.\n2. Оттолкнитесь стопами и разогните таз и колени, держа руки рядом с ногами.\n3. Выпрямитесь полностью, затем отведите таз назад и согните колени, контролируемо опускаясь.",
+      "sectionTitle": "Резинки сопротивления"
+    },
+    "uk": {
+      "title": "Станова тяга з гумою",
+      "description": "1. Станьте на середину гуми, нахиліться в кульшових суглобах, візьміть обидва кінці й напружте корпус із нейтральною спиною.\n2. Відштовхніться стопами й розігніть таз і коліна, тримаючи руки поруч із ногами.\n3. Повністю випряміться, потім відведіть таз назад і зігніть коліна, контрольовано опускаючись.",
+      "sectionTitle": "Гуми опору"
+    }
+  }
 }

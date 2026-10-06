@@ -1,0 +1,90 @@
+{
+  "id": "12.2",
+  "key": "battle_ropes_alternating_waves",
+  "title": "Alternating Waves",
+  "description": "1. Stand facing the anchor with one rope end in each hand, knees and hips bent, and trunk braced.\n2. Raise one hand as the other drives down to send alternating waves along both ropes.\n3. Keep the waves reaching the anchor while the shoulders stay down and the hips remain stable.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "2 Battle Ropes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Alternating Waves",
+      "description": "1. Stand facing the anchor with one rope end in each hand, knees and hips bent, and trunk braced.\n2. Raise one hand as the other drives down to send alternating waves along both ropes.\n3. Keep the waves reaching the anchor while the shoulders stay down and the hips remain stable.",
+      "sectionTitle": "Battle Ropes"
+    },
+    "es": {
+      "title": "Ondas alternas",
+      "description": "1. Colócate de frente al anclaje con un extremo de la cuerda en cada mano, las rodillas y las caderas flexionadas y el tronco firme.\n2. Sube una mano mientras la otra baja con fuerza para enviar ondas alternas a lo largo de ambas cuerdas.\n3. Haz que las ondas lleguen hasta el anclaje mientras los hombros se mantienen abajo y las caderas estables.",
+      "sectionTitle": "Cuerdas de batalla"
+    },
+    "pt": {
+      "title": "Ondas alternadas",
+      "description": "1. Fique de frente para a ancoragem com uma ponta da corda em cada mão, joelhos e quadris flexionados e o tronco firme.\n2. Levante uma mão enquanto a outra desce com força para enviar ondas alternadas ao longo das duas cordas.\n3. Faça as ondas chegarem até a ancoragem enquanto os ombros ficam baixos e os quadris permanecem estáveis.",
+      "sectionTitle": "Cordas navais"
+    },
+    "fr": {
+      "title": "Vagues alternées",
+      "description": "1. Placez-vous face au point d'ancrage avec une extrémité de corde dans chaque main, genoux et hanches fléchis, tronc gainé.\n2. Levez une main pendant que l'autre frappe vers le bas pour envoyer des vagues alternées le long des deux cordes.\n3. Faites en sorte que les vagues atteignent le point d'ancrage en gardant les épaules basses et les hanches stables.",
+      "sectionTitle": "Cordes ondulatoires"
+    },
+    "de": {
+      "title": "Wechselwellen",
+      "description": "1. Stelle dich mit einem Seilende in jeder Hand zum Ankerpunkt, beuge Knie und Hüften und spanne den Rumpf an.\n2. Hebe eine Hand, während die andere kraftvoll nach unten schlägt, um abwechselnde Wellen durch beide Seile zu schicken.\n3. Lass die Wellen bis zum Ankerpunkt laufen, während die Schultern unten und die Hüften stabil bleiben.",
+      "sectionTitle": "Schlagseile"
+    },
+    "it": {
+      "title": "Onde alternate",
+      "description": "1. Mettiti di fronte al punto di ancoraggio con un capo della corda in ogni mano, ginocchia e anche piegate e busto contratto.\n2. Solleva una mano mentre l'altra spinge verso il basso per inviare onde alternate lungo entrambe le corde.\n3. Fai arrivare le onde fino all'ancoraggio mantenendo le spalle basse e le anche stabili.",
+      "sectionTitle": "Corde ondulatorie"
+    },
+    "zh-Hans": {
+      "title": "交替波浪",
+      "description": "1. 面向固定点站立，双手各握一端绳头，屈膝屈髋，收紧躯干。\n2. 一只手上抬的同时另一只手向下发力，让两根绳子形成交替波浪。\n3. 保持波浪传到固定点，同时双肩下沉，髋部保持稳定。",
+      "sectionTitle": "战绳"
+    },
+    "ja": {
+      "title": "オルタネイトウェーブ",
+      "description": "1. アンカーに向かって立ち、両手にロープの端を1本ずつ持ち、膝と股関節を曲げて体幹を締めます。\n2. 片手を上げると同時にもう片方の手を振り下ろし、2本のロープに交互の波を送ります。\n3. 肩を下げ、腰を安定させたまま、波がアンカーまで届くように続けます。",
+      "sectionTitle": "バトルロープ"
+    },
+    "ko": {
+      "title": "교대 웨이브",
+      "description": "1. 고정점을 마주 보고 양손에 로프 끝을 하나씩 잡은 뒤 무릎과 고관절을 굽히고 몸통에 힘을 줍니다.\n2. 한 손을 들어 올리는 동시에 다른 손을 힘차게 내려 두 로프에 번갈아 웨이브를 보냅니다.\n3. 어깨를 내리고 골반을 안정적으로 유지하면서 웨이브가 고정점까지 닿도록 합니다.",
+      "sectionTitle": "배틀 로프"
+    },
+    "th": {
+      "title": "คลื่นสลับ",
+      "description": "1. ยืนหันหน้าเข้าหาจุดยึด ถือปลายเชือกข้างละเส้นในแต่ละมือ งอเข่าและสะโพก และเกร็งลำตัว\n2. ยกมือข้างหนึ่งขึ้นขณะที่อีกข้างฟาดลง เพื่อส่งคลื่นสลับกันไปตามเชือกทั้งสองเส้น\n3. ทำให้คลื่นไปถึงจุดยึด โดยกดไหล่ลงและรักษาสะโพกให้มั่นคง",
+      "sectionTitle": "เชือกแบทเทิลโรป"
+    },
+    "ru": {
+      "title": "Попеременные волны",
+      "description": "1. Встаньте лицом к точке крепления, держа по концу каната в каждой руке; колени и тазобедренные суставы согнуты, корпус напряжён.\n2. Поднимайте одну руку, одновременно с силой опуская другую, чтобы посылать попеременные волны по обоим канатам.\n3. Следите, чтобы волны доходили до точки крепления, плечи оставались опущенными, а таз стабильным.",
+      "sectionTitle": "Канаты"
+    },
+    "uk": {
+      "title": "Почергові хвилі",
+      "description": "1. Станьте обличчям до точки кріплення, тримаючи по кінцю канату в кожній руці; коліна й кульшові суглоби зігнуті, корпус напружений.\n2. Піднімайте одну руку, водночас із силою опускаючи іншу, щоб посилати почергові хвилі обома канатами.\n3. Стежте, щоб хвилі доходили до точки кріплення, плечі залишалися опущеними, а таз стабільним.",
+      "sectionTitle": "Канати"
+    }
+  }
+}

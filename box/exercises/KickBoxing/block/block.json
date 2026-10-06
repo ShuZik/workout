@@ -21,5 +21,67 @@
   "section": "4 Defense",
   "availableFrom": "1.1.2",
   "availableUntil": null,
-  "state": "active"
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Block",
+      "description": "1. From guard, brace the stance and identify whether the attack is aimed at the head, body, or leg.\n2. Catch punches on the gloves and forearms, close the elbow over body targets, or raise the shin to check a low kick.\n3. Absorb the contact with soft knees and immediately restore sight, stance, and guard.",
+      "sectionTitle": "Defense"
+    },
+    "es": {
+      "title": "Bloqueo",
+      "description": "1. Desde la guardia, afianza la postura e identifica si el ataque va a la cabeza, al cuerpo o a la pierna.\n2. Recibe los golpes en los guantes y antebrazos, cierra el codo sobre los objetivos del cuerpo o levanta la espinilla para bloquear una patada baja.\n3. Absorbe el contacto con las rodillas flexionadas y recupera de inmediato la visión, la postura y la guardia.",
+      "sectionTitle": "Defensa"
+    },
+    "pt": {
+      "title": "Bloqueio",
+      "description": "1. Na guarda, firme a base e identifique se o ataque vai à cabeça, ao corpo ou à perna.\n2. Receba os socos nas luvas e antebraços, feche o cotovelo sobre os alvos do corpo ou eleve a canela para bloquear um chute baixo.\n3. Absorva o contato com os joelhos flexionados e recupere imediatamente a visão, a base e a guarda.",
+      "sectionTitle": "Defesa"
+    },
+    "fr": {
+      "title": "Blocage",
+      "description": "1. En garde, stabilisez la position et identifiez si l’attaque vise la tête, le corps ou la jambe.\n2. Recevez les coups de poing sur les gants et les avant-bras, fermez le coude sur les cibles au corps ou levez le tibia contre un low-kick.\n3. Absorbez le contact avec des genoux souples et rétablissez aussitôt le regard, la position et la garde.",
+      "sectionTitle": "Défense"
+    },
+    "de": {
+      "title": "Block",
+      "description": "1. Stabilisiere aus der Deckung die Stellung und erkenne, ob der Angriff auf Kopf, Körper oder Bein zielt.\n2. Fange Schläge mit Handschuhen und Unterarmen ab, schließe den Ellbogen über Körpertreffern oder hebe das Schienbein gegen einen Lowkick.\n3. Federe den Kontakt mit lockeren Knien ab und stelle sofort Blick, Stellung und Deckung wieder her.",
+      "sectionTitle": "Verteidigung"
+    },
+    "it": {
+      "title": "Blocco",
+      "description": "1. Dalla guardia, stabilizza la posizione e individua se l’attacco è diretto alla testa, al corpo o alla gamba.\n2. Ricevi i pugni su guantoni e avambracci, chiudi il gomito sui bersagli al corpo o solleva la tibia per parare un calcio basso.\n3. Assorbi il contatto con le ginocchia morbide e ripristina subito visuale, posizione e guardia.",
+      "sectionTitle": "Difesa"
+    },
+    "zh-Hans": {
+      "title": "格挡",
+      "description": "1. 从防守位稳住站姿，判断攻击是打向头部、躯干还是腿部。\n2. 用拳套和前臂接住拳击，手肘合拢护住躯干，或抬起小腿格挡低扫踢。\n3. 膝盖微屈吸收冲击，立即恢复视线、站姿和防守。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "ブロック",
+      "description": "1. ガードから構えを安定させ、攻撃が頭、ボディ、脚のどこを狙っているかを見極めます。\n2. パンチはグローブと前腕で受け、ボディへの攻撃は肘を締めて防ぎ、ローキックはすねを上げてカットします。\n3. 膝を柔らかく使って衝撃を吸収し、すぐに視線、構え、ガードを立て直します。",
+      "sectionTitle": "ディフェンス"
+    },
+    "ko": {
+      "title": "블록",
+      "description": "1. 가드에서 자세를 단단히 하고 공격이 머리, 몸통, 다리 중 어디를 향하는지 파악합니다.\n2. 펀치는 글러브와 전완으로 받고, 몸통 공격은 팔꿈치를 닫아 막으며, 로킥은 정강이를 들어 체크합니다.\n3. 무릎을 부드럽게 써서 충격을 흡수하고 즉시 시야, 자세, 가드를 회복합니다.",
+      "sectionTitle": "방어"
+    },
+    "th": {
+      "title": "บล็อก",
+      "description": "1. จากการ์ด ตั้งท่ายืนให้มั่นและดูว่าการโจมตีมุ่งที่ศีรษะ ลำตัว หรือขา\n2. รับหมัดด้วยนวมและแขนท่อนล่าง หนีบศอกป้องกันลำตัว หรือยกแข้งรับลูกเตะต่ำ\n3. ซับแรงกระแทกด้วยเข่าที่ผ่อนคลาย แล้วคืนสายตา ท่ายืน และการ์ดทันที",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Блок",
+      "description": "1. Из защиты укрепите стойку и определите, направлена атака в голову, корпус или ногу.\n2. Принимайте удары руками на перчатки и предплечья, закрывайте корпус локтем или поднимайте голень против лоу-кика.\n3. Поглощайте контакт мягкими коленями и сразу восстанавливайте обзор, стойку и защиту.",
+      "sectionTitle": "Защита"
+    },
+    "uk": {
+      "title": "Блок",
+      "description": "1. Із захисту зміцніть стійку й визначте, чи спрямована атака в голову, корпус або ногу.\n2. Приймайте удари руками на рукавички й передпліччя, закривайте корпус ліктем або піднімайте гомілку проти лоу-кіка.\n3. Поглинайте контакт м’якими колінами й одразу відновлюйте огляд, стійку та захист.",
+      "sectionTitle": "Захист"
+    }
+  }
 }

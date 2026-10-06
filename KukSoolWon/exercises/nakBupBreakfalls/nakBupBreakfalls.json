@@ -1,0 +1,90 @@
+{
+  "id": "72.3",
+  "key": "kuk_sool_won_nak_bup",
+  "title": "Nak Bup Breakfalls",
+  "description": "1. Start from a squat and fall backward, tucking the chin and slapping the mat with both arms at about 45 degrees from the body.\n2. Progress to side falls and forward rolls over the shoulder, keeping the body rounded and exhaling on impact.\n3. Return to a ready stance after every fall, raising the starting height only when landings stay quiet and controlled.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kukSoolWon",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Nak Bup Breakfalls",
+      "description": "1. Start from a squat and fall backward, tucking the chin and slapping the mat with both arms at about 45 degrees from the body.\n2. Progress to side falls and forward rolls over the shoulder, keeping the body rounded and exhaling on impact.\n3. Return to a ready stance after every fall, raising the starting height only when landings stay quiet and controlled.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Caídas nak bup",
+      "description": "1. Parte de una sentadilla y cae hacia atrás, metiendo la barbilla y golpeando el tapiz con ambos brazos a unos 45 grados del cuerpo.\n2. Avanza a caídas laterales y volteretas por encima del hombro, con el cuerpo redondeado y exhalando al impactar.\n3. Vuelve a la posición de preparado tras cada caída y sube la altura de partida solo cuando los aterrizajes sean silenciosos y controlados.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Quedas nak bup",
+      "description": "1. Comece agachado e caia para trás, encolhendo o queixo e batendo no tatame com os dois braços a cerca de 45 graus do corpo.\n2. Avance para quedas laterais e rolamentos sobre o ombro, mantendo o corpo arredondado e expirando no impacto.\n3. Volte à posição de prontidão após cada queda e aumente a altura de partida apenas quando as aterrissagens forem silenciosas e controladas.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Chutes nak bup",
+      "description": "1. Partez accroupi et chutez en arrière, menton rentré, en frappant le tapis des deux bras à environ 45 degrés du corps.\n2. Passez aux chutes latérales et aux roulades par-dessus l'épaule, corps arrondi, en expirant à l'impact.\n3. Revenez en position prête après chaque chute et n'augmentez la hauteur de départ que lorsque les réceptions restent silencieuses et contrôlées.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Nak-Bup-Fallübungen",
+      "description": "1. Beginne aus der Hocke und falle rückwärts, das Kinn eingezogen, und schlage mit beiden Armen etwa im 45-Grad-Winkel zum Körper auf die Matte.\n2. Steigere zu Seitfallen und Vorwärtsrollen über die Schulter, den Körper rund, und atme beim Aufprall aus.\n3. Kehre nach jedem Fall in die Bereitschaftsstellung zurück und erhöhe die Ausgangshöhe erst, wenn die Landungen leise und kontrolliert bleiben.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Cadute nak bup",
+      "description": "1. Parti accosciato e cadi all'indietro, mento rientrato, battendo il tappeto con entrambe le braccia a circa 45 gradi dal corpo.\n2. Passa alle cadute laterali e alle capovolte sopra la spalla, con il corpo arrotondato ed espirando all'impatto.\n3. Torna in posizione di pronto dopo ogni caduta e aumenta l'altezza di partenza solo quando gli atterraggi restano silenziosi e controllati.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "落法倒地",
+      "description": "1. 从蹲姿开始向后倒，收下颌，双臂与身体约成45度拍垫。\n2. 逐步进阶到侧倒和从肩部滚过的前滚翻，身体保持圆弧，着地时呼气。\n3. 每次倒地后回到预备姿势，只有在着地安静且可控时才提高起始高度。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "落法（受け身）",
+      "description": "1. しゃがんだ姿勢から後ろへ倒れ、顎を引き、両腕を体から約45度に開いてマットを打ちます。\n2. 横受身と肩から転がる前転受身へ進み、体を丸めて着地の瞬間に息を吐きます。\n3. 受身のたびに準備の姿勢に戻り、着地が静かで制御できているときだけ開始の高さを上げます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "낙법",
+      "description": "1. 쪼그려 앉은 자세에서 뒤로 넘어지며 턱을 당기고, 두 팔을 몸에서 약 45도로 벌려 매트를 칩니다.\n2. 옆낙법과 어깨를 넘는 앞구르기로 진행하며, 몸을 둥글게 하고 충격 순간에 숨을 내쉽니다.\n3. 넘어질 때마다 준비 자세로 돌아오고, 착지가 조용하고 안정될 때에만 시작 높이를 올립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "การล้มนักบ็อบ",
+      "description": "1. เริ่มจากท่านั่งยองแล้วล้มไปข้างหลัง ก้มคางและตบเบาะด้วยแขนทั้งสองข้างทำมุมราว 45 องศากับลำตัว\n2. พัฒนาไปสู่การล้มด้านข้างและการม้วนตัวข้ามไหล่ รักษาลำตัวให้โค้งกลมและหายใจออกตอนกระทบพื้น\n3. กลับสู่ท่าเตรียมหลังล้มทุกครั้ง และเพิ่มความสูงเริ่มต้นเฉพาะเมื่อการลงพื้นยังเงียบและควบคุมได้",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Нак-поп — техника падений",
+      "description": "1. Из приседа падайте назад, прижав подбородок и ударяя по мату обеими руками примерно под углом 45 градусов к телу.\n2. Переходите к падениям на бок и кувыркам через плечо, сохраняя тело округлым и выдыхая в момент удара о мат.\n3. После каждого падения возвращайтесь в стойку готовности и повышайте исходную высоту, только когда приземления остаются тихими и контролируемыми.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Нак-поп — техніка падінь",
+      "description": "1. З присіду падайте назад, притиснувши підборіддя й ударяючи по мату обома руками приблизно під кутом 45 градусів до тіла.\n2. Переходьте до падінь на бік і перекидів через плече, тримаючи тіло заокругленим і видихаючи в момент удару об мат.\n3. Після кожного падіння повертайтеся в стійку готовності й підвищуйте вихідну висоту, лише коли приземлення залишаються тихими та контрольованими.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

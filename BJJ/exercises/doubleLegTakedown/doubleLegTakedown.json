@@ -1,0 +1,90 @@
+{
+  "id": "6.22",
+  "key": "bjj_double_leg_takedown",
+  "title": "Double-Leg Takedown",
+  "description": "1. With a trained partner on mats, lower through the knees and take a penetration step between the partner's feet.\n2. Wrap behind both knees, keep the head and spine aligned against the torso, and bring the trail leg beneath the hips.\n3. Drive and turn the corner while guiding the partner to a controlled landing, then stabilize on top.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "7 Takedowns",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Double-Leg Takedown",
+      "description": "1. With a trained partner on mats, lower through the knees and take a penetration step between the partner's feet.\n2. Wrap behind both knees, keep the head and spine aligned against the torso, and bring the trail leg beneath the hips.\n3. Drive and turn the corner while guiding the partner to a controlled landing, then stabilize on top.",
+      "sectionTitle": "Takedowns"
+    },
+    "es": {
+      "title": "Derribo a dos piernas",
+      "description": "1. Con un compañero entrenado y sobre tapiz, baja flexionando las rodillas y da un paso de penetración entre sus pies.\n2. Rodea por detrás ambas rodillas, mantén la cabeza y la columna alineadas contra su torso y lleva la pierna de atrás bajo la cadera.\n3. Empuja y gira la esquina mientras guías al compañero a una caída controlada, y luego estabilízate arriba.",
+      "sectionTitle": "Derribos"
+    },
+    "pt": {
+      "title": "Queda de duas pernas",
+      "description": "1. Com um parceiro treinado no tatame, abaixe flexionando os joelhos e dê um passo de penetração entre os pés do parceiro.\n2. Envolva a parte de trás dos dois joelhos, mantenha a cabeça e a coluna alinhadas contra o tronco dele e traga a perna de trás para baixo do quadril.\n3. Empurre e contorne mudando o ângulo enquanto conduz o parceiro a uma queda controlada, depois estabilize-se por cima.",
+      "sectionTitle": "Quedas"
+    },
+    "fr": {
+      "title": "Amenée double jambe",
+      "description": "1. Avec un partenaire entraîné sur tapis, descendez en fléchissant les genoux et faites un pas de pénétration entre ses pieds.\n2. Enlacez l’arrière des deux genoux, gardez la tête et la colonne alignées contre son buste et ramenez la jambe arrière sous les hanches.\n3. Poussez et tournez le coin en guidant le partenaire vers une chute contrôlée, puis stabilisez-vous au-dessus.",
+      "sectionTitle": "Amenées au sol"
+    },
+    "de": {
+      "title": "Doppelbeinangriff",
+      "description": "1. Senke dich mit einem trainierten Partner auf der Matte über die Knie ab und mache einen Eindringschritt zwischen seine Füße.\n2. Umfasse beide Kniekehlen, halte Kopf und Wirbelsäule am Oberkörper ausgerichtet und ziehe das hintere Bein unter die Hüfte.\n3. Schiebe und drehe um die Ecke, während du den Partner kontrolliert landen lässt, und stabilisiere dich dann oben.",
+      "sectionTitle": "Niederwürfe"
+    },
+    "it": {
+      "title": "Atterramento a due gambe",
+      "description": "1. Con un partner esperto sul tappeto, abbassati piegando le ginocchia e fai un passo di penetrazione tra i suoi piedi.\n2. Avvolgi la parte posteriore di entrambe le ginocchia, tieni testa e colonna allineate contro il suo busto e porta la gamba posteriore sotto le anche.\n3. Spingi e gira l’angolo guidando il partner a un atterraggio controllato, poi stabilizzati sopra.",
+      "sectionTitle": "Atterramenti"
+    },
+    "zh-Hans": {
+      "title": "抱双腿摔",
+      "description": "1. 与受过训练的搭档在垫上练习，屈膝降低重心，向对方两脚之间迈出切入步。\n2. 双手环抱对方两膝后侧，头部和脊柱贴着对方躯干保持一线，后腿跟进到髋部下方。\n3. 向前推并转角，引导搭档有控制地落地，然后在上位稳住。",
+      "sectionTitle": "摔法"
+    },
+    "ja": {
+      "title": "ダブルレッグテイクダウン",
+      "description": "1. 経験のあるパートナーとマット上で、膝を曲げて低くなり、相手の両足の間へ踏み込みます。\n2. 両膝の裏を抱え、頭と背骨を相手の胴に沿ってまっすぐ保ち、後ろ足を腰の下に引きつけます。\n3. 押し込みながら角度を変え、相手をコントロールして着地させ、上で安定します。",
+      "sectionTitle": "テイクダウン"
+    },
+    "ko": {
+      "title": "더블 레그 테이크다운",
+      "description": "1. 숙련된 파트너와 매트 위에서 무릎을 굽혀 자세를 낮추고 상대의 두 발 사이로 파고드는 스텝을 밟습니다.\n2. 두 무릎 뒤를 감싸 안고, 머리와 척추를 상대 몸통에 붙여 정렬한 채 뒷다리를 엉덩이 아래로 끌어옵니다.\n3. 밀면서 코너를 돌아 파트너가 통제된 상태로 착지하도록 유도한 뒤 상위에서 안정시킵니다.",
+      "sectionTitle": "테이크다운"
+    },
+    "th": {
+      "title": "ดับเบิลเลกเทกดาวน์",
+      "description": "1. ฝึกกับคู่ฝึกที่ผ่านการฝึกบนเบาะ ย่อเข่าลดระดับตัว แล้วก้าวพุ่งเข้าระหว่างเท้าคู่ฝึก\n2. โอบหลังเข่าทั้งสองข้าง รักษาศีรษะและกระดูกสันหลังให้อยู่แนวเดียวกันแนบลำตัวคู่ฝึก และนำขาหลังเข้ามาใต้สะโพก\n3. ดันและเลี้ยวมุมพร้อมพาคู่ฝึกลงสู่พื้นอย่างควบคุม แล้วตั้งตัวให้มั่นคงด้านบน",
+      "sectionTitle": "การทุ่ม"
+    },
+    "ru": {
+      "title": "Проход в две ноги",
+      "description": "1. С подготовленным партнёром на ковре опуститесь, сгибая колени, и сделайте проходящий шаг между его стоп.\n2. Обхватите обе ноги под коленями, держите голову и позвоночник на одной линии у его корпуса и подтяните заднюю ногу под таз.\n3. Толкайте и разворачивайтесь за угол, под контролем опуская партнёра на ковёр, затем закрепитесь сверху.",
+      "sectionTitle": "Переводы в партер"
+    },
+    "uk": {
+      "title": "Прохід у дві ноги",
+      "description": "1. З підготовленим партнером на килимі опустіться, згинаючи коліна, і зробіть прохідний крок між його стопами.\n2. Обхопіть обидві ноги під колінами, тримайте голову й хребет на одній лінії біля його тулуба та підтягніть задню ногу під таз.\n3. Штовхайте й розвертайтеся за кут, під контролем опускаючи партнера на килим, потім закріпіться згори.",
+      "sectionTitle": "Переведення в партер"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "63.10",
+  "key": "iaido_soete_zuki",
+  "title": "Soete-zuki",
+  "description": "1. Step toward an opponent on the left side, turn, and draw into a diagonal cut across the opponent's shoulder line.\n2. Place the left hand against the back of the blade as a support, draw the sword back to the right hip, and drive a supported thrust forward with a step.\n3. Withdraw the blade, perform chiburi, resheathe, and keep zanshin toward the opponent.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Soete-zuki",
+      "description": "1. Step toward an opponent on the left side, turn, and draw into a diagonal cut across the opponent's shoulder line.\n2. Place the left hand against the back of the blade as a support, draw the sword back to the right hip, and drive a supported thrust forward with a step.\n3. Withdraw the blade, perform chiburi, resheathe, and keep zanshin toward the opponent.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Soete-zuki",
+      "description": "1. Da un paso hacia un oponente situado a la izquierda, gira y desenvaina con un corte diagonal a través de la línea del hombro.\n2. Apoya la mano izquierda contra el dorso de la hoja, lleva la espada hacia la cadera derecha y lanza una estocada apoyada hacia delante con un paso.\n3. Retira la hoja, realiza chiburi, envaina y mantén zanshin hacia el oponente.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Soete-zuki",
+      "description": "1. Dê um passo em direção a um oponente à esquerda, gire e saque num corte diagonal através da linha do ombro.\n2. Apoie a mão esquerda contra o dorso da lâmina, traga a espada ao quadril direito e lance uma estocada apoiada à frente com um passo.\n3. Retire a lâmina, faça chiburi, embainhe e mantenha zanshin para o oponente.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Soete-zuki",
+      "description": "1. Avancez vers un adversaire placé à gauche, tournez-vous et dégainez par une coupe diagonale à travers la ligne de l’épaule.\n2. Placez la main gauche contre le dos de la lame en appui, ramenez le sabre à la hanche droite et portez une estocade soutenue en avançant.\n3. Retirez la lame, effectuez le chiburi, rengainez et gardez le zanshin vers l’adversaire.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Soete-zuki",
+      "description": "1. Zu einem Gegner auf der linken Seite schreiten, drehen und in einen Diagonalschnitt durch die Schulterlinie ziehen.\n2. Die linke Hand als Stütze an den Klingenrücken legen, das Schwert zur rechten Hüfte zurückziehen und mit einem Schritt einen gestützten Stich nach vorn ausführen.\n3. Die Klinge zurückziehen, Chiburi ausführen, einstecken und Zanshin zum Gegner halten.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Soete-zuki",
+      "description": "1. Avanza verso un avversario sul lato sinistro, ruota ed estrai con un taglio diagonale attraverso la linea della spalla.\n2. Appoggia la mano sinistra sul dorso della lama come sostegno, riporta la spada all’anca destra ed esegui un affondo sostenuto in avanti con un passo.\n3. Ritira la lama, esegui chiburi, rinfodera e mantieni lo zanshin verso l’avversario.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "添手突",
+      "description": "1. 向左侧的对手迈步，转身拔刀沿肩线斜斩。\n2. 左手贴住刀背作为支撑，将刀收至右腰，上步向前做支撑刺。\n3. 抽回刀身，振刀、纳刀，对对手保持残心。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "添え手突き（そえてづき）",
+      "description": "1. 左側の相手へ踏み出して向き直り、肩口へ袈裟に抜き付けます。\n2. 左手を刀の峰に添え、刀を右腰へ引き取り、踏み込んで添え手で突きます。\n3. 刀を抜き取り、血振り・納刀を行い、相手に残心を保ちます。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "소에테즈키",
+      "description": "1. 왼쪽의 상대에게 나서며 돌아서서 어깨선을 가로지르는 대각선 베기로 뽑습니다.\n2. 왼손을 칼등에 받쳐 대고 칼을 오른쪽 허리로 당긴 뒤 한 걸음 들어가며 받친 찌르기를 합니다.\n3. 칼을 빼고 치부리, 납도를 한 뒤 상대에게 잔심을 유지합니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "โซเอะเตะซึกิ",
+      "description": "1. ก้าวเข้าหาคู่ต่อสู้ทางด้านซ้าย หมุนตัวและชักดาบฟันเฉียงผ่านแนวไหล่\n2. วางมือซ้ายแนบสันดาบเป็นตัวประคอง ดึงดาบกลับมาที่สะโพกขวา แล้วก้าวแทงไปข้างหน้าโดยมีมือประคอง\n3. ดึงดาบกลับ ทำจิบุริ เก็บดาบ และคงซันชินต่อคู่ต่อสู้",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Соэтэ-дзуки",
+      "description": "1. Шагните к противнику слева, повернитесь и обнажите меч диагональным разрезом через линию плеча.\n2. Приложите левую руку к обуху клинка как опору, отведите меч к правому бедру и с шагом нанесите поддержанный укол вперёд.\n3. Извлеките клинок, выполните тибури, вложите меч и сохраните дзансин к противнику.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Соете-дзукі",
+      "description": "1. Ступіть до суперника ліворуч, поверніться й оголіть меч діагональним розрізом через лінію плеча.\n2. Прикладіть ліву руку до обуха клинка як опору, відведіть меч до правого стегна й із кроком завдайте підтриманого уколу вперед.\n3. Вийміть клинок, виконайте тібурі, вкладіть меч і збережіть дзансін до суперника.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "87.1",
+  "key": "qazaq_kuresi",
+  "title": "Qazaq Kuresi",
+  "description": "1. Begin standing on mats with a trained partner, greeting with a hand on the chest and a short hug.\n2. Grip above the belt and work for throws and trips without attacking the legs.\n3. Control each throw so the partner lands on the side or back, then release and reset standing.",
+  "colorType": "cyan",
+  "workoutType": "qazaqKuresi",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Qazaq Kuresi",
+      "description": "1. Begin standing on mats with a trained partner, greeting with a hand on the chest and a short hug.\n2. Grip above the belt and work for throws and trips without attacking the legs.\n3. Control each throw so the partner lands on the side or back, then release and reset standing.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Qazaq Kuresi",
+      "description": "1. Comienza de pie sobre el tatami con un compañero entrenado, saludando con la mano en el pecho y un breve abrazo.\n2. Agarra por encima del cinturón y busca proyecciones y zancadillas sin atacar las piernas.\n3. Controla cada proyección para que el compañero caiga de lado o de espaldas, luego suelta y reinicia de pie.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Qazaq Kuresi",
+      "description": "1. Comece de pé no tatame com um parceiro treinado, cumprimentando com a mão no peito e um breve abraço.\n2. Segure acima da faixa e busque projeções e rasteiras sem atacar as pernas.\n3. Controle cada projeção para que o parceiro caia de lado ou de costas, depois solte e recomece de pé.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Qazaq Kuresi",
+      "description": "1. Commencez debout sur le tapis avec un partenaire entraîné, en saluant main sur la poitrine et par une brève accolade.\n2. Saisissez au-dessus de la ceinture et cherchez projections et crocs-en-jambe sans attaquer les jambes.\n3. Contrôlez chaque projection pour que le partenaire tombe sur le côté ou le dos, puis relâchez et repartez debout.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Qazaq Kuresi",
+      "description": "1. Beginne stehend auf der Matte mit einem geübten Partner und grüße mit der Hand auf der Brust und einer kurzen Umarmung.\n2. Greife oberhalb des Gürtels und arbeite an Würfen und Beinstellen, ohne die Beine anzugreifen.\n3. Kontrolliere jeden Wurf, sodass der Partner auf Seite oder Rücken landet, löse dann und beginne stehend neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Qazaq Kuresi",
+      "description": "1. Inizia in piedi sul tatami con un partner allenato, salutando con la mano sul petto e un breve abbraccio.\n2. Afferra sopra la cintura e cerca proiezioni e sgambetti senza attaccare le gambe.\n3. Controlla ogni proiezione in modo che il partner atterri sul fianco o sulla schiena, poi rilascia e riparti in piedi.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "哈萨克式摔跤",
+      "description": "1. 与训练有素的同伴站在垫上开始，手放胸前致意并短暂拥抱。\n2. 在腰带以上抓握，进行摔投和绊摔，不攻击腿部。\n3. 控制每次摔投，使同伴侧面或背部着地，然后松开并站立重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "カザフ・クレス",
+      "description": "1. 熟練のパートナーとマット上に立ち、胸に手を当てて礼をし、軽く抱擁して始めます。\n2. 帯より上を持ち、脚を攻めずに投げと足払いを狙います。\n3. 各投げを制御して相手を横向きか背中で着地させ、離して立って再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "카자흐 쿠레스",
+      "description": "1. 숙련된 파트너와 매트에 서서 가슴에 손을 얹어 인사하고 짧게 포옹한 뒤 시작합니다.\n2. 띠 위를 잡고 다리를 공격하지 않으면서 메치기와 걸기를 시도합니다.\n3. 각 메치기를 통제해 파트너가 옆이나 등으로 착지하게 한 뒤 풀고 선 자세로 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "กาซักคูเรซี",
+      "description": "1. เริ่มยืนบนเบาะกับคู่ฝึกที่ผ่านการฝึก ทักทายด้วยการวางมือบนอกและกอดสั้นๆ\n2. จับเหนือเข็มขัด และพยายามทุ่มกับขัดขาโดยไม่โจมตีขา\n3. ควบคุมทุกการทุ่มให้คู่ฝึกลงด้านข้างหรือหงายหลัง จากนั้นปล่อยและเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Казакша курес",
+      "description": "1. Начните стоя на ковре с подготовленным партнёром, поприветствовав его рукой на груди и коротким объятием.\n2. Захватывайте выше пояса и работайте на броски и подсечки, не атакуя ноги.\n3. Контролируйте каждый бросок так, чтобы партнёр приземлился на бок или спину, затем отпустите и начните снова в стойке.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Казахша курес",
+      "description": "1. Почніть стоячи на килимі з підготовленим партнером, привітавши його рукою на грудях і коротким обіймом.\n2. Захоплюйте вище пояса й працюйте на кидки та підсічки, не атакуючи ноги.\n3. Контролюйте кожен кидок так, щоб партнер приземлився на бік або спину, потім відпустіть і почніть знову в стійці.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

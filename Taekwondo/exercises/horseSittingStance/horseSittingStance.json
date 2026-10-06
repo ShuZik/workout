@@ -1,0 +1,90 @@
+{
+  "id": "8.26",
+  "key": "taekwondo_horse_sitting_stance",
+  "title": "Horse (Sitting) Stance",
+  "description": "1. Set the feet wider than the shoulders with the toes facing mostly forward and the heels on one line.\n2. Bend both knees evenly and lower the hips between the feet while keeping the chest upright.\n3. Press the knees toward the toes, brace the trunk, and maintain equal pressure through both feet.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Horse (Sitting) Stance",
+      "description": "1. Set the feet wider than the shoulders with the toes facing mostly forward and the heels on one line.\n2. Bend both knees evenly and lower the hips between the feet while keeping the chest upright.\n3. Press the knees toward the toes, brace the trunk, and maintain equal pressure through both feet.",
+      "sectionTitle": "Stances"
+    },
+    "es": {
+      "title": "Postura del caballo (sentada)",
+      "description": "1. Separa los pies más que los hombros, con los dedos principalmente hacia delante y los talones en una línea.\n2. Flexiona ambas rodillas por igual y baja las caderas entre los pies, manteniendo el pecho erguido.\n3. Dirige las rodillas hacia los dedos, activa el tronco y mantén la misma presión en ambos pies.",
+      "sectionTitle": "Posturas"
+    },
+    "pt": {
+      "title": "Base do cavalo (sentada)",
+      "description": "1. Afaste os pés além da largura dos ombros, com os dedos principalmente à frente e os calcanhares na mesma linha.\n2. Flexione ambos os joelhos igualmente e abaixe os quadris entre os pés, mantendo o peito ereto.\n3. Direcione os joelhos aos dedos, firme o tronco e mantenha pressão igual nos dois pés.",
+      "sectionTitle": "Bases"
+    },
+    "fr": {
+      "title": "Position du cavalier (assise)",
+      "description": "1. Écartez les pieds plus largement que les épaules, orteils surtout vers l’avant et talons sur une même ligne.\n2. Fléchissez les deux genoux également et abaissez les hanches entre les pieds en gardant la poitrine droite.\n3. Orientez les genoux vers les orteils, gainez le tronc et gardez une pression égale sur les deux pieds.",
+      "sectionTitle": "Positions"
+    },
+    "de": {
+      "title": "Reiterstellung (Sitzstellung)",
+      "description": "1. Stelle die Füße breiter als schulterbreit, mit weitgehend nach vorn gerichteten Zehen und beiden Fersen auf einer Linie.\n2. Beuge beide Knie gleichmäßig und senke die Hüfte zwischen die Füße, während die Brust aufrecht bleibt.\n3. Drücke die Knie in Richtung der Zehen, spanne den Rumpf an und verteile den Druck gleichmäßig auf beide Füße.",
+      "sectionTitle": "Stellungen"
+    },
+    "it": {
+      "title": "Posizione del cavaliere (seduta)",
+      "description": "1. Disponi i piedi più larghi delle spalle, con le dita prevalentemente in avanti e i talloni sulla stessa linea.\n2. Piega entrambe le ginocchia in modo uniforme e abbassa le anche tra i piedi, mantenendo il petto eretto.\n3. Spingi le ginocchia verso le dita, attiva il tronco e mantieni uguale pressione su entrambi i piedi.",
+      "sectionTitle": "Posizioni"
+    },
+    "zh-Hans": {
+      "title": "马步（坐姿）",
+      "description": "1. 双脚开立宽于肩部，脚尖基本朝前，双脚跟在同一条线上。\n2. 双膝均匀弯曲，将髋部降至双脚之间，保持胸部直立。\n3. 膝部朝脚尖方向推，收紧躯干，两脚保持均等压力。",
+      "sectionTitle": "站姿"
+    },
+    "ja": {
+      "title": "騎馬立ち（座る構え）",
+      "description": "1. 足を肩幅より広く開き、つま先をほぼ前へ向け、かかとを同じラインに置きます。\n2. 両膝を均等に曲げ、胸を起こしたまま腰を両足の間に下げます。\n3. 膝をつま先の方向へ押し、体幹を締め、両足に均等な圧力を保ちます。",
+      "sectionTitle": "構え"
+    },
+    "ko": {
+      "title": "주춤서기",
+      "description": "1. 발을 어깨보다 넓게 벌리고 발끝은 주로 앞을 향하며 뒤꿈치를 한 선에 둡니다.\n2. 두 무릎을 균등하게 굽혀 골반을 두 발 사이로 낮추고 가슴을 세웁니다.\n3. 무릎을 발끝 방향으로 밀고 몸통을 단단히 하며 두 발에 같은 압력을 유지합니다.",
+      "sectionTitle": "서기"
+    },
+    "th": {
+      "title": "ท่าม้า (นั่ง)",
+      "description": "1. แยกเท้ากว้างกว่าไหล่ ให้ปลายเท้าชี้ไปหน้าส่วนใหญ่และส้นเท้าอยู่แนวเดียวกัน\n2. งอเข่าทั้งสองเท่ากันและลดสะโพกระหว่างเท้า โดยให้หน้าอกตั้งตรง\n3. ดันเข่าตามแนวปลายเท้า เกร็งลำตัว และลงแรงผ่านเท้าทั้งสองเท่ากัน",
+      "sectionTitle": "ท่ายืน"
+    },
+    "ru": {
+      "title": "Стойка всадника (сидячая)",
+      "description": "1. Поставьте стопы шире плеч, направив пальцы преимущественно вперёд и расположив пятки на одной линии.\n2. Равномерно согните оба колена и опустите таз между стопами, сохраняя грудь вертикальной.\n3. Направьте колени к пальцам стоп, напрягите корпус и равномерно распределите давление на обе стопы.",
+      "sectionTitle": "Стойки"
+    },
+    "uk": {
+      "title": "Стійка вершника (сидяча)",
+      "description": "1. Поставте стопи ширше плечей, спрямувавши пальці переважно вперед і розташувавши п’яти на одній лінії.\n2. Рівномірно зігніть обидва коліна й опустіть таз між стопами, зберігаючи груди вертикальними.\n3. Спрямуйте коліна до пальців стоп, напружте корпус і рівномірно розподіліть тиск на обидві стопи.",
+      "sectionTitle": "Стійки"
+    }
+  }
+}

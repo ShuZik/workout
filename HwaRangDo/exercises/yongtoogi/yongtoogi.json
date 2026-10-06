@@ -1,0 +1,90 @@
+{
+  "id": "62.2",
+  "key": "hwa_rang_do_yongtoogi",
+  "title": "Yongtoogi",
+  "description": "1. With a trained partner, gloves, and mouthguards on mats, agree on contact level and the round time with the coach.\n2. Spar using strikes and kicks, clinch and takedowns, and ground control or submissions as the Yongtoogi rules allow, moving between standing and ground.\n3. Stop at the coach's call or a tap, release holds immediately, and reset both fighters to the standing start.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "hwaRangDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Sparring",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Yongtoogi",
+      "description": "1. With a trained partner, gloves, and mouthguards on mats, agree on contact level and the round time with the coach.\n2. Spar using strikes and kicks, clinch and takedowns, and ground control or submissions as the Yongtoogi rules allow, moving between standing and ground.\n3. Stop at the coach's call or a tap, release holds immediately, and reset both fighters to the standing start.",
+      "sectionTitle": "Sparring"
+    },
+    "es": {
+      "title": "Yongtoogi",
+      "description": "1. Con un compañero entrenado, guantes y protectores bucales sobre colchonetas, acordad con el entrenador el nivel de contacto y el tiempo del asalto.\n2. Combatid con golpes y patadas, clinch y derribos, y control o sumisiones en el suelo según permitan las reglas de Yongtoogi, pasando de pie al suelo.\n3. Deteneos a la orden del entrenador o ante una palmada, soltad las llaves de inmediato y volved ambos a la posición inicial de pie.",
+      "sectionTitle": "Combate"
+    },
+    "pt": {
+      "title": "Yongtoogi",
+      "description": "1. Com um parceiro treinado, luvas e protetores bucais sobre tatames, combinem com o treinador o nível de contato e o tempo do round.\n2. Lutem com golpes e chutes, clinch e quedas, e controle ou finalizações no solo conforme as regras de Yongtoogi, alternando entre em pé e chão.\n3. Parem ao comando do treinador ou ao toque, soltem as chaves imediatamente e voltem ambos à posição inicial em pé.",
+      "sectionTitle": "Combate"
+    },
+    "fr": {
+      "title": "Yongtoogi",
+      "description": "1. Avec un partenaire entraîné, gants et protège-dents sur tapis, convenez avec l’entraîneur du niveau de contact et de la durée de reprise.\n2. Combattez avec frappes et coups de pied, corps-à-corps et projections, puis contrôle ou soumissions au sol selon les règles du Yongtoogi, en passant du debout au sol.\n3. Arrêtez au signal de l’entraîneur ou à la tape, relâchez immédiatement et revenez tous deux au départ debout.",
+      "sectionTitle": "Combat"
+    },
+    "de": {
+      "title": "Yongtoogi",
+      "description": "1. Mit geübtem Partner, Handschuhen und Mundschutz auf Matten Kontaktstärke und Rundenzeit mit dem Trainer vereinbaren.\n2. Mit Schlägen und Tritten, Clinch und Takedowns sowie Bodenkontrolle oder Aufgabegriffen sparren, wie die Yongtoogi-Regeln erlauben, zwischen Stand und Boden wechselnd.\n3. Beim Trainerkommando oder Abklopfen stoppen, Griffe sofort lösen und beide in den Stand-Start zurück.",
+      "sectionTitle": "Sparring"
+    },
+    "it": {
+      "title": "Yongtoogi",
+      "description": "1. Con un partner allenato, guanti e paradenti sul tatami, concordate con l’allenatore livello di contatto e durata del round.\n2. Combattete con colpi e calci, clinch e atterramenti, e controllo o sottomissioni a terra come consentito dalle regole Yongtoogi, passando da in piedi a terra.\n3. Fermatevi al comando dell’allenatore o a un battito, rilasciate subito le prese e tornate entrambi alla partenza in piedi.",
+      "sectionTitle": "Combattimento"
+    },
+    "zh-Hans": {
+      "title": "龙斗技",
+      "description": "1. 与训练有素的同伴戴拳套和护齿在垫上，与教练约定接触强度和回合时间。\n2. 按龙斗技规则允许的范围，使用拳脚、缠抱与摔法以及地面控制或降服进行实战，在站立与地面之间转换。\n3. 听到教练口令或对方拍垫即停，立即松开，双方回到站立起始位置。",
+      "sectionTitle": "实战"
+    },
+    "ja": {
+      "title": "ヨントゥギ",
+      "description": "1. 訓練を積んだ相手とグローブとマウスピースを着けてマット上で、接触の強さとラウンド時間を指導者と決めます。\n2. ヨントゥギの規則が許す範囲で、打撃と蹴り、組みとテイクダウン、寝技のコントロールや極め技を使い、立ちと寝の間を移行します。\n3. 指導者の合図かタップで止め、すぐに技を解き、両者とも立った開始位置に戻ります。",
+      "sectionTitle": "組手・試合"
+    },
+    "ko": {
+      "title": "용투기",
+      "description": "1. 숙련된 짝과 글러브, 마우스피스를 착용하고 매트에서 접촉 강도와 라운드 시간을 지도자와 정합니다.\n2. 용투기 규칙이 허용하는 대로 타격과 발차기, 클린치와 넘기기, 바닥 제압이나 꺾기로 서기와 바닥 사이를 오가며 겨룹니다.\n3. 지도자의 신호나 탭에 멈추고 즉시 기술을 풀며 둘 다 선 자세의 시작 위치로 돌아갑니다.",
+      "sectionTitle": "겨루기"
+    },
+    "th": {
+      "title": "ยงทูกี",
+      "description": "1. กับคู่ที่ฝึกมาแล้ว สวมนวมและฟันยางบนเบาะ ตกลงระดับการสัมผัสและเวลายกกับโค้ช\n2. ต่อสู้ด้วยการตีและเตะ การปล้ำกอดและทุ่ม และการควบคุมหรือล็อกบนพื้นตามกติกายงทูกี สลับระหว่างยืนและพื้น\n3. หยุดเมื่อโค้ชสั่งหรือคู่ตบ ปล่อยการล็อกทันที และกลับสู่ตำแหน่งเริ่มยืนทั้งคู่",
+      "sectionTitle": "การต่อสู้"
+    },
+    "ru": {
+      "title": "Ёнтуги",
+      "description": "1. С подготовленным партнёром, в перчатках и капах на татами, согласуйте с тренером уровень контакта и время раунда.\n2. Ведите спарринг ударами руками и ногами, клинчем и тейкдаунами, контролем или болевыми в партере в рамках правил ёнтуги, переходя из стойки в партер.\n3. Останавливайтесь по команде тренера или хлопку, сразу отпускайте захваты и возвращайтесь в исходное положение стоя.",
+      "sectionTitle": "Спарринг"
+    },
+    "uk": {
+      "title": "Йонтугі",
+      "description": "1. З підготовленим партнером, у рукавицях і капах на татамі, узгодьте з тренером рівень контакту й час раунду.\n2. Ведіть спаринг ударами руками й ногами, клінчем і тейкдаунами, контролем або больовими в партері в межах правил йонтугі, переходячи зі стійки в партер.\n3. Зупиняйтеся за командою тренера чи плесканням, одразу відпускайте захоплення й повертайтеся у вихідне положення стоячи.",
+      "sectionTitle": "Спаринг"
+    }
+  }
+}

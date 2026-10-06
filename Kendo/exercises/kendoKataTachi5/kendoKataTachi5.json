@@ -1,0 +1,90 @@
+{
+  "id": "69.15",
+  "key": "kendo_tachi_5",
+  "title": "Kendo Kata Tachi 5",
+  "description": "1. Uchidachi takes left jodan; shidachi takes chudan with the tip aimed at uchidachi's left fist.\n2. Uchidachi cuts men; shidachi slides up and deflects the cut (suriage) and cuts men in one motion.\n3. Shidachi steps back into left jodan as zanshin; both return to chudan and the start.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Partner Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kendo Kata Tachi 5",
+      "description": "1. Uchidachi takes left jodan; shidachi takes chudan with the tip aimed at uchidachi's left fist.\n2. Uchidachi cuts men; shidachi slides up and deflects the cut (suriage) and cuts men in one motion.\n3. Shidachi steps back into left jodan as zanshin; both return to chudan and the start.",
+      "sectionTitle": "Partner Forms"
+    },
+    "es": {
+      "title": "Kendo Kata Tachi 5",
+      "description": "1. Uchidachi toma hidari-jodan; shidachi toma chudan con la punta dirigida al puño izquierdo de uchidachi.\n2. Uchidachi corta men; shidachi desliza hacia arriba y desvía el corte (suriage) y corta men en un solo movimiento.\n3. Shidachi retrocede a hidari-jodan como zanshin; ambos vuelven a chudan y al inicio.",
+      "sectionTitle": "Formas en pareja"
+    },
+    "pt": {
+      "title": "Kendo Kata Tachi 5",
+      "description": "1. Uchidachi assume hidari-jodan; shidachi assume chudan com a ponta dirigida ao punho esquerdo de uchidachi.\n2. Uchidachi corta men; shidachi desliza para cima e desvia o corte (suriage) e corta men num só movimento.\n3. Shidachi recua para hidari-jodan como zanshin; ambos voltam a chudan e ao início.",
+      "sectionTitle": "Formas em dupla"
+    },
+    "fr": {
+      "title": "Kendo Kata Tachi 5",
+      "description": "1. Uchidachi prend hidari-jodan ; shidachi prend chudan, pointe dirigée vers le poing gauche d’uchidachi.\n2. Uchidachi coupe men ; shidachi glisse vers le haut, dévie la coupe (suriage) et coupe men d’un seul mouvement.\n3. Shidachi recule en hidari-jodan comme zanshin ; tous deux reviennent en chudan et au départ.",
+      "sectionTitle": "Formes à deux"
+    },
+    "de": {
+      "title": "Kendo Kata Tachi 5",
+      "description": "1. Uchidachi nimmt Hidari-Jodan; Shidachi nimmt Chudan mit der Spitze auf Uchidachis linke Faust.\n2. Uchidachi schneidet Men; Shidachi gleitet nach oben, lenkt den Schnitt ab (Suriage) und schneidet in einer Bewegung Men.\n3. Shidachi tritt als Zanshin ins Hidari-Jodan zurück; beide kehren ins Chudan und zum Start zurück.",
+      "sectionTitle": "Partnerformen"
+    },
+    "it": {
+      "title": "Kendo Kata Tachi 5",
+      "description": "1. Uchidachi assume hidari-jodan; shidachi assume chudan con la punta rivolta al pugno sinistro di uchidachi.\n2. Uchidachi taglia men; shidachi scivola verso l’alto, devia il taglio (suriage) e taglia men in un unico movimento.\n3. Shidachi arretra in hidari-jodan come zanshin; entrambi tornano in chudan e all’inizio.",
+      "sectionTitle": "Forme in coppia"
+    },
+    "zh-Hans": {
+      "title": "日本剑道形 太刀五本目",
+      "description": "1. 打太刀取左上段；仕太刀取中段，剑尖指向打太刀左拳。\n2. 打太刀斩面；仕太刀向上擦起卸开（擦上），一气呵成斩面。\n3. 仕太刀退步成左上段示残心；双方回到中段与起点。",
+      "sectionTitle": "对练形"
+    },
+    "ja": {
+      "title": "日本剣道形 太刀五本目",
+      "description": "1. 打太刀は左上段、仕太刀は剣先を打太刀の左拳につけた中段（平晴眼）にとります。\n2. 打太刀が面を打ち、仕太刀は表ですり上げて一拍子で面を打ちます。\n3. 仕太刀は下がりながら左上段にとって残心を示し、互いに中段に戻って元の位置へ帰ります。",
+      "sectionTitle": "日本剣道形"
+    },
+    "ko": {
+      "title": "일본검도형 태도 5본",
+      "description": "1. 우치다치는 왼쪽 상단, 시다치는 칼끝을 우치다치의 왼주먹에 겨눈 중단을 잡습니다.\n2. 우치다치가 머리를 베면 시다치는 밀어 올려 흘리고(스리아게) 한 동작으로 머리를 벱니다.\n3. 시다치는 물러나며 왼쪽 상단으로 잔심을 보이고 둘 다 중단과 시작 위치로 돌아갑니다.",
+      "sectionTitle": "짝 형"
+    },
+    "th": {
+      "title": "เคนโดคาตะ ทาจิ 5",
+      "description": "1. อุจิดาจิตั้งท่าฮิดาริโจดัน ชิดาจิตั้งชูดังโดยปลายดาบชี้กำปั้นซ้ายของอุจิดาจิ\n2. อุจิดาจิฟันเมน ชิดาจิไถดาบขึ้นปัดการฟัน (ซูริอาเงะ) แล้วฟันเมนในจังหวะเดียว\n3. ชิดาจิถอยเป็นฮิดาริโจดันแสดงซันชิน ทั้งคู่กลับสู่ชูดังและจุดเริ่ม",
+      "sectionTitle": "ท่าร่างคู่"
+    },
+    "ru": {
+      "title": "Кэндо-ката, тати 5",
+      "description": "1. Утидати занимает хидари-дзёдан; сидати — тюдан с кончиком, направленным в левый кулак утидати.\n2. Утидати рубит мэн; сидати скользящим движением вверх отводит удар (суриагэ) и одним движением рубит мэн.\n3. Сидати отступает в хидари-дзёдан как дзансин; оба возвращаются в тюдан и на исходную позицию.",
+      "sectionTitle": "Парные формы"
+    },
+    "uk": {
+      "title": "Кендо-ката, таті 5",
+      "description": "1. Утідаті займає хідарі-дзьодан; сідаті — тюдан із кінчиком, спрямованим у лівий кулак утідаті.\n2. Утідаті рубає мен; сідаті ковзним рухом угору відводить удар (суріаґе) і одним рухом рубає мен.\n3. Сідаті відступає в хідарі-дзьодан як дзансін; обоє повертаються в тюдан і на початкову позицію.",
+      "sectionTitle": "Парні форми"
+    }
+  }
+}

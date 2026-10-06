@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "Laamb",
+    "id": "77",
+    "icon": "Laamb/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Laamb",
+    "workoutType": "laamb",
+    "translations": {
+      "en": {
+        "title": "Laamb"
+      },
+      "es": {
+        "title": "Lucha senegalesa"
+      },
+      "pt": {
+        "title": "Luta senegalesa"
+      },
+      "fr": {
+        "title": "Lutte sénégalaise"
+      },
+      "de": {
+        "title": "Senegalesisches Ringen"
+      },
+      "it": {
+        "title": "Lotta senegalese"
+      },
+      "zh-Hans": {
+        "title": "塞内加尔摔跤"
+      },
+      "ja": {
+        "title": "セネガル相撲（ランブ）"
+      },
+      "ko": {
+        "title": "세네갈 씨름(람브)"
+      },
+      "th": {
+        "title": "มวยปล้ำเซเนกัล"
+      },
+      "ru": {
+        "title": "Сенегальская борьба"
+      },
+      "uk": {
+        "title": "Сенегальська боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Laamb/exercises/laamb/Icon.png",
+      "json": "Laamb/exercises/laamb/laamb.json"
+    },
+    {
+      "icon": "Laamb/exercises/bakkWarmUp/Icon.png",
+      "json": "Laamb/exercises/bakkWarmUp/bakkWarmUp.json"
+    },
+    {
+      "icon": "Laamb/exercises/laambStance/Icon.png",
+      "json": "Laamb/exercises/laambStance/laambStance.json"
+    },
+    {
+      "icon": "Laamb/exercises/gripFighting/Icon.png",
+      "json": "Laamb/exercises/gripFighting/gripFighting.json"
+    },
+    {
+      "icon": "Laamb/exercises/doubleLegTakedown/Icon.png",
+      "json": "Laamb/exercises/doubleLegTakedown/doubleLegTakedown.json"
+    },
+    {
+      "icon": "Laamb/exercises/singleLegTakedown/Icon.png",
+      "json": "Laamb/exercises/singleLegTakedown/singleLegTakedown.json"
+    },
+    {
+      "icon": "Laamb/exercises/hipThrow/Icon.png",
+      "json": "Laamb/exercises/hipThrow/hipThrow.json"
+    },
+    {
+      "icon": "Laamb/exercises/bodyLockLift/Icon.png",
+      "json": "Laamb/exercises/bodyLockLift/bodyLockLift.json"
+    },
+    {
+      "icon": "Laamb/exercises/sprawlDefense/Icon.png",
+      "json": "Laamb/exercises/sprawlDefense/sprawlDefense.json"
+    }
+  ]
+}

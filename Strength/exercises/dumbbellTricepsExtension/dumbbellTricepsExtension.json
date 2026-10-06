@@ -1,0 +1,89 @@
+{
+  "id": "13.68",
+  "key": "strength_dumbbell_triceps_extension",
+  "title": "Dumbbell Triceps Extension",
+  "description": "1. Hold one dumbbell overhead with both hands or use one dumbbell in each hand, keeping the ribs stacked over the hips.\n2. Bend only at the elbows to lower the load behind the head while the upper arms stay mostly vertical.\n3. Extend the elbows to raise the load overhead without arching the lower back.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dumbbell Triceps Extension",
+      "description": "1. Hold one dumbbell overhead with both hands or use one dumbbell in each hand, keeping the ribs stacked over the hips.\n2. Bend only at the elbows to lower the load behind the head while the upper arms stay mostly vertical.\n3. Extend the elbows to raise the load overhead without arching the lower back.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Extensión de tríceps con mancuernas",
+      "description": "1. Sujeta una mancuerna por encima de la cabeza con ambas manos o una en cada mano, manteniendo las costillas alineadas sobre las caderas.\n2. Flexiona solo los codos para bajar la carga detrás de la cabeza mientras la parte superior de los brazos permanece casi vertical.\n3. Extiende los codos para subir la carga por encima de la cabeza sin arquear la zona lumbar.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Extensão de tríceps com halteres",
+      "description": "1. Segure um halter acima da cabeça com as duas mãos ou um halter em cada mão, mantendo as costelas alinhadas sobre o quadril.\n2. Dobre apenas os cotovelos para abaixar a carga atrás da cabeça enquanto a parte superior dos braços permanece quase vertical.\n3. Estenda os cotovelos para elevar a carga acima da cabeça sem arquear a lombar.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Extension des triceps avec haltères",
+      "description": "1. Tenez un haltère au-dessus de la tête à deux mains ou un haltère dans chaque main, côtes alignées au-dessus des hanches.\n2. Fléchissez uniquement les coudes pour descendre la charge derrière la tête pendant que le haut des bras reste presque vertical.\n3. Tendez les coudes pour remonter la charge au-dessus de la tête sans cambrer le bas du dos.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Trizepsstrecken mit Kurzhanteln",
+      "description": "1. Halte eine Kurzhantel mit beiden Händen über dem Kopf oder in jeder Hand eine, die Rippen über der Hüfte ausgerichtet.\n2. Beuge nur die Ellbogen, um das Gewicht hinter den Kopf zu senken, während die Oberarme weitgehend senkrecht bleiben.\n3. Strecke die Ellbogen, um das Gewicht über den Kopf zu heben, ohne ins Hohlkreuz zu gehen.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Estensioni per tricipiti con manubri",
+      "description": "1. Tieni un manubrio sopra la testa con entrambe le mani o un manubrio per mano, mantenendo le costole allineate sopra le anche.\n2. Piega solo i gomiti per abbassare il carico dietro la testa mentre la parte superiore delle braccia resta quasi verticale.\n3. Distendi i gomiti per riportare il carico sopra la testa senza inarcare la zona lombare.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃三头臂屈伸",
+      "description": "1. 双手握住一只哑铃举过头顶，或双手各持一只哑铃，肋骨保持叠在髋部上方。\n2. 仅弯曲肘部，将重量下放到头部后方，上臂基本保持垂直。\n3. 伸展肘部将重量举回头顶，下背部不要拱起。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ダンベルトライセプスエクステンション",
+      "description": "1. ダンベル1個を両手で、または左右に1個ずつ頭上に持ち、肋骨を骨盤の真上に保ちます。\n2. 上腕をほぼ垂直に保ったまま、肘だけを曲げて重りを頭の後ろへ下ろします。\n3. 腰を反らさずに、肘を伸ばして重りを頭上へ戻します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "덤벨 트라이셉스 익스텐션",
+      "description": "1. 덤벨 하나를 두 손으로 또는 양손에 하나씩 머리 위로 들고 갈비뼈를 골반 위에 정렬합니다.\n2. 위팔을 거의 수직으로 유지하며 팔꿈치만 굽혀 무게를 머리 뒤로 내립니다.\n3. 허리를 젖히지 않고 팔꿈치를 펴서 무게를 머리 위로 올립니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "เหยียดไตรเซ็ปส์ด้วยดัมเบล",
+      "description": "1. ถือดัมเบลหนึ่งอันเหนือศีรษะด้วยสองมือ หรือถือมือละหนึ่งอัน โดยให้ซี่โครงอยู่ตรงเหนือสะโพก\n2. งอเฉพาะศอกเพื่อลดน้ำหนักไปด้านหลังศีรษะ ขณะที่ต้นแขนเกือบตั้งตรง\n3. เหยียดศอกเพื่อยกน้ำหนักขึ้นเหนือศีรษะโดยไม่แอ่นหลังส่วนล่าง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Разгибание рук на трицепс с гантелями",
+      "description": "1. Держите одну гантель над головой двумя руками или по гантели в каждой руке, сохраняя рёбра над тазом.\n2. Сгибайте только локти, опуская вес за голову, пока плечи остаются почти вертикальными.\n3. Разогните локти, поднимая вес над головой, не прогибая поясницу.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Розгинання рук на трицепс із гантелями",
+      "description": "1. Тримайте одну гантель над головою двома руками або по гантелі в кожній руці, зберігаючи ребра над тазом.\n2. Згинайте лише лікті, опускаючи вагу за голову, поки плечі лишаються майже вертикальними.\n3. Розігніть лікті, піднімаючи вагу над головою, не прогинаючи поперек.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

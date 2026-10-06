@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "Jodo",
+    "id": "64",
+    "icon": "Jodo/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Jodo",
+    "workoutType": "jodo",
+    "translations": {
+      "en": {
+        "title": "Jodo"
+      },
+      "es": {
+        "title": "Jodo"
+      },
+      "pt": {
+        "title": "Jodô"
+      },
+      "fr": {
+        "title": "Jōdō"
+      },
+      "de": {
+        "title": "Jōdō"
+      },
+      "it": {
+        "title": "Jodo"
+      },
+      "zh-Hans": {
+        "title": "杖道"
+      },
+      "ja": {
+        "title": "杖道"
+      },
+      "ko": {
+        "title": "조도"
+      },
+      "th": {
+        "title": "โจโด"
+      },
+      "ru": {
+        "title": "Дзёдо"
+      },
+      "uk": {
+        "title": "Дзьодо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Jodo/exercises/jodo/Icon.png",
+      "json": "Jodo/exercises/jodo/jodo.json"
+    },
+    {
+      "icon": "Jodo/exercises/honteUchi/Icon.png",
+      "json": "Jodo/exercises/honteUchi/honteUchi.json"
+    },
+    {
+      "icon": "Jodo/exercises/gyakuteUchi/Icon.png",
+      "json": "Jodo/exercises/gyakuteUchi/gyakuteUchi.json"
+    },
+    {
+      "icon": "Jodo/exercises/hikiotoshiUchi/Icon.png",
+      "json": "Jodo/exercises/hikiotoshiUchi/hikiotoshiUchi.json"
+    },
+    {
+      "icon": "Jodo/exercises/kaeshiZuki/Icon.png",
+      "json": "Jodo/exercises/kaeshiZuki/kaeshiZuki.json"
+    },
+    {
+      "icon": "Jodo/exercises/gyakuteZuki/Icon.png",
+      "json": "Jodo/exercises/gyakuteZuki/gyakuteZuki.json"
+    },
+    {
+      "icon": "Jodo/exercises/makiOtoshi/Icon.png",
+      "json": "Jodo/exercises/makiOtoshi/makiOtoshi.json"
+    },
+    {
+      "icon": "Jodo/exercises/kuriTsuke/Icon.png",
+      "json": "Jodo/exercises/kuriTsuke/kuriTsuke.json"
+    },
+    {
+      "icon": "Jodo/exercises/kuriHanashi/Icon.png",
+      "json": "Jodo/exercises/kuriHanashi/kuriHanashi.json"
+    },
+    {
+      "icon": "Jodo/exercises/taiAtari/Icon.png",
+      "json": "Jodo/exercises/taiAtari/taiAtari.json"
+    },
+    {
+      "icon": "Jodo/exercises/tsukiHazushiUchi/Icon.png",
+      "json": "Jodo/exercises/tsukiHazushiUchi/tsukiHazushiUchi.json"
+    },
+    {
+      "icon": "Jodo/exercises/dobaraiUchi/Icon.png",
+      "json": "Jodo/exercises/dobaraiUchi/dobaraiUchi.json"
+    },
+    {
+      "icon": "Jodo/exercises/taiHazushiUchi/Icon.png",
+      "json": "Jodo/exercises/taiHazushiUchi/taiHazushiUchi.json"
+    },
+    {
+      "icon": "Jodo/exercises/sotaiDosaPairedKihon/Icon.png",
+      "json": "Jodo/exercises/sotaiDosaPairedKihon/sotaiDosaPairedKihon.json"
+    }
+  ]
+}

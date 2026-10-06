@@ -1,0 +1,90 @@
+{
+  "id": "43.9",
+  "key": "aikido_hiki_taoshi",
+  "title": "Hiki Taoshi",
+  "description": "1. Grip uke's wrist and place the other hand above uke's elbow with the arm straight.\n2. Step back and pull the arm forward and down in a long arc so uke bends forward.\n3. Bring uke face down and pin the straight arm with gradual pressure, releasing at a tap.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hiki Taoshi",
+      "description": "1. Grip uke's wrist and place the other hand above uke's elbow with the arm straight.\n2. Step back and pull the arm forward and down in a long arc so uke bends forward.\n3. Bring uke face down and pin the straight arm with gradual pressure, releasing at a tap.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Hiki Taoshi",
+      "description": "1. Agarra la muñeca de uke y coloca la otra mano por encima de su codo con el brazo recto.\n2. Da un paso atrás y tira del brazo hacia delante y abajo en un arco largo para que uke se incline.\n3. Lleva a uke boca abajo y fija el brazo recto con presión gradual, soltando ante un toque.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Hiki Taoshi",
+      "description": "1. Segure o punho de uke e coloque a outra mão acima do cotovelo dele com o braço reto.\n2. Dê um passo atrás e puxe o braço para a frente e para baixo num arco longo para que uke se incline.\n3. Leve uke de bruços e imobilize o braço reto com pressão gradual, soltando ao toque.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Hiki Taoshi",
+      "description": "1. Saisissez le poignet de uke et placez l’autre main au-dessus de son coude, bras tendu.\n2. Reculez et tirez le bras vers l’avant et le bas en un long arc pour que uke se penche.\n3. Amenez uke face au sol et immobilisez le bras tendu avec une pression progressive, en relâchant à la tape.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Hiki Taoshi",
+      "description": "1. Greife Ukes Handgelenk und lege die andere Hand oberhalb seines Ellbogens bei gestrecktem Arm.\n2. Tritt zurück und ziehe den Arm in einem langen Bogen nach vorn und unten, sodass Uke sich nach vorn beugt.\n3. Bringe Uke bäuchlings zu Boden und fixiere den gestreckten Arm mit allmählichem Druck; löse beim Abklopfen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Hiki Taoshi",
+      "description": "1. Afferra il polso di uke e metti l’altra mano sopra il suo gomito con il braccio teso.\n2. Fai un passo indietro e tira il braccio in avanti e in basso con un lungo arco così che uke si pieghi in avanti.\n3. Porta uke prono e blocca il braccio teso con pressione graduale, lasciando al tap.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "引倒",
+      "description": "1. 握住受方手腕，另一手放在其肘部上方，手臂保持伸直。\n2. 后撤一步，沿长弧线把手臂向前向下拉，使受方向前弯腰。\n3. 把受方带成俯卧，以渐进压力压制伸直的手臂，受方拍垫即松开。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "引倒",
+      "description": "1. 受けの手首を握り、腕をまっすぐにしてもう一方の手を肘の上に当てます。\n2. 一歩下がり、大きな弧を描いて腕を前下方へ引き、受けを前屈みにさせます。\n3. 受けをうつ伏せにし、まっすぐな腕を徐々に圧をかけて押さえ、タップで解放します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "히키 타오시",
+      "description": "1. 우케의 손목을 잡고 팔을 곧게 한 채 다른 손을 팔꿈치 위에 댑니다.\n2. 한 걸음 물러나며 긴 호를 그리듯 팔을 앞아래로 당겨 우케가 앞으로 숙이게 합니다.\n3. 우케를 엎드리게 하고 곧은 팔을 서서히 압박해 고정하며 탭하면 풉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฮิกิทาโอชิ",
+      "description": "1. จับข้อมืออุเกะ และวางอีกมือเหนือข้อศอกโดยให้แขนเหยียดตรง\n2. ก้าวถอยและดึงแขนไปข้างหน้าและลงเป็นวงโค้งยาว ให้อุเกะก้มตัวไปข้างหน้า\n3. พาอุเกะคว่ำหน้าลงและกดแขนที่เหยียดตรงด้วยแรงกดค่อยเป็นค่อยไป ปล่อยเมื่อตบ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Хики-таоси",
+      "description": "1. Возьмите запястье уке и положите другую руку выше его локтя, держа руку прямой.\n2. Шагните назад и длинной дугой потяните руку вперёд и вниз, чтобы уке наклонился вперёд.\n3. Уложите уке лицом вниз и прижмите прямую руку с постепенным давлением, отпуская при хлопке.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Хікі-таосі",
+      "description": "1. Візьміть зап’ястя уке й покладіть другу руку вище його ліктя, тримаючи руку прямою.\n2. Ступіть назад і довгою дугою потягніть руку вперед і вниз, щоб уке нахилився вперед.\n3. Покладіть уке обличчям донизу й притисніть пряму руку з поступовим тиском, відпускаючи після плеску.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

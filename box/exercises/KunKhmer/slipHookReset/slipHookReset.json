@@ -1,0 +1,87 @@
+{
+  "id": "74.9",
+  "key": "kun_khmer_slip_hook_reset",
+  "title": "Slip, Hook, Reset",
+  "description": "1. Stand in guard while the gloved partner throws a slow straight punch toward your head line.\n2. Slip the head outside the punch with a knee bend and answer with a short hook to the partner's mitt.\n3. Reset guard and distance, then swap roles; keep every punch slow and controlled.",
+  "colorType": "orange",
+  "workoutType": "kunKhmer",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Slip, Hook, Reset",
+      "description": "1. Stand in guard while the gloved partner throws a slow straight punch toward your head line.\n2. Slip the head outside the punch with a knee bend and answer with a short hook to the partner's mitt.\n3. Reset guard and distance, then swap roles; keep every punch slow and controlled.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Esquiva, gancho y reinicio",
+      "description": "1. Mantente en guardia mientras el compañero con guantes lanza un recto lento hacia la línea de tu cabeza.\n2. Esquiva sacando la cabeza por fuera del golpe con flexión de rodillas y responde con un gancho corto a la manopla.\n3. Recupera guardia y distancia y cambiad los papeles; cada golpe lento y controlado.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Esquiva, cruzado e reinício",
+      "description": "1. Fique em guarda enquanto o parceiro de luvas solta um direto lento em direção à linha da sua cabeça.\n2. Esquive tirando a cabeça para fora do golpe com flexão dos joelhos e responda com um cruzado curto na luva de foco.\n3. Recupere guarda e distância e troquem os papéis; todos os golpes lentos e controlados.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Esquive, crochet et reprise",
+      "description": "1. Restez en garde pendant que le partenaire ganté lance un direct lent vers la ligne de votre tête.\n2. Esquivez la tête à l’extérieur du coup en fléchissant les genoux et répondez par un crochet court dans la patte.\n3. Reprenez garde et distance, puis inversez les rôles ; chaque coup reste lent et contrôlé.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Abtauchen, Haken, Neustart",
+      "description": "1. Stehe in Deckung, während der Partner mit Handschuhen eine langsame Gerade zur Kopflinie schlägt.\n2. Weiche mit dem Kopf durch Kniebeugung außen am Schlag vorbei und antworte mit einem kurzen Haken auf die Pratze.\n3. Stelle Deckung und Distanz wieder her und tauscht die Rollen; jeder Schlag bleibt langsam und kontrolliert.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Schivata, gancio e ripartenza",
+      "description": "1. Stai in guardia mentre il compagno con i guantoni tira un diretto lento verso la linea della tua testa.\n2. Schiva portando la testa fuori dal colpo piegando le ginocchia e rispondi con un gancio corto sul colpitore.\n3. Ripristina guardia e distanza, poi scambiatevi i ruoli; ogni colpo lento e controllato.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "闪躲·摆拳·复位",
+      "description": "1. 保持防守，戴拳套的同伴向你头部方向慢速打出直拳。\n2. 屈膝使头部闪到拳的外侧，然后用短摆拳击打同伴的手靶。\n3. 恢复防守和距离后交换角色；每一拳都慢���且受控。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "スリップ・フック・リセット",
+      "description": "1. グローブを着けたパートナーが頭の線へゆっくりストレートを打つ間、ガードで立ちます。\n2. 膝を曲げて頭をパンチの外側へスリップさせ、パートナーのミットへ短いフックを返します。\n3. ガードと距離を戻して役割を交代します。すべてのパンチはゆっくりコントロールして打ちます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "슬립·훅·리셋",
+      "description": "1. 글러브를 낀 파트너가 머리 라인으로 느린 스트레이트를 칠 때 가드 자세로 섭니다.\n2. 무릎을 굽혀 머리를 펀치 바깥으로 슬립하고 파트너의 미트에 짧은 훅으로 반격합니다.\n3. 가드와 거리를 회복한 뒤 역할을 바꾸며 모든 펀치는 느리고 통제되게 합니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "หลบ ฮุก แล้วตั้งต้นใหม่",
+      "description": "1. ยืนการ์ดขณะคู่ฝึกที่สวมนวมชกหมัดตรงช้า ๆ มาทางแนวศีรษะ\n2. ย่อเข่าหลบศีรษะออกนอกแนวหมัด แล้วสวนหมัดฮุกสั้นใส่เป้ามือของคู่ฝึก\n3. คืนการ์ดและระยะ แล้วสลับบทบาท ทุกหมัดต้องช้าและควบคุมได้",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Нырок, боковой, сброс",
+      "description": "1. Стойте в защите, пока партнёр в перчатках наносит медленный прямой в линию вашей головы.\n2. Уведите голову наружу от удара, сгибая колени, и ответьте коротким боковым в лапу партнёра.\n3. Восстановите защиту и дистанцию, затем смените роли; каждый удар медленный и контролируемый.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Ухил, боковий, скидання",
+      "description": "1. Стійте в захисті, поки партнер у рукавицях завдає повільного прямого в лінію вашої голови.\n2. Відведіть голову назовні від удару, згинаючи коліна, і відповідайте коротким боковим у лапу партнера.\n3. Відновіть захист і дистанцію, потім поміняйтеся ролями; кожен удар повільний і контрольований.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

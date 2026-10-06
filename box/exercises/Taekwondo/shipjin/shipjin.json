@@ -1,0 +1,87 @@
+{
+  "id": "8.52",
+  "key": "taekwondo_shipjin",
+  "title": "Shipjin",
+  "description": "1. Start in basic ready stance and perform Shipjin on its cross-shaped line of movement.\n2. Include the bull blocks, palm pushing actions, the slow rock-pushing movement, horse-riding stance strikes and the spread blocks.\n3. Keep the tempo varied between slow tension and sharp release, finish with the closing blocks, and return to basic ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Shipjin",
+      "description": "1. Start in basic ready stance and perform Shipjin on its cross-shaped line of movement.\n2. Include the bull blocks, palm pushing actions, the slow rock-pushing movement, horse-riding stance strikes and the spread blocks.\n3. Keep the tempo varied between slow tension and sharp release, finish with the closing blocks, and return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Shipjin",
+      "description": "1. Empieza en posición de preparación básica y realiza Shipjin sobre su línea en forma de cruz.\n2. Incluye los bloqueos de toro, las acciones de empuje con la palma, el lento movimiento de empujar la roca, los golpes en posición de jinete y los bloqueos abiertos.\n3. Varía el ritmo entre tensión lenta y liberación rápida, termina con los bloqueos finales y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Shipjin",
+      "description": "1. Comece na posição de preparação básica e execute Shipjin sobre a sua linha em forma de cruz.\n2. Inclua os bloqueios de touro, as ações de empurrão com a palma, o lento movimento de empurrar a rocha, os golpes em base de cavaleiro e os bloqueios abertos.\n3. Varie o ritmo entre tensão lenta e libertação rápida, termine com os bloqueios finais e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Shipjin",
+      "description": "1. Partez en position de préparation de base et exécutez Shipjin sur son tracé en forme de croix.\n2. Intégrez les blocages du taureau, les actions poussées de la paume, le lent mouvement « pousser le rocher », les frappes en position du cavalier et les blocages écartés.\n3. Variez le tempo entre tension lente et relâchement vif, terminez par les derniers blocages et revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Shipjin",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe Shipjin auf ihrer kreuzförmigen Bewegungslinie.\n2. Baue Stierblocks, Handflächen-Schiebeaktionen, die langsame Felsschiebebewegung, Schläge im Reiterstand und Spreizblocks ein.\n3. Wechsle das Tempo zwischen langsamer Spannung und scharfem Lösen, schließe mit den letzten Blocks ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Shipjin",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui Shipjin sulla sua linea a forma di croce.\n2. Inserisci le parate del toro, le azioni di spinta di palmo, il lento movimento di spingere la roccia, i colpi in posizione del cavaliere e le parate aperte.\n3. Varia il ritmo tra tensione lenta e rilascio rapido, concludi con le ultime parate e torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "十进品势（Shipjin）",
+      "description": "1. 以基本预备式开始，沿十字形路线完成十进品势。\n2. 包括牛角格挡、推掌动作、缓慢的推岩动作、骑马步击打和分挡。\n3. 在缓慢紧张与迅速释放之间变换节奏，以最后格挡收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "シプチン（十進）",
+      "description": "1. 基本準備立ちから始め、十字形の演武線で十進を行います。\n2. 牛角受け、掌押し、ゆっくりとした岩押し、騎馬立ちの打ち、開き受けを含めます。\n3. ゆっくりとした緊張と鋭い解放の間でテンポを変え、最後の受けで締めくくって基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "십진",
+      "description": "1. 기본 준비서기에서 시작해 십자형 선을 따라 십진을 수행합니다.\n2. 황소막기, 바탕손 밀기, 천천히 하는 바위밀기, 주춤서기 치기, 헤쳐막기를 포함합니다.\n3. 느린 긴장과 날카로운 풀림 사이에서 속도를 바꾸고 마지막 막기로 마무리한 뒤 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ชิปจิน",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำชิปจินบนเส้นการเคลื่อนไหวรูปกากบาท\n2. รวมการปัดแบบวัวกระทิง การดันด้วยฝ่ามือ การผลักหินอย่างช้า ๆ การโจมตีในท่ายืนม้า และการปัดแยก\n3. สลับจังหวะระหว่างการเกร็งช้าและการปล่อยแรงอย่างคม จบด้วยการปัดชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Сипчжин",
+      "description": "1. Начните из базовой готовой стойки и выполните Сипчжин по крестообразной линии.\n2. Включите блоки «бык», толкающие действия ладонями, медленное движение «толкание скалы», удары в стойке всадника и разводящие блоки.\n3. Меняйте темп между медленным напряжением и резким расслаблением, завершите последними блоками и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Сіпджин",
+      "description": "1. Почніть із базової готової стійки й виконайте Сіпджин хрестоподібною лінією.\n2. Додайте блоки «бик», штовхальні дії долонями, повільний рух «штовхання скелі», удари в стійці вершника та розвідні блоки.\n3. Змінюйте темп між повільним напруженням і різким розслабленням, завершіть останніми блоками й поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

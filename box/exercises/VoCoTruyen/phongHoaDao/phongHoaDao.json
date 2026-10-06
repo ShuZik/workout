@@ -1,0 +1,87 @@
+{
+  "id": "106.8",
+  "key": "vo_co_truyen_phong_hoa_dao",
+  "title": "Phong Hoa Dao",
+  "description": "1. Hold the training sabre in the ready position at the starting point and perform the opening salute of Phong Hoa Dao.\n2. Execute the flowing sabre cuts, blocks and turning steps of the form in sequence, keeping the blade path away from the body and the free hand coordinated.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+  "colorType": "indigo",
+  "workoutType": "voCoTruyen",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Hold the training sabre in the ready position at the starting point and perform the opening salute of Phong Hoa Dao.\n2. Execute the flowing sabre cuts, blocks and turning steps of the form in sequence, keeping the blade path away from the body and the free hand coordinated.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Sujeta el sable de entrenamiento en posición de preparado en el punto de inicio y realiza el saludo de apertura de Phong Hoa Dao.\n2. Ejecuta en secuencia los cortes fluidos de sable, bloqueos y pasos con giro de la forma, manteniendo la hoja lejos del cuerpo y coordinando la mano libre.\n3. Termina de nuevo en el punto de inicio con el saludo de cierre, devuelve el arma a la posición de preparado y mantén despejada la zona de entrenamiento.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Segure o sabre de treino em posição de prontidão no ponto de partida e faça a saudação de abertura de Phong Hoa Dao.\n2. Execute em sequência os cortes fluidos de sabre, bloqueios e passos com giro da forma, mantendo a lâmina afastada do corpo e coordenando a mão livre.\n3. Termine de volta ao ponto de partida com a saudação de encerramento, recoloque a arma na posição de prontidão e mantenha a área de treino livre.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Tenez le sabre d’entraînement en position prête au point de départ et effectuez le salut d’ouverture de Phong Hoa Dao.\n2. Exécutez dans l’ordre les coupes fluides au sabre, blocages et pas tournants de la forme, en gardant la lame éloignée du corps et la main libre coordonnée.\n3. Terminez au point de départ par le salut de clôture, ramenez l’arme en position prête et gardez la zone d’entraînement dégagée.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Halte den Trainingssäbel am Startpunkt in Bereitschaftsposition und führe den Eröffnungsgruß von Phong Hoa Dao aus.\n2. Führe die fließenden Säbelhiebe, Abwehren und Drehschritte der Form der Reihe nach aus, halte die Klinge vom Körper weg und koordiniere die freie Hand.\n3. Beende die Form wieder am Startpunkt mit dem Schlussgruß, bringe die Waffe in die Bereitschaftsposition zurück und halte den Trainingsbereich frei.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Tieni la sciabola da allenamento in posizione di pronto nel punto di partenza ed esegui il saluto di apertura di Phong Hoa Dao.\n2. Esegui in sequenza i tagli fluidi di sciabola, le parate e i passi con rotazione della forma, tenendo la lama lontana dal corpo e coordinando la mano libera.\n3. Concludi di nuovo nel punto di partenza con il saluto di chiusura, riporta l’arma in posizione di pronto e mantieni libera l’area di allenamento.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "Phong Hoa Dao",
+      "description": "1. 在起点以预备姿势持训练用刀，完成Phong Hoa Dao的起势礼。\n2. 按顺序完成本套路流畅的刀法劈砍、格挡和转身步法，刀路远离身体，空手协调配合。\n3. 回到起点完成收势礼，将器械收回预备位置，并保持训练区域无人无物。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "Phong Hoa Dao",
+      "description": "1. 開始位置で練習用の刀を用意の位置に構え、Phong Hoa Daoの始めの礼を行います。\n2. 型の流れるような刀の斬り、受け、回転の足運びを順に行い、刃の軌道を体から離し、空いている手を連動させます。\n3. 開始位置に戻って終わりの礼を行い、武器を用意の位置に戻し、練習スペースに人や物がない状態を保ちます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "Phong Hoa Dao",
+      "description": "1. 시작 지점에서 연습용 도를 준비 위치로 잡고 Phong Hoa Dao의 시작 인사를 합니다.\n2. 품새의 흐르는 듯한 도 베기, 막기, 회전 스텝을 순서대로 수행하며 칼날을 몸에서 떨어뜨리고 빈손을 조화시킵니다.\n3. 시작 지점으로 돌아와 마무리 인사를 하고 무기를 준비 위치로 되돌리며 훈련 공간을 비워 둡니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "Phong Hoa Dao",
+      "description": "1. ถือดาบโค้งฝึกในท่าเตรียมที่จุดเริ่มต้น แล้วทำความเคารพเปิดของ Phong Hoa Dao\n2. ทำการฟันดาบที่ลื่นไหล การปัด และการก้าวหมุนตัวของท่ารำตามลำดับ ให้แนวใบดาบห่างจากลำตัว และประสานมือที่ว่าง\n3. จบที่จุดเริ่มต้นด้วยการทำความเคารพปิด นำอาวุธกลับสู่ท่าเตรียม และรักษาพื้นที่ฝึกให้โล่ง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Держите учебную саблю в готовой позиции в исходной точке и выполните начальное приветствие формы Phong Hoa Dao.\n2. Выполняйте по порядку плавные рубящие удары саблей, блоки и шаги с поворотом формы, держа клинок вдали от тела и согласуя свободную руку.\n3. Завершите в исходной точке заключительным приветствием, верните оружие в готовую позицию и следите, чтобы зона тренировки оставалась свободной.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Phong Hoa Dao",
+      "description": "1. Тримайте навчальну шаблю у готовій позиції у вихідній точці й виконайте початкове привітання форми Phong Hoa Dao.\n2. Виконуйте по черзі плавні рублячі удари шаблею, блоки та кроки з поворотом форми, тримаючи клинок подалі від тіла й узгоджуючи вільну руку.\n3. Завершіть у вихідній точці заключним привітанням, поверніть зброю в готову позицію та стежте, щоб зона тренування залишалася вільною.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

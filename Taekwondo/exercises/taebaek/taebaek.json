@@ -1,0 +1,90 @@
+{
+  "id": "8.50",
+  "key": "taekwondo_taebaek",
+  "title": "Taebaek",
+  "description": "1. Start in basic ready stance and perform Taebaek, opening with a tiger-stance low knife-hand spread block.\n2. Include the front kicks followed by double punches, the crane-stance diamond block, the side kick with an elbow target strike and the back-fist strikes.\n3. Keep every technique exact and quick, finish with the closing blocks and punches, and return to basic ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Taebaek",
+      "description": "1. Start in basic ready stance and perform Taebaek, opening with a tiger-stance low knife-hand spread block.\n2. Include the front kicks followed by double punches, the crane-stance diamond block, the side kick with an elbow target strike and the back-fist strikes.\n3. Keep every technique exact and quick, finish with the closing blocks and punches, and return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taebaek",
+      "description": "1. Empieza en posición de preparación básica y realiza Taebaek, abriendo con un bloqueo bajo abierto de mano de cuchillo en posición de tigre.\n2. Incluye las patadas frontales seguidas de dobles puñetazos, el bloqueo diamante en posición de grulla, la patada lateral con codazo al blanco y los golpes con dorso del puño.\n3. Mantén cada técnica exacta y rápida, termina con los bloqueos y puñetazos finales y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taebaek",
+      "description": "1. Comece na posição de preparação básica e execute Taebaek, abrindo com bloqueio baixo aberto com mão em faca em base de tigre.\n2. Inclua os chutes frontais seguidos de socos duplos, o bloqueio diamante em base de garça, o chute lateral com cotovelada no alvo e os golpes com dorso do punho.\n3. Mantenha cada técnica exata e rápida, termine com os bloqueios e socos finais e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taebaek",
+      "description": "1. Partez en position de préparation de base et exécutez Taebaek, en ouvrant par un blocage bas écarté main en sabre en position du tigre.\n2. Intégrez les coups de pied directs suivis de doubles coups de poing, le blocage diamant en position de la grue, le coup de pied latéral avec coup de coude sur cible et les revers du poing.\n3. Gardez chaque technique précise et rapide, terminez par les derniers blocages et coups de poing et revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taebaek",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe Taebaek, eröffnet mit tiefem Handkanten-Spreizblock im Tigerstand.\n2. Baue Vorwärtstritte mit Doppelfauststoß, den Diamantblock im Kranichstand, den Seittritt mit Ellbogen-Zielschlag und die Rückfaustschläge ein.\n3. Führe jede Technik exakt und schnell aus, schließe mit den letzten Blocks und Fauststößen ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taebaek",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui Taebaek, aprendo con una parata bassa aperta a mano a coltello in posizione della tigre.\n2. Inserisci i calci frontali seguiti da doppi pugni, la parata diamante in posizione della gru, il calcio laterale con gomitata al bersaglio e i colpi di dorso del pugno.\n3. Mantieni ogni tecnica esatta e rapida, concludi con le ultime parate e pugni e torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太白品势（Taebaek）",
+      "description": "1. 以基本预备式开始，太白品势以虎步手刀下段分挡开头。\n2. 包括前踢接双冲拳、鹤立步金刚格挡、侧踢接肘击靶以及背拳击打。\n3. 每个技术准确迅速，以最后的格挡和冲拳收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "テベク（太白）",
+      "description": "1. 基本準備立ちから始め、虎足立ちの手刀下段開き受けで太白を開始します。\n2. 前蹴りからの二連突き、鶴立ちの金剛受け、横蹴りからの標的肘打ち、裏拳打ちを含めます。\n3. 各技を正確かつ素早く行い、最後の受けと突きで締めくくって基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태백",
+      "description": "1. 기본 준비서기에서 시작해 범서기 손날 아래헤쳐막기로 태백을 엽니다.\n2. 앞차기 후 두 번 지르기, 학다리서기 금강막기, 옆차기와 팔굽 표적치기, 등주먹 치기를 포함합니다.\n3. 모든 기술을 정확하고 빠르게 하며 마지막 막기와 지르기로 마무리하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทแบก",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทแบก โดยเปิดด้วยการปัดแยกระดับต่ำด้วยสันมือในท่ายืนเสือ\n2. รวมการเตะตรงด้านหน้าตามด้วยหมัดคู่ การปัดเพชรในท่ายืนนกกระเรียน การเตะข้างพร้อมศอกกระแทกเป้า และการตีหลังกำปั้น\n3. ทำทุกเทคนิคให้แม่นยำและรวดเร็ว จบด้วยการปัดและหมัดชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэбэк",
+      "description": "1. Начните из базовой готовой стойки и выполните Тхэбэк, открыв его нижним разводящим блоком ребром ладони в стойке тигра.\n2. Включите прямые удары ногой с двойным ударом рукой, алмазный блок в стойке журавля, боковой удар ногой с ударом локтем по мишени и удары тыльной стороной кулака.\n3. Выполняйте каждую технику точно и быстро, завершите последними блоками и ударами и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхебек",
+      "description": "1. Почніть із базової готової стійки й виконайте Тхебек, відкривши його нижнім розвідним блоком ребром долоні в стійці тигра.\n2. Додайте прямі удари ногою з подвійним ударом рукою, алмазний блок у стійці журавля, бічний удар ногою з ударом ліктем по мішені та удари тильним боком кулака.\n3. Виконуйте кожну техніку точно й швидко, завершіть останніми блоками й ударами та поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

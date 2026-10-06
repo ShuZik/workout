@@ -1,0 +1,90 @@
+{
+  "id": "20.4",
+  "key": "tabata_high_knees",
+  "title": "High Knees",
+  "description": "1. Stand tall with feet under the hips and elbows bent at the sides.\n2. Run in place while lifting each knee toward hip height and driving the opposite arm forward.\n3. Land lightly under the body and reduce knee height before posture or rhythm is lost.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "tabata",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "2 Full Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "High Knees",
+      "description": "1. Stand tall with feet under the hips and elbows bent at the sides.\n2. Run in place while lifting each knee toward hip height and driving the opposite arm forward.\n3. Land lightly under the body and reduce knee height before posture or rhythm is lost.",
+      "sectionTitle": "Full Body"
+    },
+    "es": {
+      "title": "Rodillas altas",
+      "description": "1. Ponte erguido con los pies bajo las caderas y los codos flexionados a los lados.\n2. Corre en el sitio elevando cada rodilla hacia la altura de la cadera e impulsando el brazo contrario hacia delante.\n3. Aterriza suavemente bajo el cuerpo y reduce la altura de las rodillas antes de perder la postura o el ritmo.",
+      "sectionTitle": "Cuerpo completo"
+    },
+    "pt": {
+      "title": "Skipping alto",
+      "description": "1. Fique ereto com os pés sob o quadril e os cotovelos flexionados ao lado do corpo.\n2. Corra no lugar elevando cada joelho em direção à altura do quadril e levando o braço oposto à frente.\n3. Aterrisse levemente sob o corpo e reduza a altura dos joelhos antes de perder a postura ou o ritmo.",
+      "sectionTitle": "Corpo inteiro"
+    },
+    "fr": {
+      "title": "Montées de genoux",
+      "description": "1. Tenez-vous droit, pieds sous les hanches et coudes fléchis le long du corps.\n2. Courez sur place en montant chaque genou vers la hauteur des hanches et en lançant le bras opposé vers l’avant.\n3. Posez les pieds légèrement sous le corps et réduisez la hauteur des genoux avant de perdre la posture ou le rythme.",
+      "sectionTitle": "Corps entier"
+    },
+    "de": {
+      "title": "Kniehebelauf",
+      "description": "1. Stehe aufrecht, die Füße unter der Hüfte und die Ellbogen seitlich gebeugt.\n2. Laufe auf der Stelle, hebe jedes Knie Richtung Hüfthöhe und führe den Gegenarm nach vorn.\n3. Lande leicht unter dem Körper und verringere die Kniehöhe, bevor Haltung oder Rhythmus verloren gehen.",
+      "sectionTitle": "Ganzkörper"
+    },
+    "it": {
+      "title": "Skip alto",
+      "description": "1. In piedi ben eretto con i piedi sotto le anche e i gomiti piegati ai lati.\n2. Corri sul posto sollevando ogni ginocchio verso l’altezza dell’anca e portando avanti il braccio opposto.\n3. Atterra leggero sotto il corpo e riduci l’altezza delle ginocchia prima di perdere postura o ritmo.",
+      "sectionTitle": "Corpo completo"
+    },
+    "zh-Hans": {
+      "title": "高抬腿",
+      "description": "1. 身体挺直站立，双脚位于髋部下方，双肘弯曲置于体侧。\n2. 原地跑动，每侧膝盖抬向髋部高度，同时对侧手臂向前摆动。\n3. 在身体正下方轻落地，在姿势或节奏走样前降低抬膝高度。",
+      "sectionTitle": "全身"
+    },
+    "ja": {
+      "title": "ハイニー",
+      "description": "1. 足を腰の真下に置き、肘を曲げて体の横に構えてまっすぐ立ちます。\n2. その場で走り、膝を腰の高さまで引き上げながら反対の腕を前に振ります。\n3. 体の真下に軽く着地し、姿勢やリズムが崩れる前に膝の高さを下げます。",
+      "sectionTitle": "全身"
+    },
+    "ko": {
+      "title": "하이 니",
+      "description": "1. 발을 골반 아래에 두고 팔꿈치를 굽혀 옆에 붙인 채 곧게 섭니다.\n2. 제자리에서 달리며 각 무릎을 골반 높이까지 들어 올리고 반대쪽 팔을 앞으로 힘차게 흔듭니다.\n3. 몸 바로 아래에 가볍게 착지하고 자세나 리듬이 무너지기 전에 무릎 높이를 낮춥니다.",
+      "sectionTitle": "전신"
+    },
+    "th": {
+      "title": "วิ่งยกเข่าสูง",
+      "description": "1. ยืนตัวตรง เท้าอยู่ใต้สะโพก และงอศอกแนบข้างลำตัว\n2. วิ่งอยู่กับที่ ยกเข่าแต่ละข้างขึ้นถึงระดับสะโพก พร้อมเหวี่ยงแขนฝั่งตรงข้ามไปข้างหน้า\n3. ลงเท้าเบา ๆ ใต้ลำตัว และลดความสูงของเข่าก่อนท่าทางหรือจังหวะจะเสีย",
+      "sectionTitle": "ทั้งร่างกาย"
+    },
+    "ru": {
+      "title": "Бег с высоким подниманием колен",
+      "description": "1. Встаньте прямо, стопы под тазом, локти согнуты у боков.\n2. Бегите на месте, поднимая каждое колено к уровню таза и выводя вперёд противоположную руку.\n3. Мягко приземляйтесь под корпусом и снижайте высоту колен, прежде чем нарушатся осанка или ритм.",
+      "sectionTitle": "Всё тело"
+    },
+    "uk": {
+      "title": "Біг із високим підніманням колін",
+      "description": "1. Станьте прямо, стопи під тазом, лікті зігнуті біля боків.\n2. Біжіть на місці, піднімаючи кожне коліно до рівня таза й виносячи вперед протилежну руку.\n3. М’яко приземляйтеся під корпусом і зменшуйте висоту колін, перш ніж порушаться постава або ритм.",
+      "sectionTitle": "Усе тіло"
+    }
+  }
+}

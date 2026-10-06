@@ -1,0 +1,87 @@
+{
+  "id": "102.6",
+  "key": "tankendo_seitai_waza",
+  "title": "Seitai-waza",
+  "description": "1. Both partners wear bogu; the receiver holds a training weapon in kamae and the attacker holds the short sword in the right hand with the left hand open.\n2. Enter close, use the open left hand to control the receiver's weapon hand or arm, and in the same moment land a cut or thrust with the short sword, calling the target with kiai.\n3. Release the control immediately after the strike and step back to distance; the receiver confirms readiness before roles alternate.",
+  "colorType": "tan",
+  "workoutType": "tankendo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Partner Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Seitai-waza",
+      "description": "1. Both partners wear bogu; the receiver holds a training weapon in kamae and the attacker holds the short sword in the right hand with the left hand open.\n2. Enter close, use the open left hand to control the receiver's weapon hand or arm, and in the same moment land a cut or thrust with the short sword, calling the target with kiai.\n3. Release the control immediately after the strike and step back to distance; the receiver confirms readiness before roles alternate.",
+      "sectionTitle": "Partner Techniques"
+    },
+    "es": {
+      "title": "Seitai-waza",
+      "description": "1. Ambos llevan bogu; el receptor sostiene un arma de entrenamiento en kamae y el atacante la espada corta en la mano derecha con la izquierda abierta.\n2. Entra cerca, usa la mano izquierda abierta para controlar la mano o el brazo armado del receptor y en el mismo momento marca un corte o una estocada con la espada corta, anunciando el objetivo con kiai.\n3. Suelta el control justo tras el golpe y retrocede a la distancia; el receptor confirma que está listo antes de alternar roles.",
+      "sectionTitle": "Técnicas en pareja"
+    },
+    "pt": {
+      "title": "Seitai-waza",
+      "description": "1. Ambos usam bogu; o receptor segura uma arma de treino em kamae e o atacante a espada curta na mão direita com a esquerda aberta.\n2. Entre perto, use a mão esquerda aberta para controlar a mão ou o braço armado do receptor e no mesmo momento marque um corte ou estocada com a espada curta, anunciando o alvo com kiai.\n3. Solte o controle logo após o golpe e recue à distância; o receptor confirma que está pronto antes de alternar papéis.",
+      "sectionTitle": "Técnicas em dupla"
+    },
+    "fr": {
+      "title": "Seitai-waza",
+      "description": "1. Les deux portent le bogu ; le receveur tient une arme d’entraînement en kamae et l’attaquant le sabre court main droite, main gauche ouverte.\n2. Entrez près, contrôlez de la main gauche ouverte la main ou le bras armé du receveur et, au même instant, placez une coupe ou une pique au sabre court, en annonçant la cible par le kiai.\n3. Relâchez le contrôle juste après la frappe et reculez à distance ; le receveur confirme qu’il est prêt avant d’alterner les rôles.",
+      "sectionTitle": "Techniques à deux"
+    },
+    "de": {
+      "title": "Seitai-waza",
+      "description": "1. Beide tragen Bogu; der Partner hält eine Übungswaffe im Kamae, der Angreifer das Kurzschwert rechts, die linke Hand offen.\n2. Nah eintreten, mit der offenen linken Hand die Waffenhand oder den Arm des Partners kontrollieren und im selben Moment mit dem Kurzschwert schneiden oder stoßen, Ziel mit Kiai ansagen.\n3. Die Kontrolle direkt nach dem Treffer lösen und auf Distanz zurücktreten; der Partner bestätigt Bereitschaft, bevor die Rollen wechseln.",
+      "sectionTitle": "Partnertechniken"
+    },
+    "it": {
+      "title": "Seitai-waza",
+      "description": "1. Entrambi indossano il bogu; il ricevente tiene un’arma da allenamento in kamae e l’attaccante la spada corta nella mano destra con la sinistra aperta.\n2. Entra vicino, usa la mano sinistra aperta per controllare la mano o il braccio armato del ricevente e nello stesso momento porta un taglio o un affondo con la spada corta, chiamando il bersaglio con il kiai.\n3. Rilascia il controllo subito dopo il colpo e arretra alla distanza; il ricevente conferma di essere pronto prima di alternare i ruoli.",
+      "sectionTitle": "Tecniche in coppia"
+    },
+    "zh-Hans": {
+      "title": "制体技",
+      "description": "1. 双方穿戴护具；接受者持练习武器成构，进攻者右手持短剑，左手张开。\n2. 近身入身，用张开的左手控制接受者持械的手或手臂，同时以短剑斩或刺，以气合喊出部位。\n3. 击中后立即解除控制并后退至间合；接受者确认准备好后再轮换角色。",
+      "sectionTitle": "对练技术"
+    },
+    "ja": {
+      "title": "制体技",
+      "description": "1. 互いに防具を着け、受け側は練習用の武器を構え、打つ側は右手に短剣を持ち左手を開いておきます。\n2. 近くまで入り身し、開いた左手で相手の武器を持つ手や腕を制し、同時に短剣で打つか突き、気合で部位を発声します。\n3. 打突後すぐに制した手を放して間合いへ下がり、受け側の準備を確認してから役割を交代します。",
+      "sectionTitle": "対人技"
+    },
+    "ko": {
+      "title": "세이타이 기술",
+      "description": "1. 둘 다 호구를 착용하고, 받는 사람은 연습용 무기로 자세를 잡고 공격자는 오른손에 짧은 칼, 왼손은 펴 둡니다.\n2. 가까이 들어가 편 왼손으로 받는 사람의 무기 든 손이나 팔을 제압하고 동시에 짧은 칼로 베거나 찌르며 기합으로 부위를 외칩니다.\n3. 타격 직후 제압을 풀고 거리로 물러나며, 받는 사람이 준비됐는지 확인한 뒤 역할을 바꿉니다.",
+      "sectionTitle": "짝 기술"
+    },
+    "th": {
+      "title": "เซไตวาซะ",
+      "description": "1. ทั้งคู่สวมโบงุ ผู้รับถืออาวุธฝึกในท่าตั้ง ผู้โจมตีถือดาบสั้นมือขวาและแบมือซ้าย\n2. เข้าประชิด ใช้มือซ้ายที่แบควบคุมมือหรือแขนที่ถืออาวุธของผู้รับ และในจังหวะเดียวกันฟันหรือแทงด้วยดาบสั้น พร้อมเปล่งคิไอบอกเป้า\n3. ปล่อยการควบคุมทันทีหลังการโจมตีแล้วถอยออกสู่ระยะ ผู้รับยืนยันว่าพร้อมก่อนสลับบทบาท",
+      "sectionTitle": "เทคนิคคู่"
+    },
+    "ru": {
+      "title": "Сэйтай-ваза",
+      "description": "1. Оба в защитном снаряжении; принимающий держит тренировочное оружие в камаэ, атакующий — короткий меч в правой руке, левая рука открыта.\n2. Войдите вплотную, открытой левой рукой контролируйте вооружённую руку партнёра и в тот же момент нанесите коротким мечом удар или укол, называя цель киай.\n3. Сразу после удара отпустите контроль и отойдите на дистанцию; партнёр подтверждает готовность перед сменой ролей.",
+      "sectionTitle": "Парные техники"
+    },
+    "uk": {
+      "title": "Сейтай-ваза",
+      "description": "1. Обоє в захисному спорядженні; приймальний тримає тренувальну зброю в камае, атакувальник — короткий меч у правій руці, ліва рука відкрита.\n2. Увійдіть впритул, відкритою лівою рукою контролюйте озброєну руку партнера й тієї ж миті завдайте коротким мечем удару або уколу, називаючи ціль кіай.\n3. Одразу після удару відпустіть контроль і відійдіть на дистанцію; партнер підтверджує готовність перед зміною ролей.",
+      "sectionTitle": "Парні техніки"
+    }
+  }
+}

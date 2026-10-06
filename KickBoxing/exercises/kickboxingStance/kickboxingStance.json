@@ -1,0 +1,90 @@
+{
+  "id": "3.23",
+  "key": "kick_boxing_kickboxing_stance",
+  "title": "Kickboxing Stance",
+  "description": "1. Place one foot forward and one back with a slightly wider base than a boxing stance and both heels light.\n2. Bend the knees, tuck the chin, hold the hands at cheek level, and keep the elbows ready to protect the ribs.\n3. Test small steps and kick chambers while keeping the feet from crossing and the body balanced over the base.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kickboxing Stance",
+      "description": "1. Place one foot forward and one back with a slightly wider base than a boxing stance and both heels light.\n2. Bend the knees, tuck the chin, hold the hands at cheek level, and keep the elbows ready to protect the ribs.\n3. Test small steps and kick chambers while keeping the feet from crossing and the body balanced over the base.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Postura de kickboxing",
+      "description": "1. Coloca un pie delante y otro detrás con una base algo más ancha que en el boxeo y ambos talones ligeros.\n2. Flexiona las rodillas, recoge el mentón, sube las manos a la altura de las mejillas y ten los codos listos para proteger las costillas.\n3. Prueba pasos cortos y cargas de patada sin cruzar los pies y con el cuerpo equilibrado sobre la base.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Base de kickboxing",
+      "description": "1. Coloque um pé à frente e outro atrás, com uma base um pouco mais larga que no boxe e os dois calcanhares leves.\n2. Flexione os joelhos, recolha o queixo, mantenha as mãos na altura das bochechas e os cotovelos prontos para proteger as costelas.\n3. Teste passos curtos e cargas de chute sem cruzar os pés e com o corpo equilibrado sobre a base.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Garde de kick-boxing",
+      "description": "1. Placez un pied devant et l’autre derrière, avec une base un peu plus large qu’en boxe et les deux talons légers.\n2. Fléchissez les genoux, rentrez le menton, tenez les mains à hauteur des joues et gardez les coudes prêts à protéger les côtes.\n3. Testez de petits pas et des armés de jambe sans croiser les pieds, le corps équilibré sur la base.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Kickbox-Stellung",
+      "description": "1. Setze einen Fuß nach vorn und einen nach hinten, etwas breiter als in der Boxstellung, beide Fersen leicht.\n2. Beuge die Knie, ziehe das Kinn ein, halte die Hände auf Wangenhöhe und die Ellbogen bereit, die Rippen zu schützen.\n3. Teste kleine Schritte und Trittaufzüge, ohne die Füße zu kreuzen, den Körper ausbalanciert über der Basis.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Posizione da kickboxing",
+      "description": "1. Metti un piede avanti e uno indietro con una base leggermente più larga che nel pugilato ed entrambi i talloni leggeri.\n2. Piega le ginocchia, raccogli il mento, tieni le mani all’altezza delle guance e i gomiti pronti a proteggere le costole.\n3. Prova piccoli passi e caricamenti di calcio senza incrociare i piedi, con il corpo in equilibrio sulla base.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "自由搏击站姿",
+      "description": "1. 一脚在前一脚在后，站距比拳击站姿略宽，双脚脚跟放轻。\n2. 屈膝，下巴内收，双手置于脸颊高度，手肘随时准备保护肋部。\n3. 尝试小步移动和提膝起腿动作，双脚不要交叉，身体保持在支撑面上方平衡。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "キックボクシングの構え",
+      "description": "1. 片足を前、片足を後ろに置き、ボクシングの構えより少し広いスタンスで両かかとを軽くします。\n2. 膝を曲げ、顎を引き、手を頬の高さに構え、肘はいつでも肋骨を守れるようにします。\n3. 足を交差させず体をスタンスの上でバランスよく保ちながら、小さなステップと蹴りの抱え込みを試します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "킥복싱 자세",
+      "description": "1. 한 발은 앞, 한 발은 뒤에 두고 복싱 자세보다 약간 넓게 서며 두 발뒤꿈치를 가볍게 둡니다.\n2. 무릎을 굽히고 턱을 당기고 손은 볼 높이에, 팔꿈치는 언제든 갈비뼈를 보호할 수 있게 둡니다.\n3. 발을 교차하지 않고 몸의 균형을 유지하며 작은 스텝과 발차기 준비 동작을 시험합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ท่ายืนคิกบ็อกซิ่ง",
+      "description": "1. วางเท้าหน้าหนึ่งข้างและเท้าหลังหนึ่งข้าง ให้ฐานกว้างกว่าท่ามวยสากลเล็กน้อยและส้นเท้าทั้งสองเบา\n2. งอเข่า เก็บคาง ยกมือระดับแก้ม และให้ศอกพร้อมป้องกันซี่โครง\n3. ลองก้าวสั้น ๆ และยกเข่าเตรียมเตะ โดยไม่ไขว้เท้าและรักษาการทรงตัวเหนือฐาน",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Стойка кикбоксера",
+      "description": "1. Поставьте одну ногу впереди, другую сзади, чуть шире, чем в боксёрской стойке, с лёгкими пятками.\n2. Согните колени, опустите подбородок, держите руки на уровне щёк, а локти наготове для защиты рёбер.\n3. Попробуйте короткие шаги и подъёмы колена для ударов, не перекрещивая ноги и сохраняя равновесие над опорой.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Стійка кікбоксера",
+      "description": "1. Поставте одну ногу попереду, іншу позаду, трохи ширше, ніж у боксерській стійці, з легкими п’ятами.\n2. Зігніть коліна, опустіть підборіддя, тримайте руки на рівні щік, а лікті напоготові для захисту ребер.\n3. Спробуйте короткі кроки й підйоми коліна для ударів, не перехрещуючи ноги й зберігаючи рівновагу над опорою.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#FD7C5D",
+    "colorType": "coral",
+    "folder": "HIIT",
+    "id": "12",
+    "icon": "HIIT/Icon.png",
+    "symbolName": "figure.cross.training",
+    "title": "HIIT",
+    "workoutType": "hiit",
+    "translations": {
+      "en": {
+        "title": "HIIT"
+      },
+      "es": {
+        "title": "HIIT"
+      },
+      "pt": {
+        "title": "HIIT"
+      },
+      "fr": {
+        "title": "HIIT"
+      },
+      "de": {
+        "title": "HIIT"
+      },
+      "it": {
+        "title": "HIIT"
+      },
+      "zh-Hans": {
+        "title": "高强度间歇训练"
+      },
+      "ja": {
+        "title": "高強度インターバルトレーニング"
+      },
+      "ko": {
+        "title": "고강도 인터벌 트레이닝"
+      },
+      "th": {
+        "title": "การฝึกแบบหนักสลับพัก"
+      },
+      "ru": {
+        "title": "HIIT"
+      },
+      "uk": {
+        "title": "HIIT"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "HIIT/exercises/hiit/Icon.png",
+      "json": "HIIT/exercises/hiit/hiit.json"
+    },
+    {
+      "json": "HIIT/exercises/alternatingWaves/alternatingWaves.json",
+      "icon": "HIIT/exercises/alternatingWaves/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/doubleArmWaves/doubleArmWaves.json",
+      "icon": "HIIT/exercises/doubleArmWaves/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/powerSlams/powerSlams.json",
+      "icon": "HIIT/exercises/powerSlams/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/shuttleRun/shuttleRun.json",
+      "icon": "HIIT/exercises/shuttleRun/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/burpee/burpee.json",
+      "icon": "HIIT/exercises/burpee/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/pushUp/pushUp.json",
+      "icon": "HIIT/exercises/pushUp/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/squatJump/squatJump.json",
+      "icon": "HIIT/exercises/squatJump/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/walkingLunge/walkingLunge.json",
+      "icon": "HIIT/exercises/walkingLunge/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/mountainClimber/mountainClimber.json",
+      "icon": "HIIT/exercises/mountainClimber/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/plankJack/plankJack.json",
+      "icon": "HIIT/exercises/plankJack/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/highKnees/highKnees.json",
+      "icon": "HIIT/exercises/highKnees/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/broadJump/broadJump.json",
+      "icon": "HIIT/exercises/broadJump/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/kettlebellSwing/kettlebellSwing.json",
+      "icon": "HIIT/exercises/kettlebellSwing/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/quickFeet/quickFeet.json",
+      "icon": "HIIT/exercises/quickFeet/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/lateralShuffle/lateralShuffle.json",
+      "icon": "HIIT/exercises/lateralShuffle/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/backpedal/backpedal.json",
+      "icon": "HIIT/exercises/backpedal/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/forwardBackwardShuffle/forwardBackwardShuffle.json",
+      "icon": "HIIT/exercises/forwardBackwardShuffle/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/inInOutOutLadder/inInOutOutLadder.json",
+      "icon": "HIIT/exercises/inInOutOutLadder/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/coneWeave/coneWeave.json",
+      "icon": "HIIT/exercises/coneWeave/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/jumpingJack/jumpingJack.json",
+      "icon": "HIIT/exercises/jumpingJack/Icon.png"
+    },
+    {
+      "json": "HIIT/exercises/bodyweightSquat/bodyweightSquat.json",
+      "icon": "HIIT/exercises/bodyweightSquat/Icon.png"
+    }
+  ]
+}

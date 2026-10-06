@@ -1,0 +1,90 @@
+{
+  "id": "11.2",
+  "key": "outdoor_run",
+  "title": "Outdoor Run",
+  "description": "1. Stand tall, lean slightly from the ankles, and let the arms swing close to the sides.\n2. Run with short natural strides that land under the body rather than reaching far ahead.\n3. Keep a steady rhythm, scan the route ahead, and shorten the stride on turns or uneven ground.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6.5,
+    "moderate": 9.3,
+    "vigorous": 12,
+    "lightCode": "12028",
+    "moderateCode": "12050",
+    "vigorousCode": "12090"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Outdoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Outdoor Run",
+      "description": "1. Stand tall, lean slightly from the ankles, and let the arms swing close to the sides.\n2. Run with short natural strides that land under the body rather than reaching far ahead.\n3. Keep a steady rhythm, scan the route ahead, and shorten the stride on turns or uneven ground.",
+      "sectionTitle": "Outdoor"
+    },
+    "es": {
+      "title": "Carrera al aire libre",
+      "description": "1. Mantén una postura erguida, inclínate ligeramente desde los tobillos y deja que los brazos se balanceen cerca de los costados.\n2. Corre con zancadas cortas y naturales, aterrizando debajo del cuerpo en lugar de llevar el pie muy adelante.\n3. Mantén un ritmo constante, observa la ruta por delante y acorta la zancada en curvas o terreno irregular.",
+      "sectionTitle": "Al aire libre"
+    },
+    "pt": {
+      "title": "Corrida ao ar livre",
+      "description": "1. Mantenha a postura ereta, incline-se levemente a partir dos tornozelos e deixe os braços balançarem perto das laterais.\n2. Corra com passadas curtas e naturais, aterrissando sob o corpo em vez de alcançar muito à frente.\n3. Mantenha um ritmo constante, observe o trajeto à frente e encurte a passada em curvas ou terreno irregular.",
+      "sectionTitle": "Ao ar livre"
+    },
+    "fr": {
+      "title": "Course en extérieur",
+      "description": "1. Tenez-vous droit, inclinez-vous légèrement depuis les chevilles et laissez les bras se balancer près des côtés.\n2. Courez avec des foulées courtes et naturelles qui se posent sous le corps plutôt que loin devant.\n3. Gardez un rythme régulier, observez le parcours devant vous et raccourcissez la foulée dans les virages ou sur terrain irrégulier.",
+      "sectionTitle": "En plein air"
+    },
+    "de": {
+      "title": "Laufen im Freien",
+      "description": "1. Halte dich aufrecht, neige dich leicht aus den Knöcheln und lasse die Arme nah an den Seiten schwingen.\n2. Laufe mit kurzen, natürlichen Schritten, die unter dem Körper landen, statt weit nach vorn zu greifen.\n3. Halte einen gleichmäßigen Rhythmus, prüfe den Weg voraus und verkürze die Schritte in Kurven oder auf unebenem Boden.",
+      "sectionTitle": "Im Freien"
+    },
+    "it": {
+      "title": "Corsa all’aperto",
+      "description": "1. Mantieni una postura eretta, inclinati leggermente dalle caviglie e lascia oscillare le braccia vicino ai fianchi.\n2. Corri con passi corti e naturali che atterrano sotto il corpo invece di allungarsi molto avanti.\n3. Mantieni un ritmo costante, osserva il percorso davanti a te e accorcia il passo nelle curve o sul terreno irregolare.",
+      "sectionTitle": "All’aperto"
+    },
+    "zh-Hans": {
+      "title": "户外跑步",
+      "description": "1. 保持身体挺直，从脚踝处微微前倾，让双臂靠近身体两侧摆动。\n2. 用短而自然的步幅跑步，落脚在身体下方，不要伸到很远的前方。\n3. 保持稳定节奏，观察前方路线，在转弯或不平地面上缩短步幅。",
+      "sectionTitle": "户外"
+    },
+    "ja": {
+      "title": "屋外ランニング",
+      "description": "1. 姿勢を高く保ち、足首から少し前傾して、腕を体の近くで振ります。\n2. 足を遠く前へ伸ばさず、体の下に着地する短く自然な歩幅で走ります。\n3. 一定のリズムを保ち、前方のルートを確認して、カーブや凹凸のある地面では歩幅を短くします。",
+      "sectionTitle": "屋外"
+    },
+    "ko": {
+      "title": "야외 달리기",
+      "description": "1. 몸을 곧게 세우고 발목에서 살짝 기울이며 팔을 몸 옆 가까이에서 흔듭니다.\n2. 발을 멀리 앞으로 뻗지 않고 몸 아래에 착지하는 짧고 자연스러운 보폭으로 달립니다.\n3. 일정한 리듬을 유지하고 앞쪽 경로를 살피며 회전하거나 바닥이 고르지 않을 때 보폭을 줄입니다.",
+      "sectionTitle": "야외"
+    },
+    "th": {
+      "title": "การวิ่งกลางแจ้ง",
+      "description": "1. ตั้งตัวตรง เอนไปข้างหน้าเล็กน้อยจากข้อเท้า และให้แขนแกว่งใกล้ลำตัว\n2. วิ่งด้วยก้าวสั้นตามธรรมชาติ ลงเท้าใต้ลำตัวแทนการเอื้อมไปข้างหน้าไกล\n3. รักษาจังหวะสม่ำเสมอ มองเส้นทางข้างหน้า และลดระยะก้าวเมื่อเลี้ยวหรือพื้นไม่เรียบ",
+      "sectionTitle": "กลางแจ้ง"
+    },
+    "ru": {
+      "title": "Бег на открытом воздухе",
+      "description": "1. Держитесь прямо, слегка наклонитесь от голеностопов и позвольте рукам двигаться близко к бокам.\n2. Бегите короткими естественными шагами, приземляясь под телом, а не вынося ногу далеко вперёд.\n3. Сохраняйте ровный ритм, осматривайте маршрут впереди и укорачивайте шаг на поворотах или неровном грунте.",
+      "sectionTitle": "На открытом воздухе"
+    },
+    "uk": {
+      "title": "Біг надворі",
+      "description": "1. Тримайтеся рівно, злегка нахиліться від гомілковостопних суглобів і дозвольте рукам рухатися близько до боків.\n2. Біжіть короткими природними кроками, приземляючись під тілом, а не виносячи ногу далеко вперед.\n3. Зберігайте рівний ритм, оглядайте маршрут попереду й укорочуйте крок на поворотах або нерівному ґрунті.",
+      "sectionTitle": "Надворі"
+    }
+  }
+}

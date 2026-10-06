@@ -1,0 +1,90 @@
+{
+  "id": "75.1",
+  "key": "kurash",
+  "title": "Kurash",
+  "description": "1. Begin standing on mats with a trained partner, both wearing jackets, and take grips on the jacket only.\n2. Move, break balance, and drill throws and trips from the standing grip without grabbing the legs or trousers.\n3. Guide every throw to a controlled landing, stop when a partner touches down, and reset standing.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "kurash",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kurash",
+      "description": "1. Begin standing on mats with a trained partner, both wearing jackets, and take grips on the jacket only.\n2. Move, break balance, and drill throws and trips from the standing grip without grabbing the legs or trousers.\n3. Guide every throw to a controlled landing, stop when a partner touches down, and reset standing.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kurash",
+      "description": "1. Comienza de pie sobre el tatami con un compañero entrenado, ambos con chaqueta, y agarra solo la chaqueta.\n2. Desplázate, desequilibra y practica proyecciones y zancadillas desde el agarre de pie sin agarrar las piernas ni el pantalón.\n3. Guía cada proyección a una caída controlada, detente cuando el compañero toque el suelo y vuelve a empezar de pie.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kurash",
+      "description": "1. Comece de pé no tatame com um parceiro treinado, ambos de jaqueta, e segure apenas a jaqueta.\n2. Movimente-se, desequilibre e treine projeções e rasteiras a partir da pegada em pé, sem agarrar as pernas nem a calça.\n3. Conduza cada projeção a uma queda controlada, pare quando o parceiro tocar o solo e recomece de pé.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kurash",
+      "description": "1. Commencez debout sur le tapis avec un partenaire entraîné, tous deux en veste, et ne saisissez que la veste.\n2. Déplacez-vous, déséquilibrez et travaillez projections et crocs-en-jambe depuis la saisie debout, sans saisir les jambes ni le pantalon.\n3. Guidez chaque projection vers une chute contrôlée, arrêtez-vous quand le partenaire touche le sol et repartez debout.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kurash",
+      "description": "1. Beginne stehend auf der Matte mit einem geübten Partner, beide in Jacken, und greife nur die Jacke.\n2. Bewege dich, brich das Gleichgewicht und übe Würfe und Beinstellen aus dem Standgriff, ohne Beine oder Hose zu greifen.\n3. Führe jeden Wurf in eine kontrollierte Landung, stoppe, sobald der Partner den Boden berührt, und beginne stehend neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Kurash",
+      "description": "1. Inizia in piedi sul tatami con un partner allenato, entrambi in giacca, e afferra solo la giacca.\n2. Muoviti, sbilancia e allena proiezioni e sgambetti dalla presa in piedi senza afferrare gambe o pantaloni.\n3. Guida ogni proiezione a una caduta controllata, fermati quando il partner tocca terra e riparti in piedi.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "克拉什",
+      "description": "1. 与训练有素的同伴站在垫上开始，双方穿着上衣，只抓握上衣。\n2. 移动、破坏平衡，并在站立抓握中练习摔投和绊摔，不抓腿或裤子。\n3. 引导每次摔投平稳落地，同伴触地即停，然后站立重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "クラッシュ",
+      "description": "1. 上着を着た熟練のパートナーとマット上で立って始め、上着だけを持ちます。\n2. 動いて崩し、脚やズボンをつかまずに立ち組みから投げと足払いを練習します。\n3. すべての投げを制御された着地に導き、相手が接地したら止まり、立って再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "쿠라시",
+      "description": "1. 숙련된 파트너와 상의를 입고 매트 위에 서서 시작하며 상의만 잡습니다.\n2. 움직이며 균형을 무너뜨리고, 다리나 바지를 잡지 않고 선 자세의 그립에서 메치기와 걸기를 연습합니다.\n3. 모든 메치기를 통제된 착지로 이끌고 파트너가 바닥에 닿으면 멈춘 뒤 선 자세로 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "คูราช",
+      "description": "1. เริ่มยืนบนเบาะกับคู่ฝึกที่ผ่านการฝึก ทั้งคู่สวมเสื้อ และจับเฉพาะเสื้อ\n2. เคลื่อนที่ ทำลายสมดุล และฝึกทุ่มกับขัดขาจากการจับยืน โดยไม่จับขาหรือกางเกง\n3. นำทุกการทุ่มให้ลงพื้นอย่างควบคุม หยุดเมื่อคู่ฝึกแตะพื้น แล้วเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кураш",
+      "description": "1. Начните стоя на ковре с подготовленным партнёром, оба в куртках, захваты только за куртку.\n2. Двигайтесь, выводите из равновесия и отрабатывайте броски и подсечки из стойки, не захватывая ноги и брюки.\n3. Доводите каждый бросок до контролируемого приземления, останавливайтесь при касании партнёром ковра и начинайте снова в стойке.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кураш",
+      "description": "1. Почніть стоячи на килимі з підготовленим партнером, обидва в куртках, захвати лише за куртку.\n2. Рухайтеся, виводьте з рівноваги й відпрацьовуйте кидки та підсічки зі стійки, не захоплюючи ноги й штани.\n3. Доводьте кожен кидок до контрольованого приземлення, зупиняйтеся, коли партнер торкнеться килима, і починайте знову в стійці.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

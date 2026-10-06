@@ -1,0 +1,87 @@
+{
+  "id": "108.2",
+  "key": "wing_chun_siu_nim_tao",
+  "title": "Siu Nim Tao",
+  "description": "1. Open into the training stance: knees bent and turned slightly in, toes in, hips tucked, and both fists at the chest.\n2. Perform the form without stepping: the slow tan sau, wu sau, and fook sau section on each arm, then the faster palm, pak, bong, and centreline punching sections.\n3. Keep the elbows on the centreline and the stance unmoving throughout, then close by bringing the feet together and lowering the hands.",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Siu Nim Tao",
+      "description": "1. Open into the training stance: knees bent and turned slightly in, toes in, hips tucked, and both fists at the chest.\n2. Perform the form without stepping: the slow tan sau, wu sau, and fook sau section on each arm, then the faster palm, pak, bong, and centreline punching sections.\n3. Keep the elbows on the centreline and the stance unmoving throughout, then close by bringing the feet together and lowering the hands.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Siu Nim Tao",
+      "description": "1. Abre a la posición de entrenamiento: rodillas flexionadas y algo hacia dentro, puntas de los pies hacia dentro, cadera recogida y ambos puños en el pecho.\n2. Ejecuta la forma sin desplazarte: la sección lenta de tan sau, wu sau y fook sau con cada brazo, y luego las secciones más rápidas de palmas, pak, bong y puñetazos por la línea central.\n3. Mantén los codos en la línea central y la posición inmóvil todo el tiempo, y cierra juntando los pies y bajando las manos.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Siu Nim Tao",
+      "description": "1. Abra para a base de treino: joelhos flexionados e um pouco para dentro, pontas dos pés para dentro, quadril encaixado e os dois punhos no peito.\n2. Execute a forma sem se deslocar: a seção lenta de tan sau, wu sau e fook sau em cada braço, depois as seções mais rápidas de palmas, pak, bong e socos na linha central.\n3. Mantenha os cotovelos na linha central e a base imóvel o tempo todo, e feche unindo os pés e baixando as mãos.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Siu Nim Tao",
+      "description": "1. Ouvrez dans la position d’entraînement : genoux fléchis et un peu rentrés, pointes de pied vers l’intérieur, bassin rentré et poings à la poitrine.\n2. Exécutez la forme sans vous déplacer : la section lente de tan sau, wu sau et fook sau de chaque bras, puis les sections plus rapides de paumes, pak, bong et coups de poing sur la ligne centrale.\n3. Gardez les coudes sur la ligne centrale et la position immobile tout du long, puis fermez en rejoignant les pieds et en baissant les mains.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Siu Nim Tao",
+      "description": "1. Öffne in den Trainingsstand: Knie gebeugt und leicht nach innen, Zehen nach innen, Becken eingerollt, beide Fäuste an der Brust.\n2. Laufe die Form ohne Schritt: den langsamen Tan-Sau-, Wu-Sau- und Fook-Sau-Abschnitt mit jedem Arm, dann die schnelleren Abschnitte mit Handflächen, Pak, Bong und Fauststößen auf der Mittellinie.\n3. Halte die Ellbogen auf der Mittellinie und den Stand durchgehend unbewegt, schließe dann, indem du die Füße zusammenführst und die Hände senkst.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Siu Nim Tao",
+      "description": "1. Apri nella posizione di allenamento: ginocchia piegate e leggermente in dentro, punte dei piedi in dentro, bacino raccolto e pugni al petto.\n2. Esegui la forma senza spostarti: la sezione lenta di tan sau, wu sau e fook sau con ogni braccio, poi le sezioni più rapide di palmi, pak, bong e pugni sulla linea centrale.\n3. Tieni i gomiti sulla linea centrale e la posizione immobile per tutto il tempo, poi chiudi unendo i piedi e abbassando le mani.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "小念头",
+      "description": "1. 开二字钳羊马：双膝微屈内扣，脚尖内收，收臀，双拳置于胸前。\n2. 原地不移步完成套路：每只手先做缓慢的摊手、护手、伏手部��，再做较快的掌法、拍手、膀手和中线冲拳部分。\n3. 全程保持肘守中线、马步不动，最后并步落手收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "小念頭（シウニムタウ）",
+      "description": "1. 練習用の構えを開きます。膝を曲げてやや内に締め、つま先を内に向け、骨盤を収め、両拳を胸の前に置きます。\n2. 移動せずに型を行います。各腕でゆっくりの攤手・護手・��手の段、続いて速めの掌・拍手・膀手・中心線への突きの段を行います。\n3. 肘を中心線上に保ち構えを動かさず、最後に足をそろえて手を下ろし収めます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "소념두",
+      "description": "1. 수련 자세를 엽니다. 무릎을 굽혀 살짝 안으로 모으고 발끝을 안으로, 골반을 말아 넣고 두 주먹을 가슴 앞에 둡니다.\n2. 이동 없이 품을 수행합니다. 각 팔로 느린 탄사우·우사우·폭사우 부분을 한 뒤 더 빠른 장, 박, 방, 중심선 주먹 부분을 합니다.\n3. 팔꿈치를 중심선에 두고 자세를 끝까지 움직이지 않은 뒤 두 발을 모으고 손을 내려 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "ซิ่วนิ้มเต๋า",
+      "description": "1. เปิดเข้าสู่ท่าฝึก งอเข่าและบิดเข้าเล็กน้อย ปลายเท้าชี้เข้า เก็บสะโพก และกำหมัดสองข้างไว้ที่หน้าอก\n2. รำโดยไม่ก้าวเท้า เริ่มด้วยช่วงช้าของมือทาน มือหวู่ และมือฟุกทีละข้าง แล้วตามด้วยช่วงที่เร็วขึ้นของฝ่ามือ มือปัก มือบ่ง และหมัดตามแนวกึ่งกลาง\n3. รักษาศอกอยู่ในแนวกึ่งกลางและท่ายืนไม่ขยับตลอด แล้วปิดโดยชิดเท้าและลดมือลง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Сиу Ним Тао",
+      "description": "1. Раскройтесь в тренировочную стойку: колени согнуты и слегка сведены, носки внутрь, таз подкручен, оба кулака у груди.\n2. Выполните форму без шагов: медленную часть тан сау, ву сау и фук сау каждой рукой, затем более быстрые части с ладонями, пак, бонг и ударами по центральной линии.\n3. Держите локти на центральной линии и стойку неподвижной на протяжении всей формы, затем завершите, приставив стопы и опустив руки.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Сіу Нім Тао",
+      "description": "1. Розкрийтеся в тренувальну стійку: коліна зігнуті й трохи зведені, носки всередину, таз підкручений, обидва кулаки біля грудей.\n2. Виконайте форму без кроків: повільну частину тан сау, ву сау й фук сау кожною рукою, потім швидші частини з долонями, пак, бонг і ударами по центральній лінії.\n3. Тримайте лікті на центральній лінії й стійку нерухомою протягом усієї форми, потім завершіть, приставивши стопи й опустивши руки.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

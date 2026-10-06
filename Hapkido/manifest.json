@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#01C5A5",
+    "colorType": "teal",
+    "folder": "Hapkido",
+    "id": "60",
+    "icon": "Hapkido/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Hapkido",
+    "workoutType": "hapkido",
+    "translations": {
+      "en": {
+        "title": "Hapkido"
+      },
+      "es": {
+        "title": "Hapkido"
+      },
+      "pt": {
+        "title": "Hapkido"
+      },
+      "fr": {
+        "title": "Hapkido"
+      },
+      "de": {
+        "title": "Hapkido"
+      },
+      "it": {
+        "title": "Hapkido"
+      },
+      "zh-Hans": {
+        "title": "韩国合气道"
+      },
+      "ja": {
+        "title": "ハプキド"
+      },
+      "ko": {
+        "title": "합기도"
+      },
+      "th": {
+        "title": "ฮับกิโด"
+      },
+      "ru": {
+        "title": "Хапкидо"
+      },
+      "uk": {
+        "title": "Хапкідо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Hapkido/exercises/hapkido/Icon.png",
+      "json": "Hapkido/exercises/hapkido/hapkido.json"
+    },
+    {
+      "icon": "Hapkido/exercises/gongjungHoejeonNakbeop/Icon.png",
+      "json": "Hapkido/exercises/gongjungHoejeonNakbeop/gongjungHoejeonNakbeop.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "97.17",
+  "key": "sumo_tsuridashi",
+  "title": "Tsuridashi",
+  "description": "1. Take a two-handed belt grip with the chest against the partner and the hips well below the partner's belt.\n2. Lift the partner slightly off the feet by extending the legs and arching, not by bending the back.\n3. Carry the partner a short step toward the edge, set the feet down, and release; stop at any loss of balance.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tsuridashi",
+      "description": "1. Take a two-handed belt grip with the chest against the partner and the hips well below the partner's belt.\n2. Lift the partner slightly off the feet by extending the legs and arching, not by bending the back.\n3. Carry the partner a short step toward the edge, set the feet down, and release; stop at any loss of balance.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Tsuridashi",
+      "description": "1. Agarra el cinturón con ambas manos, pecho contra el compañero y cadera bien por debajo de su cinturón.\n2. Levanta ligeramente al compañero del suelo extendiendo las piernas y arqueándote, sin doblar la espalda.\n3. Llévalo un paso corto hacia el borde, apoya sus pies y suelta; detente ante cualquier pérdida de equilibrio.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Tsuridashi",
+      "description": "1. Segure a faixa com as duas mãos, peito contra o parceiro e quadril bem abaixo da faixa dele.\n2. Erga o parceiro levemente do chão estendendo as pernas e arqueando, sem curvar as costas.\n3. Leve-o um passo curto em direção à borda, apoie os pés dele e solte; pare em qualquer perda de equilíbrio.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Tsuridashi",
+      "description": "1. Saisissez la ceinture à deux mains, poitrine contre le partenaire et hanches bien sous sa ceinture.\n2. Soulevez légèrement le partenaire du sol en tendant les jambes et en vous cambrant, sans plier le dos.\n3. Portez-le d’un petit pas vers le bord, reposez ses pieds et lâchez ; arrêtez à toute perte d’équilibre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Tsuridashi",
+      "description": "1. Greife den Gürtel mit beiden Händen, Brust am Partner, Hüfte deutlich unter seinem Gürtel.\n2. Hebe den Partner leicht vom Boden, indem du die Beine streckst und dich aufrichtest, ohne den Rücken zu krümmen.\n3. Trage ihn einen kurzen Schritt zum Rand, setze seine Füße ab und löse; stoppe bei jedem Gleichgewichtsverlust.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Tsuridashi",
+      "description": "1. Afferra la cintura con due mani, petto contro il partner e anche ben sotto la sua cintura.\n2. Solleva leggermente il partner da terra estendendo le gambe e inarcandoti, senza piegare la schiena.\n3. Portalo un piccolo passo verso il bordo, appoggia i suoi piedi e lascia; fermati a qualsiasi perdita di equilibrio.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "吊出",
+      "description": "1. 双手抓住腰带，胸口贴住同伴，髋部明显低于对方腰带。\n2. 通过伸腿挺身把同伴稍微提离地面，不要弯腰。\n3. 抱着对方向圈边走一小步，放下其双脚后松手；一旦失去平衡立即停止。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "吊り出し",
+      "description": "1. 両手でまわしを取り、胸を相手につけ、腰を相手のまわしより十分低くします。\n2. 背中を丸めず、脚を伸ばして体を反らせ、相手をわずかに吊り上げます。\n3. 土俵際へ小さく一歩運び、相手の足を下ろしてから離します。バランスを崩したらすぐに止めます。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "쓰리다시",
+      "description": "1. 두 손으로 샅바를 잡고 가슴을 상대에 붙이며 엉덩이를 상대 샅바보다 충분히 낮춥니다.\n2. 등을 굽히지 말고 다리를 펴며 몸을 젖혀 상대를 바닥에서 살짝 들어 올립니다.\n3. 가장자리 쪽으로 짧게 한 걸음 옮긴 뒤 상대 발을 내려놓고 놓으며, 균형을 잃으면 즉시 멈춥니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "สึริดาชิ",
+      "description": "1. จับผ้าคาดเอวด้วยสองมือ หน้าอกแนบคู่ฝึก สะโพกต่ำกว่าผ้าคาดเอวคู่ฝึกชัดเจน\n2. ยกคู่ฝึกให้ลอยจากพื้นเล็กน้อยด้วยการเหยียดขาและแอ่นตัว โดยไม่งอหลัง\n3. พาคู่ฝึกก้าวสั้น ๆ หนึ่งก้าวไปทางขอบ วางเท้าลงแล้วปล่อย หยุดทันทีเมื่อเสียหลัก",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Цуридаси",
+      "description": "1. Возьмитесь обеими руками за пояс, грудь к партнёру, таз заметно ниже его пояса.\n2. Слегка оторвите партнёра от пола, разгибая ноги и прогибаясь, не сгибая спину.\n3. Перенесите его на короткий шаг к краю, поставьте на ноги и отпустите; останавливайтесь при любой потере равновесия.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Цурідасі",
+      "description": "1. Візьміться обома руками за пояс, груди до партнера, таз помітно нижче його пояса.\n2. Злегка відірвіть партнера від підлоги, розгинаючи ноги й прогинаючись, не згинаючи спину.\n3. Перенесіть його на короткий крок до краю, поставте на ноги й відпустіть; зупиняйтеся за будь-якої втрати рівноваги.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

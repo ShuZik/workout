@@ -1,0 +1,90 @@
+{
+  "id": "3.43",
+  "key": "kick_boxing_scissor_roundhouse_kick",
+  "title": "Scissor Roundhouse Kick",
+  "description": "1. From stance, lift one knee as a feint and spring upward off the supporting foot.\n2. Switch the legs in the air, turn the hip over, and deliver a roundhouse kick with the second leg at the top of the jump.\n3. Recoil the leg, land softly in a balanced stance, and bring both hands back to guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Scissor Roundhouse Kick",
+      "description": "1. From stance, lift one knee as a feint and spring upward off the supporting foot.\n2. Switch the legs in the air, turn the hip over, and deliver a roundhouse kick with the second leg at the top of the jump.\n3. Recoil the leg, land softly in a balanced stance, and bring both hands back to guard.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Patada circular en tijera",
+      "description": "1. Desde la guardia, eleva una rodilla como finta y salta hacia arriba desde el pie de apoyo.\n2. Cambia las piernas en el aire, gira la cadera y lanza una patada circular con la segunda pierna en lo alto del salto.\n3. Recoge la pierna, aterriza suavemente en una postura equilibrada y devuelve ambas manos a la guardia.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Chute circular em tesoura",
+      "description": "1. Da base, levante um joelho como finta e salte para cima a partir do pé de apoio.\n2. Troque as pernas no ar, gire o quadril e aplique um chute circular com a segunda perna no alto do salto.\n3. Recolha a perna, aterrisse suavemente em base equilibrada e leve as duas mãos de volta à guarda.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Circulaire sauté en ciseau",
+      "description": "1. Depuis la garde, levez un genou en feinte et sautez vers le haut depuis le pied d’appui.\n2. Croisez les jambes en l’air, basculez la hanche et frappez en circulaire avec la seconde jambe au sommet du saut.\n3. Ramenez la jambe, retombez souplement en garde équilibrée et remontez les deux mains.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Gesprungener Scheren-Halbkreistritt",
+      "description": "1. Hebe aus der Stellung ein Knie als Finte und springe vom Standfuß nach oben ab.\n2. Wechsle die Beine in der Luft, drehe die Hüfte ein und triff am höchsten Punkt mit dem zweiten Bein einen Halbkreistritt.\n3. Ziehe das Bein zurück, lande weich in stabiler Stellung und nimm beide Hände in die Deckung.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Calcio circolare saltato a forbice",
+      "description": "1. Dalla posizione, solleva un ginocchio come finta e salta verso l’alto dal piede d’appoggio.\n2. Scambia le gambe in aria, ruota l’anca e porta un calcio circolare con la seconda gamba al culmine del salto.\n3. Richiama la gamba, atterra morbido in posizione equilibrata e riporta entrambe le mani in guardia.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "剪刀式腾空扫踢",
+      "description": "1. 从站姿提膝作假动作，从支撑脚向上起跳。\n2. 在空中交换双腿、转髋，于最高点用第二条腿完成扫踢。\n3. 收腿，轻落成稳定站姿，双手回到防守位。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "シザース回し蹴り",
+      "description": "1. 構えから片膝を上げてフェイントにし、軸足から上へ跳びます。\n2. 空中で脚を入れ替えて腰を返し、跳躍の頂点で二本目の脚で回し蹴りを打ちます。\n3. 脚を引き戻し、安定した構えで柔らかく着地して両手をガードに戻します。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "가위 돌려차기",
+      "description": "1. 자세에서 한쪽 무릎을 들어 페인트를 주고 지지 발에서 위로 뛰어오릅니다.\n2. 공중에서 다리를 바꾸고 엉덩이를 틀어 점프 최고점에서 두 번째 다리로 돌려차기를 합니다.\n3. 다리를 회수하고 균형 잡힌 자세로 부드럽게 착지한 뒤 두 손을 가드로 되돌립니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "เตะเหวี่ยงกระโดดสลับขา",
+      "description": "1. จากท่ายืน ยกเข่าข้างหนึ่งเป็นการหลอกแล้วกระโดดขึ้นจากเท้ายืน\n2. สลับขากลางอากาศ บิดสะโพก และเตะเหวี่ยงด้วยขาที่สองที่จุดสูงสุด\n3. เก็บขากลับ ลงพื้นเบา ๆ ในท่าที่สมดุล และยกมือทั้งสองกลับการ์ด",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Круговой удар ногой в прыжке «ножницы»",
+      "description": "1. Из стойки поднимите одно колено как обманное движение и выпрыгните вверх с опорной ноги.\n2. Смените ноги в воздухе, доверните таз и в верхней точке прыжка нанесите второй ногой круговой удар.\n3. Верните ногу, мягко приземлитесь в устойчивую стойку и поднимите обе руки в защиту.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Коловий удар ногою в стрибку «ножиці»",
+      "description": "1. Зі стійки підніміть одне коліно як обманний рух і вистрибніть угору з опорної ноги.\n2. Змініть ноги в повітрі, доверніть таз і у верхній точці стрибка завдайте другою ногою колового удару.\n3. Поверніть ногу, м’яко приземліться в стійку й підніміть обидві руки в захист.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "74.8",
+  "key": "kun_khmer_block_jab_exit",
+  "title": "Block, Jab, Exit",
+  "description": "1. Keep a tight guard while the gloved partner throws a controlled straight punch or hook.\n2. Block it on the gloves or forearm and immediately return a jab to the partner's mitt.\n3. Step out on an angle and reset; switch roles after each set and stop if control is lost.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "kunKhmer",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Block, Jab, Exit",
+      "description": "1. Keep a tight guard while the gloved partner throws a controlled straight punch or hook.\n2. Block it on the gloves or forearm and immediately return a jab to the partner's mitt.\n3. Step out on an angle and reset; switch roles after each set and stop if control is lost.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Bloqueo, jab y salida",
+      "description": "1. Mantén una guardia cerrada mientras el compañero con guantes lanza un recto o un gancho controlado.\n2. Bloquéalo con los guantes o el antebrazo y devuelve de inmediato un jab a la manopla del compañero.\n3. Sal en ángulo y reinicia; cambiad los papeles tras cada serie y parad si se pierde el control.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Bloqueio, jab e saída",
+      "description": "1. Mantenha a guarda fechada enquanto o parceiro de luvas solta um direto ou cruzado controlado.\n2. Bloqueie com as luvas ou o antebraço e devolva imediatamente um jab na luva de foco do parceiro.\n3. Saia em ângulo e recomece; troquem os papéis após cada série e parem se o controle se perder.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Blocage, jab et sortie",
+      "description": "1. Gardez une garde serrée pendant que le partenaire ganté lance un direct ou un crochet contrôlé.\n2. Bloquez avec les gants ou l’avant-bras et renvoyez aussitôt un jab dans la patte du partenaire.\n3. Sortez en angle et recommencez ; inversez les rôles après chaque série et arrêtez si le contrôle se perd.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Block, Jab, Ausstieg",
+      "description": "1. Halte eine enge Deckung, während der Partner mit Handschuhen eine kontrollierte Gerade oder einen Haken schlägt.\n2. Blocke mit den Handschuhen oder dem Unterarm und kontere sofort mit einem Jab auf die Pratze des Partners.\n3. Steige im Winkel aus und setze neu an; tauscht nach jedem Satz die Rollen und stoppt bei Kontrollverlust.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Parata, jab e uscita",
+      "description": "1. Mantieni una guardia chiusa mentre il compagno con i guantoni tira un diretto o un gancio controllato.\n2. Paralo con i guantoni o l’avambraccio e rispondi subito con un jab sul colpitore del compagno.\n3. Esci in angolo e ricomincia; scambiatevi i ruoli dopo ogni serie e fermatevi se si perde il controllo.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "格挡·刺拳·撤离",
+      "description": "1. 保持紧密防守，戴拳套的同伴打出受控的直拳或摆拳。\n2. 用拳套或前臂格挡，立即用刺拳击打同伴的手靶。\n3. 斜向撤离后重新准备；每组后交换角色，一旦失控立即停止。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ブロック・ジャブ・エグジット",
+      "description": "1. グローブを着けたパートナーがコントロールしたストレートかフックを打つ間、ガードを固めます。\n2. グローブか前腕でブロックし、すぐにパートナーのミットへジャブを返します。\n3. 斜めに出て仕切り直し、セットごとに役割を交代し、コントロールが失われたら止めます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "블록·잽·이탈",
+      "description": "1. 글러브를 낀 파트너가 통제된 스트레이트나 훅을 칠 때 가드를 단단히 유지합니다.\n2. 글러브나 팔뚝으로 막고 곧바로 파트너의 미트에 잽으로 반격합니다.\n3. 비스듬히 빠져나와 다시 준비하고, 세트마다 역할을 바꾸며 통제가 무너지면 멈춥니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ปัด แย็บ แล้วออก",
+      "description": "1. รักษาการ์ดให้แน่นขณะคู่ฝึกที่สวมนวมชกหมัดตรงหรือหมัดฮุกอย่างควบคุม\n2. ปัดรับด้วยนวมหรือแขน แล้วสวนหมัดแย็บใส่เป้ามือของคู่ฝึกทันที\n3. ก้าวออกเป็นมุมแล้วตั้งต้นใหม่ สลับบทบาทหลังทุกชุด และหยุดหากควบคุมไม่ได้",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Блок, джеб, выход",
+      "description": "1. Держите плотную защиту, пока партнёр в перчатках наносит контролируемый прямой или боковой удар.\n2. Заблокируйте перчатками или предплечьем и сразу ответьте джебом в лапу партнёра.\n3. Уйдите под углом и начните заново; меняйтесь ролями после каждой серии и остановитесь при потере контроля.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Блок, джеб, вихід",
+      "description": "1. Тримайте щільний захист, поки партнер у рукавицях завдає контрольованого прямого або бокового удару.\n2. Заблокуйте рукавицями чи передпліччям і одразу відповідайте джебом у лапу партнера.\n3. Вийдіть під кутом і почніть знову; міняйтеся ролями після кожної серії та зупиніться в разі втрати контролю.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

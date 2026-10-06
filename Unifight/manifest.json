@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#90A994",
+    "colorType": "sage",
+    "folder": "Unifight",
+    "id": "105",
+    "icon": "Unifight/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Unifight",
+    "workoutType": "unifight",
+    "translations": {
+      "en": {
+        "title": "Unifight"
+      },
+      "es": {
+        "title": "Unifight"
+      },
+      "pt": {
+        "title": "Unifight"
+      },
+      "fr": {
+        "title": "Unifight"
+      },
+      "de": {
+        "title": "Unifight"
+      },
+      "it": {
+        "title": "Unifight"
+      },
+      "zh-Hans": {
+        "title": "统一格斗"
+      },
+      "ja": {
+        "title": "ユニファイト"
+      },
+      "ko": {
+        "title": "유니파이트"
+      },
+      "th": {
+        "title": "ยูนิไฟต์"
+      },
+      "ru": {
+        "title": "Унифайт"
+      },
+      "uk": {
+        "title": "Юніфайт"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Unifight/exercises/unifight/Icon.png",
+      "json": "Unifight/exercises/unifight/unifight.json"
+    },
+    {
+      "icon": "Unifight/exercises/unifightObstacleCourse/Icon.png",
+      "json": "Unifight/exercises/unifightObstacleCourse/unifightObstacleCourse.json"
+    },
+    {
+      "icon": "Unifight/exercises/tyreMazeRun/Icon.png",
+      "json": "Unifight/exercises/tyreMazeRun/tyreMazeRun.json"
+    },
+    {
+      "icon": "Unifight/exercises/beamWalk/Icon.png",
+      "json": "Unifight/exercises/beamWalk/beamWalk.json"
+    },
+    {
+      "icon": "Unifight/exercises/fenceVault/Icon.png",
+      "json": "Unifight/exercises/fenceVault/fenceVault.json"
+    },
+    {
+      "icon": "Unifight/exercises/horizontalLadderTraverse/Icon.png",
+      "json": "Unifight/exercises/horizontalLadderTraverse/horizontalLadderTraverse.json"
+    },
+    {
+      "icon": "Unifight/exercises/tunnelCrawl/Icon.png",
+      "json": "Unifight/exercises/tunnelCrawl/tunnelCrawl.json"
+    },
+    {
+      "icon": "Unifight/exercises/unifightRingFight/Icon.png",
+      "json": "Unifight/exercises/unifightRingFight/unifightRingFight.json"
+    }
+  ]
+}

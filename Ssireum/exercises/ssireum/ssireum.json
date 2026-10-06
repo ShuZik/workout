@@ -1,0 +1,90 @@
+{
+  "id": "96.1",
+  "key": "ssireum",
+  "title": "Ssireum",
+  "description": "1. Kneel facing a trained partner in a sand ring or on mats and take the satba grip on the partner's waist and thigh band.\n2. Rise together and try to turn and topple the partner using the satba grip, lifts, and leg trips.\n3. Lower the partner under control, stop when a knee or higher touches down, and restart from the kneeling grip.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "ssireum",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ssireum",
+      "description": "1. Kneel facing a trained partner in a sand ring or on mats and take the satba grip on the partner's waist and thigh band.\n2. Rise together and try to turn and topple the partner using the satba grip, lifts, and leg trips.\n3. Lower the partner under control, stop when a knee or higher touches down, and restart from the kneeling grip.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Ssireum",
+      "description": "1. Arrodíllate frente a un compañero entrenado en un círculo de arena o sobre el tatami y toma el agarre satba de su cintura y la banda del muslo.\n2. Levantaos juntos e intenta girar y derribar al compañero con el agarre satba, levantamientos y zancadillas.\n3. Baja al compañero con control, detente cuando una rodilla o algo más alto toque el suelo y reinicia desde el agarre de rodillas.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Ssireum",
+      "description": "1. Ajoelhe-se de frente para um parceiro treinado em um círculo de areia ou no tatame e faça a pegada satba na cintura e na faixa da coxa dele.\n2. Levantem-se juntos e tente girar e derrubar o parceiro usando a pegada satba, levantamentos e rasteiras.\n3. Baixe o parceiro com controle, pare quando um joelho ou algo acima tocar o chão e recomece da pegada ajoelhada.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Ssireum",
+      "description": "1. Agenouillez-vous face à un partenaire entraîné dans un rond de sable ou sur le tapis et prenez la saisie satba à sa taille et à sa sangle de cuisse.\n2. Relevez-vous ensemble et tentez de faire pivoter et basculer le partenaire avec la saisie satba, des soulevés et des crocs-en-jambe.\n3. Reposez le partenaire avec contrôle, arrêtez quand un genou ou plus haut touche le sol et repartez de la saisie à genoux.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Ssireum",
+      "description": "1. Knie einem geübten Partner im Sandring oder auf der Matte gegenüber und nimm den Satba-Griff an Taille und Oberschenkelband.\n2. Steht gemeinsam auf und versucht, den Partner mit Satba-Griff, Anheben und Beinstellen zu drehen und umzuwerfen.\n3. Setze den Partner kontrolliert ab, stoppe, wenn ein Knie oder höher den Boden berührt, und beginne neu aus dem knienden Griff.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Ssireum",
+      "description": "1. Inginocchiati di fronte a un partner allenato in un cerchio di sabbia o sul tatami e prendi la presa satba alla vita e alla fascia della coscia.\n2. Alzatevi insieme e cerca di ruotare e abbattere il partner con la presa satba, sollevamenti e sgambetti.\n3. Abbassa il partner con controllo, fermati quando un ginocchio o una parte più alta tocca terra e riparti dalla presa in ginocchio.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "朝鲜式摔跤",
+      "description": "1. 在沙圈或垫上与训练有素的同伴相对跪下，抓住对方腰部和大腿上的摔跤带。\n2. 一起起身，用摔跤带握法、抱起和绊腿设法转动并摔倒同伴。\n3. 可控地放下同伴，膝盖或更高部位触地即停，从跪姿握持重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "シルム",
+      "description": "1. 砂の輪かマット上で熟練のパートナーと向かい合って膝をつき、相手の腰と太もものサッパを持ちます。\n2. 一緒に立ち上がり、サッパの組み手、持ち上げ、足掛けで相手を回して倒そうとします。\n3. 相手を制御して下ろし、膝かそれより上が地面についたら止め、膝立ちの組み手から再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "씨름",
+      "description": "1. 모래판이나 매트에서 숙련된 파트너와 마주 무릎을 꿇고 파트너의 허리와 다리에 감긴 샅바를 잡습니다.\n2. 함께 일어나 샅바 그립, 들기, 다리 걸기로 파트너를 돌려 넘어뜨리려 합니다.\n3. 파트너를 통제해 내려놓고 무릎 이상이 바닥에 닿으면 멈춘 뒤 무릎 꿇은 그립에서 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ซีรึม",
+      "description": "1. คุกเข่าหันหน้าเข้าหาคู่ฝึกที่ผ่านการฝึกในวงทรายหรือบนเบาะ แล้วจับผ้าซัตบาที่เอวและต้นขาของเขา\n2. ลุกขึ้นพร้อมกัน และพยายามหมุนและล้มคู่ฝึกด้วยการจับซัตบา การยก และการขัดขา\n3. วางคู่ฝึกลงอย่างควบคุม หยุดเมื่อเข่าหรือส่วนที่สูงกว่าแตะพื้น แล้วเริ่มใหม่จากการจับในท่าคุกเข่า",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Ссирым",
+      "description": "1. Встаньте на колени лицом к подготовленному партнёру в песчаном круге или на ковре и возьмите захват за сатбу на его поясе и бедре.\n2. Поднимитесь вместе и пытайтесь развернуть и опрокинуть партнёра захватом за сатбу, подъёмами и подножками.\n3. Опускайте партнёра под контролем, останавливайтесь при касании земли коленом или выше и начинайте снова из захвата на коленях.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Ссирим",
+      "description": "1. Станьте на коліна обличчям до підготовленого партнера в піщаному колі або на килимі й візьміть захват за сатбу на його поясі та стегні.\n2. Підніміться разом і намагайтеся розвернути й перекинути партнера захватом за сатбу, підйомами й підніжками.\n3. Опускайте партнера під контролем, зупиняйтеся, коли землі торкнеться коліно або вище, і починайте знову із захвату на колінах.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

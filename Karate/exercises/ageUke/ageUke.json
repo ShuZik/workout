@@ -1,0 +1,90 @@
+{
+  "id": "40.10",
+  "key": "karate_age_uke",
+  "title": "Age Uke",
+  "description": "1. Chamber the blocking fist near the opposite hip or side of the torso with the other arm extended.\n2. Drive the forearm upward across the centerline while the opposite fist retracts to the hip.\n3. Finish above the forehead on a slight angle with space between the forearm and head and the wrist straight.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Blocks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Age Uke",
+      "description": "1. Chamber the blocking fist near the opposite hip or side of the torso with the other arm extended.\n2. Drive the forearm upward across the centerline while the opposite fist retracts to the hip.\n3. Finish above the forehead on a slight angle with space between the forearm and head and the wrist straight.",
+      "sectionTitle": "Blocks"
+    },
+    "es": {
+      "title": "Age Uke",
+      "description": "1. Prepara el puño que bloquea junto a la cadera opuesta o al costado del torso, con el otro brazo extendido.\n2. Impulsa el antebrazo hacia arriba cruzando la línea central mientras el puño opuesto vuelve a la cadera.\n3. Termina sobre la frente en un ángulo leve, dejando espacio entre antebrazo y cabeza y manteniendo la muñeca recta.",
+      "sectionTitle": "Bloqueos"
+    },
+    "pt": {
+      "title": "Age Uke",
+      "description": "1. Prepare o punho de bloqueio junto ao quadril oposto ou à lateral do tronco, com o outro braço estendido.\n2. Leve o antebraço para cima pela linha central enquanto o punho oposto retorna ao quadril.\n3. Termine acima da testa em um leve ângulo, deixando espaço entre antebraço e cabeça e mantendo o punho alinhado.",
+      "sectionTitle": "Bloqueios"
+    },
+    "fr": {
+      "title": "Age Uke",
+      "description": "1. Armez le poing de blocage près de la hanche opposée ou du côté du torse, l’autre bras tendu.\n2. Montez l’avant-bras en traversant l’axe central tandis que le poing opposé revient à la hanche.\n3. Terminez au-dessus du front, légèrement incliné, avec un espace entre l’avant-bras et la tête et le poignet droit.",
+      "sectionTitle": "Blocages"
+    },
+    "de": {
+      "title": "Age Uke",
+      "description": "1. Positioniere die blockende Faust an der gegenüberliegenden Hüfte oder Rumpfseite, den anderen Arm ausgestreckt.\n2. Führe den Unterarm über die Mittellinie nach oben, während die andere Faust zur Hüfte zurückzieht.\n3. Ende leicht schräg über der Stirn, mit Abstand zwischen Unterarm und Kopf und geradem Handgelenk.",
+      "sectionTitle": "Blöcke"
+    },
+    "it": {
+      "title": "Age Uke",
+      "description": "1. Prepara il pugno che para vicino all’anca opposta o al lato del busto, con l’altro braccio disteso.\n2. Porta l’avambraccio verso l’alto attraverso la linea centrale mentre il pugno opposto torna all’anca.\n3. Termina sopra la fronte con una lieve inclinazione, lasciando spazio tra avambraccio e testa e tenendo il polso diritto.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "上段扬受",
+      "description": "1. 将格挡拳收在对侧髋部或躯干侧面附近，另一只手臂伸出。\n2. 前臂跨过中线向上推出，同时另一只拳收回髋部。\n3. 在额头上方略呈斜角结束，前臂与头部之间留出距离，手腕保持伸直。",
+      "sectionTitle": "格挡"
+    },
+    "ja": {
+      "title": "上げ受け",
+      "description": "1. 受ける拳を反対側の腰または胴の側面に構え、もう一方の腕を伸ばします。\n2. 反対の拳を腰へ引きながら、前腕を中心線を横切って上に動かします。\n3. 額の上で少し斜めに止め、前腕と頭の間に隙間を保ち、手首をまっすぐにします。",
+      "sectionTitle": "受け"
+    },
+    "ko": {
+      "title": "아게 우케",
+      "description": "1. 막는 주먹을 반대쪽 골반이나 몸통 옆에 준비하고 다른 팔을 뻗습니다.\n2. 반대 주먹을 골반으로 당기면서 전완을 중심선을 가로질러 위로 올립니다.\n3. 이마 위에서 약간 비스듬히 멈추고 전완과 머리 사이에 공간을 두며 손목을 곧게 유지합니다.",
+      "sectionTitle": "막기"
+    },
+    "th": {
+      "title": "อาเกะอุเกะ",
+      "description": "1. เตรียมหมัดที่ใช้ป้องกันใกล้สะโพกฝั่งตรงข้ามหรือข้างลำตัว โดยเหยียดแขนอีกข้าง\n2. ยกท่อนแขนขึ้นผ่านแนวกึ่งกลางพร้อมดึงหมัดอีกข้างกลับสู่สะโพก\n3. จบท่าเหนือหน้าผากโดยเอียงเล็กน้อย เว้นระยะระหว่างท่อนแขนกับศีรษะ และรักษาข้อมือให้ตรง",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Агэ-укэ",
+      "description": "1. Подведите блокирующий кулак к противоположному бедру или боку корпуса, вытянув другую руку.\n2. Направьте предплечье вверх через центральную линию, одновременно отводя противоположный кулак к бедру.\n3. Завершите движение над лбом под небольшим углом, оставив пространство между предплечьем и головой и сохранив прямое запястье.",
+      "sectionTitle": "Блоки"
+    },
+    "uk": {
+      "title": "Аге-уке",
+      "description": "1. Підведіть блокувальний кулак до протилежного стегна або боку тулуба, витягнувши іншу руку.\n2. Спрямуйте передпліччя вгору через центральну лінію, одночасно відводячи протилежний кулак до стегна.\n3. Завершіть рух над лобом під невеликим кутом, залишивши простір між передпліччям і головою та зберігши пряме зап’ястя.",
+      "sectionTitle": "Блоки"
+    }
+  }
+}

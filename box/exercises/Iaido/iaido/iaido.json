@@ -1,0 +1,87 @@
+{
+  "id": "63.1",
+  "key": "iaido_main",
+  "title": "Iaido",
+  "description": "1. Kneel in seiza or stand with the sword at the left hip, the left hand on the scabbard and the right hand relaxed.\n2. Draw and cut in one controlled motion, then follow with a full two-handed cut while keeping the posture upright and the eyes on the imagined opponent.\n3. Shake off the blade, resheathe slowly without looking down, and hold zanshin before resetting for the next repetition.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Iaido",
+      "description": "1. Kneel in seiza or stand with the sword at the left hip, the left hand on the scabbard and the right hand relaxed.\n2. Draw and cut in one controlled motion, then follow with a full two-handed cut while keeping the posture upright and the eyes on the imagined opponent.\n3. Shake off the blade, resheathe slowly without looking down, and hold zanshin before resetting for the next repetition.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Iaido",
+      "description": "1. Arrodíllate en seiza o ponte de pie con la espada en la cadera izquierda, la mano izquierda en la vaina y la derecha relajada.\n2. Desenvaina y corta en un solo movimiento controlado y continúa con un corte completo a dos manos, con la postura erguida y la mirada en el oponente imaginario.\n3. Sacude la hoja, envaina despacio sin mirar hacia abajo y mantén el zanshin antes de reiniciar.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Iaido",
+      "description": "1. Ajoelhe em seiza ou fique em pé com a espada no quadril esquerdo, a mão esquerda na bainha e a direita relaxada.\n2. Saque e corte num único movimento controlado e siga com um corte completo a duas mãos, mantendo a postura ereta e o olhar no oponente imaginário.\n3. Sacuda a lâmina, embainhe devagar sem olhar para baixo e mantenha o zanshin antes de recomeçar.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Iaido",
+      "description": "1. Agenouillez-vous en seiza ou tenez-vous debout, sabre à la hanche gauche, main gauche sur le fourreau et main droite détendue.\n2. Dégainez et coupez en un seul mouvement contrôlé, puis enchaînez une coupe complète à deux mains, posture droite et regard sur l’adversaire imaginaire.\n3. Secouez la lame, rengainez lentement sans regarder vers le bas et gardez le zanshin avant de recommencer.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Iaido",
+      "description": "1. Knie im Seiza oder stehe mit dem Schwert an der linken Hüfte, die linke Hand an der Scheide, die rechte Hand locker.\n2. Ziehe und schneide in einer kontrollierten Bewegung und folge mit einem vollen beidhändigen Schnitt, aufrecht und mit Blick auf den gedachten Gegner.\n3. Schüttle die Klinge ab, stecke langsam ein, ohne nach unten zu sehen, und halte Zanshin, bevor du neu beginnst.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Iaido",
+      "description": "1. Inginocchiati in seiza o stai in piedi con la spada al fianco sinistro, la mano sinistra sul fodero e la destra rilassata.\n2. Estrai e taglia in un unico movimento controllato, poi prosegui con un taglio completo a due mani, postura eretta e sguardo sull’avversario immaginario.\n3. Scuoti la lama, rinfodera lentamente senza guardare in basso e mantieni lo zanshin prima di ricominciare.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "居合道",
+      "description": "1. 以正坐跪下或站立，刀在左腰，左手握鞘，右手放松。\n2. 以一个受控动作拔刀并斩击，接着双手完成一次完整斩击，保持上身挺直，目光注视假想对手。\n3. 振去刀上血，眼睛不看下方缓慢纳刀，保持残心后再重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "居合道",
+      "description": "1. 正座または立った姿勢で刀を左腰に差し、左手で鞘を持ち、右手は力を抜きます。\n2. 一つの制御された動きで抜き付け、続けて両手で十分に斬り下ろします。姿勢をまっすぐに保ち、仮想の相手から目を離しません。\n3. 血振りをし、下を見ずにゆっくり納刀し、残心を保ってから次の反復に移ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "이아이도",
+      "description": "1. 정좌로 무릎을 꿇거나 선 자세에서 칼을 왼쪽 허리에 두고 왼손은 칼집을 잡고 오른손은 힘을 뺍니다.\n2. 하나의 통제된 동작으로 뽑으며 베고, 이어서 두 손으로 완전한 베기를 합니다. 자세는 곧게, 시선은 가상의 상대에게 둡니다.\n3. 칼날을 털고 아래를 보지 않고 천천히 칼집에 넣은 뒤 잔심을 유지하고 다시 시작합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "อิไอโด",
+      "description": "1. นั่งเซซะหรือยืน โดยดาบอยู่ที่สะโพกซ้าย มือซ้ายจับฝักและมือขวาผ่อนคลาย\n2. ชักดาบและฟันในจังหวะเดียวที่ควบคุมได้ แล้วตามด้วยการฟันเต็มด้วยสองมือ ลำตัวตั้งตรงและสายตาอยู่ที่คู่ต่อสู้สมมติ\n3. สะบัดใบดาบ เก็บดาบเข้าฝักช้าๆ โดยไม่ก้มมอง และคงซันชินก่อนเริ่มใหม่",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Иайдо",
+      "description": "1. Сядьте в сэйдза или встаньте, меч у левого бедра, левая рука на ножнах, правая расслаблена.\n2. Обнажите меч и нанесите разрез одним контролируемым движением, затем выполните полный рубящий удар двумя руками, сохраняя прямую осанку и взгляд на воображаемом противнике.\n3. Стряхните клинок, медленно вложите меч в ножны, не глядя вниз, и сохраните дзансин перед следующим повтором.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Іайдо",
+      "description": "1. Сядьте в сейдза або встаньте, меч біля лівого стегна, ліва рука на піхвах, права розслаблена.\n2. Оголіть меч і виконайте розріз одним контрольованим рухом, потім завдайте повного рубального удару двома руками, зберігаючи пряму поставу й погляд на уявному супернику.\n3. Струсіть клинок, повільно вкладіть меч у піхви, не дивлячись униз, і збережіть дзансін перед наступним повтором.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

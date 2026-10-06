@@ -1,0 +1,90 @@
+{
+  "id": "41.61",
+  "key": "judo_tsubame_gaeshi",
+  "title": "Tsubame Gaeshi",
+  "description": "1. As a trained partner attempts a foot sweep, lift the attacked foot slightly so the sweep misses.\n2. Bring the same foot around and sweep the partner's sweeping foot in the direction of its travel.\n3. Turn the upper body with the sweep and guide the partner into a side breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tsubame Gaeshi",
+      "description": "1. As a trained partner attempts a foot sweep, lift the attacked foot slightly so the sweep misses.\n2. Bring the same foot around and sweep the partner's sweeping foot in the direction of its travel.\n3. Turn the upper body with the sweep and guide the partner into a side breakfall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Tsubame Gaeshi",
+      "description": "1. Cuando un compañero entrenado intente un barrido de pie, levanta un poco el pie atacado para que el barrido falle.\n2. Lleva ese mismo pie alrededor y barre el pie que barre del compañero en la dirección de su recorrido.\n3. Gira el tronco con el barrido y guía al compañero hasta una caída lateral.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Tsubame Gaeshi",
+      "description": "1. Quando um parceiro treinado tentar uma varrida de pé, levante um pouco o pé atacado para que a varrida falhe.\n2. Leve esse mesmo pé ao redor e varra o pé que varre do parceiro na direção do seu percurso.\n3. Gire o tronco com a varrida e guie o parceiro até uma queda lateral.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Tsubame Gaeshi",
+      "description": "1. Quand un partenaire entraîné tente un balayage, levez légèrement le pied attaqué pour que le balayage échoue.\n2. Ramenez ce même pied autour et balayez son pied balayeur dans le sens de sa course.\n3. Tournez le haut du corps avec le balayage et guidez le partenaire vers une chute latérale.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Tsubame Gaeshi",
+      "description": "1. Wenn ein geübter Partner eine Fußfege versucht, hebe den angegriffenen Fuß leicht an, sodass die Fege ins Leere geht.\n2. Führe denselben Fuß herum und fege den fegenden Fuß des Partners in dessen Bewegungsrichtung.\n3. Drehe den Oberkörper mit der Fege und führe den Partner in einen seitlichen Fall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Tsubame Gaeshi",
+      "description": "1. Quando un compagno esperto tenta una spazzata, solleva leggermente il piede attaccato perché la spazzata vada a vuoto.\n2. Porta lo stesso piede attorno e spazza il piede che spazza del compagno nella direzione della sua traiettoria.\n3. Ruota il busto con la spazzata e guida il compagno in una caduta laterale.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "燕返",
+      "description": "1. 训练有素的搭档尝试扫脚时，稍抬起被攻击的脚，使其扫空。\n2. 同一只脚绕回，顺其运动方向扫搭档的扫腿脚。\n3. 随扫腿转动上身，引导搭档侧倒。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "燕返",
+      "description": "1. 熟練した相手が足払いをかけてきたら、狙われた足を少し上げて空振りさせます。\n2. 同じ足を回して、相手の払ってきた足をその動く方向へ払い返します。\n3. 払いとともに上体を回し、相手を横受身へ導きます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "츠바메 가에시",
+      "description": "1. 숙련된 파트너가 발 쓸기를 시도하면 공격받는 발을 약간 들어 헛치게 합니다.\n2. 같은 발을 돌려 파트너의 쓸던 발을 그 움직임 방향으로 되쓸어냅니다.\n3. 쓸기와 함께 상체를 돌려 파트너를 옆 낙법으로 이끕니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "สึบาเมะกาเอชิ",
+      "description": "1. เมื่อคู่ฝึกที่ฝึกมาแล้วพยายามกวาดเท้า ให้ยกเท้าที่ถูกโจมตีขึ้นเล็กน้อยให้กวาดพลาด\n2. นำเท้าเดียวกันอ้อมกลับมาและกวาดเท้าที่กวาดของคู่ฝึกไปตามทิศทางที่มันเคลื่อน\n3. หมุนลำตัวพร้อมการกวาดและนำคู่ฝึกให้ล้มตะแคง",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Цубамэ-гаэси",
+      "description": "1. Когда подготовленный партнёр пытается подсечку, слегка поднимите атакуемую стопу, чтобы подсечка прошла мимо.\n2. Проведите ту же стопу по кругу и подсеките подсекающую стопу партнёра по ходу её движения.\n3. Разверните корпус вместе с подсечкой и направьте партнёра в страховку на бок.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Цубаме-гаесі",
+      "description": "1. Коли підготовлений партнер намагається підсічку, трохи підніміть атаковану стопу, щоб підсічка пройшла повз.\n2. Проведіть ту саму стопу по колу й підсічіть підсікаючу стопу партнера за ходом її руху.\n3. Розверніть тулуб разом із підсічкою й спрямуйте партнера у страховку на бік.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

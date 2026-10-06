@@ -1,0 +1,90 @@
+{
+  "id": "13.74",
+  "key": "functional_lateral_lunge",
+  "title": "Lateral Lunge",
+  "description": "1. Stand tall with the feet together or hip-width apart and toes pointing forward.\n2. Step wide to one side, bend that knee, and push the hips back while the opposite leg stays long.\n3. Drive through the bent leg to return to center, then repeat on the other side.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lateral Lunge",
+      "description": "1. Stand tall with the feet together or hip-width apart and toes pointing forward.\n2. Step wide to one side, bend that knee, and push the hips back while the opposite leg stays long.\n3. Drive through the bent leg to return to center, then repeat on the other side.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Zancada lateral",
+      "description": "1. Ponte erguido con los pies juntos o al ancho de las caderas y las puntas mirando al frente.\n2. Da un paso amplio hacia un lado, flexiona esa rodilla y lleva las caderas atrás mientras la pierna contraria permanece estirada.\n3. Empuja con la pierna flexionada para volver al centro y repite hacia el otro lado.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Afundo lateral",
+      "description": "1. Fique em pé, ereto, com os pés juntos ou na largura do quadril e as pontas voltadas para a frente.\n2. Dê um passo largo para um lado, dobre esse joelho e leve o quadril para trás enquanto a perna oposta permanece estendida.\n3. Empurre com a perna dobrada para voltar ao centro e repita do outro lado.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Fente latérale",
+      "description": "1. Tenez-vous droit, pieds joints ou écartés à largeur de hanches, orteils vers l’avant.\n2. Faites un grand pas sur le côté, fléchissez ce genou et poussez les hanches vers l’arrière pendant que l’autre jambe reste allongée.\n3. Poussez sur la jambe fléchie pour revenir au centre, puis répétez de l’autre côté.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Seitlicher Ausfallschritt",
+      "description": "1. Stehe aufrecht mit geschlossenen oder hüftbreiten Füßen, die Zehen zeigen nach vorne.\n2. Mache einen weiten Schritt zur Seite, beuge dieses Knie und schiebe die Hüfte nach hinten, während das andere Bein lang bleibt.\n3. Drücke dich über das gebeugte Bein zurück zur Mitte und wiederhole zur anderen Seite.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Affondo laterale",
+      "description": "1. Resta ben eretto con i piedi uniti o alla larghezza delle anche e le punte rivolte in avanti.\n2. Fai un ampio passo di lato, piega quel ginocchio e porta le anche indietro mentre la gamba opposta resta distesa.\n3. Spingi con la gamba piegata per tornare al centro, poi ripeti dall’altro lato.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "侧弓步",
+      "description": "1. 站直，双脚并拢或与髋同宽，脚尖朝前。\n2. 向一侧大步迈出，弯曲该侧膝盖并将髋部向后推，另一条腿保持伸直。\n3. 用弯曲的腿发力回到中间，然后向另一侧重复。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "サイドランジ",
+      "description": "1. 足をそろえるか腰幅に開き、つま先を前に向けてまっすぐ立ちます。\n2. 片側へ大きく踏み出してその膝を曲げ、反対の脚を伸ばしたまま腰を後ろへ引きます。\n3. 曲げた脚で押して中央に戻り、反対側も行います。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "사이드 런지",
+      "description": "1. 발을 모으거나 골반 너비로 벌리고 발끝을 앞으로 향한 채 똑바로 섭니다.\n2. 한쪽으로 넓게 내딛어 그 무릎을 굽히고 반대 다리는 길게 편 채 엉덩이를 뒤로 보냅니다.\n3. 굽힌 다리로 밀어 가운데로 돌아온 뒤 반대쪽으로 반복합니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ลันจ์ด้านข้าง",
+      "description": "1. ยืนตัวตรง เท้าชิดกันหรือแยกกว้างเท่าสะโพก และปลายเท้าชี้ไปด้านหน้า\n2. ก้าวกว้างไปด้านข้าง งอเข่าข้างนั้นและดันสะโพกไปด้านหลัง ขณะที่ขาอีกข้างเหยียดยาว\n3. ดันผ่านขาที่งอเพื่อกลับมาตรงกลาง แล้วทำซ้ำอีกข้าง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Боковой выпад",
+      "description": "1. Встаньте прямо, стопы вместе или на ширине таза, носки смотрят вперёд.\n2. Сделайте широкий шаг в сторону, согните это колено и отведите таз назад, сохраняя другую ногу прямой.\n3. Оттолкнитесь согнутой ногой, вернитесь в центр и повторите в другую сторону.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Бічний випад",
+      "description": "1. Станьте рівно, стопи разом або на ширині таза, носки дивляться вперед.\n2. Зробіть широкий крок убік, зігніть це коліно й відведіть таз назад, зберігаючи іншу ногу прямою.\n3. Відштовхніться зігнутою ногою, поверніться в центр і повторіть в інший бік.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

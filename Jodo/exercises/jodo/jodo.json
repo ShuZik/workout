@@ -1,0 +1,90 @@
+{
+  "id": "64.1",
+  "key": "jodo_main",
+  "title": "Jodo",
+  "description": "1. Stand in natural posture holding the 128 cm jo at your side, eyes on the imagined swordsman.\n2. Link several kihon in sequence, sliding the hands along the jo so that strikes and thrusts flow from both ends without pausing.\n3. Finish each action with the jo tip controlling the opponent's centerline, then return to natural posture and repeat.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "jodo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jodo",
+      "description": "1. Stand in natural posture holding the 128 cm jo at your side, eyes on the imagined swordsman.\n2. Link several kihon in sequence, sliding the hands along the jo so that strikes and thrusts flow from both ends without pausing.\n3. Finish each action with the jo tip controlling the opponent's centerline, then return to natural posture and repeat.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Jodo",
+      "description": "1. Ponte en postura natural con el jo de 128 cm al costado y la mirada en el espadachín imaginario.\n2. Encadena varios kihon, deslizando las manos por el jo para que golpes y estocadas fluyan desde ambos extremos sin pausas.\n3. Termina cada acción con la punta del jo controlando la línea central del oponente, vuelve a la postura natural y repite.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Jodo",
+      "description": "1. Fique em postura natural segurando o jo de 128 cm ao lado, olhar no espadachim imaginário.\n2. Encadeie vários kihon, deslizando as mãos pelo jo para que golpes e estocadas fluam das duas pontas sem pausas.\n3. Termine cada ação com a ponta do jo controlando a linha central do oponente, volte à postura natural e repita.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Jodo",
+      "description": "1. Tenez-vous en posture naturelle, le jo de 128 cm le long du corps, regard sur le sabreur imaginaire.\n2. Enchaînez plusieurs kihon en faisant glisser les mains le long du jo pour que frappes et estocs partent des deux extrémités sans pause.\n3. Terminez chaque action pointe du jo sur la ligne centrale adverse, revenez en posture naturelle et recommencez.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Jodo",
+      "description": "1. Stehe in natürlicher Haltung, den 128 cm langen Jo seitlich, Blick auf den gedachten Schwertkämpfer.\n2. Verbinde mehrere Kihon, lass die Hände am Jo gleiten, damit Schläge und Stöße ohne Pause von beiden Enden kommen.\n3. Beende jede Aktion mit der Jo-Spitze auf der Mittellinie des Gegners, kehre in die natürliche Haltung zurück und wiederhole.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Jodo",
+      "description": "1. Stai in postura naturale con il jo da 128 cm al fianco, sguardo sullo spadaccino immaginario.\n2. Concatena diversi kihon facendo scorrere le mani lungo il jo, così che colpi e affondi partano da entrambe le estremità senza pause.\n3. Concludi ogni azione con la punta del jo sulla linea centrale dell’avversario, torna in postura naturale e ripeti.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "杖道",
+      "description": "1. 自然体站立，128厘米的杖置于体侧，目视假想的持刀者。\n2. 连续衔接多个基本动作，双手沿杖滑动，使打击与突刺从杖的两端流畅发出而不停顿。\n3. 每个动作结束时杖尖控制对手中线，然后回到自然体并重复。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "杖道",
+      "description": "1. 128cmの杖を体側に持って自然体で立ち、仮想の太刀の相手を見ます。\n2. 杖に沿って手を滑らせながら複数の基本を連続させ、両端から打ち・突きを途切れなく出します。\n3. 各動作の終わりは杖先で相手の正中線を制し、自然体に戻って繰り返します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "조도",
+      "description": "1. 128cm 조를 옆에 들고 자연체로 서서 가상의 검사를 바라봅니다.\n2. 손을 조를 따라 미끄러뜨리며 여러 기본 동작을 이어, 양 끝에서 치기와 찌르기가 끊김 없이 나오게 합니다.\n3. 각 동작은 조 끝으로 상대의 중심선을 제압하며 마치고, 자연체로 돌아와 반복합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "โจโด",
+      "description": "1. ยืนท่าธรรมชาติ ถือไม้โจยาว 128 ซม. ไว้ข้างตัว สายตามองนักดาบสมมติ\n2. ต่อคิฮงหลายท่าเข้าด้วยกัน เลื่อนมือไปตามไม้โจเพื่อให้การตีและการแทงออกจากทั้งสองปลายอย่างต่อเนื่อง\n3. จบแต่ละท่าโดยปลายไม้โจควบคุมแนวกึ่งกลางของคู่ต่อสู้ แล้วกลับสู่ท่าธรรมชาติและทำซ้ำ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Дзёдо",
+      "description": "1. Встаньте в естественную стойку, держа дзё длиной 128 см сбоку, взгляд на воображаемом мечнике.\n2. Соединяйте несколько кихон подряд, скользя руками по дзё, чтобы удары и уколы шли с обоих концов без пауз.\n3. Завершайте каждое действие, контролируя концом дзё центральную линию противника, затем вернитесь в естественную стойку и повторите.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Дзьодо",
+      "description": "1. Станьте в природну стійку, тримаючи дзьо завдовжки 128 см збоку, погляд на уявному мечникові.\n2. З’єднуйте кілька кіхон поспіль, ковзаючи руками по дзьо, щоб удари й уколи йшли з обох кінців без пауз.\n3. Завершуйте кожну дію, контролюючи кінцем дзьо центральну лінію суперника, потім поверніться в природну стійку й повторіть.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

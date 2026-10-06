@@ -1,0 +1,90 @@
+{
+  "id": "54.31",
+  "key": "fencing_foil_circular_sixte_octave",
+  "title": "Foil: Circular Sixte to Octave",
+  "description": "1. With foils and full kit, start engaged in sixte; the partner disengages to the inside line and then drops to the low outside line.\n2. Take a circular parry of sixte against the disengage, then a semi-circular parry to octave against the low attack, keeping both actions small.\n3. Riposte from octave, recover to en garde, and swap roles; slow down whenever a parry is missed.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Sequences",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Foil: Circular Sixte to Octave",
+      "description": "1. With foils and full kit, start engaged in sixte; the partner disengages to the inside line and then drops to the low outside line.\n2. Take a circular parry of sixte against the disengage, then a semi-circular parry to octave against the low attack, keeping both actions small.\n3. Riposte from octave, recover to en garde, and swap roles; slow down whenever a parry is missed.",
+      "sectionTitle": "Partner Sequences"
+    },
+    "es": {
+      "title": "Florete: contra de sexta y octava",
+      "description": "1. Con florete y equipo completo, comienza enganchado en sexta; el compañero desengancha a la línea interior y luego baja a la línea baja exterior.\n2. Haz una parada circular de sexta contra el desenganche y luego una semicircular a octava contra el ataque bajo, con ambas acciones pequeñas.\n3. Responde desde octava, vuelve a guardia y cambia papeles; ralentiza cada vez que falle una parada.",
+      "sectionTitle": "Secuencias en pareja"
+    },
+    "pt": {
+      "title": "Florete: contra de sexta e oitava",
+      "description": "1. Com florete e equipamento completo, comece engajado em sexta; o parceiro desengaja para a linha interna e depois desce para a baixa externa.\n2. Faça parada circular de sexta contra o desengajamento e depois semicircular para oitava contra o ataque baixo, ambas pequenas.\n3. Responda de oitava, volte à guarda e troque papéis; desacelere sempre que falhar uma parada.",
+      "sectionTitle": "Sequências em dupla"
+    },
+    "fr": {
+      "title": "Fleuret : contre de sixte et octave",
+      "description": "1. Au fleuret, équipés, engagés en sixte ; le partenaire dégage en ligne intérieure puis descend en ligne basse extérieure.\n2. Prenez un contre de sixte sur le dégagement, puis une parade semi-circulaire d’octave sur l’attaque basse, actions petites.\n3. Ripostez d’octave, revenez en garde et inversez ; ralentissez dès qu’une parade manque.",
+      "sectionTitle": "Enchaînements à deux"
+    },
+    "de": {
+      "title": "Florett: Kreissixt zu Oktav",
+      "description": "1. Mit Florett und voller Ausrüstung in Sixtbindung beginnen; der Partner umgeht in die innere Linie und senkt dann in die äußere tiefe Linie.\n2. Nimm eine Kreisparade Sixt gegen die Umgehung, dann eine Halbkreisparade Oktav gegen den tiefen Angriff, beide klein.\n3. Ripostiere aus Oktav, kehre zurück und tauscht; verlangsame, sobald eine Parade misslingt.",
+      "sectionTitle": "Partnerfolgen"
+    },
+    "it": {
+      "title": "Fioretto: contro di sesta e ottava",
+      "description": "1. Con fioretto e attrezzatura completa, parti legati in sesta; il compagno cava in linea interna e poi scende in linea bassa esterna.\n2. Para di contro di sesta sulla cavazione, poi di mezzo cerchio in ottava sull’attacco basso, mantenendo piccole le azioni.\n3. Rispondi d’ottava, torna in guardia e scambiate; rallenta quando una parata non riesce.",
+      "sectionTitle": "Sequenze in coppia"
+    },
+    "zh-Hans": {
+      "title": "花剑：第六位画圆接第八位",
+      "description": "1. 使用花剑并穿戴全套护具，从第六位接剑开始；同伴转移到内侧线后再下落到外侧低线。\n2. 对转移做第六位画圆防守，再对低线进攻做半圆防守到第八位，两个动作都要小。\n3. 从第八位还击，恢复实战姿势后交换角色；防守失误时放慢速度。",
+      "sectionTitle": "双人组合"
+    },
+    "ja": {
+      "title": "フルーレ：コントル・シクストからオクターブ",
+      "description": "1. フルーレと全装備でシクストのアンガージュから始め、相手は内側ラインへデガジェし、続いて外側の低いラインへ下ろします。\n2. デガジェにはシクストのサーキュラー・パラード、低い攻撃にはオクターブへのセミサーキュラー・パラードを、どちらも小さく行います。\n3. オクターブからリポストし、アンガルドに戻って交代します。パラードを外したら速度を落とします。",
+      "sectionTitle": "ペアシークエンス"
+    },
+    "ko": {
+      "title": "플뢰레: 원형 식스트에서 옥타브",
+      "description": "1. 플뢰레와 전체 장비로 식스트 인게이지에서 시작하고, 파트너는 안쪽 라인으로 디스인게이지한 뒤 바깥쪽 낮은 라인으로 내립니다.\n2. 디스인게이지에는 식스트 원형 패리, 낮은 공격에는 옥타브 반원 패리를 하며 두 동작 모두 작게 합니다.\n3. 옥타브에서 리포스트하고 앙가르드로 돌아와 역할을 바꾸며, 패리를 놓치면 속도를 줄입니다.",
+      "sectionTitle": "파트너 시퀀스"
+    },
+    "th": {
+      "title": "ฟอยล์: ปัดวงกลมซิกซ์ต์ไปอ็อกเทฟ",
+      "description": "1. ใช้ดาบฟอยล์และชุดป้องกันครบ เริ่มจากแตะดาบที่ซิกซ์ต์ คู่ฝึกดิสเอนเกจเข้าแนวในแล้วลดลงสู่แนวต่ำด้านนอก\n2. ปัดวงกลมซิกซ์ต์รับการดิสเอนเกจ แล้วปัดครึ่งวงลงอ็อกเทฟรับการโจมตีต่ำ โดยทั้งสองจังหวะเล็ก\n3. โต้กลับจากอ็อกเทฟ กลับสู่อองการ์ดแล้วสลับบทบาท ช้าลงเมื่อปัดพลาด",
+      "sectionTitle": "ลำดับท่าคู่"
+    },
+    "ru": {
+      "title": "Рапира: круговая шестая и восьмая",
+      "description": "1. С рапирой в полной экипировке начните из соединения в шестой; партнёр переводит во внутреннюю линию, затем опускает остриё в нижнюю наружную.\n2. Против перевода возьмите круговую шестую, затем против нижней атаки полукруговую восьмую, оба действия малые.\n3. Ответьте из восьмой, вернитесь в стойку и поменяйтесь ролями; при пропущенной защите снижайте скорость.",
+      "sectionTitle": "Связки в паре"
+    },
+    "uk": {
+      "title": "Рапіра: коловий шостий і восьмий",
+      "description": "1. Із рапірою в повному спорядженні почніть зі з’єднання в шостій; партнер переводить у внутрішню лінію, потім опускає вістря в нижню зовнішню.\n2. Проти переведення візьміть коловий шостий, потім проти нижньої атаки півколовий восьмий, обидві дії малі.\n3. Відповідайте з восьмого, поверніться в стійку й поміняйтеся ролями; за пропущеного захисту знижуйте швидкість.",
+      "sectionTitle": "Зв'язки в парі"
+    }
+  }
+}

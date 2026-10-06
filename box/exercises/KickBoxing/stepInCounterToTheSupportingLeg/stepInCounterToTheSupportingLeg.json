@@ -1,0 +1,87 @@
+{
+  "id": "3.47",
+  "key": "kick_boxing_step_in_low_kick_counter",
+  "title": "Step-In Counter to the Supporting Leg",
+  "description": "1. The feeder throws a slow roundhouse kick to the body while both partners wear shin guards and agree on light contact.\n2. The defender steps inside the kick, closing distance and covering the body with the forearms so the kick lands without power.\n3. From close range the defender delivers a light low kick to the feeder's supporting thigh, then both reset and swap roles.",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Defense",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Step-In Counter to the Supporting Leg",
+      "description": "1. The feeder throws a slow roundhouse kick to the body while both partners wear shin guards and agree on light contact.\n2. The defender steps inside the kick, closing distance and covering the body with the forearms so the kick lands without power.\n3. From close range the defender delivers a light low kick to the feeder's supporting thigh, then both reset and swap roles.",
+      "sectionTitle": "Defense"
+    },
+    "es": {
+      "title": "Entrada y contraataque a la pierna de apoyo",
+      "description": "1. El atacante lanza una patada circular lenta al cuerpo; ambos llevan espinilleras y acuerdan contacto ligero.\n2. El defensor entra dentro de la patada, acorta la distancia y cubre el cuerpo con los antebrazos para que la patada llegue sin potencia.\n3. Desde corta distancia lanza una patada baja suave al muslo de apoyo del atacante; luego ambos se recolocan e intercambian papeles.",
+      "sectionTitle": "Defensa"
+    },
+    "pt": {
+      "title": "Entrada e contra-ataque na perna de apoio",
+      "description": "1. O atacante lança um chute circular lento no corpo; ambos usam caneleiras e combinam contato leve.\n2. O defensor entra por dentro do chute, encurta a distância e cobre o corpo com os antebraços para que o chute chegue sem força.\n3. Da curta distância aplica um low kick leve na coxa de apoio do atacante; depois ambos se reposicionam e trocam os papéis.",
+      "sectionTitle": "Defesa"
+    },
+    "fr": {
+      "title": "Entrée et contre sur la jambe d’appui",
+      "description": "1. Le partenaire lance un circulaire lent au corps ; tous deux portent des protège-tibias et conviennent d’un contact léger.\n2. Le défenseur entre à l’intérieur du coup de pied, réduit la distance et couvre le corps avec les avant-bras pour que le coup arrive sans puissance.\n3. À courte distance, il place un low kick léger sur la cuisse d’appui du partenaire, puis tous deux se replacent et inversent les rôles.",
+      "sectionTitle": "Défense"
+    },
+    "de": {
+      "title": "Eintreten mit Konter aufs Standbein",
+      "description": "1. Der Angreifer schlägt einen langsamen Halbkreistritt zum Körper; beide tragen Schienbeinschützer und vereinbaren leichten Kontakt.\n2. Der Verteidiger tritt in den Tritt hinein, verkürzt die Distanz und deckt den Körper mit den Unterarmen, sodass der Tritt kraftlos ankommt.\n3. Aus kurzer Distanz setzt er einen leichten Lowkick auf den Oberschenkel des Standbeins; danach neu ansetzen und Rollen tauschen.",
+      "sectionTitle": "Verteidigung"
+    },
+    "it": {
+      "title": "Entrata e contro sulla gamba d’appoggio",
+      "description": "1. Chi attacca porta un calcio circolare lento al corpo; entrambi indossano parastinchi e concordano un contatto leggero.\n2. Il difensore entra dentro il calcio, accorcia la distanza e copre il corpo con gli avambracci così che il calcio arrivi senza potenza.\n3. Dalla corta distanza porta un low kick leggero alla coscia d’appoggio dell’attaccante, poi entrambi si riposizionano e scambiano i ruoli.",
+      "sectionTitle": "Difesa"
+    },
+    "zh-Hans": {
+      "title": "上步截踢接支撑腿低扫",
+      "description": "1. 喂靶者缓慢扫踢躯干，双方都戴护腿并约定轻接触。\n2. 防守者上步进入踢腿内侧，缩短距离并用前臂护住身体，使踢腿失去力量。\n3. 防守者在近距离轻扫喂靶者支撑腿的大腿，然后双方复位并交换角色。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "踏み込んで軸足へのローキック",
+      "description": "1. 攻撃役がボディへゆっくり回し蹴りを出します。両者ともすね当てを着け、軽い接触で合意します。\n2. 防御役は蹴りの内側へ踏み込んで距離を詰め、前腕で体を覆い、蹴りの威力を殺します。\n3. 近い距離から攻撃役の軸足の太ももへ軽いローキックを返し、両者構え直して役割を交代します。",
+      "sectionTitle": "ディフェンス"
+    },
+    "ko": {
+      "title": "파고들어 지지 다리 로킥 카운터",
+      "description": "1. 공격자는 몸통으로 느린 돌려차기를 차며, 두 사람 모두 정강이 보호대를 착용하고 가벼운 접촉을 약속합니다.\n2. 방어자는 킥 안쪽으로 들어가 거리를 좁히고 전완으로 몸을 덮어 킥의 힘을 없앱니다.\n3. 가까운 거리에서 공격자의 지지 다리 허벅지에 가벼운 로킥을 차고, 두 사람 모두 다시 자세를 잡고 역할을 바꿉니다.",
+      "sectionTitle": "방어"
+    },
+    "th": {
+      "title": "สาวเข้าแล้วเตะขาหลักของคู่",
+      "description": "1. ผู้ป้อนเตะเหวี่ยงลำตัวช้า ๆ ทั้งคู่สวมสนับแข้งและตกลงสัมผัสเบา\n2. ผู้ป้องกันก้าวเข้าด้านในลูกเตะ ตัดระยะ และใช้แขนท่อนล่างป้องกันลำตัวให้ลูกเตะหมดแรง\n3. จากระยะประชิด เตะต่ำเบา ๆ ไปที่ต้นขาของขาที่ยืนของผู้ป้อน แล้วทั้งคู่ตั้งท่าใหม่และสลับบทบาท",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Вход и контрудар по опорной ноге",
+      "description": "1. Атакующий медленно наносит круговой удар ногой в корпус; оба в щитках и договариваются о лёгком контакте.\n2. Защищающийся входит внутрь удара, сокращая дистанцию и закрывая корпус предплечьями, чтобы удар пришёл без силы.\n3. С ближней дистанции он наносит лёгкий лоу-кик по бедру опорной ноги атакующего, затем оба возвращаются в стойку и меняются ролями.",
+      "sectionTitle": "Защита"
+    },
+    "uk": {
+      "title": "Вхід і контрудар по опорній нозі",
+      "description": "1. Атакувальник повільно завдає колового удару ногою в корпус; обидва в щитках і домовляються про легкий контакт.\n2. Той, хто захищається, входить усередину удару, скорочуючи дистанцію та закриваючи корпус передпліччями, щоб удар прийшов без сили.\n3. З ближньої дистанції він завдає легкого лоу-кіку по стегну опорної ноги атакувальника, потім обидва повертаються в стійку й міняються ролями.",
+      "sectionTitle": "Захист"
+    }
+  }
+}

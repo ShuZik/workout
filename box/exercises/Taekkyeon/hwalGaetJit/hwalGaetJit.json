@@ -1,0 +1,87 @@
+{
+  "id": "99.3",
+  "key": "taekkyeon_hwal_gaet_jit",
+  "title": "Hwal-gaet-jit",
+  "description": "1. Begin pum-balgi stepping with relaxed shoulders and open hands.\n2. Swing the arms in wide, flowing arcs in front of and beside the body, timing each swing with the stepping rhythm.\n3. Use the swings to cover, deflect, or feint while the knees stay soft, then return the hands to a light guard.",
+  "colorType": "green",
+  "workoutType": "taekkyeon",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Hwal-gaet-jit",
+      "description": "1. Begin pum-balgi stepping with relaxed shoulders and open hands.\n2. Swing the arms in wide, flowing arcs in front of and beside the body, timing each swing with the stepping rhythm.\n3. Use the swings to cover, deflect, or feint while the knees stay soft, then return the hands to a light guard.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Hwal-gaet-jit",
+      "description": "1. Comienza el paso pum-balgi con los hombros relajados y las manos abiertas.\n2. Balancea los brazos en arcos amplios y fluidos delante y al lado del cuerpo, sincronizando cada balanceo con el ritmo del paso.\n3. Usa los balanceos para cubrir, desviar o fintar con las rodillas blandas y vuelve las manos a una guardia ligera.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Hwal-gaet-jit",
+      "description": "1. Comece o passo pum-balgi com ombros relaxados e mãos abertas.\n2. Balance os braços em arcos amplos e fluidos à frente e ao lado do corpo, sincronizando cada balanço com o ritmo dos passos.\n3. Use os balanços para cobrir, desviar ou fintar com os joelhos soltos e volte as mãos a uma guarda leve.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Hwal-gaet-jit",
+      "description": "1. Commencez le pas pum-balgi, épaules relâchées et mains ouvertes.\n2. Balancez les bras en larges arcs fluides devant et sur les côtés du corps, en accord avec le rythme des pas.\n3. Utilisez les balancements pour couvrir, dévier ou feinter, genoux souples, puis revenez en garde légère.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Hwal-gaet-jit",
+      "description": "1. Mit lockeren Schultern und offenen Händen Pum-Balgi-Schritte beginnen.\n2. Die Arme in weiten, fließenden Bögen vor und neben dem Körper schwingen, jeden Schwung im Schrittrhythmus.\n3. Die Schwünge zum Abdecken, Ablenken oder Täuschen nutzen, Knie weich, dann in eine leichte Deckung zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Hwal-gaet-jit",
+      "description": "1. Inizia il passo pum-balgi con spalle rilassate e mani aperte.\n2. Fai oscillare le braccia in archi ampi e fluidi davanti e ai lati del corpo, a tempo con il ritmo dei passi.\n3. Usa le oscillazioni per coprire, deviare o fintare con ginocchia morbide, poi torna in una guardia leggera.",
+      "sectionTitle": "Fondamentali"
+    },
+    "zh-Hans": {
+      "title": "挥臂（활갯짓）",
+      "description": "1. 以放松的肩膀和张开的手开始品步。\n2. 双臂在身前和体侧划出宽大流畅的弧线，每次挥臂与步伐节奏配合。\n3. 利用挥臂进行遮挡、拨开或假动作，膝盖保持柔软，然后双手回到轻松的防守位。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ファルゲッチッ（腕振り）",
+      "description": "1. 肩の力を抜き、手を開いてプムバルギを始めます。\n2. 腕を体の前と横で大きく流れるような弧を描いて振り、歩法のリズムに合わせます。\n3. 腕の振りでかばう・そらす・フェイントをかけ、膝は柔らかいまま、手を軽い構えに戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "활갯짓",
+      "description": "1. 어깨에 힘을 빼고 손을 편 채 품밟기를 시작합니다.\n2. 팔을 몸 앞과 옆으로 크고 유연한 호를 그리며 휘두르고, 휘두를 때마다 품밟기 리듬에 맞춥니다.\n3. 활갯짓으로 막고 흘리거나 속이며 무릎은 부드럽게 유지하고, 손을 가벼운 겨눔새로 되돌립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ฮวัลแกจิท",
+      "description": "1. เริ่มก้าวพุมบัลกีโดยไหล่ผ่อนคลายและแบมือ\n2. แกว่งแขนเป็นวงโค้งกว้างและลื่นไหลด้านหน้าและข้างลำตัว จับจังหวะการแกว่งกับการก้าว\n3. ใช้การแกว่งเพื่อปิดกั้น เบี่ยง หรือหลอก เข่ายังนุ่ม แล้วนำมือกลับสู่การ์ดเบาๆ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Хваль-гэт-чит",
+      "description": "1. Начните шаги пум-бальги с расслабленными плечами и открытыми ладонями.\n2. Махайте руками широкими плавными дугами перед корпусом и по бокам, согласуя каждый мах с ритмом шагов.\n3. Используйте махи для прикрытия, отвода или финта при мягких коленях, затем верните руки в лёгкую защиту.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Хваль-гет-чіт",
+      "description": "1. Почніть кроки пум-бальгі з розслабленими плечима й відкритими долонями.\n2. Махайте руками широкими плавними дугами перед корпусом і з боків, узгоджуючи кожен мах із ритмом кроків.\n3. Використовуйте махи для прикриття, відведення або фінту за м’яких колін, потім поверніть руки в легкий захист.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

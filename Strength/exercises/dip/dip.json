@@ -1,0 +1,90 @@
+{
+  "id": "13.85",
+  "key": "calisthenics_dip",
+  "title": "Dip",
+  "description": "1. Support the body on parallel bars with straight arms, shoulders pressed down, and legs clear of the floor.\n2. Bend the elbows back and lower only as far as the shoulders remain stable and pain-free.\n3. Press the bars down to return to straight arms without shrugging or swinging.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dip",
+      "description": "1. Support the body on parallel bars with straight arms, shoulders pressed down, and legs clear of the floor.\n2. Bend the elbows back and lower only as far as the shoulders remain stable and pain-free.\n3. Press the bars down to return to straight arms without shrugging or swinging.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Fondos en paralelas",
+      "description": "1. Sostén el cuerpo en barras paralelas con los brazos estirados, los hombros hacia abajo y las piernas sin tocar el suelo.\n2. Flexiona los codos hacia atrás y baja solo hasta donde los hombros sigan estables y sin dolor.\n3. Empuja las barras hacia abajo para volver a estirar los brazos sin encoger los hombros ni balancearte.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Mergulho nas paralelas",
+      "description": "1. Sustente o corpo nas barras paralelas com os braços estendidos, os ombros para baixo e as pernas fora do chão.\n2. Dobre os cotovelos para trás e desça apenas até onde os ombros permanecerem estáveis e sem dor.\n3. Empurre as barras para baixo para voltar a estender os braços sem encolher os ombros nem balançar.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Dips aux barres parallèles",
+      "description": "1. Soutenez le corps sur des barres parallèles, bras tendus, épaules abaissées et jambes décollées du sol.\n2. Fléchissez les coudes vers l’arrière et descendez seulement tant que les épaules restent stables et sans douleur.\n3. Poussez les barres vers le bas pour revenir bras tendus sans hausser les épaules ni vous balancer.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Barrenstütz",
+      "description": "1. Stütze dich mit gestreckten Armen auf einen Barren, Schultern nach unten gedrückt und Beine frei vom Boden.\n2. Beuge die Ellbogen nach hinten und senke dich nur so weit, wie die Schultern stabil und schmerzfrei bleiben.\n3. Drücke die Holme nach unten, um zu gestreckten Armen zurückzukehren, ohne die Schultern hochzuziehen oder zu schwingen.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Dip alle parallele",
+      "description": "1. Sostieni il corpo sulle parallele a braccia tese, con le spalle abbassate e le gambe sollevate da terra.\n2. Piega i gomiti all’indietro e scendi solo finché le spalle restano stabili e senza dolore.\n3. Spingi le parallele verso il basso per tornare a braccia tese senza alzare le spalle né oscillare.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "双杠臂屈伸",
+      "description": "1. 双臂伸直撑在双杠上，肩部下沉，双腿离开地面。\n2. 肘部向后弯曲，仅下降到肩部仍保持稳定且无痛的位置。\n3. 向下压杠，回到手臂伸直，不要耸肩或摆荡身体。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ディップス",
+      "description": "1. 平行棒で腕を伸ばして体を支え、肩を下げ、脚を床から離します。\n2. 肘を後ろに曲げ、肩が安定して痛みのない範囲までだけ下ります。\n3. 肩をすくめたり体を揺らしたりせずに、バーを押し下げて腕を伸ばした姿勢に戻ります。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "딥스",
+      "description": "1. 평행봉에서 팔을 편 채 몸을 지지하고 어깨를 끌어내리며 다리는 바닥에서 뗍니다.\n2. 팔꿈치를 뒤로 굽혀 어깨가 안정적이고 통증이 없는 범위까지만 내려갑니다.\n3. 어깨를 으쓱하거나 몸을 흔들지 않고 봉을 아래로 눌러 팔을 편 자세로 돌아옵니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ดิปบนบาร์คู่",
+      "description": "1. ค้ำตัวบนบาร์คู่ด้วยแขนตรง กดไหล่ลง และยกขาพ้นพื้น\n2. งอศอกไปด้านหลังและลดตัวลงเพียงเท่าที่ไหล่ยังมั่นคงและไม่เจ็บ\n3. กดบาร์ลงเพื่อกลับสู่แขนตรงโดยไม่ยักไหล่หรือแกว่งตัว",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Отжимания на брусьях",
+      "description": "1. Обопритесь на параллельные брусья прямыми руками, опустив плечи и оторвав ноги от пола.\n2. Сгибайте локти назад и опускайтесь лишь настолько, насколько плечи остаются стабильными и без боли.\n3. Давите на брусья вниз, возвращаясь к прямым рукам, не поднимая плечи и не раскачиваясь.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Віджимання на брусах",
+      "description": "1. Обіпріться на паралельні бруси прямими руками, опустивши плечі й відірвавши ноги від підлоги.\n2. Згинайте лікті назад і опускайтеся лише настільки, наскільки плечі лишаються стабільними й без болю.\n3. Тисніть на бруси вниз, повертаючись до прямих рук, не піднімаючи плечей і не розгойдуючись.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "Taido",
+    "id": "100",
+    "icon": "Taido/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Taido",
+    "workoutType": "taido",
+    "translations": {
+      "en": {
+        "title": "Taido"
+      },
+      "es": {
+        "title": "Taido"
+      },
+      "pt": {
+        "title": "Taidô"
+      },
+      "fr": {
+        "title": "Taido"
+      },
+      "de": {
+        "title": "Taidō"
+      },
+      "it": {
+        "title": "Taido"
+      },
+      "zh-Hans": {
+        "title": "躰道"
+      },
+      "ja": {
+        "title": "躰道"
+      },
+      "ko": {
+        "title": "타이도"
+      },
+      "th": {
+        "title": "ไทโด"
+      },
+      "ru": {
+        "title": "Тайдо"
+      },
+      "uk": {
+        "title": "Тайдо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Taido/exercises/taido/Icon.png",
+      "json": "Taido/exercises/taido/taido.json"
+    },
+    {
+      "icon": "Taido/exercises/unsokuHappo/Icon.png",
+      "json": "Taido/exercises/unsokuHappo/unsokuHappo.json"
+    },
+    {
+      "icon": "Taido/exercises/jissen/Icon.png",
+      "json": "Taido/exercises/jissen/jissen.json"
+    },
+    {
+      "icon": "Taido/exercises/tenkai/Icon.png",
+      "json": "Taido/exercises/tenkai/tenkai.json"
+    }
+  ]
+}

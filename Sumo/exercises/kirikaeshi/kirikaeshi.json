@@ -1,0 +1,90 @@
+{
+  "id": "97.5",
+  "key": "sumo_kirikaeshi",
+  "title": "Kirikaeshi",
+  "description": "1. From a close grip, place the back of your knee or thigh behind the partner's knee from outside.\n2. Twist the upper body and push the partner backward and around over the blocking knee.\n3. Guide the partner down onto padding and release the grip as the partner lands.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kirikaeshi",
+      "description": "1. From a close grip, place the back of your knee or thigh behind the partner's knee from outside.\n2. Twist the upper body and push the partner backward and around over the blocking knee.\n3. Guide the partner down onto padding and release the grip as the partner lands.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Kirikaeshi",
+      "description": "1. Desde un agarre cercano, coloca la parte posterior de tu rodilla o muslo detrás de la rodilla del compañero por fuera.\n2. Gira el tronco y empuja al compañero hacia atrás y alrededor por encima de la rodilla que bloquea.\n3. Guía al compañero hacia abajo sobre el acolchado y suelta el agarre al aterrizar.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Kirikaeshi",
+      "description": "1. Com uma pegada próxima, coloque a parte de trás do seu joelho ou coxa atrás do joelho do parceiro por fora.\n2. Gire o tronco e empurre o parceiro para trás e ao redor por cima do joelho que bloqueia.\n3. Conduza o parceiro para baixo sobre o acolchoado e solte a pegada quando ele cair.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Kirikaeshi",
+      "description": "1. Depuis une saisie rapprochée, placez l’arrière de votre genou ou de votre cuisse derrière le genou du partenaire par l’extérieur.\n2. Tournez le buste et poussez le partenaire en arrière et autour par-dessus le genou qui bloque.\n3. Guidez le partenaire au sol sur le rembourrage et lâchez la saisie à la réception.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kirikaeshi",
+      "description": "1. Lege aus engem Griff die Rückseite deines Knies oder Oberschenkels von außen hinter das Knie des Partners.\n2. Drehe den Oberkörper und drücke den Partner nach hinten und herum über das blockierende Knie.\n3. Führe den Partner auf die weiche Unterlage und löse den Griff bei der Landung.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Kirikaeshi",
+      "description": "1. Da una presa ravvicinata, porta il retro del tuo ginocchio o della coscia dietro il ginocchio del partner dall’esterno.\n2. Ruota il busto e spingi il partner indietro e intorno sopra il ginocchio che blocca.\n3. Accompagna il partner a terra sull’imbottitura e lascia la presa all’atterraggio.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "切返",
+      "description": "1. 在贴近抓握下，从外侧把你的膝后或大腿后侧抵在同伴膝后。\n2. 扭转上身，把同伴向后并绕过阻挡的膝盖推倒。\n3. 引导同伴倒在软垫上，落地时松开抓握。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "切り返し",
+      "description": "1. 近い組み手から、自分の膝裏か太ももの裏を外側から相手の膝裏に当てます。\n2. 上体をひねり、当てた膝を支点に相手を後ろへ回すように押します。\n3. 相手をマットへ導いて倒し、着地したら組み手を離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "기리카에시",
+      "description": "1. 가까운 그립에서 내 무릎 뒤나 허벅지 뒤를 바깥쪽에서 상대 무릎 뒤에 댑니다.\n2. 상체를 비틀며 막고 있는 무릎을 넘어 상대를 뒤로, 둥글게 밉니다.\n3. 상대를 매트 위로 이끌어 넘기고 착지하면 그립을 놓습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "คิริคาเอชิ",
+      "description": "1. จากการจับระยะชิด วางด้านหลังเข่าหรือต้นขาคุณไว้หลังเข่าคู่ฝึกจากด้านนอก\n2. บิดลำตัวและดันคู่ฝึกไปด้านหลังและวนข้ามเข่าที่บล็อกไว้\n3. พาคู่ฝึกลงบนพื้นบุนุ่ม และปล่อยการจับเมื่อลงถึงพื้น",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Кирикаэси",
+      "description": "1. Из плотного захвата приставьте заднюю часть своего колена или бедра к подколенной области партнёра снаружи.\n2. Скрутите корпус и толкайте партнёра назад и по кругу через блокирующее колено.\n3. Проводите партнёра вниз на мягкое покрытие и отпустите захват при приземлении.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Кірікаесі",
+      "description": "1. Зі щільного захвату приставте задню частину свого коліна чи стегна до підколінної ділянки партнера ззовні.\n2. Скрутіть корпус і штовхайте партнера назад і по колу через блокувальне коліно.\n3. Проведіть партнера вниз на м’яке покриття й відпустіть захват під час приземлення.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

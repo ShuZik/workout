@@ -1,0 +1,90 @@
+{
+  "id": "12.36",
+  "key": "agility_forward_backward_shuffle",
+  "title": "Forward-Backward Shuffle",
+  "description": "1. Place a forward and rear marker and start between them in an athletic stance.\n2. Shuffle forward with short steps, lower the hips at the marker, then push back without turning around.\n3. Backpedal to the rear marker, decelerate under control, and repeat the direction change.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Agility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Forward-Backward Shuffle",
+      "description": "1. Place a forward and rear marker and start between them in an athletic stance.\n2. Shuffle forward with short steps, lower the hips at the marker, then push back without turning around.\n3. Backpedal to the rear marker, decelerate under control, and repeat the direction change.",
+      "sectionTitle": "Agility"
+    },
+    "es": {
+      "title": "Desplazamiento adelante-atrás",
+      "description": "1. Coloca un marcador delante y otro detrás, y empieza entre ellos en posición atlética.\n2. Desplázate hacia delante con pasos cortos, baja las caderas en el marcador y empuja hacia atrás sin girarte.\n3. Retrocede hasta el marcador trasero, frena con control y repite el cambio de dirección.",
+      "sectionTitle": "Agilidad"
+    },
+    "pt": {
+      "title": "Deslocamento frente e trás",
+      "description": "1. Posicione um marcador à frente e outro atrás e comece entre eles em postura atlética.\n2. Desloque-se para a frente com passos curtos, abaixe o quadril no marcador e empurre para trás sem se virar.\n3. Corra de costas até o marcador traseiro, desacelere com controle e repita a mudança de direção.",
+      "sectionTitle": "Agilidade"
+    },
+    "fr": {
+      "title": "Pas chassés avant-arrière",
+      "description": "1. Placez un repère devant et un derrière, et commencez entre les deux en position athlétique.\n2. Avancez à petits pas chassés, abaissez les hanches au repère, puis repoussez vers l’arrière sans vous retourner.\n3. Reculez jusqu’au repère arrière, décélérez avec contrôle et répétez le changement de direction.",
+      "sectionTitle": "Agilité"
+    },
+    "de": {
+      "title": "Shuffle vorwärts-rückwärts",
+      "description": "1. Lege eine vordere und eine hintere Markierung aus und starte dazwischen in athletischer Grundstellung.\n2. Bewege dich mit kurzen Schritten nach vorn, senke an der Markierung die Hüften und drücke dich zurück, ohne dich umzudrehen.\n3. Laufe rückwärts zur hinteren Markierung, bremse kontrolliert ab und wiederhole den Richtungswechsel.",
+      "sectionTitle": "Agilität"
+    },
+    "it": {
+      "title": "Spostamenti avanti-indietro",
+      "description": "1. Posiziona un riferimento davanti e uno dietro e parti tra i due in posizione atletica.\n2. Spostati in avanti con passi corti, abbassa le anche al riferimento, poi spingi indietro senza girarti.\n3. Corri all’indietro fino al riferimento posteriore, decelera con controllo e ripeti il cambio di direzione.",
+      "sectionTitle": "Agilità"
+    },
+    "zh-Hans": {
+      "title": "前后滑步",
+      "description": "1. 在前后各放一个标记，站在两者之间，呈运动准备姿势。\n2. 以小碎步向前滑步，到标记处降低髋部，然后不转身向后蹬回。\n3. 后退跑至后方标记，有控制地减速，再重复变向。",
+      "sectionTitle": "敏捷"
+    },
+    "ja": {
+      "title": "前後シャッフル",
+      "description": "1. 前と後ろにマーカーを置き、その間でアスレチックスタンスをとります。\n2. 小さな歩幅で前へシャッフルし、マーカーで腰を落とし、向きを変えずに後ろへ押し戻します。\n3. 後ろのマーカーまでバックペダルで下がり、コントロールして減速し、方向転換を繰り返します。",
+      "sectionTitle": "アジリティ"
+    },
+    "ko": {
+      "title": "앞뒤 셔플",
+      "description": "1. 앞과 뒤에 마커를 하나씩 놓고 그 사이에서 운동 준비 자세로 시작합니다.\n2. 짧은 보폭으로 앞으로 셔플하고 마커에서 골반을 낮춘 뒤 몸을 돌리지 않고 뒤로 밀어냅니다.\n3. 뒤쪽 마커까지 백페달로 이동하고 통제하며 감속한 뒤 방향 전환을 반복합니다.",
+      "sectionTitle": "민첩성"
+    },
+    "th": {
+      "title": "สไลด์เท้าหน้า-หลัง",
+      "description": "1. วางมาร์กเกอร์ด้านหน้าและด้านหลัง แล้วเริ่มยืนระหว่างมาร์กเกอร์ในท่าเตรียมพร้อมแบบนักกีฬา\n2. สไลด์เท้าไปข้างหน้าด้วยก้าวสั้น ๆ ลดสะโพกลงที่มาร์กเกอร์ แล้วดันตัวกลับโดยไม่หันหลัง\n3. ถอยหลังไปยังมาร์กเกอร์ด้านหลัง ชะลอความเร็วอย่างควบคุม แล้วทำการเปลี่ยนทิศซ้ำ",
+      "sectionTitle": "ความคล่องตัว"
+    },
+    "ru": {
+      "title": "Приставные шаги вперёд-назад",
+      "description": "1. Поставьте передний и задний ориентиры и встаньте между ними в атлетическую стойку.\n2. Двигайтесь вперёд короткими приставными шагами, у ориентира опустите таз и оттолкнитесь назад, не разворачиваясь.\n3. Отходите спиной вперёд к заднему ориентиру, контролируемо затормозите и повторите смену направления.",
+      "sectionTitle": "Ловкость"
+    },
+    "uk": {
+      "title": "Приставні кроки вперед-назад",
+      "description": "1. Поставте передній і задній орієнтири та станьте між ними в атлетичну стійку.\n2. Рухайтеся вперед короткими приставними кроками, біля орієнтира опустіть таз і відштовхніться назад, не розвертаючись.\n3. Відходьте спиною вперед до заднього орієнтира, контрольовано загальмуйте й повторіть зміну напрямку.",
+      "sectionTitle": "Спритність"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "3.33",
+  "key": "kick_boxing_lead_body_hook",
+  "title": "Lead Body Hook",
+  "description": "1. From guard, lower with the knees and shift the head slightly outside while the rear hand stays high.\n2. Pivot the lead foot and rotate the hips so the bent lead fist travels into the side of the torso.\n3. Retract directly to the cheek and recover stance before adding a kick or another punch.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Body Hook",
+      "description": "1. From guard, lower with the knees and shift the head slightly outside while the rear hand stays high.\n2. Pivot the lead foot and rotate the hips so the bent lead fist travels into the side of the torso.\n3. Retract directly to the cheek and recover stance before adding a kick or another punch.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Gancho delantero al cuerpo",
+      "description": "1. Desde la guardia, baja flexionando las rodillas y desplaza ligeramente la cabeza hacia fuera mientras la mano trasera sigue alta.\n2. Pivota el pie delantero y gira las caderas para que el puño delantero flexionado entre en el costado del torso.\n3. Retira directamente a la mejilla y recupera la postura antes de añadir una patada u otro golpe.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Gancho da frente no corpo",
+      "description": "1. Na guarda, abaixe flexionando os joelhos e desloque a cabeça levemente para fora enquanto a mão de trás permanece alta.\n2. Gire o pé da frente e o quadril para que o punho da frente flexionado entre na lateral do tronco.\n3. Recolha direto à bochecha e recupere a base antes de acrescentar um chute ou outro soco.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Crochet avant au corps",
+      "description": "1. En garde, descendez en fléchissant les genoux et décalez légèrement la tête vers l’extérieur, main arrière haute.\n2. Pivotez sur le pied avant et tournez les hanches pour que le poing avant fléchi entre dans le flanc.\n3. Ramenez directement à la joue et retrouvez la position avant d’ajouter un coup de pied ou un autre coup de poing.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Vorderer Körperhaken",
+      "description": "1. Gehe aus der Deckung über die Knie tiefer und verlagere den Kopf leicht nach außen, während die hintere Hand oben bleibt.\n2. Drehe den vorderen Fuß und die Hüften, sodass die gebeugte vordere Faust in die Rumpfseite trifft.\n3. Ziehe direkt zur Wange zurück und stelle die Stellung wieder her, bevor du einen Tritt oder weiteren Schlag anhängst.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Gancio anteriore al corpo",
+      "description": "1. Dalla guardia, abbassati piegando le ginocchia e sposta leggermente la testa verso l’esterno mentre la mano posteriore resta alta.\n2. Ruota il piede anteriore e le anche affinché il pugno anteriore piegato entri nel fianco del busto.\n3. Ritira direttamente alla guancia e ritrova la posizione prima di aggiungere un calcio o un altro pugno.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "前手躯干摆拳",
+      "description": "1. 从防守位屈膝下沉，头部略向外侧移动，后手保持高位。\n2. 前脚转动并转髋，使弯曲的前拳打入躯干侧面。\n3. 直接收回脸颊，恢复站姿后再接踢腿或下一拳。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前手のボディフック",
+      "description": "1. ガードから膝を曲げて沈み、後ろの手を高く保ったまま頭を少し外側へずらします。\n2. 前足を軸に腰を回し、曲げた前の拳を胴体の側面へ打ち込みます。\n3. まっすぐ頬へ戻し、構えを立て直してから蹴りや次のパンチにつなげます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "앞손 바디 훅",
+      "description": "1. 가드에서 무릎을 굽혀 낮추고 뒷손을 높이 유지한 채 머리를 살짝 바깥으로 옮깁니다.\n2. 앞발을 돌리고 골반을 회전해 굽힌 앞 주먹을 몸통 옆구리로 넣습니다.\n3. 곧바로 볼로 되돌리고 자세를 회복한 뒤 킥이나 다른 펀치를 이어갑니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ฮุกหน้าลำตัว",
+      "description": "1. จากการ์ด ย่อเข่าลงและเอียงศีรษะออกด้านนอกเล็กน้อย โดยมือหลังยังยกสูง\n2. หมุนเท้าหน้าและสะโพก ให้หมัดหน้าที่งอแขนเข้าด้านข้างลำตัว\n3. ดึงหมัดกลับมาที่แก้มทันทีและคืนท่ายืนก่อนต่อด้วยเตะหรือหมัดถัดไป",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Передний боковой в корпус",
+      "description": "1. Из защиты опуститесь за счёт коленей и слегка сместите голову наружу, держа заднюю руку высоко.\n2. Поверните переднюю стопу и таз, чтобы согнутый передний кулак вошёл в бок корпуса.\n3. Сразу верните руку к щеке и восстановите стойку, прежде чем добавить удар ногой или ещё один удар рукой.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Передній боковий у корпус",
+      "description": "1. Із захисту опустіться за рахунок колін і трохи змістіть голову назовні, тримаючи задню руку високо.\n2. Поверніть передню стопу й таз, щоб зігнутий передній кулак увійшов у бік корпусу.\n3. Одразу поверніть руку до щоки й відновіть стійку, перш ніж додати удар ногою або ще один удар рукою.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

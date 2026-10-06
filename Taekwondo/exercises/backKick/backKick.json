@@ -1,0 +1,90 @@
+{
+  "id": "8.15",
+  "key": "taekwondo_back_kick",
+  "title": "Back Kick",
+  "description": "1. Turn the head to locate the target, pivot on the lead foot, and chamber the rear knee beneath the hips.\n2. Drive the rear heel straight backward with the toes pointing down, avoiding a wide circular swing.\n3. Pull the heel back to chamber, complete the turn, and recover the original guard and stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Back Kick",
+      "description": "1. Turn the head to locate the target, pivot on the lead foot, and chamber the rear knee beneath the hips.\n2. Drive the rear heel straight backward with the toes pointing down, avoiding a wide circular swing.\n3. Pull the heel back to chamber, complete the turn, and recover the original guard and stance.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Patada hacia atrás",
+      "description": "1. Gira la cabeza para localizar el objetivo, pivota el pie delantero y prepara la rodilla trasera bajo las caderas.\n2. Impulsa el talón trasero recto hacia atrás con los dedos hacia abajo, evitando un amplio giro circular.\n3. Recoge el talón a la posición preparada, completa el giro y recupera la guardia y la postura iniciales.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Chute para trás",
+      "description": "1. Vire a cabeça para localizar o alvo, gire o pé da frente e prepare o joelho de trás sob os quadris.\n2. Impulsione o calcanhar de trás reto para trás com os dedos para baixo, evitando um arco circular amplo.\n3. Recolha o calcanhar à posição preparada, complete o giro e recupere a guarda e a base originais.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de pied arrière",
+      "description": "1. Tournez la tête pour repérer la cible, pivotez sur le pied avant et armez le genou arrière sous les hanches.\n2. Propulsez le talon arrière droit en arrière, orteils vers le bas, en évitant un grand arc circulaire.\n3. Ramenez le talon en position armée, terminez le tour et retrouvez la garde et la position initiales.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Rückwärtstritt",
+      "description": "1. Drehe den Kopf zum Ziel, drehe dich auf dem vorderen Fuß und ziehe das hintere Knie unter die Hüfte.\n2. Stoße die hintere Ferse gerade nach hinten, mit nach unten gerichteten Zehen, ohne eine breite Kreisbewegung.\n3. Ziehe die Ferse zurück, vollende die Drehung und stelle ursprüngliche Deckung und Stand wieder her.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Calcio all’indietro",
+      "description": "1. Gira la testa per individuare il bersaglio, ruota sul piede anteriore e carica il ginocchio posteriore sotto le anche.\n2. Spingi il tallone posteriore diritto indietro con le dita verso il basso, evitando un ampio arco circolare.\n3. Richiama il tallone alla posizione caricata, completa il giro e recupera guardia e posizione iniziali.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "后踢",
+      "description": "1. 转头确认目标，转动前脚，将后膝收至髋部下方作为预备。\n2. 后脚跟直线向后踢出，脚尖朝下，避免大幅画圈摆动。\n3. 收回脚跟至预备位置，完成转身并恢复原来的防守和站姿。",
+      "sectionTitle": "踢击"
+    },
+    "ja": {
+      "title": "後ろ蹴り",
+      "description": "1. 頭を回して標的を確認し、前足で回り、後膝を腰の下へ引き上げます。\n2. つま先を下へ向け、広い円を描かずに後のかかとをまっすぐ後ろへ突き出します。\n3. かかとを引き戻し、回転を終えて元のガードと構えを取り戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "뒤차기",
+      "description": "1. 고개를 돌려 목표를 확인하고 앞발을 돌리며 뒷무릎을 골반 아래로 들어 준비합니다.\n2. 발끝을 아래로 향하게 하여 뒷발 뒤꿈치를 곧게 뒤로 밀어내고 크게 원을 그리며 휘두르지 않습니다.\n3. 뒤꿈치를 준비 위치로 회수하고 회전을 마친 뒤 원래 가드와 자세를 회복합니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เตะถีบหลัง",
+      "description": "1. หันศีรษะหาเป้า หมุนบนเท้าหน้า และเตรียมเข่าหลังใต้สะโพก\n2. ส่งส้นเท้าหลังตรงไปด้านหลัง โดยปลายเท้าชี้ลงและไม่เหวี่ยงเป็นวงกว้าง\n3. ดึงส้นเท้ากลับตำแหน่งเตรียม หมุนให้ครบ แล้วคืนการ์ดและท่ายืนเดิม",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Удар ногой назад",
+      "description": "1. Поверните голову к цели, развернитесь на передней стопе и подготовьте заднее колено под тазом.\n2. Направьте заднюю пятку прямо назад, опустив пальцы вниз и избегая широкого кругового маха.\n3. Верните пятку в подготовительное положение, завершите поворот и восстановите исходные защиту и стойку.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Удар ногою назад",
+      "description": "1. Поверніть голову до цілі, розверніться на передній стопі й підготуйте заднє коліно під тазом.\n2. Спрямуйте задню п’яту прямо назад, опустивши пальці вниз та уникаючи широкого кругового маху.\n3. Поверніть п’яту в підготовче положення, завершіть поворот і відновіть початкові захист і стійку.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

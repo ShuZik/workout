@@ -1,0 +1,90 @@
+{
+  "id": "43.19",
+  "key": "aikido_randori_no_kata",
+  "title": "Randori no Kata",
+  "description": "1. Stand facing a trained partner as tori and uke at a fixed distance on mats and bow in.\n2. Perform the 17 basic techniques in the dojo's set order, uke attacking and receiving each technique with a proper breakfall.\n3. Keep a steady rhythm between techniques, switch roles for the next round, and stop at any uncontrolled fall.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Randori no Kata",
+      "description": "1. Stand facing a trained partner as tori and uke at a fixed distance on mats and bow in.\n2. Perform the 17 basic techniques in the dojo's set order, uke attacking and receiving each technique with a proper breakfall.\n3. Keep a steady rhythm between techniques, switch roles for the next round, and stop at any uncontrolled fall.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Randori no Kata",
+      "description": "1. Colócate frente a un compañero entrenado como tori y uke a una distancia fija sobre el tatami y saluden.\n2. Realiza las 17 técnicas básicas en el orden establecido del dojo, con uke atacando y recibiendo cada técnica con una caída correcta.\n3. Mantén un ritmo constante entre técnicas, cambien de papel en la siguiente ronda y detente ante cualquier caída descontrolada.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Randori no Kata",
+      "description": "1. Fique de frente para um parceiro treinado como tori e uke a uma distância fixa no tatame e cumprimentem-se.\n2. Execute as 17 técnicas básicas na ordem definida do dojo, com uke atacando e recebendo cada técnica com uma queda correta.\n3. Mantenha um ritmo constante entre as técnicas, troquem de papel na rodada seguinte e pare em qualquer queda descontrolada.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Randori no Kata",
+      "description": "1. Placez-vous face à un partenaire entraîné en tori et uke à distance fixe sur le tatami et saluez-vous.\n2. Exécutez les 17 techniques de base dans l’ordre du dojo, uke attaquant et recevant chaque technique avec une chute correcte.\n3. Gardez un rythme régulier entre les techniques, inversez les rôles au tour suivant et arrêtez à toute chute non contrôlée.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Randori no Kata",
+      "description": "1. Stellt euch als Tori und Uke in festem Abstand auf der Matte gegenüber und verbeugt euch.\n2. Führt die 17 Grundtechniken in der festgelegten Reihenfolge des Dojos aus; Uke greift an und nimmt jede Technik mit korrekter Fallschule an.\n3. Haltet einen gleichmäßigen Rhythmus zwischen den Techniken, tauscht in der nächsten Runde die Rollen und stoppt bei jedem unkontrollierten Fall.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Randori no Kata",
+      "description": "1. Mettiti di fronte a un partner allenato come tori e uke a distanza fissa sul tatami e salutatevi.\n2. Esegui le 17 tecniche di base nell’ordine stabilito dal dojo, con uke che attacca e riceve ogni tecnica con una caduta corretta.\n3. Mantieni un ritmo costante tra le tecniche, scambiatevi i ruoli al giro successivo e fermatevi a ogni caduta incontrollata.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "乱取之形",
+      "description": "1. 与训练有素的同伴分别作为取方和受方，在垫上保持固定距离相对站立并行礼。\n2. 按道场规定顺序演练17个基本技术，受方进攻并以正确的受身承接每个技术。\n3. 技术之间保持稳定节奏，下一轮交换角色，一旦出现失控倒地立即停止。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "乱取の形",
+      "description": "1. 訓練を積んだ相手と取りと受けになり、畳の上で決まった間合いで向かい合って礼をします。\n2. 道場で定めた順序で基本17本を行い、受けは攻撃して各技を正しい受身で受けます。\n3. 技と技の間は一定のリズムを保ち、次の回で役割を交代し、制御できない倒れ方があれば止めます。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "란도리노 카타",
+      "description": "1. 훈련된 파트너와 토리와 우케로서 매트 위에서 정해진 거리를 두고 마주 서서 인사합니다.\n2. 도장에서 정한 순서로 기본 17기술을 수행하며, 우케는 공격하고 각 기술을 올바른 낙법으로 받습니다.\n3. 기술 사이에 일정한 리듬을 유지하고 다음 라운드에 역할을 바꾸며, 통제되지 않은 낙하가 있으면 멈춥니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "รันโดริโนะคาตะ",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ฝึกที่ผ่านการฝึกในบทโทริและอุเกะ ระยะคงที่บนเบาะ แล้วทำความเคารพ\n2. ทำเทคนิคพื้นฐาน 17 ท่าตามลำดับของโดโจ โดยอุเกะเป็นฝ่ายโจมตีและรับทุกเทคนิคด้วยการล้มที่ถูกต้อง\n3. รักษาจังหวะสม่ำเสมอระหว่างเทคนิค สลับบทบาทในรอบถัดไป และหยุดเมื่อมีการล้มที่ควบคุมไม่ได้",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Рандори-но ката",
+      "description": "1. Встаньте напротив подготовленного партнёра в роли тори и уке на фиксированной дистанции на татами и поклонитесь.\n2. Выполните 17 базовых техник в установленном в додзё порядке: уке атакует и принимает каждую технику правильной страховкой.\n3. Держите ровный ритм между техниками, в следующем круге поменяйтесь ролями и останавливайтесь при любом неконтролируемом падении.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Рандорі-но ката",
+      "description": "1. Станьте навпроти підготовленого партнера в ролі торі й уке на фіксованій дистанції на татамі та вклоніться.\n2. Виконайте 17 базових технік у встановленому в доджьо порядку: уке атакує й приймає кожну техніку правильною страховкою.\n3. Тримайте рівний ритм між техніками, у наступному колі поміняйтеся ролями й зупиняйтеся за будь-якого неконтрольованого падіння.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

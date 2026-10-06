@@ -1,0 +1,90 @@
+{
+  "id": "46.1",
+  "key": "backhold",
+  "title": "Backhold",
+  "description": "1. Face a trained partner chest to chest, chin on the partner's right shoulder, right arm under the partner's left arm and left arm over, hands clasped behind the back.\n2. On the hold signal, use the fixed grip to tilt, lift, and trip the partner without breaking the hold.\n3. Stop when anyone touches the mat with more than the soles of the feet or breaks the grip, then retake the hold.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "backhold",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Backhold",
+      "description": "1. Face a trained partner chest to chest, chin on the partner's right shoulder, right arm under the partner's left arm and left arm over, hands clasped behind the back.\n2. On the hold signal, use the fixed grip to tilt, lift, and trip the partner without breaking the hold.\n3. Stop when anyone touches the mat with more than the soles of the feet or breaks the grip, then retake the hold.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Backhold",
+      "description": "1. Ponte pecho contra pecho con un compañero entrenado, barbilla sobre su hombro derecho, brazo derecho bajo su brazo izquierdo y brazo izquierdo por encima, manos unidas tras la espalda.\n2. A la señal de agarre, usa la presa fija para inclinar, levantar y hacer caer al compañero sin romper el agarre.\n3. Para cuando alguien toque el suelo con algo más que las plantas de los pies o rompa el agarre, y vuelve a tomar la presa.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Backhold",
+      "description": "1. Fique peito com peito com um parceiro treinado, queixo sobre o ombro direito dele, braço direito sob o braço esquerdo dele e braço esquerdo por cima, mãos unidas atrás das costas.\n2. Ao sinal de pegada, use a pegada fixa para inclinar, levantar e derrubar o parceiro sem desfazer a pegada.\n3. Pare quando alguém tocar o chão com algo além das solas dos pés ou soltar a pegada, e refaça a pegada.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Backhold",
+      "description": "1. Placez-vous poitrine contre poitrine avec un partenaire entraîné, menton sur son épaule droite, bras droit sous son bras gauche et bras gauche par-dessus, mains jointes dans son dos.\n2. Au signal de saisie, utilisez la prise fixe pour incliner, soulever et faire chuter le partenaire sans lâcher la prise.\n3. Arrêtez quand quelqu'un touche le sol avec autre chose que la plante des pieds ou lâche la prise, puis reprenez la prise.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Backhold",
+      "description": "1. Stehe Brust an Brust mit einem geübten Partner, Kinn auf seiner rechten Schulter, rechter Arm unter seinem linken, linker Arm darüber, Hände hinter seinem Rücken verschränkt.\n2. Nutze auf das Griffsignal den festen Griff, um den Partner zu kippen, anzuheben und zu Fall zu bringen, ohne den Griff zu lösen.\n3. Stoppe, wenn jemand die Matte mit mehr als den Fußsohlen berührt oder den Griff löst, und fasse neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Backhold",
+      "description": "1. Mettiti petto contro petto con un partner allenato, mento sulla sua spalla destra, braccio destro sotto il suo sinistro e braccio sinistro sopra, mani unite dietro la schiena.\n2. Al segnale di presa, usa la presa fissa per inclinare, sollevare e far cadere il partner senza rompere la presa.\n3. Fermati quando qualcuno tocca terra con qualcosa oltre alle piante dei piedi o rompe la presa, poi riprendi la presa.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "苏格兰抱背摔跤",
+      "description": "1. 与训练有素的同伴胸贴胸站立，下巴搭在对方右肩，右臂在对方左臂下、左臂在上，双手在其背后相扣。\n2. 听到握持信号后，用固定握法使同伴倾斜、离地并摔倒，不松开握持。\n3. 任何人除脚掌外有部位触地或松开握持即停，然后重新握持。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "バックホールド",
+      "description": "1. 熟練のパートナーと胸を合わせ、相手の右肩にあごを乗せ、右腕を相手の左腕の下、左腕を上にして背中で手を組みます。\n2. ホールドの合図で、組みを崩さずに固定した組み手で相手を傾け、持ち上げ、倒します。\n3. 誰かが足裏以外で地面に触れるか組みを切ったら止め、組み直します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "백홀드",
+      "description": "1. 숙련된 파트너와 가슴을 맞대고 파트너의 오른쪽 어깨에 턱을 올리며 오른팔은 파트너의 왼팔 아래, 왼팔은 위로 해 등 뒤에서 손을 맞잡습니다.\n2. 홀드 신호에 맞춰 그립을 풀지 않고 고정 그립으로 파트너를 기울이고 들어 올리며 넘어뜨립니다.\n3. 누구든 발바닥 외의 부위가 닿거나 그립이 풀리면 멈추고 다시 잡습니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "แบ็กโฮลด์",
+      "description": "1. ยืนอกชนอกกับคู่ฝึกที่ผ่านการฝึก วางคางบนไหล่ขวาของเขา แขนขวาอยู่ใต้แขนซ้ายของเขาและแขนซ้ายอยู่ด้านบน ประสานมือไว้ด้านหลัง\n2. เมื่อได้สัญญาณจับ ใช้การจับแบบตายตัวเพื่อเอียง ยก และทำให้คู่ฝึกล้มโดยไม่ปล่อยมือ\n3. หยุดเมื่อมีใครแตะพื้นด้วยส่วนอื่นนอกจากฝ่าเท้าหรือหลุดการจับ แล้วจับใหม่",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Бэкхолд",
+      "description": "1. Встаньте грудь к груди с подготовленным партнёром, подбородок на его правом плече, правая рука под его левой, левая сверху, кисти сцеплены за спиной.\n2. По сигналу захвата используйте фиксированный захват, чтобы наклонить, оторвать от ковра и уронить партнёра, не разрывая захват.\n3. Остановитесь, когда кто-то коснётся ковра не только подошвами или разорвёт захват, и возьмите захват заново.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Бекголд",
+      "description": "1. Станьте груди до грудей із підготовленим партнером, підборіддя на його правому плечі, права рука під його лівою, ліва зверху, кисті зчеплені за спиною.\n2. За сигналом захвату використовуйте фіксований захват, щоб нахилити, відірвати від килима й звалити партнера, не розриваючи захват.\n3. Зупиніться, коли хтось торкнеться килима не лише підошвами або розірве захват, і візьміть захват знову.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

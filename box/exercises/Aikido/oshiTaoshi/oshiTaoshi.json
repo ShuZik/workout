@@ -1,0 +1,87 @@
+{
+  "id": "43.7",
+  "key": "aikido_oshi_taoshi",
+  "title": "Oshi Taoshi",
+  "description": "1. Hold uke's wrist with one hand and place the other hand on uke's elbow, keeping the arm straight.\n2. Step forward and push the elbow forward and down in an arc so uke bends and turns face down.\n3. Pin the straight arm to the mat at an angle with gradual pressure and release at uke's tap.",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Oshi Taoshi",
+      "description": "1. Hold uke's wrist with one hand and place the other hand on uke's elbow, keeping the arm straight.\n2. Step forward and push the elbow forward and down in an arc so uke bends and turns face down.\n3. Pin the straight arm to the mat at an angle with gradual pressure and release at uke's tap.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Oshi Taoshi",
+      "description": "1. Sujeta la muñeca de uke con una mano y coloca la otra en su codo, manteniendo el brazo recto.\n2. Avanza y empuja el codo hacia delante y abajo en un arco para que uke se doble y quede boca abajo.\n3. Fija el brazo recto en el tapiz en ángulo con presión gradual y suelta cuando uke golpee.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Oshi Taoshi",
+      "description": "1. Segure o punho de uke com uma mão e coloque a outra no cotovelo dele, mantendo o braço reto.\n2. Avance e empurre o cotovelo para a frente e para baixo em arco para que uke se curve e fique de bruços.\n3. Imobilize o braço reto no tatame em ângulo com pressão gradual e solte quando uke bater.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Oshi Taoshi",
+      "description": "1. Tenez le poignet de uke d’une main et placez l’autre sur son coude, bras tendu.\n2. Avancez et poussez le coude vers l’avant et le bas en arc pour que uke se plie et se retrouve face au sol.\n3. Immobilisez le bras tendu au tapis en angle avec une pression progressive et relâchez à la tape de uke.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Oshi Taoshi",
+      "description": "1. Halte Ukes Handgelenk mit einer Hand und lege die andere auf seinen Ellbogen, den Arm gestreckt.\n2. Tritt vor und drücke den Ellbogen im Bogen nach vorn und unten, sodass Uke sich beugt und bäuchlings dreht.\n3. Fixiere den gestreckten Arm schräg auf der Matte mit allmählichem Druck und löse bei Ukes Abklopfen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Oshi Taoshi",
+      "description": "1. Tieni il polso di uke con una mano e appoggia l’altra sul gomito, mantenendo il braccio teso.\n2. Avanza e spingi il gomito in avanti e in basso ad arco così che uke si pieghi e si giri prono.\n3. Blocca il braccio teso sul tappeto ad angolo con pressione graduale e lascia al tap di uke.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "押倒",
+      "description": "1. 一手握住受方手腕，另一手放在其肘部，保持手臂伸直。\n2. 上步并沿弧线把肘部向前向下推，使受方弯腰转成俯卧。\n3. 以渐进压力把伸直的手臂成角度压制在垫上，受方拍垫即松开。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "押倒",
+      "description": "1. 片手で受けの手首を持ち、もう一方の手を肘に当て、腕をまっすぐに保ちます。\n2. 前へ踏み出し、肘を弧を描くように前下方へ押して、受けを屈ませうつ伏せにします。\n3. まっすぐな腕を角度をつけてマットに押さえ、徐々に圧をかけ、受けのタップで解放します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "오시 타오시",
+      "description": "1. 한 손으로 우케의 손목을 잡고 다른 손을 팔꿈치에 대어 팔을 곧게 유지합니다.\n2. 앞으로 나아가며 팔꿈치를 호를 그리듯 앞아래로 밀어 우케가 숙이며 엎드리게 합니다.\n3. 곧은 팔을 각도를 두고 매트에 고정해 서서히 압박하고 우케가 탭하면 풉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "โอชิทาโอชิ",
+      "description": "1. ใช้มือหนึ่งจับข้อมืออุเกะ อีกมือวางที่ข้อศอก โดยให้แขนเหยียดตรง\n2. ก้าวไปข้างหน้าและดันข้อศอกไปข้างหน้าและลงเป็นวงโค้ง ให้อุเกะก้มและคว่ำหน้าลง\n3. กดแขนที่เหยียดตรงไว้กับเบาะเป็นมุมด้วยแรงกดค่อยเป็นค่อยไป และปล่อยเมื่ออุเกะตบ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Оси-таоси",
+      "description": "1. Возьмите запястье уке одной рукой, а другую положите на его локоть, держа руку прямой.\n2. Шагните вперёд и дугой толкните локоть вперёд и вниз, чтобы уке согнулся и лёг лицом вниз.\n3. Прижмите прямую руку к ковру под углом с постепенным давлением и отпустите, когда уке хлопнет.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Осі-таосі",
+      "description": "1. Візьміть зап’ястя уке однією рукою, а другу покладіть на його лікоть, тримаючи руку прямою.\n2. Ступіть уперед і дугою штовхніть лікоть уперед і вниз, щоб уке зігнувся й ліг обличчям донизу.\n3. Притисніть пряму руку до килима під кутом із поступовим тиском і відпустіть, коли уке плесне.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

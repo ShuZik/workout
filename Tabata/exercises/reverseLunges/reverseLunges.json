@@ -1,0 +1,90 @@
+{
+  "id": "20.8",
+  "key": "tabata_reverse_lunges",
+  "title": "Reverse Lunges",
+  "description": "1. Stand tall with feet hip-width apart and brace the trunk.\n2. Step one foot backward and lower both knees while the front knee tracks over the toes.\n3. Press through the front foot to return to standing, then alternate legs.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "tabata",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "3 Lower Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Reverse Lunges",
+      "description": "1. Stand tall with feet hip-width apart and brace the trunk.\n2. Step one foot backward and lower both knees while the front knee tracks over the toes.\n3. Press through the front foot to return to standing, then alternate legs.",
+      "sectionTitle": "Lower Body"
+    },
+    "es": {
+      "title": "Zancadas hacia atrás",
+      "description": "1. Ponte erguido con los pies al ancho de las caderas y activa el tronco.\n2. Da un paso atrás con un pie y baja ambas rodillas mientras la rodilla delantera se alinea sobre los dedos.\n3. Empuja con el pie delantero para volver a ponerte de pie y alterna las piernas.",
+      "sectionTitle": "Tren inferior"
+    },
+    "pt": {
+      "title": "Afundo reverso",
+      "description": "1. Fique ereto com os pés na largura do quadril e contraia o tronco.\n2. Dê um passo para trás com um pé e desça os dois joelhos enquanto o joelho da frente se alinha sobre os dedos.\n3. Empurre com o pé da frente para voltar a ficar em pé e alterne as pernas.",
+      "sectionTitle": "Membros inferiores"
+    },
+    "fr": {
+      "title": "Fentes arrière",
+      "description": "1. Tenez-vous droit, pieds à largeur de hanches, et gainez le tronc.\n2. Reculez un pied et descendez les deux genoux, genou avant aligné au-dessus des orteils.\n3. Poussez sur le pied avant pour revenir debout, puis alternez les jambes.",
+      "sectionTitle": "Bas du corps"
+    },
+    "de": {
+      "title": "Ausfallschritte rückwärts",
+      "description": "1. Stehe aufrecht mit hüftbreiten Füßen und spanne den Rumpf an.\n2. Mache mit einem Fuß einen Schritt nach hinten und senke beide Knie, während das vordere Knie über den Zehen bleibt.\n3. Drücke dich über den vorderen Fuß zurück in den Stand und wechsle die Beine.",
+      "sectionTitle": "Unterkörper"
+    },
+    "it": {
+      "title": "Affondi indietro",
+      "description": "1. In piedi ben eretto con i piedi alla larghezza delle anche, attiva il tronco.\n2. Fai un passo indietro con un piede e abbassa entrambe le ginocchia mentre il ginocchio anteriore resta allineato sopra le dita.\n3. Spingi con il piede anteriore per tornare in piedi, poi alterna le gambe.",
+      "sectionTitle": "Parte inferiore"
+    },
+    "zh-Hans": {
+      "title": "后撤弓步",
+      "description": "1. 身体挺直站立，双脚与髋同宽，收紧躯干。\n2. 一只脚向后迈步，双膝下降，前膝与脚尖方向一致。\n3. 前脚蹬地回到站立位，双腿交替进行。",
+      "sectionTitle": "下肢"
+    },
+    "ja": {
+      "title": "リバースランジ",
+      "description": "1. 足を腰幅に開いてまっすぐ立ち、体幹を引き締めます。\n2. 片足を後ろへ引き、前の膝がつま先の方向を向くようにして両膝を下ろします。\n3. 前足で床を押して立ち上がり、左右交互に行います。",
+      "sectionTitle": "下半身"
+    },
+    "ko": {
+      "title": "리버스 런지",
+      "description": "1. 발을 골반 너비로 벌리고 곧게 서서 몸통에 힘을 줍니다.\n2. 한 발을 뒤로 내딛고 앞 무릎이 발끝 방향을 따르도록 하며 두 무릎을 낮춥니다.\n3. 앞발로 바닥을 밀어 일어선 뒤 다리를 번갈아 합니다.",
+      "sectionTitle": "하체"
+    },
+    "th": {
+      "title": "ลันจ์ถอยหลัง",
+      "description": "1. ยืนตัวตรง แยกเท้าเท่าความกว้างสะโพก และเกร็งลำตัว\n2. ก้าวเท้าข้างหนึ่งไปด้านหลังและย่อเข่าทั้งสองลง โดยให้เข่าหน้าอยู่แนวเดียวกับปลายเท้า\n3. ดันเท้าหน้าเพื่อกลับขึ้นยืน แล้วสลับขา",
+      "sectionTitle": "ร่างกายส่วนล่าง"
+    },
+    "ru": {
+      "title": "Обратные выпады",
+      "description": "1. Встаньте прямо, стопы на ширине таза, напрягите корпус.\n2. Шагните одной ногой назад и опустите оба колена, направляя переднее колено по линии носка.\n3. Оттолкнитесь передней стопой, чтобы вернуться в положение стоя, и чередуйте ноги.",
+      "sectionTitle": "Нижняя часть тела"
+    },
+    "uk": {
+      "title": "Зворотні випади",
+      "description": "1. Станьте прямо, стопи на ширині таза, напружте корпус.\n2. Ступніть однією ногою назад і опустіть обидва коліна, спрямовуючи переднє коліно по лінії носка.\n3. Відштовхніться передньою стопою, щоб повернутися в положення стоячи, і чергуйте ноги.",
+      "sectionTitle": "Нижня частина тіла"
+    }
+  }
+}

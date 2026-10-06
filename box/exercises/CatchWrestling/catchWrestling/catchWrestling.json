@@ -1,0 +1,87 @@
+{
+  "id": "50.1",
+  "key": "catch_wrestling",
+  "title": "Catch Wrestling",
+  "description": "1. Begin on mats with a trained partner in a wrestling stance with no gi.\n2. Wrestle for takedowns, rides, and pins, using permitted holds and slow submissions to force the partner onto the back.\n3. Release every hold at the first tap, avoid banned throat chokes, and reset to standing.",
+  "colorType": "coral",
+  "workoutType": "catchWrestling",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Catch Wrestling",
+      "description": "1. Begin on mats with a trained partner in a wrestling stance with no gi.\n2. Wrestle for takedowns, rides, and pins, using permitted holds and slow submissions to force the partner onto the back.\n3. Release every hold at the first tap, avoid banned throat chokes, and reset to standing.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Catch Wrestling",
+      "description": "1. Comienza sobre la colchoneta con un compañero entrenado en guardia de lucha y sin gi.\n2. Lucha por derribos, controles y tocados, usando presas permitidas y sumisiones lentas para llevar al compañero de espaldas.\n3. Suelta cada presa al primer golpe de rendición, evita las estrangulaciones de garganta prohibidas y vuelve a empezar de pie.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Catch Wrestling",
+      "description": "1. Comece no tatame com um parceiro treinado em base de luta, sem kimono.\n2. Lute por quedas, controles e encostamentos, usando pegadas permitidas e finalizações lentas para levar o parceiro de costas.\n3. Solte cada pegada na primeira batida, evite estrangulamentos de garganta proibidos e recomece de pé.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Catch Wrestling",
+      "description": "1. Commencez sur le tapis avec un partenaire entraîné en garde de lutte, sans gi.\n2. Luttez pour les amenées au sol, les contrôles et les tombés, avec des prises autorisées et des soumissions lentes pour mettre le partenaire sur le dos.\n3. Relâchez chaque prise à la première tape, évitez les étranglements de gorge interdits et repartez debout.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Catch Wrestling",
+      "description": "1. Beginne auf der Matte mit einem geübten Partner in Ringerstellung ohne Gi.\n2. Ringe um Takedowns, Kontrolle und Schultersiege mit erlaubten Griffen und langsamen Aufgabegriffen, um den Partner auf den Rücken zu zwingen.\n3. Löse jeden Griff beim ersten Abklopfen, vermeide verbotene Kehlwürger und beginne stehend neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Catch Wrestling",
+      "description": "1. Inizia sul materassino con un partner allenato in guardia da lotta senza gi.\n2. Lotta per atterramenti, controlli e schienamenti, usando prese consentite e sottomissioni lente per portare il partner sulla schiena.\n3. Rilascia ogni presa al primo tap, evita gli strangolamenti alla gola vietati e riparti in piedi.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "自由式擒拿摔跤",
+      "description": "1. 与训练有素的同伴在垫上以摔跤站姿开始，不穿道服。\n2. 争取抱摔、压制控制和压肩，用允许的技术和缓慢的降服技迫使同伴背部着地。\n3. 第一次拍击即松开任何技术，避免被禁止的喉部绞技，站立重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "キャッチレスリング",
+      "description": "1. 熟練のパートナーとマット上で、道着なしでレスリングの構えから始めます。\n2. テイクダウン、ライド、フォールを狙い、許可された技とゆっくりしたサブミッションで相手を背中につけさせます。\n3. 最初のタップですべての技を離し、禁止された喉への絞めを避け、立って再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "캐치 레슬링",
+      "description": "1. 숙련된 파트너와 매트에서 도복 없이 레슬링 자세로 시작합니다.\n2. 테이크다운, 라이드, 폴을 노리며 허용된 기술과 느린 서브미션으로 파트너를 등으로 눕힙니다.\n3. 첫 탭에 모든 기술을 풀고 금지된 목 조르기를 피하며 선 자세로 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "แคชเรสลิง",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึกในท่ามวยปล้ำ โดยไม่สวมชุดกิ\n2. ปล้ำเพื่อทุ่ม คุม และกดไหล่ติดพื้น โดยใช้ท่าจับที่อนุญาตและท่าบังคับยอมแพ้อย่างช้าๆ เพื่อบังคับให้คู่ฝึกหงา��\n3. ปล่อยทุกท่าเมื่อตบครั้งแรก หลีกเลี่ยงการรัดลำคอที่ห้าม และเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кэтч-рестлинг",
+      "description": "1. Начните на ковре с подготовленным партнёром в борцовской стойке без ги.\n2. Боритесь за тейкдауны, контроль и туше, используя разрешённые захваты и медленные болевые, чтобы заставить партнёра лечь на спину.\n3. Отпускайте каждый захват при первом хлопке, избегайте запрещённых удушений за горло и начинайте снова в стойке.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кетч-реслінг",
+      "description": "1. Почніть на килимі з підготовленим партнером у борцівській стійці без гі.\n2. Боріться за тейкдауни, контроль і туше, використовуючи дозволені захвати й повільні больові, щоб змусити партнера лягти на спину.\n3. Відпускайте кожен захват за першого плескання, уникайте заборонених удушень за горло й починайте знову в стійці.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

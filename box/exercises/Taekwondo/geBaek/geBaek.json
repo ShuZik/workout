@@ -1,0 +1,87 @@
+{
+  "id": "8.39",
+  "key": "taekwondo_ge_baek",
+  "title": "Ge-Baek",
+  "description": "1. Start in parallel ready stance and perform the 44-movement first-degree pattern.\n2. Include the 9-shape blocks, X-fist rising blocks, low twin forearm blocks and the sitting-stance and walking-stance strikes, keeping each block sharp and the stance stable.\n3. Finish with the closing blocks and punches, then return to parallel ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ge-Baek",
+      "description": "1. Start in parallel ready stance and perform the 44-movement first-degree pattern.\n2. Include the 9-shape blocks, X-fist rising blocks, low twin forearm blocks and the sitting-stance and walking-stance strikes, keeping each block sharp and the stance stable.\n3. Finish with the closing blocks and punches, then return to parallel ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Ge-Baek",
+      "description": "1. Empieza en posición de preparación paralela y realiza el patrón de primer dan de 44 movimientos.\n2. Incluye los bloqueos en forma de 9, los bloqueos ascendentes con puños cruzados, los bloqueos dobles bajos de antebrazo y los golpes en posición sentada y de caminar, con cada bloqueo nítido y la posición estable.\n3. Termina con los bloqueos y puñetazos finales y vuelve a la posición de preparación paralela.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Ge-Baek",
+      "description": "1. Comece na posição de preparação paralela e execute o padrão de primeiro dan de 44 movimentos.\n2. Inclua os bloqueios em forma de 9, os bloqueios ascendentes com punhos cruzados, os bloqueios duplos baixos de antebraço e os golpes em base sentada e de caminhada, com cada bloqueio nítido e a base estável.\n3. Termine com os bloqueios e socos finais e volte à posição de preparação paralela.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Ge-Baek",
+      "description": "1. Partez en position de préparation parallèle et exécutez l’enchaînement de premier dan de 44 mouvements.\n2. Intégrez les blocages en forme de 9, les blocages montants poings croisés, les doubles blocages bas d’avant-bras et les frappes en position assise et de marche, chaque blocage net et la position stable.\n3. Terminez par les derniers blocages et coups de poing, puis revenez en position de préparation parallèle.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Ge-Baek",
+      "description": "1. Beginne im parallelen Bereitschaftsstand und laufe die 44 Bewegungen der Form zum 1. Dan.\n2. Baue die 9-förmigen Blocks, gekreuzte Faust-Aufwärtsblocks, tiefe doppelte Unterarmblocks und Schläge im Sitz- und Gehstand ein, jeden Block scharf und den Stand stabil.\n3. Schließe mit den letzten Blocks und Fauststößen ab und kehre in den parallelen Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Ge-Baek",
+      "description": "1. Parti dalla posizione di pronti parallela ed esegui la forma di primo dan di 44 movimenti.\n2. Inserisci le parate a forma di 9, le parate in alto a pugni incrociati, le doppie parate basse d’avambraccio e i colpi in posizione seduta e di cammino, con ogni parata netta e la posizione stabile.\n3. Concludi con le ultime parate e pugni, poi torna alla posizione di pronti parallela.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "阶伯型（Ge-Baek）",
+      "description": "1. 以平行预备式开始，完成44个动作的一段型。\n2. 包括9字形格挡、交叉拳上挡、下段双前臂格挡以及坐马步和行步击打，每个格挡干脆、步型稳定。\n3. 以最后的格挡和冲拳收尾，回到平行预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ケベク（階伯）",
+      "description": "1. 平行準備立ちから始め、初段の44動作の型を行います。\n2. 9の字受け、交差拳上げ受け、下段双腕受け、騎馬立ちとウォーキングスタンスの打ちを含め、受けは鋭く立ち方は安定させます。\n3. 最後の受けと突きで締めくくり、平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "계백",
+      "description": "1. 나란히 준비서기에서 시작해 1단 44동작 틀을 수행합니다.\n2. 9자 막기, X주먹 올려막기, 하단 쌍팔목 막기, 앉은서기와 걷는서기 치기를 포함하며 막기는 날카롭게, 서기는 안정적으로 유지합니다.\n3. 마지막 막기와 지르기로 마무리하고 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "เกแบก",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนานและทำรูปแบบระดับดั้ง 1 จำนวน 44 จังหวะ\n2. รวมการปัดรูปเลข 9 การปัดขึ้นด้วยกำปั้นไขว้ การปัดต่ำด้วยแขนคู่ และการโจมตีในท่ายืนนั่งและท่ายืนเดิน ให้การปัดคมและท่ายืนมั่นคง\n3. จบด้วยการปัดและหมัดชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบขนาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Кебек",
+      "description": "1. Начните из параллельной готовой стойки и выполните туль первого дана из 44 движений.\n2. Включите блоки в форме цифры 9, верхние блоки скрещёнными кулаками, низкие двойные блоки предплечьями и удары в стойке всадника и шаговой стойке, выполняя каждый блок чётко и сохраняя устойчивость.\n3. Завершите последними блоками и ударами и вернитесь в параллельную готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Кебек",
+      "description": "1. Почніть із паралельної готової стійки й виконайте туль першого дану з 44 рухів.\n2. Додайте блоки у формі цифри 9, верхні блоки схрещеними кулаками, низькі подвійні блоки передпліччями та удари в стійці вершника й кроковій стійці, виконуючи кожен блок чітко й зберігаючи стійкість.\n3. Завершіть останніми блоками й ударами та поверніться в паралельну готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "41.68",
+  "key": "judo_sumi_gaeshi",
+  "title": "Sumi Gaeshi",
+  "description": "1. From a bent-over or close grip, reach over the partner's back or hold the sleeve and lapel.\n2. Sit down close to the partner and hook the inner thigh with the instep while falling back.\n3. Lift with the instep and pull with the hands to roll the partner over the shoulder corner into a breakfall.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Sumi Gaeshi",
+      "description": "1. From a bent-over or close grip, reach over the partner's back or hold the sleeve and lapel.\n2. Sit down close to the partner and hook the inner thigh with the instep while falling back.\n3. Lift with the instep and pull with the hands to roll the partner over the shoulder corner into a breakfall.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Sumi Gaeshi",
+      "description": "1. Desde un agarre cercano o con el compañero inclinado, pasa por encima de su espalda o sujeta manga y solapa.\n2. Siéntate cerca del compañero y engancha el interior de su muslo con el empeine al caer hacia atrás.\n3. Levanta con el empeine y tira con las manos para hacer rodar al compañero sobre la esquina del hombro hasta una caída.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Sumi Gaeshi",
+      "description": "1. De uma pegada próxima ou com o parceiro inclinado, passe por cima das costas dele ou segure manga e gola.\n2. Sente perto do parceiro e enganche a parte interna da coxa dele com o peito do pé ao cair para trás.\n3. Levante com o peito do pé e puxe com as mãos para rolar o parceiro sobre o canto do ombro até uma queda.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Sumi Gaeshi",
+      "description": "1. Depuis une garde proche ou un partenaire penché, passez par-dessus son dos ou tenez manche et revers.\n2. Asseyez-vous près du partenaire et crochetez l’intérieur de sa cuisse avec le cou-de-pied en tombant en arrière.\n3. Soulevez avec le cou-de-pied et tirez avec les mains pour le faire rouler par-dessus le coin de l’épaule jusqu’à la chute.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Sumi Gaeshi",
+      "description": "1. Aus engem Griff oder bei vorgebeugtem Partner greife über seinen Rücken oder halte Ärmel und Revers.\n2. Setze dich nah an den Partner und hake beim Rückwärtsfallen mit dem Spann die Innenseite seines Oberschenkels ein.\n3. Hebe mit dem Spann und ziehe mit den Händen, um den Partner über die Schulterecke in eine Fallschule zu rollen.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Sumi Gaeshi",
+      "description": "1. Da una presa stretta o con il compagno piegato, passa sopra la sua schiena o tieni manica e bavero.\n2. Siediti vicino al compagno e aggancia l’interno della sua coscia con il collo del piede mentre cadi all’indietro.\n3. Solleva con il collo del piede e tira con le mani per far rotolare il compagno sopra l’angolo della spalla fino alla caduta.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "隅返",
+      "description": "1. 近身抓握或搭档前倾时，从其背上方伸手，或抓袖与领。\n2. 贴近搭档坐下，向后倒时用脚背勾住其大腿内侧。\n3. 用脚背上挑、双手牵拉，使搭档越过肩角滚翻倒地。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "隅返",
+      "description": "1. 近い組み手、または相手が前かがみのとき、背中越しに手を回すか袖と襟を持ちます。\n2. 相手の近くに腰を落とし、後ろへ倒れながら足の甲で相手の内ももを掛けます。\n3. 足の甲で跳ね上げ、手で引いて相手を肩の隅越しに転がし、受身をとらせます。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "스미 가에시",
+      "description": "1. 가까운 잡기에서나 파트너가 숙였을 때 등 위로 손을 넘기거나 소매와 깃을 잡습니다.\n2. 파트너 가까이 앉으며 뒤로 넘어가는 동안 발등으로 파트너 허벅지 안쪽을 겁니다.\n3. 발등으로 들어 올리고 손으로 당겨 파트너를 어깨 모서��� 너머로 굴려 낙법하게 합니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "สุมิกาเอชิ",
+      "description": "1. จากการจับระยะใกล้หรือเมื่อคู่ฝึกก้มตัว ยื่นมือข้ามหลังค��่ฝึกหรือจับแขนเสื้อและปกเสื้อ\n2. นั่งลงชิดคู่ฝึก และใช้หลังเท้าเกี่ยวต้นขาด้านในของคู่ฝึกขณะล้มไปด้านหลัง\n3. ยกด้วยหลังเท้าและดึงด้วยมือ ให้คู่ฝึกม้วนข้ามมุมไหล่ลงพื้น",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Суми-гаэси",
+      "description": "1. Из плотного захвата или когда партнёр наклонён, проведите руку через его спину или держите рукав и отворот.\n2. Сядьте вплотную к партнёру и, падая назад, зацепите подъёмом стопы внутреннюю сторону его бедра.\n3. Подбросьте подъёмом стопы и потяните руками, перекатывая партнёра через угол плеча в страховку.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Сумі-гаесі",
+      "description": "1. Із щільного захоплення або коли партнер нахилений, проведіть руку через його спину чи тримайте рукав і відворот.\n2. Сядьте впритул до партнера й, падаючи назад, зачепіть підйомом стопи внутрішній бік його стегна.\n3. Підкиньте підйомом стопи й потягніть руками, перекочуючи партнера через кут плеча у страховку.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

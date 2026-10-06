@@ -1,0 +1,87 @@
+{
+  "id": "74.5",
+  "key": "kun_khmer_double_kick",
+  "title": "Double Kick",
+  "description": "1. From stance, throw a rear roundhouse kick to the thigh or body with full hip rotation.\n2. Recoil only to a chamber without planting the foot, then kick again with the same leg to the same or a higher target.\n3. Place the kicking foot back behind, restore the guard, and reset before the next pair of kicks.",
+  "colorType": "orange",
+  "workoutType": "kunKhmer",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Double Kick",
+      "description": "1. From stance, throw a rear roundhouse kick to the thigh or body with full hip rotation.\n2. Recoil only to a chamber without planting the foot, then kick again with the same leg to the same or a higher target.\n3. Place the kicking foot back behind, restore the guard, and reset before the next pair of kicks.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Doble patada",
+      "description": "1. Desde la guardia, lanza una patada circular trasera al muslo o al cuerpo con rotación completa de cadera.\n2. Recoge solo hasta la posición de carga sin apoyar el pie y vuelve a patear con la misma pierna al mismo objetivo o más alto.\n3. Apoya el pie detrás, recupera la guardia y reinicia antes del siguiente par de patadas.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Chute duplo",
+      "description": "1. Da base, solte um chute circular de trás na coxa ou no corpo com rotação completa do quadril.\n2. Recolha só até a posição armada sem apoiar o pé e chute de novo com a mesma perna no mesmo alvo ou mais alto.\n3. Apoie o pé atrás, recupere a guarda e recomece antes do próximo par de chutes.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Double coup de pied",
+      "description": "1. Depuis la garde, lancez un coup de pied circulaire arrière à la cuisse ou au corps avec rotation complète des hanches.\n2. Ramenez seulement en armé sans poser le pied, puis frappez à nouveau de la même jambe sur la même cible ou plus haut.\n3. Reposez le pied derrière, retrouvez la garde et recommencez avant la paire suivante.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Doppeltritt",
+      "description": "1. Schlage aus der Stellung einen hinteren Rundtritt zum Oberschenkel oder Körper mit voller Hüftrotation.\n2. Ziehe nur bis zur Kammer zurück, ohne den Fuß abzusetzen, und tritt mit demselben Bein erneut auf dasselbe oder ein höheres Ziel.\n3. Setze den Trittfuß hinten ab, stelle die Deckung her und setze vor dem nächsten Trittpaar neu an.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Doppio calcio",
+      "description": "1. Dalla posizione, tira un calcio circolare posteriore alla coscia o al corpo con rotazione completa dell’anca.\n2. Richiama solo fino alla caricata senza appoggiare il piede, poi calcia ancora con la stessa gamba sullo stesso bersaglio o più in alto.\n3. Riappoggia il piede dietro, ripristina la guardia e ricomincia prima della coppia successiva.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "同腿连踢",
+      "description": "1. 从站姿用后腿扫踢大腿或躯干，髋部充分转动。\n2. 只收腿到屈膝位置、不落地，再用同一条腿踢向相同或更高的目标。\n3. 踢腿脚落回后方，恢复防守，再准备下一组连踢。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ダブルキック",
+      "description": "1. 構えから腰をしっかり回して、後ろ足の回し蹴りを太ももか胴へ打ちます。\n2. 足を着かずに抱え込みの位置まで引き、同じ脚で同じかより高い目標へもう一度蹴ります。\n3. 蹴り足を後ろへ下ろしてガードを戻し、次の2本の前に仕切り直します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "같은 발 더블 킥",
+      "description": "1. 스탠스에서 골반을 충분히 돌려 뒷발 라운드킥으로 허벅지나 몸통을 찹니다.\n2. 발을 딛지 않고 챔버까지만 회수한 뒤 같은 다리로 같은 높이나 더 높은 목표를 다시 찹니다.\n3. 찬 발을 뒤에 내려 가드를 회복하고 다음 두 번의 킥 전에 다시 준비합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เตะคู่ขาเดียว",
+      "description": "1. จากท่ายืน เตะเหวี่ยงขาหลังใส่ต้นขาหรือลำตัวโดยบิดสะโพกเต็มที่\n2. ดึงขากลับแค่ท่างอเข่าโดยไม่วางเท้า แล้วเตะซ้ำด้วยขาเดิมใส่เป้าเดิมหรือสูงกว่า\n3. วางเท้าที่เตะกลับด้านหลัง คืนการ์ด และตั้งต้นใหม่ก่อนเตะคู่ถัดไป",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Двойной удар одной ногой",
+      "description": "1. Из стойки нанесите задней ногой круговой удар в бедро или корпус с полным поворотом таза.\n2. Верните ногу только в положение замаха, не ставя стопу, и снова ударьте той же ногой в ту же или более высокую цель.\n3. Поставьте ударную ногу назад, восстановите защиту и подготовьтесь к следующей паре ударов.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Подвійний удар однією ногою",
+      "description": "1. Зі стійки завдайте задньою ногою кругового удару в стегно чи корпус із повним поворотом таза.\n2. Поверніть ногу лише в положення замаху, не ставлячи стопу, і знову вдарте тією самою ногою в ту саму або вищу ціль.\n3. Поставте ударну ногу назад, відновіть захист і підготуйтеся до наступної пари ударів.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

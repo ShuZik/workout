@@ -1,0 +1,90 @@
+{
+  "id": "2.12",
+  "key": "muay_thai_lead_roundhouse_kick",
+  "title": "Lead Roundhouse Kick",
+  "description": "1. Shift weight to the rear leg and raise the lead knee across the target line.\n2. Pivot the rear foot and turn the lead hip so the shin swings horizontally through a body pad.\n3. Recoil along the same arc and return the lead foot to a balanced stance.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Roundhouse Kick",
+      "description": "1. Shift weight to the rear leg and raise the lead knee across the target line.\n2. Pivot the rear foot and turn the lead hip so the shin swings horizontally through a body pad.\n3. Recoil along the same arc and return the lead foot to a balanced stance.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Patada circular delantera",
+      "description": "1. Pasa el peso a la pierna trasera y eleva la rodilla delantera cruzando la línea del objetivo.\n2. Pivota el pie trasero y gira la cadera delantera para que la espinilla barra en horizontal un escudo de cuerpo.\n3. Recoge por el mismo arco y devuelve el pie delantero a una postura equilibrada.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Chute circular da frente",
+      "description": "1. Passe o peso para a perna de trás e eleve o joelho da frente atravessando a linha do alvo.\n2. Gire o pé de trás e vire o quadril da frente para que a canela atravesse na horizontal um escudo de corpo.\n3. Recolha pelo mesmo arco e leve o pé da frente de volta a uma base equilibrada.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Coup de pied circulaire avant",
+      "description": "1. Transférez le poids sur la jambe arrière et montez le genou avant en travers de la ligne de la cible.\n2. Pivotez sur le pied arrière et tournez la hanche avant pour que le tibia balaie un bouclier à l’horizontale.\n3. Ramenez sur le même arc et replacez le pied avant dans une garde équilibrée.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Vorderer Halbkreistritt",
+      "description": "1. Verlagere das Gewicht auf das hintere Bein und hebe das vordere Knie quer zur Ziellinie.\n2. Drehe den hinteren Fuß und die vordere Hüfte ein, sodass das Schienbein waagerecht durch ein Schlagpolster schwingt.\n3. Ziehe auf demselben Bogen zurück und setze den vorderen Fuß in eine stabile Stellung.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Calcio circolare anteriore",
+      "description": "1. Sposta il peso sulla gamba posteriore e solleva il ginocchio anteriore attraverso la linea del bersaglio.\n2. Ruota il piede posteriore e gira l’anca anteriore affinché la tibia attraversi in orizzontale un colpitore.\n3. Richiama lungo lo stesso arco e riporta il piede anteriore in una posizione equilibrata.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "前腿扫踢",
+      "description": "1. 重心移到后腿，前膝横过目标线抬起。\n2. 后脚转动，前髋翻转，使小腿胫骨水平扫过躯干靶。\n3. 沿同一弧线收回，前脚落回平衡的站姿。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前足の回し蹴り",
+      "description": "1. 後ろ脚に体重を移し、前の膝を標的のラインを横切るように引き上げます。\n2. 後ろ足を回して前の腰を返し、すねでミットを水平に振り抜きます。\n3. 同じ弧で引き戻し、前足をバランスの取れた構えに戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "앞발 돌려차기",
+      "description": "1. 뒷다리로 체중을 옮기고 앞 무릎을 목표선을 가로질러 들어 올립니다.\n2. 뒷발을 돌리고 앞 골반을 돌려 정강이가 바디 미트를 수평으로 지나가게 합니다.\n3. 같은 호를 따라 회수하고 앞발을 균형 잡힌 자세로 되돌립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เตะเหวี่ยงขาหน้า",
+      "description": "1. ถ่ายน้ำหนักไปขาหลังและยกเข่าหน้าตัดผ่านแนวเป้า\n2. หมุนเท้าหลังและบิดสะโพกหน้า ให้หน้าแข้งเหวี่ยงผ่านเป้าลำตัวในแนวนอน\n3. เก็บขากลับตามแนวโค้งเดิมและวางเท้าหน้ากลับสู่ท่ายืนที่สมดุล",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Круговой удар передней ногой",
+      "description": "1. Перенесите вес на заднюю ногу и поднимите переднее колено поперёк линии цели.\n2. Разверните заднюю стопу и доверните переднюю сторону таза, чтобы голень горизонтально прошла через макивару.\n3. Верните ногу по той же дуге и поставьте переднюю стопу в устойчивую стойку.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Коловий удар передньою ногою",
+      "description": "1. Перенесіть вагу на задню ногу й підніміть переднє коліно впоперек лінії цілі.\n2. Розверніть задню стопу й доверніть передній бік таза, щоб гомілка горизонтально пройшла крізь маківару.\n3. Поверніть ногу тією самою дугою й поставте передню стопу в стійку позицію.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

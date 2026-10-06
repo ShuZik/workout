@@ -1,0 +1,87 @@
+{
+  "id": "57.1",
+  "key": "gouren",
+  "title": "Gouren",
+  "description": "1. Begin standing barefoot on a mat with a trained partner, both wearing wrestling shirts, and shake hands.\n2. Take grips on the partner's shirt only and attempt trips and throws from a standing position, with no groundwork.\n3. Control the partner's fall, stop as soon as anyone touches the mat with more than the feet, and restart standing.",
+  "colorType": "blue",
+  "workoutType": "gouren",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Gouren",
+      "description": "1. Begin standing barefoot on a mat with a trained partner, both wearing wrestling shirts, and shake hands.\n2. Take grips on the partner's shirt only and attempt trips and throws from a standing position, with no groundwork.\n3. Control the partner's fall, stop as soon as anyone touches the mat with more than the feet, and restart standing.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Gouren",
+      "description": "1. Comienza de pie y descalzo sobre el tatami con un compañero entrenado, ambos con camisa de lucha, y estrechaos la mano.\n2. Agarra solo la camisa del compañero e intenta zancadillas y proyecciones de pie, sin trabajo en el suelo.\n3. Controla la caída del compañero, detente en cuanto alguien toque el suelo con algo más que los pies y vuelve a empezar de pie.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Gouren",
+      "description": "1. Comece de pé e descalço no tatame com um parceiro treinado, ambos com camisa de luta, e apertem as mãos.\n2. Segure apenas a camisa do parceiro e tente rasteiras e projeções em pé, sem luta no solo.\n3. Controle a queda do parceiro, pare assim que alguém tocar o chão com algo além dos pés e recomece de pé.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Gouren",
+      "description": "1. Commencez debout, pieds nus sur le tapis, avec un partenaire entraîné, tous deux en chemise de lutte, et serrez-vous la main.\n2. Ne saisissez que la chemise du partenaire et tentez crocs-en-jambe et projections debout, sans travail au sol.\n3. Contrôlez la chute du partenaire, arrêtez dès que quelqu'un touche le tapis avec autre chose que les pieds et repartez debout.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Gouren",
+      "description": "1. Beginne barfuß stehend auf der Matte mit einem geübten Partner, beide im Ringerhemd, und gebt euch die Hand.\n2. Greife nur das Hemd des Partners und versuche Beinstellen und Würfe aus dem Stand, ohne Bodenkampf.\n3. Kontrolliere den Fall des Partners, stoppe, sobald jemand die Matte mit mehr als den Füßen berührt, und beginne stehend neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Gouren",
+      "description": "1. Inizia in piedi e scalzo sul tatami con un partner allenato, entrambi con camicia da lotta, e stringetevi la mano.\n2. Afferra solo la camicia del partner e tenta sgambetti e proiezioni in piedi, senza lotta a terra.\n3. Controlla la caduta del partner, fermati appena qualcuno tocca il tatami con qualcosa oltre ai piedi e riparti in piedi.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "布列塔尼摔跤",
+      "description": "1. 与训练有素的同伴赤脚站在垫上开始，双方穿摔跤衫，先握手。\n2. 只抓同伴的衣衫，在站立中尝试绊摔和摔投，不进行地面技。\n3. 控制同伴倒地，任何人除双脚外有部位触垫即停，站立重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "グーレン",
+      "description": "1. レスリングシャツを着た熟練のパートナーと裸足でマット上に立ち、握手して始めます。\n2. 相手のシャツだけを持ち、立ったまま足払いと投げを試み、寝技は行いません。\n3. 相手の落下を制御し、誰かが足以外でマットに触れたらすぐ止め、立って再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "구렌",
+      "description": "1. 레슬링 셔츠를 입은 숙련된 파트너와 맨발로 매트에 서서 악수하고 시작합니다.\n2. 파트너의 셔츠만 잡고 선 자세에서 걸기와 메치기를 시도하며 그라운드 기술은 하지 않습니다.\n3. 파트너의 낙하를 통제하고 누구든 발 외의 부위가 매트에 닿으면 즉시 멈춘 뒤 선 자세로 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "กูเรน",
+      "description": "1. เริ่มยืนเท้าเปล่าบนเบาะกับคู่ฝึกที่ผ่านการฝึก ทั้งคู่สวมเสื้อปล้ำ แล้วจับมือกัน\n2. จับเฉพาะเสื้อของคู่ฝึก และพยายามขัดขาและทุ่มในท่ายืน โดยไม่ปล้ำบนพื้น\n3. ควบคุมการล้มของคู่ฝึก หยุดทันทีเมื่อมีใครแตะเบาะด้วยส่วนอื่นนอกจากเท้า แล้วเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Гурен",
+      "description": "1. Начните стоя босиком на ковре с подготовленным партнёром, оба в борцовских рубахах, и пожмите руки.\n2. Беритесь только за рубаху партнёра и пробуйте подножки и броски в стойке, без борьбы в партере.\n3. Контролируйте падение партнёра, останавливайтесь, как только кто-то коснётся ковра не только стопами, и начинайте снова в стойке.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Гурен",
+      "description": "1. Почніть стоячи босоніж на килимі з підготовленим партнером, обидва в борцівських сорочках, і потисніть руки.\n2. Беріться лише за сорочку партнера й пробуйте підніжки та кидки в стійці, без боротьби в партері.\n3. Контролюйте падіння партнера, зупиняйтеся, щойно хтось торкнеться килима не лише стопами, і починайте знову в стійці.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

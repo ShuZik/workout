@@ -1,0 +1,197 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#808A94",
+    "colorType": "gray",
+    "folder": "Fencing",
+    "id": "54",
+    "icon": "Fencing/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Fencing",
+    "workoutType": "fencing",
+    "translations": {
+      "en": {
+        "title": "Fencing"
+      },
+      "es": {
+        "title": "Esgrima"
+      },
+      "pt": {
+        "title": "Esgrima"
+      },
+      "fr": {
+        "title": "Escrime"
+      },
+      "de": {
+        "title": "Fechten"
+      },
+      "it": {
+        "title": "Scherma"
+      },
+      "zh-Hans": {
+        "title": "击剑"
+      },
+      "ja": {
+        "title": "フェンシング"
+      },
+      "ko": {
+        "title": "펜싱"
+      },
+      "th": {
+        "title": "ฟันดาบ"
+      },
+      "ru": {
+        "title": "Фехтование"
+      },
+      "uk": {
+        "title": "Фехтування"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Fencing/exercises/fencing/Icon.png",
+      "json": "Fencing/exercises/fencing/fencing.json"
+    },
+    {
+      "icon": "Fencing/exercises/appel/Icon.png",
+      "json": "Fencing/exercises/appel/appel.json"
+    },
+    {
+      "icon": "Fencing/exercises/balestra/Icon.png",
+      "json": "Fencing/exercises/balestra/balestra.json"
+    },
+    {
+      "icon": "Fencing/exercises/lungeAndRecovery/Icon.png",
+      "json": "Fencing/exercises/lungeAndRecovery/lungeAndRecovery.json"
+    },
+    {
+      "icon": "Fencing/exercises/rassemblement/Icon.png",
+      "json": "Fencing/exercises/rassemblement/rassemblement.json"
+    },
+    {
+      "icon": "Fencing/exercises/fleche/Icon.png",
+      "json": "Fencing/exercises/fleche/fleche.json"
+    },
+    {
+      "icon": "Fencing/exercises/straightThrust/Icon.png",
+      "json": "Fencing/exercises/straightThrust/straightThrust.json"
+    },
+    {
+      "icon": "Fencing/exercises/disengage/Icon.png",
+      "json": "Fencing/exercises/disengage/disengage.json"
+    },
+    {
+      "icon": "Fencing/exercises/counterDisengage/Icon.png",
+      "json": "Fencing/exercises/counterDisengage/counterDisengage.json"
+    },
+    {
+      "icon": "Fencing/exercises/cutOver/Icon.png",
+      "json": "Fencing/exercises/cutOver/cutOver.json"
+    },
+    {
+      "icon": "Fencing/exercises/beat/Icon.png",
+      "json": "Fencing/exercises/beat/beat.json"
+    },
+    {
+      "icon": "Fencing/exercises/changeBeat/Icon.png",
+      "json": "Fencing/exercises/changeBeat/changeBeat.json"
+    },
+    {
+      "icon": "Fencing/exercises/engagementFromAbsenceOfBlade/Icon.png",
+      "json": "Fencing/exercises/engagementFromAbsenceOfBlade/engagementFromAbsenceOfBlade.json"
+    },
+    {
+      "icon": "Fencing/exercises/changeOfEngagement/Icon.png",
+      "json": "Fencing/exercises/changeOfEngagement/changeOfEngagement.json"
+    },
+    {
+      "icon": "Fencing/exercises/coule/Icon.png",
+      "json": "Fencing/exercises/coule/coule.json"
+    },
+    {
+      "icon": "Fencing/exercises/bind/Icon.png",
+      "json": "Fencing/exercises/bind/bind.json"
+    },
+    {
+      "icon": "Fencing/exercises/croise/Icon.png",
+      "json": "Fencing/exercises/croise/croise.json"
+    },
+    {
+      "icon": "Fencing/exercises/envelopment/Icon.png",
+      "json": "Fencing/exercises/envelopment/envelopment.json"
+    },
+    {
+      "icon": "Fencing/exercises/remise/Icon.png",
+      "json": "Fencing/exercises/remise/remise.json"
+    },
+    {
+      "icon": "Fencing/exercises/redoublement/Icon.png",
+      "json": "Fencing/exercises/redoublement/redoublement.json"
+    },
+    {
+      "icon": "Fencing/exercises/reprise/Icon.png",
+      "json": "Fencing/exercises/reprise/reprise.json"
+    },
+    {
+      "icon": "Fencing/exercises/derobement/Icon.png",
+      "json": "Fencing/exercises/derobement/derobement.json"
+    },
+    {
+      "icon": "Fencing/exercises/lateralParry/Icon.png",
+      "json": "Fencing/exercises/lateralParry/lateralParry.json"
+    },
+    {
+      "icon": "Fencing/exercises/circularParry/Icon.png",
+      "json": "Fencing/exercises/circularParry/circularParry.json"
+    },
+    {
+      "icon": "Fencing/exercises/semiCircularParry/Icon.png",
+      "json": "Fencing/exercises/semiCircularParry/semiCircularParry.json"
+    },
+    {
+      "icon": "Fencing/exercises/diagonalParry/Icon.png",
+      "json": "Fencing/exercises/diagonalParry/diagonalParry.json"
+    },
+    {
+      "icon": "Fencing/exercises/cedingParry/Icon.png",
+      "json": "Fencing/exercises/cedingParry/cedingParry.json"
+    },
+    {
+      "icon": "Fencing/exercises/oppositionParryAgainstCoule/Icon.png",
+      "json": "Fencing/exercises/oppositionParryAgainstCoule/oppositionParryAgainstCoule.json"
+    },
+    {
+      "icon": "Fencing/exercises/foilFeintDirectDisengage/Icon.png",
+      "json": "Fencing/exercises/foilFeintDirectDisengage/foilFeintDirectDisengage.json"
+    },
+    {
+      "icon": "Fencing/exercises/foilQuarteAndSixteParries/Icon.png",
+      "json": "Fencing/exercises/foilQuarteAndSixteParries/foilQuarteAndSixteParries.json"
+    },
+    {
+      "icon": "Fencing/exercises/foilCircularSixteToOctave/Icon.png",
+      "json": "Fencing/exercises/foilCircularSixteToOctave/foilCircularSixteToOctave.json"
+    },
+    {
+      "icon": "Fencing/exercises/sabreHeadToFlank/Icon.png",
+      "json": "Fencing/exercises/sabreHeadToFlank/sabreHeadToFlank.json"
+    },
+    {
+      "icon": "Fencing/exercises/sabreChestToFlank/Icon.png",
+      "json": "Fencing/exercises/sabreChestToFlank/sabreChestToFlank.json"
+    },
+    {
+      "icon": "Fencing/exercises/sabreStopCutParryRiposte/Icon.png",
+      "json": "Fencing/exercises/sabreStopCutParryRiposte/sabreStopCutParryRiposte.json"
+    },
+    {
+      "icon": "Fencing/exercises/epeeParryRiposteDoubleRedouble/Icon.png",
+      "json": "Fencing/exercises/epeeParryRiposteDoubleRedouble/epeeParryRiposteDoubleRedouble.json"
+    },
+    {
+      "icon": "Fencing/exercises/epeeParryRiposteRepriseRedouble/Icon.png",
+      "json": "Fencing/exercises/epeeParryRiposteRepriseRedouble/epeeParryRiposteRepriseRedouble.json"
+    }
+  ]
+}

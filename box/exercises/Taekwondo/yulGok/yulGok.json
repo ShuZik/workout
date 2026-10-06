@@ -1,0 +1,87 @@
+{
+  "id": "8.32",
+  "key": "taekwondo_yul_gok",
+  "title": "Yul-Gok",
+  "description": "1. Start in parallel ready stance and perform the 38-movement pattern, opening with the measured punches in sitting stance.\n2. Include the front snap kicks followed by double punches, the palm hooking blocks with the front elbow strike into the palm, and the jumping back-fist into X-stance.\n3. Finish with the double forearm blocks and closing strikes, then return to parallel ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Yul-Gok",
+      "description": "1. Start in parallel ready stance and perform the 38-movement pattern, opening with the measured punches in sitting stance.\n2. Include the front snap kicks followed by double punches, the palm hooking blocks with the front elbow strike into the palm, and the jumping back-fist into X-stance.\n3. Finish with the double forearm blocks and closing strikes, then return to parallel ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Yul-Gok",
+      "description": "1. Empieza en posición de preparación paralela y realiza el patrón de 38 movimientos, abriendo con los puñetazos medidos en posición sentada.\n2. Incluye las patadas frontales seguidas de puñetazos dobles, los bloqueos en gancho con la palma con golpe de codo frontal contra la palma y el salto con dorso del puño a posición en X.\n3. Termina con los bloqueos dobles de antebrazo y los golpes finales y vuelve a la posición de preparación paralela.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Yul-Gok",
+      "description": "1. Comece na posição de preparação paralela e execute o padrão de 38 movimentos, abrindo com os socos medidos em base sentada.\n2. Inclua os chutes frontais seguidos de socos duplos, os bloqueios em gancho com a palma com cotovelada frontal na palma e o salto com dorso do punho para a base em X.\n3. Termine com os bloqueios duplos de antebraço e os golpes finais e volte à posição de preparação paralela.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Yul-Gok",
+      "description": "1. Partez en position de préparation parallèle et exécutez l’enchaînement de 38 mouvements, en ouvrant par les coups de poing mesurés en position assise.\n2. Intégrez les coups de pied directs suivis de doubles coups de poing, les blocages en crochet de la paume avec coup de coude avant dans la paume et le revers sauté en position en X.\n3. Terminez par les doubles blocages d’avant-bras et les frappes finales, puis revenez en position de préparation parallèle.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Yul-Gok",
+      "description": "1. Beginne im parallelen Bereitschaftsstand und laufe die 38 Bewegungen, eröffnet mit den abgemessenen Fauststößen im Sitzstand.\n2. Baue die Vorwärtstritte mit Doppelfauststößen, die Handflächen-Hakenblocks mit Ellbogenstoß in die Handfläche und den gesprungenen Rückfaustschlag in den X-Stand ein.\n3. Schließe mit den doppelten Unterarmblocks und Abschlussschlägen ab und kehre in den parallelen Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Yul-Gok",
+      "description": "1. Parti dalla posizione di pronti parallela ed esegui la forma di 38 movimenti, aprendo con i pugni misurati in posizione seduta.\n2. Inserisci i calci frontali seguiti da doppi pugni, le parate a uncino con il palmo con gomitata frontale nel palmo e il salto con dorso del pugno in posizione a X.\n3. Concludi con le doppie parate d’avambraccio e i colpi finali, poi torna alla posizione di pronti parallela.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "栗谷型（Yul-Gok）",
+      "description": "1. 以平行预备式开始，完成38个动作，开头为坐马步的量距冲拳。\n2. 包括前踢接双冲拳、掌勾挡接前肘击掌，以及跳步背拳落成交叉步。\n3. 以双前臂格挡和收尾击打结束，回到平行预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ユルゴク（栗谷）",
+      "description": "1. 平行準備立ちから始め、騎馬立ちでの測り突きで38動作の型を開始します。\n2. 前蹴りからの二連突き、掌の掛け受けと掌への前肘打ち、跳び込んでX立ちでの裏拳打ちを含めます。\n3. 双腕受けと締めの打ちで終え、平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "율곡",
+      "description": "1. 나란히 준비서기에서 시작해 앉은서기 재기 지르기로 38동작 틀을 엽니다.\n2. 앞차기 후 두 번 지르기, 손바닥 걸어막기와 손바닥에 앞팔굽 치기, 뛰어 X서기 등주먹 치기를 포함합니다.\n3. 두팔목 막기와 마무리 치기로 끝내고 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ยุลกก",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนานและทำรูปแบบ 38 จังหวะ โดยเปิดด้วยหมัดวัดระยะในท่ายืนนั่ง\n2. รวมการเตะตรงด้านหน้าตามด้วยหมัดคู่ การปัดเกี่ยวด้วยฝ่ามือพร้อมศอกกระแทกเข้าฝ่ามือ และการกระโดดตีหลังกำปั้นลงท่ายืนไขว้\n3. จบด้วยการปัดด้วยแขนคู่และการโจมตีปิดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบขนาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Юльгок",
+      "description": "1. Начните из параллельной готовой стойки и выполните туль из 38 движений, открыв его отмеряющими ударами в стойке всадника.\n2. Включите прямые удары ногой с двойными ударами рукой, зацепляющие блоки ладонью с ударом локтем в ладонь и прыжок с ударом тыльной стороной кулака в X-стойку.\n3. Завершите двойными блоками предплечьями и заключительными ударами и вернитесь в параллельную готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Юльгок",
+      "description": "1. Почніть із паралельної готової стійки й виконайте туль із 38 рухів, відкривши його відмірювальними ударами в стійці вершника.\n2. Додайте прямі удари ногою з подвійними ударами рукою, чіпляльні блоки долонею з ударом ліктем у долоню та стрибок з ударом тильним боком кулака в X-стійку.\n3. Завершіть подвійними блоками передпліччями й завершальними ударами та поверніться в паралельну готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

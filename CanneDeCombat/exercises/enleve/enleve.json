@@ -1,0 +1,90 @@
+{
+  "id": "48.6",
+  "key": "canne_enleve",
+  "title": "Enleve",
+  "description": "1. From guard, lower the point and lift the cane forward and upward in a rising wind-up so it travels up past the face and over the shoulder.\n2. Continue the circle and bring the cane down on a vertical line onto the head with the arm extended.\n3. Stop at target height under control and return to guard.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Strikes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Enleve",
+      "description": "1. From guard, lower the point and lift the cane forward and upward in a rising wind-up so it travels up past the face and over the shoulder.\n2. Continue the circle and bring the cane down on a vertical line onto the head with the arm extended.\n3. Stop at target height under control and return to guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Enlevé",
+      "description": "1. Desde la guardia, baja la punta y eleva el bastón hacia delante y arriba en un armado ascendente para que pase frente a la cara y por encima del hombro.\n2. Continúa el círculo y baja el bastón en línea vertical sobre la cabeza con el brazo extendido.\n3. Detente a la altura del blanco con control y vuelve a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Enlevé",
+      "description": "1. Da guarda, baixe a ponta e eleve a bengala para a frente e para cima num armado ascendente, passando diante do rosto e por cima do ombro.\n2. Continue o círculo e traga a bengala para baixo numa linha vertical sobre a cabeça com o braço estendido.\n3. Pare à altura do alvo com controle e volte à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Enlevé",
+      "description": "1. Depuis la garde, abaissez la pointe et enlevez la canne vers l’avant et le haut dans un armé montant, devant le visage et par-dessus l’épaule.\n2. Poursuivez le cercle et redescendez la canne sur une ligne verticale sur la tête, bras tendu.\n3. Arrêtez à hauteur de cible sous contrôle et revenez en garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Enlevé",
+      "description": "1. Aus der Grundstellung die Spitze senken und den Stock in einem aufsteigenden Ausholen nach vorn und oben führen, vor dem Gesicht vorbei und über die Schulter.\n2. Den Kreis fortsetzen und den Stock mit gestrecktem Arm auf einer senkrechten Linie auf den Kopf bringen.\n3. Auf Zielhöhe kontrolliert stoppen und in die Grundstellung zurückkehren.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Enlevé",
+      "description": "1. Dalla guardia abbassa la punta e solleva il bastone in avanti e in alto con un caricamento ascendente, davanti al viso e sopra la spalla.\n2. Continua il cerchio e porta il bastone giù su una linea verticale sulla testa a braccio teso.\n3. Fermati all’altezza del bersaglio con controllo e torna in guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "上挑劈击",
+      "description": "1. 从戒备姿势放低杖尖，向前向上挑起做上升式蓄势，使杖经过面前并越过肩膀。\n2. 继续画圆，手臂伸展，沿竖直线将杖落向头部。\n3. 在目标高度受控停住，回到戒备姿势。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "アンルヴェ",
+      "description": "1. 構えから先端を下げ、上昇するアルメでカンヌを前方上方へ持ち上げ、顔の前を通して肩越しへ回します。\n2. 円を続け、腕を伸ばして垂直線上に頭部へ打ち下ろします。\n3. 目標の高さで制御して止め、構えに戻ります。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "앙르베",
+      "description": "1. 가드에서 끝을 낮추고 지팡이를 앞쪽 위로 들어 올리는 상승 준비 동작으로 얼굴 앞을 지나 어깨 위로 넘깁니다.\n2. 원을 이어 팔을 편 채 수직선으로 머리 위에 내려칩니다.\n3. 목표 높이에서 통제하여 멈추고 가드로 돌아옵니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "อองเลอเว",
+      "description": "1. จากการ์ด ลดปลายไม้ลงแล้วยกไม้ไปข้างหน้าและขึ้นด้านบนเป็นการง้างแบบยกขึ้น ผ่านหน้าและข้ามไหล่\n2. หมุนต่อเป็นวงกลมแล้วฟาดไม้ลงแนวดิ่งที่ศีรษะโดยแขนเหยียด\n3. หยุดที่ระดับเป้าอย่างควบคุม แล้วกลับสู่การ์ด",
+      "sectionTitle": "การตี"
+    },
+    "ru": {
+      "title": "Анлеве",
+      "description": "1. Из стойки опустите острие и поднимите трость вперёд и вверх восходящим замахом, проводя её перед лицом и через плечо.\n2. Продолжите круг и опустите трость по вертикальной линии на голову прямой рукой.\n3. Подконтрольно остановитесь на высоте цели и вернитесь в стойку.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Анлеве",
+      "description": "1. Зі стійки опустіть вістря й підніміть тростину вперед і вгору висхідним замахом, проводячи її перед обличчям і через плече.\n2. Продовжте коло й опустіть тростину вертикальною лінією на голову прямою рукою.\n3. Підконтрольно зупиніться на висоті цілі й поверніться в стійку.",
+      "sectionTitle": "Удари"
+    }
+  }
+}

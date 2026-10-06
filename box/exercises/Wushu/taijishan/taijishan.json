@@ -1,0 +1,87 @@
+{
+  "id": "109.12",
+  "key": "wushu_taijishan",
+  "title": "Taijishan",
+  "description": "1. Hold a closed training fan in the right hand, stand with the feet together, and relax the shoulders.\n2. Perform the taijishan routine in continuous taiji rhythm, opening and closing the fan with crisp snaps as it blocks, pierces, and sweeps in arcs.\n3. Close the fan on the final posture, lower the arms, and bring the feet together.",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taijishan",
+      "description": "1. Hold a closed training fan in the right hand, stand with the feet together, and relax the shoulders.\n2. Perform the taijishan routine in continuous taiji rhythm, opening and closing the fan with crisp snaps as it blocks, pierces, and sweeps in arcs.\n3. Close the fan on the final posture, lower the arms, and bring the feet together.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taijishan",
+      "description": "1. Sujeta un abanico de entrenamiento cerrado en la mano derecha, junta los pies y relaja los hombros.\n2. Ejecuta la rutina de taijishan con ritmo continuo de taiji, abriendo y cerrando el abanico con chasquidos nítidos mientras bloquea, punza y barre en arcos.\n3. Cierra el abanico en la postura final, baja los brazos y junta los pies.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taijishan",
+      "description": "1. Segure um leque de treino fechado na mão direita, fique com os pés juntos e relaxe os ombros.\n2. Execute a rotina de taijishan em ritmo contínuo de taiji, abrindo e fechando o leque com estalos nítidos enquanto bloqueia, estoca e varre em arcos.\n3. Feche o leque na postura final, baixe os braços e una os pés.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taijishan",
+      "description": "1. Tenez un éventail d’entraînement fermé dans la main droite, pieds joints, épaules relâchées.\n2. Exécutez l’enchaînement de taijishan au rythme continu du taiji, en ouvrant et fermant l’éventail d’un claquement net tandis qu’il bloque, pique et balaie en arcs.\n3. Fermez l’éventail sur la posture finale, abaissez les bras et rejoignez les pieds.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taijishan",
+      "description": "1. Halte einen geschlossenen Trainingsfächer in der rechten Hand, stehe mit geschlossenen Füßen und entspanne die Schultern.\n2. Laufe die Taijishan-Routine im fließenden Taiji-Rhythmus, öffne und schließe den Fächer mit klarem Schnappen, während er abwehrt, sticht und in Bögen fegt.\n3. Schließe den Fächer in der Endposition, senke die Arme und führe die Füße zusammen.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taijishan",
+      "description": "1. Tieni un ventaglio da allenamento chiuso nella mano destra, stai a piedi uniti e rilassa le spalle.\n2. Esegui la routine di taijishan con ritmo continuo di taiji, aprendo e chiudendo il ventaglio con schiocchi netti mentre para, affonda e spazza in archi.\n3. Chiudi il ventaglio nella postura finale, abbassa le braccia e unisci i piedi.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极扇",
+      "description": "1. 右手持合拢的训练用扇，并步站立，沉肩放松。\n2. 以连贯的太极节奏演练太极扇套路，开扇、合扇清脆利落，配合格、刺、扫等弧形动作。\n3. 最后一式合扇，两臂下落，并步收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極扇",
+      "description": "1. 閉じた練習用の扇を右手に持ち、足をそろえて肩の力を抜きます。\n2. 途切れない太極のリズムで、扇を鋭く開閉しながら受け・刺し・弧を描く払いを行い、太極扇套路を演武します。\n3. 最後の姿勢で扇を閉じ、両腕を下ろして足をそろえます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "태극선",
+      "description": "1. 접은 훈련용 부채를 오른손에 쥐고 두 발을 모은 채 어깨를 이완합니다.\n2. 끊김 없는 태극 리듬으로 부채를 경쾌하게 펴고 접으며 막기, 찌르기, 호를 그리는 쓸기 동작으로 태극선 투로를 수행합니다.\n3. 마지막 자세에서 부채를 접고 팔을 내린 뒤 두 발을 모읍니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "ไท่จี๋ซ่าน (พัดไท่จี๋)",
+      "description": "1. ถือพัดฝึกที่หุบไว้ในมือขวา ยืนชิดเท้า และผ่อนคลายไหล่\n2. รำชุดไท่จี๋ซ่านด้วยจังหวะไท่จี๋ที่ต่อเนื่อง กางและหุบพัดเสียงดังชัดขณะปัด แทง และกวาดเป็นโค้ง\n3. หุบพัดในท่าสุดท้าย ลดแขนลง และชิดเท้า",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тайцзишань",
+      "description": "1. Держите закрытый тренировочный веер в правой руке, стопы вместе, плечи расслаблены.\n2. Выполните комплекс тайцзишань в непрерывном ритме тайцзи, раскрывая и закрывая веер чётким щелчком, пока он блокирует, колет и метёт дугами.\n3. Закройте веер в финальной позе, опустите руки и приставьте стопы.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тайцзішань",
+      "description": "1. Тримайте закрите тренувальне віяло в правій руці, стопи разом, плечі розслаблені.\n2. Виконайте комплекс тайцзішань у безперервному ритмі тайцзі, розкриваючи й закриваючи віяло чітким клацанням, доки воно блокує, коле й мете дугами.\n3. Закрийте віяло у фінальній позі, опустіть руки й приставте стопи.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

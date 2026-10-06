@@ -1,0 +1,90 @@
+{
+  "id": "14.16",
+  "key": "core_bear_plank",
+  "title": "Bear Plank",
+  "description": "1. Start on hands and knees with the hands under the shoulders and knees under the hips.\n2. Lift the knees a few centimetres while bracing the abdomen and keeping the back flat.\n3. Hold the position without shifting the hips, locking the elbows, or holding the breath.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bear Plank",
+      "description": "1. Start on hands and knees with the hands under the shoulders and knees under the hips.\n2. Lift the knees a few centimetres while bracing the abdomen and keeping the back flat.\n3. Hold the position without shifting the hips, locking the elbows, or holding the breath.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Plancha de oso",
+      "description": "1. Empieza sobre manos y rodillas, con las manos debajo de los hombros y las rodillas debajo de las caderas.\n2. Eleva las rodillas unos centímetros, activando el abdomen y manteniendo la espalda plana.\n3. Mantén la posición sin mover las caderas, bloquear los codos ni contener la respiración.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Prancha de urso",
+      "description": "1. Comece sobre mãos e joelhos, com as mãos sob os ombros e os joelhos sob o quadril.\n2. Eleve os joelhos alguns centímetros, firmando o abdômen e mantendo as costas retas.\n3. Mantenha a posição sem deslocar o quadril, travar os cotovelos ou prender a respiração.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Planche de l’ours",
+      "description": "1. Commencez à quatre pattes, les mains sous les épaules et les genoux sous les hanches.\n2. Soulevez les genoux de quelques centimètres en engageant l’abdomen et en gardant le dos plat.\n3. Maintenez la position sans déplacer les hanches, verrouiller les coudes ni retenir le souffle.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Bärenplanke",
+      "description": "1. Beginne im Vierfüßlerstand mit den Händen unter den Schultern und den Knien unter den Hüften.\n2. Hebe die Knie einige Zentimeter, spanne den Bauch an und halte den Rücken gerade.\n3. Halte die Position, ohne die Hüfte zu verschieben, die Ellenbogen durchzustrecken oder den Atem anzuhalten.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Plank dell’orso",
+      "description": "1. Inizia su mani e ginocchia, con le mani sotto le spalle e le ginocchia sotto le anche.\n2. Solleva le ginocchia di pochi centimetri, attivando l’addome e mantenendo la schiena piatta.\n3. Mantieni la posizione senza spostare il bacino, bloccare i gomiti o trattenere il respiro.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "熊式平板支撑",
+      "description": "1. 从四足跪姿开始，双手在肩膀下方，双膝在髋部下方。\n2. 收紧腹部，保持背部平直，将膝盖抬离地面几厘米。\n3. 保持姿势，不要移动髋部、锁死肘关节或屏住呼吸。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ベアプランク",
+      "description": "1. 手を肩の下、膝を腰の下に置いて四つんばいになります。\n2. お腹を引き締めて背中を平らに保ち、膝を数センチ浮かせます。\n3. 腰を動かしたり、肘を伸ばし切ったり、息を止めたりせずに保ちます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "베어 플랭크",
+      "description": "1. 손을 어깨 아래, 무릎을 골반 아래에 두고 네발기기 자세로 시작합니다.\n2. 복부에 힘을 주고 등을 평평하게 유지하며 무릎을 몇 센티미터 듭니다.\n3. 골반을 움직이거나 팔꿈치를 잠그거나 숨을 참지 않고 자세를 유지합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "แพลงก์ท่าหมี",
+      "description": "1. เริ่มด้วยมือและเข่าบนพื้น ให้มืออยู่ใต้ไหล่และเข่าอยู่ใต้สะโพก\n2. ยกเข่าขึ้นสองสามเซนติเมตร ขณะเกร็งหน้าท้องและให้หลังแบนตรง\n3. ค้างท่าโดยไม่ขยับสะโพก ไม่ล็อกข้อศอก และไม่กลั้นหายใจ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Медвежья планка",
+      "description": "1. Начните на руках и коленях, расположив кисти под плечами, а колени под тазом.\n2. Поднимите колени на несколько сантиметров, напрягая живот и сохраняя спину ровной.\n3. Удерживайте положение без смещения таза, блокировки локтей или задержки дыхания.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Ведмежа планка",
+      "description": "1. Почніть на руках і колінах, розташувавши кисті під плечима, а коліна під тазом.\n2. Підніміть коліна на кілька сантиметрів, напружуючи живіт і зберігаючи спину рівною.\n3. Утримуйте положення без зміщення таза, блокування ліктів або затримки дихання.",
+      "sectionTitle": "База"
+    }
+  }
+}

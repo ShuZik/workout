@@ -1,0 +1,90 @@
+{
+  "id": "40.1",
+  "key": "karate",
+  "title": "Karate",
+  "description": "1. Begin in a balanced ready or fighting stance with the knees soft, hips level, hands prepared, and eyes forward.\n2. Drill one stance, punch, block, or kick at a time, coordinating the foot placement, hip action, and finishing position.\n3. Rechamber every limb and settle the stance completely before linking the next basic technique.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Karate",
+      "description": "1. Begin in a balanced ready or fighting stance with the knees soft, hips level, hands prepared, and eyes forward.\n2. Drill one stance, punch, block, or kick at a time, coordinating the foot placement, hip action, and finishing position.\n3. Rechamber every limb and settle the stance completely before linking the next basic technique.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Karate",
+      "description": "1. Comienza en una postura de preparación o combate equilibrada, con rodillas flexibles, caderas niveladas, manos listas y mirada al frente.\n2. Practica una postura, puñetazo, bloqueo o patada a la vez, coordinando la colocación de los pies, la acción de cadera y la posición final.\n3. Recoge cada extremidad y estabiliza completamente la postura antes de enlazar la siguiente técnica básica.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Karatê",
+      "description": "1. Comece em uma base de preparação ou combate equilibrada, com joelhos flexíveis, quadris nivelados, mãos prontas e olhar à frente.\n2. Treine uma base, soco, bloqueio ou chute por vez, coordenando a posição dos pés, a ação dos quadris e a posição final.\n3. Recolha cada membro e estabilize completamente a base antes de encadear a próxima técnica básica.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Karaté",
+      "description": "1. Commencez en position de préparation ou de combat équilibrée, genoux souples, hanches de niveau, mains prêtes et regard devant.\n2. Travaillez une position, un coup de poing, un blocage ou un coup de pied à la fois, en coordonnant les pieds, les hanches et la position finale.\n3. Ramenez chaque membre en position armée et stabilisez complètement la posture avant de poursuivre avec la technique de base suivante.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Karate",
+      "description": "1. Beginne in einem ausgeglichenen Bereitschafts- oder Kampfstand mit lockeren Knien, waagerechten Hüften, bereiten Händen und Blick nach vorn.\n2. Übe jeweils einen Stand, Fauststoß, Block oder Tritt und koordiniere Fußstellung, Hüftbewegung und Endposition.\n3. Führe jedes Glied in die Ausgangsposition zurück und stabilisiere den Stand vollständig, bevor du die nächste Grundtechnik anschließt.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Karate",
+      "description": "1. Inizia in una posizione di preparazione o combattimento equilibrata, con ginocchia morbide, anche allineate, mani pronte e sguardo avanti.\n2. Esercita una posizione, un pugno, una parata o un calcio alla volta, coordinando i piedi, il movimento delle anche e la posizione finale.\n3. Richiama ogni arto e stabilizza completamente la posizione prima di collegare la tecnica di base successiva.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "空手道",
+      "description": "1. 从平衡的预备姿势或格斗姿势开始，膝盖放松，髋部保持水平，双手准备好，目视前方。\n2. 每次练习一种站姿、拳击、格挡或踢击，协调脚的位置、髋部动作和结束姿势。\n3. 每个肢体都收回准备位置，完全稳定站姿后再衔接下一项基本技术。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "空手",
+      "description": "1. 膝を柔らかく保ち、腰を水平にし、手を準備して前を見ながら、バランスの取れた用意または組手の構えで始めます。\n2. 立ち方、突き、受け、蹴りを一つずつ練習し、足の位置、腰の動き、終了姿勢を合わせます。\n3. 各手足を引き戻し、構えを完全に安定させてから次の基本技につなげます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "가라테",
+      "description": "1. 무릎을 부드럽게 하고 골반을 수평으로 유지하며 손을 준비하고 앞을 보면서 균형 잡힌 준비 자세나 겨루기 자세로 시작합니다.\n2. 서기, 지르기, 막기 또는 차기를 한 번에 하나씩 연습하며 발 위치, 골반 움직임, 마무리 자세를 맞춥니다.\n3. 각 팔다리를 준비 위치로 거두고 자세를 완전히 안정시킨 뒤 다음 기본 기술을 연결합니다.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "คาราเต้",
+      "description": "1. เริ่มในท่าเตรียมหรือท่าต่อสู้ที่สมดุล ผ่อนเข่า สะโพกอยู่ระดับเดียวกัน มือพร้อม และมองไปข้างหน้า\n2. ฝึกท่ายืน หมัด การป้องกัน หรือการเตะทีละอย่าง โดยประสานตำแหน่งเท้า การเคลื่อนไหวสะโพก และท่าจบ\n3. ดึงแขนขาแต่ละข้างกลับสู่ท่าเตรียมและจัดท่ายืนให้มั่นคงเต็มที่ก่อนเชื่อมต่อเทคนิคพื้นฐานถัดไป",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Карате",
+      "description": "1. Начните в устойчивой подготовительной или боевой стойке: колени мягкие, таз ровный, руки готовы, взгляд вперёд.\n2. Отрабатывайте по одной стойке, удару рукой, блоку или удару ногой, согласуя постановку стоп, движение таза и конечное положение.\n3. Возвращайте каждую конечность в исходное положение и полностью стабилизируйте стойку перед следующей базовой техникой.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Карате",
+      "description": "1. Почніть у стійкій підготовчій або бойовій стійці: коліна м’які, таз рівний, руки готові, погляд уперед.\n2. Відпрацьовуйте по одній стійці, удару рукою, блоку або удару ногою, узгоджуючи постановку стоп, рух таза й кінцеве положення.\n3. Повертайте кожну кінцівку у вихідне положення та повністю стабілізуйте стійку перед наступною базовою технікою.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

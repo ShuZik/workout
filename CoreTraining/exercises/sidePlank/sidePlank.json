@@ -1,0 +1,90 @@
+{
+  "id": "14.6",
+  "key": "core_training_side_plank",
+  "title": "Side Plank",
+  "description": "1. Lie on one side with the supporting elbow under the shoulder and the feet stacked or staggered.\n2. Press the forearm and feet into the floor to lift the hips until the head, trunk, and legs form one line.\n3. Keep the pelvis stacked without rotating forward, then lower under control and repeat on the other side.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Side Plank",
+      "description": "1. Lie on one side with the supporting elbow under the shoulder and the feet stacked or staggered.\n2. Press the forearm and feet into the floor to lift the hips until the head, trunk, and legs form one line.\n3. Keep the pelvis stacked without rotating forward, then lower under control and repeat on the other side.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Plancha lateral",
+      "description": "1. Túmbate de lado con el codo de apoyo debajo del hombro y los pies uno sobre otro o escalonados.\n2. Presiona el antebrazo y los pies contra el suelo para elevar las caderas hasta que la cabeza, el tronco y las piernas formen una línea.\n3. Mantén la pelvis alineada de lado sin girarla hacia delante; después baja de forma controlada y repite del otro lado.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Prancha lateral",
+      "description": "1. Deite de lado com o cotovelo de apoio sob o ombro e os pés empilhados ou desencontrados.\n2. Pressione o antebraço e os pés contra o chão para elevar os quadris até que cabeça, tronco e pernas formem uma linha.\n3. Mantenha a pelve alinhada de lado sem girar para a frente, depois desça de forma controlada e repita do outro lado.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Planche latérale",
+      "description": "1. Allongez-vous sur un côté, coude d’appui sous l’épaule et pieds superposés ou décalés.\n2. Pressez l’avant-bras et les pieds dans le sol pour soulever les hanches jusqu’à aligner la tête, le tronc et les jambes.\n3. Gardez le bassin de côté, les hanches superposées, sans tourner vers l’avant, puis redescendez avec contrôle et répétez de l’autre côté.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Seitliche Planke",
+      "description": "1. Lege dich auf eine Seite, mit dem stützenden Ellbogen unter der Schulter und den Füßen übereinander oder versetzt.\n2. Drücke Unterarm und Füße in den Boden und hebe die Hüften, bis Kopf, Rumpf und Beine eine Linie bilden.\n3. Halte die Beckenseiten übereinander, ohne nach vorn zu drehen. Senke dich dann kontrolliert ab und wiederhole auf der anderen Seite.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Plank laterale",
+      "description": "1. Sdraiati su un fianco con il gomito di appoggio sotto la spalla e i piedi sovrapposti o sfalsati.\n2. Premi l’avambraccio e i piedi contro il pavimento per sollevare le anche finché testa, tronco e gambe formano una linea.\n3. Mantieni il bacino di lato con le anche sovrapposte, senza ruotare in avanti, poi scendi in modo controllato e ripeti sull’altro lato.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "侧平板支撑",
+      "description": "1. 侧卧，支撑侧肘部位于肩部下方，双脚上下叠放或前后错开。\n2. 前臂和双脚压向地面，抬起髋部，直到头部、躯干和双腿成一直线。\n3. 保持骨盆两侧上下对齐，不要向前转动，然后有控制地放下并换另一侧重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "サイドプランク",
+      "description": "1. 横向きに寝て、支える肘を肩の下に置き、両足を重ねるか前後にずらします。\n2. 前腕と足で床を押し、頭、体幹、脚が一直線になるまで腰を持ち上げます。\n3. 骨盤の左右を上下にそろえ、前へ回さずに保ちます。その後ゆっくり下ろし、反対側も行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "사이드 플랭크",
+      "description": "1. 옆으로 누워 지지하는 팔꿈치를 어깨 아래에 두고 발을 포개거나 앞뒤로 엇갈리게 놓습니다.\n2. 전완과 발로 바닥을 눌러 머리, 몸통, 다리가 일직선이 될 때까지 골반을 들어 올립니다.\n3. 골반 양쪽을 위아래로 정렬해 앞으로 회전하지 않도록 유지한 뒤 조절하며 내려오고 반대쪽도 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "แพลงก์ด้านข้าง",
+      "description": "1. นอนตะแคง วางข้อศอกข้างที่รับน้ำหนักใต้ไหล่ และวางเท้าซ้อนกันหรือเหลื่อมหน้าและหลัง\n2. กดท่อนแขนและเท้าลงกับพื้นเพื่อยกสะโพกจนศีรษะ ลำตัว และขาอยู่ในแนวเดียวกัน\n3. รักษาเชิงกรานทั้งสองข้างให้ซ้อนตรงกันโดยไม่หมุนไปข้างหน้า แล้วลดตัวลงอย่างควบคุมและทำอีกข้าง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Боковая планка",
+      "description": "1. Лягте на бок, расположите опорный локоть под плечом, а стопы — друг на друге или со смещением.\n2. Давите предплечьем и стопами в пол, поднимая таз, пока голова, корпус и ноги не образуют одну линию.\n3. Держите стороны таза одну над другой, не поворачиваясь вперёд, затем подконтрольно опуститесь и повторите на другом боку.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Бічна планка",
+      "description": "1. Ляжте на бік, розташуйте опорний лікоть під плечем, а стопи — одна на одній або зі зміщенням.\n2. Тисніть передпліччям і стопами в підлогу, піднімаючи таз, доки голова, корпус і ноги не утворять одну лінію.\n3. Тримайте боки таза один над одним, не повертаючись уперед, потім контрольовано опустіться й повторіть на іншому боці.",
+      "sectionTitle": "База"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "11.13",
+  "key": "open_water_swimming",
+  "title": "Open Water Swimming",
+  "description": "1. Enter only a designated safe area with a visible tow float and a partner or supervised group.\n2. Swim with a relaxed repeatable stroke, exhaling into the water and turning or lifting the head to inhale.\n3. Sight forward regularly to hold direction and stop immediately if cold, current, or breathing becomes unsafe.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6,
+    "moderate": 9.8,
+    "vigorous": 10.5,
+    "lightCode": "18300",
+    "moderateCode": "18230",
+    "vigorousCode": "18285"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Outdoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Open Water Swimming",
+      "description": "1. Enter only a designated safe area with a visible tow float and a partner or supervised group.\n2. Swim with a relaxed repeatable stroke, exhaling into the water and turning or lifting the head to inhale.\n3. Sight forward regularly to hold direction and stop immediately if cold, current, or breathing becomes unsafe.",
+      "sectionTitle": "Outdoor"
+    },
+    "es": {
+      "title": "Natación en aguas abiertas",
+      "description": "1. Entra solo en una zona segura habilitada, con una boya de arrastre visible y un compañero o un grupo supervisado.\n2. Nada con una brazada relajada y repetible, exhalando dentro del agua y girando o levantando la cabeza para inhalar.\n3. Mira hacia delante regularmente para mantener la dirección y detente inmediatamente si el frío, la corriente o la respiración dejan de ser seguros.",
+      "sectionTitle": "Al aire libre"
+    },
+    "pt": {
+      "title": "Natação em águas abertas",
+      "description": "1. Entre apenas em uma área segura designada, com uma boia de sinalização visível e um parceiro ou grupo supervisionado.\n2. Nade com uma braçada relaxada e repetível, expirando na água e virando ou levantando a cabeça para inspirar.\n3. Olhe à frente regularmente para manter a direção e pare imediatamente se o frio, a correnteza ou a respiração se tornarem perigosos.",
+      "sectionTitle": "Ao ar livre"
+    },
+    "fr": {
+      "title": "Natation en eau libre",
+      "description": "1. Entrez uniquement dans une zone sûre désignée, avec une bouée de signalisation visible et un partenaire ou un groupe encadré.\n2. Nagez avec un mouvement détendu et régulier, en expirant dans l’eau et en tournant ou levant la tête pour inspirer.\n3. Regardez régulièrement devant vous pour garder la direction et arrêtez-vous immédiatement si le froid, le courant ou la respiration deviennent dangereux.",
+      "sectionTitle": "En plein air"
+    },
+    "de": {
+      "title": "Freiwasserschwimmen",
+      "description": "1. Gehe nur in einen ausgewiesenen sicheren Bereich, mit sichtbarer Schwimmboje und einer Begleitperson oder betreuten Gruppe.\n2. Schwimme mit einem entspannten, wiederholbaren Zug, atme ins Wasser aus und drehe oder hebe den Kopf zum Einatmen.\n3. Schaue regelmäßig nach vorn, um die Richtung zu halten, und stoppe sofort, wenn Kälte, Strömung oder Atmung unsicher werden.",
+      "sectionTitle": "Im Freien"
+    },
+    "it": {
+      "title": "Nuoto in acque libere",
+      "description": "1. Entra solo in un’area sicura designata, con una boa di segnalazione visibile e un compagno o un gruppo supervisionato.\n2. Nuota con una bracciata rilassata e ripetibile, espirando nell’acqua e girando o sollevando la testa per inspirare.\n3. Guarda regolarmente avanti per mantenere la direzione e fermati subito se il freddo, la corrente o la respirazione diventano pericolosi.",
+      "sectionTitle": "All’aperto"
+    },
+    "zh-Hans": {
+      "title": "公开水域游泳",
+      "description": "1. 仅进入指定的安全区域，携带明显可见的拖曳浮标，并与同伴或有监督的团队同行。\n2. 以放松、可重复的划水动作游泳，在水中呼气，转头或抬头吸气。\n3. 定期向前观察以保持方向；若寒冷、水流或呼吸状况变得不安全，立即停止。",
+      "sectionTitle": "户外"
+    },
+    "ja": {
+      "title": "オープンウォータースイミング",
+      "description": "1. 目立つ曳航ブイを付け、パートナーか監督付きのグループと、指定された安全な区域だけに入ります。\n2. リラックスした繰り返せるストロークで泳ぎ、水中で吐いて、顔を横に向けるか上げて吸います。\n3. 定期的に前を見て方向を保ち、寒さ、流れ、呼吸が危険になったら直ちに止めます。",
+      "sectionTitle": "屋外"
+    },
+    "ko": {
+      "title": "오픈워터 수영",
+      "description": "1. 눈에 잘 띄는 견인 부표를 갖추고 동료 또는 감독이 있는 그룹과 함께 지정된 안전 구역에만 들어갑니다.\n2. 편안하고 반복 가능한 스트로크로 수영하며 물속에서 내쉬고 머리를 돌리거나 들어 들이쉽니다.\n3. 방향을 유지하도록 정기적으로 앞을 확인하고 추위, 물살 또는 호흡이 위험해지면 즉시 멈춥니다.",
+      "sectionTitle": "야외"
+    },
+    "th": {
+      "title": "ว่ายน้ำในแหล่งน้ำเปิด",
+      "description": "1. ลงน้ำเฉพาะบริเวณปลอดภัยที่กำหนด ใช้ทุ่นลากที่มองเห็นชัด และไปกับคู่ฝึกหรือกลุ่มที่มีผู้ดูแล\n2. ว่ายด้วยท่าที่ผ่อนคลายและทำซ้ำได้ หายใจออกในน้ำแล้วหันหรือยกศีรษะเพื่อหายใจเข้า\n3. มองไปข้างหน้าเป็นระยะเพื่อรักษาทิศทาง และหยุดทันทีหากความหนาว กระแสน้ำ หรือการหายใจไม่ปลอดภัย",
+      "sectionTitle": "กลางแจ้ง"
+    },
+    "ru": {
+      "title": "Плавание на открытой воде",
+      "description": "1. Заходите только в обозначенную безопасную зону с заметным буксируемым буйком и партнёром или группой под наблюдением.\n2. Плывите расслабленным повторяемым гребком, выдыхая в воду и поворачивая или поднимая голову для вдоха.\n3. Регулярно смотрите вперёд, чтобы держать направление, и немедленно остановитесь, если холод, течение или дыхание становятся небезопасными.",
+      "sectionTitle": "На открытом воздухе"
+    },
+    "uk": {
+      "title": "Плавання на відкритій воді",
+      "description": "1. Заходьте лише в позначену безпечну зону з помітним буксируваним буйком і партнером або групою під наглядом.\n2. Пливіть розслабленим повторюваним гребком, видихаючи у воду й повертаючи або піднімаючи голову для вдиху.\n3. Регулярно дивіться вперед, щоб тримати напрямок, і негайно зупиніться, якщо холод, течія або дихання стають небезпечними.",
+      "sectionTitle": "Надворі"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "41.104",
+  "key": "judo_sankaku_gatame",
+  "title": "Sankaku Gatame",
+  "description": "1. From a triangle lock with the partner's neck and one arm trapped between the legs, control the trapped wrist.\n2. Pull the trapped arm across your body so the elbow lies against your thigh or abdomen.\n3. Extend the arm gradually against the leg lock and release immediately at a tap or signal.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "7 Groundwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Sankaku Gatame",
+      "description": "1. From a triangle lock with the partner's neck and one arm trapped between the legs, control the trapped wrist.\n2. Pull the trapped arm across your body so the elbow lies against your thigh or abdomen.\n3. Extend the arm gradually against the leg lock and release immediately at a tap or signal.",
+      "sectionTitle": "Groundwork"
+    },
+    "es": {
+      "title": "Sankaku Gatame",
+      "description": "1. Desde un triángulo con el cuello y un brazo del compañero atrapados entre las piernas, controla la muñeca atrapada.\n2. Tira del brazo atrapado a través de tu cuerpo para que el codo quede contra tu muslo o abdomen.\n3. Extiende el brazo gradualmente contra el bloqueo de piernas y suelta de inmediato ante un golpe de rendición o señal.",
+      "sectionTitle": "Trabajo en suelo"
+    },
+    "pt": {
+      "title": "Sankaku Gatame",
+      "description": "1. De um triângulo com o pescoço e um braço do parceiro presos entre as pernas, controle o punho preso.\n2. Puxe o braço preso através do seu corpo para que o cotovelo fique contra sua coxa ou abdômen.\n3. Estenda o braço gradualmente contra a trava de pernas e solte imediatamente a um toque de desistência ou sinal.",
+      "sectionTitle": "Trabalho de solo"
+    },
+    "fr": {
+      "title": "Sankaku Gatame",
+      "description": "1. Depuis un triangle avec le cou et un bras du partenaire pris entre les jambes, contrôlez le poignet bloqué.\n2. Tirez le bras bloqué en travers de votre corps pour que le coude repose contre votre cuisse ou votre abdomen.\n3. Étendez progressivement le bras contre le verrou de jambes et relâchez immédiatement au tapotement ou au signal.",
+      "sectionTitle": "Travail au sol"
+    },
+    "de": {
+      "title": "Sankaku Gatame",
+      "description": "1. Kontrolliere aus einem Dreieck, bei dem Hals und ein Arm des Partners zwischen den Beinen gefangen sind, das gefangene Handgelenk.\n2. Ziehe den gefangenen Arm quer über deinen Körper, sodass der Ellbogen an deinem Oberschenkel oder Bauch liegt.\n3. Strecke den Arm allmählich gegen die Beinklammer und löse sofort bei Abklopfen oder Signal.",
+      "sectionTitle": "Bodentechniken"
+    },
+    "it": {
+      "title": "Sankaku Gatame",
+      "description": "1. Da un triangolo con il collo e un braccio del compagno intrappolati tra le gambe, controlla il polso intrappolato.\n2. Tira il braccio intrappolato attraverso il tuo corpo così che il gomito poggi contro la coscia o l’addome.\n3. Estendi gradualmente il braccio contro il blocco delle gambe e rilascia subito al tap o a un segnale.",
+      "sectionTitle": "Lavoro a terra"
+    },
+    "zh-Hans": {
+      "title": "腕挫三角固",
+      "description": "1. 在三角锁中，搭档颈部和一只手臂被夹在你两腿之间，控制被夹手臂的手腕。\n2. 把被夹的手臂拉过你的身体，使其肘部抵在你的大腿或腹部。\n3. 逐渐把手臂向腿锁方向伸直，搭档拍击或示意时立即松开。",
+      "sectionTitle": "寝技"
+    },
+    "ja": {
+      "title": "腕挫三角固",
+      "description": "1. 相手の首と片腕を両脚で挟んだ三角の形から、挟んだ腕の手首を制します。\n2. 挟んだ腕を自分の体の前へ引き、肘を太ももまたは腹に当てます。\n3. 脚の締めに対して腕を徐々に伸ばし、タップや合図で直ちに解きます。",
+      "sectionTitle": "寝技"
+    },
+    "ko": {
+      "title": "산카쿠 가타메",
+      "description": "1. 파트너의 목과 한 팔을 다리 사이에 가둔 트라이앵글에서 갇힌 팔의 손목을 통제합니다.\n2. 갇힌 팔을 내 몸 앞으로 당겨 팔꿈치가 허벅지나 배에 닿게 합니다.\n3. 다리 잠금에 맞서 팔을 서서히 펴고 탭이나 신호 시 즉시 놓습니다.",
+      "sectionTitle": "굳히기"
+    },
+    "th": {
+      "title": "ซังกากุกาตาเมะ",
+      "description": "1. จากท่าสามเหลี่ยมที่คอและแขนข้างหนึ่งของคู่ฝึกถูกหนีบไว้ระหว่างขา ให้ควบคุมข้อมือของแขนที่ถูกหนีบ\n2. ดึงแขนที่ถูกหนีบพาดผ่านลำตัวคุณ ให้ข้อศอกแนบต้นขาหรือท้อง\n3. ค่อย ๆ เหยียดแขนต้านการล็อกขา และปล่อยทันทีเมื่อคู่ฝึกตบยอมแพ้หรือให้สัญญาณ",
+      "sectionTitle": "การต่อสู้บนพื้น"
+    },
+    "ru": {
+      "title": "Санкаку-гатамэ",
+      "description": "1. Из треугольника, где шея и одна рука партнёра зажаты между ногами, контролируйте запястье зажатой руки.\n2. Протяните зажатую руку поперёк своего корпуса, чтобы локоть лёг на ваше бедро или живот.\n3. Постепенно разгибайте руку против захвата ногами и немедленно отпускайте при постукивании или сигнале.",
+      "sectionTitle": "Партер"
+    },
+    "uk": {
+      "title": "Санкаку-гатаме",
+      "description": "1. З трикутника, де шия й одна рука партнера затиснуті між ногами, контролюйте зап’ястя затиснутої руки.\n2. Протягніть затиснуту руку поперек свого тулуба, щоб лікоть ліг на ваше стегно або живіт.\n3. Поступово розгинайте руку проти захоплення ногами й негайно відпускайте при постукуванні чи сигналі.",
+      "sectionTitle": "Партер"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "7.8",
+  "key": "wrestling_snapdown",
+  "title": "Snapdown",
+  "description": "1. From a collar tie and wrist control, step back to draw the partner's weight forward.\n2. Snap the partner's head and arm down toward the mat as the partner leans in, keeping your hips back.\n3. Move to a front-headlock or go-behind position without cranking the neck, then reset.",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Snapdown",
+      "description": "1. From a collar tie and wrist control, step back to draw the partner's weight forward.\n2. Snap the partner's head and arm down toward the mat as the partner leans in, keeping your hips back.\n3. Move to a front-headlock or go-behind position without cranking the neck, then reset.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Snapdown",
+      "description": "1. Desde un agarre de nuca y control de muñeca, retrocede un paso para llevar el peso del compañero hacia delante.\n2. Tira bruscamente de la cabeza y el brazo del compañero hacia la colchoneta cuando se incline, manteniendo la cadera atrás.\n3. Pasa a una posición de corbata frontal o de toma de espalda sin forzar el cuello y reinicia.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Snapdown",
+      "description": "1. A partir de uma pegada na nuca e controle do punho, recue um passo para trazer o peso do parceiro para a frente.\n2. Puxe com estalo a cabeça e o braço do parceiro em direção ao tatame quando ele se inclinar, mantendo o quadril para trás.\n3. Passe para uma gravata frontal ou para as costas sem forçar o pescoço e recomece.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Snap-down",
+      "description": "1. Depuis une prise de nuque et un contrôle du poignet, reculez d'un pas pour amener le poids du partenaire vers l'avant.\n2. Tirez sèchement la tête et le bras du partenaire vers le tapis quand il se penche, hanches en arrière.\n3. Passez en cravate de face ou dans le dos sans forcer la nuque, puis recommencez.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Snapdown",
+      "description": "1. Tritt aus Nackengriff und Handgelenkkontrolle zurück, um das Gewicht des Partners nach vorn zu ziehen.\n2. Reiße Kopf und Arm des Partners zur Matte, wenn er sich vorlehnt, und halte die Hüfte hinten.\n3. Gehe in den frontalen Kopfgriff oder hinter den Partner, ohne den Nacken zu verdrehen, und beginne neu.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Snapdown",
+      "description": "1. Da una presa al collo e controllo del polso, fai un passo indietro per portare in avanti il peso del partner.\n2. Strattona testa e braccio del partner verso il materassino quando si sporge, tenendo le anche indietro.\n3. Passa a una presa frontale alla testa o alle spalle del partner senza torcere il collo, poi ricomincia.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "拉压下潜",
+      "description": "1. 从颈部抓握和腕部控制开始，后撤一步把同伴重心引向前方。\n2. 同伴前倾时，迅速把其头部和手臂向垫子方向压下，髋部保持在后。\n3. 转入正面锁头或绕到背后，不扭转颈部，然后重新开始。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "スナップダウン",
+      "description": "1. カラータイと手首のコントロールから一歩下がり、相手の体重を前に引き出します。\n2. 相手が前のめりになった瞬間に頭と腕をマットへ鋭く引き落とし、腰は後ろに保ちます。\n3. 首をねじらずにフロントヘッドロックかバックへ移り、再開します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "스냅다운",
+      "description": "1. 칼라 타이와 손목 제어 상태에서 한 걸음 물러나 파트너의 체중을 앞으로 끌어냅니다.\n2. 파트너가 앞으로 기울면 머리와 팔을 매트 쪽으로 빠르게 끌어내리고 엉덩이는 뒤에 둡니다.\n3. 목을 비틀지 않고 프런트 헤드록이나 백 포지션으로 옮긴 뒤 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ดึงกดลง",
+      "description": "1. จากการจับคอและคุมข้อมือ ถอยหลังหนึ่งก้าวเพื่อดึงน้ำหนักของคู่ฝึกมาข้างหน้า\n2. เมื่อคู่ฝึกโน้มตัวมา กระชากศีรษะและแขนของเขาลงหาเบาะ โดยคงสะโพกไว้ด้านหลัง\n3. เปลี่ยนไปล็อกคอด้านหน้าหรืออ้อมไปด้านหลังโดยไม่บิดคอ แล้วเริ่มใหม่",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Сваливание рывком",
+      "description": "1. Из захвата за шею с контролем запястья шагните назад, выводя вес партнёра вперёд.\n2. Когда партнёр наклонится, рывком направьте его голову и руку к ковру, держа таз сзади.\n3. Перейдите в захват головы спереди или заход за спину, не скручивая шею, и начните заново.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Звалювання ривком",
+      "description": "1. Із захвату за шию з контролем зап'ястя ступіть назад, виводячи вагу партнера вперед.\n2. Коли партнер нахилиться, ривком спрямуйте його голову й руку до килима, тримаючи таз позаду.\n3. Перейдіть у захоплення голови спереду або захід за спину, не скручуючи шию, і почніть знову.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

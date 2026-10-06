@@ -1,0 +1,90 @@
+{
+  "id": "0.1",
+  "key": "pause",
+  "title": "Rest",
+  "description": "1. Stop the active exercise when the Rest interval begins.\n2. Relax the working muscles and breathe steadily without becoming completely inactive.\n3. Prepare the next exercise and resume when the Rest interval ends.",
+  "color": "#808A94",
+  "colorType": "green",
+  "workoutType": "other",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1,
+    "vigorous": 1,
+    "lightCode": "07021",
+    "moderateCode": "07021",
+    "vigorousCode": "07021"
+  },
+  "timerRole": "rest",
+  "difficulty": "basic",
+  "section": "1 Rest",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rest",
+      "description": "1. Stop the active exercise when the Rest interval begins.\n2. Relax the working muscles and breathe steadily without becoming completely inactive.\n3. Prepare the next exercise and resume when the Rest interval ends.",
+      "sectionTitle": "Rest"
+    },
+    "es": {
+      "title": "Descanso",
+      "description": "1. Detén el ejercicio activo cuando comience el intervalo de descanso.\n2. Relaja los músculos que has trabajado y respira de forma constante sin quedarte totalmente inactivo.\n3. Prepara el siguiente ejercicio y reanuda la actividad cuando termine el intervalo de descanso.",
+      "sectionTitle": "Descanso"
+    },
+    "pt": {
+      "title": "Descanso",
+      "description": "1. Pare o exercício ativo quando o intervalo de descanso começar.\n2. Relaxe os músculos trabalhados e respire de forma regular sem ficar completamente inativo.\n3. Prepare o próximo exercício e retome a atividade quando o intervalo de descanso terminar.",
+      "sectionTitle": "Descanso"
+    },
+    "fr": {
+      "title": "Repos",
+      "description": "1. Arrêtez l’exercice actif lorsque l’intervalle de repos commence.\n2. Détendez les muscles sollicités et respirez régulièrement sans devenir complètement inactif.\n3. Préparez l’exercice suivant et reprenez lorsque l’intervalle de repos se termine.",
+      "sectionTitle": "Repos"
+    },
+    "de": {
+      "title": "Pause",
+      "description": "1. Beende die aktive Übung, sobald das Pausenintervall beginnt.\n2. Entspanne die beanspruchten Muskeln und atme gleichmäßig, ohne völlig inaktiv zu werden.\n3. Bereite die nächste Übung vor und mache weiter, wenn das Pausenintervall endet.",
+      "sectionTitle": "Pause"
+    },
+    "it": {
+      "title": "Riposo",
+      "description": "1. Interrompi l’esercizio attivo quando inizia l’intervallo di riposo.\n2. Rilassa i muscoli coinvolti e respira regolarmente senza restare completamente inattivo.\n3. Preparati per l’esercizio successivo e riprendi quando termina l’intervallo di riposo.",
+      "sectionTitle": "Riposo"
+    },
+    "zh-Hans": {
+      "title": "休息",
+      "description": "1. 休息间隔开始时，停止当前运动。\n2. 放松刚才使用的肌肉，平稳呼吸，但不要完全停止活动。\n3. 准备下一个动作，在休息间隔结束时恢复运动。",
+      "sectionTitle": "休息"
+    },
+    "ja": {
+      "title": "休憩",
+      "description": "1. 休憩時間が始まったら、行っている運動を止めます。\n2. 使った筋肉を緩め、完全に動きを止めずに落ち着いて呼吸します。\n3. 次の運動の準備をして、休憩時間が終わったら再開します。",
+      "sectionTitle": "休憩"
+    },
+    "ko": {
+      "title": "휴식",
+      "description": "1. 휴식 구간이 시작되면 진행 중인 운동을 멈춥니다.\n2. 사용한 근육의 긴장을 풀고 완전히 움직임을 멈추지는 않으면서 일정하게 호흡합니다.\n3. 다음 운동을 준비하고 휴식 구간이 끝나면 다시 시작합니다.",
+      "sectionTitle": "휴식"
+    },
+    "th": {
+      "title": "พัก",
+      "description": "1. หยุดท่าออกกำลังกายที่กำลังทำเมื่อช่วงพักเริ่มขึ้น\n2. ผ่อนคลายกล้ามเนื้อที่ใช้งานและหายใจสม่ำเสมอ โดยไม่หยุดเคลื่อนไหวทั้งหมด\n3. เตรียมท่าออกกำลังกายถัดไปและเริ่มต่อเมื่อช่วงพักสิ้นสุดลง",
+      "sectionTitle": "พัก"
+    },
+    "ru": {
+      "title": "Отдых",
+      "description": "1. Прекратите активное упражнение, когда начнётся интервал отдыха.\n2. Расслабьте работавшие мышцы и дышите ровно, не становясь полностью неподвижными.\n3. Подготовьтесь к следующему упражнению и продолжите, когда интервал отдыха закончится.",
+      "sectionTitle": "Отдых"
+    },
+    "uk": {
+      "title": "Відпочинок",
+      "description": "1. Припиніть активну вправу, коли почнеться інтервал відпочинку.\n2. Розслабте м’язи, що працювали, і дихайте рівно, не стаючи повністю нерухомими.\n3. Підготуйтеся до наступної вправи й продовжте, коли інтервал відпочинку закінчиться.",
+      "sectionTitle": "Відпочинок"
+    }
+  }
+}

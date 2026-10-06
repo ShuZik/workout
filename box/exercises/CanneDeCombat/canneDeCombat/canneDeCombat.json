@@ -1,0 +1,87 @@
+{
+  "id": "48.1",
+  "key": "canne_de_combat_main",
+  "title": "Canne de Combat",
+  "description": "1. Stand in guard with the cane in one hand, the point forward, knees soft, and the free hand kept clear of the target zones.\n2. Move on light steps and link armed strikes such as latéral, croisé, brisé, and enlevé, passing through a full wind-up (armé) before each hit lands with the upper part of the cane.\n3. Return to guard after every strike or evasion and keep a safe distance between actions.",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Canne de Combat",
+      "description": "1. Stand in guard with the cane in one hand, the point forward, knees soft, and the free hand kept clear of the target zones.\n2. Move on light steps and link armed strikes such as latéral, croisé, brisé, and enlevé, passing through a full wind-up (armé) before each hit lands with the upper part of the cane.\n3. Return to guard after every strike or evasion and keep a safe distance between actions.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Canne de combat",
+      "description": "1. Ponte en guardia con el bastón en una mano, la punta al frente, rodillas flexionadas y la mano libre fuera de las zonas de blanco.\n2. Desplázate con pasos ligeros y encadena golpes armados como latéral, croisé, brisé y enlevé, pasando por un armado completo antes de que cada golpe llegue con la parte superior del bastón.\n3. Vuelve a la guardia tras cada golpe o esquiva y mantén una distancia segura entre acciones.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Canne de combat",
+      "description": "1. Fique em guarda com a bengala numa mão, a ponta à frente, joelhos fletidos e a mão livre longe das zonas de alvo.\n2. Desloque-se com passos leves e encadeie golpes armados como latéral, croisé, brisé e enlevé, passando por um armado completo antes de cada golpe chegar com a parte superior da bengala.\n3. Volte à guarda após cada golpe ou esquiva e mantenha distância segura entre as ações.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Canne de combat",
+      "description": "1. Mettez-vous en garde, canne dans une main, pointe devant, genoux souples et main libre hors des zones de touche.\n2. Déplacez-vous sur des pas légers et enchaînez des coups armés comme latéral, croisé, brisé et enlevé, en passant par un armé complet avant que chaque touche n’arrive avec le haut de la canne.\n3. Revenez en garde après chaque coup ou esquive et gardez une distance sûre entre les actions.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Canne de combat",
+      "description": "1. Gehe mit dem Stock in einer Hand in Grundstellung, Spitze nach vorn, Knie locker, freie Hand außerhalb der Trefferzonen.\n2. Bewege dich mit leichten Schritten und verbinde ausgeholte Schläge wie Latéral, Croisé, Brisé und Enlevé, jeweils mit vollständigem Ausholen (Armé), bevor der obere Stockteil trifft.\n3. Kehre nach jedem Schlag oder Ausweichen in die Grundstellung zurück und halte zwischen den Aktionen sicheren Abstand.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Canne de combat",
+      "description": "1. Mettiti in guardia con il bastone in una mano, punta avanti, ginocchia morbide e mano libera lontana dalle zone bersaglio.\n2. Muoviti con passi leggeri e concatena colpi armati come latéral, croisé, brisé ed enlevé, passando per un caricamento completo prima che ogni colpo arrivi con la parte alta del bastone.\n3. Torna in guardia dopo ogni colpo o schivata e mantieni una distanza sicura tra le azioni.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "法式手杖格斗",
+      "description": "1. 单手持杖成戒备姿势，杖尖向前，双膝放松，空手远离有效击打区。\n2. 以轻快步伐移动，连接侧击、交叉击、劈击和上挑等击打，每次击打前都完成完整的蓄势（armé），用杖的上段命中。\n3. 每次击打或闪避后回到戒备姿势，动作之间保持安全距离。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "カン・ド・コンバ",
+      "description": "1. 片手にカンヌを持ち、先端を前に向け、膝をゆるめ、空いた手は有効打突部位から離して構えます。\n2. 軽いステップで動き、ラテラル、クロワゼ、ブリゼ、アンルヴェなどの打撃をつなげます。毎回十分な振りかぶり（アルメ）を経てから、カンヌの上部で当てます。\n3. 打撃や回避のたびに構えへ戻り、動作の合間は安全な距離を保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "칸 드 콩바",
+      "description": "1. 한 손에 지팡이를 들고 끝을 앞으로 향하게 하며 무릎을 부드럽게 하고 빈손은 유효 타격 부위에서 멀리 둔 채 가드를 잡습니다.\n2. 가벼운 스텝으로 움직이며 라테랄, 크루아제, 브리제, 앙르베 같은 타격을 연결하되, 매번 충분한 준비 동작(아르메)을 거친 뒤 지팡이 윗부분으로 맞힙니다.\n3. 타격이나 회피 후마다 가드로 돌아오고 동작 사이에는 안전한 거리를 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "กานน์ เดอ กงบา",
+      "description": "1. ตั้งการ์ดโดยถือไม้เท้าด้วยมือเดียว ปลายไม้ชี้ไปข้างหน้า เข่าผ่อน และมือที่ว่างอยู่ห่างจากเป้าที่ถูกต้อง\n2. เคลื่อนที่ด้วยก้าวเบาๆ และต่อการตีแบบลาเตราล ครัวเซ บรีเซ และอองเลอเว โดยง้างเต็มที่ (อาร์เม) ก่อนตีทุกครั้งด้วยส่วนบนของไม้\n3. กลับสู่การ์ดหลังการตีหรือการหลบทุกครั้ง และรักษาระยะปลอดภัยระหว่างจังหวะ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Канн де комба",
+      "description": "1. Встаньте в стойку с тростью в одной руке, острием вперёд, колени мягкие, свободная рука вне зон поражения.\n2. Передвигайтесь лёгкими шагами и связывайте удары с замахом — латераль, круазе, бризе, анлеве, — каждый раз выполняя полный замах (арме) перед касанием верхней частью трости.\n3. После каждого удара или уклона возвращайтесь в стойку и держите безопасную дистанцию между действиями.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Канн де комба",
+      "description": "1. Станьте в стійку з тростиною в одній руці, вістрям уперед, коліна м’які, вільна рука поза зонами ураження.\n2. Пересувайтеся легкими кроками й поєднуйте удари із замахом — латераль, круазе, бризе, анлеве, — щоразу виконуючи повний замах (арме) перед торканням верхньою частиною тростини.\n3. Після кожного удару чи ухилу повертайтеся в стійку й тримайте безпечну дистанцію між діями.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

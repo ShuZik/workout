@@ -1,0 +1,90 @@
+{
+  "id": "48.9",
+  "key": "canne_parade_croisee_laterale",
+  "title": "Parade Croisee Laterale",
+  "description": "1. Face a trained partner at measured distance; the attacker delivers a slow lateral strike from the cross side toward your head or flank.\n2. As defender, bring the cane across the body to the cross line, point up, and meet the strike on the shaft with the arm firm and the hand protected.\n3. Absorb the contact, return to guard, and swap roles; keep the power light until the parry is reliable.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Partner Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Parade Croisee Laterale",
+      "description": "1. Face a trained partner at measured distance; the attacker delivers a slow lateral strike from the cross side toward your head or flank.\n2. As defender, bring the cane across the body to the cross line, point up, and meet the strike on the shaft with the arm firm and the hand protected.\n3. Absorb the contact, return to guard, and swap roles; keep the power light until the parry is reliable.",
+      "sectionTitle": "Partner Parries"
+    },
+    "es": {
+      "title": "Parade croisée latérale",
+      "description": "1. Frente a un compañero entrenado a distancia medida, el atacante lanza un golpe lateral lento desde el lado cruzado hacia tu cabeza o flanco.\n2. Como defensor, lleva el bastón cruzando el cuerpo a la línea cruzada, punta arriba, y recibe el golpe en el fuste con el brazo firme y la mano protegida.\n3. Absorbe el contacto, vuelve a la guardia y cambia de rol; mantén poca potencia hasta que la parada sea fiable.",
+      "sectionTitle": "Paradas con compañero"
+    },
+    "pt": {
+      "title": "Parade croisée latérale",
+      "description": "1. Diante de um parceiro treinado a distância medida, o atacante desfere um golpe lateral lento do lado cruzado em direção à sua cabeça ou flanco.\n2. Como defensor, leve a bengala cruzando o corpo até a linha cruzada, ponta para cima, e receba o golpe na haste com o braço firme e a mão protegida.\n3. Absorva o contato, volte à guarda e troque de papel; mantenha pouca força até a defesa ser confiável.",
+      "sectionTitle": "Defesas com parceiro"
+    },
+    "fr": {
+      "title": "Parade croisée latérale",
+      "description": "1. Face à un partenaire entraîné à distance mesurée, l’attaquant porte lentement un latéral depuis le côté croisé vers votre tête ou votre flanc.\n2. En défense, amenez la canne en travers du corps sur la ligne croisée, pointe en haut, et recevez le coup sur le fût, bras ferme et main protégée.\n3. Absorbez le contact, revenez en garde et changez de rôle ; gardez peu de puissance tant que la parade n’est pas fiable.",
+      "sectionTitle": "Parades avec partenaire"
+    },
+    "de": {
+      "title": "Parade croisée latérale",
+      "description": "1. Einem trainierten Partner auf Distanz gegenüber: Der Angreifer schlägt langsam einen Latéral von der gekreuzten Seite zu Kopf oder Flanke.\n2. Als Verteidiger den Stock quer über den Körper auf die gekreuzte Linie bringen, Spitze oben, und den Schlag mit festem Arm und geschützter Hand am Schaft auffangen.\n3. Den Kontakt abfangen, in die Grundstellung zurück und Rollen tauschen; wenig Kraft, bis die Parade sicher sitzt.",
+      "sectionTitle": "Paraden mit Partner"
+    },
+    "it": {
+      "title": "Parade croisée latérale",
+      "description": "1. Di fronte a un partner allenato a distanza misurata, l’attaccante porta lentamente un laterale dal lato incrociato verso la tua testa o il fianco.\n2. Come difensore porta il bastone attraverso il corpo sulla linea incrociata, punta in alto, e ricevi il colpo sul fusto con il braccio fermo e la mano protetta.\n3. Assorbi il contatto, torna in guardia e scambia i ruoli; usa poca potenza finché la parata non è affidabile.",
+      "sectionTitle": "Parate con partner"
+    },
+    "zh-Hans": {
+      "title": "交叉侧向格挡",
+      "description": "1. 与受过训练的同伴保持适当距离；进攻方从交叉一侧向你的头部或侧身缓慢侧击。\n2. 防守方将杖横过身体移到交叉线，杖尖向上，手臂稳固、手受保护地用杖身接住击打。\n3. 吸收接触，回到戒备并交换角色；在格挡可靠之前保持轻力度。",
+      "sectionTitle": "双人格挡"
+    },
+    "ja": {
+      "title": "パラード・クロワゼ・ラテラル",
+      "description": "1. 訓練を積んだ相手と適切な距離で向き合い、攻撃側が交差側から頭や脇腹へゆっくりとラテラルを打ちます。\n2. 防御側はカンヌを体の前を横切って交差側の線へ運び、先端を上にして、腕を固め手を守りながら柄で受けます。\n3. 接触を吸収して構えに戻り、役割を交代します。パラードが安定するまでは力を弱く保ちます。",
+      "sectionTitle": "相手とのパラード"
+    },
+    "ko": {
+      "title": "파라드 크루아제 라테랄",
+      "description": "1. 훈련된 파트너와 적정 거리에서 마주하고, 공격자는 교차하는 쪽에서 머리나 옆구리를 향해 천천히 라테랄을 칩니다.\n2. 방어자는 지팡이를 몸을 가로질러 교차 선으로 옮겨 끝을 위로 하고, 팔을 단단히 하며 손을 보호한 채 몸통으로 받습니다.\n3. 접촉을 흡수하고 가드로 돌아와 역할을 바꿉니다. 막기가 안정될 때까지 힘을 가볍게 유지합니다.",
+      "sectionTitle": "파트너 막기"
+    },
+    "th": {
+      "title": "ปาราด ครัวเซ ลาเตราล",
+      "description": "1. ยืนหันหน้าคู่ฝึกในระยะที่เหมาะสม ฝ่ายโจมตีตีลาเตราลช้าๆ จากฝั่งไขว้มาที่ศีรษะหรือสีข้าง\n2. ฝ่ายป้องกันนำไม้ข้ามลำตัวไปแนวไขว้ ปลายไม้ขึ้น รับการตีด้วยลำไม้โดยแขนมั่นคงและมือได้รับการปกป้อง\n3. ซับแรงปะทะ กลับสู่การ์ด แล้วสลับบทบาท ใช้แรงเบาจนกว่าการปัดจะมั่นคง",
+      "sectionTitle": "การปัดป้องกับคู่ฝึก"
+    },
+    "ru": {
+      "title": "Парад круазе латераль",
+      "description": "1. Встаньте напротив подготовленного партнёра на выверенной дистанции; атакующий медленно наносит латераль с перекрёстной стороны в голову или корпус.\n2. Защитник переводит трость поперёк тела на перекрёстную линию, острием вверх, и принимает удар на древко твёрдой рукой, защищая кисть.\n3. Погасите контакт, вернитесь в стойку и поменяйтесь ролями; держите силу малой, пока парад не станет надёжным.",
+      "sectionTitle": "Парады с партнёром"
+    },
+    "uk": {
+      "title": "Парад круазе латераль",
+      "description": "1. Станьте навпроти підготовленого партнера на вивіреній дистанції; той, хто атакує, повільно завдає латераль із перехресного боку в голову чи корпус.\n2. Захисник переводить тростину поперек тіла на перехресну лінію, вістрям угору, і приймає удар на древко твердою рукою, захищаючи кисть.\n3. Погасіть контакт, поверніться в стійку й поміняйтеся ролями; тримайте силу малою, доки парад не стане надійним.",
+      "sectionTitle": "Паради з партнером"
+    }
+  }
+}

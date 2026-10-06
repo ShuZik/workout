@@ -1,0 +1,90 @@
+{
+  "id": "69.5",
+  "key": "kendo_kihon_4",
+  "title": "Kihon 4 Hiki-Do",
+  "description": "1. Both close into tsubazeriai with the guards together and hands low at the center.\n2. Motodachi pushes kakarite's hands; as motodachi's hands rise, kakarite steps back and cuts the right do while retreating.\n3. Kakarite keeps moving back with zanshin until safe distance, then both return to chudan.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kihon 4 Hiki-Do",
+      "description": "1. Both close into tsubazeriai with the guards together and hands low at the center.\n2. Motodachi pushes kakarite's hands; as motodachi's hands rise, kakarite steps back and cuts the right do while retreating.\n3. Kakarite keeps moving back with zanshin until safe distance, then both return to chudan.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Kihon 4 Hiki-Do",
+      "description": "1. Ambos se acercan en tsubazeriai con las guardas juntas y las manos bajas en el centro.\n2. Motodachi empuja las manos de kakarite; cuando las manos de motodachi suben, kakarite retrocede y corta el do derecho al retirarse.\n3. Kakarite sigue retrocediendo con zanshin hasta una distancia segura y ambos vuelven a chudan.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Kihon 4 Hiki-Do",
+      "description": "1. Ambos se aproximam em tsubazeriai com as guardas juntas e as mãos baixas no centro.\n2. Motodachi empurra as mãos de kakarite; quando as mãos de motodachi sobem, kakarite recua e corta o do direito ao se retirar.\n3. Kakarite continua recuando com zanshin até distância segura e ambos voltam a chudan.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Kihon 4 Hiki-Do",
+      "description": "1. Tous deux se rapprochent en tsubazeriai, gardes l’une contre l’autre et mains basses au centre.\n2. Motodachi pousse les mains de kakarite ; quand ses mains montent, kakarite recule et coupe le do droit en se retirant.\n3. Kakarite continue de reculer avec zanshin jusqu’à une distance sûre, puis tous deux reviennent en chudan.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Kihon 4 Hiki-Do",
+      "description": "1. Beide gehen ins Tsubazeriai, Stichblätter aneinander, Hände tief in der Mitte.\n2. Motodachi drückt die Hände des Kakarite; heben sich Motodachis Hände, tritt Kakarite zurück und schneidet beim Rückzug rechtes Do.\n3. Kakarite geht mit Zanshin weiter zurück bis auf sichere Distanz, dann kehren beide ins Chudan zurück.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Kihon 4 Hiki-Do",
+      "description": "1. Entrambi si avvicinano in tsubazeriai con le guardie a contatto e le mani basse al centro.\n2. Motodachi spinge le mani di kakarite; quando le mani di motodachi si alzano, kakarite arretra e taglia il do destro ritirandosi.\n3. Kakarite continua ad arretrare con zanshin fino a distanza sicura, poi entrambi tornano in chudan.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "基本4 退击胴",
+      "description": "1. 双方进入锷迫，护手相贴，双手低位居中。\n2. 元立推挂手的手，元立双手上抬时，挂手后退并在退步中斩右胴。\n3. 挂手保持残心继续后退至安全间合，双方回到中段。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "基本4 引き技（引き胴）",
+      "description": "1. 互いに鍔ぜり合いとなり、鍔を合わせ手元を低く中心に置きます。\n2. 元立ちが掛り手の手元を押し、元立ちの手元が上がったところで、掛り手は下がりながら右胴を打ちます。\n3. 掛り手は残心を示しながら安全な間合いまで下がり、互いに中段に戻ります。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "기본 4 빼며 허리",
+      "description": "1. 둘 다 코등이를 맞대고 손을 낮게 중앙에 둔 코등이 싸움 자세로 붙습니다.\n2. 원립이 괘수의 손을 밀고, 원립의 손이 올라가는 순간 괘수가 물러나며 오른쪽 허리를 벱니다.\n3. 괘수는 잔심을 유지하며 안전한 거리까지 물러나고 둘 다 중단으로 돌아갑니다.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "คิฮง 4 ฮิกิ-โด",
+      "description": "1. ทั้งคู่เข้าประชิดแบบสึบะเซริไอ กระบังชนกัน มือต่ำอยู่กึ่งกลาง\n2. โมโตดาจิดันมือของคาคาริเตะ เมื่อมือโมโตดาจิยกขึ้น คาคาริเตะถอยหลังพร้อมฟันโดขวาขณะถอย\n3. คาคาริเตะถอยต่อพร้อมซันชินจนถึงระยะปลอดภัย แล้วทั้งคู่กลับสู่ชูดัง",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Кихон 4 Хики-до",
+      "description": "1. Оба сходятся в цубадзэриай, гарды вместе, руки низко по центру.\n2. Мотодати давит на руки какаритэ; когда руки мотодати поднимаются, какаритэ отступает и рубит правый до на отходе.\n3. Какаритэ продолжает отходить с дзансином до безопасной дистанции, затем оба возвращаются в тюдан.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Кіхон 4 Хікі-до",
+      "description": "1. Обоє сходяться в цубадзеріай, гарди разом, руки низько по центру.\n2. Мотодаті тисне на руки какарите; коли руки мотодаті піднімаються, какарите відступає й рубає правий до на відході.\n3. Какарите продовжує відходити з дзансіном до безпечної дистанції, потім обоє повертаються в тюдан.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

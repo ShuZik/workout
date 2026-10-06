@@ -1,0 +1,90 @@
+{
+  "id": "76.3",
+  "key": "kyudo_toshu_renshu",
+  "title": "Toshu-renshu",
+  "description": "1. Stand on an imagined shooting line without bow or arrow and set the feet and posture as for a real shot.\n2. Mime each of the eight stages with empty hands, raising and drawing apart slowly while keeping the shoulders low and the spine upright.\n3. Hold the imagined full draw, open the right hand for the release, keep zanshin, and repeat at an even rhythm.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "kyudo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Toshu-renshu",
+      "description": "1. Stand on an imagined shooting line without bow or arrow and set the feet and posture as for a real shot.\n2. Mime each of the eight stages with empty hands, raising and drawing apart slowly while keeping the shoulders low and the spine upright.\n3. Hold the imagined full draw, open the right hand for the release, keep zanshin, and repeat at an even rhythm.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Toshu-renshu",
+      "description": "1. De pie sobre una línea de tiro imaginaria, sin arco ni flecha, coloca pies y postura como para un tiro real.\n2. Imita cada una de las ocho fases con las manos vacías, elevando y abriendo despacio con los hombros bajos y la columna erguida.\n3. Mantén la apertura completa imaginaria, abre la mano derecha para la suelta, conserva el zanshin y repite con ritmo uniforme.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Toshu-renshu",
+      "description": "1. Em pé numa linha de tiro imaginária, sem arco nem flecha, posicione pés e postura como num tiro real.\n2. Imite cada uma das oito fases com as mãos vazias, elevando e abrindo devagar com os ombros baixos e a coluna ereta.\n3. Mantenha a abertura completa imaginária, abra a mão direita para a soltura, mantenha o zanshin e repita em ritmo uniforme.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Toshu-renshu",
+      "description": "1. Debout sur une ligne de tir imaginaire, sans arc ni flèche, placez pieds et posture comme pour un vrai tir.\n2. Mimez chacune des huit étapes à mains vides, en levant et ouvrant lentement, épaules basses et dos droit.\n3. Tenez la pleine allonge imaginaire, ouvrez la main droite pour le lâcher, gardez le zanshin et répétez à rythme régulier.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Toshu-renshu",
+      "description": "1. Ohne Bogen und Pfeil an einer gedachten Schießlinie stehen und Füße und Haltung wie für einen echten Schuss setzen.\n2. Jede der acht Phasen mit leeren Händen nachahmen, langsam anheben und auseinanderziehen, Schultern tief, Wirbelsäule aufrecht.\n3. Den gedachten Vollauszug halten, die rechte Hand zum Abschuss öffnen, Zanshin halten und in gleichmäßigem Rhythmus wiederholen.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Toshu-renshu",
+      "description": "1. In piedi su una linea di tiro immaginaria, senza arco né freccia, imposta piedi e postura come per un tiro reale.\n2. Mima ciascuna delle otto fasi a mani vuote, sollevando e aprendo lentamente con spalle basse e colonna eretta.\n3. Mantieni la piena trazione immaginaria, apri la mano destra per il rilascio, conserva lo zanshin e ripeti a ritmo regolare.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "徒手练习",
+      "description": "1. 不持弓箭站在假想射位上，如真实射箭一样站定双脚与姿势。\n2. 空手模仿射法八节的每一节，缓慢举起并引分，保持肩膀下沉、脊柱挺直。\n3. 保持假想的满弓，张开右手完成离，保持残心，并以均匀节奏重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "徒手練習",
+      "description": "1. 弓矢を持たずに仮想の射位に立ち、実際の射と同じように足踏みと胴造りを行います。\n2. 素手で射法八節の各節を真似て、肩を下げ背筋を伸ばしたまま、ゆっくり打ち起こして引き分けます。\n3. 仮想の会を保ち、右手を開いて離れを行い、残心を保って一定のリズムで繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "도슈렌슈",
+      "description": "1. 활과 화살 없이 가상의 사대에 서서 실제 사법처럼 발과 자세를 정합니다.\n2. 맨손으로 사법팔절의 각 단계를 흉내 내며 어깨를 낮추고 척추를 세운 채 천천히 들어 올리고 벌립니다.\n3. 가상의 만작을 유지하고 오른손을 펴서 발시한 뒤 잔심을 유지하며 일정한 리듬으로 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "โทชูเร็นชู",
+      "description": "1. ยืนบนแนวยิงสมมติโดยไม่ถือคันธนูหรือลูกธนู วางเท้าและท่าทางเหมือนการยิงจริง\n2. เลียนแบบแปดขั้นตอนด้วยมือเปล่า ยกและง้างแยกช้าๆ โดยไหล่ต่ำและกระดูกสันหลังตั้งตรง\n3. ค้างการง้างเต็มสายสมมติ แบมือขวาเพื่อปล่อย คงซันชิน และทำซ้ำด้วยจังหวะสม่ำเสมอ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Тосю-рэнсю",
+      "description": "1. Встаньте на воображаемую линию стрельбы без лука и стрелы и установите стопы и осанку как для настоящего выстрела.\n2. Имитируйте пустыми руками каждый из восьми этапов, медленно поднимая и растягивая, плечи опущены, позвоночник прямой.\n3. Удержите воображаемое полное натяжение, раскройте правую руку для выпуска, сохраните дзансин и повторяйте в ровном ритме.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Тосю-ренсю",
+      "description": "1. Станьте на уявну лінію стрільби без лука й стріли та встановіть стопи й поставу як для справжнього пострілу.\n2. Імітуйте порожніми руками кожен із восьми етапів, повільно піднімаючи й розтягуючи, плечі опущені, хребет прямий.\n3. Утримайте уявний повний натяг, розкрийте праву руку для випуску, збережіть дзансін і повторюйте в рівному ритмі.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

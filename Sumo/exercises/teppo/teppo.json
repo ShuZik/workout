@@ -1,0 +1,90 @@
+{
+  "id": "97.20",
+  "key": "sumo_teppo",
+  "title": "Teppo",
+  "description": "1. Stand an arm's length from a padded post in a low stance with the feet apart and the elbows bent.\n2. Thrust one open palm into the post while sliding the same-side foot forward and pushing from the legs.\n3. Alternate hands and feet in a steady rhythm, keeping the hips low and the wrists aligned.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Teppo",
+      "description": "1. Stand an arm's length from a padded post in a low stance with the feet apart and the elbows bent.\n2. Thrust one open palm into the post while sliding the same-side foot forward and pushing from the legs.\n3. Alternate hands and feet in a steady rhythm, keeping the hips low and the wrists aligned.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Teppo",
+      "description": "1. Colócate a un brazo de distancia de un poste acolchado en postura baja, pies separados y codos flexionados.\n2. Empuja con una palma abierta contra el poste mientras deslizas el pie del mismo lado hacia delante e impulsas desde las piernas.\n3. Alterna manos y pies a ritmo constante, con la cadera baja y las muñecas alineadas.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Teppo",
+      "description": "1. Fique a um braço de distância de um poste acolchoado em base baixa, pés afastados e cotovelos dobrados.\n2. Empurre uma palma aberta contra o poste enquanto desliza o pé do mesmo lado à frente e impulsiona com as pernas.\n3. Alterne mãos e pés em ritmo constante, mantendo o quadril baixo e os punhos alinhados.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Teppo",
+      "description": "1. Placez-vous à une longueur de bras d’un poteau rembourré en position basse, pieds écartés et coudes fléchis.\n2. Poussez une paume ouverte contre le poteau en glissant le pied du même côté vers l’avant et en poussant des jambes.\n3. Alternez mains et pieds à rythme régulier, hanches basses et poignets alignés.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Teppo",
+      "description": "1. Stehe eine Armlänge vor einem gepolsterten Pfosten in tiefer Haltung, Füße auseinander, Ellbogen gebeugt.\n2. Stoße eine offene Handfläche gegen den Pfosten, während du den gleichseitigen Fuß nach vorn schiebst und aus den Beinen drückst.\n3. Wechsle Hände und Füße im gleichmäßigen Rhythmus, halte die Hüfte tief und die Handgelenke gerade.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Teppo",
+      "description": "1. Mettiti a un braccio da un palo imbottito in posizione bassa, piedi divaricati e gomiti piegati.\n2. Spingi un palmo aperto contro il palo facendo scivolare avanti il piede dello stesso lato e spingendo con le gambe.\n3. Alterna mani e piedi a ritmo costante, con anche basse e polsi allineati.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "铁炮",
+      "description": "1. 以低位姿势站在距软包木桩一臂远处，双脚分开，肘部弯曲。\n2. 用一只张开的手掌推击木桩，同侧脚向前滑步，由腿部发力。\n3. 以稳定节奏左右手脚交替，保持髋部低位、手腕对正。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "鉄炮",
+      "description": "1. 当て物をした柱から腕一本の距離に、足を開き肘を曲げた低い構えで立ちます。\n2. 片手の手のひらで柱を突きながら、同じ側の足をすり足で前に出し、脚から押します。\n3. 腰を低く手首をまっすぐに保ち、一定のリズムで左右の手足を交互に繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "텟포",
+      "description": "1. 완충재를 댄 기둥에서 팔 길이만큼 떨어져 발을 벌리고 팔꿈치를 굽힌 낮은 자세로 섭니다.\n2. 한 손바닥으로 기둥을 밀어 치면서 같은 쪽 발을 앞으로 미끄러뜨리고 다리에서 힘을 냅니다.\n3. 엉덩이를 낮추고 손목을 곧게 유지하며 일정한 리듬으로 손발을 번갈아 합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เท็ปโป",
+      "description": "1. ยืนห่างเสาบุนวมหนึ่งช่วงแขนในท่าต่ำ เท้าแยก ศอกงอ\n2. ดันฝ่ามือเปิดข้างหนึ่งเข้าที่เสา พร้อมลากเท้าข้างเดียวกันไปข้างหน้าและส่งแรงจากขา\n3. สลับมือและเท้าด้วยจังหวะสม่ำเสมอ รักษาสะโพกต่ำและข้อมือตรง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Теппо",
+      "description": "1. Встаньте в низкую стойку на расстоянии вытянутой руки от мягкого столба, стопы врозь, локти согнуты.\n2. Толкните столб открытой ладонью, одновременно скользя одноимённой стопой вперёд и толкаясь ногами.\n3. Чередуйте руки и ноги в ровном ритме, держа таз низко и запястья ровно.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Теппо",
+      "description": "1. Станьте в низьку стійку на відстані витягнутої руки від м’якого стовпа, стопи нарізно, лікті зігнуті.\n2. Штовхніть стовп відкритою долонею, водночас ковзаючи однойменною стопою вперед і відштовхуючись ногами.\n3. Чергуйте руки й ноги в рівному ритмі, тримаючи таз низько, а зап’ястя рівно.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

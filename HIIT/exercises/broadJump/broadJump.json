@@ -1,0 +1,90 @@
+{
+  "id": "12.26",
+  "key": "bootcamp_broad_jump",
+  "title": "Broad Jump",
+  "description": "1. Stand with feet about hip-width apart, bend the knees, hinge the hips, and swing the arms back.\n2. Swing the arms forward and extend the hips, knees, and ankles to jump forward.\n3. Land on both feet with knees bent, stabilize completely, and walk back before repeating.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "intermediate",
+  "section": "3 Bootcamp",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Broad Jump",
+      "description": "1. Stand with feet about hip-width apart, bend the knees, hinge the hips, and swing the arms back.\n2. Swing the arms forward and extend the hips, knees, and ankles to jump forward.\n3. Land on both feet with knees bent, stabilize completely, and walk back before repeating.",
+      "sectionTitle": "Bootcamp"
+    },
+    "es": {
+      "title": "Salto horizontal",
+      "description": "1. Ponte de pie con los pies separados aproximadamente al ancho de las caderas, flexiona las rodillas, inclina las caderas hacia atrás y lleva los brazos hacia atrás.\n2. Balancea los brazos hacia delante y extiende caderas, rodillas y tobillos para saltar hacia delante.\n3. Aterriza sobre ambos pies con las rodillas flexionadas, estabilízate por completo y vuelve caminando antes de repetir.",
+      "sectionTitle": "Bootcamp"
+    },
+    "pt": {
+      "title": "Salto horizontal",
+      "description": "1. Fique em pé com os pés afastados mais ou menos na largura dos quadris, flexione os joelhos, leve os quadris para trás e balance os braços para trás.\n2. Balance os braços para a frente e estenda quadris, joelhos e tornozelos para saltar à frente.\n3. Aterrisse sobre os dois pés com os joelhos flexionados, estabilize-se por completo e volte caminhando antes de repetir.",
+      "sectionTitle": "Bootcamp"
+    },
+    "fr": {
+      "title": "Saut en longueur",
+      "description": "1. Tenez-vous debout, pieds écartés environ à la largeur des hanches, fléchissez les genoux, basculez les hanches vers l'arrière et lancez les bras derrière vous.\n2. Lancez les bras vers l'avant et tendez hanches, genoux et chevilles pour sauter vers l'avant.\n3. Réceptionnez-vous sur les deux pieds genoux fléchis, stabilisez-vous complètement et revenez en marchant avant de recommencer.",
+      "sectionTitle": "Bootcamp"
+    },
+    "de": {
+      "title": "Weitsprung",
+      "description": "1. Stelle dich mit etwa hüftbreit geöffneten Füßen hin, beuge die Knie, schiebe die Hüften nach hinten und schwinge die Arme zurück.\n2. Schwinge die Arme nach vorn und strecke Hüften, Knie und Sprunggelenke, um nach vorn zu springen.\n3. Lande mit gebeugten Knien auf beiden Füßen, stabilisiere dich vollständig und gehe zurück, bevor du wiederholst.",
+      "sectionTitle": "Bootcamp"
+    },
+    "it": {
+      "title": "Salto in lungo da fermo",
+      "description": "1. Mettiti in piedi con i piedi distanti circa quanto le anche, piega le ginocchia, porta le anche indietro e slancia le braccia all'indietro.\n2. Slancia le braccia in avanti ed estendi anche, ginocchia e caviglie per saltare in avanti.\n3. Atterra su entrambi i piedi con le ginocchia piegate, stabilizzati completamente e torna indietro camminando prima di ripetere.",
+      "sectionTitle": "Bootcamp"
+    },
+    "zh-Hans": {
+      "title": "立定跳远",
+      "description": "1. 站立，双脚约与髋同宽，屈膝、髋部后移，双臂向后摆。\n2. 双臂向前摆动，伸展髋部、膝部和踝部，向前跳出。\n3. 双脚屈膝落地，完全站稳后走回起点再重复。",
+      "sectionTitle": "训练营"
+    },
+    "ja": {
+      "title": "立ち幅跳び",
+      "description": "1. 足を腰幅程度に開いて立ち、膝を曲げ、股関節から上体を前傾させて腕を後ろに振ります。\n2. 腕を前に振り、股関節・膝・足首を伸ばして前方へジャンプします。\n3. 膝を曲げて両足で着地し、完全に安定してから歩いて戻り、繰り返します。",
+      "sectionTitle": "ブートキャンプ"
+    },
+    "ko": {
+      "title": "제자리멀리뛰기",
+      "description": "1. 발을 골반 너비 정도로 벌리고 서서 무릎을 굽히고 엉덩이를 뒤로 빼며 팔을 뒤로 흔듭니다.\n2. 팔을 앞으로 흔들며 고관절, 무릎, 발목을 펴서 앞으로 점프합니다.\n3. 무릎을 굽힌 채 양발로 착지해 완전히 안정을 찾은 뒤 걸어서 돌아와 반복합니다.",
+      "sectionTitle": "부트캠프"
+    },
+    "th": {
+      "title": "กระโดดไกล",
+      "description": "1. ยืนแยกเท้าประมาณความกว้างสะโพก งอเข่า พับสะโพกไปด้านหลัง และเหวี่ยงแขนไปด้านหลัง\n2. เหวี่ยงแขนไปด้านหน้า และเหยียดสะโพก เข่า และข้อเท้าเพื่อกระโดดไปข้างหน้า\n3. ลงพื้นด้วยเท้าทั้งสองข้างโดยงอเข่า ทรงตัวให้มั่นคงเต็มที่ แล้วเดินกลับก่อนทำซ้ำ",
+      "sectionTitle": "บูตแคมป์"
+    },
+    "ru": {
+      "title": "Прыжок в длину с места",
+      "description": "1. Встаньте, поставив стопы примерно на ширине таза, согните колени, отведите таз назад и отведите руки назад.\n2. Сделайте мах руками вперёд и разогните тазобедренные, коленные и голеностопные суставы, чтобы прыгнуть вперёд.\n3. Приземлитесь на обе стопы на согнутые колени, полностью стабилизируйтесь и вернитесь шагом перед повторением.",
+      "sectionTitle": "Буткемп"
+    },
+    "uk": {
+      "title": "Стрибок у довжину з місця",
+      "description": "1. Станьте, поставивши стопи приблизно на ширині таза, зігніть коліна, відведіть таз назад і відведіть руки назад.\n2. Зробіть мах руками вперед і розігніть кульшові, колінні та гомілковостопні суглоби, щоб стрибнути вперед.\n3. Приземліться на обидві стопи на зігнуті коліна, повністю стабілізуйтеся й поверніться кроком перед повторенням.",
+      "sectionTitle": "Буткемп"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "40.53",
+  "key": "karate_taikyoku_shodan",
+  "title": "Taikyoku Shodan",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Follow the I-shaped floor pattern using only gedan-barai and oi-zuki in front stance, with 90-degree and 180-degree turns.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taikyoku Shodan",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Follow the I-shaped floor pattern using only gedan-barai and oi-zuki in front stance, with 90-degree and 180-degree turns.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Taikyoku Shodan",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Sigue el diagrama en forma de I usando solo gedan-barai y oi-zuki en posición adelantada, con giros de 90 y 180 grados.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Taikyoku Shodan",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Siga o diagrama em forma de I usando apenas gedan-barai e oi-zuki na base frontal, com giros de 90 e 180 graus.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Taikyoku Shodan",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Suivez le tracé en I en n’utilisant que gedan-barai et oi-zuki en position avant, avec des pivots de 90 et 180 degrés.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Taikyoku Shodan",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Folge dem I-förmigen Schrittdiagramm nur mit Gedan-barai und Oi-zuki im Vorwärtsstand, mit Drehungen um 90 und 180 Grad.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Taikyoku Shodan",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Segui il tracciato a I usando solo gedan-barai e oi-zuki in posizione avanzata, con rotazioni di 90 e 180 gradi.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "太极初段",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 沿工字形路线，只用前屈立下段扫和顺步冲拳演练，包含90度与180度转身。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "太極初段",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 工の字の演武線に沿い、前屈立ちの下段払いと追い突きのみで、90度と180度の転身を行います。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "다이쿄쿠 쇼단",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. I자 연무선을 따라 앞굽이 하단 막기와 오이즈키만으로 90도와 180도 방향 전환을 합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "ไทเกียวคุ โชดัน",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. เคลื่อนตามแผนผังรูปตัว I โดยใช้เพียงเกดันบาไรและโออิสึกิในท่ายืนหน้า พร้อมหมุนตัว 90 และ 180 องศา\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Тайкёку сёдан",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Двигайтесь по I-образной схеме, используя только гэдан-барай и ой-цуки в передней стойке, с поворотами на 90 и 180 градусов.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Тайкьоку шодан",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Рухайтеся за I-подібною схемою, використовуючи лише ґедан-барай і ой-цукі в передній стійці, з поворотами на 90 і 180 градусів.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

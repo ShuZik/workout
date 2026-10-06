@@ -1,0 +1,87 @@
+{
+  "id": "107.1",
+  "key": "vovinam",
+  "title": "Vovinam",
+  "description": "1. Stand in a balanced Vovinam guard with the knees soft, hands ready, and enough space to move and kick in every direction.\n2. Drill punches, knife-hand and elbow strikes, front and side kicks, and blocks along short lines, adding direction changes as you go.\n3. Return to guard after each combination, keep the breathing steady, and reset the stance before the next sequence.",
+  "colorType": "blue",
+  "workoutType": "vovinam",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Vovinam",
+      "description": "1. Stand in a balanced Vovinam guard with the knees soft, hands ready, and enough space to move and kick in every direction.\n2. Drill punches, knife-hand and elbow strikes, front and side kicks, and blocks along short lines, adding direction changes as you go.\n3. Return to guard after each combination, keep the breathing steady, and reset the stance before the next sequence.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Vovinam",
+      "description": "1. Colócate en una guardia de Vovinam equilibrada, con las rodillas flexibles, las manos listas y espacio para moverte y patear en todas direcciones.\n2. Practica golpes de puño, golpes con canto de mano y codo, patadas frontales y laterales y bloqueos en líneas cortas, añadiendo cambios de dirección.\n3. Vuelve a la guardia tras cada combinación, mantén la respiración estable y recoloca la postura antes de la siguiente secuencia.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Vovinam",
+      "description": "1. Fique numa guarda de Vovinam equilibrada, com os joelhos soltos, as mãos prontas e espaço para se mover e chutar em todas as direções.\n2. Treine socos, golpes com a lateral da mão e cotoveladas, chutes frontais e laterais e bloqueios em linhas curtas, acrescentando mudanças de direção.\n3. Volte à guarda após cada combinação, mantenha a respiração estável e reajuste a base antes da próxima sequência.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Vovinam",
+      "description": "1. Prenez une garde de Vovinam équilibrée, genoux souples, mains prêtes, avec assez d’espace pour vous déplacer et frapper du pied dans toutes les directions.\n2. Travaillez coups de poing, frappes du tranchant de la main et du coude, coups de pied de face et de côté et blocages sur de courtes lignes, en ajoutant des changements de direction.\n3. Revenez en garde après chaque combinaison, gardez une respiration régulière et replacez la position avant la séquence suivante.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Vovinam",
+      "description": "1. Nimm eine ausbalancierte Vovinam-Deckung ein, Knie locker, Hände bereit und mit genug Platz, um dich in alle Richtungen zu bewegen und zu treten.\n2. Übe Fauststöße, Handkanten- und Ellbogenschläge, Vorwärts- und Seitwärtstritte sowie Abwehren auf kurzen Linien und füge Richtungswechsel hinzu.\n3. Kehre nach jeder Kombination in die Deckung zurück, atme gleichmäßig und richte die Stellung vor der nächsten Folge neu aus.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Vovinam",
+      "description": "1. Mettiti in una guardia di Vovinam equilibrata, ginocchia morbide, mani pronte e spazio per muoverti e calciare in ogni direzione.\n2. Allena pugni, colpi di taglio della mano e di gomito, calci frontali e laterali e parate su linee brevi, aggiungendo cambi di direzione.\n3. Torna in guardia dopo ogni combinazione, mantieni il respiro regolare e risistema la posizione prima della sequenza successiva.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "越武道",
+      "description": "1. 以平衡的越武道防守姿势站立，膝盖放松，双手准备好，四周留出移动和踢击的空间。\n2. 沿短距离路线练习冲拳、掌刀和肘击、正踢和侧踢以及格挡，并逐步加入方向变换。\n3. 每个组合后回到防守姿势，保持呼吸平稳，在下一组前重新站稳步型。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ボビナム",
+      "description": "1. 膝を柔らかく保ち、手を準備し、全方向に動いて蹴れる空間を確保して、バランスのよいボビナムの構えで立ちます。\n2. 突き、手刀打ちと肘打ち、前蹴りと横蹴り、受けを短い線上で練習し、方向転換を加えていきます。\n3. 各連携の後は構えに戻り、呼吸を整え、次の連続技の前に立ち方を整え直します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "보비남",
+      "description": "1. 무릎을 부드럽게 하고 손을 준비한 채, 모든 방향으로 움직이고 찰 수 있는 공간을 두고 균형 잡힌 보비남 가드로 섭니다.\n2. 짧은 선을 따라 지르기, 손날과 팔꿈치 치기, 앞차기와 옆차기, 막기를 연습하고 점차 방향 전환을 더합니다.\n3. 각 연결 동작 후 가드로 돌아오고 호흡을 안정시키며 다음 연결 전에 자세를 다시 잡습니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "โววีนัม",
+      "description": "1. ยืนในท่าการ์ดโววีนัมที่สมดุล เข่าผ่อนคลาย มือพร้อม และมีพื้นที่พอให้เคลื่อนที่และเตะได้ทุกทิศทาง\n2. ฝึกหมัด สันมือและศอก เตะตรงและเตะข้าง และการปัด ไปตามแนวสั้น ๆ แล้วค่อย ๆ เพิ่มการเปลี่ยนทิศทาง\n3. กลับสู่การ์ดหลังจบแต่ละชุด หายใจให้สม่ำเสมอ และจัดท่ายืนใหม่ก่อนชุดถัดไป",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Вовинам",
+      "description": "1. Встаньте в сбалансированную защитную стойку вовинам: колени мягкие, руки готовы, вокруг достаточно места, чтобы двигаться и бить ногами во всех направлениях.\n2. Отрабатывайте удары кулаком, ребром ладони и локтем, прямые и боковые удары ногой и блоки на коротких линиях, постепенно добавляя смены направления.\n3. После каждой комбинации возвращайтесь в защиту, держите ровное дыхание и восстанавливайте стойку перед следующей серией.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Вовінам",
+      "description": "1. Станьте у збалансовану захисну стійку вовінам: коліна м’які, руки готові, навколо достатньо місця, щоб рухатися й бити ногами в усіх напрямках.\n2. Відпрацьовуйте удари кулаком, ребром долоні та ліктем, прямі й бокові удари ногою та блоки на коротких лініях, поступово додаючи зміни напрямку.\n3. Після кожної комбінації повертайтеся в захист, тримайте рівне дихання й відновлюйте стійку перед наступною серією.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "40.4",
+  "key": "karate_kiba_dachi",
+  "title": "Kiba Dachi",
+  "description": "1. Place the feet wider than shoulder width with the toes pointing mostly forward and the heels on one line.\n2. Bend both knees evenly and lower the hips between the feet while keeping the chest upright.\n3. Press the knees in the direction of the toes, brace the trunk, and hold equal pressure through both feet.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kiba Dachi",
+      "description": "1. Place the feet wider than shoulder width with the toes pointing mostly forward and the heels on one line.\n2. Bend both knees evenly and lower the hips between the feet while keeping the chest upright.\n3. Press the knees in the direction of the toes, brace the trunk, and hold equal pressure through both feet.",
+      "sectionTitle": "Stances"
+    },
+    "es": {
+      "title": "Kiba Dachi",
+      "description": "1. Coloca los pies más separados que los hombros, con los dedos mayormente hacia delante y los talones en una línea.\n2. Flexiona ambas rodillas por igual y baja las caderas entre los pies manteniendo el pecho erguido.\n3. Dirige las rodillas hacia los dedos de los pies, activa el tronco y mantén la misma presión en ambos pies.",
+      "sectionTitle": "Posturas"
+    },
+    "pt": {
+      "title": "Kiba Dachi",
+      "description": "1. Afaste os pés além da largura dos ombros, com as pontas principalmente para a frente e os calcanhares na mesma linha.\n2. Dobre os dois joelhos igualmente e abaixe os quadris entre os pés, mantendo o peito erguido.\n3. Direcione os joelhos para as pontas dos pés, firme o tronco e mantenha pressão igual nos dois pés.",
+      "sectionTitle": "Bases"
+    },
+    "fr": {
+      "title": "Kiba Dachi",
+      "description": "1. Écartez les pieds au-delà de la largeur des épaules, pointes surtout vers l’avant et talons sur une même ligne.\n2. Fléchissez les deux genoux également et abaissez les hanches entre les pieds, poitrine droite.\n3. Orientez les genoux vers les orteils, gainez le tronc et répartissez la pression également sur les deux pieds.",
+      "sectionTitle": "Positions"
+    },
+    "de": {
+      "title": "Kiba Dachi",
+      "description": "1. Stelle die Füße weiter als schulterbreit auf, die Zehen überwiegend nach vorn und die Fersen auf einer Linie.\n2. Beuge beide Knie gleichmäßig und senke die Hüften zwischen die Füße, der Brustkorb bleibt aufrecht.\n3. Drücke die Knie in Richtung der Zehen, spanne den Rumpf an und verteile den Druck gleichmäßig auf beide Füße.",
+      "sectionTitle": "Stände"
+    },
+    "it": {
+      "title": "Kiba Dachi",
+      "description": "1. Allarga i piedi oltre la larghezza delle spalle, con le punte prevalentemente avanti e i talloni sulla stessa linea.\n2. Piega entrambe le ginocchia in modo uniforme e abbassa le anche tra i piedi mantenendo il petto eretto.\n3. Orienta le ginocchia verso le punte dei piedi, attiva il busto e mantieni uguale pressione su entrambi i piedi.",
+      "sectionTitle": "Posizioni"
+    },
+    "zh-Hans": {
+      "title": "骑马立",
+      "description": "1. 双脚分开超过肩宽，脚尖主要朝前，脚跟位于同一直线。\n2. 双膝均匀弯曲，髋部下降至双脚之间，胸部保持直立。\n3. 膝盖朝脚尖方向用力，收紧躯干，双脚受力保持相等。",
+      "sectionTitle": "站姿"
+    },
+    "ja": {
+      "title": "騎馬立ち",
+      "description": "1. 足を肩幅より広く開き、つま先をほぼ前に向け、かかとを一直線にそろえます。\n2. 両膝を均等に曲げ、胸を起こしたまま腰を両足の間へ下げます。\n3. 膝をつま先の方向へ向け、体幹を固め、両足への圧力を均等に保ちます。",
+      "sectionTitle": "立ち方"
+    },
+    "ko": {
+      "title": "기바 다치",
+      "description": "1. 발을 어깨너비보다 넓게 벌리고 발끝은 주로 앞을 향하며 뒤꿈치는 같은 선에 둡니다.\n2. 양 무릎을 고르게 굽히고 가슴을 세운 채 골반을 두 발 사이로 낮춥니다.\n3. 무릎을 발끝 방향으로 밀고 몸통을 단단히 하며 두 발에 같은 압력을 유지합니다.",
+      "sectionTitle": "서기"
+    },
+    "th": {
+      "title": "คิบะดาจิ",
+      "description": "1. วางเท้ากว้างกว่าไหล่ ปลายเท้าส่วนใหญ่ชี้ไปด้านหน้า และส้นเท้าอยู่แนวเดียวกัน\n2. งอเข่าทั้งสองเท่ากันและลดสะโพกระหว่างเท้า โดยรักษาอกตั้งตรง\n3. ดันเข่าไปตามทิศปลายเท้า เกร็งลำตัว และรักษาแรงกดผ่านเท้าทั้งสองให้เท่ากัน",
+      "sectionTitle": "ท่ายืน"
+    },
+    "ru": {
+      "title": "Киба-дати",
+      "description": "1. Поставьте стопы шире плеч, направив носки преимущественно вперёд, а пятки расположив на одной линии.\n2. Равномерно согните оба колена и опустите таз между стопами, сохраняя грудь вертикально.\n3. Направляйте колени к носкам, напрягите корпус и удерживайте одинаковое давление на обе стопы.",
+      "sectionTitle": "Стойки"
+    },
+    "uk": {
+      "title": "Кіба-дачі",
+      "description": "1. Поставте стопи ширше плечей, спрямувавши носки переважно вперед, а п’яти розташувавши на одній лінії.\n2. Рівномірно зігніть обидва коліна й опустіть таз між стопами, зберігаючи груди вертикально.\n3. Спрямовуйте коліна до носків, напружте тулуб і тримайте однаковий тиск на обидві стопи.",
+      "sectionTitle": "Стійки"
+    }
+  }
+}

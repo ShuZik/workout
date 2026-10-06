@@ -1,0 +1,90 @@
+{
+  "id": "40.16",
+  "key": "karate_mawashi_geri",
+  "title": "Mawashi Geri",
+  "description": "1. Shift weight to the supporting leg and chamber the kicking knee across the target line.\n2. Pivot the supporting foot and rotate the hip as the lower leg extends toward the target with the instep or ball of the foot.\n3. Bend the knee immediately after contact and return the foot to stance without letting the torso fall away.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Mawashi Geri",
+      "description": "1. Shift weight to the supporting leg and chamber the kicking knee across the target line.\n2. Pivot the supporting foot and rotate the hip as the lower leg extends toward the target with the instep or ball of the foot.\n3. Bend the knee immediately after contact and return the foot to stance without letting the torso fall away.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Mawashi Geri",
+      "description": "1. Pasa el peso a la pierna de apoyo y recoge la rodilla de la pierna que patea cruzando la línea del objetivo.\n2. Pivota el pie de apoyo y gira la cadera mientras la parte inferior de la pierna se extiende hacia el objetivo con el empeine o la planta anterior.\n3. Flexiona la rodilla inmediatamente después del contacto y devuelve el pie a la postura sin dejar caer el torso.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Mawashi Geri",
+      "description": "1. Transfira o peso para a perna de apoio e prepare o joelho da perna que chuta cruzando a linha do alvo.\n2. Gire o pé de apoio e o quadril enquanto a perna se estende em direção ao alvo com o peito do pé ou a planta anterior.\n3. Dobre o joelho logo após o contato e retorne o pé à base sem deixar o tronco cair para trás.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Mawashi Geri",
+      "description": "1. Transférez le poids sur la jambe d’appui et armez le genou de la jambe de frappe en travers de la ligne de la cible.\n2. Pivotez le pied d’appui et tournez la hanche pendant que la jambe se déplie vers la cible avec le cou-de-pied ou la plante avant.\n3. Fléchissez le genou dès le contact et reposez le pied en position sans laisser le torse partir en arrière.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Mawashi Geri",
+      "description": "1. Verlagere das Gewicht auf das Standbein und ziehe das Knie des Trittbeins quer zur Ziellinie an.\n2. Drehe den Standfuß und die Hüfte, während der Unterschenkel mit Spann oder Fußballen zum Ziel schnellt.\n3. Beuge das Knie direkt nach dem Treffer und setze den Fuß in den Stand zurück, ohne den Rumpf wegkippen zu lassen.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Mawashi Geri",
+      "description": "1. Sposta il peso sulla gamba d’appoggio e carica il ginocchio della gamba che calcia attraverso la linea del bersaglio.\n2. Ruota il piede d’appoggio e l’anca mentre la gamba si distende verso il bersaglio con il collo del piede o l’avampiede.\n3. Piega subito il ginocchio dopo il contatto e riporta il piede in posizione senza lasciar cadere il busto all’indietro.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "回蹴",
+      "description": "1. 将重心移到支撑腿，踢击腿屈膝提起并横过目标线。\n2. 转动支撑脚和髋部，小腿用脚背或前脚掌向目标弹出。\n3. 击中后立即屈膝，将脚收回站姿，躯干不要后倒。",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "回し蹴り",
+      "description": "1. 軸足に体重を移し、蹴り足の膝を標的のラインを横切るように抱え込みます。\n2. 軸足を返して腰を回し、足の甲または上足底で下腿を標的へ伸ばします。\n3. 当てたらすぐに膝を曲げ、上体を倒さずに足を立ち方へ戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "마와시 게리",
+      "description": "1. 체중을 지지 다리로 옮기고 차는 다리의 무릎을 목표선을 가로질러 접어 올립니다.\n2. 지지 발을 돌리고 골반을 회전하며 발등이나 앞꿈치로 아랫다리를 목표 쪽으로 뻗습니다.\n3. 접촉 직후 무릎을 바로 굽히고 상체가 뒤로 무너지지 않게 하며 발을 자세로 되돌립니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "มาวาชิเกริ",
+      "description": "1. ถ่ายน้ำหนักไปที่ขารับน้ำหนักและยกเข่าขาที่เตะพับขึ้นข้ามแนวเป้าหมาย\n2. หมุนเท้าที่รับน้ำหนักและสะโพก ขณะเหยียดขาท่อนล่างไปยังเป้าหมายด้วยหลังเท้าหรือจมูกเท้า\n3. งอเข่าทันทีหลังสัมผัสเป้า แล้ววางเท้ากลับสู่ท่ายืนโดยไม่ปล่อยให้ลำตัวเอนหนี",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Маваси-гэри",
+      "description": "1. Перенесите вес на опорную ногу и поднимите согнутое колено бьющей ноги поперёк линии цели.\n2. Разверните опорную стопу и таз, выпрямляя голень к цели подъёмом стопы или подушечкой.\n3. Сразу после контакта согните колено и верните стопу в стойку, не заваливая корпус назад.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Маваші-гері",
+      "description": "1. Перенесіть вагу на опорну ногу й підніміть зігнуте коліно ударної ноги поперек лінії цілі.\n2. Розверніть опорну стопу й таз, випрямляючи гомілку до цілі підйомом стопи або подушечкою.\n3. Одразу після контакту зігніть коліно й поверніть стопу в стійку, не завалюючи корпус назад.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

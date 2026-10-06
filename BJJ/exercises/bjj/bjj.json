@@ -1,0 +1,90 @@
+{
+  "id": "6.1",
+  "key": "bjj",
+  "title": "BJJ",
+  "description": "1. Begin on mats with a trained partner, knees and hips mobile, elbows close, and the neck protected.\n2. Move through guard, side control, mount, and back-control transitions using frames, hip movement, and steady positional pressure.\n3. Stabilize each position before advancing and stop immediately whenever either partner taps or gives a verbal signal.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "section": "1 Main",
+  "durationSeconds": 30,
+  "durationUnit": "seconds",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "BJJ",
+      "description": "1. Begin on mats with a trained partner, knees and hips mobile, elbows close, and the neck protected.\n2. Move through guard, side control, mount, and back-control transitions using frames, hip movement, and steady positional pressure.\n3. Stabilize each position before advancing and stop immediately whenever either partner taps or gives a verbal signal.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "BJJ",
+      "description": "1. Empieza sobre el tapiz con un compañero entrenado, rodillas y cadera móviles, codos pegados y el cuello protegido.\n2. Pasa por la guardia, el control lateral, la montada y el control de espalda con transiciones usando marcos, movimiento de cadera y presión posicional constante.\n3. Estabiliza cada posición antes de avanzar y detente de inmediato cuando cualquiera de los dos palmee o dé una señal verbal.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "BJJ",
+      "description": "1. Comece no tatame com um parceiro treinado, joelhos e quadril móveis, cotovelos junto ao corpo e o pescoço protegido.\n2. Transite entre guarda, cem-quilos, montada e pegada nas costas usando enquadramentos, movimento de quadril e pressão posicional constante.\n3. Estabilize cada posição antes de avançar e pare imediatamente sempre que um dos parceiros bater ou der um sinal verbal.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "BJJ",
+      "description": "1. Commencez sur le tapis avec un partenaire entraîné, genoux et hanches mobiles, coudes serrés et cou protégé.\n2. Enchaînez les transitions entre garde, contrôle latéral, montée et contrôle du dos à l’aide de cadres, de mouvements de hanches et d’une pression positionnelle constante.\n3. Stabilisez chaque position avant de progresser et arrêtez immédiatement dès qu’un partenaire tape ou donne un signal verbal.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "BJJ",
+      "description": "1. Beginne auf der Matte mit einem trainierten Partner, Knie und Hüfte beweglich, Ellbogen eng und den Nacken geschützt.\n2. Wechsle zwischen Guard, Seitenkontrolle, Mount und Rückenkontrolle mit Frames, Hüftbewegung und gleichmäßigem Positionsdruck.\n3. Stabilisiere jede Position, bevor du weitergehst, und stoppe sofort, sobald einer von euch abklopft oder ein verbales Signal gibt.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "BJJ",
+      "description": "1. Inizia sul tappeto con un partner esperto, ginocchia e anche mobili, gomiti stretti e collo protetto.\n2. Passa tra guardia, controllo laterale, monta e controllo della schiena usando frame, movimento delle anche e pressione posizionale costante.\n3. Stabilizza ogni posizione prima di avanzare e fermati subito appena uno dei due batte o dà un segnale verbale.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "巴西柔术",
+      "description": "1. 与受过训练的搭档在垫上开始，膝盖和髋部保持灵活，肘部内收，保护好颈部。\n2. 运用架挡、髋部移动和稳定的位置压力，在防守、侧压、骑乘和背后控制之间转换。\n3. 每个位置稳定后再推进，任何一方拍垫或口头示意时立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ブラジリアン柔術",
+      "description": "1. 経験のあるパートナーとマット上で始め、膝と腰を柔軟に動かし、肘を締め、首を守ります。\n2. フレーム、腰の動き、安定したポジションのプレッシャーを使い、ガード、サイドコントロール、マウント、バックコントロールの間を移行します。\n3. 各ポジションを安定させてから進み、どちらかがタップするか声で合図したらすぐに止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "주짓수",
+      "description": "1. 숙련된 파트너와 매트 위에서 시작하며, 무릎과 엉덩이를 유연하게 하고 팔꿈치를 붙이고 목을 보호합니다.\n2. 프레임, 엉덩이 움직임, 꾸준한 포지션 압박을 사용해 가드, 사이드 컨트롤, 마운트, 백 컨트롤 사이를 전환합니다.\n3. 각 포지션을 안정시킨 뒤 진행하고, 어느 쪽이든 탭하거나 말로 신호하면 즉시 멈춥니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "บราซิลเลียนยิวยิตสู",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึกมาแล้ว ให้เข่าและสะโพกเคลื่อนไหวได้คล่อง ศอกชิดลำตัว และป้องกันคอ\n2. เปลี่ยนตำแหน่งระหว่างการ์ด ไซด์คอนโทรล เมาท์ และแบ็กคอนโทรล โดยใช้การยันแขน การขยับสะโพก และแรงกดตำแหน่งอย่างสม่ำเสมอ\n3. ทำให้แต่ละตำแหน่งมั่นคงก่อนรุกต่อ และหยุดทันทีเมื่อฝ่ายใดฝ่ายหนึ่งแท็ปหรือส่งสัญญาณด้วยเสียง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "БЖЖ",
+      "description": "1. Начните на ковре с подготовленным партнёром: колени и таз подвижны, локти прижаты, шея защищена.\n2. Переходите между гардом, боковым контролем, маунтом и контролем спины, используя упоры, движение таза и постоянное позиционное давление.\n3. Закрепляйте каждую позицию, прежде чем продвигаться дальше, и сразу останавливайтесь, если любой из партнёров постучал или подал голосовой сигнал.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "БЖЖ",
+      "description": "1. Почніть на килимі з підготовленим партнером: коліна й таз рухливі, лікті притиснуті, шия захищена.\n2. Переходьте між гардом, бічним контролем, маунтом і контролем спини, використовуючи упори, рух таза й постійний позиційний тиск.\n3. Закріплюйте кожну позицію, перш ніж просуватися далі, і негайно зупиняйтеся, якщо будь-хто з партнерів постукав або подав голосовий сигнал.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

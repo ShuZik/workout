@@ -1,0 +1,87 @@
+{
+  "id": "41.56",
+  "key": "judo_ashi_guruma",
+  "title": "Ashi Guruma",
+  "description": "1. Draw the partner forward and turn in, placing the straight leg across the front of the partner's knee.\n2. Block the knee with the extended leg while the upper body continues turning.\n3. Wheel the partner over the straight leg with the hand pull, retaining the sleeve for the breakfall.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ashi Guruma",
+      "description": "1. Draw the partner forward and turn in, placing the straight leg across the front of the partner's knee.\n2. Block the knee with the extended leg while the upper body continues turning.\n3. Wheel the partner over the straight leg with the hand pull, retaining the sleeve for the breakfall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Ashi Guruma",
+      "description": "1. Lleva al compañero hacia delante y gira para entrar, colocando la pierna estirada por delante de su rodilla.\n2. Bloquea la rodilla con la pierna extendida mientras el tronco continúa girando.\n3. Haz rodar al compañero sobre la pierna estirada con el tirón de manos, conservando la manga para la caída.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Ashi Guruma",
+      "description": "1. Leve o parceiro para a frente e gire para entrar, colocando a perna estendida à frente do joelho dele.\n2. Bloqueie o joelho com a perna estendida enquanto o tronco continua girando.\n3. Rode o parceiro sobre a perna estendida com a puxada das mãos, mantendo a manga para a queda.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Ashi Guruma",
+      "description": "1. Amenez le partenaire vers l’avant et pivotez pour entrer, la jambe tendue placée devant son genou.\n2. Bloquez le genou avec la jambe tendue pendant que le haut du corps continue de tourner.\n3. Faites rouler le partenaire par-dessus la jambe tendue par la traction des mains, en gardant la manche pour la chute.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Ashi Guruma",
+      "description": "1. Ziehe den Partner nach vorn und drehe ein, das gestreckte Bein vor seinem Knie.\n2. Blocke das Knie mit dem gestreckten Bein, während sich der Oberkörper weiterdreht.\n3. Rolle den Partner mit dem Handzug über das gestreckte Bein und halte den Ärmel für den Fall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Ashi Guruma",
+      "description": "1. Porta avanti il compagno e ruota per entrare, mettendo la gamba tesa davanti al suo ginocchio.\n2. Blocca il ginocchio con la gamba distesa mentre il busto continua a ruotare.\n3. Fai ruotare il compagno sopra la gamba tesa con la trazione delle mani, mantenendo la manica per la caduta.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "足车",
+      "description": "1. 向前拉搭档并转身进入，把伸直的腿横在其膝前。\n2. 用伸直的腿挡住膝部，同时上身继续转动。\n3. 靠双手牵拉使搭档绕直腿旋转，保持袖口抓握完成倒地。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "足車",
+      "description": "1. 相手を前へ引いて回り込み、伸ばした脚を相手の膝の前に当てます。\n2. 上体の回転を続けながら、伸ばした脚で膝を止めます。\n3. 手の引きで相手を伸ばした脚の上で車のように回し、袖を持って受身をとらせます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "아시 구루마",
+      "description": "1. 파트너를 앞으로 당기고 돌아 들어가며 편 다리를 파트너 무릎 앞에 둡니다.\n2. 상체가 계속 도는 동안 편 다리로 무릎을 막습니다.\n3. 손으로 당겨 파트너를 편 다리 위로 굴리고 소매를 유지해 낙법을 돕습니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "อาชิกุรุมะ",
+      "description": "1. ดึงคู่ฝึกไปข้างหน้าและหมุนตัวเข้า วางขาที่เหยียดตรงขวางหน้าเข่าคู่ฝึก\n2. ใช้ขาที่เหยียดกันเข่าไว้ ขณะที่ลำตัวส่วนบนหมุนต่อ\n3. ดึงมือหมุนคู่ฝึกข้ามขาที่เหยียด จับแขนเสื้อไว้เพื่อการล้ม",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Аси-гурума",
+      "description": "1. Выведите партнёра вперёд и войдите с разворотом, выставив прямую ногу перед его коленом.\n2. Заблокируйте колено прямой ногой, продолжая разворачивать корпус.\n3. Тя��ой рук прокатите партнёра через прямую ногу, удерживая рукав для страховки.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Асі-гурума",
+      "description": "1. Виведіть партнера вперед і увійдіть із р��зворотом, виставивши пряму ногу перед його коліном.\n2. Заблокуйте коліно прямою ногою, продовжуючи розвертати тулуб.\n3. Тягою рук перекотіть партнера через пряму ногу, утримуючи рукав для страховки.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

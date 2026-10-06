@@ -1,0 +1,87 @@
+{
+  "id": "80.1",
+  "key": "lucha_leonesa",
+  "title": "Lucha Leonesa",
+  "description": "1. Begin barefoot on grass or mats with a trained partner, each gripping the other's leather belt.\n2. Keep the belt grips and attempt mañas that unbalance and trip the partner to the ground.\n3. Guide the fall, stop on any touch of the ground, and retake the belt grips to restart.",
+  "colorType": "red",
+  "workoutType": "luchaLeonesa",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Lucha Leonesa",
+      "description": "1. Begin barefoot on grass or mats with a trained partner, each gripping the other's leather belt.\n2. Keep the belt grips and attempt mañas that unbalance and trip the partner to the ground.\n3. Guide the fall, stop on any touch of the ground, and retake the belt grips to restart.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Lucha Leonesa",
+      "description": "1. Comienza descalzo sobre hierba o tatami con un compañero entrenado, cada uno agarrando el cinto de cuero del otro.\n2. Mantén los agarres del cinto e intenta mañas que desequilibren y hagan caer al compañero al suelo.\n3. Guía la caída, detente ante cualquier contacto con el suelo y vuelve a tomar los agarres del cinto para reiniciar.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Luta leonesa",
+      "description": "1. Comece descalço na grama ou no tatame com um parceiro treinado, cada um segurando o cinto de couro do outro.\n2. Mantenha as pegadas no cinto e tente mañas que desequilibrem e derrubem o parceiro no chão.\n3. Conduza a queda, pare a qualquer toque no chão e refaça as pegadas no cinto para recomeçar.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Lutte léonaise",
+      "description": "1. Commencez pieds nus sur l'herbe ou le tapis avec un partenaire entraîné, chacun saisissant la ceinture de cuir de l'autre.\n2. Gardez les saisies de ceinture et tentez des mañas qui déséquilibrent et font chuter le partenaire au sol.\n3. Guidez la chute, arrêtez au moindre contact avec le sol et reprenez les saisies de ceinture pour recommencer.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Leonesisches Ringen",
+      "description": "1. Beginne barfuß auf Gras oder Matte mit einem geübten Partner, jeder greift den Ledergürtel des anderen.\n2. Halte die Gürtelgriffe und versuche Mañas, die den Partner aus dem Gleichgewicht bringen und zu Boden bringen.\n3. Führe den Fall, stoppe bei jeder Bodenberührung und greife die Gürtel neu, um neu zu beginnen.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Lotta leonese",
+      "description": "1. Inizia scalzo sull'erba o sul tatami con un partner allenato, ciascuno afferrando la cintura di cuoio dell'altro.\n2. Mantieni le prese alla cintura e tenta mañas che sbilancino e facciano cadere il partner a terra.\n3. Guida la caduta, fermati a qualsiasi contatto con il suolo e riprendi le prese alla cintura per ripartire.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "莱昂式摔跤",
+      "description": "1. 与训练有素的同伴赤脚在草地或垫上开始，双方互抓对方的皮腰带。\n2. 保持腰带握持，尝试使同伴失去平衡并摔倒在地的技法（mañas）。\n3. 引导倒地，任何触地即停，重新抓腰带开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "レオン相撲",
+      "description": "1. 草地かマット上で熟練のパートナーと裸足で始め、互いに相手の革ベルトを持ちます。\n2. ベルトの組み手を保ち、相手を崩して地面に倒すマーニャを試みます。\n3. 落下を導き、地面に少しでも触れたら止め、ベルトを持ち直して再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "레온 레슬링",
+      "description": "1. 잔디나 매트에서 숙련된 파트너와 맨발로 시작하며 서로 상대의 가죽 벨트를 잡습니다.\n2. 벨트 그립을 유지하며 파트너의 균형을 무너뜨려 바닥으로 넘기는 마냐를 시도합니다.\n3. 낙하를 유도하고 바닥에 닿는 즉시 멈춘 뒤 벨트를 다시 잡고 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "มวยปล้ำเลออน",
+      "description": "1. เริ่มเท้าเปล่าบนหญ้าหรือเบาะกับคู่ฝึกที่ผ่านการฝึก ต่างฝ่ายจับเข็มขัดหนังของอีกฝ่าย\n2. คงการจับเข็มขัดไว้ และพยายามใช้ท่ามาญาที่ทำลายสมดุลและทำให้คู่ฝึกล้มลงพื้น\n3. นำการล้ม หยุดเมื่อมีการแตะพื้นใดๆ แล้วจับเข็มขัดใหม่เพื่อเริ่มอีกครั้ง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Леонская борьба",
+      "description": "1. Начните босиком на траве или ковре с подготовленным партнёром, каждый держит кожаный пояс другого.\n2. Сохраняйте захваты за пояс и пробуйте маньяс, которые выводят партнёра из равновесия и роняют его на землю.\n3. Направляйте падение, останавливайтесь при любом касании земли и снова берите захваты за пояс.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Леонська боротьба",
+      "description": "1. Почніть босоніж на траві або килимі з підготовленим партнером, кожен тримає шкіряний пояс іншого.\n2. Зберігайте захвати за пояс і пробуйте маньяс, що виводять партнера з рівноваги й валять його на землю.\n3. Скеровуйте падіння, зупиняйтеся за будь-якого торкання землі й знову беріть захвати за пояс.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

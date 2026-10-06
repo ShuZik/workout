@@ -1,0 +1,90 @@
+{
+  "id": "82.1",
+  "key": "mongol_bokh",
+  "title": "Mongol Bokh",
+  "description": "1. Begin standing on grass or mats with a trained partner after a short devee dance.\n2. Grip the partner's arms, shoulders, or belt area and work throws, trips, and lifts to make the partner touch down with the upper body, knee, or elbow.\n3. Control every fall, help the partner up, and restart; no strikes, chokes, or locks.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "mongolBokh",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Mongol Bokh",
+      "description": "1. Begin standing on grass or mats with a trained partner after a short devee dance.\n2. Grip the partner's arms, shoulders, or belt area and work throws, trips, and lifts to make the partner touch down with the upper body, knee, or elbow.\n3. Control every fall, help the partner up, and restart; no strikes, chokes, or locks.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Bökh mongol",
+      "description": "1. Comienza de pie sobre hierba o tatami con un compañero entrenado tras una breve danza devee.\n2. Agarra brazos, hombros o la zona del cinturón del compañero y busca proyecciones, zancadillas y levantamientos para que toque el suelo con el torso, la rodilla o el codo.\n3. Controla cada caída, ayuda al compañero a levantarse y reinicia; sin golpes, estrangulaciones ni luxaciones.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Bökh mongol",
+      "description": "1. Comece de pé na grama ou no tatame com um parceiro treinado após uma breve dança devee.\n2. Segure braços, ombros ou a região da faixa do parceiro e busque projeções, rasteiras e levantamentos para que ele toque o chão com o tronco, o joelho ou o cotovelo.\n3. Controle cada queda, ajude o parceiro a levantar e recomece; sem golpes, estrangulamentos nem chaves.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Bökh mongol",
+      "description": "1. Commencez debout sur l'herbe ou le tapis avec un partenaire entraîné après une brève danse devee.\n2. Saisissez bras, épaules ou zone de la ceinture et cherchez projections, crocs-en-jambe et soulevés pour qu'il touche le sol du buste, du genou ou du coude.\n3. Contrôlez chaque chute, aidez le partenaire à se relever et recommencez ; ni frappes, ni étranglements, ni clés.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Mongolisches Bökh",
+      "description": "1. Beginne stehend auf Gras oder Matte mit einem geübten Partner nach einem kurzen Devee-Tanz.\n2. Greife Arme, Schultern oder Gürtelbereich des Partners und arbeite mit Würfen, Beinstellen und Anheben, bis er mit Oberkörper, Knie oder Ellbogen den Boden berührt.\n3. Kontrolliere jeden Fall, hilf dem Partner auf und beginne neu; keine Schläge, Würgegriffe oder Hebel.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Bökh mongolo",
+      "description": "1. Inizia in piedi sull'erba o sul tatami con un partner allenato dopo una breve danza devee.\n2. Afferra braccia, spalle o zona della cintura del partner e cerca proiezioni, sgambetti e sollevamenti finché tocca terra con busto, ginocchio o gomito.\n3. Controlla ogni caduta, aiuta il partner a rialzarsi e ricomincia; niente colpi, strangolamenti o leve.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "蒙古搏克",
+      "description": "1. 简短跳完鹰舞后，与训练有素的同伴站在草地或垫上开始。\n2. 抓同伴的手臂、肩部或腰带部位，用摔投、绊摔和抱起使其上身、膝盖或手肘触地。\n3. 控制每次倒地，扶同伴起身后重新开始；禁止击打、绞技和关节技。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "モンゴル相撲ブフ",
+      "description": "1. 短いデヴェーの舞の後、熟練のパートナーと草地かマット上に立って始めます。\n2. 相手の腕、肩、帯のあたりを持ち、投げ、足掛け、持ち上げで上体、膝、肘を地面につけさせます。\n3. すべての落下を制御し、相手を起こしてから再開します。打撃、絞め、関節技は禁止です。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "몽골 부흐",
+      "description": "1. 짧은 데베 춤 후 숙련된 파트너와 잔디나 매트에 서서 시작합니다.\n2. 파트너의 팔, 어깨 또는 띠 부위를 잡고 메치기, 걸기, 들기로 상체, 무릎 또는 팔꿈치가 바닥에 닿게 합니다.\n3. 모든 낙하를 통제하고 파트너를 일으켜 준 뒤 다시 시작합니다. 타격, 조르기, 관절기는 금지입니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "บุคมองโกล",
+      "description": "1. เริ่มยืนบนหญ้าหรือเบาะกับคู่ฝึกที่ผ่านการฝึก หลังเต้นระบำเดเวสั้นๆ\n2. จับแขน ไหล่ หรือบริเวณเข็มขัดของคู่ฝึก แล้วใช้การทุ่ม ขัดขา และยก เพื่อให้เขาแตะพื้นด้วยลำตัว เข่า หรือศอก\n3. ควบคุมทุกการล้ม ช่วยพยุงคู่ฝึกขึ้น แล้วเริ่มใหม่ ห้ามตี ห้ามรัดคอ และห้ามล็อกข้อต่อ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Монгольская борьба бух",
+      "description": "1. После короткого танца девээ начните стоя на траве или ковре с подготовленным партнёром.\n2. Захватывайте руки, плечи или область пояса партнёра и работайте бросками, подножками и подъёмами, чтобы он коснулся земли туловищем, коленом или локтем.\n3. Контролируйте каждое падение, помогите партнёру встать и начните заново; без ударов, удушений и болевых.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Монгольська боротьба бух",
+      "description": "1. Після короткого танцю девее почніть стоячи на траві або килимі з підготовленим партнером.\n2. Захоплюйте руки, плечі або ділянку пояса партнера й працюйте кидками, підніжками та підйомами, щоб він торкнувся землі тулубом, коліном чи ліктем.\n3. Контролюйте кожне падіння, допоможіть партнерові підвестися й почніть знову; без ударів, задушень і больових.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

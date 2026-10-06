@@ -1,0 +1,87 @@
+{
+  "id": "7.3",
+  "key": "wrestling_tip_up",
+  "title": "Tip Up",
+  "description": "1. Squat on a mat with the hands planted shoulder-width apart and the fingers spread.\n2. Rest the knees on the backs of the bent elbows and lean forward until the feet lift off the mat.\n3. Hold the balance with the head up, then lower the feet softly and repeat.",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tip Up",
+      "description": "1. Squat on a mat with the hands planted shoulder-width apart and the fingers spread.\n2. Rest the knees on the backs of the bent elbows and lean forward until the feet lift off the mat.\n3. Hold the balance with the head up, then lower the feet softly and repeat.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Equilibrio en cuclillas",
+      "description": "1. Ponte en cuclillas sobre la colchoneta con las manos apoyadas al ancho de los hombros y los dedos separados.\n2. Apoya las rodillas sobre la parte posterior de los codos flexionados e inclínate hacia delante hasta que los pies se despeguen.\n3. Mantén el equilibrio con la cabeza alta, luego baja los pies suavemente y repite.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Equilíbrio de agachamento",
+      "description": "1. Agache-se no tatame com as mãos apoiadas na largura dos ombros e os dedos afastados.\n2. Apoie os joelhos na parte de trás dos cotovelos flexionados e incline-se para a frente até os pés saírem do chão.\n3. Sustente o equilíbrio com a cabeça erguida, depois abaixe os pés suavemente e repita.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Équilibre accroupi",
+      "description": "1. Accroupissez-vous sur le tapis, mains posées à largeur d'épaules et doigts écartés.\n2. Posez les genoux sur l'arrière des coudes fléchis et penchez-vous en avant jusqu'à ce que les pieds décollent.\n3. Tenez l'équilibre tête haute, puis reposez doucement les pieds et recommencez.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Hockstütz-Balance",
+      "description": "1. Gehe auf der Matte in die Hocke, Hände schulterbreit aufgesetzt, Finger gespreizt.\n2. Lege die Knie auf die Rückseite der gebeugten Ellbogen und lehne dich nach vorn, bis die Füße abheben.\n3. Halte die Balance mit erhobenem Kopf, setze die Füße dann weich ab und wiederhole.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Equilibrio in accosciata",
+      "description": "1. Accosciati sul materassino con le mani appoggiate alla larghezza delle spalle e le dita aperte.\n2. Appoggia le ginocchia sul retro dei gomiti piegati e sporgiti in avanti finché i piedi si staccano.\n3. Mantieni l'equilibrio con la testa alta, poi riappoggia i piedi con dolcezza e ripeti.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "蹲撑平衡",
+      "description": "1. 在垫上下蹲，双手与肩同宽撑地，手指张开。\n2. 把膝盖搭在弯曲手肘的后侧，身体前倾直到双脚离地。\n3. 抬头保持平衡，然后轻轻放下双脚并重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "チップアップ",
+      "description": "1. マット上でしゃがみ、手を肩幅について指を広げます。\n2. 曲げた肘の裏に膝を乗せ、足が浮くまで前に体重を移します。\n3. 頭を上げてバランスを保ち、足を静かに下ろして繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "팁 업",
+      "description": "1. 매트에 쪼그려 앉아 손을 어깨너비로 짚고 손가락을 벌립니다.\n2. 구부린 팔꿈치 뒤에 무릎을 올리고 발이 뜰 때까지 앞으로 기울입니다.\n3. 고개를 든 채 균형을 유지한 뒤 발을 부드럽게 내리고 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ทรงตัวบนมือ",
+      "description": "1. นั่งยองบนเบาะ วางมือห่างเท่าความกว้างไหล่ และกางนิ้วออก\n2. วางเข่าบนด้านหลังของศอกที่งอ แล้วโน้มตัวไปข้างหน้าจนเท้าลอยจากพื้น\n3. ทรงตัวโดยเงยหน้าไ��้ จากนั้นวางเท้าลงเบาๆ แล้วทำซ้ำ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Стойка на руках в упоре присев",
+      "description": "1. Присядьте на ковре, поставив руки на ширине плеч и расставив пальцы.\n2. Положите колени на заднюю сторону согнутых локтей и наклонитесь вперёд, пока стопы не оторвутся от ковра.\n3. Удерживайте равновесие, подняв голову, затем мягко опустите стопы и повторите.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Баланс в упорі присівши",
+      "description": "1. Присядьте на килимі, поставивши руки на ширині плечей і розставивши пальці.\n2. Покладіть коліна на задню частину зігнутих ліктів і нахиліться вперед, доки стопи не відірвуться від килима.\n3. Утримуйте рівновагу, піднявши голову, потім м'яко опустіть стопи й повторіть.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "14.13",
+  "key": "core_training_superman_back_extension",
+  "title": "Superman (Back Extension)",
+  "description": "1. Lie face down with the legs long, arms extended, and forehead facing the floor.\n2. Brace lightly and lift the arms, chest, and legs only a small distance without compressing the lower back.\n3. Keep the neck in line with the spine, pause briefly, then lower all limbs under control.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Superman (Back Extension)",
+      "description": "1. Lie face down with the legs long, arms extended, and forehead facing the floor.\n2. Brace lightly and lift the arms, chest, and legs only a small distance without compressing the lower back.\n3. Keep the neck in line with the spine, pause briefly, then lower all limbs under control.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Superman (extensión de espalda)",
+      "description": "1. Túmbate boca abajo con las piernas y los brazos extendidos y la frente hacia el suelo.\n2. Activa suavemente el tronco y eleva los brazos, el pecho y las piernas solo un poco, sin comprimir la zona lumbar.\n3. Mantén el cuello alineado con la columna, haz una breve pausa y baja todas las extremidades de forma controlada.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Superman (extensão das costas)",
+      "description": "1. Deite de barriga para baixo com as pernas e os braços estendidos e a testa voltada para o chão.\n2. Firme levemente o tronco e eleve os braços, o peito e as pernas apenas um pouco, sem comprimir a lombar.\n3. Mantenha o pescoço alinhado com a coluna, faça uma breve pausa e abaixe todos os membros de forma controlada.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Superman (extension du dos)",
+      "description": "1. Allongez-vous sur le ventre, jambes et bras allongés, front tourné vers le sol.\n2. Gainez légèrement et soulevez les bras, la poitrine et les jambes de quelques centimètres seulement, sans comprimer le bas du dos.\n3. Gardez la nuque dans l’alignement de la colonne, marquez une courte pause, puis abaissez tous les membres avec contrôle.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Superman (Rückenstrecken)",
+      "description": "1. Lege dich auf den Bauch, strecke Beine und Arme und richte die Stirn zum Boden.\n2. Spanne den Rumpf leicht an und hebe Arme, Brust und Beine nur ein kleines Stück, ohne den unteren Rücken zusammenzudrücken.\n3. Halte den Nacken in einer Linie mit der Wirbelsäule, pausiere kurz und senke dann alle Gliedmaßen kontrolliert ab.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Superman (estensione della schiena)",
+      "description": "1. Sdraiati a pancia in giù con gambe e braccia distese e la fronte rivolta al pavimento.\n2. Contrai leggermente il tronco e solleva braccia, petto e gambe solo di poco, senza comprimere la zona lombare.\n3. Mantieni il collo allineato alla colonna, fai una breve pausa e abbassa tutti gli arti in modo controllato.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "超人式（背部伸展）",
+      "description": "1. 俯卧，双腿和双臂伸展，额头朝向地面。\n2. 轻轻收紧躯干，将双臂、胸部和双腿稍稍抬起，不要挤压下背部。\n3. 保持颈部与脊柱对齐，稍作停顿，然后有控制地放下四肢。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "スーパーマン（背中の伸展）",
+      "description": "1. うつ伏せになり、脚と腕を伸ばし、額を床に向けます。\n2. 体幹に軽く力を入れ、腰を圧迫しないように腕、胸、脚を少しだけ持ち上げます。\n3. 首を背骨と一直線に保ち、短く止めてから手足をすべてゆっくり下ろします。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "슈퍼맨 (등 신전)",
+      "description": "1. 엎드려 다리와 팔을 길게 뻗고 이마가 바닥을 향하게 합니다.\n2. 몸통에 가볍게 힘을 주고 허리를 압박하지 않도록 팔, 가슴, 다리를 조금만 들어 올립니다.\n3. 목을 척추와 일직선으로 유지하고 잠시 멈춘 뒤 팔다리를 모두 조절하며 내립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ซูเปอร์แมน (เหยียดหลัง)",
+      "description": "1. นอนคว่ำ เหยียดขาและแขน โดยให้หน้าผากหันลงพื้น\n2. เกร็งลำตัวเบา ๆ แล้วยกแขน หน้าอก และขาขึ้นเพียงเล็กน้อย โดยไม่กดอัดหลังส่วนล่าง\n3. รักษาคอให้อยู่แนวเดียวกับกระดูกสันหลัง หยุดค้างสั้น ๆ แล้วลดแขนและขาทั้งหมดลงอย่างควบคุม",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Супермен (разгибание спины)",
+      "description": "1. Лягте на живот, вытяните ноги и руки, направьте лоб к полу.\n2. Слегка напрягите корпус и немного приподнимите руки, грудь и ноги, не сдавливая поясницу.\n3. Держите шею на одной линии с позвоночником, ненадолго задержитесь, затем подконтрольно опустите все конечности.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Супермен (розгинання спини)",
+      "description": "1. Ляжте на живіт, витягніть ноги й руки, спрямуйте лоб до підлоги.\n2. Злегка напружте корпус і трохи підніміть руки, груди та ноги, не стискаючи поперек.\n3. Тримайте шию на одній лінії з хребтом, ненадовго затримайтеся, потім контрольовано опустіть усі кінцівки.",
+      "sectionTitle": "База"
+    }
+  }
+}

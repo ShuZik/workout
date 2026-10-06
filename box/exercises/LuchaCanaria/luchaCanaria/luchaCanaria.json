@@ -1,0 +1,87 @@
+{
+  "id": "79.1",
+  "key": "lucha_canaria",
+  "title": "Lucha Canaria",
+  "description": "1. Begin in a sand circle or on mats with a trained partner, taking the starting grip low on the partner's rolled trouser leg and back.\n2. Use grasping, blocking, and deflecting mañas to make the partner touch the ground with anything but the feet.\n3. Guide each fall, stop at the first touch, and restart from the central grip; no strikes or strangles.",
+  "colorType": "yellow",
+  "workoutType": "luchaCanaria",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Lucha Canaria",
+      "description": "1. Begin in a sand circle or on mats with a trained partner, taking the starting grip low on the partner's rolled trouser leg and back.\n2. Use grasping, blocking, and deflecting mañas to make the partner touch the ground with anything but the feet.\n3. Guide each fall, stop at the first touch, and restart from the central grip; no strikes or strangles.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Lucha Canaria",
+      "description": "1. Comienza en un terrero de arena o sobre el tatami con un compañero entrenado, tomando el agarre inicial bajo en la pernera remangada y la espalda del compañero.\n2. Usa mañas de agarre, bloqueo y desvío para que el compañero toque el suelo con cualquier parte que no sean los pies.\n3. Guía cada caída, detente al primer contacto y reinicia desde el agarre central; sin golpes ni estrangulaciones.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Luta canária",
+      "description": "1. Comece em um círculo de areia ou no tatame com um parceiro treinado, fazendo a pegada inicial baixa na perna arregaçada da calça e nas costas dele.\n2. Use mañas de agarre, bloqueio e desvio para fazer o parceiro tocar o chão com qualquer parte que não sejam os pés.\n3. Conduza cada queda, pare ao primeiro toque e recomece da pegada central; sem golpes nem estrangulamentos.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Lutte canarienne",
+      "description": "1. Commencez dans un rond de sable ou sur le tapis avec un partenaire entraîné, en prenant la saisie de départ basse sur la jambe de pantalon retroussée et dans le dos.\n2. Utilisez des mañas de saisie, de blocage et de déviation pour que le partenaire touche le sol avec autre chose que les pieds.\n3. Guidez chaque chute, arrêtez au premier contact et repartez de la saisie centrale ; ni frappes ni étranglements.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kanarisches Ringen",
+      "description": "1. Beginne im Sandkreis oder auf der Matte mit einem geübten Partner und nimm den Startgriff tief am aufgerollten Hosenbein und am Rücken.\n2. Nutze Greif-, Block- und Ablenk-Mañas, damit der Partner den Boden mit etwas anderem als den Füßen berührt.\n3. Führe jeden Fall, stoppe bei der ersten Berührung und beginne aus dem zentralen Griff neu; keine Schläge, keine Würgegriffe.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Lotta canaria",
+      "description": "1. Inizia in un cerchio di sabbia o sul tatami con un partner allenato, prendendo la presa iniziale bassa sul risvolto dei pantaloni e sulla schiena.\n2. Usa mañas di presa, blocco e deviazione per far toccare terra al partner con qualsiasi parte che non siano i piedi.\n3. Guida ogni caduta, fermati al primo contatto e riparti dalla presa centrale; niente colpi né strangolamenti.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "加那利摔跤",
+      "description": "1. 与训练有素的同伴在沙圈或垫上开始，起始握法低抓对方卷起的裤腿和背部。\n2. 运用抓握、阻挡和偏转技法，使同伴除双脚外任何部位触地。\n3. 引导每次倒地，首次触地即停，从中央握持重新开始；禁止击打和绞技。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "カナリア相撲",
+      "description": "1. 砂の輪かマット上で熟練のパートナーと、まくり上げたズボンの裾と背中を低く持つ開始の組み手で始めます。\n2. つかみ、ブロック、そらしのマーニャで、相手に足以外のどこかを地面につけさせます。\n3. 毎回の落下を導き、最初の接地で止め、中央の組み手から再開します。打撃と絞めは禁止です。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "카나리아 레슬링",
+      "description": "1. 모래판이나 매트에서 숙련된 파트너와 걷어 올린 바짓단과 등을 낮게 잡는 시작 그립으로 시작합니다.\n2. 잡기, 막기, 흘리기 마냐로 파트너가 발 이외의 부위로 바닥에 닿게 합니다.\n3. 매번 낙하를 유도하고 첫 접촉에 멈춘 뒤 중앙 그립에서 다시 시작합니다. 타격과 조르기는 금지입니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "มวยปล้ำคานาเรีย",
+      "description": "1. เริ่มในวงทรายหรือบนเบาะกับคู่ฝึกที่ผ่านการฝึก จับท่าเริ่มต้นต่ำที่ขากางเกงที่พับขึ้นและที่หลังของเขา\n2. ใช้มาญาแบบจับ กั้น และเบี่ยง เพื่อให้คู่ฝึกแตะพื้นด้วยส่วนใดก็ได้ที่ไม่ใช่เท้า\n3. นำทุกการล้ม หยุดเมื่อแตะพื้นครั้งแรก แล้วเริ่มใหม่จากการจับตรงกลาง ห้ามตีและห้ามรัดคอ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Канарская борьба",
+      "description": "1. Начните в песчаном круге или на ковре с подготовленным партнёром, взяв стартовый захват низко за подвёрнутую штанину и спину.\n2. Используйте маньяс захвата, блока и отклонения, чтобы партнёр коснулся земли чем угодно, кроме стоп.\n3. Направляйте каждое падение, останавливайтесь при первом касании и начинайте снова с центрального захвата; без ударов и удушений.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Канарська боротьба",
+      "description": "1. Почніть у піщаному колі або на килимі з підготовленим партнером, узявши стартовий захват низько за підкочену холошу й спину.\n2. Використовуйте маньяс захоплення, блоку й відхилення, щоб партнер торкнувся землі будь-чим, крім стоп.\n3. Скеровуйте кожне падіння, зупиняйтеся за першого торкання й починайте знову з центрального захвату; без ударів і задушень.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#4766C1",
+    "colorType": "indigo",
+    "folder": "BJJ",
+    "id": "6",
+    "icon": "BJJ/Icon.png",
+    "symbolName": "figure.boxing",
+    "title": "BJJ",
+    "workoutType": "bjj",
+    "translations": {
+      "en": {
+        "title": "BJJ"
+      },
+      "es": {
+        "title": "Jiu-jitsu brasileño"
+      },
+      "pt": {
+        "title": "Jiu-jítsu brasileiro"
+      },
+      "fr": {
+        "title": "Jiu-jitsu brésilien"
+      },
+      "de": {
+        "title": "Brasilianisches Jiu-Jitsu"
+      },
+      "it": {
+        "title": "Jiu-jitsu brasiliano"
+      },
+      "zh-Hans": {
+        "title": "巴西柔术"
+      },
+      "ja": {
+        "title": "ブラジリアン柔術"
+      },
+      "ko": {
+        "title": "브라질리언 주짓수"
+      },
+      "th": {
+        "title": "บราซิลเลียนยิวยิตสู"
+      },
+      "ru": {
+        "title": "Бразильское джиу-джитсу"
+      },
+      "uk": {
+        "title": "Бразильське джіу-джитсу"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "BJJ/exercises/bjj/Icon.png",
+      "json": "BJJ/exercises/bjj/bjj.json"
+    },
+    {
+      "icon": "BJJ/exercises/technicalStandUp/Icon.png",
+      "json": "BJJ/exercises/technicalStandUp/technicalStandUp.json"
+    },
+    {
+      "icon": "BJJ/exercises/hipEscape/Icon.png",
+      "json": "BJJ/exercises/hipEscape/hipEscape.json"
+    },
+    {
+      "icon": "BJJ/exercises/bridge/Icon.png",
+      "json": "BJJ/exercises/bridge/bridge.json"
+    },
+    {
+      "icon": "BJJ/exercises/closedGuardControl/Icon.png",
+      "json": "BJJ/exercises/closedGuardControl/closedGuardControl.json"
+    },
+    {
+      "icon": "BJJ/exercises/mountControl/Icon.png",
+      "json": "BJJ/exercises/mountControl/mountControl.json"
+    },
+    {
+      "icon": "BJJ/exercises/sideControl/Icon.png",
+      "json": "BJJ/exercises/sideControl/sideControl.json"
+    },
+    {
+      "icon": "BJJ/exercises/backControl/Icon.png",
+      "json": "BJJ/exercises/backControl/backControl.json"
+    },
+    {
+      "icon": "BJJ/exercises/trapAndRollEscape/Icon.png",
+      "json": "BJJ/exercises/trapAndRollEscape/trapAndRollEscape.json"
+    },
+    {
+      "icon": "BJJ/exercises/elbowEscapeFromMount/Icon.png",
+      "json": "BJJ/exercises/elbowEscapeFromMount/elbowEscapeFromMount.json"
+    },
+    {
+      "icon": "BJJ/exercises/guardPass/Icon.png",
+      "json": "BJJ/exercises/guardPass/guardPass.json"
+    },
+    {
+      "icon": "BJJ/exercises/elevatorSweep/Icon.png",
+      "json": "BJJ/exercises/elevatorSweep/elevatorSweep.json"
+    },
+    {
+      "icon": "BJJ/exercises/takeTheBack/Icon.png",
+      "json": "BJJ/exercises/takeTheBack/takeTheBack.json"
+    },
+    {
+      "icon": "BJJ/exercises/rearNakedChoke/Icon.png",
+      "json": "BJJ/exercises/rearNakedChoke/rearNakedChoke.json"
+    },
+    {
+      "icon": "BJJ/exercises/americana/Icon.png",
+      "json": "BJJ/exercises/americana/americana.json"
+    },
+    {
+      "icon": "BJJ/exercises/armbarFromMount/Icon.png",
+      "json": "BJJ/exercises/armbarFromMount/armbarFromMount.json"
+    },
+    {
+      "icon": "BJJ/exercises/armbarFromGuard/Icon.png",
+      "json": "BJJ/exercises/armbarFromGuard/armbarFromGuard.json"
+    },
+    {
+      "icon": "BJJ/exercises/triangleChoke/Icon.png",
+      "json": "BJJ/exercises/triangleChoke/triangleChoke.json"
+    },
+    {
+      "icon": "BJJ/exercises/guillotineChoke/Icon.png",
+      "json": "BJJ/exercises/guillotineChoke/guillotineChoke.json"
+    },
+    {
+      "icon": "BJJ/exercises/doubleLegTakedown/Icon.png",
+      "json": "BJJ/exercises/doubleLegTakedown/doubleLegTakedown.json"
+    },
+    {
+      "icon": "BJJ/exercises/pullGuard/Icon.png",
+      "json": "BJJ/exercises/pullGuard/pullGuard.json"
+    },
+    {
+      "icon": "BJJ/exercises/hookSweep/Icon.png",
+      "json": "BJJ/exercises/hookSweep/hookSweep.json"
+    },
+    {
+      "icon": "BJJ/exercises/shrimpEscapeFromSideControl/Icon.png",
+      "json": "BJJ/exercises/shrimpEscapeFromSideControl/shrimpEscapeFromSideControl.json"
+    },
+    {
+      "icon": "BJJ/exercises/elbowEscapeFromSideControl/Icon.png",
+      "json": "BJJ/exercises/elbowEscapeFromSideControl/elbowEscapeFromSideControl.json"
+    },
+    {
+      "icon": "BJJ/exercises/kimuraFromGuard/Icon.png",
+      "json": "BJJ/exercises/kimuraFromGuard/kimuraFromGuard.json"
+    },
+    {
+      "icon": "BJJ/exercises/doubleUnderhookGuardPass/Icon.png",
+      "json": "BJJ/exercises/doubleUnderhookGuardPass/doubleUnderhookGuardPass.json"
+    },
+    {
+      "icon": "BJJ/exercises/guillotineDefense/Icon.png",
+      "json": "BJJ/exercises/guillotineDefense/guillotineDefense.json"
+    },
+    {
+      "icon": "BJJ/exercises/headlockEscape/Icon.png",
+      "json": "BJJ/exercises/headlockEscape/headlockEscape.json"
+    },
+    {
+      "json": "BJJ/exercises/scissorSweep/scissorSweep.json",
+      "icon": "BJJ/exercises/scissorSweep/Icon.png"
+    },
+    {
+      "json": "BJJ/exercises/hipBumpSweep/hipBumpSweep.json",
+      "icon": "BJJ/exercises/hipBumpSweep/Icon.png"
+    },
+    {
+      "json": "BJJ/exercises/singleLegTakedown/singleLegTakedown.json",
+      "icon": "BJJ/exercises/singleLegTakedown/Icon.png"
+    },
+    {
+      "json": "BJJ/exercises/kneeOnBellyControl/kneeOnBellyControl.json",
+      "icon": "BJJ/exercises/kneeOnBellyControl/Icon.png"
+    },
+    {
+      "json": "BJJ/exercises/backEscape/backEscape.json",
+      "icon": "BJJ/exercises/backEscape/Icon.png"
+    },
+    {
+      "icon": "BJJ/exercises/kneeCutPass/Icon.png",
+      "json": "BJJ/exercises/kneeCutPass/kneeCutPass.json"
+    },
+    {
+      "icon": "BJJ/exercises/toreandoPass/Icon.png",
+      "json": "BJJ/exercises/toreandoPass/toreandoPass.json"
+    },
+    {
+      "icon": "BJJ/exercises/omoplata/Icon.png",
+      "json": "BJJ/exercises/omoplata/omoplata.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "40.44",
+  "key": "karate_kanku_sho",
+  "title": "Kanku Sho",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Combine double-forearm blocks, open-hand techniques, crouching low blocks, and a jumping turn, in a shorter and faster pattern than Kanku Dai.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kanku Sho",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Combine double-forearm blocks, open-hand techniques, crouching low blocks, and a jumping turn, in a shorter and faster pattern than Kanku Dai.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Kanku Sho",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Combina bloqueos de doble antebrazo, técnicas de mano abierta, bloqueos bajos agachado y un giro en salto, en un patrón más corto y rápido que Kanku Dai.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Kanku Sho",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Combine bloqueios de duplo antebraço, técnicas de mão aberta, bloqueios baixos agachado e um giro saltado, num padrão mais curto e rápido que Kanku Dai.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Kanku Sho",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Combinez blocages à double avant-bras, techniques main ouverte, blocages bas accroupis et un saut tournant, dans un schéma plus court et plus rapide que Kanku Dai.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Kanku Sho",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Kombiniere Doppel-Unterarmabwehren, offene Techniken, geduckte tiefe Abwehren und eine Sprungdrehung in einem kürzeren, schnelleren Ablauf als Kanku Dai.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Kanku Sho",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Combina parate a doppio avambraccio, tecniche a mano aperta, parate basse accovacciate e un salto con rotazione, in uno schema più breve e veloce di Kanku Dai.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "观空小",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 结合双前臂格挡、开掌技术、低蹲下段格挡和跳跃转身，路线比观空大更短更快。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "観空小",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 諸手受け、開手技、沈んでの下段受け、跳躍しての回転を、観空大より短く速い構成で行います。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "칸쿠 쇼",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 양팔뚝 막기, 편손 기술, 웅크린 하단 막기, 뛰어 돌기를 칸쿠 다이보다 짧고 빠른 구성으로 결합합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "คังคุ โช",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. ผสมการปัดสองแขน เทคนิคแบมือ การปัดล่างในท่าย่อ และการกระโดดหมุนตัว ในแบบแผนที่สั้นและเร็วกว่าคังคุ ได\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Канку сё",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Соедините блоки двумя предплечьями, техники открытой рукой, нижние блоки в приседе и прыжок с поворотом в более короткой и быстрой схеме, чем Канку дай.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Канку шо",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Поєднайте блоки двома передпліччями, техніки відкритою рукою, нижні блоки в присіді та стрибок із поворотом у коротшій і швидшій схемі, ніж Канку дай.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

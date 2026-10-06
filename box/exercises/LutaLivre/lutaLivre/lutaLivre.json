@@ -1,0 +1,87 @@
+{
+  "id": "81.1",
+  "key": "luta_livre",
+  "title": "Luta Livre",
+  "description": "1. Begin on mats with a trained partner without a gi, from standing or kneeling.\n2. Work takedowns, guard passing, sweeps, mount and back positions, and controlled submissions.\n3. Stabilize each position, release every submission at a tap, and reset after each exchange.",
+  "colorType": "green",
+  "workoutType": "lutaLivre",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Luta Livre",
+      "description": "1. Begin on mats with a trained partner without a gi, from standing or kneeling.\n2. Work takedowns, guard passing, sweeps, mount and back positions, and controlled submissions.\n3. Stabilize each position, release every submission at a tap, and reset after each exchange.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Luta Livre",
+      "description": "1. Comienza sobre la colchoneta con un compañero entrenado sin gi, de pie o de rodillas.\n2. Trabaja derribos, pases de guardia, barridos, montada y espalda, y sumisiones controladas.\n3. Estabiliza cada posición, suelta cada sumisión ante un golpe de rendición y reinicia tras cada intercambio.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Luta Livre",
+      "description": "1. Comece no tatame com um parceiro treinado sem kimono, em pé ou de joelhos.\n2. Trabalhe quedas, passagens de guarda, raspagens, montada e costas, e finalizações controladas.\n3. Estabilize cada posição, solte cada finalização a uma batida e recomece após cada troca.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Luta Livre",
+      "description": "1. Commencez sur le tapis avec un partenaire entraîné sans gi, debout ou à genoux.\n2. Travaillez amenées au sol, passages de garde, renversements, montée et dos, et soumissions contrôlées.\n3. Stabilisez chaque position, relâchez chaque soumission à la tape et recommencez après chaque échange.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Luta Livre",
+      "description": "1. Beginne auf der Matte mit einem geübten Partner ohne Gi, im Stand oder kniend.\n2. Arbeite an Takedowns, Guard-Pässen, Sweeps, Mount- und Rückenpositionen und kontrollierten Aufgabegriffen.\n3. Stabilisiere jede Position, löse jeden Aufgabegriff beim Abklopfen und beginne nach jedem Austausch neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Luta Livre",
+      "description": "1. Inizia sul materassino con un partner allenato senza gi, in piedi o in ginocchio.\n2. Lavora su atterramenti, passaggi di guardia, ribaltamenti, montata e schiena, e sottomissioni controllate.\n3. Stabilizza ogni posizione, rilascia ogni sottomissione al tap e riparti dopo ogni scambio.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "巴西自由搏击",
+      "description": "1. 与训练有素的同伴在垫上不穿道服开始，站立或跪姿均可。\n2. 练习抱摔、过腿、扫翻、骑乘与背后位置，以及可控的降服技。\n3. 稳住每个位置，拍击时松开所有降服技，每次交手后重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ルタ・リーブリ",
+      "description": "1. 熟練のパートナーとマット上で、道着なしで立ち姿勢か膝立ちから始めます。\n2. テイクダウン、ガードパス、スイープ、マウントとバック、制御されたサブミッションを行います。\n3. 各ポジションを安定させ、タップです���てのサブミッションを離し、攻防ごとに再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "루타 리브리",
+      "description": "1. 숙련된 파트너와 매트에서 도복 없이 선 자세나 무릎 꿇은 자세로 시작합니다.\n2. 테이크다운, 가드 패스, 스윕, 마운트와 백 포지션, 통제된 서브미션을 연습합니다.\n3. 각 포지션을 안정시키고 탭에 모든 서브미션을 풀며 공방마다 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ลูตาลีฟรี",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึกโดยไม่สวมชุดกิ จากท่ายืนหรือคุกเข่า\n2. ฝึกการทุ่ม การผ่านการ์ด การสวีป ตำแหน่งขี่ทับและด้านหลัง และท่าบังคับยอมแพ้อย่างควบคุม\n3. ทรงแต่ละตำแหน่งให้มั่นคง ปล่อยทุกท่าบังคับเมื่อมีการตบ และเริ่มใหม่หลังแต่ละจังหวะ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Лута Ливре",
+      "description": "1. Начните на ковре с подготовленным партнёром без ги, из стойки или с колен.\n2. Работайте над тейкдаунами, проходами гарда, свипами, позициями маунта и спины и контролируемыми болевыми и удушающими.\n3. Закрепляйте каждую позицию, отпускайте каждый приём по хлопку и начинайте заново после каждого эпизода.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Лута Лівре",
+      "description": "1. Почніть на килимі з підготовленим партнером без гі, зі стійки або з колін.\n2. Працюйте над тейкдаунами, проходами гарду, свіпами, позиціями маунту й спини та контрольованими больовими й задушливими.\n3. Закріплюйте кожну позицію, відпускайте кожен прийом за плесканням і починайте знову після кожного епізоду.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

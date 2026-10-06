@@ -1,0 +1,90 @@
+{
+  "id": "11.9",
+  "key": "elliptical",
+  "title": "Elliptical",
+  "description": "1. Place both feet flat on the pedals, hold the handles lightly, and begin at low resistance.\n2. Press one pedal down and back as the opposite handle moves forward, keeping the torso upright.\n3. Maintain smooth continuous cycles without bouncing or shifting weight onto the handles.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5,
+    "moderate": 5,
+    "vigorous": 9,
+    "lightCode": "02048",
+    "moderateCode": "02048",
+    "vigorousCode": "02049"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Elliptical",
+      "description": "1. Place both feet flat on the pedals, hold the handles lightly, and begin at low resistance.\n2. Press one pedal down and back as the opposite handle moves forward, keeping the torso upright.\n3. Maintain smooth continuous cycles without bouncing or shifting weight onto the handles.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "Elíptica",
+      "description": "1. Apoya ambos pies por completo en los pedales, sujeta suavemente los mangos y empieza con poca resistencia.\n2. Presiona un pedal hacia abajo y atrás mientras el mango contrario avanza, manteniendo el torso erguido.\n3. Mantén ciclos suaves y continuos sin rebotar ni trasladar el peso a los mangos.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "Elíptico",
+      "description": "1. Apoie os dois pés inteiros nos pedais, segure levemente as alças e comece com baixa resistência.\n2. Pressione um pedal para baixo e para trás enquanto a alça oposta avança, mantendo o tronco ereto.\n3. Mantenha ciclos suaves e contínuos sem quicar nem transferir o peso para as alças.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Vélo elliptique",
+      "description": "1. Posez les deux pieds à plat sur les pédales, tenez légèrement les poignées et commencez avec une faible résistance.\n2. Poussez une pédale vers le bas et l’arrière pendant que la poignée opposée avance, en gardant le torse droit.\n3. Maintenez des cycles fluides et continus sans rebondir ni transférer le poids sur les poignées.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "Crosstrainer",
+      "description": "1. Stelle beide Füße flach auf die Pedale, halte die Griffe locker und beginne mit niedrigem Widerstand.\n2. Drücke ein Pedal nach unten und hinten, während der gegenüberliegende Griff nach vorn geht, und halte den Oberkörper aufrecht.\n3. Bewege dich gleichmäßig und durchgehend, ohne zu wippen oder das Gewicht auf die Griffe zu verlagern.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "Ellittica",
+      "description": "1. Appoggia entrambi i piedi completamente sui pedali, impugna leggermente le maniglie e inizia con una resistenza bassa.\n2. Premi un pedale in basso e indietro mentre la maniglia opposta avanza, mantenendo il busto eretto.\n3. Mantieni cicli fluidi e continui senza rimbalzare né trasferire il peso sulle maniglie.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "椭圆机",
+      "description": "1. 双脚平放在踏板上，轻握手柄，从低阻力开始。\n2. 将一侧踏板向下、向后踩，同时另一侧手柄向前移动，保持躯干直立。\n3. 保持平滑连续的循环动作，不要弹跳或将体重压在手柄上。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "エリプティカル",
+      "description": "1. 両足をペダルに平らに置き、ハンドルを軽く握って低い負荷から始めます。\n2. 上体を起こしたまま、片方のペダルを下と後ろへ押し、反対のハンドルを前へ動かします。\n3. 弾んだりハンドルに体重をかけたりせず、滑らかな連続動作を保ちます。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "일립티컬",
+      "description": "1. 두 발을 페달에 평평하게 놓고 손잡이를 가볍게 잡으며 낮은 저항으로 시작합니다.\n2. 몸통을 세운 채 한쪽 페달을 아래와 뒤로 누르고 반대쪽 손잡이를 앞으로 움직입니다.\n3. 몸을 튕기거나 손잡이에 체중을 싣지 않고 부드러운 연속 동작을 유지합니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "เครื่องเดินวงรี",
+      "description": "1. วางเท้าทั้งสองราบบนแป้น จับด้ามเบา ๆ และเริ่มด้วยแรงต้านต่ำ\n2. กดแป้นข้างหนึ่งลงและไปด้านหลัง ขณะด้ามฝั่งตรงข้ามเคลื่อนไปข้างหน้า โดยให้ลำตัวตั้งตรง\n3. รักษาการเคลื่อนไหวเป็นรอบอย่างราบรื่นต่อเนื่อง ไม่เด้งตัวหรือถ่ายน้ำหนักลงบนด้ามจับ",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "Эллиптический тренажёр",
+      "description": "1. Поставьте обе стопы полностью на педали, слегка держите рукоятки и начните с низкого сопротивления.\n2. Нажимайте одной педалью вниз и назад, пока противоположная рукоятка движется вперёд, сохраняя туловище вертикальным.\n3. Поддерживайте плавные непрерывные циклы без подпрыгивания и переноса веса на рукоятки.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "Еліптичний тренажер",
+      "description": "1. Поставте обидві стопи повністю на педалі, злегка тримайте руків’я й почніть із низького опору.\n2. Натискайте однією педаллю вниз і назад, поки протилежне руків’я рухається вперед, зберігаючи тулуб вертикальним.\n3. Підтримуйте плавні безперервні цикли без підстрибування й перенесення ваги на руків’я.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
+}

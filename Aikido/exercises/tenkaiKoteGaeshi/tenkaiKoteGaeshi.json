@@ -1,0 +1,90 @@
+{
+  "id": "43.15",
+  "key": "aikido_tenkai_kote_gaeshi",
+  "title": "Tenkai Kote Gaeshi",
+  "description": "1. Grip uke's wrist, raise the arm, and turn under it with a pivoting step.\n2. Finish the turn facing uke's direction and bring the hand back and down behind uke's shoulder with the wrist turned out.\n3. Uke falls backward into a breakfall; lower the arm smoothly and release at landing.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tenkai Kote Gaeshi",
+      "description": "1. Grip uke's wrist, raise the arm, and turn under it with a pivoting step.\n2. Finish the turn facing uke's direction and bring the hand back and down behind uke's shoulder with the wrist turned out.\n3. Uke falls backward into a breakfall; lower the arm smoothly and release at landing.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Tenkai Kote Gaeshi",
+      "description": "1. Agarra la muñeca de uke, eleva el brazo y gira por debajo con un paso de pivote.\n2. Termina el giro mirando en la dirección de uke y lleva la mano atrás y abajo detrás de su hombro con la muñeca girada hacia fuera.\n3. Uke cae hacia atrás en una caída; baja el brazo con suavidad y suelta al aterrizar.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Tenkai Kote Gaeshi",
+      "description": "1. Segure o punho de uke, erga o braço e gire por baixo dele com um passo de pivô.\n2. Termine o giro voltado para a direção de uke e leve a mão para trás e para baixo atrás do ombro dele com o punho virado para fora.\n3. Uke cai para trás numa queda; abaixe o braço suavemente e solte ao aterrissar.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Tenkai Kote Gaeshi",
+      "description": "1. Saisissez le poignet de uke, levez le bras et tournez dessous avec un pas pivot.\n2. Finissez le tour face à la direction de uke et ramenez la main vers l’arrière et le bas derrière son épaule, poignet tourné vers l’extérieur.\n3. Uke chute en arrière ; abaissez le bras en douceur et relâchez à la réception.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Tenkai Kote Gaeshi",
+      "description": "1. Greife Ukes Handgelenk, hebe den Arm und drehe dich mit einem Drehschritt darunter hindurch.\n2. Beende die Drehung in Ukes Blickrichtung und führe die Hand mit nach außen gedrehtem Handgelenk hinter seiner Schulter nach hinten und unten.\n3. Uke fällt rückwärts in die Fallschule; senke den Arm weich und löse bei der Landung.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Tenkai Kote Gaeshi",
+      "description": "1. Afferra il polso di uke, solleva il braccio e gira sotto di esso con un passo a perno.\n2. Termina la rotazione rivolto nella direzione di uke e porta la mano indietro e in basso dietro la sua spalla con il polso girato all’esterno.\n3. Uke cade all’indietro in una caduta; abbassa il braccio con dolcezza e lascia all’atterraggio.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "转回小手返",
+      "description": "1. 握住受方手腕，抬起手臂，以转身步法从其下方转过。\n2. 转身结束时面向受方的方向，手腕外翻，把其手向后向下带到其肩后。\n3. 受方后倒受身；平稳放下手臂，落地时松开。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "転回小手返",
+      "description": "1. 受けの手首を握って腕を上げ、転換の足運びでその下をくぐって回ります。\n2. 受けと同じ方向を向いて回り終え、手首を外へ返したまま受けの手を肩の後ろ下方へ下ろします。\n3. 受けは後ろ受身を取ります。腕を滑らかに下ろし、着地したら離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "텐카이 고테 가에시",
+      "description": "1. 우케의 손목을 잡고 팔을 들어 올린 뒤 회전 발놀림으로 그 아래를 돌아 나갑니다.\n2. 우케와 같은 방향을 보며 회전을 마치고, 손목을 바깥으로 꺾은 채 손을 우케의 어깨 뒤 아래로 내립니다.\n3. 우케는 후방 낙법을 하며, 팔을 부드럽게 내리고 착지하면 놓습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "เทนไคโคเตะกาเอชิ",
+      "description": "1. จับข้อมืออุเกะ ยกแขนขึ้น แล้วหมุนตัวลอดใต้แขนด้วยก้าวหมุน\n2. หมุนจบโดยหันไปทิศเดียวกับอุเกะ แล้วนำมืออุเกะไปด้านหลังและลงหลังไหล่ โดยข้อมือบิดออก\n3. อุเกะล้มหงาย ลดแขนลงอย่างนุ่มนวล และปล่อยเมื่อลงถึงพื้น",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Тэнкай-котэ-гаэси",
+      "description": "1. Возьмите запястье уке, поднимите руку и разворотом поднырните под неё.\n2. Закончите поворот лицом в направлении уке и отведите его кисть назад и вниз за плечо, вывернув запястье наружу.\n3. Уке падает назад в страховку; плавно опустите руку и отпустите при приземлении.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Тенкай-коте-гаесі",
+      "description": "1. Візьміть зап’ястя уке, підніміть руку й розворотом пірніть під неї.\n2. Завершіть поворот обличчям у напрямку уке й відведіть його кисть назад і вниз за плече, вивернувши зап’ястя назовні.\n3. Уке падає назад у страховку; плавно опустіть руку й відпустіть під час приземлення.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

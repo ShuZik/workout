@@ -1,0 +1,90 @@
+{
+  "id": "48.4",
+  "key": "canne_brise",
+  "title": "Brise",
+  "description": "1. From guard, raise the hand and let the point drop behind the shoulder and back so the cane hangs behind you in the armé.\n2. Bring the cane up and over and strike vertically downward toward the top of the head, extending the arm so the upper part of the cane makes contact.\n3. Stop the descent at target height without chopping through, then return to guard.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Strikes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Brise",
+      "description": "1. From guard, raise the hand and let the point drop behind the shoulder and back so the cane hangs behind you in the armé.\n2. Bring the cane up and over and strike vertically downward toward the top of the head, extending the arm so the upper part of the cane makes contact.\n3. Stop the descent at target height without chopping through, then return to guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Brisé",
+      "description": "1. Desde la guardia, eleva la mano y deja caer la punta detrás del hombro y la espalda para que el bastón quede detrás de ti en el armado.\n2. Lleva el bastón arriba y por encima y golpea en vertical hacia abajo a la parte superior de la cabeza, extendiendo el brazo para tocar con la parte superior del bastón.\n3. Detén el descenso a la altura del blanco sin atravesarlo y vuelve a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Brisé",
+      "description": "1. Da guarda, eleve a mão e deixe a ponta cair atrás do ombro e das costas para que a bengala fique atrás de você no armado.\n2. Traga a bengala para cima e por cima e golpeie na vertical para baixo no topo da cabeça, estendendo o braço para tocar com a parte superior da bengala.\n3. Pare a descida à altura do alvo sem atravessá-lo e volte à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Brisé",
+      "description": "1. Depuis la garde, levez la main et laissez tomber la pointe derrière l’épaule et le dos pour que la canne pende derrière vous à l’armé.\n2. Ramenez la canne vers le haut et par-dessus, puis frappez verticalement vers le bas sur le sommet de la tête, bras tendu pour toucher avec le haut de la canne.\n3. Arrêtez la descente à hauteur de cible sans traverser et revenez en garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Brisé",
+      "description": "1. Aus der Grundstellung die Hand heben und die Spitze hinter Schulter und Rücken fallen lassen, sodass der Stock beim Armé hinter dir hängt.\n2. Den Stock hoch und darüber führen und senkrecht nach unten auf den Scheitel schlagen, Arm gestreckt, sodass der obere Stockteil trifft.\n3. Die Abwärtsbewegung auf Zielhöhe stoppen, ohne durchzuschlagen, und in die Grundstellung zurückkehren.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Brisé",
+      "description": "1. Dalla guardia alza la mano e lascia cadere la punta dietro la spalla e la schiena così che il bastone resti dietro di te nel caricamento.\n2. Porta il bastone in alto e sopra e colpisci in verticale verso il basso sulla sommità della testa, estendendo il braccio per toccare con la parte alta del bastone.\n3. Ferma la discesa all’altezza del bersaglio senza attraversarlo e torna in guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "劈击",
+      "description": "1. 从戒备姿势抬手，让杖尖落到肩后和背后，使杖在蓄势时垂于身后。\n2. 将杖向上越过头顶，竖直向下击向头顶，手臂伸展，用杖的上段接触。\n3. 在目标高度停住下落，不要劈穿，回到戒备姿势。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "ブリゼ",
+      "description": "1. 構えから手を上げ、先端を肩と背中の後ろへ落として、アルメでカンヌが背後に垂れるようにします。\n2. カンヌを上へ回して頭上を越え、腕を伸ばして頭頂へ垂直に打ち下ろし、カンヌの上部で当てます。\n3. 打ち抜かずに目標の高さで振り下ろしを止め、構えに戻ります。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "브리제",
+      "description": "1. 가드에서 손을 들어 끝이 어깨와 등 뒤로 떨어지게 하여 아르메 때 지팡이가 뒤에 매달리게 합니다.\n2. 지팡이를 위로 넘겨 정수리를 향해 수직으로 내려치며 팔을 뻗어 지팡이 윗부분으로 맞힙니다.\n3. 관통하지 말고 목표 높이에서 내려오는 동작을 멈춘 뒤 가드로 돌아옵니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "บรีเซ",
+      "description": "1. จากการ์ด ยกมือขึ้นและปล่อยปลายไม้ตกไปด้านหลังไหล่และหลัง ให้ไม้ห้อยอยู่ด้านหลังในจังหวะง้าง\n2. ยกไม้ขึ้นข้ามศีรษะแล้วฟาดลงแนวดิ่งไปที่กลางศีรษะ เหยียดแขนให้ส่วนบนของไม้สัมผัสเป้า\n3. หยุดการฟาดที่ระดับเป้าโดยไม่ฟาดทะลุ แล้วกลับสู่การ์ด",
+      "sectionTitle": "การตี"
+    },
+    "ru": {
+      "title": "Бризе",
+      "description": "1. Из стойки поднимите руку и опустите острие за плечо и спину, чтобы трость при замахе висела позади.\n2. Проведите трость вверх и через голову и ударьте вертикально вниз в макушку, вытягивая руку, чтобы коснуться верхней частью трости.\n3. Остановите движение вниз на высоте цели, не прорубая насквозь, и вернитесь в стойку.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Бризе",
+      "description": "1. Зі стійки підніміть руку й опустіть вістря за плече та спину, щоб тростина під час замаху висіла позаду.\n2. Проведіть тростину вгору й через голову та вдарте вертикально вниз у тім’я, витягуючи руку, щоб торкнутися верхньою частиною тростини.\n3. Зупиніть рух униз на висоті цілі, не прорубуючи наскрізь, і поверніться в стійку.",
+      "sectionTitle": "Удари"
+    }
+  }
+}

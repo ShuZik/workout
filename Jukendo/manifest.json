@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#90A994",
+    "colorType": "sage",
+    "folder": "Jukendo",
+    "id": "66",
+    "icon": "Jukendo/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Jukendo",
+    "workoutType": "jukendo",
+    "translations": {
+      "en": {
+        "title": "Jukendo"
+      },
+      "es": {
+        "title": "Jukendo"
+      },
+      "pt": {
+        "title": "Jukendô"
+      },
+      "fr": {
+        "title": "Jukendo"
+      },
+      "de": {
+        "title": "Jūkendō"
+      },
+      "it": {
+        "title": "Jukendo"
+      },
+      "zh-Hans": {
+        "title": "铳剑道"
+      },
+      "ja": {
+        "title": "銃剣道"
+      },
+      "ko": {
+        "title": "주켄도"
+      },
+      "th": {
+        "title": "จูเคนโด"
+      },
+      "ru": {
+        "title": "Дзюкэндо"
+      },
+      "uk": {
+        "title": "Дзюкендо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Jukendo/exercises/jukendo/Icon.png",
+      "json": "Jukendo/exercises/jukendo/jukendo.json"
+    },
+    {
+      "icon": "Jukendo/exercises/nodoThrust/Icon.png",
+      "json": "Jukendo/exercises/nodoThrust/nodoThrust.json"
+    },
+    {
+      "icon": "Jukendo/exercises/uwaDoThrust/Icon.png",
+      "json": "Jukendo/exercises/uwaDoThrust/uwaDoThrust.json"
+    }
+  ]
+}

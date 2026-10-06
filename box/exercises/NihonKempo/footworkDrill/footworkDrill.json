@@ -1,0 +1,87 @@
+{
+  "id": "84.3",
+  "key": "nihon_kempo_footwork_drill",
+  "title": "Footwork Drill",
+  "description": "1. Start in kamae and slide forward and back in short steps, moving the foot nearest the direction of travel first and keeping the stance width.\n2. Add side steps and pivots around the lead foot, then sudden entries and quick retreats as if closing and opening distance.\n3. Keep the guard up and the eyes forward throughout, never crossing the feet.",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Footwork Drill",
+      "description": "1. Start in kamae and slide forward and back in short steps, moving the foot nearest the direction of travel first and keeping the stance width.\n2. Add side steps and pivots around the lead foot, then sudden entries and quick retreats as if closing and opening distance.\n3. Keep the guard up and the eyes forward throughout, never crossing the feet.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Ejercicio de desplazamientos",
+      "description": "1. Parte de kamae y deslízate hacia delante y atrás con pasos cortos, moviendo primero el pie más cercano a la dirección de avance y manteniendo la anchura de la guardia.\n2. Añade pasos laterales y pivotes sobre el pie delantero, y luego entradas repentinas y retiradas rápidas como si acortaras y abrieras la distancia.\n3. Mantén la guardia alta y la mirada al frente en todo momento, sin cruzar nunca los pies.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Exercício de deslocamento",
+      "description": "1. Comece em kamae e deslize para a frente e para trás em passos curtos, movendo primeiro o pé mais próximo da direção do movimento e mantendo a largura da base.\n2. Acrescente passos laterais e giros sobre o pé da frente, depois entradas súbitas e recuos rápidos como se encurtasse e abrisse a distância.\n3. Mantenha a guarda alta e o olhar à frente o tempo todo, sem nunca cruzar os pés.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Exercice de déplacements",
+      "description": "1. Partez en kamae et glissez en avant et en arrière à petits pas, en bougeant d'abord le pied le plus proche du sens du déplacement et en gardant la largeur de garde.\n2. Ajoutez des pas latéraux et des pivots sur le pied avant, puis des entrées soudaines et des retraits rapides comme pour fermer et ouvrir la distance.\n3. Gardez la garde haute et le regard devant en permanence, sans jamais croiser les pieds.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Beinarbeitsübung",
+      "description": "1. Beginne im Kamae und gleite in kurzen Schritten vor und zurück; bewege zuerst den Fuß, der der Bewegungsrichtung näher ist, und halte die Stellungsbreite.\n2. Füge Seitschritte und Drehungen über den vorderen Fuß hinzu, dann plötzliche Vorstöße und schnelle Rückzüge, als würdest du die Distanz schließen und öffnen.\n3. Halte die Deckung oben und den Blick nach vorn und kreuze nie die Füße.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Esercizio di spostamenti",
+      "description": "1. Parti in kamae e scivola avanti e indietro a passi corti, muovendo prima il piede più vicino alla direzione di marcia e mantenendo l'ampiezza della guardia.\n2. Aggiungi passi laterali e perni sul piede avanti, poi entrate improvvise e rapide uscite come per chiudere e aprire la distanza.\n3. Tieni la guardia alta e lo sguardo avanti per tutto il tempo, senza mai incrociare i piedi.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "步法练习",
+      "description": "1. 以构式开始，用小步前后滑动，先移动靠近行进方向的脚，并保持步幅不变。\n2. 加入侧步和以前脚为轴的转身，再加入突然切入和快速后撤，模拟拉近与拉开距离。\n3. 全程保持防守高度、目视前方，双脚绝不交叉。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "足さばき",
+      "description": "1. 構えから小さな歩幅で前後に滑るように動き、進む方向に近い足から先に出して足幅を保ちます。\n2. 横への移動と前足を軸にした転回を加え、さらに間合いを詰めたり外したりするように急な入りと素早い引きを行います。\n3. 常に構えを高く保って前を見据え、足を交差させないようにします。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "발놀림 훈련",
+      "description": "1. 카마에에서 시작해 짧은 보폭으로 앞뒤로 미끄러지듯 움직이며, 진행 방향에 가까운 발을 먼저 옮기고 보폭을 유지합니다.\n2. 옆걸음과 앞발을 축으로 한 회전을 더한 뒤, 거리를 좁히고 벌리듯 갑작스러운 진입과 빠른 후퇴를 합니다.\n3. 내내 가드를 높이 유지하고 시선을 앞에 두며, 절대 발을 교차하지 않습니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ฝึกฟุตเวิร์ก",
+      "description": "1. เริ่มจากคามาเอะ ไถลไปหน้าและถอยหลังด้วยก้าวสั้นๆ โดยขยับเท้าที่อยู่ใกล้ทิศทางเคลื่อนที่ก่อนและรักษาความกว้างของท่ายืน\n2. เพิ่มการก้าวข้างและการหมุนรอบเท้าหน้า แล้วพุ่งเข้าอย่างฉับพลันและถอยออกอย่างรวดเร็วเหมือนกำลังปิดและเปิดระยะ\n3. รักษาการ์ดให้สูงและมองไปข้างหน้าตลอด และห้ามไขว้เท้า",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Упражнение на передвижения",
+      "description": "1. Из камаэ скользите вперёд и назад короткими шагами, сначала двигая ногу, ближнюю к направлению движения, и сохраняя ширину стойки.\n2. Добавьте шаги в стороны и развороты на передней ноге, затем резкие входы и быстрые отходы, будто сокращаете и разрываете дистанцию.\n3. Всё время держите защиту поднятой, смотрите вперёд и никогда не скрещивайте ноги.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Вправа на пересування",
+      "description": "1. З камае ковзайте вперед і назад короткими кроками, спершу рухаючи ногу, ближчу до напрямку руху, і зберігаючи ширину стійки.\n2. Додайте кроки вбік і розвороти на передній нозі, потім різкі входи та швидкі відходи, ніби скорочуєте й розриваєте дистанцію.\n3. Увесь час тримайте захист піднятим, дивіться вперед і ніколи не схрещуйте ноги.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

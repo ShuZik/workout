@@ -1,0 +1,87 @@
+{
+  "id": "95.5",
+  "key": "sqay_shield_block_drill",
+  "title": "Shield Block Drill",
+  "description": "1. Attacker delivers slow cuts with a padded sword to the head, flank, and legs; defender stands in guard.\n2. Defender meets each cut with the shield, angling it to deflect rather than absorb the blow, and steps to keep the right distance.\n3. Attacker raises the speed only while the defender stays accurate; either partner can call stop, then roles switch.",
+  "colorType": "teal",
+  "workoutType": "sqay",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Shield Block Drill",
+      "description": "1. Attacker delivers slow cuts with a padded sword to the head, flank, and legs; defender stands in guard.\n2. Defender meets each cut with the shield, angling it to deflect rather than absorb the blow, and steps to keep the right distance.\n3. Attacker raises the speed only while the defender stays accurate; either partner can call stop, then roles switch.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Ejercicio de bloqueo con escudo",
+      "description": "1. El atacante lanza cortes lentos con una espada acolchada a la cabeza, el costado y las piernas; el defensor está en guardia.\n2. El defensor recibe cada corte con el escudo, inclinándolo para desviar el golpe en lugar de absorberlo, y se desplaza para mantener la distancia adecuada.\n3. El atacante aumenta la velocidad solo mientras el defensor sea preciso; cualquiera de los dos puede pedir parar y luego se intercambian los papeles.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Exercício de bloqueio com escudo",
+      "description": "1. O atacante aplica cortes lentos com uma espada acolchoada na cabeça, no flanco e nas pernas; o defensor fica em guarda.\n2. O defensor recebe cada corte com o escudo, inclinando-o para desviar o golpe em vez de absorvê-lo, e se desloca para manter a distância certa.\n3. O atacante aumenta a velocidade apenas enquanto o defensor mantiver a precisão; qualquer um pode pedir para parar e depois os papéis se invertem.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Exercice de blocage au bouclier",
+      "description": "1. L'attaquant porte des coupes lentes avec une épée rembourrée à la tête, au flanc et aux jambes ; le défenseur est en garde.\n2. Le défenseur reçoit chaque coupe avec le bouclier, incliné pour dévier le coup plutôt que l'encaisser, et se déplace pour garder la bonne distance.\n3. L'attaquant n'accélère que si le défenseur reste précis ; chacun peut demander l'arrêt, puis les rôles s'inversent.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Schildabwehr-Übung",
+      "description": "1. Der Angreifer führt mit einem gepolsterten Schwert langsame Hiebe zu Kopf, Flanke und Beinen; der Verteidiger steht in Grundhaltung.\n2. Der Verteidiger fängt jeden Hieb mit dem Schild ab, schräg gestellt, um ihn abzulenken statt aufzufangen, und hält durch Schritte die richtige Distanz.\n3. Der Angreifer erhöht das Tempo nur, solange der Verteidiger genau bleibt; jeder Partner kann Stopp rufen, danach werden die Rollen getauscht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Esercizio di parata con lo scudo",
+      "description": "1. L'attaccante porta tagli lenti con una spada imbottita a testa, fianco e gambe; il difensore è in guardia.\n2. Il difensore accoglie ogni taglio con lo scudo, inclinandolo per deviare il colpo invece di assorbirlo, e si sposta per mantenere la giusta distanza.\n3. L'attaccante aumenta la velocità solo finché il difensore resta preciso; ciascuno può chiamare lo stop, poi i ruoli si scambiano.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "盾牌格挡练习",
+      "description": "1. 攻者用软剑缓慢劈向头部、侧腹和腿部；守者以架势站立。\n2. 守者用盾牌迎接每一剑，倾斜盾面将攻击引开而非硬接，并通过步法保持合适距离。\n3. 只有在守者保持准确时攻者才加快速度；任何一方都可喊停，然后互换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "盾受けの練習",
+      "description": "1. 攻め手はスポンジ剣で頭・脇腹・脚へゆっくり斬りかかり、受け手は構えて立ちます。\n2. 受け手は一太刀ごとに盾で迎え、まともに受け止めるのではなく角度をつけて受け流し、足を運んで適切な間合いを保ちます。\n3. 攻め手は受け手が正確に受けられている間だけ速度を上げます。どちらからでも止めの声をかけられ、その後役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "방패 막기 훈련",
+      "description": "1. 공격자는 쿠션 칼로 머리, 옆구리, 다리를 천천히 베고, 방어자는 겨눔 자세로 섭니다.\n2. 방어자는 매번 방패로 맞이하되 정면으로 받지 말고 각도를 주어 흘려 내며, 발을 움직여 알맞은 거리를 유지합니다.\n3. 공격자는 방어자가 정확하게 막는 동안에만 속도를 올립니다. 누구든 멈춤을 외칠 수 있고, 그 뒤 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "ฝึกรับด้วยโล่",
+      "description": "1. ผู้โจมตีฟันช้าๆ ด้วยดาบหุ้มนวมไปที่ศีรษะ สีข้าง และขา ผู้ป้องกันยืนในท่าการ์ด\n2. ผู้ป้องกันรับทุกการฟันด้วยโล่ โดยเอียงโล่ให้ปัดแรงออกแทนการรับเต็มแรง และขยับเท้าเพื่อรักษาระยะที่เหมาะสม\n3. ผู้โจมตีเพิ่มความเร็วเฉพาะเมื่อผู้ป้องกันยังรับได้แม่นยำ ทั้งสองฝ่ายสั่งหยุดได้เสมอ แล้วสลับบทบาท",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Отработка защиты щитом",
+      "description": "1. Атакующий наносит медленные рубящие удары мягким мечом в голову, бок и ноги; защищающийся стоит в стойке.\n2. Защищающийся встречает каждый удар щитом, подставляя его под углом, чтобы отвести, а не принять удар, и перемещается, сохраняя нужную дистанцию.\n3. Атакующий повышает темп, только пока защищающийся действует точно; любой из партнёров может дать команду стоп, после чего роли меняются.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Відпрацювання захисту щитом",
+      "description": "1. Нападник завдає повільних рубаних ударів м'яким мечем у голову, бік і ноги; захисник стоїть у стійці.\n2. Захисник зустрічає кожен удар щитом, підставляючи його під кутом, щоб відвести, а не прийняти удар, і пересувається, зберігаючи потрібну дистанцію.\n3. Нападник підвищує темп, лише поки захисник діє точно; будь-хто з партнерів може скомандувати стоп, після чого ролі міняються.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

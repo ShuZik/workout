@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#4766C1",
+    "colorType": "indigo",
+    "folder": "CoreTraining",
+    "id": "14",
+    "icon": "CoreTraining/Icon.png",
+    "symbolName": "figure.strengthtraining.functional",
+    "title": "Core",
+    "workoutType": "coreTraining",
+    "translations": {
+      "en": {
+        "title": "Core"
+      },
+      "es": {
+        "title": "Zona media"
+      },
+      "pt": {
+        "title": "Core"
+      },
+      "fr": {
+        "title": "Sangle abdominale"
+      },
+      "de": {
+        "title": "Rumpf"
+      },
+      "it": {
+        "title": "Core"
+      },
+      "zh-Hans": {
+        "title": "核心训练"
+      },
+      "ja": {
+        "title": "体幹"
+      },
+      "ko": {
+        "title": "코어"
+      },
+      "th": {
+        "title": "แกนกลางลำตัว"
+      },
+      "ru": {
+        "title": "Корпус"
+      },
+      "uk": {
+        "title": "Корпус"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "CoreTraining/exercises/coreTraining/Icon.png",
+      "json": "CoreTraining/exercises/coreTraining/coreTraining.json"
+    },
+    {
+      "icon": "CoreTraining/exercises/plank/Icon.png",
+      "json": "CoreTraining/exercises/plank/plank.json"
+    },
+    {
+      "icon": "CoreTraining/exercises/sitUp/Icon.png",
+      "json": "CoreTraining/exercises/sitUp/sitUp.json"
+    },
+    {
+      "icon": "CoreTraining/exercises/legRaise/Icon.png",
+      "json": "CoreTraining/exercises/legRaise/legRaise.json"
+    },
+    {
+      "icon": "CoreTraining/exercises/mountainClimber/Icon.png",
+      "json": "CoreTraining/exercises/mountainClimber/mountainClimber.json"
+    },
+    {
+      "json": "CoreTraining/exercises/sidePlank/sidePlank.json",
+      "icon": "CoreTraining/exercises/sidePlank/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/deadBug/deadBug.json",
+      "icon": "CoreTraining/exercises/deadBug/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/birdDog/birdDog.json",
+      "icon": "CoreTraining/exercises/birdDog/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/gluteBridge/gluteBridge.json",
+      "icon": "CoreTraining/exercises/gluteBridge/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/bicycleCrunch/bicycleCrunch.json",
+      "icon": "CoreTraining/exercises/bicycleCrunch/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/crunch/crunch.json",
+      "icon": "CoreTraining/exercises/crunch/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/russianTwist/russianTwist.json",
+      "icon": "CoreTraining/exercises/russianTwist/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/supermanBackExtension/supermanBackExtension.json",
+      "icon": "CoreTraining/exercises/supermanBackExtension/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/dumbbellWoodChop/dumbbellWoodChop.json",
+      "icon": "CoreTraining/exercises/dumbbellWoodChop/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/feetTogetherStand/feetTogetherStand.json",
+      "icon": "CoreTraining/exercises/feetTogetherStand/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/singleLegStand/singleLegStand.json",
+      "icon": "CoreTraining/exercises/singleLegStand/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/supermanHold/supermanHold.json",
+      "icon": "CoreTraining/exercises/supermanHold/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/lSit/lSit.json",
+      "icon": "CoreTraining/exercises/lSit/Icon.png"
+    },
+    {
+      "json": "CoreTraining/exercises/hangingLegRaise/hangingLegRaise.json",
+      "icon": "CoreTraining/exercises/hangingLegRaise/Icon.png"
+    },
+    {
+      "icon": "CoreTraining/exercises/hollowHold/Icon.png",
+      "json": "CoreTraining/exercises/hollowHold/hollowHold.json"
+    },
+    {
+      "icon": "CoreTraining/exercises/reverseCrunch/Icon.png",
+      "json": "CoreTraining/exercises/reverseCrunch/reverseCrunch.json"
+    },
+    {
+      "icon": "CoreTraining/exercises/bearPlank/Icon.png",
+      "json": "CoreTraining/exercises/bearPlank/bearPlank.json"
+    }
+  ]
+}

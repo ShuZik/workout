@@ -1,0 +1,90 @@
+{
+  "id": "95.6",
+  "key": "sqay_cut_block_exchange",
+  "title": "Sword Cut and Shield Block Exchange",
+  "description": "1. Partners face each other in guard with padded swords and shields at cutting distance.\n2. One partner cuts while the other blocks with the shield and immediately counters with a cut that the first partner blocks in turn.\n3. Keep a steady alternating rhythm with controlled power, aim only at padded or protected areas, and stop at once on either partner's call.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "sqay",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sword Cut and Shield Block Exchange",
+      "description": "1. Partners face each other in guard with padded swords and shields at cutting distance.\n2. One partner cuts while the other blocks with the shield and immediately counters with a cut that the first partner blocks in turn.\n3. Keep a steady alternating rhythm with controlled power, aim only at padded or protected areas, and stop at once on either partner's call.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Intercambio de cortes y bloqueos con escudo",
+      "description": "1. Los compañeros se colocan frente a frente en guardia con espadas acolchadas y escudos a distancia de corte.\n2. Uno corta mientras el otro bloquea con el escudo y contraataca de inmediato con un corte que el primero bloquea a su vez.\n3. Mantened un ritmo alterno constante con potencia controlada, apuntad solo a zonas acolchadas o protegidas y parad en cuanto cualquiera lo pida.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Troca de cortes e bloqueios com escudo",
+      "description": "1. Os parceiros ficam frente a frente em guarda com espadas acolchoadas e escudos na distância de corte.\n2. Um corta enquanto o outro bloqueia com o escudo e contra-ataca imediatamente com um corte que o primeiro bloqueia por sua vez.\n3. Mantenham um ritmo alternado constante com força controlada, mirem apenas áreas acolchoadas ou protegidas e parem assim que qualquer um pedir.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Échange de coupes et de blocages au bouclier",
+      "description": "1. Les partenaires se font face en garde, épées rembourrées et boucliers en main, à distance de coupe.\n2. L'un coupe pendant que l'autre bloque au bouclier et riposte aussitôt par une coupe que le premier bloque à son tour.\n3. Gardez un rythme alterné régulier avec une puissance contrôlée, visez uniquement les zones rembourrées ou protégées et arrêtez dès que l'un des deux le demande.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Wechsel von Schwerthieb und Schildabwehr",
+      "description": "1. Die Partner stehen sich in Grundhaltung mit gepolsterten Schwertern und Schilden auf Hiebdistanz gegenüber.\n2. Einer haut, der andere wehrt mit dem Schild ab und kontert sofort mit einem Hieb, den der Erste seinerseits abwehrt.\n3. Haltet einen gleichmäßigen Wechselrhythmus mit kontrollierter Kraft, zielt nur auf gepolsterte oder geschützte Bereiche und hört sofort auf, wenn einer Stopp ruft.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Scambio di tagli e parate con lo scudo",
+      "description": "1. I partner si fronteggiano in guardia con spade imbottite e scudi a distanza di taglio.\n2. Uno taglia mentre l'altro para con lo scudo e contrattacca subito con un taglio che il primo para a sua volta.\n3. Mantenete un ritmo alternato costante con potenza controllata, mirate solo a zone imbottite o protette e fermatevi subito alla richiesta di uno dei due.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "劈砍与盾挡交替对练",
+      "description": "1. 双方手持软剑和盾牌，以架势在劈砍距离上相对而立。\n2. 一方劈砍，另一方以盾格挡并立即还击，前者再用盾挡住。\n3. 以受控的力量保持稳定的交替节奏，只攻击有衬垫或护具的部位，任何一方喊停时立即停止。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "斬りと盾受けの交互練習",
+      "description": "1. 二人ともスポンジ剣と盾を持ち、斬りの間合いで構えて向き合います。\n2. 一方が斬り、もう一方は盾で受けてすぐに斬り返し、最初の人がそれを盾で受けます。\n3. 制御した力で一定の交互リズムを保ち、パッドや防具のある部位だけを狙い、どちらかが止めと言ったらすぐに止めます。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "베기와 방패 막기 주고받기",
+      "description": "1. 두 사람은 쿠션 칼과 방패를 들고 베기 거리에서 겨눔 자세로 마주 섭니다.\n2. 한 사람이 베면 다른 사람은 방패로 막고 즉시 베어 반격하며, 처음 사람이 이를 다시 방패로 막습니다.\n3. 조절된 힘으로 일정한 교대 리듬을 유지하고, 패드나 보호구가 있는 부위만 겨누며, 누구든 멈춤을 외치면 즉시 멈춥니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "สลับฟันดาบและรับด้วยโล่",
+      "description": "1. คู่ฝึกยืนหันหน้าเข้าหากันในท่าการ์ด ถือดาบหุ้มนวมและโล่ในระยะฟัน\n2. ฝ่ายหนึ่งฟัน อีกฝ่ายรับด้วยโล่แล้วฟันสวนทันที จากนั้นฝ่ายแรกรับด้วยโล่บ้าง\n3. รักษาจังหวะสลับที่สม่ำเสมอด้วยแรงที่ควบคุมได้ เล็งเฉพาะจุดที่มีนวมหรือเครื่องป้องกัน และหยุดทันทีเมื่อฝ่ายใดฝ่ายหนึ่งสั่งหยุด",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Обмен рубящими ударами и защитами щитом",
+      "description": "1. Партнёры стоят друг напротив друга в стойке с мягкими мечами и щитами на дистанции удара.\n2. Один рубит, другой защищается щитом и сразу отвечает ударом, который первый, в свою очередь, принимает на щит.\n3. Держите ровный чередующийся ритм с контролируемой силой, цельтесь только в мягкие или защищённые зоны и сразу останавливайтесь по команде любого партнёра.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Обмін рубаними ударами й захистами щитом",
+      "description": "1. Партнери стоять одне навпроти одного в стійці з м'якими мечами та щитами на дистанції удару.\n2. Один рубає, інший захищається щитом і одразу відповідає ударом, який перший, своєю чергою, приймає на щит.\n3. Тримайте рівний почерговий ритм із контрольованою силою, цільтеся лише в м'які або захищені зони й одразу зупиняйтеся за командою будь-кого з партнерів.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

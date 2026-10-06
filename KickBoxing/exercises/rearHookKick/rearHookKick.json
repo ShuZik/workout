@@ -1,0 +1,90 @@
+{
+  "id": "3.27",
+  "key": "kick_boxing_rear_hook_kick",
+  "title": "Rear Hook Kick",
+  "description": "1. Turn side-on, shift weight to the lead leg, and chamber the rear knee across the body.\n2. Extend the rear foot past the target, then bend the knee and draw the heel back across the target line.\n3. Rechamber the leg and return the rear foot behind the lead foot without losing balance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Advanced",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Hook Kick",
+      "description": "1. Turn side-on, shift weight to the lead leg, and chamber the rear knee across the body.\n2. Extend the rear foot past the target, then bend the knee and draw the heel back across the target line.\n3. Rechamber the leg and return the rear foot behind the lead foot without losing balance.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Patada de gancho trasera",
+      "description": "1. Gírate de perfil, pasa el peso a la pierna delantera y recoge la rodilla trasera cruzando el cuerpo.\n2. Extiende el pie trasero más allá del objetivo y luego flexiona la rodilla y arrastra el talón de vuelta a través de la línea del objetivo.\n3. Vuelve a recoger la pierna y devuelve el pie trasero detrás del delantero sin perder el equilibrio.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Chute de gancho de trás",
+      "description": "1. Vire de lado, passe o peso para a perna da frente e recolha o joelho de trás cruzando o corpo.\n2. Estenda o pé de trás além do alvo, depois flexione o joelho e puxe o calcanhar de volta através da linha do alvo.\n3. Recolha a perna novamente e leve o pé de trás de volta atrás do pé da frente sem perder o equilíbrio.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Crochet de pied arrière",
+      "description": "1. Placez-vous de profil, transférez le poids sur la jambe avant et armez le genou arrière en travers du corps.\n2. Dépliez le pied arrière au-delà de la cible, puis fléchissez le genou et ramenez le talon à travers la ligne de la cible.\n3. Réarmez la jambe et replacez le pied arrière derrière le pied avant sans perdre l’équilibre.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Hinterer Hakentritt",
+      "description": "1. Drehe dich seitlich, verlagere das Gewicht auf das vordere Bein und ziehe das hintere Knie quer vor den Körper.\n2. Strecke den hinteren Fuß am Ziel vorbei, beuge dann das Knie und ziehe die Ferse quer durch die Ziellinie zurück.\n3. Ziehe das Bein erneut auf und setze den hinteren Fuß hinter den vorderen, ohne das Gleichgewicht zu verlieren.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Calcio a uncino posteriore",
+      "description": "1. Mettiti di fianco, sposta il peso sulla gamba anteriore e carica il ginocchio posteriore davanti al corpo.\n2. Distendi il piede posteriore oltre il bersaglio, poi piega il ginocchio e riporta il tallone attraverso la linea del bersaglio.\n3. Ricarica la gamba e riporta il piede posteriore dietro quello anteriore senza perdere l’equilibrio.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "后腿勾踢",
+      "description": "1. 身体转为侧向，重心移到前腿，后膝横过身体收起。\n2. 后脚伸出超过目标，然后屈膝，脚跟沿目标线横向拉回。\n3. 再次提膝收腿，后脚回到前脚后方，保持平衡。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "後ろ足のフックキック",
+      "description": "1. 体を横向きにして前脚に体重を移し、後ろの膝を体の前で抱え込みます。\n2. 後ろ足を標的の先まで伸ばし、膝を曲げてかかとで標的のラインを横切るように引き戻します。\n3. 脚を再び抱え込み、バランスを崩さずに後ろ足を前足の後ろへ戻します。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "뒷발 훅킥",
+      "description": "1. 몸을 옆으로 돌리고 앞다리로 체중을 옮긴 뒤 뒷무릎을 몸 앞으로 접어 올립니다.\n2. 뒷발을 목표 너머로 뻗은 뒤 무릎을 굽혀 발뒤꿈치를 목표선을 가로질러 당겨옵니다.\n3. 다리를 다시 접고 균형을 잃지 않은 채 뒷발을 앞발 뒤로 되돌립니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "เตะตวัดส้นขาหลัง",
+      "description": "1. หันลำตัวเข้าด้านข้าง ถ่ายน้ำหนักไปขาหน้า และยกเข่าหลังตัดผ่านลำตัว\n2. เหยียดเท้าหลังให้เลยเป้า แล้วงอเข่าดึงส้นเท้ากลับผ่านแนวเป้า\n3. ยกเข่าเก็บขาอีกครั้งและวางเท้าหลังกลับไว้หลังเท้าหน้าโดยไม่เสียการทรงตัว",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Хук задней ногой",
+      "description": "1. Развернитесь боком, перенесите вес на переднюю ногу и подтяните заднее колено поперёк корпуса.\n2. Выпрямите заднюю стопу дальше цели, затем согните колено и проведите пятку обратно поперёк линии цели.\n3. Снова подтяните ногу и верните заднюю стопу за переднюю, не теряя равновесия.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Хук задньою ногою",
+      "description": "1. Розверніться боком, перенесіть вагу на передню ногу й підтягніть заднє коліно впоперек корпусу.\n2. Випряміть задню стопу далі цілі, потім зігніть коліно й проведіть п’яту назад упоперек лінії цілі.\n3. Знову підтягніть ногу й поверніть задню стопу за передню, не втрачаючи рівноваги.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

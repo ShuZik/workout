@@ -1,0 +1,90 @@
+{
+  "id": "97.8",
+  "key": "sumo_kotenage",
+  "title": "Kotenage",
+  "description": "1. As the partner reaches inside with an underarm grip, wrap that arm from outside under your armpit.\n2. Clamp the arm against your side and turn the hips away, stepping back on the wrapping side.\n3. Swing the partner down around you without cranking the elbow and release once the partner lands.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kotenage",
+      "description": "1. As the partner reaches inside with an underarm grip, wrap that arm from outside under your armpit.\n2. Clamp the arm against your side and turn the hips away, stepping back on the wrapping side.\n3. Swing the partner down around you without cranking the elbow and release once the partner lands.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Kotenage",
+      "description": "1. Cuando el compañero meta un agarre por dentro, envuelve ese brazo desde fuera bajo tu axila.\n2. Sujeta el brazo contra tu costado y gira la cadera hacia fuera, dando un paso atrás del lado del envolvimiento.\n3. Haz girar al compañero hacia abajo a tu alrededor sin forzar el codo y suelta en cuanto aterrice.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Kotenage",
+      "description": "1. Quando o parceiro entrar com uma pegada por dentro, envolva esse braço por fora sob a sua axila.\n2. Prenda o braço contra o seu lado e gire o quadril para longe, dando um passo atrás do lado do envolvimento.\n3. Gire o parceiro para baixo ao seu redor sem torcer o cotovelo e solte assim que ele cair.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Kotenage",
+      "description": "1. Quand le partenaire glisse une prise intérieure, enroulez ce bras par l’extérieur sous votre aisselle.\n2. Plaquez le bras contre votre flanc et tournez les hanches en reculant du côté de l’enroulement.\n3. Faites basculer le partenaire autour de vous sans forcer le coude et lâchez dès qu’il atterrit.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kotenage",
+      "description": "1. Greift der Partner von innen, umschlinge diesen Arm von außen unter deiner Achsel.\n2. Klemme den Arm an deine Seite und drehe die Hüfte weg, während du auf der umschlingenden Seite zurücktrittst.\n3. Schwinge den Partner um dich herum zu Boden, ohne den Ellbogen zu verdrehen, und löse, sobald er landet.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Kotenage",
+      "description": "1. Quando il partner entra con una presa interna, avvolgi quel braccio dall’esterno sotto la tua ascella.\n2. Blocca il braccio contro il fianco e ruota le anche lontano, facendo un passo indietro dal lato dell’avvolgimento.\n3. Fai ruotare il partner a terra attorno a te senza forzare il gomito e lascia appena atterra.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "小手投",
+      "description": "1. 当同伴从内侧抓握时，从外侧把该手臂夹在你腋下。\n2. 将手臂夹紧在体侧并向外转髋，在夹臂一侧后撤一步。\n3. 把同伴绕着你甩摔下去，不要扭转肘关节，对方落地即松开。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "小手投げ",
+      "description": "1. 相手が下手を差してきたら、その腕を外側から自分の脇の下に抱え込みます。\n2. 腕を脇に締めつけ、抱えた側の足を引きながら腰を外へ回します。\n3. 肘をひねらずに相手を自分の周りへ振り落とし、着地したらすぐに離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "고테나게",
+      "description": "1. 파트너가 안쪽으로 그립을 넣으면 그 팔을 바깥에서 겨드랑이 아래로 감쌉니다.\n2. 팔을 옆구리에 붙여 고정하고 감싼 쪽으로 한 걸음 물러나며 엉덩이를 돌립니다.\n3. 팔꿈치를 비틀지 말고 상대를 내 주위로 돌려 넘기고 착지하면 바로 놓습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "โคเตะนาเงะ",
+      "description": "1. เมื่อคู่ฝึกสอดมือจับด้านใน ให้โอบแขนนั้นจากด้านนอกหนีบไว้ใต้รักแร้\n2. หนีบแขนแนบลำตัวและหมุนสะโพกออก พร้อมก้าวถอยฝั่งที่โอบแขน\n3. เหวี่ยงคู่ฝึกลงรอบตัวโดยไม่บิดข้อศอก และปล่อยทันทีเมื่อคู่ฝึกลงถึงพื้น",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Котэнагэ",
+      "description": "1. Когда партнёр заводит внутренний захват, обхватите эту руку снаружи под своей подмышкой.\n2. Прижмите руку к боку и разверните таз от партнёра, шагнув назад со стороны обхвата.\n3. Проведите партнёра вниз вокруг себя, не выкручивая локоть, и отпустите сразу после приземления.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Котенаге",
+      "description": "1. Коли партнер заводить внутрішній захват, обхопіть цю руку ззовні під своєю пахвою.\n2. Притисніть руку до боку й розверніть таз від партнера, ступивши назад з боку обхвату.\n3. Проведіть партнера вниз навколо себе, не викручуючи лікоть, і відпустіть одразу після приземлення.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

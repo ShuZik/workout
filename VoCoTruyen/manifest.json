@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#4766C1",
+    "colorType": "indigo",
+    "folder": "VoCoTruyen",
+    "id": "106",
+    "icon": "VoCoTruyen/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Vo Co Truyen",
+    "workoutType": "voCoTruyen",
+    "translations": {
+      "en": {
+        "title": "Vo Co Truyen"
+      },
+      "es": {
+        "title": "Võ cổ truyền"
+      },
+      "pt": {
+        "title": "Võ cổ truyền"
+      },
+      "fr": {
+        "title": "Võ cổ truyền"
+      },
+      "de": {
+        "title": "Võ cổ truyền"
+      },
+      "it": {
+        "title": "Võ cổ truyền"
+      },
+      "zh-Hans": {
+        "title": "越南传统武术"
+      },
+      "ja": {
+        "title": "ヴォーコートゥエン"
+      },
+      "ko": {
+        "title": "보꼬쭈옌"
+      },
+      "th": {
+        "title": "โวโกจวีเอิน"
+      },
+      "ru": {
+        "title": "Во ко чуен"
+      },
+      "uk": {
+        "title": "Во ко чуєн"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "VoCoTruyen/exercises/voCoTruyen/Icon.png",
+      "json": "VoCoTruyen/exercises/voCoTruyen/voCoTruyen.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/hungKeQuyen/Icon.png",
+      "json": "VoCoTruyen/exercises/hungKeQuyen/hungKeQuyen.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/laoHoThuongSon/Icon.png",
+      "json": "VoCoTruyen/exercises/laoHoThuongSon/laoHoThuongSon.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/ngocTranQuyen/Icon.png",
+      "json": "VoCoTruyen/exercises/ngocTranQuyen/ngocTranQuyen.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/kimNguuQuyen/Icon.png",
+      "json": "VoCoTruyen/exercises/kimNguuQuyen/kimNguuQuyen.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/bachHacSonQuyen/Icon.png",
+      "json": "VoCoTruyen/exercises/bachHacSonQuyen/bachHacSonQuyen.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/tuLinhDao/Icon.png",
+      "json": "VoCoTruyen/exercises/tuLinhDao/tuLinhDao.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/phongHoaDao/Icon.png",
+      "json": "VoCoTruyen/exercises/phongHoaDao/phongHoaDao.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/batQuaiCon/Icon.png",
+      "json": "VoCoTruyen/exercises/batQuaiCon/batQuaiCon.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/roiThaiSon/Icon.png",
+      "json": "VoCoTruyen/exercises/roiThaiSon/roiThaiSon.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/docLuThuong/Icon.png",
+      "json": "VoCoTruyen/exercises/docLuThuong/docLuThuong.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/huynhLongDocKiem/Icon.png",
+      "json": "VoCoTruyen/exercises/huynhLongDocKiem/huynhLongDocKiem.json"
+    },
+    {
+      "icon": "VoCoTruyen/exercises/thanhLongDocKiem/Icon.png",
+      "json": "VoCoTruyen/exercises/thanhLongDocKiem/thanhLongDocKiem.json"
+    }
+  ]
+}

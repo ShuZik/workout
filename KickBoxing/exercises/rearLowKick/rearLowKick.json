@@ -1,0 +1,103 @@
+{
+  "id": "3.16",
+  "key": "kick_boxing_rear_low_kick",
+  "title": "Rear Low Kick",
+  "description": "1. From stance, plant the lead foot near the outside line and begin pivoting it away from the target.\n2. Rotate the rear hip through and swing the lower shin into the thigh with the knee slightly bent.\n3. Recoil or carry the leg through under control, then regain the original stance and guard.",
+  "subtitle": "Low Kick / K-1",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Low Kick",
+      "description": "1. From stance, plant the lead foot near the outside line and begin pivoting it away from the target.\n2. Rotate the rear hip through and swing the lower shin into the thigh with the knee slightly bent.\n3. Recoil or carry the leg through under control, then regain the original stance and guard.",
+      "subtitle": "Low Kick / K-1",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Patada baja trasera",
+      "description": "1. Desde la postura, apoya el pie delantero cerca de la línea exterior y empieza a girarlo hacia fuera del objetivo.\n2. Rota la cadera trasera y golpea el muslo con la parte baja de la espinilla, con la rodilla ligeramente flexionada.\n3. Recoge la pierna o deja que pase con control y recupera la postura y la guardia originales.",
+      "subtitle": "Patada baja / K-1",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Chute baixo de trás",
+      "description": "1. Na base, apoie o pé da frente perto da linha externa e comece a girá-lo para fora do alvo.\n2. Gire o quadril de trás e atinja a coxa com a parte baixa da canela, com o joelho levemente flexionado.\n3. Recolha a perna ou deixe-a passar com controle e recupere a base e a guarda originais.",
+      "subtitle": "Chute baixo / K-1",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Low-kick arrière",
+      "description": "1. En garde, posez le pied avant près de la ligne extérieure et commencez à l’orienter vers l’extérieur de la cible.\n2. Faites passer la hanche arrière et frappez la cuisse avec le bas du tibia, genou légèrement fléchi.\n3. Ramenez la jambe ou laissez-la traverser avec contrôle, puis retrouvez la garde initiale.",
+      "subtitle": "Coup de pied bas / K-1",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Hinterer Lowkick",
+      "description": "1. Setze aus der Stellung den vorderen Fuß nahe der Außenlinie auf und beginne, ihn vom Ziel wegzudrehen.\n2. Drehe die hintere Hüfte durch und schwinge das untere Schienbein mit leicht gebeugtem Knie gegen den Oberschenkel.\n3. Ziehe das Bein zurück oder lass es kontrolliert durchschwingen und finde dann Stellung und Deckung wieder.",
+      "subtitle": "Lowkick / K-1",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Calcio basso posteriore",
+      "description": "1. Dalla posizione, appoggia il piede anteriore vicino alla linea esterna e inizia a ruotarlo verso l’esterno rispetto al bersaglio.\n2. Ruota l’anca posteriore e colpisci la coscia con la parte bassa della tibia, con il ginocchio leggermente piegato.\n3. Richiama la gamba o lasciala passare con controllo, poi ritrova posizione e guardia iniziali.",
+      "subtitle": "Calcio basso / K-1",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "后腿低扫踢",
+      "description": "1. 从站姿开始，前脚踩在外侧线附近，并开始向外转离目标。\n2. 后髋充分转过，膝盖微屈，用小腿下段扫击大腿。\n3. 有控制地收腿或让腿顺势扫过，然后恢复原来的站姿和防守。",
+      "subtitle": "低扫踢 / K-1",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "後ろ足のローキック",
+      "description": "1. 構えから前足を外側のライン近くに置き、つま先を標的から外へ向け始めます。\n2. 後ろの腰を回し切り、膝を軽く曲げてすねの下部で太ももを蹴ります。\n3. 脚を引き戻すかコントロールしたまま振り抜き、元の構えとガードに戻ります。",
+      "subtitle": "ローキック／K-1",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "뒷발 로킥",
+      "description": "1. 자세에서 앞발을 바깥 라인 근처에 딛고 목표 반대쪽으로 돌리기 시작합니다.\n2. 뒤 골반을 끝까지 돌리고 무릎을 살짝 굽힌 채 정강이 아랫부분으로 허벅지를 찹니다.\n3. 다리를 회수하거나 통제하며 흘려보낸 뒤 원래 자세와 가드를 회복합니다.",
+      "subtitle": "로킥 / K-1",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เตะต่ำขาหลัง",
+      "description": "1. จากท่ายืน วางเท้าหน้าใกล้แนวด้านนอกและเริ่มหมุนปลายเท้าออกจากเป้า\n2. บิดสะโพกหลังให้สุดและเหวี่ยงหน้าแข้งช่วงล่างเข้าต้นขา โดยงอเข่าเล็กน้อย\n3. เก็บขากลับหรือปล่อยให้ขาเหวี่ยงผ่านอย่างควบคุม แล้วกลับสู่ท่ายืนและการ์ดเดิม",
+      "subtitle": "เตะต่ำ / K-1",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Лоу-кик задней ногой",
+      "description": "1. Из стойки поставьте переднюю стопу ближе к внешней линии и начните разворачивать её от цели.\n2. Проверните заднюю сторону таза и ударьте нижней частью голени по бедру, слегка согнув колено.\n3. Верните ногу или подконтрольно проведите её насквозь, затем восстановите исходную стойку и защиту.",
+      "subtitle": "Лоу-кик / K-1",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Лоу-кік задньою ногою",
+      "description": "1. Зі стійки поставте передню стопу ближче до зовнішньої лінії й почніть розвертати її від цілі.\n2. Проверніть задній бік таза й ударте нижньою частиною гомілки по стегну, трохи зігнувши коліно.\n3. Поверніть ногу або контрольовано проведіть її наскрізь, потім відновіть вихідну стійку й захист.",
+      "subtitle": "Лоу-кік / K-1",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

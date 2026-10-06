@@ -7,14 +7,113 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
-    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 5 },
-    { "id": "back-squat", "exerciseID": "13.55", "kind": "manual", "reps": 10, "weight": 10 },
-    { "id": "rest-1", "exerciseID": "10.1", "kind": "timed", "durationSeconds": 90 },
-    { "id": "bench-press", "exerciseID": "13.57", "kind": "manual", "reps": 10, "weight": 10 },
-    { "id": "rest-2", "exerciseID": "10.1", "kind": "timed", "durationSeconds": 90 },
-    { "id": "bent-over-row", "exerciseID": "13.59", "kind": "manual", "reps": 10, "weight": 10 },
-    { "id": "rest-3", "exerciseID": "10.1", "kind": "timed", "durationSeconds": 90 },
-    { "id": "overhead-press", "exerciseID": "13.58", "kind": "manual", "reps": 10, "weight": 10 },
-    { "id": "cooldown", "exerciseID": "10.1", "kind": "timed", "durationSeconds": 30 }
-  ]
+    {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
+      "id": "back-squat",
+      "exerciseID": "13.55",
+      "kind": "manual",
+      "reps": 10,
+      "weight": 10
+    },
+    {
+      "id": "rest-1",
+      "exerciseID": "10.1",
+      "kind": "timed",
+      "durationSeconds": 90
+    },
+    {
+      "id": "bench-press",
+      "exerciseID": "13.57",
+      "kind": "manual",
+      "reps": 10,
+      "weight": 10
+    },
+    {
+      "id": "rest-2",
+      "exerciseID": "10.1",
+      "kind": "timed",
+      "durationSeconds": 90
+    },
+    {
+      "id": "bent-over-row",
+      "exerciseID": "13.59",
+      "kind": "manual",
+      "reps": 10,
+      "weight": 10
+    },
+    {
+      "id": "rest-3",
+      "exerciseID": "10.1",
+      "kind": "timed",
+      "durationSeconds": 90
+    },
+    {
+      "id": "overhead-press",
+      "exerciseID": "13.58",
+      "kind": "manual",
+      "reps": 10,
+      "weight": 10
+    },
+    {
+      "id": "cooldown",
+      "exerciseID": "10.1",
+      "kind": "timed",
+      "durationSeconds": 30
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "Barbell Strength",
+      "description": "A manual reps-and-weight strength session with timed rests."
+    },
+    "es": {
+      "title": "Fuerza con barra",
+      "description": "Una sesión de fuerza con repeticiones y peso controlados manualmente y descansos cronometrados."
+    },
+    "pt": {
+      "title": "Força com barra",
+      "description": "Uma sessão de força com repetições e peso controlados manualmente e descansos cronometrados."
+    },
+    "fr": {
+      "title": "Musculation avec barre",
+      "description": "Une séance de musculation avec répétitions et poids gérés manuellement et repos chronométrés."
+    },
+    "de": {
+      "title": "Krafttraining mit Langhantel",
+      "description": "Eine Krafteinheit mit manuell gesteuerten Wiederholungen und Gewichten sowie zeitgesteuerten Pausen."
+    },
+    "it": {
+      "title": "Forza con bilanciere",
+      "description": "Una sessione di forza con ripetizioni e peso gestiti manualmente e pause a tempo."
+    },
+    "zh-Hans": {
+      "title": "杠铃力量训练",
+      "description": "手动控制次数和重量的力量训练，配有计时休息。"
+    },
+    "ja": {
+      "title": "バーベル筋力トレーニング",
+      "description": "回数と重量を手動で管理し、休憩をタイマーで計る筋力トレーニング。"
+    },
+    "ko": {
+      "title": "바벨 근력 운동",
+      "description": "반복 횟수와 중량을 수동으로 관리하고 휴식 시간을 측정하는 근력 운동."
+    },
+    "th": {
+      "title": "ฝึกความแข็งแรงด้วยบาร์เบล",
+      "description": "การฝึกความแข็งแรงที่กำหนดจำนวนครั้งและน้ำหนักด้วยตนเอง พร้อมช่วงพักแบบจับเวลา"
+    },
+    "ru": {
+      "title": "Силовая со штангой",
+      "description": "Силовая тренировка с ручным управлением повторениями и весом и отдыхом по таймеру."
+    },
+    "uk": {
+      "title": "Силове зі штангою",
+      "description": "Силове тренування з ручним керуванням повтореннями й вагою та відпочинком за таймером."
+    }
+  }
 }

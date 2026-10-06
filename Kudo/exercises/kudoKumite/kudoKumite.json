@@ -1,0 +1,90 @@
+{
+  "id": "71.7",
+  "key": "kudo_kumite",
+  "title": "Kudo Kumite",
+  "description": "1. With a matched partner in full Kudo protective gear and a coach supervising, start in fighting stance.\n2. Spar with strikes, short clinch work and throws under the agreed limits, such as no throws or reduced power.\n3. Stop at the coach's command or any signal, touch gloves, and reset before the next exchange.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "kudo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kudo Kumite",
+      "description": "1. With a matched partner in full Kudo protective gear and a coach supervising, start in fighting stance.\n2. Spar with strikes, short clinch work and throws under the agreed limits, such as no throws or reduced power.\n3. Stop at the coach's command or any signal, touch gloves, and reset before the next exchange.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Kumite de kudo",
+      "description": "1. Con un compañero de nivel similar, equipo de protección completo de kudo y un entrenador supervisando, empieza en guardia.\n2. Haz sparring con golpes, clinch breve y proyecciones dentro de los límites acordados, como sin proyecciones o con potencia reducida.\n3. Para a la orden del entrenador o ante cualquier señal, chocad guantes y reiniciad antes del siguiente intercambio.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Kumite de kudo",
+      "description": "1. Com um parceiro de nível semelhante, equipamento completo de kudo e um treinador supervisionando, comece em guarda.\n2. Faça sparring com golpes, clinch curto e projeções dentro dos limites combinados, como sem projeções ou com força reduzida.\n3. Pare ao comando do treinador ou a qualquer sinal, toquem as luvas e reiniciem antes da próxima troca.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Kumite de kudo",
+      "description": "1. Avec un partenaire de niveau comparable, en équipement complet de kudo et sous la supervision d’un entraîneur, commencez en garde.\n2. Combattez avec frappes, courtes saisies et projections dans les limites convenues, par exemple sans projection ou à puissance réduite.\n3. Arrêtez au commandement de l’entraîneur ou à tout signal, touchez les gants et repartez avant l’échange suivant.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kudo-Kumite",
+      "description": "1. Beginne mit einem passenden Partner in voller Kudo-Schutzausrüstung unter Aufsicht eines Trainers in Kampfstellung.\n2. Sparre mit Schlägen, kurzem Clinch und Würfen innerhalb der vereinbarten Grenzen, etwa ohne Würfe oder mit reduzierter Kraft.\n3. Stoppe auf Kommando des Trainers oder bei jedem Signal, berührt die Handschuhe und setzt vor dem nächsten Austausch neu an.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Kumite di kudo",
+      "description": "1. Con un compagno di livello simile, protezioni complete da kudo e un allenatore a supervisionare, inizia in guardia.\n2. Fai sparring con colpi, breve clinch e proiezioni entro i limiti concordati, ad esempio senza proiezioni o a potenza ridotta.\n3. Fermati al comando dell’allenatore o a qualsiasi segnale, toccatevi i guanti e ripartite prima dello scambio successivo.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "空道组手",
+      "description": "1. 与水平相当的同伴穿戴全套空道护具，在教练监督下以实战姿势开始。\n2. 在约定限制下进行实战对练，如不摔或降低力度，使用打击、短暂缠抱和摔法。\n3. 听到教练口令或任何示意即停，碰拳后重置，再开始下一次交手。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "空道の組手",
+      "description": "1. 力量の近いパートナーと空道の防具を完全に着け、指導者の監督のもと構えから始めます。\n2. 投げなし、力を抑えるなど合意した制限の中で、打撃、短い組み、投げを使って組手をします。\n3. 指導者の号令や合図で止め、グローブを合わせ、次の攻防の前にリセットします。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "쿠도 대련",
+      "description": "1. 비슷한 수준의 파트너와 쿠도 보호구를 모두 착용하고 코치의 감독 아래 대련 자세로 시작합니다.\n2. 던지기 금지나 힘 줄이기 등 합의한 제한 안에서 타격, 짧은 클린치, 던지기로 대련합니다.\n3. 코치의 구령이나 어떤 신호에도 멈추고, 글러브를 맞댄 뒤 다음 교환 전에 다시 시작합니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "คุมิเตะคูโด",
+      "description": "1. กับคู่ฝึกระดับใกล้เคียงกัน สวมอุปกรณ์ป้องกันคูโดครบ และมีโค้ชดูแล เริ่มในท่าต่อสู้\n2. ซ้อมต่อสู้ด้วยการโจมตี คลินช์สั้น ๆ และการทุ่ม ภายใต้ข้อจำกัดที่ตกลง เช่น ห้ามทุ่มหรือลดแรง\n3. หยุดตามคำสั่งโค้ชหรือสัญญาณใด ๆ แตะนวม แล้วเริ่มใหม่ก่อนการแลกครั้งถัดไป",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Кумитэ кудо",
+      "description": "1. С равным по уровню партнёром в полной защитной экипировке кудо и под присмотром тренера начните в боевой стойке.\n2. Проведите спарринг с ударами, коротким клинчем и бросками в оговорённых рамках, например без бросков или со сниженной силой.\n3. Останавливайтесь по команде тренера или любому сигналу, коснитесь перчатками и начните заново перед следующим обменом.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Куміте кудо",
+      "description": "1. З рівним за рівнем партнером у повному захисному спорядженні кудо й під наглядом тренера почніть у бойовій стійці.\n2. Проведіть спаринг з ударами, коротким клінчем і кидками в узгоджених межах, наприклад без кидків або зі зниженою силою.\n3. Зупиняйтеся за командою тренера або будь-яким сигналом, торкніться рукавицями й почніть знову перед наступним обміном.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

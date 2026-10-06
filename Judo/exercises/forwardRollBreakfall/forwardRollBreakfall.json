@@ -1,0 +1,90 @@
+{
+  "id": "41.5",
+  "key": "judo_forward_roll_breakfall",
+  "title": "Forward Roll Breakfall",
+  "description": "1. Begin in a staggered crouch, place the lead hand inward, tuck the chin, and round the back.\n2. Roll diagonally from the lead shoulder across the back toward the opposite hip rather than over the head.\n3. Finish in a side breakfall with an arm slap or continue smoothly to the feet while maintaining balance.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Ukemi",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Forward Roll Breakfall",
+      "description": "1. Begin in a staggered crouch, place the lead hand inward, tuck the chin, and round the back.\n2. Roll diagonally from the lead shoulder across the back toward the opposite hip rather than over the head.\n3. Finish in a side breakfall with an arm slap or continue smoothly to the feet while maintaining balance.",
+      "sectionTitle": "Ukemi"
+    },
+    "es": {
+      "title": "Caída con rodada hacia delante",
+      "description": "1. Empieza en cuclillas con los pies escalonados, coloca la mano adelantada hacia dentro, recoge la barbilla y redondea la espalda.\n2. Rueda en diagonal desde el hombro adelantado por la espalda hacia la cadera opuesta, sin pasar sobre la cabeza.\n3. Termina en una caída lateral golpeando con el brazo o continúa suavemente hasta ponerte de pie, manteniendo el equilibrio.",
+      "sectionTitle": "Ukemi"
+    },
+    "pt": {
+      "title": "Queda com rolamento para a frente",
+      "description": "1. Comece agachado com os pés desencontrados, coloque a mão da frente para dentro, recolha o queixo e arredonde as costas.\n2. Role diagonalmente do ombro da frente pelas costas até o quadril oposto, sem passar sobre a cabeça.\n3. Termine em uma queda lateral batendo o braço ou continue suavemente até ficar em pé, mantendo o equilíbrio.",
+      "sectionTitle": "Ukemi"
+    },
+    "fr": {
+      "title": "Chute avec roulade avant",
+      "description": "1. Commencez accroupi, pieds décalés, placez la main avant vers l’intérieur, rentrez le menton et arrondissez le dos.\n2. Roulez en diagonale de l’épaule avant à travers le dos vers la hanche opposée, sans passer sur la tête.\n3. Terminez en chute latérale avec une frappe du bras ou poursuivez souplement jusqu’à vous relever en gardant l’équilibre.",
+      "sectionTitle": "Ukemi"
+    },
+    "de": {
+      "title": "Vorwärtsrollfallen",
+      "description": "1. Beginne hockend mit versetzten Füßen, setze die vordere Hand nach innen, ziehe das Kinn an und runde den Rücken.\n2. Rolle diagonal von der vorderen Schulter über den Rücken zur gegenüberliegenden Hüfte, ohne über den Kopf zu rollen.\n3. Ende im seitlichen Fall mit einem Abschlagen des Arms oder rolle fließend bis zum Stand weiter und halte das Gleichgewicht.",
+      "sectionTitle": "Ukemi"
+    },
+    "it": {
+      "title": "Caduta con rotolamento in avanti",
+      "description": "1. Inizia accovacciato con i piedi sfalsati, posiziona la mano avanzata verso l’interno, raccogli il mento e arrotonda la schiena.\n2. Rotola in diagonale dalla spalla avanzata attraverso la schiena verso l’anca opposta, senza passare sulla testa.\n3. Termina in una caduta laterale battendo il braccio oppure continua dolcemente fino ad alzarti, mantenendo l’equilibrio.",
+      "sectionTitle": "Ukemi"
+    },
+    "zh-Hans": {
+      "title": "前滚翻受身",
+      "description": "1. 以前后错开的蹲姿开始，前手向内放置，收下巴并拱起背部。\n2. 从前侧肩膀沿背部斜滚向对侧髋部，不要从头部上方滚过。\n3. 以侧倒拍臂受身结束，或顺势平稳站起，保持平衡。",
+      "sectionTitle": "受身"
+    },
+    "ja": {
+      "title": "前回り受身",
+      "description": "1. 足を前後にずらしてしゃがみ、前の手を内側に置き、顎を引いて背中を丸めます。\n2. 頭の上を通らず、前側の肩から背中を斜めに通って反対側の腰へ転がります。\n3. 腕で畳を打つ横受身で終えるか、バランスを保って滑らかに立ち上がります。",
+      "sectionTitle": "受身"
+    },
+    "ko": {
+      "title": "앞 구르기 낙법",
+      "description": "1. 발을 앞뒤로 엇갈리게 하고 웅크린 자세에서 앞손을 안쪽에 놓고 턱을 당기며 등을 둥글게 합니다.\n2. 머리 위로 구르지 말고 앞쪽 어깨에서 등을 가로질러 반대 골반으로 대각선으로 구릅니다.\n3. 팔로 매트를 치는 옆 낙법으로 마치거나 균형을 유지하며 부드럽게 일어섭니다.",
+      "sectionTitle": "낙법"
+    },
+    "th": {
+      "title": "การล้มด้วยการกลิ้งไปข้างหน้า",
+      "description": "1. เริ่มจากย่อตัวโดยวางเท้าเหลื่อมกัน วางมือหน้านำเข้าด้านใน เก็บคางและโค้งหลัง\n2. กลิ้งเฉียงจากไหล่ด้านหน้าไปตามหลังจนถึงสะโพกฝั่งตรงข้าม โดยไม่กลิ้งทับศีรษะ\n3. จบด้วยการล้มด้านข้างและตบเสื่อด้วยแขน หรือกลิ้งต่ออย่างนุ่มนวลจนยืน โดยรักษาสมดุล",
+      "sectionTitle": "อุเคมิ"
+    },
+    "ru": {
+      "title": "Страховка с кувырком вперёд",
+      "description": "1. Начните в приседе с одной ногой впереди, поставьте переднюю руку внутрь, прижмите подбородок и округлите спину.\n2. Перекатитесь по диагонали с переднего плеча через спину к противоположному бедру, не перекатываясь через голову.\n3. Завершите боковой страховкой с хлопком рукой или плавно продолжите до положения стоя, сохраняя равновесие.",
+      "sectionTitle": "Укэми"
+    },
+    "uk": {
+      "title": "Страхування з перекидом уперед",
+      "description": "1. Почніть у присіді з однією ногою попереду, поставте передню руку всередину, притисніть підборіддя й округліть спину.\n2. Перекотіться по діагоналі з переднього плеча через спину до протилежного стегна, не перекочуючись через голову.\n3. Завершіть боковим страхуванням із плеском рукою або плавно продовжте до положення стоячи, зберігаючи рівновагу.",
+      "sectionTitle": "Укемі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "64.9",
+  "key": "jodo_kuri_hanashi",
+  "title": "Kuri-hanashi",
+  "description": "1. Begin as in kuri-tsuke, meeting the imagined swordsman's wrists with the middle of the jo.\n2. Reel the jo in to break the opponent's balance, then drive both hands forward and up to push the wrists and sword away and send the opponent back.\n3. Bring the jo back to a controlled middle position aimed at the opponent and return to the start.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "jodo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Solo Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kuri-hanashi",
+      "description": "1. Begin as in kuri-tsuke, meeting the imagined swordsman's wrists with the middle of the jo.\n2. Reel the jo in to break the opponent's balance, then drive both hands forward and up to push the wrists and sword away and send the opponent back.\n3. Bring the jo back to a controlled middle position aimed at the opponent and return to the start.",
+      "sectionTitle": "Solo Kihon"
+    },
+    "es": {
+      "title": "Kuri-hanashi",
+      "description": "1. Comienza como en kuri-tsuke, encontrando las muñecas del espadachín imaginario con el centro del jo.\n2. Recoge el jo para romper el equilibrio del oponente y luego impulsa ambas manos adelante y arriba para apartar muñecas y espada y enviarlo atrás.\n3. Lleva el jo a una posición media controlada apuntando al oponente y vuelve al inicio.",
+      "sectionTitle": "Kihon individual"
+    },
+    "pt": {
+      "title": "Kuri-hanashi",
+      "description": "1. Comece como no kuri-tsuke, encontrando os pulsos do espadachim imaginário com o meio do jo.\n2. Recolha o jo para quebrar o equilíbrio do oponente e depois impulsione as duas mãos à frente e para cima para afastar pulsos e espada e mandá-lo para trás.\n3. Traga o jo a uma posição média controlada apontando ao oponente e volte ao início.",
+      "sectionTitle": "Kihon individual"
+    },
+    "fr": {
+      "title": "Kuri-hanashi",
+      "description": "1. Commencez comme en kuri-tsuke, en recevant les poignets du sabreur imaginaire avec le milieu du jo.\n2. Ramenez le jo pour rompre l’équilibre adverse, puis poussez des deux mains vers l’avant et le haut pour chasser poignets et sabre et renvoyer l’adversaire.\n3. Revenez à une garde moyenne contrôlée dirigée vers l’adversaire et revenez au départ.",
+      "sectionTitle": "Kihon en solo"
+    },
+    "de": {
+      "title": "Kuri-hanashi",
+      "description": "1. Wie bei Kuri-tsuke beginnen und die Handgelenke des gedachten Schwertkämpfers mit der Mitte des Jo treffen.\n2. Den Jo einspulen, um das Gleichgewicht zu brechen, dann beide Hände nach vorn und oben treiben, Handgelenke und Schwert wegdrücken und den Gegner zurückschicken.\n3. Den Jo in eine kontrollierte mittlere Haltung auf den Gegner bringen und zum Start zurückkehren.",
+      "sectionTitle": "Kihon allein"
+    },
+    "it": {
+      "title": "Kuri-hanashi",
+      "description": "1. Inizia come nel kuri-tsuke, incontrando i polsi dello spadaccino immaginario con il centro del jo.\n2. Riavvolgi il jo per rompere l’equilibrio dell’avversario, poi spingi entrambe le mani avanti e in alto per allontanare polsi e spada e mandarlo indietro.\n3. Riporta il jo in posizione media controllata verso l’avversario e torna all’inizio.",
+      "sectionTitle": "Kihon individuale"
+    },
+    "zh-Hans": {
+      "title": "缲放",
+      "description": "1. 与缲付相同开始，以杖身中部迎接假想持刀者的手腕。\n2. 收杖破坏对手平衡，然后双手向前上方推出，推开手腕与刀，使对手后退。\n3. 将杖收回指向对手的受控中段位置，回到起始位置。",
+      "sectionTitle": "单人基本"
+    },
+    "ja": {
+      "title": "繰り放し",
+      "description": "1. 繰り付けと同様に、杖の中ほどで仮想の相手の小手に合わせます。\n2. 杖を繰り込んで相手の体勢を崩し、両手を前上方へ押し出して小手と刀を放し、相手を後ろへ押し離します。\n3. 杖を相手に向けた中段の位置に収め、元に戻ります。",
+      "sectionTitle": "単独動作"
+    },
+    "ko": {
+      "title": "구리하나시",
+      "description": "1. 구리쓰케처럼 시작하여 조의 가운데로 가상 검사의 손목을 맞습니다.\n2. 조를 감아 당겨 상대의 균형을 무너뜨린 뒤 두 손을 앞위로 밀어 손목과 칼을 떼어내고 상대를 뒤로 밀어냅니다.\n3. 조를 상대를 향한 통제된 중단 위치로 가져오고 처음으로 돌아갑니다.",
+      "sectionTitle": "단독 기본"
+    },
+    "th": {
+      "title": "คุริฮานาชิ",
+      "description": "1. เริ่มเหมือนคุริสึเกะ โดยใช้กลางไม้โจรับข้อมือของนักดาบสมมติ\n2. ม้วนไม้เข้าเพื่อทำลายสมดุลคู่ต่อสู้ แล้วดันสองมือไปข้างหน้าและขึ้นเพื่อผลักข้อมือและดาบออกและส่งคู่ต่อสู้ถอยไป\n3. นำไม้กลับสู่ตำแหน่งกลางที่ควบคุมได้โดยชี้ไปที่คู่ต่อสู้ แล้วกลับจุดเริ่ม",
+      "sectionTitle": "คิฮงเดี่ยว"
+    },
+    "ru": {
+      "title": "Кури-ханаси",
+      "description": "1. Начните как в кури-цукэ, встречая запястья воображаемого мечника серединой дзё.\n2. Смотайте дзё, чтобы нарушить равновесие противника, затем толкните обеими руками вперёд и вверх, отбрасывая запястья и меч и отправляя противника назад.\n3. Верните дзё в контролируемое среднее положение, направленное на противника, и вернитесь в начало.",
+      "sectionTitle": "Одиночные кихон"
+    },
+    "uk": {
+      "title": "Курі-ханасі",
+      "description": "1. Почніть як у курі-цуке, зустрічаючи зап’ястя уявного мечника серединою дзьо.\n2. Змотайте дзьо, щоб порушити рівновагу суперника, потім штовхніть обома руками вперед і вгору, відкидаючи зап’ястя й меч і відсилаючи суперника назад.\n3. Поверніть дзьо в контрольоване середнє положення, спрямоване на суперника, і поверніться на початок.",
+      "sectionTitle": "Одиночні кіхон"
+    }
+  }
+}

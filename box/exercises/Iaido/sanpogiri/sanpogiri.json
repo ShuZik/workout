@@ -1,0 +1,87 @@
+{
+  "id": "63.8",
+  "key": "iaido_sanpogiri",
+  "title": "Sanpogiri",
+  "description": "1. Advance toward three opponents placed to the right, left, and front, and draw directly into a cut at the opponent on the right.\n2. Turn left, raise the sword, and cut down the left opponent, then turn to the front opponent and finish with a vertical two-handed cut.\n3. Perform chiburi and resheathe while keeping zanshin toward all three directions.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Sanpogiri",
+      "description": "1. Advance toward three opponents placed to the right, left, and front, and draw directly into a cut at the opponent on the right.\n2. Turn left, raise the sword, and cut down the left opponent, then turn to the front opponent and finish with a vertical two-handed cut.\n3. Perform chiburi and resheathe while keeping zanshin toward all three directions.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Sanpogiri",
+      "description": "1. Avanza hacia tres oponentes situados a la derecha, a la izquierda y al frente, y desenvaina directamente con un corte al oponente de la derecha.\n2. Gira a la izquierda, eleva la espada y corta al oponente de la izquierda; luego gira al oponente del frente y termina con un corte vertical a dos manos.\n3. Realiza chiburi y envaina manteniendo zanshin hacia las tres direcciones.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Sanpogiri",
+      "description": "1. Avance em direção a três oponentes posicionados à direita, à esquerda e à frente, e saque diretamente num corte no oponente da direita.\n2. Vire à esquerda, eleve a espada e corte o oponente da esquerda; depois vire para o oponente da frente e termine com um corte vertical a duas mãos.\n3. Faça chiburi e embainhe mantendo zanshin para as três direções.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Sanpogiri",
+      "description": "1. Avancez vers trois adversaires placés à droite, à gauche et devant, et dégainez directement en coupant l’adversaire de droite.\n2. Tournez à gauche, levez le sabre et coupez l’adversaire de gauche, puis tournez-vous vers l’adversaire de face et terminez par une coupe verticale à deux mains.\n3. Effectuez le chiburi et rengainez en gardant le zanshin vers les trois directions.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Sanpogiri",
+      "description": "1. Auf drei Gegner rechts, links und vorn zugehen und direkt in einen Schnitt gegen den rechten Gegner ziehen.\n2. Nach links drehen, das Schwert heben und den linken Gegner niederschneiden, dann zum vorderen Gegner drehen und mit einem senkrechten beidhändigen Schnitt abschließen.\n3. Chiburi ausführen und einstecken, dabei Zanshin in alle drei Richtungen halten.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Sanpogiri",
+      "description": "1. Avanza verso tre avversari posti a destra, a sinistra e di fronte, ed estrai direttamente con un taglio sull’avversario di destra.\n2. Gira a sinistra, alza la spada e taglia l’avversario di sinistra, poi rivolgiti a quello di fronte e concludi con un taglio verticale a due mani.\n3. Esegui chiburi e rinfodera mantenendo lo zanshin verso le tre direzioni.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "三方斩",
+      "description": "1. 向位于右、左、前方的三名对手前进，拔刀直接斩向右侧对手。\n2. 转向左侧，举刀斩落左侧对手，再转向前方对手，以双手竖直斩击收尾。\n3. 振刀并纳刀，对三个方向保持残心。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "三方切り",
+      "description": "1. 右・左・正面の三人の相手に向かって進み、抜くと同時に右の相手へ斬り付けます。\n2. 左へ向き直って振りかぶり左の相手を斬り下ろし、続いて正面の相手へ両手で真っ直ぐ斬り下ろします。\n3. 血振りと納刀を行い、三方へ残心を保ちます。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "산포기리",
+      "description": "1. 오른쪽, 왼쪽, 정면의 세 상대를 향해 나아가며 뽑자마자 오른쪽 상대를 벱니다.\n2. 왼쪽으로 돌아 칼을 들어 왼쪽 상대를 내려 베고, 이어 정면 상대에게 두 손 수직 베기로 마무리합니다.\n3. 치부리하고 칼을 꽂으며 세 방향 모두에 잔심을 유지합니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "ซันโปกิริ",
+      "description": "1. เดินเข้าหาคู่ต่อสู้สามคนที่อยู่ด้านขวา ซ้าย และหน้า แล้วชักดาบฟันคู่ต่อสู้ด้านขวาทันที\n2. หันซ้าย ยกดาบและฟันคู่ต่อสู้ด้านซ้าย จากนั้นหันไปยังคู่ต่อสู้ด้านหน้าและจบด้วยการฟันแนวดิ่งสองมือ\n3. ทำจิบุริและเก็บดาบ โดยคงซันชินไปทั้งสามทิศ",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Сампогири",
+      "description": "1. Двигайтесь к трём противникам справа, слева и спереди и обнажите меч сразу разрезом по правому противнику.\n2. Повернитесь влево, поднимите меч и разрубите левого противника, затем повернитесь к переднему и завершите вертикальным ударом двумя руками.\n3. Выполните тибури и вложите меч, сохраняя дзансин во все три стороны.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Сампогірі",
+      "description": "1. Рухайтеся до трьох суперників праворуч, ліворуч і спереду й оголіть меч одразу розрізом по правому суперникові.\n2. Поверніться ліворуч, підніміть меч і розрубайте лівого суперника, потім поверніться до переднього й завершіть вертикальним ударом двома руками.\n3. Виконайте тібурі й вкладіть меч, зберігаючи дзансін у всі три боки.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

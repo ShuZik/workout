@@ -1,0 +1,87 @@
+{
+  "id": "108.1",
+  "key": "wing_chun",
+  "title": "Wing Chun",
+  "description": "1. Stand in the training stance with the knees bent and turned slightly inward, toes in, and both hands guarding the centreline.\n2. Practise straight centreline punches, tan, bong, and pak hand actions, and short turning and stepping footwork while keeping the elbows down.\n3. Return the hands to the centreline guard after every action and keep the stance stable throughout the interval.",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Wing Chun",
+      "description": "1. Stand in the training stance with the knees bent and turned slightly inward, toes in, and both hands guarding the centreline.\n2. Practise straight centreline punches, tan, bong, and pak hand actions, and short turning and stepping footwork while keeping the elbows down.\n3. Return the hands to the centreline guard after every action and keep the stance stable throughout the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Wing Chun",
+      "description": "1. Colócate en la posición de entrenamiento con las rodillas flexionadas y ligeramente hacia dentro, las puntas de los pies hacia dentro y ambas manos protegiendo la línea central.\n2. Practica puñetazos rectos por la línea central, acciones de mano tan, bong y pak, y juego de pies corto con giros y pasos, manteniendo los codos abajo.\n3. Devuelve las manos a la guardia central después de cada acción y mantén la posición estable durante todo el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Wing Chun",
+      "description": "1. Fique na base de treino com joelhos flexionados e levemente para dentro, pontas dos pés para dentro e as duas mãos guardando a linha central.\n2. Pratique socos retos na linha central, ações de mão tan, bong e pak, e movimentação curta com giros e passos, mantendo os cotovelos baixos.\n3. Volte as mãos à guarda central após cada ação e mantenha a base estável durante todo o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Wing Chun",
+      "description": "1. Placez-vous dans la position d’entraînement, genoux fléchis et légèrement rentrés, pointes de pied vers l’intérieur, les deux mains protégeant la ligne centrale.\n2. Travaillez les coups de poing droits sur la ligne centrale, les actions de main tan, bong et pak, et un jeu de jambes court avec pivots et pas, coudes vers le bas.\n3. Ramenez les mains en garde centrale après chaque action et gardez la position stable pendant tout l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Wing Chun",
+      "description": "1. Stehe im Trainingsstand mit gebeugten, leicht nach innen gedrehten Knien, Zehen nach innen und beiden Händen schützend auf der Mittellinie.\n2. Übe gerade Fauststöße auf der Mittellinie, Tan-, Bong- und Pak-Handaktionen sowie kurze Dreh- und Schrittarbeit, die Ellbogen bleiben unten.\n3. Bringe die Hände nach jeder Aktion zurück in die Mittelliniendeckung und halte den Stand während des gesamten Intervalls stabil.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Wing Chun",
+      "description": "1. Mettiti nella posizione di allenamento con le ginocchia piegate e leggermente rivolte all’interno, le punte dei piedi in dentro e le mani a protezione della linea centrale.\n2. Esercita pugni dritti sulla linea centrale, azioni di mano tan, bong e pak, e brevi spostamenti con rotazioni e passi, tenendo i gomiti bassi.\n3. Riporta le mani alla guardia centrale dopo ogni azione e mantieni la posizione stabile per tutto l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "咏春",
+      "description": "1. 站二字钳羊马：双膝微屈内扣，脚尖内收，双手守住中线。\n2. 练习中线直拳、摊手、膀手、拍手，以及短促的转马和步法，始终保持沉肘。\n3. 每个动作后双手回到中线防守，整个时段保持马步稳定。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "詠春拳",
+      "description": "1. 膝を曲げてやや内側に締め、つま先を内に向け、両手で中心線を守る練習用の構えで立ちます。\n2. 肘を下げたまま、中心線へのまっすぐな突き、攤手・膀手・拍手の手技、短い転身と歩法を練習します。\n3. 各動作の後は両手を中心線の守りに戻し、時間内ずっと構えを安定させます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "영춘권",
+      "description": "1. 무릎을 굽혀 살짝 안쪽으로 모으고 발끝을 안으로 향하게 한 채 두 손으로 중심선을 지키는 수련 자세로 섭니다.\n2. 팔꿈치를 낮춘 채 중심선 직선 주먹, 탄·방·박 손 동작, 짧은 회전과 스텝을 연습합니다.\n3. 각 동작 뒤 손을 중심선 가드로 되돌리고 시간 내내 자세를 안정되게 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "หย่งชุน",
+      "description": "1. ยืนในท่าฝึกโดยงอเข่าและบิดเข้าเล็กน้อย ปลายเท้าชี้เข้า และสองมือป้องกันแนวกึ่งกลาง\n2. ฝึกหมัดตรงตามแนวกึ่งกลาง มือทาน มือบ่ง มือปัก และการหมุนตัวกับก้าวสั้น ๆ โดยรักษาศอกให้ต่ำ\n3. นำมือกลับสู่การ์ดแนวกึ่งกลางหลังทุกท่า และรักษาท่ายืนให้มั่นคงตลอดช่วงเวลา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Вин-чун",
+      "description": "1. Встаньте в тренировочную стойку: колени согнуты и слегка сведены внутрь, носки повёрнуты внутрь, обе руки защищают центральную линию.\n2. Отрабатывайте прямые удары по центральной линии, действия руками тан, бонг и пак, короткие повороты и шаги, держа локти опущенными.\n3. После каждого действия возвращайте руки в защиту центральной линии и сохраняйте стойку устойчивой весь интервал.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Він-чун",
+      "description": "1. Станьте в тренувальну стійку: коліна зігнуті й трохи зведені всередину, носки повернуті всередину, обидві руки захищають центральну лінію.\n2. Відпрацьовуйте прямі удари по центральній лінії, дії руками тан, бонг і пак, короткі повороти й кроки, тримаючи лікті опущеними.\n3. Після кожної дії повертайте руки в захист центральної лінії й зберігайте стійку стабільною весь інтервал.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

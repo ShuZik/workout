@@ -1,0 +1,87 @@
+{
+  "id": "43.8",
+  "key": "aikido_ude_gaeshi",
+  "title": "Ude Gaeshi",
+  "description": "1. As uke reaches, catch uke's forearm from below and raise the arm upward and back.\n2. Step in beside uke and turn the arm over uke's shoulder line so uke's balance moves backward.\n3. Topple uke into a back breakfall and release the arm as uke lands.",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ude Gaeshi",
+      "description": "1. As uke reaches, catch uke's forearm from below and raise the arm upward and back.\n2. Step in beside uke and turn the arm over uke's shoulder line so uke's balance moves backward.\n3. Topple uke into a back breakfall and release the arm as uke lands.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Ude Gaeshi",
+      "description": "1. Cuando uke extienda el brazo, atrapa su antebrazo desde abajo y eleva el brazo hacia arriba y atrás.\n2. Entra junto a uke y gira el brazo por encima de la línea de su hombro para que su equilibrio vaya hacia atrás.\n3. Derriba a uke en una caída hacia atrás y suelta el brazo cuando aterrice.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Ude Gaeshi",
+      "description": "1. Quando uke estender o braço, pegue o antebraço dele por baixo e eleve o braço para cima e para trás.\n2. Entre ao lado de uke e gire o braço por cima da linha do ombro dele para que o equilíbrio vá para trás.\n3. Derrube uke numa queda para trás e solte o braço quando ele cair.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Ude Gaeshi",
+      "description": "1. Quand uke tend le bras, saisissez son avant-bras par en dessous et levez le bras vers le haut et l’arrière.\n2. Entrez à côté de uke et faites passer le bras par-dessus la ligne de son épaule pour porter son équilibre vers l’arrière.\n3. Faites basculer uke dans une chute arrière et relâchez le bras à la réception.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Ude Gaeshi",
+      "description": "1. Greift Uke vor, fange seinen Unterarm von unten und hebe den Arm nach oben und hinten.\n2. Tritt neben Uke und drehe den Arm über seine Schulterlinie, sodass sein Gleichgewicht nach hinten geht.\n3. Kippe Uke in eine Rückwärtsfallschule und löse den Arm bei der Landung.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Ude Gaeshi",
+      "description": "1. Quando uke allunga il braccio, prendi il suo avambraccio da sotto e alza il braccio verso l’alto e indietro.\n2. Entra accanto a uke e ruota il braccio sopra la linea della sua spalla così che il suo equilibrio vada all’indietro.\n3. Fai cadere uke in una caduta all’indietro e lascia il braccio all’atterraggio.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "腕返",
+      "description": "1. 受方伸手时，从下方接住其前臂，把手臂向上向后抬起。\n2. 步入受方身旁，把手臂翻过其肩线，使其重心后移。\n3. 将受方带倒做后倒受身，落地时松开手臂。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "腕返",
+      "description": "1. 受けが手を伸ばしてきたら、下から前腕を捕らえ、腕を上後方へ上げます。\n2. 受けの横へ入り、腕を受けの肩の線の上へ返して重心を後ろへ移します。\n3. 受けを後ろ受身へ倒し、着地したら腕を離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "우데 가에시",
+      "description": "1. 우케가 팔을 뻗으면 아래에서 아래팔을 잡아 팔을 위·뒤로 들어 올립니다.\n2. 우케 옆으로 들어가 팔을 우케의 어깨선 위로 넘겨 균형을 뒤로 옮깁니다.\n3. 우케를 뒤로 넘어뜨려 낙법하게 하고 착지하면 팔을 놓습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "อุเดะกาเอชิ",
+      "description": "1. เมื่ออุเกะยื่นแขนมา จับปลายแขนจากด้านล่างแล้วยกแขนขึ้นและไปด้านหลัง\n2. ก้าวเข้าข้างอุเกะและพลิกแขนข้ามแนวไหล่ ให้สมดุลของอุเกะเคลื่อนไปด้านหลัง\n3. ทำให้อุเกะล้มหงาย และปล่อยแขนเมื่อลงถึงพื้น",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Удэ-гаэси",
+      "description": "1. Когда уке тянется рукой, подхватите его предплечье снизу и поднимите руку вверх и назад.\n2. Войдите рядом с уке и переверните руку через линию его плеча, смещая равновесие назад.\n3. Опрокиньте уке в страховку назад и отпустите руку при приземлении.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Уде-гаесі",
+      "description": "1. Коли уке тягнеться рукою, підхопіть його передпліччя знизу й підніміть руку вгору й назад.\n2. Увійдіть поруч з уке й переверніть руку через лінію його плеча, зміщуючи рівновагу назад.\n3. Перекиньте уке в страховку назад і відпустіть руку під час приземлення.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

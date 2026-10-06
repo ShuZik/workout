@@ -1,0 +1,90 @@
+{
+  "id": "41.40",
+  "key": "judo_kuchiki_taoshi",
+  "title": "Kuchiki Taoshi",
+  "description": "1. Step close and grip the back of one of the partner's legs behind the knee or heel with one hand.\n2. Lift that leg while the other hand drives the partner's upper body backward over the remaining support.\n3. Follow the partner down to a controlled back breakfall and release the leg on landing.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Te-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kuchiki Taoshi",
+      "description": "1. Step close and grip the back of one of the partner's legs behind the knee or heel with one hand.\n2. Lift that leg while the other hand drives the partner's upper body backward over the remaining support.\n3. Follow the partner down to a controlled back breakfall and release the leg on landing.",
+      "sectionTitle": "Te-waza"
+    },
+    "es": {
+      "title": "Kuchiki Taoshi",
+      "description": "1. Acércate y agarra con una mano la parte trasera de una pierna del compañero, detrás de la rodilla o del talón.\n2. Levanta esa pierna mientras la otra mano empuja el tronco del compañero hacia atrás sobre el apoyo restante.\n3. Acompaña al compañero hasta una caída de espaldas controlada y suelta la pierna al aterrizar.",
+      "sectionTitle": "Te-waza"
+    },
+    "pt": {
+      "title": "Kuchiki Taoshi",
+      "description": "1. Aproxime-se e agarre com uma mão a parte de trás de uma perna do parceiro, atrás do joelho ou do calcanhar.\n2. Levante essa perna enquanto a outra mão empurra o tronco do parceiro para trás sobre o apoio restante.\n3. Acompanhe o parceiro até uma queda de costas controlada e solte a perna na aterrissagem.",
+      "sectionTitle": "Te-waza"
+    },
+    "fr": {
+      "title": "Kuchiki Taoshi",
+      "description": "1. Approchez-vous et saisissez d’une main l’arrière d’une jambe du partenaire, derrière le genou ou le talon.\n2. Soulevez cette jambe pendant que l’autre main pousse le haut du corps en arrière par-dessus l’appui restant.\n3. Accompagnez le partenaire jusqu’à une chute arrière contrôlée et lâchez la jambe à la réception.",
+      "sectionTitle": "Te-waza"
+    },
+    "de": {
+      "title": "Kuchiki Taoshi",
+      "description": "1. Tritt nah heran und fasse mit einer Hand die Rückseite eines Beins des Partners hinter Knie oder Ferse.\n2. Hebe dieses Bein an, während die andere Hand den Oberkörper des Partners über die verbleibende Stütze nach hinten drückt.\n3. Begleite den Partner in einen kontrollierten Rückwärtsfall und löse das Bein bei der Landung.",
+      "sectionTitle": "Te-waza"
+    },
+    "it": {
+      "title": "Kuchiki Taoshi",
+      "description": "1. Avvicinati e afferra con una mano il retro di una gamba del compagno, dietro il ginocchio o il tallone.\n2. Solleva quella gamba mentre l’altra mano spinge il busto del compagno all’indietro sopra l’appoggio rimanente.\n3. Accompagna il compagno in una caduta all’indietro controllata e lascia la gamba all’atterraggio.",
+      "sectionTitle": "Te-waza"
+    },
+    "zh-Hans": {
+      "title": "朽木倒",
+      "description": "1. 贴近，用一只手抓住搭档一条腿膝后或脚跟后方。\n2. 抬起这条腿，另一只手把搭档上身向后推过剩余的支撑。\n3. 跟随搭档完成受控后倒，落地时松开腿。",
+      "sectionTitle": "手技"
+    },
+    "ja": {
+      "title": "朽木倒",
+      "description": "1. 近づき、片手で相手の片脚の膝裏またはかかとの後ろを持ちます。\n2. その脚を持ち上げながら、もう一方の手で相手の上体を残った支えの上へ後ろに押します。\n3. 相手を制御された後ろ受身まで導き、着地時に脚を放します。",
+      "sectionTitle": "手技"
+    },
+    "ko": {
+      "title": "구치키 타오시",
+      "description": "1. 가까이 붙어 한 손으로 파트너 한쪽 다리의 무릎 뒤나 뒤꿈치 뒤를 잡습니다.\n2. 그 다리를 들어 올리며 다른 손으로 파트너 상체를 남은 지지 위로 뒤로 밉니다.\n3. 파트너를 통제된 뒤 낙법까지 따라가고 착지할 때 다리를 놓습니다.",
+      "sectionTitle": "손기술"
+    },
+    "th": {
+      "title": "คุจิกิทาโอชิ",
+      "description": "1. เข้าชิดและใช้มือข้างหนึ่งจับด้านหลังขาข้างหนึ่งของคู่ฝึกที่หลังเข่าหรือหลังส้นเท้า\n2. ยกขานั้นขึ้นขณะที่มืออีกข้างดันลำตัวส่วนบนของคู่ฝึกไปด้านหลังข้ามขาที่เหลือ\n3. ตามคู่ฝึกลงจนล้มหงายอย่างควบคุมได้ และปล่อยขาเมื่อลงพื้น",
+      "sectionTitle": "เทวาซะ"
+    },
+    "ru": {
+      "title": "Кутики-таоси",
+      "description": "1. Сблизьтесь и захватите одной рукой ногу партнёра сзади под коленом или за пяткой.\n2. Поднимите эту ногу, другой рукой толкая корпус партнёра назад через оставшуюся опору.\n3. Сопровождайте партнёра до контролируемой страховки на спину и отпустите ногу при приземлении.",
+      "sectionTitle": "Тэ-вадза"
+    },
+    "uk": {
+      "title": "Кутікі-таосі",
+      "description": "1. Зблизьтеся й захопіть однією рукою ногу партнера ззаду під коліном або за п’ятою.\n2. Підніміть цю ногу, іншою рукою штовхаючи тулуб партнера назад через опору, що лишилася.\n3. Супроводжуйте партнера до контрольованої страховки на спину й відпустіть ногу під час приземлення.",
+      "sectionTitle": "Те-вадза"
+    }
+  }
+}

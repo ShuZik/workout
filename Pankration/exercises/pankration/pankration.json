@@ -1,0 +1,90 @@
+{
+  "id": "85.1",
+  "key": "pankration",
+  "title": "Pankration",
+  "description": "1. On a wrestling mat with gloves, shin guards and headgear, take a nearly square stance ready to strike or wrestle.\n2. Combine punches and kicks to permitted targets with takedowns and controlled ground positions, following the current age-category rules.\n3. Use only submissions legal for the age group, release at once on a tap, and reset to standing after each exchange.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "pankration",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pankration",
+      "description": "1. On a wrestling mat with gloves, shin guards and headgear, take a nearly square stance ready to strike or wrestle.\n2. Combine punches and kicks to permitted targets with takedowns and controlled ground positions, following the current age-category rules.\n3. Use only submissions legal for the age group, release at once on a tap, and reset to standing after each exchange.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Pancracio",
+      "description": "1. Sobre un tapiz de lucha, con guantes, espinilleras y casco, adopta una guardia casi de frente lista para golpear o luchar.\n2. Combina golpes y patadas a zonas permitidas con derribos y posiciones controladas en el suelo, según las reglas vigentes de la categoría de edad.\n3. Usa solo sumisiones legales para el grupo de edad, suelta en cuanto haya una palmada y vuelve a ponerte de pie tras cada intercambio.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Pancrácio",
+      "description": "1. Num tapete de luta, com luvas, caneleiras e capacete, assuma uma base quase frontal, pronta para golpear ou lutar.\n2. Combine socos e chutes em alvos permitidos com quedas e posições controladas no chão, seguindo as regras atuais da categoria de idade.\n3. Use apenas finalizações permitidas para a faixa etária, solte logo ao toque e volte a ficar de pé após cada troca.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Pancrace",
+      "description": "1. Sur un tapis de lutte, avec gants, protège-tibias et casque, prenez une garde presque de face, prête à frapper ou à lutter.\n2. Combinez coups de poing et de pied sur les cibles autorisées avec des amenées au sol et des positions au sol contrôlées, selon les règles en vigueur de la catégorie d’âge.\n3. N’utilisez que les soumissions autorisées pour la tranche d’âge, lâchez dès la frappe au sol et revenez debout après chaque échange.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Pankration",
+      "description": "1. Nimm auf einer Ringermatte mit Handschuhen, Schienbeinschonern und Kopfschutz eine fast frontale Stellung ein, bereit zu schlagen oder zu ringen.\n2. Kombiniere Schläge und Tritte auf erlaubte Ziele mit Takedowns und kontrollierten Bodenpositionen nach den aktuellen Altersklassenregeln.\n3. Setze nur für die Altersklasse erlaubte Aufgabegriffe ein, löse sofort beim Abklopfen und stehe nach jedem Austausch wieder auf.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Pancrazio",
+      "description": "1. Su un materassino da lotta, con guanti, parastinchi e caschetto, assumi una guardia quasi frontale pronta a colpire o lottare.\n2. Combina pugni e calci ai bersagli consentiti con atterramenti e posizioni a terra controllate, seguendo le regole attuali della categoria d’età.\n3. Usa solo le sottomissioni consentite per la fascia d’età, lascia subito al battito e torna in piedi dopo ogni scambio.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "潘克拉辛",
+      "description": "1. 在摔跤垫上戴好拳套、护腿和头盔，站成几乎正面的姿势，随时准备打击或摔跤。\n2. 按现行年龄组规则，把对允许部位的拳腿打击与摔倒和可控的地面姿势结合起来。\n3. 只使用该年龄组允许的降服技，对方拍垫立即松开，每次交手后重新站起。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "パンクラチオン",
+      "description": "1. レスリングマット上でグローブ、すね当て、ヘッドギアを着け、打撃にも組みにも移れるほぼ正面向きの構えをとります。\n2. 現行の年齢区分ルールに従い、許可された部位への突きと蹴りに、テイクダウンとコントロールした寝技の体勢を組み合わせます。\n3. その年齢区分で認められた関節技・絞め技だけを使い、タップしたらすぐ放し、攻防ごとに立ち上がって再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "판크라티온",
+      "description": "1. 레슬링 매트 위에서 글러브, 정강이 보호대, 헤드기어를 착용하고 타격과 레슬링 모두 가능한 거의 정면 자세를 잡습니다.\n2. 현행 연령별 규칙에 따라 허용 부위에 대한 펀치와 킥을 테이크다운, 통제된 그라운드 자세와 조합합니다.\n3. 해당 연령대에 허용된 서브미션만 쓰고, 탭하면 즉시 풀며, 교환마다 일어서서 다시 시작합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "แพนเครชั่น",
+      "description": "1. บนเบาะมวยปล้ำ สวมนวม สนับแข้ง และหมวก ยืนเกือบหันหน้าตรง พร้อมโจมตีหรือปล้ำ\n2. ผสมหมัดและเตะไปยังเป้าที่อนุญาตกับการทุ่มและตำแหน่งบนพื้นที่ควบคุม ตามกติกาปัจจุบันของรุ่นอายุ\n3. ใช้เฉพาะท่าล็อกที่อนุญาตในรุ่นอายุนั้น ปล่อยทันทีเมื่อตบเบาะ และลุกยืนใหม่หลังการแลกแต่ละครั้ง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Панкратион",
+      "description": "1. На борцовском ковре в перчатках, щитках и шлеме займите почти фронтальную стойку, готовую к ударам и борьбе.\n2. Сочетайте удары руками и ногами в разрешённые зоны со сваливаниями и контролируемыми позициями в партере по действующим правилам возрастной категории.\n3. Применяйте только разрешённые для возраста болевые и удушающие, отпускайте сразу по хлопку и после каждого обмена возвращайтесь в стойку.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Панкратіон",
+      "description": "1. На борцівському килимі в рукавицях, щитках і шоломі займіть майже фронтальну стійку, готову до ударів і боротьби.\n2. Поєднуйте удари руками й ногами в дозволені зони зі звалюваннями та контрольованими позиціями в партері за чинними правилами вікової категорії.\n3. Застосовуйте лише дозволені для віку больові та задушливі, відпускайте одразу за поплескуванням і після кожного обміну повертайтеся в стійку.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

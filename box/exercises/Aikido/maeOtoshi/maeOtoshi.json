@@ -1,0 +1,87 @@
+{
+  "id": "43.16",
+  "key": "aikido_mae_otoshi",
+  "title": "Mae Otoshi",
+  "description": "1. As uke advances, take uke's wrist and step across in front of uke with your leg beside uke's front foot.\n2. Extend uke's arm forward and down across your body while lowering your hips.\n3. Uke rolls forward over the extended arm into a breakfall; keep the motion smooth and let go as uke rolls.",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Mae Otoshi",
+      "description": "1. As uke advances, take uke's wrist and step across in front of uke with your leg beside uke's front foot.\n2. Extend uke's arm forward and down across your body while lowering your hips.\n3. Uke rolls forward over the extended arm into a breakfall; keep the motion smooth and let go as uke rolls.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Mae Otoshi",
+      "description": "1. Cuando uke avance, toma su muñeca y cruza un paso por delante de uke con tu pierna junto a su pie adelantado.\n2. Extiende el brazo de uke hacia delante y abajo cruzando tu cuerpo mientras bajas la cadera.\n3. Uke rueda hacia delante sobre el brazo extendido en una caída; mantén el movimiento suave y suelta al rodar.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Mae Otoshi",
+      "description": "1. Quando uke avançar, pegue o punho dele e cruze um passo à frente de uke com sua perna ao lado do pé da frente dele.\n2. Estenda o braço de uke para a frente e para baixo cruzando seu corpo enquanto abaixa o quadril.\n3. Uke rola para a frente sobre o braço estendido numa queda; mantenha o movimento suave e solte quando ele rolar.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Mae Otoshi",
+      "description": "1. Quand uke avance, prenez son poignet et passez devant lui, votre jambe à côté de son pied avant.\n2. Étendez le bras de uke vers l’avant et le bas en travers de votre corps en baissant les hanches.\n3. Uke roule vers l’avant par-dessus le bras tendu dans une chute ; gardez un mouvement fluide et lâchez pendant la roulade.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Mae Otoshi",
+      "description": "1. Kommt Uke vor, nimm sein Handgelenk und tritt quer vor ihn, dein Bein neben seinem vorderen Fuß.\n2. Strecke Ukes Arm quer vor deinem Körper nach vorn und unten, während du die Hüfte senkst.\n3. Uke rollt über den gestreckten Arm vorwärts ab; halte die Bewegung weich und lass beim Abrollen los.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Mae Otoshi",
+      "description": "1. Quando uke avanza, prendi il suo polso e passa davanti a lui con la gamba accanto al suo piede avanzato.\n2. Distendi il braccio di uke in avanti e in basso davanti al tuo corpo mentre abbassi le anche.\n3. Uke rotola in avanti sopra il braccio disteso in una caduta; mantieni il movimento fluido e lascia mentre rotola.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "前落",
+      "description": "1. 受方上步时，抓住其手腕，横步到受方前方，你的腿靠在其前脚旁。\n2. 降低髋部，同时把受方手臂横过你身前向前向下伸展。\n3. 受方越过伸展的手臂向前滚翻受身；动作保持流畅，滚翻时松手。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "前落",
+      "description": "1. 受けが前に出たら手首を取り、受けの前を横切るように踏み出して自分の脚を受けの前足の横に置きます。\n2. 腰を落としながら、受けの腕を自分の体の前で前下方へ伸ばします。\n3. 受けは伸ばした腕を越えて前回り受身を取ります。動きを滑らかに保ち、回るときに離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "마에 오토시",
+      "description": "1. 우케가 나오면 손목을 잡고 우케 앞을 가로질러 내 다리를 우케의 앞발 옆에 둡니다.\n2. 엉덩이를 낮추며 우케의 팔을 내 몸 앞을 가로질러 앞아래로 뻗습니다.\n3. 우케는 뻗은 팔을 넘어 전방 회전 낙법을 하며, 동작을 부드럽게 하고 구를 때 놓습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "มาเอะโอโตชิ",
+      "description": "1. เมื่ออุเกะก้าวเข้ามา จับข้อมืออุเกะแล้วก้าวตัดหน้าอุเกะ ให้ขาคุณอยู่ข้างเท้าหน้าของอุเกะ\n2. เหยียดแขนอุเกะไปข้างหน้าและลงพาดหน้าลำตัวคุณ พร้อมลดสะโพก\n3. อุเกะม้วนตัวไปข้างหน้าข้ามแขนที่เหยียด รักษาการเคลื่อนไหวให้ลื่นไหลและปล่อยขณะอุเกะม้วน",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Маэ-отоси",
+      "description": "1. Когда уке идёт вперёд, возьмите его запястье и шагните поперёк перед ним, поставив ногу рядом с его передней стопой.\n2. Вытяните руку уке вперёд и вниз поперёк своего корпуса, опуская таз.\n3. Уке перекатывается вперёд через вытянутую руку в страховку; держите движение плавным и отпустите во время переката.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Мае-отосі",
+      "description": "1. Коли уке йде вперед, візьміть його зап’ястя й ступіть поперек перед ним, поставивши ногу поруч із його передньою стопою.\n2. Витягніть руку уке вперед і вниз поперек свого корпусу, опускаючи таз.\n3. Уке перекочується вперед через витягнуту руку в страховку; тримайте рух плавним і відпустіть під час перекату.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "93.2",
+  "key": "silambam_kadaikambu_veechu",
+  "title": "Kadaikambu Veechu",
+  "description": "1. Hold a full-length training staff in both hands in a stable stance, checking that the whole swing area around you is clear.\n2. Whirl the staff in continuous circles and figure-eights on both sides of the body, turning the wrists and passing it smoothly between the hands.\n3. Add steps forward and back while keeping the rotation even, then slow the staff into the ready position before stopping.",
+  "colorType": "orange",
+  "workoutType": "silambam",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Weapons",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kadaikambu Veechu",
+      "description": "1. Hold a full-length training staff in both hands in a stable stance, checking that the whole swing area around you is clear.\n2. Whirl the staff in continuous circles and figure-eights on both sides of the body, turning the wrists and passing it smoothly between the hands.\n3. Add steps forward and back while keeping the rotation even, then slow the staff into the ready position before stopping.",
+      "sectionTitle": "Weapons"
+    },
+    "es": {
+      "title": "Kadaikambu Veechu",
+      "description": "1. Sujeta un bastón de entrenamiento largo con ambas manos en una postura estable, comprobando que toda la zona de giro esté despejada.\n2. Haz girar el bastón en círculos y ochos continuos a ambos lados del cuerpo, rotando las muñecas y pasándolo con suavidad entre las manos.\n3. Añade pasos adelante y atrás manteniendo la rotación uniforme, y frena el bastón hasta la posición de preparación antes de parar.",
+      "sectionTitle": "Armas"
+    },
+    "pt": {
+      "title": "Kadaikambu Veechu",
+      "description": "1. Segure um bastão de treino longo com as duas mãos numa base estável, verificando se toda a área de giro está livre.\n2. Gire o bastão em círculos e oitos contínuos dos dois lados do corpo, girando os pulsos e passando-o suavemente entre as mãos.\n3. Acrescente passos à frente e atrás mantendo a rotação uniforme e desacelere o bastão até a posição de prontidão antes de parar.",
+      "sectionTitle": "Armas"
+    },
+    "fr": {
+      "title": "Kadaikambu Veechu",
+      "description": "1. Tenez un long bâton d’entraînement à deux mains dans une position stable, en vérifiant que toute la zone de rotation est dégagée.\n2. Faites tourner le bâton en cercles et en huit continus des deux côtés du corps, en tournant les poignets et en le passant souplement d’une main à l’autre.\n3. Ajoutez des pas en avant et en arrière en gardant une rotation régulière, puis ralentissez le bâton jusqu’à la position prête avant de vous arrêter.",
+      "sectionTitle": "Armes"
+    },
+    "de": {
+      "title": "Kadaikambu Veechu",
+      "description": "1. Halte einen langen Trainingsstab mit beiden Händen in stabiler Stellung und prüfe, dass der gesamte Schwungbereich frei ist.\n2. Lasse den Stab in fortlaufenden Kreisen und Achten auf beiden Körperseiten wirbeln, drehe die Handgelenke und übergib ihn fließend von Hand zu Hand.\n3. Füge Schritte vor und zurück hinzu, halte die Drehung gleichmäßig und bremse den Stab vor dem Stoppen in die Bereitschaftsposition ab.",
+      "sectionTitle": "Waffen"
+    },
+    "it": {
+      "title": "Kadaikambu Veechu",
+      "description": "1. Impugna un lungo bastone da allenamento con entrambe le mani in posizione stabile, verificando che tutta l’area di rotazione sia libera.\n2. Fai roteare il bastone in cerchi e otto continui su entrambi i lati del corpo, ruotando i polsi e passandolo fluidamente da una mano all’altra.\n3. Aggiungi passi avanti e indietro mantenendo la rotazione regolare, poi rallenta il bastone fino alla posizione di pronto prima di fermarti.",
+      "sectionTitle": "Armi"
+    },
+    "zh-Hans": {
+      "title": "长棍舞花（Kadaikambu Veechu）",
+      "description": "1. 以稳定姿势双手握全长训练棍，确认周围整个挥舞区域无障碍。\n2. 在身体两侧连续画圆和8字舞棍，转动手腕，棍在两手间顺畅交接。\n3. 加入前后步法并保持旋转均匀，停下前将棍减速收回预备位置。",
+      "sectionTitle": "器械"
+    },
+    "ja": {
+      "title": "カダイカンブ・ヴィーチュ",
+      "description": "1. 長い練習用の棒を両手で持ち安定した構えをとり、振り回す範囲全体に障害物がないことを確認します。\n2. 体の両側で途切れない円と八の字に棒を回し、手首を返しながら両手の間で滑らかに持ち替えます。\n3. 回転を一定に保ったまま前後のステップを加え、止める前に棒を減速させて用意の位置に戻します。",
+      "sectionTitle": "武器"
+    },
+    "ko": {
+      "title": "카다이캄부 비추",
+      "description": "1. 긴 훈련용 봉을 두 손으로 잡고 안정된 자세를 취한 뒤 휘두르는 영역 전체가 비어 있는지 확인합니다.\n2. 몸 양쪽에서 봉을 연속적인 원과 8자로 돌리며 손목을 틀고 두 손 사이로 부드럽게 넘깁니다.\n3. 회전을 고르게 유지하며 앞뒤 스텝을 더하고, 멈추기 전에 봉을 감속해 준비 위치로 가져옵니다.",
+      "sectionTitle": "무기"
+    },
+    "th": {
+      "title": "กะไดกัมบุ วีจุ",
+      "description": "1. จับไม้ฝึกยาวเต็มความยาวด้วยสองมือในท่ายืนมั่นคง และตรวจว่าพื้นที่เหวี่ยงรอบตัวโล่งทั้งหมด\n2. ควงไม้เป็นวงกลมและเลขแปดต่อเนื่องทั้งสองข้างลำตัว หมุนข้อมือและส่งไม้ระหว่างมืออย่างลื่นไหล\n3. เพิ่มการก้าวหน้าและถอยโดยรักษาการหมุนให้สม่ำเสมอ แล้วชะลอไม้กลับสู่ท่าเตรียมก่อนหยุด",
+      "sectionTitle": "อาวุธ"
+    },
+    "ru": {
+      "title": "Кадайкамбу вичу",
+      "description": "1. Держите длинный учебный шест двумя руками в устойчивой стойке, убедившись, что вся зона вращения свободна.\n2. Вращайте шест непрерывными кругами и восьмёрками с обеих сторон тела, поворачивая запястья и плавно передавая его из руки в руку.\n3. Добавьте шаги вперёд и назад, сохраняя равномерное вращение, затем замедлите шест до готовой позиции и остановитесь.",
+      "sectionTitle": "Оружие"
+    },
+    "uk": {
+      "title": "Кадайкамбу вічу",
+      "description": "1. Тримайте довгу навчальну жердину двома руками в стійкій позиції, переконавшись, що вся зона обертання вільна.\n2. Обертайте жердину безперервними колами й вісімками з обох боків тіла, повертаючи зап’ястя та плавно передаючи її з руки в руку.\n3. Додайте кроки вперед і назад, зберігаючи рівномірне обертання, потім сповільніть жердину до готової позиції та зупиніться.",
+      "sectionTitle": "Зброя"
+    }
+  }
+}

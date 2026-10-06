@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "CrossTraining",
+    "id": "23",
+    "icon": "CrossTraining/Icon.png",
+    "symbolName": "figure.cross.training",
+    "title": "CrossFit",
+    "workoutType": "crossTraining",
+    "translations": {
+      "en": {
+        "title": "CrossFit"
+      },
+      "es": {
+        "title": "CrossFit"
+      },
+      "pt": {
+        "title": "CrossFit"
+      },
+      "fr": {
+        "title": "CrossFit"
+      },
+      "de": {
+        "title": "CrossFit"
+      },
+      "it": {
+        "title": "CrossFit"
+      },
+      "zh-Hans": {
+        "title": "CrossFit"
+      },
+      "ja": {
+        "title": "CrossFit"
+      },
+      "ko": {
+        "title": "CrossFit"
+      },
+      "th": {
+        "title": "CrossFit"
+      },
+      "ru": {
+        "title": "CrossFit"
+      },
+      "uk": {
+        "title": "CrossFit"
+      }
+    }
+  },
+  "files": [
+    {
+      "json": "CrossTraining/exercises/crossFit/crossFit.json",
+      "icon": "CrossTraining/exercises/crossFit/Icon.png"
+    },
+    {
+      "icon": "CrossTraining/exercises/airSquat/Icon.png",
+      "json": "CrossTraining/exercises/airSquat/airSquat.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/burpee/Icon.png",
+      "json": "CrossTraining/exercises/burpee/burpee.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/pushUp/Icon.png",
+      "json": "CrossTraining/exercises/pushUp/pushUp.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/jumpRope/Icon.png",
+      "json": "CrossTraining/exercises/jumpRope/jumpRope.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/pullUp/Icon.png",
+      "json": "CrossTraining/exercises/pullUp/pullUp.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/handstandHold/Icon.png",
+      "json": "CrossTraining/exercises/handstandHold/handstandHold.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/barbellDeadlift/Icon.png",
+      "json": "CrossTraining/exercises/barbellDeadlift/barbellDeadlift.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/barbellFrontSquat/Icon.png",
+      "json": "CrossTraining/exercises/barbellFrontSquat/barbellFrontSquat.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/barbellOverheadSquat/Icon.png",
+      "json": "CrossTraining/exercises/barbellOverheadSquat/barbellOverheadSquat.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/barbellShoulderPress/Icon.png",
+      "json": "CrossTraining/exercises/barbellShoulderPress/barbellShoulderPress.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/barbellPushPress/Icon.png",
+      "json": "CrossTraining/exercises/barbellPushPress/barbellPushPress.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/barbellPushJerk/Icon.png",
+      "json": "CrossTraining/exercises/barbellPushJerk/barbellPushJerk.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/kettlebellSwing/Icon.png",
+      "json": "CrossTraining/exercises/kettlebellSwing/kettlebellSwing.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/medicineBallClean/Icon.png",
+      "json": "CrossTraining/exercises/medicineBallClean/medicineBallClean.json"
+    },
+    {
+      "json": "CrossTraining/exercises/sumoDeadliftHighPull/sumoDeadliftHighPull.json",
+      "icon": "CrossTraining/exercises/sumoDeadliftHighPull/Icon.png"
+    },
+    {
+      "json": "CrossTraining/exercises/ringRow/ringRow.json",
+      "icon": "CrossTraining/exercises/ringRow/Icon.png"
+    },
+    {
+      "json": "CrossTraining/exercises/abMatSitUp/abMatSitUp.json",
+      "icon": "CrossTraining/exercises/abMatSitUp/Icon.png"
+    },
+    {
+      "icon": "CrossTraining/exercises/thruster/Icon.png",
+      "json": "CrossTraining/exercises/thruster/thruster.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/powerClean/Icon.png",
+      "json": "CrossTraining/exercises/powerClean/powerClean.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/cleanAndJerk/Icon.png",
+      "json": "CrossTraining/exercises/cleanAndJerk/cleanAndJerk.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/wallBall/Icon.png",
+      "json": "CrossTraining/exercises/wallBall/wallBall.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/boxJump/Icon.png",
+      "json": "CrossTraining/exercises/boxJump/boxJump.json"
+    },
+    {
+      "icon": "CrossTraining/exercises/toesToBar/Icon.png",
+      "json": "CrossTraining/exercises/toesToBar/toesToBar.json"
+    }
+  ]
+}

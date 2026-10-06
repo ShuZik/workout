@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#E6BF00",
+    "colorType": "yellow",
+    "folder": "WingChun",
+    "id": "108",
+    "icon": "WingChun/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Wing Chun",
+    "workoutType": "wingChun",
+    "translations": {
+      "en": {
+        "title": "Wing Chun"
+      },
+      "es": {
+        "title": "Wing Chun"
+      },
+      "pt": {
+        "title": "Wing Chun"
+      },
+      "fr": {
+        "title": "Wing Chun"
+      },
+      "de": {
+        "title": "Wing Chun"
+      },
+      "it": {
+        "title": "Wing Chun"
+      },
+      "zh-Hans": {
+        "title": "咏春拳"
+      },
+      "ja": {
+        "title": "詠春拳"
+      },
+      "ko": {
+        "title": "영춘권"
+      },
+      "th": {
+        "title": "หวิงชุน"
+      },
+      "ru": {
+        "title": "Вин-чун"
+      },
+      "uk": {
+        "title": "Він-чун"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "WingChun/exercises/wingChun/Icon.png",
+      "json": "WingChun/exercises/wingChun/wingChun.json"
+    },
+    {
+      "icon": "WingChun/exercises/siuNimTao/Icon.png",
+      "json": "WingChun/exercises/siuNimTao/siuNimTao.json"
+    },
+    {
+      "icon": "WingChun/exercises/chumKiu/Icon.png",
+      "json": "WingChun/exercises/chumKiu/chumKiu.json"
+    },
+    {
+      "icon": "WingChun/exercises/biuJee/Icon.png",
+      "json": "WingChun/exercises/biuJee/biuJee.json"
+    },
+    {
+      "icon": "WingChun/exercises/mukYanJong/Icon.png",
+      "json": "WingChun/exercises/mukYanJong/mukYanJong.json"
+    },
+    {
+      "icon": "WingChun/exercises/lukDimBoonKwun/Icon.png",
+      "json": "WingChun/exercises/lukDimBoonKwun/lukDimBoonKwun.json"
+    },
+    {
+      "icon": "WingChun/exercises/baatJaamDo/Icon.png",
+      "json": "WingChun/exercises/baatJaamDo/baatJaamDo.json"
+    },
+    {
+      "icon": "WingChun/exercises/danChiSau/Icon.png",
+      "json": "WingChun/exercises/danChiSau/danChiSau.json"
+    },
+    {
+      "icon": "WingChun/exercises/seungChiSau/Icon.png",
+      "json": "WingChun/exercises/seungChiSau/seungChiSau.json"
+    },
+    {
+      "icon": "WingChun/exercises/chiGerk/Icon.png",
+      "json": "WingChun/exercises/chiGerk/chiGerk.json"
+    }
+  ]
+}

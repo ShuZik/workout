@@ -1,0 +1,257 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "Karate",
+    "id": "40",
+    "icon": "Karate/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Karate",
+    "workoutType": "karate",
+    "translations": {
+      "en": {
+        "title": "Karate"
+      },
+      "es": {
+        "title": "Karate"
+      },
+      "pt": {
+        "title": "Caratê"
+      },
+      "fr": {
+        "title": "Karaté"
+      },
+      "de": {
+        "title": "Karate"
+      },
+      "it": {
+        "title": "Karate"
+      },
+      "zh-Hans": {
+        "title": "空手道"
+      },
+      "ja": {
+        "title": "空手道"
+      },
+      "ko": {
+        "title": "가라테"
+      },
+      "th": {
+        "title": "คาราเต้"
+      },
+      "ru": {
+        "title": "Карате"
+      },
+      "uk": {
+        "title": "Карате"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Karate/exercises/karate/Icon.png",
+      "json": "Karate/exercises/karate/karate.json"
+    },
+    {
+      "icon": "Karate/exercises/fightingStance/Icon.png",
+      "json": "Karate/exercises/fightingStance/fightingStance.json"
+    },
+    {
+      "icon": "Karate/exercises/zenkutsuDachi/Icon.png",
+      "json": "Karate/exercises/zenkutsuDachi/zenkutsuDachi.json"
+    },
+    {
+      "icon": "Karate/exercises/kibaDachi/Icon.png",
+      "json": "Karate/exercises/kibaDachi/kibaDachi.json"
+    },
+    {
+      "icon": "Karate/exercises/kokutsuDachi/Icon.png",
+      "json": "Karate/exercises/kokutsuDachi/kokutsuDachi.json"
+    },
+    {
+      "icon": "Karate/exercises/oiZuki/Icon.png",
+      "json": "Karate/exercises/oiZuki/oiZuki.json"
+    },
+    {
+      "icon": "Karate/exercises/gyakuZuki/Icon.png",
+      "json": "Karate/exercises/gyakuZuki/gyakuZuki.json"
+    },
+    {
+      "icon": "Karate/exercises/kizamiZuki/Icon.png",
+      "json": "Karate/exercises/kizamiZuki/kizamiZuki.json"
+    },
+    {
+      "icon": "Karate/exercises/urakenUchi/Icon.png",
+      "json": "Karate/exercises/urakenUchi/urakenUchi.json"
+    },
+    {
+      "icon": "Karate/exercises/ageUke/Icon.png",
+      "json": "Karate/exercises/ageUke/ageUke.json"
+    },
+    {
+      "icon": "Karate/exercises/sotoUke/Icon.png",
+      "json": "Karate/exercises/sotoUke/sotoUke.json"
+    },
+    {
+      "icon": "Karate/exercises/uchiUke/Icon.png",
+      "json": "Karate/exercises/uchiUke/uchiUke.json"
+    },
+    {
+      "icon": "Karate/exercises/gedanBarai/Icon.png",
+      "json": "Karate/exercises/gedanBarai/gedanBarai.json"
+    },
+    {
+      "icon": "Karate/exercises/shutoUke/Icon.png",
+      "json": "Karate/exercises/shutoUke/shutoUke.json"
+    },
+    {
+      "icon": "Karate/exercises/maeGeri/Icon.png",
+      "json": "Karate/exercises/maeGeri/maeGeri.json"
+    },
+    {
+      "icon": "Karate/exercises/mawashiGeri/Icon.png",
+      "json": "Karate/exercises/mawashiGeri/mawashiGeri.json"
+    },
+    {
+      "icon": "Karate/exercises/yokoGeri/Icon.png",
+      "json": "Karate/exercises/yokoGeri/yokoGeri.json"
+    },
+    {
+      "icon": "Karate/exercises/ushiroGeri/Icon.png",
+      "json": "Karate/exercises/ushiroGeri/ushiroGeri.json"
+    },
+    {
+      "icon": "Karate/exercises/hizaGeri/Icon.png",
+      "json": "Karate/exercises/hizaGeri/hizaGeri.json"
+    },
+    {
+      "icon": "Karate/exercises/kihonFlow/Icon.png",
+      "json": "Karate/exercises/kihonFlow/kihonFlow.json"
+    },
+    {
+      "json": "Karate/exercises/chokuZuki/chokuZuki.json",
+      "icon": "Karate/exercises/chokuZuki/Icon.png"
+    },
+    {
+      "json": "Karate/exercises/empiUchiEnpi/empiUchiEnpi.json",
+      "icon": "Karate/exercises/empiUchiEnpi/Icon.png"
+    },
+    {
+      "json": "Karate/exercises/tettsuiUchi/tettsuiUchi.json",
+      "icon": "Karate/exercises/tettsuiUchi/Icon.png"
+    },
+    {
+      "json": "Karate/exercises/shoteiUchi/shoteiUchi.json",
+      "icon": "Karate/exercises/shoteiUchi/Icon.png"
+    },
+    {
+      "icon": "Karate/exercises/heianShodan/Icon.png",
+      "json": "Karate/exercises/heianShodan/heianShodan.json"
+    },
+    {
+      "icon": "Karate/exercises/heianNidan/Icon.png",
+      "json": "Karate/exercises/heianNidan/heianNidan.json"
+    },
+    {
+      "icon": "Karate/exercises/heianSandan/Icon.png",
+      "json": "Karate/exercises/heianSandan/heianSandan.json"
+    },
+    {
+      "icon": "Karate/exercises/heianYondan/Icon.png",
+      "json": "Karate/exercises/heianYondan/heianYondan.json"
+    },
+    {
+      "icon": "Karate/exercises/heianGodan/Icon.png",
+      "json": "Karate/exercises/heianGodan/heianGodan.json"
+    },
+    {
+      "icon": "Karate/exercises/tekkiShodan/Icon.png",
+      "json": "Karate/exercises/tekkiShodan/tekkiShodan.json"
+    },
+    {
+      "icon": "Karate/exercises/tekkiNidan/Icon.png",
+      "json": "Karate/exercises/tekkiNidan/tekkiNidan.json"
+    },
+    {
+      "icon": "Karate/exercises/tekkiSandan/Icon.png",
+      "json": "Karate/exercises/tekkiSandan/tekkiSandan.json"
+    },
+    {
+      "icon": "Karate/exercises/bassaiDai/Icon.png",
+      "json": "Karate/exercises/bassaiDai/bassaiDai.json"
+    },
+    {
+      "icon": "Karate/exercises/kankuDai/Icon.png",
+      "json": "Karate/exercises/kankuDai/kankuDai.json"
+    },
+    {
+      "icon": "Karate/exercises/enpi/Icon.png",
+      "json": "Karate/exercises/enpi/enpi.json"
+    },
+    {
+      "icon": "Karate/exercises/jion/Icon.png",
+      "json": "Karate/exercises/jion/jion.json"
+    },
+    {
+      "icon": "Karate/exercises/jitte/Icon.png",
+      "json": "Karate/exercises/jitte/jitte.json"
+    },
+    {
+      "icon": "Karate/exercises/hangetsu/Icon.png",
+      "json": "Karate/exercises/hangetsu/hangetsu.json"
+    },
+    {
+      "icon": "Karate/exercises/gankaku/Icon.png",
+      "json": "Karate/exercises/gankaku/gankaku.json"
+    },
+    {
+      "icon": "Karate/exercises/bassaiSho/Icon.png",
+      "json": "Karate/exercises/bassaiSho/bassaiSho.json"
+    },
+    {
+      "icon": "Karate/exercises/kankuSho/Icon.png",
+      "json": "Karate/exercises/kankuSho/kankuSho.json"
+    },
+    {
+      "icon": "Karate/exercises/chinte/Icon.png",
+      "json": "Karate/exercises/chinte/chinte.json"
+    },
+    {
+      "icon": "Karate/exercises/unsu/Icon.png",
+      "json": "Karate/exercises/unsu/unsu.json"
+    },
+    {
+      "icon": "Karate/exercises/meikyo/Icon.png",
+      "json": "Karate/exercises/meikyo/meikyo.json"
+    },
+    {
+      "icon": "Karate/exercises/wankan/Icon.png",
+      "json": "Karate/exercises/wankan/wankan.json"
+    },
+    {
+      "icon": "Karate/exercises/sochin/Icon.png",
+      "json": "Karate/exercises/sochin/sochin.json"
+    },
+    {
+      "icon": "Karate/exercises/nijushiho/Icon.png",
+      "json": "Karate/exercises/nijushiho/nijushiho.json"
+    },
+    {
+      "icon": "Karate/exercises/gojushihoDai/Icon.png",
+      "json": "Karate/exercises/gojushihoDai/gojushihoDai.json"
+    },
+    {
+      "icon": "Karate/exercises/gojushihoSho/Icon.png",
+      "json": "Karate/exercises/gojushihoSho/gojushihoSho.json"
+    },
+    {
+      "icon": "Karate/exercises/taikyokuShodan/Icon.png",
+      "json": "Karate/exercises/taikyokuShodan/taikyokuShodan.json"
+    },
+    {
+      "icon": "Karate/exercises/jiin/Icon.png",
+      "json": "Karate/exercises/jiin/jiin.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "11.19",
+  "key": "cross_country_skiing",
+  "title": "Cross-Country Skiing",
+  "description": "1. Stand centered over parallel skis with knees and ankles softly bent and poles angled behind.\n2. Shift weight fully onto one ski and glide as the opposite leg and arm move forward.\n3. Push through the pole and ski, recover underneath the body, and alternate sides without crossing the skis.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6.8,
+    "moderate": 8.5,
+    "vigorous": 11.3,
+    "lightCode": "19080",
+    "moderateCode": "19090",
+    "vigorousCode": "19100"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Outdoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Cross-Country Skiing",
+      "description": "1. Stand centered over parallel skis with knees and ankles softly bent and poles angled behind.\n2. Shift weight fully onto one ski and glide as the opposite leg and arm move forward.\n3. Push through the pole and ski, recover underneath the body, and alternate sides without crossing the skis.",
+      "sectionTitle": "Outdoor"
+    },
+    "es": {
+      "title": "Esquí de fondo",
+      "description": "1. Colócate centrado sobre los esquís paralelos, con rodillas y tobillos ligeramente flexionados y los bastones inclinados hacia atrás.\n2. Traslada todo el peso a un esquí y deslízate mientras la pierna y el brazo contrarios avanzan.\n3. Impúlsate con el bastón y el esquí, recupera la posición bajo el cuerpo y alterna los lados sin cruzar los esquís.",
+      "sectionTitle": "Al aire libre"
+    },
+    "pt": {
+      "title": "Esqui de fundo",
+      "description": "1. Fique centralizado sobre os esquis paralelos, com joelhos e tornozelos levemente flexionados e os bastões inclinados para trás.\n2. Transfira todo o peso para um esqui e deslize enquanto a perna e o braço opostos avançam.\n3. Impulsione-se com o bastão e o esqui, retorne à posição sob o corpo e alterne os lados sem cruzar os esquis.",
+      "sectionTitle": "Ao ar livre"
+    },
+    "fr": {
+      "title": "Ski de fond",
+      "description": "1. Placez-vous au centre des skis parallèles, les genoux et les chevilles légèrement fléchis, les bâtons inclinés vers l’arrière.\n2. Transférez tout le poids sur un ski et glissez pendant que la jambe et le bras opposés avancent.\n3. Poussez sur le bâton et le ski, ramenez-les sous le corps et alternez les côtés sans croiser les skis.",
+      "sectionTitle": "En plein air"
+    },
+    "de": {
+      "title": "Skilanglauf",
+      "description": "1. Stehe mittig über parallelen Skiern, mit leicht gebeugten Knien und Knöcheln und nach hinten geneigten Stöcken.\n2. Verlagere das Gewicht vollständig auf einen Ski und gleite, während das gegenüberliegende Bein und der Arm nach vorn gehen.\n3. Drücke dich über Stock und Ski ab, führe sie unter den Körper zurück und wechsle die Seiten, ohne die Skier zu kreuzen.",
+      "sectionTitle": "Im Freien"
+    },
+    "it": {
+      "title": "Sci di fondo",
+      "description": "1. Stai centrato sugli sci paralleli, con ginocchia e caviglie leggermente piegate e i bastoncini inclinati indietro.\n2. Trasferisci tutto il peso su uno sci e scivola mentre la gamba e il braccio opposti avanzano.\n3. Spingi con il bastoncino e lo sci, riportali sotto il corpo e alterna i lati senza incrociare gli sci.",
+      "sectionTitle": "All’aperto"
+    },
+    "zh-Hans": {
+      "title": "越野滑雪",
+      "description": "1. 重心居中站在平行的雪板上，膝盖和脚踝微屈，雪杖向后倾斜。\n2. 将重心完全移到一块雪板上滑行，同时另一侧腿和手臂向前移动。\n3. 通过雪杖和雪板蹬推，再收回身体下方，交替两侧，不要交叉雪板。",
+      "sectionTitle": "户外"
+    },
+    "ja": {
+      "title": "クロスカントリースキー",
+      "description": "1. 平行なスキー板の中央に立ち、膝と足首を軽く曲げ、ポールを後ろへ傾けます。\n2. 片方の板へ完全に体重を移して滑り、反対の脚と腕を前へ出します。\n3. ポールと板で押し出し、体の下へ戻して左右を交互に動かします。板を交差させないでください。",
+      "sectionTitle": "屋外"
+    },
+    "ko": {
+      "title": "크로스컨트리 스키",
+      "description": "1. 평행한 스키 위에 중심을 두고 서서 무릎과 발목을 살짝 굽히고 폴을 뒤로 기울입니다.\n2. 한쪽 스키로 체중을 완전히 옮겨 미끄러지며 반대쪽 다리와 팔을 앞으로 움직입니다.\n3. 폴과 스키로 밀고 몸 아래로 회수하며 스키를 교차하지 않고 양쪽을 번갈아 움직입니다.",
+      "sectionTitle": "야외"
+    },
+    "th": {
+      "title": "สกีครอสคันทรี",
+      "description": "1. ยืนให้ลำตัวอยู่กึ่งกลางเหนือสกีที่ขนานกัน งอเข่าและข้อเท้าเล็กน้อย และเอียงไม้สกีไปด้านหลัง\n2. ถ่ายน้ำหนักทั้งหมดไปยังสกีข้างหนึ่งแล้วไถล ขณะขาและแขนด้านตรงข้ามเคลื่อนไปข้างหน้า\n3. ดันด้วยไม้และสกี ดึงกลับมาใต้ลำตัว และสลับข้างโดยไม่ไขว้สกี",
+      "sectionTitle": "กลางแจ้ง"
+    },
+    "ru": {
+      "title": "Беговые лыжи",
+      "description": "1. Встаньте по центру над параллельными лыжами, слегка согнув колени и голеностопы, наклонив палки назад.\n2. Полностью перенесите вес на одну лыжу и скользите, пока противоположные нога и рука движутся вперёд.\n3. Оттолкнитесь палкой и лыжей, верните их под тело и чередуйте стороны, не скрещивая лыжи.",
+      "sectionTitle": "На открытом воздухе"
+    },
+    "uk": {
+      "title": "Бігові лижі",
+      "description": "1. Станьте по центру над паралельними лижами, злегка зігнувши коліна й гомілковостопні суглоби та нахиливши палиці назад.\n2. Повністю перенесіть вагу на одну лижу й ковзайте, поки протилежні нога та рука рухаються вперед.\n3. Відштовхніться палицею й лижею, поверніть їх під тіло та чергуйте боки, не схрещуючи лижі.",
+      "sectionTitle": "Надворі"
+    }
+  }
+}

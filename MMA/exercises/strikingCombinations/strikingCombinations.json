@@ -1,0 +1,90 @@
+{
+  "id": "4.31",
+  "key": "mma_striking_combinations",
+  "title": "Striking Combinations",
+  "description": "1. From MMA stance, choose a two- to four-strike sequence that mixes punches with a kick or a level change.\n2. Throw the sequence on a bag, pads held by a partner, or in shadow, letting each strike set up the next without crossing the feet.\n3. Finish every combination balanced, with the hands high and the hips ready to sprawl, then reset distance before the next one.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Striking",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Striking Combinations",
+      "description": "1. From MMA stance, choose a two- to four-strike sequence that mixes punches with a kick or a level change.\n2. Throw the sequence on a bag, pads held by a partner, or in shadow, letting each strike set up the next without crossing the feet.\n3. Finish every combination balanced, with the hands high and the hips ready to sprawl, then reset distance before the next one.",
+      "sectionTitle": "Striking"
+    },
+    "es": {
+      "title": "Combinaciones de golpeo",
+      "description": "1. Desde la guardia de MMA, elige una secuencia de dos a cuatro golpes que mezcle puños con una patada o un cambio de nivel.\n2. Lanza la secuencia al saco, a las manoplas de un compañero o en sombra, dejando que cada golpe prepare el siguiente sin cruzar los pies.\n3. Termina cada combinación equilibrado, con las manos altas y la cadera lista para el sprawl, y recupera la distancia antes de la siguiente.",
+      "sectionTitle": "Golpeo"
+    },
+    "pt": {
+      "title": "Combinações de golpes",
+      "description": "1. Da base de MMA, escolha uma sequência de dois a quatro golpes que misture socos com um chute ou uma troca de nível.\n2. Execute a sequência no saco, nas manoplas de um parceiro ou na sombra, deixando cada golpe preparar o seguinte sem cruzar os pés.\n3. Termine cada combinação equilibrado, mãos altas e quadril pronto para o sprawl, e reajuste a distância antes da próxima.",
+      "sectionTitle": "Trocação"
+    },
+    "fr": {
+      "title": "Enchaînements de frappes",
+      "description": "1. Depuis la garde MMA, choisissez une séquence de deux à quatre frappes mêlant coups de poing et un coup de pied ou un changement de niveau.\n2. Exécutez-la au sac, sur les pattes tenues par un partenaire ou dans le vide, chaque frappe préparant la suivante sans croiser les pieds.\n3. Terminez chaque enchaînement équilibré, mains hautes et hanches prêtes au sprawl, puis reprenez la distance avant le suivant.",
+      "sectionTitle": "Frappe"
+    },
+    "de": {
+      "title": "Schlagkombinationen",
+      "description": "1. Wähle aus der MMA-Stellung eine Folge aus zwei bis vier Techniken, die Schläge mit einem Tritt oder einem Ebenenwechsel mischt.\n2. Führe sie am Sack, an Pratzen eines Partners oder als Schattenarbeit aus; jede Technik bereitet die nächste vor, ohne die Füße zu kreuzen.\n3. Beende jede Kombination ausbalanciert, Hände oben und Hüfte bereit zum Sprawl, und stelle vor der nächsten die Distanz neu ein.",
+      "sectionTitle": "Schlagtechnik"
+    },
+    "it": {
+      "title": "Combinazioni di colpi",
+      "description": "1. Dalla guardia MMA, scegli una sequenza da due a quattro colpi che unisca pugni a un calcio o a un cambio di livello.\n2. Esegui la sequenza al sacco, ai colpitori di un compagno o a vuoto, facendo preparare a ogni colpo il successivo senza incrociare i piedi.\n3. Chiudi ogni combinazione in equilibrio, mani alte e anche pronte allo sprawl, poi riprendi la distanza prima della successiva.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "打击组合",
+      "description": "1. 从综合格斗站姿选择两到四击的组合，将拳法与一次踢腿或降低重心结合。\n2. 在沙袋、同伴手靶或空击中完成组合，让每一击为下一击做铺垫，双脚不交叉。\n3. 每组结束时保持平衡、双手抬高、髋部随时准备防摔，然后重新调整距离再开始下一组。",
+      "sectionTitle": "打击"
+    },
+    "ja": {
+      "title": "打撃コンビネーション",
+      "description": "1. MMAの構えから、パンチに蹴りかレベルチェンジを混ぜた2〜4発の連係を選びます。\n2. サンドバッグ、パートナーのミット、またはシャドーで連係を打ち、足を交差させずに各打撃で次を組み立てます。\n3. 毎回バランスを保ち、両手を高く腰はスプロールに備えて終え、距離を取り直してから次へ進みます。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "타격 콤비네이션",
+      "description": "1. MMA 자세에서 펀치에 킥이나 레벨 체인지를 섞은 2~4타 연속 동작을 고릅니다.\n2. 샌드백, 파트너 미트, 또는 섀도로 연속 동작을 치며 발을 교차하지 않고 각 타격이 다음 타격을 이끌게 합니다.\n3. 매 콤비네이션을 균형 잡힌 채 두 손은 높이, 엉덩이는 스프롤할 준비로 마치고 다음 전에 거리를 다시 잡습니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ชุดคอมโบการโจมตี",
+      "description": "1. จากท่ายืน MMA เลือกชุดการโจมตี 2–4 จังหวะที่ผสมหมัดกับการเตะหรือการย่อตัวเปลี่ยนระดับ\n2. ออกชุดนี้กับกระสอบ เป้ามือของคู่ หรือชกลม ให้แต่ละจังหวะส่งต่อไปจังหวะถัดไปโดยไม่ไขว้เท้า\n3. จบทุกชุดอย่างสมดุล มือสูง สะโพกพร้อมสปรอว์ล แล้วจัดระยะใหม่ก่อนชุดต่อไป",
+      "sectionTitle": "การโจมตี"
+    },
+    "ru": {
+      "title": "Ударные комбинации",
+      "description": "1. Из стойки ММА выберите связку из двух-четырёх действий, сочетающую удары руками с ударом ногой или сменой уровня.\n2. Выполните её на мешке, на лапах партнёра или в бою с тенью, чтобы каждый удар подготавливал следующий, не скрещивая ноги.\n3. Завершайте каждую комбинацию в равновесии, с высокими руками и готовностью к спролу, затем восстановите дистанцию перед следующей.",
+      "sectionTitle": "Ударная техника"
+    },
+    "uk": {
+      "title": "Ударні комбінації",
+      "description": "1. Зі стійки ММА оберіть зв’язку з двох-чотирьох дій, що поєднує удари руками з ударом ногою або зміною рівня.\n2. Виконайте її на мішку, на лапах партнера або в бою з тінню, щоб кожен удар готував наступний, не схрещуючи ноги.\n3. Завершуйте кожну комбінацію в рівновазі, з високими руками й готовністю до спролу, потім відновіть дистанцію перед наступною.",
+      "sectionTitle": "Ударна техніка"
+    }
+  }
+}

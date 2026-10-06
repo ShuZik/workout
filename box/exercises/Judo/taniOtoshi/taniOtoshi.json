@@ -1,0 +1,87 @@
+{
+  "id": "41.73",
+  "key": "judo_tani_otoshi",
+  "title": "Tani Otoshi",
+  "description": "1. Push the partner's weight back onto the heels at a rear corner.\n2. Slide your leg behind both of the partner's heels and drop to your side next to the partner.\n3. Pull the partner backward into the space behind the heels, guiding a back breakfall without landing on the partner.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tani Otoshi",
+      "description": "1. Push the partner's weight back onto the heels at a rear corner.\n2. Slide your leg behind both of the partner's heels and drop to your side next to the partner.\n3. Pull the partner backward into the space behind the heels, guiding a back breakfall without landing on the partner.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Tani Otoshi",
+      "description": "1. Empuja el peso del compañero hacia atrás sobre los talones en una esquina trasera.\n2. Desliza tu pierna por detrás de ambos talones del compañero y déjate caer de lado junto a él.\n3. Tira del compañero hacia atrás al espacio detrás de los talones, guiando una caída de espaldas sin caer sobre él.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Tani Otoshi",
+      "description": "1. Empurre o peso do parceiro para trás sobre os calcanhares em um canto traseiro.\n2. Deslize sua perna por trás de ambos os calcanhares do parceiro e caia de lado ao lado dele.\n3. Puxe o parceiro para trás para o espaço atrás dos calcanhares, guiando uma queda de costas sem cair sobre ele.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Tani Otoshi",
+      "description": "1. Repoussez le poids du partenaire sur les talons vers un coin arrière.\n2. Glissez votre jambe derrière ses deux talons et laissez-vous tomber sur le côté à côté de lui.\n3. Tirez le partenaire en arrière dans l’espace derrière les talons, en guidant une chute arrière sans tomber sur lui.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Tani Otoshi",
+      "description": "1. Schiebe das Gewicht des Partners an einer hinteren Ecke auf die Fersen.\n2. Schiebe dein Bein hinter beide Fersen des Partners und lass dich neben ihm auf die Seite fallen.\n3. Ziehe den Partner rückwärts in den Raum hinter den Fersen und führe einen Rückwärtsfall, ohne auf ihn zu fallen.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Tani Otoshi",
+      "description": "1. Spingi il peso del compagno all’indietro sui talloni verso un angolo posteriore.\n2. Fai scivolare la gamba dietro entrambi i suoi talloni e lasciati cadere di lato accanto a lui.\n3. Tira il compagno all’indietro nello spazio dietro i talloni, guidando una caduta all’indietro senza cadergli addosso.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "谷落",
+      "description": "1. 把搭档重心推到后角的脚跟上。\n2. 腿滑到搭档两脚跟后方，在其身旁侧身倒下。\n3. 把搭档向后拉进脚跟后方的空间，引导其后倒，不要倒在其身上。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "谷落",
+      "description": "1. 相手の体重を後隅のかかとへ押します。\n2. 自分の脚を相手の両かかとの後ろへ滑り込ませ、相手の横に横向きに倒れます。\n3. 相手をかかとの後ろの空間へ後ろに引き落とし、上に倒れ込まず後ろ受身へ導きます。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "타니 오토시",
+      "description": "1. 파트너 체중을 뒤 모서리 쪽 뒤꿈치로 밀어 보냅니다.\n2. 내 다리를 파트너 두 뒤꿈치 뒤로 미끄러뜨리고 파트너 옆으로 넘어집니다.\n3. 파트너를 뒤꿈치 뒤 공간으로 끌어 넘어뜨리고 위로 쓰러지지 않으며 뒤 낙법을 이끕니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "ทานิโอโตชิ",
+      "description": "1. ดันน้ำหนักคู่ฝึกไปที่ส้นเท้าทางมุมด้านหลัง\n2. สไลด์ขาของคุณไปด้านหลังส้นเท้าทั้งสองของคู่ฝึก แล้วล้มตะแคงข้างคู่ฝึก\n3. ดึงคู่ฝึกไปด้านหลังเข้าสู่พื้นที่หลังส้นเท้า นำให้ล้มหงายโดยไม่ล้มทับ",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Тани-отоси",
+      "description": "1. Переведите вес партнёра назад на пятки к заднему углу.\n2. Проскользните ногой за обе пятки партнёра и упадите на бок рядом с ним.\n3. Утяните партнёра назад в пространство за пятками, направляя страховку на спину и не падая на него.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Тані-отосі",
+      "description": "1. Переведіть вагу партнера назад на п’яти до заднього кута.\n2. Прослизніть ногою за обидві п’яти партнера й упадіть на бік поруч із ним.\n3. Потягніть партнера назад у простір за п’ятами, спрямовуючи страховку на спину й не падаючи на нього.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

@@ -415,3 +415,56 @@ The final response must state the cause or requested outcome, files changed,
 anything removed or rewritten, checks that passed, and any remaining
 limitation. Do not claim a build, test, or visual check that was not actually
 run. Do not commit or push unless the user explicitly asks.
+
+## Localization contract for app 1.1.7 and later
+
+This section supersedes the older app-version and allowed-field rules only for
+localization. Preserve all existing identifiers, keys, paths, media, numeric
+parameters, section ordering, and availability boundaries.
+
+The four product manifests are `box/manifest.json`, `fitness/manifest.json`,
+`gym/manifest.json`, and `Yoga/manifest.json`. Localized manifests use
+`schemaVersion: 3` and `minimumAppVersion: "1.1.7"`. Localized ready-made
+workouts use `schemaVersion: 2`. The published `stop/1.1.6` tag is immutable:
+never move or delete it. It freezes the compatible schema-2 product catalogs.
+
+Required languages for every product are `en`, `es`, `pt`, `fr`, `de`, `it`,
+`zh-Hans`, `ja`, `ko`, `th`, `ru`, and `uk`. Every new or changed record must
+include complete translations immediately, in the same edit. Never publish
+English text copied into another language as a placeholder. Translate the
+complete existing instructions, preserving steps, numbers, quantities, safety
+cues, and exercise terminology. Russian and Ukrainian are distinct languages.
+
+Keep top-level `title`, `description`, and other existing text fields in
+English. Add one `translations` object keyed by language code. Each language
+contains the same relevant text fields:
+
+- exercise: `title`, `description`, plus `subtitle` when present and
+  `sectionTitle` when its section has a visible title;
+- manifest tag: `title`;
+- ready-made workout: `title`, `description`.
+
+`sectionTitle` is the visible label without the numeric ordering prefix.
+Do not translate technical keys, ids, workoutType, valueType, state, paths,
+symbol names, or enum values. Translate identical shared source text once and
+reuse the translation across products; do not merge records with different
+instructions merely because their titles match. Keep translations in JSON;
+do not create exercise Markdown files.
+
+Example shape (other required languages omitted here for brevity only):
+
+```json
+"translations": {
+  "en": {"title": "Jab", "description": "A straight punch with the lead hand."},
+  "ru": {"title": "Джеб", "description": "Прямой удар передней рукой."},
+  "uk": {"title": "Джеб", "description": "Прямий удар передньою рукою."},
+  "th": {"title": "หมัดแย็บ", "description": "หมัดตรงด้วยมือหน้า"}
+}
+```
+
+When any English source text changes, update that field in all twelve language
+entries before finishing. English translation fields must match the original
+English fields exactly. Missing translation at runtime falls back per field
+to English; this fallback does not make an incomplete authored record valid.
+Before publishing verify language and field completeness, valid JSON, intact
+ids/parameters/media, compatible stop-tag contents, and app 1.1.7 decoding.

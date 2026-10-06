@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#AF6ED7",
+    "colorType": "violet",
+    "folder": "Meditation",
+    "id": "19",
+    "icon": "Meditation/Icon.png",
+    "symbolName": "figure.mind.and.body",
+    "title": "Meditation",
+    "workoutType": "meditation",
+    "translations": {
+      "en": {
+        "title": "Meditation"
+      },
+      "es": {
+        "title": "Meditación"
+      },
+      "pt": {
+        "title": "Meditação"
+      },
+      "fr": {
+        "title": "Méditation"
+      },
+      "de": {
+        "title": "Meditation"
+      },
+      "it": {
+        "title": "Meditazione"
+      },
+      "zh-Hans": {
+        "title": "冥想"
+      },
+      "ja": {
+        "title": "瞑想"
+      },
+      "ko": {
+        "title": "명상"
+      },
+      "th": {
+        "title": "การทำสมาธิ"
+      },
+      "ru": {
+        "title": "Медитация"
+      },
+      "uk": {
+        "title": "Медитація"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Meditation/exercises/meditation/Icon.png",
+      "json": "Meditation/exercises/meditation/meditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/breathMeditation/Icon.png",
+      "json": "Meditation/exercises/breathMeditation/breathMeditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/sleepMeditation/Icon.png",
+      "json": "Meditation/exercises/sleepMeditation/sleepMeditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/soundMeditation/Icon.png",
+      "json": "Meditation/exercises/soundMeditation/soundMeditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/focusMeditation/Icon.png",
+      "json": "Meditation/exercises/focusMeditation/focusMeditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/kindnessMeditation/Icon.png",
+      "json": "Meditation/exercises/kindnessMeditation/kindnessMeditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/gratitudeMeditation/Icon.png",
+      "json": "Meditation/exercises/gratitudeMeditation/gratitudeMeditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/awarenessMeditation/Icon.png",
+      "json": "Meditation/exercises/awarenessMeditation/awarenessMeditation.json"
+    },
+    {
+      "icon": "Meditation/exercises/mindfulWalking/Icon.png",
+      "json": "Meditation/exercises/mindfulWalking/mindfulWalking.json"
+    },
+    {
+      "icon": "Meditation/exercises/guidedMindfulness/Icon.png",
+      "json": "Meditation/exercises/guidedMindfulness/guidedMindfulness.json"
+    },
+    {
+      "json": "Meditation/exercises/seatedMeditation/seatedMeditation.json",
+      "icon": "Meditation/exercises/seatedMeditation/Icon.png"
+    },
+    {
+      "json": "Meditation/exercises/bodyScanMeditation/bodyScanMeditation.json",
+      "icon": "Meditation/exercises/bodyScanMeditation/Icon.png"
+    },
+    {
+      "json": "Meditation/exercises/mantraMeditation/mantraMeditation.json",
+      "icon": "Meditation/exercises/mantraMeditation/Icon.png"
+    },
+    {
+      "json": "Meditation/exercises/progressiveMuscleRelaxation/progressiveMuscleRelaxation.json",
+      "icon": "Meditation/exercises/progressiveMuscleRelaxation/Icon.png"
+    },
+    {
+      "json": "Meditation/exercises/guidedImageryMeditation/guidedImageryMeditation.json",
+      "icon": "Meditation/exercises/guidedImageryMeditation/Icon.png"
+    }
+  ]
+}

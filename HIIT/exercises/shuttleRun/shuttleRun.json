@@ -1,0 +1,90 @@
+{
+  "id": "12.16",
+  "key": "bootcamp_shuttle_run",
+  "title": "Shuttle Run",
+  "description": "1. Place two markers on a clear surface and start in an athletic stance behind one line.\n2. Accelerate toward the opposite marker, then shorten the steps and lower the hips before reaching it.\n3. Touch or cross the line, turn from a balanced foot position, and accelerate back.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 7.5,
+    "moderate": 11,
+    "vigorous": 11,
+    "lightCode": "12020",
+    "moderateCode": "02078",
+    "vigorousCode": "02078"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "3 Bootcamp",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Shuttle Run",
+      "description": "1. Place two markers on a clear surface and start in an athletic stance behind one line.\n2. Accelerate toward the opposite marker, then shorten the steps and lower the hips before reaching it.\n3. Touch or cross the line, turn from a balanced foot position, and accelerate back.",
+      "sectionTitle": "Bootcamp"
+    },
+    "es": {
+      "title": "Carrera de ida y vuelta",
+      "description": "1. Coloca dos marcadores en una superficie despejada y empieza en postura atlética detrás de una línea.\n2. Acelera hacia el marcador opuesto; luego acorta los pasos y baja las caderas antes de llegar.\n3. Toca o cruza la línea, gira desde una posición equilibrada de los pies y acelera de vuelta.",
+      "sectionTitle": "Bootcamp"
+    },
+    "pt": {
+      "title": "Corrida de vaivém",
+      "description": "1. Coloque dois marcadores em uma superfície livre e comece em postura atlética atrás de uma linha.\n2. Acelere em direção ao marcador oposto; depois encurte os passos e abaixe os quadris antes de chegar.\n3. Toque ou cruze a linha, gire a partir de uma posição equilibrada dos pés e acelere de volta.",
+      "sectionTitle": "Bootcamp"
+    },
+    "fr": {
+      "title": "Course navette",
+      "description": "1. Placez deux repères sur une surface dégagée et commencez en position athlétique derrière une ligne.\n2. Accélérez vers le repère opposé, puis raccourcissez vos foulées et abaissez les hanches avant de l'atteindre.\n3. Touchez ou franchissez la ligne, pivotez depuis une position de pieds équilibrée et accélérez au retour.",
+      "sectionTitle": "Bootcamp"
+    },
+    "de": {
+      "title": "Pendellauf",
+      "description": "1. Lege zwei Markierungen auf eine freie Fläche und beginne in athletischer Grundstellung hinter einer Linie.\n2. Beschleunige zur gegenüberliegenden Markierung, verkürze dann die Schritte und senke die Hüften, bevor du sie erreichst.\n3. Berühre oder überquere die Linie, drehe dich aus einer stabilen Fußposition und beschleunige zurück.",
+      "sectionTitle": "Bootcamp"
+    },
+    "it": {
+      "title": "Corsa a navetta",
+      "description": "1. Posiziona due segnalini su una superficie libera e inizia in posizione atletica dietro una linea.\n2. Accelera verso il segnalino opposto, poi accorcia i passi e abbassa le anche prima di raggiungerlo.\n3. Tocca o supera la linea, gira partendo da una posizione stabile dei piedi e accelera al ritorno.",
+      "sectionTitle": "Bootcamp"
+    },
+    "zh-Hans": {
+      "title": "折返跑",
+      "description": "1. 在空旷的地面上放置两个标志物，在一条线后以运动准备姿势开始。\n2. 向对面的标志物加速，到达前缩短步幅并降低髋部。\n3. 触碰或越过标线，从平衡的脚步位置转身，再加速跑回。",
+      "sectionTitle": "训练营"
+    },
+    "ja": {
+      "title": "シャトルラン",
+      "description": "1. 障害物のない場所に2つのマーカーを置き、片方のラインの後ろでアスレチックスタンスをとります。\n2. 反対側のマーカーに向かって加速し、到達する前に歩幅を狭めて腰を落とします。\n3. ラインにタッチするか越え、バランスのとれた足の位置から方向転換して加速して戻ります。",
+      "sectionTitle": "ブートキャンプ"
+    },
+    "ko": {
+      "title": "셔틀 런",
+      "description": "1. 장애물이 없는 바닥에 마커 두 개를 놓고 한쪽 라인 뒤에서 애슬레틱 스탠스로 시작합니다.\n2. 반대편 마커를 향해 가속하고, 도착하기 전에 보폭을 줄이며 엉덩이를 낮춥니다.\n3. 라인을 터치하거나 넘은 뒤 균형 잡힌 발 위치에서 방향을 바꾸고 다시 가속해 돌아옵니다.",
+      "sectionTitle": "부트캠프"
+    },
+    "th": {
+      "title": "วิ่งกลับตัว",
+      "description": "1. วางมาร์กเกอร์สองจุดบนพื้นที่โล่ง แล้วเริ่มในท่ายืนพร้อมเคลื่อนไหวหลังเส้นหนึ่ง\n2. เร่งความเร็วไปยังมาร์กเกอร์ฝั่งตรงข้าม จากนั้นก้าวให้สั้นลงและลดสะโพกต่ำลงก่อนถึง\n3. แตะหรือข้ามเส้น หมุนตัวจากตำแหน่งเท้าที่สมดุล แล้วเร่งความเร็วกลับ",
+      "sectionTitle": "บูตแคมป์"
+    },
+    "ru": {
+      "title": "Челночный бег",
+      "description": "1. Поставьте два ориентира на свободной поверхности и примите атлетическую стойку за одной из линий.\n2. Ускоряйтесь к противоположному ориентиру, а перед ним укоротите шаги и опустите таз.\n3. Коснитесь линии или пересеките её, развернитесь из устойчивого положения стоп и ускоряйтесь обратно.",
+      "sectionTitle": "Буткемп"
+    },
+    "uk": {
+      "title": "Човниковий біг",
+      "description": "1. Поставте два орієнтири на вільній поверхні й прийміть атлетичну стійку за однією з ліній.\n2. Прискорюйтеся до протилежного орієнтира, а перед ним скоротіть кроки й опустіть таз.\n3. Торкніться лінії або перетніть її, розверніться зі стійкого положення стоп і прискорюйтеся назад.",
+      "sectionTitle": "Буткемп"
+    }
+  }
+}

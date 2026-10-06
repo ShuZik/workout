@@ -1,0 +1,90 @@
+{
+  "id": "47.2",
+  "key": "buhurt_weapon_grabbing",
+  "title": "Weapon Grabbing",
+  "description": "1. Both partners wear full armor; the attacker holds a blunt weapon in guard or makes a slow, controlled strike while the defender closes distance behind the shield.\n2. As defender, seize the haft of the attacker's weapon with the free hand, pin it to the side away from your head, and keep your own weapon ready.\n3. Hold the control briefly, release on the coach's call or the partner's signal, then reset and swap roles.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "buhurt",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Partner Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Weapon Grabbing",
+      "description": "1. Both partners wear full armor; the attacker holds a blunt weapon in guard or makes a slow, controlled strike while the defender closes distance behind the shield.\n2. As defender, seize the haft of the attacker's weapon with the free hand, pin it to the side away from your head, and keep your own weapon ready.\n3. Hold the control briefly, release on the coach's call or the partner's signal, then reset and swap roles.",
+      "sectionTitle": "Partner Techniques"
+    },
+    "es": {
+      "title": "Agarre del arma",
+      "description": "1. Ambos compañeros llevan armadura completa; el atacante sostiene un arma roma en guardia o lanza un golpe lento y controlado mientras el defensor acorta distancia tras el escudo.\n2. Como defensor, agarra el mango del arma del atacante con la mano libre, llévala al costado lejos de tu cabeza y mantén tu propia arma lista.\n3. Mantén el control un momento, suelta a la señal del entrenador o del compañero, y luego reinicia y cambia de rol.",
+      "sectionTitle": "Técnicas con compañero"
+    },
+    "pt": {
+      "title": "Agarre da arma",
+      "description": "1. Ambos usam armadura completa; o atacante mantém uma arma sem fio em guarda ou faz um golpe lento e controlado enquanto o defensor encurta a distância atrás do escudo.\n2. Como defensor, agarre o cabo da arma do atacante com a mão livre, prenda-a ao lado longe da sua cabeça e mantenha sua arma pronta.\n3. Mantenha o controle por um instante, solte ao sinal do treinador ou do parceiro, depois recomece e troque de papel.",
+      "sectionTitle": "Técnicas com parceiro"
+    },
+    "fr": {
+      "title": "Saisie d’arme",
+      "description": "1. Les deux partenaires portent l’armure complète ; l’attaquant tient une arme émoussée en garde ou porte un coup lent et contrôlé pendant que le défenseur réduit la distance derrière son bouclier.\n2. En défense, saisissez la hampe de l’arme adverse avec la main libre, plaquez-la sur le côté loin de votre tête et gardez votre arme prête.\n3. Maintenez le contrôle un instant, relâchez au signal de l’entraîneur ou du partenaire, puis réinitialisez et changez de rôle.",
+      "sectionTitle": "Techniques avec partenaire"
+    },
+    "de": {
+      "title": "Waffe greifen",
+      "description": "1. Beide tragen volle Rüstung; der Angreifer hält eine stumpfe Waffe in Deckung oder führt einen langsamen, kontrollierten Schlag, während der Verteidiger hinter dem Schild die Distanz schließt.\n2. Als Verteidiger den Schaft der gegnerischen Waffe mit der freien Hand greifen, seitlich weg vom Kopf fixieren und die eigene Waffe bereithalten.\n3. Die Kontrolle kurz halten, auf Kommando des Trainers oder Signal des Partners loslassen, dann neu beginnen und Rollen tauschen.",
+      "sectionTitle": "Partnertechniken"
+    },
+    "it": {
+      "title": "Presa dell’arma",
+      "description": "1. Entrambi indossano l’armatura completa; l’attaccante tiene un’arma smussata in guardia o porta un colpo lento e controllato mentre il difensore accorcia la distanza dietro lo scudo.\n2. Come difensore afferra l’asta dell’arma dell’attaccante con la mano libera, bloccala di lato lontano dalla testa e tieni pronta la tua arma.\n3. Mantieni il controllo un istante, rilascia al segnale dell’allenatore o del partner, poi riparti e scambia i ruoli.",
+      "sectionTitle": "Tecniche con partner"
+    },
+    "zh-Hans": {
+      "title": "抓握兵器",
+      "description": "1. 双方穿全套盔甲；进攻方持钝兵器戒备或做缓慢受控的击打，防守方在盾后缩短距离。\n2. 防守方用空手抓住进攻方兵器的柄，将其压向远离头部的一侧，同时保持自己的兵器随时可用。\n3. 短暂保持控制，听到教练口令或同伴信号即松开，然后重新开始并交换角色。",
+      "sectionTitle": "双人技术"
+    },
+    "ja": {
+      "title": "武器掴み",
+      "description": "1. 双方とも全身甲冑を着け、攻撃側は刃引きの武器を構えるか、ゆっくり制御した打撃を出し、防御側は盾の陰で間合いを詰めます。\n2. 防御側は空いた手で攻撃側の武器の柄をつかみ、頭から離れた横へ押さえつけ、自分の武器はいつでも使えるように保ちます。\n3. 少しの間制御を保ち、コーチの合図か相手の合図で放し、リセットして役割を交代します。",
+      "sectionTitle": "相手との技"
+    },
+    "ko": {
+      "title": "무기 잡기",
+      "description": "1. 두 파트너 모두 전신 갑옷을 입고, 공격자는 무딘 무기를 가드로 들거나 느리고 통제된 타격을 하며 방어자는 방패 뒤에서 거리를 좁힙니다.\n2. 방어자는 빈손으로 공격자 무기의 자루를 잡아 머리에서 먼 옆쪽으로 눌러 고정하고 자기 무기는 준비 상태로 둡니다.\n3. 잠시 통제를 유지하다가 코치 신호나 파트너의 신호에 놓아주고, 다시 시작하며 역할을 바꿉니다.",
+      "sectionTitle": "파트너 기술"
+    },
+    "th": {
+      "title": "การจับอาวุธ",
+      "description": "1. ทั้งคู่สวมเกราะเต็มตัว ฝ่ายโจมตีถืออาวุธทื่อในท่าการ์ดหรือฟันช้าๆ อย่างควบคุม ขณะที่ฝ่ายป้องกันเข้าประชิดหลังโล่\n2. ฝ่ายป้องกันใช้มือที่ว่างจับด้ามอาวุธของฝ่ายโจมตี กดไว้ด้านข้างห่างจากศีรษะ และเตรียมอาวุธของตนให้พร้อม\n3. คงการควบคุมสักครู่ ปล่อยเมื่อโค้ชหรือคู่ฝึกให้สัญญาณ แล้วเริ่มใหม่และสลับบทบาท",
+      "sectionTitle": "เทคนิคกับคู่ฝึก"
+    },
+    "ru": {
+      "title": "Захват оружия",
+      "description": "1. Оба партнёра в полном доспехе; атакующий держит затупленное оружие в стойке или наносит медленный контролируемый удар, пока защитник сокращает дистанцию за щитом.\n2. Защитник свободной рукой захватывает древко оружия атакующего, прижимает его в сторону от своей головы и держит своё оружие наготове.\n3. Удержите контроль недолго, отпустите по команде тренера или сигналу партнёра, затем начните заново и поменяйтесь ролями.",
+      "sectionTitle": "Техники с партнёром"
+    },
+    "uk": {
+      "title": "Захоплення зброї",
+      "description": "1. Обидва партнери в повному обладунку; той, хто атакує, тримає затуплену зброю в стійці або завдає повільного контрольованого удару, поки захисник скорочує дистанцію за щитом.\n2. Захисник вільною рукою захоплює держак зброї нападника, притискає його вбік від своєї голови й тримає власну зброю напоготові.\n3. Утримайте контроль недовго, відпустіть за командою тренера або сигналом партнера, потім почніть знову й поміняйтеся ролями.",
+      "sectionTitle": "Техніки з партнером"
+    }
+  }
+}

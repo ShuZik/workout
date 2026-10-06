@@ -1,0 +1,89 @@
+{
+  "id": "23.14",
+  "key": "cross_training_barbell_front_squat",
+  "title": "Barbell Front Squat",
+  "description": "1. Support the bar on the front shoulders with elbows high, feet shoulder-width apart, and trunk braced.\n2. Push the hips down between the heels while the knees track over the toes and the elbows stay lifted.\n3. Drive through the whole feet to stand, keeping the bar stacked over the midfoot.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "4 Barbell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Barbell Front Squat",
+      "description": "1. Support the bar on the front shoulders with elbows high, feet shoulder-width apart, and trunk braced.\n2. Push the hips down between the heels while the knees track over the toes and the elbows stay lifted.\n3. Drive through the whole feet to stand, keeping the bar stacked over the midfoot.",
+      "sectionTitle": "Barbell"
+    },
+    "es": {
+      "title": "Sentadilla frontal con barra",
+      "description": "1. Apoya la barra sobre la parte delantera de los hombros con los codos altos, los pies al ancho de los hombros y el tronco firme.\n2. Baja la cadera entre los talones mientras las rodillas siguen la línea de las puntas y los codos se mantienen elevados.\n3. Empuja con todo el pie para subir, manteniendo la barra alineada sobre el mediopié.",
+      "sectionTitle": "Barra"
+    },
+    "pt": {
+      "title": "Agachamento frontal com barra",
+      "description": "1. Apoie a barra na frente dos ombros com os cotovelos altos, os pés na largura dos ombros e o tronco firme.\n2. Desça o quadril entre os calcanhares enquanto os joelhos seguem a linha das pontas dos pés e os cotovelos ficam elevados.\n3. Empurre com o pé inteiro para subir, mantendo a barra alinhada sobre o meio do pé.",
+      "sectionTitle": "Barra"
+    },
+    "fr": {
+      "title": "Squat avant à la barre",
+      "description": "1. Posez la barre sur l’avant des épaules, coudes hauts, pieds à largeur d’épaules et tronc gainé.\n2. Descendez les hanches entre les talons pendant que les genoux suivent les orteils et que les coudes restent hauts.\n3. Poussez sur tout le pied pour remonter en gardant la barre à l’aplomb du milieu du pied.",
+      "sectionTitle": "Barre"
+    },
+    "de": {
+      "title": "Frontkniebeuge mit der Langhantel",
+      "description": "1. Lege die Stange vorn auf die Schultern, Ellenbogen hoch, Füße schulterbreit und Rumpf angespannt.\n2. Senke die Hüfte zwischen die Fersen, während die Knie über die Zehen zeigen und die Ellenbogen oben bleiben.\n3. Drück dich über den ganzen Fuß hoch und halte die Stange dabei über dem Mittelfuß.",
+      "sectionTitle": "Langhantel"
+    },
+    "it": {
+      "title": "Front squat con bilanciere",
+      "description": "1. Appoggia il bilanciere sulla parte anteriore delle spalle con i gomiti alti, i piedi alla larghezza delle spalle e il tronco stabile.\n2. Scendi con le anche tra i talloni mentre le ginocchia seguono le punte e i gomiti restano alti.\n3. Spingi con tutto il piede per risalire mantenendo il bilanciere allineato sopra il mesopiede.",
+      "sectionTitle": "Bilanciere"
+    },
+    "zh-Hans": {
+      "title": "杠铃前蹲",
+      "description": "1. 杠铃架在肩部前侧，肘部抬高，双脚与肩同宽，躯干收紧。\n2. 髋部下沉到两脚跟之间，膝盖沿脚尖方向移动，肘部保持抬起。\n3. 全脚掌发力站起，杠铃始终保持在脚掌中部正上方。",
+      "sectionTitle": "杠铃"
+    },
+    "ja": {
+      "title": "バーベル・フロントスクワット",
+      "description": "1. 肘を高く上げてバーを肩の前に乗せ、足を肩幅に開き、体幹を固めます。\n2. 膝をつま先の上に向け、肘を上げたまま腰をかかとの間に下ろします。\n3. 足裏全体で押して立ち上がり、バーを足の中央の真上に保ちます。",
+      "sectionTitle": "バーベル"
+    },
+    "ko": {
+      "title": "바벨 프런트 스쿼트",
+      "description": "1. 팔꿈치를 높이 들어 바를 어깨 앞쪽에 얹고 발을 어깨너비로 벌리며 몸통을 단단히 고정합니다.\n2. 무릎이 발끝 위를 향하고 팔꿈치가 들린 채로 엉덩이를 발뒤꿈치 사이로 내립니다.\n3. 발 전체로 밀어 일어서며 바를 발 중앙 위에 유지합니다.",
+      "sectionTitle": "바벨"
+    },
+    "th": {
+      "title": "บาร์เบลฟรอนต์สควอต",
+      "description": "1. วางบาร์บนไหล่ด้านหน้า ยกศอกสูง แยกเท้ากว้างเท่าไหล่ และเกร็งลำตัว\n2. ลดสะโพกลงระหว่างส้นเท้า ให้เข่าชี้ตามปลายเท้าและยกศอกค้างไว้\n3. ดันผ่านทั้งฝ่าเท้าเพื่อยืนขึ้น โดยให้บาร์อยู่เหนือกลางเท้าตลอด",
+      "sectionTitle": "บาร์เบล"
+    },
+    "ru": {
+      "title": "Фронтальный присед со штангой",
+      "description": "1. Положите штангу на переднюю часть плеч, локти высоко, стопы на ширине плеч, корпус напряжён.\n2. Опускайте таз между пятками, колени идут по направлению носков, локти остаются поднятыми.\n3. Оттолкнитесь всей стопой и встаньте, удерживая штангу над серединой стопы.",
+      "sectionTitle": "Штанга"
+    },
+    "uk": {
+      "title": "Фронтальне присідання зі штангою",
+      "description": "1. Покладіть штангу на передню частину плечей, лікті високо, стопи на ширині плечей, корпус напружений.\n2. Опускайте таз між п’ятами, коліна йдуть у напрямку носків, лікті залишаються піднятими.\n3. Відштовхніться всією стопою й підведіться, утримуючи штангу над серединою стопи.",
+      "sectionTitle": "Штанга"
+    }
+  }
+}

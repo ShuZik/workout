@@ -1,0 +1,90 @@
+{
+  "id": "95.4",
+  "key": "sqay_diagonal_cuts",
+  "title": "Diagonal Cuts",
+  "description": "1. From guard, raise the sword over the right shoulder while keeping the shield in front of the body.\n2. Cut diagonally down from right to left, then return with a rising diagonal cut from left to right, turning the hips with each cut.\n3. Repeat in a smooth figure-eight rhythm, stopping the blade under control and recovering to guard.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "sqay",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Diagonal Cuts",
+      "description": "1. From guard, raise the sword over the right shoulder while keeping the shield in front of the body.\n2. Cut diagonally down from right to left, then return with a rising diagonal cut from left to right, turning the hips with each cut.\n3. Repeat in a smooth figure-eight rhythm, stopping the blade under control and recovering to guard.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Cortes diagonales",
+      "description": "1. Desde la guardia, eleva la espada por encima del hombro derecho manteniendo el escudo delante del cuerpo.\n2. Corta en diagonal descendente de derecha a izquierda y regresa con un corte diagonal ascendente de izquierda a derecha, girando la cadera en cada corte.\n3. Repite con un ritmo fluido en forma de ocho, deteniendo la hoja con control y volviendo a la guardia.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Cortes diagonais",
+      "description": "1. Da guarda, erga a espada sobre o ombro direito mantendo o escudo diante do corpo.\n2. Corte na diagonal para baixo da direita para a esquerda e volte com um corte diagonal ascendente da esquerda para a direita, girando o quadril a cada corte.\n3. Repita num ritmo fluido em forma de oito, parando a lâmina com controle e voltando à guarda.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Coupes diagonales",
+      "description": "1. Depuis la garde, levez l'épée au-dessus de l'épaule droite en gardant le bouclier devant le corps.\n2. Coupez en diagonale descendante de droite à gauche, puis revenez par une coupe diagonale montante de gauche à droite, en tournant les hanches à chaque coupe.\n3. Répétez sur un rythme fluide en huit, en arrêtant la lame avec contrôle et en revenant en garde.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Diagonale Hiebe",
+      "description": "1. Hebe das Schwert aus der Grundhaltung über die rechte Schulter, der Schild bleibt vor dem Körper.\n2. Haue diagonal von rechts oben nach links unten und kehre mit einem aufsteigenden Diagonalhieb von links nach rechts zurück; drehe bei jedem Hieb die Hüfte mit.\n3. Wiederhole in fließendem Achterrhythmus, stoppe die Klinge kontrolliert und kehre in die Grundhaltung zurück.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Tagli diagonali",
+      "description": "1. Dalla guardia solleva la spada sopra la spalla destra tenendo lo scudo davanti al corpo.\n2. Taglia in diagonale verso il basso da destra a sinistra, poi torna con un taglio diagonale ascendente da sinistra a destra, ruotando le anche a ogni taglio.\n3. Ripeti con un ritmo fluido a otto, fermando la lama con controllo e tornando in guardia.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "斜劈",
+      "description": "1. 从架势中将剑举过右肩，盾牌保持在身前。\n2. 由右上向左下斜劈，再由左下向右上斜撩而回，每一剑都配合转腰。\n3. 以流畅的8字节奏重复，控制住剑刃并回到架势。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "斜め斬り",
+      "description": "1. 構えから剣を右肩の上に振りかぶり、盾は体の前に保ちます。\n2. 右上から左下へ斜めに斬り下ろし、続けて左下から右上へ斬り上げて戻し、斬るたびに腰を回します。\n3. 8の字を描くなめらかなリズムで繰り返し、刃を制御して止め、構えに戻ります。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "대각선 베기",
+      "description": "1. 겨눔 자세에서 칼을 오른쪽 어깨 위로 들어 올리고 방패는 몸 앞에 둡니다.\n2. 오른쪽 위에서 왼쪽 아래로 대각선으로 내려베고, 왼쪽 아래에서 오른쪽 위로 올려베며 돌아오되 벨 때마다 허리를 돌립니다.\n3. 8자 모양의 부드러운 리듬으로 반복하며 칼날을 통제해 멈추고 겨눔 자세로 돌아옵니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "ฟันเฉียง",
+      "description": "1. จากท่าการ์ด ยกดาบขึ้นเหนือไหล่ขวาโดยถือโล่ไว้หน้าลำตัว\n2. ฟันเฉียงลงจากขวาไปซ้าย แล้วฟันเฉียงขึ้นจากซ้ายไปขวากลับมา หมุนสะโพกทุกครั้งที่ฟัน\n3. ทำซ้ำเป็นจังหวะเลขแปดอย่างลื่นไหล หยุดใบดาบอย่างควบคุมได้และกลับสู่การ์ด",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Диагональные рубящие удары",
+      "description": "1. Из стойки поднимите меч над правым плечом, держа щит перед корпусом.\n2. Рубите по диагонали вниз справа налево, затем возвращайтесь восходящим диагональным ударом слева направо, поворачивая бёдра с каждым ударом.\n3. Повторяйте в плавном ритме восьмёрки, останавливая клинок под контролем и возвращаясь в стойку.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Діагональні рубані удари",
+      "description": "1. Зі стійки підніміть меч над правим плечем, тримаючи щит перед корпусом.\n2. Рубайте по діагоналі вниз справа наліво, потім повертайтеся висхідним діагональним ударом зліва направо, повертаючи стегна з кожним ударом.\n3. Повторюйте в плавному ритмі вісімки, зупиняючи клинок під контролем і повертаючись у стійку.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "108.9",
+  "key": "wing_chun_seung_chi_sau",
+  "title": "Seung Chi Sau",
+  "description": "1. Face a partner at close range with both arms in contact: one partner in tan sau and fook sau, the other in bong sau and fook sau.\n2. Roll the arms continuously so each partner alternates between bong and tan positions, feeling the other's forward pressure without pushing or striking.\n3. Keep the elbows down, the stance stable, and the speed slow with light contact, and stop immediately on either partner's signal.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Seung Chi Sau",
+      "description": "1. Face a partner at close range with both arms in contact: one partner in tan sau and fook sau, the other in bong sau and fook sau.\n2. Roll the arms continuously so each partner alternates between bong and tan positions, feeling the other's forward pressure without pushing or striking.\n3. Keep the elbows down, the stance stable, and the speed slow with light contact, and stop immediately on either partner's signal.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Seung Chi Sau",
+      "description": "1. Colócate frente a un compañero a corta distancia con ambos brazos en contacto: uno en tan sau y fook sau, el otro en bong sau y fook sau.\n2. Rodad los brazos de forma continua para que cada uno alterne entre bong y tan, sintiendo la presión hacia delante del otro sin empujar ni golpear.\n3. Mantened los codos abajo, la posición estable, la velocidad lenta y el contacto ligero, y deteneos de inmediato ante la señal de cualquiera.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Seung Chi Sau",
+      "description": "1. Fique de frente para um parceiro a curta distância com os dois braços em contato: um em tan sau e fook sau, o outro em bong sau e fook sau.\n2. Rodem os braços continuamente para que cada um alterne entre bong e tan, sentindo a pressão à frente do outro sem empurrar nem golpear.\n3. Mantenham cotovelos baixos, base estável, velocidade lenta e contato leve, e parem imediatamente ao sinal de qualquer um.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Seung Chi Sau",
+      "description": "1. Faites face à un partenaire à courte distance, les deux bras en contact : l’un en tan sau et fook sau, l’autre en bong sau et fook sau.\n2. Roulez les bras en continu pour que chacun alterne entre bong et tan, en sentant la pression avant de l’autre sans pousser ni frapper.\n3. Gardez les coudes bas, la position stable, une vitesse lente et un contact léger, et arrêtez immédiatement au signal de l’un ou l’autre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Seung Chi Sau",
+      "description": "1. Stehe einem Partner auf kurze Distanz mit beiden Armen in Kontakt gegenüber: einer in Tan Sau und Fook Sau, der andere in Bong Sau und Fook Sau.\n2. Rollt die Arme fortlaufend, sodass jeder zwischen Bong- und Tan-Position wechselt, und spürt den Vorwärtsdruck des anderen, ohne zu schieben oder zu schlagen.\n3. Haltet die Ellbogen unten, den Stand stabil, das Tempo langsam und den Kontakt leicht, und stoppt sofort auf das Signal eines Partners.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Seung Chi Sau",
+      "description": "1. Mettiti di fronte a un partner a distanza ravvicinata con entrambe le braccia in contatto: uno in tan sau e fook sau, l’altro in bong sau e fook sau.\n2. Fate rotolare le braccia di continuo in modo che ciascuno alterni bong e tan, sentendo la pressione in avanti dell’altro senza spingere né colpire.\n3. Tenete i gomiti bassi, la posizione stabile, la velocità lenta e il contatto leggero, e fermatevi subito al segnale di uno dei due.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "双黐手",
+      "description": "1. 与同伴近距离相对，双手相搭：一方为摊手加伏手，另一方为膀手加伏手。\n2. 双手连续盘转，双方在膀手与摊手之间交替，感受对方向前的压力，不推不打。\n3. 保持沉肘、马步稳定，速度缓慢、接触轻柔，任一方示意立即停止。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "双黐手（ソンチーサウ）",
+      "description": "1. パートナーと近い間合いで両腕を接触させて向かい合います。一方は攤手と伏手、もう一方は膀手と伏手です。\n2. 腕を絶えず回し、互いに膀手と攤手の位置を交互に入れ替え、押したり打ったりせずに相手の前への圧力を感じ取ります。\n3. 肘を下げ構えを安定させ、ゆっくり軽い接触を保ち、どちらかの合図ですぐに止めます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "쌍치사우",
+      "description": "1. 파트너와 가까운 거리에서 두 팔을 접촉한 채 마주 섭니다. 한 명은 탄사우와 폭사우, 다른 한 명은 방사우와 폭사우입니다.\n2. 팔을 계속 굴려 각자 방과 탄 위치를 번갈아 바꾸며, 밀거나 치지 않고 상대의 전진 압력을 느낍니다.\n3. 팔꿈치를 낮추고 자세를 안정되게, 속도는 느리게, 접촉은 가볍게 유지하며 누구든 신호하면 즉시 멈춥니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "เซิงชี่ซาว (มือเหนียวคู่)",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ในระยะใกล้โดยแขนทั้งสองข้างสัมผัสกัน ฝ่ายหนึ่งใช้มือทานและมือฟุก อีกฝ่ายใช้มือบ่งและมือฟุก\n2. หมุนแขนต่อเนื่องให้แต่ละฝ่ายสลับระหว่างท่าบ่งและท่าทาน รับรู้แรงดันไปข้างหน้าของอีกฝ่ายโดยไม่ผลักหรือตี\n3. รักษาศอกต่ำ ท่ายืนมั่นคง ความเร็วช้า และสัมผัสเบา และหยุดทันทีเมื่อฝ่ายใดให้สัญญาณ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Сеунг чи сау",
+      "description": "1. Встаньте лицом к партнёру на близкой дистанции, обе руки в контакте: один в тан сау и фук сау, другой в бонг сау и фук сау.\n2. Непрерывно прокатывайте руки так, чтобы каждый чередовал положения бонг и тан, ощущая давление партнёра вперёд, не толкая и не нанося ударов.\n3. Держите локти опущенными, стойку устойчивой, темп медленным, а контакт лёгким, и немедленно останавливайтесь по сигналу любого партнёра.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Сеунг чі сау",
+      "description": "1. Станьте обличчям до партнера на близькій дистанції, обидві руки в контакті: один у тан сау й фук сау, інший у бонг сау й фук сау.\n2. Безперервно прокочуйте руки так, щоб кожен чергував положення бонг і тан, відчуваючи тиск партнера вперед, не штовхаючи й не завдаючи ударів.\n3. Тримайте лікті опущеними, стійку стабільною, темп повільним, а контакт легким, і негайно зупиняйтеся за сигналом будь-якого партнера.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

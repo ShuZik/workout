@@ -21,5 +21,67 @@
   "section": "1 Main",
   "availableFrom": "1.1.2",
   "availableUntil": null,
-  "state": "active"
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Box Breathing",
+      "description": "1. Sit comfortably and exhale gently before beginning the count.\n2. Inhale, hold, exhale, and hold again for the same comfortable count, such as four seconds per phase.\n3. Repeat the four equal phases and shorten the count or return to normal breathing if strain appears.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Respiración cuadrada",
+      "description": "1. Siéntate cómodamente y exhala suavemente antes de empezar a contar.\n2. Inhala, retén el aire, exhala y vuelve a hacer una pausa, manteniendo la misma duración cómoda en cada fase, por ejemplo cuatro segundos.\n3. Repite las cuatro fases iguales y reduce la duración o vuelve a respirar normalmente si aparece tensión.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Respiração quadrada",
+      "description": "1. Sente-se confortavelmente e expire suavemente antes de começar a contar.\n2. Inspire, segure o ar, expire e faça outra pausa, mantendo a mesma contagem confortável em cada fase, como quatro segundos.\n3. Repita as quatro fases iguais e reduza a contagem ou volte à respiração normal se sentir esforço.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Respiration carrée",
+      "description": "1. Asseyez-vous confortablement et expirez doucement avant de commencer à compter.\n2. Inspirez, retenez votre souffle, expirez, puis faites une nouvelle pause, avec la même durée confortable à chaque phase, par exemple quatre secondes.\n3. Répétez ces quatre phases égales et raccourcissez leur durée ou reprenez une respiration normale si un inconfort apparaît.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Quadratatmung",
+      "description": "1. Setze dich bequem hin und atme sanft aus, bevor du mit dem Zählen beginnst.\n2. Atme ein, halte den Atem an, atme aus und halte erneut inne. Zähle in jeder Phase gleich lang und angenehm, zum Beispiel jeweils vier Sekunden.\n3. Wiederhole die vier gleich langen Phasen. Verkürze die Zählzeit oder kehre zur normalen Atmung zurück, wenn es anstrengend wird.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Respirazione quadrata",
+      "description": "1. Siediti comodamente ed espira delicatamente prima di iniziare a contare.\n2. Inspira, trattieni il respiro, espira e fai un’altra pausa, mantenendo la stessa durata confortevole in ogni fase, per esempio quattro secondi.\n3. Ripeti le quattro fasi uguali e riduci la durata o torna alla respirazione normale se avverti uno sforzo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "方块呼吸",
+      "description": "1. 舒适地坐好，开始计数前先轻轻呼气。\n2. 吸气、屏息、呼气，再次屏息，每个阶段保持相同且舒适的时长，例如每阶段四秒。\n3. 重复这四个等长阶段；若感到吃力，缩短计数时长或恢复正常呼吸。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ボックス呼吸",
+      "description": "1. 楽な姿勢で座り、数え始める前に優しく息を吐きます。\n2. 息を吸う、止める、吐く、再び止める、の各段階を同じ無理のない長さで行います。例えば各段階を4秒にします。\n3. 同じ長さの4段階を繰り返し、苦しくなったら数える時間を短くするか通常の呼吸に戻します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "박스 호흡",
+      "description": "1. 편안하게 앉아 박자를 세기 전에 부드럽게 숨을 내쉽니다.\n2. 숨을 들이쉬고, 멈추고, 내쉬고, 다시 멈춥니다. 각 단계는 4초처럼 편안한 동일한 길이로 셉니다.\n3. 길이가 같은 네 단계를 반복하고, 힘들어지면 세는 시간을 줄이거나 평소 호흡으로 돌아갑니다.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "การหายใจแบบสี่จังหวะ",
+      "description": "1. นั่งในท่าที่สบายและหายใจออกเบา ๆ ก่อนเริ่มนับ\n2. หายใจเข้า กลั้นหายใจ หายใจออก แล้วหยุดหายใจอีกครั้ง โดยนับแต่ละช่วงให้เท่ากันและสบาย เช่น ช่วงละสี่วินาที\n3. ทำซ้ำทั้งสี่ช่วงที่ยาวเท่ากัน หากรู้สึกฝืนให้ลดเวลานับหรือกลับไปหายใจตามปกติ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Дыхание по квадрату",
+      "description": "1. Сядьте удобно и мягко выдохните, прежде чем начать отсчёт.\n2. Вдохните, задержите дыхание, выдохните и снова сделайте задержку, выдерживая одинаковый комфортный счёт, например по четыре секунды на каждую фазу.\n3. Повторяйте четыре равные фазы; если появляется напряжение, сократите счёт или вернитесь к обычному дыханию.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Дихання за квадратом",
+      "description": "1. Сядьте зручно й м’яко видихніть, перш ніж почати відлік.\n2. Вдихніть, затримайте дихання, видихніть і знову зробіть затримку, витримуючи однаковий комфортний відлік, наприклад по чотири секунди на кожну фазу.\n3. Повторюйте чотири рівні фази; якщо з’являється напруження, скоротіть відлік або поверніться до звичайного дихання.",
+      "sectionTitle": "Основне"
+    }
+  }
 }

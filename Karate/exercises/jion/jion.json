@@ -1,0 +1,90 @@
+{
+  "id": "40.39",
+  "key": "karate_jion",
+  "title": "Jion",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Begin with the left hand covering the right fist, then alternate wedge blocks, front kicks with triple punches, stamping steps into horse stance, and repeated stepping punches.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jion",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Begin with the left hand covering the right fist, then alternate wedge blocks, front kicks with triple punches, stamping steps into horse stance, and repeated stepping punches.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Jion",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Empieza con la mano izquierda cubriendo el puño derecho y alterna bloqueos en cuña, mae-geri con triples puñetazos, pasos de pisotón a kiba-dachi y oi-zuki repetidos.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Jion",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Comece com a mão esquerda cobrindo o punho direito e alterne bloqueios em cunha, mae-geri com socos triplos, passos de pisão para kiba-dachi e oi-zuki repetidos.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Jion",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Commencez la main gauche couvrant le poing droit, puis alternez blocages en coin, mae-geri avec triples coups de poing, pas frappés en kiba-dachi et oi-zuki répétés.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Jion",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Beginne mit der linken Hand über der rechten Faust, wechsle dann Keilabwehren, Mae-geri mit Dreifachfauststößen, stampfende Schritte in den Kiba-dachi und wiederholte Oi-zuki.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Jion",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Inizia con la mano sinistra che copre il pugno destro, poi alterna parate a cuneo, mae-geri con tripli pugni, passi battuti in kiba-dachi e oi-zuki ripetuti.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "慈恩",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 以左手包右拳开始，随后交替分手格挡、前踢接三连冲拳、踏步成骑马立以及反复的顺步冲拳。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "慈恩",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 左手で右拳を包んで始め、掻分受け、前蹴りからの三連突き、踏み込んでの騎馬立ち、繰り返しの追い突きを交互に行います。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "지온",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 왼손으로 오른 주먹을 감싸고 시작해 헤쳐 막기, 앞차기 후 세 번 지르기, 밟으며 기마서기, 반복 오이즈키를 번갈아 합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "จิออน",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. เริ่มด้วยมือซ้ายคลุมหมัดขวา แล้วสลับการปัดแยก เตะหน้าตามด้วยหมัดสามครั้ง ก้าวกระทืบเข้าท่าคิบะดาจิ และหมัดก้าวตามซ้ำ ๆ\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Дзион",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Начните, накрыв правый кулак левой ладонью, затем чередуйте раздвигающие блоки, маэ-гэри с тройными ударами, топающие шаги в киба-дати и повторные ой-цуки.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Джіон",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Почніть, накривши правий кулак лівою долонею, далі чергуйте розсувні блоки, мае-ґері з потрійними ударами, тупотливі кроки в кіба-дачі та повторні ой-цукі.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

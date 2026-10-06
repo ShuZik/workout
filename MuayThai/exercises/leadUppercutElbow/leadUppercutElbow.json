@@ -1,0 +1,90 @@
+{
+  "id": "2.25",
+  "key": "muay_thai_lead_uppercut_elbow",
+  "title": "Lead Uppercut Elbow",
+  "description": "1. From close guard, bend the knees slightly and load the lead side with the forearm tight to the body.\n2. Drive upward and rotate the lead hip so the point of the elbow rises vertically into an elbow pad.\n3. Stop below full shoulder elevation and return the forearm directly to the head guard.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Elbows",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Uppercut Elbow",
+      "description": "1. From close guard, bend the knees slightly and load the lead side with the forearm tight to the body.\n2. Drive upward and rotate the lead hip so the point of the elbow rises vertically into an elbow pad.\n3. Stop below full shoulder elevation and return the forearm directly to the head guard.",
+      "sectionTitle": "Elbows"
+    },
+    "es": {
+      "title": "Codazo ascendente delantero",
+      "description": "1. Desde una guardia cerrada, flexiona ligeramente las rodillas y carga el lado delantero con el antebrazo pegado al cuerpo.\n2. Impulsa hacia arriba y gira la cadera delantera para que la punta del codo suba en vertical contra una manopla de codo.\n3. Detente antes de elevar del todo el hombro y devuelve el antebrazo directamente a la guardia de la cabeza.",
+      "sectionTitle": "Codazos"
+    },
+    "pt": {
+      "title": "Cotovelada ascendente da frente",
+      "description": "1. Na guarda fechada, flexione levemente os joelhos e carregue o lado da frente com o antebraço junto ao corpo.\n2. Impulsione para cima e gire o quadril da frente para que a ponta do cotovelo suba na vertical contra um aparador de cotovelo.\n3. Pare antes de elevar totalmente o ombro e leve o antebraço direto de volta à guarda da cabeça.",
+      "sectionTitle": "Cotoveladas"
+    },
+    "fr": {
+      "title": "Coude remontant avant",
+      "description": "1. En garde rapprochée, fléchissez légèrement les genoux et chargez le côté avant, avant-bras collé au corps.\n2. Poussez vers le haut et tournez la hanche avant pour que la pointe du coude monte verticalement dans une patte d’ours.\n3. Arrêtez-vous avant l’élévation complète de l’épaule et ramenez directement l’avant-bras en protection de la tête.",
+      "sectionTitle": "Coups de coude"
+    },
+    "de": {
+      "title": "Vorderer Aufwärtsellbogen",
+      "description": "1. Beuge aus enger Deckung leicht die Knie und belaste die vordere Seite, der Unterarm eng am Körper.\n2. Drücke nach oben und drehe die vordere Hüfte, sodass die Ellbogenspitze senkrecht in ein Schlagpolster steigt.\n3. Stoppe, bevor die Schulter ganz hochgezogen ist, und bringe den Unterarm direkt in die Kopfdeckung zurück.",
+      "sectionTitle": "Ellbogentechniken"
+    },
+    "it": {
+      "title": "Gomitata ascendente anteriore",
+      "description": "1. Da una guardia stretta, piega leggermente le ginocchia e carica il lato anteriore con l’avambraccio aderente al corpo.\n2. Spingi verso l’alto e ruota l’anca anteriore affinché la punta del gomito salga in verticale contro un colpitore.\n3. Fermati prima di sollevare del tutto la spalla e riporta l’avambraccio direttamente a protezione della testa.",
+      "sectionTitle": "Gomitate"
+    },
+    "zh-Hans": {
+      "title": "前手挑肘",
+      "description": "1. 从近距离防守位开始，膝盖微屈，前侧蓄力，前臂贴紧身体。\n2. 向上发力并转动前髋，使肘尖垂直向上击中肘靶。\n3. 在肩膀完全抬起之前停住，前臂直接回到护头位置。",
+      "sectionTitle": "肘法"
+    },
+    "ja": {
+      "title": "前手の縦肘打ち",
+      "description": "1. 接近したガードから膝を軽く曲げ、前腕を体に密着させて前側に体重を乗せます。\n2. 上へ伸び上がりながら前の腰を回し、肘先をミットへ垂直に突き上げます。\n3. 肩を上げ切る前に止め、前腕をまっすぐ頭のガードに戻します。",
+      "sectionTitle": "肘打ち"
+    },
+    "ko": {
+      "title": "앞손 올려치기 팔꿈치",
+      "description": "1. 근접 가드에서 무릎을 살짝 굽히고 전완을 몸에 붙인 채 앞쪽에 체중을 싣습니다.\n2. 위로 밀어 올리며 앞 골반을 돌려 팔꿈치 끝이 미트로 수직으로 올라가게 합니다.\n3. 어깨가 완전히 올라가기 전에 멈추고 전완을 곧바로 머리 가드로 되돌립니다.",
+      "sectionTitle": "팔꿈치 공격"
+    },
+    "th": {
+      "title": "ศอกงัดมือหน้า",
+      "description": "1. จากการ์ดระยะประชิด งอเข่าเล็กน้อยและลงน้ำหนักด้านหน้า โดยแขนท่อนล่างชิดลำตัว\n2. ดันตัวขึ้นและหมุนสะโพกหน้า ให้ปลายศอกงัดขึ้นในแนวตั้งเข้าเป้าศอก\n3. หยุดก่อนยกไหล่สุด แล้วยกแขนท่อนล่างกลับป้องกันศีรษะทันที",
+      "sectionTitle": "ศอก"
+    },
+    "ru": {
+      "title": "Восходящий удар передним локтем",
+      "description": "1. Из плотной защиты слегка согните колени и загрузите переднюю сторону, прижав предплечье к корпусу.\n2. Толкнитесь вверх и поверните переднюю сторону таза, чтобы кончик локтя поднялся вертикально в лапу.\n3. Остановитесь до полного подъёма плеча и сразу верните предплечье в защиту головы.",
+      "sectionTitle": "Удары локтями"
+    },
+    "uk": {
+      "title": "Висхідний удар переднім ліктем",
+      "description": "1. Зі щільного захисту трохи зігніть коліна й завантажте передній бік, притиснувши передпліччя до корпусу.\n2. Відштовхніться вгору й поверніть передній бік таза, щоб кінчик ліктя піднявся вертикально в лапу.\n3. Зупиніться до повного підйому плеча й одразу поверніть передпліччя в захист голови.",
+      "sectionTitle": "Удари ліктями"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "2.7",
+  "key": "muay_thai_rear_uppercut",
+  "title": "Rear Uppercut",
+  "description": "1. From guard, bend the knees and load the rear leg while the lead hand protects the face.\n2. Push through the rear foot and rotate the hip as the bent rear fist rises through the centerline.\n3. Bring the rear hand back to the cheek and unwind to the original stance.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Uppercut",
+      "description": "1. From guard, bend the knees and load the rear leg while the lead hand protects the face.\n2. Push through the rear foot and rotate the hip as the bent rear fist rises through the centerline.\n3. Bring the rear hand back to the cheek and unwind to the original stance.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Uppercut trasero",
+      "description": "1. Desde la guardia, flexiona las rodillas y carga la pierna trasera mientras la mano delantera protege la cara.\n2. Empuja con el pie trasero y gira la cadera mientras el puño trasero flexionado sube por la línea central.\n3. Devuelve la mano trasera a la mejilla y deshaz el giro hasta la postura original.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Uppercut de trás",
+      "description": "1. Na guarda, flexione os joelhos e carregue a perna de trás enquanto a mão da frente protege o rosto.\n2. Empurre com o pé de trás e gire o quadril enquanto o punho de trás flexionado sobe pela linha central.\n3. Leve a mão de trás de volta à bochecha e desfaça a rotação até a base original.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Uppercut arrière",
+      "description": "1. En garde, fléchissez les genoux et chargez la jambe arrière pendant que la main avant protège le visage.\n2. Poussez sur le pied arrière et tournez la hanche pendant que le poing arrière fléchi monte dans l’axe central.\n3. Ramenez la main arrière à la joue et inversez la rotation jusqu’à la position initiale.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Hinterer Aufwärtshaken",
+      "description": "1. Beuge aus der Deckung die Knie und belaste das hintere Bein, während die vordere Hand das Gesicht schützt.\n2. Drücke über den hinteren Fuß und drehe die Hüfte, während die gebeugte hintere Faust durch die Mittellinie steigt.\n3. Bringe die hintere Hand zur Wange zurück und drehe dich in die Ausgangsstellung zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Montante posteriore",
+      "description": "1. Dalla guardia, piega le ginocchia e carica la gamba posteriore mentre la mano anteriore protegge il viso.\n2. Spingi sul piede posteriore e ruota l’anca mentre il pugno posteriore piegato sale lungo la linea centrale.\n3. Riporta la mano posteriore alla guancia e annulla la rotazione tornando alla posizione iniziale.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "后手上勾拳",
+      "description": "1. 从防守位开始，屈膝并让后腿蓄力，前手保护脸部。\n2. 后脚蹬地并转髋，屈臂的后拳沿中线向上击出。\n3. 后手收回脸颊，转回原来的站姿。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "後ろ手のアッパーカット",
+      "description": "1. ガードから膝を曲げて後ろ脚に体重を乗せ、前手で顔を守ります。\n2. 後ろ足で押して腰を回し、曲げた後ろの拳を正中線に沿って突き上げます。\n3. 後ろの手を頬へ戻し、回転を戻して元の構えに戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "뒷손 어퍼컷",
+      "description": "1. 가드에서 무릎을 굽히고 뒷다리에 체중을 실으며 앞손으로 얼굴을 보호합니다.\n2. 뒷발로 밀고 골반을 돌리며 굽힌 뒷주먹을 중심선을 따라 올립니다.\n3. 뒷손을 볼로 되돌리고 회전을 풀어 원래 자세로 돌아갑니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "หมัดเสยหลัง",
+      "description": "1. จากการ์ด งอเข่าและลงน้ำหนักที่ขาหลัง โดยมือหน้าป้องกันใบหน้า\n2. ดันเท้าหลังและหมุนสะโพก ขณะที่หมัดหลังที่งอแขนเสยขึ้นตามแนวกึ่งกลาง\n3. ดึงมือหลังกลับมาที่แก้มและหมุนคืนสู่ท่ายืนเดิม",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Задний апперкот",
+      "description": "1. Из защиты согните колени и загрузите заднюю ногу, пока передняя рука защищает лицо.\n2. Оттолкнитесь задней стопой и поверните таз, пока согнутый задний кулак поднимается по центральной линии.\n3. Верните заднюю руку к щеке и раскрутитесь в исходную стойку.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Задній аперкот",
+      "description": "1. Із захисту зігніть коліна й завантажте задню ногу, поки передня рука захищає обличчя.\n2. Відштовхніться задньою стопою й поверніть таз, поки зігнутий задній кулак піднімається центральною лінією.\n3. Поверніть задню руку до щоки й розкрутіться у вихідну стійку.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "59.3",
+  "key": "hand_to_hand_standing_throw",
+  "title": "Standing Throw Drill",
+  "description": "1. With a trained partner on mats, take a secure grip from fighting stance.\n2. Break the partner's balance and throw them while you stay upright on your own feet throughout.\n3. Keep hold of the sleeve or arm to guide the landing, step back into stance, and swap roles.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "handToHandCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Standing Throw Drill",
+      "description": "1. With a trained partner on mats, take a secure grip from fighting stance.\n2. Break the partner's balance and throw them while you stay upright on your own feet throughout.\n3. Keep hold of the sleeve or arm to guide the landing, step back into stance, and swap roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Proyección de pie",
+      "description": "1. Con un compañero entrenado sobre tatami, toma un agarre firme desde la guardia.\n2. Desequilibra al compañero y proyéctalo manteniéndote todo el tiempo de pie sobre tus propios pies.\n3. Sujeta la manga o el brazo para guiar la caída, vuelve a la guardia e intercambiad roles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Projeção em pé",
+      "description": "1. Com um parceiro treinado no tatame, faça uma pegada firme a partir da guarda.\n2. Desequilibre o parceiro e projete-o mantendo-se sempre de pé sobre os próprios pés.\n3. Segure a manga ou o braço para guiar a queda, volte à guarda e troquem os papéis.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Projection debout",
+      "description": "1. Avec un partenaire entraîné sur le tatami, prenez une saisie solide depuis la garde.\n2. Déséquilibrez le partenaire et projetez-le en restant debout sur vos appuis tout du long.\n3. Gardez la manche ou le bras pour guider la chute, revenez en garde et inversez les rôles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Wurf im Stand",
+      "description": "1. Fasse mit einem geübten Partner auf der Matte aus der Kampfstellung sicher.\n2. Bringe den Partner aus dem Gleichgewicht und wirf ihn, während du die ganze Zeit aufrecht auf deinen Füßen bleibst.\n3. Halte Ärmel oder Arm, um die Landung zu führen, tritt in die Stellung zurück und tauscht die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Proiezione in piedi",
+      "description": "1. Con un compagno allenato sul tatami, prendi una presa salda dalla guardia.\n2. Sbilancia il compagno e proiettalo restando sempre in piedi sui tuoi appoggi.\n3. Tieni la manica o il braccio per guidare la caduta, torna in guardia e scambiatevi i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "站立摔练习",
+      "description": "1. 与受过训练的同伴在垫上，从实战姿势抓牢。\n2. 破坏同伴平衡并将其摔倒，自己全程保持站立。\n3. 抓住袖子或手臂引导落地，退回实战姿势后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "立ったままの投げドリル",
+      "description": "1. マット上で訓練されたパートナーと、構えからしっかり組みます。\n2. 相手を崩して投げ、自分は最後まで両足で立ったままでいます。\n3. 袖や腕を持って受け身を導き、構えに戻って役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "서서 던지기 드릴",
+      "description": "1. 훈련된 파트너와 매트 위에서 대련 자세로부터 단단히 잡습니다.\n2. 파트너의 균형을 무너뜨리고 던지되 나는 끝까지 두 발로 서 있습니다.\n3. 소매나 팔을 잡아 착지를 유도하고 자세로 돌아와 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ฝึกทุ่มแบบยืน",
+      "description": "1. กับคู่ฝึกที่ผ่านการฝึกบนเบาะ จับให้มั่นจากท่าต่อสู้\n2. ทำลายสมดุลคู่ฝึกแล้วทุ่ม โดยตัวคุณยืนอยู่บนเท้าตลอด\n3. จับแขนเสื้อหรือแขนไว้ประคองการลง ถอยกลับสู่ท่า แล้วสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Бросок без падения",
+      "description": "1. С подготовленным партнёром на татами возьмите надёжный захват из боевой стойки.\n2. Выведите партнёра из равновесия и бросьте его, сами всё время оставаясь на ногах.\n3. Удерживайте рукав или руку, чтобы направить падение, вернитесь в стойку и поменяйтесь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Кидок без падіння",
+      "description": "1. З підготовленим партнером на татамі візьміть надійне захоплення з бойової стійки.\n2. Виведіть партнера з рівноваги й киньте його, самі весь час залишаючись на ногах.\n3. Утримуйте рукав або руку, щоб спрямувати падіння, поверніться в стійку й поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "9.59",
+  "key": "jump_rope_side_swing",
+  "title": "Side Swing",
+  "description": "1. Hold both handles at hip height with the elbows close to the ribs and the rope behind the heels.\n2. Bring the hands together and swing the rope in a loop beside one hip without jumping, then swing it beside the other hip.\n3. Open the hands back to hip width and jump the next turn with a low basic bounce, landing softly.",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 8.3,
+    "moderate": 11.8,
+    "vigorous": 12.3,
+    "lightCode": "15552",
+    "moderateCode": "15551",
+    "vigorousCode": "15550"
+  },
+  "section": "4 Cardio",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Side Swing",
+      "description": "1. Hold both handles at hip height with the elbows close to the ribs and the rope behind the heels.\n2. Bring the hands together and swing the rope in a loop beside one hip without jumping, then swing it beside the other hip.\n3. Open the hands back to hip width and jump the next turn with a low basic bounce, landing softly.",
+      "sectionTitle": "Cardio"
+    },
+    "es": {
+      "title": "Balanceo lateral",
+      "description": "1. Sujeta ambas asas a la altura de la cadera, con los codos cerca de las costillas y la cuerda detrás de los talones.\n2. Junta las manos y balancea la cuerda en un bucle junto a una cadera sin saltar; luego hazlo junto a la otra cadera.\n3. Separa de nuevo las manos al ancho de cadera y salta el siguiente giro con un rebote bajo, aterrizando suave.",
+      "sectionTitle": "Cardio"
+    },
+    "pt": {
+      "title": "Balanço lateral",
+      "description": "1. Segure as duas manoplas à altura do quadril, cotovelos junto às costelas e a corda atrás dos calcanhares.\n2. Junte as mãos e balance a corda num laço ao lado de um quadril sem saltar; depois ao lado do outro quadril.\n3. Afaste as mãos de novo à largura do quadril e salte a volta seguinte com um quique baixo, aterrissando suave.",
+      "sectionTitle": "Cardio"
+    },
+    "fr": {
+      "title": "Balancé latéral",
+      "description": "1. Tenez les deux poignées à hauteur de hanches, coudes près des côtes, corde derrière les talons.\n2. Rapprochez les mains et balancez la corde en boucle à côté d’une hanche sans sauter, puis à côté de l’autre hanche.\n3. Écartez de nouveau les mains à largeur de hanches et sautez le tour suivant par un petit rebond, réception souple.",
+      "sectionTitle": "Cardio"
+    },
+    "de": {
+      "title": "Seitlicher Schwung",
+      "description": "1. Beide Griffe auf Hüfthöhe halten, Ellbogen nah an den Rippen, das Seil hinter den Fersen.\n2. Die Hände zusammenführen und das Seil ohne zu springen in einer Schlaufe neben einer Hüfte schwingen, dann neben der anderen.\n3. Die Hände wieder hüftbreit öffnen und die nächste Umdrehung mit einem flachen Grundsprung überspringen, weich landen.",
+      "sectionTitle": "Cardio"
+    },
+    "it": {
+      "title": "Oscillazione laterale",
+      "description": "1. Tieni entrambe le maniglie all’altezza dei fianchi, gomiti vicino alle costole e corda dietro i talloni.\n2. Avvicina le mani e fai oscillare la corda in un anello accanto a un fianco senza saltare, poi accanto all’altro.\n3. Riapri le mani alla larghezza dei fianchi e salta il giro successivo con un rimbalzo basso, atterrando morbido.",
+      "sectionTitle": "Cardio"
+    },
+    "zh-Hans": {
+      "title": "侧甩绳",
+      "description": "1. 双手在髋部高度握住两端手柄，肘部贴近肋部，绳子在脚跟后方。\n2. 双手并拢，不跳跃，在一侧髋旁甩绳画圈，再到另一侧髋旁甩绳。\n3. 双手重新分开至与髋同宽，下一圈以低幅基础跳越过，轻柔落地。",
+      "sectionTitle": "有氧运动"
+    },
+    "ja": {
+      "title": "サイドスイング",
+      "description": "1. 両方のグリップを腰の高さで持ち、肘を肋骨に近づけ、ロープをかかとの後ろに置きます。\n2. 両手を寄せ、跳ばずにロープを片側の腰の横で輪を描くように回し、次に反対側の腰の横で回します。\n3. 手を腰幅に戻し、次の回旋を低い基本跳びで跳び、柔らかく着地します。",
+      "sectionTitle": "有酸素運動"
+    },
+    "ko": {
+      "title": "사이드 스윙",
+      "description": "1. 두 손잡이를 엉덩이 높이로 잡고 팔꿈치를 갈비뼈 가까이 두며 줄을 발뒤꿈치 뒤에 둡니다.\n2. 두 손을 모아 점프하지 않고 한쪽 엉덩이 옆에서 줄을 원을 그리듯 돌린 뒤 반대쪽 엉덩이 옆에서 돌립니다.\n3. 손을 다시 엉덩이 너비로 벌리고 다음 회전은 낮은 기본 뛰기로 넘으며 부드럽게 착지합니다.",
+      "sectionTitle": "유산소 운동"
+    },
+    "th": {
+      "title": "แกว่งเชือกด้านข้าง",
+      "description": "1. จับด้ามทั้งสองข้างระดับสะโพก ศอกชิดซี่โครง และเชือกอยู่หลังส้นเท้า\n2. รวบมือเข้าหากันแล้วแกว่งเชือกเป็นวงข้างสะโพกข้างหนึ่งโดยไม่กระโดด จากนั้นแกว่งข้างสะโพกอีกข้าง\n3. แยกมือกลับกว้างเท่าสะโพก แล้วกระโดดข้ามรอบถัดไปด้วยการกระโดดพื้นฐานต่ำๆ ลงพื้นเบาๆ",
+      "sectionTitle": "คาร์ดิโอ"
+    },
+    "ru": {
+      "title": "Боковой мах",
+      "description": "1. Держите обе ручки на уровне бёдер, локти у рёбер, скакалка за пятками.\n2. Сведите руки и, не прыгая, прокрутите скакалку петлёй сбоку от одного бедра, затем сбоку от другого.\n3. Разведите руки на ширину бёдер и перепрыгните следующий оборот низким базовым прыжком, мягко приземляясь.",
+      "sectionTitle": "Кардио"
+    },
+    "uk": {
+      "title": "Боковий мах",
+      "description": "1. Тримайте обидві ручки на рівні стегон, лікті біля ребер, скакалка за п’ятами.\n2. Зведіть руки й, не стрибаючи, прокрутіть скакалку петлею збоку від одного стегна, потім збоку від іншого.\n3. Розведіть руки на ширину стегон і перестрибніть наступний оберт низьким базовим стрибком, м’яко приземляючись.",
+      "sectionTitle": "Кардіо"
+    }
+  }
+}

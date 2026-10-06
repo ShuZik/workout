@@ -1,0 +1,90 @@
+{
+  "id": "86.4",
+  "key": "pencak_silat_jurus_tunggal_bebas",
+  "title": "Jurus Tunggal Bebas",
+  "description": "1. Plan a personal solo composition of stances, steps, strikes, kicks, and defences, empty-handed or with a blunt training weapon.\n2. Perform it from the opening salute, showing clear attack and defence intent, balance in low stances, and controlled transitions.\n3. Close with the final salute, then note which segments lost rhythm or balance before repeating.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "pencakSilat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jurus Tunggal Bebas",
+      "description": "1. Plan a personal solo composition of stances, steps, strikes, kicks, and defences, empty-handed or with a blunt training weapon.\n2. Perform it from the opening salute, showing clear attack and defence intent, balance in low stances, and controlled transitions.\n3. Close with the final salute, then note which segments lost rhythm or balance before repeating.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Jurus Tunggal Bebas",
+      "description": "1. Planifica una composición individual propia de posturas, pasos, golpes, patadas y defensas, a mano vacía o con un arma de entrenamiento roma.\n2. Ejecútala desde el saludo inicial, mostrando una intención clara de ataque y defensa, equilibrio en posturas bajas y transiciones controladas.\n3. Cierra con el saludo final y anota qué segmentos perdieron ritmo o equilibrio antes de repetir.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Jurus Tunggal Bebas",
+      "description": "1. Planeje uma composição individual própria de bases, passos, golpes, chutes e defesas, de mãos livres ou com uma arma de treino sem fio.\n2. Execute-a a partir da saudação inicial, mostrando intenção clara de ataque e defesa, equilíbrio em bases baixas e transições controladas.\n3. Feche com a saudação final e anote quais trechos perderam ritmo ou equilíbrio antes de repetir.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Jurus Tunggal Bebas",
+      "description": "1. Préparez une composition individuelle personnelle de positions, pas, frappes, coups de pied et défenses, à mains nues ou avec une arme d’entraînement émoussée.\n2. Exécutez-la dès le salut d’ouverture en montrant une intention claire d’attaque et de défense, l’équilibre dans les positions basses et des transitions maîtrisées.\n3. Terminez par le salut final, puis notez les segments où le rythme ou l’équilibre a faibli avant de recommencer.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Jurus Tunggal Bebas",
+      "description": "1. Plane eine eigene Einzelkomposition aus Stellungen, Schritten, Schlägen, Tritten und Abwehr, waffenlos oder mit einer stumpfen Trainingswaffe.\n2. Führe sie ab dem Eröffnungsgruß aus und zeige klare Angriffs- und Abwehrabsicht, Gleichgewicht in tiefen Stellungen und kontrollierte Übergänge.\n3. Schließe mit dem Abschlussgruß und notiere vor der Wiederholung, wo Rhythmus oder Gleichgewicht verloren gingen.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Jurus Tunggal Bebas",
+      "description": "1. Prepara una composizione individuale personale di posizioni, passi, colpi, calci e difese, a mani nude o con un’arma da allenamento smussata.\n2. Eseguila dal saluto d’apertura mostrando chiara intenzione di attacco e difesa, equilibrio nelle posizioni basse e transizioni controllate.\n3. Chiudi con il saluto finale e annota quali segmenti hanno perso ritmo o equilibrio prima di ripetere.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "单人自选套路（Jurus Tunggal Bebas）",
+      "description": "1. 编排个人的单人套路，包括步型、步法、拳、腿和防守，可徒手或使用钝头训练器械。\n2. 从开场礼开始演练，表现清晰的攻防意图、低姿势中的平衡和受控的衔接。\n3. 以收势礼结束，并在重复前记下哪些段落失去了节奏或平衡。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ジュルス・トゥンガル・ベバス",
+      "description": "1. 構え、ステップ、打撃、蹴り、受けを組み合わせた自分だけの個人構成を、素手または刃引きの練習用武器で準備します。\n2. 開始の礼から演じ、攻防の意図を明確に示し、低い構えでのバランスと制御された移行を保ちます。\n3. 終わりの礼で締め、繰り返す前にリズムやバランスが崩れた部分を確認します。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "주루스 퉁갈 베바스",
+      "description": "1. 자세, 스텝, 타격, 차기, 방어로 이루어진 자신만의 개인 구성을 맨손 또는 날이 없는 훈련용 무기로 준비합니다.\n2. 시작 인사부터 수행하며 공격과 방어 의도를 분명히 보여 주고 낮은 자세의 균형과 통제된 전환을 유지합니다.\n3. 마무리 인사로 끝내고, 반복하기 전에 리듬이나 균형이 무너진 구간을 기록합니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "จูรุส ตุงกัล เบอบัส",
+      "description": "1. วางแผนท่ารำเดี่ยวของตนเองที่ประกอบด้วยท่ายืน ก้าว หมัด เตะ และการป้องกัน มือเปล่าหรือใช้อาวุธฝึกไม่มีคม\n2. รำตั้งแต่การคำนับเปิด แสดงเจตนารุกและรับชัดเจน ทรงตัวดีในท่าต่ำ และเปลี่ยนท่าอย่างควบคุม\n3. จบด้วยการคำนับปิด แล้วจดว่าช่วงใดเสียจังหวะหรือการทรงตัวก่อนทำซ้ำ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Джурус тунггал бебас",
+      "description": "1. Составьте собственную одиночную композицию из стоек, шагов, ударов руками и ногами и защит — без оружия или с тупым учебным оружием.\n2. Выполните её с начального приветствия, показывая ясное намерение атаки и защиты, равновесие в низких стойках и контролируемые переходы.\n3. Завершите заключительным приветствием и перед повтором отметьте, где терялись ритм или равновесие.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Джурус тунггал бебас",
+      "description": "1. Складіть власну одиночну композицію зі стійок, кроків, ударів руками й ногами та захистів — без зброї або з тупою навчальною зброєю.\n2. Виконайте її з початкового привітання, показуючи чіткий намір атаки й захисту, рівновагу в низьких стійках і контрольовані переходи.\n3. Завершіть заключним привітанням і перед повтором відзначте, де втрачалися ритм або рівновага.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

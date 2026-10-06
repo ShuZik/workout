@@ -1,0 +1,90 @@
+{
+  "id": "8.28",
+  "key": "taekwondo_chon_ji",
+  "title": "Chon-Ji",
+  "description": "1. Start in parallel ready stance, then perform the 19-movement pattern along a cross-shaped line, stepping into walking stance and L-stance.\n2. Alternate low forearm blocks and middle inner forearm blocks with middle obverse punches, turning precisely at each end of the line.\n3. Finish with the forward and backward punching sequence, then bring the foot back to parallel ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Chon-Ji",
+      "description": "1. Start in parallel ready stance, then perform the 19-movement pattern along a cross-shaped line, stepping into walking stance and L-stance.\n2. Alternate low forearm blocks and middle inner forearm blocks with middle obverse punches, turning precisely at each end of the line.\n3. Finish with the forward and backward punching sequence, then bring the foot back to parallel ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Chon-Ji",
+      "description": "1. Empieza en posición de preparación paralela y realiza el patrón de 19 movimientos sobre una línea en cruz, avanzando en posición de caminar y en posición en L.\n2. Alterna bloqueos bajos y bloqueos medios con el antebrazo interior con puñetazos medios, girando con precisión en cada extremo de la línea.\n3. Termina con la serie de puñetazos hacia delante y hacia atrás y vuelve a la posición de preparación paralela.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Chon-Ji",
+      "description": "1. Comece na posição de preparação paralela e execute o padrão de 19 movimentos sobre uma linha em cruz, avançando em base de caminhada e base em L.\n2. Alterne bloqueios baixos e bloqueios médios com o antebraço interno com socos médios, girando com precisão em cada extremidade da linha.\n3. Termine com a sequência de socos para a frente e para trás e volte à posição de preparação paralela.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Chon-Ji",
+      "description": "1. Partez en position de préparation parallèle, puis exécutez l’enchaînement de 19 mouvements sur une ligne en croix, en position de marche et en position en L.\n2. Alternez blocages bas et blocages moyens avant-bras intérieur avec des coups de poing moyens, en pivotant avec précision à chaque extrémité de la ligne.\n3. Terminez par la série de coups de poing vers l’avant et vers l’arrière, puis revenez en position de préparation parallèle.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Chon-Ji",
+      "description": "1. Beginne im parallelen Bereitschaftsstand und laufe die 19 Bewegungen auf einer kreuzförmigen Linie im Gehstand und L-Stand.\n2. Wechsle tiefe Unterarmblocks und mittlere Innenunterarmblocks mit mittleren Fauststößen ab und drehe an jedem Linienende präzise.\n3. Schließe mit der Fauststoßfolge nach vorn und hinten ab und kehre in den parallelen Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Chon-Ji",
+      "description": "1. Parti dalla posizione di pronti parallela ed esegui la forma di 19 movimenti su una linea a croce, avanzando in posizione di cammino e posizione a L.\n2. Alterna parate basse e parate medie con avambraccio interno a pugni medi, girando con precisione a ogni estremità della linea.\n3. Concludi con la serie di pugni in avanti e indietro, poi torna alla posizione di pronti parallela.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "天地型（Chon-Ji）",
+      "description": "1. 以平行预备式开始，沿十字形路线完成19个动作，使用行步与L形步。\n2. 交替进行下段格挡、中段内腕格挡与中段直拳，在路线两端精准转身。\n3. 以向前与向后的连续冲拳收尾，然后收脚回到平行预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "チョンジ（天地）",
+      "description": "1. 平行準備立ちから始め、十字形の線上でウォーキングスタンスとL字立ちを使い19動作を行います。\n2. 下段受けと中段内腕受けを中段突きと交互に行い、線の端ごとに正確に向きを変えます。\n3. 前後への突きの連続で締めくくり、足を戻して平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "천지",
+      "description": "1. 나란히 준비서기에서 시작해 십자형 선을 따라 걷는서기와 L서기로 19동작을 수행합니다.\n2. 낮은 막기와 중단 안팔목 막기를 중단 바로지르기와 번갈아 하며 선 끝마다 정확히 돌아섭니다.\n3. 앞뒤로 이어지는 지르기로 마무리하고 발을 모아 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ชอนจี",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนาน แล้วทำรูปแบบ 19 จังหวะบนเส้นรูปกากบาทด้วยท่ายืนเดินและท่ายืนรูปตัวแอล\n2. สลับการปัดต่ำและการปัดระดับกลางด้วยแขนด้านในกับหมัดตรงระดับกลาง หมุนตัวอย่างแม่นยำที่ปลายเส้นแต่ละด้าน\n3. จบด้วยชุดหมัดไปข้างหน้าและข้างหลัง แล้วชักเท้ากลับสู่ท่ายืนเตรียมแบบขนาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Чхонджи",
+      "description": "1. Начните из параллельной готовой стойки и выполните туль из 19 движений по крестообразной линии в шаговой и L-образной стойках.\n2. Чередуйте нижние блоки и средние блоки внутренней стороной предплечья с прямыми ударами на средний уровень, точно разворачиваясь на концах линии.\n3. Завершите серией ударов вперёд и назад, затем верните ногу в параллельную готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Чхонджі",
+      "description": "1. Почніть із паралельної готової стійки й виконайте туль із 19 рухів хрестоподібною лінією в кроковій та L-подібній стійках.\n2. Чергуйте нижні блоки й середні блоки внутрішнім боком передпліччя з прямими ударами на середній рівень, точно розвертаючись на кінцях лінії.\n3. Завершіть серією ударів уперед і назад, потім поверніть ногу в паралельну готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

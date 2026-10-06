@@ -1,0 +1,90 @@
+{
+  "id": "43.20",
+  "key": "aikido_kakari_geiko",
+  "title": "Kakari Geiko",
+  "description": "1. Pair with a trained partner; uke delivers correct, committed attacks at an agreed pace.\n2. Tori applies any of the basic techniques and uke receives without resistance using proper breakfalls.\n3. Reset after each technique and switch roles at the halfway point of the round.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Practice Modes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kakari Geiko",
+      "description": "1. Pair with a trained partner; uke delivers correct, committed attacks at an agreed pace.\n2. Tori applies any of the basic techniques and uke receives without resistance using proper breakfalls.\n3. Reset after each technique and switch roles at the halfway point of the round.",
+      "sectionTitle": "Practice Modes"
+    },
+    "es": {
+      "title": "Kakari Geiko",
+      "description": "1. Forma pareja con un compañero entrenado; uke lanza ataques correctos y decididos a un ritmo acordado.\n2. Tori aplica cualquiera de las técnicas básicas y uke recibe sin resistencia con caídas correctas.\n3. Reinicia tras cada técnica y cambien de papel a la mitad del asalto.",
+      "sectionTitle": "Modos de práctica"
+    },
+    "pt": {
+      "title": "Kakari Geiko",
+      "description": "1. Forme dupla com um parceiro treinado; uke aplica ataques corretos e decididos num ritmo combinado.\n2. Tori aplica qualquer técnica básica e uke recebe sem resistência com quedas corretas.\n3. Recomece após cada técnica e troquem de papel na metade do round.",
+      "sectionTitle": "Modos de prática"
+    },
+    "fr": {
+      "title": "Kakari Geiko",
+      "description": "1. Travaillez avec un partenaire entraîné ; uke porte des attaques correctes et engagées à un rythme convenu.\n2. Tori applique l’une des techniques de base et uke reçoit sans résistance avec des chutes correctes.\n3. Repartez après chaque technique et inversez les rôles à mi-round.",
+      "sectionTitle": "Modes de pratique"
+    },
+    "de": {
+      "title": "Kakari Geiko",
+      "description": "1. Übe mit einem trainierten Partner; Uke greift korrekt und entschlossen im vereinbarten Tempo an.\n2. Tori wendet eine der Grundtechniken an, und Uke nimmt sie ohne Widerstand mit korrekter Fallschule an.\n3. Setzt nach jeder Technik neu an und tauscht zur Rundenmitte die Rollen.",
+      "sectionTitle": "Übungsformen"
+    },
+    "it": {
+      "title": "Kakari Geiko",
+      "description": "1. Fai coppia con un partner allenato; uke porta attacchi corretti e decisi a un ritmo concordato.\n2. Tori applica una qualsiasi tecnica di base e uke riceve senza resistenza con cadute corrette.\n3. Ripartite dopo ogni tecnica e scambiatevi i ruoli a metà round.",
+      "sectionTitle": "Modalità di pratica"
+    },
+    "zh-Hans": {
+      "title": "挂稽古",
+      "description": "1. 与训练有素的同伴配对；受方以约定节奏发出正确且坚决的进攻。\n2. 取方施展任一基本技术，受方不加抵抗地以正确受身承接。\n3. 每个技术后重新开始，本轮过半时交换角色。",
+      "sectionTitle": "练习模式"
+    },
+    "ja": {
+      "title": "掛稽古",
+      "description": "1. 訓練を積んだ相手と組み、受けは決めたペースで正しく思い切った攻撃をします。\n2. 取りは基本技のいずれかをかけ、受けは抵抗せず正しい受身で受けます。\n3. 技ごとに仕切り直し、ラウンドの半分で役割を交代します。",
+      "sectionTitle": "稽古法"
+    },
+    "ko": {
+      "title": "가카리 게이코",
+      "description": "1. 훈련된 파트너와 짝을 이루고, 우케는 정한 속도로 올바르고 확실한 공격을 합니다.\n2. 토리는 기본 기술 중 하나를 걸고, 우케는 저항 없이 올바른 낙법으로 받습니다.\n3. 기술마다 다시 시작하고 라운드 중간에 역할을 바꿉니다.",
+      "sectionTitle": "수련 방식"
+    },
+    "th": {
+      "title": "คาคาริเคโกะ",
+      "description": "1. จับคู่กับคู่ฝึกที่ผ่านการฝึก อุเกะโจมตีอย่างถูกต้องและเต็มที่ในจังหวะที่ตกลงกัน\n2. โทริใช้เทคนิคพื้นฐานท่าใดก็ได้ และอุเกะรับโดยไม่ต้านด้วยการล้มที่ถูกต้อง\n3. เริ่มใหม่หลังแต่ละเทคนิค และสลับบทบาทเมื่อถึงครึ่งรอบ",
+      "sectionTitle": "รูปแบบการฝึก"
+    },
+    "ru": {
+      "title": "Какари-гэйко",
+      "description": "1. Работайте в паре с подготовленным партнёром; уке наносит правильные решительные атаки в оговорённом темпе.\n2. Тори применяет любую из базовых техник, а уке принимает её без сопротивления правильными страховками.\n3. Начинайте заново после каждой техники и поменяйтесь ролями в середине раунда.",
+      "sectionTitle": "Режимы практики"
+    },
+    "uk": {
+      "title": "Какарі-гейко",
+      "description": "1. Працюйте в парі з підготовленим партнером; уке завдає правильних рішучих атак в узгодженому темпі.\n2. Торі застосовує будь-яку з базових технік, а уке приймає її без опору правильними страховками.\n3. Починайте знову після кожної техніки й поміняйтеся ролями в середині раунду.",
+      "sectionTitle": "Режими практики"
+    }
+  }
+}

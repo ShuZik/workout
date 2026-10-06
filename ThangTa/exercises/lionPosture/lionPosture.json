@@ -1,0 +1,90 @@
+{
+  "id": "103.2",
+  "key": "thang_ta_lion_posture",
+  "title": "Lion Posture",
+  "description": "1. Stand with the feet shoulder-width apart, the body upright, and a light training stick held in front if used.\n2. Pivot on the balls of both feet to turn left until the feet form about a 45-degree angle, then lean forward until the front toes, knee, and chin line up.\n3. Hold one straight line from the back of the head to the rear heel, breathe steadily, then return to standing and repeat to the other side.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "thangTa",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lion Posture",
+      "description": "1. Stand with the feet shoulder-width apart, the body upright, and a light training stick held in front if used.\n2. Pivot on the balls of both feet to turn left until the feet form about a 45-degree angle, then lean forward until the front toes, knee, and chin line up.\n3. Hold one straight line from the back of the head to the rear heel, breathe steadily, then return to standing and repeat to the other side.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Postura del león",
+      "description": "1. Ponte de pie con los pies a la anchura de los hombros, el cuerpo erguido y, si lo usas, el palo ligero de entrenamiento al frente.\n2. Pivota sobre la parte delantera de ambos pies para girar a la izquierda hasta que los pies formen unos 45 grados y luego inclínate hasta alinear los dedos del pie delantero, la rodilla y el mentón.\n3. Mantén una línea recta desde la nuca hasta el talón trasero, respira con calma, vuelve a la posición de pie y repite hacia el otro lado.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Postura do leão",
+      "description": "1. Fique em pé com os pés na largura dos ombros, o corpo ereto e, se usar, o bastão leve de treino à frente.\n2. Gire sobre a planta de ambos os pés para a esquerda até os pés formarem cerca de 45 graus e incline-se à frente até alinhar os dedos do pé da frente, o joelho e o queixo.\n3. Mantenha uma linha reta da nuca ao calcanhar de trás, respire de forma regular, volte a ficar em pé e repita para o outro lado.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Posture du lion",
+      "description": "1. Tenez-vous pieds écartés à largeur d’épaules, corps droit, le bâton léger d’entraînement devant vous si vous l’utilisez.\n2. Pivotez sur l’avant des deux pieds vers la gauche jusqu’à un angle d’environ 45 degrés, puis penchez-vous jusqu’à aligner les orteils avant, le genou et le menton.\n3. Maintenez une ligne droite de l’arrière de la tête au talon arrière, respirez calmement, puis revenez debout et répétez de l’autre côté.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Löwenstellung",
+      "description": "1. Stehe mit schulterbreit geöffneten Füßen und aufrechtem Körper, den leichten Trainingsstock bei Bedarf vor dir.\n2. Drehe auf beiden Fußballen nach links, bis die Füße etwa 45 Grad bilden, und lehne dich nach vorn, bis vordere Zehen, Knie und Kinn eine Linie bilden.\n3. Halte eine gerade Linie vom Hinterkopf bis zur hinteren Ferse, atme ruhig, richte dich wieder auf und wiederhole zur anderen Seite.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Postura del leone",
+      "description": "1. Stai in piedi con i piedi alla larghezza delle spalle, il corpo eretto e, se lo usi, il bastone leggero davanti.\n2. Ruota sugli avampiedi verso sinistra finché i piedi formano circa 45 gradi, poi sporgiti in avanti fino ad allineare dita del piede anteriore, ginocchio e mento.\n3. Mantieni una linea retta dalla nuca al tallone posteriore, respira con calma, torna in piedi e ripeti dall’altro lato.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "狮子式",
+      "description": "1. 双脚与肩同宽站立，身体直立，如使用训练棍则持于身前。\n2. 以双脚前掌为轴向左转，直到两脚约成45度，然后身体前倾，使前脚脚尖、膝盖与下巴成一线。\n3. 保持从后脑到后脚跟一条直线，平稳呼吸，然后站起并换另一侧重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "獅子の構え",
+      "description": "1. 足を肩幅に開いて体をまっすぐに立て、使う場合は軽い練習用の棒を前に構えます。\n2. 両足の母指球で左に回り、足が約45度になるようにしてから前に傾き、前足のつま先・膝・あごを一直線にそろえます。\n3. 後頭部から後ろ足のかかとまで一直線を保って呼吸を整え、立った姿勢に戻って反対側も行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "사자 자세",
+      "description": "1. 발을 어깨너비로 벌리고 몸을 곧게 세우며, 사용한다면 가벼운 훈련용 막대를 앞에 듭니다.\n2. 양발 볼을 축으로 왼쪽으로 돌아 두 발이 약 45도를 이루게 한 뒤, 앞발 끝·무릎·턱이 일직선이 될 때까지 앞으로 기울입니다.\n3. 뒤통수에서 뒤꿈치까지 일직선을 유지하며 호흡을 고르고, 다시 선 자세로 돌아와 반대쪽도 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ท่าสิงห์",
+      "description": "1. ยืนเท้ากว้างเท่าไหล่ ลำตัวตั้งตรง และถือไม้ฝึกน้ำหนักเบาไว้ด้านหน้าหากใช้\n2. หมุนบนปลายเท้าทั้งสองไปทางซ้ายจนเท้าทำมุมประมาณ 45 องศา แล้วโน้มตัวไปข้างหน้าจนปลายเท้าหน้า เข่า และคางอยู่ในแนวเดียวกัน\n3. รักษาแนวตรงจากท้ายทอยถึงส้นเท้าหลัง หายใจสม่ำเสมอ แล้วกลับมายืนและทำซ้ำอีกข้าง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Поза льва",
+      "description": "1. Встаньте, стопы на ширине плеч, корпус прямой; лёгкую тренировочную палку, если используете, держите перед собой.\n2. Повернитесь влево на подушечках обеих стоп, пока стопы не образуют угол около 45 градусов, затем наклонитесь вперёд, выстроив в линию носок передней ноги, колено и подбородок.\n3. Удерживайте прямую линию от затылка до пятки задней ноги, ровно дышите, затем вернитесь в стойку и повторите в другую сторону.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Поза лева",
+      "description": "1. Станьте, стопи на ширині плечей, корпус прямий; легку тренувальну палицю, якщо використовуєте, тримайте перед собою.\n2. Поверніться ліворуч на подушечках обох стоп, доки стопи не утворять кут близько 45 градусів, потім нахиліться вперед, вишикувавши в лінію носок передньої ноги, коліно й підборіддя.\n3. Утримуйте пряму лінію від потилиці до п’яти задньої ноги, рівно дихайте, потім поверніться у стійку й повторіть в інший бік.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

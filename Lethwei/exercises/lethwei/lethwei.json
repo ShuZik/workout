@@ -1,0 +1,90 @@
+{
+  "id": "78.1",
+  "key": "lethwei",
+  "title": "Lethwei",
+  "description": "1. Stand in a staggered stance with wrapped hands high, elbows close, chin tucked, and weight ready to shift.\n2. Move through range combining punches, elbows, knees, kicks, and clinch entries as shadow work or on pads, without head contact.\n3. Return to guard after every strike, reset the feet, and keep each combination controlled throughout the interval.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "lethwei",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lethwei",
+      "description": "1. Stand in a staggered stance with wrapped hands high, elbows close, chin tucked, and weight ready to shift.\n2. Move through range combining punches, elbows, knees, kicks, and clinch entries as shadow work or on pads, without head contact.\n3. Return to guard after every strike, reset the feet, and keep each combination controlled throughout the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Lethwei",
+      "description": "1. Colócate en guardia escalonada con las manos vendadas altas, codos pegados, barbilla recogida y el peso listo para desplazarse.\n2. Muévete por las distancias combinando puños, codos, rodillas, patadas y entradas al clinch en sombra o con paos, sin contacto con la cabeza.\n3. Vuelve a la guardia tras cada golpe, recoloca los pies y mantén cada combinación controlada durante todo el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Lethwei",
+      "description": "1. Fique em base escalonada com as mãos enfaixadas altas, cotovelos fechados, queixo baixo e o peso pronto para se deslocar.\n2. Movimente-se pelas distâncias combinando socos, cotoveladas, joelhadas, chutes e entradas de clinch em sombra ou nos aparadores, sem contato com a cabeça.\n3. Volte à guarda após cada golpe, reposicione os pés e mantenha cada combinação controlada durante todo o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Lethwei",
+      "description": "1. Placez-vous en garde décalée, mains bandées hautes, coudes serrés, menton rentré et poids prêt à se déplacer.\n2. Déplacez-vous sur les distances en enchaînant poings, coudes, genoux, coups de pied et entrées en clinch, en shadow ou sur pattes d’ours, sans contact de la tête.\n3. Revenez en garde après chaque frappe, replacez les pieds et gardez chaque enchaînement contrôlé pendant tout l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Lethwei",
+      "description": "1. Stehe versetzt mit hoch gehaltenen bandagierten Händen, engen Ellbogen, eingezogenem Kinn und verlagerungsbereitem Gewicht.\n2. Bewege dich durch die Distanzen und kombiniere Schläge, Ellbogen, Knie, Tritte und Clincheingänge als Schattenarbeit oder an Pratzen, ohne Kopfkontakt.\n3. Kehre nach jedem Schlag in die Deckung zurück, ordne die Füße neu und halte jede Kombination über das ganze Intervall kontrolliert.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Lethwei",
+      "description": "1. Mettiti in guardia sfalsata con le mani fasciate alte, gomiti stretti, mento basso e peso pronto a spostarsi.\n2. Muoviti tra le distanze combinando pugni, gomitate, ginocchiate, calci e ingressi in clinch, a vuoto o sui colpitori, senza contatto con la testa.\n3. Torna in guardia dopo ogni colpo, risistema i piedi e mantieni ogni combinazione controllata per tutto l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "缅甸拳（Lethwei）",
+      "description": "1. 前后脚站立，缠手的双手抬高，肘部收紧，下巴内收，重心随时可以转移。\n2. 在不同距离间移动，以空击或打靶方式组合拳、肘、膝、腿法和缠抱进入，不进行头部接触。\n3. 每次击打后回到防守位，调整双脚，整个时段内保持每个组合动作受控。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ラウェイ",
+      "description": "1. バンデージを巻いた手を高く上げ、肘を締め、あごを引き、いつでも重心を移せる前後のスタンスで立ちます。\n2. シャドーまたはミットで、パンチ・肘・膝・蹴り・クリンチへの入りを組み合わせて距離を移動します。頭部の接触は行いません。\n3. 打撃のたびにガードへ戻り、足を整え、インターバルの間ずっとコンビネーションをコントロールします。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "레थwei",
+      "description": "1. 붕대를 감은 손을 높이 들고 팔꿈치를 붙이고 턱을 당긴 채 체중을 옮길 준비가 된 앞뒤 스탠스로 섭니다.\n2. 섀도나 미트로 펀치, 팔꿈치, 무릎, 킥, 클린치 진입을 조합하며 거리를 이동하고 머리 접촉은 하지 않습니다.\n3. 매 타격 후 가드로 돌아와 발을 정돈하고 인터벌 내내 각 콤비네이션을 통제합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "มวยพม่า (เลธเหว่ย)",
+      "description": "1. ยืนเท้าหน้าหลัง มือที่พันผ้ายกสูง ศอกชิด ก้มคาง และพร้อมถ่ายน้ำหนัก\n2. เคลื่อนที่ในระยะต่าง ๆ ผสมหมัด ศอก เข่า เตะ และการเข้าคลินช์ แบบชกลมหรือกับเป้า โดยไม่ใช้ศีรษะกระแทก\n3. กลับสู่การ์ดหลังทุกการโจมตี จัดเท้าใหม่ และควบคุมทุกคอมบิเนชันตลอดช่วงเวลา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Летвей",
+      "description": "1. Встаньте в разножку: забинтованные руки высоко, локти прижаты, подбородок опущен, вес готов к смещению.\n2. Перемещайтесь по дистанциям, сочетая удары руками, локтями, коленями, ногами и входы в клинч — в бою с тенью или по лапам, без контакта головой.\n3. После каждого удара возвращайтесь в защиту, восстанавливайте положение ног и контролируйте каждую комбинацию весь интервал.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Летвей",
+      "description": "1. Станьте в різностійку: забинтовані руки високо, лікті притиснуті, підборіддя опущене, вага готова до зміщення.\n2. Пересувайтеся дистанціями, поєднуючи удари руками, ліктями, колінами, ногами та входи в клінч — у бою з тінню або на лапах, без контакту головою.\n3. Після кожного удару повертайтеся в захист, відновлюйте положення ніг і контролюйте кожну комбінацію весь інтервал.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

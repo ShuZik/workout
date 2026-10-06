@@ -1,0 +1,87 @@
+{
+  "id": "69.18",
+  "key": "kendo_kodachi_1",
+  "title": "Kendo Kata Kodachi 1",
+  "description": "1. Uchidachi takes jodan with the long sword; shidachi holds the short sword in chudan half-facing, tip at uchidachi's face.\n2. As shidachi enters, uchidachi cuts men; shidachi raises the kodachi, lets the cut slide off to the left (ukenagashi), and cuts men.\n3. Shidachi steps back with the kodachi raised as zanshin; both return to chudan and the start.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Partner Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kendo Kata Kodachi 1",
+      "description": "1. Uchidachi takes jodan with the long sword; shidachi holds the short sword in chudan half-facing, tip at uchidachi's face.\n2. As shidachi enters, uchidachi cuts men; shidachi raises the kodachi, lets the cut slide off to the left (ukenagashi), and cuts men.\n3. Shidachi steps back with the kodachi raised as zanshin; both return to chudan and the start.",
+      "sectionTitle": "Partner Forms"
+    },
+    "es": {
+      "title": "Kendo Kata Kodachi 1",
+      "description": "1. Uchidachi toma jodan con la espada larga; shidachi sostiene la espada corta en chudan de medio perfil, con la punta hacia la cara de uchidachi.\n2. Cuando shidachi entra, uchidachi corta men; shidachi eleva el kodachi, deja que el corte resbale a la izquierda (ukenagashi) y corta men.\n3. Shidachi retrocede con el kodachi elevado como zanshin; ambos vuelven a chudan y al inicio.",
+      "sectionTitle": "Formas en pareja"
+    },
+    "pt": {
+      "title": "Kendo Kata Kodachi 1",
+      "description": "1. Uchidachi assume jodan com a espada longa; shidachi segura a espada curta em chudan de meio perfil, com a ponta para o rosto de uchidachi.\n2. Quando shidachi entra, uchidachi corta men; shidachi ergue o kodachi, deixa o corte escorregar para a esquerda (ukenagashi) e corta men.\n3. Shidachi recua com o kodachi erguido como zanshin; ambos voltam a chudan e ao início.",
+      "sectionTitle": "Formas em dupla"
+    },
+    "fr": {
+      "title": "Kendo Kata Kodachi 1",
+      "description": "1. Uchidachi prend jodan avec le sabre long ; shidachi tient le sabre court en chudan de trois-quarts, pointe vers le visage d’uchidachi.\n2. Quand shidachi entre, uchidachi coupe men ; shidachi lève le kodachi, laisse glisser la coupe vers la gauche (ukenagashi) et coupe men.\n3. Shidachi recule, kodachi levé, comme zanshin ; tous deux reviennent en chudan et au départ.",
+      "sectionTitle": "Formes à deux"
+    },
+    "de": {
+      "title": "Kendo Kata Kodachi 1",
+      "description": "1. Uchidachi nimmt Jodan mit dem Langschwert; Shidachi hält das Kurzschwert im halbseitlichen Chudan, die Spitze zu Uchidachis Gesicht.\n2. Tritt Shidachi ein, schneidet Uchidachi Men; Shidachi hebt das Kodachi, lässt den Schnitt nach links abgleiten (Ukenagashi) und schneidet Men.\n3. Shidachi tritt mit erhobenem Kodachi als Zanshin zurück; beide kehren ins Chudan und zum Start zurück.",
+      "sectionTitle": "Partnerformen"
+    },
+    "it": {
+      "title": "Kendo Kata Kodachi 1",
+      "description": "1. Uchidachi assume jodan con la spada lunga; shidachi tiene la spada corta in chudan di tre quarti, punta verso il viso di uchidachi.\n2. Quando shidachi entra, uchidachi taglia men; shidachi alza il kodachi, lascia scivolare il taglio a sinistra (ukenagashi) e taglia men.\n3. Shidachi arretra con il kodachi alzato come zanshin; entrambi tornano in chudan e all’inizio.",
+      "sectionTitle": "Forme in coppia"
+    },
+    "zh-Hans": {
+      "title": "日本剑道形 小太刀一本目",
+      "description": "1. 打太刀持长刀取上段；仕太刀持小太刀以半身中段，剑尖指向打太刀面部。\n2. 仕太刀进入时打太刀斩面；仕太刀举起小太刀，使刀向左滑开（受流），斩面。\n3. 仕太刀举小太刀后退示残心；双方回到中段与起点。",
+      "sectionTitle": "对练形"
+    },
+    "ja": {
+      "title": "日本剣道形 小太刀一本目",
+      "description": "1. 打太刀は太刀で上段、仕太刀は小太刀を半身の中段に構え、剣先を打太刀の顔面につけます。\n2. 仕太刀が入り身になると打太刀は面を打ち、仕太刀は小太刀を上げて左へ受け流し、面を打ちます。\n3. 仕太刀は小太刀を上段にとって下がり残心を示し、互いに中段に戻って元の位置へ帰ります。",
+      "sectionTitle": "日本剣道形"
+    },
+    "ko": {
+      "title": "일본검도형 소태도 1본",
+      "description": "1. 우치다치는 긴 칼로 상단, 시다치는 짧은 칼을 반신 중단으로 잡고 칼끝을 우치다치의 얼굴에 겨눕니다.\n2. 시다치가 들어가면 우치다치가 머리를 베고, 시다치는 소태도를 들어 왼쪽으로 흘려 보낸(우케나가시) 뒤 머리를 벱니다.\n3. 시다치는 소태도를 든 채 물러나 잔심을 보이고 둘 다 중단과 시작 위치로 돌아갑니다.",
+      "sectionTitle": "짝 형"
+    },
+    "th": {
+      "title": "เคนโดคาตะ โคดาจิ 1",
+      "description": "1. อุจิดาจิถือดาบยาวในท่าโจดัน ชิดาจิถือดาบสั้นในท่าชูดังแบบหันข้างครึ่งตัว ปลายดาบชี้หน้าอุจิดาจิ\n2. เมื่อชิดาจิเข้าไป อุจิดาจิฟันเมน ชิดาจิยกโคดาจิขึ้นให้การฟันไถลออกทางซ้าย (อุเคะนางาชิ) แล้วฟันเมน\n3. ชิดาจิถอยโดยยกโคดาจิไว้แสดงซันชิน ทั้งคู่กลับสู่ชูดังและจุดเริ่ม",
+      "sectionTitle": "ท่าร่างคู่"
+    },
+    "ru": {
+      "title": "Кэндо-ката, кодати 1",
+      "description": "1. Утидати с длинным мечом занимает дзёдан; сидати держит короткий меч в тюдан вполоборота, кончик направлен в лицо утидати.\n2. Когда сидати входит, утидати рубит мэн; сидати поднимает кодати, даёт удару соскользнуть влево (укэнагаси) и рубит мэн.\n3. Сидати отходит с поднятым кодати как дзансин; оба возвращаются в тюдан и на исходную позицию.",
+      "sectionTitle": "Парные формы"
+    },
+    "uk": {
+      "title": "Кендо-ката, кодаті 1",
+      "description": "1. Утідаті з довгим мечем займає дзьодан; сідаті тримає короткий меч у тюдан упівоберта, кінчик спрямований в обличчя утідаті.\n2. Коли сідаті входить, утідаті рубає мен; сідаті піднімає кодаті, дає удару зісковзнути ліворуч (укенаґасі) і рубає мен.\n3. Сідаті відходить із піднятим кодаті як дзансін; обоє повертаються в тюдан і на початкову позицію.",
+      "sectionTitle": "Парні форми"
+    }
+  }
+}

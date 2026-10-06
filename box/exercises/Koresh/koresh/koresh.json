@@ -1,0 +1,87 @@
+{
+  "id": "70.1",
+  "key": "koresh",
+  "title": "Koresh",
+  "description": "1. Face a trained partner on mats, each holding a sash or towel wrapped around the other's waist.\n2. Keep the sash grip and try to lift, turn, and throw the partner off the feet without leg grabs or groundwork.\n3. Lower every throw under control, stop when the partner lands, and retake the sash grip.",
+  "colorType": "green",
+  "workoutType": "koresh",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Koresh",
+      "description": "1. Face a trained partner on mats, each holding a sash or towel wrapped around the other's waist.\n2. Keep the sash grip and try to lift, turn, and throw the partner off the feet without leg grabs or groundwork.\n3. Lower every throw under control, stop when the partner lands, and retake the sash grip.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Koresh",
+      "description": "1. Ponte frente a un compañero entrenado sobre el tatami, cada uno sujetando una faja o toalla alrededor de la cintura del otro.\n2. Mantén el agarre de la faja e intenta levantar, girar y proyectar al compañero sin agarrar las piernas ni luchar en el suelo.\n3. Baja cada proyección con control, detente cuando el compañero caiga y vuelve a tomar el agarre de la faja.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Koresh",
+      "description": "1. Fique de frente para um parceiro treinado no tatame, cada um segurando uma faixa ou toalha ao redor da cintura do outro.\n2. Mantenha a pegada na faixa e tente levantar, girar e projetar o parceiro sem agarrar as pernas nem lutar no solo.\n3. Baixe cada projeção com controle, pare quando o parceiro cair e refaça a pegada na faixa.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Koresh",
+      "description": "1. Faites face à un partenaire entraîné sur le tapis, chacun tenant une ceinture d'étoffe ou une serviette autour de la taille de l'autre.\n2. Gardez la saisie et tentez de soulever, faire tourner et projeter le partenaire sans saisir les jambes ni lutter au sol.\n3. Reposez chaque projection avec contrôle, arrêtez quand le partenaire tombe et reprenez la saisie.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Koresch",
+      "description": "1. Stehe einem geübten Partner auf der Matte gegenüber, jeder hält eine Schärpe oder ein Tuch um die Taille des anderen.\n2. Halte den Schärpengriff und versuche, den Partner anzuheben, zu drehen und zu werfen, ohne Beingreifen oder Bodenkampf.\n3. Setze jeden Wurf kontrolliert ab, stoppe, wenn der Partner landet, und fasse die Schärpe neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Koresh",
+      "description": "1. Mettiti di fronte a un partner allenato sul tatami, ciascuno tenendo una fascia o un asciugamano intorno alla vita dell'altro.\n2. Mantieni la presa alla fascia e cerca di sollevare, ruotare e proiettare il partner senza prese alle gambe né lotta a terra.\n3. Abbassa ogni proiezione con controllo, fermati quando il partner atterra e riprendi la presa alla fascia.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "鞑靼腰带摔��",
+      "description": "1. 与训练有素的同伴在垫上相对，各自用腰带或毛巾环抓对方腰部。\n2. 保持腰带握持，设法抱起、转动并摔投同伴，不抓腿、不进行地面技。\n3. 每次摔投可控地放下，同伴落地即停，重新抓腰带。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "コレシュ",
+      "description": "1. 熟練のパートナーとマット上で向かい合い、互いに相手の腰に回した帯かタオルを持ちます。\n2. 帯の組み手を保ち、脚を取らず寝技もせずに相手を持ち上げ、回し、投げようとします。\n3. すべての投げを制御して下ろし、相手が着地したら止め、帯を持ち直します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "코레시",
+      "description": "1. 숙련된 파트너와 매트에서 마주 서서 서로 상대의 허리에 두른 띠나 수건을 잡습니다.\n2. 띠 그립을 유지하며 다리를 잡거나 그라운드 기술 없이 파트너를 들고 돌리고 메치려 합니다.\n3. 모든 메치기를 통제해 내려놓고 파트너가 착지하면 멈춘 뒤 다시 띠를 잡습니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "โคเรช",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ฝึกที่ผ่านการฝึกบนเบาะ ต่างฝ่ายจับผ้าคาดหรือผ้าขนหนูที่พันรอบเอวของอีกฝ่าย\n2. คงการจับผ้าไว้ และพยายามยก หมุน และทุ่มคู่ฝึกโดยไม่จับขาและไม่ปล้ำบนพื้น\n3. วางทุกการทุ่มลงอย่างควบคุม หยุดเมื่อคู่ฝึกลงพื้น แล้วจับผ้าใหม่",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Корэш",
+      "description": "1. Встаньте лицом к подготовленному партнёру на ковре, каждый держит кушак или полотенце, обёрнутое вокруг пояса другого.\n2. Сохраняя захват за кушак, пытайтесь поднять, развернуть и бросить партнёра без захватов ног и борьбы в партере.\n3. Опускайте каждый бросок под контролем, останавливайтесь при приземлении партнёра и снова берите захват за кушак.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кореш",
+      "description": "1. Станьте обличчям до підготовленого партнера на килимі, кожен тримає кушак або рушник, обгорнутий навколо пояса іншого.\n2. Зберігаючи захват за кушак, намагайтеся підняти, розвернути й кинути партнера без захватів ніг і боротьби в партері.\n3. Опускайте кожен кидок під контролем, зупиняйтеся, коли партнер приземлиться, і знову беріть захват за кушак.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "54.23",
+  "key": "fencing_lateral_parry",
+  "title": "Lateral Parry",
+  "description": "1. Stand en garde at lunging distance; the partner attacks with a slow straight thrust to the inside or outside high line.\n2. Move the hand horizontally across, for example from sixte to quarte or quarte to sixte, meeting the attacking blade with your strong and keeping the point near the target.\n3. Riposte with a straight thrust from the parry, recover to en garde, and swap roles; increase speed only when the parries stay clean.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Lateral Parry",
+      "description": "1. Stand en garde at lunging distance; the partner attacks with a slow straight thrust to the inside or outside high line.\n2. Move the hand horizontally across, for example from sixte to quarte or quarte to sixte, meeting the attacking blade with your strong and keeping the point near the target.\n3. Riposte with a straight thrust from the parry, recover to en garde, and swap roles; increase speed only when the parries stay clean.",
+      "sectionTitle": "Parries"
+    },
+    "es": {
+      "title": "Parada lateral",
+      "description": "1. En guardia a distancia de fondo; el compañero ataca con una estocada directa lenta a la línea alta interior o exterior.\n2. Mueve la mano en horizontal, por ejemplo de sexta a cuarta o de cuarta a sexta, recibiendo la hoja atacante con tu fuerte y la punta cerca del blanco.\n3. Responde con una estocada directa desde la parada, vuelve a guardia y cambia papeles; aumenta la velocidad solo si las paradas son limpias.",
+      "sectionTitle": "Paradas"
+    },
+    "pt": {
+      "title": "Parada lateral",
+      "description": "1. Em guarda à distância de afundo; o parceiro ataca com estocada direta lenta à linha alta interna ou externa.\n2. Mova a mão na horizontal, por exemplo de sexta para quarta ou de quarta para sexta, recebendo a lâmina atacante com seu forte e a ponta perto do alvo.\n3. Responda com estocada direta a partir da parada, volte à guarda e troque papéis; aumente a velocidade só com paradas limpas.",
+      "sectionTitle": "Paradas"
+    },
+    "fr": {
+      "title": "Parade latérale",
+      "description": "1. En garde à distance de fente ; le partenaire attaque par un coup droit lent en ligne haute intérieure ou extérieure.\n2. Déplacez la main horizontalement, par exemple de sixte en quarte ou de quarte en sixte, en recevant le fer avec votre fort, pointe près de la cible.\n3. Ripostez par un coup droit depuis la parade, revenez en garde et inversez ; n’accélérez que si les parades restent nettes.",
+      "sectionTitle": "Parades"
+    },
+    "de": {
+      "title": "Seitparade",
+      "description": "1. Fechtstellung auf Ausfalldistanz; der Partner greift mit langsamem geradem Stoß in die innere oder äußere hohe Linie an.\n2. Bewege die Hand waagerecht, etwa von Sixt nach Quart oder Quart nach Sixt, und nimm die Angriffsklinge mit deiner Stärke auf, die Spitze nahe am Ziel.\n3. Ripostiere mit geradem Stoß aus der Parade, kehre zurück und tauscht; steigere das Tempo nur bei sauberen Paraden.",
+      "sectionTitle": "Paraden"
+    },
+    "it": {
+      "title": "Parata semplice laterale",
+      "description": "1. In guardia a distanza d’affondo; il compagno attacca con una botta dritta lenta in linea alta interna o esterna.\n2. Sposta la mano orizzontalmente, per esempio da sesta a quarta o da quarta a sesta, ricevendo la lama col tuo forte e la punta vicina al bersaglio.\n3. Rispondi con una botta dritta dalla parata, torna in guardia e scambiate; aumenta la velocità solo se le parate restano pulite.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "横向防守",
+      "description": "1. 在弓步距离成实战姿势；同伴以缓慢直刺攻击内侧或外侧高线。\n2. 手水平横移（如第六到第四位或第四到第六位），用你剑的强部接住来剑，剑尖保持靠近目标。\n3. 从防守位置直刺还击，恢复实战姿势后交换角色；防守干净后再加快速度。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "ラテラル・パラード",
+      "description": "1. ファントの間合いでアンガルドを取り、相手は内側か外側の高いラインへゆっくりストレートで攻撃します。\n2. 手を水平に移し（例：シクストからカルト、カルトからシクスト）、攻撃してきた剣を自分の強部で受け、剣先は標的の近くに保ちます。\n3. パラードの位置からストレートでリポストし、アンガルドに戻って交代します。パラードがきれいな場合のみ速度を上げます。",
+      "sectionTitle": "パラード"
+    },
+    "ko": {
+      "title": "측면 패리",
+      "description": "1. 런지 거리에서 앙가르드를 취하고, 파트너는 안쪽이나 바깥쪽 높은 라인으로 느린 직접 찌르기를 합니다.\n2. 손을 수평으로 옮겨(예: 식스트에서 카르트, 카르트에서 식스트) 공격 칼을 내 강부로 받고 칼끝은 표적 가까이 둡니다.\n3. 패리 위치에서 직접 찌르기로 리포스트하고 앙가르드로 돌아와 역할을 바꾸며, 패리가 깔끔할 때만 속도를 높입니다.",
+      "sectionTitle": "패리"
+    },
+    "th": {
+      "title": "การปัดด้านข้าง",
+      "description": "1. ตั้งอองการ์ดในระยะลันจ์ คู่ฝึกโจมตีด้วยการแทงตรงช้าๆ ไปยังแนวสูงด้านในหรือด้านนอก\n2. เลื่อนมือในแนวนอน เช่น จากซิกซ์ต์ไปการ์ตหรือจากการ์ตไปซิกซ์ต์ รับดาบที่โจมตีด้วยส่วนแข็ง โดยปลายดาบอยู่ใกล้เป้า\n3. โต้กลับด้วยการแทงตรงจากท่าปัด กลับสู่อองการ์ดแล้วสลับบทบาท เพิ่มความเร็วเมื่อปัดได้สะอาดเท่านั้น",
+      "sectionTitle": "การปัดป้อง"
+    },
+    "ru": {
+      "title": "Простая защита (боковая)",
+      "description": "1. Стойка на дистанции выпада; партнёр медленно атакует прямым уколом во внутреннюю или наружную верхнюю линию.\n2. Переместите кисть горизонтально, например из шестой в четвёртую или из четвёртой в шестую, встречая атакующий клинок сильной частью, остриё у цели.\n3. Ответьте прямым уколом из защиты, вернитесь в стойку и поменяйтесь ролями; ускоряйтесь только при чистых защитах.",
+      "sectionTitle": "Защиты"
+    },
+    "uk": {
+      "title": "Простий захист (боковий)",
+      "description": "1. Стійка на дистанції випаду; партнер повільно атакує прямим уколом у внутрішню чи зовнішню верхню лінію.\n2. Перемістіть кисть горизонтально, наприклад із шостої в четверту чи з четвертої в шосту, зустрічаючи атакувальний клинок сильною частиною, вістря біля цілі.\n3. Відповідайте прямим уколом із захисту, поверніться в стійку й поміняйтеся ролями; прискорюйтеся лише за чистих захистів.",
+      "sectionTitle": "Захисти"
+    }
+  }
+}

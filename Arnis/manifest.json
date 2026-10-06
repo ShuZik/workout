@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#E6BF00",
+    "colorType": "yellow",
+    "folder": "Arnis",
+    "id": "45",
+    "icon": "Arnis/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Arnis",
+    "workoutType": "arnis",
+    "translations": {
+      "en": {
+        "title": "Arnis"
+      },
+      "es": {
+        "title": "Arnis"
+      },
+      "pt": {
+        "title": "Arnis"
+      },
+      "fr": {
+        "title": "Arnis"
+      },
+      "de": {
+        "title": "Arnis"
+      },
+      "it": {
+        "title": "Arnis"
+      },
+      "zh-Hans": {
+        "title": "菲律宾棍术"
+      },
+      "ja": {
+        "title": "アーニス"
+      },
+      "ko": {
+        "title": "아르니스"
+      },
+      "th": {
+        "title": "อาร์นิส"
+      },
+      "ru": {
+        "title": "Арнис"
+      },
+      "uk": {
+        "title": "Арніс"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Arnis/exercises/arnis/Icon.png",
+      "json": "Arnis/exercises/arnis/arnis.json"
+    },
+    {
+      "icon": "Arnis/exercises/twelveAnglesOfAttack/Icon.png",
+      "json": "Arnis/exercises/twelveAnglesOfAttack/twelveAnglesOfAttack.json"
+    },
+    {
+      "icon": "Arnis/exercises/glidingStepsWithLeadChange/Icon.png",
+      "json": "Arnis/exercises/glidingStepsWithLeadChange/glidingStepsWithLeadChange.json"
+    },
+    {
+      "icon": "Arnis/exercises/karenza/Icon.png",
+      "json": "Arnis/exercises/karenza/karenza.json"
+    },
+    {
+      "icon": "Arnis/exercises/singleSinawali/Icon.png",
+      "json": "Arnis/exercises/singleSinawali/singleSinawali.json"
+    },
+    {
+      "icon": "Arnis/exercises/doubleSinawali/Icon.png",
+      "json": "Arnis/exercises/doubleSinawali/doubleSinawali.json"
+    },
+    {
+      "icon": "Arnis/exercises/padWorkLevel1/Icon.png",
+      "json": "Arnis/exercises/padWorkLevel1/padWorkLevel1.json"
+    },
+    {
+      "icon": "Arnis/exercises/blockOnReaction/Icon.png",
+      "json": "Arnis/exercises/blockOnReaction/blockOnReaction.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "84.5",
+  "key": "nihon_kempo_front_kick_do",
+  "title": "Front Kick to the Do",
+  "description": "1. Holder wears the do body protector or holds a kick shield at the midsection; kicker takes kamae at kicking distance.\n2. Kicker lifts the knee and thrusts the ball or sole of the foot into the do, then snaps the leg back and returns to kamae.\n3. Kicker uses controlled power on the protected target only and alternates legs; holder calls stop if the strike drifts, and roles switch at the signal.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Front Kick to the Do",
+      "description": "1. Holder wears the do body protector or holds a kick shield at the midsection; kicker takes kamae at kicking distance.\n2. Kicker lifts the knee and thrusts the ball or sole of the foot into the do, then snaps the leg back and returns to kamae.\n3. Kicker uses controlled power on the protected target only and alternates legs; holder calls stop if the strike drifts, and roles switch at the signal.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Patada frontal al do",
+      "description": "1. El receptor lleva el peto do o sostiene un escudo de patadas a la altura del abdomen; el pateador se coloca en kamae a distancia de patada.\n2. El pateador eleva la rodilla y empuja con la planta o la parte anterior del pie contra el do, luego recoge la pierna con rapidez y vuelve a kamae.\n3. El pateador usa una potencia controlada solo sobre la zona protegida y alterna piernas; el receptor ordena parar si el golpe se desvía, y se intercambian los papeles a la señal.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Chute frontal no do",
+      "description": "1. O parceiro de apoio veste o protetor do ou segura um escudo na altura do abdômen; o chutador fica em kamae na distância de chute.\n2. O chutador eleva o joelho e empurra a planta ou a sola do pé contra o do, depois recolhe a perna rapidamente e volta ao kamae.\n3. O chutador usa força controlada apenas no alvo protegido e alterna as pernas; o parceiro de apoio manda parar se o golpe desviar, e os papéis se invertem ao sinal.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Coup de pied de face au do",
+      "description": "1. Le partenaire porte le plastron do ou tient un bouclier de frappe au niveau du ventre ; le frappeur se met en kamae à distance de coup de pied.\n2. Le frappeur monte le genou et pousse la plante ou le bol du pied dans le do, puis ramène vivement la jambe et revient en kamae.\n3. Le frappeur dose sa puissance et ne vise que la zone protégée en alternant les jambes ; le partenaire arrête l'exercice si la frappe dévie, et les rôles s'inversent au signal.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Fronttritt auf den Do",
+      "description": "1. Der Halter trägt den Do-Körperschutz oder hält ein Schlagpolster vor den Bauch; der Treter steht im Kamae auf Trittdistanz.\n2. Der Treter hebt das Knie, stößt Fußballen oder Fußsohle in den Do, zieht das Bein schnell zurück und kehrt ins Kamae zurück.\n3. Der Treter tritt kontrolliert nur auf das geschützte Ziel und wechselt die Beine; der Halter ruft Stopp, wenn der Tritt abweicht, und auf das Signal werden die Rollen getauscht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Calcio frontale al do",
+      "description": "1. Il compagno indossa la corazza do o tiene un colpitore all'altezza dell'addome; chi calcia si mette in kamae a distanza di calcio.\n2. Chi calcia solleva il ginocchio e spinge l'avampiede o la pianta del piede nel do, poi richiama rapidamente la gamba e torna in kamae.\n3. Chi calcia usa potenza controllata solo sul bersaglio protetto e alterna le gambe; il compagno chiama lo stop se il colpo devia, e al segnale i ruoli si scambiano.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "前踢胴部",
+      "description": "1. 持靶者穿戴胴甲或在腹部高度持脚靶；踢击者在踢击距离上摆好构式。\n2. 踢击者提膝，以前脚掌或脚底向前蹬入胴甲，随即快速收腿回到构式。\n3. 踢击者只对护具部位控制力度出腿，左右腿交替；若踢偏，持靶者立即喊停，听到信号后互换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "胴への前蹴り",
+      "description": "1. 受け手は胴を着けるかキックミットを腹の高さで持ち、蹴り手は蹴りの間合いで構えます。\n2. 蹴り手は膝を引き上げ、上足底または足裏で胴へ突き込むように蹴り、素早く足を引いて構えに戻ります。\n3. 蹴り手は防具のある部位だけを制御した力で蹴り、左右交互に行います。蹴りがそれたら受け手が止め、合図で役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "몸통 보호구 앞차기",
+      "description": "1. 받는 사람은 몸통 보호구를 입거나 킥 미트를 배 높이에 들고, 차는 사람은 차기 거리에서 카마에를 잡습니다.\n2. 차는 사람은 무릎을 들어 앞꿈치나 발바닥으로 보호구를 밀어 차고, 재빨리 다리를 거두어 카마에로 돌아옵니다.\n3. 차는 사람은 보호된 부위만 조절된 힘으로 차며 다리를 번갈아 씁니다. 차기가 빗나가면 받는 사람이 멈추게 하고, 신호에 따라 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เตะตรงเข้าโด",
+      "description": "1. ผู้รับสวมเกราะลำตัวโดหรือถือเป้าเตะไว้ระดับท้อง ผู้เตะตั้งคามาเอะในระยะเตะ\n2. ผู้เตะยกเข่าแล้วถีบด้วยจมูกเท้าหรือฝ่าเท้าเข้าที่โด จากนั้นดึงขากลับอย่างรวดเร็วและกลับสู่คามาเอะ\n3. ผู้เตะใช้แรงที่ควบคุมได้เฉพาะเป้าที่มีเครื่องป้องกันและสลับขา ผู้รับสั่งหยุดหากลูกเตะเบี่ยง และสลับบทบาทเมื่อได้ยินสัญญาณ",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Прямой удар ногой в до",
+      "description": "1. Держатель надевает нагрудник до или держит макивару на уровне живота; бьющий встаёт в камаэ на дистанции удара ногой.\n2. Бьющий поднимает колено и толчком вбивает подушечку или подошву стопы в до, затем быстро возвращает ногу и встаёт в камаэ.\n3. Бьющий бьёт с контролем только в защищённую зону, чередуя ноги; держатель останавливает упражнение, если удар уходит в сторону, и по сигналу партнёры меняются ролями.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Прямий удар ногою в до",
+      "description": "1. Тримач одягає нагрудник до або тримає лапу на рівні живота; той, хто б'є, стає в камае на дистанції удару ногою.\n2. Той, хто б'є, піднімає коліно й поштовхом вбиває подушечку або підошву стопи в до, потім швидко повертає ногу й стає в камае.\n3. Той, хто б'є, працює з контролем лише в захищену зону, чергуючи ноги; тримач зупиняє вправу, якщо удар іде вбік, і за сигналом партнери міняються ролями.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

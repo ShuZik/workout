@@ -1,0 +1,87 @@
+{
+  "id": "66.2",
+  "key": "jukendo_nodo",
+  "title": "Nodo Thrust",
+  "description": "1. Both partners wear bogu with throat protection; the attacker takes kamae with the mokuju at the receiver's throat line at one-step distance.\n2. The attacker steps in with the front foot and extends both arms together so the padded tip meets the throat flap squarely, calling the target with kiai.\n3. Withdraw the tip immediately along the same line back to kamae; the receiver resets distance and roles alternate.",
+  "colorType": "sage",
+  "workoutType": "jukendo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Partner Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Nodo Thrust",
+      "description": "1. Both partners wear bogu with throat protection; the attacker takes kamae with the mokuju at the receiver's throat line at one-step distance.\n2. The attacker steps in with the front foot and extends both arms together so the padded tip meets the throat flap squarely, calling the target with kiai.\n3. Withdraw the tip immediately along the same line back to kamae; the receiver resets distance and roles alternate.",
+      "sectionTitle": "Partner Techniques"
+    },
+    "es": {
+      "title": "Estocada a nodo",
+      "description": "1. Ambos compañeros llevan bogu con protección de garganta; el atacante toma kamae con el mokuju en la línea de la garganta del receptor a un paso de distancia.\n2. El atacante entra con el pie delantero y extiende ambos brazos a la vez para que la punta acolchada toque de lleno el protector de garganta, anunciando el objetivo con kiai.\n3. Retira la punta de inmediato por la misma línea a kamae; el receptor restablece la distancia y se alternan los roles.",
+      "sectionTitle": "Técnicas en pareja"
+    },
+    "pt": {
+      "title": "Estocada ao nodo",
+      "description": "1. Ambos usam bogu com proteção de garganta; o atacante assume kamae com o mokuju na linha da garganta do receptor a um passo de distância.\n2. O atacante entra com o pé da frente e estende os dois braços juntos para que a ponta acolchoada toque em cheio o protetor de garganta, anunciando o alvo com kiai.\n3. Recolha a ponta imediatamente pela mesma linha a kamae; o receptor restabelece a distância e os papéis alternam.",
+      "sectionTitle": "Técnicas em dupla"
+    },
+    "fr": {
+      "title": "Pique à nodo",
+      "description": "1. Les deux partenaires portent le bogu avec protège-gorge ; l’attaquant prend kamae, mokuju sur la ligne de gorge du receveur à un pas.\n2. L’attaquant entre du pied avant et tend les deux bras ensemble pour que la pointe rembourrée touche franchement le protège-gorge, en annonçant la cible par le kiai.\n3. Retirez aussitôt la pointe sur la même ligne en kamae ; le receveur reprend la distance et les rôles alternent.",
+      "sectionTitle": "Techniques à deux"
+    },
+    "de": {
+      "title": "Nodo-Stoß",
+      "description": "1. Beide tragen Bogu mit Kehlschutz; der Angreifer nimmt Kamae mit dem Mokuju auf der Kehllinie des Partners auf Ein-Schritt-Distanz.\n2. Der Angreifer tritt mit dem vorderen Fuß ein und streckt beide Arme gemeinsam, sodass die gepolsterte Spitze den Kehlschutz gerade trifft, und sagt das Ziel mit Kiai an.\n3. Die Spitze sofort auf derselben Linie ins Kamae zurückziehen; der Partner stellt die Distanz wieder her, die Rollen wechseln.",
+      "sectionTitle": "Partnertechniken"
+    },
+    "it": {
+      "title": "Affondo a nodo",
+      "description": "1. Entrambi indossano il bogu con protezione della gola; l’attaccante assume kamae con il mokuju sulla linea della gola del ricevente a un passo di distanza.\n2. L’attaccante entra con il piede anteriore ed estende insieme le braccia perché la punta imbottita incontri in pieno la protezione della gola, chiamando il bersaglio con il kiai.\n3. Ritira subito la punta sulla stessa linea in kamae; il ricevente ristabilisce la distanza e i ruoli si alternano.",
+      "sectionTitle": "Tecniche in coppia"
+    },
+    "zh-Hans": {
+      "title": "刺喉",
+      "description": "1. 双方穿戴带护喉的护具；进攻者持木铳成构，剑尖对准接受者咽喉线，相距一步。\n2. 进攻者前脚踏入，双臂同时伸出，使带垫的刺尖正对护喉，以气合喊出部位。\n3. 立即沿同一线路收回成构；接受者恢复间合，角色轮换。",
+      "sectionTitle": "对练技术"
+    },
+    "ja": {
+      "title": "喉突き",
+      "description": "1. 互いに喉垂れのある防具を着け、突く側は一歩の間合いで木銃の剣先を相手の喉の線につけて構えます。\n2. 前足を踏み込みながら両腕をそろえて伸ばし、タンポを喉垂れに真っ直ぐ当て、気合で「喉」と発声します。\n3. すぐに同じ線で剣先を引いて構えに戻り、受け側は間合いを戻し、役割を交代します。",
+      "sectionTitle": "対人技"
+    },
+    "ko": {
+      "title": "목 찌르기",
+      "description": "1. 둘 다 목 보호대가 있는 호구를 착용하고, 공격자는 한 걸음 거리에서 목총 칼끝을 받는 사람의 목선에 겨눕니다.\n2. 공격자는 앞발을 내딛으며 두 팔을 함께 뻗어 패드 달린 끝이 목 보호대에 정확히 닿게 하고 기합으로 부위를 외칩니다.\n3. 곧바로 같은 선을 따라 끝을 자세로 거두고, 받는 사람은 거리를 되찾으며 역할을 바꿉니다.",
+      "sectionTitle": "짝 기술"
+    },
+    "th": {
+      "title": "แทงคอ (โนโดะ)",
+      "description": "1. ทั้งคู่สวมโบงุที่มีเกราะป้องกันคอ ผู้โจมตีตั้งท่าโดยปลายโมคุจูอยู่แนวคอของผู้รับในระยะหนึ่งก้าว\n2. ผู้โจมตีก้าวเท้าหน้าเข้าและเหยียดแขนทั้งสองพร้อมกันให้ปลายบุนวมกระทบเกราะคอตรงๆ พร้อมเปล่งคิไอบอกเป้า\n3. ดึงปลายกลับทันทีตามแนวเดิมสู่ท่า ผู้รับตั้งระยะใหม่และสลับบทบาท",
+      "sectionTitle": "เทคนิคคู่"
+    },
+    "ru": {
+      "title": "Укол в нодо",
+      "description": "1. Оба партнёра в защитном снаряжении с защитой горла; атакующий занимает камаэ, кончик мокудзю на линии горла партнёра на дистанции одного шага.\n2. Атакующий шагает передней ногой и одновременно вытягивает обе руки, чтобы мягкий наконечник прямо попал в защиту горла, называя цель киай.\n3. Сразу уведите наконечник по той же линии в камаэ; партнёр восстанавливает дистанцию, роли меняются.",
+      "sectionTitle": "Парные техники"
+    },
+    "uk": {
+      "title": "Укол у нодо",
+      "description": "1. Обидва партнери в захисному спорядженні із захистом горла; атакувальник займає камае, кінчик мокудзю на лінії горла партнера на дистанції одного кроку.\n2. Атакувальник ступає передньою ногою й одночасно витягує обидві руки, щоб м’який наконечник прямо влучив у захист горла, називаючи ціль кіай.\n3. Одразу відведіть наконечник тією самою лінією в камае; партнер відновлює дистанцію, ролі змінюються.",
+      "sectionTitle": "Парні техніки"
+    }
+  }
+}

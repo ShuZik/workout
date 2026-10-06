@@ -1,0 +1,90 @@
+{
+  "id": "8.35",
+  "key": "taekwondo_hwa_rang",
+  "title": "Hwa-Rang",
+  "description": "1. Start in closed ready stance C and perform the 29-movement pattern, opening with a palm pushing block and middle punch in sitting stance.\n2. Include the upward punch, the downward knife-hand strike, side piercing kicks, turning punches in L-stance and the fixed-stance punches.\n3. Finish with the closing knife-hand and forearm blocks, then return to closed ready stance C.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hwa-Rang",
+      "description": "1. Start in closed ready stance C and perform the 29-movement pattern, opening with a palm pushing block and middle punch in sitting stance.\n2. Include the upward punch, the downward knife-hand strike, side piercing kicks, turning punches in L-stance and the fixed-stance punches.\n3. Finish with the closing knife-hand and forearm blocks, then return to closed ready stance C.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Hwa-Rang",
+      "description": "1. Empieza en posición de preparación cerrada C y realiza el patrón de 29 movimientos, abriendo con un bloqueo de empuje con la palma y puñetazo medio en posición sentada.\n2. Incluye el puñetazo ascendente, el golpe descendente de mano de cuchillo, patadas laterales penetrantes, puñetazos girando en posición en L y puñetazos en posición fija.\n3. Termina con los bloqueos finales de mano de cuchillo y antebrazo y vuelve a la posición de preparación cerrada C.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Hwa-Rang",
+      "description": "1. Comece na posição de preparação fechada C e execute o padrão de 29 movimentos, abrindo com bloqueio de empurrão com a palma e soco médio em base sentada.\n2. Inclua o soco ascendente, o golpe descendente com mão em faca, chutes laterais penetrantes, socos girando na base em L e socos em base fixa.\n3. Termine com os bloqueios finais de mão em faca e antebraço e volte à posição de preparação fechada C.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Hwa-Rang",
+      "description": "1. Partez en position de préparation fermée C et exécutez l’enchaînement de 29 mouvements, en ouvrant par un blocage poussé de la paume et un coup de poing moyen en position assise.\n2. Intégrez le coup de poing montant, la frappe descendante main en sabre, les coups de pied latéraux perçants, les coups de poing en pivot en position en L et les coups de poing en position fixe.\n3. Terminez par les derniers blocages main en sabre et avant-bras, puis revenez en position de préparation fermée C.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Hwa-Rang",
+      "description": "1. Beginne im geschlossenen Bereitschaftsstand C und laufe die 29 Bewegungen, eröffnet mit Handflächen-Schiebeblock und mittlerem Fauststoß im Sitzstand.\n2. Baue den Aufwärtsfauststoß, den abwärts geführten Handkantenschlag, Seitstoßtritte, Drehfauststöße im L-Stand und Fauststöße im festen Stand ein.\n3. Schließe mit den letzten Handkanten- und Unterarmblocks ab und kehre in den geschlossenen Bereitschaftsstand C zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Hwa-Rang",
+      "description": "1. Parti dalla posizione di pronti chiusa C ed esegui la forma di 29 movimenti, aprendo con una parata a spinta di palmo e pugno medio in posizione seduta.\n2. Inserisci il pugno ascendente, il colpo discendente a mano a coltello, i calci laterali penetranti, i pugni ruotando in posizione a L e i pugni in posizione fissa.\n3. Concludi con le ultime parate a mano a coltello e d’avambraccio, poi torna alla posizione di pronti chiusa C.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "花郎型（Hwa-Rang）",
+      "description": "1. 以合步预备式C开始，完成29个动作，开头为坐马步推掌格挡与中段冲拳。\n2. 包括上冲拳、下劈手刀、侧踹、L形步转身冲拳和固定步冲拳。\n3. 以最后的手刀和前臂格挡收尾，回到合步预备式C。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ファラン（花郎）",
+      "description": "1. 閉足準備立ちCから始め、騎馬立ちの掌押し受けと中段突きで29動作の型を開始します。\n2. 上突き、手刀打ち下ろし、横蹴り、L字立ちでの回転突き、固定立ちの突きを含めます。\n3. 最後の手刀受けと腕受けで締めくくり、閉足準備立ちCに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "화랑",
+      "description": "1. 모아 준비서기 C에서 시작해 앉은서기 손바닥 밀어막기와 중단 지르기로 29동작 틀을 엽니다.\n2. 올려지르기, 손칼 내려치기, 옆차찌르기, L서기 돌며 지르기, 고정서기 지르기를 포함합니다.\n3. 마지막 손칼 막기와 팔목 막기로 마무리하고 모아 준비서기 C로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ฮวารัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบชิด C และทำรูปแบบ 29 จังหวะ โดยเปิดด้วยการปัดดันด้วยฝ่ามือและหมัดระดับกลางในท่ายืนนั่ง\n2. รวมหมัดเสย การฟันสันมือลง การเตะข้างแบบเจาะ หมัดหมุนตัวในท่ายืนรูปตัวแอล และหมัดในท่ายืนคงที่\n3. จบด้วยการปัดด้วยสันมือและแขนชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบชิด C",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Хваран",
+      "description": "1. Начните из закрытой готовой стойки C и выполните туль из 29 движений, открыв его толкающим блоком ладонью и ударом на средний уровень в стойке всадника.\n2. Включите удар вверх, нисходящий удар ребром ладони, проникающие боковые удары ногой, удары с разворотом в L-образной стойке и удары в фиксированной стойке.\n3. Завершите последними блоками ребром ладони и предплечьем и вернитесь в закрытую готовую стойку C.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Хваран",
+      "description": "1. Почніть із закритої готової стійки C й виконайте туль із 29 рухів, відкривши його штовхальним блоком долонею та ударом на середній рівень у стійці вершника.\n2. Додайте удар угору, низхідний удар ребром долоні, проникні бічні удари ногою, удари з розворотом у L-подібній стійці та удари у фіксованій стійці.\n3. Завершіть останніми блоками ребром долоні й передпліччям і поверніться в закриту готову стійку C.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

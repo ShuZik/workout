@@ -1,0 +1,90 @@
+{
+  "id": "86.3",
+  "key": "pencak_silat_jurus_tunggal_baku",
+  "title": "Jurus Tunggal Baku",
+  "description": "1. Begin with the opening salute and the ready stance at the starting point, as prescribed for the standard single routine.\n2. Perform the fixed sequence in order, the empty-hand part and then the golok and toya parts with blunt training weapons, with precise stances and clear direction changes.\n3. Finish with the closing salute, keeping every technique distinct and the pace steady rather than rushing between parts.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "pencakSilat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jurus Tunggal Baku",
+      "description": "1. Begin with the opening salute and the ready stance at the starting point, as prescribed for the standard single routine.\n2. Perform the fixed sequence in order, the empty-hand part and then the golok and toya parts with blunt training weapons, with precise stances and clear direction changes.\n3. Finish with the closing salute, keeping every technique distinct and the pace steady rather than rushing between parts.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Jurus Tunggal Baku",
+      "description": "1. Empieza con el saludo inicial y la postura de preparación en el punto de salida, como prescribe la rutina individual estándar.\n2. Ejecuta la secuencia fija en orden, la parte a mano vacía y luego las partes de golok y toya con armas de entrenamiento romas, con posturas precisas y cambios de dirección claros.\n3. Termina con el saludo final, manteniendo cada técnica nítida y un ritmo constante sin precipitarte entre las partes.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Jurus Tunggal Baku",
+      "description": "1. Comece com a saudação de abertura e a base de prontidão no ponto de partida, como prescrito para a rotina individual padrão.\n2. Execute a sequência fixa em ordem, a parte de mãos livres e depois as partes de golok e toya com armas de treino sem fio, com bases precisas e mudanças de direção claras.\n3. Termine com a saudação final, mantendo cada técnica nítida e o ritmo constante, sem pressa entre as partes.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Jurus Tunggal Baku",
+      "description": "1. Commencez par le salut d’ouverture et la position prête au point de départ, comme le prévoit l’enchaînement individuel standard.\n2. Exécutez la séquence fixe dans l’ordre, la partie à mains nues puis les parties au golok et au toya avec des armes d’entraînement émoussées, avec des positions précises et des changements de direction nets.\n3. Terminez par le salut final en gardant chaque technique distincte et un rythme régulier, sans précipiter les transitions.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Jurus Tunggal Baku",
+      "description": "1. Beginne mit dem Eröffnungsgruß und der Bereitschaftsstellung am Startpunkt, wie für die Standard-Einzelform vorgeschrieben.\n2. Führe die feste Abfolge der Reihe nach aus, den waffenlosen Teil und dann die Golok- und Toya-Teile mit stumpfen Trainingswaffen, mit präzisen Stellungen und klaren Richtungswechseln.\n3. Schließe mit dem Abschlussgruß, halte jede Technik deutlich und das Tempo gleichmäßig, ohne zwischen den Teilen zu hetzen.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Jurus Tunggal Baku",
+      "description": "1. Inizia con il saluto d’apertura e la posizione di pronto nel punto di partenza, come previsto per la forma individuale standard.\n2. Esegui la sequenza fissa in ordine, la parte a mani nude e poi le parti con golok e toya con armi da allenamento smussate, con posizioni precise e cambi di direzione netti.\n3. Concludi con il saluto finale, mantenendo ogni tecnica distinta e il ritmo costante senza affrettarti tra le parti.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "单人规定套路（Jurus Tunggal Baku）",
+      "description": "1. 按标准单人套路的规定，在起点行开场礼并成预备势。\n2. 按顺序完成固定套路：先徒手部分，再用钝头训练器械完成弯刀（golok）和棍（toya）部分，姿势准确、转向清晰。\n3. 以收势礼结束，每个动作清楚分明，节奏平稳，不在段落之间赶动作。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ジュルス・トゥンガル・バク",
+      "description": "1. 標準個人型の規定どおり、開始位置で開始の礼と用意の構えから始めます。\n2. 決められた順序で、素手の部分、続いて刃引きの練習用ゴロッとトヤの部分を、正確な構えと明確な方向転換で行います。\n3. 終わりの礼で締めくくり、各技をはっきり区切り、部分間で急がず一定のペースを保ちます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "주루스 퉁갈 바쿠",
+      "description": "1. 표준 개인 품새의 규정대로 시작 지점에서 시작 인사와 준비 자세로 시작합니다.\n2. 정해진 순서대로 맨손 부분을 하고 이어서 날이 없는 훈련용 골록과 토야 부분을 정확한 자세와 분명한 방향 전환으로 수행합니다.\n3. 마무리 인사로 끝내며 각 기술을 분명히 구분하고 부분 사이에서 서두르지 않고 일정한 속도를 유지합니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "จูรุส ตุงกัล บากู",
+      "description": "1. เริ่มด้วยการคำนับเปิดและท่าเตรียมที่จุดเริ่มต้นตามที่กำหนดสำหรับท่ารำเดี่ยวมาตรฐาน\n2. ทำลำดับที่กำหนดตามขั้นตอน ส่วนมือเปล่าแล้วตามด้วยส่วนมีดโกโลกและไม้โตยาด้วยอาวุธฝึกไม่มีคม ท่ายืนแม่นยำและเปลี่ยนทิศชัดเจน\n3. จบด้วยการคำนับปิด ทำแต่ละเทคนิคให้ชัดเจนและรักษาจังหวะสม่ำเสมอ ไม่เร่งระหว่างช่วง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Джурус тунггал баку",
+      "description": "1. Начните с приветствия и готовой стойки в стартовой точке, как предписано для стандартного одиночного комплекса.\n2. Выполните фиксированную последовательность по порядку: часть без оружия, затем части с голоком и тоя тупым учебным оружием, с точными стойками и чёткими сменами направления.\n3. Завершите заключительным приветствием, выполняя каждую технику отчётливо и в ровном темпе, не спеша между частями.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Джурус тунггал баку",
+      "description": "1. Почніть із привітання й готової стійки в стартовій точці, як передбачено для стандартного одиночного комплексу.\n2. Виконайте фіксовану послідовність по черзі: частину без зброї, потім частини з голоком і тоя тупою навчальною зброєю, з точними стійками й чіткими змінами напрямку.\n3. Завершіть заключним привітанням, виконуючи кожну техніку виразно й у рівному темпі, не поспішаючи між частинами.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

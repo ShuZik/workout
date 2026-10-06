@@ -1,0 +1,90 @@
+{
+  "id": "3.24",
+  "key": "kick_boxing_forward_backward_step",
+  "title": "Forward/Backward Step",
+  "description": "1. Begin in kickboxing stance with the knees soft, hands high, and feet at a consistent width.\n2. Advance with the lead foot first and retreat with the rear foot first, sliding rather than crossing the legs.\n3. Bring the second foot the same distance after each step so the stance remains ready for punches or kicks.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Forward/Backward Step",
+      "description": "1. Begin in kickboxing stance with the knees soft, hands high, and feet at a consistent width.\n2. Advance with the lead foot first and retreat with the rear foot first, sliding rather than crossing the legs.\n3. Bring the second foot the same distance after each step so the stance remains ready for punches or kicks.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Paso adelante y atrás",
+      "description": "1. Empieza en postura de kickboxing con las rodillas flexionadas, las manos altas y los pies a una anchura constante.\n2. Avanza primero con el pie delantero y retrocede primero con el trasero, deslizándote en lugar de cruzar las piernas.\n3. Lleva el segundo pie la misma distancia tras cada paso para que la postura siga lista para golpear o patear.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Passo para frente e para trás",
+      "description": "1. Comece na base de kickboxing com os joelhos levemente flexionados, as mãos altas e os pés a uma largura constante.\n2. Avance primeiro com o pé da frente e recue primeiro com o pé de trás, deslizando em vez de cruzar as pernas.\n3. Leve o segundo pé a mesma distância após cada passo para que a base continue pronta para socos ou chutes.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Pas avant et arrière",
+      "description": "1. Commencez en garde de kick-boxing, genoux souples, mains hautes et écartement des pieds constant.\n2. Avancez d’abord avec le pied avant et reculez d’abord avec le pied arrière, en glissant sans croiser les jambes.\n3. Ramenez le second pied de la même distance après chaque pas pour rester prêt à frapper des poings ou des pieds.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Vorwärts- und Rückwärtsschritt",
+      "description": "1. Beginne in der Kickbox-Stellung mit lockeren Knien, hohen Händen und gleichbleibender Fußbreite.\n2. Gehe vorwärts zuerst mit dem vorderen Fuß und rückwärts zuerst mit dem hinteren Fuß, gleitend statt die Beine zu kreuzen.\n3. Ziehe den zweiten Fuß nach jedem Schritt gleich weit nach, damit die Stellung für Schläge oder Tritte bereit bleibt.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Passo avanti e indietro",
+      "description": "1. Inizia in posizione da kickboxing con le ginocchia morbide, le mani alte e i piedi a distanza costante.\n2. Avanza prima con il piede anteriore e arretra prima con quello posteriore, scivolando senza incrociare le gambe.\n3. Porta il secondo piede della stessa distanza dopo ogni passo, così la posizione resta pronta per pugni o calci.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "前后步",
+      "description": "1. 以自由搏击站姿开始，膝盖微屈，双手抬高，双脚间距保持一致。\n2. 前进时前脚先动，后退时后脚先动，用滑步而不是交叉步。\n3. 每一步后另一只脚跟进相同距离，使站姿随时可以出拳或起腿。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前後ステップ",
+      "description": "1. 膝を軽く曲げ、手を高く上げ、足幅を一定に保ったキックボクシングの構えから始めます。\n2. 前進は前足から、後退は後ろ足から動かし、脚を交差させずにすり足で移動します。\n3. 各ステップの後にもう一方の足を同じ距離だけ動かし、パンチや蹴りをいつでも出せる構えを保ちます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "전후 스텝",
+      "description": "1. 무릎을 살짝 굽히고 손을 높이 들고 발 간격을 일정하게 한 킥복싱 자세에서 시작합니다.\n2. 전진할 때는 앞발부터, 후퇴할 때는 뒷발부터 움직이며 다리를 교차하지 않고 미끄러지듯 이동합니다.\n3. 매 스텝 후 다른 발을 같은 거리만큼 옮겨 펀치나 킥을 언제든 낼 수 있는 자세를 유지합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ก้าวหน้าและถอยหลัง",
+      "description": "1. เริ่มในท่ายืนคิกบ็อกซิ่ง งอเข่าเล็กน้อย ยกมือสูง และรักษาระยะห่างเท้าให้คงที่\n2. เดินหน้าโดยขยับเท้าหน้าก่อน และถอยหลังโดยขยับเท้าหลังก่อน ใช้การไถลเท้าแทนการไขว้ขา\n3. ตามด้วยเท้าอีกข้างในระยะเท่ากันทุกครั้ง เพื่อให้ท่ายืนพร้อมออกหมัดหรือเตะเสมอ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Шаг вперёд и назад",
+      "description": "1. Начните в кикбоксёрской стойке: колени мягкие, руки высоко, расстояние между стопами постоянное.\n2. Вперёд двигайтесь передней ногой первой, назад — задней ногой первой, скользя, а не перекрещивая ноги.\n3. После каждого шага подтягивайте вторую стопу на то же расстояние, чтобы стойка оставалась готовой к ударам руками и ногами.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Крок уперед і назад",
+      "description": "1. Почніть у кікбоксерській стійці: коліна м’які, руки високо, відстань між стопами стала.\n2. Уперед рухайтеся передньою ногою першою, назад — задньою ногою першою, ковзаючи, а не перехрещуючи ноги.\n3. Після кожного кроку підтягуйте другу стопу на ту саму відстань, щоб стійка залишалася готовою до ударів руками й ногами.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

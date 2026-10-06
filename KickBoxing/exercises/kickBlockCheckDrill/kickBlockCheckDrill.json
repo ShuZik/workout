@@ -1,0 +1,90 @@
+{
+  "id": "3.14",
+  "key": "kick_boxing_basic_kick_defense",
+  "title": "Kick Block / Check Drill",
+  "description": "1. From a high guard, shift weight to the rear leg as the lead-side low kick approaches.\n2. Lift the lead knee outward and turn the shin toward the kick while keeping the standing knee soft and elbow close.\n3. Lower the checking foot directly back into stance and restore balance before countering.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kick Block / Check Drill",
+      "description": "1. From a high guard, shift weight to the rear leg as the lead-side low kick approaches.\n2. Lift the lead knee outward and turn the shin toward the kick while keeping the standing knee soft and elbow close.\n3. Lower the checking foot directly back into stance and restore balance before countering.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Ejercicio de bloqueo de patada con la espinilla",
+      "description": "1. Desde una guardia alta, pasa el peso a la pierna trasera cuando llegue la patada baja al lado delantero.\n2. Eleva la rodilla delantera hacia fuera y orienta la espinilla hacia la patada manteniendo la rodilla de apoyo flexionada y el codo pegado.\n3. Baja el pie que bloquea directamente a la postura y recupera el equilibrio antes de contraatacar.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Exercício de bloqueio de chute com a canela",
+      "description": "1. Na guarda alta, passe o peso para a perna de trás quando o chute baixo vier no lado da frente.\n2. Eleve o joelho da frente para fora e vire a canela para o chute, mantendo o joelho de apoio flexionado e o cotovelo junto ao corpo.\n3. Baixe o pé que bloqueou direto para a base e recupere o equilíbrio antes de contra-atacar.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Exercice de blocage du tibia",
+      "description": "1. En garde haute, transférez le poids sur la jambe arrière quand le low-kick arrive côté avant.\n2. Levez le genou avant vers l’extérieur et orientez le tibia vers le coup, genou d’appui souple et coude serré.\n3. Reposez directement le pied de blocage en garde et retrouvez l’équilibre avant de contrer.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Trittblock-Drill mit dem Schienbein",
+      "description": "1. Verlagere aus hoher Deckung das Gewicht auf das hintere Bein, wenn der Lowkick auf die vordere Seite kommt.\n2. Hebe das vordere Knie nach außen und drehe das Schienbein zum Tritt, Standknie locker, Ellbogen eng.\n3. Setze den blockenden Fuß direkt in die Stellung zurück und finde das Gleichgewicht, bevor du konterst.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Esercizio di parata del calcio con la tibia",
+      "description": "1. Da una guardia alta, sposta il peso sulla gamba posteriore quando arriva il calcio basso sul lato anteriore.\n2. Solleva il ginocchio anteriore verso l’esterno e gira la tibia verso il calcio, con il ginocchio d’appoggio morbido e il gomito vicino.\n3. Riporta il piede che para direttamente in posizione e recupera l’equilibrio prima di contrattaccare.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "提膝格挡踢腿练习",
+      "description": "1. 保持高位防守，当低扫踢向前侧踢来时，重心移到后腿。\n2. 前膝向外提起，小腿胫骨迎向来腿，支撑腿膝盖微屈，手肘贴紧。\n3. 格挡脚直接落回站姿，恢复平衡后再反击。",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "蹴りのブロック／カットドリル",
+      "description": "1. 高いガードから、前側へのローキックが来たら後ろ脚に体重を移します。\n2. 軸脚の膝を緩め肘を締めたまま、前の膝を外へ上げてすねを蹴りに向けます。\n3. カットした足をそのまま構えに下ろし、バランスを戻してから反撃します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "킥 블록/체크 드릴",
+      "description": "1. 높은 가드에서 앞쪽으로 로킥이 들어오면 뒷다리로 체중을 옮깁니다.\n2. 지지 무릎은 부드럽게, 팔꿈치는 붙인 채 앞 무릎을 바깥으로 들어 정강이를 킥 쪽으로 향합니다.\n3. 막은 발을 바로 자세로 내려놓고 균형을 회복한 뒤 반격합니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "ฝึกยกแข้งรับลูกเตะ",
+      "description": "1. จากการ์ดสูง ถ่ายน้ำหนักไปขาหลังเมื่อลูกเตะต่ำเข้ามาทางด้านหน้า\n2. ยกเข่าหน้าออกด้านนอกและหันหน้าแข้งรับลูกเตะ โดยงอเข่าขายืนเล็กน้อยและหนีบศอกไว้\n3. วางเท้าที่ยกรับลงสู่ท่ายืนทันทีและคืนการทรงตัวก่อนสวนกลับ",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Блок голенью от удара ногой",
+      "description": "1. Из высокой защиты перенесите вес на заднюю ногу, когда к передней стороне приближается лоу-кик.\n2. Поднимите переднее колено наружу и разверните голень навстречу удару, держа опорное колено мягким, а локоть прижатым.\n3. Сразу опустите блокирующую стопу в стойку и восстановите равновесие перед контратакой.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Блок гомілкою від удару ногою",
+      "description": "1. З високого захисту перенесіть вагу на задню ногу, коли до переднього боку наближається лоу-кік.\n2. Підніміть переднє коліно назовні й розверніть гомілку назустріч удару, тримаючи опорне коліно м’яким, а лікоть притиснутим.\n3. Одразу опустіть блокувальну стопу в стійку й відновіть рівновагу перед контратакою.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

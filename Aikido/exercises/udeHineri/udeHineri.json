@@ -1,0 +1,90 @@
+{
+  "id": "43.10",
+  "key": "aikido_ude_hineri",
+  "title": "Ude Hineri",
+  "description": "1. Turn uke's arm so the elbow bends upward and secure the wrist with one hand and the elbow with the other.\n2. Twist the arm in toward uke's shoulder while stepping around to lead uke downward.\n3. Bring uke to the mat and hold the lock with gradual pressure, releasing immediately at a tap.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ude Hineri",
+      "description": "1. Turn uke's arm so the elbow bends upward and secure the wrist with one hand and the elbow with the other.\n2. Twist the arm in toward uke's shoulder while stepping around to lead uke downward.\n3. Bring uke to the mat and hold the lock with gradual pressure, releasing immediately at a tap.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Ude Hineri",
+      "description": "1. Gira el brazo de uke para que el codo se doble hacia arriba y asegura la muñeca con una mano y el codo con la otra.\n2. Tuerce el brazo hacia el hombro de uke mientras te desplazas alrededor para llevarlo hacia abajo.\n3. Lleva a uke al tapiz y mantén la llave con presión gradual, soltando de inmediato ante un toque.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Ude Hineri",
+      "description": "1. Gire o braço de uke para que o cotovelo dobre para cima e prenda o punho com uma mão e o cotovelo com a outra.\n2. Torça o braço em direção ao ombro de uke enquanto se desloca ao redor para levá-lo para baixo.\n3. Leve uke ao tatame e mantenha a chave com pressão gradual, soltando imediatamente ao toque.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Ude Hineri",
+      "description": "1. Tournez le bras de uke pour que le coude se plie vers le haut et tenez le poignet d’une main et le coude de l’autre.\n2. Tordez le bras vers l’épaule de uke en vous déplaçant autour de lui pour l’amener vers le bas.\n3. Amenez uke au tapis et maintenez la clé avec une pression progressive, en relâchant immédiatement à la tape.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Ude Hineri",
+      "description": "1. Drehe Ukes Arm so, dass der Ellbogen nach oben gebeugt ist, und sichere Handgelenk und Ellbogen mit je einer Hand.\n2. Verdrehe den Arm zu Ukes Schulter hin, während du um ihn herumgehst und ihn nach unten führst.\n3. Bringe Uke auf die Matte und halte den Hebel mit allmählichem Druck; löse sofort beim Abklopfen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Ude Hineri",
+      "description": "1. Ruota il braccio di uke così che il gomito si pieghi verso l’alto e fissa il polso con una mano e il gomito con l’altra.\n2. Torci il braccio verso la spalla di uke mentre ti sposti attorno per portarlo in basso.\n3. Porta uke sul tappeto e mantieni la leva con pressione graduale, lasciando subito al tap.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "腕捻",
+      "description": "1. 转动受方手臂使其肘部向上弯曲，一手固定手腕，另一手固定肘部。\n2. 把手臂向受方肩部方向扭转，同时绕步将其带向下方。\n3. 把受方带到垫上，以渐进压力保持关节技，拍垫即立即松开。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "腕捻",
+      "description": "1. 受けの腕を回して肘を上向きに曲げ、片手で手首、もう一方の手で肘を固めます。\n2. 受けの周りへ回り込みながら腕を受けの肩の方へひねり、下へ導きます。\n3. 受けをマットへ導き、徐々に圧をかけて極め、タップがあればすぐに解放します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "우데 히네리",
+      "description": "1. 우케의 팔을 돌려 팔꿈치가 위로 굽게 하고 한 손으로 손목, 다른 손으로 팔꿈치를 고정합니다.\n2. 우케 주위를 돌며 팔을 우케의 어깨 쪽으로 비틀어 아래로 이끕니다.\n3. 우케를 매트로 데려가 서서히 압박하며 잠그고 탭하면 즉시 풉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "อุเดะฮิเนริ",
+      "description": "1. หมุนแขนอุเกะให้ข้อศอกงอขึ้น แล้วใช้มือหนึ่งยึดข้อมือ อีกมือยึดข้อศอก\n2. บิดแขนเข้าหาไหล่อุเกะพร้อมก้าวอ้อมเพื่อนำอุเกะลงล่าง\n3. นำอุเกะลงเบาะและล็อกไว้ด้วยแรงกดค่อยเป็นค่อยไป ปล่อยทันทีเมื่อตบ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Удэ-хинэри",
+      "description": "1. Поверните руку уке так, чтобы локоть согнулся вверх, и зафиксируйте запястье одной рукой, а локоть другой.\n2. Скручивайте руку к плечу уке, обходя его, чтобы увести вниз.\n3. Уложите уке на ковёр и удерживайте залом с постепенным давлением, немедленно отпуская при хлопке.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Уде-хінері",
+      "description": "1. Поверніть руку уке так, щоб лікоть зігнувся вгору, і зафіксуйте зап’ястя однією рукою, а лікоть другою.\n2. Скручуйте руку до плеча уке, обходячи його, щоб відвести вниз.\n3. Покладіть уке на килим і утримуйте залам із поступовим тиском, негайно відпускаючи після плеску.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "40.35",
+  "key": "karate_tekki_sandan",
+  "title": "Tekki Sandan",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. From a stationary horse stance, chain rapid forearm blocks and simultaneous block-and-strike combinations, with short sliding steps along one line.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tekki Sandan",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. From a stationary horse stance, chain rapid forearm blocks and simultaneous block-and-strike combinations, with short sliding steps along one line.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Tekki Sandan",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Desde un kiba-dachi estático, encadena bloqueos rápidos de antebrazo y combinaciones simultáneas de bloqueo y golpe, con breves pasos deslizados sobre una línea.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Tekki Sandan",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. A partir de um kiba-dachi parado, encadeie bloqueios rápidos de antebraço e combinações simultâneas de bloqueio e golpe, com passos curtos deslizados numa linha.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Tekki Sandan",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Depuis un kiba-dachi immobile, enchaînez des blocages rapides d’avant-bras et des combinaisons simultanées blocage-frappe, avec de courts pas glissés sur une ligne.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Tekki Sandan",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Verkette aus einem stehenden Kiba-dachi schnelle Unterarmabwehren und gleichzeitige Abwehr-Schlag-Kombinationen mit kurzen Gleitschritten auf einer Linie.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Tekki Sandan",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Da un kiba-dachi fermo, concatena rapide parate d’avambraccio e combinazioni simultanee di parata e colpo, con brevi passi scivolati su una linea.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "铁骑三段",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 在原地骑马立中连贯快速的前臂格挡及同时格挡与打击的组合，并沿一条线做短促滑步。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "鉄騎三段",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. その場の騎馬立ちから、素早い前腕の受けと受けと攻撃を同時に行う連続技をつなげ、一本の線上で短く寄り足します。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "텟키 산단",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 제자리 기마서기에서 빠른 팔뚝 막기와 막기·치기 동시 조합을 잇고, 한 선을 따라 짧게 미끄러지듯 이동합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "เท็กกิ ซันดัน",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. จากท่าคิบะดาจิอยู่กับที่ ต่อการปัดด้วยแขนอย่างรวดเร็วและการปัดพร้อมโจมตีในคราวเดียว พร้อมก้าวสไลด์สั้น ๆ บนเส้นเดียว\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Тэкки сандан",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Из неподвижной киба-дати связывайте быстрые блоки предплечьем и одновременные комбинации блока и удара, с короткими скользящими шагами по одной линии.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Теккі сандан",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Із нерухомої кіба-дачі поєднуйте швидкі блоки передпліччям і одночасні комбінації блоку та удару з короткими ковзними кроками по одній лінії.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

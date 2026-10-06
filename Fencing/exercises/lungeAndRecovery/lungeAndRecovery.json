@@ -1,0 +1,90 @@
+{
+  "id": "54.4",
+  "key": "fencing_lunge_recovery",
+  "title": "Lunge and Recovery",
+  "description": "1. From en garde, extend the weapon arm toward the target first, then lift the front toe and kick the front foot forward low over the floor.\n2. Drive from the rear leg until it straightens, land on the front heel with the front knee over the ankle, and throw the rear arm back.\n3. Recover by bending the rear knee and pushing back from the front heel, returning the rear arm up and finishing in the same en garde.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Footwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lunge and Recovery",
+      "description": "1. From en garde, extend the weapon arm toward the target first, then lift the front toe and kick the front foot forward low over the floor.\n2. Drive from the rear leg until it straightens, land on the front heel with the front knee over the ankle, and throw the rear arm back.\n3. Recover by bending the rear knee and pushing back from the front heel, returning the rear arm up and finishing in the same en garde.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Fondo y vuelta a guardia",
+      "description": "1. Desde la guardia, extiende primero el brazo armado hacia el blanco, levanta la punta del pie delantero y lánzalo adelante rozando el suelo.\n2. Empuja con la pierna trasera hasta extenderla, aterriza con el talón delantero y la rodilla sobre el tobillo, y lleva el brazo trasero atrás.\n3. Vuelve flexionando la rodilla trasera y empujando desde el talón delantero, sube el brazo trasero y termina en la misma guardia.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Afundo e retorno",
+      "description": "1. Da guarda, estenda primeiro o braço armado ao alvo, levante a ponta do pé da frente e projete-o à frente rente ao chão.\n2. Empurre com a perna de trás até estendê-la, aterrisse no calcanhar da frente com o joelho sobre o tornozelo e lance o braço de trás para trás.\n3. Retorne flexionando o joelho de trás e empurrando do calcanhar da frente, suba o braço de trás e termine na mesma guarda.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Fente et retour en garde",
+      "description": "1. Depuis la garde, allongez d’abord le bras armé vers la cible, puis levez la pointe du pied avant et projetez-le en rasant le sol.\n2. Poussez sur la jambe arrière jusqu’à l’extension, recevez-vous sur le talon avant, genou au-dessus de la cheville, et rejetez le bras arrière.\n3. Revenez en fléchissant le genou arrière et en repoussant du talon avant, remontez le bras arrière et terminez dans la même garde.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Ausfall und Rückkehr",
+      "description": "1. Strecke aus der Fechtstellung zuerst den Waffenarm zum Ziel, hebe dann die vordere Fußspitze und schiebe den Fuß flach nach vorn.\n2. Drücke mit dem hinteren Bein bis zur Streckung, lande auf der vorderen Ferse mit dem Knie über dem Knöchel und führe den hinteren Arm zurück.\n3. Kehre zurück, indem du das hintere Knie beugst und dich von der vorderen Ferse abdrückst, den hinteren Arm hebst und in derselben Stellung endest.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Affondo e ritorno in guardia",
+      "description": "1. Dalla guardia, distendi prima il braccio armato verso il bersaglio, poi alza la punta del piede anteriore e lancialo avanti radente.\n2. Spingi con la gamba posteriore fino a distenderla, atterra di tallone con il ginocchio sopra la caviglia e porta indietro il braccio posteriore.\n3. Rientra piegando il ginocchio posteriore e spingendo dal tallone anteriore, rialza il braccio posteriore e chiudi nella stessa guardia.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "弓步与还原",
+      "description": "1. 从实战姿势先将持剑臂伸向目标，再抬起前脚尖，前脚贴地向前踢出。\n2. 后腿蹬伸直，前脚脚跟落地，前膝位于脚踝上方，后臂向后甩开。\n3. 屈后膝并由前脚跟向后推，后臂抬回，还原成同样的实战姿势。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "ファントとルトゥール",
+      "description": "1. アンガルドからまず剣腕を標的へ伸ばし、前足のつま先を上げて床すれすれに前へ蹴り出します。\n2. 後ろ脚が伸びきるまで押し出し、前足はかかとから着地して膝を足首の上に置き、後ろ腕を後方へ振ります。\n3. 後ろ膝を曲げて前足のかかとで押し戻し、後ろ腕を上げて同じアンガルドに戻ります。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "런지와 리커버리",
+      "description": "1. 앙가르드에서 먼저 칼 든 팔을 표적으로 뻗고, 앞발 끝을 들어 바닥 가까이 앞으로 차 냅니다.\n2. 뒷다리가 펴질 때까지 밀어 앞발 뒤꿈치로 착지하고 앞무릎을 발목 위에 두며 뒷팔을 뒤로 뻗습니다.\n3. 뒷무릎을 굽히고 앞발 뒤꿈치로 밀어 돌아오며 뒷팔을 다시 들어 같은 앙가르드로 마무리합니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "ลันจ์และกลับท่า",
+      "description": "1. จากอองการ์ด เหยียดแขนถือดาบไปยังเป้าก่อน แล้วยกปลายเท้าหน้าและเตะเท้าหน้าไปข้างหน้าต่ำเรี่ยพื้น\n2. ถีบขาหลังจนเหยียดตรง ลงพื้นด้วยส้นเท้าหน้าโดยเข่าอยู่เหนือข้อเท้า และเหวี่ยงแขนหลังไปด้านหลัง\n3. กลับท่าด้วยการงอเข่าหลังและดันจากส้นเท้าหน้า ยกแขนหลังขึ้น และจบในอองการ์ดเดิม",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Выпад и возвращение",
+      "description": "1. Из стойки сначала выпрямите вооружённую руку к мишени, затем поднимите носок передней ноги и выбросьте её вперёд низко над полом.\n2. Толкнитесь задней ногой до её выпрямления, приземлитесь на пятку передней, колено над голеностопом, задняя рука уходит назад.\n3. Вернитесь, сгибая заднее колено и отталкиваясь пяткой передней ноги, поднимите заднюю руку и закончите в той же стойке.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Випад і повернення",
+      "description": "1. Зі стійки спершу випряміть озброєну руку до мішені, потім підніміть носок передньої ноги й винесіть її вперед низько над підлогою.\n2. Відштовхніться задньою ногою до її випрямлення, приземліться на п’яту передньої, коліно над гомілкостопом, задня рука йде назад.\n3. Поверніться, згинаючи заднє коліно й відштовхуючись п’ятою передньої ноги, підніміть задню руку й завершіть у тій самій стійці.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

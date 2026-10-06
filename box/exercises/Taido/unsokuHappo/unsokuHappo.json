@@ -1,0 +1,87 @@
+{
+  "id": "100.2",
+  "key": "taido_unsoku_happo",
+  "title": "Unsoku Happo",
+  "description": "1. Start in taido stance at the center of an imagined star of eight directions, hands guarding.\n2. Step out and back in each of the eight directions in turn (forward, back, sides, and diagonals) using unsoku footwork without crossing the feet.\n3. Return to the center and the same stance after each direction, keeping the eyes forward and the rhythm even.",
+  "colorType": "orange",
+  "workoutType": "taido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Unsoku Happo",
+      "description": "1. Start in taido stance at the center of an imagined star of eight directions, hands guarding.\n2. Step out and back in each of the eight directions in turn (forward, back, sides, and diagonals) using unsoku footwork without crossing the feet.\n3. Return to the center and the same stance after each direction, keeping the eyes forward and the rhythm even.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Unsoku Happo",
+      "description": "1. Empieza en guardia de taido en el centro de una estrella imaginaria de ocho direcciones, con las manos en guardia.\n2. Sal y vuelve en cada una de las ocho direcciones por turno (delante, atrás, lados y diagonales) con pasos unsoku sin cruzar los pies.\n3. Vuelve al centro y a la misma guardia tras cada dirección, con la mirada al frente y ritmo uniforme.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Unsoku Happo",
+      "description": "1. Comece na base de taido no centro de uma estrela imaginária de oito direções, mãos em guarda.\n2. Saia e volte em cada uma das oito direções por vez (frente, trás, lados e diagonais) com passos unsoku sem cruzar os pés.\n3. Volte ao centro e à mesma base após cada direção, olhar à frente e ritmo uniforme.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Unsoku Happo",
+      "description": "1. Commencez en garde de taido au centre d’une étoile imaginaire à huit directions, mains en garde.\n2. Sortez et revenez tour à tour dans chacune des huit directions (avant, arrière, côtés et diagonales) en unsoku sans croiser les pieds.\n3. Revenez au centre dans la même garde après chaque direction, regard devant et rythme régulier.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Unsoku Happo",
+      "description": "1. In der Taido-Stellung in der Mitte eines gedachten Sterns mit acht Richtungen beginnen, Hände in Deckung.\n2. Nacheinander in jede der acht Richtungen hinaus- und zurücktreten (vor, zurück, seitlich, diagonal) mit Unsoku-Schritten, ohne die Füße zu kreuzen.\n3. Nach jeder Richtung in die Mitte und dieselbe Stellung zurück, Blick nach vorn, gleichmäßiger Rhythmus.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Unsoku Happo",
+      "description": "1. Inizia in guardia di taido al centro di una stella immaginaria a otto direzioni, mani in guardia.\n2. Esci e rientra a turno in ciascuna delle otto direzioni (avanti, indietro, lati e diagonali) con passi unsoku senza incrociare i piedi.\n3. Torna al centro nella stessa guardia dopo ogni direzione, sguardo avanti e ritmo regolare.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "运足八方",
+      "description": "1. 以躰道架势站在假想八方向星形的中心，双手护体。\n2. 以运足步法依次向八个方向（前、后、两侧及四个斜向）出步再回，双脚不交叉。\n3. 每个方向后回到中心和相同架势，目视前方，节奏均匀。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "運足八方",
+      "description": "1. 仮想の八方向の中心に躰道の構えで立ち、手で守ります。\n2. 運足で前後・左右・斜めの八方向へ順に出て戻り、足を交差させません。\n3. 各方向の後は中心と同じ構えに戻り、目線を正面に保ち、一定のリズムで行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "운소쿠 핫포",
+      "description": "1. 가상의 팔방 별 모양 중심에서 다이도 자세로 서서 손으로 방어합니다.\n2. 운소쿠 발놀림으로 여덟 방향(앞, 뒤, 양옆, 대각선)으로 차례로 나갔다 돌아오며 발을 교차하지 않습니다.\n3. 방향마다 중심과 같은 자세로 돌아오고 시선은 앞을 향하며 리듬을 일정하게 유지합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "อุนโซคุฮัปโป",
+      "description": "1. เริ่มในท่าไทโดที่กึ่งกลางของดาวแปดทิศสมมติ มือป้องกัน\n2. ก้าวออกและกลับในแต่ละแปดทิศตามลำดับ (หน้า หลัง ข้าง และแนวทแยง) ด้วยอุนโซคุโดยไม่ไขว้เท้า\n3. กลับสู่กึ่งกลางและท่าเดิมหลังแต่ละทิศ สายตามองไปข้างหน้าและจังหวะสม่ำเสมอ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Унсоку хаппо",
+      "description": "1. Начните в стойке тайдо в центре воображаемой звезды из восьми направлений, руки в защите.\n2. По очереди выходите и возвращайтесь в каждом из восьми направлений (вперёд, назад, в стороны и по диагоналям) шагами унсоку, не скрещивая ноги.\n3. После каждого направления возвращайтесь в центр и ту же стойку, взгляд вперёд, ритм ровный.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Унсоку хаппо",
+      "description": "1. Почніть у стійці тайдо в центрі уявної зірки з восьми напрямків, руки в захисті.\n2. По черзі виходьте й повертайтеся в кожному з восьми напрямків (уперед, назад, убік і по діагоналях) кроками унсоку, не схрещуючи ноги.\n3. Після кожного напрямку повертайтеся в центр і ту саму стійку, погляд уперед, ритм рівний.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

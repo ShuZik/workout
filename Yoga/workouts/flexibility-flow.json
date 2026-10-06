@@ -7,15 +7,115 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
-    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 5 },
-    { "id": "arrive", "exerciseID": "24.1", "kind": "timed", "durationSeconds": 45 },
-    { "id": "cat-cow", "exerciseID": "24.2", "kind": "timed", "durationSeconds": 60 },
-    { "id": "downward-dog", "exerciseID": "24.3", "kind": "timed", "durationSeconds": 45 },
-    { "id": "cobra", "exerciseID": "24.9", "kind": "timed", "durationSeconds": 30 },
-    { "id": "bridge", "exerciseID": "24.10", "kind": "timed", "durationSeconds": 45 },
-    { "id": "pigeon-left", "exerciseID": "24.11", "kind": "timed", "durationSeconds": 60 },
-    { "id": "pigeon-right", "exerciseID": "24.11", "kind": "timed", "durationSeconds": 60 },
-    { "id": "forward-fold", "exerciseID": "24.7", "kind": "timed", "durationSeconds": 60 },
-    { "id": "savasana", "exerciseID": "24.8", "kind": "timed", "durationSeconds": 120 }
-  ]
+    {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
+      "id": "arrive",
+      "exerciseID": "24.1",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "cat-cow",
+      "exerciseID": "24.2",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "downward-dog",
+      "exerciseID": "24.3",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "cobra",
+      "exerciseID": "24.9",
+      "kind": "timed",
+      "durationSeconds": 30
+    },
+    {
+      "id": "bridge",
+      "exerciseID": "24.10",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "pigeon-left",
+      "exerciseID": "24.11",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "pigeon-right",
+      "exerciseID": "24.11",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "forward-fold",
+      "exerciseID": "24.7",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "savasana",
+      "exerciseID": "24.8",
+      "kind": "timed",
+      "durationSeconds": 120
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "Flexibility Flow",
+      "description": "A gentle full-body sequence for hips, hamstrings, and the spine."
+    },
+    "es": {
+      "title": "Secuencia de flexibilidad",
+      "description": "Una secuencia suave para todo el cuerpo, las caderas, los músculos posteriores del muslo y la columna."
+    },
+    "pt": {
+      "title": "Fluxo de flexibilidade",
+      "description": "Uma sequência suave para o corpo inteiro, com foco nos quadris, nos músculos posteriores da coxa e na coluna."
+    },
+    "fr": {
+      "title": "Enchaînement de souplesse",
+      "description": "Un enchaînement doux pour tout le corps, les hanches, les ischio-jambiers et la colonne vertébrale."
+    },
+    "de": {
+      "title": "Beweglichkeits-Flow",
+      "description": "Eine sanfte Ganzkörperfolge für Hüften, hintere Oberschenkelmuskeln und Wirbelsäule."
+    },
+    "it": {
+      "title": "Sequenza per la flessibilità",
+      "description": "Una sequenza delicata per tutto il corpo, le anche, i muscoli posteriori della coscia e la colonna vertebrale."
+    },
+    "zh-Hans": {
+      "title": "柔韧流瑜伽",
+      "description": "温和的全身练习序列，活动髋部、腘绳肌和脊柱。"
+    },
+    "ja": {
+      "title": "柔軟性のフロー",
+      "description": "股関節、太もも裏の筋肉、背骨のための穏やかな全身シークエンス。"
+    },
+    "ko": {
+      "title": "유연성 플로우",
+      "description": "엉덩관절, 허벅지 뒤쪽 근육 및 척추를 위한 부드러운 전신 동작 순서."
+    },
+    "th": {
+      "title": "โฟลว์เพื่อความยืดหยุ่น",
+      "description": "ชุดท่าทั่วร่างกายอย่างอ่อนโยนสำหรับสะโพก กล้ามเนื้อต้นขาด้านหลัง และกระดูกสันหลัง"
+    },
+    "ru": {
+      "title": "Комплекс на гибкость",
+      "description": "Мягкий комплекс для всего тела с акцентом на тазобедренные суставы, заднюю поверхность бёдер и позвоночник."
+    },
+    "uk": {
+      "title": "Комплекс на гнучкість",
+      "description": "М’який комплекс для всього тіла з акцентом на кульшові суглоби, задню поверхню стегон і хребет."
+    }
+  }
 }

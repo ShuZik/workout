@@ -1,0 +1,90 @@
+{
+  "id": "41.70",
+  "key": "judo_tawara_gaeshi",
+  "title": "Tawara Gaeshi",
+  "description": "1. As a trained partner shoots low for the legs, wrap both arms around the partner's torso from above.\n2. Squeeze the partner's body to your chest and sit back onto your own back.\n3. Roll the partner over your head and shoulder to the mat behind you, releasing the wrap as the partner rolls through.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tawara Gaeshi",
+      "description": "1. As a trained partner shoots low for the legs, wrap both arms around the partner's torso from above.\n2. Squeeze the partner's body to your chest and sit back onto your own back.\n3. Roll the partner over your head and shoulder to the mat behind you, releasing the wrap as the partner rolls through.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Tawara Gaeshi",
+      "description": "1. Cuando un compañero entrenado entre bajo a las piernas, rodea su torso con ambos brazos desde arriba.\n2. Aprieta el cuerpo del compañero contra tu pecho y siéntate hacia atrás sobre tu espalda.\n3. Haz rodar al compañero por encima de tu cabeza y hombro hasta el tatami detrás de ti, soltando el abrazo cuando ruede.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Tawara Gaeshi",
+      "description": "1. Quando um parceiro treinado entrar baixo nas pernas, envolva o tronco dele com ambos os braços por cima.\n2. Aperte o corpo do parceiro contra o peito e sente para trás sobre as costas.\n3. Role o parceiro por cima da cabeça e do ombro até o tatame atrás de você, soltando o abraço quando ele rolar.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Tawara Gaeshi",
+      "description": "1. Quand un partenaire entraîné plonge bas aux jambes, entourez son tronc des deux bras par-dessus.\n2. Serrez son corps contre votre poitrine et asseyez-vous en arrière sur le dos.\n3. Faites rouler le partenaire par-dessus votre tête et votre épaule jusqu’au tatami derrière vous, en relâchant l’étreinte quand il roule.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Tawara Gaeshi",
+      "description": "1. Wenn ein geübter Partner tief zu den Beinen schießt, umfasse seinen Rumpf von oben mit beiden Armen.\n2. Drücke seinen Körper an deine Brust und setze dich rückwärts auf den Rücken.\n3. Rolle den Partner über Kopf und Schulter auf die Matte hinter dir und löse die Umklammerung, wenn er durchrollt.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Tawara Gaeshi",
+      "description": "1. Quando un compagno esperto entra basso alle gambe, avvolgi il suo busto con entrambe le braccia dall’alto.\n2. Stringi il corpo del compagno al petto e siediti all’indietro sulla schiena.\n3. Fai rotolare il compagno sopra la tua testa e spalla sul tatami dietro di te, lasciando l’abbraccio quando rotola.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "俵返",
+      "description": "1. 训练有素的搭档低位抱腿时，双臂从上方环抱其躯干。\n2. 把搭档身体紧压在胸前，向后坐倒到背上。\n3. 使搭档越过你的头和肩滚到身后的垫上，翻滚时松开环抱。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "俵返",
+      "description": "1. 熟練した相手が低く脚へ入ってきたら、上から両腕で相手の胴を抱えます。\n2. 相手の体を胸に抱き締め、後ろへ座るように背中から倒れます。\n3. 相手を自分の頭と肩越しに後方の畳へ転がし、転がるときに抱えを解きます。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "타와라 가에시",
+      "description": "1. 숙련된 파트너가 다리로 낮게 들어오면 양팔로 위에서 몸통을 감쌉니다.\n2. 파트너 몸을 가슴에 꽉 붙이고 뒤로 앉으며 등을 바닥에 댑니다.\n3. 파트너를 내 머리와 어깨 너머 뒤쪽 매트로 굴리고 구를 때 감싼 팔을 풉니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "ทาวาระกาเอชิ",
+      "description": "1. เมื่อคู่ฝึกที่ฝึกมาแล้วพุ่งต่ำเข้าขา ให้ใช้แขนทั้งสองโอบลำตัวคู่ฝึกจากด้านบน\n2. รัดตัวคู่ฝึกแนบอกแล้วนั่งไปด้านหลังลงบนหลังของคุณ\n3. กลิ้งคู่ฝึกข้ามศีรษะและไหล่ไปบนเสื่อด้านหลัง และปล่อยการรัดเมื่อคู่ฝึกม้วนผ่าน",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Тавара-гаэси",
+      "description": "1. Когда подготовленный партнёр низко проходит в ноги, обхватите его корпус обеими руками сверху.\n2. Прижмите тело партнёра к груди и сядьте назад на спину.\n3. Перекатите партнёра через свою голову и плечо на татами позади себя, разжимая обхват по ходу переката.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Тавара-гаесі",
+      "description": "1. Коли підготовлений партнер низько проходить у ноги, обхопіть його тулуб обома руками зверху.\n2. Притисніть тіло партнера до грудей і сядьте назад на спину.\n3. Перекотіть партнера через свою голову й плече на татамі позаду себе, розтискаючи обхват під час перекату.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

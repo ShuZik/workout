@@ -1,0 +1,90 @@
+{
+  "id": "8.51",
+  "key": "taekwondo_pyongwon",
+  "title": "Pyongwon",
+  "description": "1. Start in overlapped-hands ready stance and perform Pyongwon along its single horizontal line of movement.\n2. Open slowly into a low knife-hand spread block, then include the side kicks, horse-riding stance actions and the large turning movements with a broad, steady rhythm.\n3. Finish with the closing blocks on the same line, then return to overlapped-hands ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "pro",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pyongwon",
+      "description": "1. Start in overlapped-hands ready stance and perform Pyongwon along its single horizontal line of movement.\n2. Open slowly into a low knife-hand spread block, then include the side kicks, horse-riding stance actions and the large turning movements with a broad, steady rhythm.\n3. Finish with the closing blocks on the same line, then return to overlapped-hands ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Pyongwon",
+      "description": "1. Empieza en posición de preparación con manos superpuestas y realiza Pyongwon sobre su única línea horizontal.\n2. Ábrete lentamente en un bloqueo bajo abierto de mano de cuchillo y luego incluye las patadas laterales, las acciones en posición de jinete y los grandes giros con un ritmo amplio y estable.\n3. Termina con los bloqueos finales en la misma línea y vuelve a la posición de preparación con manos superpuestas.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Pyongwon",
+      "description": "1. Comece na posição de preparação com mãos sobrepostas e execute Pyongwon ao longo da sua única linha horizontal.\n2. Abra lentamente num bloqueio baixo aberto com mão em faca e depois inclua os chutes laterais, as ações em base de cavaleiro e os grandes giros com ritmo amplo e estável.\n3. Termine com os bloqueios finais na mesma linha e volte à posição de preparação com mãos sobrepostas.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Pyongwon",
+      "description": "1. Partez en position de préparation mains superposées et exécutez Pyongwon sur sa ligne horizontale unique.\n2. Ouvrez lentement en blocage bas écarté main en sabre, puis intégrez les coups de pied latéraux, les actions en position du cavalier et les grandes rotations avec un rythme ample et régulier.\n3. Terminez par les derniers blocages sur la même ligne, puis revenez en position de préparation mains superposées.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Pyongwon",
+      "description": "1. Beginne im Bereitschaftsstand mit übereinandergelegten Händen und laufe Pyongwon auf ihrer einzigen waagerechten Bewegungslinie.\n2. Öffne langsam in einen tiefen Handkanten-Spreizblock und baue dann Seittritte, Aktionen im Reiterstand und die großen Drehbewegungen mit weitem, ruhigem Rhythmus ein.\n3. Schließe mit den letzten Blocks auf derselben Linie ab und kehre in den Bereitschaftsstand mit übereinandergelegten Händen zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Pyongwon",
+      "description": "1. Parti dalla posizione di pronti a mani sovrapposte ed esegui Pyongwon lungo la sua unica linea orizzontale.\n2. Apri lentamente in una parata bassa aperta a mano a coltello, poi inserisci i calci laterali, le azioni in posizione del cavaliere e le grandi rotazioni con un ritmo ampio e costante.\n3. Concludi con le ultime parate sulla stessa linea e torna alla posizione di pronti a mani sovrapposte.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "平原品势（Pyongwon）",
+      "description": "1. 以叠手预备式开始，沿一条水平线完成平原品势。\n2. 缓慢展开成手刀下段分挡，然后完成侧踢、骑马步动作和大幅转身，节奏宽广而稳定。\n3. 在同一条线上完成最后格挡，回到叠手预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ピョンウォン（平原）",
+      "description": "1. 重ね手準備立ちから始め、一本の横線上で平原を行います。\n2. ゆっくりと手刀下段開き受けに開き、横蹴り、騎馬立ちの動作、大きな回転動作を広く安定したリズムで行います。\n3. 同じ線上で最後の受けを行い、重ね手準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "평원",
+      "description": "1. 겹손 준비서기에서 시작해 하나의 가로선을 따라 평원을 수행합니다.\n2. 천천히 손날 아래헤쳐막기로 펼친 뒤 옆차기, 주춤서기 동작, 크게 도는 동작을 넓고 안정된 리듬으로 합니다.\n3. 같은 선 위에서 마지막 막기로 마무리하고 겹손 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "พย็องวอน",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบมือซ้อนและทำพย็องวอนตามเส้นแนวนอนเส้นเดียว\n2. ค่อย ๆ เปิดเป็นการปัดแยกระดับต่ำด้วยสันมือ แล้วรวมการเ���ะข้าง การเคลื่อนไหวในท่ายืนม้า และการหมุนตัวกว้างด้วยจังหวะที่กว้างและมั่นคง\n3. จบด้วยการปัดชุดสุดท้ายบนเส้นเดิม แล้วกลับสู่ท่ายืนเตรียมแบบมือซ้อน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Пхёнвон",
+      "description": "1. Начните из готовой стойки с наложенными ладонями и выполните Пхёнвон по единственной горизонтальной линии.\n2. Медленно раскройтесь в нижний разводящий блок ребром ладони, затем включите боковые удары ногой, действия в стойке всадника и большие развороты в широком ровном ритме.\n3. Завершите последними блоками на той же линии и вернитесь в готовую стойку с наложенными ладонями.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Пхьонвон",
+      "description": "1. Почніть із готової стійки з накладеними долонями й виконайте Пхьонвон єдиною горизонтальною лінією.\n2. Повільно розкрийтеся в нижній розвідний блок ребром долоні, потім додайте бічні удари ногою, дії в стійці вершника та великі розвороти в широкому рівному ритмі.\n3. Завершіть останніми блоками на тій самій лінії та поверніться в готову стійку з накладеними долонями.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

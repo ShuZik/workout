@@ -1,0 +1,90 @@
+{
+  "id": "41.60",
+  "key": "judo_o_soto_otoshi",
+  "title": "O Soto Otoshi",
+  "description": "1. Push the partner back onto one leg with the chest close.\n2. Step the leg deep behind the partner's weighted leg and plant it on the mat as a block.\n3. Drop the partner backward over the blocking leg with the hands and chest, guiding the breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "O Soto Otoshi",
+      "description": "1. Push the partner back onto one leg with the chest close.\n2. Step the leg deep behind the partner's weighted leg and plant it on the mat as a block.\n3. Drop the partner backward over the blocking leg with the hands and chest, guiding the breakfall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "O Soto Otoshi",
+      "description": "1. Empuja al compañero hacia atrás sobre una pierna con el pecho cerca.\n2. Da un paso profundo con la pierna por detrás de la pierna cargada del compañero y apóyala en el tatami como bloqueo.\n3. Haz caer al compañero hacia atrás sobre la pierna que bloquea con las manos y el pecho, guiando la caída.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "O Soto Otoshi",
+      "description": "1. Empurre o parceiro para trás sobre uma perna com o peito próximo.\n2. Dê um passo profundo com a perna atrás da perna carregada do parceiro e apoie-a no tatame como bloqueio.\n3. Derrube o parceiro para trás sobre a perna de bloqueio com as mãos e o peito, guiando a queda.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "O Soto Otoshi",
+      "description": "1. Repoussez le partenaire en arrière sur une jambe, poitrine proche.\n2. Avancez profondément la jambe derrière sa jambe chargée et posez-la au tatami comme blocage.\n3. Faites tomber le partenaire en arrière par-dessus la jambe de blocage avec les mains et la poitrine, en guidant la chute.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "O Soto Otoshi",
+      "description": "1. Schiebe den Partner mit naher Brust nach hinten auf ein Bein.\n2. Setze das Bein tief hinter sein belastetes Bein und stelle es als Block auf die Matte.\n3. Lass den Partner mit Händen und Brust rückwärts über das blockierende Bein fallen und führe den Fall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "O Soto Otoshi",
+      "description": "1. Spingi il compagno all’indietro su una gamba con il petto vicino.\n2. Porta la gamba in profondità dietro la sua gamba caricata e appoggiala sul tatami come blocco.\n3. Fai cadere il compagno all’indietro sopra la gamba che blocca con mani e petto, guidando la caduta.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "大外落",
+      "description": "1. 胸部贴近，把搭档向后推到一条腿上。\n2. 腿深插到搭档承重腿后方，踩实垫面作为阻挡。\n3. 用双手和胸部把搭档向后越过阻挡腿放倒，引导倒地。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "大外落",
+      "description": "1. 胸を近づけて、相手を後ろの片脚へ押します。\n2. 脚を相手の体重の乗った脚の後ろへ深く踏み込み、畳について止めにします。\n3. 手と胸で相手を止めた脚越しに後ろへ落とし、受身を導きます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "오 소토 오토시",
+      "description": "1. 가슴을 가까이 붙여 파트너를 뒤로 한 다리에 밀어 보냅니다.\n2. 다리를 파트너의 체중 실린 다리 뒤로 깊게 내딛어 매트에 디뎌 막습니다.\n3. 손과 가슴으로 파트너를 막는 다리 너머 뒤로 떨어뜨리고 낙법을 이끕니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "โอโซโตโอโตชิ",
+      "description": "1. ดันคู่ฝึกไปด้านหลังลงบนขาข้างหนึ่ง โดยให้หน้าอกชิด\n2. ก้าวขาลึกไปด้านหลังขาที่รับน้ำหนักของคู่ฝึก และวางลงบนเสื่อเป็นตัวขวาง\n3. ใช้มือและหน้าอกทุ่มคู่ฝึกไปด้านหลังข้ามขาที่ขวาง และนำการล้ม",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "О-сото-отоси",
+      "description": "1. Прижав грудь, переведите партнёра назад на одну ногу.\n2. Глубоко поставьте ногу за нагруженную ногу партнёра и упритесь ею в татами как блоком.\n3. Руками и грудью опрокиньте партнёра назад через блокирующую ногу, направляя страховку.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "О-сото-отосі",
+      "description": "1. Притиснувши груди, переведіть партнера назад на одну ногу.\n2. Глибоко поставте ногу за навантажену ногу партнера й упріться нею в татамі як блоком.\n3. Руками й грудьми перекиньте партнера назад через блокувальну ногу, спрямовуючи страховку.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

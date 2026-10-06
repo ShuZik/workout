@@ -1,0 +1,87 @@
+{
+  "id": "3.44",
+  "key": "kick_boxing_parry_straight_counter",
+  "title": "Parry and Straight Counter",
+  "description": "1. The feeder throws a controlled straight punch at the defender's guard while both wear gloves and mouthguards.\n2. The defender parries it just off the centerline with the same-side palm and immediately returns a straight punch to the feeder's raised glove or chest target.\n3. Keep contact light, reset to guard after each exchange, and swap roles after the agreed number of repetitions.",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Defense",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Parry and Straight Counter",
+      "description": "1. The feeder throws a controlled straight punch at the defender's guard while both wear gloves and mouthguards.\n2. The defender parries it just off the centerline with the same-side palm and immediately returns a straight punch to the feeder's raised glove or chest target.\n3. Keep contact light, reset to guard after each exchange, and swap roles after the agreed number of repetitions.",
+      "sectionTitle": "Defense"
+    },
+    "es": {
+      "title": "Parada y contraataque recto",
+      "description": "1. El atacante lanza un recto controlado a la guardia del defensor; ambos llevan guantes y protector bucal.\n2. El defensor lo desvía de la línea central con la palma del mismo lado y responde de inmediato con un recto al guante levantado o al pecho del atacante.\n3. Mantén el contacto ligero, vuelve a la guardia tras cada intercambio e intercambiad los papeles tras las repeticiones acordadas.",
+      "sectionTitle": "Defensa"
+    },
+    "pt": {
+      "title": "Aparada e contra-ataque direto",
+      "description": "1. O atacante lança um direto controlado na guarda do defensor; ambos usam luvas e protetor bucal.\n2. O defensor desvia o golpe da linha central com a palma do mesmo lado e responde imediatamente com um direto na luva levantada ou no peito do atacante.\n3. Mantenha o contato leve, volte à guarda após cada troca e invertam os papéis após as repetições combinadas.",
+      "sectionTitle": "Defesa"
+    },
+    "fr": {
+      "title": "Parade et contre en direct",
+      "description": "1. Le partenaire lance un direct contrôlé sur la garde du défenseur ; tous deux portent gants et protège-dents.\n2. Le défenseur dévie le coup hors de l’axe avec la paume du même côté et renvoie aussitôt un direct sur le gant levé ou la poitrine du partenaire.\n3. Gardez un contact léger, revenez en garde après chaque échange et inversez les rôles après le nombre de répétitions convenu.",
+      "sectionTitle": "Défense"
+    },
+    "de": {
+      "title": "Parade mit gerader Konter",
+      "description": "1. Der Angreifer schlägt eine kontrollierte Gerade auf die Deckung des Verteidigers; beide tragen Handschuhe und Mundschutz.\n2. Der Verteidiger pariert sie mit der gleichseitigen Handfläche knapp von der Mittellinie und kontert sofort mit einer Geraden auf den erhobenen Handschuh oder die Brust des Angreifers.\n3. Halte den Kontakt leicht, kehre nach jedem Austausch in die Deckung zurück und tauscht nach den vereinbarten Wiederholungen die Rollen.",
+      "sectionTitle": "Verteidigung"
+    },
+    "it": {
+      "title": "Parata e contro diretto",
+      "description": "1. Chi attacca lancia un diretto controllato sulla guardia del difensore; entrambi indossano guantoni e paradenti.\n2. Il difensore lo devia fuori dalla linea centrale con il palmo dello stesso lato e risponde subito con un diretto sul guantone alzato o sul petto dell’attaccante.\n3. Mantieni il contatto leggero, torna in guardia dopo ogni scambio e invertite i ruoli dopo le ripetizioni concordate.",
+      "sectionTitle": "Difesa"
+    },
+    "zh-Hans": {
+      "title": "拍挡接直拳反击",
+      "description": "1. 喂拳者向防守者的防守位打出受控直拳，双方都戴拳套和护齿。\n2. 防守者用同侧手掌把拳拍离中线，并立即用直拳回击喂拳者举起的拳套或胸部目标。\n3. 保持轻接触，每次交换后回到防守位，完成约定次数后交换角色。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "パーリーからのストレートカウンター",
+      "description": "1. 攻撃役が防御役のガードへ制御したストレートを打ちます。両者ともグローブとマウスピースを着けます。\n2. 防御役は同じ側の手のひらで中心線から外し、すぐに攻撃役が掲げたグローブか胸へストレートを返します。\n3. 接触は軽くし、毎回ガードに戻り、決めた回数で役割を交代します。",
+      "sectionTitle": "ディフェンス"
+    },
+    "ko": {
+      "title": "패리 후 스트레이트 카운터",
+      "description": "1. 공격자는 방어자의 가드로 통제된 스트레이트를 치며, 두 사람 모두 글러브와 마우스피스를 착용합니다.\n2. 방어자는 같은 쪽 손바닥으로 펀치를 중심선 밖으로 쳐내고 곧바로 공격자가 든 글러브나 가슴으로 스트레이트를 돌려줍니다.\n3. 접촉은 가볍게 하고 매 교환 후 가드로 돌아오며, 정한 횟수 뒤 역할을 바꿉니다.",
+      "sectionTitle": "방어"
+    },
+    "th": {
+      "title": "ปัดหมัดแล้วสวนหมัดตรง",
+      "description": "1. ผู้ป้อนหมัดออกหมัดตรงแบบควบคุมเข้าการ์ดของผู้ป้องกัน ทั้งสองสวมนวมและฟันยาง\n2. ผู้ป้องกันใช้ฝ่ามือข้างเดียวกันปัดหมัดออกจากแนวกลาง แล้วสวนหมัดตรงทันทีไปที่นวมที่ยกไว้หรือหน้าอกของผู้ป้อน\n3. ใช้การสัมผัสเบา กลับการ์ดหลังทุกครั้ง และสลับบทบาทเมื่อครบจำนวนที่ตกลง",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Отбив и прямой контрудар",
+      "description": "1. Атакующий наносит контролируемый прямой удар в защиту партнёра; оба в перчатках и капах.\n2. Защищающийся отбивает удар ладонью той же стороны чуть в сторону от центральной линии и сразу отвечает прямым в поднятую перчатку или грудь атакующего.\n3. Держите контакт лёгким, после каждого обмена возвращайтесь в защиту и меняйтесь ролями после оговорённого числа повторений.",
+      "sectionTitle": "Защита"
+    },
+    "uk": {
+      "title": "Відбив і прямий контрудар",
+      "description": "1. Атакувальник завдає контрольованого прямого удару в захист партнера; обидва в рукавицях і капах.\n2. Той, хто захищається, відбиває удар долонею того самого боку трохи вбік від центральної лінії й одразу відповідає прямим у підняту рукавицю або груди атакувальника.\n3. Тримайте контакт легким, після кожного обміну повертайтеся в захист і міняйтеся ролями після обумовленої кількості повторень.",
+      "sectionTitle": "Захист"
+    }
+  }
+}

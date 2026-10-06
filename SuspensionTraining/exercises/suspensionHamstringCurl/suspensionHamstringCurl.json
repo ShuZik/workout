@@ -1,0 +1,90 @@
+{
+  "id": "22.9",
+  "key": "suspension_suspension_hamstring_curl",
+  "title": "Suspension Hamstring Curl",
+  "description": "1. Lie on the back with both heels in the foot cradles, legs straight, and arms on the floor.\n2. Lift the hips and bend the knees to draw the heels toward the glutes.\n3. Extend the legs slowly while keeping the pelvis lifted and both straps evenly tensioned.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Lower Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Suspension Hamstring Curl",
+      "description": "1. Lie on the back with both heels in the foot cradles, legs straight, and arms on the floor.\n2. Lift the hips and bend the knees to draw the heels toward the glutes.\n3. Extend the legs slowly while keeping the pelvis lifted and both straps evenly tensioned.",
+      "sectionTitle": "Lower Body"
+    },
+    "es": {
+      "title": "Curl femoral en suspensión",
+      "description": "1. Túmbate boca arriba con ambos talones en los apoyos para los pies, las piernas rectas y los brazos en el suelo.\n2. Eleva la cadera y flexiona las rodillas para llevar los talones hacia los glúteos.\n3. Estira las piernas despacio manteniendo la pelvis elevada y ambas cintas igual de tensas.",
+      "sectionTitle": "Tren inferior"
+    },
+    "pt": {
+      "title": "Flexão de pernas suspensa",
+      "description": "1. Deite-se de costas com os dois calcanhares nos apoios para os pés, as pernas estendidas e os braços no chão.\n2. Eleve o quadril e flexione os joelhos para trazer os calcanhares em direção aos glúteos.\n3. Estenda as pernas devagar mantendo a pelve elevada e as duas fitas igualmente tensionadas.",
+      "sectionTitle": "Membros inferiores"
+    },
+    "fr": {
+      "title": "Curl ischio-jambiers en suspension",
+      "description": "1. Allongez-vous sur le dos, les deux talons dans les berceaux, jambes tendues et bras au sol.\n2. Soulevez les hanches et fléchissez les genoux pour ramener les talons vers les fessiers.\n3. Tendez lentement les jambes en gardant le bassin levé et les deux sangles également tendues.",
+      "sectionTitle": "Bas du corps"
+    },
+    "de": {
+      "title": "Beinbeuger-Curl im Schlingentrainer",
+      "description": "1. Leg dich auf den Rücken, beide Fersen in den Fußschlaufen, Beine gestreckt und Arme am Boden.\n2. Heb die Hüfte an und beuge die Knie, um die Fersen zum Po zu ziehen.\n3. Streck die Beine langsam, während das Becken oben bleibt und beide Gurte gleichmäßig gespannt sind.",
+      "sectionTitle": "Unterkörper"
+    },
+    "it": {
+      "title": "Curl femorale in sospensione",
+      "description": "1. Sdraiati sulla schiena con entrambi i talloni negli appoggi per i piedi, le gambe tese e le braccia a terra.\n2. Solleva le anche e piega le ginocchia per portare i talloni verso i glutei.\n3. Distendi lentamente le gambe mantenendo il bacino sollevato ed entrambe le cinghie ugualmente in tensione.",
+      "sectionTitle": "Parte inferiore"
+    },
+    "zh-Hans": {
+      "title": "悬挂腿弯举",
+      "description": "1. 仰卧，双脚脚跟放入脚套，双腿伸直，双臂放在地面上。\n2. 抬起髋部，屈膝将脚跟拉向臀部。\n3. 缓慢伸直双腿，骨盆保持抬起，两根悬挂带张力均匀。",
+      "sectionTitle": "下肢"
+    },
+    "ja": {
+      "title": "サスペンション・ハムストリングカール",
+      "description": "1. 仰向けになり、両かかとをフットクレードルに入れ、脚を伸ばして腕を床に置きます。\n2. 腰を持ち上げ、膝を曲げてかかとをお尻の方へ引き寄せます。\n3. 骨盤を持ち上げたまま両方のストラップの張りを均等に保ち、ゆっくり脚を伸ばします。",
+      "sectionTitle": "下半身"
+    },
+    "ko": {
+      "title": "서스펜션 햄스트링 컬",
+      "description": "1. 등을 대고 누워 두 발뒤꿈치를 풋 크래들에 넣고 다리를 펴며 팔은 바닥에 둡니다.\n2. 엉덩이를 들고 무릎을 굽혀 발뒤꿈치를 둔근 쪽으로 당깁니다.\n3. 골반을 든 채 두 스트랩의 장력을 고르게 유지하며 다리를 천천히 폅니다.",
+      "sectionTitle": "하체"
+    },
+    "th": {
+      "title": "ซัสเพนชันแฮมสตริงเคิร์ล",
+      "description": "1. นอนหงาย วางส้นเท้าทั้งสองในที่คล้องเท้า เหยียดขาตรง และวางแขนบนพื้น\n2. ยกสะโพกขึ้นและงอเข่าเพื่อดึงส้นเท้าเข้าหาก้น\n3. เหยียดขาช้า ๆ โดยยกเชิงกรานค้างไว้และให้สายทั้งสองตึงเท่ากัน",
+      "sectionTitle": "ร่างกายส่วนล่าง"
+    },
+    "ru": {
+      "title": "Сгибание ног в петлях",
+      "description": "1. Лягте на спину, обе пятки в петлях для стоп, ноги прямые, руки на полу.\n2. Поднимите таз и согните колени, подтягивая пятки к ягодицам.\n3. Медленно выпрямите ноги, удерживая таз поднятым, а обе петли равномерно натянутыми.",
+      "sectionTitle": "Нижняя часть тела"
+    },
+    "uk": {
+      "title": "Згинання ніг у петлях",
+      "description": "1. Ляжте на спину, обидві п’яти в петлях для стоп, ноги прямі, руки на підлозі.\n2. Підніміть таз і зігніть коліна, підтягуючи п’яти до сідниць.\n3. Повільно випряміть ноги, утримуючи таз піднятим, а обидві петлі рівномірно натягнутими.",
+      "sectionTitle": "Нижня частина тіла"
+    }
+  }
+}

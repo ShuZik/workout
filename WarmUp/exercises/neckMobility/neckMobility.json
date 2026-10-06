@@ -1,0 +1,90 @@
+{
+  "id": "9.4",
+  "key": "neck_stretching",
+  "title": "Neck Mobility",
+  "description": "1. Sit or stand tall with shoulders down and chin level.\n2. Turn the head slowly to look over one shoulder, return to center, then turn to the other side.\n3. Alternate gentle chin nods and side tilts without rolling the head in a full circle.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.8,
+    "vigorous": 3.8,
+    "lightCode": "02101",
+    "moderateCode": "02024",
+    "vigorousCode": "02022"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Neck Mobility",
+      "description": "1. Sit or stand tall with shoulders down and chin level.\n2. Turn the head slowly to look over one shoulder, return to center, then turn to the other side.\n3. Alternate gentle chin nods and side tilts without rolling the head in a full circle.",
+      "sectionTitle": "Joint Mobility"
+    },
+    "es": {
+      "title": "Movilidad del cuello",
+      "description": "1. Siéntate o ponte erguido con los hombros bajos y la barbilla nivelada.\n2. Gira la cabeza lentamente para mirar por encima de un hombro, vuelve al centro y gira hacia el otro lado.\n3. Alterna movimientos suaves de asentimiento y de inclinación lateral sin hacer círculos completos con la cabeza.",
+      "sectionTitle": "Movilidad articular"
+    },
+    "pt": {
+      "title": "Mobilidade do pescoço",
+      "description": "1. Sente-se ou fique ereto com os ombros baixos e o queixo nivelado.\n2. Gire a cabeça lentamente para olhar por cima de um ombro, volte ao centro e gire para o outro lado.\n3. Alterne leves movimentos de assentimento e inclinações laterais sem fazer um círculo completo com a cabeça.",
+      "sectionTitle": "Mobilidade articular"
+    },
+    "fr": {
+      "title": "Mobilité du cou",
+      "description": "1. Asseyez-vous ou tenez-vous droit, les épaules abaissées et le menton à l’horizontale.\n2. Tournez lentement la tête pour regarder par-dessus une épaule, revenez au centre, puis tournez de l’autre côté.\n3. Alternez de légers hochements du menton et des inclinaisons latérales sans faire de cercle complet avec la tête.",
+      "sectionTitle": "Mobilité articulaire"
+    },
+    "de": {
+      "title": "Nackenmobilität",
+      "description": "1. Sitze oder stehe aufrecht, mit gesenkten Schultern und waagerechtem Kinn.\n2. Drehe den Kopf langsam, um über eine Schulter zu schauen, kehre zur Mitte zurück und drehe ihn zur anderen Seite.\n3. Wechsle zwischen sanftem Nicken und seitlichem Neigen, ohne den Kopf vollständig kreisen zu lassen.",
+      "sectionTitle": "Gelenkbeweglichkeit"
+    },
+    "it": {
+      "title": "Mobilità del collo",
+      "description": "1. Siediti o stai in piedi ben eretto, con le spalle abbassate e il mento orizzontale.\n2. Gira lentamente la testa per guardare oltre una spalla, torna al centro e gira dall’altro lato.\n3. Alterna piccoli cenni del mento e inclinazioni laterali senza compiere un giro completo con la testa.",
+      "sectionTitle": "Mobilità articolare"
+    },
+    "zh-Hans": {
+      "title": "颈部活动",
+      "description": "1. 坐直或站直，肩膀下沉，下巴保持水平。\n2. 缓慢转头，看向一侧肩膀后方，回到中间，再转向另一侧。\n3. 交替做轻柔的点头和侧倾动作，不要让头部做完整绕环。",
+      "sectionTitle": "关节活动"
+    },
+    "ja": {
+      "title": "首の可動性",
+      "description": "1. 肩を下げ、顎を水平に保って、背筋を伸ばして座るか立ちます。\n2. 片方の肩越しに見るように頭をゆっくり回し、正面に戻してから反対側へ回します。\n3. 軽い顎のうなずきと横への傾きを交互に行い、頭を一周させないようにします。",
+      "sectionTitle": "関節の可動性"
+    },
+    "ko": {
+      "title": "목 가동성",
+      "description": "1. 어깨를 내리고 턱을 수평으로 유지한 채 똑바로 앉거나 섭니다.\n2. 한쪽 어깨 너머를 보도록 머리를 천천히 돌리고, 중앙으로 돌아온 뒤 반대쪽으로 돌립니다.\n3. 부드러운 끄덕임과 옆으로 기울이기를 번갈아 하며 머리를 완전히 한 바퀴 돌리지 않습니다.",
+      "sectionTitle": "관절 가동성"
+    },
+    "th": {
+      "title": "การเคลื่อนไหวคอ",
+      "description": "1. นั่งหรือยืนตัวตรง ลดไหล่ลง และรักษาคางให้อยู่ในแนวระดับ\n2. หันศีรษะช้า ๆ เพื่อมองข้ามไหล่ข้างหนึ่ง กลับมาตรงกลาง แล้วหันไปอีกด้าน\n3. สลับการพยักหน้ากับการเอียงศีรษะด้านข้างอย่างเบา ๆ โดยไม่หมุนศีรษะเป็นวงเต็ม",
+      "sectionTitle": "การเคลื่อนไหวข้อต่อ"
+    },
+    "ru": {
+      "title": "Подвижность шеи",
+      "description": "1. Сядьте или встаньте прямо, опустите плечи и держите подбородок горизонтально.\n2. Медленно поверните голову, чтобы посмотреть через одно плечо, вернитесь в центр, затем повернитесь в другую сторону.\n3. Чередуйте мягкие кивки и наклоны в стороны, не описывая головой полный круг.",
+      "sectionTitle": "Подвижность суставов"
+    },
+    "uk": {
+      "title": "Рухливість шиї",
+      "description": "1. Сядьте або станьте прямо, опустіть плечі та тримайте підборіддя горизонтально.\n2. Повільно поверніть голову, щоб подивитися через одне плече, поверніться до центру, а потім поверніться в інший бік.\n3. Чергуйте м’які кивки та нахили в сторони, не описуючи головою повне коло.",
+      "sectionTitle": "Рухливість суглобів"
+    }
+  }
+}

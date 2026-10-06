@@ -1,0 +1,90 @@
+{
+  "id": "41.2",
+  "key": "judo_back_breakfall",
+  "title": "Back Breakfall",
+  "description": "1. Begin seated or in a low squat on tatami with the chin tucked, back rounded, and arms extended forward.\n2. Roll from the hips onto the back while keeping the head off the mat and slap both arms at roughly forty-five degrees.\n3. Keep the legs apart and knees bent, absorb the landing through the arms and back, then return to sitting.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Ukemi",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Back Breakfall",
+      "description": "1. Begin seated or in a low squat on tatami with the chin tucked, back rounded, and arms extended forward.\n2. Roll from the hips onto the back while keeping the head off the mat and slap both arms at roughly forty-five degrees.\n3. Keep the legs apart and knees bent, absorb the landing through the arms and back, then return to sitting.",
+      "sectionTitle": "Ukemi"
+    },
+    "es": {
+      "title": "Caída hacia atrás",
+      "description": "1. Empieza sentado o en cuclillas bajas sobre el tatami, con la barbilla recogida, la espalda redondeada y los brazos extendidos delante.\n2. Rueda desde las caderas hacia la espalda, mantén la cabeza fuera del tatami y golpea con ambos brazos a unos cuarenta y cinco grados.\n3. Mantén las piernas separadas y las rodillas flexionadas, absorbe la caída con los brazos y la espalda y vuelve a sentarte.",
+      "sectionTitle": "Ukemi"
+    },
+    "pt": {
+      "title": "Queda para trás",
+      "description": "1. Comece sentado ou em um agachamento baixo no tatame, com o queixo recolhido, as costas arredondadas e os braços estendidos à frente.\n2. Role dos quadris para as costas, mantendo a cabeça fora do tatame, e bata os dois braços a cerca de quarenta e cinco graus.\n3. Mantenha as pernas afastadas e os joelhos dobrados, absorva a queda com os braços e as costas e volte a sentar.",
+      "sectionTitle": "Ukemi"
+    },
+    "fr": {
+      "title": "Chute arrière",
+      "description": "1. Commencez assis ou accroupi bas sur le tatami, menton rentré, dos arrondi et bras tendus devant vous.\n2. Roulez des hanches vers le dos en gardant la tête décollée du tapis et frappez avec les deux bras à environ quarante-cinq degrés.\n3. Gardez les jambes écartées et les genoux fléchis, absorbez la réception par les bras et le dos, puis revenez assis.",
+      "sectionTitle": "Ukemi"
+    },
+    "de": {
+      "title": "Rückwärtsfallen",
+      "description": "1. Beginne sitzend oder in einer tiefen Hocke auf der Tatami, mit angezogenem Kinn, rundem Rücken und nach vorn ausgestreckten Armen.\n2. Rolle von der Hüfte auf den Rücken, halte den Kopf von der Matte fern und schlage mit beiden Armen etwa im Winkel von fünfundvierzig Grad ab.\n3. Halte die Beine auseinander und die Knie gebeugt, fange die Landung mit Armen und Rücken ab und kehre zum Sitzen zurück.",
+      "sectionTitle": "Ukemi"
+    },
+    "it": {
+      "title": "Caduta all’indietro",
+      "description": "1. Inizia seduto o in un’accosciata bassa sul tatami, con il mento raccolto, la schiena arrotondata e le braccia distese davanti.\n2. Rotola dalle anche sulla schiena, tenendo la testa sollevata dal tappeto, e batti entrambe le braccia a circa quarantacinque gradi.\n3. Mantieni le gambe separate e le ginocchia piegate, assorbi l’atterraggio con braccia e schiena e torna seduto.",
+      "sectionTitle": "Ukemi"
+    },
+    "zh-Hans": {
+      "title": "后倒受身",
+      "description": "1. 在榻榻米上坐姿或低蹲开始，收下巴、背部拱起，双臂前伸。\n2. 从髋部向后滚到背部，头部保持离垫，双臂以约四十五度角拍垫。\n3. 双腿分开、膝盖弯曲，用手臂和背部缓冲落地，然后回到坐姿。",
+      "sectionTitle": "受身"
+    },
+    "ja": {
+      "title": "後ろ受身",
+      "description": "1. 畳に座るか低くしゃがみ、顎を引き、背中を丸めて両腕を前に伸ばします。\n2. 腰から背中へ転がり、頭を畳から浮かせたまま、両腕を約四十五度の角度で打ちます。\n3. 両脚を開いて膝を曲げ、腕と背中で着地を吸収して座位に戻ります。",
+      "sectionTitle": "受身"
+    },
+    "ko": {
+      "title": "뒤 낙법",
+      "description": "1. 다다미에 앉거나 낮게 쪼그려 턱을 당기고 등을 둥글게 하며 두 팔을 앞으로 뻗습니다.\n2. 골반에서 등으로 굴러 머리를 매트에서 띄운 채 두 팔로 약 사십오 도 각도로 매트를 칩니다.\n3. 다리를 벌리고 무릎을 굽혀 팔과 등으로 착지 충격을 흡수한 뒤 앉은 자세로 돌아옵니다.",
+      "sectionTitle": "낙법"
+    },
+    "th": {
+      "title": "การล้มไปด้านหลัง",
+      "description": "1. เริ่มจากนั่งหรือย่อตัวต่ำบนเสื่อทาทามิ เก็บคาง โค้งหลังและเหยียดแขนไปด้านหน้า\n2. กลิ้งจากสะโพกลงสู่หลังโดยยกศีรษะพ้นเสื่อ แล้วตบเสื่อด้วยแขนทั้งสองในมุมประมาณสี่สิบห้าองศา\n3. แยกขาและงอเข่า รับแรงลงพื้นด้วยแขนและหลัง แล้วกลับสู่ท่านั่ง",
+      "sectionTitle": "อุเคมิ"
+    },
+    "ru": {
+      "title": "Страховка при падении назад",
+      "description": "1. Начните сидя или в низком приседе на татами, прижав подбородок, округлив спину и вытянув руки вперёд.\n2. Перекатитесь с таза на спину, удерживая голову над матом, и хлопните обеими руками примерно под углом сорок пять градусов.\n3. Держите ноги разведёнными, а колени согнутыми, погасите приземление руками и спиной, затем вернитесь в положение сидя.",
+      "sectionTitle": "Укэми"
+    },
+    "uk": {
+      "title": "Страхування при падінні назад",
+      "description": "1. Почніть сидячи або в низькому присіді на татамі, притиснувши підборіддя, округливши спину й витягнувши руки вперед.\n2. Перекотіться з таза на спину, утримуючи голову над матом, і плесніть обома руками приблизно під кутом сорок п’ять градусів.\n3. Тримайте ноги розведеними, а коліна зігнутими, погасіть приземлення руками й спиною, потім поверніться в положення сидячи.",
+      "sectionTitle": "Укемі"
+    }
+  }
+}

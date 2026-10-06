@@ -1,0 +1,87 @@
+{
+  "id": "69.12",
+  "key": "kendo_tachi_2",
+  "title": "Kendo Kata Tachi 2",
+  "description": "1. Both take chudan and advance three steps to striking distance.\n2. Uchidachi cuts kote; shidachi steps diagonally back to the left, dropping the tip under the attack, and cuts uchidachi's kote.\n3. Shidachi shows zanshin, then both return to chudan and the start.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Partner Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kendo Kata Tachi 2",
+      "description": "1. Both take chudan and advance three steps to striking distance.\n2. Uchidachi cuts kote; shidachi steps diagonally back to the left, dropping the tip under the attack, and cuts uchidachi's kote.\n3. Shidachi shows zanshin, then both return to chudan and the start.",
+      "sectionTitle": "Partner Forms"
+    },
+    "es": {
+      "title": "Kendo Kata Tachi 2",
+      "description": "1. Ambos toman chudan y avanzan tres pasos hasta la distancia de golpe.\n2. Uchidachi corta kote; shidachi retrocede en diagonal a la izquierda bajando la punta bajo el ataque y corta el kote de uchidachi.\n3. Shidachi muestra zanshin y ambos vuelven a chudan y al inicio.",
+      "sectionTitle": "Formas en pareja"
+    },
+    "pt": {
+      "title": "Kendo Kata Tachi 2",
+      "description": "1. Ambos assumem chudan e avançam três passos até a distância de golpe.\n2. Uchidachi corta kote; shidachi recua em diagonal à esquerda baixando a ponta sob o ataque e corta o kote de uchidachi.\n3. Shidachi mostra zanshin e ambos voltam a chudan e ao início.",
+      "sectionTitle": "Formas em dupla"
+    },
+    "fr": {
+      "title": "Kendo Kata Tachi 2",
+      "description": "1. Tous deux prennent chudan et avancent de trois pas jusqu’à la distance de frappe.\n2. Uchidachi coupe kote ; shidachi recule en diagonale vers la gauche en passant la pointe sous l’attaque et coupe le kote d’uchidachi.\n3. Shidachi montre le zanshin, puis tous deux reviennent en chudan et au départ.",
+      "sectionTitle": "Formes à deux"
+    },
+    "de": {
+      "title": "Kendo Kata Tachi 2",
+      "description": "1. Beide nehmen Chudan und gehen drei Schritte auf Schlagdistanz vor.\n2. Uchidachi schneidet Kote; Shidachi tritt diagonal links zurück, senkt die Spitze unter den Angriff und schneidet Uchidachis Kote.\n3. Shidachi zeigt Zanshin, dann kehren beide ins Chudan und zum Start zurück.",
+      "sectionTitle": "Partnerformen"
+    },
+    "it": {
+      "title": "Kendo Kata Tachi 2",
+      "description": "1. Entrambi assumono chudan e avanzano di tre passi fino alla distanza di colpo.\n2. Uchidachi taglia kote; shidachi arretra in diagonale a sinistra abbassando la punta sotto l’attacco e taglia il kote di uchidachi.\n3. Shidachi mostra zanshin, poi entrambi tornano in chudan e all’inizio.",
+      "sectionTitle": "Forme in coppia"
+    },
+    "zh-Hans": {
+      "title": "日本剑道形 太刀二本目",
+      "description": "1. 双方取中段，前进三步至打击间合。\n2. 打太刀斩小手；仕太刀向左后斜退，剑尖从攻击下方避开，斩打太刀小手。\n3. 仕太刀示残心，双方回到中段与起点。",
+      "sectionTitle": "对练形"
+    },
+    "ja": {
+      "title": "日本剣道形 太刀二本目",
+      "description": "1. 互いに中段に構え、三歩進んで打ち間に入ります。\n2. 打太刀が小手を打ち、仕太刀は左斜め後ろへ体をさばきながら剣先を下げて抜き、打太刀の小手を打ちます。\n3. 仕太刀は残心を示し、互いに中段に戻って元の位置へ帰ります。",
+      "sectionTitle": "日本剣道形"
+    },
+    "ko": {
+      "title": "일본검도형 태도 2본",
+      "description": "1. 둘 다 중단을 잡고 세 걸음 나아가 타격 거리에 들어갑니다.\n2. 우치다치가 손목을 베면 시다치는 왼쪽 뒤 대각으로 물러나며 칼끝을 공격 아래로 빼고 우치다치의 손목을 벱니다.\n3. 시다치가 잔심을 보이고 둘 다 중단과 시작 위치로 돌아갑니다.",
+      "sectionTitle": "짝 형"
+    },
+    "th": {
+      "title": "เคนโดคาตะ ทาจิ 2",
+      "description": "1. ทั้งคู่ตั้งท่าชูดังและเดินหน้าสามก้าวสู่ระยะตี\n2. อุจิดาจิฟันโคเตะ ชิดาจิถอยเฉียงซ้ายไปด้านหลัง ลดปลายดาบหลบใต้การโจมตี แล้วฟันโคเตะของอุจิดาจิ\n3. ชิดาจิแสดงซันชิน แล้วทั้งคู่กลับสู่ชูดังและจุดเริ่ม",
+      "sectionTitle": "ท่าร่างคู่"
+    },
+    "ru": {
+      "title": "Кэндо-ката, тати 2",
+      "description": "1. Оба занимают тюдан и делают три шага до дистанции удара.\n2. Утидати рубит котэ; сидати отступает по диагонали назад влево, уводя кончик под атакой, и рубит котэ утидати.\n3. Сидати показывает дзансин, затем оба возвращаются в тюдан и на исходную позицию.",
+      "sectionTitle": "Парные формы"
+    },
+    "uk": {
+      "title": "Кендо-ката, таті 2",
+      "description": "1. Обоє займають тюдан і роблять три кроки до дистанції удару.\n2. Утідаті рубає коте; сідаті відступає по діагоналі назад ліворуч, відводячи кінчик під атакою, і рубає коте утідаті.\n3. Сідаті показує дзансін, потім обоє повертаються в тюдан і на початкову позицію.",
+      "sectionTitle": "Парні форми"
+    }
+  }
+}

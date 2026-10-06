@@ -1,0 +1,90 @@
+{
+  "id": "2.8",
+  "key": "muay_thai_lead_teep",
+  "title": "Lead Teep",
+  "description": "1. From stance, shift weight to the rear leg and raise the lead knee straight toward the chest.\n2. Press the hip forward and extend the ball of the lead foot into a body pad while keeping the guard high.\n3. Recoil the foot to the knee chamber before placing it back into stance.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Teep",
+      "description": "1. From stance, shift weight to the rear leg and raise the lead knee straight toward the chest.\n2. Press the hip forward and extend the ball of the lead foot into a body pad while keeping the guard high.\n3. Recoil the foot to the knee chamber before placing it back into stance.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Teep delantero",
+      "description": "1. Desde la postura, pasa el peso a la pierna trasera y eleva la rodilla delantera recta hacia el pecho.\n2. Empuja la cadera hacia delante y extiende la planta del pie delantero contra un escudo de cuerpo manteniendo la guardia alta.\n3. Recoge el pie a la posición de rodilla elevada antes de apoyarlo en la postura.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Teep da frente",
+      "description": "1. Na base, passe o peso para a perna de trás e eleve o joelho da frente reto em direção ao peito.\n2. Empurre o quadril à frente e estenda a planta do pé da frente contra um escudo de corpo mantendo a guarda alta.\n3. Recolha o pé à posição de joelho elevado antes de apoiá-lo na base.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Teep jambe avant",
+      "description": "1. En garde, transférez le poids sur la jambe arrière et montez le genou avant droit vers la poitrine.\n2. Poussez la hanche vers l’avant et projetez la plante du pied avant dans un bouclier en gardant les mains hautes.\n3. Ramenez le pied en armé de genou avant de le reposer en garde.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Vorderer Teep",
+      "description": "1. Verlagere aus der Stellung das Gewicht auf das hintere Bein und hebe das vordere Knie gerade zur Brust.\n2. Schiebe die Hüfte nach vorn und stoße den Ballen des vorderen Fußes in ein Schlagpolster, während die Deckung oben bleibt.\n3. Ziehe den Fuß zuerst zum Knieaufzug zurück, bevor du ihn in die Stellung absetzt.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Teep anteriore",
+      "description": "1. Dalla posizione, sposta il peso sulla gamba posteriore e solleva il ginocchio anteriore dritto verso il petto.\n2. Spingi l’anca in avanti e distendi l’avampiede anteriore contro un colpitore mantenendo alta la guardia.\n3. Richiama il piede al ginocchio caricato prima di appoggiarlo in posizione.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "前腿正蹬",
+      "description": "1. 从站姿开始，重心移到后腿，前膝向胸前直线提起。\n2. 髋部向前送，用前脚掌蹬向躯干靶，同时保持高位防守。\n3. 脚先收回提膝位置，再落回站姿。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前足のティープ",
+      "description": "1. 構えから後ろ脚に体重を移し、前の膝を胸に向けてまっすぐ引き上げます。\n2. ガードを高く保ったまま腰を前に押し出し、前足の母指球でミットを突き放します。\n3. 足を膝の抱え込みの位置に戻してから構えに下ろします。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "앞발 팁",
+      "description": "1. 자세에서 뒷다리로 체중을 옮기고 앞 무릎을 가슴 쪽으로 곧게 들어 올립니다.\n2. 가드를 높게 유지한 채 골반을 앞으로 밀며 앞발 앞꿈치로 바디 미트를 밀어 찹니다.\n3. 발을 무릎을 접은 자세로 회수한 뒤 자세로 내려놓습니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ถีบขาหน้า",
+      "description": "1. จากท่ายืน ถ่ายน้ำหนักไปขาหลังและยกเข่าหน้าตรงขึ้นหาอก\n2. ดันสะโพกไปข้างหน้าและถีบจมูกเท้าหน้าเข้าเป้าลำตัว โดยยังยกการ์ดสูง\n3. เก็บเท้ากลับมาที่ท่ายกเข่าก่อนวางลงในท่ายืน",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Тип передней ногой",
+      "description": "1. Из стойки перенесите вес на заднюю ногу и поднимите переднее колено прямо к груди.\n2. Подайте таз вперёд и вытолкните подушечку передней стопы в макивару, держа защиту высоко.\n3. Верните стопу в положение поднятого колена, прежде чем поставить её в стойку.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Тип передньою ногою",
+      "description": "1. Зі стійки перенесіть вагу на задню ногу й підніміть переднє коліно прямо до грудей.\n2. Подайте таз уперед і виштовхніть подушечку передньої стопи в маківару, тримаючи захист високо.\n3. Поверніть стопу в положення піднятого коліна, перш ніж поставити її в стійку.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

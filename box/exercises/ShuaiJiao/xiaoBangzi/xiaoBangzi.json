@@ -1,0 +1,87 @@
+{
+  "id": "92.3",
+  "key": "shuai_jiao_xiao_bangzi",
+  "title": "Xiao Bangzi",
+  "description": "1. Hold a short wooden stick horizontally in front of the body with both hands in an overhand grip.\n2. Twist the hands in opposite directions as if wringing a towel, then reverse, keeping the elbows close.\n3. Continue the wringing in a steady rhythm, adding turns of the waist, and rest when the grip fades.",
+  "colorType": "red",
+  "workoutType": "shuaiJiao",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Xiao Bangzi",
+      "description": "1. Hold a short wooden stick horizontally in front of the body with both hands in an overhand grip.\n2. Twist the hands in opposite directions as if wringing a towel, then reverse, keeping the elbows close.\n3. Continue the wringing in a steady rhythm, adding turns of the waist, and rest when the grip fades.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Xiao Bangzi",
+      "description": "1. Sujeta un palo corto de madera en horizontal delante del cuerpo con ambas manos en agarre prono.\n2. Gira las manos en sentidos opuestos como si escurrieras una toalla y luego invierte, con los codos pegados.\n3. Sigue retorciendo a ritmo constante, añade giros de cintura y descansa cuando el agarre se agote.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Xiao Bangzi",
+      "description": "1. Segure um bastão curto de madeira na horizontal à frente do corpo com as duas mãos em pegada pronada.\n2. Torça as mãos em direções opostas como se torcesse uma toalha e depois inverta, mantendo os cotovelos junto ao corpo.\n3. Continue torcendo em ritmo constante, acrescente giros da cintura e descanse quando a pegada cansar.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Xiao Bangzi",
+      "description": "1. Tenez un bâton court en bois à l’horizontale devant le corps, les deux mains en pronation.\n2. Tournez les mains en sens opposés comme pour essorer une serviette, puis inversez, coudes près du corps.\n3. Poursuivez l’essorage à un rythme régulier en ajoutant des rotations de la taille et reposez-vous quand la saisie faiblit.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Xiao Bangzi",
+      "description": "1. Halte einen kurzen Holzstab waagerecht vor dem Körper, beide Hände im Obergriff.\n2. Drehe die Hände gegeneinander, als würdest du ein Handtuch auswringen, und wechsle dann die Richtung, die Ellbogen nah am Körper.\n3. Wringe in gleichmäßigem Rhythmus weiter, ergänze Drehungen der Taille und pausiere, wenn der Griff nachlässt.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Xiao Bangzi",
+      "description": "1. Tieni un bastone corto di legno in orizzontale davanti al corpo con entrambe le mani in presa prona.\n2. Ruota le mani in direzioni opposte come per strizzare un asciugamano, poi inverti, con i gomiti vicini al corpo.\n3. Continua a torcere a ritmo costante, aggiungi rotazioni della vita e riposa quando la presa cede.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "小棒子",
+      "description": "1. 双手正握一根短木棒，水平置于身前。\n2. 双手向相反方向拧转，如同拧毛巾，然后反向拧，肘部贴近身体。\n3. 以稳定节奏持续拧转，并加入腰部转动，握力下降时休息。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "シャオバンズ",
+      "description": "1. 短い木の棒を両手の順手で持ち、体の前で水平に構えます。\n2. タオルを絞るように両手を逆方向へひねり、次に反対へひねります。肘は体に近づけておきます。\n3. 一定のリズムで絞り続け、腰のひねりも加え、握力が落ちたら休みます。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "샤오방쯔",
+      "description": "1. 짧은 나무 막대를 두 손으로 바로 잡아 몸 앞에 수평으로 듭니다.\n2. 수건을 짜듯 두 손을 서로 반대 방향으로 비틀고, 다시 반대로 비틀며 팔꿈치를 몸에 붙입니다.\n3. 일정한 리듬으로 계속 비틀며 허리 회전을 더하고, 악력이 떨어지면 쉽니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "เสี่ยวปั้งจื่อ",
+      "description": "1. ใช้สองมือจับไม้สั้นแบบคว่ำมือ ถือไว้ในแนวนอนหน้าลำตัว\n2. บิดมือสวนทางกันเหมือนบิดผ้าขนหนู แล้วบิดกลับ โดยให้ศอกชิดลำตัว\n3. บิดต่อเนื่องด้วยจังหวะสม่ำเสมอ เพิ่มการหมุนเอว และพักเมื่อแรงบีบมือลดลง",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Сяо банцзы",
+      "description": "1. Возьмите короткую деревянную палку хватом сверху обеими руками и держите её горизонтально перед собой.\n2. Скручивайте кисти в противоположные стороны, словно выжимаете полотенце, затем в обратную сторону, держа локти у корпуса.\n3. Продолжайте скручивание в ровном ритме, добавляя повороты талии, и отдыхайте, когда хват ослабнет.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Сяо банцзи",
+      "description": "1. Візьміть коротку дерев'яну палицю хватом зверху обома руками й тримайте її горизонтально перед собою.\n2. Скручуйте кисті в протилежні боки, наче викручуєте рушник, потім у зворотний бік, тримаючи лікті біля тулуба.\n3. Продовжуйте скручування в рівному ритмі, додаючи повороти талії, і відпочивайте, коли хват ослабне.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

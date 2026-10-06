@@ -1,0 +1,90 @@
+{
+  "id": "97.22",
+  "key": "sumo_tachi_ai",
+  "title": "Tachi-ai",
+  "description": "1. Face a partner from a low crouch with both fists touching or near the floor behind a line.\n2. On a shared signal, drive forward from the legs with the hips low and meet the partner chest-to-chest or with palms to the chest.\n3. Keep the head up and to the side, drive two short steps, then stop and reset to the crouch.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tachi-ai",
+      "description": "1. Face a partner from a low crouch with both fists touching or near the floor behind a line.\n2. On a shared signal, drive forward from the legs with the hips low and meet the partner chest-to-chest or with palms to the chest.\n3. Keep the head up and to the side, drive two short steps, then stop and reset to the crouch.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Tachi-ai",
+      "description": "1. Frente a un compañero, adopta una posición agachada baja con ambos puños tocando el suelo o cerca de él detrás de una línea.\n2. A una señal común, arranca desde las piernas con la cadera baja y contacta pecho con pecho o con las palmas en el pecho del compañero.\n3. Mantén la cabeza arriba y a un lado, avanza dos pasos cortos, luego detente y vuelve a la posición agachada.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Tachi-ai",
+      "description": "1. De frente para um parceiro, agache baixo com os dois punhos tocando o chão ou perto dele atrás de uma linha.\n2. A um sinal combinado, arranque das pernas com o quadril baixo e encontre o parceiro peito com peito ou com as palmas no peito.\n3. Mantenha a cabeça erguida e de lado, avance dois passos curtos, depois pare e volte à posição agachada.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Tachi-ai",
+      "description": "1. Face à un partenaire, accroupissez-vous bas, les deux poings au sol ou près du sol derrière une ligne.\n2. À un signal commun, partez des jambes hanches basses et rencontrez le partenaire poitrine contre poitrine ou paumes sur la poitrine.\n3. Gardez la tête haute et décalée, poussez sur deux petits pas, puis arrêtez et revenez accroupi.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Tachi-ai",
+      "description": "1. Gehe einem Partner gegenüber in eine tiefe Hocke, beide Fäuste am oder nahe am Boden hinter einer Linie.\n2. Starte auf ein gemeinsames Signal aus den Beinen mit tiefer Hüfte und triff den Partner Brust an Brust oder mit den Handflächen an der Brust.\n3. Halte den Kopf hoch und seitlich, treibe zwei kurze Schritte, stoppe dann und kehre in die Hocke zurück.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Tachi-ai",
+      "description": "1. Di fronte a un partner, accovacciati in basso con entrambi i pugni a terra o vicino al suolo dietro una linea.\n2. A un segnale comune, parti dalle gambe con le anche basse e incontra il partner petto contro petto o con i palmi sul petto.\n3. Tieni la testa alta e di lato, spingi per due brevi passi, poi fermati e torna accovacciato.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "立合",
+      "description": "1. 与同伴相对，在线后低蹲，双拳触地或接近地面。\n2. 听到共同口令后由腿部发力冲出，髋部压低，与同伴胸对胸相接或双掌推其胸口。\n3. 头部抬起偏向一侧，推进两小步后停止，回到蹲踞姿势。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "立ち合い",
+      "description": "1. 相手と向き合い、線の後ろで両拳を床につけるか床近くに置いて低く仕切ります。\n2. 共通の合図で腰を低くしたまま脚から出て、胸と胸、または手のひらを相手の胸に当てて当たります。\n3. 頭を上げて横にずらし、短く二歩押し込んだら止まり、仕切りの姿勢に戻ります。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "다치아이",
+      "description": "1. 파트너와 마주 보고 선 뒤에서 두 주먹을 바닥에 대거나 가까이 두고 낮게 웅크립니다.\n2. 공동 신호에 엉덩이를 낮춘 채 다리로 박차고 나가 가슴끼리 맞대거나 손바닥으로 상대 가슴에 부딪칩니다.\n3. 머리를 들고 옆으로 비킨 채 짧게 두 걸음 밀고, 멈춘 뒤 웅크린 자세로 돌아갑니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ทาจิอาอิ",
+      "description": "1. หันหน้าเข้าหาคู่ฝึก ย่อตัวต่ำหลังเส้น กำปั้นทั้งสองแตะหรือใกล้พื้น\n2. เมื่อได้สัญญาณร่วม พุ่งออกจากขาโดยสะโพกต่ำ ปะทะคู่ฝึกอกชนอก หรือใช้ฝ่ามือดันหน้าอก\n3. เงยศีรษะและเอียงไปด้านข้าง ดันไปสองก้าวสั้น ๆ แล้วหยุดและกลับสู่ท่าย่อ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Татиай",
+      "description": "1. Напротив партнёра опуститесь в низкий присед за линией, оба кулака касаются пола или рядом с ним.\n2. По общему сигналу рвитесь вперёд от ног с низким тазом и встретьте партнёра грудью в грудь или ладонями в грудь.\n3. Держите голову поднятой и в сторону, продавите два коротких шага, затем остановитесь и вернитесь в присед.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Татіай",
+      "description": "1. Навпроти партнера опустіться в низький присід за лінією, обидва кулаки торкаються підлоги або поруч із нею.\n2. За спільним сигналом рвіться вперед від ніг із низьким тазом і зустріньте партнера грудьми в груди або долонями в груди.\n3. Тримайте голову піднятою та вбік, продавіть два короткі кроки, потім зупиніться й поверніться в присід.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

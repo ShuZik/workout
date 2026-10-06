@@ -1,0 +1,87 @@
+{
+  "id": "54.7",
+  "key": "fencing_straight_thrust",
+  "title": "Straight Thrust",
+  "description": "1. Face a masked partner at lunging distance; the partner holds an open line without blade contact.\n2. Extend the weapon arm smoothly so the point travels straight to the open target, then lunge with the arm already extended.\n3. Touch lightly with a slight bend of the blade, recover to en garde, and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Straight Thrust",
+      "description": "1. Face a masked partner at lunging distance; the partner holds an open line without blade contact.\n2. Extend the weapon arm smoothly so the point travels straight to the open target, then lunge with the arm already extended.\n3. Touch lightly with a slight bend of the blade, recover to en garde, and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Estocada directa",
+      "description": "1. Frente a un compañero con careta a distancia de fondo; el compañero deja una línea abierta sin contacto de hojas.\n2. Extiende el brazo armado con suavidad para que la punta vaya recta al blanco abierto y tira a fondo con el brazo ya extendido.\n3. Toca ligeramente con una leve flexión de la hoja, vuelve a guardia e intercambia los papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Estocada direta",
+      "description": "1. De frente para um parceiro com máscara à distância de afundo; o parceiro deixa uma linha aberta sem contato de lâminas.\n2. Estenda o braço armado suavemente para a ponta ir reta ao alvo aberto e afunde com o braço já estendido.\n3. Toque levemente com ligeira flexão da lâmina, volte à guarda e troque os papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Coup droit",
+      "description": "1. Face à un partenaire masqué à distance de fente ; il laisse une ligne ouverte sans contact de fer.\n2. Allongez le bras armé souplement pour que la pointe aille droit à la cible ouverte, puis fendez-vous bras déjà allongé.\n3. Touchez légèrement avec une petite flexion de lame, revenez en garde et inversez les rôles après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Gerader Stoß",
+      "description": "1. Stehe einem Partner mit Maske auf Ausfalldistanz gegenüber; er hält eine offene Linie ohne Klingenkontakt.\n2. Strecke den Waffenarm geschmeidig, sodass die Spitze gerade zur offenen Trefffläche geht, und falle mit bereits gestrecktem Arm aus.\n3. Triff leicht mit geringer Klingenbiegung, kehre in die Fechtstellung zurück und tauscht nach der Serie die Rollen.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Botta dritta",
+      "description": "1. Di fronte a un compagno con maschera a distanza d’affondo; il compagno lascia una linea aperta senza contatto di lame.\n2. Distendi il braccio armato con fluidità così che la punta vada dritta al bersaglio aperto, poi affonda con il braccio già disteso.\n3. Tocca leggermente con una lieve flessione della lama, torna in guardia e scambiate i ruoli dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "直刺",
+      "description": "1. 与戴面罩的同伴相距弓步距离；同伴留出一条无接剑的空档。\n2. 平稳伸展持剑臂，使剑尖直线指向空档目标，手臂伸直后再弓步。\n3. 轻触并使剑身略弯，恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "ストレートスラスト",
+      "description": "1. マスクを着けた相手とファントの間合いで向き合い、相手は剣を接触させずにラインを空けます。\n2. 剣腕を滑らかに伸ばして剣先をまっすぐ空いた標的へ向け、腕を伸ばしたままファントします。\n3. 剣が少ししなる程度に軽く突き、アンガルドに戻り、セットごとに役割を交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "직접 찌르기",
+      "description": "1. 마스크를 쓴 파트너와 런지 거리에서 마주하고, 파트너는 칼 접촉 없이 라인을 엽니다.\n2. 칼 든 팔을 부드럽게 뻗어 칼끝이 열린 표적으로 곧게 가게 한 뒤 팔을 뻗은 채 런지합니다.\n3. 칼이 살짝 휘는 정도로 가볍게 찌르고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "แทงตรง",
+      "description": "1. ยืนเผชิญคู่ฝึกที่สวมหน้ากากในระยะลันจ์ คู่ฝึกเปิดแนวโดยไม่แตะดาบ\n2. เหยียดแขนถือดาบอย่างนุ่มนวลให้ปลายดาบพุ่งตรงไปที่เป้าที่เปิด แล้วลันจ์โดยแขนเหยียดอยู่แล้ว\n3. แตะเบาๆ ให้ใบดาบโค้งเล็กน้อย กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Прямой укол",
+      "description": "1. Встаньте перед партнёром в маске на дистанции выпада; партнёр открывает линию без контакта клинков.\n2. Плавно выпрямите вооружённую руку, чтобы остриё шло прямо в открытую цель, и выполните выпад с уже выпрямленной рукой.\n3. Коснитесь легко, с небольшим изгибом клинка, вернитесь в стойку и поменяйтесь ролями после серии.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Прямий укол",
+      "description": "1. Станьте перед партнером у масці на дистанції випаду; партнер відкриває лінію без контакту клинків.\n2. Плавно випряміть озброєну руку, щоб вістря йшло прямо у відкриту ціль, і виконайте випад із уже випрямленою рукою.\n3. Торкніться легко, з невеликим вигином клинка, поверніться в стійку й поміняйтеся ролями після серії.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

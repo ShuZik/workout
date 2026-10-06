@@ -10,7 +10,45 @@
       "icon": "Yoga/exercises/Custom/Icon.png",
       "symbolName": "figure.yoga",
       "title": "Custom",
-      "workoutType": "custom"
+      "workoutType": "custom",
+      "translations": {
+        "en": {
+          "title": "Custom"
+        },
+        "es": {
+          "title": "Personalizados"
+        },
+        "pt": {
+          "title": "Personalizados"
+        },
+        "fr": {
+          "title": "Personnalisés"
+        },
+        "de": {
+          "title": "Eigene"
+        },
+        "it": {
+          "title": "Personalizzati"
+        },
+        "zh-Hans": {
+          "title": "自定义"
+        },
+        "ja": {
+          "title": "カスタム"
+        },
+        "ko": {
+          "title": "사용자 지정"
+        },
+        "th": {
+          "title": "กำหนดเอง"
+        },
+        "ru": {
+          "title": "Свои"
+        },
+        "uk": {
+          "title": "Власні"
+        }
+      }
     },
     {
       "colorType": "sage",
@@ -19,7 +57,45 @@
       "icon": "Yoga/exercises/Yoga/Icon.png",
       "symbolName": "figure.yoga",
       "title": "Yoga",
-      "workoutType": "yoga"
+      "workoutType": "yoga",
+      "translations": {
+        "en": {
+          "title": "Yoga"
+        },
+        "es": {
+          "title": "Yoga"
+        },
+        "pt": {
+          "title": "Yoga"
+        },
+        "fr": {
+          "title": "Yoga"
+        },
+        "de": {
+          "title": "Yoga"
+        },
+        "it": {
+          "title": "Yoga"
+        },
+        "zh-Hans": {
+          "title": "瑜伽"
+        },
+        "ja": {
+          "title": "ヨガ"
+        },
+        "ko": {
+          "title": "요가"
+        },
+        "th": {
+          "title": "โยคะ"
+        },
+        "ru": {
+          "title": "Йога"
+        },
+        "uk": {
+          "title": "Йога"
+        }
+      }
     },
     {
       "colorType": "teal",
@@ -28,7 +104,45 @@
       "icon": "Yoga/exercises/Breathwork/Icon.png",
       "symbolName": "lungs.fill",
       "title": "Breathwork",
-      "workoutType": "breathwork"
+      "workoutType": "breathwork",
+      "translations": {
+        "en": {
+          "title": "Breathwork"
+        },
+        "es": {
+          "title": "Respiración"
+        },
+        "pt": {
+          "title": "Respiração"
+        },
+        "fr": {
+          "title": "Respiration"
+        },
+        "de": {
+          "title": "Atemübungen"
+        },
+        "it": {
+          "title": "Respirazione"
+        },
+        "zh-Hans": {
+          "title": "呼吸练习"
+        },
+        "ja": {
+          "title": "呼吸法"
+        },
+        "ko": {
+          "title": "호흡 훈련"
+        },
+        "th": {
+          "title": "ฝึกการหายใจ"
+        },
+        "ru": {
+          "title": "Дыхательные практики"
+        },
+        "uk": {
+          "title": "Дихальні практики"
+        }
+      }
     },
     {
       "colorType": "violet",
@@ -37,7 +151,45 @@
       "icon": "Yoga/exercises/Meditation/Icon.png",
       "symbolName": "figure.mind.and.body",
       "title": "Meditation",
-      "workoutType": "meditation"
+      "workoutType": "meditation",
+      "translations": {
+        "en": {
+          "title": "Meditation"
+        },
+        "es": {
+          "title": "Meditación"
+        },
+        "pt": {
+          "title": "Meditação"
+        },
+        "fr": {
+          "title": "Méditation"
+        },
+        "de": {
+          "title": "Meditation"
+        },
+        "it": {
+          "title": "Meditazione"
+        },
+        "zh-Hans": {
+          "title": "冥想"
+        },
+        "ja": {
+          "title": "瞑想"
+        },
+        "ko": {
+          "title": "명상"
+        },
+        "th": {
+          "title": "การทำสมาธิ"
+        },
+        "ru": {
+          "title": "Медитация"
+        },
+        "uk": {
+          "title": "Медитація"
+        }
+      }
     },
     {
       "colorType": "green",
@@ -46,7 +198,45 @@
       "icon": "Yoga/exercises/Cooldown/Icon.png",
       "symbolName": "figure.flexibility",
       "title": "Rest",
-      "workoutType": "cooldown"
+      "workoutType": "cooldown",
+      "translations": {
+        "en": {
+          "title": "Rest"
+        },
+        "es": {
+          "title": "Descanso"
+        },
+        "pt": {
+          "title": "Descanso"
+        },
+        "fr": {
+          "title": "Repos"
+        },
+        "de": {
+          "title": "Pause"
+        },
+        "it": {
+          "title": "Riposo"
+        },
+        "zh-Hans": {
+          "title": "休息"
+        },
+        "ja": {
+          "title": "休憩"
+        },
+        "ko": {
+          "title": "휴식"
+        },
+        "th": {
+          "title": "พัก"
+        },
+        "ru": {
+          "title": "Отдых"
+        },
+        "uk": {
+          "title": "Відпочинок"
+        }
+      }
     },
     {
       "colorType": "gray",
@@ -55,7 +245,45 @@
       "icon": "Yoga/exercises/Other/Icon.png",
       "symbolName": "list.bullet",
       "title": "Other",
-      "workoutType": "other"
+      "workoutType": "other",
+      "translations": {
+        "en": {
+          "title": "Other"
+        },
+        "es": {
+          "title": "Otros"
+        },
+        "pt": {
+          "title": "Outros"
+        },
+        "fr": {
+          "title": "Autres"
+        },
+        "de": {
+          "title": "Sonstige"
+        },
+        "it": {
+          "title": "Altro"
+        },
+        "zh-Hans": {
+          "title": "其他"
+        },
+        "ja": {
+          "title": "その他"
+        },
+        "ko": {
+          "title": "기타"
+        },
+        "th": {
+          "title": "อื่น ๆ"
+        },
+        "ru": {
+          "title": "Другое"
+        },
+        "uk": {
+          "title": "Інше"
+        }
+      }
     }
   ],
   "files": [

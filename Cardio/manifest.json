@@ -1,0 +1,193 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#2BBF51",
+    "colorType": "green",
+    "folder": "Cardio",
+    "id": "11",
+    "icon": "Cardio/Icon.png",
+    "symbolName": "figure.run",
+    "title": "Cardio",
+    "workoutType": "cardio",
+    "translations": {
+      "en": {
+        "title": "Cardio"
+      },
+      "es": {
+        "title": "Cardio"
+      },
+      "pt": {
+        "title": "Cardio"
+      },
+      "fr": {
+        "title": "Cardio"
+      },
+      "de": {
+        "title": "Cardio"
+      },
+      "it": {
+        "title": "Cardio"
+      },
+      "zh-Hans": {
+        "title": "有氧运动"
+      },
+      "ja": {
+        "title": "有酸素運動"
+      },
+      "ko": {
+        "title": "유산소 운동"
+      },
+      "th": {
+        "title": "คาร์ดิโอ"
+      },
+      "ru": {
+        "title": "Кардио"
+      },
+      "uk": {
+        "title": "Кардіо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Cardio/exercises/cardio/Icon.png",
+      "json": "Cardio/exercises/cardio/cardio.json"
+    },
+    {
+      "icon": "Cardio/exercises/outdoorRun/Icon.png",
+      "json": "Cardio/exercises/outdoorRun/outdoorRun.json"
+    },
+    {
+      "icon": "Cardio/exercises/outdoorWalk/Icon.png",
+      "json": "Cardio/exercises/outdoorWalk/outdoorWalk.json"
+    },
+    {
+      "icon": "Cardio/exercises/outdoorCycling/Icon.png",
+      "json": "Cardio/exercises/outdoorCycling/outdoorCycling.json"
+    },
+    {
+      "icon": "Cardio/exercises/hiking/Icon.png",
+      "json": "Cardio/exercises/hiking/hiking.json"
+    },
+    {
+      "icon": "Cardio/exercises/openWaterSwimming/Icon.png",
+      "json": "Cardio/exercises/openWaterSwimming/openWaterSwimming.json"
+    },
+    {
+      "icon": "Cardio/exercises/outdoorRowing/Icon.png",
+      "json": "Cardio/exercises/outdoorRowing/outdoorRowing.json"
+    },
+    {
+      "icon": "Cardio/exercises/paddling/Icon.png",
+      "json": "Cardio/exercises/paddling/paddling.json"
+    },
+    {
+      "icon": "Cardio/exercises/crossCountrySkiing/Icon.png",
+      "json": "Cardio/exercises/crossCountrySkiing/crossCountrySkiing.json"
+    },
+    {
+      "icon": "Cardio/exercises/treadmillRun/Icon.png",
+      "json": "Cardio/exercises/treadmillRun/treadmillRun.json"
+    },
+    {
+      "icon": "Cardio/exercises/stationaryBike/Icon.png",
+      "json": "Cardio/exercises/stationaryBike/stationaryBike.json"
+    },
+    {
+      "icon": "Cardio/exercises/rowingMachine/Icon.png",
+      "json": "Cardio/exercises/rowingMachine/rowingMachine.json"
+    },
+    {
+      "icon": "Cardio/exercises/elliptical/Icon.png",
+      "json": "Cardio/exercises/elliptical/elliptical.json"
+    },
+    {
+      "icon": "Cardio/exercises/stairClimber/Icon.png",
+      "json": "Cardio/exercises/stairClimber/stairClimber.json"
+    },
+    {
+      "icon": "Cardio/exercises/treadmillWalk/Icon.png",
+      "json": "Cardio/exercises/treadmillWalk/treadmillWalk.json"
+    },
+    {
+      "icon": "Cardio/exercises/poolSwimming/Icon.png",
+      "json": "Cardio/exercises/poolSwimming/poolSwimming.json"
+    },
+    {
+      "icon": "Cardio/exercises/waterFitness/Icon.png",
+      "json": "Cardio/exercises/waterFitness/waterFitness.json"
+    },
+    {
+      "icon": "Cardio/exercises/jumpRope/Icon.png",
+      "json": "Cardio/exercises/jumpRope/jumpRope.json"
+    },
+    {
+      "icon": "Cardio/exercises/mixedCardio/Icon.png",
+      "json": "Cardio/exercises/mixedCardio/mixedCardio.json"
+    },
+    {
+      "icon": "Cardio/exercises/stairs/Icon.png",
+      "json": "Cardio/exercises/stairs/stairs.json"
+    },
+    {
+      "icon": "Cardio/exercises/stepTraining/Icon.png",
+      "json": "Cardio/exercises/stepTraining/stepTraining.json"
+    },
+    {
+      "icon": "Cardio/exercises/handCycling/Icon.png",
+      "json": "Cardio/exercises/handCycling/handCycling.json"
+    },
+    {
+      "icon": "Cardio/exercises/outdoorWheelchairWalk/Icon.png",
+      "json": "Cardio/exercises/outdoorWheelchairWalk/outdoorWheelchairWalk.json"
+    },
+    {
+      "icon": "Cardio/exercises/outdoorWheelchairRun/Icon.png",
+      "json": "Cardio/exercises/outdoorWheelchairRun/outdoorWheelchairRun.json"
+    },
+    {
+      "json": "Cardio/exercises/basicBounce/basicBounce.json",
+      "icon": "Cardio/exercises/basicBounce/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/alternateFootStep/alternateFootStep.json",
+      "icon": "Cardio/exercises/alternateFootStep/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/boxerStep/boxerStep.json",
+      "icon": "Cardio/exercises/boxerStep/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/runningStep/runningStep.json",
+      "icon": "Cardio/exercises/runningStep/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/sideToSideJump/sideToSideJump.json",
+      "icon": "Cardio/exercises/sideToSideJump/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/forwardBackwardJump/forwardBackwardJump.json",
+      "icon": "Cardio/exercises/forwardBackwardJump/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/highKnees/highKnees.json",
+      "icon": "Cardio/exercises/highKnees/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/skierJump/skierJump.json",
+      "icon": "Cardio/exercises/skierJump/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/bellJump/bellJump.json",
+      "icon": "Cardio/exercises/bellJump/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/straddleJump/straddleJump.json",
+      "icon": "Cardio/exercises/straddleJump/Icon.png"
+    },
+    {
+      "json": "Cardio/exercises/cardioDance/cardioDance.json",
+      "icon": "Cardio/exercises/cardioDance/Icon.png"
+    }
+  ]
+}

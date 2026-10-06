@@ -1,0 +1,90 @@
+{
+  "id": "8.36",
+  "key": "taekwondo_choong_moo",
+  "title": "Choong-Moo",
+  "description": "1. Start in parallel ready stance and perform the 30-movement pattern, opening with the double knife-hand block and high knife-hand strike.\n2. Include the flying side piercing kick, the back piercing kick, twin palm upward blocks and the turning kick combinations.\n3. Land every jump balanced, finish with the closing forearm blocks, and return to parallel ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Choong-Moo",
+      "description": "1. Start in parallel ready stance and perform the 30-movement pattern, opening with the double knife-hand block and high knife-hand strike.\n2. Include the flying side piercing kick, the back piercing kick, twin palm upward blocks and the turning kick combinations.\n3. Land every jump balanced, finish with the closing forearm blocks, and return to parallel ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Choong-Moo",
+      "description": "1. Empieza en posición de preparación paralela y realiza el patrón de 30 movimientos, abriendo con el bloqueo doble de mano de cuchillo y el golpe alto de mano de cuchillo.\n2. Incluye la patada lateral penetrante en salto, la patada trasera penetrante, los bloqueos dobles ascendentes con la palma y las combinaciones de patada circular.\n3. Aterriza cada salto con equilibrio, termina con los bloqueos finales de antebrazo y vuelve a la posición de preparación paralela.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Choong-Moo",
+      "description": "1. Comece na posição de preparação paralela e execute o padrão de 30 movimentos, abrindo com o bloqueio duplo com mão em faca e o golpe alto com mão em faca.\n2. Inclua o chute lateral penetrante em salto, o chute traseiro penetrante, os bloqueios duplos ascendentes com a palma e as combinações de chute circular.\n3. Aterrisse cada salto com equilíbrio, termine com os bloqueios finais de antebraço e volte à posição de preparação paralela.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Choong-Moo",
+      "description": "1. Partez en position de préparation parallèle et exécutez l’enchaînement de 30 mouvements, en ouvrant par le double blocage main en sabre et la frappe haute main en sabre.\n2. Intégrez le coup de pied latéral perçant sauté, le coup de pied arrière perçant, les doubles blocages montants de la paume et les combinaisons de coup de pied circulaire.\n3. Réceptionnez chaque saut en équilibre, terminez par les derniers blocages d’avant-bras et revenez en position de préparation parallèle.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Choong-Moo",
+      "description": "1. Beginne im parallelen Bereitschaftsstand und laufe die 30 Bewegungen, eröffnet mit doppeltem Handkantenblock und hohem Handkantenschlag.\n2. Baue den gesprungenen Seitstoßtritt, den Rückwärtsstoßtritt, doppelte Handflächen-Aufwärtsblocks und die Halbkreistritt-Kombinationen ein.\n3. Lande jeden Sprung im Gleichgewicht, schließe mit den letzten Unterarmblocks ab und kehre in den parallelen Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Choong-Moo",
+      "description": "1. Parti dalla posizione di pronti parallela ed esegui la forma di 30 movimenti, aprendo con la doppia parata a mano a coltello e il colpo alto a mano a coltello.\n2. Inserisci il calcio laterale penetrante in salto, il calcio all’indietro penetrante, le doppie parate ascendenti di palmo e le combinazioni di calcio circolare.\n3. Atterra in equilibrio da ogni salto, concludi con le ultime parate d’avambraccio e torna alla posizione di pronti parallela.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "忠武型（Choong-Moo）",
+      "description": "1. 以平行预备式开始，完成30个动作，开头为双手刀格挡与上段手刀击打。\n2. 包括腾空侧踹、后踹、双掌上托格挡以及横踢组合。\n3. 每次落地保持平衡，以最后的前臂格挡收尾，回到平行预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "チュンム（忠武）",
+      "description": "1. 平行準備立ちから始め、双手刀受けと上段手刀打ちで30動作の型を開始します。\n2. 跳び横蹴り、後ろ蹴り、双掌上げ受け、回し蹴りの連携を含めます。\n3. 跳躍はすべてバランスよく着地し、最後の腕受けで締めくくって平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "충무",
+      "description": "1. 나란히 준비서기에서 시작해 두손칼 막기와 상단 손칼 치기로 30동작 틀을 엽니다.\n2. 뛰어 옆차찌르기, 뒤차찌르기, 쌍손바닥 올려막기, 돌려차기 연결을 포함합니다.\n3. 모든 뛰기는 균형 있게 착지하고 마지막 팔목 막기로 마무리한 뒤 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ชุงมู",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนานและทำรูปแบบ 30 จังหวะ โดยเปิดด้วยการปัดด้วยสันมือค��่และการฟันสันมือระดับสูง\n2. รวมการกระโดดเตะข้างแบบเจาะ การเตะหลังแบบเจาะ การปัดขึ้นด้วยฝ่ามือคู่ และชุดการเตะเหวี่ยง\n3. ลงพื้นทุกครั้งอย่างสมดุล จบด้วยการปัดด้วยแขนชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบขนาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Чунму",
+      "description": "1. Начните из параллельной готовой стойки и выполните туль из 30 движений, открыв его двойным блоком ребром ладони и ударом ребром ладони на верхний уровень.\n2. Включите проникающий боковой удар ногой в прыжке, проникающий удар ногой назад, двойные верхние блоки ладонями и связки с круговым ударом ногой.\n3. Приземляйтесь после каждого прыжка в равновесии, завершите последними блоками предплечьями и вернитесь в параллельную готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Чунму",
+      "description": "1. Почніть із паралельної готової стійки й виконайте туль із 30 рухів, відкривши його подвійним блоком ребром долоні та ударом ребром долоні на верхній рівень.\n2. Додайте проникний бічний удар ногою в стрибку, проникний удар ногою назад, подвійні верхні блоки долонями та зв’язки з круговим ударом ногою.\n3. Приземляйтеся після кожного стрибка в рівновазі, завершіть останніми блоками передпліччями та поверніться в паралельну готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

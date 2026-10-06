@@ -1,0 +1,90 @@
+{
+  "id": "40.30",
+  "key": "karate_heian_sandan",
+  "title": "Heian Sandan",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Combine middle blocks with simultaneous inside and low blocks, a spear-hand thrust with a turning hammer-fist, stamping steps with elbow strikes, and closing rear elbow strikes in horse stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Heian Sandan",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Combine middle blocks with simultaneous inside and low blocks, a spear-hand thrust with a turning hammer-fist, stamping steps with elbow strikes, and closing rear elbow strikes in horse stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Heian Sandan",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Combina bloqueos medios con bloqueos interior y bajo simultáneos, una estocada de nukite con giro y tettsui, pasos de pisotón con codazos y codazos hacia atrás finales en kiba-dachi.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Heian Sandan",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Combine bloqueios médios com bloqueios interno e baixo simultâneos, um golpe de nukite com giro e tettsui, passos de pisão com cotoveladas e cotoveladas para trás finais em kiba-dachi.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Heian Sandan",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Combinez des blocages moyens avec des blocages intérieur et bas simultanés, un nukite suivi d’un tettsui en pivotant, des pas frappés avec coups de coude et des coudes arrière finaux en kiba-dachi.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Heian Sandan",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Verbinde mittlere Abwehren mit gleichzeitiger Innen- und Tiefabwehr, einen Nukite mit Drehung und Hammerfaust, stampfende Schritte mit Ellbogenschlägen und abschließende Rückwärtsellbogen im Kiba-dachi.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Heian Sandan",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Combina parate medie con parate interna e bassa simultanee, un nukite con rotazione e tettsui, passi battuti con gomitate e gomitate all’indietro finali in kiba-dachi.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "平安三段",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 结合中段格挡与同时的内格挡和下段格挡、贯手接转身铁锤拳、踏步肘击，最后在骑马立做后肘击。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "平安三段",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 中段受けと同時の内受け・下段払い、貫手から回転しての鉄槌、踏み込みと猿臂、最後に騎馬立ちでの後ろ猿臂を組み合わせます。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "헤이안 산단",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 중단 막기와 동시 안막기·하단 막기, 관수 후 회전 메주먹, 밟는 걸음과 팔꿈치 치기, 마지막 기마서기 뒤 팔꿈치 치기를 엮습니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "เฮอัน ซันดัน",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. ผสมการปัดกลางกับการปัดในและปัดล่างพร้อมกัน แทงนุกิเตะแล้วหมุนตัวตีสันหมัด ก้าวกระทืบพร้อมศอก และจบด้วยศอกถอยหลังในท่าคิบะดาจิ\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Хэйан сандан",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Соедините средние блоки с одновременными внутренним и нижним блоками, нукитэ с разворотом и тэтцуи, топающие шаги с ударами локтем и завершающие удары локтем назад в киба-дати.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Хейан сандан",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Поєднайте середні блоки з одночасними внутрішнім і нижнім блоками, нукіте з розворотом і тетцуї, тупотливі кроки з ударами ліктем і завершальні удари ліктем назад у кіба-дачі.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

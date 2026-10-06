@@ -1,0 +1,90 @@
+{
+  "id": "41.80",
+  "key": "judo_yoko_gake",
+  "title": "Yoko Gake",
+  "description": "1. Draw the partner sideways so the weight rests on the outer edge of one foot.\n2. Sweep that foot out from under the partner with your sole while dropping onto your side.\n3. Pull the upper body down with you so the partner falls on the side, holding the sleeve for the landing.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Yoko Gake",
+      "description": "1. Draw the partner sideways so the weight rests on the outer edge of one foot.\n2. Sweep that foot out from under the partner with your sole while dropping onto your side.\n3. Pull the upper body down with you so the partner falls on the side, holding the sleeve for the landing.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Yoko Gake",
+      "description": "1. Lleva al compañero lateralmente para que su peso descanse en el borde exterior de un pie.\n2. Barre ese pie bajo el compañero con la planta mientras te dejas caer de lado.\n3. Tira del tronco hacia abajo contigo para que el compañero caiga de lado, sujetando la manga para el aterrizaje.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Yoko Gake",
+      "description": "1. Leve o parceiro lateralmente para que o peso dele repouse na borda externa de um pé.\n2. Varra esse pé sob o parceiro com a sola enquanto cai de lado.\n3. Puxe o tronco para baixo com você para que o parceiro caia de lado, segurando a manga para a aterrissagem.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Yoko Gake",
+      "description": "1. Amenez le partenaire latéralement pour que son poids repose sur le bord extérieur d’un pied.\n2. Balayez ce pied sous lui avec la plante en vous laissant tomber sur le côté.\n3. Tirez le haut du corps vers le bas avec vous pour qu’il tombe sur le côté, en tenant la manche pour la réception.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Yoko Gake",
+      "description": "1. Ziehe den Partner seitlich, sodass sein Gewicht auf der Außenkante eines Fußes ruht.\n2. Fege diesen Fuß mit der Sohle unter ihm weg, während du dich auf die Seite fallen lässt.\n3. Ziehe den Oberkörper mit dir nach unten, damit der Partner seitlich fällt, und halte den Ärmel für die Landung.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Yoko Gake",
+      "description": "1. Porta il compagno lateralmente così che il suo peso poggi sul bordo esterno di un piede.\n2. Spazza quel piede sotto di lui con la pianta mentre ti lasci cadere di lato.\n3. Tira il busto verso il basso con te perché il compagno cada di lato, tenendo la manica per l’atterraggio.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "横挂",
+      "description": "1. 把搭档横向拉动，使其重心落在一只脚的外缘。\n2. 侧身倒下的同时，用脚掌把这只脚从其身下扫出。\n3. 把其上身随你一起向下拉，使搭档侧倒，抓住袖口引导落地。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "横掛",
+      "description": "1. 相手を横へ崩し、片足の外側の縁に体重を乗せます。\n2. 横向きに倒れながら、その足を足裏で相手の下から払います。\n3. 上体を自分と一緒に下へ引いて相手を横に倒し、袖を持って着地させます。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "요코 가케",
+      "description": "1. 파트너를 옆으로 끌어 한 발 바깥 가장자리에 체중이 실리게 합니다.\n2. 옆으로 넘어지며 그 발을 발바닥으로 파트너 아래에서 쓸어냅니다.\n3. 상체를 나와 함께 아래로 당겨 파트너가 옆으로 넘어지게 하고 소매를 잡아 착지를 돕습니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "โยโกะกาเกะ",
+      "description": "1. ดึงคู่ฝึกไปด้านข้างให้น้ำหนักลงที่ขอบด้านนอกของเท้าข้างหนึ่ง\n2. ใช้ฝ่าเท้ากวาดเท้านั้นออกจากใต้คู่ฝึก ขณะล้มตะแคงลง\n3. ดึงลำตัวคู่ฝึกลงมาพร้อมคุณให้ล้มตะแคง จับแขนเสื้อไว้เพื่อการลงพื้น",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Ёко-гакэ",
+      "description": "1. Выведите партнёра вбок, чтобы его вес лёг на внешний край одной стопы.\n2. Подметите подошвой эту стопу из-под партнёра, падая на бок.\n3. Тяните корпус вниз вместе с собой, чтобы партнёр упал на бок, удерживая рукав для приземления.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Йоко-гаке",
+      "description": "1. Виведіть партнера вбік, щоб його вага лягла на зовнішній край однієї стопи.\n2. Підметіть підошвою цю стопу з-під партнера, падаючи на бік.\n3. Тягніть тулуб униз разом із собою, щоб партнер упав на бік, утримуючи рукав для приземлення.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

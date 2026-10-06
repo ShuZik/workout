@@ -1,0 +1,90 @@
+{
+  "id": "108.6",
+  "key": "wing_chun_luk_dim_boon_kwun",
+  "title": "Luk Dim Boon Kwun",
+  "description": "1. Hold a long training pole with both hands near the thick end in a low, stable stance, with a long clear area in front and to the sides.\n2. Perform the pole form with thrusts, deflections, circling, and downward cutting actions, driving the pole from the waist and rear hand in long stances.\n3. Stop each thrust under control and keep the tip away from people and walls, then return the pole to the rest position and close.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "pro",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Luk Dim Boon Kwun",
+      "description": "1. Hold a long training pole with both hands near the thick end in a low, stable stance, with a long clear area in front and to the sides.\n2. Perform the pole form with thrusts, deflections, circling, and downward cutting actions, driving the pole from the waist and rear hand in long stances.\n3. Stop each thrust under control and keep the tip away from people and walls, then return the pole to the rest position and close.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Luk Dim Boon Kwun",
+      "description": "1. Sujeta un bastón largo de entrenamiento con ambas manos cerca del extremo grueso en una posición baja y estable, con un área larga y libre delante y a los lados.\n2. Ejecuta la forma del bastón con estocadas, desvíos, círculos y cortes descendentes, impulsando el bastón desde la cintura y la mano trasera en posiciones largas.\n3. Detén cada estocada con control y mantén la punta lejos de personas y paredes, luego vuelve el bastón a la posición de reposo y cierra.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Luk Dim Boon Kwun",
+      "description": "1. Segure um bastão longo de treino com as duas mãos perto da ponta grossa numa base baixa e estável, com uma área longa e livre à frente e aos lados.\n2. Execute a forma do bastão com estocadas, desvios, círculos e cortes descendentes, impulsionando o bastão pela cintura e pela mão de trás em bases longas.\n3. Pare cada estocada com controle e mantenha a ponta longe de pessoas e paredes, depois volte o bastão à posição de descanso e feche.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Luk Dim Boon Kwun",
+      "description": "1. Tenez un long bâton d’entraînement à deux mains près de l’extrémité épaisse dans une position basse et stable, avec une longue zone dégagée devant et sur les côtés.\n2. Exécutez la forme du bâton avec estocs, déviations, cercles et coupes descendantes, en propulsant le bâton par la taille et la main arrière dans des positions longues.\n3. Arrêtez chaque estoc sous contrôle et gardez la pointe loin des personnes et des murs, puis ramenez le bâton en position de repos et fermez.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Luk Dim Boon Kwun",
+      "description": "1. Halte einen langen Trainingsstab mit beiden Händen nahe dem dicken Ende in tiefer, stabiler Stellung, mit langem freiem Raum vorne und seitlich.\n2. Laufe die Stabform mit Stößen, Ablenkungen, Kreisen und abwärts schneidenden Aktionen und treibe den Stab aus Taille und hinterer Hand in langen Stellungen.\n3. Stoppe jeden Stoß kontrolliert und halte die Spitze fern von Personen und Wänden, bringe den Stab dann in die Ruheposition und schließe.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Luk Dim Boon Kwun",
+      "description": "1. Tieni un lungo bastone da allenamento con due mani vicino all’estremità spessa in una posizione bassa e stabile, con un’ampia area libera davanti e ai lati.\n2. Esegui la forma del bastone con affondi, deviazioni, cerchi e tagli verso il basso, spingendo il bastone da vita e mano posteriore in posizioni lunghe.\n3. Ferma ogni affondo con controllo e tieni la punta lontana da persone e pareti, poi riporta il bastone in posizione di riposo e chiudi.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "六点半棍",
+      "description": "1. 双手握训练用长棍靠近粗端，以低而稳的马步站立，前方和两侧留出足够长的空间。\n2. 演练六点半棍法，包括刺、拨、圈、下劈等动作，在长马中以腰和后手催动长棍。\n3. 每次刺出都控制停住，棍尖远离他人和墙壁，最后将棍收回休息位置收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "六點半棍",
+      "description": "1. 練習用の長棍を太い端の近くで両手に持ち、低く安定した構えで、前方と左右に長い空間を確保します。\n2. 突き・払い・円・打ち下ろしの切りで棍の型を行い、長い歩型の中で腰と後ろの手から棍を送り出します。\n3. 突きはすべて制御して止め、棍先を人や壁から離し、最後に棍を休めの位置に戻して収めます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "육점반곤",
+      "description": "1. 훈련용 장곤을 굵은 끝 가까이 두 손으로 쥐고 낮고 안정된 자세로 서며, 앞과 양옆에 긴 빈 공간을 확보합니다.\n2. 찌르기, 쳐내기, 원 그리기, 내려베기 동작으로 곤 품을 수행하며 긴 보형에서 허리와 뒷손으로 곤을 밀어냅니다.\n3. 모든 찌르기를 통제하며 멈추고 곤 끝을 사람과 벽에서 멀리 유지한 뒤 곤을 휴식 위치로 돌려 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "ไม้พลองหกจุดครึ่ง",
+      "description": "1. จับพลองยาวสำหรับฝึกด้วยสองมือใกล้ปลายด้านหนา ยืนในท่าต่ำและมั่นคง โดยด้านหน้าและด้านข้างโล่งยาว\n2. รำชุดพลองด้วยการแทง การปัด การวน และการฟันลง โดยส่งพลองจากเอวและมือหลังในท่ายืนยาว\n3. หยุดทุกการแทงอย่างควบคุม ให้ปลายพลองห่างจากคนและผนัง แล้วนำพลองกลับสู่ท่าพักและปิดท่ารำ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Лук Дим Бун Кван (шест)",
+      "description": "1. Держите длинный тренировочный шест обеими руками у толстого конца в низкой устойчивой стойке, с длинным свободным пространством впереди и по бокам.\n2. Выполните форму с шестом: уколы, отводы, круговые движения и рубящие действия вниз, посылая шест от поясницы и задней руки в длинных стойках.\n3. Останавливайте каждый укол под контролем, держите конец шеста подальше от людей и стен, затем верните шест в исходное положение и завершите.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Лук Дім Бун Кван (жердина)",
+      "description": "1. Тримайте довгу тренувальну жердину обома руками біля товстого кінця в низькій стійкій стійці, з довгим вільним простором попереду й з боків.\n2. Виконайте форму з жердиною: уколи, відведення, колові рухи та рубальні дії вниз, посилаючи жердину від попереку й задньої руки в довгих стійках.\n3. Зупиняйте кожен укол під контролем, тримайте кінець жердини подалі від людей і стін, потім поверніть жердину у вихідне положення й завершіть.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

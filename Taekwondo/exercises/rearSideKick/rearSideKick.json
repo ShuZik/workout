@@ -1,0 +1,90 @@
+{
+  "id": "8.8",
+  "key": "taekwondo_rear_side_kick",
+  "title": "Rear Side Kick",
+  "description": "1. Turn the body side-on, shift onto the lead leg, and chamber the rear knee across the torso.\n2. Pivot the supporting foot and drive the rear heel straight into the target with the hip behind it.\n3. Retract the heel to chamber and return the rear foot behind the lead foot without losing balance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Side Kick",
+      "description": "1. Turn the body side-on, shift onto the lead leg, and chamber the rear knee across the torso.\n2. Pivot the supporting foot and drive the rear heel straight into the target with the hip behind it.\n3. Retract the heel to chamber and return the rear foot behind the lead foot without losing balance.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Patada lateral trasera",
+      "description": "1. Gira el cuerpo de lado, pasa el peso a la pierna delantera y prepara la rodilla trasera cruzando el torso.\n2. Pivota el pie de apoyo y empuja el talón trasero directamente al objetivo, con la cadera detrás.\n3. Recoge el talón a la posición preparada y devuelve el pie trasero detrás del delantero sin perder el equilibrio.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Chute lateral da perna de trás",
+      "description": "1. Vire o corpo de lado, transfira o peso à perna da frente e prepare o joelho de trás atravessado ao tronco.\n2. Gire o pé de apoio e impulsione o calcanhar de trás diretamente ao alvo, com o quadril atrás dele.\n3. Recolha o calcanhar à posição preparada e retorne o pé de trás atrás do da frente sem perder o equilíbrio.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de pied latéral arrière",
+      "description": "1. Tournez le corps de profil, transférez le poids sur la jambe avant et armez le genou arrière en travers du buste.\n2. Pivotez sur le pied d’appui et poussez le talon arrière droit vers la cible, la hanche derrière lui.\n3. Ramenez le talon à la position armée et replacez le pied arrière derrière l’avant sans perdre l’équilibre.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Hinterer Seittritt",
+      "description": "1. Drehe den Körper seitlich, verlagere das Gewicht auf das vordere Bein und ziehe das hintere Knie quer vor den Oberkörper.\n2. Drehe den Standfuß und stoße die hintere Ferse gerade zum Ziel, mit der Hüfte dahinter.\n3. Ziehe die Ferse zurück in die angehobene Position und stelle den hinteren Fuß hinter den vorderen, ohne die Balance zu verlieren.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Calcio laterale posteriore",
+      "description": "1. Gira il corpo di lato, sposta il peso sulla gamba anteriore e carica il ginocchio posteriore trasversalmente al busto.\n2. Ruota il piede d’appoggio e spingi il tallone posteriore diritto verso il bersaglio, con l’anca dietro di esso.\n3. Richiama il tallone alla posizione caricata e riporta il piede posteriore dietro quello anteriore senza perdere l’equilibrio.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "后腿侧踢",
+      "description": "1. 身体转为侧向，将重心移到前腿，后膝横向收至躯干前作为预备。\n2. 转动支撑脚，后脚跟直线踢向目标，髋部位于其后提供支撑。\n3. 脚跟收回预备位置，再将后脚放回前脚后方，保持平衡。",
+      "sectionTitle": "踢击"
+    },
+    "ja": {
+      "title": "後脚の横蹴り",
+      "description": "1. 体を横向きにし、前脚へ重心を移して後膝を胴体の前へ横向きに引き上げます。\n2. 軸足を回し、腰を後ろに揃えて後のかかとを標的へまっすぐ突き出します。\n3. かかとを引き上げた位置へ戻し、バランスを保って後足を前足の後ろへ戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "뒷발 옆차기",
+      "description": "1. 몸을 옆으로 돌리고 앞다리로 체중을 옮겨 뒷무릎을 몸통 앞을 가로질러 들어 준비합니다.\n2. 지지 발을 돌리고 골반을 뒤에 받쳐 뒷발 뒤꿈치를 목표로 곧게 밀어냅니다.\n3. 뒤꿈치를 준비 위치로 회수하고 균형을 유지하며 뒷발을 앞발 뒤로 되돌립니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เตะข้างขาหลัง",
+      "description": "1. หันลำตัวด้านข้าง ถ่ายน้ำหนักไปขาหน้า และเตรียมเข่าหลังขวางลำตัว\n2. หมุนเท้ารองรับและส่งส้นเท้าหลังตรงเข้าหาเป้า โดยให้สะโพกหนุนอยู่ด้านหลัง\n3. ดึงส้นเท้ากลับตำแหน่งเตรียม แล้วนำเท้าหลังกลับด้านหลังเท้าหน้าโดยไม่เสียสมดุล",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Задний боковой удар ногой",
+      "description": "1. Поверните тело боком, перенесите вес на переднюю ногу и подготовьте заднее колено поперёк корпуса.\n2. Поверните опорную стопу и направьте заднюю пятку прямо в цель, расположив таз за ней.\n3. Верните пятку в подготовительное положение и поставьте заднюю стопу позади передней, не теряя равновесия.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Задній боковий удар ногою",
+      "description": "1. Поверніть тіло боком, перенесіть вагу на передню ногу й підготуйте заднє коліно поперек корпуса.\n2. Поверніть опорну стопу й спрямуйте задню п’яту прямо в ціль, розташувавши таз за нею.\n3. Поверніть п’яту в підготовче положення й поставте задню стопу позаду передньої, не втрачаючи рівноваги.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

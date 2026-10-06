@@ -1,0 +1,87 @@
+{
+  "id": "49.2",
+  "key": "capoeira_ginga",
+  "title": "Ginga",
+  "description": "1. Stand with the feet wide and parallel, knees bent, and one arm raised across the face.\n2. Step one foot back on a diagonal into a low lunge while the opposite arm guards the face, then bring it back to the parallel base.\n3. Repeat to the other side in a continuous rocking rhythm, keeping the chest upright and the eyes forward.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ginga",
+      "description": "1. Stand with the feet wide and parallel, knees bent, and one arm raised across the face.\n2. Step one foot back on a diagonal into a low lunge while the opposite arm guards the face, then bring it back to the parallel base.\n3. Repeat to the other side in a continuous rocking rhythm, keeping the chest upright and the eyes forward.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Ginga",
+      "description": "1. Colócate con los pies separados y paralelos, rodillas flexionadas y un brazo levantado delante de la cara.\n2. Lleva un pie atrás en diagonal a una zancada baja mientras el brazo contrario protege la cara, y vuelve a la base paralela.\n3. Repite hacia el otro lado con un balanceo continuo, pecho erguido y mirada al frente.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Ginga",
+      "description": "1. Fique com os pés afastados e paralelos, joelhos flexionados e um braço erguido à frente do rosto.\n2. Leve um pé para trás na diagonal em uma base baixa enquanto o braço oposto protege o rosto e volte à base paralela.\n3. Repita para o outro lado em balanço contínuo, com o peito ereto e o olhar à frente.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Ginga",
+      "description": "1. Tenez-vous pieds écartés et parallèles, genoux fléchis, un bras levé devant le visage.\n2. Reculez un pied en diagonale dans une fente basse pendant que le bras opposé protège le visage, puis revenez à la base parallèle.\n3. Répétez de l’autre côté dans un balancement continu, buste droit et regard devant.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Ginga",
+      "description": "1. Stelle die Füße weit und parallel, beuge die Knie und hebe einen Arm vor das Gesicht.\n2. Setze einen Fuß diagonal nach hinten in einen tiefen Ausfallschritt, während der Gegenarm das Gesicht schützt, und kehre zur parallelen Basis zurück.\n3. Wiederhole zur anderen Seite in fortlaufendem Wiegen, mit aufrechter Brust und Blick nach vorn.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Ginga",
+      "description": "1. Mettiti con i piedi larghi e paralleli, ginocchia piegate e un braccio sollevato davanti al viso.\n2. Porta un piede indietro in diagonale in un affondo basso mentre il braccio opposto protegge il viso, poi torna alla base parallela.\n3. Ripeti dall’altro lato con un dondolio continuo, petto eretto e sguardo avanti.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "金加步（Ginga）",
+      "description": "1. 双脚平行宽站，屈膝，一只手臂抬起挡在脸前。\n2. 一只脚斜向后撤成低弓步，同时另一侧手臂护脸，然后收回到平行站姿。\n3. 以连续摇摆的节奏换另一侧重复，胸部挺直，目视前方。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ジンガ",
+      "description": "1. 足を広く平行に置き、膝を曲げ、片腕を顔の前に上げます。\n2. 片足を斜め後ろへ引いて低いランジになり、反対の腕で顔を守ってから平行の構えに戻ります。\n3. 胸を起こし前を見たまま、揺れるリズムで反対側も続けて行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "징가",
+      "description": "1. 발을 넓고 평행하게 두고 무릎을 굽힌 채 한쪽 팔을 얼굴 앞에 듭니다.\n2. 한 발을 대각선 뒤로 빼 낮은 런지를 만들고 반대 팔로 얼굴을 보호한 뒤 평행 자세로 돌아옵니다.\n3. 가슴을 세우고 앞을 보며 흔들리는 리듬으로 반대쪽도 이어서 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "จิงกา",
+      "description": "1. ยืนเท้ากว้างขนานกัน งอเข่า และยกแขนข้างหนึ่งไว้หน้าใบหน้า\n2. ก้าวเท้าข้างหนึ่งถอยทแยงลงเป็นท่าย่อต่ำ ขณะแขนอีกข้างป้องกันใบหน้า แล้วกลับสู่ฐานขนาน\n3. ทำอีกข้างต่อเนื่องเป็นจังหวะโยก อกตั้งตรงและมองไปข้างหน้า",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Джинга",
+      "description": "1. Встаньте со стопами широко и параллельно, колени согнуты, одна рука поднята перед лицом.\n2. Отведите одну ногу назад по диагонали в низкий выпад, пока противоположная рука защищает лицо, затем вернитесь в параллельную стойку.\n3. Повторите в другую сторону в непрерывном раскачивающемся ритме, держа грудь прямо и взгляд вперёд.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Джинга",
+      "description": "1. Станьте зі стопами широко й паралельно, коліна зігнуті, одна рука піднята перед обличчям.\n2. Відведіть одну ногу назад по діагоналі в низький випад, поки протилежна рука захищає обличчя, потім поверніться в паралельну стійку.\n3. Повторіть в інший бік у безперервному розгойдувальному ритмі, тримаючи груди прямо й погляд уперед.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

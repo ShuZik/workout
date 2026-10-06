@@ -1,0 +1,90 @@
+{
+  "id": "80.2",
+  "key": "lucha_leonesa_agarre_al_cinto",
+  "title": "Agarre al Cinto (Belt Grip)",
+  "description": "1. Stand upright barefoot facing a partner with your bellies 10 to 15 centimeters apart.\n2. Take the partner's leather belt with one hand at the front and the other at mid-back while the partner does the same.\n3. Shift weight, step, and turn together for the round without ever releasing the belt, then let go on the signal and switch hand positions.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "luchaLeonesa",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Agarre al Cinto (Belt Grip)",
+      "description": "1. Stand upright barefoot facing a partner with your bellies 10 to 15 centimeters apart.\n2. Take the partner's leather belt with one hand at the front and the other at mid-back while the partner does the same.\n3. Shift weight, step, and turn together for the round without ever releasing the belt, then let go on the signal and switch hand positions.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Agarre al cinto",
+      "description": "1. Colócate erguido y descalzo frente al compañero, con los vientres separados entre 10 y 15 centímetros.\n2. Agarra su cinto de cuero con una mano por delante y la otra a media espalda mientras él hace lo mismo.\n3. Desplazad el peso, dad pasos y girad juntos durante el asalto sin soltar nunca el cinto, luego soltad a la señal y cambiad la posición de las manos.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Agarre al cinto (pegada no cinto)",
+      "description": "1. Fique ereto e descalço de frente para o parceiro, com as barrigas a 10 a 15 centímetros de distância.\n2. Segure o cinto de couro dele com uma mão na frente e a outra no meio das costas enquanto ele faz o mesmo.\n3. Transfiram o peso, deem passos e girem juntos durante o round sem nunca soltar o cinto, depois soltem ao sinal e troquem a posição das mãos.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Agarre al cinto (prise à la ceinture)",
+      "description": "1. Tenez-vous droit, pieds nus, face au partenaire, les ventres écartés de 10 à 15 centimètres.\n2. Saisissez sa ceinture de cuir d'une main devant et de l'autre au milieu du dos pendant qu'il fait de même.\n3. Transférez le poids, déplacez-vous et tournez ensemble pendant le round sans jamais lâcher la ceinture, puis lâchez au signal et inversez la position des mains.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Agarre al cinto (Gürtelgriff)",
+      "description": "1. Stell dich barfuss und aufrecht vor den Partner, die Bäuche 10 bis 15 Zentimeter voneinander entfernt.\n2. Fasse seinen Ledergürtel mit einer Hand vorn und der anderen in der Rückenmitte, während er dasselbe tut.\n3. Verlagert das Gewicht, tretet und dreht euch gemeinsam während der Runde, ohne den Gürtel je loszulassen, dann löst auf das Signal und wechselt die Handposition.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Agarre al cinto (presa alla cintura)",
+      "description": "1. Stai eretto e scalzo di fronte al partner, con le pance a 10-15 centimetri di distanza.\n2. Afferra la sua cintura di cuoio con una mano davanti e l'altra a metà schiena mentre lui fa lo stesso.\n3. Spostate il peso, fate passi e ruotate insieme per tutto il round senza mai lasciare la cintura, poi lasciate al segnale e scambiate la posizione delle mani.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "抓腰带（Agarre al cinto）",
+      "description": "1. 赤脚挺直站立，面对同伴，两人腹部相距10至15厘米。\n2. 一只手在前、另一只手在后背中部抓住同伴的皮腰带，同伴也同样抓你。\n3. 整个回合中一起移动重心、走步和转动，始终不松开腰带，听到信号后松手并交换手的位置。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "アガレ・アル・シント（ベルトの組み手）",
+      "description": "1. 裸足でまっすぐ立ってパートナーと向かい合い、お腹同士の間隔を10〜15センチにします。\n2. 片手は前、もう片手は背中の中ほどで相手の革ベルトを握り、相手も同じように握ります。\n3. ラウンド中はベルトを決して離さずに一緒に体重移動し、足を運び、回ります。合図で離して手の位置を入れ替えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "아가레 알 신토 (벨트 그립)",
+      "description": "1. 맨발로 곧게 서서 파트너와 마주 보고 배 사이 간격을 10~15센티미터로 둡니다.\n2. 한 손은 앞쪽, 다른 손은 등 가운데에서 상대의 가죽 벨트를 잡고, 상대도 똑같이 잡습니다.\n3. 라운드 동안 벨트를 절대 놓지 않고 함께 체중을 옮기고 걷고 돌다가, 신호에 놓고 손 위치를 바꿉니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "อาการ์เร อัล ซินโต (การจับเข็มขัด)",
+      "description": "1. ยืนตัวตรงเท้าเปล่าหันหน้าเข้าหาคู่ฝึก ให้ท้องห่างกัน 10 ถึง 15 เซนติเมตร\n2. จับเข็มขัดหนังของคู่ฝึกโดยมือหนึ่งอยู่ด้านหน้า อีกมืออยู่กลางหลัง และคู่ฝึกจับแบบเดียวกัน\n3. ถ่ายน้ำหนัก ก้าว และหมุนไปด้วยกันตลอดยกโดยไม่ปล่อยเข็มขัดเลย แล้วปล่อยเมื่อได้สัญญาณและสลับตำแหน่งมือ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Агарре аль синто (захват за пояс)",
+      "description": "1. Встаньте прямо босиком лицом к партнёру так, чтобы между животами было 10–15 сантиметров.\n2. Возьмите кожаный пояс партнёра одной рукой спереди, а другой посередине спины, партнёр делает то же самое.\n3. В течение раунда вместе переносите вес, шагайте и поворачивайтесь, ни разу не отпуская пояс, затем по сигналу отпустите и поменяйте положение рук.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Агарре аль сінто (захоплення за пояс)",
+      "description": "1. Станьте рівно босоніж обличчям до партнера так, щоб між животами було 10–15 сантиметрів.\n2. Візьміть шкіряний пояс партнера однією рукою спереду, а другою посередині спини, партнер робить те саме.\n3. Протягом раунду разом переносьте вагу, крокуйте й повертайтеся, жодного разу не відпускаючи пояс, потім за сигналом відпустіть і поміняйте положення рук.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

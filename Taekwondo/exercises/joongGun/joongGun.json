@@ -1,0 +1,90 @@
+{
+  "id": "8.33",
+  "key": "taekwondo_joong_gun",
+  "title": "Joong-Gun",
+  "description": "1. Start in closed ready stance B and perform the 32-movement pattern, opening with the reverse knife-hand block and low side front snap kick.\n2. Include the upward elbow strikes in L-stance, twin vertical and twin upset punches, rear-foot-stance palm blocks, angle punches and the U-shape block in fixed stance.\n3. Finish with the closing blocks and punches, then return to closed ready stance B.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Joong-Gun",
+      "description": "1. Start in closed ready stance B and perform the 32-movement pattern, opening with the reverse knife-hand block and low side front snap kick.\n2. Include the upward elbow strikes in L-stance, twin vertical and twin upset punches, rear-foot-stance palm blocks, angle punches and the U-shape block in fixed stance.\n3. Finish with the closing blocks and punches, then return to closed ready stance B.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Joong-Gun",
+      "description": "1. Empieza en posición de preparación cerrada B y realiza el patrón de 32 movimientos, abriendo con el bloqueo inverso de mano de cuchillo y la patada baja lateral-frontal.\n2. Incluye los codazos ascendentes en posición en L, los puñetazos dobles verticales e invertidos, los bloqueos con palma en posición de pie atrasado, los puñetazos en ángulo y el bloqueo en U en posición fija.\n3. Termina con los bloqueos y puñetazos finales y vuelve a la posición de preparación cerrada B.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Joong-Gun",
+      "description": "1. Comece na posição de preparação fechada B e execute o padrão de 32 movimentos, abrindo com o bloqueio inverso com mão em faca e o chute baixo lateral-frontal.\n2. Inclua as cotoveladas ascendentes na base em L, os socos duplos verticais e invertidos, os bloqueios com a palma em base de pé recuado, os socos em ângulo e o bloqueio em U em base fixa.\n3. Termine com os bloqueios e socos finais e volte à posição de preparação fechada B.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Joong-Gun",
+      "description": "1. Partez en position de préparation fermée B et exécutez l’enchaînement de 32 mouvements, en ouvrant par le blocage inversé main en sabre et le coup de pied bas latéral-avant.\n2. Intégrez les coups de coude montants en position en L, les doubles coups de poing verticaux et retournés, les blocages paume en position pied arrière, les coups de poing en angle et le blocage en U en position fixe.\n3. Terminez par les derniers blocages et coups de poing, puis revenez en position de préparation fermée B.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Joong-Gun",
+      "description": "1. Beginne im geschlossenen Bereitschaftsstand B und laufe die 32 Bewegungen, eröffnet mit umgekehrtem Handkantenblock und tiefem Seit-Vorwärtstritt.\n2. Baue Aufwärtsellbogenschläge im L-Stand, doppelte senkrechte und umgedrehte Fauststöße, Handflächenblocks im Hinterfußstand, Winkelfauststöße und den U-Block im festen Stand ein.\n3. Schließe mit den letzten Blocks und Fauststößen ab und kehre in den geschlossenen Bereitschaftsstand B zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Joong-Gun",
+      "description": "1. Parti dalla posizione di pronti chiusa B ed esegui la forma di 32 movimenti, aprendo con la parata inversa a mano a coltello e il calcio basso laterale-frontale.\n2. Inserisci le gomitate ascendenti in posizione a L, i doppi pugni verticali e rovesciati, le parate di palmo in posizione su piede arretrato, i pugni angolati e la parata a U in posizione fissa.\n3. Concludi con le ultime parate e pugni, poi torna alla posizione di pronti chiusa B.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "重根型（Joong-Gun）",
+      "description": "1. 以合步预备式B开始，完成32个动作，开头为反手刀格挡与低位侧前踢。\n2. 包括L形步上挑肘、双竖拳与双仰拳、后足步掌挡、斜角冲拳以及固定步U形格挡。\n3. 以最后的格挡和冲拳收尾，回到合步预备式B。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "チュングン（重根）",
+      "description": "1. 閉足準備立ちBから始め、逆手刀受けと低い横前蹴りで32動作の型を開始します。\n2. L字立ちの上げ肘打ち、双縦突きと双上突き、後足立ちの掌受け、角度突き、固定立ちのU字受けを含めます。\n3. 最後の受けと突きで締めくくり、閉足準備立ちBに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "중근",
+      "description": "1. 모아 준비서기 B에서 시작해 등손칼 막기와 낮은 옆앞차기로 32동작 틀을 엽니다.\n2. L서기 올려 팔굽 치기, 쌍세워지르기와 쌍뒤집어지르기, 뒷발서기 손바닥 막기, 기역자 지르기, 고정서기 디귿자 막기를 포함합니다.\n3. 마지막 막기와 지르기로 마무리하고 모아 준비서기 B로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "จุงกึน",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบชิด B และทำรูปแบบ 32 จังหวะ โดยเปิดด้วยการปัดด้วยสันมือกลับด้านและการเตะข้างด้านหน้าระดับต่ำ\n2. รวมการตีศอกขึ้นในท่ายืนรูปตัวแอล หมัดคู่แนวตั้งและหมัดคู่หงาย การปัดด้วยฝ่ามือในท่ายืนเท้าหลัง หมัดเฉียง และการปัดรูปตัวยูในท่ายืนคงที่\n3. จบด้วยการปัดและหมัดชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบชิด B",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Чунгын",
+      "description": "1. Начните из закрытой готовой стойки B и выполните туль из 32 движений, открыв его обратным блоком ребром ладони и низким боково-прямым ударом ногой.\n2. Включите удары локтем вверх в L-образной стойке, двойные вертикальные и перевёрнутые удары, блоки ладонью в стойке на задней ноге, угловые удары и U-образный блок в фиксированной стойке.\n3. Завершите последними блоками и ударами и вернитесь в закрытую готовую стойку B.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Чунгин",
+      "description": "1. Почніть із закритої готової стійки B й виконайте туль із 32 рухів, відкривши його зворотним блоком ребром долоні та низьким бічно-прямим ударом ногою.\n2. Додайте удари ліктем угору в L-подібній стійці, подвійні вертикальні й перевернуті удари, блоки долонею в стійці на задній нозі, кутові удари та U-подібний блок у фіксованій стійці.\n3. Завершіть останніми блоками й ударами та поверніться в закриту готову стійку B.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "109.2",
+  "key": "wushu_changquan",
+  "title": "Changquan",
+  "description": "1. Start at the edge of a clear carpet in a ready stance with the fists at the waist and eyes forward.\n2. Perform your compulsory or chosen changquan routine, linking long extended punches and palms, bow and horse stances, high kicks, and jumps at full speed.\n3. Hold each final posture briefly, land jumps on soft knees, and finish with the closing salute back at the starting point.",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Changquan",
+      "description": "1. Start at the edge of a clear carpet in a ready stance with the fists at the waist and eyes forward.\n2. Perform your compulsory or chosen changquan routine, linking long extended punches and palms, bow and horse stances, high kicks, and jumps at full speed.\n3. Hold each final posture briefly, land jumps on soft knees, and finish with the closing salute back at the starting point.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Changquan",
+      "description": "1. Empieza en el borde de un tapiz despejado en posición de preparación, con los puños en la cintura y la mirada al frente.\n2. Ejecuta tu rutina de changquan obligatoria o elegida, enlazando puñetazos y palmas largos y extendidos, posiciones de arco y de caballo, patadas altas y saltos a máxima velocidad.\n3. Mantén brevemente cada postura final, aterriza los saltos con las rodillas flexibles y termina con el saludo de cierre en el punto de partida.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Changquan",
+      "description": "1. Comece na borda de um tapete livre em posição de prontidão, punhos na cintura e olhar à frente.\n2. Execute sua rotina de changquan obrigatória ou escolhida, ligando socos e palmas longos e estendidos, bases de arco e de cavalo, chutes altos e saltos em velocidade máxima.\n3. Mantenha cada postura final por um instante, aterrisse os saltos com joelhos flexionados e termine com a saudação de encerramento no ponto inicial.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Changquan",
+      "description": "1. Commencez au bord d’un tapis dégagé en position prête, poings aux hanches, regard devant.\n2. Exécutez votre enchaînement de changquan imposé ou libre, en liant coups de poing et paumes longs et étendus, positions de l’arc et du cavalier, coups de pied hauts et sauts à pleine vitesse.\n3. Marquez brièvement chaque posture finale, réceptionnez les sauts genoux souples et terminez par le salut de clôture au point de départ.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Changquan",
+      "description": "1. Beginne am Rand einer freien Matte in Bereitschaftsstellung, Fäuste an der Hüfte, Blick nach vorn.\n2. Laufe deine Pflicht- oder Wahlroutine im Changquan und verbinde lange, gestreckte Faust- und Handflächenstöße, Bogen- und Reiterstellung, hohe Tritte und Sprünge in vollem Tempo.\n3. Halte jede Endposition kurz, lande Sprünge mit weichen Knien und beende die Form mit dem Schlussgruß am Ausgangspunkt.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Changquan",
+      "description": "1. Inizia al bordo di un tappeto libero in posizione di pronto, pugni ai fianchi e sguardo avanti.\n2. Esegui la tua routine di changquan obbligatoria o scelta, collegando pugni e palmi lunghi ed estesi, posizioni ad arco e a cavallo, calci alti e salti alla massima velocità.\n3. Mantieni brevemente ogni postura finale, atterra dai salti con le ginocchia morbide e concludi con il saluto finale al punto di partenza.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "长拳",
+      "description": "1. 在开阔的场地边缘并步站立，双拳抱于腰间，目视前方。\n2. 演练规定或自选长拳套路，以全速连接舒展的冲拳和推掌、弓步与马步、高踢腿及跳跃动作。\n3. 每个定势稍作停顿，跳跃落地屈膝缓冲，回到起点以抱拳礼收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "長拳",
+      "description": "1. 空いた演武場の端で、拳を腰に構え前を見た準備姿勢から始めます。\n2. 規定または自選の長拳套路を、伸びやかな突きと掌、弓歩と馬歩、高い蹴り、跳躍を全速力でつなげて演武します。\n3. 各決めの姿勢を一瞬保ち、跳躍は膝を柔らかく着地し、出発点に戻って終わりの礼をします。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "장권",
+      "description": "1. 넓은 매트 가장자리에서 주먹을 허리에 두고 정면을 보는 준비 자세로 시작합니다.\n2. 규정 또는 자선 장권 투로를 수행하며 길게 뻗는 주먹과 장, 궁보와 마보, 높은 발차기와 점프를 최대 속도로 연결합니다.\n3. 각 마무리 자세를 잠깐 유지하고 점프는 무릎을 부드럽게 착지한 뒤 출발점에서 마무리 인사를 합니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "ฉางเฉวียน",
+      "description": "1. เริ่มที่ขอบพื้นที่ฝึกที่โล่ง ในท่าเตรียม กำหมัดที่เอว สายตามองตรง\n2. รำชุดฉางเฉวียนแบบบังคับหรือแบบเลือกเอง เชื่อมหมัดและฝ่ามือที่เหยียดยาว ท่าคันธนูและท่าม้า การเตะสูง และการกระโดดด้วยความเร็วเต็มที่\n3. ค้างท่าจบแต่ละท่าสั้น ๆ ลงจากการกระโดดโดยงอเข่านุ่ม ๆ แล้วจบด้วยการคารวะที่จุดเริ่มต้น",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Чанцюань",
+      "description": "1. Начните у края свободного ковра в стойке готовности, кулаки у пояса, взгляд вперёд.\n2. Выполните обязательный или произвольный комплекс чанцюань, связывая длинные выпрямленные удары кулаком и ладонью, стойки лука и всадника, высокие удары ногами и прыжки на полной скорости.\n3. Кратко фиксируйте каждую финальную позу, приземляйтесь на мягкие колени и завершите приветствием в исходной точке.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Чанцюань",
+      "description": "1. Почніть біля краю вільного килима в стійці готовності, кулаки біля пояса, погляд уперед.\n2. Виконайте обов’язковий або довільний комплекс чанцюань, поєднуючи довгі випрямлені удари кулаком і долонею, стійки лука й вершника, високі удари ногами та стрибки на повній швидкості.\n3. Коротко фіксуйте кожну фінальну позу, приземляйтеся на м’які коліна й завершіть привітанням у вихідній точці.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

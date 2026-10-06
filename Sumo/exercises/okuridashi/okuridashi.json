@@ -1,0 +1,90 @@
+{
+  "id": "97.16",
+  "key": "sumo_okuridashi",
+  "title": "Okuridashi",
+  "description": "1. Move to the partner's side or back after the partner turns or misses a charge.\n2. Place both hands on the partner's back or belt and keep the hips low.\n3. Push the partner forward out of the ring zone from behind, then release and reset in the center.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Okuridashi",
+      "description": "1. Move to the partner's side or back after the partner turns or misses a charge.\n2. Place both hands on the partner's back or belt and keep the hips low.\n3. Push the partner forward out of the ring zone from behind, then release and reset in the center.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Okuridashi",
+      "description": "1. Colócate al costado o a la espalda del compañero después de que gire o falle una carga.\n2. Pon ambas manos en su espalda o cinturón y mantén la cadera baja.\n3. Empuja al compañero hacia delante fuera de la zona del anillo desde atrás, luego suelta y reinicia en el centro.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Okuridashi",
+      "description": "1. Vá para o lado ou as costas do parceiro depois que ele girar ou errar uma investida.\n2. Coloque as duas mãos nas costas ou na faixa dele e mantenha o quadril baixo.\n3. Empurre o parceiro para a frente para fora da área do anel por trás, então solte e recomece no centro.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Okuridashi",
+      "description": "1. Placez-vous sur le côté ou dans le dos du partenaire après qu’il a tourné ou manqué une charge.\n2. Posez les deux mains sur son dos ou sa ceinture et gardez les hanches basses.\n3. Poussez le partenaire vers l’avant hors de la zone du cercle par derrière, puis lâchez et repartez au centre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Okuridashi",
+      "description": "1. Gehe an die Seite oder in den Rücken des Partners, nachdem er sich gedreht oder einen Ansturm verfehlt hat.\n2. Lege beide Hände auf seinen Rücken oder Gürtel und halte die Hüfte tief.\n3. Schiebe den Partner von hinten nach vorn aus der Ringzone, löse dann und starte in der Mitte neu.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Okuridashi",
+      "description": "1. Portati al fianco o alle spalle del partner dopo che si è girato o ha mancato una carica.\n2. Metti entrambe le mani sulla sua schiena o cintura e tieni le anche basse.\n3. Spingi il partner in avanti fuori dalla zona dell’anello da dietro, poi lascia e riparti dal centro.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "送出",
+      "description": "1. 在同伴转身或冲击落空后，移到其侧面或背后。\n2. 双手放在对方背部或腰带上，保持髋部低位。\n3. 从后面把同伴向前推出圈外区域，然后松手回到中央重新开始。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "送り出し",
+      "description": "1. 相手が向きを変えたり立ち合いを外したりした後、相手の横か背後に回ります。\n2. 両手を相手の背中かまわしに当て、腰を低く保ちます。\n3. 後ろから相手を前へ土俵の区域外へ送り出し、手を離して中央で仕切り直します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "오쿠리다시",
+      "description": "1. 파트너가 돌거나 돌진을 놓친 뒤 상대의 옆이나 뒤로 이동합니다.\n2. 두 손을 상대의 등이나 샅바에 대고 엉덩이를 낮게 유지합니다.\n3. 뒤에서 상대를 앞으로 밀어 경기장 구역 밖으로 내보내고, 놓은 뒤 중앙에서 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "โอคุริดาชิ",
+      "description": "1. เคลื่อนไปด้านข้างหรือด้านหลังคู่ฝึก หลังจากคู่ฝึกหมุนตัวหรือพุ่งพลาด\n2. วางมือทั้งสองบนหลังหรือผ้าคาดเอวคู่ฝึก และรักษาสะโพกต่ำ\n3. ดันคู่ฝึกจากด้านหลังไปข้างหน้าออกนอกพื้นที่วง แล้วปล่อยและเริ่มใหม่ที่กลาง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Окуридаси",
+      "description": "1. Выйдите сбоку или за спину партнёру после того, как он развернулся или промахнулся атакой.\n2. Положите обе руки ему на спину или пояс и держите таз низко.\n3. Вытолкните партнёра сзади вперёд за пределы зоны круга, затем отпустите и начните заново в центре.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Окурідасі",
+      "description": "1. Вийдіть збоку або за спину партнеру після того, як він розвернувся чи схибив атакою.\n2. Покладіть обидві руки йому на спину чи пояс і тримайте таз низько.\n3. Виштовхніть партнера ззаду вперед за межі зони кола, потім відпустіть і почніть знову в центрі.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

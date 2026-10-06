@@ -1,0 +1,87 @@
+{
+  "id": "3.49",
+  "key": "kick_boxing_task_sparring_rhythm",
+  "title": "Task Sparring: Rhythm Breaking",
+  "description": "1. With a coach present and full protective equipment, set the task of changing tempo, mixing slow feints with sudden fast attacks.\n2. Spar at light contact and follow selected attacks immediately with a second attack, such as a double jab or a repeated kick.\n3. Return to guard after every burst, swap roles between rounds, and stop at the coach's call or any loss of control.",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Task Sparring: Rhythm Breaking",
+      "description": "1. With a coach present and full protective equipment, set the task of changing tempo, mixing slow feints with sudden fast attacks.\n2. Spar at light contact and follow selected attacks immediately with a second attack, such as a double jab or a repeated kick.\n3. Return to guard after every burst, swap roles between rounds, and stop at the coach's call or any loss of control.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Sparring con tarea: romper el ritmo",
+      "description": "1. Con un entrenador presente y todo el equipo de protección, fija la tarea de cambiar el ritmo, mezclando fintas lentas con ataques rápidos y repentinos.\n2. Haced sparring con contacto ligero y encadenad ciertos ataques con un segundo ataque inmediato, como un doble jab o una patada repetida.\n3. Volved a la guardia tras cada ráfaga, intercambiad papeles entre asaltos y deteneos a la señal del entrenador o ante cualquier pérdida de control.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Sparring com tarefa: quebrar o ritmo",
+      "description": "1. Com treinador presente e todo o equipamento de proteção, defina a tarefa de mudar o ritmo, misturando fintas lentas com ataques rápidos e repentinos.\n2. Façam sparring com contato leve e emendem alguns ataques com um segundo ataque imediato, como jab duplo ou chute repetido.\n3. Voltem à guarda após cada sequência, troquem os papéis entre rounds e parem ao sinal do treinador ou a qualquer perda de controle.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Sparring à thème : casser le rythme",
+      "description": "1. En présence d’un entraîneur et avec toutes les protections, fixez la consigne de changer de rythme en mêlant feintes lentes et attaques soudaines et rapides.\n2. Travaillez en contact léger et enchaînez certaines attaques par une seconde attaque immédiate, comme un double jab ou un coup de pied répété.\n3. Revenez en garde après chaque accélération, inversez les rôles entre les rounds et arrêtez au signal de l’entraîneur ou à toute perte de contrôle.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Aufgabensparring: Rhythmuswechsel",
+      "description": "1. Lege in Anwesenheit eines Trainers und in voller Schutzausrüstung die Aufgabe fest, das Tempo zu wechseln und langsame Finten mit plötzlichen schnellen Angriffen zu mischen.\n2. Spart mit leichtem Kontakt und lasst ausgewählten Angriffen sofort einen zweiten folgen, etwa einen Doppeljab oder einen wiederholten Tritt.\n3. Kehrt nach jeder Aktion in die Deckung zurück, tauscht die Rollen zwischen den Runden und brecht ab, wenn der Trainer ruft oder die Kontrolle verloren geht.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Sparring a tema: rompere il ritmo",
+      "description": "1. Con un allenatore presente e tutte le protezioni, stabilisci il compito di cambiare ritmo, alternando finte lente ad attacchi improvvisi e veloci.\n2. Fate sparring a contatto leggero e fate seguire subito ad alcuni attacchi un secondo attacco, come un doppio jab o un calcio ripetuto.\n3. Tornate in guardia dopo ogni accelerazione, scambiate i ruoli tra le riprese e fermatevi al richiamo dell’allenatore o a qualsiasi perdita di controllo.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "任务实战：打乱节奏",
+      "description": "1. 在教练在场并穿戴全部护具的情况下，设定变换节奏的任务，把缓慢假动作与突然的快速进攻结合起来。\n2. 轻接触对练，部分进攻后立即接第二次进攻，例如双刺拳或重复踢腿。\n3. 每次连击后回到防守位，回合之间交换角色；教练叫停或任何失控时立即停止。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "課題スパーリング：リズムを崩す",
+      "description": "1. コーチの立ち会いと防具一式のもと、ゆっくりしたフェイントと突然の速い攻撃を混ぜてテンポを変える課題を設定します。\n2. 軽い接触で行い、選んだ攻撃の直後に二の矢を続けます。例としてダブルジャブや同じ蹴りの連打です。\n3. 連打ごとにガードへ戻り、ラウンドごとに役割を交代し、コーチの合図や制御の乱れで止めます。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "과제 스파링: 리듬 깨기",
+      "description": "1. 코치가 있고 보호구를 모두 갖춘 상태에서 느린 페인트와 갑작스러운 빠른 공격을 섞어 템포를 바꾸는 과제를 정합니다.\n2. 가벼운 접촉으로 스파링하며 선택한 공격 뒤에 더블 잽이나 반복 킥 같은 두 번째 공격을 곧바로 잇습니다.\n3. 연타마다 가드로 돌아오고 라운드마다 역할을 바꾸며, 코치의 신호나 통제 상실 시 멈춥니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "สปาร์ริงตามโจทย์: เปลี่ยนจังหวะ",
+      "description": "1. มีโค้ชดูแลและสวมอุปกรณ์ป้องกันครบ กำหนดโจทย์ให้เปลี่ยนจังหวะ ผสมการหลอกช้า ๆ กับการบุกเร็วแบบฉับพลัน\n2. สปาร์ด้วยการสัมผัสเบา และตามการบุกบางครั้งด้วยการบุกครั้งที่สองทันที เช่น แย็บคู่หรือเตะซ้ำ\n3. กลับการ์ดหลังทุกชุด สลับบทบาทระหว่างยก และหยุดเมื่อโค้ชสั่งหรือเสียการควบคุม",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Спарринг с заданием: смена ритма",
+      "description": "1. В присутствии тренера и в полной экипировке поставьте задачу менять темп, сочетая медленные финты с внезапными быстрыми атаками.\n2. Проводите спарринг с лёгким контактом и сразу дополняйте отдельные атаки второй, например двойным джебом или повторным ударом ногой.\n3. После каждой серии возвращайтесь в защиту, меняйтесь ролями между раундами и останавливайтесь по команде тренера или при потере контроля.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Спаринг із завданням: зміна ритму",
+      "description": "1. У присутності тренера й у повному спорядженні поставте завдання змінювати темп, поєднуючи повільні фінти з раптовими швидкими атаками.\n2. Проводьте спаринг із легким контактом і одразу доповнюйте окремі атаки другою, наприклад подвійним джебом чи повторним ударом ногою.\n3. Після кожної серії повертайтеся в захист, міняйтеся ролями між раундами й зупиняйтеся за командою тренера або в разі втрати контролю.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

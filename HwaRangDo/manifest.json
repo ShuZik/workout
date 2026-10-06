@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#7D4DB3",
+    "colorType": "purple",
+    "folder": "HwaRangDo",
+    "id": "62",
+    "icon": "HwaRangDo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Hwa Rang Do",
+    "workoutType": "hwaRangDo",
+    "translations": {
+      "en": {
+        "title": "Hwa Rang Do"
+      },
+      "es": {
+        "title": "Hwa Rang Do"
+      },
+      "pt": {
+        "title": "Hwa Rang Do"
+      },
+      "fr": {
+        "title": "Hwa Rang Do"
+      },
+      "de": {
+        "title": "Hwa Rang Do"
+      },
+      "it": {
+        "title": "Hwa Rang Do"
+      },
+      "zh-Hans": {
+        "title": "花郎道"
+      },
+      "ja": {
+        "title": "ファランド"
+      },
+      "ko": {
+        "title": "화랑도"
+      },
+      "th": {
+        "title": "ฮวารังโด"
+      },
+      "ru": {
+        "title": "Хваран-до"
+      },
+      "uk": {
+        "title": "Хваран-до"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "HwaRangDo/exercises/hwaRangDo/Icon.png",
+      "json": "HwaRangDo/exercises/hwaRangDo/hwaRangDo.json"
+    },
+    {
+      "icon": "HwaRangDo/exercises/yongtoogi/Icon.png",
+      "json": "HwaRangDo/exercises/yongtoogi/yongtoogi.json"
+    },
+    {
+      "icon": "HwaRangDo/exercises/gotoogi/Icon.png",
+      "json": "HwaRangDo/exercises/gotoogi/gotoogi.json"
+    },
+    {
+      "icon": "HwaRangDo/exercises/gumtoogi/Icon.png",
+      "json": "HwaRangDo/exercises/gumtoogi/gumtoogi.json"
+    },
+    {
+      "icon": "HwaRangDo/exercises/bongtoogi/Icon.png",
+      "json": "HwaRangDo/exercises/bongtoogi/bongtoogi.json"
+    }
+  ]
+}

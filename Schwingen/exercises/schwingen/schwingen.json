@@ -1,0 +1,90 @@
+{
+  "id": "90.1",
+  "key": "schwingen",
+  "title": "Schwingen",
+  "description": "1. Begin in a sawdust ring or on mats with a trained partner, both wearing wrestling breeches, and take the belt-and-breeches grip at the back.\n2. Keep the grip and attempt the main throws by lifting, turning, and tripping the partner toward the back.\n3. Control the landing, stop when both shoulders touch or on a signal, and brush off and regrip to restart.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "schwingen",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Schwingen",
+      "description": "1. Begin in a sawdust ring or on mats with a trained partner, both wearing wrestling breeches, and take the belt-and-breeches grip at the back.\n2. Keep the grip and attempt the main throws by lifting, turning, and tripping the partner toward the back.\n3. Control the landing, stop when both shoulders touch or on a signal, and brush off and regrip to restart.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Schwingen",
+      "description": "1. Comienza en un círculo de serrín o sobre el tatami con un compañero entrenado, ambos con calzones de lucha, y toma el agarre de cinturón y calzón por detrás.\n2. Mantén el agarre e intenta las proyecciones principales levantando, girando y haciendo caer al compañero hacia la espalda.\n3. Controla la caída, detente cuando ambos hombros toquen o a una señal, sacude el serrín y vuelve a agarrar para reiniciar.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Schwingen",
+      "description": "1. Comece em um círculo de serragem ou no tatame com um parceiro treinado, ambos com calções de luta, e faça a pegada de cinto e calção por trás.\n2. Mantenha a pegada e tente as projeções principais levantando, girando e derrubando o parceiro de costas.\n3. Controle a queda, pare quando os dois ombros tocarem ou a um sinal, limpe a serragem e refaça a pegada para recomeçar.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Lutte suisse",
+      "description": "1. Commencez dans un rond de sciure ou sur le tapis avec un partenaire entraîné, tous deux en culotte de lutte, et prenez la saisie ceinture-culotte dans le dos.\n2. Gardez la saisie et tentez les projections principales en soulevant, en faisant tourner et en faisant chuter le partenaire vers le dos.\n3. Contrôlez la réception, arrêtez quand les deux épaules touchent ou au signal, époussetez la sciure et reprenez la saisie.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Schwingen",
+      "description": "1. Beginne im Sägemehlring oder auf der Matte mit einem geübten Partner, beide in Schwingerhosen, und fasse den Gurt- und Hosengriff am Rücken.\n2. Halte den Griff und versuche die Hauptschwünge durch Heben, Drehen und Beinstellen des Partners Richtung Rücken.\n3. Kontrolliere die Landung, stoppe, wenn beide Schultern aufliegen oder auf ein Signal, wische das Sägemehl ab und fasse neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Lotta svizzera",
+      "description": "1. Inizia in un cerchio di segatura o sul tatami con un partner allenato, entrambi con calzoni da lotta, e prendi la presa cintura-calzoni dietro.\n2. Mantieni la presa e tenta le proiezioni principali sollevando, ruotando e facendo cadere il partner verso la schiena.\n3. Controlla l'atterraggio, fermati quando entrambe le spalle toccano o a un segnale, spazzola via la segatura e riprendi la presa.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "瑞士式摔跤",
+      "description": "1. 与训练有素的同伴在锯末圈或垫上开始，双方穿摔跤短裤，在背后抓腰带和裤腿。\n2. 保持握持，通过抱起、转动和绊腿尝试主要摔法，使同伴背部朝下。\n3. 控制落地，双肩着地或听到信号即停，拍掉锯末后重新握持开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "シュヴィンゲン",
+      "description": "1. おがくずの輪かマット上で、レスリングパンツを履いた熟練のパートナーと、背中側でベルトとパンツの組み手を取って始めます。\n2. 組み手を保ったまま、持ち上げ、回し、足を掛けて相手を背中側へ倒す主要な投げを試みます。\n3. 着地を制御し、両肩がついたか合図で止め、おがくずを払って組み直して再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "슈빙겐",
+      "description": "1. 톱밥 링이나 매트에서 레슬링 반바지를 입은 숙련된 파트너와 등 뒤의 벨트와 바지 그립을 잡고 시작합니다.\n2. 그립을 유지하며 들어 올리고 돌리고 걸어서 파트너를 등 쪽으로 넘기는 주요 메치기를 시도합니다.\n3. 착지를 통제하고 양어깨가 닿거나 신호가 있으면 멈춘 뒤 톱밥을 털고 다시 잡아 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ชวิงเงิน",
+      "description": "1. เริ่มในวงขี้เลื่อยหรือบนเบาะกับคู่ฝึกที่ผ่านการฝึก ทั้งคู่สวมกางเกงมวยปล้ำ และจับเข็มขัดกับกางเกงด้านหลัง\n2. คงการจับไว้และพยายามทุ่มท่าหลักด้วยการยก หมุน และขัดขาให้คู่ฝึกหงายหลัง\n3. ควบคุมการลงพื้น หยุดเมื่อไหล่ทั้งสองแตะพื้นหรือเมื่อได้สัญญาณ ปัดขี้เลื่อยออกแล้วจับใหม่เพื่อเริ่ม",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Швинген",
+      "description": "1. Начните в круге с опилками или на ковре с подготовленным партнёром, оба в борцовских штанах, взяв захват за пояс и штанину сзади.\n2. Сохраняя захват, пробуйте основные броски, подним��я, поворачивая и подбивая партнёра на спину.\n3. Контролируйте приземление, останавливайтесь при касании обеими лопатками или по сигналу, отряхните оп��лки и снова возьмите захват.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Швінген",
+      "description": "1. Почніть у колі з тирсою або на килимі з підготовленим партнером, обидва в борцівських штанях, узявши захват за пояс і холошу ззаду.\n2. Зберігаючи захват, пробуйте основні кидки, піднімаючи, повертаючи й підбиваючи партнера на спину.\n3. Контролюйте приземлення, зупиняйтеся, коли торкнуться обидві лопатки, або за сигналом, обтрусіть тирсу й знову візьміть захват.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

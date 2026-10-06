@@ -1,0 +1,90 @@
+{
+  "id": "19.7",
+  "key": "meditation_focus",
+  "title": "Focus Meditation",
+  "description": "1. Choose one small visual object, neutral sensation, word, or sound and take a stable position.\n2. Keep attention on its immediate details instead of changing or analyzing the object.\n3. Each time attention leaves, recognize it and place attention back on the same object.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "meditation",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1,
+    "vigorous": 1,
+    "lightCode": "07075",
+    "moderateCode": "07075",
+    "vigorousCode": "07075"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Themes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Focus Meditation",
+      "description": "1. Choose one small visual object, neutral sensation, word, or sound and take a stable position.\n2. Keep attention on its immediate details instead of changing or analyzing the object.\n3. Each time attention leaves, recognize it and place attention back on the same object.",
+      "sectionTitle": "Themes"
+    },
+    "es": {
+      "title": "Meditación de concentración",
+      "description": "1. Elige un pequeño objeto visual, una sensación neutra, una palabra o un sonido y adopta una postura estable.\n2. Mantén la atención en sus detalles inmediatos en lugar de cambiar o analizar el objeto.\n3. Cada vez que la atención se aleje, reconócelo y vuelve a dirigirla al mismo objeto.",
+      "sectionTitle": "Temas"
+    },
+    "pt": {
+      "title": "Meditação de concentração",
+      "description": "1. Escolha um pequeno objeto visual, uma sensação neutra, uma palavra ou um som e adote uma posição estável.\n2. Mantenha a atenção nos detalhes imediatos, em vez de mudar ou analisar o objeto.\n3. Sempre que a atenção se desviar, reconheça isso e volte a direcioná-la ao mesmo objeto.",
+      "sectionTitle": "Temas"
+    },
+    "fr": {
+      "title": "Méditation de concentration",
+      "description": "1. Choisissez un petit objet visuel, une sensation neutre, un mot ou un son et adoptez une position stable.\n2. Gardez l’attention sur ses détails immédiats plutôt que de changer ou d’analyser l’objet.\n3. Chaque fois que l’attention s’éloigne, reconnaissez-le et ramenez-la sur le même objet.",
+      "sectionTitle": "Thèmes"
+    },
+    "de": {
+      "title": "Konzentrationsmeditation",
+      "description": "1. Wähle ein kleines sichtbares Objekt, eine neutrale Empfindung, ein Wort oder einen Klang und nimm eine stabile Position ein.\n2. Richte die Aufmerksamkeit auf die unmittelbar wahrnehmbaren Details, statt das Objekt zu verändern oder zu analysieren.\n3. Erkenne jedes Abschweifen der Aufmerksamkeit und richte sie wieder auf dasselbe Objekt.",
+      "sectionTitle": "Themen"
+    },
+    "it": {
+      "title": "Meditazione di concentrazione",
+      "description": "1. Scegli un piccolo oggetto visivo, una sensazione neutra, una parola o un suono e assumi una posizione stabile.\n2. Mantieni l’attenzione sui suoi dettagli immediati invece di cambiare o analizzare l’oggetto.\n3. Ogni volta che l’attenzione si allontana, riconoscilo e riportala sullo stesso oggetto.",
+      "sectionTitle": "Temi"
+    },
+    "zh-Hans": {
+      "title": "专注冥想",
+      "description": "1. 选择一个小的视觉对象、中性感觉、词语或声音，并采取稳定的姿势。\n2. 将注意力保持在它当下的细节上，不要改变或分析这个对象。\n3. 每当注意力离开时，觉察到这一点，并将注意力带回同一个对象。",
+      "sectionTitle": "主题"
+    },
+    "ja": {
+      "title": "集中瞑想",
+      "description": "1. 小さな視覚対象、中立的な感覚、言葉、音のいずれかを一つ選び、安定した姿勢を取ります。\n2. 対象を変えたり分析したりせず、今感じられる細部に注意を向け続けます。\n3. 注意がそれるたびに気づき、同じ対象へ注意を戻します。",
+      "sectionTitle": "テーマ"
+    },
+    "ko": {
+      "title": "집중 명상",
+      "description": "1. 작은 시각적 대상, 중립적인 감각, 단어 또는 소리 하나를 선택하고 안정된 자세를 취합니다.\n2. 대상을 바꾸거나 분석하지 않고 지금 느껴지는 세부 사항에 주의를 유지합니다.\n3. 주의가 벗어날 때마다 알아차리고 같은 대상으로 다시 주의를 돌립니다.",
+      "sectionTitle": "주제"
+    },
+    "th": {
+      "title": "การทำสมาธิแบบจดจ่อ",
+      "description": "1. เลือกสิ่งเล็ก ๆ ที่มองเห็น ความรู้สึกที่เป็นกลาง คำ หรือเสียงหนึ่งอย่าง แล้วจัดท่าให้มั่นคง\n2. จดจ่อกับรายละเอียดที่รับรู้ได้ในขณะนั้น แทนการเปลี่ยนหรือวิเคราะห์สิ่งนั้น\n3. ทุกครั้งที่ความสนใจหลุดไป ให้รับรู้แล้วนำความสนใจกลับมาที่สิ่งเดิม",
+      "sectionTitle": "หัวข้อ"
+    },
+    "ru": {
+      "title": "Медитация концентрации",
+      "description": "1. Выберите один небольшой зрительный объект, нейтральное ощущение, слово или звук и примите устойчивое положение.\n2. Удерживайте внимание на его непосредственно воспринимаемых деталях, не меняя и не анализируя объект.\n3. Каждый раз, когда внимание уходит, замечайте это и возвращайте его к тому же объекту.",
+      "sectionTitle": "Темы"
+    },
+    "uk": {
+      "title": "Медитація зосередження",
+      "description": "1. Оберіть один невеликий зоровий об’єкт, нейтральне відчуття, слово або звук і займіть стійке положення.\n2. Утримуйте увагу на його безпосередньо сприйманих деталях, не змінюючи й не аналізуючи об’єкт.\n3. Щоразу, коли увага відхиляється, помічайте це й повертайте її до того самого об’єкта.",
+      "sectionTitle": "Теми"
+    }
+  }
+}

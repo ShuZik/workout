@@ -1,0 +1,90 @@
+{
+  "id": "74.1",
+  "key": "kun_khmer",
+  "title": "Kun Khmer",
+  "description": "1. Take a staggered stance with the hands high, elbows narrow, and weight light enough to kick or check.\n2. Move through range combining punches, elbows, knees, roundhouse kicks, push kicks, and clinch entries as shadow work or on pads.\n3. Recoil every strike, return to guard, and reset the feet before starting the next combination.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "kunKhmer",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kun Khmer",
+      "description": "1. Take a staggered stance with the hands high, elbows narrow, and weight light enough to kick or check.\n2. Move through range combining punches, elbows, knees, roundhouse kicks, push kicks, and clinch entries as shadow work or on pads.\n3. Recoil every strike, return to guard, and reset the feet before starting the next combination.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kun Khmer",
+      "description": "1. Adopta una guardia escalonada con las manos altas, codos cerrados y el peso ligero para patear o bloquear con la tibia.\n2. Muévete por las distancias combinando puños, codos, rodillas, patadas circulares, patadas frontales de empuje y entradas al clinch, en sombra o con paos.\n3. Recoge cada golpe, vuelve a la guardia y recoloca los pies antes de empezar la siguiente combinación.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kun Khmer",
+      "description": "1. Assuma uma base escalonada com as mãos altas, cotovelos fechados e o peso leve para chutar ou bloquear com a canela.\n2. Movimente-se pelas distâncias combinando socos, cotoveladas, joelhadas, chutes circulares, chutes de empurrão e entradas de clinch, em sombra ou nos aparadores.\n3. Recolha cada golpe, volte à guarda e reposicione os pés antes de iniciar a próxima combinação.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kun Khmer",
+      "description": "1. Prenez une garde décalée, mains hautes, coudes serrés et poids assez léger pour frapper du pied ou bloquer du tibia.\n2. Déplacez-vous sur les distances en enchaînant poings, coudes, genoux, coups de pied circulaires, coups de pied de poussée et entrées en clinch, en shadow ou sur pattes.\n3. Ramenez chaque frappe, revenez en garde et replacez les pieds avant l’enchaînement suivant.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kun Khmer",
+      "description": "1. Nimm eine versetzte Stellung mit hohen Händen, engen Ellbogen und so leichtem Gewicht ein, dass du treten oder checken kannst.\n2. Bewege dich durch die Distanzen und kombiniere Schläge, Ellbogen, Knie, Rundtritte, Stoßtritte und Clincheingänge als Schattenarbeit oder an Pratzen.\n3. Ziehe jeden Schlag zurück, kehre in die Deckung zurück und ordne die Füße, bevor die nächste Kombination beginnt.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Kun Khmer",
+      "description": "1. Assumi una guardia sfalsata con mani alte, gomiti stretti e peso abbastanza leggero da calciare o parare con la tibia.\n2. Muoviti tra le distanze combinando pugni, gomitate, ginocchiate, calci circolari, calci di spinta e ingressi in clinch, a vuoto o sui colpitori.\n3. Richiama ogni colpo, torna in guardia e risistema i piedi prima della combinazione successiva.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "高棉拳（Kun Khmer）",
+      "description": "1. 前后脚站立，双手抬高，肘部收窄，重心轻盈，随时可以出腿或提膝格挡。\n2. 在不同距离间移动，以空击或打靶方式组合拳、肘、膝、扫踢、蹬踢和缠抱进入。\n3. 每次击打后收回，回到防守位，调整双脚后再开始下一组组合。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "クンクメール",
+      "description": "1. 両手を高く、肘を狭く保ち、蹴りやブロックができる軽い重心で前後のスタンスをとります。\n2. シャドーまたはミットで、パンチ・肘・膝・回し蹴り・前蹴り・クリンチへの入りを組み合わせて距離を移動します。\n3. 打撃ごとに引き戻してガードに戻り、足を整えてから次のコンビネーションに移ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "쿤 크메르",
+      "description": "1. 손을 높이 들고 팔꿈치를 좁히며 킥이나 체크를 할 수 있도록 체중을 가볍게 한 앞뒤 스탠스를 잡습니다.\n2. 섀도나 미트로 펀치, 팔꿈치, 무릎, 라운드킥, 푸시킥, 클린치 진입을 조합하며 거리를 이동합니다.\n3. 매 타격을 회수하고 가드로 돌아와 발을 정돈한 뒤 다음 콤비네이션을 시작합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "กุนแขมร์",
+      "description": "1. ยืนเท้าหน้าหลัง ยกมือสูง ศอกแคบ และทิ้งน้ำหนักเบาพอจะเตะหรือยกแข้งรับได้\n2. เคลื่อนที่ในระยะต่าง ๆ ผสมหมัด ศอก เข่า เตะเหวี่ยง ถีบ และการเข้าคลินช์ แบบชกลมหรือกับเป้า\n3. ดึงทุกการโจมตีกลับ คืนสู่การ์ด และจัดเท้าใหม่ก่อนเริ่มคอมบิเนชันถัดไป",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кун кхмер",
+      "description": "1. Встаньте в разножку: руки высоко, локти узко, вес достаточно лёгкий, чтобы бить ногой или ставить блок голенью.\n2. Перемещайтесь по дистанциям, сочетая удары руками, локтями, коленями, круговые удары и толчки ногой, входы в клинч — в бою с тенью или по лапам.\n3. Возвращайте каждый удар, приходите в защиту и восстанавливайте положение ног перед следующей комбинацией.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кун кхмер",
+      "description": "1. Станьте в різностійку: руки високо, лікті вузько, вага досить легка, щоб бити ногою або ставити блок гомілкою.\n2. Пересувайтеся дистанціями, поєднуючи удари руками, ліктями, колінами, кругові удари й поштовхи ногою, входи в клінч — у бою з тінню або на ��апах.\n3. Повертайте кожен удар, приходьте в захист і відновлюйте положення ніг перед наступною комбінацією.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

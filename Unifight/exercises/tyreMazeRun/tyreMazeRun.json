@@ -1,0 +1,90 @@
+{
+  "id": "105.3",
+  "key": "unifight_tyre_maze_run",
+  "title": "Tyre Maze Run",
+  "description": "1. Lay out tyres or marked squares in an uneven pattern on a flat surface.\n2. Run through quickly, placing one foot in each gap with short, light steps and the eyes a few cells ahead.\n3. Exit the pattern under control, turn, and run it again from the other end.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 3.3,
+    "moderate": 4.8,
+    "vigorous": 7.5,
+    "lightCode": "12026",
+    "moderateCode": "12025",
+    "vigorousCode": "12020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tyre Maze Run",
+      "description": "1. Lay out tyres or marked squares in an uneven pattern on a flat surface.\n2. Run through quickly, placing one foot in each gap with short, light steps and the eyes a few cells ahead.\n3. Exit the pattern under control, turn, and run it again from the other end.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Laberinto de neumáticos",
+      "description": "1. Coloca neumáticos o cuadros marcados en un patrón irregular sobre una superficie plana.\n2. Atraviésalo rápido, apoyando un pie en cada hueco con pasos cortos y ligeros y la mirada unas casillas por delante.\n3. Sal del patrón con control, gira y vuelve a recorrerlo desde el otro extremo.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Labirinto de pneus",
+      "description": "1. Disponha pneus ou quadrados marcados num padrão irregular sobre uma superfície plana.\n2. Atravesse rapidamente, colocando um pé em cada espaço com passos curtos e leves e o olhar algumas casas à frente.\n3. Saia do padrão com controle, vire e percorra de novo a partir da outra ponta.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Labyrinthe de pneus",
+      "description": "1. Disposez des pneus ou des cases marquées selon un motif irrégulier sur un sol plat.\n2. Traversez vite en posant un pied dans chaque espace, à petits pas légers, le regard quelques cases en avant.\n3. Sortez du motif avec contrôle, faites demi-tour et repartez depuis l’autre extrémité.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Reifenlabyrinth-Lauf",
+      "description": "1. Lege Reifen oder markierte Felder unregelmäßig auf einer ebenen Fläche aus.\n2. Laufe zügig hindurch, setze in jede Lücke einen Fuß mit kurzen, leichten Schritten und blicke einige Felder voraus.\n3. Verlasse das Muster kontrolliert, wende und laufe es vom anderen Ende erneut.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Labirinto di pneumatici",
+      "description": "1. Disponi pneumatici o quadrati segnati in uno schema irregolare su una superficie piana.\n2. Attraversalo velocemente, mettendo un piede in ogni spazio con passi corti e leggeri e lo sguardo qualche casella avanti.\n3. Esci dallo schema con controllo, girati e ripercorrilo dall’altra estremità.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "轮胎迷宫跑",
+      "description": "1. 在平地上把轮胎或标记格子摆成不规则图案。\n2. 快速通过，每个空格踏入一只脚，步子短而轻，目光看向前方几格。\n3. 有控制地跑出图案，转身后从另一端再跑一次。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "タイヤ迷路走",
+      "description": "1. 平らな場所にタイヤや印をつけたマスを不規則に並べます。\n2. 素早く走り抜け、各すき間に片足ずつ短く軽いステップで置き、視線は数マス先に向けます。\n3. コントロール��て抜け出し、向きを変えて反対側からもう一度走ります。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "타이어 미로 달리기",
+      "description": "1. 평평한 바닥에 타이어나 표시한 칸을 불규칙하게 배치합니다.\n2. 짧고 가벼운 스텝으로 칸마다 한 발씩 디디며 시선은 몇 칸 앞을 보고 ���르게 통과합니다.\n3. 통제하며 빠져나와 돌아선 뒤 반대쪽 끝에서 다시 달립니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "วิ่งเขาวงกตยาง",
+      "description": "1. วางยางหรือช่องที่ทำเครื่องหมายเป็นรูปแบบไม่สม่ำเสมอบนพื้นเรียบ\n2. วิ่งผ่านอย่างรวดเร็ว วางเท้าหนึ่งข้างในแต่ละช่องด้วยก้าวสั้นและเบา สายตามองล่วงหน้าไปสองสามช่อง\n3. ออกจากรูปแบบอย่างควบคุม หันกลับ แล้ววิ่งอีกครั้งจากอีกด้าน",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Бег через лабиринт из шин",
+      "description": "1. Разложите шины или размеченные квадраты в неравномерном порядке на ровной поверхности.\n2. Пробегите быстро, ставя одну стопу в каждый проём короткими лёгкими шагами и глядя на несколько ячеек вперёд.\n3. Выйдите из лабиринта под контролем, развернитесь и пробегите снова с другого конца.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Біг через лабіринт із шин",
+      "description": "1. Розкладіть шини або розмічені квадрати в нерівномірному порядку на рівній поверхні.\n2. Пробіжіть швидко, ставлячи одну стопу в кожен проміжок короткими легкими кроками й дивлячись на кілька клітинок уперед.\n3. Вийдіть із лабіринту під контролем, розверніться й пробіжіть знову з іншого кінця.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

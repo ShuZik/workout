@@ -1,0 +1,87 @@
+{
+  "id": "98.1",
+  "key": "tae_soo_do_main",
+  "title": "Tae Soo Do",
+  "description": "1. Start in a fighting stance with hands up, knees soft, and weight balanced between the feet.\n2. Drill basic strikes, kicks, blocks, and footwork in short combinations, then link them into a form-like sequence.\n3. Return to stance after each combination, keep techniques controlled, and breathe steadily through the interval.",
+  "colorType": "pink",
+  "workoutType": "taeSooDo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tae Soo Do",
+      "description": "1. Start in a fighting stance with hands up, knees soft, and weight balanced between the feet.\n2. Drill basic strikes, kicks, blocks, and footwork in short combinations, then link them into a form-like sequence.\n3. Return to stance after each combination, keep techniques controlled, and breathe steadily through the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Tae Soo Do",
+      "description": "1. Empieza en guardia de combate con manos arriba, rodillas blandas y el peso repartido entre ambos pies.\n2. Practica golpes, patadas, bloqueos y juego de pies básicos en combinaciones cortas y luego encadénalos en una secuencia tipo forma.\n3. Vuelve a la guardia tras cada combinación, controla las técnicas y respira de forma constante durante el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Tae Soo Do",
+      "description": "1. Comece em guarda de luta com mãos altas, joelhos soltos e peso equilibrado entre os pés.\n2. Treine golpes, chutes, bloqueios e trabalho de pés básicos em combinações curtas e depois encadeie-os numa sequência tipo forma.\n3. Volte à guarda após cada combinação, controle as técnicas e respire de forma constante durante o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Tae Soo Do",
+      "description": "1. Commencez en garde de combat, mains hautes, genoux souples, poids réparti entre les pieds.\n2. Travaillez frappes, coups de pied, blocages et déplacements de base en courtes combinaisons, puis enchaînez-les en séquence de type forme.\n3. Revenez en garde après chaque combinaison, contrôlez les techniques et respirez régulièrement pendant l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Tae Soo Do",
+      "description": "1. In Kampfstellung beginnen, Hände oben, Knie weich, Gewicht zwischen den Füßen verteilt.\n2. Grundschläge, Tritte, Blocks und Beinarbeit in kurzen Kombinationen üben und dann zu einer formähnlichen Folge verbinden.\n3. Nach jeder Kombination in die Stellung zurück, Techniken kontrollieren und während des Intervalls gleichmäßig atmen.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Tae Soo Do",
+      "description": "1. Inizia in guardia di combattimento con mani alte, ginocchia morbide e peso distribuito tra i piedi.\n2. Allena colpi, calci, parate e gioco di gambe di base in brevi combinazioni, poi collegali in una sequenza simile a una forma.\n3. Torna in guardia dopo ogni combinazione, controlla le tecniche e respira con regolarità durante l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "跆手道",
+      "description": "1. 以实战站姿开始，双手抬高，膝盖微屈，重心均匀分布在双脚之间。\n2. 以短组合练习基本拳击、踢法、格挡和步法，再串联成类似套路的序列。\n3. 每个组合后回到站姿，技术保持受控，整个时段呼吸平稳。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "テスド（跆手道）",
+      "description": "1. 手を上げ、膝を柔らかく、両足に体重を均等にかけた構えから始めます。\n2. 基本の打撃、蹴り、受け、足捌きを短い連続技で練習し、型のような流れにつなげます。\n3. 連続技ごとに構えに戻り、技を制御し、インターバル中は一定の呼吸を保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "태수도",
+      "description": "1. 손을 올리고 무릎을 부드럽게 하며 두 발에 체중을 고르게 둔 겨룸 자세로 시작합니다.\n2. 기본 치기, 차기, 막기, 발놀림을 짧은 연결 동작으로 연습한 뒤 형과 같은 흐름으로 잇습니다.\n3. 연결 동작마다 자세로 돌아오고 기술을 통제하며 시간 내내 일정하게 호흡합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "แทซูโด",
+      "description": "1. เริ่มในท่าต่อสู้ ยกมือ เข่างอเล็กน้อย และน้ำหนักสมดุลระหว่างสองเท้า\n2. ฝึกการตี เตะ ปัด และฟุตเวิร์กพื้นฐานเป็นชุดสั้นๆ แล้วเชื่อมเป็นลำดับคล้ายท่ารำ\n3. กลับสู่ท่าหลังแต่ละชุด ควบคุมเทคนิค และหายใจสม่ำเสมอตลอดช่วงเวลา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Тхэсудо",
+      "description": "1. Начните в боевой стойке, руки подняты, колени мягкие, вес распределён между стопами.\n2. Отрабатывайте базовые удары руками и ногами, блоки и передвижения короткими связками, затем объедините их в последовательность наподобие формы.\n3. Возвращайтесь в стойку после каждой связки, контролируйте технику и дышите ровно весь интервал.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Тхесудо",
+      "description": "1. Почніть у бойовій стійці, руки підняті, коліна м’які, вага розподілена між стопами.\n2. Відпрацьовуйте базові удари руками й ногами, блоки й пересування короткими зв’язками, потім об’єднайте їх у послідовність на зразок форми.\n3. Повертайтеся в стійку після кожної зв’язки, контролюйте техніку й дихайте рівно весь інтервал.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

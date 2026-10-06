@@ -1,0 +1,87 @@
+{
+  "id": "54.11",
+  "key": "fencing_beat",
+  "title": "Beat",
+  "description": "1. Stand at lunging distance with the partner's blade in line or engaged.\n2. Strike the middle or weak part of the partner's blade sharply with the strong-to-middle part of yours, using the fingers and wrist rather than a wide arm swing.\n3. Extend immediately into the line opened by the beat and lunge to hit, then recover to en garde and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Beat",
+      "description": "1. Stand at lunging distance with the partner's blade in line or engaged.\n2. Strike the middle or weak part of the partner's blade sharply with the strong-to-middle part of yours, using the fingers and wrist rather than a wide arm swing.\n3. Extend immediately into the line opened by the beat and lunge to hit, then recover to en garde and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Batimiento",
+      "description": "1. Colócate a distancia de fondo con la hoja del compañero en línea o enganchada.\n2. Golpea con viveza el medio o el débil de la hoja del compañero con el fuerte-medio de la tuya, usando dedos y muñeca y no un amplio giro del brazo.\n3. Extiende de inmediato hacia la línea abierta por el batimiento y tira a fondo para tocar; vuelve a guardia y cambia papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Batida",
+      "description": "1. Fique à distância de afundo com a lâmina do parceiro em linha ou engajada.\n2. Bata com vivacidade no meio ou no fraco da lâmina do parceiro com o forte-médio da sua, usando dedos e punho, não um amplo giro do braço.\n3. Estenda de imediato para a linha aberta pela batida e afunde para tocar; volte à guarda e troque papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Battement",
+      "description": "1. Placez-vous à distance de fente, le fer du partenaire en ligne ou engagé.\n2. Frappez sèchement le milieu ou le faible du fer adverse avec le fort-milieu du vôtre, par les doigts et le poignet plutôt qu’un large mouvement de bras.\n3. Allongez aussitôt dans la ligne ouverte par le battement et fendez-vous pour toucher, puis revenez en garde et inversez après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Battuta",
+      "description": "1. Stehe auf Ausfalldistanz, die Partnerklinge in Linie oder gebunden.\n2. Schlage kurz und scharf mit Forte bis Mitte deiner Klinge gegen Mitte oder Schwäche der Partnerklinge, aus Fingern und Handgelenk statt mit weitem Armschwung.\n3. Strecke sofort in die geöffnete Linie und falle zum Treffer aus, kehre zurück und tauscht nach der Serie die Rollen.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Battuta",
+      "description": "1. Stai a distanza d’affondo con la lama del compagno in linea o legata.\n2. Colpisci con secchezza il medio o il debole della lama del compagno con il forte-medio della tua, usando dita e polso anziché un ampio movimento del braccio.\n3. Distendi subito nella linea aperta dalla battuta e affonda per toccare, poi torna in guardia e scambiate i ruoli dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "击打",
+      "description": "1. 在弓步距离，同伴的剑成直线或处于接剑状态。\n2. 用你剑的强部至中部，以手指和手腕而非大幅摆臂，干脆地击打同伴剑的中部或弱部。\n3. 立即沿击打打开的线位伸臂并弓步刺中，然后恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "バットマン",
+      "description": "1. 相手の剣がラインにあるかアンガージュした状態でファントの間合いに立ちます。\n2. 腕を大きく振らず指と手首で、自分の剣の強部から中部で相手の剣の中部か弱部を鋭く打ちます。\n3. 打って開いたラインへすぐ腕を伸ばしファントで突き、アンガルドに戻り、セット後に交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "비트",
+      "description": "1. 파트너 칼이 라인에 있거나 인게이지된 상태로 런지 거리에 섭니다.\n2. 팔을 크게 휘두르지 않고 손가락과 손목으로, 내 칼의 강부~중부로 파트너 칼의 중부나 약부를 날카롭게 칩니다.\n3. 비트로 열린 라인으로 즉시 팔을 뻗어 런지로 찌르고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "บีต",
+      "description": "1. ยืนในระยะลันจ์ โดยใบดาบคู่ฝึกอยู่ในแนวหรือแตะกันอยู่\n2. ใช้ส่วนแข็งถึงกลางของใบดาบตีส่วนกลางหรือส่วนอ่อนของดาบคู่ฝึกอย่างฉับไว ด้วยนิ้วและข้อมือแทนการเหวี่ยงแขนกว้าง\n3. เหยียดแขนทันทีเข้าแนวที่เปิดจากการตีแล้วลันจ์แทง กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Батман",
+      "description": "1. Встаньте на дистанции выпада, клинок партнёра в линии или в соединении.\n2. Резко ударьте сильной-средней частью своего клинка по средней или слабой части клинка партнёра пальцами и кистью, без широкого размаха руки.\n3. Сразу выпрямите руку в открытую батманом линию и выпадом нанесите укол, затем вернитесь в стойку и поменяйтесь ролями после серии.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Батман",
+      "description": "1. Станьте на дистанції випаду, клинок партнера в лінії або в з’єднанні.\n2. Різко вдарте сильною-середньою частиною свого клинка по середній чи слабкій частині клинка партнера пальцями й кистю, без широкого замаху руки.\n3. Одразу випряміть руку у відкриту батманом лінію й випадом завдайте уколу, потім поверніться в стійку й поміняйтеся ролями після серії.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

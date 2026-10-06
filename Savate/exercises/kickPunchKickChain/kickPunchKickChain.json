@@ -1,0 +1,90 @@
+{
+  "id": "89.6",
+  "key": "savate_kick_punch_kick_chain",
+  "title": "Kick-Punch-Kick Chain",
+  "description": "1. Start at kicking distance facing a partner in guard who holds pads or works light assaut.\n2. Open with a kick, close the distance with one or more punches, and finish with a second kick as the partner moves away.\n3. Keep every touch controlled, recover guard, and alternate attacker and receiver.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kick-Punch-Kick Chain",
+      "description": "1. Start at kicking distance facing a partner in guard who holds pads or works light assaut.\n2. Open with a kick, close the distance with one or more punches, and finish with a second kick as the partner moves away.\n3. Keep every touch controlled, recover guard, and alternate attacker and receiver.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Cadena pie-puño-pie",
+      "description": "1. Empieza a distancia de pierna frente a un compañero en guardia con paos o en asalto ligero.\n2. Abre con una patada, acorta distancia con uno o más golpes de puño y termina con otra patada cuando el compañero se aleja.\n3. Controla cada toque, recupera la guardia y alternad atacante y receptor.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Cadeia pé-punho-pé",
+      "description": "1. Comece na distância de chute diante de um parceiro em guarda com aparadores ou em assalto leve.\n2. Abra com um chute, encurte a distância com um ou mais socos e finalize com outro chute quando o parceiro se afasta.\n3. Controle cada toque, recupere a guarda e alternem atacante e receptor.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Enchaînement pieds-poings-pieds",
+      "description": "1. Commencez à distance de jambe face à un partenaire en garde avec boucliers ou en assaut léger.\n2. Ouvrez par un coup de pied, réduisez la distance avec un ou plusieurs coups de poing et terminez par un second coup de pied quand le partenaire recule.\n3. Contrôlez chaque touche, retrouvez la garde et alternez attaquant et receveur.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kette Fuß-Faust-Fuß",
+      "description": "1. Beginne auf Trittdistanz gegenüber einem Partner in Deckung mit Polstern oder im leichten Assaut.\n2. Eröffne mit einem Tritt, schließe die Distanz mit einem oder mehreren Schlägen und beende mit einem zweiten Tritt, während der Partner zurückweicht.\n3. Triff jedes Mal kontrolliert, stelle die Deckung her und wechselt Angreifer und Empfänger.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Catena piede-pugno-piede",
+      "description": "1. Inizia a distanza di calcio di fronte a un compagno in guardia con colpitori o in assalto leggero.\n2. Apri con un calcio, accorcia la distanza con uno o più pugni e chiudi con un secondo calcio mentre il compagno si allontana.\n3. Controlla ogni tocco, recupera la guardia e alternate attaccante e ricevente.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "腿-拳-腿连击",
+      "description": "1. 在腿法距离与持靶或进行轻接触对练的同伴相对，保持防守势。\n2. 以一记腿法开始，用一拳或多拳拉近距离，在同伴后退时再以第二记腿法收尾。\n3. 每次接触都要控制，恢复防守势，攻防双方轮换。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "蹴り・突き・蹴りのコンビネーション",
+      "description": "1. パッドを持つか、ライトなアソーで動く構えたパートナーと蹴りの間合いから始めます。\n2. 蹴りで始め、1発以上のパンチで間合いを詰め、相手が下がるところを2本目の蹴りで締めます。\n3. すべての接触をコントロールし、構えを戻して攻め手と受け手を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "킥-펀치-킥 연결",
+      "description": "1. 패드를 들거나 가벼운 아소를 하는 가드 자세의 파트너와 킥 거리에서 시작합니다.\n2. 킥으로 시작하고 한 번 이상의 펀치로 거리를 좁힌 뒤, 파트너가 물러날 때 두 번째 킥으로 마무리합니다.\n3. 모든 접촉을 통제하고 가드를 회복하며 공격자와 수비자를 교대합니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ชุดเท้า-หมัด-เท้า",
+      "description": "1. เริ่มที่ระยะเตะ เผชิญคู่ฝึกในการ์ดที่ถือเป้าหรือซ้อมอัสโซเบา ๆ\n2. เปิดด้วยลูกเตะ ลดระยะด้วยหมัดหนึ่งครั้งขึ้นไป แล้วปิดด้วยลูกเตะที่สองขณะคู่ฝึกถอย\n3. ควบคุมทุกการสัมผัส กลับสู่การ์ด และสลับผู้โจมตีกับผู้รับ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Связка нога-рука-нога",
+      "description": "1. Начните на дистанции удара ногой напротив партнёра в стойке с макиварами или в лёгком ассо.\n2. Откройте ударом ногой, сократите дистанцию одним или несколькими ударами рук и завершите вторым ударом ногой, когда партнёр отходит.\n3. Контролируйте каждое касание, восстанавливайте стойку и чередуйте атакующего и принимающего.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Зв’язка нога-рука-нога",
+      "description": "1. Почніть на дистанції удару ногою навпроти партнера в стійці з маківарами або в легкому асо.\n2. Відкрийте ударом ногою, скоротіть дистанцію одним або кількома ударами рук і завершіть другим ударом ногою, коли партнер відходить.\n3. Контролюйте кожен дотик, відновлюйте стійку й чергуйте атакувальника та приймаючого.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "41.57",
+  "key": "judo_harai_tsurikomi_ashi",
+  "title": "Harai Tsurikomi Ashi",
+  "description": "1. Draw the partner forward so the advancing foot carries weight while the body leans slightly forward.\n2. Sweep the front of that ankle with the sole of the foot in the direction of the partner's movement.\n3. Lift and turn the upper body with the hands so the partner rotates forward, guiding the sleeve to the landing.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Harai Tsurikomi Ashi",
+      "description": "1. Draw the partner forward so the advancing foot carries weight while the body leans slightly forward.\n2. Sweep the front of that ankle with the sole of the foot in the direction of the partner's movement.\n3. Lift and turn the upper body with the hands so the partner rotates forward, guiding the sleeve to the landing.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Harai Tsurikomi Ashi",
+      "description": "1. Lleva al compañero hacia delante para que el pie adelantado cargue peso mientras el cuerpo se inclina un poco hacia delante.\n2. Barre la parte delantera de ese tobillo con la planta del pie en la dirección del movimiento del compañero.\n3. Levanta y gira el tronco con las manos para que el compañero rote hacia delante, guiando la manga hasta la caída.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Harai Tsurikomi Ashi",
+      "description": "1. Leve o parceiro para a frente para que o pé avançado carregue peso enquanto o corpo se inclina um pouco para a frente.\n2. Varra a frente desse tornozelo com a sola do pé na direção do movimento do parceiro.\n3. Levante e gire o tronco com as mãos para que o parceiro gire para a frente, guiando a manga até a queda.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Harai Tsurikomi Ashi",
+      "description": "1. Amenez le partenaire vers l’avant pour que le pied avancé porte le poids et que le corps se penche légèrement.\n2. Balayez l’avant de cette cheville avec la plante du pied dans le sens de son déplacement.\n3. Soulevez et tournez le haut du corps avec les mains pour qu’il tourne vers l’avant, en guidant la manche jusqu’à la chute.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Harai Tsurikomi Ashi",
+      "description": "1. Ziehe den Partner nach vorn, sodass der vordere Fuß belastet ist und sich der Körper leicht vorneigt.\n2. Fege die Vorderseite dieses Knöchels mit der Sohle in seiner Bewegungsrichtung.\n3. Hebe und drehe den Oberkörper mit den Händen, damit der Partner nach vorn rotiert, und führe den Ärmel zur Landung.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Harai Tsurikomi Ashi",
+      "description": "1. Porta avanti il compagno così che il piede avanzato carichi peso mentre il corpo si inclina leggermente in avanti.\n2. Spazza la parte anteriore di quella caviglia con la pianta del piede nella direzione del suo movimento.\n3. Solleva e ruota il busto con le mani perché il compagno ruoti in avanti, guidando la manica fino all’atterraggio.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "扫钓込足",
+      "description": "1. 向前拉搭档，使其前脚承重、身体略前倾。\n2. 用脚掌顺搭档移动方向扫其脚踝前侧。\n3. 双手提拉并转动其上身，使搭档向前旋转，引导袖口完成倒地。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "払釣込足",
+      "description": "1. 相手を前へ引き出し、前足に体重が乗って体がやや前傾するようにします。\n2. その足首の前を足裏で相手の進む方向へ払います。\n3. 手で上体を釣り上げて回し、相手を前方へ回転させ、袖を導いて着地させます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "하라이 츠리코미 아시",
+      "description": "1. 파트너를 앞으로 당겨 앞발에 체중이 실리고 몸이 약간 앞으로 기울게 합니다.\n2. 그 발목 앞쪽을 발바닥으로 파트너 이동 방향으로 쓸어냅니다.\n3. 손으로 상체를 들어 돌려 파트너가 앞으로 회전하게 하고 소매를 이끌어 착지시킵니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "ฮาราอิสึริโกมิอาชิ",
+      "description": "1. ดึงคู่ฝึกไปข้างหน้าให้เท้าหน้ารับน้ำหนัก และลำตัวโน้มไปข้างหน้าเล็กน้อย\n2. ใช้ฝ่าเท้ากวาดด้านหน้าข้อเท้านั้นไปตามทิศการเคลื่อนที่ของคู่ฝึก\n3. ใช้มือยกและหมุนลำตัวให้คู่ฝึกหมุนไปข้างหน้า และนำแขนเสื้อจนลงพื้น",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Харай-цурикоми-аси",
+      "description": "1. Выведите партнёра вперёд, чтобы выставленная стопа приняла вес, а корпус слегка наклонился вперёд.\n2. Подметите подошвой переднюю сторону этого голеностопа в направлении движения партнёра.\n3. Поднимите и разверните корпус руками, чтобы партнёр перевернулся вперёд, направляя рукав до приземления.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Харай-цурікомі-асі",
+      "description": "1. Виведіть партнера вперед, щоб виставлена стопа прийняла вагу, а тулуб трохи нахилився вперед.\n2. Підметіть підошвою передній бік цього гомілковостопу в напрямку руху партнера.\n3. Підніміть і розверніть тулуб руками, щоб партнер перекинувся вперед, спрямовуючи рукав до приземлення.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

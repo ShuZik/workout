@@ -1,0 +1,90 @@
+{
+  "id": "48.7",
+  "key": "canne_croise_bas",
+  "title": "Croise Bas",
+  "description": "1. From guard, wind the cane up over the opposite shoulder while preparing to lunge.\n2. Lunge low and strike diagonally downward from the cross side toward the opponent's calf, keeping the back straight and the head out of the line.\n3. Recover from the lunge to the original stance height and return to guard.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Strikes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Croise Bas",
+      "description": "1. From guard, wind the cane up over the opposite shoulder while preparing to lunge.\n2. Lunge low and strike diagonally downward from the cross side toward the opponent's calf, keeping the back straight and the head out of the line.\n3. Recover from the lunge to the original stance height and return to guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Croisé bas",
+      "description": "1. Desde la guardia, arma el bastón por encima del hombro opuesto mientras te preparas para la fondo.\n2. Haz una fondo baja y golpea en diagonal hacia abajo desde el lado cruzado hacia la pantorrilla del oponente, con la espalda recta y la cabeza fuera de la línea.\n3. Recupera de la fondo a la altura original y vuelve a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Croisé bas",
+      "description": "1. Da guarda, arme a bengala por cima do ombro oposto enquanto se prepara para o afundo.\n2. Faça um afundo baixo e golpeie em diagonal para baixo do lado cruzado em direção à panturrilha do oponente, costas retas e cabeça fora da linha.\n3. Recupere do afundo à altura original e volte à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Croisé bas",
+      "description": "1. Depuis la garde, armez la canne au-dessus de l’épaule opposée en préparant la fente.\n2. Fendez-vous bas et frappez en diagonale vers le bas depuis le côté croisé vers le mollet adverse, dos droit et tête hors de la ligne.\n3. Revenez de la fente à la hauteur initiale et reprenez la garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Croisé bas",
+      "description": "1. Aus der Grundstellung den Stock über die gegenüberliegende Schulter ausholen und den Ausfall vorbereiten.\n2. Tief ausfallen und diagonal von der gekreuzten Seite abwärts zur Wade des Gegners schlagen, Rücken gerade, Kopf aus der Linie.\n3. Aus dem Ausfall zur ursprünglichen Standhöhe zurückkommen und in die Grundstellung gehen.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Croisé bas",
+      "description": "1. Dalla guardia carica il bastone sopra la spalla opposta preparando l’affondo.\n2. Affonda in basso e colpisci in diagonale verso il basso dal lato incrociato verso il polpaccio dell’avversario, schiena dritta e testa fuori linea.\n3. Rientra dall’affondo all’altezza iniziale e torna in guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "交叉低击",
+      "description": "1. 从戒备姿势将杖举过对侧肩膀蓄势，同时准备弓步。\n2. 低弓步，从交叉一侧斜向下击向对手小腿，背部挺直，头部离开击打线。\n3. 从弓步恢复到原来的姿势高度，回到戒备姿势。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "クロワゼ・バ",
+      "description": "1. 構えから反対側の肩越しにカンヌを振りかぶり、ランジの準備をします。\n2. 低くランジして、背中をまっすぐ保ち頭を打線から外しながら、交差側から相手のふくらはぎへ斜めに打ち下ろします。\n3. ランジから元の姿勢の高さへ戻り、構えに戻ります。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "크루아제 바",
+      "description": "1. 가드에서 반대쪽 어깨 위로 지팡이를 감아 올리며 런지를 준비합니다.\n2. 낮게 런지하며 교차하는 쪽에서 상대의 종아리를 향해 대각선으로 내려치고, 등은 곧게, 머리는 선 밖에 둡니다.\n3. 런지에서 원래 자세 높이로 돌아와 가드를 잡습니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ครัวเซ บา",
+      "description": "1. จากการ์ด ง้างไม้ข้ามไหล่ฝั่งตรงข้ามพร้อมเตรียมก้าวลันจ์\n2. ก้าวลันจ์ต่ำและฟาดเฉียงลงจากฝั่งไขว้ไปที่น่องคู่ต่อสู้ หลังตรงและศีรษะอยู่นอกแนวตี\n3. ถอนจากท่าลันจ์กลับสู่ความสูงเดิม แล้วกลับสู่การ์ด",
+      "sectionTitle": "การตี"
+    },
+    "ru": {
+      "title": "Круазе ба",
+      "description": "1. Из стойки сделайте замах тростью через противоположное плечо, готовясь к выпаду.\n2. Выполните низкий выпад и ударьте по диагонали вниз с перекрёстной стороны в икру противника, держа спину прямой, а голову вне линии.\n3. Вернитесь из выпада на исходную высоту и встаньте в стойку.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Круазе ба",
+      "description": "1. Зі стійки зробіть замах тростиною через протилежне плече, готуючись до випаду.\n2. Виконайте низький випад і вдарте по діагоналі вниз із перехресного боку в литку суперника, тримаючи спину прямою, а голову поза лінією.\n3. Поверніться з випаду на вихідну висоту й станьте в стійку.",
+      "sectionTitle": "Удари"
+    }
+  }
+}

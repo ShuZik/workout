@@ -1,0 +1,87 @@
+{
+  "id": "54.24",
+  "key": "fencing_circular_parry",
+  "title": "Circular Parry",
+  "description": "1. From an engagement, for example sixte, the partner disengages and attacks into the line you just covered on the other side.\n2. Describe a small circle with the point, under and around the attacking blade, collecting it and bringing it back into your original line of engagement.\n3. Riposte from the parry, recover to en garde, and swap roles; keep the circle small and driven by the fingers.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Circular Parry",
+      "description": "1. From an engagement, for example sixte, the partner disengages and attacks into the line you just covered on the other side.\n2. Describe a small circle with the point, under and around the attacking blade, collecting it and bringing it back into your original line of engagement.\n3. Riposte from the parry, recover to en garde, and swap roles; keep the circle small and driven by the fingers.",
+      "sectionTitle": "Parries"
+    },
+    "es": {
+      "title": "Parada circular (contra)",
+      "description": "1. Desde un enganche, por ejemplo sexta, el compañero desengancha y ataca por la línea del otro lado.\n2. Describe un pequeño círculo con la punta, por debajo y alrededor de la hoja atacante, recogiéndola y llevándola de vuelta a tu línea de enganche original.\n3. Responde desde la parada, vuelve a guardia y cambia papeles; mantén el círculo pequeño y guiado por los dedos.",
+      "sectionTitle": "Paradas"
+    },
+    "pt": {
+      "title": "Parada circular (contra)",
+      "description": "1. A partir de um engajamento, por exemplo sexta, o parceiro desengaja e ataca na linha do outro lado.\n2. Descreva um pequeno círculo com a ponta, por baixo e em volta da lâmina atacante, recolhendo-a e trazendo-a de volta à sua linha de engajamento original.\n3. Responda a partir da parada, volte à guarda e troque papéis; mantenha o círculo pequeno e guiado pelos dedos.",
+      "sectionTitle": "Paradas"
+    },
+    "fr": {
+      "title": "Contre (parade circulaire)",
+      "description": "1. Depuis un engagement, par exemple sixte, le partenaire dégage et attaque dans la ligne de l’autre côté.\n2. Décrivez un petit cercle de la pointe, sous et autour du fer attaquant, pour le cueillir et le ramener dans votre ligne d’engagement initiale.\n3. Ripostez depuis la parade, revenez en garde et inversez ; gardez le cercle petit et mené par les doigts.",
+      "sectionTitle": "Parades"
+    },
+    "de": {
+      "title": "Kreisparade (Contre)",
+      "description": "1. Aus einer Bindung, etwa Sixt, umgeht der Partner und greift in die Linie der Gegenseite an.\n2. Beschreibe mit der Spitze einen kleinen Kreis unter und um die Angriffsklinge, fange sie ein und führe sie in deine ursprüngliche Bindungslinie zurück.\n3. Ripostiere aus der Parade, kehre zurück und tauscht; halte den Kreis klein und aus den Fingern geführt.",
+      "sectionTitle": "Paraden"
+    },
+    "it": {
+      "title": "Parata di contro (circolare)",
+      "description": "1. Da un legamento, per esempio sesta, il compagno cava e attacca nella linea dell’altro lato.\n2. Descrivi un piccolo cerchio con la punta, sotto e attorno alla lama attaccante, raccogliendola e riportandola nella tua linea di legamento iniziale.\n3. Rispondi dalla parata, torna in guardia e scambiate; mantieni il cerchio piccolo e guidato dalle dita.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "画圆防守（反防守）",
+      "description": "1. 从接剑位（如第六位）开始，同伴转移后攻向另一侧线位。\n2. 剑尖从来剑下方绕其画一个小圆，把来剑收拢并带回原来的接剑线位。\n3. 从防守位置还击，恢复实战姿势后交换角色；圆圈要小，由手指带动。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "サーキュラー（コントル）パラード",
+      "description": "1. アンガージュ（例：シクスト）から、相手がデガジェして反対側のラインへ攻撃します。\n2. 剣先で攻撃剣の下を回る小さな円を描き、剣を巻き取って元のアンガージュのラインへ戻します。\n3. パラードからリポストし、アンガルドに戻って交代します。円は小さく指で導きます。",
+      "sectionTitle": "パラード"
+    },
+    "ko": {
+      "title": "원형 패리(콩트르)",
+      "description": "1. 인게이지(예: 식스트)에서 파트너가 디스인게이지하여 반대쪽 라인으로 공격합니다.\n2. 칼끝으로 공격 칼 아래를 도는 작은 원을 그려 칼을 걷어 원래 인게이지 라인으로 되돌립니다.\n3. 패리에서 리포스트하고 앙가르드로 돌아와 역할을 바꾸며, 원은 작게 손가락으로 이끕니다.",
+      "sectionTitle": "패리"
+    },
+    "th": {
+      "title": "การปัดแบบวงกลม (คองเทรอ)",
+      "description": "1. จากการแตะดาบ เช่น ซิกซ์ต์ คู่ฝึกดิสเอนเกจแล้วโจมตีเข้าแนวอีกด้าน\n2. หมุนปลายดาบเป็นวงเล็กลอดใต้และรอบดาบที่โจมตี เก็บดาบนั้นกลับมายังแนวที่แตะไว้เดิม\n3. โต้กลับจากท่าปัด กลับสู่อองการ์ดแล้วสลับบทบาท รักษาวงให้เล็กและขับด้วยนิ้ว",
+      "sectionTitle": "การปัดป้อง"
+    },
+    "ru": {
+      "title": "Круговая защита",
+      "description": "1. Из соединения, например в шестой, партнёр делает перевод и атакует в линию с другой стороны.\n2. Опишите остриём небольшой круг под атакующим клинком и вокруг него, захватите его и верните в исходную линию соединения.\n3. Ответьте из защиты, вернитесь в стойку и поменяйтесь ролями; круг держите малым и ведите пальцами.",
+      "sectionTitle": "Защиты"
+    },
+    "uk": {
+      "title": "Коловий захист",
+      "description": "1. Зі з’єднання, наприклад у шостій, партнер робить переведення й атакує в лінію з іншого боку.\n2. Опишіть вістрям невелике коло під атакувальним клинком і навколо нього, захопіть його й поверніть у вихідну лінію з’єднання.\n3. Відповідайте із захисту, поверніться в стійку й поміняйтеся ролями; коло тримайте малим і ведіть пальцями.",
+      "sectionTitle": "Захисти"
+    }
+  }
+}

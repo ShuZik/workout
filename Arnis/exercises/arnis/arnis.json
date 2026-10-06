@@ -1,0 +1,90 @@
+{
+  "id": "45.1",
+  "key": "arnis_main",
+  "title": "Arnis",
+  "description": "1. Stand in a balanced stance holding a rattan stick in the strong hand, the free hand alive in front of the chest.\n2. Strike along the standard angles of attack, combine them with blocks and gliding footwork, and let the stick flow without stopping between techniques.\n3. Return to stance after each sequence, keep the free hand ready, and change the leading side regularly.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "arnis",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Arnis",
+      "description": "1. Stand in a balanced stance holding a rattan stick in the strong hand, the free hand alive in front of the chest.\n2. Strike along the standard angles of attack, combine them with blocks and gliding footwork, and let the stick flow without stopping between techniques.\n3. Return to stance after each sequence, keep the free hand ready, and change the leading side regularly.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Arnis",
+      "description": "1. Ponte en una guardia equilibrada con un bastón de ratán en la mano fuerte y la mano libre activa frente al pecho.\n2. Golpea por los ángulos de ataque estándar, combínalos con bloqueos y desplazamientos deslizantes, y deja fluir el bastón sin pausas entre técnicas.\n3. Vuelve a la guardia tras cada secuencia, mantén la mano libre lista y cambia de lado regularmente.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Arnis",
+      "description": "1. Fique numa base equilibrada com um bastão de rattan na mão forte e a mão livre ativa à frente do peito.\n2. Golpeie pelos ângulos de ataque padrão, combine-os com bloqueios e deslocamentos deslizantes e deixe o bastão fluir sem pausas entre técnicas.\n3. Volte à base após cada sequência, mantenha a mão livre pronta e troque o lado da frente regularmente.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Arnis",
+      "description": "1. Tenez-vous en garde équilibrée, bâton en rotin dans la main forte, main libre active devant la poitrine.\n2. Frappez selon les angles d’attaque standard, combinez-les avec des blocages et des pas glissés, et laissez le bâton circuler sans pause entre les techniques.\n3. Revenez en garde après chaque séquence, gardez la main libre prête et changez régulièrement de côté avant.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Arnis",
+      "description": "1. Stelle dich ausbalanciert hin, den Rattanstock in der starken Hand, die freie Hand aktiv vor der Brust.\n2. Schlage entlang der Standard-Angriffswinkel, verbinde sie mit Blocks und Gleitschritten und lass den Stock ohne Pausen zwischen den Techniken fließen.\n3. Kehre nach jeder Folge in die Stellung zurück, halte die freie Hand bereit und wechsle regelmäßig die Auslage.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Arnis",
+      "description": "1. Mettiti in una posizione equilibrata con un bastone di rattan nella mano forte e la mano libera attiva davanti al petto.\n2. Colpisci lungo gli angoli d’attacco standard, combinali con parate e passi scivolati e lascia fluire il bastone senza pause tra le tecniche.\n3. Torna in posizione dopo ogni sequenza, tieni pronta la mano libera e cambia regolarmente il lato avanti.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "菲律宾棍术",
+      "description": "1. 以平衡站姿站立，强侧手持藤棍，空手在胸前保持活动。\n2. 沿标准攻击角度击打，结合格挡和滑步，让棍在技术之间连贯流动不停顿。\n3. 每组动作后回到站姿，空手随时准备，并定期换前侧。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "アーニス",
+      "description": "1. バランスの取れた構えで利き手にラタンの棒を持ち、空いた手は胸の前で生かしておきます。\n2. 標準の攻撃角度に沿って打ち、ブロックや滑り足と組み合わせ、技の間で止めずに棒を流れるように動かします。\n3. 各連続動作の後は構えに戻り、空いた手を備えたまま、定期的に前の足を入れ替えます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "아르니스",
+      "description": "1. 균형 잡힌 자세로 강한 손에 라탄 스틱을 들고 빈손은 가슴 앞에서 살아 있게 둡니다.\n2. 표준 공격 각도를 따라 치고 막기와 미끄러지는 발놀림을 결합하며, 기술 사이에 멈추지 않고 스틱을 흐르게 합니다.\n3. 각 연속 동작 후 자세로 돌아오고 빈손을 준비해 두며 주기적으로 앞발을 바꿉니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "อาร์นิส",
+      "description": "1. ยืนในท่าสมดุล ถือไม้หวายด้วยมือข้างถนัด มือที่ว่างพร้อมใช้งานอยู่หน้าอก\n2. ตีตามมุมโจมตีมาตรฐาน ผสมกับการปัดป้องและฟุตเวิร์กแบบสไลด์ และให้ไม้เคลื่อนไหลต่อเนื่องไม่หยุดระหว่างเทคนิค\n3. กลับสู่ท่ายืนหลังจบแต่ละชุด ให้มือที่ว่างพร้อมเสมอ และสลับข้างนำเป็นระยะ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Арнис",
+      "description": "1. Встаньте в устойчивую стойку с ротанговой палкой в сильной руке, свободная рука активна перед грудью.\n2. Наносите удары по стандартным углам атаки, сочетайте их с блоками и скользящими шагами и ведите палку без остановок между техниками.\n3. После каждой серии возвращайтесь в стойку, держите свободную руку наготове и регулярно меняйте переднюю сторону.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Арніс",
+      "description": "1. Станьте в стійку рівновагу з ротанговою палицею в сильній руці, вільна рука активна перед грудьми.\n2. Завдавайте ударів за стандартними кутами атаки, поєднуйте їх із блоками й ковзними кроками та ведіть палицю без зупинок між техніками.\n3. Після кожної серії повертайтеся в стійку, тримайте вільну руку напоготові й регулярно змінюйте передній бік.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "8.6",
+  "key": "taekwondo_rear_roundhouse_kick",
+  "title": "Rear Roundhouse Kick",
+  "description": "1. Plant the lead foot and begin pivoting it away as the rear knee rises across the target line.\n2. Rotate the rear hip through and extend the instep or ball of the foot toward the target.\n3. Bend the knee back to chamber, then return the rear foot and both hands to the starting stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Roundhouse Kick",
+      "description": "1. Plant the lead foot and begin pivoting it away as the rear knee rises across the target line.\n2. Rotate the rear hip through and extend the instep or ball of the foot toward the target.\n3. Bend the knee back to chamber, then return the rear foot and both hands to the starting stance.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Patada circular trasera",
+      "description": "1. Apoya el pie delantero y empieza a pivotarlo hacia fuera mientras la rodilla trasera sube cruzando la línea del objetivo.\n2. Gira la cadera trasera y extiende el empeine o la almohadilla del pie hacia el objetivo.\n3. Flexiona la rodilla a la posición preparada y devuelve el pie trasero y ambas manos a la postura inicial.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Chute circular da perna de trás",
+      "description": "1. Apoie o pé da frente e comece a girá-lo para fora enquanto o joelho de trás sobe atravessando a linha do alvo.\n2. Gire o quadril de trás e estenda o peito ou a região abaixo dos dedos do pé ao alvo.\n3. Flexione o joelho à posição preparada e retorne o pé de trás e ambas as mãos à base inicial.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de pied circulaire arrière",
+      "description": "1. Posez le pied avant et commencez à le pivoter vers l’extérieur pendant que le genou arrière monte en travers de la cible.\n2. Faites passer la hanche arrière et étendez le cou-de-pied ou l’avant du pied vers la cible.\n3. Repliez le genou en position armée, puis ramenez le pied arrière et les deux mains à la position initiale.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Hinterer Rundtritt",
+      "description": "1. Setze den vorderen Fuß auf und drehe ihn nach außen, während das hintere Knie quer zur Ziellinie steigt.\n2. Drehe die hintere Hüfte durch und strecke den Spann oder Fußballen zum Ziel.\n3. Beuge das Knie zurück in die angehobene Position und bringe den hinteren Fuß und beide Hände in die Ausgangsstellung.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Calcio circolare posteriore",
+      "description": "1. Appoggia il piede anteriore e inizia a ruotarlo verso l’esterno mentre il ginocchio posteriore sale attraverso la linea del bersaglio.\n2. Ruota l’anca posteriore ed estendi il collo o l’avampiede verso il bersaglio.\n3. Piega il ginocchio alla posizione caricata e riporta il piede posteriore ed entrambe le mani alla posizione iniziale.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "后腿横踢",
+      "description": "1. 前脚着地并开始向外转动，同时后膝横向抬过目标线。\n2. 后髋转过，脚背或前脚掌伸向目标。\n3. 屈膝收回预备位置，再将后脚和双手恢复到起始站姿。",
+      "sectionTitle": "踢击"
+    },
+    "ja": {
+      "title": "後脚の回し蹴り",
+      "description": "1. 前足を接地して外へ回し始め、後膝を標的のラインを横切る向きに上げます。\n2. 後ろ側の腰を回し込み、足の甲または母指球側を標的へ伸ばします。\n3. 膝を曲げて引き上げた位置へ戻し、後足と両手を元の構えへ戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "뒷발 돌려차기",
+      "description": "1. 앞발을 딛고 바깥으로 돌리기 시작하며 뒷무릎을 목표선을 가로질러 들어 올립니다.\n2. 뒤쪽 골반을 돌려 발등이나 앞축을 목표로 뻗습니다.\n3. 무릎을 굽혀 준비 위치로 회수한 뒤 뒷발과 두 손을 시작 자세로 되돌립니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เตะราวด์เฮาส์ขาหลัง",
+      "description": "1. วางเท้าหน้าและเริ่มหมุนออก ขณะที่เข่าหลังยกขึ้นขวางแนวเป้าหมาย\n2. หมุนสะโพกหลังผ่านและเหยียดหลังเท้าหรือจมูกเท้าเข้าหาเป้า\n3. งอเข่ากลับตำแหน่งเตรียม แล้วนำเท้าหลังและมือทั้งสองคืนสู่ท่ายืนเริ่มต้น",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Задний круговой удар ногой",
+      "description": "1. Поставьте переднюю стопу и начните поворачивать её наружу, поднимая заднее колено поперёк линии цели.\n2. Поверните заднюю сторону таза и вытяните подъём или подушечку стопы к цели.\n3. Согните колено в подготовительное положение, затем верните заднюю стопу и обе руки в исходную стойку.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Задній круговий удар ногою",
+      "description": "1. Поставте передню стопу й почніть повертати її назовні, піднімаючи заднє коліно поперек лінії цілі.\n2. Поверніть задній бік таза й витягніть підйом або подушечку стопи до цілі.\n3. Зігніть коліно в підготовче положення, потім поверніть задню стопу й обидві руки в початкову стійку.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

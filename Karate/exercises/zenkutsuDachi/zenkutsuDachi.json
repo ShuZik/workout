@@ -1,0 +1,90 @@
+{
+  "id": "40.3",
+  "key": "karate_zenkutsu_dachi",
+  "title": "Zenkutsu Dachi",
+  "description": "1. Step one foot forward on its own track and place the rear foot back with both feet firmly grounded.\n2. Bend the front knee over the foot, keep the rear leg extended without locking it, and direct the front toes ahead.\n3. Square or angle the hips as required while keeping the torso vertical and the knees aligned with the toes.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Zenkutsu Dachi",
+      "description": "1. Step one foot forward on its own track and place the rear foot back with both feet firmly grounded.\n2. Bend the front knee over the foot, keep the rear leg extended without locking it, and direct the front toes ahead.\n3. Square or angle the hips as required while keeping the torso vertical and the knees aligned with the toes.",
+      "sectionTitle": "Stances"
+    },
+    "es": {
+      "title": "Zenkutsu Dachi",
+      "description": "1. Adelanta un pie sobre su propio carril y coloca el otro atrás, con ambos firmemente apoyados.\n2. Flexiona la rodilla delantera sobre el pie, mantén la pierna trasera extendida sin bloquearla y apunta los dedos delanteros al frente.\n3. Orienta las caderas de frente o en ángulo según corresponda, manteniendo el torso vertical y las rodillas alineadas con los dedos.",
+      "sectionTitle": "Posturas"
+    },
+    "pt": {
+      "title": "Zenkutsu Dachi",
+      "description": "1. Avance um pé na sua própria linha e coloque o outro atrás, com ambos firmes no chão.\n2. Dobre o joelho da frente sobre o pé, mantenha a perna traseira estendida sem travá-la e direcione as pontas da frente adiante.\n3. Alinhe os quadris de frente ou em ângulo conforme necessário, com tronco vertical e joelhos alinhados às pontas dos pés.",
+      "sectionTitle": "Bases"
+    },
+    "fr": {
+      "title": "Zenkutsu Dachi",
+      "description": "1. Avancez un pied sur sa propre ligne et placez l’autre derrière, les deux fermement au sol.\n2. Fléchissez le genou avant au-dessus du pied, gardez la jambe arrière tendue sans verrouiller et les orteils avant dirigés devant.\n3. Orientez les hanches de face ou en angle selon le besoin, torse vertical et genoux alignés sur les orteils.",
+      "sectionTitle": "Positions"
+    },
+    "de": {
+      "title": "Zenkutsu Dachi",
+      "description": "1. Setze einen Fuß auf seiner eigenen Spur nach vorn und den anderen nach hinten, beide fest am Boden.\n2. Beuge das vordere Knie über dem Fuß, halte das hintere Bein gestreckt ohne es durchzudrücken und richte die vorderen Zehen nach vorn.\n3. Richte die Hüften je nach Technik gerade oder schräg aus, der Rumpf bleibt senkrecht und die Knie zeigen zu den Zehen.",
+      "sectionTitle": "Stände"
+    },
+    "it": {
+      "title": "Zenkutsu Dachi",
+      "description": "1. Avanza un piede sulla propria linea e posiziona l’altro dietro, entrambi saldamente a terra.\n2. Piega il ginocchio anteriore sopra il piede, mantieni la gamba posteriore distesa senza bloccarla e punta le dita anteriori avanti.\n3. Orienta le anche frontalmente o in angolo secondo necessità, mantenendo il busto verticale e le ginocchia allineate alle punte.",
+      "sectionTitle": "Posizioni"
+    },
+    "zh-Hans": {
+      "title": "前屈立",
+      "description": "1. 一只脚沿自身轨道向前迈，另一只脚在后，双脚稳稳踩地。\n2. 前膝弯曲并位于脚上方，后腿伸直但不锁死，前脚脚尖朝前。\n3. 按要求将髋部摆正或转成一定角度，躯干保持垂直，膝盖与脚尖对齐。",
+      "sectionTitle": "站姿"
+    },
+    "ja": {
+      "title": "前屈立ち",
+      "description": "1. 一方の足をその足のライン上で前に出し、後ろ足を後方に置いて両足をしっかり接地します。\n2. 前膝を足の上で曲げ、後ろ脚を伸ばし切らずに伸ばし、前のつま先を前へ向けます。\n3. 必要に応じて腰を正面または斜めに向け、胴を垂直に保ち、膝とつま先をそろえます。",
+      "sectionTitle": "立ち方"
+    },
+    "ko": {
+      "title": "젠쿠츠 다치",
+      "description": "1. 한 발을 자신의 이동선으로 앞으로 내딛고 뒷발을 뒤에 놓아 두 발을 단단히 접지합니다.\n2. 앞무릎을 발 위로 굽히고 뒷다리는 완전히 잠그지 않으면서 펴며 앞발 끝을 앞으로 향합니다.\n3. 필요에 따라 골반을 정면이나 비스듬히 두되 몸통을 수직으로 유지하고 무릎을 발끝과 정렬합니다.",
+      "sectionTitle": "서기"
+    },
+    "th": {
+      "title": "เซ็นกุตสึดาจิ",
+      "description": "1. ก้าวเท้าหนึ่งไปข้างหน้าตามแนวของตนและวางเท้าหลังไว้ด้านหลัง โดยทั้งสองเท้าวางพื้นมั่นคง\n2. งอเข่าหน้าเหนือเท้า เหยียดขาหลังโดยไม่ล็อกเข่า และชี้ปลายเท้าหน้าไปด้านหน้า\n3. จัดสะโพกตรงหรือทำมุมตามต้องการ โดยให้ลำตัวตั้งตรงและเข่าอยู่แนวเดียวกับปลายเท้า",
+      "sectionTitle": "ท่ายืน"
+    },
+    "ru": {
+      "title": "Дзэнкуцу-дати",
+      "description": "1. Шагните одной стопой вперёд по её собственной линии, другую поставьте сзади, обе плотно прижмите к полу.\n2. Согните переднее колено над стопой, заднюю ногу выпрямите без фиксации сустава до упора, передние носки направьте вперёд.\n3. Расположите таз прямо или под требуемым углом, сохраняя корпус вертикально и колени на линии носков.",
+      "sectionTitle": "Стойки"
+    },
+    "uk": {
+      "title": "Дзенкуцу-дачі",
+      "description": "1. Крокніть однією стопою вперед по її власній лінії, іншу поставте ззаду, обидві щільно притисніть до підлоги.\n2. Зігніть переднє коліно над стопою, задню ногу випряміть без фіксації суглоба до упору, передні носки спрямуйте вперед.\n3. Розташуйте таз прямо або під потрібним кутом, зберігаючи тулуб вертикально та коліна на лінії носків.",
+      "sectionTitle": "Стійки"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "Schwingen",
+    "id": "90",
+    "icon": "Schwingen/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Schwingen",
+    "workoutType": "schwingen",
+    "translations": {
+      "en": {
+        "title": "Schwingen"
+      },
+      "es": {
+        "title": "Lucha suiza"
+      },
+      "pt": {
+        "title": "Luta suíça"
+      },
+      "fr": {
+        "title": "Lutte suisse"
+      },
+      "de": {
+        "title": "Schwingen"
+      },
+      "it": {
+        "title": "Lotta svizzera"
+      },
+      "zh-Hans": {
+        "title": "瑞士式摔跤"
+      },
+      "ja": {
+        "title": "シュヴィンゲン"
+      },
+      "ko": {
+        "title": "슈빙겐"
+      },
+      "th": {
+        "title": "มวยปล้ำสวิส"
+      },
+      "ru": {
+        "title": "Швинген"
+      },
+      "uk": {
+        "title": "Швінген"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Schwingen/exercises/schwingen/Icon.png",
+      "json": "Schwingen/exercises/schwingen/schwingen.json"
+    },
+    {
+      "icon": "Schwingen/exercises/kurz/Icon.png",
+      "json": "Schwingen/exercises/kurz/kurz.json"
+    },
+    {
+      "icon": "Schwingen/exercises/ubersprung/Icon.png",
+      "json": "Schwingen/exercises/ubersprung/ubersprung.json"
+    },
+    {
+      "icon": "Schwingen/exercises/hufter/Icon.png",
+      "json": "Schwingen/exercises/hufter/hufter.json"
+    },
+    {
+      "icon": "Schwingen/exercises/brienzer/Icon.png",
+      "json": "Schwingen/exercises/brienzer/brienzer.json"
+    },
+    {
+      "icon": "Schwingen/exercises/fussstich/Icon.png",
+      "json": "Schwingen/exercises/fussstich/fussstich.json"
+    },
+    {
+      "icon": "Schwingen/exercises/buur/Icon.png",
+      "json": "Schwingen/exercises/buur/buur.json"
+    },
+    {
+      "icon": "Schwingen/exercises/wyberhaken/Icon.png",
+      "json": "Schwingen/exercises/wyberhaken/wyberhaken.json"
+    }
+  ]
+}

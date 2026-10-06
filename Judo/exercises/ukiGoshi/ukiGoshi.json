@@ -1,0 +1,90 @@
+{
+  "id": "41.14",
+  "key": "judo_uki_goshi",
+  "title": "Uki Goshi",
+  "description": "1. Draw the partner forward with the sleeve and wrap the other arm around the waist while stepping close.\n2. Place only the near side of the hip across the partner's front and continue the upper-body turn without lifting deeply.\n3. Rotate the partner around the shallow hip contact and guide the sleeve through the breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Koshi-waza",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Uki Goshi",
+      "description": "1. Draw the partner forward with the sleeve and wrap the other arm around the waist while stepping close.\n2. Place only the near side of the hip across the partner's front and continue the upper-body turn without lifting deeply.\n3. Rotate the partner around the shallow hip contact and guide the sleeve through the breakfall.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "es": {
+      "title": "Uki Goshi",
+      "description": "1. Atrae al compañero hacia delante con la manga y rodea su cintura con el otro brazo mientras das un paso para acercarte.\n2. Coloca solo el lado cercano de la cadera delante del compañero y continúa girando el tronco sin levantarlo profundamente.\n3. Gira al compañero alrededor del contacto superficial de la cadera y guía la manga durante la caída.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "pt": {
+      "title": "Uki Goshi",
+      "description": "1. Puxe o parceiro para a frente pela manga e envolva a cintura com o outro braço enquanto se aproxima com um passo.\n2. Coloque apenas o lado próximo do quadril à frente do parceiro e continue a rotação do tronco sem levantar profundamente.\n3. Gire o parceiro ao redor do contato superficial do quadril e guie a manga durante a queda.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "fr": {
+      "title": "Uki Goshi",
+      "description": "1. Attirez le partenaire vers l’avant par la manche et entourez sa taille de l’autre bras en vous rapprochant d’un pas.\n2. Placez seulement le côté proche de la hanche devant le partenaire et poursuivez la rotation du haut du corps sans le soulever profondément.\n3. Faites tourner le partenaire autour du contact peu engagé de la hanche et guidez la manche pendant la chute.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "de": {
+      "title": "Uki Goshi",
+      "description": "1. Ziehe den Partner am Ärmel nach vorn und lege den anderen Arm um seine Taille, während du nah herantrittst.\n2. Bringe nur die nahe Hüftseite vor den Partner und drehe den Oberkörper weiter, ohne ihn tief anzuheben.\n3. Drehe den Partner um den flachen Hüftkontakt und führe den Ärmel durch die Falltechnik.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "it": {
+      "title": "Uki Goshi",
+      "description": "1. Attira il compagno in avanti tramite la manica e avvolgi la sua vita con l’altro braccio mentre ti avvicini con un passo.\n2. Posiziona solo il lato vicino dell’anca davanti al compagno e continua la rotazione del busto senza sollevarlo profondamente.\n3. Ruota il compagno attorno al contatto poco profondo dell’anca e guida la manica durante la caduta.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "zh-Hans": {
+      "title": "浮腰",
+      "description": "1. 通过袖口将搭档拉向前方，迈步贴近时用另一手臂环抱其腰部。\n2. 仅将近侧髋部横置于搭档身前，继续转动上身，不要深度抬起搭档。\n3. 让搭档绕浅髋接触点旋转，并通过袖口引导受身。",
+      "sectionTitle": "腰技"
+    },
+    "ja": {
+      "title": "浮腰",
+      "description": "1. 袖で相手を前へ引き、近くへ踏み込みながらもう一方の腕を腰に回します。\n2. 近い側の腰だけを相手の前に入れ、深く持ち上げずに上体の回転を続けます。\n3. 浅い腰の接触を軸に相手を回し、袖を導いて受身につなげます。",
+      "sectionTitle": "腰技"
+    },
+    "ko": {
+      "title": "우키 고시",
+      "description": "1. 소매로 파트너를 앞으로 당기고 가까이 걸어 들어가며 다른 팔로 허리를 감쌉니다.\n2. 가까운 쪽 골반만 파트너 앞에 놓고 깊이 들어 올리지 않으며 상체 회전을 계속합니다.\n3. 얕은 골반 접촉을 중심으로 파트너를 회전시키고 소매로 낙법을 유도합니다.",
+      "sectionTitle": "허리기술"
+    },
+    "th": {
+      "title": "อุคิโกชิ",
+      "description": "1. ดึงคู่ฝึกไปข้างหน้าด้วยแขนเสื้อและใช้แขนอีกข้างโอบเอวขณะที่ก้าวเข้าชิด\n2. วางเฉพาะสะโพกด้านใกล้ขวางหน้าคู่ฝึก และหมุนลำตัวส่วนบนต่อโดยไม่ยกขึ้นลึก\n3. หมุนคู่ฝึกรอบจุดสัมผัสสะโพกแบบตื้น และจับแขนเสื้อช่วยนำการล้ม",
+      "sectionTitle": "โคชิวาซะ"
+    },
+    "ru": {
+      "title": "Уки-госи",
+      "description": "1. Потяните партнёра вперёд за рукав и обхватите его пояс другой рукой, подшагивая ближе.\n2. Поставьте только ближнюю сторону бедра поперёк передней части тела партнёра и продолжайте поворот корпуса без глубокого подъёма.\n3. Поверните партнёра вокруг неглубокого контакта бедром и направляйте рукав во время страховки.",
+      "sectionTitle": "Коси-вадза"
+    },
+    "uk": {
+      "title": "Укі-госі",
+      "description": "1. Потягніть партнера вперед за рукав і обхопіть його пояс іншою рукою, підкроковуючи ближче.\n2. Поставте лише ближній бік стегна поперек передньої частини тіла партнера й продовжуйте поворот тулуба без глибокого підйому.\n3. Поверніть партнера навколо неглибокого контакту стегном і спрямовуйте рукав під час страхування.",
+      "sectionTitle": "Косі-вадза"
+    }
+  }
+}

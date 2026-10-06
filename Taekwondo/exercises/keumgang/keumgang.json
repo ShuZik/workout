@@ -1,0 +1,90 @@
+{
+  "id": "8.49",
+  "key": "taekwondo_keumgang",
+  "title": "Keumgang",
+  "description": "1. Start in basic ready stance and perform Keumgang on its mountain-shaped line of movement.\n2. Include the diamond blocks, the crane-stance diamond block held on one leg, the large hinge turns and the mountain-shaped blocks in horse-riding stance.\n3. Move with heavy, deliberate power, finish with the closing blocks, and return to basic ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Keumgang",
+      "description": "1. Start in basic ready stance and perform Keumgang on its mountain-shaped line of movement.\n2. Include the diamond blocks, the crane-stance diamond block held on one leg, the large hinge turns and the mountain-shaped blocks in horse-riding stance.\n3. Move with heavy, deliberate power, finish with the closing blocks, and return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Keumgang",
+      "description": "1. Empieza en posición de preparación básica y realiza Keumgang sobre su línea en forma de montaña.\n2. Incluye los bloqueos diamante, el bloqueo diamante en posición de grulla sobre una pierna, los grandes giros de bisagra y los bloqueos en forma de montaña en posición de jinete.\n3. Muévete con potencia pesada y deliberada, termina con los bloqueos finales y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Keumgang",
+      "description": "1. Comece na posição de preparação básica e execute Keumgang sobre a sua linha em forma de montanha.\n2. Inclua os bloqueios diamante, o bloqueio diamante em base de garça sobre uma perna, os grandes giros de dobradiça e os bloqueios em forma de montanha em base de cavaleiro.\n3. Mova-se com potência pesada e deliberada, termine com os bloqueios finais e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Keumgang",
+      "description": "1. Partez en position de préparation de base et exécutez Keumgang sur son tracé en forme de montagne.\n2. Intégrez les blocages diamant, le blocage diamant en position de la grue sur une jambe, les grandes rotations en charnière et les blocages en forme de montagne en position du cavalier.\n3. Bougez avec une puissance lourde et délibérée, terminez par les derniers blocages et revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Keumgang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe Keumgang auf ihrer bergförmigen Bewegungslinie.\n2. Baue Diamantblocks, den Diamantblock im Kranichstand auf einem Bein, die großen Scharnierdrehungen und die Bergblocks im Reiterstand ein.\n3. Bewege dich mit schwerer, bewusster Kraft, schließe mit den letzten Blocks ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Keumgang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui Keumgang sulla sua linea a forma di montagna.\n2. Inserisci le parate diamante, la parata diamante in posizione della gru su una gamba, le grandi rotazioni a cerniera e le parate a forma di montagna in posizione del cavaliere.\n3. Muoviti con potenza pesante e deliberata, concludi con le ultime parate e torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "金刚品势（Keumgang）",
+      "description": "1. 以基本预备式开始，沿“山”字形路线完成金刚品势。\n2. 包括金刚格挡、单腿鹤立步金刚格挡、大转身合页动作以及骑马步山形格挡。\n3. 以沉稳有力的动作完成，最后格挡后回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "クムガン（金剛）",
+      "description": "1. 基本準備立ちから始め、「山」字形の演武線で金剛を行います。\n2. 金剛受け、片足で立つ鶴立ちの金剛受け、大きな蝶番回り、騎馬立ちの山形受けを含めます。\n3. 重く確かな力で動き、最後の受けで締めくくって基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "금강",
+      "description": "1. 기본 준비서기에서 시작해 뫼 산(山)자 선을 따라 금강을 수행합니다.\n2. 금강막기, 한 다리로 서는 학다리서기 금강막기, 큰돌쩌귀, 주춤서기 산틀막기를 포함합니다.\n3. 무겁고 신중한 힘으로 움직이며 마지막 막기로 마무리하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "คึมกัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำคึมกังบนเส้นการเคลื่อนไหวรูปภูเขา\n2. รวมการปัดเพชร การปัดเพชรในท่ายืนนกกระเรียนบนขาเดียว การหมุนแบบบานพับใหญ่ และการปัดรูปภูเขาในท่ายืนม้า\n3. เคลื่อนไหวด้วยพลังที่หนักแน่นและตั้งใจ จบด้วยการปัดชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Кымган",
+      "description": "1. Начните из базовой готовой стойки и выполните Кымган по линии в форме горы.\n2. Включите алмазные блоки, алмазный блок в стойке журавля на одной ноге, большие развороты «петля» и блоки «гора» в стойке всадника.\n3. Двигайтесь с тяжёлой, осознанной силой, завершите последними блоками и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Кимган",
+      "description": "1. Почніть із базової готової стійки й виконайте Кимган лінією у формі гори.\n2. Додайте алмазні блоки, алмазний блок у стійці журавля на одній нозі, великі розвороти «петля» та блоки «гора» в стійці вершника.\n3. Рухайтеся з важкою, усвідомленою силою, завершіть останніми блоками й поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "12.35",
+  "key": "agility_backpedal",
+  "title": "Backpedal",
+  "description": "1. Face forward in an athletic stance with hips low and weight on the balls of the feet.\n2. Move backward with short alternating steps while the torso stays over the hips.\n3. Look over the route, decelerate with several small steps, and stop without leaning behind the heels.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Agility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Backpedal",
+      "description": "1. Face forward in an athletic stance with hips low and weight on the balls of the feet.\n2. Move backward with short alternating steps while the torso stays over the hips.\n3. Look over the route, decelerate with several small steps, and stop without leaning behind the heels.",
+      "sectionTitle": "Agility"
+    },
+    "es": {
+      "title": "Carrera hacia atrás",
+      "description": "1. Mira al frente en postura atlética con las caderas bajas y el peso sobre la parte delantera de los pies.\n2. Desplázate hacia atrás con pasos cortos y alternos mientras el torso se mantiene sobre las caderas.\n3. Vigila el recorrido, desacelera con varios pasos pequeños y detente sin inclinarte por detrás de los talones.",
+      "sectionTitle": "Agilidad"
+    },
+    "pt": {
+      "title": "Corrida para trás",
+      "description": "1. Olhe para a frente em postura atlética, com os quadris baixos e o peso na parte da frente dos pés.\n2. Desloque-se para trás com passos curtos e alternados enquanto o tronco permanece sobre os quadris.\n3. Observe o percurso, desacelere com vários passos pequenos e pare sem inclinar o corpo para trás dos calcanhares.",
+      "sectionTitle": "Agilidade"
+    },
+    "fr": {
+      "title": "Course arrière",
+      "description": "1. Regardez devant vous en position athlétique, hanches basses et poids sur l'avant des pieds.\n2. Reculez à petits pas alternés en gardant le buste au-dessus des hanches.\n3. Surveillez le parcours, ralentissez en plusieurs petits pas et arrêtez-vous sans basculer en arrière des talons.",
+      "sectionTitle": "Agilité"
+    },
+    "de": {
+      "title": "Rückwärtslauf",
+      "description": "1. Blicke in athletischer Grundstellung nach vorn, die Hüften tief und das Gewicht auf den Fußballen.\n2. Bewege dich mit kurzen, abwechselnden Schritten rückwärts, während der Oberkörper über den Hüften bleibt.\n3. Behalte die Strecke im Blick, bremse mit mehreren kleinen Schritten ab und stoppe, ohne dich hinter die Fersen zu lehnen.",
+      "sectionTitle": "Agilität"
+    },
+    "it": {
+      "title": "Corsa all'indietro",
+      "description": "1. Guarda avanti in posizione atletica con le anche basse e il peso sugli avampiedi.\n2. Muoviti all'indietro con passi brevi e alternati mantenendo il busto sopra le anche.\n3. Controlla il percorso, decelera con diversi piccoli passi e fermati senza sbilanciarti dietro i talloni.",
+      "sectionTitle": "Agilità"
+    },
+    "zh-Hans": {
+      "title": "后退跑",
+      "description": "1. 面朝前方呈运动准备姿势，髋部降低，重心放在前脚掌上。\n2. 用短促的交替步向后移动，躯干保持在髋部上方。\n3. 留意后方路线，用几步小碎步减速，停下时身体不要后仰到脚跟之后。",
+      "sectionTitle": "敏捷"
+    },
+    "ja": {
+      "title": "バックペダル",
+      "description": "1. 前を向いてアスレチックスタンスをとり、腰を低くして母指球に体重を乗せます。\n2. 上体を腰の上に保ったまま、小刻みに左右交互のステップで後方へ移動します。\n3. 進路を確認し、小さなステップを数回使って減速し、かかとより後ろに体重をかけずに止まります。",
+      "sectionTitle": "アジリティ"
+    },
+    "ko": {
+      "title": "백페달",
+      "description": "1. 앞을 바라보고 엉덩이를 낮춘 애슬레틱 스탠스에서 발 앞꿈치에 체중을 싣습니다.\n2. 상체를 골반 위에 유지하면서 짧게 번갈아 걸음을 옮겨 뒤로 이동합니다.\n3. 이동 경로를 확인하고 작은 걸음 여러 번으로 감속한 뒤, 발뒤꿈치 뒤로 몸을 기울이지 않고 멈춥니다.",
+      "sectionTitle": "민첩성"
+    },
+    "th": {
+      "title": "วิ่งถอยหลัง",
+      "description": "1. หันหน้าไปด้านหน้าในท่าพร้อมเคลื่อนไหว ลดสะโพกต่ำ และลงน้ำหนักที่ปลายเท้า\n2. เคลื่อนที่ถอยหลังด้วยก้าวสั้น ๆ สลับกัน โดยให้ลำตัวอยู่เหนือสะโพก\n3. มองเส้นทางให้ดี ชะลอความเร็วด้วยก้าวเล็ก ๆ หลายก้าว แล้วหยุดโดยไม่เอนตัวไปหลังส้นเท้า",
+      "sectionTitle": "ความคล่องตัว"
+    },
+    "ru": {
+      "title": "Бег спиной вперёд",
+      "description": "1. Смотрите вперёд в атлетической стойке: таз опущен, вес на передней части стоп.\n2. Двигайтесь назад короткими чередующимися шагами, сохраняя корпус над тазом.\n3. Контролируйте маршрут, замедлитесь несколькими мелкими шагами и остановитесь, не отклоняясь назад за пятки.",
+      "sectionTitle": "Ловкость"
+    },
+    "uk": {
+      "title": "Біг спиною вперед",
+      "description": "1. Дивіться вперед в атлетичній стійці: таз опущений, вага на передній частині стоп.\n2. Рухайтеся назад короткими почерговими кроками, зберігаючи корпус над тазом.\n3. Контролюйте маршрут, сповільніться кількома дрібними кроками й зупиніться, не відхиляючись назад за п'яти.",
+      "sectionTitle": "Спритність"
+    }
+  }
+}

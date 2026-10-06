@@ -1,0 +1,90 @@
+{
+  "id": "19.1",
+  "key": "meditation",
+  "title": "Meditation",
+  "description": "1. Sit or lie in a stable comfortable position, relax the hands, and let the eyes close or soften.\n2. Choose one anchor such as the breath, body sensation, sound, or repeated phrase and observe it directly.\n3. Notice when attention wanders, acknowledge the distraction, and return to the same anchor.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "meditation",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1,
+    "vigorous": 1,
+    "lightCode": "07075",
+    "moderateCode": "07075",
+    "vigorousCode": "07075"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Meditation",
+      "description": "1. Sit or lie in a stable comfortable position, relax the hands, and let the eyes close or soften.\n2. Choose one anchor such as the breath, body sensation, sound, or repeated phrase and observe it directly.\n3. Notice when attention wanders, acknowledge the distraction, and return to the same anchor.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Meditación",
+      "description": "1. Siéntate o túmbate en una posición estable y cómoda, relaja las manos y cierra los ojos o suaviza la mirada.\n2. Elige un punto de referencia, como la respiración, una sensación corporal, un sonido o una frase repetida, y obsérvalo directamente.\n3. Nota cuándo la atención se desvía, reconoce la distracción y vuelve al mismo punto de referencia.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Meditação",
+      "description": "1. Sente-se ou deite-se em uma posição estável e confortável, relaxe as mãos e feche os olhos ou suavize o olhar.\n2. Escolha um ponto de apoio, como a respiração, uma sensação corporal, um som ou uma frase repetida, e observe-o diretamente.\n3. Perceba quando a atenção se desvia, reconheça a distração e volte ao mesmo ponto de apoio.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Méditation",
+      "description": "1. Asseyez-vous ou allongez-vous dans une position stable et confortable, détendez les mains et fermez les yeux ou adoucissez le regard.\n2. Choisissez un point d’ancrage, comme le souffle, une sensation corporelle, un son ou une phrase répétée, et observez-le directement.\n3. Remarquez quand l’attention s’égare, reconnaissez la distraction et revenez au même point d’ancrage.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Meditation",
+      "description": "1. Sitze oder liege stabil und bequem, entspanne die Hände und schließe die Augen oder lasse den Blick weich werden.\n2. Wähle einen Anker wie den Atem, eine Körperempfindung, einen Klang oder einen wiederholten Satz und beobachte ihn unmittelbar.\n3. Nimm wahr, wenn die Aufmerksamkeit abschweift, erkenne die Ablenkung an und kehre zum selben Anker zurück.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Meditazione",
+      "description": "1. Siediti o sdraiati in una posizione stabile e comoda, rilassa le mani e chiudi gli occhi o ammorbidisci lo sguardo.\n2. Scegli un punto di riferimento, come il respiro, una sensazione corporea, un suono o una frase ripetuta, e osservalo direttamente.\n3. Nota quando l’attenzione vaga, riconosci la distrazione e torna allo stesso punto di riferimento.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "冥想",
+      "description": "1. 以稳定、舒适的姿势坐下或躺下，放松双手，闭上眼睛或放松目光。\n2. 选择一个专注点，例如呼吸、身体感觉、声音或重复的句子，并直接观察它。\n3. 觉察注意力何时游离，承认这次分心，再回到同一个专注点。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "瞑想",
+      "description": "1. 安定した楽な姿勢で座るか横になり、手を緩め、目を閉じるか視線を柔らかくします。\n2. 呼吸、体の感覚、音、繰り返す言葉など一つの対象を選び、直接観察します。\n3. 注意がそれたら気づいて認め、同じ対象へ戻ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "명상",
+      "description": "1. 안정되고 편안한 자세로 앉거나 누워 손의 긴장을 풀고 눈을 감거나 시선을 부드럽게 둡니다.\n2. 호흡, 신체 감각, 소리 또는 반복하는 문구 같은 기준점 하나를 선택해 직접 관찰합니다.\n3. 주의가 흩어질 때 알아차리고 그 방해를 인정한 뒤 같은 기준점으로 돌아갑니다.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "การทำสมาธิ",
+      "description": "1. นั่งหรือนอนในท่าที่มั่นคงและสบาย ผ่อนคลายมือ แล้วหลับตาหรือผ่อนสายตา\n2. เลือกจุดยึดหนึ่งอย่าง เช่น ลมหายใจ ความรู้สึกทางกาย เสียง หรือวลีที่กล่าวซ้ำ แล้วสังเกตโดยตรง\n3. รับรู้เมื่อความสนใจหลุดไป ยอมรับความวอกแวก แล้วกลับมาที่จุดยึดเดิม",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Медитация",
+      "description": "1. Сядьте или лягте в устойчивом удобном положении, расслабьте кисти и закройте глаза или смягчите взгляд.\n2. Выберите одну опору, например дыхание, телесное ощущение, звук или повторяемую фразу, и наблюдайте её непосредственно.\n3. Замечайте, когда внимание уходит, признавайте отвлечение и возвращайтесь к той же опоре.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Медитація",
+      "description": "1. Сядьте або ляжте в стійкому зручному положенні, розслабте кисті й закрийте очі або пом’якшіть погляд.\n2. Оберіть одну опору, наприклад дихання, тілесне відчуття, звук або повторювану фразу, і спостерігайте її безпосередньо.\n3. Помічайте, коли увага відхиляється, визнавайте відволікання й повертайтеся до тієї самої опори.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

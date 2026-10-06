@@ -1,0 +1,90 @@
+{
+  "id": "41.6",
+  "key": "judo_shintai_movement",
+  "title": "Shintai Movement",
+  "description": "1. Stand in natural posture with knees soft, feet beneath the hips, and a light partner grip.\n2. Advance and retreat with walking or sliding steps, moving the body as one unit without crossing or dragging the feet.\n3. Restore a stable base after each direction change while keeping the head upright and the grip relaxed.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Shintai Movement",
+      "description": "1. Stand in natural posture with knees soft, feet beneath the hips, and a light partner grip.\n2. Advance and retreat with walking or sliding steps, moving the body as one unit without crossing or dragging the feet.\n3. Restore a stable base after each direction change while keeping the head upright and the grip relaxed.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Desplazamiento Shintai",
+      "description": "1. Ponte en postura natural con las rodillas relajadas, los pies bajo las caderas y un agarre ligero del compañero.\n2. Avanza y retrocede con pasos normales o deslizantes, moviendo el cuerpo como una unidad sin cruzar ni arrastrar los pies.\n3. Recupera una base estable tras cada cambio de dirección, manteniendo la cabeza erguida y el agarre relajado.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Movimento Shintai",
+      "description": "1. Fique em postura natural com joelhos relaxados, pés sob os quadris e uma pegada leve no parceiro.\n2. Avance e recue com passos de caminhada ou deslizantes, movendo o corpo como uma unidade sem cruzar nem arrastar os pés.\n3. Recupere uma base estável após cada mudança de direção, mantendo a cabeça erguida e a pegada relaxada.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Déplacement Shintai",
+      "description": "1. Tenez-vous en posture naturelle, genoux souples, pieds sous les hanches et prise légère sur le partenaire.\n2. Avancez et reculez par pas marchés ou glissés, en déplaçant le corps d’un bloc sans croiser ni traîner les pieds.\n3. Retrouvez une base stable après chaque changement de direction, tête droite et prise détendue.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Shintai-Bewegung",
+      "description": "1. Stehe natürlich mit lockeren Knien, Füßen unter der Hüfte und einem leichten Partnergriff.\n2. Gehe mit Geh- oder Gleitschritten vor und zurück; bewege den Körper als Einheit, ohne die Füße zu kreuzen oder zu schleifen.\n3. Stelle nach jedem Richtungswechsel eine stabile Basis her, mit aufrechtem Kopf und entspanntem Griff.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Movimento Shintai",
+      "description": "1. Stai in postura naturale con ginocchia morbide, piedi sotto le anche e una presa leggera sul compagno.\n2. Avanza e arretra con passi normali o scivolati, muovendo il corpo come un’unità senza incrociare né trascinare i piedi.\n3. Ripristina una base stabile dopo ogni cambio di direzione, mantenendo la testa eretta e la presa rilassata.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "进退移动",
+      "description": "1. 自然站立，膝盖放松，双脚位于髋部下方，轻握搭档。\n2. 用行走步或滑步前进后退，身体整体移动，不交叉或拖动双脚。\n3. 每次换向后恢复稳定支撑，头部直立，抓握放松。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "進退動作",
+      "description": "1. 膝を柔らかく保ち、足を腰の下に置いた自然体で、相手を軽く握ります。\n2. 歩み足または滑る足運びで前後に進み、足を交差させたり引きずったりせず体を一体として動かします。\n3. 方向を変えるたびに安定した足場を戻し、頭を上げて組み手を緩めます。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "신타이 이동",
+      "description": "1. 무릎을 부드럽게 하고 발을 골반 아래 둔 자연스러운 자세에서 파트너를 가볍게 잡습니다.\n2. 걷거나 미끄러지는 걸음으로 앞뒤로 움직이며 발을 교차하거나 끌지 않고 몸을 하나로 이동합니다.\n3. 방향을 바꿀 때마다 안정적인 지지 자세를 회복하고 머리를 세우며 잡기를 편안하게 유지합니다.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "การเคลื่อนที่ชินไท",
+      "description": "1. ยืนในท่าธรรมชาติ ผ่อนเข่า วางเท้าใต้สะโพก และจับคู่ฝึกเบา ๆ\n2. เดินหรือก้าวเลื่อนไปข้างหน้าและถอยหลัง เคลื่อนลำตัวเป็นหน่วยเดียวโดยไม่ไขว้หรือลากเท้า\n3. คืนฐานที่มั่นคงทุกครั้งที่เปลี่ยนทิศ รักษาศีรษะตั้งตรงและผ่อนการจับ",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Передвижение синтай",
+      "description": "1. Встаньте в естественную стойку с мягкими коленями, стопами под бёдрами и лёгким захватом партнёра.\n2. Продвигайтесь вперёд и назад обычными или скользящими шагами, перемещая тело как единое целое без скрещивания или волочения стоп.\n3. Восстанавливайте устойчивую опору после каждой смены направления, держа голову прямо и захват расслабленным.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Пересування сінтай",
+      "description": "1. Станьте в природну стійку з м’якими колінами, стопами під стегнами й легким захватом партнера.\n2. Рухайтеся вперед і назад звичайними або ковзними кроками, переміщуючи тіло як єдине ціле без схрещування чи волочіння стоп.\n3. Відновлюйте стійку опору після кожної зміни напрямку, тримаючи голову прямо й захват розслабленим.",
+      "sectionTitle": "Пересування"
+    }
+  }
+}

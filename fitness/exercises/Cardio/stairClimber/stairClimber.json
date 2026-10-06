@@ -21,5 +21,67 @@
   "section": "3 Indoor",
   "availableFrom": "1.1.2",
   "availableUntil": null,
-  "state": "active"
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Stair Climber",
+      "description": "1. Place the whole forefoot on each step, stand upright, and use the rails only for balance.\n2. Press one step down as the opposite foot rises, keeping the knees aligned with the toes.\n3. Use a step rate that allows full foot control instead of hanging from the rails or skipping steps.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "Máquina de escaleras",
+      "description": "1. Apoya toda la parte delantera del pie en cada escalón, mantente erguido y usa las barandillas solo para equilibrarte.\n2. Presiona un escalón hacia abajo mientras el pie contrario sube, manteniendo las rodillas alineadas con los dedos.\n3. Usa una frecuencia de pasos que permita controlar los pies por completo, sin colgarte de las barandillas ni saltarte escalones.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "Simulador de escada",
+      "description": "1. Apoie toda a parte da frente do pé em cada degrau, fique ereto e use os apoios apenas para equilíbrio.\n2. Pressione um degrau para baixo enquanto o pé oposto sobe, mantendo os joelhos alinhados com os dedos dos pés.\n3. Use um ritmo que permita controlar totalmente os pés, em vez de se pendurar nos apoios ou pular degraus.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Simulateur d’escaliers",
+      "description": "1. Posez tout l’avant-pied sur chaque marche, tenez-vous droit et utilisez les rampes uniquement pour l’équilibre.\n2. Poussez une marche vers le bas pendant que l’autre pied monte, en gardant les genoux alignés avec les orteils.\n3. Choisissez une cadence permettant de contrôler pleinement les pieds, plutôt que de vous suspendre aux rampes ou de sauter des marches.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "Treppensteiger",
+      "description": "1. Setze den gesamten Vorfuß auf jede Stufe, stehe aufrecht und nutze die Geländer nur zum Ausbalancieren.\n2. Drücke eine Stufe nach unten, während der andere Fuß steigt, und halte die Knie in Richtung der Zehen.\n3. Wähle eine Schrittfrequenz mit voller Fußkontrolle, statt an den Geländern zu hängen oder Stufen auszulassen.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "Simulatore di scale",
+      "description": "1. Appoggia tutto l’avampiede su ogni gradino, mantieni il busto eretto e usa i corrimano solo per l’equilibrio.\n2. Premi un gradino verso il basso mentre l’altro piede sale, mantenendo le ginocchia allineate con le dita dei piedi.\n3. Usa una frequenza che consenta il pieno controllo dei piedi, senza appenderti ai corrimano o saltare gradini.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "爬楼机",
+      "description": "1. 将整个前脚掌放在每级台阶上，身体直立，扶手仅用于保持平衡。\n2. 一侧脚向下踩台阶，另一只脚抬起，保持膝盖与脚趾方向一致。\n3. 采用能完全控制双脚的步频，不要悬挂在扶手上或跨级。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "ステアクライマー",
+      "description": "1. 各段に前足部全体を置き、上体を起こして、手すりはバランスのためだけに使います。\n2. 片方の段を踏み下げて反対の足を上げ、膝をつま先と同じ方向に保ちます。\n3. 手すりにぶら下がったり段を飛ばしたりせず、足を十分に制御できるペースを使います。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "계단 오르기 머신",
+      "description": "1. 각 계단에 앞발 전체를 올리고 똑바로 서며 난간은 균형을 잡는 데만 사용합니다.\n2. 한쪽 계단을 아래로 누르며 반대쪽 발을 올리고 무릎을 발끝 방향과 맞춥니다.\n3. 난간에 매달리거나 계단을 건너뛰지 않고 발을 완전히 통제할 수 있는 속도를 사용합니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "เครื่องขึ้นบันได",
+      "description": "1. วางส่วนหน้าของเท้าทั้งหมดบนแต่ละขั้น ยืนตัวตรง และใช้ราวเฉพาะเพื่อทรงตัว\n2. กดขั้นข้างหนึ่งลงขณะเท้าอีกข้างยกขึ้น โดยให้เข่าอยู่ในแนวเดียวกับปลายเท้า\n3. ใช้อัตราก้าวที่ควบคุมเท้าได้เต็มที่ แทนการห้อยตัวบนราวหรือข้ามขั้น",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "Лестничный тренажёр",
+      "description": "1. Ставьте всю переднюю часть стопы на каждую ступень, держитесь прямо и используйте поручни только для равновесия.\n2. Нажимайте одной ступенью вниз, пока противоположная стопа поднимается, направляя колени по линии носков.\n3. Выбирайте частоту шагов, позволяющую полностью контролировать стопы, не повисая на поручнях и не пропуская ступени.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "Сходовий тренажер",
+      "description": "1. Ставте всю передню частину стопи на кожну сходинку, тримайтеся рівно й використовуйте поручні лише для рівноваги.\n2. Натискайте однією сходинкою вниз, поки протилежна стопа піднімається, спрямовуючи коліна по лінії носків.\n3. Обирайте частоту кроків, що дозволяє повністю контролювати стопи, не зависаючи на поручнях і не пропускаючи сходинки.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
 }

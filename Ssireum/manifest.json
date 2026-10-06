@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#E6BF00",
+    "colorType": "yellow",
+    "folder": "Ssireum",
+    "id": "96",
+    "icon": "Ssireum/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Ssireum",
+    "workoutType": "ssireum",
+    "translations": {
+      "en": {
+        "title": "Ssireum"
+      },
+      "es": {
+        "title": "Ssireum"
+      },
+      "pt": {
+        "title": "Ssireum"
+      },
+      "fr": {
+        "title": "Ssireum"
+      },
+      "de": {
+        "title": "Ssireum"
+      },
+      "it": {
+        "title": "Ssireum"
+      },
+      "zh-Hans": {
+        "title": "韩国式摔跤"
+      },
+      "ja": {
+        "title": "シルム"
+      },
+      "ko": {
+        "title": "씨름"
+      },
+      "th": {
+        "title": "ซีรึม"
+      },
+      "ru": {
+        "title": "Ссирым"
+      },
+      "uk": {
+        "title": "Ссирим"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Ssireum/exercises/ssireum/Icon.png",
+      "json": "Ssireum/exercises/ssireum/ssireum.json"
+    },
+    {
+      "icon": "Ssireum/exercises/baejigi/Icon.png",
+      "json": "Ssireum/exercises/baejigi/baejigi.json"
+    },
+    {
+      "icon": "Ssireum/exercises/deulBaejigi/Icon.png",
+      "json": "Ssireum/exercises/deulBaejigi/deulBaejigi.json"
+    },
+    {
+      "icon": "Ssireum/exercises/andariGeolgi/Icon.png",
+      "json": "Ssireum/exercises/andariGeolgi/andariGeolgi.json"
+    },
+    {
+      "icon": "Ssireum/exercises/batdariGeolgi/Icon.png",
+      "json": "Ssireum/exercises/batdariGeolgi/batdariGeolgi.json"
+    },
+    {
+      "icon": "Ssireum/exercises/homiGeori/Icon.png",
+      "json": "Ssireum/exercises/homiGeori/homiGeori.json"
+    },
+    {
+      "icon": "Ssireum/exercises/jabanDwijigi/Icon.png",
+      "json": "Ssireum/exercises/jabanDwijigi/jabanDwijigi.json"
+    }
+  ]
+}

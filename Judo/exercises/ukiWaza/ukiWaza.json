@@ -1,0 +1,90 @@
+{
+  "id": "41.77",
+  "key": "judo_uki_waza",
+  "title": "Uki Waza",
+  "description": "1. Draw the partner forward to a front corner as the partner steps or pushes.\n2. Extend one leg wide across the outside of the partner's foot and drop onto your side.\n3. Pull the upper body over the extended leg so the partner floats over into a forward breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Uki Waza",
+      "description": "1. Draw the partner forward to a front corner as the partner steps or pushes.\n2. Extend one leg wide across the outside of the partner's foot and drop onto your side.\n3. Pull the upper body over the extended leg so the partner floats over into a forward breakfall.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Uki Waza",
+      "description": "1. Lleva al compañero hacia una esquina delantera cuando avance o empuje.\n2. Extiende una pierna amplia por el exterior del pie del compañero y déjate caer de lado.\n3. Tira del tronco sobre la pierna extendida para que el compañero flote por encima hasta una caída hacia delante.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Uki Waza",
+      "description": "1. Leve o parceiro a um canto frontal quando ele avançar ou empurrar.\n2. Estenda uma perna ampla pela parte externa do pé do parceiro e caia de lado.\n3. Puxe o tronco sobre a perna estendida para que o parceiro flutue por cima até uma queda para a frente.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Uki Waza",
+      "description": "1. Amenez le partenaire vers un coin avant lorsqu’il avance ou pousse.\n2. Tendez largement une jambe à l’extérieur de son pied et laissez-vous tomber sur le côté.\n3. Tirez le haut du corps par-dessus la jambe tendue pour qu’il flotte par-dessus jusqu’à une chute avant.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Uki Waza",
+      "description": "1. Ziehe den Partner zu einer vorderen Ecke, wenn er vortritt oder drückt.\n2. Strecke ein Bein weit an der Außenseite seines Fußes aus und lass dich auf die Seite fallen.\n3. Ziehe den Oberkörper über das gestreckte Bein, sodass der Partner darüber in eine Vorwärtsfallschule schwebt.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Uki Waza",
+      "description": "1. Porta il compagno verso un angolo anteriore quando avanza o spinge.\n2. Estendi ampiamente una gamba all’esterno del suo piede e lasciati cadere di lato.\n3. Tira il busto sopra la gamba distesa perché il compagno fluttui oltre fino a una caduta in avanti.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "浮技",
+      "description": "1. 搭档上步或推进时，把其拉向前角。\n2. 一条腿大幅伸到搭档脚外侧，侧身倒下。\n3. 把其上身拉过伸直的腿，使搭档浮起越过，完成前倒。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "浮技",
+      "description": "1. 相手が踏み出すか押してきたとき、前隅へ引き出します。\n2. 片脚を相手の足の外側へ大きく伸ばし、横向きに倒れます。\n3. 伸ばした脚の上へ上体を引き、相手を浮かせて越えさせ前方受身をとらせます。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "우키 와자",
+      "description": "1. 파트너가 내딛거나 밀 때 앞 모서리로 끌어냅니다.\n2. 한 다리를 파트너 발 바깥쪽으로 넓게 뻗고 옆으로 넘어집니다.\n3. 편 다리 위로 상체를 당겨 파트너가 떠서 넘어가 앞 낙법을 하게 합니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "อุกิวาซะ",
+      "description": "1. เมื่อคู่ฝึกก้าวหรือดันเข้ามา ให้ดึงไปทางมุมด้านหน้า\n2. เหยียดขาข้างหนึ่งกว้างไปด้านนอกเท้าคู่ฝึก แล้วล้มตะแคง\n3. ดึงลำตัวคู่ฝึกข้ามขาที่เหยียด ให้คู่ฝึกลอยข้ามไปล้มด้านหน้า",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Уки-вадза",
+      "description": "1. Выведите партнёра к переднему углу, когда он шагает или давит.\n2. Широко выставьте одну ногу снаружи от его стопы и упадите на бок.\n3. Потяните корпус через выставленную ногу, чтобы партнёр «проплыл» над ней в страховку вперёд.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Укі-вадза",
+      "description": "1. Виведіть партнера до переднього кута, коли він ступає або тисне.\n2. Широко виставте одну ногу ззовні від його стопи й упадіть на бік.\n3. Потягніть тулуб через виставлену ногу, щоб партнер «пропливув» над нею у страховку вперед.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "100.4",
+  "key": "taido_tenkai",
+  "title": "Tenkai",
+  "description": "1. Form a group of six: one central fighter (shuyaku) and five attackers (wakiyaku), and agree the choreography and timing in advance.\n2. Run the prearranged 25-30 second fight: the attackers come in one at a time and the central fighter answers each with controlled taido techniques and movement.\n3. Pull every strike short of real contact, use mats for falls and acrobatics, and reset the formation before repeating.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "taido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Group Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tenkai",
+      "description": "1. Form a group of six: one central fighter (shuyaku) and five attackers (wakiyaku), and agree the choreography and timing in advance.\n2. Run the prearranged 25-30 second fight: the attackers come in one at a time and the central fighter answers each with controlled taido techniques and movement.\n3. Pull every strike short of real contact, use mats for falls and acrobatics, and reset the formation before repeating.",
+      "sectionTitle": "Group Drills"
+    },
+    "es": {
+      "title": "Tenkai",
+      "description": "1. Formad un grupo de seis: un luchador central (shuyaku) y cinco atacantes (wakiyaku), y acordad la coreografía y los tiempos de antemano.\n2. Realizad el combate preparado de 25-30 segundos: los atacantes entran de uno en uno y el luchador central responde a cada uno con técnicas y movimientos de taido controlados.\n3. Detén cada golpe antes del contacto real, usad tatami para caídas y acrobacias y recomponed la formación antes de repetir.",
+      "sectionTitle": "Ejercicios en grupo"
+    },
+    "pt": {
+      "title": "Tenkai",
+      "description": "1. Formem um grupo de seis: um lutador central (shuyaku) e cinco atacantes (wakiyaku), e combinem a coreografia e o tempo com antecedência.\n2. Executem a luta combinada de 25-30 segundos: os atacantes entram um de cada vez e o lutador central responde a cada um com técnicas e movimentos de taido controlados.\n3. Pare cada golpe antes do contato real, usem tatame para quedas e acrobacias e refaçam a formação antes de repetir.",
+      "sectionTitle": "Exercícios em grupo"
+    },
+    "fr": {
+      "title": "Tenkai",
+      "description": "1. Formez un groupe de six : un combattant central (shuyaku) et cinq attaquants (wakiyaku), et fixez à l’avance la chorégraphie et le timing.\n2. Exécutez le combat préparé de 25 à 30 secondes : les attaquants entrent un par un et le combattant central répond à chacun par des techniques et déplacements de taido contrôlés.\n3. Arrêtez chaque frappe avant le contact réel, utilisez des tatamis pour les chutes et acrobaties et reformez le groupe avant de recommencer.",
+      "sectionTitle": "Exercices en groupe"
+    },
+    "de": {
+      "title": "Tenkai",
+      "description": "1. Eine Sechsergruppe bilden: ein zentraler Kämpfer (Shuyaku) und fünf Angreifer (Wakiyaku); Choreografie und Timing vorher absprechen.\n2. Den vorbereiteten Kampf von 25-30 Sekunden ausführen: Die Angreifer kommen einzeln, der zentrale Kämpfer beantwortet jeden mit kontrollierten Taido-Techniken und Bewegungen.\n3. Jeden Schlag vor echtem Kontakt stoppen, für Fallen und Akrobatik Matten nutzen und die Formation vor der Wiederholung neu aufstellen.",
+      "sectionTitle": "Gruppenübungen"
+    },
+    "it": {
+      "title": "Tenkai",
+      "description": "1. Formate un gruppo di sei: un combattente centrale (shuyaku) e cinque attaccanti (wakiyaku), e concordate in anticipo coreografia e tempi.\n2. Eseguite il combattimento prestabilito di 25-30 secondi: gli attaccanti entrano uno alla volta e il combattente centrale risponde a ciascuno con tecniche e movimenti di taido controllati.\n3. Ferma ogni colpo prima del contatto reale, usate i tatami per cadute e acrobazie e ricomponete la formazione prima di ripetere.",
+      "sectionTitle": "Esercizi di gruppo"
+    },
+    "zh-Hans": {
+      "title": "展开",
+      "description": "1. 组成六人小组：一名主角（主役）和五名攻击者（胁役），事先约定编排与节奏。\n2. 完成25-30秒的预定格斗：攻击者逐一上前，主角以受控的躰道技术和身法逐一应对。\n3. 每次击打都在真实接触前停住，摔倒和技巧动作在垫上完成，重复前重新排好队形。",
+      "sectionTitle": "团体练习"
+    },
+    "ja": {
+      "title": "展開",
+      "description": "1. 主役一人と脇役五人の六人で組み、構成とタイミングを事前に決めます。\n2. 25〜30秒の約束組手を行い、脇役が一人ずつ攻め、主役が制御した躰道の技と動きでそれぞれに応じます。\n3. 打撃は実際に当てる前に止め、倒れる動きやアクロバットはマット上で行い、繰り返す前に隊形を整えます。",
+      "sectionTitle": "団体練習"
+    },
+    "ko": {
+      "title": "덴카이",
+      "description": "1. 주역 한 명과 공격자 다섯 명으로 여섯 명이 조를 이루고 안무와 타이밍을 미리 정합니다.\n2. 25~30초의 약속 대련을 진행합니다. 공격자가 한 명씩 들어오고 주역은 통제된 다이도 기술과 움직임으로 각각 대응합니다.\n3. 모든 타격은 실제 접촉 전에 멈추고, 넘어지기와 곡예는 매트 위에서 하며, 반복 전에 대형을 다시 갖춥니다.",
+      "sectionTitle": "단체 연습"
+    },
+    "th": {
+      "title": "เท็นไค",
+      "description": "1. จัดกลุ่มหกคน: นักสู้หลักหนึ่งคน (ชูยากุ) และผู้โจมตีห้าคน (วากิยากุ) ตกลงท่าทางและจังหวะไว้ล่วงหน้า\n2. เล่นการต่อสู้ที่จัดเตรียมไว้ 25-30 วินาที ผู้โจมตีเข้ามาทีละคน และนักสู้หลักตอบโต้แต่ละคนด้วยเทคนิคและการเคลื่อนไหวไทโดที่ควบคุมได้\n3. หยุดทุกการตีก่อนสัมผัสจริง ใช้เบาะสำหรับการล้มและกายกรรม และจัดแถวใหม่ก่อนทำซ้ำ",
+      "sectionTitle": "การฝึกแบบกลุ่ม"
+    },
+    "ru": {
+      "title": "Тэнкай",
+      "description": "1. Соберите группу из шести: центральный боец (сюяку) и пять атакующих (вакияку); заранее согласуйте хореографию и тайминг.\n2. Проведите подготовленный бой на 25-30 секунд: атакующие входят по одному, центральный боец отвечает каждому контролируемыми техниками и движениями тайдо.\n3. Останавливайте каждый удар до реального контакта, падения и акробатику выполняйте на матах и восстановите построение перед повтором.",
+      "sectionTitle": "Групповые упражнения"
+    },
+    "uk": {
+      "title": "Тенкай",
+      "description": "1. Зберіть групу з шести: центральний боєць (сюяку) і п’ятеро нападників (вакіяку); заздалегідь узгодьте хореографію й таймінг.\n2. Проведіть підготовлений бій на 25-30 секунд: нападники входять по одному, центральний боєць відповідає кожному контрольованими техніками й рухами тайдо.\n3. Зупиняйте кожен удар до справжнього контакту, падіння й акробатику виконуйте на матах і відновіть шикування перед повтором.",
+      "sectionTitle": "Групові вправи"
+    }
+  }
+}

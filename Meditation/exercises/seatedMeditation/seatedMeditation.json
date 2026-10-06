@@ -1,0 +1,90 @@
+{
+  "id": "19.42",
+  "key": "meditation_seated_meditation",
+  "title": "Seated Meditation",
+  "description": "1. Sit with feet supported or legs comfortably crossed, pelvis stable, spine long, and hands resting.\n2. Choose the breath or another neutral body sensation and observe it without trying to change it.\n3. When attention wanders, acknowledge where it went and return to the chosen sensation.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "meditation",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1,
+    "vigorous": 1,
+    "lightCode": "07075",
+    "moderateCode": "07075",
+    "vigorousCode": "07075"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Mindfulness",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Seated Meditation",
+      "description": "1. Sit with feet supported or legs comfortably crossed, pelvis stable, spine long, and hands resting.\n2. Choose the breath or another neutral body sensation and observe it without trying to change it.\n3. When attention wanders, acknowledge where it went and return to the chosen sensation.",
+      "sectionTitle": "Mindfulness"
+    },
+    "es": {
+      "title": "Meditación sentada",
+      "description": "1. Siéntate con los pies apoyados o las piernas cruzadas cómodamente, la pelvis estable, la columna alargada y las manos descansando.\n2. Elige la respiración u otra sensación corporal neutra y obsérvala sin intentar cambiarla.\n3. Cuando la atención se desvíe, reconoce adónde fue y vuelve a la sensación elegida.",
+      "sectionTitle": "Atención plena"
+    },
+    "pt": {
+      "title": "Meditação sentada",
+      "description": "1. Sente-se com os pés apoiados ou as pernas cruzadas confortavelmente, a pelve estável, a coluna alongada e as mãos repousando.\n2. Escolha a respiração ou outra sensação corporal neutra e observe-a sem tentar mudá-la.\n3. Quando a atenção se desviar, reconheça para onde foi e volte à sensação escolhida.",
+      "sectionTitle": "Atenção plena"
+    },
+    "fr": {
+      "title": "Méditation assise",
+      "description": "1. Asseyez-vous les pieds soutenus ou les jambes confortablement croisées, le bassin stable, la colonne allongée et les mains au repos.\n2. Choisissez le souffle ou une autre sensation corporelle neutre et observez-la sans chercher à la modifier.\n3. Lorsque l’attention s’égare, reconnaissez où elle est allée et revenez à la sensation choisie.",
+      "sectionTitle": "Pleine conscience"
+    },
+    "de": {
+      "title": "Sitzmeditation",
+      "description": "1. Sitze mit abgestützten Füßen oder bequem gekreuzten Beinen, stabilem Becken, langer Wirbelsäule und ruhenden Händen.\n2. Wähle den Atem oder eine andere neutrale Körperempfindung und beobachte sie, ohne sie verändern zu wollen.\n3. Wenn die Aufmerksamkeit abschweift, erkenne, wohin sie gegangen ist, und kehre zur gewählten Empfindung zurück.",
+      "sectionTitle": "Achtsamkeit"
+    },
+    "it": {
+      "title": "Meditazione seduta",
+      "description": "1. Siediti con i piedi appoggiati o le gambe comodamente incrociate, il bacino stabile, la colonna allungata e le mani a riposo.\n2. Scegli il respiro o un’altra sensazione corporea neutra e osservala senza cercare di cambiarla.\n3. Quando l’attenzione vaga, riconosci dove è andata e torna alla sensazione scelta.",
+      "sectionTitle": "Consapevolezza"
+    },
+    "zh-Hans": {
+      "title": "坐姿冥想",
+      "description": "1. 坐好，双脚有支撑或双腿舒适交叉，骨盆稳定，脊柱伸长，双手自然放置。\n2. 选择呼吸或另一种中性的身体感觉，观察它，不必试图改变它。\n3. 当注意力游离时，承认它去了哪里，再回到所选的感觉。",
+      "sectionTitle": "正念"
+    },
+    "ja": {
+      "title": "座る瞑想",
+      "description": "1. 足を支えに置くか楽に脚を組んで座り、骨盤を安定させ、背骨を長く保ち、手を休めます。\n2. 呼吸か別の中立的な体の感覚を選び、変えようとせずに観察します。\n3. 注意がそれたら、どこへ向かったかを認め、選んだ感覚へ戻ります。",
+      "sectionTitle": "マインドフルネス"
+    },
+    "ko": {
+      "title": "앉아서 하는 명상",
+      "description": "1. 발을 받치거나 다리를 편안하게 꼬고 앉아 골반을 안정시키고 척추를 길게 유지하며 손을 편히 둡니다.\n2. 호흡이나 다른 중립적인 신체 감각을 선택해 바꾸려 하지 않고 관찰합니다.\n3. 주의가 흩어지면 어디로 향했는지 인정하고 선택한 감각으로 돌아갑니다.",
+      "sectionTitle": "마음챙김"
+    },
+    "th": {
+      "title": "การทำสมาธิในท่านั่ง",
+      "description": "1. นั่งโดยมีที่รองรับเท้าหรือขัดขาอย่างสบาย ให้เชิงกรานมั่นคง กระดูกสันหลังยืดยาว และวางมือพักไว้\n2. เลือกลมหายใจหรือความรู้สึกทางกายที่เป็นกลางอย่างอื่น แล้วสังเกตโดยไม่พยายามเปลี่ยนแปลง\n3. เมื่อความสนใจหลุดไป ให้ยอมรับว่าไปอยู่ที่ใด แล้วกลับมาที่ความรู้สึกที่เลือก",
+      "sectionTitle": "การเจริญสติ"
+    },
+    "ru": {
+      "title": "Медитация сидя",
+      "description": "1. Сядьте с опорой для стоп или удобно скрестив ноги, удерживая таз устойчивым, позвоночник вытянутым, а кисти расслабленными.\n2. Выберите дыхание или другое нейтральное телесное ощущение и наблюдайте его, не пытаясь изменить.\n3. Когда внимание уходит, признайте, куда оно направилось, и вернитесь к выбранному ощущению.",
+      "sectionTitle": "Осознанность"
+    },
+    "uk": {
+      "title": "Медитація сидячи",
+      "description": "1. Сядьте з опорою для стоп або зручно схрестивши ноги, тримаючи таз стійким, хребет витягнутим, а кисті розслабленими.\n2. Оберіть дихання або інше нейтральне тілесне відчуття й спостерігайте його, не намагаючись змінити.\n3. Коли увага відхиляється, визнайте, куди вона спрямувалася, і поверніться до вибраного відчуття.",
+      "sectionTitle": "Усвідомленість"
+    }
+  }
+}

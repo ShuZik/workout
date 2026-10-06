@@ -1,0 +1,91 @@
+{
+  "id": "102.2",
+  "key": "tankendo_men",
+  "title": "Tankendo Men",
+  "description": "1. Both partners wear bogu; the attacker holds the short sword in the right hand at one-step distance outside the partner's weapon line.\n2. Step in quickly, raise the short sword slightly, and cut straight down onto the men target with the right arm while the left hand stays ready, calling the target with kiai.\n3. Withdraw to kamae or step out of range at once; the receiver resets distance and roles alternate.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "tankendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Partner Techniques",
+  "target": "head",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tankendo Men",
+      "description": "1. Both partners wear bogu; the attacker holds the short sword in the right hand at one-step distance outside the partner's weapon line.\n2. Step in quickly, raise the short sword slightly, and cut straight down onto the men target with the right arm while the left hand stays ready, calling the target with kiai.\n3. Withdraw to kamae or step out of range at once; the receiver resets distance and roles alternate.",
+      "sectionTitle": "Partner Techniques"
+    },
+    "es": {
+      "title": "Men",
+      "description": "1. Ambos llevan bogu; el atacante sostiene la espada corta en la mano derecha a un paso, fuera de la línea del arma del compañero.\n2. Entra rápido, eleva ligeramente la espada corta y corta recto hacia abajo sobre el men con el brazo derecho mientras la mano izquierda está lista, anunciando el objetivo con kiai.\n3. Vuelve a kamae o sal de la distancia de inmediato; el receptor restablece la distancia y se alternan los roles.",
+      "sectionTitle": "Técnicas en pareja"
+    },
+    "pt": {
+      "title": "Men",
+      "description": "1. Ambos usam bogu; o atacante segura a espada curta na mão direita a um passo, fora da linha da arma do parceiro.\n2. Entre rápido, erga levemente a espada curta e corte reto para baixo sobre o men com o braço direito enquanto a mão esquerda fica pronta, anunciando o alvo com kiai.\n3. Volte a kamae ou saia da distância imediatamente; o receptor restabelece a distância e os papéis alternam.",
+      "sectionTitle": "Técnicas em dupla"
+    },
+    "fr": {
+      "title": "Men",
+      "description": "1. Les deux portent le bogu ; l’attaquant tient le sabre court main droite à un pas, hors de la ligne de l’arme du partenaire.\n2. Entrez vite, levez légèrement le sabre court et coupez droit vers le bas sur le men du bras droit, main gauche prête, en annonçant la cible par le kiai.\n3. Revenez en kamae ou sortez de distance aussitôt ; le receveur reprend la distance et les rôles alternent.",
+      "sectionTitle": "Techniques à deux"
+    },
+    "de": {
+      "title": "Men",
+      "description": "1. Beide tragen Bogu; der Angreifer hält das Kurzschwert rechts auf Ein-Schritt-Distanz außerhalb der Waffenlinie des Partners.\n2. Schnell eintreten, das Kurzschwert leicht anheben und mit dem rechten Arm gerade auf Men schneiden, die linke Hand bereit, Ziel mit Kiai ansagen.\n3. Sofort ins Kamae zurück oder aus der Reichweite treten; der Partner stellt die Distanz wieder her, die Rollen wechseln.",
+      "sectionTitle": "Partnertechniken"
+    },
+    "it": {
+      "title": "Men",
+      "description": "1. Entrambi indossano il bogu; l’attaccante tiene la spada corta nella mano destra a un passo, fuori dalla linea dell’arma del compagno.\n2. Entra rapidamente, alza leggermente la spada corta e taglia dritto in basso sul men con il braccio destro mentre la mano sinistra è pronta, chiamando il bersaglio con il kiai.\n3. Torna in kamae o esci subito dalla distanza; il ricevente ristabilisce la distanza e i ruoli si alternano.",
+      "sectionTitle": "Tecniche in coppia"
+    },
+    "zh-Hans": {
+      "title": "面击",
+      "description": "1. 双方穿戴护具；进攻者右手持短剑，在对方武器线外一步距离。\n2. 快速踏入，略举短剑，以右臂向下直斩面部，左手准备，以气合喊出部位。\n3. 立即恢复构势或退出间合；接受者恢复间合，角色轮换。",
+      "sectionTitle": "对练技术"
+    },
+    "ja": {
+      "title": "面打ち",
+      "description": "1. 互いに防具を着け、打つ側は右手に短剣を持ち、相手の武器の線の外で一歩の間合いに立ちます。\n2. 素早く踏み込み、短剣をわずかに振り上げて右腕で真っ直ぐ面を打ち、左手は備えたまま気合で部位を発声します。\n3. すぐに構えに戻るか間合いを切り、受け側は間合いを戻し、役割を交代します。",
+      "sectionTitle": "対人技"
+    },
+    "ko": {
+      "title": "머리치기",
+      "description": "1. 둘 다 호구를 착용하고, 공격자는 오른손에 짧은 칼을 들고 상대 무기선 밖 한 걸음 거리에 섭니다.\n2. 빠르게 들어가 짧은 칼을 살짝 들어 오른팔로 머리를 곧게 내려 베고, 왼손은 준비한 채 기합으로 부위를 외칩니다.\n3. 즉시 자세로 돌아오거나 거리 밖으로 나가고, 받는 사람은 거리를 되찾으며 역할을 바꿉니다.",
+      "sectionTitle": "짝 기술"
+    },
+    "th": {
+      "title": "เมน",
+      "description": "1. ทั้งคู่สวมโบงุ ผู้โจมตีถือดาบสั้นมือขวา อยู่ห่างหนึ่งก้าวนอกแนวอาวุธของคู่ฝึก\n2. ก้าวเข้าเร็ว ยกดาบสั้นเล็กน้อย แล้วฟันตรงลงที่เมนด้วยแขนขวา มือซ้ายพร้อม พร้อมเปล่งคิไอบอกเป้า\n3. กลับสู่ท่าหรือถอยออกจากระยะทันที ผู้รับตั้งระยะใหม่และสลับบทบาท",
+      "sectionTitle": "เทคนิคคู่"
+    },
+    "ru": {
+      "title": "Мэн",
+      "description": "1. Оба в защитном снаряжении; атакующий держит короткий меч в правой руке на дистанции шага вне линии оружия партнёра.\n2. Быстро войдите, слегка приподнимите короткий меч и правой рукой рубите прямо вниз в мэн, левая рука наготове, называя цель киай.\n3. Сразу вернитесь в камаэ или выйдите из дистанции; партнёр восстанавливает дистанцию, роли меняются.",
+      "sectionTitle": "Парные техники"
+    },
+    "uk": {
+      "title": "Мен",
+      "description": "1. Обоє в захисному спорядженні; атакувальник тримає короткий меч у правій руці на дистанції кроку поза лінією зброї партнера.\n2. Швидко ввійдіть, трохи підніміть короткий меч і правою рукою рубайте прямо вниз у мен, ліва рука напоготові, називаючи ціль кіай.\n3. Одразу поверніться в камае або вийдіть із дистанції; партнер відновлює дистанцію, ролі змінюються.",
+      "sectionTitle": "Парні техніки"
+    }
+  }
+}

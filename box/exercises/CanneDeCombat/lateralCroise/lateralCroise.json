@@ -1,0 +1,87 @@
+{
+  "id": "48.3",
+  "key": "canne_lateral_croise",
+  "title": "Lateral Croise",
+  "description": "1. With the cane in the right hand, turn the upper body slightly left and draw the hand, palm up, across the chest while shifting weight to the rear foot.\n2. Turn the hand over to flip the point out behind you over the left shoulder, extend fully, then swing the cane horizontally from the rear to the front with a straight arm.\n3. Stop the point at the end of the arc under control and return to guard.",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Strikes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Lateral Croise",
+      "description": "1. With the cane in the right hand, turn the upper body slightly left and draw the hand, palm up, across the chest while shifting weight to the rear foot.\n2. Turn the hand over to flip the point out behind you over the left shoulder, extend fully, then swing the cane horizontally from the rear to the front with a straight arm.\n3. Stop the point at the end of the arc under control and return to guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Latéral croisé",
+      "description": "1. Con el bastón en la mano derecha, gira ligeramente el tronco a la izquierda y lleva la mano, palma arriba, cruzando el pecho mientras pasas el peso al pie trasero.\n2. Gira la mano para lanzar la punta hacia atrás por encima del hombro izquierdo, extiende por completo y barre en horizontal de atrás hacia delante con el brazo recto.\n3. Detén la punta al final del arco con control y vuelve a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Latéral croisé",
+      "description": "1. Com a bengala na mão direita, gire levemente o tronco à esquerda e leve a mão, palma para cima, cruzando o peito enquanto passa o peso ao pé de trás.\n2. Vire a mão para lançar a ponta para trás por cima do ombro esquerdo, estenda totalmente e varra na horizontal de trás para a frente com o braço reto.\n3. Pare a ponta no fim do arco com controle e volte à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Latéral croisé",
+      "description": "1. Canne en main droite, tournez légèrement le buste à gauche et ramenez la main, paume vers le haut, en travers de la poitrine en reportant le poids sur le pied arrière.\n2. Retournez la main pour basculer la pointe derrière vous au-dessus de l’épaule gauche, tendez complètement, puis balayez à l’horizontale de l’arrière vers l’avant, bras tendu.\n3. Arrêtez la pointe en fin d’arc sous contrôle et revenez en garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Latéral croisé",
+      "description": "1. Stock in der rechten Hand: Oberkörper leicht nach links drehen und die Hand mit Handfläche nach oben quer vor die Brust führen, Gewicht auf den hinteren Fuß.\n2. Die Hand drehen, um die Spitze über die linke Schulter nach hinten zu klappen, ganz strecken und den Stock mit gestrecktem Arm waagerecht von hinten nach vorn führen.\n3. Die Spitze am Ende des Bogens kontrolliert stoppen und in die Grundstellung zurückkehren.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Latéral croisé",
+      "description": "1. Con il bastone nella mano destra, ruota leggermente il busto a sinistra e porta la mano, palmo in su, attraverso il petto spostando il peso sul piede posteriore.\n2. Gira la mano per ribaltare la punta dietro di te sopra la spalla sinistra, estendi del tutto e porta il bastone in orizzontale da dietro in avanti a braccio teso.\n3. Ferma la punta alla fine dell’arco con controllo e torna in guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "交叉横击",
+      "description": "1. 右手持杖，上身略向左转，掌心向上把手横拉过胸前，重心移到后脚。\n2. 翻转手腕，使杖尖越过左肩翻向身后，完全伸展，然后手臂伸直从后向前水平挥击。\n3. 在弧线末端受控地停住杖尖，回到戒备姿势。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "ラテラル・クロワゼ",
+      "description": "1. 右手にカンヌを持ち、上体をやや左へ回し、手のひらを上にして手を胸の前を横切るように引き、体重を後ろ足へ移します。\n2. 手を返して先端を左肩越しに背後へ返し、十分に伸ばしてから、腕を伸ばしたまま後ろから前へ水平に振ります。\n3. 弧の終わりで先端を制御して止め、構えに戻ります。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "라테랄 크루아제",
+      "description": "1. 오른손에 지팡이를 들고 상체를 약간 왼쪽으로 돌리며 손바닥을 위로 한 채 손을 가슴을 가로질러 당기고 체중을 뒷발로 옮깁니다.\n2. 손을 뒤집어 끝을 왼쪽 어깨 너머 뒤로 젖히고 완전히 뻗은 뒤 팔을 편 채 뒤에서 앞으로 수평으로 휘두릅니다.\n3. 호의 끝에서 끝을 통제하여 멈추고 가드로 돌아옵니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ลาเตราล ครัวเซ",
+      "description": "1. ถือไม้ด้วยมือขวา หมุนลำตัวไปทางซ้ายเล็กน้อย ดึงมือหงายฝ่ามือข้ามหน้าอก และถ่ายน้ำหนักไปเท้าหลัง\n2. พลิกมือให้ปลายไม้ข้ามไหล่ซ้ายไปด้านหลัง เหยียดสุด แล้วเหวี่ยงไม้แนวนอนจากหลังมาหน้าโดยแขนเหยียดตรง\n3. หยุดปลายไม้ที่ปลายส่วนโค้งอย่างควบคุม แล้วกลับสู่การ์ด",
+      "sectionTitle": "การตี"
+    },
+    "ru": {
+      "title": "Латераль круазе",
+      "description": "1. Держа трость в правой руке, слегка поверните корпус влево и проведите руку ладонью вверх поперёк груди, перенося вес на заднюю ногу.\n2. Поверните кисть, откидывая острие назад над левым плечом, полностью вытянитесь и проведите трость горизонтально сзади вперёд прямой рукой.\n3. Подконтрольно остановите острие в конце дуги и вернитесь в стойку.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Латераль круазе",
+      "description": "1. Тримаючи тростину в правій руці, трохи поверніть корпус ліворуч і проведіть руку долонею вгору поперек грудей, переносячи вагу на задню ногу.\n2. Поверніть кисть, відкидаючи вістря назад над лівим плечем, повністю витягніться й проведіть тростину горизонтально ззаду наперед прямою рукою.\n3. Підконтрольно зупиніть вістря наприкінці дуги й поверніться в стійку.",
+      "sectionTitle": "Удари"
+    }
+  }
+}

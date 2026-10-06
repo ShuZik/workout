@@ -1,0 +1,87 @@
+{
+  "id": "83.1",
+  "key": "naginata_main",
+  "title": "Naginata",
+  "description": "1. Stand in chudan-no-kamae holding the naginata with both hands, the blade end forward at the partner's throat line and the feet in a relaxed stance.\n2. Move with suri-ashi and strike men, kote, do, or sune, switching the forward hand and side smoothly with each change of kamae.\n3. Recover kamae after every strike, keep zanshin, and maintain distance and control of the long shaft throughout the interval.",
+  "colorType": "violet",
+  "workoutType": "naginata",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Naginata",
+      "description": "1. Stand in chudan-no-kamae holding the naginata with both hands, the blade end forward at the partner's throat line and the feet in a relaxed stance.\n2. Move with suri-ashi and strike men, kote, do, or sune, switching the forward hand and side smoothly with each change of kamae.\n3. Recover kamae after every strike, keep zanshin, and maintain distance and control of the long shaft throughout the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Naginata",
+      "description": "1. Colócate en chudan-no-kamae sujetando la naginata con ambas manos, la hoja hacia la línea de la garganta del compañero y los pies relajados.\n2. Desplázate con suri-ashi y golpea men, kote, do o sune, cambiando con fluidez la mano adelantada y el lado en cada cambio de kamae.\n3. Recupera el kamae tras cada golpe, mantén el zanshin y controla la distancia y el asta larga durante todo el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Naginata",
+      "description": "1. Fique em chudan-no-kamae segurando a naginata com as duas mãos, a lâmina na linha da garganta do parceiro e os pés relaxados.\n2. Desloque-se com suri-ashi e golpeie men, kote, do ou sune, trocando com fluidez a mão da frente e o lado a cada mudança de kamae.\n3. Recupere o kamae após cada golpe, mantenha o zanshin e controle a distância e a haste longa durante todo o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Naginata",
+      "description": "1. Placez-vous en chudan-no-kamae, naginata tenue à deux mains, lame vers la ligne de la gorge du partenaire, pieds détendus.\n2. Déplacez-vous en suri-ashi et frappez men, kote, do ou sune en changeant souplement de main avant et de côté à chaque kamae.\n3. Reprenez le kamae après chaque frappe, gardez le zanshin et contrôlez la distance et la longue hampe pendant tout l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Naginata",
+      "description": "1. Stehe im Chudan-no-Kamae, die Naginata beidhändig, die Klinge zur Kehllinie des Partners, die Füße locker.\n2. Bewege dich mit Suri-Ashi und schlage Men, Kote, Do oder Sune, wobei du bei jedem Kamae-Wechsel vordere Hand und Seite fließend wechselst.\n3. Nimm nach jedem Schlag wieder Kamae ein, halte Zanshin und kontrolliere Distanz und langen Schaft während des ganzen Intervalls.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Naginata",
+      "description": "1. Mettiti in chudan-no-kamae tenendo la naginata a due mani, la lama verso la linea della gola del compagno e i piedi rilassati.\n2. Muoviti in suri-ashi e colpisci men, kote, do o sune, cambiando con fluidità mano avanzata e lato a ogni cambio di kamae.\n3. Ritrova il kamae dopo ogni colpo, mantieni lo zanshin e controlla distanza e asta lunga per tutto l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "薙刀",
+      "description": "1. 双手持薙刀成中段构，刀刃一端指向对方咽喉线，双脚放松站立。\n2. 以滑步移动，击打面、小手、胴或胫，每次变换构势时流畅地交换前手和方向。\n3. 每次击打后恢复构势，保持残心，整个时段内控制间合与长柄。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "なぎなた",
+      "description": "1. なぎなたを両手で持って中段に構え、刃部を相手の喉の線につけ、足は楽に構えます。\n2. すり足で移動し、面・小手・胴・すねを打ち、構えの変化ごとに前の手と左右を滑らかに持ち替えます。\n3. 打った後は必ず構えに戻り、残心を保ち、間合いと長い柄の操作を最後まで保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "나기나타",
+      "description": "1. 나기나타를 두 손으로 잡고 중단세를 취하며 칼날 쪽을 상대의 목선에 두고 발은 편하게 섭니다.\n2. 스리아시로 움직이며 머리, 손목, 허리, 정강이를 치고 자세를 바꿀 때마다 앞손과 좌우를 부드럽게 바꿉니다.\n3. 치기 후마다 자세로 돌아와 잔심을 유지하고 시간 내내 거리와 긴 자루를 통제합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "นางินาตะ",
+      "description": "1. ยืนท่าชูดังโนะคามาเอะ ถือนางินาตะด้วยสองมือ ปลายใบมีดชี้แนวคอคู่ฝึก เท้าผ่อนคลาย\n2. เคลื่อนที่แบบซูริอาชิ ตีเมน โคเตะ โด หรือสุเนะ โดยสลับมือหน้าและด้านอย่างลื่นไหลทุกครั้งที่เปลี่ยนท่า\n3. กลับสู่ท่าหลังการตีทุกครั้ง คงซันชิน และควบคุมระยะกับด้ามยาวตลอดช่วงเวลา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Нагината",
+      "description": "1. Встаньте в тюдан-но-камаэ, держа нагинату двумя руками, клинок направлен на линию горла партнёра, стопы расслаблены.\n2. Перемещайтесь суриаси и наносите удары мэн, котэ, до или сунэ, плавно меняя переднюю руку и сторону при каждой смене камаэ.\n3. После каждого удара возвращайтесь в камаэ, сохраняйте дзансин и контролируйте дистанцию и длинное древко весь интервал.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Нагіната",
+      "description": "1. Станьте в тюдан-но-камае, тримаючи нагінату двома руками, клинок спрямований на лінію горла партнера, стопи розслаблені.\n2. Пересувайтеся суріасі й завдавайте ударів мен, коте, до або суне, плавно змінюючи передню руку й бік за кожної зміни камае.\n3. Після кожного удару повертайтеся в камае, зберігайте дзансін і контролюйте дистанцію та довге держално весь інтервал.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

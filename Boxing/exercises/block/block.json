@@ -1,0 +1,91 @@
+{
+  "id": "1.41",
+  "key": "block",
+  "title": "Block",
+  "description": "1. From guard, identify the incoming punch and brace the trunk without closing the eyes or turning away.\n2. Catch a straight punch on the gloves or forearms and cover a hook by bringing the glove and elbow tight to the side of the head.\n3. Absorb the contact with bent knees, then reopen the guard and regain sight of the target.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 5.8,
+    "vigorous": 7,
+    "lightCode": "15425",
+    "moderateCode": "15110",
+    "vigorousCode": "15113"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 3,
+  "section": "4 Intermediate",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Block",
+      "description": "1. From guard, identify the incoming punch and brace the trunk without closing the eyes or turning away.\n2. Catch a straight punch on the gloves or forearms and cover a hook by bringing the glove and elbow tight to the side of the head.\n3. Absorb the contact with bent knees, then reopen the guard and regain sight of the target.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Bloqueo",
+      "description": "1. Desde la guardia, identifica el golpe entrante y activa el tronco sin cerrar los ojos ni girarte.\n2. Recibe un directo en guantes o antebrazos y cubre un gancho pegando guante y codo al lado de la cabeza.\n3. Absorbe el contacto con rodillas flexionadas, abre de nuevo la guardia y recupera la visión del objetivo.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Bloqueio",
+      "description": "1. Da guarda, identifique o soco que chega e firme o tronco sem fechar os olhos nem virar o rosto.\n2. Receba um direto nas luvas ou antebraços e cubra um gancho aproximando luva e cotovelo da lateral da cabeça.\n3. Absorva o contato com joelhos flexionados, reabra a guarda e volte a enxergar o alvo.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Blocage",
+      "description": "1. Depuis la garde, identifiez le coup entrant et gainez le tronc sans fermer les yeux ni vous détourner.\n2. Recevez un direct sur les gants ou les avant-bras et couvrez un crochet en serrant gant et coude contre le côté de la tête.\n3. Absorbez le contact avec les genoux fléchis, puis rouvrez la garde et retrouvez la vue de la cible.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Block",
+      "description": "1. Erkenne aus der Deckung den kommenden Schlag und spanne den Rumpf an, ohne die Augen zu schließen oder dich abzuwenden.\n2. Fange eine Gerade mit Handschuhen oder Unterarmen ab und decke einen Haken, indem du Handschuh und Ellbogen eng an die Kopfseite legst.\n3. Federe den Kontakt mit gebeugten Knien ab, öffne die Deckung wieder und nimm das Ziel erneut ins Blickfeld.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Blocco",
+      "description": "1. Dalla guardia, identifica il pugno in arrivo e stabilizza il tronco senza chiudere gli occhi o voltarti.\n2. Ricevi un diretto su guanti o avambracci e copri un gancio stringendo guanto e gomito contro il lato della testa.\n3. Assorbi il contatto con ginocchia piegate, poi riapri la guardia e torna a vedere il bersaglio.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "格挡",
+      "description": "1. 从防守位判断来拳，绷紧躯干，不闭眼或转身躲开。\n2. 用拳套或前臂接住直拳；面对摆拳，将拳套和肘部紧贴头部侧面保护。\n3. 用屈膝吸收接触力量，随后重新打开防守位，恢复对目标的视线。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ブロック",
+      "description": "1. ガードから来るパンチを見極め、目を閉じたり顔を背けたりせず体幹を固めます。\n2. ストレートをグローブや前腕で受け、フックにはグローブと肘を頭の側面へ密着させて防ぎます。\n3. 膝を曲げて衝撃を吸収し、ガードを開き直して目標を再び見ます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "블록",
+      "description": "1. 가드에서 들어오는 펀치를 확인하고 눈을 감거나 몸을 돌리지 않으며 몸통에 힘을 줍니다.\n2. 스트레이트는 글러브나 전완으로 받고 훅은 글러브와 팔꿈치를 머리 옆에 밀착하여 막습니다.\n3. 무릎을 굽혀 충격을 흡수한 뒤 가드를 다시 열고 목표를 보는 시야를 회복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "บล็อก",
+      "description": "1. จากการ์ด ระบุหมัดที่เข้ามาและเกร็งลำตัวโดยไม่หลับตาหรือหันหนี\n2. รับหมัดตรงด้วยนวมหรือท่อนแขน และป้องกันหมัดฮุกโดยเก็บนวมกับศอกแนบด้านข้างศีรษะ\n3. งอเข่าเพื่อรับแรงสัมผัส จากนั้นเปิดการ์ดอีกครั้งและกลับมามองเห็นเป้าหมาย",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Блок",
+      "description": "1. Из защиты определите входящий удар и напрягите корпус, не закрывая глаза и не отворачиваясь.\n2. Принимайте прямой на перчатки или предплечья, а боковой закрывайте, плотно прижимая перчатку и локоть к боковой части головы.\n3. Смягчите контакт согнутыми коленями, затем снова раскройте защиту и восстановите обзор цели.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Блок",
+      "description": "1. Із захисту визначте удар, що наближається, і напружте корпус, не заплющуючи очей і не відвертаючись.\n2. Приймайте прямий удар на рукавички або передпліччя, а боковий прикривайте, щільно притискаючи рукавичку й лікоть до бічної частини голови.\n3. Пом’якшіть контакт зігнутими колінами, потім знову розкрийте захист і відновіть огляд цілі.",
+      "sectionTitle": "База"
+    }
+  }
+}

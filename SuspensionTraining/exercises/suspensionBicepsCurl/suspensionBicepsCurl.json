@@ -1,0 +1,90 @@
+{
+  "id": "22.11",
+  "key": "suspension_suspension_biceps_curl",
+  "title": "Suspension Biceps Curl",
+  "description": "1. Face the anchor with palms up, arms straight at shoulder height, and body leaning back in one line.\n2. Keep the upper arms fixed and bend the elbows to bring the handles toward the temples.\n3. Extend the elbows under control without dropping the hips or letting the straps go slack.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Upper Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Suspension Biceps Curl",
+      "description": "1. Face the anchor with palms up, arms straight at shoulder height, and body leaning back in one line.\n2. Keep the upper arms fixed and bend the elbows to bring the handles toward the temples.\n3. Extend the elbows under control without dropping the hips or letting the straps go slack.",
+      "sectionTitle": "Upper Body"
+    },
+    "es": {
+      "title": "Curl de bíceps en suspensión",
+      "description": "1. Mira hacia el anclaje con las palmas hacia arriba, los brazos rectos a la altura de los hombros y el cuerpo inclinado hacia atrás en una línea.\n2. Mantén fijos los brazos y flexiona los codos para llevar las asas hacia las sienes.\n3. Estira los codos con control sin bajar la cadera ni dejar que las cintas se aflojen.",
+      "sectionTitle": "Tren superior"
+    },
+    "pt": {
+      "title": "Rosca bíceps suspensa",
+      "description": "1. Fique de frente para a ancoragem com as palmas para cima, os braços estendidos na altura dos ombros e o corpo inclinado para trás em linha.\n2. Mantenha os braços fixos e flexione os cotovelos para trazer as alças em direção às têmporas.\n3. Estenda os cotovelos com controle sem deixar o quadril cair nem as fitas afrouxarem.",
+      "sectionTitle": "Membros superiores"
+    },
+    "fr": {
+      "title": "Curl biceps en suspension",
+      "description": "1. Face à l’ancrage, paumes vers le haut, bras tendus à hauteur d’épaules et corps incliné en arrière en ligne.\n2. Gardez les bras immobiles et fléchissez les coudes pour amener les poignées vers les tempes.\n3. Tendez les coudes avec contrôle sans laisser tomber les hanches ni détendre les sangles.",
+      "sectionTitle": "Haut du corps"
+    },
+    "de": {
+      "title": "Bizepscurl im Schlingentrainer",
+      "description": "1. Stell dich mit dem Gesicht zum Anker, Handflächen nach oben, Arme gestreckt auf Schulterhöhe und den Körper in einer Linie nach hinten gelehnt.\n2. Halte die Oberarme fixiert und beuge die Ellenbogen, um die Griffe zu den Schläfen zu führen.\n3. Streck die Ellenbogen kontrolliert, ohne die Hüfte sinken oder die Gurte locker werden zu lassen.",
+      "sectionTitle": "Oberkörper"
+    },
+    "it": {
+      "title": "Curl per bicipiti in sospensione",
+      "description": "1. Di fronte all’ancoraggio, con i palmi in su, le braccia tese all’altezza delle spalle e il corpo inclinato indietro in linea.\n2. Tieni ferme le braccia e piega i gomiti per portare le maniglie verso le tempie.\n3. Distendi i gomiti con controllo senza far scendere le anche né allentare le cinghie.",
+      "sectionTitle": "Parte superiore"
+    },
+    "zh-Hans": {
+      "title": "悬挂二头弯举",
+      "description": "1. 面向锚点，掌心向上，手臂伸直于肩部高度，身体成一条直线向后倾。\n2. 上臂固定不动，屈肘把手柄拉向太阳穴。\n3. 有控制地伸直肘部，不要让髋部下沉或悬挂带松弛。",
+      "sectionTitle": "上肢"
+    },
+    "ja": {
+      "title": "サスペンション・バイセップスカール",
+      "description": "1. アンカーの方を向いて手のひらを上にし、腕を肩の高さでまっすぐ伸ばし、体を一直線にして後ろに傾けます。\n2. 上腕を固定したまま肘を曲げ、ハンドルをこめかみの方へ引き寄せます。\n3. 腰を落としたりストラップを緩めたりせずに、コントロールしながら肘を伸ばします。",
+      "sectionTitle": "上半身"
+    },
+    "ko": {
+      "title": "서스펜션 바이셉스 컬",
+      "description": "1. 앵커를 마주 보고 손바닥을 위로 향하며 팔을 어깨 높이에서 곧게 펴고 몸을 일직선으로 뒤로 기울입니다.\n2. 위팔을 고정한 채 팔꿈치를 굽혀 손잡이를 관자놀이 쪽으로 가져옵니다.\n3. 엉덩이가 처지거나 스트랩이 느슨해지지 않게 통제하며 팔꿈치를 폅니다.",
+      "sectionTitle": "상체"
+    },
+    "th": {
+      "title": "ซัสเพนชันไบเซ็ปส์เคิร์ล",
+      "description": "1. หันหน้าเข้าจุดยึด หงายฝ่ามือ เหยียดแขนตรงที่ระดับไหล่ และเอนตัวไปด้านหลังเป็นแนวเดียว\n2. ล็อกต้นแขนไว้และงอศอกเพื่อดึงที่จับเข้าหาขมับ\n3. เหยียดศอกอย่างควบคุม โดยไม่ให้สะโพกตกหรือสายหย่อน",
+      "sectionTitle": "ร่างกายส่วนบน"
+    },
+    "ru": {
+      "title": "Сгибание рук на бицепс в петлях",
+      "description": "1. Встаньте лицом к креплению, ладони вверх, руки прямые на уровне плеч, тело отклонено назад одной линией.\n2. Зафиксируйте плечи и согните локти, подводя рукоятки к вискам.\n3. Подконтрольно разогните локти, не опуская таз и не ослабляя петли.",
+      "sectionTitle": "Верхняя часть тела"
+    },
+    "uk": {
+      "title": "Згинання рук на біцепс у петлях",
+      "description": "1. Станьте обличчям до кріплення, долоні вгору, руки прямі на рівні плечей, тіло відхилене назад однією лінією.\n2. Зафіксуйте плечі й зігніть лікті, підводячи руків’я до скронь.\n3. Підконтрольно розігніть лікті, не опускаючи таз і не послаблюючи петлі.",
+      "sectionTitle": "Верхня частина тіла"
+    }
+  }
+}

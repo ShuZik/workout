@@ -1,0 +1,90 @@
+{
+  "id": "97.7",
+  "key": "sumo_uchigake",
+  "title": "Uchigake",
+  "description": "1. From a close belt grip, hook your leg inside the partner's leg behind the calf or knee.\n2. Lean forward and drive the chest into the partner while the hooking leg pulls the leg forward.\n3. Fold the partner backward onto padding under control and release the hook as the partner lands.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Uchigake",
+      "description": "1. From a close belt grip, hook your leg inside the partner's leg behind the calf or knee.\n2. Lean forward and drive the chest into the partner while the hooking leg pulls the leg forward.\n3. Fold the partner backward onto padding under control and release the hook as the partner lands.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Uchigake",
+      "description": "1. Desde un agarre cercano al cinturón, engancha tu pierna por dentro de la pierna del compañero detrás de la pantorrilla o la rodilla.\n2. Inclínate hacia delante y empuja con el pecho mientras la pierna que engancha tira de su pierna hacia delante.\n3. Haz caer al compañero hacia atrás sobre el acolchado con control y suelta el gancho al aterrizar.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Uchigake",
+      "description": "1. Com uma pegada próxima na faixa, enganche sua perna por dentro da perna do parceiro atrás da panturrilha ou do joelho.\n2. Incline-se à frente e empurre com o peito enquanto a perna que engancha puxa a perna dele para a frente.\n3. Derrube o parceiro para trás sobre o acolchoado com controle e solte o gancho quando ele cair.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Uchigake",
+      "description": "1. Depuis une saisie de ceinture rapprochée, crochetez votre jambe à l’intérieur de celle du partenaire derrière le mollet ou le genou.\n2. Penchez-vous en avant et poussez avec la poitrine pendant que la jambe en crochet tire sa jambe vers l’avant.\n3. Faites basculer le partenaire en arrière sur le rembourrage avec contrôle et relâchez le crochet à la réception.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Uchigake",
+      "description": "1. Hake aus engem Gürtelgriff dein Bein innen hinter Wade oder Knie des Partners ein.\n2. Lehne dich nach vorn und drücke mit der Brust, während das hakende Bein sein Bein nach vorn zieht.\n3. Lass den Partner kontrolliert nach hinten auf die weiche Unterlage fallen und löse den Haken bei der Landung.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Uchigake",
+      "description": "1. Da una presa ravvicinata alla cintura, aggancia la tua gamba all’interno di quella del partner dietro il polpaccio o il ginocchio.\n2. Inclinati in avanti e spingi con il petto mentre la gamba che aggancia tira la sua gamba in avanti.\n3. Fai cadere il partner all’indietro sull’imbottitura con controllo e lascia il gancio all’atterraggio.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "内挂",
+      "description": "1. 在贴近的腰带抓握下，用你的腿从内侧勾住同伴小腿或膝后。\n2. 身体前倾用胸口推压，同时勾腿把对方的腿向前拉。\n3. 受控地让同伴向后倒在软垫上，落地时松开勾腿。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "内掛け",
+      "description": "1. 近いまわしの組み手から、自分の脚を相手の脚の内側からふくらはぎか膝裏に掛けます。\n2. 前へ体を預けて胸で押しながら、掛けた脚で相手の脚を前へ引きます。\n3. 相手をマットの上へ後ろに制御して倒し、着地したら掛けを外します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "우치가케",
+      "description": "1. 가까운 샅바 그립에서 내 다리를 상대 다리 안쪽에서 종아리나 무릎 뒤로 겁니다.\n2. 앞으로 기울며 가슴으로 밀고, 건 다리로 상대 다리를 앞으로 당깁니다.\n3. 상대를 매트 위로 뒤로 통제하며 넘기고 착지하면 다리를 풉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "อุจิงาเกะ",
+      "description": "1. จากการจับผ้าคาดเอวระยะชิด เกี่ยวขาคุณเข้าด้านในขาคู่ฝึกที่หลังน่องหรือหลังเข่า\n2. โน้มตัวไปข้างหน้าและดันด้วยหน้าอก ขณะที่ขาที่เกี่ยวดึงขาคู่ฝึกมาข้างหน้า\n3. พับคู่ฝึกล้มหงายลงบนพื้นบุนุ่มอย่างควบคุม และปล่อยขาที่เกี่ยวเมื่อลงถึงพื้น",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Утигакэ",
+      "description": "1. Из плотного захвата за пояс зацепите своей ногой ногу партнёра изнутри за икру или под коленом.\n2. Подайтесь вперёд и давите грудью, пока зацепляющая нога тянет его ногу вперёд.\n3. Подконтрольно уложите партнёра назад на мягкое покрытие и снимите зацеп при приземлении.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Утігаке",
+      "description": "1. З щільного захвату за пояс зачепіть своєю ногою ногу партнера зсередини за литку чи під коліном.\n2. Подайтеся вперед і тисніть грудьми, поки зачіпна нога тягне його ногу вперед.\n3. Під контролем покладіть партнера назад на м’яке покриття й зніміть зачеп під час приземлення.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

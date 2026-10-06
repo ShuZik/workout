@@ -1,0 +1,87 @@
+{
+  "id": "99.5",
+  "key": "taekkyeon_gyeoru_gi",
+  "title": "Gyeoru-gi",
+  "description": "1. Face a partner in pum-balgi under a referee or coach, agree on light contact and the rule set in use.\n2. Exchange push kicks, face-height kicks, and trips, trying to unbalance the partner so that a hand or knee touches the floor while protecting yourself.\n3. Stop immediately at the call or when a partner falls, help them up, and reset to the starting distance before the next exchange.",
+  "colorType": "green",
+  "workoutType": "taekkyeon",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "4 Sparring",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Gyeoru-gi",
+      "description": "1. Face a partner in pum-balgi under a referee or coach, agree on light contact and the rule set in use.\n2. Exchange push kicks, face-height kicks, and trips, trying to unbalance the partner so that a hand or knee touches the floor while protecting yourself.\n3. Stop immediately at the call or when a partner falls, help them up, and reset to the starting distance before the next exchange.",
+      "sectionTitle": "Sparring"
+    },
+    "es": {
+      "title": "Gyeoru-gi",
+      "description": "1. Enfrenta a un compañero en pum-balgi bajo un árbitro o entrenador y acordad contacto ligero y el reglamento usado.\n2. Intercambiad patadas de empuje, patadas a la altura de la cara y zancadillas, intentando desequilibrar al compañero para que una mano o rodilla toque el suelo mientras te proteges.\n3. Deteneos de inmediato a la señal o cuando alguien caiga, ayudadle a levantarse y volved a la distancia inicial antes del siguiente intercambio.",
+      "sectionTitle": "Combate"
+    },
+    "pt": {
+      "title": "Gyeoru-gi",
+      "description": "1. Enfrente um parceiro em pum-balgi sob um árbitro ou treinador e combinem contato leve e o regulamento usado.\n2. Troquem chutes de empurrão, chutes na altura do rosto e rasteiras, tentando desequilibrar o parceiro para que uma mão ou joelho toque o chão enquanto se protegem.\n3. Parem imediatamente ao sinal ou quando alguém cair, ajudem a levantar e voltem à distância inicial antes da próxima troca.",
+      "sectionTitle": "Combate"
+    },
+    "fr": {
+      "title": "Gyeoru-gi",
+      "description": "1. Face à un partenaire en pum-balgi sous un arbitre ou un entraîneur, convenez d’un contact léger et du règlement utilisé.\n2. Échangez coups de pied poussés, coups de pied à hauteur de visage et crochets de jambe pour déséquilibrer le partenaire jusqu’à ce qu’une main ou un genou touche le sol, tout en vous protégeant.\n3. Arrêtez-vous immédiatement au signal ou en cas de chute, aidez à se relever et reprenez la distance de départ avant l’échange suivant.",
+      "sectionTitle": "Combat"
+    },
+    "de": {
+      "title": "Gyeoru-gi",
+      "description": "1. Einem Partner im Pum-Balgi unter Schiedsrichter oder Trainer gegenüberstehen, leichten Kontakt und Regelwerk vereinbaren.\n2. Stoßtritte, Tritte auf Gesichtshöhe und Fußfeger austauschen und versuchen, den Partner so aus dem Gleichgewicht zu bringen, dass Hand oder Knie den Boden berührt, dabei sich selbst schützen.\n3. Beim Kommando oder bei einem Sturz sofort stoppen, aufhelfen und vor dem nächsten Austausch zur Ausgangsdistanz zurückkehren.",
+      "sectionTitle": "Sparring"
+    },
+    "it": {
+      "title": "Gyeoru-gi",
+      "description": "1. Di fronte a un partner in pum-balgi sotto un arbitro o allenatore, concordate contatto leggero e regolamento.\n2. Scambiate calci di spinta, calci all’altezza del viso e sgambetti cercando di sbilanciare il partner finché una mano o un ginocchio tocca terra, proteggendovi.\n3. Fermatevi subito al segnale o quando qualcuno cade, aiutatelo a rialzarsi e tornate alla distanza iniziale prima dello scambio successivo.",
+      "sectionTitle": "Combattimento"
+    },
+    "zh-Hans": {
+      "title": "对决（겨루기）",
+      "description": "1. 在裁判或教练监督下与同伴以品步相对，约定轻接触和所用规则。\n2. 互相使用推踢、面部高度的踢和绊腿，设法使对方失去平衡令手或膝触地，同时保护自己。\n3. 听到口令或有人倒地时立即停止，扶对方起身，回到起始距离再开始下一回合。",
+      "sectionTitle": "实战"
+    },
+    "ja": {
+      "title": "キョルギ（対戦）",
+      "description": "1. 審判または指導者のもと、プムバルギで相手と向き合い、軽い接触と使用する規則を確認します。\n2. 押し蹴り、顔の高さの蹴り、足掛けを交わし、相手の手や膝が床に着くよう崩しつつ自分を守ります。\n3. 合図があるか相手が倒れたら直ちに止め、助け起こし、開始の間合いに戻ってから次の攻防を始めます。",
+      "sectionTitle": "組手・試合"
+    },
+    "ko": {
+      "title": "겨루기",
+      "description": "1. 심판이나 지도자 아래에서 품밟기로 짝과 마주 서서 가벼운 접촉과 적용 규칙을 정합니다.\n2. 밀어차기, 얼굴 높이 발질, 걸이를 주고받으며 상대의 손이나 무릎이 바닥에 닿도록 중심을 무너뜨리고 자신을 보호합니다.\n3. 신호가 있거나 상대가 넘어지면 즉시 멈추고 일으켜 준 뒤 시작 거리로 돌아가 다음 공방을 합니다.",
+      "sectionTitle": "겨루기"
+    },
+    "th": {
+      "title": "คยอรูกี",
+      "description": "1. เผชิญหน้าคู่ในท่าพุมบัลกีภายใต้กรรมการหรือโค้ช ตกลงการสัมผัสเบาและกติกาที่ใช้\n2. แลกการเตะดัน การเตะระดับใบหน้า และการขัดขา พยายามทำให้คู่เสียหลักจนมือหรือเข่าแตะพื้น พร้อมป้องกันตนเอง\n3. หยุดทันทีเมื่อได้ยินสัญญาณหรือเมื่อมีคนล้ม ช่วยพยุงขึ้น และกลับสู่ระยะเริ่มต้นก่อนแลกครั้งถัดไป",
+      "sectionTitle": "การต่อสู้"
+    },
+    "ru": {
+      "title": "Кёруги",
+      "description": "1. Встаньте против партнёра в пум-бальги под контролем судьи или тренера, договоритесь о лёгком контакте и используемых правилах.\n2. Обменивайтесь толчковыми ударами ногой, ударами на уровне лица и подсечками, стараясь вывести партнёра из равновесия так, чтобы рука или колено коснулись пола, и защищаясь сами.\n3. Немедленно останавливайтесь по команде или при падении, помогите подняться и вернитесь на исходную дистанцию перед следующим обменом.",
+      "sectionTitle": "Спарринг"
+    },
+    "uk": {
+      "title": "Кьоругі",
+      "description": "1. Станьте проти партнера в пум-бальгі під контролем судді або тренера, домовтеся про легкий контакт і правила, що застосовуються.\n2. Обмінюйтеся поштовховими ударами ногою, ударами на рівні обличчя й підсічками, намагаючись вивести партнера з рівноваги так, щоб рука або коліно торкнулися підлоги, і захищаючись самі.\n3. Негайно зупиняйтеся за командою або при падінні, допоможіть підвестися й поверніться на вихідну дистанцію перед наступним обміном.",
+      "sectionTitle": "Спаринг"
+    }
+  }
+}

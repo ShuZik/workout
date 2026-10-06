@@ -1,0 +1,90 @@
+{
+  "id": "8.34",
+  "key": "taekwondo_toi_gye",
+  "title": "Toi-Gye",
+  "description": "1. Start in closed ready stance B and perform the 37-movement pattern, opening with an inner forearm block in L-stance and a low upset fingertip thrust.\n2. Include the side back-fist strikes, the W-shape blocks travelling in sitting stance with stamping steps, the X-fist pressing block and the knee kick while pulling with both hands.\n3. Finish with the double arc-hand blocks and closing punches, then return to closed ready stance B.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Toi-Gye",
+      "description": "1. Start in closed ready stance B and perform the 37-movement pattern, opening with an inner forearm block in L-stance and a low upset fingertip thrust.\n2. Include the side back-fist strikes, the W-shape blocks travelling in sitting stance with stamping steps, the X-fist pressing block and the knee kick while pulling with both hands.\n3. Finish with the double arc-hand blocks and closing punches, then return to closed ready stance B.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Toi-Gye",
+      "description": "1. Empieza en posición de preparación cerrada B y realiza el patrón de 37 movimientos, abriendo con un bloqueo de antebrazo interior en posición en L y una estocada baja invertida con la punta de los dedos.\n2. Incluye los golpes laterales con dorso del puño, los bloqueos en W avanzando en posición sentada con pisotones, el bloqueo de presión con puños cruzados y el rodillazo tirando con ambas manos.\n3. Termina con los bloqueos dobles en arco y los puñetazos finales y vuelve a la posición de preparación cerrada B.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Toi-Gye",
+      "description": "1. Comece na posição de preparação fechada B e execute o padrão de 37 movimentos, abrindo com bloqueio de antebraço interno na base em L e estocada baixa invertida com a ponta dos dedos.\n2. Inclua os golpes laterais com o dorso do punho, os bloqueios em W avançando em base sentada com pisões, o bloqueio de pressão com punhos cruzados e a joelhada puxando com as duas mãos.\n3. Termine com os bloqueios duplos em arco e os socos finais e volte à posição de preparação fechada B.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Toi-Gye",
+      "description": "1. Partez en position de préparation fermée B et exécutez l’enchaînement de 37 mouvements, en ouvrant par un blocage avant-bras intérieur en position en L et un pique bas retourné du bout des doigts.\n2. Intégrez les revers latéraux, les blocages en W qui avancent en position assise avec frappes de pied au sol, le blocage pressant poings croisés et le coup de genou en tirant des deux mains.\n3. Terminez par les doubles blocages en arc et les coups de poing finaux, puis revenez en position de préparation fermée B.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Toi-Gye",
+      "description": "1. Beginne im geschlossenen Bereitschaftsstand B und laufe die 37 Bewegungen, eröffnet mit Innenunterarmblock im L-Stand und tiefem umgedrehtem Fingerspitzenstich.\n2. Baue seitliche Rückfaustschläge, die im Sitzstand mit Stampfschritten wandernden W-Blocks, den gekreuzten Fausthalteblock und den Kniestoß mit beidhändigem Ziehen ein.\n3. Schließe mit den doppelten Bogenhandblocks und Abschlussfauststößen ab und kehre in den geschlossenen Bereitschaftsstand B zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Toi-Gye",
+      "description": "1. Parti dalla posizione di pronti chiusa B ed esegui la forma di 37 movimenti, aprendo con parata d’avambraccio interno in posizione a L e stoccata bassa rovesciata con la punta delle dita.\n2. Inserisci i colpi laterali di dorso del pugno, le parate a W che avanzano in posizione seduta con battute del piede, la parata a pressione a pugni incrociati e la ginocchiata tirando con entrambe le mani.\n3. Concludi con le doppie parate ad arco e i pugni finali, poi torna alla posizione di pronti chiusa B.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "退溪型（Toi-Gye）",
+      "description": "1. 以合步预备式B开始，完成37个动作，开头为L形步内腕格挡与下段仰指尖刺。\n2. 包括侧背拳、坐马步跺脚移动的W形格挡、交叉拳下压挡以及双手拉扯同时提膝撞。\n3. 以双弧形手格挡和收尾冲拳结束，回到合步预备式B。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "テゲ（退渓）",
+      "description": "1. 閉足準備立ちBから始め、L字立ちの内腕受けと下段上向き貫手で37動作の型を開始します。\n2. 横裏拳打ち、騎馬立ちで踏み込みながら移動するW字受け、交差拳押さえ受け、両手で引きながらの膝蹴りを含めます。\n3. 双弧手受けと締めの突きで終え、閉足準備立ちBに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "퇴계",
+      "description": "1. 모아 준비서기 B에서 시작해 L서기 안팔목 막기와 하단 뒤집어 손끝 찌르기로 37동작 틀을 엽니다.\n2. 옆 등주먹 치기, 앉은서기로 굴러 밟으며 이동하는 산틀 막기, X주먹 눌러막기, 두 손으로 당기며 무릎차기를 포함합니다.\n3. 쌍반달손 막기와 마무리 지르기로 끝내고 모아 준비서기 B로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "เทวเก",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบชิด B และทำรูปแบบ 37 จังหวะ โดยเปิดด้วยการปัดด้วยแขนด้านในในท่ายืนรูปตัวแอลและการแทงปลายนิ้วหงายระดับต่ำ\n2. รวมการตีหลังกำปั้นด้านข้าง การปัดรูปตัว W ที่เคลื่อนไปในท่ายืนนั่งพร้อมกระทืบเท้า การปัดกดด้วยกำปั้นไขว้ และการตีเข่าขณะดึงด้วยสองมือ\n3. จบด้วยการปัดด้วยมือโค้งคู่และหมัดปิดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบชิด B",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхве-Ге",
+      "description": "1. Начните из закрытой готовой стойки B и выполните туль из 37 движений, открыв его блоком внутренней стороной предплечья в L-образной стойке и низким перевёрнутым тычком пальцами.\n2. Включите боковые удары тыльной стороной кулака, W-образные блоки с перемещением в стойке всадника с притопом, прижимающий блок скрещёнными кулаками и удар коленом с притягиванием двумя руками.\n3. Завершите двойными блоками дугой ладони и заключительными ударами и вернитесь в закрытую готовую стойку B.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхве-Ге",
+      "description": "1. Почніть із закритої готової стійки B й виконайте туль із 37 рухів, відкривши його блоком внутрішнім боком передпліччя в L-подібній стійці та низьким перевернутим тичком пальцями.\n2. Додайте бічні удари тильним боком кулака, W-подібні блоки з переміщенням у стійці вершника з притупуванням, притискний блок схрещеними кулаками та удар коліном із притягуванням двома руками.\n3. Завершіть подвійними блоками дугою долоні й завершальними ударами та поверніться в закриту готову стійку B.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

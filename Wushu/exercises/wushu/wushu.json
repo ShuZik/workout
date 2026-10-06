@@ -1,0 +1,90 @@
+{
+  "id": "109.1",
+  "key": "wushu",
+  "title": "Wushu",
+  "description": "1. Begin in a ready stance with the feet together, fists at the waist, and a clear practice area around you.\n2. Practise basic wushu stances, punches, palms, and kicks, then link them into short taolu sections with full extension and sharp finishing postures.\n3. Hold each posture briefly, land any jump on soft knees, and close with the wushu salute.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wushu",
+      "description": "1. Begin in a ready stance with the feet together, fists at the waist, and a clear practice area around you.\n2. Practise basic wushu stances, punches, palms, and kicks, then link them into short taolu sections with full extension and sharp finishing postures.\n3. Hold each posture briefly, land any jump on soft knees, and close with the wushu salute.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Wushu",
+      "description": "1. Empieza en posición de preparación con los pies juntos, los puños en la cintura y una zona de práctica despejada.\n2. Practica posiciones, puñetazos, palmas y patadas básicas de wushu y luego enlázalos en secciones cortas de taolu con extensión completa y posturas finales nítidas.\n3. Mantén brevemente cada postura, aterriza los saltos con las rodillas flexibles y cierra con el saludo de wushu.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Wushu",
+      "description": "1. Comece em posição de prontidão com os pés juntos, punhos na cintura e uma área de treino livre.\n2. Pratique bases, socos, palmas e chutes básicos de wushu e depois ligue-os em trechos curtos de taolu com extensão total e posturas finais nítidas.\n3. Mantenha cada postura por um instante, aterrisse os saltos com os joelhos flexionados e termine com a saudação do wushu.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Wushu",
+      "description": "1. Commencez en position prête, pieds joints, poings aux hanches, dans un espace dégagé.\n2. Travaillez les positions, coups de poing, paumes et coups de pied de base du wushu, puis enchaînez-les en courtes sections de taolu avec une extension complète et des postures finales nettes.\n3. Marquez brièvement chaque posture, réceptionnez les sauts genoux souples et terminez par le salut du wushu.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Wushu",
+      "description": "1. Beginne in Bereitschaftsstellung mit geschlossenen Füßen, Fäusten an der Hüfte und freiem Übungsbereich.\n2. Übe grundlegende Wushu-Stellungen, Fauststöße, Handflächenstöße und Tritte und verbinde sie zu kurzen Taolu-Abschnitten mit voller Streckung und klaren Endpositionen.\n3. Halte jede Position kurz, lande Sprünge mit weichen Knien und schließe mit dem Wushu-Gruß ab.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Wushu",
+      "description": "1. Inizia in posizione di pronto con i piedi uniti, i pugni ai fianchi e uno spazio libero intorno.\n2. Esercita posizioni, pugni, palmi e calci di base del wushu, poi collegali in brevi sezioni di taolu con estensione completa e posture finali nette.\n3. Mantieni brevemente ogni postura, atterra dai salti con le ginocchia morbide e chiudi con il saluto del wushu.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "武术",
+      "description": "1. 并步站立，双拳抱于腰间，确保练习区域开阔。\n2. 练习武术基本步型、拳法、掌法和腿法，再连成短小的套路段落，动作舒展，定势干净利落。\n3. 每个定势稍作停顿，跳跃落地时屈膝缓冲，最后以抱拳礼收势。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "武術（ウーシュー）",
+      "description": "1. 足をそろえ、拳を腰に構えた準備姿勢で、周囲に十分なスペースを確保して始めます。\n2. 武術の基本的な歩型、突き、掌、蹴りを練習し、伸びのある動きと鋭い決めの姿勢で短い套路の区切りにつなげます。\n3. 各姿勢を一瞬保ち、跳躍は膝を柔らかくして着地し、武術の礼で締めくくります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "우슈",
+      "description": "1. 두 발을 모으고 주먹을 허리에 둔 준비 자세에서 주변 공간을 확보하고 시작합니다.\n2. 우슈의 기본 보형, 주먹, 장, 발차기를 연습한 뒤 충분히 뻗는 동작과 분명한 마무리 자세로 짧은 투로 구간을 연결합니다.\n3. 각 자세를 잠깐 유지하고 점프는 무릎을 부드럽게 굽혀 착지한 뒤 우슈 인사로 마칩니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "วูซู",
+      "description": "1. เริ่มในท่าเตรียมโดยชิดเท้า กำหมัดไว้ที่เอว และมีพื้นที่ฝึกโล่งรอบตัว\n2. ฝึกท่ายืน หมัด ฝ่ามือ และการเตะพื้นฐานของวูซู แล้วเชื่อมเป็นช่วงสั้น ๆ ของเถ้าลู่ด้วยการเหยียดเต็มที่และท่าจบที่ชัดเจน\n3. ค้างแต่ละท่าสั้น ๆ ลงจากการกระโดดโดยงอเข่านุ่ม ๆ แล้วจบด้วยการคารวะแบบวูซู",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Ушу",
+      "description": "1. Начните в стойке готовности: стопы вместе, кулаки у пояса, вокруг свободное пространство.\n2. Отрабатывайте базовые стойки, удары кулаком и ладонью, удары ногами ушу, затем связывайте их в короткие фрагменты таолу с полным выпрямлением и чёткими финальными позами.\n3. Кратко фиксируйте каждую позу, приземляйтесь после прыжков на мягкие колени и завершите приветствием ушу.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Ушу",
+      "description": "1. Почніть у стійці готовності: стопи разом, кулаки біля пояса, довкола вільний простір.\n2. Відпрацьовуйте базові стійки, удари кулаком і долонею, удари ногами ушу, потім поєднуйте їх у короткі фрагменти таолу з повним випрямленням і чіткими фінальними позами.\n3. Коротко фіксуйте кожну позу, приземляйтеся після стрибків на м’які коліна й завершіть привітанням ушу.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

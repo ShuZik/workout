@@ -1,0 +1,90 @@
+{
+  "id": "3.19",
+  "key": "kick_boxing_spinning_back_kick",
+  "title": "Spinning Back Kick",
+  "description": "1. From stance, turn the head first to locate the target and pivot on the lead foot until the back faces it.\n2. Chamber the rear knee under the body and drive the heel straight backward without swinging it sideways.\n3. Retract the heel to the chamber, complete the turn, and recover the guard before moving again.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Spinning Back Kick",
+      "description": "1. From stance, turn the head first to locate the target and pivot on the lead foot until the back faces it.\n2. Chamber the rear knee under the body and drive the heel straight backward without swinging it sideways.\n3. Retract the heel to the chamber, complete the turn, and recover the guard before moving again.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Patada trasera giratoria",
+      "description": "1. Desde la postura, gira primero la cabeza para localizar el objetivo y pivota sobre el pie delantero hasta darle la espalda.\n2. Recoge la rodilla trasera bajo el cuerpo y proyecta el talón en línea recta hacia atrás sin abrirlo hacia el lado.\n3. Recoge el talón a la posición de carga, completa el giro y recupera la guardia antes de moverte de nuevo.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Chute giratório para trás",
+      "description": "1. Na base, gire primeiro a cabeça para localizar o alvo e gire sobre o pé da frente até ficar de costas para ele.\n2. Recolha o joelho de trás sob o corpo e projete o calcanhar em linha reta para trás sem abrir para o lado.\n3. Recolha o calcanhar à posição de carga, complete o giro e recupere a guarda antes de se mover novamente.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Coup de pied arrière retourné",
+      "description": "1. En garde, tournez d’abord la tête pour repérer la cible et pivotez sur le pied avant jusqu’à lui tourner le dos.\n2. Armez le genou arrière sous le corps et projetez le talon droit vers l’arrière sans le balancer sur le côté.\n3. Ramenez le talon en armé, terminez la rotation et retrouvez la garde avant de bouger à nouveau.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Gedrehter Rückwärtstritt",
+      "description": "1. Drehe aus der Stellung zuerst den Kopf, um das Ziel zu finden, und drehe auf dem vorderen Fuß, bis der Rücken zum Ziel zeigt.\n2. Ziehe das hintere Knie unter den Körper und stoße die Ferse gerade nach hinten, ohne sie seitlich zu schwingen.\n3. Ziehe die Ferse in die Aufzugsposition zurück, vollende die Drehung und stelle die Deckung her, bevor du dich weiterbewegst.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Calcio all’indietro girato",
+      "description": "1. Dalla posizione, gira prima la testa per individuare il bersaglio e ruota sul piede anteriore fino a dargli la schiena.\n2. Carica il ginocchio posteriore sotto il corpo e spingi il tallone dritto all’indietro senza farlo oscillare di lato.\n3. Richiama il tallone in caricamento, completa la rotazione e ritrova la guardia prima di muoverti di nuovo.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "转身后踢",
+      "description": "1. 从站姿开始，先转头锁定目标，以前脚为轴转身，直到背对目标。\n2. 后膝收于身下，脚跟直线向后踢出，不要向侧面甩。\n3. 脚跟收回提膝位置，完成转身，恢复防守后再移动。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "スピニングバックキック",
+      "description": "1. 構えからまず頭を回して標的を捉え、背中が標的に向くまで前足を軸に回ります。\n2. 後ろの膝を体の下で抱え込み、横に振らずにかかとをまっすぐ後ろへ蹴り出します。\n3. かかとを抱え込みの位置に戻して回転を完了し、ガードを戻してから次に動きます。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "스피닝 뒤차기",
+      "description": "1. 자세에서 먼저 고개를 돌려 목표를 확인하고 등이 목표를 향할 때까지 앞발을 축으로 돕니다.\n2. 뒷무릎을 몸 아래로 접고 옆으로 휘두르지 않은 채 발뒤꿈치를 곧장 뒤로 뻗습니다.\n3. 발뒤꿈치를 접은 자세로 회수하고 회전을 마친 뒤 가드를 회복하고 다시 움직입니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "ถีบกลับหลังหมุนตัว",
+      "description": "1. จากท่ายืน หันศีรษะก่อนเพื่อมองหาเป้า แล้วหมุนบนเท้าหน้าจนหลังหันเข้าหาเป้า\n2. ยกเข่าหลังเก็บไว้ใต้ลำตัวและถีบส้นเท้าตรงไปด้านหลังโดยไม่เหวี่ยงออกด้านข้าง\n3. เก็บส้นเท้ากลับมาที่ท่ายกเข่า หมุนตัวให้ครบรอบ และยกการ์ดก่อนเคลื่อนที่ต่อ",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Удар ногой назад с разворота",
+      "description": "1. Из стойки сначала поверните голову, чтобы увидеть цель, и развернитесь на передней стопе спиной к ней.\n2. Подтяните заднее колено под корпус и вытолкните пятку прямо назад, не уводя её в сторону.\n3. Верните пятку в положение подъёма колена, завершите разворот и восстановите защиту, прежде чем двигаться дальше.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Удар ногою назад із розвороту",
+      "description": "1. Зі стійки спочатку поверніть голову, щоб побачити ціль, і розверніться на передній стопі спиною до неї.\n2. Підтягніть заднє коліно під корпус і виштовхніть п’яту прямо назад, не відводячи її вбік.\n3. Поверніть п’яту в положення підйому коліна, завершіть розворот і відновіть захист, перш ніж рухатися далі.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

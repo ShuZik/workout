@@ -1,0 +1,90 @@
+{
+  "id": "97.3",
+  "key": "sumo_tsukidashi",
+  "title": "Tsukidashi",
+  "description": "1. From a low stance, extend alternating open-palm thrusts to the partner's chest or a held pad while stepping forward.\n2. Keep the hips low and drive each thrust from the legs with the elbows close rather than swinging the arms.\n3. Thrust the partner back to the edge of the zone, then pause and return to the center to reset.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tsukidashi",
+      "description": "1. From a low stance, extend alternating open-palm thrusts to the partner's chest or a held pad while stepping forward.\n2. Keep the hips low and drive each thrust from the legs with the elbows close rather than swinging the arms.\n3. Thrust the partner back to the edge of the zone, then pause and return to the center to reset.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Tsukidashi",
+      "description": "1. Desde una guardia baja, lanza empujes alternos con la palma abierta al pecho del compañero o a un escudo mientras avanzas.\n2. Mantén la cadera baja e impulsa cada empuje desde las piernas con los codos cerca, sin balancear los brazos.\n3. Empuja al compañero hasta el borde de la zona, luego haz una pausa y vuelve al centro para reiniciar.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Tsukidashi",
+      "description": "1. Em base baixa, aplique empurrões alternados de palma aberta no peito do parceiro ou num aparador enquanto avança.\n2. Mantenha o quadril baixo e gere cada empurrão nas pernas com os cotovelos próximos, sem balançar os braços.\n3. Empurre o parceiro até a borda da área, depois pause e volte ao centro para recomeçar.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Tsukidashi",
+      "description": "1. Depuis une garde basse, lancez des poussées alternées paume ouverte vers la poitrine du partenaire ou un bouclier en avançant.\n2. Gardez les hanches basses et générez chaque poussée par les jambes, coudes près du corps, sans balancer les bras.\n3. Repoussez le partenaire jusqu’au bord de la zone, puis marquez une pause et revenez au centre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Tsukidashi",
+      "description": "1. Stoße aus tiefer Haltung abwechselnd mit offener Handfläche gegen die Brust des Partners oder ein Pad, während du vorwärts gehst.\n2. Halte die Hüfte tief und treibe jeden Stoß aus den Beinen mit engen Ellbogen, statt die Arme zu schwingen.\n3. Stoße den Partner bis zum Rand der Zone, halte dann kurz an und kehre zum Neustart in die Mitte zurück.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Tsukidashi",
+      "description": "1. Da una guardia bassa, esegui spinte alternate a palmo aperto al petto del partner o su un colpitore mentre avanzi.\n2. Tieni le anche basse e genera ogni spinta dalle gambe con i gomiti vicini, senza far oscillare le braccia.\n3. Spingi il partner fino al bordo della zona, poi fai una pausa e torna al centro per ripartire.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "突出",
+      "description": "1. 以低位姿势前进，用张开的手掌交替推击同伴胸口或手持护垫。\n2. 保持髋部低位，每次推击由腿部发力，肘部贴近，不要甩臂。\n3. 把同伴推到区域边缘，然后停顿并回到中央重新开始。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "突き出し",
+      "description": "1. 低い構えから前進しつつ、開いた手のひらで相手の胸か持ったミットへ交互に突きます。\n2. 腰を低く保ち、腕を振り回さず脇を締めて一突きごとに脚から押し出します。\n3. 相手を区域の端まで突き出したら一呼吸置き、中央へ戻って仕切り直します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "쓰키다시",
+      "description": "1. 낮은 자세에서 앞으로 나아가며 편 손바닥으로 파트너의 가슴이나 미트를 번갈아 밀어 칩니다.\n2. 엉덩이를 낮게 유지하고 팔을 휘두르지 말고 팔꿈치를 붙인 채 매번 다리에서 힘을 냅니다.\n3. 파트너를 구역 가장자리까지 밀어낸 뒤 잠시 멈추고 중앙으로 돌아가 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "สึกิดาชิ",
+      "description": "1. จากท่าต่ำ ดันฝ่ามือเปิดสลับซ้ายขวาเข้าที่หน้าอกคู่ฝึกหรือเป้าที่ถือไว้พร้อมก้าวไปข้างหน้า\n2. รักษาสะโพกต่ำ ส่งแรงดันแต่ละครั้งจากขา ศอกชิดตัว ไม่เหวี่ยงแขน\n3. ดันคู่ฝึกไปถึงขอบพื้นที่ แล้วหยุดพักและกลับกลางวงเพื่อเริ่มใหม่",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Цукидаси",
+      "description": "1. Из низкой стойки наносите поочерёдные толчки открытой ладонью в грудь партнёра или в лапу, продвигаясь вперёд.\n2. Держите таз низко и посылайте каждый толчок от ног, локти близко, не размахивая руками.\n3. Вытолкните партнёра к краю зоны, затем сделайте паузу и вернитесь в центр.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Цукідасі",
+      "description": "1. З низької стійки завдавайте почергових поштовхів відкритою долонею в груди партнера або в лапу, просуваючись уперед.\n2. Тримайте таз низько й посилайте кожен поштовх від ніг, лікті близько, не розмахуючи руками.\n3. Виштовхніть партнера до краю зони, потім зробіть паузу й поверніться в центр.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

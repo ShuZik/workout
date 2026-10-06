@@ -1,0 +1,90 @@
+{
+  "id": "98.2",
+  "key": "tae_soo_do_il_bo_dae_ryun",
+  "title": "Il Bo Dae Ryun",
+  "description": "1. Face a partner at one step's distance; the attacker announces readiness and steps back into a stance with a prescribed punch or kick ready.\n2. The attacker steps in with the single agreed attack; the defender blocks or evades and answers with the prescribed counter, stopping short of contact or with light pad contact.\n3. Both return to the start positions, repeat the sequence on the other side, and switch roles after each set.",
+  "color": "#EA7CC7",
+  "colorType": "pink",
+  "workoutType": "taeSooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Il Bo Dae Ryun",
+      "description": "1. Face a partner at one step's distance; the attacker announces readiness and steps back into a stance with a prescribed punch or kick ready.\n2. The attacker steps in with the single agreed attack; the defender blocks or evades and answers with the prescribed counter, stopping short of contact or with light pad contact.\n3. Both return to the start positions, repeat the sequence on the other side, and switch roles after each set.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Il Bo Dae Ryun",
+      "description": "1. Ponte frente a un compañero a un paso de distancia; el atacante indica que está listo y retrocede a una posición con el puñetazo o la patada prescritos preparados.\n2. El atacante entra con el único ataque acordado; el defensor bloquea o esquiva y responde con el contraataque prescrito, deteniéndose antes del contacto o con contacto ligero en almohadilla.\n3. Ambos vuelven a la posición inicial, repiten la secuencia hacia el otro lado e intercambian papeles tras cada serie.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Il Bo Dae Ryun",
+      "description": "1. Fique de frente para um parceiro a um passo de distância; o atacante indica que está pronto e recua para uma base com o soco ou chute prescrito preparado.\n2. O atacante entra com o único ataque combinado; o defensor bloqueia ou esquiva e responde com o contra-ataque prescrito, parando antes do contato ou com contato leve em aparador.\n3. Ambos voltam às posições iniciais, repetem a sequência para o outro lado e trocam os papéis após cada série.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Il Bo Dae Ryun",
+      "description": "1. Face à un partenaire à un pas de distance ; l’attaquant annonce qu’il est prêt et recule en position, coup de poing ou de pied prévu armé.\n2. L’attaquant entre avec l’unique attaque convenue ; le défenseur bloque ou esquive et répond par la riposte prévue, en s’arrêtant avant le contact ou avec un contact léger sur protection.\n3. Revenez tous deux au départ, répétez de l’autre côté et inversez les rôles après chaque série.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Il Bo Dae Ryun",
+      "description": "1. Einem Partner auf einen Schritt Abstand gegenüber; der Angreifer meldet Bereitschaft und tritt mit vorbereitetem vorgeschriebenem Fauststoß oder Tritt in eine Stellung zurück.\n2. Der Angreifer tritt mit dem einen vereinbarten Angriff vor; der Verteidiger blockt oder weicht aus und antwortet mit dem vorgeschriebenen Konter, vor dem Kontakt stoppend oder mit leichtem Polsterkontakt.\n3. Beide kehren in die Ausgangspositionen zurück, wiederholen die Folge zur anderen Seite und tauschen nach jedem Satz die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Il Bo Dae Ryun",
+      "description": "1. Di fronte a un partner a un passo di distanza; l’attaccante segnala di essere pronto e arretra in posizione con il pugno o calcio previsto pronto.\n2. L’attaccante entra con l’unico attacco concordato; il difensore para o schiva e risponde con il contrattacco previsto, fermandosi prima del contatto o con contatto leggero su protezione.\n3. Entrambi tornano alle posizioni iniziali, ripetono dall’altro lato e scambiano i ruoli dopo ogni serie.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "一步对练",
+      "description": "1. 与同伴相距一步相对；进攻方示意准备，后退成站姿并预备规定的拳或踢。\n2. 进攻方上步做唯一约定的攻击；防守方格挡或闪避，并以规定的反击回应，在接触前停住或轻触护垫。\n3. 双方回到起始位置，向另一侧重复，每组后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "一歩対練（イルボデリョン）",
+      "description": "1. 一歩の間合いで相手と向き合い、攻め手は準備を示して、決められた突きか蹴りを用意した立ち方へ下がります。\n2. 攻め手は決めた一つの攻撃で踏み込み、受け手は受けるかかわして決められた反撃を返し、当てる直前で止めるか防具に軽く当てます。\n3. 両者開始位置に戻り、反対側でも繰り返し、各セットごとに役割を交代します。",
+      "sectionTitle": "対人練習"
+    },
+    "ko": {
+      "title": "일보대련",
+      "description": "1. 한 걸음 거리에서 짝과 마주 서고, 공격자는 준비를 알린 뒤 정해진 지르기나 차기를 준비한 자세로 물러섭니다.\n2. 공격자는 약속한 한 가지 공격으로 들어오고, 수비자는 막거나 피한 뒤 정해진 반격을 접촉 직전에 멈추거나 보호대에 가볍게 합니다.\n3. 둘 다 시작 위치로 돌아가 반대쪽으로 반복하고 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "짝 훈련"
+    },
+    "th": {
+      "title": "อิลโบแดรยอน",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ห่างหนึ่งก้าว ฝ่ายโจมตีส่งสัญญาณพร้อมแล้วถอยเข้าท่ายืนเตรียมหมัดหรือเตะที่กำหนด\n2. ฝ่ายโจมตีก้าวเข้าด้วยการโจมตีเดียวที่ตกลง ฝ่ายรับปัดหรือหลบแล้วสวนด้วยท่าที่กำหนด หยุดก่อนสัมผัสหรือแตะเป้าเบาๆ\n3. ทั้งคู่กลับตำแหน่งเริ่ม ทำซ้ำอีกด้าน และสลับบทบาทหลังแต่ละเซต",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Иль бо дэ рён",
+      "description": "1. Встаньте напротив партнёра на расстоянии одного шага; атакующий сообщает о готовности и отступает в стойку с подготовленным предписанным ударом рукой или ногой.\n2. Атакующий входит одной оговорённой атакой; защищающийся блокирует или уходит и отвечает предписанной контратакой, останавливая её до контакта или с лёгким касанием защиты.\n3. Оба возвращаются в исходное положение, повторяют связку в другую сторону и меняются ролями после каждой серии.",
+      "sectionTitle": "Упражнения в паре"
+    },
+    "uk": {
+      "title": "Іль бо де рйон",
+      "description": "1. Станьте навпроти партнера на відстані одного кроку; атакувальник повідомляє про готовність і відступає в стійку з підготовленим приписаним ударом рукою чи ногою.\n2. Атакувальник входить однією обумовленою атакою; захисник блокує або ухиляється й відповідає приписаною контратакою, зупиняючи її до контакту чи з легким торканням захисту.\n3. Обидва повертаються у вихідне положення, повторюють зв’язку в інший бік і міняються ролями після кожної серії.",
+      "sectionTitle": "Вправи в парі"
+    }
+  }
+}

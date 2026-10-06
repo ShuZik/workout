@@ -1,0 +1,90 @@
+{
+  "id": "97.10",
+  "key": "sumo_sukuinage",
+  "title": "Sukuinage",
+  "description": "1. Slide one arm under the partner's armpit and around the back without gripping the belt.\n2. Lower the hips and step back on the same side while scooping the partner forward with the arm.\n3. Turn the partner down to the mat beside you and release the scoop as the partner lands.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sukuinage",
+      "description": "1. Slide one arm under the partner's armpit and around the back without gripping the belt.\n2. Lower the hips and step back on the same side while scooping the partner forward with the arm.\n3. Turn the partner down to the mat beside you and release the scoop as the partner lands.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Sukuinage",
+      "description": "1. Pasa un brazo bajo la axila del compañero y alrededor de la espalda sin agarrar el cinturón.\n2. Baja la cadera y da un paso atrás del mismo lado mientras barres al compañero hacia delante con el brazo.\n3. Gira al compañero hasta el tapiz a tu lado y suelta el brazo cuando aterrice.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Sukuinage",
+      "description": "1. Passe um braço sob a axila do parceiro e ao redor das costas sem segurar a faixa.\n2. Abaixe o quadril e dê um passo atrás do mesmo lado enquanto puxa o parceiro para a frente com o braço.\n3. Gire o parceiro até o tatame ao seu lado e solte o braço quando ele cair.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Sukuinage",
+      "description": "1. Glissez un bras sous l’aisselle du partenaire et autour du dos sans saisir la ceinture.\n2. Baissez les hanches et reculez du même côté en ramenant le partenaire vers l’avant avec le bras.\n3. Faites tourner le partenaire au sol à côté de vous et relâchez le bras à la réception.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Sukuinage",
+      "description": "1. Schiebe einen Arm unter die Achsel des Partners und um den Rücken, ohne den Gürtel zu greifen.\n2. Senke die Hüfte und tritt auf derselben Seite zurück, während der Arm den Partner nach vorn schöpft.\n3. Drehe den Partner neben dir auf die Matte und löse den Arm, wenn er landet.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Sukuinage",
+      "description": "1. Infila un braccio sotto l’ascella del partner e attorno alla schiena senza afferrare la cintura.\n2. Abbassa le anche e fai un passo indietro dallo stesso lato mentre raccogli il partner in avanti con il braccio.\n3. Ruota il partner a terra accanto a te e lascia il braccio all’atterraggio.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "掬投",
+      "description": "1. 一臂从同伴腋下穿过绕到背后，不抓腰带。\n2. 降低髋部，同侧后撤一步，用手臂把同伴向前捞带。\n3. 将同伴转摔到你身旁的垫上，落地时松开手臂。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "掬い投げ",
+      "description": "1. まわしを取らずに、片腕を相手の脇の下から背中へ差し入れます。\n2. 腰を落とし、同じ側の足を引きながら腕で相手を前方へすくいます。\n3. 相手を自分の横のマットへ回し落とし、着地したら腕を離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "스쿠이나게",
+      "description": "1. 샅바를 잡지 않고 한 팔을 상대의 겨드랑이 아래로 넣어 등을 감쌉니다.\n2. 엉덩이를 낮추고 같은 쪽으로 한 걸음 물러나며 팔로 상대를 앞으로 떠 올립니다.\n3. 상대를 내 옆 매트로 돌려 넘기고 착지하면 팔을 풉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "สึคุอินาเงะ",
+      "description": "1. สอดแขนข้างหนึ่งใต้รักแร้คู่ฝึกอ้อมไปที่หลัง โดยไม่จับผ้าคาดเอว\n2. ลดสะโพกและก้าวถอยฝั่งเดียวกัน พร้อมใช้แขนช้อนคู่ฝึกไปข้างหน้า\n3. หมุนคู่ฝึกลงเบาะข้างตัว และปล่อยแขนเมื่อคู่ฝึกลงถึงพื้น",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Сукуинагэ",
+      "description": "1. Проведите руку под подмышку партнёра и вокруг спины, не захватывая пояс.\n2. Опустите таз и шагните назад той же стороной, подхватывая партнёра рукой вперёд.\n3. Разверните партнёра на ковёр рядом с собой и отпустите руку при приземлении.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Сукуїнаге",
+      "description": "1. Проведіть руку під пахву партнера й навколо спини, не захоплюючи пояс.\n2. Опустіть таз і ступіть назад тим самим боком, підхоплюючи партнера рукою вперед.\n3. Розверніть партнера на килим поруч із собою й відпустіть руку під час приземлення.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

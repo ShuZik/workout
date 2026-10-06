@@ -1,0 +1,90 @@
+{
+  "id": "8.38",
+  "key": "taekwondo_po_eun",
+  "title": "Po-Eun",
+  "description": "1. Start in parallel ready stance with heaven hand and perform the 36-movement first-degree pattern along a single line.\n2. Travel sideways in sitting stance with W-shape blocks, side punches, pulling and pressing actions, keeping the stance low and the line straight.\n3. Finish with the closing punches on the line, then return to parallel ready stance with heaven hand.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Po-Eun",
+      "description": "1. Start in parallel ready stance with heaven hand and perform the 36-movement first-degree pattern along a single line.\n2. Travel sideways in sitting stance with W-shape blocks, side punches, pulling and pressing actions, keeping the stance low and the line straight.\n3. Finish with the closing punches on the line, then return to parallel ready stance with heaven hand.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Po-Eun",
+      "description": "1. Empieza en posición de preparación paralela con mano celestial y realiza el patrón de primer dan de 36 movimientos sobre una sola línea.\n2. Desplázate lateralmente en posición sentada con bloqueos en W, puñetazos laterales y acciones de tirar y presionar, manteniendo la posición baja y la línea recta.\n3. Termina con los puñetazos finales sobre la línea y vuelve a la posición de preparación paralela con mano celestial.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Po-Eun",
+      "description": "1. Comece na posição de preparação paralela com mão celestial e execute o padrão de primeiro dan de 36 movimentos sobre uma única linha.\n2. Desloque-se lateralmente em base sentada com bloqueios em W, socos laterais e ações de puxar e pressionar, mantendo a base baixa e a linha reta.\n3. Termine com os socos finais sobre a linha e volte à posição de preparação paralela com mão celestial.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Po-Eun",
+      "description": "1. Partez en position de préparation parallèle main céleste et exécutez l’enchaînement de premier dan de 36 mouvements sur une seule ligne.\n2. Déplacez-vous latéralement en position assise avec blocages en W, coups de poing latéraux et actions de tirer et presser, position basse et ligne droite.\n3. Terminez par les coups de poing finaux sur la ligne et revenez en position de préparation parallèle main céleste.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Po-Eun",
+      "description": "1. Beginne im parallelen Bereitschaftsstand mit Himmelshand und laufe die 36 Bewegungen der Form zum 1. Dan auf einer einzigen Linie.\n2. Bewege dich im Sitzstand seitwärts mit W-Blocks, Seitfauststößen sowie Zieh- und Druckaktionen, Stand tief und Linie gerade.\n3. Schließe mit den letzten Fauststößen auf der Linie ab und kehre in den parallelen Bereitschaftsstand mit Himmelshand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Po-Eun",
+      "description": "1. Parti dalla posizione di pronti parallela con mano celeste ed esegui la forma di primo dan di 36 movimenti su un’unica linea.\n2. Spostati lateralmente in posizione seduta con parate a W, pugni laterali e azioni di tirare e premere, mantenendo la posizione bassa e la linea diritta.\n3. Concludi con i pugni finali sulla linea e torna alla posizione di pronti parallela con mano celeste.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "圃隐型（Po-Eun）",
+      "description": "1. 以平行天手预备式开始，沿一条直线完成36个动作的一段型。\n2. 以坐马步横向移动，完成W形格挡、侧冲拳以及拉压动作，保持低姿态和直线。\n3. 在直线上完成收尾冲拳，回到平行天手预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ポウン（圃隠）",
+      "description": "1. 天手の平行準備立ちから始め、一直線上で初段の36動作の型を行います。\n2. 騎馬立ちで横に移動しながらW字受け、横突き、引きと押さえの動作を行い、低い姿勢とまっすぐな線を保ちます。\n3. 線上で締めの突きを行い、天手の平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "포은",
+      "description": "1. 하늘손 나란히 준비서기에서 시작해 한 줄 위에서 1단 36동작 틀을 수행합니다.\n2. 앉은서기로 옆으로 이동하며 산틀 막기, 옆지르기, 당기기와 누르기 동작을 하고 낮은 자세와 곧은 선을 유지합니다.\n3. 선 위에서 마무리 지르기를 하고 하늘손 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "โพอึน",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนานพร้อมมือฟ้าและทำรูปแบบระดับดั้ง 1 จำนวน 36 จังหวะบนเส้นเดียว\n2. เคลื่อนไปด้านข้างในท่ายืนนั่งพร้อมการปัดรูปตัว W หมัดด้านข้าง และการดึงกับการกด รักษาท่าให้ต่ำและเส้นให้ตรง\n3. จบด้วยหมัดปิดท้ายบนเส้น แล้วกลับสู่ท่ายืนเตรียมแบบขนานพร้อมมือฟ้า",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Поын",
+      "description": "1. Начните из параллельной готовой стойки с «небесной рукой» и выполните туль первого дана из 36 движений по одной линии.\n2. Перемещайтесь вбок в стойке всадника с W-образными блоками, боковыми ударами, притягивающими и прижимающими действиями, сохраняя низкую стойку и прямую линию.\n3. Завершите заключительными ударами на линии и вернитесь в параллельную готовую стойку с «небесной рукой».",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Поин",
+      "description": "1. Почніть із паралельної готової стійки з «небесною рукою» й виконайте туль першого дану з 36 рухів по одній лінії.\n2. Переміщуйтеся вбік у стійці вершника з W-подібними блоками, бічними ударами, притягувальними й притискними діями, зберігаючи низьку стійку та пряму лінію.\n3. Завершіть завершальними ударами на лінії та поверніться в паралельну готову стійку з «небесною рукою».",
+      "sectionTitle": "Форми"
+    }
+  }
+}

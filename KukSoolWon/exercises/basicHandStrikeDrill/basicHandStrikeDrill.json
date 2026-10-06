@@ -1,0 +1,90 @@
+{
+  "id": "72.7",
+  "key": "kuk_sool_won_hand_strike_drill",
+  "title": "Basic Hand Strike Drill",
+  "description": "1. Stand in a horse stance with the fists chambered at the hips and the back straight.\n2. Alternate straight punches, palm strikes, and knife-hand strikes to the front, exhaling sharply on each strike while pulling the other hand back to the hip.\n3. Keep the stance low and steady for the round, returning each hand to the hip along the same line.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kukSoolWon",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Basic Hand Strike Drill",
+      "description": "1. Stand in a horse stance with the fists chambered at the hips and the back straight.\n2. Alternate straight punches, palm strikes, and knife-hand strikes to the front, exhaling sharply on each strike while pulling the other hand back to the hip.\n3. Keep the stance low and steady for the round, returning each hand to the hip along the same line.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Ejercicio básico de golpes de mano",
+      "description": "1. Colócate en posición de jinete con los puños recogidos en las caderas y la espalda recta.\n2. Alterna golpes rectos, golpes con la palma y golpes de mano de cuchillo al frente, exhalando con fuerza en cada golpe mientras retraes la otra mano a la cadera.\n3. Mantén la posición baja y estable durante el asalto, devolviendo cada mano a la cadera por la misma línea.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Exercício básico de golpes de mão",
+      "description": "1. Fique na base do cavaleiro com os punhos recolhidos no quadril e as costas retas.\n2. Alterne socos retos, golpes de palma e golpes de mão em faca à frente, expirando com força a cada golpe enquanto puxa a outra mão de volta ao quadril.\n3. Mantenha a base baixa e firme durante o round, devolvendo cada mão ao quadril pela mesma linha.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Exercice de frappes de main de base",
+      "description": "1. Placez-vous en position du cavalier, poings armés aux hanches et dos droit.\n2. Alternez coups de poing directs, frappes de paume et frappes du tranchant de la main vers l'avant, en expirant fortement à chaque frappe tout en ramenant l'autre main à la hanche.\n3. Gardez la position basse et stable pendant le round, en ramenant chaque main à la hanche sur la même ligne.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Grundübung Handtechniken",
+      "description": "1. Stehe im Reiterstand, die Fäuste an den Hüften angezogen und den Rücken gerade.\n2. Wechsle gerade Fauststöße, Handballenstöße und Handkantenschläge nach vorn ab, atme bei jedem Schlag kräftig aus und ziehe die andere Hand zur Hüfte zurück.\n3. Halte den Stand die ganze Runde tief und stabil und führe jede Hand auf derselben Linie zur Hüfte zurück.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Esercizio base di colpi di mano",
+      "description": "1. Mettiti in posizione del cavaliere con i pugni caricati ai fianchi e la schiena dritta.\n2. Alterna pugni diretti, colpi di palmo e colpi a mano a taglio in avanti, espirando con forza a ogni colpo mentre riporti l'altra mano al fianco.\n3. Mantieni la posizione bassa e stabile per tutto il round, riportando ogni mano al fianco lungo la stessa linea.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "基本手法击打练习",
+      "description": "1. 站马步，双拳收于腰间，背部挺直。\n2. 向前交替打出直拳、掌击和手刀，每次击打时用力呼气，同时将另一只手收回腰间。\n3. 整个回合保持马步低而稳，每只手都沿原线路收回腰间。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "基本の手技練習",
+      "description": "1. 騎馬立ちで両拳を腰に引き、背筋を伸ばします。\n2. 正面へ直突き・掌底打ち・手刀打ちを交互に出し、打つたびに鋭く息を吐きながら反対の手を腰へ引きます。\n3. ラウンドの間、低く安定した立ち方を保ち、それぞれの手を同じ軌道で腰へ戻します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "기본 손 치기 훈련",
+      "description": "1. 주먹을 허리에 당겨 두고 등을 곧게 편 채 기마 자세로 섭니다.\n2. 앞으로 곧은 지르기, 장타, 수도 치기를 번갈아 하며, 칠 때마다 날카롭게 숨을 내쉬고 반대 손은 허리로 당깁니다.\n3. 라운드 동안 낮고 안정된 자세를 유지하며, 각 손을 같은 선을 따라 허리로 되돌립니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "ฝึกการตีด้วยมือพื้นฐาน",
+      "description": "1. ยืนท่าขี่ม้า กำหมัดไว้ที่สะโพกและหลังตรง\n2. สลับชกหมัดตรง ตีด้วยสันฝ่ามือ และสับด้วยสันมือไปข้างหน้า หายใจออกแรงทุกครั้งที่ตีพร้อมดึงมืออีกข้างกลับมาที่สะโพก\n3. รักษาท่ายืนให้ต่ำและมั่นคงตลอดยก และดึงมือแต่ละข้างกลับสู่สะโพกตามแนวเดิม",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Базовые удары руками",
+      "description": "1. Встаньте в стойку всадника, кулаки у бёдер, спина прямая.\n2. Чередуйте прямые удары кулаком, удары основанием ладони и ребром ладони вперёд, резко выдыхая на каждом ударе и одновременно возвращая другую руку к бедру.\n3. Весь раунд держите стойку низкой и устойчивой, возвращая каждую руку к бедру по той же линии.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Базові удари руками",
+      "description": "1. Станьте в стійку вершника, кулаки біля стегон, спина пряма.\n2. Чергуйте прямі удари кулаком, удари основою долоні й ребром долоні вперед, різко видихаючи на кожному ударі й водночас повертаючи іншу руку до стегна.\n3. Увесь раунд тримайте стійку низькою та стійкою, повертаючи кожну руку до стегна тією самою лінією.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "91.2",
+  "key": "shorinji_kempo_kaiko_no_kamae",
+  "title": "Kaiko no Kamae",
+  "description": "1. Stand in a half-facing stance with the front foot pointing forward, knees soft, and weight evenly balanced.\n2. Raise both open hands in front of the chest, the front hand forward at shoulder height and the rear hand guarding the solar plexus.\n3. Step forward, back, and to the sides while keeping the guard and centerline intact, then settle back into kamae with zanshin.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kaiko no Kamae",
+      "description": "1. Stand in a half-facing stance with the front foot pointing forward, knees soft, and weight evenly balanced.\n2. Raise both open hands in front of the chest, the front hand forward at shoulder height and the rear hand guarding the solar plexus.\n3. Step forward, back, and to the sides while keeping the guard and centerline intact, then settle back into kamae with zanshin.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Kaiko no kamae",
+      "description": "1. Colócate en una guardia semiperfilada con el pie delantero apuntando al frente, las rodillas flexibles y el peso repartido por igual.\n2. Eleva ambas manos abiertas delante del pecho: la delantera adelantada a la altura del hombro y la trasera protegiendo el plexo solar.\n3. Desplázate hacia delante, atrás y a los lados sin perder la guardia ni la línea central, y vuelve a asentarte en kamae con zanshin.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Kaiko no kamae",
+      "description": "1. Fique em base semiperfilada com o pé da frente apontado para a frente, joelhos soltos e peso bem distribuído.\n2. Erga as duas mãos abertas diante do peito: a da frente avançada na altura do ombro e a de trás protegendo o plexo solar.\n3. Desloque-se para a frente, para trás e para os lados mantendo a guarda e a linha central, e volte a assentar no kamae com zanshin.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Kaiko no kamae",
+      "description": "1. Placez-vous de trois quarts, pied avant orienté vers l'avant, genoux souples et poids réparti également.\n2. Levez les deux mains ouvertes devant la poitrine, la main avant à hauteur d'épaule et la main arrière protégeant le plexus solaire.\n3. Déplacez-vous en avant, en arrière et sur les côtés en gardant la garde et la ligne centrale, puis revenez en kamae avec zanshin.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Kaiko no Kamae",
+      "description": "1. Stehe halb seitlich, den vorderen Fuß nach vorn gerichtet, die Knie locker und das Gewicht gleichmäßig verteilt.\n2. Hebe beide offenen Hände vor die Brust, die vordere Hand auf Schulterhöhe vorn, die hintere schützt den Solarplexus.\n3. Bewege dich vor, zurück und zur Seite, ohne Deckung und Mittellinie aufzugeben, und kehre dann mit Zanshin in das Kamae zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Kaiko no kamae",
+      "description": "1. Mettiti in posizione semilaterale con il piede avanti rivolto in avanti, ginocchia morbide e peso distribuito in modo uniforme.\n2. Solleva entrambe le mani aperte davanti al petto, quella avanti all'altezza della spalla e quella dietro a protezione del plesso solare.\n3. Spostati avanti, indietro e lateralmente mantenendo guardia e linea centrale, poi ritorna in kamae con zanshin.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "开构",
+      "description": "1. 半身站立，前脚朝前，膝盖放松，重心均匀分布。\n2. 双手张开举于胸前，前手前伸至肩高，后手护住心窝。\n3. 向前、向后及左右移动，始终保持防守与中线，最后以残心回到构式。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "開構",
+      "description": "1. 前足を正面に向けた半身の姿勢で立ち、膝を柔らかくして体重を均等にかけます。\n2. 両手を開いて胸の前に上げ、前の手は肩の高さで前に出し、後ろの手で水月を守ります。\n3. 構えと正中線を崩さずに前後左右へ運歩し、最後は残心をもって構えに戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "가이코노 카마에",
+      "description": "1. 앞발을 정면으로 향한 반신 자세로 서서 무릎을 부드럽게 하고 체중을 고르게 둡니다.\n2. 두 손을 편 채 가슴 앞으로 올리되, 앞손은 어깨 높이로 내밀고 뒷손은 명치를 지킵니다.\n3. 자세와 정중선을 유지하며 앞뒤와 옆으로 이동한 뒤, 잔심을 유지하며 카마에로 돌아옵니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ไคโคโนะคามาเอะ",
+      "description": "1. ยืนเฉียงครึ่งตัว ปลายเท้าหน้าชี้ไปข้างหน้า เข่าผ่อนคลาย และกระจายน้ำหนักเท่ากัน\n2. ยกมือทั้งสองแบบแบมือไว้หน้าอก มือหน้ายื่นออกระดับไหล่ มือหลังป้องกันลิ้นปี่\n3. ก้าวไปหน้า ถอยหลัง และออกด้านข้างโดยรักษาการ์ดและแนวกึ่งกลางไว้ แล้วกลับสู่คามาเอะพร้อมซันชิน",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Кайко-но камаэ",
+      "description": "1. Встаньте вполоборота, передняя стопа смотрит вперёд, колени мягкие, вес распределён равномерно.\n2. Поднимите обе раскрытые ладони перед грудью: передняя рука вынесена на уровень плеча, задняя прикрывает солнечное сплетение.\n3. Перемещайтесь вперёд, назад и в стороны, сохраняя защиту и центральную линию, затем вернитесь в камаэ с дзансином.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Кайко-но камае",
+      "description": "1. Станьте впівоберта, передня стопа дивиться вперед, коліна м'які, вага розподілена рівномірно.\n2. Підніміть обидві розкриті долоні перед грудьми: передня рука винесена на рівень плеча, задня прикриває сонячне сплетіння.\n3. Пересувайтеся вперед, назад і вбік, зберігаючи захист і центральну лінію, потім поверніться в камае з дзансіном.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

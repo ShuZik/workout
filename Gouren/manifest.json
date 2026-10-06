@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#0A84FF",
+    "colorType": "blue",
+    "folder": "Gouren",
+    "id": "57",
+    "icon": "Gouren/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Gouren",
+    "workoutType": "gouren",
+    "translations": {
+      "en": {
+        "title": "Gouren"
+      },
+      "es": {
+        "title": "Gouren"
+      },
+      "pt": {
+        "title": "Gouren"
+      },
+      "fr": {
+        "title": "Gouren"
+      },
+      "de": {
+        "title": "Gouren"
+      },
+      "it": {
+        "title": "Gouren"
+      },
+      "zh-Hans": {
+        "title": "布列塔尼摔跤"
+      },
+      "ja": {
+        "title": "グーレン"
+      },
+      "ko": {
+        "title": "구렌"
+      },
+      "th": {
+        "title": "กูเรน"
+      },
+      "ru": {
+        "title": "Гурен"
+      },
+      "uk": {
+        "title": "Гурен"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Gouren/exercises/gouren/Icon.png",
+      "json": "Gouren/exercises/gouren/gouren.json"
+    },
+    {
+      "icon": "Gouren/exercises/leWrestlersOath/Icon.png",
+      "json": "Gouren/exercises/leWrestlersOath/leWrestlersOath.json"
+    },
+    {
+      "icon": "Gouren/exercises/klikedARaok/Icon.png",
+      "json": "Gouren/exercises/klikedARaok/klikedARaok.json"
+    },
+    {
+      "icon": "Gouren/exercises/klikedADrenv/Icon.png",
+      "json": "Gouren/exercises/klikedADrenv/klikedADrenv.json"
+    },
+    {
+      "icon": "Gouren/exercises/briadARaok/Icon.png",
+      "json": "Gouren/exercises/briadARaok/briadARaok.json"
+    },
+    {
+      "icon": "Gouren/exercises/briadDaCHostez/Icon.png",
+      "json": "Gouren/exercises/briadDaCHostez/briadDaCHostez.json"
+    },
+    {
+      "icon": "Gouren/exercises/briadADrenv/Icon.png",
+      "json": "Gouren/exercises/briadADrenv/briadADrenv.json"
+    }
+  ]
+}

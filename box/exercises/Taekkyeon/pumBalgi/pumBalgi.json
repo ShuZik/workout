@@ -1,0 +1,87 @@
+{
+  "id": "99.2",
+  "key": "taekkyeon_pum_balgi",
+  "title": "Pum-balgi",
+  "description": "1. Stand with the feet about shoulder-width apart, knees soft, and hands relaxed in front of the body.\n2. Step one foot forward on a diagonal to the corner of a triangle while the knees bend and rise in a smooth, springy rhythm.\n3. Bring the foot back to the center and step to the other corner, keeping the torso upright and the movement continuous.",
+  "colorType": "green",
+  "workoutType": "taekkyeon",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Pum-balgi",
+      "description": "1. Stand with the feet about shoulder-width apart, knees soft, and hands relaxed in front of the body.\n2. Step one foot forward on a diagonal to the corner of a triangle while the knees bend and rise in a smooth, springy rhythm.\n3. Bring the foot back to the center and step to the other corner, keeping the torso upright and the movement continuous.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Pum-balgi",
+      "description": "1. Colócate con los pies a la anchura de los hombros, rodillas blandas y manos relajadas delante del cuerpo.\n2. Lleva un pie hacia delante en diagonal hasta la esquina de un triángulo mientras las rodillas se flexionan y suben con un ritmo suave y elástico.\n3. Devuelve el pie al centro y pisa hacia la otra esquina, con el torso erguido y el movimiento continuo.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Pum-balgi",
+      "description": "1. Fique com os pés na largura dos ombros, joelhos soltos e mãos relaxadas à frente do corpo.\n2. Leve um pé à frente na diagonal até o canto de um triângulo enquanto os joelhos dobram e sobem num ritmo suave e elástico.\n3. Traga o pé de volta ao centro e pise no outro canto, com o tronco ereto e o movimento contínuo.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Pum-balgi",
+      "description": "1. Pieds à largeur d’épaules, genoux souples, mains détendues devant le corps.\n2. Avancez un pied en diagonale vers le coin d’un triangle pendant que les genoux fléchissent et remontent sur un rythme souple.\n3. Ramenez le pied au centre et allez vers l’autre coin, buste droit et mouvement continu.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Pum-Balgi",
+      "description": "1. Füße etwa schulterbreit, Knie weich, Hände locker vor dem Körper.\n2. Einen Fuß diagonal nach vorn zur Ecke eines Dreiecks setzen, während die Knie federnd beugen und strecken.\n3. Den Fuß zur Mitte zurückbringen und zur anderen Ecke treten, Oberkörper aufrecht, Bewegung fließend.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Pum-balgi",
+      "description": "1. Piedi alla larghezza delle spalle, ginocchia morbide e mani rilassate davanti al corpo.\n2. Porta un piede avanti in diagonale verso l’angolo di un triangolo mentre le ginocchia si piegano e si alzano con ritmo elastico.\n3. Riporta il piede al centro e passa all’altro angolo, busto eretto e movimento continuo.",
+      "sectionTitle": "Fondamentali"
+    },
+    "zh-Hans": {
+      "title": "品步（품밟기）",
+      "description": "1. 双脚约与肩同宽，膝盖微屈，双手放松置于身前。\n2. 一脚斜向前踏到三角形的一角，同时膝盖以柔和有弹性的节奏屈伸。\n3. 脚收回中心再踏向另一角，上身保持直立，动作连续。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "プムバルギ（品踏み）",
+      "description": "1. 足を肩幅ほどに開き、膝を柔らかくし、手を体の前で楽にします。\n2. 片足を斜め前の三角形の角へ踏み出し、膝を滑らかに弾むように曲げ伸ばしします。\n3. 足を中央へ戻して反対の角へ踏み、上体をまっすぐに保って動きを途切れさせません。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "품밟기",
+      "description": "1. 발을 어깨너비로 벌리고 무릎을 부드럽게 하며 손은 몸 앞에 편하게 둡니다.\n2. 한 발을 대각선 앞 삼각형 꼭짓점으로 내디디며 무릎을 굼실굼실 부드럽게 굽혔다 폅니다.\n3. 발을 가운데로 되돌리고 반대쪽 꼭짓점으로 밟으며 상체를 곧게, 동작을 끊김 없이 이어 갑니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "พุมบัลกี",
+      "description": "1. ยืนเท้ากว้างประมาณไหล่ เข่างอเล็กน้อย มือผ่อนคลายอยู่หน้าลำตัว\n2. ก้าวเท้าหนึ่งเฉียงไปข้างหน้าที่มุมของสามเหลี่ยม ขณะงอและยืดเข่าเป็นจังหวะนุ่มนวลแบบสปริง\n3. นำเท้ากลับกลาง แล้วก้าวไปอีกมุม ลำตัวตั้งตรงและเคลื่อนไหวต่อเนื่อง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Пум-бальги",
+      "description": "1. Встаньте, стопы примерно на ширине плеч, колени мягкие, руки расслаблены перед корпусом.\n2. Шагните одной ногой вперёд по диагонали в угол треугольника, мягко и пружинисто сгибая и выпрямляя колени.\n3. Верните ногу в центр и шагните в другой угол, держа корпус прямо и двигаясь непрерывно.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Пум-бальгі",
+      "description": "1. Станьте, стопи приблизно на ширині плечей, коліна м’які, руки розслаблені перед корпусом.\n2. Ступіть однією ногою вперед по діагоналі в кут трикутника, м’яко й пружно згинаючи та випрямляючи коліна.\n3. Поверніть ногу в центр і ступіть в інший кут, тримаючи корпус прямо й рухаючись безперервно.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

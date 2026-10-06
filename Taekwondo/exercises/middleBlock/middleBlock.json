@@ -1,0 +1,90 @@
+{
+  "id": "8.22",
+  "key": "taekwondo_middle_block",
+  "title": "Middle Block",
+  "description": "1. Take a stable stance and chamber the blocking arm across the body with the fist closed and wrist straight.\n2. Rotate the forearm across the middle line as the opposite fist retracts to the hip.\n3. Stop within the body line with the elbow bent and shoulder down, then hold the stance without leaning.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Blocks",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Middle Block",
+      "description": "1. Take a stable stance and chamber the blocking arm across the body with the fist closed and wrist straight.\n2. Rotate the forearm across the middle line as the opposite fist retracts to the hip.\n3. Stop within the body line with the elbow bent and shoulder down, then hold the stance without leaning.",
+      "sectionTitle": "Blocks"
+    },
+    "es": {
+      "title": "Bloqueo medio",
+      "description": "1. Adopta una postura estable y prepara el brazo de bloqueo cruzado ante el cuerpo, con el puño cerrado y la muñeca recta.\n2. Gira el antebrazo cruzando la línea media mientras el puño contrario vuelve a la cadera.\n3. Detente dentro de la línea del cuerpo con el codo flexionado y el hombro bajo, y mantén la postura sin inclinarte.",
+      "sectionTitle": "Bloqueos"
+    },
+    "pt": {
+      "title": "Bloqueio médio",
+      "description": "1. Assuma uma base estável e prepare o braço que bloqueia atravessado à frente do corpo, com a mão fechada e o punho alinhado.\n2. Gire o antebraço pela linha média enquanto recolhe o punho oposto ao quadril.\n3. Pare dentro da linha do corpo com o cotovelo flexionado e o ombro baixo, mantendo a base sem inclinar-se.",
+      "sectionTitle": "Bloqueios"
+    },
+    "fr": {
+      "title": "Blocage médian",
+      "description": "1. Prenez une position stable et armez le bras qui bloque en travers du corps, poing fermé et poignet droit.\n2. Tournez l’avant-bras à travers la ligne médiane pendant que l’autre poing revient à la hanche.\n3. Arrêtez dans l’axe du corps, coude fléchi et épaule basse, puis tenez la position sans vous pencher.",
+      "sectionTitle": "Blocages"
+    },
+    "de": {
+      "title": "Mittlerer Block",
+      "description": "1. Nimm einen stabilen Stand ein und bereite den Blockarm quer vor dem Körper vor, mit geschlossener Faust und geradem Handgelenk.\n2. Drehe den Unterarm über die Mittellinie, während die andere Faust zur Hüfte zurückgeht.\n3. Stoppe innerhalb der Körperlinie mit gebeugtem Ellbogen und gesenkter Schulter und halte den Stand ohne Neigung.",
+      "sectionTitle": "Blöcke"
+    },
+    "it": {
+      "title": "Parata media",
+      "description": "1. Assumi una posizione stabile e prepara il braccio che para trasversalmente al corpo, con il pugno chiuso e il polso dritto.\n2. Ruota l’avambraccio attraverso la linea centrale mentre il pugno opposto torna all’anca.\n3. Fermati entro la linea del corpo con il gomito piegato e la spalla bassa, poi mantieni la posizione senza inclinarti.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "中段格挡",
+      "description": "1. 采取稳定站姿，将格挡臂横向预备在身前，握拳，手腕保持笔直。\n2. 前臂转动通过中线，同时将另一拳收回髋部。\n3. 在身体轮廓内停止，肘部弯曲、肩部下沉，保持站姿，不要倾斜。",
+      "sectionTitle": "格挡"
+    },
+    "ja": {
+      "title": "中段受け",
+      "description": "1. 安定した構えを取り、拳を握って手首をまっすぐにし、受ける腕を体の前に横向きに引きます。\n2. 反対の拳を腰へ引きながら、前腕を体の中央のラインに沿って回します。\n3. 肘を曲げ、肩を下げたまま体の範囲内で止め、傾かずに構えを保ちます。",
+      "sectionTitle": "受け"
+    },
+    "ko": {
+      "title": "몸통막기",
+      "description": "1. 안정된 자세를 취하고 주먹을 쥐고 손목을 곧게 유지한 채 막는 팔을 몸 앞을 가로질러 준비합니다.\n2. 반대 주먹을 골반으로 당기면서 아래팔을 몸통 중앙선을 가로질러 돌립니다.\n3. 몸통 범위 안에서 멈추고 팔꿈치는 굽히며 어깨를 내린 채 기울지 않고 자세를 유지합니다.",
+      "sectionTitle": "막기"
+    },
+    "th": {
+      "title": "บล็อกกลาง",
+      "description": "1. ยืนให้มั่นคง เตรียมแขนที่บล็อกพาดขวางลำตัว โดยกำหมัดและให้ข้อมือตรง\n2. หมุนท่อนแขนข้ามแนวกึ่งกลาง พร้อมดึงหมัดอีกข้างกลับสะโพก\n3. หยุดภายในแนวลำตัว โดยศอกงอและไหล่ลดลง แล้วรักษาท่ายืนโดยไม่เอน",
+      "sectionTitle": "การบล็อก"
+    },
+    "ru": {
+      "title": "Средний блок",
+      "description": "1. Примите устойчивую стойку и подготовьте блокирующую руку поперёк тела со сжатым кулаком и прямым запястьем.\n2. Поверните предплечье через среднюю линию, одновременно отводя противоположный кулак к тазу.\n3. Остановитесь в пределах линии тела с согнутым локтем и опущенным плечом, затем удерживайте стойку без наклона.",
+      "sectionTitle": "Блоки"
+    },
+    "uk": {
+      "title": "Середній блок",
+      "description": "1. Прийміть стійку позицію й підготуйте руку для блока поперек тіла зі стиснутим кулаком і прямим зап’ястком.\n2. Поверніть передпліччя через середню лінію, одночасно відводячи протилежний кулак до таза.\n3. Зупиніться в межах лінії тіла із зігнутим ліктем і опущеним плечем, потім утримуйте стійку без нахилу.",
+      "sectionTitle": "Блоки"
+    }
+  }
+}

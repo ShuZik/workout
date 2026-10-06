@@ -1,0 +1,90 @@
+{
+  "id": "91.1",
+  "key": "shorinji_kempo_main",
+  "title": "Shorinji Kempo",
+  "description": "1. Begin with gassho-rei and take a balanced kamae with the hands ready to protect the centerline.\n2. Practice goho (blocks, strikes, and kicks) and juho movements in short set sequences, coordinating footwork, hip turn, and the counter after each defense.\n3. Finish each sequence in kamae with zanshin; with a partner, alternate attacker and defender roles and release joint techniques at the first tap.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Shorinji Kempo",
+      "description": "1. Begin with gassho-rei and take a balanced kamae with the hands ready to protect the centerline.\n2. Practice goho (blocks, strikes, and kicks) and juho movements in short set sequences, coordinating footwork, hip turn, and the counter after each defense.\n3. Finish each sequence in kamae with zanshin; with a partner, alternate attacker and defender roles and release joint techniques at the first tap.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Shorinji Kempo",
+      "description": "1. Comienza con gassho-rei y adopta un kamae equilibrado con las manos listas para proteger la línea central.\n2. Practica goho (bloqueos, golpes y patadas) y movimientos de juho en secuencias cortas, coordinando pies, giro de cadera y el contraataque tras cada defensa.\n3. Termina cada secuencia en kamae con zanshin; con compañero, alternad atacante y defensor y soltad las luxaciones al primer golpe de rendición.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Shorinji Kempo",
+      "description": "1. Comece com gassho-rei e assuma um kamae equilibrado com as mãos prontas para proteger a linha central.\n2. Pratique goho (bloqueios, golpes e chutes) e movimentos de juho em sequências curtas, coordenando pés, giro de quadril e o contra-ataque após cada defesa.\n3. Termine cada sequência em kamae com zanshin; com parceiro, alternem atacante e defensor e soltem as chaves ao primeiro sinal de desistência.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Shorinji Kempo",
+      "description": "1. Commencez par gassho-rei et prenez un kamae équilibré, mains prêtes à protéger la ligne centrale.\n2. Travaillez goho (blocages, frappes et coups de pied) et juho en courtes séquences fixes, en coordonnant appuis, rotation de hanche et contre après chaque défense.\n3. Terminez chaque séquence en kamae avec zanshin ; à deux, alternez attaquant et défenseur et relâchez les clés au premier signal.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Shorinji Kempo",
+      "description": "1. Mit Gassho-Rei beginnen und ein ausbalanciertes Kamae einnehmen, die Hände bereit zum Schutz der Mittellinie.\n2. Goho (Blöcke, Schläge, Tritte) und Juho-Bewegungen in kurzen festen Folgen üben, Fußarbeit, Hüftdrehung und Konter nach jeder Abwehr koordinieren.\n3. Jede Folge im Kamae mit Zanshin beenden; mit Partner Angreifer- und Verteidigerrolle wechseln und Hebel beim ersten Abklopfen lösen.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Shorinji Kempo",
+      "description": "1. Inizia con gassho-rei e assumi un kamae equilibrato con le mani pronte a proteggere la linea centrale.\n2. Pratica goho (parate, colpi e calci) e movimenti juho in brevi sequenze fisse, coordinando passi, rotazione dell’anca e contrattacco dopo ogni difesa.\n3. Concludi ogni sequenza in kamae con zanshin; con un partner alternate attaccante e difensore e rilasciate le leve al primo segnale di resa.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "少林寺拳法",
+      "description": "1. 以合掌礼开始，取平衡的构，双手准备保护中线。\n2. 以简短的固定组合练习刚法（格挡、击打、踢击）与柔法动作，协调步法、转腰和每次防守后的反击。\n3. 每组在构中以残心结束；与同伴练习时轮换攻者与守者，对方一拍击认输即放开关节技。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "少林寺拳法",
+      "description": "1. 合掌礼から始め、正中線を守れるよう手を備えたバランスのよい構えを取ります。\n2. 剛法（受け・突き・蹴り）と柔法の動きを短い決まった組み合わせで練習し、運歩・腰の回転・守りの後の反撃を連動させます。\n3. 各組み合わせは構えと残心で終え、相手と行う場合は攻者と守者を交代し、相手が合図したら関節技を直ちに放します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "소림사권법",
+      "description": "1. 합장례로 시작하고 중심선을 지킬 수 있도록 손을 준비한 균형 잡힌 자세를 취합니다.\n2. 강법(막기, 치기, 차기)과 유법 동작을 짧은 정해진 연결로 연습하며 발놀림, 허리 회전, 방어 후 반격을 조화시킵니다.\n3. 각 연결은 자세와 잔심으로 마치고, 상대와 할 때는 공격자와 방어자를 바꾸며 첫 신호에 관절기를 풉니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "โชรินจิเคมโป",
+      "description": "1. เริ่มด้วยการไหว้แบบกัสโชเร และตั้งท่าคามาเอะที่สมดุล มือพร้อมป้องกันแนวกึ่งกลาง\n2. ฝึกโกโฮ (ปัด ตี เตะ) และการเคลื่อนไหวจูโฮเป็นชุดสั้นที่กำหนด ประสานเท้า การหมุนสะโพก และการสวนกลับหลังการป้องกันแต่ละครั้ง\n3. จบแต่ละชุดในท่าคามาเอะพร้อมซันชิน หากฝึกกับคู่ให้สลับผู้โจมตีและผู้ป้องกัน และปล่อยท่าล็อกทันทีเมื่อคู่ตบยอม",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Сёриндзи кэмпо",
+      "description": "1. Начните с гассё-рэй и займите устойчивую стойку камаэ, руки готовы защищать центральную линию.\n2. Отрабатывайте гохо (блоки, удары руками и ногами) и движения дзюхо короткими заданными связками, согласуя шаги, поворот бёдер и контратаку после каждой защиты.\n3. Завершайте каждую связку в камаэ с дзансином; с партнёром чередуйте роли атакующего и защищающегося и отпускайте болевые при первом сигнале.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Шьоріндзі кемпо",
+      "description": "1. Почніть із ґассьо-рей і займіть стійку камае, руки готові захищати центральну лінію.\n2. Відпрацьовуйте ґохо (блоки, удари руками й ногами) та рухи дзюхо короткими заданими зв’язками, узгоджуючи кроки, поворот стегон і контратаку після кожного захисту.\n3. Завершуйте кожну зв’язку в камае з дзансіном; із партнером чергуйте ролі нападника й захисника та відпускайте больові за першого сигналу.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "68.1",
+  "key": "kempo",
+  "title": "Kempo",
+  "description": "1. Take a balanced ready stance on a mat with the knees soft, hands guarding and eyes forward.\n2. Practise kempo basics such as punches, open-hand strikes, kicks and blocks, linking them into short kata segments and self-defence responses.\n3. Finish each sequence in guard with steady breathing and keep any partner contact light and agreed.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kempo",
+      "description": "1. Take a balanced ready stance on a mat with the knees soft, hands guarding and eyes forward.\n2. Practise kempo basics such as punches, open-hand strikes, kicks and blocks, linking them into short kata segments and self-defence responses.\n3. Finish each sequence in guard with steady breathing and keep any partner contact light and agreed.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kempo",
+      "description": "1. Adopta una postura de preparación equilibrada sobre el tatami, rodillas flexibles, manos en guardia y mirada al frente.\n2. Practica los fundamentos del kempo, como golpes de puño, golpes con mano abierta, patadas y bloqueos, enlazándolos en segmentos cortos de kata y respuestas de defensa personal.\n3. Termina cada secuencia en guardia con respiración estable y mantén cualquier contacto con el compañero ligero y acordado.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kempo",
+      "description": "1. Assuma uma postura de prontidão equilibrada no tatame, joelhos soltos, mãos em guarda e olhar à frente.\n2. Pratique os fundamentos do kempo, como socos, golpes de mão aberta, chutes e bloqueios, ligando-os em trechos curtos de kata e respostas de defesa pessoal.\n3. Termine cada sequência em guarda com respiração estável e mantenha qualquer contato com o parceiro leve e combinado.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kempo",
+      "description": "1. Prenez une posture de préparation équilibrée sur le tapis, genoux souples, mains en garde et regard devant.\n2. Travaillez les bases du kempo, coups de poing, frappes main ouverte, coups de pied et blocages, en les reliant en courts segments de kata et en réponses de self-défense.\n3. Terminez chaque séquence en garde avec une respiration calme et gardez tout contact avec le partenaire léger et convenu.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kempo",
+      "description": "1. Nimm auf der Matte eine ausbalancierte Bereitschaftsstellung ein: Knie locker, Hände in Deckung, Blick nach vorn.\n2. Übe Kempo-Grundlagen wie Fauststöße, Handkantenschläge, Tritte und Abwehren und verbinde sie zu kurzen Kata-Abschnitten und Selbstverteidigungsantworten.\n3. Beende jede Folge in Deckung mit ruhiger Atmung und halte jeden Partnerkontakt leicht und vereinbart.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Kempo",
+      "description": "1. Assumi una posizione di attesa equilibrata sul tatami, ginocchia morbide, mani in guardia e sguardo avanti.\n2. Pratica i fondamentali del kempo, come pugni, colpi a mano aperta, calci e parate, collegandoli in brevi tratti di kata e risposte di autodifesa.\n3. Chiudi ogni sequenza in guardia con respiro regolare e mantieni ogni contatto con il compagno leggero e concordato.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "拳法（Kempo）",
+      "description": "1. 在垫上站成平衡的预备姿势，膝盖放松，双手护卫，目视前方。\n2. 练习拳法基本功，如冲拳、掌击、踢腿和格挡，并把它们串成简短的型段落和自卫应对。\n3. 每段结束时以防守势收势、呼吸平稳，与同伴的任何接触都要轻且事先约定。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "拳法",
+      "description": "1. マット上で膝を柔らかく、両手で構え、前を見てバランスのよい用意の姿勢をとります。\n2. 突き、手刀などの打ち、蹴り、受けといった拳法の基本を練習し、短い形の一部や護身の対応につなげます。\n3. 各動作の終わりは構えで落ち着いた呼吸を保ち、パートナーとの接触は軽く、事前に合意した範囲にします。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "켐포",
+      "description": "1. 매트 위에서 무릎을 부드럽게 하고 손은 가드, 시선은 정면으로 균형 잡힌 준비 자세를 잡습니다.\n2. 지르기, 손날 치기, 차기, 막기 같은 켐포 기본을 연습하고 짧은 카타 구간과 호신 대응으로 연결합니다.\n3. 각 동작은 가드 자세와 안정된 호흡으로 마치고, 파트너와의 접촉은 가볍고 합의된 범위로 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "เคมโป",
+      "description": "1. ยืนท่าเตรียมที่สมดุลบนเบาะ เข่าผ่อนคลาย มือตั้งการ์ด สายตามองตรง\n2. ฝึกพื้นฐานเคมโป เช่น ต่อย ฟันสันมือ เตะ และปัด แล้วเชื่อมเป็นช่วงสั้น ๆ ของกาตะและการป้องกันตัว\n3. จบแต่ละชุดในการ์ดพร้อมหายใจสม่ำเสมอ และให้การสัมผัสกับคู่ฝึกเบาและตกลงกันไว้",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кэмпо",
+      "description": "1. Займите на татами устойчивую подготовительную стойку: колени мягкие, руки в защите, взгляд вперёд.\n2. Отрабатывайте основы кэмпо — удары кулаком, удары открытой рукой, удары ногами и блоки — связывая их в короткие фрагменты ката и ответы самообороны.\n3. Завершайте каждую связку в защите с ровным дыханием, а любой контакт с партнёром делайте лёгким и оговорённым.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кемпо",
+      "description": "1. Займіть на татамі стійку підготовки: коліна м’які, руки в захисті, погляд уперед.\n2. Відпрацьовуйте основи кемпо — удари кулаком, удари відкритою рукою, удари ногами й блоки — поєднуючи їх у короткі фрагменти ката та відповіді самозахисту.\n3. Завершуйте кожну зв’язку в захисті з рівним диханням, а будь-який контакт із партнером робіть легким і узгодженим.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

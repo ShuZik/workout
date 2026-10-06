@@ -1,0 +1,87 @@
+{
+  "id": "89.9",
+  "key": "savate_punch_stop_hit_vs_kicks",
+  "title": "Punch Stop-Hit Against Kicks",
+  "description": "1. Face a partner who launches one agreed kick slowly and predictably.\n2. Step in and stop the kick as it starts with a light punch, then continue with a kick of your own.\n3. Touch lightly, recover distance in guard, and change roles.",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Punch Stop-Hit Against Kicks",
+      "description": "1. Face a partner who launches one agreed kick slowly and predictably.\n2. Step in and stop the kick as it starts with a light punch, then continue with a kick of your own.\n3. Touch lightly, recover distance in guard, and change roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Golpe de parada con puño ante patadas",
+      "description": "1. Colócate frente a un compañero que lanza una patada acordada de forma lenta y previsible.\n2. Entra y detén la patada al iniciarse con un golpe ligero de puño y continúa con una patada propia.\n3. Toca suavemente, recupera la distancia en guardia y cambiad roles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Soco de parada contra chutes",
+      "description": "1. Fique diante de um parceiro que lança um chute combinado de forma lenta e previsível.\n2. Entre e pare o chute no início com um soco leve; depois continue com um chute seu.\n3. Toque levemente, recupere a distância em guarda e troquem os papéis.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Coup d’arrêt du poing sur les pieds",
+      "description": "1. Face à un partenaire qui lance un coup de pied convenu, lentement et de façon prévisible.\n2. Entrez et arrêtez le coup de pied dès son départ par un coup de poing léger, puis enchaînez avec votre propre coup de pied.\n3. Touchez légèrement, reprenez la distance en garde et changez de rôle.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Faust-Stopper gegen Tritte",
+      "description": "1. Stelle dich einem Partner gegenüber, der einen vereinbarten Tritt langsam und vorhersehbar ansetzt.\n2. Tritt ein und stoppe den Tritt im Ansatz mit einem leichten Schlag, dann folge mit einem eigenen Tritt.\n3. Triff leicht, gewinne in Deckung die Distanz zurück und wechselt die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Pugno d’arresto contro i calci",
+      "description": "1. Mettiti di fronte a un compagno che lancia un calcio concordato in modo lento e prevedibile.\n2. Entra e ferma il calcio sul nascere con un pugno leggero, poi prosegui con un tuo calcio.\n3. Tocca leggero, recupera la distanza in guardia e cambiate ruolo.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "以拳截击腿法",
+      "description": "1. 面对一名缓慢且可预判地起约定腿法的同伴。\n2. 在腿法刚起时上步以轻拳截停，然后接上自己的一记腿法。\n3. 轻触即止，以防守势恢复距离并交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "蹴りに対する突きのストップ",
+      "description": "1. 合意した蹴りをゆっくり予測しやすく出すパートナーと向き合います。\n2. 蹴りの出始めに踏み込み、軽いパンチで止め、続けて自分の蹴りを出します。\n3. 軽く当て、構えて間合いを戻し、役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "킥에 대한 펀치 스톱",
+      "description": "1. 합의된 킥을 천천히 예측 가능하게 차는 파트너와 마주 섭니다.\n2. 킥이 시작될 때 들어가 가벼운 펀치로 끊고 이어서 자신의 킥을 찹니다.\n3. 가볍게 터치하고 가드로 거리를 회복한 뒤 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "หมัดหยุดลูกเตะ",
+      "description": "1. ยืนเผชิญคู่ฝึกที่เตะตามที่ตกลงไว้อย่างช้าและคาดเดาได้\n2. ก้าวเข้าไปหยุดลูกเตะตั้งแต่เริ่มด้วยหมัดเบา ๆ แล้วต่อด้วยลูกเตะของคุณเอง\n3. สัมผัสเบา ๆ กลับสู่ระยะในการ์ด และสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Встречный удар рукой против ударов ногами",
+      "description": "1. Встаньте напротив партнёра, который медленно и предсказуемо начинает оговорённый удар ногой.\n2. Войдите и остановите удар в самом начале лёгким ударом рукой, затем продолжите своим ударом ногой.\n3. Касайтесь легко, восстановите дистанцию в стойке и поменяйтесь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Зустрічний удар рукою проти ударів ногами",
+      "description": "1. Станьте навпроти партнера, який повільно й передбачувано починає узгоджений удар ногою.\n2. Увійдіть і зупиніть удар на самому початку легким ударом рукою, потім продовжте власним ударом ногою.\n3. Торкайтеся легко, відновіть дистанцію в стійці й поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

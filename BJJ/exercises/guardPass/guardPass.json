@@ -1,0 +1,90 @@
+{
+  "id": "6.11",
+  "key": "bjj_guard_pass",
+  "title": "Guard Pass",
+  "description": "1. From the top, establish upright posture and control the partner's hips or legs before opening the guard.\n2. Clear the knees one at a time while keeping the elbows close and moving the hips around rather than reaching over the legs.\n3. Bring the chest across the partner, block the near hip, and stabilize side control before releasing the leg grips.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Passes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Guard Pass",
+      "description": "1. From the top, establish upright posture and control the partner's hips or legs before opening the guard.\n2. Clear the knees one at a time while keeping the elbows close and moving the hips around rather than reaching over the legs.\n3. Bring the chest across the partner, block the near hip, and stabilize side control before releasing the leg grips.",
+      "sectionTitle": "Passes"
+    },
+    "es": {
+      "title": "Pase de guardia",
+      "description": "1. Desde arriba, establece una postura erguida y controla la cadera o las piernas del compañero antes de abrir la guardia.\n2. Despeja las rodillas una a una manteniendo los codos pegados y rodeando con la cadera en lugar de estirarte por encima de las piernas.\n3. Lleva el pecho por encima del compañero, bloquea la cadera cercana y estabiliza el control lateral antes de soltar los agarres de las piernas.",
+      "sectionTitle": "Pasajes de guardia"
+    },
+    "pt": {
+      "title": "Passagem de guarda",
+      "description": "1. Por cima, estabeleça uma postura ereta e controle o quadril ou as pernas do parceiro antes de abrir a guarda.\n2. Libere os joelhos um de cada vez, mantendo os cotovelos junto ao corpo e contornando com o quadril em vez de se esticar sobre as pernas.\n3. Leve o peito por cima do parceiro, bloqueie o quadril próximo e estabilize o cem-quilos antes de soltar as pegadas nas pernas.",
+      "sectionTitle": "Passagens de guarda"
+    },
+    "fr": {
+      "title": "Passage de garde",
+      "description": "1. Au-dessus, adoptez une posture droite et contrôlez les hanches ou les jambes du partenaire avant d’ouvrir la garde.\n2. Dégagez les genoux un par un en gardant les coudes serrés et en contournant avec les hanches plutôt qu’en tendant les bras par-dessus les jambes.\n3. Amenez la poitrine en travers du partenaire, bloquez la hanche proche et stabilisez le contrôle latéral avant de lâcher les saisies aux jambes.",
+      "sectionTitle": "Passages de garde"
+    },
+    "de": {
+      "title": "Guard-Pass",
+      "description": "1. Baue oben eine aufrechte Haltung auf und kontrolliere Hüfte oder Beine des Partners, bevor du die Guard öffnest.\n2. Räume die Knie nacheinander ab, halte die Ellbogen eng und bewege die Hüfte um die Beine herum, statt über sie zu greifen.\n3. Bringe die Brust quer über den Partner, blockiere die nahe Hüfte und stabilisiere die Seitenkontrolle, bevor du die Beingriffe löst.",
+      "sectionTitle": "Guard-Pässe"
+    },
+    "it": {
+      "title": "Passaggio di guardia",
+      "description": "1. Da sopra, assumi una postura eretta e controlla anche o gambe del partner prima di aprire la guardia.\n2. Supera le ginocchia una alla volta tenendo i gomiti stretti e girando con le anche anziché allungarti sopra le gambe.\n3. Porta il petto di traverso sul partner, blocca l’anca vicina e stabilizza il controllo laterale prima di lasciare le prese sulle gambe.",
+      "sectionTitle": "Passaggi di guardia"
+    },
+    "zh-Hans": {
+      "title": "过腿",
+      "description": "1. 在上位先建立直立姿势，控制搭档的髋部或双腿，然后再打开防守。\n2. 逐一清开对方膝盖，肘部内收，用髋部绕行，而不是伸手越过对方双腿。\n3. 胸口横压到搭档身上，挡住近侧髋部，稳定侧压后再松开腿部抓握。",
+      "sectionTitle": "过腿"
+    },
+    "ja": {
+      "title": "ガードパス",
+      "description": "1. 上から姿勢を起こし、ガードを開く前に相手の腰か脚をコントロールします。\n2. 肘を締めたまま膝を一つずつ外し、脚の上に手を伸ばすのではなく腰を回り込ませます。\n3. 胸を相手の上に横切らせ、手前の腰をブロックし、サイドコントロールを安定させてから脚のグリップを離します。",
+      "sectionTitle": "パスガード"
+    },
+    "ko": {
+      "title": "가드 패스",
+      "description": "1. 상위에서 자세를 세우고 가드를 열기 전에 파트너의 엉덩이나 다리를 제어합니다.\n2. 팔꿈치를 붙인 채 무릎을 하나씩 치우고, 다리 위로 손을 뻗기보다 엉덩이를 돌려 돌아갑니다.\n3. 가슴을 파트너 위로 가로질러 가까운 엉덩이를 막고, 사이드 컨트롤을 안정시킨 뒤 다리 그립을 놓습니다.",
+      "sectionTitle": "가드 패스"
+    },
+    "th": {
+      "title": "การผ่านการ์ด",
+      "description": "1. จากด้านบน ตั้งลำตัวให้ตรงและควบคุมสะโพกหรือขาของคู่ฝึกก่อนเปิดการ์ด\n2. เคลียร์เข่าทีละข้าง โดยเก็บศอกชิดและเคลื่อนสะโพกอ้อมไป แทนการเอื้อมข้ามขา\n3. นำหน้าอกข้ามตัวคู่ฝึก บล็อกสะโพกฝั่งใกล้ และตั้งไซด์คอนโทรลให้มั่นคงก่อนปล่อยการจับขา",
+      "sectionTitle": "การผ่านการ์ด"
+    },
+    "ru": {
+      "title": "Проход гарда",
+      "description": "1. Сверху выпрямите корпус и возьмите под контроль таз или ноги партнёра, прежде чем раскрыть гард.\n2. Убирайте колени по одному, держа локти прижатыми и обходя ноги тазом, а не тянясь через них руками.\n3. Переведите грудь поперёк партнёра, заблокируйте ближнее бедро и закрепите боковой контроль, прежде чем отпустить ноги.",
+      "sectionTitle": "Проходы гарда"
+    },
+    "uk": {
+      "title": "Прохід гарду",
+      "description": "1. Згори випряміть тулуб і візьміть під контроль таз або ноги партнера, перш ніж розкрити гард.\n2. Прибирайте коліна по одному, тримаючи лікті притиснутими й обходячи ноги тазом, а не тягнучись через них руками.\n3. Переведіть груди поперек партнера, заблокуйте ближнє стегно й закріпіть бічний контроль, перш ніж відпустити ноги.",
+      "sectionTitle": "Проходи гарду"
+    }
+  }
+}

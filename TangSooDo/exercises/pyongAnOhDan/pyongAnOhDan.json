@@ -1,0 +1,90 @@
+{
+  "id": "101.9",
+  "key": "tang_soo_do_pyong_an_oh_dan",
+  "title": "Pyong An Oh Dan",
+  "description": "1. From ready stance, perform an inside middle block with a reverse punch, then low and high cross-arm blocks while stepping forward.\n2. Turn into horse stance with a hook punch and a crescent stamp, then jump with a low cross block and land balanced in a crossed stance.\n3. Finish with a spear-hand and low block sequence and back-stance turns, shout kihap where prescribed, and return to ready stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "tangSooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pyong An Oh Dan",
+      "description": "1. From ready stance, perform an inside middle block with a reverse punch, then low and high cross-arm blocks while stepping forward.\n2. Turn into horse stance with a hook punch and a crescent stamp, then jump with a low cross block and land balanced in a crossed stance.\n3. Finish with a spear-hand and low block sequence and back-stance turns, shout kihap where prescribed, and return to ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Pyong An Oh Dan",
+      "description": "1. Desde la preparación, realiza un bloqueo medio interior con puñetazo inverso y luego bloqueos en cruz bajo y alto avanzando.\n2. Gira a posición de jinete con puñetazo de gancho y pisotón en media luna, luego salta con bloqueo bajo en cruz y aterriza equilibrado en posición cruzada.\n3. Termina con una secuencia de mano de lanza y bloqueo bajo y giros en posición retrasada, haz kihap donde corresponda y vuelve a la preparación.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Pyong An Oh Dan",
+      "description": "1. Da prontidão, faça um bloqueio médio interno com soco invertido e depois bloqueios cruzados baixo e alto avançando.\n2. Vire para base de cavaleiro com soco em gancho e pisada em meia-lua, depois salte com bloqueio baixo cruzado e aterrisse equilibrado em base cruzada.\n3. Termine com uma sequência de mão em lança e bloqueio baixo e giros em base recuada, dê kihap onde indicado e volte à prontidão.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Pyong An Oh Dan",
+      "description": "1. Depuis la position prête, effectuez un blocage moyen intérieur avec coup de poing inversé, puis des blocages croisés bas et haut en avançant.\n2. Tournez en position du cavalier avec coup de poing crochet et frappe du pied en croissant, puis sautez avec blocage bas croisé et retombez équilibré en position croisée.\n3. Terminez par une séquence pique de main et blocage bas avec des rotations en position arrière, kihap aux endroits prévus, et revenez en position prête.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Pyong An Oh Dan",
+      "description": "1. Aus der Bereitschaft einen inneren mittleren Block mit Gegenfauststoß, dann tiefe und hohe Kreuzblocks im Vorgehen.\n2. In den Reiterstand mit Hakenfauststoß und Halbmond-Stampfer drehen, dann mit tiefem Kreuzblock springen und ausbalanciert im gekreuzten Stand landen.\n3. Mit Speerhand- und Tiefblockfolge und Drehungen in Rückwärtsstellung abschließen, Kihap an den vorgesehenen Stellen und in Bereitschaft zurückkehren.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Pyong An Oh Dan",
+      "description": "1. Dalla posizione di attesa, esegui una parata media interna con pugno inverso, poi parate incrociate bassa e alta avanzando.\n2. Gira in posizione del cavaliere con pugno a uncino e pestone a mezzaluna, poi salta con parata bassa incrociata e atterra in equilibrio in posizione incrociata.\n3. Concludi con una sequenza di mano a lancia e parata bassa e rotazioni in posizione arretrata, kihap dove previsto e torna in posizione di attesa.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "平安五段",
+      "description": "1. 从准备式做内中段格挡加反手冲拳，然后上步做下段和上段交叉格挡。\n2. 转成骑马站姿勾拳并做新月踏步，然后跳起交叉下格挡，平稳落成交叉步。\n3. 以贯手与下格挡组合及后屈站姿转身结束，在规定处发声，回到准备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "平安五段（ピョンアン・オダン）",
+      "description": "1. 準備の姿勢から中段内受けと逆突き、続いて踏み出しながら交差の下段受けと上段受け。\n2. 騎馬立ちに転じて鉤突きと三日月の踏み込み、交差下段受けで跳び、交差立ちで安定して着地します。\n3. 貫手と下段払いの連続、後屈立ちの転身で締め、決められた所で気合を入れ、準備の姿勢に戻ります。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "평안 오단",
+      "description": "1. 준비 자세에서 안쪽 중단 막기와 반대 지르기, 이어 나아가며 엇걸어 하단·상단 막기를 합니다.\n2. 기마 자세로 돌아 갈고리 지르기와 반달 발 구르기, 엇걸어 하단 막기로 뛰어 꼬아서기로 균형 있게 착지합니다.\n3. 관수와 하단 막기 연결, 후굴 자세 돌기로 마무리하고 정해진 곳에서 기합을 넣은 뒤 준비 자세로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "พยองอันโอดัน",
+      "description": "1. จากท่าเตรียม ปัดกลางด้านในพร้อมต่อยมือหลัง แล้วปัดไขว้แขนต่ำและสูงขณะก้าวไปข้างหน้า\n2. หมุนเข้าท่าขี่ม้าพร้อมหมัดตะขอและกระทืบเท้าแบบจันทร์เสี้ยว แล้วกระโดดพร้อมปัดไขว้ต่ำ ลงพื้นอย่างสมดุลในท่าไขว้เท้า\n3. จบด้วยชุดแทงปลายนิ้วและปัดล่างพร้อมหมุนในท่ายืนหลัง เปล่งเสียงคีฮับตามที่กำหนด และกลับสู่ท่าเตรียม",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Пхён ан о дан",
+      "description": "1. Из стойки готовности выполните внутренний средний блок с обратным ударом, затем скрещённые нижний и верхний блоки с шагом вперёд.\n2. Повернитесь в стойку всадника с боковым ударом кулаком и притопом по дуге, затем прыгните со скрещённым нижним блоком и устойчиво приземлитесь в скрещённую стойку.\n3. Завершите связкой тычка пальцами и нижнего блока с поворотами в задней стойке, выполните кихап в положенных местах и вернитесь в стойку готовности.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Пхйон ан о дан",
+      "description": "1. Зі стійки готовності виконайте внутрішній середній блок зі зворотним ударом, потім схрещені нижній і верхній блоки з кроком уперед.\n2. Поверніться в стійку вершника з боковим ударом кулаком і притупом по дузі, потім стрибніть зі схрещеним нижнім блоком і стійко приземліться в схрещену стійку.\n3. Завершіть зв’язкою тичка пальцями й нижнього блоку з поворотами в задній стійці, виконайте кіхап у належних місцях і поверніться в стійку готовності.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "56.2",
+  "key": "glima_stepping",
+  "title": "Glima Stepping",
+  "description": "1. Take the glima hold with a trained partner: one hand on the partner's belt and the other on the thigh strap, both standing fully upright.\n2. Step clockwise around each other in a steady rhythm, looking over the partner's shoulder and keeping the hips close.\n3. Keep the hold and posture throughout, without pushing or bending over, and change pace on a signal.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "glima",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Glima Stepping",
+      "description": "1. Take the glima hold with a trained partner: one hand on the partner's belt and the other on the thigh strap, both standing fully upright.\n2. Step clockwise around each other in a steady rhythm, looking over the partner's shoulder and keeping the hips close.\n3. Keep the hold and posture throughout, without pushing or bending over, and change pace on a signal.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Paso de glíma",
+      "description": "1. Toma el agarre de glíma con un compañero entrenado: una mano en su cinturón y la otra en la correa del muslo, ambos totalmente erguidos.\n2. Gira en el sentido de las agujas del reloj alrededor del otro con ritmo constante, mirando por encima de su hombro y con las caderas cerca.\n3. Mantén el agarre y la postura en todo momento, sin empujar ni inclinarte, y cambia el ritmo a una señal.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Passo de glíma",
+      "description": "1. Faça a pegada de glíma com um parceiro treinado: uma mão no cinto dele e a outra na tira da coxa, ambos totalmente eretos.\n2. Gire no sentido horário um ao redor do outro em ritmo constante, olhando por cima do ombro dele e com os quadris próximos.\n3. Mantenha a pegada e a postura o tempo todo, sem empurrar nem se curvar, e mude o ritmo a um sinal.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Pas de glíma",
+      "description": "1. Prenez la saisie de glíma avec un partenaire entraîné : une main à sa ceinture, l'autre à la sangle de cuisse, tous deux bien droits.\n2. Tournez l'un autour de l'autre dans le sens des aiguilles d'une montre à rythme régulier, regard par-dessus son épaule, hanches proches.\n3. Gardez la saisie et la posture tout du long, sans pousser ni vous pencher, et changez de rythme au signal.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Glíma-Schrittfolge",
+      "description": "1. Nimm mit einem geübten Partner den Glíma-Griff: eine Hand am Gürtel, die andere am Oberschenkelriemen, beide ganz aufrecht.\n2. Tretet im gleichmäßigen Rhythmus im Uhrzeigersinn umeinander, blickt über die Schulter des Partners und haltet die Hüften nah.\n3. Halte Griff und Haltung durchgehend, ohne zu drücken oder dich vorzubeugen, und ändere auf ein Signal das Tempo.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Passo della glíma",
+      "description": "1. Prendi la presa della glíma con un partner allenato: una mano sulla sua cintura e l'altra sulla cinghia della coscia, entrambi ben eretti.\n2. Girate in senso orario l'uno intorno all'altro con ritmo costante, guardando oltre la sua spalla e con le anche vicine.\n3. Mantieni presa e postura per tutto il tempo, senza spingere né piegarti, e cambia ritmo a un segnale.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "冰岛式摔跤步法",
+      "description": "1. 与训练有素的同伴取冰岛摔跤握法：一手抓对方腰带，另一手抓大腿带，双方完全直立。\n2. 以稳定节奏彼此��时针绕行，目光越过对方肩膀，髋部贴近。\n3. 全程保持握持和姿态，不推不弯腰，听信号改变节奏。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "グリマのステップ",
+      "description": "1. 熟練のパートナーとグリマの組み手を取ります。片手は相手の帯、もう片手は太もものストラップを持ち、二人とも完全に直立します。\n2. 一定のリズムで互いに時計回りに回り、相手の肩越しに見て腰を近づけます。\n3. 押したり前かがみになったりせず組み手と姿勢を保ち、合図でペースを変えます。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "글리마 스텝",
+      "description": "1. 숙련된 파트너와 글리마 그립을 잡습니다. 한 손은 파트너의 벨트, 다른 손은 허벅지 끈을 잡고 둘 다 완전히 곧게 섭니다.\n2. 일정한 리듬으로 서로 시계 방향으로 돌며 파트너의 어깨 너머를 보고 엉덩이를 가깝게 둡니다.\n3. 밀거나 숙이지 않고 그립과 자세를 계속 유지하며 신호에 맞춰 속도를 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ก้าวเท้ากลีมา",
+      "description": "1. จับแบบกลีมากับคู่ฝึกที่ผ่านการฝึก มือหนึ่งจับเข็มขัดของเขา อีกมือจับสายรัดต้นขา ทั้งคู่ยืนตัวตรงเต็มที่\n2. ก้าววนรอบกันตามเข็มนาฬิกาด้วยจังหวะสม่ำเสมอ มองข้ามไหล่ของเขา และให้สะโพกชิดกัน\n3. คงการจับและท่าทางไว้ตลอด ไม่ดันและไม่ก้มตัว แล้วเปลี่ยนจังหวะเมื่อได้สัญญาณ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Шаг глимы",
+      "description": "1. Возьмите захват глимы с подготовленным партнёром: одна рука на его поясе, другая на бедренном ремне, оба стоят полностью прямо.\n2. Шагайте по часовой стрелке вокруг друг друга в ровном ритме, глядя через плечо партнёра и держа таз близко.\n3. Сохраняйте захват и осанку всё время, не толкая и не наклоняясь, и меняйте темп по сигналу.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Крок гліми",
+      "description": "1. Візьміть захват гліми з підготовленим партнером: одна рука на його поясі, друга на стегновому ремені, обидва стоять цілком прямо.\n2. Крокуйте за годинниковою стрілкою довкола одне одного в рівному ритмі, дивлячись через плече партнера й тримаючи таз близько.\n3. Зберігайте захват і поставу весь час, не штовхаючи й не нахиляючись, і змінюйте темп за сигналом.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "69.3",
+  "key": "kendo_kihon_2",
+  "title": "Kihon 2 Kote-Men",
+  "description": "1. From chudan at striking distance, motodachi opens kote by lifting the tip slightly.\n2. Kakarite strikes kote, and as motodachi steps back opening men, follows at once with men in one continuous rhythm.\n3. Kakarite shows zanshin, then both return to chudan and the starting distance.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kihon 2 Kote-Men",
+      "description": "1. From chudan at striking distance, motodachi opens kote by lifting the tip slightly.\n2. Kakarite strikes kote, and as motodachi steps back opening men, follows at once with men in one continuous rhythm.\n3. Kakarite shows zanshin, then both return to chudan and the starting distance.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Kihon 2 Kote-Men",
+      "description": "1. Desde chudan a distancia de golpe, motodachi abre kote elevando ligeramente la punta.\n2. Kakarite golpea kote y, cuando motodachi retrocede abriendo men, sigue de inmediato con men en un ritmo continuo.\n3. Kakarite muestra zanshin y ambos vuelven a chudan y a la distancia inicial.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Kihon 2 Kote-Men",
+      "description": "1. Em chudan à distância de golpe, motodachi abre kote erguendo levemente a ponta.\n2. Kakarite golpeia kote e, quando motodachi recua abrindo men, segue de imediato com men num ritmo contínuo.\n3. Kakarite mostra zanshin e ambos voltam a chudan e à distância inicial.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Kihon 2 Kote-Men",
+      "description": "1. En chudan à distance de frappe, motodachi ouvre kote en levant légèrement la pointe.\n2. Kakarite frappe kote puis, quand motodachi recule en ouvrant men, enchaîne aussitôt men dans un rythme continu.\n3. Kakarite montre le zanshin, puis tous deux reviennent en chudan à la distance de départ.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Kihon 2 Kote-Men",
+      "description": "1. Aus dem Chudan auf Schlagdistanz öffnet Motodachi Kote durch leichtes Anheben der Spitze.\n2. Kakarite schlägt Kote und folgt, wenn Motodachi zurücktritt und Men öffnet, sofort mit Men in einem fließenden Rhythmus.\n3. Kakarite zeigt Zanshin, dann kehren beide ins Chudan und zur Ausgangsdistanz zurück.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Kihon 2 Kote-Men",
+      "description": "1. Da chudan a distanza di colpo, motodachi apre kote sollevando leggermente la punta.\n2. Kakarite colpisce kote e, quando motodachi arretra aprendo men, prosegue subito con men in un ritmo continuo.\n3. Kakarite mostra zanshin, poi entrambi tornano in chudan alla distanza iniziale.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "基本2 小手-面",
+      "description": "1. 在打击间合中段构，元立微抬剑尖露出小手。\n2. 挂手击小手，元立后退露出面时，立即连续击面，节奏不断。\n3. 挂手示残心，双方回到中段及初始间合。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "基本2 二・三段の技（小手-面）",
+      "description": "1. 打ち間の中段から、元立ちが剣先をわずかに上げて小手を空けます。\n2. 掛り手は小手を打ち、元立ちが下がって面を空けたところへ、間を切らずに続けて面を打ちます。\n3. 掛り手は残心を示し、互いに中段と元の間合いに戻ります。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "기본 2 손목-머리",
+      "description": "1. 타격 거리 중단에서 원립이 칼끝을 살짝 들어 손목을 엽니다.\n2. 괘수는 손목을 치고, 원립이 물러나며 머리를 열면 끊김 없이 바로 머리를 칩니다.\n3. 괘수가 잔심을 보이고 둘 다 중단과 처음 거리로 돌아갑니다.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "คิฮง 2 โคเตะ-เมน",
+      "description": "1. จากชูดังในระยะตี โมโตดาจิเปิดโคเตะโดยยกปลายดาบขึ้นเล็กน้อย\n2. คาคาริเตะตีโคเตะ และเมื่อโมโตดาจิถอยเปิดเมน ให้ตีเมนต่อทันทีในจังหวะต่อเนื่อง\n3. คาคาริเตะแสดงซันชิน แล้วทั้งคู่กลับสู่ชูดังและระยะเริ่มต้น",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Кихон 2 Котэ-мэн",
+      "description": "1. Из тюдан на дистанции удара мотодати открывает котэ, слегка поднимая кончик.\n2. Какаритэ бьёт котэ и, когда мотодати отступает, открывая мэн, сразу продолжает ударом мэн в непрерывном ритме.\n3. Какаритэ показывает дзансин, затем оба возвращаются в тюдан и на исходную дистанцию.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Кіхон 2 Коте-мен",
+      "description": "1. Із тюдан на дистанції удару мотодаті відкриває коте, трохи піднімаючи кінчик.\n2. Какарите б’є коте й, коли мотодаті відступає, відкриваючи мен, одразу продовжує ударом мен у безперервному ритмі.\n3. Какарите показує дзансін, потім обоє повертаються в тюдан і на початкову дистанцію.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "91.8",
+  "key": "shorinji_kempo_gyaku_gote",
+  "title": "Gyaku Gote Wrist Throw",
+  "description": "1. Attacker grabs the defender's wrist; defender frees the hand slightly and secures the attacker's hand with both hands, thumbs on its back.\n2. Defender turns the attacker's wrist outward in a small circle while stepping back, guiding the attacker down to the side.\n3. Attacker takes ukemi or taps as soon as the wrist feels pressure; defender releases at once, and both return to kamae before switching roles.",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Gyaku Gote Wrist Throw",
+      "description": "1. Attacker grabs the defender's wrist; defender frees the hand slightly and secures the attacker's hand with both hands, thumbs on its back.\n2. Defender turns the attacker's wrist outward in a small circle while stepping back, guiding the attacker down to the side.\n3. Attacker takes ukemi or taps as soon as the wrist feels pressure; defender releases at once, and both return to kamae before switching roles.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Proyección de muñeca gyaku gote",
+      "description": "1. El atacante agarra la muñeca del defensor; el defensor libera un poco la mano y sujeta la mano del atacante con las dos manos, con los pulgares sobre el dorso.\n2. El defensor gira la muñeca del atacante hacia fuera en un pequeño círculo mientras retrocede, llevándolo al suelo hacia un lado.\n3. El atacante hace ukemi o golpea en cuanto siente presión en la muñeca; el defensor suelta al instante y ambos vuelven a kamae antes de cambiar de papel.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Projeção de punho gyaku gote",
+      "description": "1. O atacante agarra o punho do defensor; o defensor solta um pouco a mão e prende a mão do atacante com as duas mãos, polegares no dorso.\n2. O defensor gira o punho do atacante para fora em um pequeno círculo enquanto recua, conduzindo-o ao chão para o lado.\n3. O atacante faz ukemi ou bate assim que sente pressão no punho; o defensor solta imediatamente e ambos voltam ao kamae antes de trocar de papel.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Projection par le poignet gyaku gote",
+      "description": "1. L'attaquant saisit le poignet du défenseur ; le défenseur libère légèrement sa main et saisit celle de l'attaquant à deux mains, pouces sur le dos de la main.\n2. Le défenseur tourne le poignet de l'attaquant vers l'extérieur en un petit cercle tout en reculant, et l'amène au sol sur le côté.\n3. L'attaquant chute ou tape dès qu'il sent la pression ; le défenseur lâche aussitôt et tous deux reviennent en kamae avant d'inverser les rôles.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Gyaku Gote – Handgelenkwurf",
+      "description": "1. Der Angreifer greift das Handgelenk des Verteidigers; der Verteidiger löst die Hand etwas und fasst die Hand des Angreifers mit beiden Händen, die Daumen auf dem Handrücken.\n2. Der Verteidiger dreht das Handgelenk des Angreifers in einem kleinen Kreis nach außen, tritt zurück und führt ihn seitlich zu Boden.\n3. Der Angreifer fällt mit Ukemi oder klopft ab, sobald er Druck spürt; der Verteidiger lässt sofort los, beide kehren ins Kamae zurück und tauschen die Rollen.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Proiezione di polso gyaku gote",
+      "description": "1. L'attaccante afferra il polso del difensore; il difensore libera leggermente la mano e blocca quella dell'attaccante con entrambe le mani, pollici sul dorso.\n2. Il difensore ruota il polso dell'attaccante verso l'esterno in un piccolo cerchio arretrando, accompagnandolo a terra di lato.\n3. L'attaccante esegue ukemi o batte appena sente pressione al polso; il difensore lascia subito ed entrambi tornano in kamae prima di scambiarsi i ruoli.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "逆小手",
+      "description": "1. 攻者抓住守者手腕；守者稍稍松脱手腕，再用双手扣住攻者的手，拇指压在其手背上。\n2. 守者一边后撤，一边将攻者手腕向外画小圆翻转，引导其向侧方倒地。\n3. 攻者一感到手腕受压就做受身或拍击示意；守者立即放手，双方回到构式后互换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "逆小手",
+      "description": "1. 攻者が守者の手首をつかみ、守者は手を少し抜いてから両手で攻者の手を取り、親指を手の甲に当てます。\n2. 守者は後ろへ下がりながら攻者の手首を小さな円で外側へ返し、横へ倒します。\n3. 攻者は手首に圧を感じたらすぐに受身を取るか合図し、守者は直ちに放し、両者構えに戻ってから役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "갸쿠고테 손목 던지기",
+      "description": "1. 공격자가 방어자의 손목을 잡으면, 방어자는 손을 살짝 빼낸 뒤 두 손으로 공격자의 손을 잡고 엄지를 손등에 댑니다.\n2. 방어자는 뒤로 물러나며 공격자의 손목을 작은 원을 그리듯 바깥으로 꺾어 옆으로 넘어지게 이끕니다.\n3. 공격자는 손목에 압박을 느끼는 즉시 낙법을 하거나 탭하고, 방어자는 곧바로 풀어 주며 둘 다 카마에로 돌아온 뒤 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เกียคุโกเตะ ทุ่มด้วยข้อมือ",
+      "description": "1. ผู้โจมตีจับข้อมือผู้ป้องกัน ผู้ป้องกันคลายมือออกเล็กน้อยแล้วใช้สองมือจับมือผู้โจมตีไว้ โดยวางนิ้วโป้งบนหลังมือ\n2. ผู้ป้องกันถอยหลังพร้อมบิดข้อมือผู้โจมตีออกด้านนอกเป็นวงเล็ก พาให้ล้มลงด้านข้าง\n3. ผู้โจมตีล้มด้วยอุเคมิหรือตบสัญญาณทันทีที่รู้สึกแรงกดที่ข้อมือ ผู้ป้องกันปล่อยทันที แล้วทั้งคู่กลับสู่คามาเอะก่อนสลับบทบาท",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Гяку-готэ — бросок через запястье",
+      "description": "1. Атакующий хватает запястье защищающегося; защищающийся слегка высвобождает руку и обеими руками фиксирует кисть атакующего, большие пальцы на её тыльной стороне.\n2. Отступая, защищающийся выворачивает запястье атакующего наружу по малому кругу и уводит его на землю в сторону.\n3. Атакующий выполняет укэми или хлопает, как только почувствует давление; защищающийся сразу отпускает, оба возвращаются в камаэ и меняются ролями.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Ґяку-ґоте — кидок через зап'ястя",
+      "description": "1. Нападник хапає зап'ястя захисника; захисник трохи вивільняє руку й обома руками фіксує кисть нападника, великі пальці на її тильному боці.\n2. Відступаючи, захисник вивертає зап'ястя нападника назовні малим колом і виводить його на землю вбік.\n3. Нападник виконує укемі або плескає, щойно відчує тиск; захисник одразу відпускає, обидва повертаються в камае й міняються ролями.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

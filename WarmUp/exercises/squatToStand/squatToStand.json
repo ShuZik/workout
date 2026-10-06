@@ -1,0 +1,90 @@
+{
+  "id": "9.28",
+  "key": "squat_to_stand",
+  "title": "Squat-to-Stand",
+  "description": "1. Stand with feet just wider than the hips and hinge down to hold the toes or ankles.\n2. Lower the hips into a deep comfortable squat while lifting the chest and keeping the heels grounded.\n3. Raise the hips to lengthen the backs of the legs, then bend the knees and stand.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Squat-to-Stand",
+      "description": "1. Stand with feet just wider than the hips and hinge down to hold the toes or ankles.\n2. Lower the hips into a deep comfortable squat while lifting the chest and keeping the heels grounded.\n3. Raise the hips to lengthen the backs of the legs, then bend the knees and stand.",
+      "sectionTitle": "Dynamic Movement"
+    },
+    "es": {
+      "title": "De sentadilla a pie",
+      "description": "1. Coloca los pies algo más separados que las caderas e inclínate desde las caderas para sujetar los dedos de los pies o los tobillos.\n2. Baja las caderas a una sentadilla profunda y cómoda, elevando el pecho y manteniendo los talones apoyados.\n3. Eleva las caderas para estirar la parte posterior de las piernas, luego flexiona las rodillas y ponte de pie.",
+      "sectionTitle": "Movimiento dinámico"
+    },
+    "pt": {
+      "title": "Do agachamento à posição em pé",
+      "description": "1. Fique com pés um pouco mais afastados que os quadris e incline pelos quadris para segurar os dedos dos pés ou tornozelos.\n2. Baixe os quadris num agachamento profundo confortável, erguendo o peito e mantendo os calcanhares no chão.\n3. Levante os quadris para alongar a parte posterior das pernas, depois dobre os joelhos e fique em pé.",
+      "sectionTitle": "Movimento dinâmico"
+    },
+    "fr": {
+      "title": "Du squat à la station debout",
+      "description": "1. Écartez les pieds un peu plus que les hanches et basculez aux hanches pour saisir les orteils ou les chevilles.\n2. Abaissez les hanches dans un squat profond confortable, en relevant la poitrine et en gardant les talons au sol.\n3. Remontez les hanches pour allonger l’arrière des jambes, puis pliez les genoux et redressez-vous.",
+      "sectionTitle": "Mouvement dynamique"
+    },
+    "de": {
+      "title": "Aus der Kniebeuge aufstehen",
+      "description": "1. Stehe etwas breiter als hüftbreit und beuge dich aus der Hüfte nach unten, um Zehen oder Knöchel zu greifen.\n2. Senke die Hüfte in eine angenehm tiefe Kniebeuge, richte die Brust auf und halte die Fersen am Boden.\n3. Hebe die Hüfte, um die Beinrückseiten zu verlängern, beuge dann die Knie und stehe auf.",
+      "sectionTitle": "Dynamische Bewegung"
+    },
+    "it": {
+      "title": "Da squat a in piedi",
+      "description": "1. Stai con i piedi poco più larghi delle anche e piegati dalle anche per afferrare le dita dei piedi o le caviglie.\n2. Abbassa il bacino in uno squat profondo comodo, sollevando il petto e mantenendo i talloni a terra.\n3. Solleva il bacino per allungare il retro delle gambe, poi piega le ginocchia e alzati.",
+      "sectionTitle": "Movimento dinamico"
+    },
+    "zh-Hans": {
+      "title": "深蹲起立",
+      "description": "1. 双脚略宽于髋部，从髋部向下折叠，握住脚趾或脚踝。\n2. 降低髋部进入舒适的深蹲，同时挺胸并保持脚跟踩地。\n3. 抬高髋部以伸长腿后侧，然后屈膝站起。",
+      "sectionTitle": "动态动作"
+    },
+    "ja": {
+      "title": "スクワットから立位へ",
+      "description": "1. 足を腰幅より少し広く開き、股関節から前屈してつま先か足首をつかみます。\n2. 胸を起こし、かかとを床につけたまま、無理のない深いスクワットに腰を下げます。\n3. 腰を上げて脚の裏側を伸ばし、膝を曲げて立ち上がります。",
+      "sectionTitle": "ダイナミックな動作"
+    },
+    "ko": {
+      "title": "스쿼트 투 스탠드",
+      "description": "1. 발을 골반보다 조금 넓게 벌리고 엉덩이를 접어 내려가 발가락이나 발목을 잡습니다.\n2. 가슴을 세우고 뒤꿈치를 바닥에 둔 채 편안한 깊이의 스쿼트로 엉덩이를 낮춥니다.\n3. 엉덩이를 높여 다리 뒤쪽을 늘린 다음 무릎을 굽혀 일어섭니다.",
+      "sectionTitle": "동적 움직임"
+    },
+    "th": {
+      "title": "จากสควอตสู่ยืน",
+      "description": "1. ยืนแยกเท้ากว้างกว่าสะโพกเล็กน้อยแล้วพับตัวจากสะโพกลงไปจับนิ้วเท้าหรือข้อเท้า\n2. ลดสะโพกเข้าสควอตลึกในระดับที่สบาย ยกหน้าอกและให้ส้นเท้าติดพื้น\n3. ยกสะโพกเพื่อยืดด้านหลังขา จากนั้นงอเข่าและยืนขึ้น",
+      "sectionTitle": "การเคลื่อนไหวแบบไดนามิก"
+    },
+    "ru": {
+      "title": "Из приседа в стойку",
+      "description": "1. Встаньте, расставив стопы чуть шире таза, наклонитесь от тазобедренных суставов и возьмитесь за пальцы ног или лодыжки.\n2. Опустите таз в комфортный глубокий присед, приподнимая грудь и оставляя пятки на полу.\n3. Поднимите таз, чтобы вытянуть заднюю поверхность ног, затем согните колени и встаньте.",
+      "sectionTitle": "Динамические движения"
+    },
+    "uk": {
+      "title": "Із присіду в стійку",
+      "description": "1. Станьте, розставивши стопи трохи ширше таза, нахиліться від кульшових суглобів і візьміться за пальці ніг або щиколотки.\n2. Опустіть таз у комфортний глибокий присід, піднімаючи груди й залишаючи п’яти на підлозі.\n3. Підніміть таз, щоб витягнути задню поверхню ніг, потім зігніть коліна та встаньте.",
+      "sectionTitle": "Динамічні рухи"
+    }
+  }
+}

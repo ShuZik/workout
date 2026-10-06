@@ -1,0 +1,90 @@
+{
+  "id": "54.10",
+  "key": "fencing_cut_over",
+  "title": "Cut-over",
+  "description": "1. Engage the partner's blade at lunging distance with both fencers masked.\n2. Lift the point over the tip of the partner's blade by bending the wrist and fingers, without drawing the arm back, and drop it into the opposite line.\n3. Extend and lunge to hit in the new line, recover to en garde, and repeat from both sides before swapping roles.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Cut-over",
+      "description": "1. Engage the partner's blade at lunging distance with both fencers masked.\n2. Lift the point over the tip of the partner's blade by bending the wrist and fingers, without drawing the arm back, and drop it into the opposite line.\n3. Extend and lunge to hit in the new line, recover to en garde, and repeat from both sides before swapping roles.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Coupé (cortado)",
+      "description": "1. Toma contacto con la hoja del compañero a distancia de fondo, ambos con careta.\n2. Eleva la punta por encima de la punta del compañero doblando muñeca y dedos, sin retirar el brazo, y déjala caer en la línea opuesta.\n3. Extiende y tira a fondo para tocar en la nueva línea, vuelve a guardia y repite por ambos lados antes de cambiar papeles.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Coupé",
+      "description": "1. Engaje a lâmina do parceiro à distância de afundo, ambos com máscara.\n2. Eleve a ponta por cima da ponta do parceiro dobrando punho e dedos, sem recuar o braço, e deixe-a cair na linha oposta.\n3. Estenda e afunde para tocar na nova linha, volte à guarda e repita dos dois lados antes de trocar papéis.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Coupé",
+      "description": "1. Engagez le fer du partenaire à distance de fente, tous deux masqués.\n2. Passez la pointe par-dessus la pointe adverse en fléchissant poignet et doigts, sans retirer le bras, et laissez-la tomber dans la ligne opposée.\n3. Allongez et fendez-vous pour toucher dans la nouvelle ligne, revenez en garde et répétez des deux côtés avant d’inverser.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Coupé",
+      "description": "1. Binde die Partnerklinge auf Ausfalldistanz, beide mit Maske.\n2. Hebe die Spitze durch Beugen von Handgelenk und Fingern über die Partnerspitze, ohne den Arm zurückzuziehen, und senke sie in die Gegenlinie.\n3. Strecke und falle aus zum Treffer in der neuen Linie, kehre zurück und wiederhole beidseitig, bevor ihr tauscht.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Tagliata (coupé)",
+      "description": "1. Lega la lama del compagno a distanza d’affondo, entrambi con maschera.\n2. Solleva la punta sopra quella del compagno flettendo polso e dita, senza ritirare il braccio, e lasciala scendere nella linea opposta.\n3. Distendi e affonda per toccare nella nuova linea, torna in guardia e ripeti da entrambi i lati prima di scambiare.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "越剑（Coupé）",
+      "description": "1. 双方戴面罩，在弓步距离接住同伴的剑。\n2. 屈腕屈指将剑尖从同伴剑尖上方越过，手臂不后撤，落入对侧线位。\n3. 伸臂弓步刺中新线位，恢复实战姿势，两侧练习后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "クーペ",
+      "description": "1. 双方マスクを着け、ファントの間合いで相手の剣とアンガージュします。\n2. 腕を引かずに手首と指を曲げて剣先を相手の剣先の上に越えさせ、反対側のラインへ落とします。\n3. 腕を伸ばして新しいラインへファントで突き、アンガルドに戻り、両側で繰り返してから交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "쿠페",
+      "description": "1. 둘 다 마스크를 쓰고 런지 거리에서 파트너 칼과 인게이지합니다.\n2. 팔을 당기지 않고 손목과 손가락을 굽혀 칼끝을 파트너 칼끝 위로 넘긴 뒤 반대 라인으로 떨어뜨립니다.\n3. 팔을 뻗어 새 라인으로 런지해 찌르고 앙가르드로 돌아와 양쪽에서 반복한 뒤 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "คูเป",
+      "description": "1. ทั้งคู่สวมหน้ากาก แตะใบดาบคู่ฝึกในระยะลันจ์\n2. งอข้อมือและนิ้วยกปลายดาบข้ามเหนือปลายดาบคู่ฝึกโดยไม่ดึงแขนกลับ แล้ววางลงในแนวตรงข้าม\n3. เหยียดแขนแล้วลันจ์แทงในแนวใหม่ กลับสู่อองการ์ด ฝึกทั้งสองด้านแล้วสลับบทบาท",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Перевод через остриё (кюпе)",
+      "description": "1. Возьмите соединение с клинком партнёра на дистанции выпада, оба в масках.\n2. Сгибая кисть и пальцы, проведите остриё над остриём партнёра, не отводя руку назад, и опустите его в противоположную линию.\n3. Выпрямите руку и выпадом нанесите укол в новую линию, вернитесь в стойку, повторите с обеих сторон и поменяйтесь ролями.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Переведення через вістря (кюпе)",
+      "description": "1. Візьміть з’єднання з клинком партнера на дистанції випаду, обидва в масках.\n2. Згинаючи кисть і пальці, проведіть вістря над вістрям партнера, не відводячи руку назад, і опустіть його в протилежну лінію.\n3. Випряміть руку й випадом завдайте уколу в нову лінію, поверніться в стійку, повторіть з обох боків і поміняйтеся ролями.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

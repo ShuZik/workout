@@ -1,0 +1,90 @@
+{
+  "id": "2.23",
+  "key": "muay_thai_forward_backward_step",
+  "title": "Forward/Backward Step",
+  "description": "1. Begin in Muay Thai stance with knees soft, forearms high, and a consistent distance between the feet.\n2. Advance with the lead foot first and retreat with the rear foot first using short sliding steps.\n3. Move the second foot the same distance so the stance stays ready to check, teep, or strike.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Forward/Backward Step",
+      "description": "1. Begin in Muay Thai stance with knees soft, forearms high, and a consistent distance between the feet.\n2. Advance with the lead foot first and retreat with the rear foot first using short sliding steps.\n3. Move the second foot the same distance so the stance stays ready to check, teep, or strike.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Paso adelante y atrás",
+      "description": "1. Empieza en postura de Muay Thai con las rodillas flexionadas, los antebrazos altos y una distancia constante entre los pies.\n2. Avanza primero con el pie delantero y retrocede primero con el trasero usando pasos cortos y deslizados.\n3. Mueve el segundo pie la misma distancia para que la postura siga lista para bloquear, lanzar un teep o golpear.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Passo para frente e para trás",
+      "description": "1. Comece na base de Muay Thai com os joelhos levemente flexionados, os antebraços altos e uma distância constante entre os pés.\n2. Avance primeiro com o pé da frente e recue primeiro com o pé de trás usando passos curtos e deslizados.\n3. Mova o segundo pé a mesma distância para que a base continue pronta para bloquear, aplicar um teep ou golpear.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Pas avant et arrière",
+      "description": "1. Commencez en garde de muay thaï, genoux souples, avant-bras hauts et écartement des pieds constant.\n2. Avancez d’abord avec le pied avant et reculez d’abord avec le pied arrière par petits pas glissés.\n3. Déplacez le second pied de la même distance pour rester prêt à bloquer, lancer un teep ou frapper.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Vorwärts- und Rückwärtsschritt",
+      "description": "1. Beginne in der Muay-Thai-Stellung mit lockeren Knien, hohen Unterarmen und gleichbleibendem Fußabstand.\n2. Gehe vorwärts zuerst mit dem vorderen und rückwärts zuerst mit dem hinteren Fuß in kurzen Gleitschritten.\n3. Bewege den zweiten Fuß gleich weit, damit die Stellung bereit bleibt zum Blocken, für einen Teep oder einen Treffer.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Passo avanti e indietro",
+      "description": "1. Inizia in posizione di Muay Thai con le ginocchia morbide, gli avambracci alti e una distanza costante tra i piedi.\n2. Avanza prima con il piede anteriore e arretra prima con quello posteriore usando passi corti e scivolati.\n3. Muovi il secondo piede della stessa distanza così la posizione resta pronta per parare, lanciare un teep o colpire.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "前后步",
+      "description": "1. 以泰拳站姿开始，膝盖微屈，前臂抬高，双脚间距保持一致。\n2. 前进时前脚先动，后退时后脚先动，用短促的滑步移动。\n3. 另一只脚跟进相同距离，使站姿随时可以提膝格挡、正蹬或击打。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前後ステップ",
+      "description": "1. 膝を軽く曲げ、前腕を高く上げ、足幅を一定に保ったムエタイの構えから始めます。\n2. 前進は前足から、後退は後ろ足から、小さなすり足で動きます。\n3. もう一方の足を同じ距離だけ動かし、カット、ティープ、攻撃をいつでも出せる構えを保ちます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "전후 스텝",
+      "description": "1. 무릎을 살짝 굽히고 전완을 높이 들며 발 간격을 일정하게 한 무에타이 자세에서 시작합니다.\n2. 전진할 때는 앞발부터, 후퇴할 때는 뒷발부터 짧게 미끄러지듯 움직입니다.\n3. 다른 발을 같은 거리만큼 옮겨 체크, 팁, 타격을 언제든 할 수 있는 자세를 유지합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ก้าวหน้าและถอยหลัง",
+      "description": "1. เริ่มในท่าจดมวยไทย งอเข่าเล็กน้อย ยกแขนท่อนล่างสูง และรักษาระยะห่างเท้าให้คงที่\n2. เดินหน้าโดยขยับเท้าหน้าก่อน และถอยหลังโดยขยับเท้าหลังก่อน ด้วยการไถลเท้าสั้น ๆ\n3. ขยับเท้าอีกข้างในระยะเท่ากัน เพื่อให้ท่ายืนพร้อมยกแข้งรับ ถีบ หรือออกอาวุธ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Шаг вперёд и назад",
+      "description": "1. Начните в стойке муай-тай: колени мягкие, предплечья высоко, расстояние между стопами постоянное.\n2. Вперёд двигайтесь передней ногой первой, назад — задней ногой первой, короткими скользящими шагами.\n3. Перемещайте вторую стопу на то же расстояние, чтобы стойка оставалась готовой к блоку, типу или удару.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Крок уперед і назад",
+      "description": "1. Почніть у стійці муай-тай: коліна м’які, передпліччя високо, відстань між стопами стала.\n2. Уперед рухайтеся передньою ногою першою, назад — задньою ногою першою, короткими ковзними кроками.\n3. Переміщуйте другу стопу на ту саму відстань, щоб стійка залишалася готовою до блоку, типу або удару.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

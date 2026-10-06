@@ -1,0 +1,89 @@
+{
+  "id": "13.26",
+  "key": "kettlebell_kettlebell_romanian_deadlift",
+  "title": "Kettlebell Romanian Deadlift",
+  "description": "1. Hold the kettlebell in front of the thighs with feet hip-width apart and knees soft.\n2. Push the hips back while the bell stays close to the legs and the shins remain nearly vertical.\n3. Stop at hamstring tension, then squeeze the glutes to bring the hips forward and stand.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "4 Kettlebell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kettlebell Romanian Deadlift",
+      "description": "1. Hold the kettlebell in front of the thighs with feet hip-width apart and knees soft.\n2. Push the hips back while the bell stays close to the legs and the shins remain nearly vertical.\n3. Stop at hamstring tension, then squeeze the glutes to bring the hips forward and stand.",
+      "sectionTitle": "Kettlebell"
+    },
+    "es": {
+      "title": "Peso muerto rumano con pesa rusa",
+      "description": "1. Sujeta la pesa rusa frente a los muslos con los pies al ancho de las caderas y las rodillas sin bloquear.\n2. Lleva las caderas atrás mientras la pesa se mantiene cerca de las piernas y las espinillas quedan casi verticales.\n3. Detente al notar tensión en los isquiotibiales y aprieta los glúteos para llevar las caderas hacia delante y erguirte.",
+      "sectionTitle": "Pesa rusa"
+    },
+    "pt": {
+      "title": "Levantamento terra romeno com kettlebell",
+      "description": "1. Segure o kettlebell à frente das coxas com os pés na largura do quadril e os joelhos destravados.\n2. Leve o quadril para trás enquanto o kettlebell permanece perto das pernas e as canelas ficam quase verticais.\n3. Pare ao sentir tensão nos posteriores da coxa e contraia os glúteos para levar o quadril à frente e ficar em pé.",
+      "sectionTitle": "Kettlebell"
+    },
+    "fr": {
+      "title": "Soulevé de terre roumain au kettlebell",
+      "description": "1. Tenez le kettlebell devant les cuisses, pieds écartés à largeur de hanches et genoux souples.\n2. Poussez les hanches vers l’arrière pendant que le kettlebell reste près des jambes et que les tibias restent presque verticaux.\n3. Arrêtez-vous à la tension des ischio-jambiers, puis contractez les fessiers pour ramener les hanches vers l’avant et vous redresser.",
+      "sectionTitle": "Kettlebell"
+    },
+    "de": {
+      "title": "Rumänisches Kreuzheben mit der Kugelhantel",
+      "description": "1. Halte die Kugelhantel vor den Oberschenkeln, Füße hüftbreit und Knie locker.\n2. Schiebe die Hüfte nach hinten, während die Kugelhantel nah an den Beinen bleibt und die Schienbeine fast senkrecht stehen.\n3. Stoppe bei Spannung in der hinteren Oberschenkelmuskulatur und spanne dann das Gesäß an, um die Hüfte nach vorne zu bringen und dich aufzurichten.",
+      "sectionTitle": "Kugelhantel"
+    },
+    "it": {
+      "title": "Stacco rumeno con kettlebell",
+      "description": "1. Tieni il kettlebell davanti alle cosce con i piedi alla larghezza delle anche e le ginocchia morbide.\n2. Spingi le anche indietro mentre il kettlebell resta vicino alle gambe e le tibie rimangono quasi verticali.\n3. Fermati quando senti tensione nei femorali, poi contrai i glutei per portare le anche in avanti e tornare in piedi.",
+      "sectionTitle": "Kettlebell"
+    },
+    "zh-Hans": {
+      "title": "壶铃罗马尼亚硬拉",
+      "description": "1. 双手将壶铃握在大腿前方，双脚与髋同宽，膝盖微屈。\n2. 髋部向后推，壶铃贴近双腿，小腿保持接近垂直。\n3. 感到腘绳肌张力时停止，然后收紧臀部将髋部向前推，站直。",
+      "sectionTitle": "壶铃"
+    },
+    "ja": {
+      "title": "ケトルベルルーマニアンデッドリフト",
+      "description": "1. ケトルベルを太ももの前で持ち、足を腰幅に開いて膝を軽く緩めます。\n2. ケトルベルを脚の近くに保ち、すねをほぼ垂直にしたまま腰を後ろへ引きます。\n3. ハムストリングスに張りを感じたら止め、お尻を締めて腰を前に戻して立ちます。",
+      "sectionTitle": "ケトルベル"
+    },
+    "ko": {
+      "title": "케틀벨 루마니안 데드리프트",
+      "description": "1. 케틀벨을 허벅지 앞에 들고 발은 골반 너비, 무릎은 살짝 풉니다.\n2. 케틀벨을 다리 가까이 두고 정강이를 거의 수직으로 유지한 채 엉덩이를 뒤로 밉니다.\n3. 햄스트링에 긴장이 느껴지면 멈춘 뒤 둔근을 조여 엉덩이를 앞으로 보내며 일어섭니다.",
+      "sectionTitle": "케틀벨"
+    },
+    "th": {
+      "title": "โรมาเนียนเดดลิฟต์ด้วยเคตเทิลเบล",
+      "description": "1. ถือเคตเทิลเบลไว้หน้าต้นขา แยกเท้ากว้างเท่าสะโพก และงอเข่าเล็กน้อย\n2. ดันสะโพกไปด้านหลัง ขณะที่เคตเทิลเบลอยู่ชิดขาและหน้าแข้งเกือบตั้งตรง\n3. หยุดเมื่อรู้สึกตึงต้นขาด้านหลัง แล้วบีบก้นเพื่อดันสะโพกไปข้างหน้าและยืนขึ้น",
+      "sectionTitle": "เคตเทิลเบล"
+    },
+    "ru": {
+      "title": "Румынская тяга с гирей",
+      "description": "1. Держите гирю перед бёдрами, стопы на ширине таза, колени слегка согнуты.\n2. Отводите таз назад, держа гирю близко к ногам и сохраняя голени почти вертикальными.\n3. Остановитесь при натяжении задней поверхности бедра, затем сожмите ягодицы, подайте таз вперёд и выпрямитесь.",
+      "sectionTitle": "Гиря"
+    },
+    "uk": {
+      "title": "Румунська тяга з гирею",
+      "description": "1. Тримайте гирю перед стегнами, стопи на ширині таза, коліна злегка зігнуті.\n2. Відводьте таз назад, тримаючи гирю близько до ніг і зберігаючи гомілки майже вертикальними.\n3. Зупиніться, щойно відчуєте натяг задньої поверхні стегна, потім стисніть сідниці, подайте таз уперед і випряміться.",
+      "sectionTitle": "Гиря"
+    }
+  }
+}

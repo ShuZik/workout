@@ -1,0 +1,157 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "Boxing",
+    "id": "1",
+    "icon": "Boxing/Icon.png",
+    "symbolName": "figure.boxing",
+    "title": "Boxing",
+    "workoutType": "boxing",
+    "translations": {
+      "en": {
+        "title": "Boxing"
+      },
+      "es": {
+        "title": "Boxeo"
+      },
+      "pt": {
+        "title": "Boxe"
+      },
+      "fr": {
+        "title": "Boxe"
+      },
+      "de": {
+        "title": "Boxen"
+      },
+      "it": {
+        "title": "Pugilato"
+      },
+      "zh-Hans": {
+        "title": "拳击"
+      },
+      "ja": {
+        "title": "ボクシング"
+      },
+      "ko": {
+        "title": "복싱"
+      },
+      "th": {
+        "title": "มวยสากล"
+      },
+      "ru": {
+        "title": "Бокс"
+      },
+      "uk": {
+        "title": "Бокс"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Boxing/exercises/boxing/Icon.png",
+      "json": "Boxing/exercises/boxing/boxing.json"
+    },
+    {
+      "icon": "Boxing/exercises/jab/Icon.png",
+      "json": "Boxing/exercises/jab/jab.json"
+    },
+    {
+      "icon": "Boxing/exercises/cross/Icon.png",
+      "json": "Boxing/exercises/cross/cross.json"
+    },
+    {
+      "icon": "Boxing/exercises/leadHook/Icon.png",
+      "json": "Boxing/exercises/leadHook/leadHook.json"
+    },
+    {
+      "icon": "Boxing/exercises/rearHook/Icon.png",
+      "json": "Boxing/exercises/rearHook/rearHook.json"
+    },
+    {
+      "icon": "Boxing/exercises/leadUppercut/Icon.png",
+      "json": "Boxing/exercises/leadUppercut/leadUppercut.json"
+    },
+    {
+      "icon": "Boxing/exercises/rearUppercut/Icon.png",
+      "json": "Boxing/exercises/rearUppercut/rearUppercut.json"
+    },
+    {
+      "icon": "Boxing/exercises/bodyJab/Icon.png",
+      "json": "Boxing/exercises/bodyJab/bodyJab.json"
+    },
+    {
+      "icon": "Boxing/exercises/bodyCross/Icon.png",
+      "json": "Boxing/exercises/bodyCross/bodyCross.json"
+    },
+    {
+      "icon": "Boxing/exercises/leadBodyHook/Icon.png",
+      "json": "Boxing/exercises/leadBodyHook/leadBodyHook.json"
+    },
+    {
+      "icon": "Boxing/exercises/rearBodyHook/Icon.png",
+      "json": "Boxing/exercises/rearBodyHook/rearBodyHook.json"
+    },
+    {
+      "icon": "Boxing/exercises/leadBodyUppercut/Icon.png",
+      "json": "Boxing/exercises/leadBodyUppercut/leadBodyUppercut.json"
+    },
+    {
+      "icon": "Boxing/exercises/rearBodyUppercut/Icon.png",
+      "json": "Boxing/exercises/rearBodyUppercut/rearBodyUppercut.json"
+    },
+    {
+      "icon": "Boxing/exercises/boxingStance/Icon.png",
+      "json": "Boxing/exercises/boxingStance/boxingStance.json"
+    },
+    {
+      "icon": "Boxing/exercises/forwardBackwardStep/Icon.png",
+      "json": "Boxing/exercises/forwardBackwardStep/forwardBackwardStep.json"
+    },
+    {
+      "icon": "Boxing/exercises/sideStep/Icon.png",
+      "json": "Boxing/exercises/sideStep/sideStep.json"
+    },
+    {
+      "icon": "Boxing/exercises/slips/Icon.png",
+      "json": "Boxing/exercises/slips/slips.json"
+    },
+    {
+      "icon": "Boxing/exercises/parry/Icon.png",
+      "json": "Boxing/exercises/parry/parry.json"
+    },
+    {
+      "icon": "Boxing/exercises/block/Icon.png",
+      "json": "Boxing/exercises/block/block.json"
+    },
+    {
+      "icon": "Boxing/exercises/rollWeave/Icon.png",
+      "json": "Boxing/exercises/rollWeave/rollWeave.json"
+    },
+    {
+      "json": "Boxing/exercises/guard/guard.json",
+      "icon": "Boxing/exercises/guard/Icon.png"
+    },
+    {
+      "icon": "Boxing/exercises/heavyBagWork/Icon.png",
+      "json": "Boxing/exercises/heavyBagWork/heavyBagWork.json"
+    },
+    {
+      "icon": "Boxing/exercises/padWork/Icon.png",
+      "json": "Boxing/exercises/padWork/padWork.json"
+    },
+    {
+      "icon": "Boxing/exercises/techniqueSparring/Icon.png",
+      "json": "Boxing/exercises/techniqueSparring/techniqueSparring.json"
+    },
+    {
+      "icon": "Boxing/exercises/conditionedSparring/Icon.png",
+      "json": "Boxing/exercises/conditionedSparring/conditionedSparring.json"
+    },
+    {
+      "icon": "Boxing/exercises/openSparring/Icon.png",
+      "json": "Boxing/exercises/openSparring/openSparring.json"
+    }
+  ]
+}

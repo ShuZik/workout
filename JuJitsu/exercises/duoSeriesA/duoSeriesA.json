@@ -1,0 +1,90 @@
+{
+  "id": "65.2",
+  "key": "jujitsu_duo_series_a",
+  "title": "Duo Series A",
+  "description": "1. The attacker applies a controlled grab, bear hug, or neck hold from the front, side, or behind as agreed.\n2. The defender breaks the grip, unbalances, and finishes with a controlled throw or lock of choice.\n3. The attacker taps or takes a breakfall, the defender releases at once, and partners reset and alternate roles.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "juJitsu",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Duo Series A",
+      "description": "1. The attacker applies a controlled grab, bear hug, or neck hold from the front, side, or behind as agreed.\n2. The defender breaks the grip, unbalances, and finishes with a controlled throw or lock of choice.\n3. The attacker taps or takes a breakfall, the defender releases at once, and partners reset and alternate roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Duo serie A",
+      "description": "1. El atacante aplica un agarre controlado, un abrazo de oso o un control de cuello por delante, por el lado o por detrás, según lo acordado.\n2. El defensor rompe el agarre, desequilibra y finaliza con una proyección o luxación controlada a su elección.\n3. El atacante golpea en señal de rendición o hace la caída, el defensor suelta al instante y los compañeros reinician alternando roles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Duo série A",
+      "description": "1. O atacante aplica uma pegada controlada, um abraço de urso ou um controle de pescoço pela frente, pelo lado ou por trás, como combinado.\n2. O defensor quebra a pegada, desequilibra e finaliza com uma projeção ou chave controlada de sua escolha.\n3. O atacante bate ou faz o rolamento de queda, o defensor solta na hora e os parceiros recomeçam alternando papéis.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Duo série A",
+      "description": "1. L'attaquant applique une saisie contrôlée, une ceinture ou un contrôle du cou de face, de côté ou de dos, comme convenu.\n2. Le défenseur brise la saisie, déséquilibre et conclut par une projection ou une clé contrôlée de son choix.\n3. L'attaquant tape ou chute, le défenseur relâche aussitôt et les partenaires recommencent en alternant les rôles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Duo Serie A",
+      "description": "1. Der Angreifer setzt wie vereinbart einen kontrollierten Griff, eine Umklammerung oder einen Halsgriff von vorn, seitlich oder hinten an.\n2. Der Verteidiger löst den Griff, bricht das Gleichgewicht und beendet mit einem kontrollierten Wurf oder Hebel seiner Wahl.\n3. Der Angreifer klopft ab oder fällt, der Verteidiger löst sofort, und die Partner beginnen mit wechselnden Rollen neu.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Duo serie A",
+      "description": "1. L'attaccante applica una presa controllata, una cintura o un controllo al collo da davanti, di lato o da dietro, come concordato.\n2. Il difensore rompe la presa, sbilancia e conclude con una proiezione o leva controllata a scelta.\n3. L'attaccante batte o esegue la caduta, il difensore rilascia subito e i partner ripartono alternando i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "双人演练A组",
+      "description": "1. 攻击方按约定从正面、侧面或背后施加可控的抓握、熊抱或锁颈。\n2. 防守方解脱抓握、破坏平衡，并以自选的可控摔投或关节技结束。\n3. 攻击方拍击或做倒地护身，防守方立即松开，双方重新开始并交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "デュオ シリーズA",
+      "description": "1. 取り決めどおり、攻撃者が前、横、後ろから制御されたつかみ、ベアハグ、首への攻撃を行います。\n2. 防御者はつかみを外して崩し、任意の制御された投げか関節技で極めます。\n3. 攻撃者はタップか受け身を取り、防御者は直ちに離し、役割を交代して再開します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "듀오 시리즈 A",
+      "description": "1. 공격자는 합의한 대로 앞, 옆, 뒤에서 통제된 잡기, 베어 허그 또는 목 조르기를 겁니다.\n2. 방어자는 그립을 풀고 균형을 무너뜨린 뒤 자신이 선택한 통제된 메치기나 관절기로 마무리합니다.\n3. 공격자가 탭하거나 낙법을 하면 방어자는 즉시 풀고 역할을 바꿔 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ดูโอ ชุด A",
+      "description": "1. ผู้โจมตีจับ กอดรัดแบบหมี หรือล็อกคออย่างควบคุมจากด้านหน้า ด้านข้าง หรือด้านหลังตามที่ตกลงกัน\n2. ผู้ป้องกันแกะการจับ ทำลายสมดุล และจบด้วยการทุ่มหรือล็อกข้อต่ออย่างควบคุมตามที่เลือก\n3. ผู้โจมตีตบหรือตกอย่างปลอดภัย ผู้ป้องกันปล่อยทันที แล้วเริ่มใหม่โดยสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Дуо, серия A",
+      "description": "1. Атакующий по договорённости выполняет контролируемый захват, обхват или захват шеи спереди, сбоку или сзади.\n2. Защитник освобождается от захвата, выводит из равновесия и завершает контролируемым броском или болевым на выбор.\n3. Атакующий хлопает или выполняет страховку, защитник сразу отпускает, и партнёры начинают заново, меняясь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Дуо, серія A",
+      "description": "1. Атакувальник за домовленістю виконує контрольований захват, обхоплення або захват шиї спереду, збоку чи ззаду.\n2. Захисник звільняється від захвату, виводить з рівноваги й завершує контрольованим кидком або больовим на вибір.\n3. Атакувальник плескає або виконує страховку, захисник одразу відпускає, і партнери починають знову, міняючись ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

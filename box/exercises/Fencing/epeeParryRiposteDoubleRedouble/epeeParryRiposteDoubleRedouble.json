@@ -1,0 +1,87 @@
+{
+  "id": "54.35",
+  "key": "fencing_epee_parry_riposte_redouble",
+  "title": "Épée: Parry, Riposte, Double Redouble",
+  "description": "1. With épées and full kit, the partner attacks; you parry and riposte, and the partner parries your riposte.\n2. Without returning to guard, renew the attack twice in succession with new blade actions, for example a disengage and then a cut-over, as the partner keeps parrying or retreating.\n3. Recover to en garde after the final touch and swap roles; the partner decides when to let a renewal land.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Sequences",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Épée: Parry, Riposte, Double Redouble",
+      "description": "1. With épées and full kit, the partner attacks; you parry and riposte, and the partner parries your riposte.\n2. Without returning to guard, renew the attack twice in succession with new blade actions, for example a disengage and then a cut-over, as the partner keeps parrying or retreating.\n3. Recover to en garde after the final touch and swap roles; the partner decides when to let a renewal land.",
+      "sectionTitle": "Partner Sequences"
+    },
+    "es": {
+      "title": "Espada: parada, respuesta y doble redoble",
+      "description": "1. Con espada y equipo completo, el compañero ataca; tú paras y respondes, y el compañero para tu respuesta.\n2. Sin volver a guardia, renueva el ataque dos veces seguidas con nuevas acciones de hoja, por ejemplo un desenganche y luego un coupé, mientras el compañero sigue parando o retrocediendo.\n3. Vuelve a guardia tras el toque final y cambia papeles; el compañero decide cuándo deja entrar una renovación.",
+      "sectionTitle": "Secuencias en pareja"
+    },
+    "pt": {
+      "title": "Espada: parada, resposta e duplo redobramento",
+      "description": "1. Com espada e equipamento completo, o parceiro ataca; você para e responde, e o parceiro para sua resposta.\n2. Sem voltar à guarda, renove o ataque duas vezes seguidas com novas ações de lâmina, por exemplo desengajamento e depois coupé, enquanto o parceiro continua a parar ou recuar.\n3. Volte à guarda após o toque final e troque papéis; o parceiro decide quando deixa entrar uma renovação.",
+      "sectionTitle": "Sequências em dupla"
+    },
+    "fr": {
+      "title": "Épée : parade, riposte, double redoublement",
+      "description": "1. À l’épée, équipés, le partenaire attaque ; vous parez et ripostez, et il pare votre riposte.\n2. Sans revenir en garde, renouvelez deux fois l’attaque par de nouvelles actions de fer, par exemple un dégagement puis un coupé, pendant qu’il pare ou rompt.\n3. Revenez en garde après la touche finale et inversez ; le partenaire décide quand laisser passer un renouvellement.",
+      "sectionTitle": "Enchaînements à deux"
+    },
+    "de": {
+      "title": "Degen: Parade, Riposte, doppeltes Redoublement",
+      "description": "1. Mit Degen und voller Ausrüstung greift der Partner an; du parierst und ripostierst, und der Partner pariert deine Riposte.\n2. Erneuere ohne Rückkehr in die Stellung den Angriff zweimal hintereinander mit neuen Klingenaktionen, etwa Umgehung und dann Coupé, während der Partner pariert oder weicht.\n3. Kehre nach dem letzten Treffer zurück und tauscht; der Partner entscheidet, wann eine Erneuerung treffen darf.",
+      "sectionTitle": "Partnerfolgen"
+    },
+    "it": {
+      "title": "Spada: parata, risposta e doppio raddoppio",
+      "description": "1. Con spada e attrezzatura completa, il compagno attacca; tu pari e rispondi, e il compagno para la tua risposta.\n2. Senza tornare in guardia, rinnova l’attacco due volte di seguito con nuove azioni di lama, per esempio una cavazione e poi una tagliata, mentre il compagno continua a parare o arretrare.\n3. Torna in guardia dopo la stoccata finale e scambiate; il compagno decide quando lasciar arrivare un rinnovo.",
+      "sectionTitle": "Sequenze in coppia"
+    },
+    "zh-Hans": {
+      "title": "重剑：防守、还击、两次变线再攻",
+      "description": "1. 使用重剑并穿戴全套护具，同伴进攻；你防守并还击，同伴防住你的还击。\n2. 不回到实战姿势，以新的剑上动作（如转移，再越剑）连续两次再攻，同伴继续防守或后退。\n3. 最后一次击中后恢复实战姿势并交换角色；由同伴决定何时让再攻刺中。",
+      "sectionTitle": "双人组合"
+    },
+    "ja": {
+      "title": "エペ：パラード、リポスト、二度のルドゥブルマン",
+      "description": "1. エペと全装備で相手が攻撃し、あなたはパラードしてリポストし、相手がそのリポストをパラードします。\n2. アンガルドに戻らず、デガジェ、次にクーペなど新たな剣の動作で二回続けて攻撃を新たにし、相手はパラードか後退を続けます。\n3. 最後の突きの後アンガルドに戻って交代します。どの再攻撃を通すかは相手が決めます。",
+      "sectionTitle": "ペアシークエンス"
+    },
+    "ko": {
+      "title": "에페: 패리, 리포스트, 두 번의 르두블르망",
+      "description": "1. 에페와 전체 장비로 파트너가 공격하면 패리 후 리포스트하고, 파트너는 내 리포스트를 패리합니다.\n2. 앙가르드로 돌아가지 않고 디스인게이지, 이어 쿠페 같은 새 칼 동작으로 두 번 연속 공격을 다시 하며, 파트너는 계속 패리하거나 물러납니다.\n3. 마지막 찌르기 후 앙가르드로 돌아와 역할을 바꾸며, 어떤 재공격을 허용할지는 파트너가 정합니다.",
+      "sectionTitle": "파트너 시퀀스"
+    },
+    "th": {
+      "title": "เอเป้: ปัด โต้กลับ แล้วเรอดูเบลอม็องสองครั้ง",
+      "description": "1. ใช้ดาบเอเป้และชุดป้องกันครบ คู่ฝึกโจมตี คุณปัดและโต้กลับ แล้วคู่ฝึกปัดการโต้กลับของคุณ\n2. โดยไม่กลับอองการ์ด โจมตีใหม่สองครั้งติดกันด้วยการใช้ใบดาบใหม่ เช่น ดิสเอนเกจแล้วคูเป ขณะคู่ฝึกยังปัดหรือถอย\n3. กลับสู่อองการ์ดหลังแทงถึงครั้งสุดท้ายแล้วสลับบทบาท คู่ฝึกเป็นผู้ตัดสินว่าจะยอมให้การโจมตีใหม่ครั้งใดเข้า",
+      "sectionTitle": "ลำดับท่าคู่"
+    },
+    "ru": {
+      "title": "Шпага: защита, ответ, двойной редубль",
+      "description": "1. Со шпагой в полной экипировке партнёр атакует; вы берёте защиту и отвечаете, партнёр защищается от ответа.\n2. Не возвращаясь в стойку, дважды подряд возобновите атаку новыми действиями клинком, например переводом, затем кюпе, пока партнёр защищается или отступает.\n3. После последнего укола вернитесь в стойку и поменяйтесь ролями; партнёр решает, какое возобновление пропустить.",
+      "sectionTitle": "Связки в паре"
+    },
+    "uk": {
+      "title": "Шпага: захист, відповідь, подвійний редубль",
+      "description": "1. Зі шпагою в повному спорядженні партнер атакує; ви берете захист і відповідаєте, партнер захищається від відповіді.\n2. Не повертаючись у стійку, двічі поспіль відновіть атаку новими діями клинком, наприклад переведенням, потім кюпе, поки партнер захищається чи відступає.\n3. Після останнього уколу поверніться в стійку й поміняйтеся ролями; партнер вирішує, яке відновлення пропустити.",
+      "sectionTitle": "Зв'язки в парі"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#2BBF51",
+    "colorType": "green",
+    "folder": "LutaLivre",
+    "id": "81",
+    "icon": "LutaLivre/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Luta Livre",
+    "workoutType": "lutaLivre",
+    "translations": {
+      "en": {
+        "title": "Luta Livre"
+      },
+      "es": {
+        "title": "Luta Livre"
+      },
+      "pt": {
+        "title": "Luta Livre"
+      },
+      "fr": {
+        "title": "Luta Livre"
+      },
+      "de": {
+        "title": "Luta Livre"
+      },
+      "it": {
+        "title": "Luta Livre"
+      },
+      "zh-Hans": {
+        "title": "巴西自由式格斗"
+      },
+      "ja": {
+        "title": "ルタ・リーブリ"
+      },
+      "ko": {
+        "title": "루타 리브레"
+      },
+      "th": {
+        "title": "ลูตาลีฟรี"
+      },
+      "ru": {
+        "title": "Лута ливре"
+      },
+      "uk": {
+        "title": "Лута лівре"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "LutaLivre/exercises/lutaLivre/Icon.png",
+      "json": "LutaLivre/exercises/lutaLivre/lutaLivre.json"
+    },
+    {
+      "icon": "LutaLivre/exercises/backMountOnPronePartner/Icon.png",
+      "json": "LutaLivre/exercises/backMountOnPronePartner/backMountOnPronePartner.json"
+    }
+  ]
+}

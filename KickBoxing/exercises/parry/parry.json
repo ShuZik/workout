@@ -1,0 +1,90 @@
+{
+  "id": "3.28",
+  "key": "kick_boxing_parry",
+  "title": "Parry",
+  "description": "1. From guard, read the incoming straight punch and keep the head behind the gloves.\n2. Use the same-side palm for a short inward tap that moves the punch just outside the centerline.\n3. Return the hand immediately to the cheek and keep the opposite hand ready to protect or counter.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Defense",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Parry",
+      "description": "1. From guard, read the incoming straight punch and keep the head behind the gloves.\n2. Use the same-side palm for a short inward tap that moves the punch just outside the centerline.\n3. Return the hand immediately to the cheek and keep the opposite hand ready to protect or counter.",
+      "sectionTitle": "Defense"
+    },
+    "es": {
+      "title": "Desvío",
+      "description": "1. Desde la guardia, sigue el golpe recto entrante con la mano del mismo lado que el ataque.\n2. Gira la palma hacia dentro y da un toque corto cruzando la línea del golpe, sin estirarte ni abrir el codo.\n3. Devuelve inmediatamente la mano a la mejilla y mantén la otra preparada para contraatacar o proteger.",
+      "sectionTitle": "Defensa"
+    },
+    "pt": {
+      "title": "Desvio",
+      "description": "1. Na guarda, acompanhe o soco reto que chega com a mão do mesmo lado do ataque.\n2. Vire a palma para dentro e dê um toque curto atravessando a linha do soco, sem estender demais o braço ou abrir o cotovelo.\n3. Retorne imediatamente a mão à bochecha e mantenha a outra pronta para contra-atacar ou proteger.",
+      "sectionTitle": "Defesa"
+    },
+    "fr": {
+      "title": "Parade",
+      "description": "1. En garde, suivez le direct entrant avec la main du même côté que l’attaque.\n2. Tournez la paume vers l’intérieur et déviez brièvement la trajectoire sans tendre le bras ni ouvrir le coude.\n3. Ramenez immédiatement la main à la joue et gardez l’autre prête à contrer ou à protéger.",
+      "sectionTitle": "Défense"
+    },
+    "de": {
+      "title": "Parade",
+      "description": "1. Verfolge aus der Deckung den ankommenden geraden Schlag mit der Hand auf derselben Seite wie der Angriff.\n2. Drehe die Handfläche nach innen und tippe kurz quer zur Schlaglinie, ohne weit zu greifen oder den Ellbogen zu öffnen.\n3. Bringe die Hand sofort zur Wange zurück und halte die andere zum Kontern oder Schützen bereit.",
+      "sectionTitle": "Verteidigung"
+    },
+    "it": {
+      "title": "Deviazione",
+      "description": "1. Dalla guardia, segui il diretto in arrivo con la mano sullo stesso lato dell’attacco.\n2. Ruota il palmo verso l’interno e devia con un breve tocco trasversale alla traiettoria, senza allungarti né aprire il gomito.\n3. Riporta subito la mano alla guancia e tieni l’altra pronta a contrattaccare o proteggere.",
+      "sectionTitle": "Difesa"
+    },
+    "zh-Hans": {
+      "title": "拨挡",
+      "description": "1. 从防守姿势开始，用与来袭方向同侧的手跟踪迎面直拳。\n2. 掌心转向内侧，横向短促拨开拳路，不要伸手过远或张开肘部。\n3. 立即将拨挡的手收回脸颊旁，另一只手随时准备反击或防护。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "パリー",
+      "description": "1. ガードから、攻撃と同じ側の手で飛んでくるストレートを追います。\n2. 手のひらを内側へ向け、腕を伸ばしすぎたり肘を開いたりせず、パンチの軌道を短く横へ払います。\n3. 払った手をすぐ頬へ戻し、もう一方の手は反撃や防御に備えます。",
+      "sectionTitle": "防御"
+    },
+    "ko": {
+      "title": "패링",
+      "description": "1. 가드 자세에서 공격과 같은 쪽 손으로 들어오는 스트레이트를 따라갑니다.\n2. 손바닥을 안쪽으로 돌려 펀치 궤도를 짧게 가로질러 쳐내며 팔을 뻗거나 팔꿈치를 벌리지 않습니다.\n3. 패링한 손을 즉시 볼 옆으로 되돌리고 다른 손은 반격이나 방어를 준비합니다.",
+      "sectionTitle": "방어"
+    },
+    "th": {
+      "title": "ปัดหมัด",
+      "description": "1. จากท่าการ์ด ใช้มือด้านเดียวกับการโจมตีติดตามหมัดตรงที่เข้ามา\n2. หมุนฝ่ามือเข้าด้านในแล้วแตะปัดสั้น ๆ ขวางแนวหมัด โดยไม่เอื้อมหรือกางศอก\n3. นำมือที่ปัดกลับข้างแก้มทันที และให้มืออีกข้างพร้อมโต้กลับหรือป้องกัน",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Отбив",
+      "description": "1. Из защитной стойки отслеживайте входящий прямой удар рукой с той же стороны, откуда идёт атака.\n2. Поверните ладонь внутрь и коротко отбейте поперёк линии удара, не тянувшись вперёд и не раскрывая локоть.\n3. Немедленно верните отбивающую руку к щеке, а другую держите готовой к контратаке или защите.",
+      "sectionTitle": "Защита"
+    },
+    "uk": {
+      "title": "Відбив",
+      "description": "1. Із захисної стійки відстежуйте прямий удар рукою з того самого боку, звідки йде атака.\n2. Поверніть долоню всередину й коротко відбийте впоперек лінії удару, не тягнучись уперед і не розкриваючи лікоть.\n3. Негайно поверніть руку до щоки, а іншу тримайте готовою до контратаки або захисту.",
+      "sectionTitle": "Захист"
+    }
+  }
+}

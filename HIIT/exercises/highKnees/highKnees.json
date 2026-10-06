@@ -1,0 +1,90 @@
+{
+  "id": "12.25",
+  "key": "bootcamp_high_knees",
+  "title": "High Knees",
+  "description": "1. Stand tall with feet under the hips and elbows bent at the sides.\n2. Run in place while lifting each knee toward hip height and driving the opposite arm forward.\n3. Land lightly under the body and lower the knee height before posture or rhythm is lost.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "3 Bootcamp",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "High Knees",
+      "description": "1. Stand tall with feet under the hips and elbows bent at the sides.\n2. Run in place while lifting each knee toward hip height and driving the opposite arm forward.\n3. Land lightly under the body and lower the knee height before posture or rhythm is lost.",
+      "sectionTitle": "Bootcamp"
+    },
+    "es": {
+      "title": "Rodillas altas",
+      "description": "1. Ponte de pie erguido con los pies debajo de las caderas y los codos flexionados a los costados.\n2. Corre en el sitio elevando cada rodilla hacia la altura de la cadera e impulsando el brazo contrario hacia delante.\n3. Aterriza con ligereza bajo el cuerpo y reduce la altura de las rodillas antes de perder la postura o el ritmo.",
+      "sectionTitle": "Bootcamp"
+    },
+    "pt": {
+      "title": "Joelhos altos",
+      "description": "1. Fique em pé com o corpo ereto, os pés sob os quadris e os cotovelos flexionados ao lado do corpo.\n2. Corra no lugar elevando cada joelho em direção à altura do quadril e levando o braço oposto para a frente.\n3. Aterrisse com leveza sob o corpo e reduza a altura dos joelhos antes de perder a postura ou o ritmo.",
+      "sectionTitle": "Bootcamp"
+    },
+    "fr": {
+      "title": "Montées de genoux",
+      "description": "1. Tenez-vous bien droit, pieds sous les hanches et coudes fléchis le long du corps.\n2. Courez sur place en montant chaque genou vers la hauteur de la hanche et en lançant le bras opposé vers l'avant.\n3. Posez les pieds légèrement sous le corps et réduisez la hauteur des genoux avant de perdre la posture ou le rythme.",
+      "sectionTitle": "Bootcamp"
+    },
+    "de": {
+      "title": "Hohe Knie",
+      "description": "1. Stelle dich aufrecht hin, die Füße unter den Hüften und die Ellbogen seitlich gebeugt.\n2. Laufe auf der Stelle, hebe jedes Knie bis etwa Hüfthöhe und führe den gegenüberliegenden Arm kräftig nach vorn.\n3. Lande leicht unter dem Körper und verringere die Kniehöhe, bevor Haltung oder Rhythmus verloren gehen.",
+      "sectionTitle": "Bootcamp"
+    },
+    "it": {
+      "title": "Ginocchia alte",
+      "description": "1. Stai in piedi ben eretto con i piedi sotto le anche e i gomiti piegati lungo i fianchi.\n2. Corri sul posto sollevando ogni ginocchio verso l'altezza dell'anca e spingendo in avanti il braccio opposto.\n3. Atterra leggero sotto il corpo e riduci l'altezza delle ginocchia prima di perdere postura o ritmo.",
+      "sectionTitle": "Bootcamp"
+    },
+    "zh-Hans": {
+      "title": "高抬腿",
+      "description": "1. 身体站直，双脚位于髋部下方，双肘弯曲置于身体两侧。\n2. 原地跑步，每侧膝盖抬向髋部高度，同时对侧手臂向前摆动。\n3. 在身体正下方轻盈落地，在姿势或节奏走样之前降低抬膝高度。",
+      "sectionTitle": "训练营"
+    },
+    "ja": {
+      "title": "膝上げ",
+      "description": "1. 足を腰の真下に置き、肘を体の横で曲げてまっすぐ立ちます。\n2. その場で走り、左右の膝を腰の高さに向けて引き上げながら、反対側の腕を前に振ります。\n3. 体の真下に軽く着地し、姿勢やリズムが崩れる前に膝の高さを下げます。",
+      "sectionTitle": "ブートキャンプ"
+    },
+    "ko": {
+      "title": "무릎 높이 들기",
+      "description": "1. 발을 골반 아래에 두고 팔꿈치를 옆구리에서 굽힌 채 똑바로 섭니다.\n2. 제자리에서 달리며 각 무릎을 골반 높이 쪽으로 들어 올리고 반대쪽 팔을 앞으로 힘차게 흔듭니다.\n3. 몸 바로 아래로 가볍게 착지하고, 자세나 리듬이 무너지기 전에 무릎 높이를 낮춥니다.",
+      "sectionTitle": "부트캠프"
+    },
+    "th": {
+      "title": "การยกเข่าสูง",
+      "description": "1. ยืนตัวตรง วางเท้าใต้สะโพก และงอศอกไว้ข้างลำตัว\n2. วิ่งอยู่กับที่ โดยยกเข่าแต่ละข้างขึ้นสู่ระดับสะโพกและเหวี่ยงแขนฝั่งตรงข้ามไปด้านหน้า\n3. ลงเท้าเบา ๆ ใต้ลำตัว และลดความสูงของเข่าลงก่อนที่ท่าทางหรือจังหวะจะเสีย",
+      "sectionTitle": "บูตแคมป์"
+    },
+    "ru": {
+      "title": "Высокие колени",
+      "description": "1. Встаньте прямо, стопы под тазом, локти согнуты вдоль корпуса.\n2. Бегите на месте, поднимая каждое колено к высоте таза и активно выводя вперёд противоположную руку.\n3. Мягко приземляйтесь под корпус и снижайте высоту подъёма колен, прежде чем нарушится осанка или ритм.",
+      "sectionTitle": "Буткемп"
+    },
+    "uk": {
+      "title": "Високі коліна",
+      "description": "1. Станьте прямо, стопи під тазом, лікті зігнуті вздовж корпусу.\n2. Біжіть на місці, піднімаючи кожне коліно до висоти таза й активно виводячи вперед протилежну руку.\n3. М'яко приземляйтеся під корпус і знижуйте висоту підйому колін, перш ніж порушиться постава або ритм.",
+      "sectionTitle": "Буткемп"
+    }
+  }
+}

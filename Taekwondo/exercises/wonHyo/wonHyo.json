@@ -1,0 +1,90 @@
+{
+  "id": "8.31",
+  "key": "taekwondo_won_hyo",
+  "title": "Won-Hyo",
+  "description": "1. Start in closed ready stance A and perform the 28-movement pattern, opening with a twin forearm block and inward knife-hand strike in L-stance.\n2. Include the fixed-stance punches, the bending ready stance into a side piercing kick, circular blocks and front snap kicks.\n3. Finish with the closing blocks and punches, then return to closed ready stance A.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Won-Hyo",
+      "description": "1. Start in closed ready stance A and perform the 28-movement pattern, opening with a twin forearm block and inward knife-hand strike in L-stance.\n2. Include the fixed-stance punches, the bending ready stance into a side piercing kick, circular blocks and front snap kicks.\n3. Finish with the closing blocks and punches, then return to closed ready stance A.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Won-Hyo",
+      "description": "1. Empieza en posición de preparación cerrada A y realiza el patrón de 28 movimientos, abriendo con bloqueo doble de antebrazo y golpe interior de mano de cuchillo en posición en L.\n2. Incluye los puñetazos en posición fija, la posición de preparación flexionada seguida de patada lateral penetrante, bloqueos circulares y patadas frontales rápidas.\n3. Termina con los bloqueos y puñetazos finales y vuelve a la posición de preparación cerrada A.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Won-Hyo",
+      "description": "1. Comece na posição de preparação fechada A e execute o padrão de 28 movimentos, abrindo com bloqueio duplo de antebraço e golpe interno de mão em faca na base em L.\n2. Inclua os socos em base fixa, a posição de preparação flexionada seguida de chute lateral penetrante, bloqueios circulares e chutes frontais rápidos.\n3. Termine com os bloqueios e socos finais e volte à posição de preparação fechada A.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Won-Hyo",
+      "description": "1. Partez en position de préparation fermée A et exécutez l’enchaînement de 28 mouvements, en ouvrant par un double blocage d’avant-bras et une frappe intérieure main en sabre en position en L.\n2. Intégrez les coups de poing en position fixe, la position de préparation fléchie suivie d’un coup de pied latéral perçant, les blocages circulaires et les coups de pied directs.\n3. Terminez par les derniers blocages et coups de poing, puis revenez en position de préparation fermée A.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Won-Hyo",
+      "description": "1. Beginne im geschlossenen Bereitschaftsstand A und laufe die 28 Bewegungen, eröffnet mit doppeltem Unterarmblock und innerem Handkantenschlag im L-Stand.\n2. Baue die Fauststöße im festen Stand, den gebeugten Bereitschaftsstand mit Seitstoßtritt, kreisende Blocks und Vorwärtstritte ein.\n3. Schließe mit den letzten Blocks und Fauststößen ab und kehre in den geschlossenen Bereitschaftsstand A zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Won-Hyo",
+      "description": "1. Parti dalla posizione di pronti chiusa A ed esegui la forma di 28 movimenti, aprendo con doppia parata d’avambraccio e colpo interno a mano a coltello in posizione a L.\n2. Inserisci i pugni in posizione fissa, la posizione di pronti piegata con calcio laterale penetrante, parate circolari e calci frontali rapidi.\n3. Concludi con le ultime parate e pugni, poi torna alla posizione di pronti chiusa A.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "元晓型（Won-Hyo）",
+      "description": "1. 以合步预备式A开始，完成28个动作，开头为L形步双前臂格挡与内手刀击打。\n2. 包括固定步冲拳、屈腿预备式接侧踹、圆形格挡和前踢。\n3. 以最后的格挡和冲拳收尾，回到合步预备式A。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "ウォニョ（元暁）",
+      "description": "1. 閉足準備立ちAから始め、L字立ちの双腕受けと内手刀打ちで28動作の型を開始します。\n2. 固定立ちの突き、屈足準備立ちからの横蹴り、円受け、前蹴りを含めます。\n3. 最後の受けと突きで締めくくり、閉足準備立ちAに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "원효",
+      "description": "1. 모아 준비서기 A에서 시작해 L서기 쌍팔목 막기와 안손칼 치기로 28동작 틀을 엽니다.\n2. 고정서기 지르기, 굽힌 준비서기에서 옆차찌르기, 돌려막기, 앞차기를 포함합니다.\n3. 마지막 막기와 지르기로 마무리하고 모아 준비서기 A로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "วอนฮโย",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบชิด A และทำรูปแบบ 28 จังหวะ โดยเปิดด้วยการปัดด้วยแขนคู่และการฟันสันมือเข้าด้านในในท่ายืนรูปตัวแอล\n2. รวมหมัดในท่ายืนคงที่ ท่ายืนเตรียมแบบงอขาตามด้วยการเ���ะข้างแบบเจาะ การปัดแบบวงกลม และการเตะตรงด้านหน้า\n3. จบด้วยการปัดและหมัดชุดสุดท้��ย แล้วกลับสู่ท่ายืนเตรียมแบบชิด A",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Вонхё",
+      "description": "1. Начните из закрытой готовой стойки A и выполните туль из 28 движений, открыв его двойным блоком предплечьями и внутренним ударом ребром ладони в L-образной стойке.\n2. Включите удары в фиксированной стойке, согнутую готовую стойку с проникающим боковым ударом ногой, круговые блоки и прямые удары ногой.\n3. Завершите последними блоками и ударами и вернитесь в закрытую готовую стойку A.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Вонхьо",
+      "description": "1. Почніть із закритої готової стійки A й виконайте туль із 28 рухів, відкривши його подвійним блоком передпліччями та внутрішнім ударом ребром долоні в L-подібній стійці.\n2. Додайте удари у фіксованій стійці, зігнуту готову стійку з проникним бічним ударом ногою, кругові блоки й прямі удари ногою.\n3. Завершіть останніми блоками й ударами та поверніться в закриту готову стійку A.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "108.3",
+  "key": "wing_chun_chum_kiu",
+  "title": "Chum Kiu",
+  "description": "1. Begin from the Siu Nim Tao stance with both hands ready on the centreline and space to turn and step.\n2. Perform the form with stance turns, stepping advances, bong sau, lan sau, and elbow actions, and front and side kicks, moving the whole body as one unit.\n3. Keep your balance and face the centreline on every turn and step, then return to the starting stance and close the form.",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Chum Kiu",
+      "description": "1. Begin from the Siu Nim Tao stance with both hands ready on the centreline and space to turn and step.\n2. Perform the form with stance turns, stepping advances, bong sau, lan sau, and elbow actions, and front and side kicks, moving the whole body as one unit.\n3. Keep your balance and face the centreline on every turn and step, then return to the starting stance and close the form.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Chum Kiu",
+      "description": "1. Empieza desde la posición de Siu Nim Tao con ambas manos listas en la línea central y espacio para girar y avanzar.\n2. Ejecuta la forma con giros de posición, avances con paso, bong sau, lan sau y acciones de codo, y patadas frontales y laterales, moviendo todo el cuerpo como una unidad.\n3. Mantén el equilibrio y la línea central de frente en cada giro y paso, luego vuelve a la posición inicial y cierra la forma.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Chum Kiu",
+      "description": "1. Comece da base do Siu Nim Tao com as duas mãos prontas na linha central e espaço para girar e avançar.\n2. Execute a forma com giros de base, avanços com passo, bong sau, lan sau e ações de cotovelo, e chutes frontais e laterais, movendo o corpo inteiro como uma unidade.\n3. Mantenha o equilíbrio e a linha central de frente em cada giro e passo, depois volte à base inicial e feche a forma.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Chum Kiu",
+      "description": "1. Partez de la position du Siu Nim Tao, mains prêtes sur la ligne centrale, avec de l’espace pour pivoter et avancer.\n2. Exécutez la forme avec pivots de position, avancées en pas, bong sau, lan sau et actions de coude, et coups de pied de face et de côté, en déplaçant tout le corps d’un bloc.\n3. Gardez l’équilibre et la ligne centrale de face à chaque pivot et pas, puis revenez à la position de départ et fermez la forme.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Chum Kiu",
+      "description": "1. Beginne im Siu-Nim-Tao-Stand mit beiden Händen bereit auf der Mittellinie und Platz zum Drehen und Schreiten.\n2. Laufe die Form mit Standdrehungen, Vorwärtsschritten, Bong Sau, Lan Sau und Ellbogenaktionen sowie Front- und Seitwärtstritten und bewege den ganzen Körper als Einheit.\n3. Halte bei jeder Drehung und jedem Schritt das Gleichgewicht und die Mittellinie ausgerichtet, kehre dann in den Ausgangsstand zurück und schließe die Form.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Chum Kiu",
+      "description": "1. Inizia dalla posizione del Siu Nim Tao con le mani pronte sulla linea centrale e spazio per ruotare e avanzare.\n2. Esegui la forma con rotazioni della posizione, avanzamenti a passi, bong sau, lan sau e azioni di gomito, e calci frontali e laterali, muovendo tutto il corpo come un’unità.\n3. Mantieni l’equilibrio e la linea centrale frontale a ogni rotazione e passo, poi torna alla posizione iniziale e chiudi la forma.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "寻桥",
+      "description": "1. 从小念头的马步开始，双手在中线准备好，留出转身和上步的空间。\n2. 演练寻桥套路，包括转马、上步、膀手、拦手、肘法以及正蹬和侧踢，全身协调一体移动。\n3. 每次转马和上步都保持平衡、正对中线，最后回到起始马步收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "尋橋（チャムキウ）",
+      "description": "1. 小念頭の構えから、両手を中心線に備え、転身と踏み込みの空間を確保して始めます。\n2. 転馬、踏み込み、膀手・攔手・肘の動作、前蹴りと横蹴りで型を行い、全身を一体として動かします。\n3. 転身や踏み込みのたびにバランスを保ち中心線を正対させ、最初の構えに戻って型を収めます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "심교",
+      "description": "1. 소념두 자세에서 두 손을 중심선에 준비하고 회전과 스텝 공간을 확보한 채 시작합니다.\n2. 자세 회전, 전진 스텝, 방사우·란사우·팔꿈치 동작, 앞차기와 옆차기로 품을 수행하며 몸 전체를 하나로 움직입니다.\n3. 회전과 스텝마다 균형을 잡고 중심선을 정면으로 유지한 뒤 시작 자세로 돌아와 품을 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "ชัมคิ่ว",
+      "description": "1. เริ่มจากท่ายืนของซิ่วนิ้มเต๋า สองมือพร้อมที่แนวกึ่งกลาง และมีพื้นที่ให้หมุนตัวและก้าว\n2. รำโดยมีการหมุนท่ายืน ก้าวเข้า มือบ่ง มือหลาน และการใช้ศอก พร้อมเตะหน้าและเตะข้าง โดยเคลื่อนทั้งร่างกายเป็นหนึ่งเดียว\n3. รักษาสมดุลและหันแนวกึ่งกลางตรงทุกครั้งที่หมุนและก้าว แล้วกลับสู่ท่ายืนเริ่มต้นและปิดท่ารำ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Чам Киу",
+      "description": "1. Начните из стойки Сиу Ним Тао, обе руки готовы на центральной линии, есть место для поворотов и шагов.\n2. Выполните форму с поворотами стойки, шагами вперёд, бонг сау, лан сау и действиями локтем, прямыми и боковыми ударами ногой, двигая всё тело как единое целое.\n3. Сохраняйте равновесие и разворот к центральной линии при каждом повороте и шаге, затем вернитесь в исходную стойку и завершите форму.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Чам Кіу",
+      "description": "1. Почніть зі стійки Сіу Нім Тао, обидві руки готові на центральній лінії, є місце для поворотів і кроків.\n2. Виконайте форму з поворотами стійки, кроками вперед, бонг сау, лан сау й діями ліктем, прямими та боковими ударами ногою, рухаючи все тіло як єдине ціле.\n3. Зберігайте рівновагу й розворот до центральної лінії під час кожного повороту та кроку, потім поверніться у вихідну стійку й завершіть форму.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

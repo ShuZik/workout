@@ -1,0 +1,87 @@
+{
+  "id": "97.18",
+  "key": "sumo_shiko",
+  "title": "Shiko",
+  "description": "1. Stand with the feet wider than the shoulders, toes turned out, hips low, and hands on the thighs.\n2. Shift the weight onto one leg and lift the other leg high to the side, keeping the supporting knee over the toes.\n3. Bring the lifted foot down firmly into the low stance and repeat on the other side at a steady rhythm.",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Shiko",
+      "description": "1. Stand with the feet wider than the shoulders, toes turned out, hips low, and hands on the thighs.\n2. Shift the weight onto one leg and lift the other leg high to the side, keeping the supporting knee over the toes.\n3. Bring the lifted foot down firmly into the low stance and repeat on the other side at a steady rhythm.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Shiko",
+      "description": "1. De pie con los pies más separados que los hombros, puntas hacia fuera, cadera baja y manos sobre los muslos.\n2. Pasa el peso a una pierna y eleva la otra alto hacia el lado, con la rodilla de apoyo sobre los dedos del pie.\n3. Baja con firmeza el pie elevado a la postura baja y repite del otro lado a ritmo constante.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Shiko",
+      "description": "1. Fique em pé com os pés mais afastados que os ombros, pontas para fora, quadril baixo e mãos nas coxas.\n2. Passe o peso para uma perna e eleve a outra bem alto para o lado, com o joelho de apoio sobre os dedos.\n3. Desça o pé elevado com firmeza na base baixa e repita do outro lado em ritmo constante.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Shiko",
+      "description": "1. Tenez-vous pieds plus écartés que les épaules, pointes vers l’extérieur, hanches basses et mains sur les cuisses.\n2. Transférez le poids sur une jambe et levez l’autre haut sur le côté, genou d’appui au-dessus des orteils.\n3. Reposez fermement le pied levé dans la position basse et répétez de l’autre côté à rythme régulier.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Shiko",
+      "description": "1. Stehe mit den Füßen weiter als schulterbreit, Zehen nach außen, Hüfte tief und Hände auf den Oberschenkeln.\n2. Verlagere das Gewicht auf ein Bein und hebe das andere hoch zur Seite, das Standknie über den Zehen.\n3. Setze den gehobenen Fuß kraftvoll in die tiefe Haltung ab und wiederhole auf der anderen Seite im gleichmäßigen Rhythmus.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Shiko",
+      "description": "1. In piedi con i piedi più larghi delle spalle, punte in fuori, anche basse e mani sulle cosce.\n2. Sposta il peso su una gamba e solleva l’altra in alto di lato, con il ginocchio d’appoggio sopra le dita.\n3. Riporta con decisione il piede sollevato nella posizione bassa e ripeti dall’altro lato a ritmo costante.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "四股",
+      "description": "1. 双脚宽于肩站立，脚尖外展，髋部下沉，双手放在大腿上。\n2. 重心移到一条腿，另一条腿向侧上方高抬，支撑腿膝盖对准脚尖。\n3. 抬起的脚有力地踏回低位姿势，以稳定节奏换另一侧重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "四股",
+      "description": "1. 足を肩幅より広く開き、つま先を外に向け、腰を落として両手を太ももに置きます。\n2. 体重を片脚に移し、支える膝をつま先の上に保ったまま、もう一方の脚を横へ高く上げます。\n3. 上げた足を力強く下ろして低い構えに戻り、一定のリズムで反対側も繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "시코",
+      "description": "1. 발을 어깨보다 넓게 벌리고 발끝을 바깥으로, 엉덩이를 낮추고 손을 허벅지에 올립니다.\n2. 체중을 한쪽 다리로 옮기고 지지 무릎을 발끝 위에 둔 채 다른 다리를 옆으로 높이 듭니다.\n3. 든 발을 힘 있게 낮은 자세로 내리고 일정한 리듬으로 반대쪽을 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ชิโกะ",
+      "description": "1. ยืนเท้ากว้างกว่าไหล่ ปลายเท้าชี้ออก สะโพกต่ำ มือวางบนต้นขา\n2. ถ่ายน้ำหนักไปขาข้างหนึ่งแล้วยกอีกข้างสูงไปด้านข้าง โดยเข่าขาหลักอยู่เหนือปลายเท้า\n3. กระทืบเท้าที่ยกลงสู่ท่าต่ำอย่างหนักแน่น แล้วทำสลับอีกข้างด้วยจังหวะสม่ำเสมอ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Сико",
+      "description": "1. Встаньте, расставив стопы шире плеч, носки наружу, таз низко, руки на бёдрах.\n2. Перенесите вес на одну ногу и поднимите другую высоко в сторону, держа опорное колено над носком.\n3. Твёрдо опустите поднятую стопу в низкую стойку и повторите на другую сторону в ровном ритме.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Сіко",
+      "description": "1. Станьте, розставивши стопи ширше за плечі, носки назовні, таз низько, руки на стегнах.\n2. Перенесіть вагу на одну ногу й підніміть іншу високо вбік, тримаючи опорне коліно над носком.\n3. Твердо опустіть підняту стопу в низьку стійку й повторіть на інший бік у рівному ритмі.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

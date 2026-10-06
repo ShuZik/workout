@@ -1,0 +1,90 @@
+{
+  "id": "40.9",
+  "key": "karate_uraken_uchi",
+  "title": "Uraken Uchi",
+  "description": "1. Chamber the striking fist near the opposite shoulder or side of the face with the elbow bent and wrist straight.\n2. Rotate the forearm outward and snap the back of the knuckles across the target while the elbow remains the pivot.\n3. Recoil immediately to the same chamber without letting the wrist bend or the shoulder overrotate.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Punches",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Uraken Uchi",
+      "description": "1. Chamber the striking fist near the opposite shoulder or side of the face with the elbow bent and wrist straight.\n2. Rotate the forearm outward and snap the back of the knuckles across the target while the elbow remains the pivot.\n3. Recoil immediately to the same chamber without letting the wrist bend or the shoulder overrotate.",
+      "sectionTitle": "Punches"
+    },
+    "es": {
+      "title": "Uraken Uchi",
+      "description": "1. Prepara el puño que golpea cerca del hombro contrario o del lado de la cara, con el codo flexionado y la muñeca recta.\n2. Gira el antebrazo hacia fuera y lanza el dorso de los nudillos a través del objetivo mientras el codo actúa como eje.\n3. Recoge de inmediato a la misma posición de preparación sin doblar la muñeca ni girar en exceso el hombro.",
+      "sectionTitle": "Puñetazos"
+    },
+    "pt": {
+      "title": "Uraken Uchi",
+      "description": "1. Prepare o punho que golpeia perto do ombro oposto ou da lateral do rosto, com o cotovelo dobrado e o punho reto.\n2. Gire o antebraço para fora e estale o dorso dos nós dos dedos contra o alvo, mantendo o cotovelo como eixo.\n3. Recolha imediatamente à mesma preparação sem dobrar o punho nem girar demais o ombro.",
+      "sectionTitle": "Socos"
+    },
+    "fr": {
+      "title": "Uraken Uchi",
+      "description": "1. Armez le poing qui frappe près de l’épaule opposée ou du côté du visage, coude fléchi et poignet droit.\n2. Tournez l’avant-bras vers l’extérieur et fouettez le dos des articulations à travers la cible, le coude servant de pivot.\n3. Ramenez aussitôt à la même armée sans plier le poignet ni trop tourner l’épaule.",
+      "sectionTitle": "Coups de poing"
+    },
+    "de": {
+      "title": "Uraken Uchi",
+      "description": "1. Hole die Schlagfaust nahe der gegenüberliegenden Schulter oder Gesichtsseite aus, Ellbogen gebeugt und Handgelenk gerade.\n2. Drehe den Unterarm nach außen und schnappe den Handrücken der Knöchel über das Ziel, wobei der Ellbogen der Drehpunkt bleibt.\n3. Ziehe sofort in dieselbe Ausholposition zurück, ohne das Handgelenk abzuknicken oder die Schulter zu überdrehen.",
+      "sectionTitle": "Faustschläge"
+    },
+    "it": {
+      "title": "Uraken Uchi",
+      "description": "1. Carica il pugno che colpisce vicino alla spalla opposta o al lato del viso, con il gomito piegato e il polso diritto.\n2. Ruota l’avambraccio verso l’esterno e frusta il dorso delle nocche attraverso il bersaglio, con il gomito come perno.\n3. Richiama subito nella stessa posizione di carica senza piegare il polso né ruotare troppo la spalla.",
+      "sectionTitle": "Pugni"
+    },
+    "zh-Hans": {
+      "title": "里拳打",
+      "description": "1. 将击打拳收在对侧肩膀或面部一侧附近，屈肘，手腕伸直。\n2. 前臂向外旋转，以肘为轴，用拳背指节横向弹击目标。\n3. 立即收回至同一预备位置，手腕不要弯曲，肩膀不要过度旋转。",
+      "sectionTitle": "拳击"
+    },
+    "ja": {
+      "title": "裏拳打ち",
+      "description": "1. 打つ拳を反対側の肩または顔の横に構え、肘を曲げ、手首をまっすぐに保ちます。\n2. 肘を支点にして前腕を外へ回し、拳の甲で標的を横切るようにスナップを効かせて打ちます。\n3. 手首を曲げたり肩を回しすぎたりせず、すぐに同じ構えへ引き戻します。",
+      "sectionTitle": "突き"
+    },
+    "ko": {
+      "title": "우라켄 우치",
+      "description": "1. 치는 주먹을 반대쪽 어깨나 얼굴 옆에 준비하고 팔꿈치를 굽히며 손목을 곧게 유지합니다.\n2. 팔꿈치를 축으로 아래팔을 바깥으로 돌리며 주먹 등 관절로 목표를 가로질러 튕기듯 칩니다.\n3. 손목을 꺾거나 어깨를 과하게 돌리지 않고 즉시 같은 준비 위치로 거둡니다.",
+      "sectionTitle": "지르기"
+    },
+    "th": {
+      "title": "อุระเคนอุจิ",
+      "description": "1. เตรียมหมัดที่จะตีไว้ใกล้ไหล่ฝั่งตรงข้ามหรือข้างใบหน้า งอศอกและรักษาข้อมือให้ตรง\n2. หมุนปลายแขนออกด้านนอกและสะบัดหลังข้อนิ้วผ่านเป้าหมาย โดยให้ศอกเป็นจุดหมุน\n3. ดึงกลับสู่ตำแหน่งเตรียมเดิมทันที โดยไม่งอข้อมือหรือหมุนไหล่มากเกินไป",
+      "sectionTitle": "หมัด"
+    },
+    "ru": {
+      "title": "Уракэн-ути",
+      "description": "1. Подготовьте бьющий кулак у противоположного плеча или сбоку от лица, локоть согнут, запястье прямое.\n2. Разверните предплечье наружу и хлёстко ударьте тыльной стороной костяшек поперёк цели, используя локоть как ось.\n3. Сразу верните кулак в ту же подготовку, не сгибая запястье и не перекручивая плечо.",
+      "sectionTitle": "Удары руками"
+    },
+    "uk": {
+      "title": "Уракен-учі",
+      "description": "1. Підготуйте кулак, що б’є, біля протилежного плеча або збоку від обличчя, лікоть зігнутий, зап’ястя пряме.\n2. Розверніть передпліччя назовні й хльостко вдарте тильним боком кісточок поперек цілі, використовуючи лікоть як вісь.\n3. Одразу поверніть кулак у ту саму підготовку, не згинаючи зап’ястя й не перекручуючи плече.",
+      "sectionTitle": "Удари руками"
+    }
+  }
+}

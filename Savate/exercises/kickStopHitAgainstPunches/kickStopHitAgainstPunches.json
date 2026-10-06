@@ -1,0 +1,90 @@
+{
+  "id": "89.11",
+  "key": "savate_kick_stop_hit_vs_punches",
+  "title": "Kick Stop-Hit Against Punches",
+  "description": "1. Face a partner who steps in with one agreed punch at controlled speed.\n2. Intercept the entry with a stop kick such as a chassé to the body, then follow with punches.\n3. Control the kick so it stops rather than strikes hard, recover guard, and swap roles.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kick Stop-Hit Against Punches",
+      "description": "1. Face a partner who steps in with one agreed punch at controlled speed.\n2. Intercept the entry with a stop kick such as a chassé to the body, then follow with punches.\n3. Control the kick so it stops rather than strikes hard, recover guard, and swap roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Patada de parada ante golpes de puño",
+      "description": "1. Colócate frente a un compañero que entra con un golpe acordado a velocidad controlada.\n2. Intercepta la entrada con una patada de parada, como un chassé al cuerpo, y sigue con golpes de puño.\n3. Controla la patada para que detenga sin golpear fuerte, recupera la guardia e intercambiad roles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Chute de parada contra socos",
+      "description": "1. Fique diante de um parceiro que entra com um soco combinado em velocidade controlada.\n2. Intercepte a entrada com um chute de parada, como um chassé no tronco, e continue com socos.\n3. Controle o chute para que pare em vez de bater forte, recupere a guarda e troquem os papéis.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Coup d’arrêt du pied sur les poings",
+      "description": "1. Face à un partenaire qui entre avec un coup de poing convenu à vitesse contrôlée.\n2. Interceptez l’entrée par un coup de pied d’arrêt, par exemple un chassé au corps, puis enchaînez aux poings.\n3. Contrôlez le coup de pied pour qu’il arrête sans frapper fort, retrouvez la garde et inversez les rôles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Tritt-Stopper gegen Schläge",
+      "description": "1. Stelle dich einem Partner gegenüber, der kontrolliert mit einem vereinbarten Schlag eintritt.\n2. Fange den Eintritt mit einem Stopptritt ab, etwa einem Chassé zum Körper, und folge mit Schlägen.\n3. Kontrolliere den Tritt, sodass er stoppt statt hart zu treffen, stelle die Deckung her und tauscht die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Calcio d’arresto contro i pugni",
+      "description": "1. Mettiti di fronte a un compagno che entra con un pugno concordato a velocità controllata.\n2. Intercetta l’entrata con un calcio d’arresto, come un chassé al corpo, poi prosegui con i pugni.\n3. Controlla il calcio perché fermi senza colpire forte, recupera la guardia e scambiatevi i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "以腿截击拳法",
+      "description": "1. 面对一名以约定拳法控速上步进攻的同伴。\n2. 用截击腿法如蹬踢（chassé）踢向躯干截住其进入，然后接拳法。\n3. 控制腿法只做截停不重击，恢复防守势并交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "突きに対する蹴りのストップ",
+      "description": "1. 合意したパンチでコントロールした速度で踏み込んでくるパートナーと向き合います。\n2. 胴へのシャッセなどのストップキックで入りを止め、続けてパンチを出します。\n3. 蹴りは強く当てず止める程度に抑え、構えを戻して役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "펀치에 대한 킥 스톱",
+      "description": "1. 합의된 펀치로 통제된 속도로 들어오는 파트너와 마주 섭니다.\n2. 몸통으로 차는 샤세 같은 스톱 킥으로 진입을 끊고 이어서 펀치를 냅니다.\n3. 킥은 세게 차지 말고 멈추게 하는 정도로 통제하며 가드를 회복하고 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ลูกเตะหยุดหมัด",
+      "description": "1. ยืนเผชิญคู่ฝึกที่ก้าวเข้ามาด้วยหมัดที่ตกลงไว้ด้วยความเร็วที่ควบคุม\n2. สกัดการเข้าด้วยลูกเตะหยุด เช่น ชาสเซเข้าลำตัว แล้วตามด้วยหมัด\n3. ควบคุมลูกเตะให้แค่หยุดไม่กระแทกแรง กลับสู่การ์ด และสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Стоп-удар ногой против ударов руками",
+      "description": "1. Встаньте напротив партнёра, который входит с оговорённым ударом рукой на контролируемой скорости.\n2. Перехватите вход стоп-ударом ногой, например шассе в корпус, затем продолжите ударами рук.\n3. Контролируйте удар ногой, чтобы он останавливал, а не бил сильно, восстановите стойку и поменяйтесь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Стоп-удар ногою проти ударів руками",
+      "description": "1. Станьте навпроти партнера, який входить з узгодженим ударом рукою на контрольованій швидкості.\n2. Перехопіть вхід стоп-ударом ногою, наприклад шасе в корпус, потім продовжте ударами рук.\n3. Контролюйте удар ногою, щоб він зупиняв, а не бив сильно, відновіть стійку й поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

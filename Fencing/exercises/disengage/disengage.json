@@ -1,0 +1,90 @@
+{
+  "id": "54.8",
+  "key": "fencing_disengage",
+  "title": "Disengage",
+  "description": "1. Engage the partner's blade in one line, for example sixte, with both fencers masked at lunging distance.\n2. Pass the point under the partner's blade in a small spiral using the fingers, extending the arm as the point reaches the opposite open line.\n3. Lunge to hit in the new line, recover to en garde, and repeat from both engagements before swapping roles.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Disengage",
+      "description": "1. Engage the partner's blade in one line, for example sixte, with both fencers masked at lunging distance.\n2. Pass the point under the partner's blade in a small spiral using the fingers, extending the arm as the point reaches the opposite open line.\n3. Lunge to hit in the new line, recover to en garde, and repeat from both engagements before swapping roles.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Desenganche",
+      "description": "1. Toma contacto con la hoja del compañero en una línea, por ejemplo sexta, ambos con careta a distancia de fondo.\n2. Pasa la punta por debajo de la hoja del compañero en una pequeña espiral con los dedos, extendiendo el brazo al llegar a la línea opuesta abierta.\n3. Tira a fondo para tocar en la nueva línea, vuelve a guardia y repite desde ambos enganches antes de cambiar papeles.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Desengajamento",
+      "description": "1. Engaje a lâmina do parceiro numa linha, por exemplo sexta, ambos com máscara à distância de afundo.\n2. Passe a ponta por baixo da lâmina do parceiro numa pequena espiral com os dedos, estendendo o braço ao chegar à linha oposta aberta.\n3. Afunde para tocar na nova linha, volte à guarda e repita a partir dos dois engajamentos antes de trocar papéis.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Dégagement",
+      "description": "1. Engagez le fer du partenaire dans une ligne, par exemple sixte, tous deux masqués à distance de fente.\n2. Passez la pointe sous le fer adverse en une petite spirale des doigts, en allongeant le bras quand la pointe atteint la ligne opposée ouverte.\n3. Fendez-vous pour toucher dans la nouvelle ligne, revenez en garde et répétez depuis les deux engagements avant d’inverser les rôles.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Umgehung (Dégagement)",
+      "description": "1. Binde die Partnerklinge in einer Linie, etwa Sixt, beide mit Maske auf Ausfalldistanz.\n2. Führe die Spitze mit einer kleinen Fingerspirale unter der Partnerklinge durch und strecke den Arm, sobald die Spitze die offene Gegenlinie erreicht.\n3. Falle aus, um in der neuen Linie zu treffen, kehre in die Stellung zurück und wiederhole aus beiden Bindungen, bevor ihr tauscht.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Cavazione",
+      "description": "1. Lega la lama del compagno in una linea, per esempio sesta, entrambi con maschera a distanza d’affondo.\n2. Passa la punta sotto la lama del compagno con una piccola spirale delle dita, distendendo il braccio quando la punta raggiunge la linea opposta aperta.\n3. Affonda per toccare nella nuova linea, torna in guardia e ripeti da entrambi i legamenti prima di scambiare i ruoli.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "转移刺",
+      "description": "1. 双方戴面罩相距弓步距离，在某一线位（如第六位）接住同伴的剑。\n2. 用手指使剑尖以小螺旋从同伴剑下绕过，剑尖到达对侧空档时伸直手臂。\n3. 弓步刺中新线位，恢复实战姿势，从两侧接剑各练习后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "デガジェ",
+      "description": "1. 双方マスクを着けファントの間合いで、相手の剣と一つのライン（例：シクスト）でアンガージュします。\n2. 指で小さならせんを描いて剣先を相手の剣の下にくぐらせ、反対側の空いたラインに達したら腕を伸ばします。\n3. 新しいラインへファントして突き、アンガルドに戻り、両側のアンガージュから繰り返してから役割を交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "디스인게이지",
+      "description": "1. 둘 다 마스크를 쓰고 런지 거리에서 한 라인(예: 식스트)으로 파트너의 칼을 인게이지합니다.\n2. 손가락으로 작은 나선을 그려 칼끝을 파트너 칼 아래로 통과시키고, 반대쪽 열린 라인에 닿을 때 팔을 뻗습니다.\n3. 새 라인으로 런지해 찌르고 앙가르드로 돌아오며, 양쪽 인게이지에서 반복한 뒤 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "ดิสเอนเกจ",
+      "description": "1. ทั้งคู่สวมหน้ากากในระยะลันจ์ แตะใบดาบคู่ฝึกในแนวหนึ่ง เช่น ซิกซ์ต์\n2. ใช้นิ้วหมุนปลายดาบเป็นเกลียวเล็กลอดใต้ใบดาบคู่ฝึก แล้วเหยียดแขนเมื่อปลายดาบถึงแนวตรงข้ามที่เปิด\n3. ลันจ์แทงในแนวใหม่ กลับสู่อองการ์ด ฝึกจากการแตะดาบทั้งสองด้านแล้วสลับบทบาท",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Перевод",
+      "description": "1. Возьмите соединение с клинком партнёра в одной линии, например в шестой; оба в масках на дистанции выпада.\n2. Пальцами проведите остриё небольшой спиралью под клинком партнёра и выпрямите руку, когда остриё выйдет в противоположную открытую линию.\n3. Выпадом нанесите укол в новую линию, вернитесь в стойку и повторите из обоих соединений, затем поменяйтесь ролями.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Переведення",
+      "description": "1. Візьміть з’єднання з клинком партнера в одній лінії, наприклад у шостій; обидва в масках на дистанції випаду.\n2. Пальцями проведіть вістря невеликою спіраллю під клинком партнера й випряміть руку, коли вістря вийде в протилежну відкриту лінію.\n3. Випадом завдайте уколу в нову лінію, поверніться в стійку й повторіть з обох з’єднань, потім поміняйтеся ролями.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

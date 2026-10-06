@@ -1,0 +1,90 @@
+{
+  "id": "4.20",
+  "key": "mma_striking_defense",
+  "title": "Striking Defense",
+  "description": "1. From MMA stance, keep the chin behind a high guard and read the incoming punch before committing the feet.\n2. Use a compact parry or slip for straight punches and a tight forearm cover for hooks without turning the eyes away.\n3. Exit on an angle or answer with one controlled counter, then restore distance and stance.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Striking",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Striking Defense",
+      "description": "1. From MMA stance, keep the chin behind a high guard and read the incoming punch before committing the feet.\n2. Use a compact parry or slip for straight punches and a tight forearm cover for hooks without turning the eyes away.\n3. Exit on an angle or answer with one controlled counter, then restore distance and stance.",
+      "sectionTitle": "Striking"
+    },
+    "es": {
+      "title": "Defensa de golpes",
+      "description": "1. Desde la guardia de MMA, mantén la barbilla detrás de una guardia alta y lee el golpe que llega antes de mover los pies.\n2. Usa una parada o esquiva compacta para los rectos y una cobertura cerrada con el antebrazo para los ganchos sin apartar la mirada.\n3. Sal en ángulo o responde con un contragolpe controlado, luego recupera la distancia y la guardia.",
+      "sectionTitle": "Golpeo"
+    },
+    "pt": {
+      "title": "Defesa de golpes",
+      "description": "1. Da base de MMA, mantenha o queixo atrás de uma guarda alta e leia o soco antes de comprometer os pés.\n2. Use um desvio de mão ou uma esquiva curta contra socos retos e uma cobertura fechada com o antebraço contra ganchos, sem desviar o olhar.\n3. Saia em ângulo ou responda com um contragolpe controlado, depois recupere a distância e a base.",
+      "sectionTitle": "Trocação"
+    },
+    "fr": {
+      "title": "Défense contre les frappes",
+      "description": "1. Depuis la garde de MMA, gardez le menton derrière une garde haute et lisez le coup avant d’engager les pieds.\n2. Utilisez une parade ou une esquive compacte contre les directs et une couverture serrée de l’avant-bras contre les crochets, sans détourner les yeux.\n3. Sortez en angle ou répondez par une contre-attaque contrôlée, puis rétablissez la distance et la garde.",
+      "sectionTitle": "Frappe"
+    },
+    "de": {
+      "title": "Schlagabwehr",
+      "description": "1. Halte das Kinn in der MMA-Stellung hinter einer hohen Deckung und lies den kommenden Schlag, bevor du die Füße festlegst.\n2. Nutze gegen Geraden eine kompakte Parade oder ein Abtauchen und gegen Haken eine enge Unterarmdeckung, ohne den Blick abzuwenden.\n3. Geh im Winkel raus oder antworte mit einem kontrollierten Konter und stelle dann Distanz und Stellung wieder her.",
+      "sectionTitle": "Schlagtechnik"
+    },
+    "it": {
+      "title": "Difesa dai colpi",
+      "description": "1. Dalla guardia da MMA, tieni il mento dietro una guardia alta e leggi il pugno in arrivo prima di impegnare i piedi.\n2. Usa una parata o una schivata compatta contro i diretti e una copertura stretta con l’avambraccio contro i ganci, senza distogliere lo sguardo.\n3. Esci in angolo o rispondi con un contrattacco controllato, poi ristabilisci distanza e guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "打击防守",
+      "description": "1. 从综合格斗站架出发，下巴藏在高位防守后面，先判断来拳再移动双脚。\n2. 对直拳用小幅拍挡或闪躲，对摆拳用前臂紧密格挡，视线不要离开对手。\n3. 斜向撤出或回击一次有控制的反击，然后恢复距离和站架。",
+      "sectionTitle": "打击"
+    },
+    "ja": {
+      "title": "打撃ディフェンス",
+      "description": "1. MMAの構えから顎を高いガードの後ろに隠し、足を動かす前に来るパンチを見極めます。\n2. ストレートにはコンパクトなパリーかスリップ、フックには前腕を締めたカバーで対応し、目をそらしません。\n3. 角度を取って離れるか、コントロールしたカウンターを1発返し、距離と構えを戻します。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "타격 방어",
+      "description": "1. MMA 스탠스에서 턱을 높은 가드 뒤에 숨기고 발을 움직이기 전에 들어오는 펀치를 읽습니다.\n2. 스트레이트에는 짧은 패리나 슬립을, 훅에는 전완으로 단단히 커버하며 시선을 떼지 않습니다.\n3. 각도를 잡아 빠지거나 통제된 카운터 한 번으로 응수한 뒤 거리와 스탠스를 회복합니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ป้องกันการชก",
+      "description": "1. จากท่ายืน MMA ซ่อนคางไว้หลังการ์ดสูง และอ่านหมัดที่เข้ามาก่อนขยับเท้า\n2. ใช้การปัดหรือหลบสั้น ๆ กับหมัดตรง และใช้แขนท่อนล่างปิดแน่นกับหมัดฮุก โดยไม่ละสายตา\n3. ออกทางมุมหรือสวนกลับหนึ่งครั้งอย่างควบคุมได้ แล้วปรับระยะและท่ายืนกลับเข้าที่",
+      "sectionTitle": "การโจมตี"
+    },
+    "ru": {
+      "title": "Защита от ударов",
+      "description": "1. В стойке ММА держите подбородок за высокой защитой и считывайте удар, прежде чем перемещать ноги.\n2. Против прямых используйте короткую отбивку или нырок, против боковых плотно закрывайтесь предплечьем, не отводя взгляд.\n3. Уйдите на угол или ответьте одним контролируемым контрударом, затем восстановите дистанцию и стойку.",
+      "sectionTitle": "Ударная техника"
+    },
+    "uk": {
+      "title": "Захист від ударів",
+      "description": "1. У стійці ММА тримайте підборіддя за високим захистом і зчитуйте удар, перш ніж переміщувати ноги.\n2. Проти прямих використовуйте коротку відбивку чи нирок, проти бокових щільно закривайтеся передпліччям, не відводячи погляду.\n3. Вийдіть на кут або відповідайте одним контрольованим контрударом, потім відновіть дистанцію й стійку.",
+      "sectionTitle": "Ударна техніка"
+    }
+  }
+}

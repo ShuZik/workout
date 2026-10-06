@@ -1,0 +1,90 @@
+{
+  "id": "10.22",
+  "key": "foam_rolling_glute_roll",
+  "title": "Glute Roll",
+  "description": "1. Sit on the roller with hands behind the body and both feet initially grounded.\n2. Shift weight onto one glute and use the supporting foot and hands to roll from the pelvis to the top of the thigh.\n3. Change the torso angle to cover the muscle, then return to center and switch sides.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Release Work",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Glute Roll",
+      "description": "1. Sit on the roller with hands behind the body and both feet initially grounded.\n2. Shift weight onto one glute and use the supporting foot and hands to roll from the pelvis to the top of the thigh.\n3. Change the torso angle to cover the muscle, then return to center and switch sides.",
+      "sectionTitle": "Release Work"
+    },
+    "es": {
+      "title": "Rodaje de glúteos",
+      "description": "1. Siéntate sobre el rodillo con las manos detrás del cuerpo y ambos pies inicialmente apoyados en el suelo.\n2. Traslada el peso a un glúteo y usa el pie de apoyo y las manos para rodar desde la pelvis hasta la parte superior del muslo.\n3. Cambia el ángulo del torso para abarcar el músculo, vuelve al centro y cambia de lado.",
+      "sectionTitle": "Liberación muscular"
+    },
+    "pt": {
+      "title": "Rolamento dos glúteos",
+      "description": "1. Sente-se no rolo com as mãos atrás do corpo e os dois pés inicialmente no chão.\n2. Transfira o peso para um glúteo e use o pé de apoio e as mãos para rolar da pelve até o topo da coxa.\n3. Mude o ângulo do tronco para cobrir o músculo, volte ao centro e troque de lado.",
+      "sectionTitle": "Liberação muscular"
+    },
+    "fr": {
+      "title": "Automassage des fessiers au rouleau",
+      "description": "1. Asseyez-vous sur le rouleau, les mains derrière le corps et les deux pieds initialement au sol.\n2. Transférez le poids sur un fessier et utilisez le pied d’appui et les mains pour rouler du bassin jusqu’au haut de la cuisse.\n3. Changez l’angle du torse pour couvrir le muscle, puis revenez au centre et changez de côté.",
+      "sectionTitle": "Relâchement musculaire"
+    },
+    "de": {
+      "title": "Gesäßrollen",
+      "description": "1. Sitze auf der Rolle mit den Händen hinter dem Körper und zunächst beiden Füßen am Boden.\n2. Verlagere das Gewicht auf eine Gesäßseite und rolle mithilfe des stützenden Fußes und der Hände vom Becken zum oberen Oberschenkel.\n3. Ändere den Winkel des Oberkörpers, um den Muskel abzudecken, kehre zur Mitte zurück und wechsle die Seite.",
+      "sectionTitle": "Muskelentspannung"
+    },
+    "it": {
+      "title": "Massaggio dei glutei con rullo",
+      "description": "1. Siediti sul rullo con le mani dietro il corpo e inizialmente entrambi i piedi a terra.\n2. Sposta il peso su un gluteo e usa il piede di sostegno e le mani per scorrere dal bacino alla parte alta della coscia.\n3. Cambia l’angolo del busto per coprire il muscolo, poi torna al centro e cambia lato.",
+      "sectionTitle": "Rilascio muscolare"
+    },
+    "zh-Hans": {
+      "title": "臀肌滚压",
+      "description": "1. 坐在滚轴上，双手放在身后，开始时双脚踩地。\n2. 将重心移到一侧臀部，利用支撑脚和双手，从骨盆滚到大腿顶部。\n3. 改变躯干角度以覆盖肌肉，然后回到中间并换侧。",
+      "sectionTitle": "肌肉放松"
+    },
+    "ja": {
+      "title": "臀部ローリング",
+      "description": "1. ローラーに座り、手を体の後ろに置き、最初は両足を床につけます。\n2. 片側のお尻へ体重を移し、支える足と手を使って骨盤から太ももの上部まで転がします。\n3. 上体の角度を変えて筋肉全体をほぐし、中央に戻って反対側に替えます。",
+      "sectionTitle": "筋肉のリリース"
+    },
+    "ko": {
+      "title": "둔근 롤링",
+      "description": "1. 롤러에 앉아 손을 몸 뒤에 놓고 처음에는 두 발을 바닥에 붙입니다.\n2. 한쪽 둔근으로 체중을 옮기고 지지하는 발과 손을 사용해 골반부터 허벅지 위쪽까지 굴립니다.\n3. 몸통 각도를 바꿔 근육 전체를 다룬 뒤 중앙으로 돌아와 반대쪽도 합니다.",
+      "sectionTitle": "근육 이완"
+    },
+    "th": {
+      "title": "การกลิ้งคลายกล้ามเนื้อก้น",
+      "description": "1. นั่งบนลูกกลิ้ง วางมือหลังลำตัว และเริ่มด้วยเท้าทั้งสองบนพื้น\n2. ถ่ายน้ำหนักไปที่ก้นข้างหนึ่ง ใช้เท้าที่รองรับและมือช่วยกลิ้งจากเชิงกรานถึงต้นขาส่วนบน\n3. เปลี่ยนมุมลำตัวเพื่อครอบคลุมกล้ามเนื้อ แล้วกลับมาตรงกลางและสลับข้าง",
+      "sectionTitle": "การคลายกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Прокатывание ягодичных мышц",
+      "description": "1. Сядьте на ролик, поставив руки позади тела и сначала обе стопы на пол.\n2. Перенесите вес на одну ягодицу и с помощью опорной стопы и рук прокатывайте от таза до верхней части бедра.\n3. Меняйте угол туловища, чтобы охватить мышцу, затем вернитесь в центр и смените сторону.",
+      "sectionTitle": "Расслабление мышц"
+    },
+    "uk": {
+      "title": "Прокочування сідничних м’язів",
+      "description": "1. Сядьте на ролик, поставивши руки позаду тіла й спочатку обидві стопи на підлогу.\n2. Перенесіть вагу на одну сідницю й за допомогою опорної стопи та рук прокочуйте від таза до верхньої частини стегна.\n3. Змінюйте кут тулуба, щоб охопити м’яз, потім поверніться в центр і змініть бік.",
+      "sectionTitle": "Розслаблення м’язів"
+    }
+  }
+}

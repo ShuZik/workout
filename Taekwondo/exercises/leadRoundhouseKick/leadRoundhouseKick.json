@@ -1,0 +1,90 @@
+{
+  "id": "8.5",
+  "key": "taekwondo_lead_roundhouse_kick",
+  "title": "Lead Roundhouse Kick",
+  "description": "1. Shift weight to the rear leg and chamber the lead knee across the target line.\n2. Pivot the supporting foot, turn the hip over, and extend the instep or ball of the lead foot horizontally toward the target.\n3. Rechamber the knee immediately and lower the lead foot into a balanced fighting stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Roundhouse Kick",
+      "description": "1. Shift weight to the rear leg and chamber the lead knee across the target line.\n2. Pivot the supporting foot, turn the hip over, and extend the instep or ball of the lead foot horizontally toward the target.\n3. Rechamber the knee immediately and lower the lead foot into a balanced fighting stance.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Patada circular delantera",
+      "description": "1. Pasa el peso a la pierna trasera y prepara la rodilla delantera cruzando la línea del objetivo.\n2. Pivota el pie de apoyo, gira la cadera y extiende el empeine o la almohadilla del pie delantero horizontalmente hacia el objetivo.\n3. Recoge inmediatamente la rodilla y baja el pie delantero a una postura de combate equilibrada.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Chute circular da perna da frente",
+      "description": "1. Transfira o peso à perna de trás e prepare o joelho da frente atravessando a linha do alvo.\n2. Gire o pé de apoio, vire o quadril e estenda o peito ou a região abaixo dos dedos do pé da frente horizontalmente ao alvo.\n3. Recolha o joelho imediatamente e baixe o pé da frente a uma base de combate equilibrada.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de pied circulaire avant",
+      "description": "1. Transférez le poids sur la jambe arrière et armez le genou avant en travers de la ligne de la cible.\n2. Pivotez sur le pied d’appui, tournez la hanche et étendez le cou-de-pied ou l’avant du pied horizontalement vers la cible.\n3. Réarmez immédiatement le genou et reposez le pied avant dans une position de combat équilibrée.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Vorderer Rundtritt",
+      "description": "1. Verlagere das Gewicht auf das hintere Bein und hebe das vordere Knie quer zur Ziellinie.\n2. Drehe den Standfuß und die Hüfte und strecke den Spann oder Ballen des vorderen Fußes waagerecht zum Ziel.\n3. Ziehe das Knie sofort zurück und senke den vorderen Fuß in eine ausgewogene Kampfstellung.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Calcio circolare anteriore",
+      "description": "1. Sposta il peso sulla gamba posteriore e carica il ginocchio anteriore trasversalmente alla linea del bersaglio.\n2. Ruota il piede d’appoggio e l’anca, ed estendi il collo o l’avampiede anteriore orizzontalmente verso il bersaglio.\n3. Richiama subito il ginocchio e abbassa il piede anteriore in una posizione di combattimento equilibrata.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "前腿横踢",
+      "description": "1. 重心移到后腿，将前膝横向提至目标线作为预备。\n2. 转动支撑脚并翻髋，前脚背或前脚掌水平伸向目标。\n3. 立即将膝收回预备位置，再将前脚落回平衡的格斗站姿。",
+      "sectionTitle": "踢击"
+    },
+    "ja": {
+      "title": "前脚の回し蹴り",
+      "description": "1. 後脚へ重心を移し、前膝を標的のラインを横切る向きに引き上げます。\n2. 軸足と腰を回し、前足の甲または母指球側を標的へ水平に伸ばします。\n3. 膝をすぐ引き戻し、前足をバランスの取れた戦闘の構えへ下ろします。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "앞발 돌려차기",
+      "description": "1. 뒷다리로 체중을 옮기고 앞무릎을 목표선을 가로질러 들어 준비합니다.\n2. 지지 발을 돌리고 골반을 틀어 앞발의 발등이나 앞축을 목표 쪽으로 수평으로 뻗습니다.\n3. 즉시 무릎을 회수하고 앞발을 균형 잡힌 겨루기 자세로 내립니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เตะราวด์เฮาส์ขาหน้า",
+      "description": "1. ถ่ายน้ำหนักไปขาหลังและเตรียมเข่าหน้าขวางแนวเป้าหมาย\n2. หมุนเท้ารองรับและพลิกสะโพก แล้วเหยียดหลังเท้าหรือจมูกเท้าหน้าในแนวนอนเข้าหาเป้า\n3. ดึงเข่ากลับตำแหน่งเตรียมทันที แล้วลดเท้าหน้าสู่ท่าต่อสู้ที่สมดุล",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Передний круговой удар ногой",
+      "description": "1. Перенесите вес на заднюю ногу и подготовьте переднее колено поперёк линии цели.\n2. Поверните опорную стопу и таз, направляя подъём или подушечку передней стопы горизонтально к цели.\n3. Немедленно верните колено в подготовительное положение и опустите переднюю стопу в устойчивую боевую стойку.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Передній круговий удар ногою",
+      "description": "1. Перенесіть вагу на задню ногу й підготуйте переднє коліно поперек лінії цілі.\n2. Поверніть опорну стопу й таз, спрямовуючи підйом або подушечку передньої стопи горизонтально до цілі.\n3. Негайно поверніть коліно в підготовче положення й опустіть передню стопу в стійку бойову позицію.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

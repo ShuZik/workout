@@ -1,0 +1,90 @@
+{
+  "id": "54.28",
+  "key": "fencing_opposition_parry",
+  "title": "Opposition Parry against Coulé",
+  "description": "1. With épée or foil, let the partner engage and attack with a coulé sliding along your blade.\n2. Keep the contact and close the line by turning the hand and pressing your strong against the partner's blade, deflecting the point without losing the blade.\n3. Riposte while maintaining opposition, recover to en garde, and swap roles after the set.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Opposition Parry against Coulé",
+      "description": "1. With épée or foil, let the partner engage and attack with a coulé sliding along your blade.\n2. Keep the contact and close the line by turning the hand and pressing your strong against the partner's blade, deflecting the point without losing the blade.\n3. Riposte while maintaining opposition, recover to en garde, and swap roles after the set.",
+      "sectionTitle": "Parries"
+    },
+    "es": {
+      "title": "Parada de oposición contra coulé",
+      "description": "1. Con espada o florete, deja que el compañero enganche y ataque con un coulé deslizando por tu hoja.\n2. Mantén el contacto y cierra la línea girando la mano y presionando tu fuerte contra su hoja, desviando la punta sin perder la hoja.\n3. Responde manteniendo la oposición, vuelve a guardia e intercambia papeles tras la serie.",
+      "sectionTitle": "Paradas"
+    },
+    "pt": {
+      "title": "Parada de oposição contra coulé",
+      "description": "1. Com espada ou florete, deixe o parceiro engajar e atacar com coulé deslizando pela sua lâmina.\n2. Mantenha o contato e feche a linha girando a mão e pressionando seu forte contra a lâmina dele, desviando a ponta sem perder a lâmina.\n3. Responda mantendo a oposição, volte à guarda e troque papéis após a série.",
+      "sectionTitle": "Paradas"
+    },
+    "fr": {
+      "title": "Parade d’opposition contre coulé",
+      "description": "1. À l’épée ou au fleuret, laissez le partenaire engager et attaquer par un coulé le long de votre fer.\n2. Gardez le contact et fermez la ligne en tournant la main et en pressant votre fort contre son fer, déviant la pointe sans quitter le fer.\n3. Ripostez en gardant l’opposition, revenez en garde et inversez après la série.",
+      "sectionTitle": "Parades"
+    },
+    "de": {
+      "title": "Oppositionsparade gegen Coulé",
+      "description": "1. Lass den Partner mit Degen oder Florett binden und mit einem Coulé entlang deiner Klinge angreifen.\n2. Halte den Kontakt und schließe die Linie, indem du die Hand drehst und deine Stärke gegen seine Klinge drückst; lenke die Spitze ab, ohne die Klinge zu verlieren.\n3. Ripostiere unter Beibehaltung der Opposition, kehre zurück und tauscht nach der Serie.",
+      "sectionTitle": "Paraden"
+    },
+    "it": {
+      "title": "Parata di opposizione contro il filo",
+      "description": "1. Con spada o fioretto, lascia che il compagno leghi e attacchi di filo scorrendo sulla tua lama.\n2. Mantieni il contatto e chiudi la linea ruotando la mano e premendo il tuo forte contro la sua lama, deviando la punta senza perdere il ferro.\n3. Rispondi mantenendo l’opposizione, torna in guardia e scambiate i ruoli dopo la serie.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "对抗防守（防滑剑）",
+      "description": "1. 使用重剑或花剑，让同伴接剑并沿你的剑身以滑剑进攻。\n2. 保持接触，转手并用强部压住对方剑身封住线位，偏开其剑尖而不失去接触。\n3. 保持对抗的同时还击，恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "クーレに対するオポジション・パラード",
+      "description": "1. エペまたはフルーレで、相手にアンガージュさせ、剣に沿って滑るクーレで攻撃させます。\n2. 接触を保ち、手を返して強部を相手の剣に押し当ててラインを閉じ、剣を離さずに剣先をそらします。\n3. オポジションを保ったままリポストし、アンガルドに戻り、セット後に交代します。",
+      "sectionTitle": "パラード"
+    },
+    "ko": {
+      "title": "쿨레에 대한 오포지션 패리",
+      "description": "1. 에페나 플뢰레로, 파트너가 인게이지 후 내 칼을 따라 미끄러지는 쿨레로 공격하게 합니다.\n2. 접촉을 유지하며 손을 돌려 강부를 상대 칼에 눌러 라인을 닫고, 칼을 놓치지 않고 칼끝을 빗나가게 합니다.\n3. 오포지션을 유지하며 리포스트하고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "패리"
+    },
+    "th": {
+      "title": "การปัดแบบต้านต่อคูเล",
+      "description": "1. ใช้ดาบเอเป้หรือฟอยล์ ให้คู่ฝึกแตะดาบแล้วโจมตีด้วยคูเลที่เลื่อนไปตามใบดาบของคุณ\n2. คงการสัมผัสและปิดแนวโดยหมุนมือแล้วกดส่วนแข็งต้านดาบคู่ฝึก เบี่ยงปลายดาบโดยไม่เสียการสัมผัส\n3. โต้กลับขณะยังกดต้าน กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การปัดป้อง"
+    },
+    "ru": {
+      "title": "Защита оппозицией против скольжения",
+      "description": "1. Со шпагой или рапирой позвольте партнёру взять соединение и атаковать скольжением по вашему клинку.\n2. Сохраняя контакт, закройте линию поворотом кисти и нажимом сильной части на клинок партнёра, отводя остриё, не теряя клинка.\n3. Ответьте, сохраняя оппозицию, вернитесь в стойку и поменяйтесь ролями после серии.",
+      "sectionTitle": "Защиты"
+    },
+    "uk": {
+      "title": "Захист опозицією проти ковзання",
+      "description": "1. Зі шпагою чи рапірою дозвольте партнерові взяти з’єднання й атакувати ковзанням по вашому клинку.\n2. Зберігаючи контакт, закрийте лінію поворотом кисті й натиском сильної частини на клинок партнера, відводячи вістря, не втрачаючи клинка.\n3. Відповідайте, зберігаючи опозицію, поверніться в стійку й поміняйтеся ролями після серії.",
+      "sectionTitle": "Захисти"
+    }
+  }
+}

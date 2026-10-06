@@ -1,0 +1,87 @@
+{
+  "id": "8.29",
+  "key": "taekwondo_dan_gun",
+  "title": "Dan-Gun",
+  "description": "1. Start in parallel ready stance and perform the 21-movement pattern, opening with a knife-hand guarding block in L-stance.\n2. Drive every hand attack to the high section, mixing walking-stance punches with twin forearm blocks, rising blocks and knife-hand strikes.\n3. Close with the final rising blocks and high punches, then return to parallel ready stance with the breath settled.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Dan-Gun",
+      "description": "1. Start in parallel ready stance and perform the 21-movement pattern, opening with a knife-hand guarding block in L-stance.\n2. Drive every hand attack to the high section, mixing walking-stance punches with twin forearm blocks, rising blocks and knife-hand strikes.\n3. Close with the final rising blocks and high punches, then return to parallel ready stance with the breath settled.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Dan-Gun",
+      "description": "1. Empieza en posición de preparación paralela y realiza el patrón de 21 movimientos, abriendo con un bloqueo de guardia con mano de cuchillo en posición en L.\n2. Dirige todos los ataques de mano a la sección alta, combinando puñetazos en posición de caminar con bloqueos dobles de antebrazo, bloqueos ascendentes y golpes de mano de cuchillo.\n3. Cierra con los últimos bloqueos ascendentes y puñetazos altos y vuelve a la posición de preparación paralela con la respiración calmada.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Dan-Gun",
+      "description": "1. Comece na posição de preparação paralela e execute o padrão de 21 movimentos, abrindo com bloqueio de guarda com mão em faca na base em L.\n2. Dirija todos os ataques de mão à seção alta, combinando socos em base de caminhada com bloqueios duplos de antebraço, bloqueios ascendentes e golpes de mão em faca.\n3. Feche com os últimos bloqueios ascendentes e socos altos e volte à posição de preparação paralela com a respiração calma.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Dan-Gun",
+      "description": "1. Partez en position de préparation parallèle et exécutez l’enchaînement de 21 mouvements, en ouvrant par un blocage de garde main en sabre en position en L.\n2. Portez toutes les attaques de main au niveau haut, en mêlant coups de poing en position de marche, doubles blocages d’avant-bras, blocages montants et frappes main en sabre.\n3. Terminez par les derniers blocages montants et coups de poing hauts, puis revenez en position de préparation parallèle, respiration posée.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Dan-Gun",
+      "description": "1. Beginne im parallelen Bereitschaftsstand und laufe die 21 Bewegungen, eröffnet mit einem Handkanten-Schutzblock im L-Stand.\n2. Richte alle Handangriffe auf die hohe Stufe und verbinde Fauststöße im Gehstand mit doppelten Unterarmblocks, Aufwärtsblocks und Handkantenschlägen.\n3. Schließe mit den letzten Aufwärtsblocks und hohen Fauststößen ab und kehre mit ruhigem Atem in den parallelen Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Dan-Gun",
+      "description": "1. Parti dalla posizione di pronti parallela ed esegui la forma di 21 movimenti, aprendo con una parata di guardia a mano a coltello in posizione a L.\n2. Porta tutti gli attacchi di mano al livello alto, alternando pugni in posizione di cammino a doppie parate d’avambraccio, parate in alto e colpi a mano a coltello.\n3. Chiudi con le ultime parate in alto e pugni alti, poi torna alla posizione di pronti parallela con il respiro calmo.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "檀君型（Dan-Gun）",
+      "description": "1. 以平行预备式开始，完成21个动作，开头为L形步手刀护挡。\n2. 所有手部攻击都打向上段，将行步冲拳与双前臂格挡、上挡和手刀击打结合。\n3. 以最后的上挡和上段冲拳收尾，调匀呼吸回到平行预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "タングン（檀君）",
+      "description": "1. 平行準備立ちから始め、L字立ちの手刀構え受けで21動作の型を開始します。\n2. 手技はすべて上段に向け、ウォーキングスタンスの突きと双腕受け、上げ受け、手刀打ちを組み合わせます。\n3. 最後の上げ受けと上段突きで締めくくり、呼吸を整えて平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "단군",
+      "description": "1. 나란히 준비서기에서 시작해 L서기 손칼 대비막기로 21동작 틀을 엽니다.\n2. 모든 손 공격을 상단으로 하며 걷는서기 지르기를 쌍팔목 막기, 올려막기, 손칼 치기와 섞습니다.\n3. 마지막 올려막기와 상단 지르기로 마무리하고 호흡을 고른 뒤 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ทันกุน",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนานและทำรูปแบบ 21 จังหวะ โดยเปิดด้วยการปัดคุ้มกันด้วยสันมือในท่ายืนรูปตัวแอล\n2. ส่งการโจมตีด้วยมือทั้งหมดไปที่ระดับสูง ผสมหมัดในท่ายืนเดินกับการปัดด้วยแขนคู่ การปัดขึ้น และการฟันด้วยสันมือ\n3. ปิดด้วยการปัดขึ้นและหมัดระดับสูงชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบขนานพร้อมปรับลมหายใจ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тангун",
+      "description": "1. Начните из параллельной готовой стойки и выполните туль из 21 движения, открыв его защитным блоком ребром ладони в L-образной стойке.\n2. Направляйте все атаки руками на верхний уровень, сочетая удары в шаговой стойке с двойными блоками предплечьями, верхними блоками и ударами ребром ладони.\n3. Завершите последними верхними блоками и ударами на верхний уровень и вернитесь в параллельную готовую стойку, выровняв дыхание.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тангун",
+      "description": "1. Почніть із паралельної готової стійки й виконайте туль із 21 руху, відкривши його захисним блоком ребром долоні в L-подібній стійці.\n2. Спрямовуйте всі атаки руками на верхній рівень, поєднуючи удари в кроковій стійці з подвійними блоками передпліччями, верхніми блоками й ударами ребром долоні.\n3. Завершіть останніми верхніми блоками й ударами на верхній рівень і поверніться в паралельну готову стійку, вирівнявши дихання.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "11.28",
+  "key": "jump_rope_boxer_step",
+  "title": "Boxer Step",
+  "description": "1. Begin with small rope turns and place slightly more weight on one foot.\n2. Jump low while shifting weight to the other foot and letting the unloaded foot tap lightly.\n3. Alternate the weight shift every one or two turns while the shoulders and hands stay relaxed.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 8.3,
+    "moderate": 11.8,
+    "vigorous": 12.3,
+    "lightCode": "15552",
+    "moderateCode": "15551",
+    "vigorousCode": "15550"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Jump Rope",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Boxer Step",
+      "description": "1. Begin with small rope turns and place slightly more weight on one foot.\n2. Jump low while shifting weight to the other foot and letting the unloaded foot tap lightly.\n3. Alternate the weight shift every one or two turns while the shoulders and hands stay relaxed.",
+      "sectionTitle": "Jump Rope"
+    },
+    "es": {
+      "title": "Paso de boxeador",
+      "description": "1. Empieza con pequeños giros de cuerda y carga un poco más de peso sobre un pie.\n2. Salta bajo mientras trasladas el peso al otro pie y deja que el pie descargado toque ligeramente el suelo.\n3. Alterna el cambio de peso cada una o dos vueltas, manteniendo los hombros y las manos relajados.",
+      "sectionTitle": "Saltar a la comba"
+    },
+    "pt": {
+      "title": "Passo de boxeador",
+      "description": "1. Comece com pequenos giros da corda e coloque um pouco mais de peso em um pé.\n2. Salte baixo enquanto transfere o peso para o outro pé e deixe o pé sem carga tocar levemente o chão.\n3. Alterne a transferência de peso a cada uma ou duas voltas, mantendo os ombros e as mãos relaxados.",
+      "sectionTitle": "Pular corda"
+    },
+    "fr": {
+      "title": "Pas du boxeur",
+      "description": "1. Commencez par de petits tours de corde et placez un peu plus de poids sur un pied.\n2. Sautez bas en transférant le poids sur l’autre pied et laissez le pied déchargé toucher légèrement le sol.\n3. Alternez le transfert de poids tous les un ou deux tours en gardant les épaules et les mains détendues.",
+      "sectionTitle": "Corde à sauter"
+    },
+    "de": {
+      "title": "Boxerschritt",
+      "description": "1. Beginne mit kleinen Seilumdrehungen und lege etwas mehr Gewicht auf einen Fuß.\n2. Springe niedrig, verlagere das Gewicht auf den anderen Fuß und lasse den entlasteten Fuß leicht auftippen.\n3. Wechsle die Gewichtsverlagerung alle ein oder zwei Umdrehungen, während Schultern und Hände entspannt bleiben.",
+      "sectionTitle": "Seilspringen"
+    },
+    "it": {
+      "title": "Passo del pugile",
+      "description": "1. Inizia con piccoli giri di corda e carica leggermente più peso su un piede.\n2. Salta basso spostando il peso sull’altro piede e lascia che il piede scarico tocchi leggermente il pavimento.\n3. Alterna il trasferimento del peso ogni uno o due giri, mantenendo le spalle e le mani rilassate.",
+      "sectionTitle": "Salto con la corda"
+    },
+    "zh-Hans": {
+      "title": "拳击步",
+      "description": "1. 从小幅度转绳开始，将稍多的重心放在一只脚上。\n2. 低低跳起，将重心移到另一只脚，让不承重的脚轻轻点地。\n3. 每一至两圈交替转移重心，同时保持肩部和双手放松。",
+      "sectionTitle": "跳绳"
+    },
+    "ja": {
+      "title": "ボクサーステップ",
+      "description": "1. 小さくロープを回し、片足に少し多めに体重をかけて始めます。\n2. 低く跳びながら反対の足へ体重を移し、荷重のない足を軽く床につけます。\n3. 肩と手を緩めたまま、1〜2回転ごとに体重移動を交互に行います。",
+      "sectionTitle": "縄跳び"
+    },
+    "ko": {
+      "title": "복서 스텝",
+      "description": "1. 줄을 작게 돌리며 한쪽 발에 체중을 조금 더 싣고 시작합니다.\n2. 낮게 뛰며 반대쪽 발로 체중을 옮기고 체중이 실리지 않은 발은 가볍게 바닥에 댑니다.\n3. 어깨와 손을 편안하게 유지하며 한두 번의 회전마다 체중을 번갈아 옮깁니다.",
+      "sectionTitle": "줄넘기"
+    },
+    "th": {
+      "title": "การกระโดดแบบนักมวย",
+      "description": "1. เริ่มด้วยการหมุนเชือกเล็ก ๆ และลงน้ำหนักบนเท้าข้างหนึ่งมากกว่าเล็กน้อย\n2. กระโดดต่ำพร้อมถ่ายน้ำหนักไปยังเท้าอีกข้าง และให้เท้าที่ไม่รับน้ำหนักแตะพื้นเบา ๆ\n3. สลับการถ่ายน้ำหนักทุกหนึ่งหรือสองรอบ โดยให้ไหล่และมือผ่อนคลาย",
+      "sectionTitle": "กระโดดเชือก"
+    },
+    "ru": {
+      "title": "Боксёрский шаг",
+      "description": "1. Начните с небольших оборотов скакалки и перенесите чуть больше веса на одну стопу.\n2. Прыгайте низко, перенося вес на другую стопу и позволяя разгруженной стопе слегка касаться пола.\n3. Чередуйте перенос веса каждые один-два оборота, сохраняя плечи и кисти расслабленными.",
+      "sectionTitle": "Скакалка"
+    },
+    "uk": {
+      "title": "Боксерський крок",
+      "description": "1. Почніть із невеликих обертів скакалки й перенесіть трохи більше ваги на одну стопу.\n2. Стрибайте низько, переносячи вагу на іншу стопу й дозволяючи розвантаженій стопі злегка торкатися підлоги.\n3. Чергуйте перенесення ваги кожні один-два оберти, зберігаючи плечі й кисті розслабленими.",
+      "sectionTitle": "Скакалка"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "57.2",
+  "key": "gouren_le",
+  "title": "Le (Wrestlers' Oath)",
+  "description": "1. Line up in two rows facing your opponents in front of the referee and stand tall.\n2. Raise the right arm to shoulder height and recite the oath to wrestle loyally, without treachery or brutality.\n3. Step forward, offer your hand and cheek to the opponent, and take the opening hold to begin.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "gouren",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Le (Wrestlers' Oath)",
+      "description": "1. Line up in two rows facing your opponents in front of the referee and stand tall.\n2. Raise the right arm to shoulder height and recite the oath to wrestle loyally, without treachery or brutality.\n3. Step forward, offer your hand and cheek to the opponent, and take the opening hold to begin.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Le (juramento de los luchadores)",
+      "description": "1. Formad dos filas frente a los rivales ante el árbitro y mantente erguido.\n2. Levanta el brazo derecho a la altura del hombro y recita el juramento de luchar con lealtad, sin traición ni brutalidad.\n3. Da un paso al frente, ofrece la mano y la mejilla al rival y toma el agarre inicial para empezar.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Le (juramento dos lutadores)",
+      "description": "1. Formem duas filas de frente para os adversários diante do árbitro e fique ereto.\n2. Erga o braço direito à altura do ombro e recite o juramento de lutar com lealdade, sem traição nem brutalidade.\n3. Dê um passo à frente, ofereça a mão e o rosto ao adversário e faça a pegada inicial para começar.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Le (serment des lutteurs)",
+      "description": "1. Alignez-vous sur deux rangs face aux adversaires devant l'arbitre et tenez-vous droit.\n2. Levez le bras droit à hauteur d'épaule et récitez le serment de lutter en toute loyauté, sans traîtrise ni brutalité.\n3. Avancez, tendez la main et la joue à l'adversaire, puis prenez la saisie initiale pour commencer.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Le (Ringereid)",
+      "description": "1. Stellt euch vor dem Kampfrichter in zwei Reihen den Gegnern gegenüber auf und steh aufrecht.\n2. Hebe den rechten Arm auf Schulterhöhe und sprich den Eid, fair zu ringen, ohne Verrat und ohne Brutalität.\n3. Tritt vor, reiche dem Gegner Hand und Wange und nimm den Anfangsgriff, um zu beginnen.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Le (giuramento dei lottatori)",
+      "description": "1. Disponetevi su due file di fronte agli avversari davanti all'arbitro e stai ben eretto.\n2. Alza il braccio destro all'altezza della spalla e recita il giuramento di lottare con lealtà, senza tradimento né brutalità.\n3. Fai un passo avanti, offri mano e guancia all'avversario e prendi la presa iniziale per cominciare.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "Le（摔跤手誓言）",
+      "description": "1. 在裁判面前与对手相对排成两列，身体站直。\n2. 将右臂抬至肩高，宣读誓言：忠诚比赛，不施诡计，不用蛮力。\n3. 上前一步，向对手伸出手并贴面致意，然后抓好起始把位开始比赛。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "レ（選手の誓い）",
+      "description": "1. 審判の前で相手と向かい合って2列に並び、背筋を伸ばして立ちます。\n2. 右腕を肩の高さまで上げ、裏切りや乱暴なしに正々堂々と戦うという誓いを唱えます。\n3. 一歩前に出て相手に手と頬を差し出し、最初の組み手を取って始めます。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "레 (선수 서약)",
+      "description": "1. 심판 앞에서 상대와 마주 보고 두 줄로 서서 몸을 곧게 세웁니다.\n2. 오른팔을 어깨 높이로 들고 배신이나 폭력 없이 정정당당하게 겨루겠다는 서약을 낭독합니다.\n3. 앞으로 나와 상대에게 손과 뺨을 내밀고 첫 그립을 잡아 시작합니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "เล (คำสาบานของนักมวยปล้ำ)",
+      "description": "1. เข้าแถวสองแถวหันหน้าเข้าหาคู่แข่งต่อหน้าผู้ตัดสิน และยืนตัวตรง\n2. ยกแขนขวาขึ้นระดับไหล่ แล้วกล่าวคำสาบานว่าจะปล้ำอย่างซื่อสัตย์ ไม่ทรยศและไม่ใช้ความรุนแรง\n3. ก้าวออกไปข้างหน้า ยื่นมือและแก้มให้คู่แข่ง แล้วจับท่าเริ่มต้นเพื่อเริ่มการปล้ำ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Ле (клятва борцов)",
+      "description": "1. Выстройтесь в две шеренги лицом к соперникам перед судьёй и встаньте прямо.\n2. Поднимите правую руку на уровень плеча и произнесите клятву бороться честно, без коварства и грубости.\n3. Шагните вперёд, протяните сопернику руку и щёку и возьмите начальный захват, чтобы начать.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Ле (клятва борців)",
+      "description": "1. Вишикуйтеся у дві шеренги обличчям до суперників перед суддею та станьте рівно.\n2. Підніміть праву руку на рівень плеча й промовте клятву боротися чесно, без підступності й брутальності.\n3. Ступіть уперед, простягніть суперникові руку й щоку та візьміть початкове захоплення, щоб почати.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

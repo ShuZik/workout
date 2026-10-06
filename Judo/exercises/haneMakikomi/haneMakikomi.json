@@ -1,0 +1,90 @@
+{
+  "id": "41.74",
+  "key": "judo_hane_makikomi",
+  "title": "Hane Makikomi",
+  "description": "1. Enter as for hane-goshi and wrap the partner's sleeve arm tightly under your armpit.\n2. Release the lapel hand, swing it over in front of your body, and spring the leg while turning.\n3. Wind the partner around your body to the mat and land beside the partner, keeping the head clear of the mat.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hane Makikomi",
+      "description": "1. Enter as for hane-goshi and wrap the partner's sleeve arm tightly under your armpit.\n2. Release the lapel hand, swing it over in front of your body, and spring the leg while turning.\n3. Wind the partner around your body to the mat and land beside the partner, keeping the head clear of the mat.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Hane Makikomi",
+      "description": "1. Entra como para hane-goshi y atrapa con fuerza el brazo de la manga del compañero bajo tu axila.\n2. Suelta la mano de la solapa, pásala por delante de tu cuerpo e impulsa la pierna mientras giras.\n3. Enrolla al compañero alrededor de tu cuerpo hasta el tatami y cae a su lado, manteniendo la cabeza lejos del tatami.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Hane Makikomi",
+      "description": "1. Entre como para hane-goshi e prenda firmemente o braço da manga do parceiro sob a axila.\n2. Solte a mão da gola, passe-a à frente do seu corpo e impulsione a perna enquanto gira.\n3. Enrole o parceiro ao redor do seu corpo até o tatame e caia ao lado dele, mantendo a cabeça longe do tatame.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Hane Makikomi",
+      "description": "1. Entrez comme pour hane-goshi et serrez fermement le bras de manche du partenaire sous votre aisselle.\n2. Lâchez la main du revers, passez-la devant votre corps et faites jaillir la jambe en tournant.\n3. Enroulez le partenaire autour de votre corps jusqu’au tatami et tombez à côté de lui, tête dégagée du tapis.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Hane Makikomi",
+      "description": "1. Tritt wie bei Hane-goshi ein und klemme den Ärmelarm des Partners fest unter deine Achsel.\n2. Löse die Reversgreifhand, schwinge sie vor deinem Körper herum und schnelle das Bein beim Drehen.\n3. Wickle den Partner um deinen Körper auf die Matte und lande neben ihm, den Kopf frei von der Matte.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Hane Makikomi",
+      "description": "1. Entra come per hane-goshi e blocca saldamente il braccio della manica del compagno sotto l’ascella.\n2. Lascia la mano del bavero, falla passare davanti al corpo e fai scattare la gamba mentre ruoti.\n3. Avvolgi il compagno attorno al tuo corpo fino al tatami e atterra accanto a lui, tenendo la testa lontana dal tatami.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "跳卷込",
+      "description": "1. 像跳腰一样进入，把搭档抓袖侧手臂紧夹在腋下。\n2. 松开抓领的手，从身前绕过，转体同时弹腿。\n3. 把搭档卷绕在你身上摔到垫上，落在其身旁，头部远离垫面。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "跳巻込",
+      "description": "1. 跳腰のように入り、相手の袖側の腕を脇の下にしっかり抱え込みます。\n2. 襟の手を離して体の前へ回し、回転しながら脚を跳ね上げます。\n3. 相手を自分の体に巻き込んで畳へ投げ、頭を畳につけないようにして相手の横に着地します。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "하네 마키코미",
+      "description": "1. 하네고시처럼 들어가 파트너 소매 쪽 팔을 겨드랑이 아래에 단단히 끼웁니다.\n2. 깃 잡은 손을 놓고 몸 앞으로 돌리며 회전과 함께 다리를 튕깁니다.\n3. 파트너를 내 몸에 감아 매트로 던지고 머리를 매트에서 떼어 파트너 옆에 착지합니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "ฮาเนะมากิโกมิ",
+      "description": "1. เข้าเหมือนฮาเนะโกชิ และหนีบแขนข้างแขนเสื้อของคู่ฝึกไว้ใต้รักแร้แน่น\n2. ปล่อยมือที่จับปก เหวี่ยงไปด้านหน้าลำตัว และดีดขาขณะหมุน\n3. ม้วนคู่ฝึกรอบตัวคุณลงเสื่อ และลงพื้นข้างคู่ฝึกโดยไม่ให้ศีรษะแตะเสื่อ",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Ханэ-макикоми",
+      "description": "1. Войдите как для ханэ-госи и плотно зажмите руку партнёра со стороны рукава под мышкой.\n2. Отпустите руку с отворота, проведите её перед корпусом и подбейте ногой с разворотом.\n3. Накрутите партнёра на себя до татами и приземлитесь рядом с ним, не касаясь татами головой.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Хане-макікомі",
+      "description": "1. Увійдіть як для хане-госі й щільно затисніть руку партнера з боку рукава під пахвою.\n2. Відпустіть руку з відвороту, проведіть її перед тулубом і підбийте ногою з розворотом.\n3. Накрутіть партнера на себе до татамі й приземліться поруч із ним, не торкаючись татамі головою.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

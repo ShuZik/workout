@@ -1,0 +1,90 @@
+{
+  "id": "109.10",
+  "key": "wushu_nangun",
+  "title": "Nangun",
+  "description": "1. Hold a training southern staff in both hands and stand in a low, stable ready stance with a clear radius around you.\n2. Perform the nangun routine with forceful striking, pressing, blocking, and thrusting actions from low southern stances, keeping both hands on the staff.\n3. Stop every strike under control, finish with the staff held steady, and close with the salute.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Nangun",
+      "description": "1. Hold a training southern staff in both hands and stand in a low, stable ready stance with a clear radius around you.\n2. Perform the nangun routine with forceful striking, pressing, blocking, and thrusting actions from low southern stances, keeping both hands on the staff.\n3. Stop every strike under control, finish with the staff held steady, and close with the salute.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Nangun",
+      "description": "1. Sujeta un bastón del sur de entrenamiento con ambas manos y colócate en una posición de preparación baja y estable, con un radio libre alrededor.\n2. Ejecuta la rutina de nangun con golpes, presiones, bloqueos y estocadas contundentes desde posiciones bajas del sur, manteniendo ambas manos en el bastón.\n3. Detén cada golpe con control, termina con el bastón firme y cierra con el saludo.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Nangun",
+      "description": "1. Segure um bastão do sul de treino com as duas mãos e fique numa posição de prontidão baixa e estável, com raio livre ao redor.\n2. Execute a rotina de nangun com golpes, pressões, bloqueios e estocadas fortes a partir de bases baixas do sul, mantendo as duas mãos no bastão.\n3. Pare cada golpe com controle, termine com o bastão firme e feche com a saudação.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Nangun",
+      "description": "1. Tenez un bâton du sud d’entraînement à deux mains et placez-vous dans une position prête basse et stable, rayon dégagé autour.\n2. Exécutez l’enchaînement de nangun avec des frappes, pressions, blocages et estocs puissants depuis les positions basses du sud, en gardant les deux mains sur le bâton.\n3. Arrêtez chaque frappe sous contrôle, terminez le bâton tenu fermement et fermez par le salut.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Nangun",
+      "description": "1. Halte einen südlichen Trainingsstab mit beiden Händen und stehe in tiefer, stabiler Bereitschaftsstellung mit freiem Radius.\n2. Laufe die Nangun-Routine mit kraftvollen Schlag-, Druck-, Abwehr- und Stoßaktionen aus tiefen südlichen Stellungen, beide Hände bleiben am Stab.\n3. Stoppe jeden Schlag kontrolliert, ende mit ruhig gehaltenem Stab und schließe mit dem Gruß.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Nangun",
+      "description": "1. Tieni un bastone del sud da allenamento con entrambe le mani e mettiti in una posizione di pronto bassa e stabile, con un raggio libero intorno.\n2. Esegui la routine di nangun con colpi, pressioni, parate e affondi energici da posizioni basse del sud, tenendo entrambe le mani sul bastone.\n3. Ferma ogni colpo con controllo, termina con il bastone saldo e chiudi con il saluto.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "南棍",
+      "description": "1. 双手持训练用南棍，以低而稳的预备势站立，周围保持安全距离。\n2. 演练南棍套路，在南派低步型中完成有力的劈、压、格、戳等棍法，双手始终握棍。\n3. 每次击打都控制停住，结束时持棍稳定，以抱拳礼收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "南棍",
+      "description": "1. 練習用の南棍を両手で持ち、周囲を空けて低く安定した準備姿勢をとります。\n2. 南派の低い歩型から力強い打ち・圧・受け・突きを行い、両手を棍から離さずに南棍套路を演武します。\n3. すべての打ちを制御して止め、棍を安定させて終え、礼をします。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "남곤",
+      "description": "1. 훈련용 남곤을 두 손으로 쥐고 주변 공간을 확보한 채 낮고 안정된 준비 자세를 취합니다.\n2. 남파의 낮은 보형에서 강한 치기, 누르기, 막기, 찌르기 동작으로 남곤 투로를 수행하며 두 손을 곤에서 떼지 않습니다.\n3. 모든 타격을 통제하며 멈추고 곤을 안정되게 든 채 끝낸 뒤 인사로 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "หนานกุ้น (พลองใต้)",
+      "description": "1. ถือพลองใต้สำหรับฝึกด้วยสองมือ ยืนในท่าเตรียมต่ำและมั่นคง โดยรอบตัวโล่ง\n2. รำชุดหนานกุ้นด้วยท่าฟาด กด ปัด และแทงอย่างหนักแน่นจากท่ายืนต่ำแบบใต้ โดยสองมืออยู่บนพลองตลอด\n3. หยุดทุกการฟาดอย่างควบคุม จบโดยถือพลองนิ่ง แล้วคารวะ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Наньгунь",
+      "description": "1. Держите тренировочный южный шест обеими руками и встаньте в низкую устойчивую стойку готовности со свободным пространством вокруг.\n2. Выполните комплекс наньгунь с мощными ударами, давящими, блокирующими и тычковыми действиями из низких южных стоек, не отпуская шест ни одной рукой.\n3. Останавливайте каждый удар под контролем, закончит��, удерживая шест неподвижно, и завершите приветствием.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Наньгунь",
+      "description": "1. Тримайте тренувальну південну жердину обома руками й станьте в низьку стійку готовності з вільним простором довкола.\n2. Виконайте комплекс наньгунь з по��ужними ударами, тиснучими, блокувальними й тичковими діями з низьких південних стійок, не відпускаючи жердину жодною рукою.\n3. Зупиняйте кожен удар під контролем, закінчіть, утримуючи жердину нерухомо, і завершіть привітанням.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

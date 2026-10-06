@@ -1,0 +1,90 @@
+{
+  "id": "40.38",
+  "key": "karate_enpi",
+  "title": "Enpi",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Start low with a crouched block, then rise and drop quickly through rising punches, low sweeping blocks in horse stance, and a jumping turn near the end, like a swallow in flight.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Enpi",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Start low with a crouched block, then rise and drop quickly through rising punches, low sweeping blocks in horse stance, and a jumping turn near the end, like a swallow in flight.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Enpi",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Empieza bajo con un bloqueo agachado y luego sube y baja rápidamente con age-zuki, bloqueos bajos de barrido en kiba-dachi y un giro en salto hacia el final, como una golondrina en vuelo.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Enpi",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Comece baixo com um bloqueio agachado e depois suba e desça rapidamente com age-zuki, bloqueios baixos de varredura em kiba-dachi e um giro saltado perto do fim, como uma andorinha em voo.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Enpi",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Commencez bas par un blocage accroupi, puis montez et descendez vite avec des age-zuki, des blocages bas balayants en kiba-dachi et un saut tournant vers la fin, comme une hirondelle en vol.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Enpi",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Beginne tief mit einer geduckten Abwehr, steige und senke dich dann schnell mit Age-zuki, fegenden tiefen Abwehren im Kiba-dachi und einer Sprungdrehung gegen Ende, wie eine fliegende Schwalbe.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Enpi",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Inizia in basso con una parata accovacciata, poi sali e scendi rapidamente con age-zuki, parate basse a spazzata in kiba-dachi e un salto con rotazione verso la fine, come una rondine in volo.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "燕飞",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 以低蹲格挡开始，随后快速起伏，做上冲拳、骑马立扫式下段格挡，并在接近结尾时跳跃转身，如飞燕一般。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "燕飛",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 低く沈んだ受けで始め、上げ突き、騎馬立ちの下段払い、終盤の跳躍しながらの回転へと、燕が飛ぶように素早く上下します。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "엠피",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 낮게 웅크린 막기로 시작해 올려 지르기, 기마서기 쓸어 하단 막기, 후반의 뛰어 돌기까지 제비가 날듯 빠르게 오르내립니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "เอ็มปิ",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. เริ่มต่ำด้วยการปัดในท่าย่อ แล้วขึ้นลงอย่างรวดเร็วผ่านหมัดเสยขึ้น การปัดล่างแบบกวาดในท่าคิบะดาจิ และกระโดดหมุนตัวช่วงท้าย เหมือนนกนางแอ่นบิน\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Эмпи",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Начните низко с блока в приседе, затем быстро поднимайтесь и опускайтесь через агэ-цуки, нижние сметающие блоки в киба-дати и прыжок с поворотом ближе к концу, словно летящая ласточка.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Емпі",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Почніть низько з блоку в присіді, далі швидко підіймайтеся й опускайтеся через аґе-цукі, нижні змітальні блоки в кіба-дачі та стрибок із поворотом ближче до кінця, наче ластівка в польоті.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

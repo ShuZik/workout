@@ -1,0 +1,87 @@
+{
+  "id": "41.76",
+  "key": "judo_uchi_makikomi",
+  "title": "Uchi Makikomi",
+  "description": "1. Trap the partner's arm under your armpit from the inside while turning in close.\n2. Turn under the trapped arm and lower the hips so the partner is loaded onto your back.\n3. Roll forward and wind the partner over your body to the mat, landing beside the partner.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Uchi Makikomi",
+      "description": "1. Trap the partner's arm under your armpit from the inside while turning in close.\n2. Turn under the trapped arm and lower the hips so the partner is loaded onto your back.\n3. Roll forward and wind the partner over your body to the mat, landing beside the partner.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Uchi Makikomi",
+      "description": "1. Atrapa el brazo del compañero bajo tu axila desde dentro mientras giras cerca.\n2. Gira bajo el brazo atrapado y baja las caderas para cargar al compañero sobre tu espalda.\n3. Rueda hacia delante y enrolla al compañero sobre tu cuerpo hasta el tatami, cayendo a su lado.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Uchi Makikomi",
+      "description": "1. Prenda o braço do parceiro sob a axila por dentro enquanto gira perto.\n2. Gire sob o braço preso e baixe os quadris para carregar o parceiro nas costas.\n3. Role para a frente e enrole o parceiro sobre seu corpo até o tatame, caindo ao lado dele.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Uchi Makikomi",
+      "description": "1. Bloquez le bras du partenaire sous votre aisselle par l’intérieur en pivotant tout près.\n2. Tournez sous le bras bloqué et abaissez les hanches pour charger le partenaire sur votre dos.\n3. Roulez vers l’avant et enroulez le partenaire par-dessus votre corps jusqu’au tatami, en tombant à côté de lui.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Uchi Makikomi",
+      "description": "1. Klemme den Arm des Partners von innen unter deine Achsel, während du dicht eindrehst.\n2. Drehe unter den geklemmten Arm und senke die Hüfte, um den Partner auf den Rücken zu laden.\n3. Rolle nach vorn und wickle den Partner über deinen Körper auf die Matte, neben ihm landend.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Uchi Makikomi",
+      "description": "1. Blocca il braccio del compagno sotto l’ascella dall’interno mentre ruoti vicino.\n2. Ruota sotto il braccio bloccato e abbassa le anche per caricare il compagno sulla schiena.\n3. Rotola in avanti e avvolgi il compagno sopra il tuo corpo fino al tatami, cadendo accanto a lui.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "内卷込",
+      "description": "1. 贴近转身时，从内侧把搭档手臂夹在腋下。\n2. 在被夹住的手臂下转身，���低髋部把搭档承到背上。\n3. 向前滚动，把搭档卷过你的身体摔到垫上，落在其身旁。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "内巻込",
+      "description": "1. 近くで回り込みながら、相手の腕を内側から脇の下に抱え込みます。\n2. 抱えた腕の下で回り、腰を落として相手を背中に乗せます。\n3. 前へ転がりながら相手を自分の体に巻き込んで畳へ投げ、相手の横に着地します。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "우치 마키코미",
+      "description": "1. 가까이 돌아 들어가며 파트너 팔을 안쪽에서 겨드랑이 아래에 끼웁니다.\n2. 끼운 팔 아래로 돌고 골반을 낮춰 파트너를 등에 싣습니다.\n3. 앞으로 구르며 파트너를 몸 위로 감아 매트로 던지고 파트너 옆에 떨어집니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "อุจิมากิโกมิ",
+      "description": "1. หนีบแขนคู่ฝึกไว้ใต้รักแร้จากด้านใน ขณะหมุนตัวเข้าชิด\n2. หมุนตัวใต้แขนที่หนีบไว้ และย่อสะโพกแบกคู่ฝึกขึ้นหลัง\n3. ม้วนตัวไปข้างหน้าและพันคู่ฝึกข้ามลำตัวลงเสื่อ ล้มข้างคู่ฝึก",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Ути-макикоми",
+      "description": "1. Плотно разворачиваясь, зажмите руку партнёра под мышкой изнутри.\n2. Развернитесь под зажатой рукой и опустите таз, нагружая партнёра на спину.\n3. Перекатитесь вперёд, накручивая партнёра через себя на татами, и упадите рядом с ним.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Учі-макікомі",
+      "description": "1. Щільно розвертаючись, затисніть руку партнера під пахвою зсередини.\n2. Розверніться під затиснутою рукою й опустіть таз, навантажуючи партнера на спину.\n3. Перекотіться вперед, накручуючи партнера через себе на татамі, і впадіть поруч із ним.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

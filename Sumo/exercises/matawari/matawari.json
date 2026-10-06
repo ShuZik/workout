@@ -1,0 +1,90 @@
+{
+  "id": "97.21",
+  "key": "sumo_matawari",
+  "title": "Matawari",
+  "description": "1. Sit on a mat with the legs spread as wide as is comfortable and the knees and toes pointing up.\n2. Lengthen the spine and fold forward from the hips, walking the hands out in front of you.\n3. Hold a gentle stretch without bouncing, then walk the hands back and sit upright.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Matawari",
+      "description": "1. Sit on a mat with the legs spread as wide as is comfortable and the knees and toes pointing up.\n2. Lengthen the spine and fold forward from the hips, walking the hands out in front of you.\n3. Hold a gentle stretch without bouncing, then walk the hands back and sit upright.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Matawari",
+      "description": "1. Siéntate en una colchoneta con las piernas tan abiertas como resulte cómodo, rodillas y dedos hacia arriba.\n2. Alarga la columna e inclínate hacia delante desde la cadera, avanzando las manos por delante.\n3. Mantén un estiramiento suave sin rebotes, luego retrocede las manos y siéntate erguido.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Matawari",
+      "description": "1. Sente-se num colchonete com as pernas tão abertas quanto for confortável, joelhos e dedos para cima.\n2. Alongue a coluna e incline-se à frente a partir do quadril, caminhando as mãos para a frente.\n3. Mantenha um alongamento suave sem balanços, depois traga as mãos de volta e sente-se ereto.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Matawari",
+      "description": "1. Asseyez-vous sur un tapis, jambes aussi écartées que confortable, genoux et orteils vers le haut.\n2. Allongez la colonne et penchez-vous en avant depuis les hanches en avançant les mains.\n3. Maintenez un étirement doux sans à-coups, puis ramenez les mains et redressez-vous.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Matawari",
+      "description": "1. Setze dich auf eine Matte, Beine so weit gegrätscht wie angenehm, Knie und Zehen zeigen nach oben.\n2. Strecke die Wirbelsäule und beuge dich aus der Hüfte nach vorn, während die Hände nach vorn wandern.\n3. Halte eine sanfte Dehnung ohne Wippen, wandere dann mit den Händen zurück und setze dich aufrecht.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Matawari",
+      "description": "1. Siediti su un tappetino con le gambe divaricate quanto è comodo, ginocchia e dita verso l’alto.\n2. Allunga la colonna e piegati in avanti dalle anche, portando le mani in avanti.\n3. Mantieni un allungamento dolce senza molleggiare, poi riporta indietro le mani e siediti eretto.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "股割",
+      "description": "1. 坐在垫子上，双腿在舒适范围内尽量分开，膝盖和脚尖朝上。\n2. 脊柱伸展，从髋部向前折体，双手向前移动。\n3. 保持温和拉伸，不要弹振，然后双手移回坐直。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "股割り",
+      "description": "1. マットに座り、無理のない範囲で脚を大きく開き、膝とつま先を上に向けます。\n2. 背筋を伸ばし、股関節から前に倒れながら両手を前へ歩かせます。\n3. 反動をつけずに穏やかなストレッチを保ち、手を戻して起き上がります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "마타와리",
+      "description": "1. 매트에 앉아 편안한 범위에서 다리를 최대한 넓게 벌리고 무릎과 발끝을 위로 향합니다.\n2. 척추를 길게 펴고 고관절에서 앞으로 숙이며 손을 앞으로 걸어 나갑니다.\n3. 반동 없이 부드러운 스트레칭을 유지한 뒤 손을 되돌리고 바로 앉습니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "มาตาวาริ",
+      "description": "1. นั่งบนเบาะ แยกขากว้างเท่าที่สบาย เข่าและปลายเท้าชี้ขึ้น\n2. ยืดกระดูกสันหลังและพับตัวไปข้างหน้าจากสะโพก พร้อมไต่มือไปข้างหน้า\n3. ค้างการยืดอย่างนุ่มนวลโดยไม่เด้ง แล้วไต่มือกลับและนั่งตัวตรง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Матавари",
+      "description": "1. Сядьте на коврик, разведя ноги настолько широко, насколько комфортно, колени и носки смотрят вверх.\n2. Вытяните позвоночник и наклонитесь вперёд от тазобедренных суставов, перебирая руками вперёд.\n3. Удерживайте мягкое растяжение без пружинящих движений, затем верните руки и выпрямитесь.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Матаварі",
+      "description": "1. Сядьте на килимок, розвівши ноги настільки широко, наскільки комфортно, коліна й носки дивляться вгору.\n2. Витягніть хребет і нахиліться вперед від кульшових суглобів, переставляючи руки вперед.\n3. Утримуйте м’яке розтягнення без пружних рухів, потім поверніть руки й випряміться.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

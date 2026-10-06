@@ -1,0 +1,89 @@
+{
+  "id": "13.60",
+  "key": "strength_dumbbell_goblet_squat",
+  "title": "Dumbbell Goblet Squat",
+  "description": "1. Hold one dumbbell vertically close to the chest and stand with feet about shoulder-width apart.\n2. Squat between the hips while the knees track over the toes and the chest remains lifted.\n3. Drive through the whole feet to stand without letting the dumbbell move away from the torso.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dumbbell Goblet Squat",
+      "description": "1. Hold one dumbbell vertically close to the chest and stand with feet about shoulder-width apart.\n2. Squat between the hips while the knees track over the toes and the chest remains lifted.\n3. Drive through the whole feet to stand without letting the dumbbell move away from the torso.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Sentadilla goblet con mancuerna",
+      "description": "1. Sujeta una mancuerna en vertical cerca del pecho y colócate con los pies aproximadamente al ancho de los hombros.\n2. Baja en sentadilla entre las caderas mientras las rodillas siguen la dirección de los dedos y el pecho se mantiene elevado.\n3. Empuja con todo el pie para subir sin dejar que la mancuerna se aleje del torso.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Agachamento goblet com halter",
+      "description": "1. Segure um halter na vertical perto do peito e fique com os pés aproximadamente na largura dos ombros.\n2. Agache entre os quadris enquanto os joelhos acompanham os dedos e o peito permanece elevado.\n3. Empurre o chão com os pés inteiros para subir sem deixar o halter se afastar do tronco.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Goblet squat avec haltère",
+      "description": "1. Tenez un haltère à la verticale près de la poitrine, pieds écartés environ à largeur d’épaules.\n2. Descendez en squat entre les hanches pendant que les genoux suivent les orteils et que la poitrine reste haute.\n3. Poussez sur l’ensemble des pieds pour vous relever sans laisser l’haltère s’éloigner du buste.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Goblet Squat mit Kurzhantel",
+      "description": "1. Halte eine Kurzhantel senkrecht nah an der Brust und stelle die Füße etwa schulterbreit.\n2. Beuge dich zwischen die Hüften, während die Knie den Zehen folgen und die Brust aufgerichtet bleibt.\n3. Drücke dich über die ganzen Füße nach oben, ohne dass sich die Kurzhantel vom Oberkörper entfernt.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Goblet squat con manubrio",
+      "description": "1. Tieni un manubrio in verticale vicino al petto e posiziona i piedi circa alla larghezza delle spalle.\n2. Scendi in squat tra le anche mentre le ginocchia seguono le dita dei piedi e il petto resta alto.\n3. Spingi con tutta la pianta dei piedi per risalire senza che il manubrio si allontani dal busto.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃高脚杯深蹲",
+      "description": "1. 双手将一只哑铃竖握于胸前，双脚约与肩同宽站立。\n2. 向下蹲至髋部之间，膝盖沿脚尖方向移动，胸部保持挺起。\n3. 全脚掌发力站起，不要让哑铃离开躯干。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ダンベルゴブレットスクワット",
+      "description": "1. ダンベル1個を縦にして胸の近くで持ち、足を肩幅程度に開いて立ちます。\n2. 胸を張ったまま、膝をつま先の方向に向けて腰を落としてしゃがみます。\n3. ダンベルを胴体から離さずに、足裏全体で押して立ち上がります。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "덤벨 고블릿 스쿼트",
+      "description": "1. 덤벨 하나를 세로로 가슴 가까이 들고 발을 어깨너비 정도로 벌려 섭니다.\n2. 무릎이 발가락 방향을 따르고 가슴을 든 채 엉덩이를 다리 사이로 내려 앉습니다.\n3. 덤벨이 몸통에서 멀어지지 않게 하며 발 전체로 밀어 일어섭니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "กอบเล็ตสควอตด้วยดัมเบล",
+      "description": "1. ถือดัมเบลหนึ่งอันในแนวตั้งชิดหน้าอก และยืนแยกเท้าประมาณความกว้างไหล่\n2. ย่อตัวลงระหว่างสะโพก ขณะที่เข่าเคลื่อนตามแนวนิ้วเท้าและยกอกไว้\n3. ดันผ่านเท้าทั้งฝ่าเพื่อยืนขึ้นโดยไม่ให้ดัมเบลห่างจากลำตัว",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Гоблет-присед с гантелью",
+      "description": "1. Держите одну гантель вертикально у груди и встаньте, поставив стопы примерно на ширине плеч.\n2. Приседайте, опуская таз между бёдер, направляя колени по линии носков и держа грудь поднятой.\n3. Оттолкнитесь всей стопой и встаньте, не позволяя гантели отходить от корпуса.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Гоблет-присідання з гантеллю",
+      "description": "1. Тримайте одну гантель вертикально біля грудей і станьте, поставивши стопи приблизно на ширині плечей.\n2. Присідайте, опускаючи таз між стегон, спрямовуючи коліна за лінією носків і тримаючи груди піднятими.\n3. Відштовхніться всією стопою й встаньте, не дозволяючи гантелі відходити від корпусу.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

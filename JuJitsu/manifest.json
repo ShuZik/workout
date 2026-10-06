@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#0A84FF",
+    "colorType": "blue",
+    "folder": "JuJitsu",
+    "id": "65",
+    "icon": "JuJitsu/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Ju-Jitsu",
+    "workoutType": "juJitsu",
+    "translations": {
+      "en": {
+        "title": "Ju-Jitsu"
+      },
+      "es": {
+        "title": "Ju-Jitsu"
+      },
+      "pt": {
+        "title": "Ju-Jitsu"
+      },
+      "fr": {
+        "title": "Ju-jitsu"
+      },
+      "de": {
+        "title": "Ju-Jutsu"
+      },
+      "it": {
+        "title": "Ju-Jitsu"
+      },
+      "zh-Hans": {
+        "title": "柔术"
+      },
+      "ja": {
+        "title": "柔術"
+      },
+      "ko": {
+        "title": "유술"
+      },
+      "th": {
+        "title": "ยูยิตสู"
+      },
+      "ru": {
+        "title": "Джиу-джитсу"
+      },
+      "uk": {
+        "title": "Джіу-джитсу"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "JuJitsu/exercises/juJitsu/Icon.png",
+      "json": "JuJitsu/exercises/juJitsu/juJitsu.json"
+    },
+    {
+      "icon": "JuJitsu/exercises/duoSeriesA/Icon.png",
+      "json": "JuJitsu/exercises/duoSeriesA/duoSeriesA.json"
+    },
+    {
+      "icon": "JuJitsu/exercises/duoSeriesB/Icon.png",
+      "json": "JuJitsu/exercises/duoSeriesB/duoSeriesB.json"
+    },
+    {
+      "icon": "JuJitsu/exercises/duoSeriesC/Icon.png",
+      "json": "JuJitsu/exercises/duoSeriesC/duoSeriesC.json"
+    }
+  ]
+}

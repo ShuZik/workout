@@ -1,0 +1,90 @@
+{
+  "id": "105.1",
+  "key": "unifight",
+  "title": "Unifight",
+  "description": "1. Set up an obstacle lane next to a padded ring, warm up, and put on protective gear for the fighting stage.\n2. Run the obstacle sequence at speed, then after about one minute of rest step into a controlled round mixing strikes, throws and ground control.\n3. Keep obstacle technique clean when tired and stop the sparring at once on any signal from the partner or coach.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Unifight",
+      "description": "1. Set up an obstacle lane next to a padded ring, warm up, and put on protective gear for the fighting stage.\n2. Run the obstacle sequence at speed, then after about one minute of rest step into a controlled round mixing strikes, throws and ground control.\n3. Keep obstacle technique clean when tired and stop the sparring at once on any signal from the partner or coach.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Unifight",
+      "description": "1. Prepara un recorrido de obstáculos junto a un ring acolchado, calienta y ponte el equipo de protección para la fase de combate.\n2. Recorre los obstáculos a velocidad y, tras un minuto de descanso aproximadamente, entra en un asalto controlado con golpes, proyecciones y control en el suelo.\n3. Mantén una técnica limpia en los obstáculos aun cansado y detén el sparring de inmediato ante cualquier señal del compañero o del entrenador.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Unifight",
+      "description": "1. Monte uma pista de obstáculos ao lado de um ringue acolchoado, aqueça e vista o equipamento de proteção para a fase de luta.\n2. Percorra os obstáculos em velocidade e, após cerca de um minuto de descanso, entre num round controlado com golpes, projeções e controle no chão.\n3. Mantenha a técnica limpa nos obstáculos mesmo cansado e pare o sparring imediatamente a qualquer sinal do parceiro ou do treinador.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Unifight",
+      "description": "1. Installez un parcours d’obstacles à côté d’un ring rembourré, échauffez-vous et mettez les protections pour la phase de combat.\n2. Enchaînez les obstacles à vive allure puis, après environ une minute de repos, entrez dans un round contrôlé mêlant frappes, projections et contrôle au sol.\n3. Gardez une technique propre sur les obstacles malgré la fatigue et arrêtez immédiatement le combat au moindre signal du partenaire ou de l’entraîneur.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Unifight",
+      "description": "1. Baue neben einem gepolsterten Ring eine Hindernisbahn auf, wärme dich auf und lege die Schutzausrüstung für die Kampfphase an.\n2. Laufe die Hindernisfolge zügig, dann nach etwa einer Minute Pause eine kontrollierte Runde mit Schlägen, Würfen und Bodenkontrolle.\n3. Halte die Hindernistechnik auch müde sauber und brich das Sparring bei jedem Signal von Partner oder Trainer sofort ab.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Unifight",
+      "description": "1. Allestisci un percorso a ostacoli accanto a un ring imbottito, riscaldati e indossa le protezioni per la fase di combattimento.\n2. Percorri gli ostacoli a velocità e, dopo circa un minuto di recupero, entra in un round controllato con colpi, proiezioni e controllo a terra.\n3. Mantieni pulita la tecnica sugli ostacoli anche da stanco e interrompi subito lo sparring a qualsiasi segnale del compagno o dell’allenatore.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "综合格斗障碍赛（Unifight）",
+      "description": "1. 在有护垫的擂台旁布置障碍跑道，热身并穿好格斗阶段的护具。\n2. 快速完成障碍序列，休息约一分钟后进入一回合可控对练，结合打击、摔法和地面控制。\n3. 疲劳时也要保持过障碍技术干净，同伴或教练发出任何信号立即停止对练。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ユニファイト",
+      "description": "1. パッド付きリングの横に障害物コースを用意し、ウォームアップして格闘ステージ用の防具を着けます。\n2. 障害物を速く通過し、約1分休んでから打撃、投げ、寝技の抑えを組み合わせたコントロールされたラウンドに入ります。\n3. 疲れても障害物の技術を丁寧に保ち、パートナーや指導者の合図があればすぐにスパーリングを止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "유니파이트",
+      "description": "1. 패드가 깔린 링 옆에 장애물 코스를 준비하고 워밍업한 뒤 격투 단계용 보호구를 착용합니다.\n2. 장애물 순서를 빠르게 통과하고 약 1분 휴식 후 타격, 던지기, 그라운드 제압을 섞은 통제된 라운드에 들어갑니다.\n3. 지쳐도 장애물 기술을 깔끔하게 유지하고, 파트너나 코치의 어떤 신호에도 즉시 스파링을 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ยูนิไฟต์",
+      "description": "1. จัดเส้นทางเครื่องกีดขวางข้างเวทีที่มีเบาะ อบอุ่นร่างกาย และสวมอุปกรณ์ป้องกันสำหรับช่วงต่อสู้\n2. วิ่งผ่านเครื่องกีดขวางอย่างรวดเร็ว พักราวหนึ่งนาที แล้วเข้าสู่ยกซ้อมที่ควบคุม ผสมการโจมตี การทุ่ม และการคุมบนพื้น\n3. รักษาเทคนิคผ่านเครื่องกีดขวางให้ถูกต้องแม้เหนื่อย และหยุดซ้อมทันทีเมื่อคู่ฝึกหรือโค้ชส่งสัญญาณ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Универсальный бой",
+      "description": "1. Подготовьте полосу препятствий рядом с ринговой площадкой с покрытием, разомнитесь и наденьте защитную экипировку для боевого этапа.\n2. Пройдите препятствия в высоком темпе, затем примерно через минуту отдыха начните контролируемый раунд с ударами, бросками и контролем в партере.\n3. Сохраняйте чистую технику на препятствиях даже в усталости и сразу прекращайте спарринг по любому сигналу партнёра или тренера.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Універсальний бій",
+      "description": "1. Підготуйте смугу перешкод поруч із ринговим майданчиком із покриттям, розімніться й одягніть захисне спорядження для бойового етапу.\n2. Пройдіть перешкоди у високому темпі, потім приблизно після хвилини відпочинку почніть контрольований раунд з ударами, кидками й контролем у партері.\n3. Зберігайте чисту техніку на перешкодах навіть у втомі й одразу припиняйте спаринг за будь-яким сигналом партнера чи тренера.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

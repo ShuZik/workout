@@ -1,0 +1,90 @@
+{
+  "id": "18.5",
+  "key": "meditation_coherent_breathing",
+  "title": "Coherent Breathing",
+  "description": "1. Sit or lie comfortably and let the breath settle without taking an unusually deep inhale.\n2. Inhale smoothly for an even count and exhale for the same count, gradually approaching about five breaths per minute.\n3. Keep each breath quiet and unforced, then shorten the count before returning to the natural rhythm.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "breathwork",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1.3,
+    "vigorous": 2,
+    "lightCode": "07021",
+    "moderateCode": "07040",
+    "vigorousCode": "02170"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Coherent Breathing",
+      "description": "1. Sit or lie comfortably and let the breath settle without taking an unusually deep inhale.\n2. Inhale smoothly for an even count and exhale for the same count, gradually approaching about five breaths per minute.\n3. Keep each breath quiet and unforced, then shorten the count before returning to the natural rhythm.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Respiración coherente",
+      "description": "1. Siéntate o túmbate cómodamente y deja que la respiración se estabilice sin inhalar más profundamente de lo habitual.\n2. Inhala suavemente con una cuenta uniforme y exhala durante el mismo tiempo, acercándote gradualmente a unas cinco respiraciones por minuto.\n3. Mantén cada respiración silenciosa y sin esfuerzo; después acorta la cuenta antes de volver al ritmo natural.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Respiração coerente",
+      "description": "1. Sente-se ou deite-se confortavelmente e deixe a respiração se estabilizar sem inspirar mais profundamente do que o habitual.\n2. Inspire suavemente com uma contagem uniforme e expire pelo mesmo tempo, aproximando-se gradualmente de cerca de cinco respirações por minuto.\n3. Mantenha cada respiração silenciosa e sem esforço, depois reduza a contagem antes de voltar ao ritmo natural.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Respiration cohérente",
+      "description": "1. Asseyez-vous ou allongez-vous confortablement et laissez la respiration se stabiliser sans inspirer plus profondément que d’habitude.\n2. Inspirez doucement en comptant régulièrement et expirez sur la même durée, en vous rapprochant progressivement d’environ cinq respirations par minute.\n3. Gardez chaque respiration discrète et sans effort, puis raccourcissez le compte avant de retrouver votre rythme naturel.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kohärentes Atmen",
+      "description": "1. Setze oder lege dich bequem hin und lasse die Atmung zur Ruhe kommen, ohne ungewöhnlich tief einzuatmen.\n2. Atme gleichmäßig ein und zähle dabei ruhig. Atme genauso lange aus und nähere dich allmählich etwa fünf Atemzügen pro Minute.\n3. Atme leise und ohne Zwang. Verkürze dann die Zählzeit, bevor du zum natürlichen Rhythmus zurückkehrst.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Respirazione coerente",
+      "description": "1. Siediti o sdraiati comodamente e lascia che il respiro si stabilizzi senza inspirare più profondamente del solito.\n2. Inspira dolcemente contando in modo regolare ed espira per la stessa durata, avvicinandoti gradualmente a circa cinque respiri al minuto.\n3. Mantieni ogni respiro silenzioso e senza forzare, poi riduci il conteggio prima di tornare al ritmo naturale.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "协调呼吸",
+      "description": "1. 舒适地坐下或躺下，让呼吸平稳下来，不要吸得比平时更深。\n2. 均匀计数，平缓吸气，再用相同的时长呼气，逐渐接近每分钟约五次呼吸。\n3. 保持每次呼吸安静、不勉强，然后缩短计数时长，再恢复自然节奏。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "コヒーレント呼吸",
+      "description": "1. 楽な姿勢で座るか横になり、普段より深く吸わずに呼吸を落ち着かせます。\n2. 一定の速さで数えながら滑らかに息を吸い、同じ長さで吐きます。徐々に1分間に約5回の呼吸に近づけます。\n3. 静かに無理なく呼吸し、数える時間を短くしてから自然なリズムに戻します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "코히어런트 호흡",
+      "description": "1. 편안하게 앉거나 누워 평소보다 지나치게 깊게 들이쉬지 않고 호흡이 안정되도록 합니다.\n2. 일정하게 세면서 부드럽게 들이쉬고 같은 길이로 내쉬며, 서서히 분당 약 다섯 번의 호흡에 가까워지도록 합니다.\n3. 매번 조용하고 무리 없이 호흡한 뒤, 세는 시간을 줄이고 자연스러운 리듬으로 돌아갑니다.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "การหายใจแบบสม่ำเสมอ",
+      "description": "1. นั่งหรือนอนในท่าที่สบาย ปล่อยให้ลมหายใจสงบลงโดยไม่หายใจเข้าลึกผิดปกติ\n2. หายใจเข้าอย่างราบรื่นโดยนับด้วยจังหวะสม่ำเสมอ และหายใจออกด้วยเวลาที่เท่ากัน ค่อย ๆ ปรับให้ใกล้เคียงห้ารอบต่อนาที\n3. หายใจแต่ละครั้งอย่างเงียบและไม่ฝืน จากนั้นลดเวลานับก่อนกลับสู่จังหวะตามธรรมชาติ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Когерентное дыхание",
+      "description": "1. Удобно сядьте или лягте и дайте дыханию успокоиться, не делая необычно глубокого вдоха.\n2. Плавно вдыхайте под равномерный счёт и выдыхайте на тот же счёт, постепенно приближаясь примерно к пяти дыхательным циклам в минуту.\n3. Дышите тихо и без усилия, затем сократите счёт, прежде чем вернуться к естественному ритму.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Когерентне дихання",
+      "description": "1. Зручно сядьте або ляжте й дайте диханню заспокоїтися, не роблячи незвично глибокого вдиху.\n2. Плавно вдихайте під рівномірний відлік і видихайте на той самий відлік, поступово наближаючись приблизно до п’яти дихальних циклів на хвилину.\n3. Дихайте тихо й без зусиль, потім скоротіть відлік, перш ніж повернутися до природного ритму.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

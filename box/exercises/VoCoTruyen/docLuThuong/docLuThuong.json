@@ -1,0 +1,87 @@
+{
+  "id": "106.11",
+  "key": "vo_co_truyen_doc_lu_thuong",
+  "title": "Doc Lu Thuong",
+  "description": "1. Hold the training spear in the ready position at the starting point and perform the opening salute of Doc Lu Thuong.\n2. Perform the spear thrusts, circular parries, sweeps and blocks of the form in sequence, driving each thrust from the stance and returning the tip to the centre line.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+  "colorType": "indigo",
+  "workoutType": "voCoTruyen",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Hold the training spear in the ready position at the starting point and perform the opening salute of Doc Lu Thuong.\n2. Perform the spear thrusts, circular parries, sweeps and blocks of the form in sequence, driving each thrust from the stance and returning the tip to the centre line.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Sujeta la lanza de entrenamiento en posición de preparado en el punto de inicio y realiza el saludo de apertura de Doc Lu Thuong.\n2. Realiza en secuencia las estocadas, paradas circulares, barridos y bloqueos con lanza de la forma, impulsando cada estocada desde la postura y devolviendo la punta a la línea central.\n3. Termina de nuevo en el punto de inicio con el saludo de cierre, devuelve el arma a la posición de preparado y mantén despejada la zona de entrenamiento.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Segure a lança de treino em posição de prontidão no ponto de partida e faça a saudação de abertura de Doc Lu Thuong.\n2. Execute em sequência as estocadas, aparos circulares, varridas e bloqueios com lança da forma, impulsionando cada estocada a partir da base e trazendo a ponta de volta à linha central.\n3. Termine de volta ao ponto de partida com a saudação de encerramento, recoloque a arma na posição de prontidão e mantenha a área de treino livre.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Tenez la lance d’entraînement en position prête au point de départ et effectuez le salut d’ouverture de Doc Lu Thuong.\n2. Exécutez dans l’ordre les estocs, parades circulaires, balayages et blocages à la lance de la forme, en poussant chaque estoc depuis la position et en ramenant la pointe sur la ligne centrale.\n3. Terminez au point de départ par le salut de clôture, ramenez l’arme en position prête et gardez la zone d’entraînement dégagée.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Halte den Trainingsspeer am Startpunkt in Bereitschaftsposition und führe den Eröffnungsgruß von Doc Lu Thuong aus.\n2. Führe die Speerstöße, kreisförmigen Paraden, Fegebewegungen und Abwehren der Form der Reihe nach aus, treibe jeden Stoß aus der Stellung und bringe die Spitze zur Mittellinie zurück.\n3. Beende die Form wieder am Startpunkt mit dem Schlussgruß, bringe die Waffe in die Bereitschaftsposition zurück und halte den Trainingsbereich frei.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Tieni la lancia da allenamento in posizione di pronto nel punto di partenza ed esegui il saluto di apertura di Doc Lu Thuong.\n2. Esegui in sequenza affondi, parate circolari, spazzate e parate con la lancia della forma, spingendo ogni affondo dalla posizione e riportando la punta sulla linea centrale.\n3. Concludi di nuovo nel punto di partenza con il saluto di chiusura, riporta l’arma in posizione di pronto e mantieni libera l’area di allenamento.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "Doc Lu Thuong",
+      "description": "1. 在起点以预备姿势持训练用枪，完成Doc Lu Thuong的起势礼。\n2. 按顺序完成本套路的枪扎、圆形拦拿、扫枪和格挡，每次扎枪都由步型发力，枪尖回到中线。\n3. 回到起点完成收势礼，将器械收回预备位置，并保持训练区域无人无物。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "Doc Lu Thuong",
+      "description": "1. 開始位置で練習用の槍を用意の位置に構え、Doc Lu Thuongの始めの礼を行います。\n2. 型の槍の突き、円を描く払い受け、払い、受けを順に行い、突きは立ち方から押し���し、穂先を中心線に戻します。\n3. 開始位置に戻って終わりの礼を行い、武器を用意の位置に戻し、練習スペースに人や物がない状態を保ちます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "Doc Lu Thuong",
+      "description": "1. 시작 지점에서 연습용 창을 준비 위치로 잡고 Doc Lu Thuong의 시작 인사를 합니다.\n2. 품새의 창 찌르기, 원형으로 쳐내기, 쓸기, 막기를 순서대로 수행하며 찌르기는 자세에서 밀어내고 창끝을 중심선으로 되돌립니다.\n3. 시작 지점으로 돌아와 마무리 인사를 하고 무기를 준비 위치로 되돌리며 훈련 공간을 비워 둡니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "Doc Lu Thuong",
+      "description": "1. ถือหอกฝึกในท่าเตรียมที่จุดเริ่มต้น แล้วทำความเคารพเปิดของ Doc Lu Thuong\n2. ทำการแทงหอก การปัดวงกลม การกวาด และการปัดป้องของท่ารำตามลำดับ ส่งแรงแทงจากท่ายืนทุกครั้ง และนำปลายหอกกลับสู่แนวกึ่งกลาง\n3. จบที่จุดเริ่มต้นด้วยการทำความเคารพปิด นำอาวุธกลับสู่ท่าเตรียม และรักษาพื้นที่ฝึกให้โล่ง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Держите учебное копьё в готовой позиции в исходной точке и выполните начальное приветствие формы Doc Lu Thuong.\n2. Выполняйте по порядку уколы копьём, круговые парирования, подсечки и блоки формы, посылая каждый укол от стойки и возвращая наконечник на центральную линию.\n3. Завершите в исходной точке заключительным приветствием, верните оружие в готовую позицию и следите, чтобы зона тренировки оставалась свободной.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Doc Lu Thuong",
+      "description": "1. Тримайте навчальний спис у готовій позиції у вихідній точці й виконайте початкове привітання форми Doc Lu Thuong.\n2. Виконуйте по черзі уколи списом, колові парирування, підсічки й блоки форми, посилаючи кожен укол від стійки й повертаючи вістря на центральну лінію.\n3. Завершіть у вихідній точці заключним привітанням, поверніть зброю в готову позицію та стежте, щоб зона тренування залишалася вільною.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

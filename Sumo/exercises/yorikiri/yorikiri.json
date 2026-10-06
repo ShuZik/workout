@@ -1,0 +1,90 @@
+{
+  "id": "97.4",
+  "key": "sumo_yorikiri",
+  "title": "Yorikiri",
+  "description": "1. Take a two-handed belt grip on the partner's mawashi with the chest close and the hips lower than the partner's.\n2. Drive forward with short sliding steps, lifting slightly through the belt so the partner's weight stays on the heels.\n3. Walk the partner out of the ring zone without throwing, then release the grip and reset in the center.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Yorikiri",
+      "description": "1. Take a two-handed belt grip on the partner's mawashi with the chest close and the hips lower than the partner's.\n2. Drive forward with short sliding steps, lifting slightly through the belt so the partner's weight stays on the heels.\n3. Walk the partner out of the ring zone without throwing, then release the grip and reset in the center.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Yorikiri",
+      "description": "1. Agarra con ambas manos el mawashi del compañero con el pecho cerca y la cadera más baja que la suya.\n2. Avanza con pasos cortos deslizados, levantando ligeramente del cinturón para que su peso quede en los talones.\n3. Saca al compañero de la zona del anillo sin proyectarlo, luego suelta el agarre y reinicia en el centro.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Yorikiri",
+      "description": "1. Segure o mawashi do parceiro com as duas mãos, peito próximo e quadril mais baixo que o dele.\n2. Avance com passos curtos deslizantes, erguendo levemente pela faixa para manter o peso dele nos calcanhares.\n3. Conduza o parceiro para fora da área do anel sem projetar, depois solte a pegada e recomece no centro.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Yorikiri",
+      "description": "1. Saisissez le mawashi du partenaire à deux mains, poitrine proche et hanches plus basses que les siennes.\n2. Avancez à petits pas glissés en soulevant légèrement par la ceinture pour garder son poids sur les talons.\n3. Faites sortir le partenaire de la zone du cercle sans le projeter, puis lâchez la saisie et repartez au centre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Yorikiri",
+      "description": "1. Greife den Mawashi des Partners mit beiden Händen, Brust nah und Hüfte tiefer als die des Partners.\n2. Treibe mit kurzen Gleitschritten vorwärts und hebe leicht über den Gürtel, damit sein Gewicht auf den Fersen bleibt.\n3. Schiebe den Partner ohne Wurf aus der Ringzone, löse dann den Griff und starte in der Mitte neu.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Yorikiri",
+      "description": "1. Afferra con due mani il mawashi del partner, petto vicino e anche più basse delle sue.\n2. Avanza a piccoli passi scivolati sollevando leggermente dalla cintura così che il suo peso resti sui talloni.\n3. Accompagna il partner fuori dalla zona dell’anello senza proiettarlo, poi lascia la presa e riparti dal centro.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "寄切",
+      "description": "1. 双手抓住同伴的兜裆布腰带，胸口贴近，髋部低于对方。\n2. 以短促滑步前进，通过腰带略微上提，使对方重心停留在脚跟。\n3. 不摔投，把同伴推出圈外区域，然后松手回到中央重新开始。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "寄り切り",
+      "description": "1. 胸を寄せ、相手より腰を低くして、両手で相手のまわしを取ります。\n2. 短いすり足で前に出ながら、まわしをわずかに引きつけて相手の重心をかかとに乗せ続けます。\n3. 投げずに相手を土俵の区域外へ寄り出し、まわしを離して中央で仕切り直します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "요리키리",
+      "description": "1. 가슴을 붙이고 엉덩이를 상대보다 낮춘 채 두 손으로 상대의 마와시를 잡습니다.\n2. 짧은 미끄럼 걸음으로 전진하며 샅바를 살짝 끌어올려 상대 체중이 발뒤꿈치에 머물게 합니다.\n3. 던지지 않고 상대를 경기장 구역 밖으로 밀어낸 뒤 그립을 풀고 중앙에서 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "โยริคิริ",
+      "description": "1. จับมาวาชิของคู่ฝึกด้วยสองมือ หน้าอกชิด สะโพกต่ำกว่าคู่ฝึก\n2. ขับไปข้างหน้าด้วยก้าวลากสั้น ๆ พร้อมยกผ่านผ้าคาดเอวเล็กน้อยให้น้ำหนักคู่ฝึกค้างอยู่ที่ส้นเท้า\n3. พาคู่ฝึกออกนอกพื้นที่วงโดยไม่ทุ่ม แล้วปล่อยการจับและเริ่มใหม่ที่กลาง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Ёрикири",
+      "description": "1. Возьмитесь обеими руками за маваси партнёра, грудь вплотную, таз ниже, чем у него.\n2. Продвигайтесь короткими скользящими шагами, слегка подтягивая за пояс, чтобы его вес оставался на пятках.\n3. Выведите партнёра из зоны круга без броска, затем отпустите захват и начните заново в центре.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Йорікірі",
+      "description": "1. Візьміться обома руками за мавасі партнера, груди впритул, таз нижче, ніж у нього.\n2. Просувайтеся короткими ковзними кроками, злегка підтягуючи за пояс, щоб його вага лишалася на п’ятах.\n3. Виведіть партнера із зони кола без кидка, потім відпустіть захват і почніть знову в центрі.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

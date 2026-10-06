@@ -1,0 +1,90 @@
+{
+  "id": "92.7",
+  "key": "shuai_jiao_ti",
+  "title": "Ti",
+  "description": "1. Move with the partner in a jacket grip and time the moment the partner's foot steps and lightens.\n2. Kick-sweep the partner's ankle with the sole of your foot in the direction of the step while the hands turn the upper body.\n3. Bring the partner down onto the side quickly but under control, keep the grip to ease the landing, and reset standing.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "shuaiJiao",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ti",
+      "description": "1. Move with the partner in a jacket grip and time the moment the partner's foot steps and lightens.\n2. Kick-sweep the partner's ankle with the sole of your foot in the direction of the step while the hands turn the upper body.\n3. Bring the partner down onto the side quickly but under control, keep the grip to ease the landing, and reset standing.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Ti",
+      "description": "1. Muévete con el compañero en agarre de chaqueta y espera el momento en que su pie da el paso y se aligera.\n2. Barre de una patada su tobillo con la planta del pie en la dirección del paso mientras las manos giran su tronco.\n3. Llévalo al suelo de lado con rapidez pero con control, mantén el agarre para suavizar la caída y vuelve a empezar de pie.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Ti",
+      "description": "1. Mova-se com o parceiro em pegada na jaqueta e espere o momento em que o pé dele dá o passo e fica leve.\n2. Varra com um chute o tornozelo dele usando a sola do pé na direção do passo enquanto as mãos giram o tronco dele.\n3. Leve o parceiro ao chão de lado com rapidez, mas com controle, mantenha a pegada para suavizar a queda e recomece em pé.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Ti",
+      "description": "1. Déplacez-vous avec le partenaire en saisie de veste et guettez le moment où son pied avance et s’allège.\n2. Balayez d’un coup de pied sa cheville avec la plante du pied dans le sens du pas pendant que les mains font tourner le haut de son corps.\n3. Amenez-le au sol sur le côté rapidement mais avec contrôle, gardez la saisie pour amortir et reprenez debout.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Ti",
+      "description": "1. Bewege dich mit dem Partner im Jackengriff und passe den Moment ab, in dem sein Fuß tritt und leicht wird.\n2. Fege seinen Knöchel mit der Fußsohle tretend in Schrittrichtung, während die Hände seinen Oberkörper drehen.\n3. Bringe den Partner schnell, aber kontrolliert auf die Seite, halte den Griff, um die Landung abzufedern, und beginne stehend neu.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Ti",
+      "description": "1. Muoviti con il compagno in presa alla giacca e cogli il momento in cui il suo piede fa il passo e si alleggerisce.\n2. Spazza con un calcio la sua caviglia con la pianta del piede nella direzione del passo mentre le mani ruotano il busto.\n3. Portalo giù sul fianco in modo rapido ma controllato, mantieni la presa per attutire l’atterraggio e riparti in piedi.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "踢",
+      "description": "1. 以跤衣抓握与搭档一起移动，把握其脚步迈出并变轻的瞬间。\n2. 用脚掌顺着其步伐方向踢扫搭档的脚踝，双手同时转动其上身。\n3. 迅速而受控地使搭档侧身倒地，保持抓握缓冲落地，然后重新站立开始。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "ティー",
+      "description": "1. 上衣の組み手で相手と一緒に動き、相手の足が踏み出して軽くなる瞬間を狙います。\n2. 踏み出す方向へ足裏で相手の足首を蹴り払い、両手で相手の上体を回します。\n3. 素早く、しかし制御して相手を横向きに倒し、組み手を保って着地を和らげ、立った姿勢から再開します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "티",
+      "description": "1. 상의 잡기로 파트너와 함께 움직이며 파트너의 발이 내디뎌 가벼워지는 순간을 노립니다.\n2. 발바닥으로 내딛는 방향을 따라 파트너의 발목을 차서 쓸고, 두 손으로 상체를 돌립니다.\n3. 파트너를 빠르지만 제어된 상태로 옆으로 넘기고, 잡기를 유지해 착지를 부드럽게 한 뒤 선 자세에서 다시 시작합니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "ที",
+      "description": "1. เคลื่อนที่ไปกับคู่ฝึกโดยจับเสื้อไว้ และจับจังหวะตอนที่เท้าของคู่ฝึกก้าวและเบาลง\n2. ใช้ฝ่าเท้าเตะกวาดข้อเท้าของคู่ฝึกไปตามทิศทางการก้าว ขณะที่มือหมุนลำตัวช่วงบน\n3. ทำให้คู่ฝึกล้มลงด้านข้างอย่างรวดเร็วแต่ควบคุมได้ จับไว้เพื่อผ่อนแรงกระแทก แล้วเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Ти",
+      "description": "1. Двигайтесь с партнёром в захвате за куртку и ловите момент, когда его стопа делает шаг и разгружается.\n2. Подбейте лодыжку партнёра подошвой по направлению шага, одновременно поворачивая руками его корпус.\n3. Быстро, но контролируемо уроните партнёра на бок, удерживая захват, чтобы смягчить приземление, и начните заново в стойке.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Ті",
+      "description": "1. Рухайтеся з партнером у захваті за куртку й ловіть мить, коли його стопа робить крок і розвантажується.\n2. Підбийте кісточку партнера підошвою в напрямку кроку, водночас повертаючи руками його тулуб.\n3. Швидко, але контрольовано покладіть партнера на бік, утримуючи захват, щоб пом'якшити приземлення, і почніть знову в стійці.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

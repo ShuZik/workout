@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#808A94",
+    "colorType": "gray",
+    "folder": "CornishWrestling",
+    "id": "52",
+    "icon": "CornishWrestling/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Cornish Wrestling",
+    "workoutType": "cornishWrestling",
+    "translations": {
+      "en": {
+        "title": "Cornish Wrestling"
+      },
+      "es": {
+        "title": "Lucha de Cornualles"
+      },
+      "pt": {
+        "title": "Luta da Cornualha"
+      },
+      "fr": {
+        "title": "Lutte de Cornouailles"
+      },
+      "de": {
+        "title": "Cornisches Ringen"
+      },
+      "it": {
+        "title": "Lotta della Cornovaglia"
+      },
+      "zh-Hans": {
+        "title": "康沃尔摔跤"
+      },
+      "ja": {
+        "title": "コーンウォール・レスリング"
+      },
+      "ko": {
+        "title": "콘월 레슬링"
+      },
+      "th": {
+        "title": "มวยปล้ำคอร์นิช"
+      },
+      "ru": {
+        "title": "Корнуольская борьба"
+      },
+      "uk": {
+        "title": "Корнуольська боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "CornishWrestling/exercises/cornishWrestling/Icon.png",
+      "json": "CornishWrestling/exercises/cornishWrestling/cornishWrestling.json"
+    },
+    {
+      "icon": "CornishWrestling/exercises/foreHipKlunWarRag/Icon.png",
+      "json": "CornishWrestling/exercises/foreHipKlunWarRag/foreHipKlunWarRag.json"
+    },
+    {
+      "icon": "CornishWrestling/exercises/foreHeaveHalyansWarRag/Icon.png",
+      "json": "CornishWrestling/exercises/foreHeaveHalyansWarRag/foreHeaveHalyansWarRag.json"
+    },
+    {
+      "icon": "CornishWrestling/exercises/backHeaveHalyansWarDhelergh/Icon.png",
+      "json": "CornishWrestling/exercises/backHeaveHalyansWarDhelergh/backHeaveHalyansWarDhelergh.json"
+    },
+    {
+      "icon": "CornishWrestling/exercises/underHeaveHalyansADhann/Icon.png",
+      "json": "CornishWrestling/exercises/underHeaveHalyansADhann/underHeaveHalyansADhann.json"
+    },
+    {
+      "icon": "CornishWrestling/exercises/flyingMareKasekNeyja/Icon.png",
+      "json": "CornishWrestling/exercises/flyingMareKasekNeyja/flyingMareKasekNeyja.json"
+    },
+    {
+      "icon": "CornishWrestling/exercises/foreCrookBaghWarRag/Icon.png",
+      "json": "CornishWrestling/exercises/foreCrookBaghWarRag/foreCrookBaghWarRag.json"
+    },
+    {
+      "icon": "CornishWrestling/exercises/backStepKammWarDhelergh/Icon.png",
+      "json": "CornishWrestling/exercises/backStepKammWarDhelergh/backStepKammWarDhelergh.json"
+    }
+  ]
+}

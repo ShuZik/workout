@@ -1,0 +1,90 @@
+{
+  "id": "41.64",
+  "key": "judo_hane_goshi_gaeshi",
+  "title": "Hane Goshi Gaeshi",
+  "description": "1. As a trained partner springs in with hane-goshi, lower the hips and avoid being loaded.\n2. Hook or reap the partner's springing leg from inside with your leg while turning the upper body.\n3. Rotate the partner backward over the reap and guide the breakfall before stabilizing.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hane Goshi Gaeshi",
+      "description": "1. As a trained partner springs in with hane-goshi, lower the hips and avoid being loaded.\n2. Hook or reap the partner's springing leg from inside with your leg while turning the upper body.\n3. Rotate the partner backward over the reap and guide the breakfall before stabilizing.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Hane Goshi Gaeshi",
+      "description": "1. Cuando un compañero entrenado entre con hane-goshi, baja las caderas y evita ser cargado.\n2. Engancha o siega desde dentro la pierna que impulsa el compañero con tu pierna mientras giras el tronco.\n3. Haz rotar al compañero hacia atrás sobre la siega y guía la caída antes de estabilizarte.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Hane Goshi Gaeshi",
+      "description": "1. Quando um parceiro treinado entrar com hane-goshi, baixe os quadris e evite ser carregado.\n2. Enganche ou ceife por dentro a perna de impulso do parceiro com sua perna enquanto gira o tronco.\n3. Gire o parceiro para trás sobre a ceifa e guie a queda antes de estabilizar.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Hane Goshi Gaeshi",
+      "description": "1. Quand un partenaire entraîné entre en hane-goshi, abaissez les hanches et évitez d’être chargé.\n2. Crochetez ou fauchez par l’intérieur sa jambe d’impulsion avec votre jambe en tournant le haut du corps.\n3. Faites tourner le partenaire vers l’arrière par-dessus le fauchage et guidez la chute avant de vous stabiliser.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Hane Goshi Gaeshi",
+      "description": "1. Wenn ein geübter Partner mit Hane-goshi eindreht, senke die Hüfte und lass dich nicht laden.\n2. Hake oder sichle sein federndes Bein mit deinem Bein von innen, während du den Oberkörper drehst.\n3. Drehe den Partner rückwärts über die Sichel und führe den Fall, bevor du stabilisierst.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Hane Goshi Gaeshi",
+      "description": "1. Quando un compagno esperto entra con hane-goshi, abbassa le anche ed evita di essere caricato.\n2. Aggancia o falcia dall’interno la sua gamba che scatta con la tua gamba mentre ruoti il busto.\n3. Fai ruotare il compagno all’indietro sopra la falciata e guida la caduta prima di stabilizzarti.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "跳腰返",
+      "description": "1. 训练有素的搭档以跳腰进入时，降低髋部，避免被承载。\n2. 转动上身的同时，用腿从内侧勾或刈搭档的弹腿。\n3. 使搭档越过刈腿向后翻倒，引导其倒地后再稳定。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "跳腰返",
+      "description": "1. 熟練した相手が跳腰で入ってきたら、腰を落として乗せられないようにします。\n2. 上体を回しながら、相手の跳ね上げる脚を自分の脚で内側から掛けるか刈ります。\n3. 刈りの上で相手を後方へ回転させ、受身を導いてから安定させます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "하네 고시 가에시",
+      "description": "1. 숙련된 파트너가 하네고시로 들어오면 골반을 낮춰 실리지 않게 합니다.\n2. 상체를 돌리며 내 다리로 파트너의 튕기는 다리를 안쪽에서 걸거나 쓸어냅니다.\n3. 걸기 위로 파트너를 뒤로 돌리고 낙법을 이끈 뒤 안정시킵니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "ฮาเนะโกชิกาเอชิ",
+      "description": "1. เมื่อคู่ฝึกที่ฝึกมาแล้วเข้าฮาเนะโกชิ ให้ย่อสะโพกและหลีกเลี่ยงการถูกแบก\n2. ใช้ขาของคุณเกี่ยวหรือกวาดขาที่ดีดของคู่ฝึกจากด้านใน ขณะหมุนลำตัว\n3. หมุนคู่ฝึกไปด้านหลังข้ามการเกี่ยว และนำการล้มก่อนทรงตัว",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Ханэ-госи-гаэси",
+      "description": "1. Когда подготовленный партнёр входит с ханэ-госи, опустите таз и не дайте себя нагрузить.\n2. Зацепите или подсеките изнутри своей ногой подбивающую ногу партнёра, разворачивая корпус.\n3. Переверните партнёра назад через подсечку и направьте страховку, затем закрепитесь.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Хане-госі-гаесі",
+      "description": "1. Коли підготовлений партнер входить із хане-госі, опустіть таз і не дайте себе навантажити.\n2. Зачепіть або підсічіть зсередини своєю ногою підбиваючу ногу партнера, розвертаючи тулуб.\n3. Перекиньте партнера назад через підсічку й спрямуйте страховку, потім закріпіться.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "43.22",
+  "key": "aikido_randori_geiko",
+  "title": "Randori Geiko",
+  "description": "1. Pair with a trained partner on mats, optionally with one partner holding a soft training knife.\n2. Attack, evade, and apply the basic techniques freely while both partners resist and counter within the rules.\n3. Stop on any uncontrolled fall or tap, reset to distance, and switch roles if using the knife.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Practice Modes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Randori Geiko",
+      "description": "1. Pair with a trained partner on mats, optionally with one partner holding a soft training knife.\n2. Attack, evade, and apply the basic techniques freely while both partners resist and counter within the rules.\n3. Stop on any uncontrolled fall or tap, reset to distance, and switch roles if using the knife.",
+      "sectionTitle": "Practice Modes"
+    },
+    "es": {
+      "title": "Randori Geiko",
+      "description": "1. Forma pareja con un compañero entrenado sobre el tatami, opcionalmente con uno de ellos sosteniendo un cuchillo blando de entrenamiento.\n2. Ataquen, esquiven y apliquen las técnicas básicas libremente mientras ambos resisten y contraatacan dentro de las reglas.\n3. Detente ante cualquier caída descontrolada o toque, vuelvan a la distancia y cambien de papel si usan el cuchillo.",
+      "sectionTitle": "Modos de práctica"
+    },
+    "pt": {
+      "title": "Randori Geiko",
+      "description": "1. Forme dupla com um parceiro treinado no tatame, opcionalmente com um deles segurando uma faca macia de treino.\n2. Ataquem, esquivem e apliquem as técnicas básicas livremente enquanto ambos resistem e contra-atacam dentro das regras.\n3. Pare em qualquer queda descontrolada ou toque, voltem à distância e troquem de papel se usarem a faca.",
+      "sectionTitle": "Modos de prática"
+    },
+    "fr": {
+      "title": "Randori Geiko",
+      "description": "1. Travaillez avec un partenaire entraîné sur le tatami, l’un tenant éventuellement un couteau souple d’entraînement.\n2. Attaquez, esquivez et appliquez librement les techniques de base pendant que tous deux résistent et contrent selon les règles.\n3. Arrêtez à toute chute non contrôlée ou tape, revenez à distance et inversez les rôles si vous utilisez le couteau.",
+      "sectionTitle": "Modes de pratique"
+    },
+    "de": {
+      "title": "Randori Geiko",
+      "description": "1. Übe mit einem trainierten Partner auf der Matte, wahlweise hält einer ein weiches Trainingsmesser.\n2. Greift an, weicht aus und wendet die Grundtechniken frei an, während beide im Rahmen der Regeln Widerstand leisten und kontern.\n3. Stoppt bei jedem unkontrollierten Fall oder Abklopfen, geht zurück auf Distanz und tauscht die Rollen, wenn ihr das Messer nutzt.",
+      "sectionTitle": "Übungsformen"
+    },
+    "it": {
+      "title": "Randori Geiko",
+      "description": "1. Fai coppia con un partner allenato sul tatami, eventualmente con uno dei due che impugna un coltello morbido da allenamento.\n2. Attaccate, schivate e applicate liberamente le tecniche di base mentre entrambi resistete e contrattaccate secondo le regole.\n3. Fermatevi a ogni caduta incontrollata o tap, tornate in distanza e scambiatevi i ruoli se usate il coltello.",
+      "sectionTitle": "Modalità di pratica"
+    },
+    "zh-Hans": {
+      "title": "乱取稽古",
+      "description": "1. 与训练有素的同伴在垫上配对，可选择由一方手持软质训练短刀。\n2. 双方在规则内自由进攻、闪避并施展基本技术，同时都进行抵抗和反击。\n3. 一旦出现失控倒地或拍垫立即停止，回到距离，若使用短刀则交换角色。",
+      "sectionTitle": "练习模式"
+    },
+    "ja": {
+      "title": "乱取稽古",
+      "description": "1. 訓練を積んだ相手と畳の上で組み、必要に応じて一方が柔らかい練習用短刀を持ちます。\n2. ルールの範囲内で双方が抵抗し返し技を狙いながら、自由に攻撃し、かわし、基本技をかけます。\n3. 制御できない倒れ方やタップがあれば止め、間合いに戻り、短刀を使う場合は役割を交代します。",
+      "sectionTitle": "稽古法"
+    },
+    "ko": {
+      "title": "란도리 게이코",
+      "description": "1. 훈련된 파트너와 매트 위에서 짝을 이루며, 선택적으로 한 사람이 부드러운 훈련용 칼을 듭니다.\n2. 규칙 안에서 서로 저항하고 반격하며 자유롭게 공격하고 피하고 기본 기술을 겁니다.\n3. 통제되지 않은 낙하나 탭이 있으면 멈추고 거리로 돌아가며, 칼을 쓰는 경우 역할을 바꿉니다.",
+      "sectionTitle": "수련 방식"
+    },
+    "th": {
+      "title": "รันโดริเคโกะ",
+      "description": "1. จับคู่กับคู่ฝึกที่ผ่านการฝึกบนเบาะ โดยอาจให้ฝ่ายหนึ่งถือมีดฝึกแบบนุ่ม\n2. โจมตี หลบ และใช้เทคนิคพื้นฐานอย่างอิสระ ขณะที่ทั้งสองต้านทานและโต้กลับตามกติกา\n3. หยุดเมื่อมีการล้มที่ควบคุมไม่ได้หรือการตบ กลับสู่ระยะ และสลับบทบาทหากใช้มีด",
+      "sectionTitle": "รูปแบบการฝึก"
+    },
+    "ru": {
+      "title": "Рандори-гэйко",
+      "description": "1. Работайте в паре с подготовленным партнёром на татами; по желанию один держит мягкий тренировочный нож.\n2. Свободно атакуйте, уходите и применяйте базовые техники, пока оба сопротивляются и контратакуют в рамках правил.\n3. Останавливайтесь при любом неконтролируемом падении или хлопке, возвращайтесь на дистанцию и меняйтесь ролями, если используете нож.",
+      "sectionTitle": "Режимы практики"
+    },
+    "uk": {
+      "title": "Рандорі-гейко",
+      "description": "1. Працюйте в парі з підготовленим партнером на татамі; за бажанням один тримає м’який тренувальний ніж.\n2. Вільно атакуйте, ухиляйтеся й застосовуйте базові техніки, поки обидва чините опір і контратакуєте в межах правил.\n3. Зупиняйтеся за будь-якого неконтрольованого падіння чи плеску, повертайтеся на дистанцію й міняйтеся ролями, якщо використовуєте ніж.",
+      "sectionTitle": "Режими практики"
+    }
+  }
+}

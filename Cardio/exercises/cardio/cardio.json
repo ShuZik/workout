@@ -1,0 +1,90 @@
+{
+  "id": "11.1",
+  "key": "cardio",
+  "title": "Cardio",
+  "description": "1. Choose one continuous activity such as running, cycling, rowing, or swimming.\n2. Start at an easy effort, then raise the pace until breathing is faster but still controlled.\n3. Hold that effort for the work interval and reduce the pace gradually instead of stopping abruptly.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 4.8,
+    "moderate": 7.3,
+    "vigorous": 8,
+    "lightCode": "02005",
+    "moderateCode": "02000",
+    "vigorousCode": "02006"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Cardio",
+      "description": "1. Choose one continuous activity such as running, cycling, rowing, or swimming.\n2. Start at an easy effort, then raise the pace until breathing is faster but still controlled.\n3. Hold that effort for the work interval and reduce the pace gradually instead of stopping abruptly.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Cardio",
+      "description": "1. Elige una actividad continua, como correr, montar en bicicleta, remar o nadar.\n2. Empieza con un esfuerzo suave y aumenta el ritmo hasta que la respiración sea más rápida pero siga controlada.\n3. Mantén ese esfuerzo durante el intervalo de trabajo y reduce el ritmo gradualmente en lugar de detenerte de golpe.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Cardio",
+      "description": "1. Escolha uma atividade contínua, como correr, pedalar, remar ou nadar.\n2. Comece com um esforço leve e aumente o ritmo até a respiração ficar mais rápida, mas ainda controlada.\n3. Mantenha esse esforço durante o intervalo de trabalho e reduza o ritmo gradualmente em vez de parar de repente.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Cardio",
+      "description": "1. Choisissez une activité continue comme la course, le vélo, le rameur ou la natation.\n2. Commencez à faible effort, puis augmentez le rythme jusqu’à ce que la respiration soit plus rapide mais reste contrôlée.\n3. Maintenez cet effort pendant l’intervalle de travail et ralentissez progressivement plutôt que de vous arrêter brusquement.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Cardio",
+      "description": "1. Wähle eine durchgehende Aktivität wie Laufen, Radfahren, Rudern oder Schwimmen.\n2. Beginne locker und erhöhe dann das Tempo, bis die Atmung schneller, aber noch kontrolliert ist.\n3. Halte diese Anstrengung während des Arbeitsintervalls und reduziere das Tempo allmählich, statt abrupt anzuhalten.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Cardio",
+      "description": "1. Scegli un’attività continua come correre, andare in bicicletta, remare o nuotare.\n2. Inizia con uno sforzo leggero, poi aumenta il ritmo finché il respiro diventa più rapido ma resta controllato.\n3. Mantieni quello sforzo durante l’intervallo di lavoro e riduci gradualmente il ritmo invece di fermarti bruscamente.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "有氧运动",
+      "description": "1. 选择一种持续运动，例如跑步、骑车、划船或游泳。\n2. 从轻松的强度开始，然后加快节奏，直到呼吸变快但仍可控制。\n3. 在运动间隔内保持这一强度，之后逐渐放慢节奏，不要突然停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "有酸素運動",
+      "description": "1. ランニング、サイクリング、ローイング、水泳など継続できる運動を一つ選びます。\n2. 楽な強度から始め、呼吸が速くなってもコントロールできる程度までペースを上げます。\n3. 運動区間中はその強度を保ち、急に止まらず徐々にペースを落とします。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "유산소 운동",
+      "description": "1. 달리기, 자전거, 로잉 또는 수영 같은 지속적인 활동 하나를 선택합니다.\n2. 가벼운 강도로 시작해 호흡이 빨라지지만 여전히 조절할 수 있을 때까지 속도를 높입니다.\n3. 운동 구간 동안 그 강도를 유지하고 갑자기 멈추지 말고 서서히 속도를 줄입니다.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "คาร์ดิโอ",
+      "description": "1. เลือกกิจกรรมต่อเนื่องหนึ่งอย่าง เช่น วิ่ง ปั่นจักรยาน พายเรือ หรือว่ายน้ำ\n2. เริ่มด้วยความหนักเบา ๆ แล้วเพิ่มจังหวะจนหายใจเร็วขึ้นแต่ยังควบคุมได้\n3. รักษาความหนักนั้นตลอดช่วงออกแรง และค่อย ๆ ลดจังหวะแทนการหยุดทันที",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кардио",
+      "description": "1. Выберите одну непрерывную активность, например бег, велосипед, греблю или плавание.\n2. Начните с лёгкого усилия, затем увеличьте темп, пока дыхание не станет быстрее, но останется контролируемым.\n3. Сохраняйте это усилие в течение рабочего интервала и постепенно снижайте темп вместо резкой остановки.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кардіо",
+      "description": "1. Оберіть одну безперервну активність, наприклад біг, велосипед, веслування або плавання.\n2. Почніть із легкого зусилля, потім збільште темп, доки дихання не стане швидшим, але залишиться контрольованим.\n3. Зберігайте це зусилля протягом робочого інтервалу й поступово знижуйте темп замість різкої зупинки.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

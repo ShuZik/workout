@@ -1,0 +1,87 @@
+{
+  "id": "54.5",
+  "key": "fencing_rassemblement",
+  "title": "Rassemblement",
+  "description": "1. Start en garde with the weapon arm in line and the knees bent.\n2. Straighten the legs and bring one foot to the other, front foot back or rear foot forward, so the heels meet at a right angle.\n3. Stand tall with the weapon arm extended or lowered in line, then step back out into en garde with the same stance width.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Footwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Rassemblement",
+      "description": "1. Start en garde with the weapon arm in line and the knees bent.\n2. Straighten the legs and bring one foot to the other, front foot back or rear foot forward, so the heels meet at a right angle.\n3. Stand tall with the weapon arm extended or lowered in line, then step back out into en garde with the same stance width.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Rassemblement",
+      "description": "1. Comienza en guardia con el brazo armado en línea y las rodillas flexionadas.\n2. Estira las piernas y junta un pie con el otro, el delantero atrás o el trasero adelante, con los talones en ángulo recto.\n3. Quédate erguido con el brazo armado extendido o bajo en línea y vuelve a salir a la guardia con la misma anchura.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Rassemblement",
+      "description": "1. Comece em guarda com o braço armado em linha e os joelhos fletidos.\n2. Estique as pernas e junte um pé ao outro, o da frente para trás ou o de trás para a frente, com os calcanhares em ângulo reto.\n3. Fique ereto com o braço armado estendido ou baixo em linha e volte à guarda com a mesma largura de base.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Rassemblement",
+      "description": "1. Commencez en garde, bras armé dans la ligne et genoux fléchis.\n2. Tendez les jambes et rassemblez un pied contre l’autre, pied avant en arrière ou pied arrière en avant, talons joints à angle droit.\n3. Restez droit, bras armé allongé ou abaissé dans la ligne, puis ressortez en garde avec la même largeur.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Rassemblement",
+      "description": "1. Beginne in Fechtstellung mit dem Waffenarm in Linie und gebeugten Knien.\n2. Strecke die Beine und schließe einen Fuß an den anderen, vorderen zurück oder hinteren vor, Fersen im rechten Winkel zusammen.\n3. Stehe aufrecht mit gestrecktem oder gesenktem Waffenarm in Linie und tritt dann mit gleicher Stellungsbreite zurück in die Fechtstellung.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Rassemblement",
+      "description": "1. Parti in guardia con il braccio armato in linea e le ginocchia piegate.\n2. Distendi le gambe e unisci un piede all’altro, l’anteriore indietro o il posteriore avanti, con i talloni ad angolo retto.\n3. Resta eretto con il braccio armato disteso o abbassato in linea, poi torna in guardia con la stessa ampiezza.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "并步（Rassemblement）",
+      "description": "1. 以实战姿势开始，持剑臂在线，膝盖弯曲。\n2. 伸直双腿，一脚并向另一脚（前脚后收或后脚前移），两脚跟成直角相靠。\n3. 身体直立，持剑臂伸直或在线下垂，然后以相同宽度重新进入实战姿势。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "ラッサンブルマン",
+      "description": "1. 剣腕をラインに置き、膝を曲げたアンガルドから始めます。\n2. 脚を伸ばし、前足を引くか後ろ足を寄せて両足をそろえ、かかとを直角に合わせます。\n3. 剣腕を伸ばすか下げてラインに保ったまま直立し、同じ幅でアンガルドへ戻ります。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "라상블망",
+      "description": "1. 칼 든 팔을 라인에 두고 무릎을 굽힌 앙가르드에서 시작합니다.\n2. 다리를 펴며 앞발을 뒤로 당기거나 뒷발을 앞으로 모아 두 뒤꿈치를 직각으로 붙입니다.\n3. 칼 든 팔을 뻗거나 내려 라인에 둔 채 곧게 선 뒤 같은 너비로 다시 앙가르드에 들어갑니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "ราซ็องเบลอม็อง",
+      "description": "1. เริ่มจากอองการ์ด แขนถือดาบอยู่ในแนวและงอเข่า\n2. เหยียดขาตรงแล้วนำเท้าข้างหนึ่งมาชิดอีกข้าง (ถอยเท้าหน้าหรือเลื่อนเท้าหลัง) ให้ส้นเท้าชิดกันเป็นมุมฉาก\n3. ยืนตัวตรงโดยแขนถือดาบเหยียดหรือลดลงในแนว แล้วก้าวกลับสู่อองการ์ดด้วยความกว้างเท่าเดิม",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Рассамбльман",
+      "description": "1. Начните из стойки, вооружённая рука в линии, колени согнуты.\n2. Выпрямите ноги и приставьте одну стопу к другой, переднюю назад или заднюю вперёд, пятки под прямым углом.\n3. Стойте прямо, рука выпрямлена или опущена в линии, затем выйдите обратно в стойку той же ширины.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Рассамбльман",
+      "description": "1. Почніть зі стійки, озброєна рука в лінії, коліна зігнуті.\n2. Випряміть ноги й приставте одну стопу до іншої, передню назад або задню вперед, п’яти під прямим кутом.\n3. Стійте прямо, рука випрямлена чи опущена в лінії, потім вийдіть назад у стійку тієї самої ширини.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "40.36",
+  "key": "karate_bassai_dai",
+  "title": "Bassai Dai",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Open with a forward leap into a cross-legged stance and supported block, then switch inside and outside blocks, use shuto-uke, the mountain punch, and scooping low blocks.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bassai Dai",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Open with a forward leap into a cross-legged stance and supported block, then switch inside and outside blocks, use shuto-uke, the mountain punch, and scooping low blocks.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Bassai Dai",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Abre con un salto adelante a posición de piernas cruzadas y bloqueo reforzado, luego alterna bloqueos interior y exterior, usa shuto-uke, el yama-zuki y bloqueos bajos de recogida.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Bassai Dai",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Abra com um salto à frente para base de pernas cruzadas e bloqueio reforçado, depois alterne bloqueios interno e externo, use shuto-uke, o yama-zuki e bloqueios baixos em concha.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Bassai Dai",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Ouvrez par un bond en avant en position jambes croisées avec blocage soutenu, puis alternez blocages intérieur et extérieur, utilisez shuto-uke, le yama-zuki et des blocages bas en cuillère.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Bassai Dai",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Beginne mit einem Sprung nach vorn in den Kreuzbeinstand mit gestützter Abwehr, wechsle dann Innen- und Außenabwehren, nutze Shuto-uke, den Yama-zuki und schöpfende tiefe Abwehren.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Bassai Dai",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Apri con un balzo in avanti in posizione a gambe incrociate e parata sostenuta, poi alterna parate interna ed esterna, usa shuto-uke, lo yama-zuki e parate basse a cucchiaio.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "拔塞大",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 以向前跃入交叉立并做辅助格挡开始，随后交替内外格挡，使用手刀格挡、山冲拳和捞式下段格挡。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "抜塞大",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 前方へ跳び込んで交差立ちと添え手受けで始め、内受けと外受けの切り替え、手刀受け、山突き、すくい受けを行います。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "밧사이 다이",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 앞으로 뛰어들어 꼬아서기와 받친 막기로 시작해 안막기와 바깥막기를 바꾸고, 손날 막기, 산지르기, 걷어 올리는 하단 막기를 합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "บัสไซ ได",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. เริ่มด้วยการกระโดดไปข้างหน้าเข้าท่ายืนไขว้ขาพร้อมการปัดแบบมีมือช่วย แล้วสลับปัดในและปัดนอก ใช้ชูโตอุเกะ หมัดยามะสึกิ และการปัดล่างแบบช้อน\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Бассай дай",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Начните прыжком вперёд в стойку со скрещёнными ногами с поддерживаемым блоком, затем чередуйте внутренние и внешние блоки, сюто-укэ, яма-цуки и зачерпывающие нижние блоки.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Бассай дай",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Почніть стрибком уперед у стійку зі схрещеними ногами з підтримуваним блоком, далі чергуйте внутрішні й зовнішні блоки, шуто-уке, яма-цукі та зачерпні нижні блоки.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

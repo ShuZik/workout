@@ -1,0 +1,90 @@
+{
+  "id": "45.3",
+  "key": "arnis_gliding_steps_lead_change",
+  "title": "Gliding Steps with Lead Change",
+  "description": "1. Stand in a stick-fighting stance with knees bent, stick ready, and the free hand at the chest.\n2. Glide forward and back with short sliding steps, then switch the lead leg with a small step-through or hop so the other side leads.\n3. Keep the stick and free hand in guard and the eyes forward while varying the tempo.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "arnis",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Solo Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Gliding Steps with Lead Change",
+      "description": "1. Stand in a stick-fighting stance with knees bent, stick ready, and the free hand at the chest.\n2. Glide forward and back with short sliding steps, then switch the lead leg with a small step-through or hop so the other side leads.\n3. Keep the stick and free hand in guard and the eyes forward while varying the tempo.",
+      "sectionTitle": "Solo Drills"
+    },
+    "es": {
+      "title": "Pasos deslizantes con cambio de guardia",
+      "description": "1. Ponte en guardia de combate con bastón, rodillas flexionadas, bastón listo y mano libre en el pecho.\n2. Desliza hacia delante y atrás con pasos cortos y luego cambia la pierna adelantada con un pequeño paso cruzado o salto para que lidere el otro lado.\n3. Mantén bastón y mano libre en guardia y la mirada al frente mientras varías el ritmo.",
+      "sectionTitle": "Ejercicios individuales"
+    },
+    "pt": {
+      "title": "Passos deslizantes com troca de base",
+      "description": "1. Fique em base de luta com bastão, joelhos fletidos, bastão pronto e mão livre no peito.\n2. Deslize para a frente e para trás com passos curtos e depois troque a perna da frente com um pequeno passo ou salto para que o outro lado lidere.\n3. Mantenha bastão e mão livre em guarda e o olhar à frente enquanto varia o ritmo.",
+      "sectionTitle": "Exercícios individuais"
+    },
+    "fr": {
+      "title": "Pas glissés avec changement de garde",
+      "description": "1. Placez-vous en garde de combat au bâton, genoux fléchis, bâton prêt et main libre à la poitrine.\n2. Glissez en avant et en arrière à petits pas, puis changez de jambe avant par un petit pas croisé ou un sautillé pour que l’autre côté mène.\n3. Gardez bâton et main libre en garde, regard devant, en variant le tempo.",
+      "sectionTitle": "Exercices en solo"
+    },
+    "de": {
+      "title": "Gleitschritte mit Auslagenwechsel",
+      "description": "1. Stelle dich in Stockkampfstellung, Knie gebeugt, Stock bereit, freie Hand an der Brust.\n2. Gleite mit kurzen Schritten vor und zurück und wechsle dann mit einem kleinen Durchschritt oder Hüpfer die Auslage, sodass die andere Seite führt.\n3. Halte Stock und freie Hand in Deckung, den Blick nach vorn, und variiere das Tempo.",
+      "sectionTitle": "Soloübungen"
+    },
+    "it": {
+      "title": "Passi scivolati con cambio di guardia",
+      "description": "1. Mettiti in guardia da combattimento con il bastone, ginocchia piegate, bastone pronto e mano libera al petto.\n2. Scivola avanti e indietro con passi corti, poi cambia la gamba avanti con un piccolo passo incrociato o un saltello così che guidi l’altro lato.\n3. Tieni bastone e mano libera in guardia e lo sguardo avanti variando il ritmo.",
+      "sectionTitle": "Esercizi individuali"
+    },
+    "zh-Hans": {
+      "title": "滑步换架",
+      "description": "1. 以棍术格斗站姿站立，屈膝，棍准备好，空手在胸前。\n2. 用短小滑步前后移动，然后以小换步或小跳换前腿，使另一侧在前。\n3. 棍和空手保持戒备，目视前方，变化节奏。",
+      "sectionTitle": "单人练习"
+    },
+    "ja": {
+      "title": "スライドステップと構えの入れ替え",
+      "description": "1. 膝を曲げ、棒を構え、空いた手を胸に置いた棒術の構えで立ちます。\n2. 短い滑り足で前後に動き、小さな踏み替えか跳びで前足を入れ替え、反対側を前にします。\n3. 棒と空いた手は構えたまま、目線を前に保ち、テンポを変化させます。",
+      "sectionTitle": "単独練習"
+    },
+    "ko": {
+      "title": "미끄러지는 스텝과 앞발 바꾸기",
+      "description": "1. 무릎을 굽히고 스틱을 준비하며 빈손을 가슴에 둔 스틱 격투 자세로 섭니다.\n2. 짧게 미끄러지는 스텝으로 앞뒤로 움직인 뒤 작은 교차 스텝이나 홉으로 앞발을 바꿔 반대쪽이 앞서게 합니다.\n3. 스틱과 빈손은 가드를 유지하고 시선은 앞을 보며 템포를 바꿉니다.",
+      "sectionTitle": "단독 훈련"
+    },
+    "th": {
+      "title": "สไลด์ก้าวพร้อมสลับข้างนำ",
+      "description": "1. ยืนในท่าต่อสู้ด้วยไม้ งอเข่า ไม้พร้อม และมือที่ว่างอยู่ที่หน้าอก\n2. สไลด์ไปข้างหน้าและถอยหลังด้วยก้าวสั้นๆ แล้วสลับขานำด้วยก้าวไขว้เล็กๆ หรือกระโดดเบาๆ ให้อีกข้างนำ\n3. รักษาไม้และมือที่ว่างในการ์ด สายตามองหน้า และเปลี่ยนจังหวะไปเรื่อยๆ",
+      "sectionTitle": "การฝึกเดี่ยว"
+    },
+    "ru": {
+      "title": "Скользящие шаги со сменой стойки",
+      "description": "1. Встаньте в стойку для боя с палкой: колени согнуты, палка наготове, свободная рука у груди.\n2. Скользите вперёд и назад короткими шагами, затем смените переднюю ногу небольшим перешагиванием или подскоком, чтобы впереди была другая сторона.\n3. Держите палку и свободную руку в защите, взгляд вперёд, меняйте темп.",
+      "sectionTitle": "Одиночные упражнения"
+    },
+    "uk": {
+      "title": "Ковзні кроки зі зміною стійки",
+      "description": "1. Станьте в стійку для бою з палицею: коліна зігнуті, палиця напоготові, вільна рука біля грудей.\n2. Ковзайте вперед і назад короткими кроками, потім змініть передню ногу невеликим переступанням або підскоком, щоб попереду був інший бік.\n3. Тримайте палицю й вільну руку в захисті, погляд уперед, змінюйте темп.",
+      "sectionTitle": "Одиночні вправи"
+    }
+  }
+}

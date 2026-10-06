@@ -1,0 +1,90 @@
+{
+  "id": "94.6",
+  "key": "sports_chanbara_ashi_uchi",
+  "title": "Ashi-uchi",
+  "description": "1. Receiver wears the face mask and stands in guard; striker faces them at one-step distance.\n2. Striker lowers the stance slightly and strikes the receiver's leg (ashi) with a quick snap, keeping the head up and the back straight.\n3. Striker recovers guard at once and steps back out of range; receiver calls stop if needed, and both switch roles after each set.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ashi-uchi",
+      "description": "1. Receiver wears the face mask and stands in guard; striker faces them at one-step distance.\n2. Striker lowers the stance slightly and strikes the receiver's leg (ashi) with a quick snap, keeping the head up and the back straight.\n3. Striker recovers guard at once and steps back out of range; receiver calls stop if needed, and both switch roles after each set.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Ashi-uchi",
+      "description": "1. El receptor lleva la careta y está en guardia; el atacante se coloca frente a él a un paso.\n2. El atacante baja ligeramente la postura y golpea la pierna del receptor (ashi) con un chasquido rápido, con la cabeza alta y la espalda recta.\n3. El atacante recupera la guardia al instante y sale de distancia; el receptor dice alto si hace falta, y ambos cambian de rol tras cada serie.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Ashi-uchi",
+      "description": "1. O receptor usa a máscara e fica em guarda; o atacante fica diante dele a um passo.\n2. O atacante baixa levemente a postura e golpeia a perna do receptor (ashi) com um estalo rápido, com a cabeça erguida e as costas retas.\n3. O atacante recupera a guarda na hora e sai da distância; o receptor diz pare se necessário, e ambos trocam de papel após cada série.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Ashi-uchi",
+      "description": "1. Le receveur porte le masque et se tient en garde ; le frappeur lui fait face à un pas de distance.\n2. Le frappeur abaisse légèrement sa position et touche la jambe du receveur (ashi) d'un coup sec, tête haute et dos droit.\n3. Le frappeur reprend aussitôt la garde et ressort de distance ; le receveur annonce stop si besoin, et tous deux changent de rôle après chaque série.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Ashi-Uchi",
+      "description": "1. Der Empfänger trägt die Gesichtsmaske und steht in Deckung; der Schlagende steht ihm auf einen Schritt gegenüber.\n2. Der Schlagende senkt die Stellung leicht und trifft mit einem schnellen Schnappen das Bein des Empfängers (Ashi), Kopf oben, Rücken gerade.\n3. Der Schlagende geht sofort zurück in Deckung und aus der Distanz; der Empfänger ruft bei Bedarf Stopp, nach jeder Serie wechseln beide die Rollen.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Ashi-uchi",
+      "description": "1. Chi riceve indossa la maschera ed è in guardia; chi colpisce gli sta di fronte a un passo.\n2. Chi colpisce abbassa leggermente la posizione e tocca la gamba di chi riceve (ashi) con uno scatto rapido, testa alta e schiena dritta.\n3. Chi colpisce torna subito in guardia ed esce di distanza; chi riceve chiama lo stop se serve, ed entrambi scambiano i ruoli dopo ogni serie.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "足击",
+      "description": "1. 受方戴好面罩并摆好架势；攻方在一步距离外与其相对。\n2. 攻方略微降低重心，快速轻弹击打受方腿部（足），抬头挺背。\n3. 攻方立即恢复架势并退出攻击距离；受方必要时喊停，每组后双方交换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "足打ち",
+      "description": "1. 受け手は面を着けて構え、打ち手は一歩の間合いで向き合います。\n2. 打ち手はやや腰を落とし、頭を上げ背筋を伸ばしたまま、受け手の足を素早く打ちます。\n3. 打ち手はすぐに構えに戻って間合いの外へ下がり、受け手は必要なら止めの合図を出し、一組ごとに役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "다리 치기(아시우치)",
+      "description": "1. 받는 사람은 안면 마스크를 쓰고 가드를 잡으며, 치는 사람은 한 걸음 거리에서 마주 섭니다.\n2. 치는 사람은 자세를 약간 낮추고 머리를 들고 등을 곧게 편 채 받는 사람의 다리(아시)를 빠르게 튕겨 칩니다.\n3. 치는 사람은 즉시 가드를 회복하고 거리 밖으로 물러나며, 받는 사람은 필요하면 정지를 외치고, 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "อาชิอุจิ",
+      "description": "1. ผู้รับสวมหน้ากากและตั้งการ์ด ผู้ตียืนเผชิญหน้าในระยะหนึ่งก้าว\n2. ผู้ตีลดระดับตัวเล็กน้อยและตีขาของผู้รับ (อาชิ) ด้วยการสะบัดอย่างเร็ว เงยหน้าและหลังตรง\n3. ผู้ตีกลับสู่การ์ดทันทีและถอยออกนอกระยะ ผู้รับสั่งหยุดได้หากจำเป็น และสลับบทบาททุกชุด",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Аси-ути",
+      "description": "1. Принимающий в защитной маске стоит в стойке; атакующий стоит напротив на расстоянии шага.\n2. Атакующий слегка снижает стойку и быстрым хлёстом бьёт по ноге принимающего (аси), держа голову поднятой и спину прямой.\n3. Атакующий сразу возвращается в стойку и выходит из дистанции; принимающий при необходимости командует стоп, после каждой серии роли меняются.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Аші-учі",
+      "description": "1. Той, хто приймає, у захисній масці стоїть у стійці; атакувальник стоїть навпроти на відстані кроку.\n2. Атакувальник трохи знижує стійку й швидким хльостом б'є по нозі того, хто приймає (аші), тримаючи голову піднятою й спину прямою.\n3. Атакувальник одразу повертається в стійку й виходить із дистанції; той, хто приймає, за потреби командує стоп, після кожної серії ролі змінюються.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

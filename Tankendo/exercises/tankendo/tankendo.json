@@ -1,0 +1,90 @@
+{
+  "id": "102.1",
+  "key": "tankendo_main",
+  "title": "Tankendo",
+  "description": "1. Wear bogu and hold the short training sword in the right hand with the right foot forward, the tip toward the partner's throat and the left hand ready at the side.\n2. Close the distance with quick sliding steps, enter past the longer weapon, and land a cut to men or kote or a thrust to nodo or do with kiai.\n3. Recover kamae or step out at once after each attack, keeping zanshin and control of the free hand.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "tankendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tankendo",
+      "description": "1. Wear bogu and hold the short training sword in the right hand with the right foot forward, the tip toward the partner's throat and the left hand ready at the side.\n2. Close the distance with quick sliding steps, enter past the longer weapon, and land a cut to men or kote or a thrust to nodo or do with kiai.\n3. Recover kamae or step out at once after each attack, keeping zanshin and control of the free hand.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Tankendo",
+      "description": "1. Con bogu, sujeta la espada corta de entrenamiento en la mano derecha con el pie derecho adelante, la punta hacia la garganta del compañero y la mano izquierda lista al costado.\n2. Acorta la distancia con pasos deslizados rápidos, entra más allá del arma larga y marca un corte a men o kote o una estocada a nodo o do con kiai.\n3. Recupera el kamae o sal de inmediato tras cada ataque, manteniendo el zanshin y el control de la mano libre.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Tankendo",
+      "description": "1. Com bogu, segure a espada curta de treino na mão direita com o pé direito à frente, a ponta para a garganta do parceiro e a mão esquerda pronta ao lado.\n2. Encurte a distância com passos deslizados rápidos, entre além da arma longa e marque um corte ao men ou kote ou uma estocada ao nodo ou do com kiai.\n3. Recupere o kamae ou saia imediatamente após cada ataque, mantendo o zanshin e o controle da mão livre.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Tankendo",
+      "description": "1. En bogu, tenez le sabre court d’entraînement main droite, pied droit devant, pointe vers la gorge du partenaire, main gauche prête sur le côté.\n2. Réduisez la distance par des pas glissés rapides, entrez au-delà de l’arme longue et placez une coupe à men ou kote ou une pique à nodo ou do avec kiai.\n3. Reprenez le kamae ou sortez aussitôt après chaque attaque, en gardant le zanshin et le contrôle de la main libre.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Tankendo",
+      "description": "1. Mit Bogu das kurze Übungsschwert in der rechten Hand halten, rechter Fuß vorn, Spitze zur Kehle des Partners, linke Hand bereit an der Seite.\n2. Mit schnellen Gleitschritten die Distanz verkürzen, an der längeren Waffe vorbei eintreten und mit Kiai Men oder Kote schneiden oder Nodo oder Do stoßen.\n3. Nach jedem Angriff sofort Kamae einnehmen oder heraustreten, Zanshin und Kontrolle der freien Hand halten.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Tankendo",
+      "description": "1. Con il bogu, tieni la spada corta da allenamento nella mano destra con il piede destro avanti, la punta verso la gola del compagno e la mano sinistra pronta al fianco.\n2. Accorcia la distanza con rapidi passi scivolati, entra oltre l’arma lunga e porta un taglio a men o kote o un affondo a nodo o do con kiai.\n3. Ritrova il kamae o esci subito dopo ogni attacco, mantenendo lo zanshin e il controllo della mano libera.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "短剑道",
+      "description": "1. 穿戴护具，右手持练习用短剑，右脚在前，剑尖指向对方咽喉，左手在体侧准备。\n2. 以快速滑步缩短间合，越过较长的武器入身，配合气合斩面或小手、刺喉或胴。\n3. 每次进攻后立即恢复构势或退出，保持残心并控制空手。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "短剣道",
+      "description": "1. 防具を着け、右手に短剣を持ち右足を前にして剣先を相手の喉に向け、左手は体側で備えます。\n2. 素早いすり足で間合いを詰め、長い武器の内側へ入り身し、気合とともに面・小手を打つか喉・胴を突きます。\n3. 攻撃のたびにすぐ構えに戻るか間合いを切り、残心と空いた手の制御を保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "단켄도",
+      "description": "1. 호구를 착용하고 오른손에 짧은 연습용 칼을 잡고 오른발을 앞에 두며 칼끝은 상대의 목을, 왼손은 옆에서 준비합니다.\n2. 빠른 미끄럼 걸음으로 거리를 좁혀 긴 무기 안쪽으로 들어가 기합과 함께 머리나 손목을 베거나 목이나 몸통을 찌릅니다.\n3. 공격마다 즉시 자세로 돌아오거나 빠져나오며 잔심과 빈손의 통제를 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ทันเคนโด",
+      "description": "1. สวมโบงุ ถือดาบสั้นฝึกด้วยมือขวา เท้าขวาอยู่หน้า ปลายดาบชี้คอคู่ฝึก มือซ้ายพร้อมอยู่ข้างลำตัว\n2. ลดระยะด้วยก้าวไถที่รวดเร็ว เข้าประชิดผ่านอาวุธที่ยาวกว่า แล้วฟันเมนหรือโคเตะ หรือแทงโนโดะหรือโดพร้อมคิไอ\n3. กลับสู่ท่าหรือถอยออกทันทีหลังการโจมตีแต่ละครั้ง คงซันชินและการควบคุมมือที่ว่าง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Танкэндо",
+      "description": "1. В защитном снаряжении держите короткий тренировочный меч в правой руке, правая нога впереди, кончик к горлу партнёра, левая рука наготове сбоку.\n2. Сокращайте дистанцию быстрыми скользящими шагами, входите за более длинное оружие и наносите с киай удар в мэн или котэ либо укол в нодо или до.\n3. После каждой атаки сразу возвращайтесь в камаэ или выходите из дистанции, сохраняя дзансин и контроль свободной руки.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Танкендо",
+      "description": "1. У захисному спорядженні тримайте короткий тренувальний меч у правій руці, права нога попереду, кінчик до горла партнера, ліва рука напоготові збоку.\n2. Скорочуйте дистанцію швидкими ковзними кроками, входьте за довшу зброю й завдавайте з кіай удару в мен або коте чи уколу в нодо або до.\n3. Після кожної атаки одразу повертайтеся в камае або виходьте з дистанції, зберігаючи дзансін і контроль вільної руки.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

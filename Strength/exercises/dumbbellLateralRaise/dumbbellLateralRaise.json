@@ -1,0 +1,89 @@
+{
+  "id": "13.67",
+  "key": "strength_dumbbell_lateral_raise",
+  "title": "Dumbbell Lateral Raise",
+  "description": "1. Stand with a dumbbell in each hand, soft knees, and the arms resting by the sides.\n2. Raise the arms out to the sides to about shoulder height with a slight bend in the elbows and neutral wrists.\n3. Lower slowly without shrugging the shoulders or swinging the torso.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dumbbell Lateral Raise",
+      "description": "1. Stand with a dumbbell in each hand, soft knees, and the arms resting by the sides.\n2. Raise the arms out to the sides to about shoulder height with a slight bend in the elbows and neutral wrists.\n3. Lower slowly without shrugging the shoulders or swinging the torso.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Elevación lateral con mancuernas",
+      "description": "1. Ponte de pie con una mancuerna en cada mano, las rodillas sin bloquear y los brazos relajados a los lados.\n2. Eleva los brazos hacia los lados hasta aproximadamente la altura de los hombros con los codos ligeramente flexionados y las muñecas neutras.\n3. Baja despacio sin encoger los hombros ni balancear el torso.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Elevação lateral com halteres",
+      "description": "1. Fique em pé com um halter em cada mão, os joelhos destravados e os braços relaxados ao lado do corpo.\n2. Eleve os braços para os lados até cerca da altura dos ombros com os cotovelos levemente dobrados e os punhos neutros.\n3. Abaixe devagar sem encolher os ombros nem balançar o tronco.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Élévation latérale avec haltères",
+      "description": "1. Tenez-vous debout avec un haltère dans chaque main, genoux souples et bras relâchés le long du corps.\n2. Levez les bras sur les côtés jusqu’à environ hauteur d’épaules, coudes légèrement fléchis et poignets neutres.\n3. Redescendez lentement sans hausser les épaules ni balancer le buste.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Seitheben mit Kurzhanteln",
+      "description": "1. Stehe mit einer Kurzhantel in jeder Hand, lockeren Knien und seitlich hängenden Armen.\n2. Hebe die Arme seitlich bis etwa auf Schulterhöhe, Ellbogen leicht gebeugt und Handgelenke neutral.\n3. Senke langsam ab, ohne die Schultern hochzuziehen oder den Oberkörper zu schwingen.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Alzate laterali con manubri",
+      "description": "1. Resta in piedi con un manubrio in ciascuna mano, le ginocchia morbide e le braccia rilassate lungo i fianchi.\n2. Solleva le braccia lateralmente fino a circa l’altezza delle spalle con i gomiti leggermente piegati e i polsi neutri.\n3. Abbassa lentamente senza alzare le spalle né oscillare il busto.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃侧平举",
+      "description": "1. 站立，双手各持一只哑铃，膝盖微屈，双臂自然垂于体侧。\n2. 双臂向两侧抬起至约肩部高度，肘部微屈，手腕保持中立。\n3. 缓慢放下，不要耸肩或摆动躯干。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ダンベルラテラルレイズ",
+      "description": "1. 両手にダンベルを1個ずつ持ち、膝を軽く緩め、腕を体の横に下ろして立ちます。\n2. 肘を軽く曲げ手首をニュートラルに保ったまま、腕を肩の高さ程度まで横に上げます。\n3. 肩をすくめたり上体を揺らしたりせずに、ゆっくり下ろします。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "덤벨 레터럴 레이즈",
+      "description": "1. 양손에 덤벨을 하나씩 들고 무릎을 살짝 풀며 팔은 몸 옆에 편하게 둡니다.\n2. 팔꿈치를 살짝 굽히고 손목을 중립으로 유지하며 팔을 옆으로 어깨 높이 정도까지 올립니다.\n3. 어깨를 으쓱하거나 몸통을 흔들지 않고 천천히 내립니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ยกแขนด้านข้างด้วยดัมเบล",
+      "description": "1. ยืนถือดัมเบลมือละหนึ่งอัน งอเข่าเล็กน้อย และปล่อยแขนไว้ข้างลำตัว\n2. ยกแขนออกด้านข้างจนประมาณระดับไหล่ โดยงอศอกเล็กน้อยและรักษาข้อมือให้อยู่ในแนวกลาง\n3. ลดแขนลงช้า ๆ โดยไม่ยักไหล่หรือแกว่งลำตัว",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Подъём гантелей в стороны",
+      "description": "1. Встаньте с гантелью в каждой руке, колени слегка согнуты, руки свободно опущены по бокам.\n2. Поднимите руки в стороны примерно до уровня плеч, слегка согнув локти и сохраняя запястья нейтральными.\n3. Медленно опустите, не поднимая плечи и не раскачивая корпус.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Підйом гантелей у сторони",
+      "description": "1. Станьте з гантеллю в кожній руці, коліна злегка зігнуті, руки вільно опущені по боках.\n2. Підніміть руки в сторони приблизно до рівня плечей, злегка зігнувши лікті й зберігаючи зап’ястя нейтральними.\n3. Повільно опустіть, не піднімаючи плечей і не розгойдуючи корпус.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

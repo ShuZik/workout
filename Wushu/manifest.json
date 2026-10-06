@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "Wushu",
+    "id": "109",
+    "icon": "Wushu/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Wushu",
+    "workoutType": "wushu",
+    "translations": {
+      "en": {
+        "title": "Wushu"
+      },
+      "es": {
+        "title": "Wushu"
+      },
+      "pt": {
+        "title": "Wushu"
+      },
+      "fr": {
+        "title": "Wushu"
+      },
+      "de": {
+        "title": "Wushu"
+      },
+      "it": {
+        "title": "Wushu"
+      },
+      "zh-Hans": {
+        "title": "武术"
+      },
+      "ja": {
+        "title": "武術"
+      },
+      "ko": {
+        "title": "우슈"
+      },
+      "th": {
+        "title": "วูซู"
+      },
+      "ru": {
+        "title": "Ушу"
+      },
+      "uk": {
+        "title": "Ушу"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Wushu/exercises/wushu/Icon.png",
+      "json": "Wushu/exercises/wushu/wushu.json"
+    },
+    {
+      "icon": "Wushu/exercises/changquan/Icon.png",
+      "json": "Wushu/exercises/changquan/changquan.json"
+    },
+    {
+      "icon": "Wushu/exercises/nanquan/Icon.png",
+      "json": "Wushu/exercises/nanquan/nanquan.json"
+    },
+    {
+      "icon": "Wushu/exercises/taijiquan/Icon.png",
+      "json": "Wushu/exercises/taijiquan/taijiquan.json"
+    },
+    {
+      "icon": "Wushu/exercises/daoshu/Icon.png",
+      "json": "Wushu/exercises/daoshu/daoshu.json"
+    },
+    {
+      "icon": "Wushu/exercises/jianshu/Icon.png",
+      "json": "Wushu/exercises/jianshu/jianshu.json"
+    },
+    {
+      "icon": "Wushu/exercises/gunshu/Icon.png",
+      "json": "Wushu/exercises/gunshu/gunshu.json"
+    },
+    {
+      "icon": "Wushu/exercises/qiangshu/Icon.png",
+      "json": "Wushu/exercises/qiangshu/qiangshu.json"
+    },
+    {
+      "icon": "Wushu/exercises/nandao/Icon.png",
+      "json": "Wushu/exercises/nandao/nandao.json"
+    },
+    {
+      "icon": "Wushu/exercises/nangun/Icon.png",
+      "json": "Wushu/exercises/nangun/nangun.json"
+    },
+    {
+      "icon": "Wushu/exercises/taijijian/Icon.png",
+      "json": "Wushu/exercises/taijijian/taijijian.json"
+    },
+    {
+      "icon": "Wushu/exercises/taijishan/Icon.png",
+      "json": "Wushu/exercises/taijishan/taijishan.json"
+    },
+    {
+      "icon": "Wushu/exercises/duilian/Icon.png",
+      "json": "Wushu/exercises/duilian/duilian.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "84.8",
+  "key": "nihon_kempo_bogu_kumite",
+  "title": "Bogu Kumite Sparring",
+  "description": "1. Both fighters put on the men, do, groin guard, and gloves, then bow at the start line.\n2. Exchange punches, kicks, and throws at controlled power, scoring with clean blows to the protected targets and finishing strikes after a takedown.\n3. Stop immediately at the referee's or partner's signal, separate into kamae, and bow at the end of the bout.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bogu Kumite Sparring",
+      "description": "1. Both fighters put on the men, do, groin guard, and gloves, then bow at the start line.\n2. Exchange punches, kicks, and throws at controlled power, scoring with clean blows to the protected targets and finishing strikes after a takedown.\n3. Stop immediately at the referee's or partner's signal, separate into kamae, and bow at the end of the bout.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Combate con protecciones bogu kumite",
+      "description": "1. Ambos luchadores se colocan el men, el do, la coquilla y los guantes, y saludan en la línea de salida.\n2. Intercambiad puños, patadas y proyecciones con potencia controlada, puntuando con golpes limpios a las zonas protegidas y con golpes de remate tras un derribo.\n3. Parad de inmediato a la señal del árbitro o del compañero, separaos en kamae y saludad al final del combate.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Combate com proteções bogu kumite",
+      "description": "1. Os dois lutadores vestem o men, o do, o protetor genital e as luvas, e se cumprimentam na linha de início.\n2. Troquem socos, chutes e projeções com força controlada, pontuando com golpes limpos nas áreas protegidas e golpes de finalização após uma queda.\n3. Parem imediatamente ao sinal do árbitro ou do parceiro, separem-se em kamae e cumprimentem-se ao fim da luta.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Combat en protections bogu kumite",
+      "description": "1. Les deux combattants mettent le men, le do, la coquille et les gants, puis saluent sur la ligne de départ.\n2. Échangez coups de poing, coups de pied et projections avec une puissance contrôlée, en marquant par des frappes nettes sur les zones protégées et des frappes de finition après une projection.\n3. Arrêtez immédiatement au signal de l'arbitre ou du partenaire, séparez-vous en kamae et saluez à la fin du combat.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Bogu-Kumite-Sparring",
+      "description": "1. Beide Kämpfer legen Men, Do, Tiefschutz und Handschuhe an und verbeugen sich an der Startlinie.\n2. Tauscht Schläge, Tritte und Würfe mit kontrollierter Kraft aus und punktet mit sauberen Treffern auf die geschützten Ziele sowie Abschlussschlägen nach einem Wurf.\n3. Hört beim Signal des Kampfrichters oder Partners sofort auf, trennt euch ins Kamae und verbeugt euch am Ende des Kampfes.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Combattimento con protezioni bogu kumite",
+      "description": "1. Entrambi i combattenti indossano men, do, conchiglia e guantoni, poi si salutano sulla linea di partenza.\n2. Scambiate pugni, calci e proiezioni con potenza controllata, segnando con colpi puliti sulle zone protette e colpi finali dopo un atterramento.\n3. Fermatevi subito al segnale dell'arbitro o del compagno, separatevi in kamae e salutatevi a fine incontro.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "防具组手",
+      "description": "1. 双方戴好面罩、胴甲、护裆和拳套，在起始线行礼。\n2. 以有控制的力量互换拳、踢和摔，用击中护具部位的干净打击以及摔倒后的补击得分。\n3. 听到裁判或对方的信号立即停止，分开回到构式，比赛结束时行礼。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "防具組手",
+      "description": "1. 両者とも面・胴・金的ガード・グローブを着け、開始線で礼をします。\n2. 制御した力で突き・蹴り・投げを交わし、防具部位への有効打と投げた後の極めの突きで得点を狙います。\n3. 審判や相手の合図で直ちに止め、分かれて構え、試合の終わりに礼をします。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "보구 구미테 겨루기",
+      "description": "1. 두 선수 모두 면, 몸통 보호구, 낭심 보호대, 글러브를 착용하고 시작선에서 인사합니다.\n2. 조절된 힘으로 지르기, 차기, 메치기를 주고받으며, 보호구 부위에 대한 깨끗한 타격과 메친 뒤의 마무리 지르기로 득점합니다.\n3. 심판이나 상대의 신호가 있으면 즉시 멈추고 떨어져 카마에를 잡으며, 경기가 끝나면 인사합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "การต่อสู้สวมเกราะโบงุคุมิเตะ",
+      "description": "1. นักสู้ทั้งสองสวมเมง โด กระจับ และนวม แล้วโค้งคำนับที่เส้นเริ่ม\n2. แลกหมัด เตะ และทุ่มด้วยแรงที่ควบคุมได้ ทำคะแนนด้วยการโจมตีที่ชัดเจนเข้าเป้าที่มีเครื่องป้องกันและหมัดปิดท้ายหลังการทุ่ม\n3. หยุดทันทีเมื่อกรรมการหรือคู่ฝึกให้สัญญาณ แยกออกไปตั้งคามาเอะ และโค้งคำนับเมื่อจบการต่อสู้",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Богу-кумитэ — спарринг в защите",
+      "description": "1. Оба бойца надевают мэн, до, защиту паха и перчатки и кланяются на стартовой линии.\n2. Обменивайтесь ударами руками, ногами и бросками с контролируемой силой, набирая очки чистыми ударами в защищённые зоны и добивающими ударами после броска.\n3. Немедленно остановитесь по сигналу судьи или партнёра, разойдитесь в камаэ и поклонитесь в конце схватки.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Боґу-куміте — спаринг у захисті",
+      "description": "1. Обидва бійці одягають мен, до, захист паху й рукавиці та вклоняються на стартовій лінії.\n2. Обмінюйтеся ударами руками, ногами й кидками з контрольованою силою, набираючи очки чистими ударами в захищені зони та добивальними ударами після кидка.\n3. Негайно зупиніться за сигналом судді чи партнера, розійдіться в камае й вклоніться наприкінці сутички.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "11.12",
+  "key": "treadmill_walk",
+  "title": "Treadmill Walk",
+  "description": "1. Attach the safety clip, start at the lowest speed, and walk in the center of the belt.\n2. Use natural heel-to-toe steps with the torso upright and arms swinging rather than gripping the rails.\n3. Increase speed or incline gradually and return the belt to a slow walk before stepping off.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 5.5,
+    "lightCode": "17152",
+    "moderateCode": "17190",
+    "vigorousCode": "17220"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Treadmill Walk",
+      "description": "1. Attach the safety clip, start at the lowest speed, and walk in the center of the belt.\n2. Use natural heel-to-toe steps with the torso upright and arms swinging rather than gripping the rails.\n3. Increase speed or incline gradually and return the belt to a slow walk before stepping off.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "Caminata en cinta",
+      "description": "1. Coloca el clip de seguridad, empieza a la velocidad más baja y camina en el centro de la cinta.\n2. Usa pasos naturales del talón a los dedos, con el torso erguido y los brazos balanceándose en lugar de agarrar las barandillas.\n3. Aumenta la velocidad o la inclinación gradualmente y vuelve a una caminata lenta antes de bajar.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "Caminhada na esteira",
+      "description": "1. Prenda o clipe de segurança, comece na velocidade mais baixa e caminhe no centro da esteira.\n2. Use passos naturais do calcanhar aos dedos, com o tronco ereto e os braços balançando em vez de segurar os apoios.\n3. Aumente a velocidade ou a inclinação gradualmente e volte a uma caminhada lenta antes de sair.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Marche sur tapis",
+      "description": "1. Attachez le clip de sécurité, commencez à la vitesse minimale et marchez au centre du tapis.\n2. Faites des pas naturels du talon aux orteils, le torse droit et les bras en mouvement plutôt que de tenir les rampes.\n3. Augmentez progressivement la vitesse ou l’inclinaison et ramenez le tapis à une marche lente avant de descendre.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "Gehen auf dem Laufband",
+      "description": "1. Befestige den Sicherheitsclip, beginne mit der niedrigsten Geschwindigkeit und gehe in der Mitte des Bandes.\n2. Gehe natürlich von der Ferse zu den Zehen, mit aufrechtem Oberkörper und schwingenden Armen, statt die Geländer zu greifen.\n3. Erhöhe Tempo oder Steigung allmählich und stelle das Band vor dem Absteigen auf langsames Gehen zurück.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "Camminata sul tapis roulant",
+      "description": "1. Aggancia la clip di sicurezza, inizia alla velocità minima e cammina al centro del nastro.\n2. Usa passi naturali dal tallone alle dita, con il busto eretto e le braccia che oscillano invece di afferrare i corrimano.\n3. Aumenta velocità o inclinazione gradualmente e riporta il nastro a una camminata lenta prima di scendere.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "跑步机步行",
+      "description": "1. 夹好安全夹，从最低速度开始，在跑带中央步行。\n2. 自然地从脚跟滚动到脚尖，躯干直立，双臂摆动，不要握住扶手。\n3. 逐渐增加速度或坡度，离开跑带前先调回慢速步行。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "トレッドミルウォーキング",
+      "description": "1. 安全クリップを付け、最低速度から始めてベルトの中央を歩きます。\n2. 上体を起こし、手すりを握らず腕を振りながら、かかとからつま先へ自然に歩きます。\n3. 速度や傾斜を徐々に上げ、降りる前にベルトをゆっくり歩く速度へ戻します。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "트레드밀 걷기",
+      "description": "1. 안전 클립을 부착하고 가장 낮은 속도로 시작해 벨트 중앙에서 걷습니다.\n2. 몸통을 세우고 난간을 잡는 대신 팔을 흔들며 발뒤꿈치에서 발끝으로 자연스럽게 걷습니다.\n3. 속도나 경사를 서서히 높이고 내리기 전에 벨트를 느리게 걷는 속도로 되돌립니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "การเดินบนลู่วิ่ง",
+      "description": "1. ติดคลิปนิรภัย เริ่มด้วยความเร็วต่ำสุด และเดินตรงกลางสายพาน\n2. ก้าวตามธรรมชาติจากส้นเท้าไปปลายเท้า ให้ลำตัวตั้งตรงและแกว่งแขนแทนการจับราว\n3. เพิ่มความเร็วหรือความชันทีละน้อย และปรับสายพานกลับเป็นเดินช้าก่อนก้าวลง",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "Ходьба на беговой дорожке",
+      "description": "1. Прикрепите страховочную клипсу, начните с минимальной скорости и идите по центру полотна.\n2. Делайте естественные шаги с пятки на носок, держа туловище прямо и двигая руками вместо захвата поручней.\n3. Постепенно увеличивайте скорость или наклон и перед сходом верните полотно к медленной ходьбе.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "Ходьба на біговій доріжці",
+      "description": "1. Прикріпіть страхувальну кліпсу, почніть із мінімальної швидкості й ідіть по центру полотна.\n2. Робіть природні кроки з п’яти на носок, тримаючи тулуб рівно й рухаючи руками замість тримання за поручні.\n3. Поступово збільшуйте швидкість або нахил і перед сходженням поверніть полотно до повільної ходьби.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
+}

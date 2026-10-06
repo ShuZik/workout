@@ -1,0 +1,90 @@
+{
+  "id": "3.37",
+  "key": "kick_boxing_corkscrew_punch",
+  "title": "Corkscrew Punch",
+  "description": "1. From guard, start the punch on a straight line from the cheek while the other hand protects the face.\n2. Near extension, rotate the forearm strongly so the thumb turns down and the palm faces outward, letting the fist curve slightly inward around the opponent's guard.\n3. Unwind the rotation as the fist returns along the same path and restore guard and stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Corkscrew Punch",
+      "description": "1. From guard, start the punch on a straight line from the cheek while the other hand protects the face.\n2. Near extension, rotate the forearm strongly so the thumb turns down and the palm faces outward, letting the fist curve slightly inward around the opponent's guard.\n3. Unwind the rotation as the fist returns along the same path and restore guard and stance.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Golpe en sacacorchos",
+      "description": "1. Desde la guardia, inicia el golpe en línea recta desde la mejilla mientras la otra mano protege la cara.\n2. Cerca de la extensión, gira con fuerza el antebrazo para que el pulgar apunte abajo y la palma hacia fuera, dejando que el puño se curve un poco hacia dentro rodeando la guardia rival.\n3. Deshaz la rotación mientras el puño vuelve por el mismo camino y recupera la guardia y la postura.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Soco em saca-rolhas",
+      "description": "1. Da guarda, comece o soco em linha reta a partir da bochecha enquanto a outra mão protege o rosto.\n2. Perto da extensão, gire fortemente o antebraço para o polegar apontar para baixo e a palma para fora, deixando o punho curvar um pouco para dentro contornando a guarda adversária.\n3. Desfaça a rotação enquanto o punho volta pelo mesmo caminho e recupere a guarda e a base.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Coup de poing en tire-bouchon",
+      "description": "1. Depuis la garde, lancez le coup en ligne droite depuis la joue pendant que l’autre main protège le visage.\n2. En fin d’extension, tournez fortement l’avant-bras pour que le pouce pointe vers le bas et la paume vers l’extérieur, le poing s’incurvant légèrement vers l’intérieur autour de la garde adverse.\n3. Défaites la rotation en ramenant le poing par le même trajet et retrouvez garde et position.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Korkenzieherschlag",
+      "description": "1. Starte den Schlag aus der Deckung auf gerader Linie von der Wange, während die andere Hand das Gesicht schützt.\n2. Drehe kurz vor der Streckung den Unterarm stark ein, sodass der Daumen nach unten und die Handfläche nach außen zeigt und die Faust leicht nach innen um die gegnerische Deckung läuft.\n3. Löse die Drehung, während die Faust auf demselben Weg zurückkehrt, und stelle Deckung und Stellung wieder her.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Pugno a cavatappi",
+      "description": "1. Dalla guardia, avvia il pugno in linea retta dalla guancia mentre l’altra mano protegge il volto.\n2. Vicino all’estensione ruota con decisione l’avambraccio, pollice in basso e palmo verso l’esterno, lasciando che il pugno curvi leggermente verso l’interno attorno alla guardia avversaria.\n3. Sciogli la rotazione mentre il pugno torna sulla stessa traiettoria e ripristina guardia e posizione.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "螺旋拳",
+      "description": "1. 从防守位，拳从脸颊沿直线出发，另一只手护住面部。\n2. 接近伸直时用力内旋前臂，使拇指朝下、掌心朝外，拳头略向内弯绕过对手防守。\n3. 拳沿原路收回时解除旋转，恢复防守和站姿。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "コークスクリューパンチ",
+      "description": "1. ガードから、もう一方の手で顔を守りつつ頬からまっすぐパンチを出し始めます。\n2. 伸び切る直前に前腕を強くひねり、親指を下、手のひらを外に向け、拳を相手のガードの内側へ少し曲げて入れます。\n3. 同じ軌道で拳を戻しながらひねりを解き、ガードと構えを戻します。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "코르크스크루 펀치",
+      "description": "1. 가드에서 다른 손으로 얼굴을 지키며 뺨에서 곧게 펀치를 시작합니다.\n2. 거의 다 뻗었을 때 전완을 강하게 비틀어 엄지가 아래, 손바닥이 바깥을 향하게 하고 주먹이 상대 가드 안쪽으로 살짝 휘어 들어가게 합니다.\n3. 같은 경로로 주먹을 되돌리며 회전을 풀고 가드와 자세를 회복합니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "หมัดเกลียว",
+      "description": "1. จากการ์ด เริ่มออกหมัดเป็นเส้นตรงจากแก้ม โดยมืออีกข้างป้องกันใบหน้า\n2. ใกล้สุดแขนให้บิดแขนท่อนล่างแรง ๆ จนนิ้วโป้งชี้ลงและฝ่ามือหันออก ให้หมัดโค้งเข้าด้านในเล็กน้อยอ้อมการ์ดคู่ต่อสู้\n3. คลายการบิดขณะดึงหมัดกลับทางเดิม แล้วกลับสู่การ์ดและท่ายืน",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Удар штопором",
+      "description": "1. Из защиты начните удар по прямой от щеки, второй рукой прикрывая лицо.\n2. Ближе к выпрямлению сильно проверните предплечье так, чтобы большой палец смотрел вниз, а ладонь наружу, и кулак слегка огибал защиту соперника внутрь.\n3. Снимите вращение, возвращая кулак по той же траектории, и восстановите защиту и стойку.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Удар штопором",
+      "description": "1. Із захисту почніть удар по прямій від щоки, другою рукою прикриваючи обличчя.\n2. Ближче до випрямлення сильно проверніть передпліччя так, щоб великий палець дивився вниз, а долоня назовні, і кулак трохи огинав захист суперника всередину.\n3. Зніміть обертання, повертаючи кулак тією самою траєкторією, і віднов��ть захист та стійку.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

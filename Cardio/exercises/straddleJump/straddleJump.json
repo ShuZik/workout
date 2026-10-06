@@ -1,0 +1,90 @@
+{
+  "id": "11.35",
+  "key": "jump_rope_straddle_jump",
+  "title": "Straddle Jump",
+  "description": "1. Begin with feet together and establish a steady rope rhythm.\n2. Jump the feet wider than hip width as the rope passes under.\n3. Bring the feet together on the next pass, landing softly with toes and knees pointing forward.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 8.3,
+    "moderate": 11.8,
+    "vigorous": 12.3,
+    "lightCode": "15552",
+    "moderateCode": "15551",
+    "vigorousCode": "15550"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Jump Rope",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Straddle Jump",
+      "description": "1. Begin with feet together and establish a steady rope rhythm.\n2. Jump the feet wider than hip width as the rope passes under.\n3. Bring the feet together on the next pass, landing softly with toes and knees pointing forward.",
+      "sectionTitle": "Jump Rope"
+    },
+    "es": {
+      "title": "Salto abriendo las piernas",
+      "description": "1. Empieza con los pies juntos y establece un ritmo constante con la cuerda.\n2. Salta separando los pies más que el ancho de las caderas cuando la cuerda pase por debajo.\n3. Junta los pies en la siguiente pasada y aterriza suavemente con los dedos y las rodillas hacia delante.",
+      "sectionTitle": "Saltar a la comba"
+    },
+    "pt": {
+      "title": "Salto abrindo as pernas",
+      "description": "1. Comece com os pés juntos e estabeleça um ritmo constante com a corda.\n2. Salte afastando os pés além da largura do quadril quando a corda passar por baixo.\n3. Junte os pés na próxima passagem, aterrissando suavemente com os dedos dos pés e os joelhos para a frente.",
+      "sectionTitle": "Pular corda"
+    },
+    "fr": {
+      "title": "Saut jambes écartées",
+      "description": "1. Commencez les pieds joints et installez un rythme de corde régulier.\n2. Sautez en écartant les pieds au-delà de la largeur des hanches lorsque la corde passe dessous.\n3. Rapprochez les pieds au passage suivant et réceptionnez-vous doucement, les orteils et les genoux vers l’avant.",
+      "sectionTitle": "Corde à sauter"
+    },
+    "de": {
+      "title": "Grätschsprung",
+      "description": "1. Beginne mit geschlossenen Füßen und finde einen gleichmäßigen Seilrhythmus.\n2. Springe mit den Füßen weiter als hüftbreit auseinander, wenn das Seil darunter durchläuft.\n3. Bringe beim nächsten Durchlauf die Füße zusammen und lande weich mit nach vorn gerichteten Zehen und Knien.",
+      "sectionTitle": "Seilspringen"
+    },
+    "it": {
+      "title": "Salto a gambe divaricate",
+      "description": "1. Inizia con i piedi uniti e stabilisci un ritmo regolare della corda.\n2. Salta aprendo i piedi oltre la larghezza delle anche quando la corda passa sotto.\n3. Riunisci i piedi al passaggio successivo e atterra dolcemente con le dita e le ginocchia rivolte avanti.",
+      "sectionTitle": "Salto con la corda"
+    },
+    "zh-Hans": {
+      "title": "开合跳",
+      "description": "1. 双脚并拢，建立稳定的转绳节奏。\n2. 绳子从下方通过时，跳起并将双脚分开超过髋宽。\n3. 下一次通过时双脚并拢，轻柔落地，脚趾和膝盖朝前。",
+      "sectionTitle": "跳绳"
+    },
+    "ja": {
+      "title": "開閉跳び",
+      "description": "1. 足を揃え、一定のロープのリズムを作ります。\n2. ロープが下を通るとき、足を腰幅より広く開いて跳びます。\n3. 次の通過で足を揃え、つま先と膝を前に向けて柔らかく着地します。",
+      "sectionTitle": "縄跳び"
+    },
+    "ko": {
+      "title": "다리 벌려 뛰기",
+      "description": "1. 발을 모으고 일정한 줄 회전 리듬을 만듭니다.\n2. 줄이 아래로 지나갈 때 발을 골반 너비보다 넓게 벌려 뜁니다.\n3. 다음 통과 때 발을 모으고 발끝과 무릎을 앞으로 향하며 부드럽게 착지합니다.",
+      "sectionTitle": "줄넘기"
+    },
+    "th": {
+      "title": "การกระโดดแยกขา",
+      "description": "1. เริ่มด้วยเท้าชิดกันและสร้างจังหวะเชือกที่สม่ำเสมอ\n2. กระโดดแยกเท้าให้กว้างกว่าสะโพกเมื่อเชือกผ่านด้านล่าง\n3. นำเท้าชิดกันในรอบถัดไป ลงอย่างนุ่มนวลโดยให้ปลายเท้าและเข่าชี้ไปข้างหน้า",
+      "sectionTitle": "กระโดดเชือก"
+    },
+    "ru": {
+      "title": "Прыжок с разведением ног",
+      "description": "1. Начните со стопами вместе и установите ровный ритм скакалки.\n2. Разведите стопы в прыжке шире таза, когда скакалка проходит снизу.\n3. На следующем проходе соедините стопы и мягко приземлитесь, направив носки и колени вперёд.",
+      "sectionTitle": "Скакалка"
+    },
+    "uk": {
+      "title": "Стрибок із розведенням ніг",
+      "description": "1. Почніть зі стопами разом і встановіть рівний ритм скакалки.\n2. Розведіть стопи у стрибку ширше таза, коли скакалка проходить знизу.\n3. На наступному проході з’єднайте стопи й м’яко приземліться, спрямувавши носки та коліна вперед.",
+      "sectionTitle": "Скакалка"
+    }
+  }
+}

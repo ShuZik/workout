@@ -1,0 +1,90 @@
+{
+  "id": "9.30",
+  "key": "boxing_slips_and_rolls",
+  "title": "Boxing Slips & Rolls",
+  "description": "1. Take a boxing stance and imagine a straight line running between the opponent's shoulders.\n2. Bend the knees and rotate slightly to move the head just outside that line for a slip.\n3. Trace a shallow U under an imagined hook for a roll, then return to stance without bending at the waist.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 5.8,
+    "vigorous": 7,
+    "lightCode": "15425",
+    "moderateCode": "15110",
+    "vigorousCode": "15113"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Boxing Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Boxing Slips & Rolls",
+      "description": "1. Take a boxing stance and imagine a straight line running between the opponent's shoulders.\n2. Bend the knees and rotate slightly to move the head just outside that line for a slip.\n3. Trace a shallow U under an imagined hook for a roll, then return to stance without bending at the waist.",
+      "sectionTitle": "Boxing Prep"
+    },
+    "es": {
+      "title": "Esquivas y pasos bajo el golpe en boxeo",
+      "description": "1. Adopta una postura de boxeo e imagina una línea recta entre los hombros del oponente.\n2. Flexiona las rodillas y gira ligeramente para mover la cabeza justo fuera de esa línea al esquivar.\n3. Traza una U poco profunda bajo un gancho imaginario para pasar por debajo, después vuelve a la postura sin doblarte por la cintura.",
+      "sectionTitle": "Preparación para boxeo"
+    },
+    "pt": {
+      "title": "Esquivas e pêndulos de boxe",
+      "description": "1. Assuma uma postura de boxe e imagine uma linha reta entre os ombros do oponente.\n2. Dobre os joelhos e gire levemente para mover a cabeça pouco além dessa linha ao esquivar.\n3. Trace um U raso sob um gancho imaginário para passar por baixo e retorne à postura sem dobrar a cintura.",
+      "sectionTitle": "Preparação para boxe"
+    },
+    "fr": {
+      "title": "Esquives et passages sous les coups en boxe",
+      "description": "1. Prenez une posture de boxe et imaginez une ligne droite entre les épaules de l’adversaire.\n2. Fléchissez les genoux et tournez légèrement pour déplacer la tête juste hors de cette ligne lors de l’esquive.\n3. Dessinez un U peu profond sous un crochet imaginaire pour passer dessous, puis reprenez la posture sans vous plier à la taille.",
+      "sectionTitle": "Préparation à la boxe"
+    },
+    "de": {
+      "title": "Boxpendeln und Abtauchen",
+      "description": "1. Nimm eine Boxstellung ein und stelle dir eine gerade Linie zwischen den Schultern des Gegners vor.\n2. Beuge die Knie und drehe dich leicht, um den Kopf für das Pendeln knapp aus dieser Linie zu bewegen.\n3. Zeichne beim Abtauchen ein flaches U unter einem gedachten Haken und kehre zurück, ohne dich in der Taille abzuknicken.",
+      "sectionTitle": "Boxvorbereitung"
+    },
+    "it": {
+      "title": "Schivate e passaggi sotto il colpo nella boxe",
+      "description": "1. Assumi una posizione di boxe e immagina una linea retta tra le spalle dell’avversario.\n2. Piega le ginocchia e ruota leggermente per spostare la testa appena fuori da quella linea durante la schivata.\n3. Traccia una U poco profonda sotto un gancio immaginario per passare sotto, poi torna in posizione senza piegarti alla vita.",
+      "sectionTitle": "Preparazione alla boxe"
+    },
+    "zh-Hans": {
+      "title": "拳击闪躲与下潜",
+      "description": "1. 采取拳击站姿，想象一条位于对手双肩之间的直线。\n2. 弯曲膝盖并轻微旋转，使头部刚好移出这条线以完成闪躲。\n3. 在想象的勾拳下方画出浅U形轨迹完成下潜，然后回到站姿，不要从腰部折叠。",
+      "sectionTitle": "拳击准备"
+    },
+    "ja": {
+      "title": "ボクシングのスリップとロール",
+      "description": "1. ボクシングの構えを取り、相手の両肩の間に直線をイメージします。\n2. 膝を曲げて軽く回転し、スリップで頭をその線のすぐ外側に動かします。\n3. 想像上のフックの下に浅いU字を描いてロールし、腰から折れ曲がらずに構えに戻ります。",
+      "sectionTitle": "ボクシング準備"
+    },
+    "ko": {
+      "title": "복싱 슬립과 롤",
+      "description": "1. 복싱 자세에서 상대 양 어깨 사이의 직선을 상상합니다.\n2. 무릎을 굽히고 살짝 회전하여 슬립 때 머리를 그 선 바로 밖으로 옮깁니다.\n3. 가상의 훅 아래로 얕은 U자 궤적을 그려 롤한 뒤 허리에서 접지 않고 자세로 돌아옵니다.",
+      "sectionTitle": "복싱 준비"
+    },
+    "th": {
+      "title": "หลบและมุดหมัดมวยสากล",
+      "description": "1. ตั้งท่ามวยสากลและนึกถึงเส้นตรงระหว่างหัวไหล่ของคู่ต่อสู้\n2. งอเข่าและหมุนเล็กน้อยเพื่อเคลื่อนศีรษะออกจากเส้นนั้นเพียงเล็กน้อยในการหลบ\n3. วาดแนวตัว U ตื้น ๆ ใต้หมัดฮุกสมมติเพื่อมุด แล้วกลับสู่ท่ายืนโดยไม่พับตัวที่เอว",
+      "sectionTitle": "เตรียมพร้อมสำหรับมวยสากล"
+    },
+    "ru": {
+      "title": "Уклоны и нырки в боксе",
+      "description": "1. Примите боксёрскую стойку и представьте прямую линию между плечами соперника.\n2. Согните колени и слегка повернитесь, перемещая голову чуть за эту линию для уклона.\n3. Для нырка опишите неглубокую U под воображаемым хуком, затем вернитесь в стойку, не сгибаясь в пояснице.",
+      "sectionTitle": "Подготовка к боксу"
+    },
+    "uk": {
+      "title": "Ухили та нирки в боксі",
+      "description": "1. Прийміть боксерську стійку й уявіть пряму лінію між плечима суперника.\n2. Зігніть коліна та трохи поверніться, переміщаючи голову трохи за цю лінію для ухилу.\n3. Для нирка опишіть неглибоку U під уявним хуком, потім поверніться у стійку, не згинаючись у попереку.",
+      "sectionTitle": "Підготовка до боксу"
+    }
+  }
+}

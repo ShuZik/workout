@@ -1,0 +1,90 @@
+{
+  "id": "84.4",
+  "key": "nihon_kempo_choku_zuki",
+  "title": "Straight Punch (Choku-zuki)",
+  "description": "1. From kamae, drive the lead fist straight to the target with the fist vertical, pushing off the rear foot.\n2. Follow with a rear straight punch powered by hip rotation, returning each fist to guard along the same line.\n3. Throw combinations at a steady pace for the round, keeping the chin tucked and the non-punching hand guarding the face.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Straight Punch (Choku-zuki)",
+      "description": "1. From kamae, drive the lead fist straight to the target with the fist vertical, pushing off the rear foot.\n2. Follow with a rear straight punch powered by hip rotation, returning each fist to guard along the same line.\n3. Throw combinations at a steady pace for the round, keeping the chin tucked and the non-punching hand guarding the face.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Golpe recto (choku-zuki)",
+      "description": "1. Desde kamae, lanza el puño delantero en línea recta al objetivo con el puño vertical, impulsándote con el pie trasero.\n2. Sigue con un recto de la mano trasera impulsado por el giro de cadera, devolviendo cada puño a la guardia por la misma línea.\n3. Encadena combinaciones a ritmo constante durante el asalto, con la barbilla metida y la mano libre protegiendo la cara.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Soco reto (choku-zuki)",
+      "description": "1. Do kamae, leve o punho da frente reto ao alvo com o punho na vertical, impulsionando com o pé de trás.\n2. Siga com um direto da mão de trás impulsionado pelo giro do quadril, voltando cada punho à guarda pela mesma linha.\n3. Lance combinações em ritmo constante durante o round, com o queixo recolhido e a mão livre protegendo o rosto.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Coup de poing direct (choku-zuki)",
+      "description": "1. Depuis kamae, envoyez le poing avant droit sur la cible, poing vertical, en poussant sur le pied arrière.\n2. Enchaînez avec un direct du bras arrière porté par la rotation des hanches, en ramenant chaque poing en garde sur la même ligne.\n3. Enchaînez les combinaisons à un rythme régulier pendant le round, menton rentré et main libre protégeant le visage.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Gerader Fauststoß (Choku-zuki)",
+      "description": "1. Stoße aus dem Kamae die vordere Faust senkrecht gerade ins Ziel und drücke dich dabei vom hinteren Fuß ab.\n2. Folge mit einem geraden Stoß der hinteren Hand aus der Hüftdrehung und führe jede Faust auf derselben Linie in die Deckung zurück.\n3. Schlage die ganze Runde Kombinationen in gleichmäßigem Tempo, das Kinn eingezogen und die freie Hand vor dem Gesicht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Pugno diretto (choku-zuki)",
+      "description": "1. Dal kamae porta il pugno avanti dritto al bersaglio con il pugno verticale, spingendo con il piede dietro.\n2. Prosegui con un diretto della mano dietro spinto dalla rotazione delle anche, riportando ogni pugno in guardia sulla stessa linea.\n3. Esegui combinazioni a ritmo costante per tutto il round, con il mento basso e la mano libera a protezione del viso.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "直突（直拳）",
+      "description": "1. 从构式出发，后脚蹬地，前拳立拳直线击向目标。\n2. 接着借转腰之力打出后手直拳，每一拳都沿原线路收回防守位。\n3. 整个回合以稳定的节奏打组合拳，收紧下颌，不出拳的手护住面部。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "直突き",
+      "description": "1. 構えから後ろ足で床を押し、前の拳を縦拳にして目標へまっすぐ突きます。\n2. 続けて腰の回転を使って後ろの拳で直突きを出し、それぞれの拳を同じ軌道で構えに戻します。\n3. ラウンドの間、一定のペースで連打を出し、顎を引いて突いていない手で顔を守ります。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "곧은 지르기 (조쿠즈키)",
+      "description": "1. 카마에에서 뒷발로 밀며 앞 주먹을 세운 주먹으로 목표를 향해 곧게 지릅니다.\n2. 이어서 허리 회전으로 뒷손 곧은 지르기를 하고, 각 주먹을 같은 선을 따라 가드로 되돌립니다.\n3. 라운드 동안 일정한 속도로 연타를 하며, 턱을 당기고 지르지 않는 손으로 얼굴을 지킵니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "หมัดตรง (โชคุซึกิ)",
+      "description": "1. จากคามาเอะ ส่งกำปั้นหน้าตรงไปยังเป้าหมายในลักษณะกำปั้นตั้ง โดยดันตัวจากเท้าหลัง\n2. ตามด้วยหมัดตรงมือหลังที่ส่งแรงจากการหมุนสะโพก แล้วดึงกำปั้นแต่ละข้างกลับสู่การ์ดตามแนวเดิม\n3. ชกเป็นชุดด้วยจังหวะสม่ำเสมอตลอดยก ก้มคางไว้และใช้มือที่ไม่ได้ชกป้องกันใบหน้า",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Прямой удар (тёку-дзуки)",
+      "description": "1. Из камаэ, отталкиваясь задней ногой, направьте передний кулак прямо в цель вертикальным кулаком.\n2. Добавьте прямой удар задней рукой за счёт поворота бёдер, возвращая каждый кулак в защиту по той же линии.\n3. Весь раунд наносите комбинации в ровном темпе, держа подбородок опущенным, а свободную руку — у лица.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Прямий удар (чьоку-дзукі)",
+      "description": "1. З камае, відштовхуючись задньою ногою, спрямуйте передній кулак прямо в ціль вертикальним кулаком.\n2. Додайте прямий удар задньою рукою за рахунок повороту стегон, повертаючи кожен кулак у захист тією самою лінією.\n3. Увесь раунд виконуйте комбінації в рівному темпі, тримаючи підборіддя опущеним, а вільну руку — біля обличчя.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

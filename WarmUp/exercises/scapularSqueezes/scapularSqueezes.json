@@ -1,0 +1,90 @@
+{
+  "id": "9.5",
+  "key": "scapular_squeezes",
+  "title": "Scapular Squeezes",
+  "description": "1. Stand or sit tall with arms relaxed and palms facing forward.\n2. Draw the shoulder blades gently back and down without lifting the shoulders or arching the lower back.\n3. Hold for a moment, release fully, and repeat while the chin stays level.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.8,
+    "vigorous": 3.8,
+    "lightCode": "02101",
+    "moderateCode": "02024",
+    "vigorousCode": "02022"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Scapular Squeezes",
+      "description": "1. Stand or sit tall with arms relaxed and palms facing forward.\n2. Draw the shoulder blades gently back and down without lifting the shoulders or arching the lower back.\n3. Hold for a moment, release fully, and repeat while the chin stays level.",
+      "sectionTitle": "Joint Mobility"
+    },
+    "es": {
+      "title": "Retracciones escapulares",
+      "description": "1. Ponte de pie o siéntate erguido con los brazos relajados y las palmas hacia delante.\n2. Lleva suavemente los omóplatos hacia atrás y abajo sin elevar los hombros ni arquear la zona lumbar.\n3. Mantén un momento, relaja por completo y repite con la barbilla nivelada.",
+      "sectionTitle": "Movilidad articular"
+    },
+    "pt": {
+      "title": "Retrações escapulares",
+      "description": "1. Fique em pé ou sente-se ereto com os braços relaxados e as palmas voltadas para a frente.\n2. Leve as escápulas suavemente para trás e para baixo sem elevar os ombros nem arquear a região lombar.\n3. Sustente por um instante, relaxe completamente e repita mantendo o queixo nivelado.",
+      "sectionTitle": "Mobilidade articular"
+    },
+    "fr": {
+      "title": "Rapprochements des omoplates",
+      "description": "1. Tenez-vous debout ou assis bien droit, les bras détendus et les paumes vers l’avant.\n2. Ramenez doucement les omoplates vers l’arrière et le bas sans hausser les épaules ni cambrer le bas du dos.\n3. Maintenez un instant, relâchez complètement et répétez en gardant le menton à l’horizontale.",
+      "sectionTitle": "Mobilité articulaire"
+    },
+    "de": {
+      "title": "Schulterblätter zusammenziehen",
+      "description": "1. Stehe oder sitze aufrecht, mit entspannten Armen und nach vorne gerichteten Handflächen.\n2. Ziehe die Schulterblätter sanft nach hinten und unten, ohne die Schultern anzuheben oder den unteren Rücken zu überstrecken.\n3. Halte kurz, löse vollständig und wiederhole die Bewegung bei waagerechtem Kinn.",
+      "sectionTitle": "Gelenkbeweglichkeit"
+    },
+    "it": {
+      "title": "Retrazioni scapolari",
+      "description": "1. Stai in piedi o siediti ben eretto, con le braccia rilassate e i palmi rivolti in avanti.\n2. Porta delicatamente le scapole indietro e in basso senza sollevare le spalle né inarcare la zona lombare.\n3. Mantieni per un momento, rilascia completamente e ripeti mantenendo il mento orizzontale.",
+      "sectionTitle": "Mobilità articolare"
+    },
+    "zh-Hans": {
+      "title": "肩胛骨收拢",
+      "description": "1. 站直或坐直，双臂放松，掌心朝前。\n2. 轻轻将肩胛骨向后、向下收拢，不要耸肩或拱起下背部。\n3. 短暂停留后完全放松，重复动作，保持下巴水平。",
+      "sectionTitle": "关节活动"
+    },
+    "ja": {
+      "title": "肩甲骨の引き寄せ",
+      "description": "1. 背筋を伸ばして立つか座り、腕をリラックスさせて手のひらを前に向けます。\n2. 肩を上げたり腰を反らしたりせず、肩甲骨を軽く後ろ下方へ引き寄せます。\n3. 少し保持して完全に緩め、顎を水平に保ったまま繰り返します。",
+      "sectionTitle": "関節の可動性"
+    },
+    "ko": {
+      "title": "어깨뼈 모으기",
+      "description": "1. 팔을 편안하게 하고 손바닥을 앞으로 향한 채 똑바로 서거나 앉습니다.\n2. 어깨를 올리거나 허리를 과하게 젖히지 않고 어깨뼈를 부드럽게 뒤로, 아래로 당깁니다.\n3. 잠시 유지한 뒤 완전히 풀고, 턱을 수평으로 유지하며 반복합니다.",
+      "sectionTitle": "관절 가동성"
+    },
+    "th": {
+      "title": "บีบสะบัก",
+      "description": "1. ยืนหรือนั่งตัวตรง ผ่อนคลายแขน และหันฝ่ามือไปด้านหน้า\n2. ดึงสะบักเบา ๆ ไปด้านหลังและลง โดยไม่ยกไหล่หรือแอ่นหลังส่วนล่าง\n3. ค้างไว้ครู่หนึ่ง คลายให้หมด แล้วทำซ้ำโดยรักษาคางให้อยู่ในแนวระดับ",
+      "sectionTitle": "การเคลื่อนไหวข้อต่อ"
+    },
+    "ru": {
+      "title": "Сведение лопаток",
+      "description": "1. Встаньте или сядьте прямо, расслабьте руки и направьте ладони вперёд.\n2. Мягко сведите лопатки назад и вниз, не поднимая плечи и не прогибая поясницу.\n3. Ненадолго задержитесь, полностью расслабьтесь и повторите, сохраняя подбородок горизонтально.",
+      "sectionTitle": "Подвижность суставов"
+    },
+    "uk": {
+      "title": "Зведення лопаток",
+      "description": "1. Станьте або сядьте прямо, розслабте руки та спрямуйте долоні вперед.\n2. М’яко зведіть лопатки назад і вниз, не піднімаючи плечі та не прогинаючи поперек.\n3. Ненадовго затримайтеся, повністю розслабтеся та повторіть, зберігаючи підборіддя горизонтально.",
+      "sectionTitle": "Рухливість суглобів"
+    }
+  }
+}

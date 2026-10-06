@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#FD7C5D",
+    "colorType": "coral",
+    "folder": "KunBokator",
+    "id": "73",
+    "icon": "KunBokator/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Kun Bokator",
+    "workoutType": "kunBokator",
+    "translations": {
+      "en": {
+        "title": "Kun Bokator"
+      },
+      "es": {
+        "title": "Kun Bokator"
+      },
+      "pt": {
+        "title": "Kun Bokator"
+      },
+      "fr": {
+        "title": "Kun Bokator"
+      },
+      "de": {
+        "title": "Kun Bokator"
+      },
+      "it": {
+        "title": "Kun Bokator"
+      },
+      "zh-Hans": {
+        "title": "柬埔寨博卡托"
+      },
+      "ja": {
+        "title": "クン・ボカトー"
+      },
+      "ko": {
+        "title": "쿤 보카토르"
+      },
+      "th": {
+        "title": "กุนโบกาตอ"
+      },
+      "ru": {
+        "title": "Кун бокатор"
+      },
+      "uk": {
+        "title": "Кун бокатор"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "KunBokator/exercises/kunBokator/Icon.png",
+      "json": "KunBokator/exercises/kunBokator/kunBokator.json"
+    },
+    {
+      "icon": "KunBokator/exercises/breakingDuck/Icon.png",
+      "json": "KunBokator/exercises/breakingDuck/breakingDuck.json"
+    }
+  ]
+}

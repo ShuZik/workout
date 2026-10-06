@@ -1,0 +1,87 @@
+{
+  "id": "8.40",
+  "key": "taekwondo_taegeuk_1_jang",
+  "title": "Taegeuk 1 Jang",
+  "description": "1. Start in basic ready stance and perform the first Taegeuk along its three parallel lines, using walking stance and front stance.\n2. Combine low blocks, middle punches, inside middle blocks, high blocks and front kicks, turning cleanly at each end of the lines.\n3. Finish with the low block and middle punch toward the start line with a kihap, then return to basic ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taegeuk 1 Jang",
+      "description": "1. Start in basic ready stance and perform the first Taegeuk along its three parallel lines, using walking stance and front stance.\n2. Combine low blocks, middle punches, inside middle blocks, high blocks and front kicks, turning cleanly at each end of the lines.\n3. Finish with the low block and middle punch toward the start line with a kihap, then return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taegeuk 1 Jang",
+      "description": "1. Empieza en posición de preparación básica y realiza el primer Taegeuk sobre sus tres líneas paralelas, usando posición de caminar y posición adelantada.\n2. Combina bloqueos bajos, puñetazos medios, bloqueos medios hacia dentro, bloqueos altos y patadas frontales, girando con limpieza al final de cada línea.\n3. Termina con el bloqueo bajo y el puñetazo medio hacia la línea de inicio con kihap y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taegeuk 1 Jang",
+      "description": "1. Comece na posição de preparação básica e execute o primeiro Taegeuk sobre as suas três linhas paralelas, usando base de caminhada e base frontal.\n2. Combine bloqueios baixos, socos médios, bloqueios médios para dentro, bloqueios altos e chutes frontais, girando com precisão no fim de cada linha.\n3. Termine com o bloqueio baixo e o soco médio em direção à linha inicial com kihap e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taegeuk 1 Jang",
+      "description": "1. Partez en position de préparation de base et exécutez le premier Taegeuk sur ses trois lignes parallèles, en position de marche et en position avancée.\n2. Combinez blocages bas, coups de poing moyens, blocages moyens vers l’intérieur, blocages hauts et coups de pied directs, en pivotant proprement au bout de chaque ligne.\n3. Terminez par le blocage bas et le coup de poing moyen vers la ligne de départ avec kihap, puis revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taegeuk 1 Jang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe die erste Taegeuk-Form auf ihren drei parallelen Linien im Gehstand und Vorwärtsstand.\n2. Verbinde tiefe Blocks, mittlere Fauststöße, mittlere Innenblocks, hohe Blocks und Vorwärtstritte und drehe an jedem Linienende sauber.\n3. Schließe mit tiefem Block und mittlerem Fauststoß zur Startlinie mit Kihap ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taegeuk 1 Jang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui il primo Taegeuk sulle sue tre linee parallele, in posizione di cammino e posizione avanzata.\n2. Combina parate basse, pugni medi, parate medie verso l’interno, parate alte e calci frontali, girando con pulizia alla fine di ogni linea.\n3. Concludi con parata bassa e pugno medio verso la linea di partenza con kihap, poi torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极一章",
+      "description": "1. 以基本预备式开始，沿三条平行线完成太极一章，使用前行步和前弓步。\n2. 结合下格挡、中段冲拳、中段内格挡、上格挡和前踢，在每条线的尽头干净转身。\n3. 朝起始线完成下格挡和中段冲拳并发声（气合），回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極1章（テグク・イルジャン）",
+      "description": "1. 基本準備立ちから始め、ウォーキングスタンスと前屈立ちを使い、三本の平行線上で太極1章を行います。\n2. 下段受け、中段突き、中段内受け、上段受け、前蹴りを組み合わせ、各線の端で正確に向きを変えます。\n3. 開始線に向けて下段受けと中段突きを気合とともに行い、基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태극 1장",
+      "description": "1. 기본 준비서기에서 시작해 앞서기와 앞굽이로 세 개의 평행선을 따라 태극 1장을 수행합니다.\n2. 아래막기, 몸통지르기, 몸통안막기, 얼굴막기, 앞차기를 연결하고 각 선의 끝에서 정확히 돌아섭니다.\n3. 시작선을 향해 아래막기와 몸통지르기를 기합과 함께 하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทกึก 1 จัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทกึกชุดแรกบนเส้นขนานสามเส้น โดยใช้ท่ายืนเดินและท่ายืนหน้า\n2. ผสมการปัดต่ำ หมัดระดับกลาง การปัดระดับกลางเข้าด้านใน การปัดสูง และการเตะตรงด้านหน้า หมุนตัวอย่างเรียบร้อยที่ปลายแต่ละเส้น\n3. จบด้วยการปัดต่ำและหมัดระดับกลางไปทางเส้นเริ่มต้นพร้อมเปล่งเสียงคีอัป แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэгык 1 джан",
+      "description": "1. Начните из базовой готовой стойки и выполните первый тхэгык по трём параллельным линиям, используя шаговую и переднюю стойки.\n2. Сочетайте нижние блоки, удары на средний уровень, внутренние средние блоки, верхние блоки и прямые удары ногой, чётко разворачиваясь на концах линий.\n3. Завершите нижним блоком и ударом на средний уровень в сторону стартовой линии с кихапом и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхегик 1 джан",
+      "description": "1. Почніть із базової готової стійки й виконайте перший тхегик трьома паралельними лініями, використовуючи крокову та передню стійки.\n2. Поєднуйте нижні блоки, удари на середній рівень, внутрішні середні блоки, верхні блоки й прямі удари ногою, чітко розвертаючись на кінцях ліній.\n3. Завершіть нижнім блоком і ударом на середній рівень у бік стартової лінії з кіхапом і поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

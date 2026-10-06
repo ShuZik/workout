@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#E6BF00",
+    "colorType": "yellow",
+    "folder": "LuchaCanaria",
+    "id": "79",
+    "icon": "LuchaCanaria/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Lucha Canaria",
+    "workoutType": "luchaCanaria",
+    "translations": {
+      "en": {
+        "title": "Lucha Canaria"
+      },
+      "es": {
+        "title": "Lucha canaria"
+      },
+      "pt": {
+        "title": "Luta canária"
+      },
+      "fr": {
+        "title": "Lutte canarienne"
+      },
+      "de": {
+        "title": "Kanarischer Ringkampf"
+      },
+      "it": {
+        "title": "Lotta canaria"
+      },
+      "zh-Hans": {
+        "title": "加那利摔跤"
+      },
+      "ja": {
+        "title": "カナリア・レスリング"
+      },
+      "ko": {
+        "title": "카나리아 레슬링"
+      },
+      "th": {
+        "title": "มวยปล้ำคานารี"
+      },
+      "ru": {
+        "title": "Канарская борьба"
+      },
+      "uk": {
+        "title": "Канарська боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "LuchaCanaria/exercises/luchaCanaria/Icon.png",
+      "json": "LuchaCanaria/exercises/luchaCanaria/luchaCanaria.json"
+    },
+    {
+      "icon": "LuchaCanaria/exercises/phasedMaAPractice/Icon.png",
+      "json": "LuchaCanaria/exercises/phasedMaAPractice/phasedMaAPractice.json"
+    }
+  ]
+}

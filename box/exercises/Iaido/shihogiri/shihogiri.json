@@ -1,0 +1,87 @@
+{
+  "id": "63.11",
+  "key": "iaido_shihogiri",
+  "title": "Shihogiri",
+  "description": "1. Face four opponents at the diagonal corners; strike the right-front opponent's hands with the hilt while partially drawing.\n2. Thrust behind to the left-rear opponent, then turn and cut down the right-rear, left-front, and right-front opponents in sequence.\n3. Finish with chiburi and resheathing, keeping zanshin toward the last direction and the whole area.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Shihogiri",
+      "description": "1. Face four opponents at the diagonal corners; strike the right-front opponent's hands with the hilt while partially drawing.\n2. Thrust behind to the left-rear opponent, then turn and cut down the right-rear, left-front, and right-front opponents in sequence.\n3. Finish with chiburi and resheathing, keeping zanshin toward the last direction and the whole area.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Shihogiri",
+      "description": "1. Enfrenta a cuatro oponentes en las esquinas diagonales; golpea las manos del oponente delantero derecho con la empuñadura mientras desenvainas parcialmente.\n2. Estoca hacia atrás al oponente trasero izquierdo y luego gira y corta en secuencia a los oponentes trasero derecho, delantero izquierdo y delantero derecho.\n3. Termina con chiburi y envainado, manteniendo zanshin hacia la última dirección y todo el espacio.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Shihogiri",
+      "description": "1. Enfrente quatro oponentes nos cantos diagonais; golpeie as mãos do oponente da frente à direita com o cabo enquanto saca parcialmente.\n2. Estoque para trás no oponente traseiro esquerdo, depois gire e corte em sequência os oponentes traseiro direito, dianteiro esquerdo e dianteiro direito.\n3. Termine com chiburi e embainhar, mantendo zanshin para a última direção e todo o espaço.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Shihogiri",
+      "description": "1. Faites face à quatre adversaires aux coins diagonaux ; frappez les mains de l’adversaire avant droit avec la poignée en dégainant partiellement.\n2. Piquez vers l’arrière l’adversaire arrière gauche, puis tournez et coupez successivement les adversaires arrière droit, avant gauche et avant droit.\n3. Terminez par le chiburi et le rengainage en gardant le zanshin vers la dernière direction et tout l’espace.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Shihogiri",
+      "description": "1. Vier Gegnern an den diagonalen Ecken gegenüberstehen; beim teilweisen Ziehen mit dem Griff die Hände des Gegners rechts vorn treffen.\n2. Nach hinten zum Gegner links hinten stechen, dann drehen und nacheinander die Gegner rechts hinten, links vorn und rechts vorn niederschneiden.\n3. Mit Chiburi und Einstecken abschließen und Zanshin zur letzten Richtung und zum ganzen Raum halten.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Shihogiri",
+      "description": "1. Affronta quattro avversari agli angoli diagonali; colpisci le mani dell’avversario anteriore destro con l’impugnatura estraendo parzialmente.\n2. Affonda all’indietro sull’avversario posteriore sinistro, poi ruota e taglia in sequenza gli avversari posteriore destro, anteriore sinistro e anteriore destro.\n3. Concludi con chiburi e rinfoderare, mantenendo lo zanshin verso l’ultima direzione e tutto lo spazio.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "四方斩",
+      "description": "1. 面对四个斜角方向的对手；半拔刀时用刀柄击打右前方对手的手。\n2. 向后刺左后方对手，然后转身依次斩落右后、左前、右前方的对手。\n3. 以振刀和纳刀结束，对最后方向及整个空间保持残心。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "四方切り",
+      "description": "1. 四隅の相手に対し、半ば抜きながら右前の相手の手元を柄で当てます。\n2. 左後ろの相手を突き、続いて向きを変えながら右後ろ、左前、右前の相手を順に斬り下ろします。\n3. 血振りと納刀で終え、最後の方向と周囲全体に残心を保ちます。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "시호기리",
+      "description": "1. 네 귀퉁이의 상대를 마주하고 칼을 반쯤 뽑으며 칼자루로 오른쪽 앞 상대의 손을 칩니다.\n2. 뒤로 왼쪽 뒤 상대를 찌른 뒤 돌아서며 오른쪽 뒤, 왼쪽 앞, 오른쪽 앞 상대를 차례로 내려 벱니다.\n3. 치부리와 납도로 마치며 마지막 방향과 주변 전체에 잔심을 유지합니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "ชิโฮกิริ",
+      "description": "1. เผชิญคู่ต่อสู้สี่คนที่มุมทแยง ชักดาบออกบางส่วนพร้อมใช้ด้ามกระแทกมือคู่ต่อสู้ด้านหน้าขวา\n2. แทงไปด้านหลังที่คู่ต่อสู้หลังซ้าย แล้วหมุนตัวฟันคู่ต่อสู้หลังขวา หน้าซ้าย และหน้าขวาตามลำดับ\n3. จบด้วยจิบุริและการเก็บดาบ โดยคงซันชินไปยังทิศสุดท้ายและพื้นที่รอบตัว",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Сихогири",
+      "description": "1. Встаньте против четырёх противников в диагональных углах; частично обнажая меч, ударьте рукоятью по рукам правого переднего противника.\n2. Уколите назад левого заднего противника, затем, разворачиваясь, последовательно разрубите правого заднего, левого переднего и правого переднего.\n3. Завершите тибури и вложением меча, сохраняя дзансин к последнему направлению и всему пространству.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Сіхогірі",
+      "description": "1. Станьте проти чотирьох суперників у діагональних кутах; частково оголюючи меч, ударте руків’ям по руках правого переднього суперника.\n2. Вколіть назад лівого заднього суперника, потім, розвертаючись, послідовно розрубайте правого заднього, лівого переднього й правого переднього.\n3. Завершіть тібурі й вкладанням меча, зберігаючи дзансін до останнього напрямку й усього простору.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

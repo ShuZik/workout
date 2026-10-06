@@ -1,0 +1,87 @@
+{
+  "id": "41.102",
+  "key": "judo_ashi_gatame",
+  "title": "Ashi Gatame",
+  "description": "1. From a side position, control the partner's straight arm at the wrist and turn onto your side.\n2. Place your leg over the partner's upper arm just above the elbow while the other leg blocks the body.\n3. Press the leg down and pull the wrist gradually to extend the elbow, releasing at a tap.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "7 Groundwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ashi Gatame",
+      "description": "1. From a side position, control the partner's straight arm at the wrist and turn onto your side.\n2. Place your leg over the partner's upper arm just above the elbow while the other leg blocks the body.\n3. Press the leg down and pull the wrist gradually to extend the elbow, releasing at a tap.",
+      "sectionTitle": "Groundwork"
+    },
+    "es": {
+      "title": "Ashi Gatame",
+      "description": "1. Desde una posición lateral, controla el brazo estirado del compañero por la muñeca y gira sobre tu costado.\n2. Coloca tu pierna sobre la parte superior del brazo del compañero justo por encima del codo mientras la otra pierna bloquea el cuerpo.\n3. Presiona la pierna hacia abajo y tira de la muñeca gradualmente para extender el codo, soltando ante un golpe de rendición.",
+      "sectionTitle": "Trabajo en suelo"
+    },
+    "pt": {
+      "title": "Ashi Gatame",
+      "description": "1. De uma posição lateral, controle o braço estendido do parceiro pelo punho e gire sobre seu lado.\n2. Coloque sua perna sobre a parte superior do braço do parceiro logo acima do cotovelo enquanto a outra perna bloqueia o corpo.\n3. Pressione a perna para baixo e puxe o punho gradualmente para estender o cotovelo, soltando a um toque de desistência.",
+      "sectionTitle": "Trabalho de solo"
+    },
+    "fr": {
+      "title": "Ashi Gatame",
+      "description": "1. Depuis une position latérale, contrôlez le bras tendu du partenaire par le poignet et tournez sur le côté.\n2. Placez votre jambe sur le haut de son bras juste au-dessus du coude pendant que l’autre jambe bloque le corps.\n3. Pressez la jambe vers le bas et tirez progressivement le poignet pour étendre le coude, en relâchant au tapotement.",
+      "sectionTitle": "Travail au sol"
+    },
+    "de": {
+      "title": "Ashi Gatame",
+      "description": "1. Kontrolliere aus seitlicher Position den gestreckten Arm des Partners am Handgelenk und drehe dich auf die Seite.\n2. Lege dein Bein knapp über dem Ellbogen auf seinen Oberarm, während das andere Bein den Körper blockiert.\n3. Drücke das Bein nach unten und ziehe das Handgelenk allmählich, um den Ellbogen zu strecken, und löse bei Abklopfen.",
+      "sectionTitle": "Bodentechniken"
+    },
+    "it": {
+      "title": "Ashi Gatame",
+      "description": "1. Da una posizione laterale, controlla il braccio teso del compagno al polso e gira sul fianco.\n2. Metti la gamba sulla parte alta del suo braccio appena sopra il gomito mentre l’altra gamba blocca il corpo.\n3. Premi la gamba verso il basso e tira gradualmente il polso per estendere il gomito, rilasciando al tap.",
+      "sectionTitle": "Lavoro a terra"
+    },
+    "zh-Hans": {
+      "title": "腕挫脚固",
+      "description": "1. 从侧位控制搭档伸直手臂的手腕，转向侧卧。\n2. 把你的腿压在搭档上臂肘部稍上方，另一条腿挡住其身体。\n3. 腿向下压并逐渐拉手腕以伸直其肘部，搭档拍击时松开。",
+      "sectionTitle": "寝技"
+    },
+    "ja": {
+      "title": "腕挫脚固",
+      "description": "1. 横の位置から相手の伸ばした腕を手首で制し、自分は横向きになります。\n2. 自分の脚を相手の上腕の肘のすぐ上に乗せ、もう一方の脚で相手の体を止めます。\n3. 脚を下へ押しながら手首を徐々に引いて肘を伸ばし、タップで解きます。",
+      "sectionTitle": "寝技"
+    },
+    "ko": {
+      "title": "아시 가타메",
+      "description": "1. 옆 위치에서 파트너의 편 팔을 손목으로 통제하고 옆으로 돌아눕습니다.\n2. 내 다리를 파트너 상완의 팔꿈치 바로 위에 올리고 다른 다리로 몸을 막습니다.\n3. 다리를 아래로 누르고 손목을 서서히 당겨 팔꿈치를 펴며 탭하면 놓습니다.",
+      "sectionTitle": "굳히기"
+    },
+    "th": {
+      "title": "อาชิกาตาเมะ",
+      "description": "1. จากตำแหน่งด้านข้าง ควบคุมข้อมือของแขนที่เหยียดของคู่ฝึก แล้วหมุนตัวนอนตะแคง\n2. วางขาของคุณบนต้นแขนคู่ฝึกเหนือข้อศอกเล็กน้อย ขณะที่ขาอีกข้างขวางลำตัว\n3. กดขาลงและค่อย ๆ ดึงข้อมือเพื่อเหยียดข้อศอก และปล่อยเมื่อคู่ฝึกตบยอมแพ้",
+      "sectionTitle": "การต่อสู้บนพื้น"
+    },
+    "ru": {
+      "title": "Аси-гатамэ",
+      "description": "1. Из бокового положения контролируйте прямую руку партнёра за запястье и повернитесь на бок.\n2. Положите свою ногу на его плечо чуть выше локтя, другой ногой блокируя корпус.\n3. Давите ногой вниз и постепенно тяните запястье, разгибая локоть, и отпускайте при постукивании.",
+      "sectionTitle": "Партер"
+    },
+    "uk": {
+      "title": "Асі-гатаме",
+      "description": "1. З бокового положення контролюйте пряму руку партнера за зап’ястя й поверніться на бік.\n2. Покладіть свою ногу на його плече трохи вище ліктя, іншою ногою блокуючи тулуб.\n3. Тисніть ногою вниз і поступово тягніть зап’ястя, розгинаючи лікоть, і відпускайте при постукуванні.",
+      "sectionTitle": "Партер"
+    }
+  }
+}

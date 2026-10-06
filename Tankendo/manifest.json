@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "Tankendo",
+    "id": "102",
+    "icon": "Tankendo/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Tankendo",
+    "workoutType": "tankendo",
+    "translations": {
+      "en": {
+        "title": "Tankendo"
+      },
+      "es": {
+        "title": "Tankendo"
+      },
+      "pt": {
+        "title": "Tankendô"
+      },
+      "fr": {
+        "title": "Tankendo"
+      },
+      "de": {
+        "title": "Tankendō"
+      },
+      "it": {
+        "title": "Tankendo"
+      },
+      "zh-Hans": {
+        "title": "短剑道"
+      },
+      "ja": {
+        "title": "短剣道"
+      },
+      "ko": {
+        "title": "단켄도"
+      },
+      "th": {
+        "title": "ทันเคนโด"
+      },
+      "ru": {
+        "title": "Танкэндо"
+      },
+      "uk": {
+        "title": "Танкендо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Tankendo/exercises/tankendo/Icon.png",
+      "json": "Tankendo/exercises/tankendo/tankendo.json"
+    },
+    {
+      "icon": "Tankendo/exercises/tankendoMen/Icon.png",
+      "json": "Tankendo/exercises/tankendoMen/tankendoMen.json"
+    },
+    {
+      "icon": "Tankendo/exercises/tankendoKote/Icon.png",
+      "json": "Tankendo/exercises/tankendoKote/tankendoKote.json"
+    },
+    {
+      "icon": "Tankendo/exercises/tankendoNodo/Icon.png",
+      "json": "Tankendo/exercises/tankendoNodo/tankendoNodo.json"
+    },
+    {
+      "icon": "Tankendo/exercises/tankendoDo/Icon.png",
+      "json": "Tankendo/exercises/tankendoDo/tankendoDo.json"
+    },
+    {
+      "icon": "Tankendo/exercises/seitaiWaza/Icon.png",
+      "json": "Tankendo/exercises/seitaiWaza/seitaiWaza.json"
+    }
+  ]
+}

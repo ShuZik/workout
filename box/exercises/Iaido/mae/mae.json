@@ -1,0 +1,87 @@
+{
+  "id": "63.2",
+  "key": "iaido_mae",
+  "title": "Mae",
+  "description": "1. From seiza facing the opponent, rise onto the toes while drawing and step the right foot forward into a horizontal nukitsuke cut at temple height.\n2. Draw the left knee forward, raise the sword overhead, and deliver a vertical kirioroshi cut to the center with both hands.\n3. Perform o-chiburi, resheathe while lowering the right knee, and return to seiza with zanshin.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Seated Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Mae",
+      "description": "1. From seiza facing the opponent, rise onto the toes while drawing and step the right foot forward into a horizontal nukitsuke cut at temple height.\n2. Draw the left knee forward, raise the sword overhead, and deliver a vertical kirioroshi cut to the center with both hands.\n3. Perform o-chiburi, resheathe while lowering the right knee, and return to seiza with zanshin.",
+      "sectionTitle": "Seated Forms"
+    },
+    "es": {
+      "title": "Mae",
+      "description": "1. Desde seiza frente al oponente, sube sobre los dedos de los pies mientras desenvainas y adelanta el pie derecho con un corte horizontal nukitsuke a la altura de la sien.\n2. Adelanta la rodilla izquierda, eleva la espada sobre la cabeza y ejecuta un corte vertical kirioroshi al centro con ambas manos.\n3. Realiza o-chiburi, envaina mientras bajas la rodilla derecha y vuelve a seiza con zanshin.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "pt": {
+      "title": "Mae",
+      "description": "1. Em seiza de frente para o oponente, suba nas pontas dos pés enquanto saca e avance o pé direito num corte horizontal nukitsuke à altura da têmpora.\n2. Traga o joelho esquerdo à frente, eleve a espada acima da cabeça e execute um corte vertical kirioroshi ao centro com as duas mãos.\n3. Faça o-chiburi, embainhe enquanto baixa o joelho direito e volte a seiza com zanshin.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "fr": {
+      "title": "Mae",
+      "description": "1. Depuis seiza face à l’adversaire, montez sur les orteils en dégainant et avancez le pied droit dans une coupe horizontale nukitsuke à hauteur de tempe.\n2. Avancez le genou gauche, levez le sabre au-dessus de la tête et portez une coupe verticale kirioroshi au centre à deux mains.\n3. Effectuez o-chiburi, rengainez en abaissant le genou droit et revenez en seiza avec zanshin.",
+      "sectionTitle": "Formes assises"
+    },
+    "de": {
+      "title": "Mae",
+      "description": "1. Aus dem Seiza dem Gegner zugewandt auf die Zehen kommen, dabei ziehen und den rechten Fuß zu einem waagerechten Nukitsuke auf Schläfenhöhe vorsetzen.\n2. Das linke Knie nachziehen, das Schwert über den Kopf heben und beidhändig einen senkrechten Kirioroshi zur Mitte schneiden.\n3. O-Chiburi ausführen, beim Absenken des rechten Knies einstecken und mit Zanshin ins Seiza zurückkehren.",
+      "sectionTitle": "Formen im Sitzen"
+    },
+    "it": {
+      "title": "Mae",
+      "description": "1. Da seiza di fronte all’avversario, sali sulle punte mentre estrai e porta avanti il piede destro con un taglio orizzontale nukitsuke all’altezza della tempia.\n2. Porta avanti il ginocchio sinistro, alza la spada sopra la testa ed esegui un taglio verticale kirioroshi al centro a due mani.\n3. Esegui o-chiburi, rinfodera abbassando il ginocchio destro e torna in seiza con zanshin.",
+      "sectionTitle": "Forme da seduti"
+    },
+    "zh-Hans": {
+      "title": "前",
+      "description": "1. 面对对手正坐，拔刀时踮起脚尖，右脚向前踏出，以太阳穴高度横斩（拔付）。\n2. 左膝前移，举刀过头，双手向正中竖直斩下（斩落）。\n3. 做大血振，放下右膝时纳刀，以残心回到正坐。",
+      "sectionTitle": "坐姿形"
+    },
+    "ja": {
+      "title": "前（まえ）",
+      "description": "1. 相手に正対した正座から、抜きながら爪先を立て、右足を踏み出してこめかみの高さへ横一文字に抜き付けます。\n2. 左膝を進め、刀を振りかぶり、両手で正中へ真っ直ぐ斬り下ろします。\n3. 大血振りを行い、右膝を下ろしながら納刀し、残心をもって正座に戻ります。",
+      "sectionTitle": "座り技の形"
+    },
+    "ko": {
+      "title": "마에",
+      "description": "1. 상대를 마주한 정좌에서 칼을 뽑으며 발끝을 세우고 오른발을 내딛어 관자놀이 높이로 수평 누키쓰케를 합니다.\n2. 왼무릎을 앞으로 당기고 칼을 머리 위로 들어 두 손으로 중심을 향해 수직 기리오로시를 합니다.\n3. 오치부리를 하고 오른무릎을 내리며 칼을 꽂은 뒤 잔심을 유지하며 정좌로 돌아옵니다.",
+      "sectionTitle": "앉은 자세 형"
+    },
+    "th": {
+      "title": "มาเอะ",
+      "description": "1. จากท่านั่งเซซะหันหน้าเข้าหาคู่ต่อสู้ ยกตัวขึ้นบนปลายเท้าขณะชักดาบ และก้าวเท้าขวาออกไปฟันแนวนอน (นุกิสึเกะ) ระดับขมับ\n2. ดึงเข่าซ้ายตามมา ยกดาบขึ้นเหนือศีรษะ แล้วฟันลงแนวดิ่ง (คิริโอโรชิ) เข้ากึ่งกลางด้วยสองมือ\n3. ทำโอจิบุริ เก็บดาบเข้าฝักขณะลดเข่าขวาลง และกลับสู่ท่าเซซะพร้อมซันชิน",
+      "sectionTitle": "ท่าร่างแบบนั่ง"
+    },
+    "ru": {
+      "title": "Маэ",
+      "description": "1. Из сэйдза лицом к противнику поднимитесь на носки, обнажая меч, и шагните правой ногой вперёд с горизонтальным разрезом нукицукэ на уровне виска.\n2. Подтяните левое колено, поднимите меч над головой и нанесите двумя руками вертикальный удар кириороси по центру.\n3. Выполните о-тибури, вложите меч в ножны, опуская правое колено, и вернитесь в сэйдза с дзансином.",
+      "sectionTitle": "Формы из положения сидя"
+    },
+    "uk": {
+      "title": "Мае",
+      "description": "1. Із сейдза обличчям до суперника підніміться на пальці, оголюючи меч, і ступіть правою ногою вперед із горизонтальним розрізом нукіцуке на рівні скроні.\n2. Підтягніть ліве коліно, підніміть меч над головою й завдайте двома руками вертикального удару кіріоросі по центру.\n3. Виконайте о-тібурі, вкладіть меч у піхви, опускаючи праве коліно, і поверніться в сейдза з дзансіном.",
+      "sectionTitle": "Форми з положення сидячи"
+    }
+  }
+}

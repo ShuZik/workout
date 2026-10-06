@@ -1,0 +1,90 @@
+{
+  "id": "2.30",
+  "key": "muay_thai_wai_kru_ram_muay",
+  "title": "Wai Kru Ram Muay",
+  "description": "1. Walk the ring or training area counter-clockwise, pausing at each corner to bow the head three times with the palms together.\n2. Kneel or sit for the salute, then rise into the slow standing ram muay steps with balanced, deliberate arm and leg movements.\n3. Finish facing the centre with a final bow, then return to a guarded Muay Thai stance before training continues.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wai Kru Ram Muay",
+      "description": "1. Walk the ring or training area counter-clockwise, pausing at each corner to bow the head three times with the palms together.\n2. Kneel or sit for the salute, then rise into the slow standing ram muay steps with balanced, deliberate arm and leg movements.\n3. Finish facing the centre with a final bow, then return to a guarded Muay Thai stance before training continues.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Wai Kru Ram Muay",
+      "description": "1. Recorre el ring o la zona de entrenamiento en sentido antihorario, deteniéndote en cada esquina para inclinar la cabeza tres veces con las palmas juntas.\n2. Arrodíllate o siéntate para el saludo y luego levántate para los pasos lentos del ram muay de pie, con movimientos de brazos y piernas equilibrados y deliberados.\n3. Termina mirando al centro con una reverencia final y vuelve a una guardia de Muay Thai antes de seguir entrenando.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Wai Kru Ram Muay",
+      "description": "1. Percorra o ringue ou a área de treino no sentido anti-horário, parando em cada canto para inclinar a cabeça três vezes com as palmas unidas.\n2. Ajoelhe-se ou sente-se para a saudação e depois levante-se para os passos lentos do ram muay em pé, com movimentos de braços e pernas equilibrados e deliberados.\n3. Termine voltado para o centro com uma reverência final e retorne à guarda de Muay Thai antes de continuar o treino.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Wai Kru Ram Muay",
+      "description": "1. Faites le tour du ring ou de la zone d’entraînement dans le sens antihoraire, en vous arrêtant à chaque coin pour incliner la tête trois fois, paumes jointes.\n2. Agenouillez-vous ou asseyez-vous pour le salut, puis relevez-vous pour les pas lents du ram muay debout, avec des mouvements de bras et de jambes équilibrés et maîtrisés.\n3. Terminez face au centre par un dernier salut, puis reprenez une garde de Muay Thai avant de poursuivre l’entraînement.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Wai Kru Ram Muay",
+      "description": "1. Umrunde den Ring oder Trainingsbereich gegen den Uhrzeigersinn und verneige in jeder Ecke den Kopf dreimal mit aneinandergelegten Handflächen.\n2. Knie oder setze dich für den Gruß, steh dann zu den langsamen Ram-Muay-Schritten im Stand auf, mit ausbalancierten, bewussten Arm- und Beinbewegungen.\n3. Schließe zur Mitte gewandt mit einer letzten Verbeugung ab und kehre vor dem weiteren Training in die Muay-Thai-Deckung zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Wai Kru Ram Muay",
+      "description": "1. Percorri il ring o l’area di allenamento in senso antiorario, fermandoti a ogni angolo per chinare il capo tre volte a mani giunte.\n2. Inginocchiati o siediti per il saluto, poi alzati per i lenti passi del ram muay in piedi, con movimenti di braccia e gambe equilibrati e controllati.\n3. Concludi rivolto al centro con un ultimo inchino e torna alla guardia di Muay Thai prima di proseguire l’allenamento.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "拜师舞（Wai Kru Ram Muay）",
+      "description": "1. 沿擂台或训练区逆时针行走，在每个角落停下，双手合十低头行礼三次。\n2. 跪下或坐下行礼，然后起身进行缓慢的站立拜师舞步，手臂和腿部动作平衡、从容。\n3. 面向中央最后行礼一次，然后回到泰拳防守姿势再继续训练。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ワイクルー・ラムムエイ",
+      "description": "1. リングや練習エリアを反時計回りに歩き、各コーナーで合掌して三度頭を下げます。\n2. ひざまずくか座って礼をし、立ち上がってゆっくりとしたラムムエイのステップを、腕と脚をバランスよく丁寧に動かして行います。\n3. 中央を向いて最後の礼をし、ムエタイの構えに戻ってから練習を続けます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "와이크루 람무아이",
+      "description": "1. 링이나 훈련 공간을 시계 반대 방향으로 돌며 각 코너에서 합장한 채 고개를 세 번 숙입니다.\n2. 무릎을 꿇거나 앉아서 인사한 뒤 일어나 팔과 다리를 균형 있고 신중하게 움직이며 느린 람무아이 스텝을 합니다.\n3. 중앙을 향해 마지막 인사를 하고 무에타이 가드 자세로 돌아온 뒤 훈련을 이어 갑니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ไหว้ครูรำมวย",
+      "description": "1. เดินรอบเวทีหรือพื้นที่ฝึกทวนเข็มนาฬิกา หยุดที่แต่ละมุมเพื่อพนมมือก้มศีรษะสามครั้ง\n2. คุกเข่าหรือนั่งเพื่อไหว้ครู แล้วลุกขึ้นรำมวยท่ายืนอย่างช้า ๆ โดยเคลื่อนแขนและขาอย่างสมดุลและตั้งใจ\n3. จบโดยหันหน้าเข้ากลางและไหว้ครั้งสุดท้าย แล้วกลับสู่ท่าการ์ดมวยไทยก่อนฝึกต่อ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Вай кру рам муай",
+      "description": "1. Обойдите ринг или зону тренировки против часовой стрелки, останавливаясь в каждом углу, чтобы трижды склонить голову со сложенными ладонями.\n2. Опуститесь на колени или сядьте для приветствия, затем поднимитесь и выполните медленные шаги рам муай стоя, сбалансированно и осознанно двигая руками и ногами.\n3. Завершите лицом к центру последним поклоном и вернитесь в защитную стойку муай-тай, прежде чем продолжить тренировку.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Вай кру рам муай",
+      "description": "1. Обійдіть ринг або зону тренування проти годинникової стрілки, зупиняючись у кожному куті, щоб тричі схилити голову зі складеними долонями.\n2. Станьте на коліна або сядьте для привітання, потім підведіться й виконайте повільні кроки рам муай стоячи, збалансовано та усвідомлено рухаючи руками й ногами.\n3. Завершіть обличчям до центру останнім уклоном і поверніться в захисну стійку муай-тай, перш ніж продовжити тренування.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

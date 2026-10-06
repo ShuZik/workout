@@ -1,0 +1,87 @@
+{
+  "id": "63.13",
+  "key": "iaido_nukiuchi",
+  "title": "Nukiuchi",
+  "description": "1. Stand facing an opponent who raises the sword to cut; step back with the left foot and then the right while drawing the sword straight up overhead.\n2. Without pausing at the top, grip with both hands and cut straight down the center as the opponent's attack misses.\n3. Perform chiburi, resheathe, and step forward to the start with zanshin.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Nukiuchi",
+      "description": "1. Stand facing an opponent who raises the sword to cut; step back with the left foot and then the right while drawing the sword straight up overhead.\n2. Without pausing at the top, grip with both hands and cut straight down the center as the opponent's attack misses.\n3. Perform chiburi, resheathe, and step forward to the start with zanshin.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Nukiuchi",
+      "description": "1. De pie frente a un oponente que eleva la espada para cortar, retrocede con el pie izquierdo y luego el derecho mientras desenvainas la espada recta por encima de la cabeza.\n2. Sin detenerte arriba, toma la espada con ambas manos y corta recto por el centro mientras el ataque del oponente falla.\n3. Realiza chiburi, envaina y avanza al inicio con zanshin.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Nukiuchi",
+      "description": "1. Em pé diante de um oponente que eleva a espada para cortar, recue o pé esquerdo e depois o direito enquanto saca a espada reta acima da cabeça.\n2. Sem parar no alto, segure com as duas mãos e corte reto pelo centro enquanto o ataque do oponente falha.\n3. Faça chiburi, embainhe e avance ao início com zanshin.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Nukiuchi",
+      "description": "1. Debout face à un adversaire qui lève le sabre pour couper, reculez le pied gauche puis le droit en dégainant le sabre droit au-dessus de la tête.\n2. Sans marquer d’arrêt en haut, saisissez à deux mains et coupez droit au centre pendant que l’attaque adverse manque.\n3. Effectuez le chiburi, rengainez et avancez au départ avec zanshin.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Nukiuchi",
+      "description": "1. Einem Gegner gegenüberstehen, der zum Schnitt ausholt; mit dem linken, dann dem rechten Fuß zurücktreten und das Schwert gerade über den Kopf ziehen.\n2. Ohne oben anzuhalten beidhändig greifen und gerade durch die Mitte schneiden, während der Angriff des Gegners ins Leere geht.\n3. Chiburi ausführen, einstecken und mit Zanshin zum Start vortreten.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Nukiuchi",
+      "description": "1. In piedi di fronte a un avversario che alza la spada per tagliare, arretra con il piede sinistro e poi con il destro estraendo la spada dritta sopra la testa.\n2. Senza fermarti in alto, impugna a due mani e taglia dritto al centro mentre l’attacco dell’avversario va a vuoto.\n3. Esegui chiburi, rinfodera e avanza all’inizio con zanshin.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "拔打",
+      "description": "1. 站立面对举刀欲斩的对手，先退左脚再退右脚，同时将刀直接拔举过头。\n2. 在顶点不停顿，双手握刀，在对手攻击落空时沿正中竖直斩落。\n3. 振刀、纳刀，以残心上步回到起点。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "抜き打ち",
+      "description": "1. 振りかぶって斬りかかる相手に正対して立ち、左足、右足と引きながら刀を真上へ抜き上げます。\n2. 頭上で止めずに両手で握り、相手の斬撃が空を切るところへ真っ向から斬り下ろします。\n3. 血振り・納刀を行い、残心をもって元の位置へ進みます。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "누키우치",
+      "description": "1. 칼을 들어 베려는 상대를 마주하고 서서 왼발, 오른발 순으로 물러나며 칼을 곧게 머리 위로 뽑아 올립니다.\n2. 위에서 멈추지 않고 두 손으로 잡아 상대의 공격이 빗나가는 순간 중심을 곧게 내려 벱니다.\n3. 치부리하고 칼을 꽂은 뒤 잔심을 유지하며 시작 위치로 나아갑니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "นุกิอุจิ",
+      "description": "1. ยืนเผชิญคู่ต่อสู้ที่ยกดาบจะฟัน ถอยเท้าซ้ายแล้วเท้าขวาพร้อมชักดาบตรงขึ้นเหนือศีรษะ\n2. ไม่หยุดที่ด้านบน จับสองมือแล้วฟันตรงลงกึ่งกลางขณะที่การโจมตีของคู่ต่อสู้พลาด\n3. ทำจิบุริ เก็บดาบ และก้าวกลับจุดเริ่มพร้อมซันชิน",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Нукиути",
+      "description": "1. Встаньте перед противником, поднимающим меч для удара; отступите левой, затем правой ногой, вытягивая меч прямо вверх над головой.\n2. Не останавливаясь наверху, возьмите меч двумя руками и рубите прямо по центру, пока атака противника проходит мимо.\n3. Выполните тибури, вложите меч и шагните к началу с дзансином.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Нукіуті",
+      "description": "1. Станьте перед суперником, що піднімає меч для удару; відступіть лівою, потім правою ногою, виводячи меч прямо вгору над головою.\n2. Не зупиняючись угорі, візьміть меч двома руками й рубайте прямо по центру, поки атака суперника проходить повз.\n3. Виконайте тібурі, вкладіть меч і ступіть на початок із дзансіном.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

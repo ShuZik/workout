@@ -1,0 +1,90 @@
+{
+  "id": "41.82",
+  "key": "judo_o_soto_makikomi",
+  "title": "O Soto Makikomi",
+  "description": "1. Enter for o-soto-gari and wrap the partner's sleeve arm under your armpit.\n2. Swing the free arm over and turn your body forward while the leg reaps the partner's outside leg.\n3. Fall to the side, winding the partner down with you, and land beside the partner with the head clear.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "O Soto Makikomi",
+      "description": "1. Enter for o-soto-gari and wrap the partner's sleeve arm under your armpit.\n2. Swing the free arm over and turn your body forward while the leg reaps the partner's outside leg.\n3. Fall to the side, winding the partner down with you, and land beside the partner with the head clear.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "O Soto Makikomi",
+      "description": "1. Entra como para o-soto-gari y atrapa el brazo de la manga del compañero bajo tu axila.\n2. Pasa el brazo libre por encima y gira el cuerpo hacia delante mientras la pierna siega la pierna exterior del compañero.\n3. Cae de lado enrollando al compañero contigo y aterriza a su lado con la cabeza despejada.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "O Soto Makikomi",
+      "description": "1. Entre como para o-soto-gari e prenda o braço da manga do parceiro sob a axila.\n2. Passe o braço livre por cima e gire o corpo para a frente enquanto a perna ceifa a perna externa do parceiro.\n3. Caia de lado enrolando o parceiro com você e aterrisse ao lado dele com a cabeça livre.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "O Soto Makikomi",
+      "description": "1. Entrez comme pour o-soto-gari et bloquez le bras de manche du partenaire sous votre aisselle.\n2. Passez le bras libre par-dessus et tournez le corps vers l’avant pendant que la jambe fauche sa jambe extérieure.\n3. Tombez sur le côté en enroulant le partenaire avec vous et atterrissez à côté de lui, tête dégagée.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "O Soto Makikomi",
+      "description": "1. Tritt wie bei O-soto-gari ein und klemme den Ärmelarm des Partners unter deine Achsel.\n2. Schwinge den freien Arm darüber und drehe den Körper nach vorn, während das Bein sein äußeres Bein sichelt.\n3. Falle seitlich, wickle den Partner mit dir herunter und lande neben ihm, den Kopf frei.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "O Soto Makikomi",
+      "description": "1. Entra come per o-soto-gari e blocca il braccio della manica del compagno sotto l’ascella.\n2. Porta sopra il braccio libero e ruota il corpo in avanti mentre la gamba falcia la sua gamba esterna.\n3. Cadi di lato avvolgendo il compagno con te e atterra accanto a lui con la testa libera.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "大外卷込",
+      "description": "1. 像大外刈一样进入，把搭档抓袖侧手臂夹在腋下。\n2. 空出的手臂从上方绕过，身体向前转，同时腿刈搭档外侧腿。\n3. 侧身倒下把搭档一起卷下，落在其身旁，头部不着地。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "大外巻込",
+      "description": "1. 大外刈のように入り、相手の袖側の腕を脇の下に抱え込みます。\n2. 空いた腕を上から回し、脚で相手の外側の脚を刈りながら体を前へ回します。\n3. 横へ倒れて相手を一緒に巻き込み、頭をつけずに相手の横へ着地します。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "오 소토 마키코미",
+      "description": "1. 오소토가리처럼 들어가 파트너 소매 쪽 팔을 겨드랑이 아래에 끼웁니다.\n2. 빈 팔을 위로 넘기고 다리로 파트너 바깥 다리를 걸며 몸을 앞으로 돌립니다.\n3. 옆으로 넘어지며 파트너를 함께 감아 내리고 머리가 닿지 않게 파트너 옆에 착지합니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "โอโซโตมากิโกมิ",
+      "description": "1. เข้าเหมือนโอโซโตการิ และหนีบแขนข้างแขนเสื้อของคู่ฝึกไว้ใต้รักแร้\n2. เหวี่ยงแขนที่ว่างข้ามไปและหมุนตัวไปข้างหน้า ขณะที่ขาเกี่ยวขาด้านนอกของคู่ฝึก\n3. ล้มตะแคงพร้อมม้วนคู่ฝึกลงมาด้วย และลงพื้นข้างคู่ฝึกโดยศีรษะไม่แตะพื้น",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "О-сото-макикоми",
+      "description": "1. Войдите как для о-сото-гари и зажмите руку партнёра со стороны рукава под мышкой.\n2. Проведите свободную руку сверху и разверните корпус вперёд, подсекая ногой внешнюю ногу партнёра.\n3. Упадите на бок, накручивая партнёра за собой, и приземлитесь рядом с ним, не касаясь головой татами.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "О-сото-макікомі",
+      "description": "1. Увійдіть як для о-сото-гарі й затисніть руку партнера з боку рукава під пахвою.\n2. Проведіть вільну руку зверху й розверніть тулуб уперед, підсікаючи ногою зовнішню ногу партнера.\n3. Упадіть на бік, накручуючи партнера за собою, і приземліться поруч із ним, не торкаючись головою татамі.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

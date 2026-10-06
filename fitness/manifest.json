@@ -10,7 +10,45 @@
       "icon": "fitness/exercises/Custom/Icon.png",
       "symbolName": "figure.strengthtraining.traditional",
       "title": "Custom",
-      "workoutType": "custom"
+      "workoutType": "custom",
+      "translations": {
+        "en": {
+          "title": "Custom"
+        },
+        "es": {
+          "title": "Personalizados"
+        },
+        "pt": {
+          "title": "Personalizados"
+        },
+        "fr": {
+          "title": "Personnalisés"
+        },
+        "de": {
+          "title": "Eigene"
+        },
+        "it": {
+          "title": "Personalizzati"
+        },
+        "zh-Hans": {
+          "title": "自定义"
+        },
+        "ja": {
+          "title": "カスタム"
+        },
+        "ko": {
+          "title": "사용자 지정"
+        },
+        "th": {
+          "title": "กำหนดเอง"
+        },
+        "ru": {
+          "title": "Свои"
+        },
+        "uk": {
+          "title": "Власні"
+        }
+      }
     },
     {
       "colorType": "blue",
@@ -19,7 +57,45 @@
       "icon": "fitness/exercises/WarmUp/Icon.png",
       "symbolName": "figure.jumprope",
       "title": "Warm-up",
-      "workoutType": "warmUp"
+      "workoutType": "warmUp",
+      "translations": {
+        "en": {
+          "title": "Warm-up"
+        },
+        "es": {
+          "title": "Calentamiento"
+        },
+        "pt": {
+          "title": "Aquecimento"
+        },
+        "fr": {
+          "title": "Échauffement"
+        },
+        "de": {
+          "title": "Aufwärmen"
+        },
+        "it": {
+          "title": "Riscaldamento"
+        },
+        "zh-Hans": {
+          "title": "热身"
+        },
+        "ja": {
+          "title": "ウォームアップ"
+        },
+        "ko": {
+          "title": "준비 운동"
+        },
+        "th": {
+          "title": "อบอุ่นร่างกาย"
+        },
+        "ru": {
+          "title": "Разминка"
+        },
+        "uk": {
+          "title": "Розминка"
+        }
+      }
     },
     {
       "colorType": "indigo",
@@ -28,7 +104,45 @@
       "icon": "fitness/exercises/CoreTraining/Icon.png",
       "symbolName": "figure.strengthtraining.functional",
       "title": "Core",
-      "workoutType": "coreTraining"
+      "workoutType": "coreTraining",
+      "translations": {
+        "en": {
+          "title": "Core"
+        },
+        "es": {
+          "title": "Zona media"
+        },
+        "pt": {
+          "title": "Core"
+        },
+        "fr": {
+          "title": "Sangle abdominale"
+        },
+        "de": {
+          "title": "Rumpf"
+        },
+        "it": {
+          "title": "Core"
+        },
+        "zh-Hans": {
+          "title": "核心训练"
+        },
+        "ja": {
+          "title": "体幹"
+        },
+        "ko": {
+          "title": "코어"
+        },
+        "th": {
+          "title": "แกนกลางลำตัว"
+        },
+        "ru": {
+          "title": "Корпус"
+        },
+        "uk": {
+          "title": "Корпус"
+        }
+      }
     },
     {
       "colorType": "green",
@@ -37,7 +151,45 @@
       "icon": "fitness/exercises/Cardio/Icon.png",
       "symbolName": "figure.run",
       "title": "Cardio",
-      "workoutType": "cardio"
+      "workoutType": "cardio",
+      "translations": {
+        "en": {
+          "title": "Cardio"
+        },
+        "es": {
+          "title": "Cardio"
+        },
+        "pt": {
+          "title": "Cardio"
+        },
+        "fr": {
+          "title": "Cardio"
+        },
+        "de": {
+          "title": "Cardio"
+        },
+        "it": {
+          "title": "Cardio"
+        },
+        "zh-Hans": {
+          "title": "有氧运动"
+        },
+        "ja": {
+          "title": "有酸素運動"
+        },
+        "ko": {
+          "title": "유산소 운동"
+        },
+        "th": {
+          "title": "คาร์ดิโอ"
+        },
+        "ru": {
+          "title": "Кардио"
+        },
+        "uk": {
+          "title": "Кардіо"
+        }
+      }
     },
     {
       "colorType": "gray",
@@ -46,7 +198,45 @@
       "icon": "fitness/exercises/Cooldown/Icon.png",
       "symbolName": "figure.flexibility",
       "title": "Rest",
-      "workoutType": "cooldown"
+      "workoutType": "cooldown",
+      "translations": {
+        "en": {
+          "title": "Rest"
+        },
+        "es": {
+          "title": "Descanso"
+        },
+        "pt": {
+          "title": "Descanso"
+        },
+        "fr": {
+          "title": "Repos"
+        },
+        "de": {
+          "title": "Pause"
+        },
+        "it": {
+          "title": "Riposo"
+        },
+        "zh-Hans": {
+          "title": "休息"
+        },
+        "ja": {
+          "title": "休憩"
+        },
+        "ko": {
+          "title": "휴식"
+        },
+        "th": {
+          "title": "พัก"
+        },
+        "ru": {
+          "title": "Отдых"
+        },
+        "uk": {
+          "title": "Відпочинок"
+        }
+      }
     },
     {
       "colorType": "coral",
@@ -55,7 +245,45 @@
       "icon": "fitness/exercises/HIIT/Icon.png",
       "symbolName": "figure.cross.training",
       "title": "HIIT",
-      "workoutType": "hiit"
+      "workoutType": "hiit",
+      "translations": {
+        "en": {
+          "title": "HIIT"
+        },
+        "es": {
+          "title": "HIIT"
+        },
+        "pt": {
+          "title": "HIIT"
+        },
+        "fr": {
+          "title": "HIIT"
+        },
+        "de": {
+          "title": "HIIT"
+        },
+        "it": {
+          "title": "HIIT"
+        },
+        "zh-Hans": {
+          "title": "高强度间歇训练"
+        },
+        "ja": {
+          "title": "高強度インターバルトレーニング"
+        },
+        "ko": {
+          "title": "고강도 인터벌 트레이닝"
+        },
+        "th": {
+          "title": "การฝึกแบบหนักสลับพัก"
+        },
+        "ru": {
+          "title": "HIIT"
+        },
+        "uk": {
+          "title": "HIIT"
+        }
+      }
     },
     {
       "colorType": "coral",
@@ -64,7 +292,45 @@
       "icon": "fitness/exercises/Tabata/Icon.png",
       "symbolName": "figure.highintensity.intervaltraining",
       "title": "Tabata",
-      "workoutType": "tabata"
+      "workoutType": "tabata",
+      "translations": {
+        "en": {
+          "title": "Tabata"
+        },
+        "es": {
+          "title": "Tabata"
+        },
+        "pt": {
+          "title": "Tabata"
+        },
+        "fr": {
+          "title": "Tabata"
+        },
+        "de": {
+          "title": "Tabata"
+        },
+        "it": {
+          "title": "Tabata"
+        },
+        "zh-Hans": {
+          "title": "塔巴塔"
+        },
+        "ja": {
+          "title": "タバタ"
+        },
+        "ko": {
+          "title": "타바타"
+        },
+        "th": {
+          "title": "ทาบาตะ"
+        },
+        "ru": {
+          "title": "Табата"
+        },
+        "uk": {
+          "title": "Табата"
+        }
+      }
     },
     {
       "colorType": "red",
@@ -73,7 +339,45 @@
       "icon": "fitness/exercises/CrossTraining/Icon.png",
       "symbolName": "figure.cross.training",
       "title": "CrossFit",
-      "workoutType": "crossTraining"
+      "workoutType": "crossTraining",
+      "translations": {
+        "en": {
+          "title": "CrossFit"
+        },
+        "es": {
+          "title": "CrossFit"
+        },
+        "pt": {
+          "title": "CrossFit"
+        },
+        "fr": {
+          "title": "CrossFit"
+        },
+        "de": {
+          "title": "CrossFit"
+        },
+        "it": {
+          "title": "CrossFit"
+        },
+        "zh-Hans": {
+          "title": "CrossFit"
+        },
+        "ja": {
+          "title": "CrossFit"
+        },
+        "ko": {
+          "title": "CrossFit"
+        },
+        "th": {
+          "title": "CrossFit"
+        },
+        "ru": {
+          "title": "CrossFit"
+        },
+        "uk": {
+          "title": "CrossFit"
+        }
+      }
     },
     {
       "colorType": "teal",
@@ -82,7 +386,45 @@
       "icon": "fitness/exercises/SuspensionTraining/Icon.png",
       "symbolName": "figure.strengthtraining.functional",
       "title": "TRX",
-      "workoutType": "suspensionTraining"
+      "workoutType": "suspensionTraining",
+      "translations": {
+        "en": {
+          "title": "TRX"
+        },
+        "es": {
+          "title": "TRX"
+        },
+        "pt": {
+          "title": "TRX"
+        },
+        "fr": {
+          "title": "TRX"
+        },
+        "de": {
+          "title": "TRX"
+        },
+        "it": {
+          "title": "TRX"
+        },
+        "zh-Hans": {
+          "title": "TRX"
+        },
+        "ja": {
+          "title": "TRX"
+        },
+        "ko": {
+          "title": "TRX"
+        },
+        "th": {
+          "title": "TRX"
+        },
+        "ru": {
+          "title": "TRX"
+        },
+        "uk": {
+          "title": "TRX"
+        }
+      }
     },
     {
       "colorType": "gray",
@@ -91,7 +433,45 @@
       "icon": "fitness/exercises/Other/Icon.png",
       "symbolName": "list.bullet",
       "title": "Other",
-      "workoutType": "other"
+      "workoutType": "other",
+      "translations": {
+        "en": {
+          "title": "Other"
+        },
+        "es": {
+          "title": "Otros"
+        },
+        "pt": {
+          "title": "Outros"
+        },
+        "fr": {
+          "title": "Autres"
+        },
+        "de": {
+          "title": "Sonstige"
+        },
+        "it": {
+          "title": "Altro"
+        },
+        "zh-Hans": {
+          "title": "其他"
+        },
+        "ja": {
+          "title": "その他"
+        },
+        "ko": {
+          "title": "기타"
+        },
+        "th": {
+          "title": "อื่น ๆ"
+        },
+        "ru": {
+          "title": "Другое"
+        },
+        "uk": {
+          "title": "Інше"
+        }
+      }
     }
   ],
   "files": [

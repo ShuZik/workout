@@ -1,0 +1,87 @@
+{
+  "id": "105.4",
+  "key": "unifight_beam_walk",
+  "title": "Beam Walk",
+  "description": "1. Step onto a low beam with the arms out for balance and the eyes on the far end.\n2. Walk or jog the length with short steps, placing the feet straight along the beam.\n3. Step or hop down at the end with soft knees and return to repeat.",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Beam Walk",
+      "description": "1. Step onto a low beam with the arms out for balance and the eyes on the far end.\n2. Walk or jog the length with short steps, placing the feet straight along the beam.\n3. Step or hop down at the end with soft knees and return to repeat.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Paso por la viga",
+      "description": "1. Sube a una viga baja con los brazos abiertos para equilibrarte y la mirada en el extremo opuesto.\n2. Camina o trota a lo largo con pasos cortos, colocando los pies rectos sobre la viga.\n3. Baja al final con un paso o un pequeño salto con rodillas flexibles y vuelve para repetir.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Passagem na trave",
+      "description": "1. Suba numa trave baixa com os braços abertos para equilíbrio e o olhar na outra ponta.\n2. Caminhe ou trote ao longo dela com passos curtos, pondo os pés retos sobre a trave.\n3. Desça no fim com um passo ou pequeno salto, joelhos soltos, e volte para repetir.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Passage de poutre",
+      "description": "1. Montez sur une poutre basse, bras écartés pour l’équilibre, regard vers l’extrémité.\n2. Marchez ou trottinez sur toute la longueur à petits pas, pieds posés droits sur la poutre.\n3. Descendez au bout d’un pas ou d’un petit saut, genoux souples, puis revenez recommencer.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Balkenlauf",
+      "description": "1. Steige auf einen niedrigen Balken, Arme zur Balance seitlich, Blick zum anderen Ende.\n2. Gehe oder jogge mit kurzen Schritten über die ganze Länge und setze die Füße gerade auf den Balken.\n3. Steige oder hüpfe am Ende mit weichen Knien ab und kehre zur Wiederholung zurück.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Passaggio sulla trave",
+      "description": "1. Sali su una trave bassa con le braccia aperte per l’equilibrio e lo sguardo all’estremità opposta.\n2. Cammina o corricchia per tutta la lunghezza a passi corti, con i piedi dritti sulla trave.\n3. Scendi alla fine con un passo o un saltello a ginocchia morbide e torna a ripetere.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "平衡木行走",
+      "description": "1. 踏上低平衡木，双臂张开保持平衡，目视另一端。\n2. 以小步走或慢跑通过全长，双脚沿平衡木笔直放置。\n3. 到尽头时屈膝轻步或轻跳落下，返回重复。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "平均台渡り",
+      "description": "1. 低い平均台に乗り、両腕を広げてバランスをとり、反対側の端を見ます。\n2. 短い歩幅で端まで歩くか軽く走り、足は台に沿ってまっすぐ置きます。\n3. 端で膝を柔らかくして降り、戻って繰り返します。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "평균대 건너기",
+      "description": "1. 낮은 평균대에 올라 팔을 벌려 균형을 잡고 반대쪽 끝을 봅니다.\n2. 짧은 보폭으로 끝까지 걷거나 가볍게 뛰며 발을 평균대를 따라 곧게 놓습니다.\n3. 끝에서 무릎을 부드럽게 하며 내려오고 돌아가 반복합니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "เดินคานทรงตัว",
+      "description": "1. ก้าวขึ้นคานต่ำ กางแขนเพื่อทรงตัว สายตามองไปที่ปลายอีกด้าน\n2. เดินหรือวิ่งเหยาะตลอดความยาวด้วยก้าวสั้น วางเท้าตรงตามแนวคาน\n3. ก้าวหรือกระโดดลงที่ปลายโดยงอเข่า แล้วกลับไปทำซ้ำ",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Проход по бревну",
+      "description": "1. Встаньте на низкое бревно, руки в стороны для равновесия, взгляд на дальний конец.\n2. Пройдите или пробегите всю длину короткими шагами, ставя стопы прямо вдоль бревна.\n3. В конце сойдите или спрыгните на мягкие колени и вернитесь для повтора.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Прохід по колоді",
+      "description": "1. Станьте на низьку колоду, руки в сторони для рівноваги, погляд на дальній кінець.\n2. Пройдіть або пробіжіть усю довжину короткими кроками, ставлячи стопи прямо вздовж колоди.\n3. Наприкінці зійдіть або зістрибніть на м’які коліна й поверніться для повтору.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#2BBF51",
+    "colorType": "green",
+    "folder": "Taekwondo",
+    "id": "8",
+    "icon": "Taekwondo/Icon.png",
+    "symbolName": "figure.boxing",
+    "title": "Taekwondo",
+    "workoutType": "taekwondo",
+    "translations": {
+      "en": {
+        "title": "Taekwondo"
+      },
+      "es": {
+        "title": "Taekwondo"
+      },
+      "pt": {
+        "title": "Taekwondo"
+      },
+      "fr": {
+        "title": "Taekwondo"
+      },
+      "de": {
+        "title": "Taekwondo"
+      },
+      "it": {
+        "title": "Taekwondo"
+      },
+      "zh-Hans": {
+        "title": "跆拳道"
+      },
+      "ja": {
+        "title": "テコンドー"
+      },
+      "ko": {
+        "title": "태권도"
+      },
+      "th": {
+        "title": "เทควันโด"
+      },
+      "ru": {
+        "title": "Тхэквондо"
+      },
+      "uk": {
+        "title": "Тхеквондо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Taekwondo/exercises/taekwondo/Icon.png",
+      "json": "Taekwondo/exercises/taekwondo/taekwondo.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taekwondoStanceAndFootwork/Icon.png",
+      "json": "Taekwondo/exercises/taekwondoStanceAndFootwork/taekwondoStanceAndFootwork.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/leadFrontKick/Icon.png",
+      "json": "Taekwondo/exercises/leadFrontKick/leadFrontKick.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/rearFrontKick/Icon.png",
+      "json": "Taekwondo/exercises/rearFrontKick/rearFrontKick.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/leadRoundhouseKick/Icon.png",
+      "json": "Taekwondo/exercises/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/rearRoundhouseKick/Icon.png",
+      "json": "Taekwondo/exercises/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/leadSideKick/Icon.png",
+      "json": "Taekwondo/exercises/leadSideKick/leadSideKick.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/rearSideKick/Icon.png",
+      "json": "Taekwondo/exercises/rearSideKick/rearSideKick.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/backKick/Icon.png",
+      "json": "Taekwondo/exercises/backKick/backKick.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/bodyPunch/Icon.png",
+      "json": "Taekwondo/exercises/bodyPunch/bodyPunch.json"
+    },
+    {
+      "json": "Taekwondo/exercises/lowBlock/lowBlock.json",
+      "icon": "Taekwondo/exercises/lowBlock/Icon.png"
+    },
+    {
+      "json": "Taekwondo/exercises/middleBlock/middleBlock.json",
+      "icon": "Taekwondo/exercises/middleBlock/Icon.png"
+    },
+    {
+      "json": "Taekwondo/exercises/highBlock/highBlock.json",
+      "icon": "Taekwondo/exercises/highBlock/Icon.png"
+    },
+    {
+      "json": "Taekwondo/exercises/frontStance/frontStance.json",
+      "icon": "Taekwondo/exercises/frontStance/Icon.png"
+    },
+    {
+      "json": "Taekwondo/exercises/backStance/backStance.json",
+      "icon": "Taekwondo/exercises/backStance/Icon.png"
+    },
+    {
+      "json": "Taekwondo/exercises/horseSittingStance/horseSittingStance.json",
+      "icon": "Taekwondo/exercises/horseSittingStance/Icon.png"
+    },
+    {
+      "json": "Taekwondo/exercises/knifeHandStrike/knifeHandStrike.json",
+      "icon": "Taekwondo/exercises/knifeHandStrike/Icon.png"
+    },
+    {
+      "icon": "Taekwondo/exercises/chonJi/Icon.png",
+      "json": "Taekwondo/exercises/chonJi/chonJi.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/danGun/Icon.png",
+      "json": "Taekwondo/exercises/danGun/danGun.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/doSan/Icon.png",
+      "json": "Taekwondo/exercises/doSan/doSan.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/wonHyo/Icon.png",
+      "json": "Taekwondo/exercises/wonHyo/wonHyo.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/yulGok/Icon.png",
+      "json": "Taekwondo/exercises/yulGok/yulGok.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/joongGun/Icon.png",
+      "json": "Taekwondo/exercises/joongGun/joongGun.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/toiGye/Icon.png",
+      "json": "Taekwondo/exercises/toiGye/toiGye.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/hwaRang/Icon.png",
+      "json": "Taekwondo/exercises/hwaRang/hwaRang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/choongMoo/Icon.png",
+      "json": "Taekwondo/exercises/choongMoo/choongMoo.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/kwangGae/Icon.png",
+      "json": "Taekwondo/exercises/kwangGae/kwangGae.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/poEun/Icon.png",
+      "json": "Taekwondo/exercises/poEun/poEun.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/geBaek/Icon.png",
+      "json": "Taekwondo/exercises/geBaek/geBaek.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk1Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk1Jang/taegeuk1Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk2Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk2Jang/taegeuk2Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk3Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk3Jang/taegeuk3Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk4Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk4Jang/taegeuk4Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk5Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk5Jang/taegeuk5Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk6Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk6Jang/taegeuk6Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk7Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk7Jang/taegeuk7Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taegeuk8Jang/Icon.png",
+      "json": "Taekwondo/exercises/taegeuk8Jang/taegeuk8Jang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/koryo/Icon.png",
+      "json": "Taekwondo/exercises/koryo/koryo.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/keumgang/Icon.png",
+      "json": "Taekwondo/exercises/keumgang/keumgang.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/taebaek/Icon.png",
+      "json": "Taekwondo/exercises/taebaek/taebaek.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/pyongwon/Icon.png",
+      "json": "Taekwondo/exercises/pyongwon/pyongwon.json"
+    },
+    {
+      "icon": "Taekwondo/exercises/shipjin/Icon.png",
+      "json": "Taekwondo/exercises/shipjin/shipjin.json"
+    }
+  ]
+}

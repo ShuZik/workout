@@ -1,0 +1,90 @@
+{
+  "id": "76.7",
+  "key": "kyudo_mato_mae",
+  "title": "Mato-mae Practice",
+  "description": "1. Take your place on the shooting line facing the mato, usually at 28 m, with two arrows prepared.\n2. Shoot each arrow through the eight stages, keeping the same form used at the makiwara rather than steering the arrow.\n3. Keep zanshin after each shot, observe the hit without reacting, and retrieve arrows only when the range is declared safe.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "kyudo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Shooting",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Mato-mae Practice",
+      "description": "1. Take your place on the shooting line facing the mato, usually at 28 m, with two arrows prepared.\n2. Shoot each arrow through the eight stages, keeping the same form used at the makiwara rather than steering the arrow.\n3. Keep zanshin after each shot, observe the hit without reacting, and retrieve arrows only when the range is declared safe.",
+      "sectionTitle": "Shooting"
+    },
+    "es": {
+      "title": "Práctica al mato",
+      "description": "1. Ocupa tu lugar en la línea de tiro frente al mato, normalmente a 28 m, con dos flechas preparadas.\n2. Tira cada flecha siguiendo las ocho fases, con la misma forma que en el makiwara en lugar de dirigir la flecha.\n3. Mantén el zanshin tras cada tiro, observa el impacto sin reaccionar y recoge las flechas solo cuando se declare segura la zona.",
+      "sectionTitle": "Tiro"
+    },
+    "pt": {
+      "title": "Prática no mato",
+      "description": "1. Assuma seu lugar na linha de tiro diante do mato, geralmente a 28 m, com duas flechas preparadas.\n2. Atire cada flecha pelas oito fases, mantendo a mesma forma do makiwara em vez de direcionar a flecha.\n3. Mantenha o zanshin após cada tiro, observe o acerto sem reagir e recolha as flechas só quando a área for declarada segura.",
+      "sectionTitle": "Tiro"
+    },
+    "fr": {
+      "title": "Tir sur mato",
+      "description": "1. Prenez place sur la ligne de tir face au mato, généralement à 28 m, avec deux flèches prêtes.\n2. Tirez chaque flèche selon les huit étapes en gardant la même forme qu’au makiwara plutôt que de diriger la flèche.\n3. Gardez le zanshin après chaque tir, observez l’impact sans réagir et ne récupérez les flèches que lorsque le pas de tir est déclaré sûr.",
+      "sectionTitle": "Tir"
+    },
+    "de": {
+      "title": "Mato-mae-Training",
+      "description": "1. Den Platz an der Schießlinie vor dem Mato einnehmen, meist in 28 m, mit zwei vorbereiteten Pfeilen.\n2. Jeden Pfeil durch die acht Phasen schießen und dieselbe Form wie am Makiwara halten, statt den Pfeil zu lenken.\n3. Nach jedem Schuss Zanshin halten, den Treffer ohne Reaktion beobachten und Pfeile erst holen, wenn die Bahn freigegeben ist.",
+      "sectionTitle": "Schießen"
+    },
+    "it": {
+      "title": "Pratica al mato",
+      "description": "1. Prendi posto sulla linea di tiro di fronte al mato, di solito a 28 m, con due frecce pronte.\n2. Tira ogni freccia attraverso le otto fasi mantenendo la stessa forma del makiwara invece di dirigere la freccia.\n3. Mantieni lo zanshin dopo ogni tiro, osserva il colpo senza reagire e recupera le frecce solo quando il campo è dichiarato sicuro.",
+      "sectionTitle": "Tiro"
+    },
+    "zh-Hans": {
+      "title": "的前练习",
+      "description": "1. 站在射位面对箭靶（通常28米），准备好两支箭。\n2. 每支箭都按射法八节射出，保持与卷藁练习相同的射形，而不是刻意引导箭。\n3. 每射后保持残心，不作反应地观察中靶情况，只有在确认安全后才去取箭。",
+      "sectionTitle": "射箭"
+    },
+    "ja": {
+      "title": "的前練習",
+      "description": "1. 通常28mの的に向かって射位に立ち、二本の矢を用意します。\n2. 矢を操ろうとせず、巻藁と同じ射形で射法八節を通して一本ずつ射ます。\n3. 一射ごとに残心を保ち、的中に反応せず見届け、安全が確認されてから矢取りをします。",
+      "sectionTitle": "射"
+    },
+    "ko": {
+      "title": "마토마에 연습",
+      "description": "1. 보통 28m의 과녁을 향해 사대에 서고 화살 두 대를 준비합니다.\n2. 화살을 조종하려 하지 말고 마키와라와 같은 자세로 사법팔절에 따라 한 대씩 쏩니다.\n3. 매 발 잔심을 유지하고 적중에 반응하지 않고 지켜보며, 안전이 선언된 후에만 화살을 회수합니다.",
+      "sectionTitle": "사법"
+    },
+    "th": {
+      "title": "ฝึกยิงเป้ามาโตะ",
+      "description": "1. ยืนประจำแนวยิงหันหน้าเข้าหาเป้ามาโตะ โดยปกติระยะ 28 เมตร เตรียมลูกธนูสองดอก\n2. ยิงแต่ละดอกตามแปดขั้นตอน รักษาท่าเดียวกับที่ใช้ยิงมากิวาระแทนการบังคับทิศลูกธนู\n3. คงซันชินหลังยิงแต่ละครั้ง สังเกตผลโดยไม่แสดงปฏิกิริยา และเก็บลูกธนูเมื่อประกาศว่าปลอดภัยแล้วเท่านั้น",
+      "sectionTitle": "การยิง"
+    },
+    "ru": {
+      "title": "Стрельба по мато",
+      "description": "1. Займите место на линии стрельбы напротив мато, обычно на 28 м, с двумя подготовленными стрелами.\n2. Выпускайте каждую стрелу через восемь этапов, сохраняя ту же форму, что у макивары, а не направляя стрелу.\n3. После каждого выстрела сохраняйте дзансин, наблюдайте попадание без реакции и собирайте стрелы только после объявления безопасности.",
+      "sectionTitle": "Стрельба"
+    },
+    "uk": {
+      "title": "Стрільба по мато",
+      "description": "1. Займіть місце на лінії стрільби навпроти мато, зазвичай на 28 м, із двома підготовленими стрілами.\n2. Випускайте кожну стрілу через вісім етапів, зберігаючи ту саму форму, що й біля маківари, а не спрямовуючи стрілу.\n3. Після кожного пострілу зберігайте дзансін, спостерігайте влучання без реакції й збирайте стріли лише після оголошення безпеки.",
+      "sectionTitle": "Стрільба"
+    }
+  }
+}

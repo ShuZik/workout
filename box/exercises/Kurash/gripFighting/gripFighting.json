@@ -1,0 +1,87 @@
+{
+  "id": "75.2",
+  "key": "kurash_grip_fighting",
+  "title": "Grip Fighting",
+  "description": "1. Face a trained partner in jackets and belts, both standing upright with the hands ready at chest height.\n2. Compete for collar, sleeve, and belt grips, breaking the partner's hold with wrist turns and never touching the legs or trousers.\n3. When one partner secures a dominant grip, pause, release both hands, and reset standing.",
+  "colorType": "cyan",
+  "workoutType": "kurash",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Grip Fighting",
+      "description": "1. Face a trained partner in jackets and belts, both standing upright with the hands ready at chest height.\n2. Compete for collar, sleeve, and belt grips, breaking the partner's hold with wrist turns and never touching the legs or trousers.\n3. When one partner secures a dominant grip, pause, release both hands, and reset standing.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Lucha de agarres",
+      "description": "1. Colócate frente a un compañero entrenado, ambos con chaqueta y cinturón, de pie y con las manos listas a la altura del pecho.\n2. Disputad los agarres de cuello, manga y cinturón, rompiendo el agarre del compañero con giros de muñeca y sin tocar nunca las piernas ni el pantalón.\n3. Cuando uno de los dos consiga un agarre dominante, haced una pausa, soltad ambas manos y volved a empezar de pie.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Disputa de pegada",
+      "description": "1. Fique de frente para um parceiro treinado, ambos de jaqueta e faixa, em pé e com as mãos prontas na altura do peito.\n2. Disputem as pegadas na gola, na manga e na faixa, quebrando a pegada do parceiro com giros de punho e sem nunca tocar nas pernas ou na calça.\n3. Quando um dos dois garantir uma pegada dominante, façam uma pausa, soltem as duas mãos e recomecem em pé.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Combat de saisies",
+      "description": "1. Placez-vous face à un partenaire entraîné, tous deux en veste et ceinture, debout, les mains prêtes à hauteur de poitrine.\n2. Disputez les saisies au col, à la manche et à la ceinture en cassant la saisie du partenaire par des rotations du poignet, sans jamais toucher les jambes ni le pantalon.\n3. Dès qu’un partenaire obtient une saisie dominante, marquez une pause, lâchez les deux mains et reprenez debout.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Griffkampf",
+      "description": "1. Stelle dich einem geübten Partner gegenüber, beide in Jacke und Gürtel, aufrecht und mit den Händen bereit auf Brusthöhe.\n2. Kämpft um Kragen-, Ärmel- und Gürtelgriffe, löst die Griffe des Partners mit Handgelenksdrehungen und berührt niemals Beine oder Hose.\n3. Sobald einer einen dominanten Griff hat, haltet kurz inne, löst beide Hände und beginnt stehend neu.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Lotta per la presa",
+      "description": "1. Mettiti di fronte a un compagno allenato, entrambi con giacca e cintura, in piedi e con le mani pronte all’altezza del petto.\n2. Contendetevi le prese al bavero, alla manica e alla cintura, rompendo la presa del compagno con rotazioni del polso e senza mai toccare gambe o pantaloni.\n3. Quando uno dei due ottiene una presa dominante, fermatevi, lasciate entrambe le mani e ripartite in piedi.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "抢把",
+      "description": "1. 与受过训练的搭档相对站立，双方穿跤衣系腰带，双手置于胸前准备。\n2. 争夺衣领、袖口和腰带的抓握，用转腕破解搭档的抓握，始终不触碰腿部或裤子。\n3. 一方取得优势抓握后暂停，双手松开，重新站立开始。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "組み手争い",
+      "description": "1. 上衣と帯を着けた訓練済みの相手と向かい合って立ち、両手を胸の高さに構えます。\n2. 襟、袖、帯の組み手を争い、手首を返して相手の組み手を切ります。脚やズボンには決して触れません。\n3. どちらかが有利な組み手を取ったら止まり、両手を離して立った姿勢から再開します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "잡기 싸움",
+      "description": "1. 상의와 띠를 착용한 숙련된 파트너와 마주 서서 두 손을 가슴 높이에 준비합니다.\n2. 깃, 소매, 띠 잡기를 다투며 손목을 돌려 파트너의 잡기를 끊고, 다리나 바지는 절대 잡지 않습니다.\n3. 한 사람이 유리한 잡기를 확보하면 멈추고 두 손을 놓은 뒤 선 자세에서 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "การแย่งจับ",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ฝึกที่ผ่านการฝึก ทั้งคู่สวมเสื้อและคาดเข็มขัด ยกมือเตรียมไว้ระดับอก\n2. แย่งจับคอเสื้อ แขนเสื้อ และเข็มขัด สะบัดข้อมือเพื่อแกะการจับของคู่ฝึก และห้ามแตะขาหรือกางเกงเด็ดขาด\n3. เมื่อฝ่ายใดได้การจับที่เหนือกว่า ให้หยุด ปล่อยมือทั้งสองข้าง แล้วเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Борьба за захват",
+      "description": "1. Встаньте лицом к подготовленному партнёру, оба в куртках и поясах, руки наготове на уровне груди.\n2. Боритесь за захваты ворота, рукава и пояса, срывая захват партнёра поворотом запястья и никогда не касаясь ног или брюк.\n3. Когда один из партнёров займёт выгодный захват, остановитесь, отпустите обе руки и начните заново в стойке.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Боротьба за захват",
+      "description": "1. Станьте обличчям до підготовленого партнера, обидва в куртках і поясах, руки напоготові на рівні грудей.\n2. Боріться за захвати коміра, рукава й пояса, зриваючи захват партнера поворотом зап'ястка і ніколи не торкаючись ніг чи штанів.\n3. Коли хтось із партнерів займе вигідний захват, зупиніться, відпустіть обидві руки й почніть знову в стійці.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

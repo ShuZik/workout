@@ -1,0 +1,90 @@
+{
+  "id": "13.12",
+  "key": "resistance_band_band_lateral_raise",
+  "title": "Band Lateral Raise",
+  "description": "1. Stand on the band with arms by the sides, palms inward, and elbows softly bent.\n2. Raise both arms out to the sides until the hands approach shoulder height without shrugging.\n3. Lower the arms slowly to the sides while keeping equal tension in both band ends.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Resistance Bands",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Band Lateral Raise",
+      "description": "1. Stand on the band with arms by the sides, palms inward, and elbows softly bent.\n2. Raise both arms out to the sides until the hands approach shoulder height without shrugging.\n3. Lower the arms slowly to the sides while keeping equal tension in both band ends.",
+      "sectionTitle": "Resistance Bands"
+    },
+    "es": {
+      "title": "Elevación lateral con banda",
+      "description": "1. Pisa la banda con los brazos a los lados, las palmas hacia dentro y los codos ligeramente flexionados.\n2. Eleva ambos brazos hacia los lados hasta que las manos se acerquen a la altura de los hombros sin encogerlos.\n3. Baja los brazos despacio a los lados manteniendo la misma tensión en ambos extremos de la banda.",
+      "sectionTitle": "Bandas de resistencia"
+    },
+    "pt": {
+      "title": "Elevação lateral com elástico",
+      "description": "1. Pise no elástico com os braços ao lado do corpo, palmas voltadas para dentro e cotovelos levemente dobrados.\n2. Eleve os dois braços para os lados até as mãos se aproximarem da altura dos ombros sem encolhê-los.\n3. Abaixe os braços devagar ao lado do corpo mantendo a mesma tensão nas duas pontas do elástico.",
+      "sectionTitle": "Elásticos de resistência"
+    },
+    "fr": {
+      "title": "Élévation latérale avec élastique",
+      "description": "1. Placez-vous sur l’élastique, bras le long du corps, paumes vers l’intérieur et coudes légèrement fléchis.\n2. Levez les deux bras sur les côtés jusqu’à ce que les mains approchent la hauteur des épaules sans les hausser.\n3. Redescendez lentement les bras le long du corps en gardant une tension égale aux deux extrémités de l’élastique.",
+      "sectionTitle": "Élastiques de résistance"
+    },
+    "de": {
+      "title": "Seitheben mit Band",
+      "description": "1. Stelle dich auf das Band, Arme seitlich am Körper, Handflächen nach innen und Ellbogen leicht gebeugt.\n2. Hebe beide Arme seitlich an, bis die Hände etwa Schulterhöhe erreichen, ohne die Schultern hochzuziehen.\n3. Senke die Arme langsam an die Seiten und halte die Spannung an beiden Bandenden gleich.",
+      "sectionTitle": "Widerstandsbänder"
+    },
+    "it": {
+      "title": "Alzate laterali con elastico",
+      "description": "1. Sali sull’elastico con le braccia lungo i fianchi, i palmi rivolti verso l’interno e i gomiti leggermente piegati.\n2. Solleva entrambe le braccia lateralmente finché le mani si avvicinano all’altezza delle spalle senza alzarle verso le orecchie.\n3. Abbassa lentamente le braccia lungo i fianchi mantenendo la stessa tensione su entrambe le estremità dell’elastico.",
+      "sectionTitle": "Elastici di resistenza"
+    },
+    "zh-Hans": {
+      "title": "弹力带侧平举",
+      "description": "1. 双脚踩住弹力带，双臂垂于体侧，掌心相对，肘部微屈。\n2. 双臂向两侧抬起，直到双手接近肩部高度，不要耸肩。\n3. 缓慢将双臂放回体侧，保持弹力带两端张力一致。",
+      "sectionTitle": "弹力带"
+    },
+    "ja": {
+      "title": "バンドラテラルレイズ",
+      "description": "1. バンドを踏み、腕を体の横に下ろして手のひらを内側に向け、肘を軽く曲げます。\n2. 肩をすくめずに、手が肩の高さに近づくまで両腕を横に上げます。\n3. バンドの両端の張力を均等に保ちながら、腕をゆっくり体の横に下ろします。",
+      "sectionTitle": "レジスタンスバンド"
+    },
+    "ko": {
+      "title": "밴드 레터럴 레이즈",
+      "description": "1. 밴드를 밟고 팔을 몸 옆에 두며 손바닥은 안쪽, 팔꿈치는 살짝 굽힙니다.\n2. 어깨를 으쓱하지 않고 손이 어깨 높이에 가까워질 때까지 두 팔을 옆으로 올립니다.\n3. 밴드 양 끝의 장력을 같게 유지하며 팔을 천천히 몸 옆으로 내립니다.",
+      "sectionTitle": "저항 밴드"
+    },
+    "th": {
+      "title": "ยกแขนด้านข้างด้วยยางยืด",
+      "description": "1. เหยียบยางยืด แขนแนบข้างลำตัว หันฝ่ามือเข้าด้านใน และงอศอกเล็กน้อย\n2. ยกแขนทั้งสองออกด้านข้างจนมือใกล้ระดับไหล่โดยไม่ยักไหล่\n3. ลดแขนลงข้างลำตัวช้า ๆ โดยรักษาแรงตึงที่ปลายยางทั้งสองข้างให้เท่ากัน",
+      "sectionTitle": "ยางยืดแรงต้าน"
+    },
+    "ru": {
+      "title": "Подъём рук в стороны с резинкой",
+      "description": "1. Встаньте на резинку, руки опущены вдоль тела, ладони обращены внутрь, локти слегка согнуты.\n2. Поднимите обе руки в стороны, пока кисти не приблизятся к уровню плеч, не поднимая плечи.\n3. Медленно опустите руки вдоль тела, сохраняя одинаковое натяжение обоих концов резинки.",
+      "sectionTitle": "Резинки сопротивления"
+    },
+    "uk": {
+      "title": "Підйом рук у сторони з гумою",
+      "description": "1. Станьте на гуму, руки опущені вздовж тіла, долоні повернуті всередину, лікті злегка зігнуті.\n2. Підніміть обидві руки в сторони, доки кисті не наблизяться до рівня плечей, не піднімаючи плечей.\n3. Повільно опустіть руки вздовж тіла, зберігаючи однаковий натяг обох кінців гуми.",
+      "sectionTitle": "Гуми опору"
+    }
+  }
+}

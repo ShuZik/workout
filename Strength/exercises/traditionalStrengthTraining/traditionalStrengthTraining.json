@@ -1,0 +1,90 @@
+{
+  "id": "13.3",
+  "key": "traditional_strength_training",
+  "title": "Traditional Strength Training",
+  "description": "1. Choose the exercise, load, repetition target, and rest period before the set begins.\n2. Lift through the working phase without bouncing or using momentum, then control the lowering phase.\n3. Place or rack the load safely after the final clean repetition and take the programmed rest.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Traditional Strength Training",
+      "description": "1. Choose the exercise, load, repetition target, and rest period before the set begins.\n2. Lift through the working phase without bouncing or using momentum, then control the lowering phase.\n3. Place or rack the load safely after the final clean repetition and take the programmed rest.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Entrenamiento de fuerza tradicional",
+      "description": "1. Elige el ejercicio, la carga, el objetivo de repeticiones y el descanso antes de comenzar la serie.\n2. Levanta durante la fase de trabajo sin rebotes ni impulso y después controla la fase de descenso.\n3. Coloca o devuelve la carga al soporte de forma segura tras la última repetición correcta y realiza el descanso programado.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Treino de força tradicional",
+      "description": "1. Escolha o exercício, a carga, a meta de repetições e o descanso antes de começar a série.\n2. Levante durante a fase de esforço sem quicar nem usar impulso e depois controle a fase de descida.\n3. Apoie ou guarde a carga com segurança após a última repetição correta e cumpra o descanso programado.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Musculation traditionnelle",
+      "description": "1. Choisissez l’exercice, la charge, le nombre de répétitions visé et le repos avant de commencer la série.\n2. Soulevez pendant la phase de travail sans rebond ni élan, puis contrôlez la descente.\n3. Posez ou reposez la charge sur son support en sécurité après la dernière répétition correcte et prenez le repos prévu.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Traditionelles Krafttraining",
+      "description": "1. Wähle vor Beginn des Satzes Übung, Last, Wiederholungsziel und Ruhezeit.\n2. Hebe in der Belastungsphase ohne Federn oder Schwung und kontrolliere anschließend das Absenken.\n3. Lege die Last nach der letzten sauberen Wiederholung sicher ab oder zurück in die Ablage und halte die geplante Pause ein.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Allenamento di forza tradizionale",
+      "description": "1. Scegli esercizio, carico, obiettivo di ripetizioni e riposo prima che inizi la serie.\n2. Solleva nella fase di lavoro senza rimbalzi né slancio, poi controlla la fase di discesa.\n3. Appoggia o rimetti il carico sul supporto in sicurezza dopo l’ultima ripetizione corretta e rispetta il riposo programmato.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "传统力量训练",
+      "description": "1. 组开始前选好动作、负重、目标次数和休息时间。\n2. 在发力阶段举起，不要反弹或借助惯性，然后控制下放阶段。\n3. 最后一次规范重复后，安全放下或归架负重，并按计划休息。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "従来型筋力トレーニング",
+      "description": "1. セットを始める前に、種目、負荷、目標回数、休憩時間を決めます。\n2. 反動や勢いを使わずに負荷を上げ、下ろす局面を制御します。\n3. 最後の正しい反復の後に負荷を安全に置くかラックへ戻し、予定の休憩を取ります。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "전통 근력 훈련",
+      "description": "1. 세트를 시작하기 전에 운동, 중량, 목표 반복 수와 휴식 시간을 정합니다.\n2. 튕기거나 반동을 쓰지 않고 힘을 쓰는 구간에서 들어 올린 뒤 내려가는 구간을 통제합니다.\n3. 마지막 올바른 반복 후 중량을 안전하게 내려놓거나 랙에 놓고 계획된 휴식을 취합니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "การฝึกแรงต้านแบบดั้งเดิม",
+      "description": "1. เลือกท่า น้ำหนัก เป้าหมายจำนวนครั้งและเวลาพักก่อนเริ่มเซต\n2. ยกในช่วงออกแรงโดยไม่เด้งหรือใช้แรงเหวี่ยง แล้วควบคุมช่วงลดลง\n3. วางหรือเก็บน้ำหนักบนที่รองอย่างปลอดภัยหลังครั้งสุดท้ายที่ท่าถูกต้อง แล้วพักตามแผน",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Традиционная силовая тренировка",
+      "description": "1. Выберите упражнение, вес, целевое число повторений и время отдыха до начала подхода.\n2. Поднимайте в рабочей фазе без отскока и инерции, затем контролируйте опускание.\n3. После последнего технически чистого повторения безопасно положите вес или верните его на стойку и отдохните по плану.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Традиційне силове тренування",
+      "description": "1. Виберіть вправу, вагу, цільову кількість повторень і час відпочинку до початку підходу.\n2. Піднімайте в робочій фазі без відскоку та інерції, потім контролюйте опускання.\n3. Після останнього технічно чистого повторення безпечно покладіть вагу або поверніть її на стійку та відпочиньте за планом.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

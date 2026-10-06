@@ -1,0 +1,90 @@
+{
+  "id": "4.28",
+  "key": "mma_lead_uppercut",
+  "title": "Lead Uppercut",
+  "description": "1. From guard, bend the knees slightly and load the lead leg without dropping either hand.\n2. Drive upward and rotate the lead hip as the bent fist rises tightly through the centerline.\n3. Retract the fist to the cheek and restore the knees, hips, and takedown-ready stance.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Striking",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Uppercut",
+      "description": "1. From guard, bend the knees slightly and load the lead leg without dropping either hand.\n2. Drive upward and rotate the lead hip as the bent fist rises tightly through the centerline.\n3. Retract the fist to the cheek and restore the knees, hips, and takedown-ready stance.",
+      "sectionTitle": "Striking"
+    },
+    "es": {
+      "title": "Uppercut delantero",
+      "description": "1. Desde la guardia, flexiona un poco las rodillas y carga la pierna adelantada sin bajar ninguna mano.\n2. Impulsa hacia arriba y gira la cadera adelantada mientras el puño flexionado sube pegado por la línea central.\n3. Retrae el puño a la mejilla y recupera las rodillas, la cadera y una guardia lista para defender derribos.",
+      "sectionTitle": "Golpeo"
+    },
+    "pt": {
+      "title": "Uppercut da frente",
+      "description": "1. Da guarda, flexione levemente os joelhos e carregue a perna da frente sem baixar nenhuma das mãos.\n2. Impulsione para cima e gire o quadril da frente enquanto o punho flexionado sobe junto pela linha central.\n3. Recolha o punho ao rosto e recupere joelhos, quadril e uma base pronta para defender quedas.",
+      "sectionTitle": "Trocação"
+    },
+    "fr": {
+      "title": "Uppercut avant",
+      "description": "1. Depuis la garde, fléchissez légèrement les genoux et chargez la jambe avant sans baisser aucune main.\n2. Poussez vers le haut et tournez la hanche avant pendant que le poing fléchi monte serré sur la ligne centrale.\n3. Ramenez le poing contre la joue et retrouvez genoux, hanches et une garde prête à défendre les amenées au sol.",
+      "sectionTitle": "Frappe"
+    },
+    "de": {
+      "title": "Vorderer Aufwärtshaken",
+      "description": "1. Beuge aus der Deckung leicht die Knie und belaste das vordere Bein, ohne eine Hand sinken zu lassen.\n2. Drück dich nach oben und dreh die vordere Hüfte, während die gebeugte Faust eng durch die Mittellinie steigt.\n3. Zieh die Faust zurück an die Wange und stelle Knie, Hüfte und eine takedownbereite Stellung wieder her.",
+      "sectionTitle": "Schlagtechnik"
+    },
+    "it": {
+      "title": "Montante anteriore",
+      "description": "1. Dalla guardia, piega leggermente le ginocchia e carica la gamba anteriore senza abbassare nessuna delle mani.\n2. Spingi verso l’alto e ruota l’anca anteriore mentre il pugno piegato sale stretto lungo la linea centrale.\n3. Riporta il pugno alla guancia e ripristina ginocchia, anche e una guardia pronta a difendere gli atterramenti.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "前手上勾拳",
+      "description": "1. 从架势出发，膝盖微屈，前腿蓄力，双手都不要放低。\n2. 向上发力并转动前侧髋部，弯曲的拳头紧贴中线向上打出。\n3. 拳头收回脸颊旁，恢复膝盖、髋部和随时防摔的站架。",
+      "sectionTitle": "打击"
+    },
+    "ja": {
+      "title": "前手のアッパーカット",
+      "description": "1. ガードから膝を少し曲げ、どちらの手も下げずに前脚に体重をためます。\n2. 上へ押し上げながら前側の腰を回し、曲げた拳を正中線に沿ってコンパクトに突き上げます。\n3. 拳を頬に戻し、膝と腰、テイクダウンに備えた構えを元に戻します。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "앞손 어퍼컷",
+      "description": "1. 가드에서 무릎을 살짝 굽히고 어느 손도 내리지 않은 채 앞다리에 체중을 싣습니다.\n2. 위로 밀어 올리며 앞쪽 엉덩이를 회전하고 굽힌 주먹을 중심선을 따라 짧게 올립니다.\n3. 주먹을 뺨으로 회수하고 무릎, 엉덩이, 테이크다운에 대비한 스탠스를 회복합니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "อัปเปอร์คัตหน้า",
+      "description": "1. จากท่าการ์ด งอเข่าเล็กน้อยและถ่ายน้ำหนักลงขาหน้าโดยไม่ลดมือข้างใด\n2. ดันตัวขึ้นและหมุนสะโพกหน้าขณะที่หมัดงอพุ่งขึ้นชิดแนวกึ่งกลาง\n3. ดึงหมัดกลับมาที่แก้ม แล้วจัดเข่า สะโพก และท่ายืนที่พร้อมกันการทุ่มกลับเข้าที่",
+      "sectionTitle": "การโจมตี"
+    },
+    "ru": {
+      "title": "Передний апперкот",
+      "description": "1. Из стойки слегка согните колени и загрузите переднюю ногу, не опуская ни одной руки.\n2. Толкнитесь вверх и разверните переднее бедро, пока согнутая рука плотно поднимается по центральной линии.\n3. Верните кулак к щеке и восстановите положение коленей, таза и стойку, готовую к защите от прохода.",
+      "sectionTitle": "Ударная техника"
+    },
+    "uk": {
+      "title": "Передній аперкот",
+      "description": "1. Зі стійки злегка зігніть коліна й завантажте передню ногу, не опускаючи жодної руки.\n2. Відштовхніться вгору й розверніть переднє стегно, поки зігнута рука щільно піднімається центральною лінією.\n3. Поверніть кулак до щоки й відновіть положення колін, таза та стійку, готову до захисту від проходу.",
+      "sectionTitle": "Ударна техніка"
+    }
+  }
+}

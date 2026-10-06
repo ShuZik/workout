@@ -1,0 +1,91 @@
+{
+  "id": "1.1",
+  "key": "free_boxing",
+  "title": "Boxing",
+  "description": "1. Stand orthodox or southpaw with the feet staggered, knees soft, chin tucked, and both fists beside the cheeks.\n2. Move in every direction and combine straight punches, hooks, uppercuts, and defensive actions while rotating from the feet and hips.\n3. Return both hands to guard and restore stance width after every action, keeping the movement balanced through the interval.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.8,
+    "moderate": 9.3,
+    "vigorous": 12.3,
+    "lightCode": "15110",
+    "moderateCode": "15125",
+    "vigorousCode": "15100"
+  },
+  "timerRole": "active",
+  "difficulty": "pro",
+  "level": 0,
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Boxing",
+      "description": "1. Stand orthodox or southpaw with the feet staggered, knees soft, chin tucked, and both fists beside the cheeks.\n2. Move in every direction and combine straight punches, hooks, uppercuts, and defensive actions while rotating from the feet and hips.\n3. Return both hands to guard and restore stance width after every action, keeping the movement balanced through the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Boxeo",
+      "description": "1. Adopta una guardia ortodoxa o zurda con los pies escalonados, rodillas flexibles, mentón recogido y ambos puños junto a las mejillas.\n2. Muévete en todas direcciones y combina directos, ganchos, uppercuts y defensas, girando desde los pies y las caderas.\n3. Devuelve ambas manos a la guardia y recupera la anchura de la postura tras cada acción, manteniendo el equilibrio durante el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Boxe",
+      "description": "1. Adote uma guarda destra ou canhota com os pés desencontrados, joelhos relaxados, queixo recolhido e punhos junto às bochechas.\n2. Mova-se em todas as direções e combine diretos, ganchos, uppercuts e defesas, girando a partir dos pés e quadris.\n3. Volte as mãos à guarda e recupere a largura da base após cada ação, mantendo o equilíbrio durante o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Boxe",
+      "description": "1. Adoptez une garde orthodoxe ou de gaucher, pieds décalés, genoux souples, menton rentré et poings près des joues.\n2. Déplacez-vous dans toutes les directions et combinez directs, crochets, uppercuts et défenses en tournant depuis les pieds et les hanches.\n3. Ramenez les mains en garde et retrouvez la largeur de votre position après chaque action, en restant équilibré pendant tout l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Boxen",
+      "description": "1. Stehe in Rechts- oder Linksauslage mit versetzten Füßen, lockeren Knien, eingezogenem Kinn und beiden Fäusten neben den Wangen.\n2. Bewege dich in alle Richtungen und kombiniere Geraden, Haken, Aufwärtshaken und Abwehrbewegungen mit Drehungen aus Füßen und Hüften.\n3. Bringe nach jeder Aktion beide Hände in die Deckung und stelle die Standbreite wieder her; bleibe während des gesamten Intervalls im Gleichgewicht.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Pugilato",
+      "description": "1. Assumi una guardia destra o mancina con piedi sfalsati, ginocchia morbide, mento rientrato e pugni accanto alle guance.\n2. Muoviti in ogni direzione e combina diretti, ganci, montanti e difese ruotando a partire dai piedi e dalle anche.\n3. Riporta entrambe le mani in guardia e ripristina la larghezza della posizione dopo ogni azione, mantenendo l’equilibrio durante l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "拳击",
+      "description": "1. 采用左脚在前或右脚在前的拳击站姿，双脚前后错开，膝盖放松，下巴内收，双拳置于两颊旁。\n2. 向各个方向移动，结合直拳、摆拳、上勾拳和防守动作，通过脚部和髋部带动旋转。\n3. 每次动作后双手回到防守位并恢复站距，在整个训练时段保持动作平衡。",
+      "sectionTitle": "主要训练"
+    },
+    "ja": {
+      "title": "ボクシング",
+      "description": "1. オーソドックスまたはサウスポーの構えで足を前後に置き、膝を柔らかく、顎を引いて両拳を頬の横に置きます。\n2. 足と腰から回転しながら全方向に動き、ストレート、フック、アッパーカット、防御動作を組み合わせます。\n3. 各動作後に両手をガードへ戻し、足幅を回復して、練習時間中はバランスを保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "복싱",
+      "description": "1. 오른손잡이 또는 왼손잡이 자세로 발을 앞뒤로 벌리고, 무릎을 부드럽게 굽히며 턱을 당기고 양 주먹을 뺨 옆에 둡니다.\n2. 발과 골반에서 회전하며 모든 방향으로 움직이고 스트레이트, 훅, 어퍼컷과 방어 동작을 조합합니다.\n3. 매 동작 뒤 양손을 가드로 되돌리고 발 간격을 회복하여 훈련 구간 내내 균형을 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "มวยสากล",
+      "description": "1. ยืนท่ามวยแบบถนัดขวาหรือถนัดซ้าย วางเท้าเหลื่อมกัน ผ่อนเข่า เก็บคาง และวางหมัดทั้งสองข้างข้างแก้ม\n2. เคลื่อนที่ทุกทิศทางและผสมหมัดตรง หมัดฮุก หมัดอัปเปอร์คัต และการป้องกัน โดยหมุนจากเท้าและสะโพก\n3. คืนมือทั้งสองเข้าการ์ดและคืนระยะห่างของเท้าหลังทุกการเคลื่อนไหว รักษาสมดุลตลอดช่วงฝึก",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Бокс",
+      "description": "1. Встаньте в правостороннюю или левостороннюю стойку: стопы смещены вперёд и назад, колени мягкие, подбородок опущен, кулаки у щёк.\n2. Двигайтесь во всех направлениях, сочетая прямые, боковые удары, апперкоты и защитные действия с вращением от стоп и таза.\n3. После каждого действия возвращайте обе руки в защиту и восстанавливайте ширину стойки, сохраняя равновесие на протяжении интервала.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Бокс",
+      "description": "1. Станьте в правобічну або лівобічну стійку: стопи зміщені вперед і назад, коліна м’які, підборіддя опущене, кулаки біля щік.\n2. Рухайтеся в усіх напрямках, поєднуючи прямі, бокові удари, аперкоти й захисні дії з обертанням від стоп і таза.\n3. Після кожної дії повертайте обидві руки в захист і відновлюйте ширину стійки, зберігаючи рівновагу протягом інтервалу.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

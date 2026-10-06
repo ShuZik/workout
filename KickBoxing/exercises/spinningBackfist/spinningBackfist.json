@@ -1,0 +1,90 @@
+{
+  "id": "3.38",
+  "key": "kick_boxing_spinning_backfist",
+  "title": "Spinning Backfist",
+  "description": "1. From stance, step the lead foot across or pivot on it and turn the head first to spot the target over the rear shoulder.\n2. Continue the turn and swing the rear arm horizontally, striking with the back of the fist with the elbow slightly bent.\n3. Complete the rotation without overswinging, bring the hand straight back to guard, and reset the stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Spinning Backfist",
+      "description": "1. From stance, step the lead foot across or pivot on it and turn the head first to spot the target over the rear shoulder.\n2. Continue the turn and swing the rear arm horizontally, striking with the back of the fist with the elbow slightly bent.\n3. Complete the rotation without overswinging, bring the hand straight back to guard, and reset the stance.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Puño giratorio de revés",
+      "description": "1. Desde la guardia, cruza el pie delantero o pivota sobre él y gira primero la cabeza para ver el objetivo por encima del hombro trasero.\n2. Continúa el giro y lanza el brazo trasero en horizontal, golpeando con el dorso del puño y el codo ligeramente flexionado.\n3. Completa la rotación sin pasarte, devuelve la mano directamente a la guardia y recoloca la postura.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Backfist giratório",
+      "description": "1. Da base, cruze o pé da frente ou gire sobre ele e vire primeiro a cabeça para ver o alvo por cima do ombro de trás.\n2. Continue o giro e lance o braço de trás na horizontal, golpeando com o dorso do punho e o cotovelo levemente flexionado.\n3. Complete a rotação sem exagerar, traga a mão direto para a guarda e reajuste a base.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Revers de poing retourné",
+      "description": "1. Depuis la garde, croisez le pied avant ou pivotez dessus et tournez d’abord la tête pour voir la cible par-dessus l’épaule arrière.\n2. Poursuivez la rotation et balayez horizontalement avec le bras arrière, en frappant du dos du poing, coude légèrement fléchi.\n3. Terminez la rotation sans excès, ramenez la main directement en garde et replacez la position.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Gedrehter Backfist",
+      "description": "1. Setze aus der Stellung den vorderen Fuß über oder drehe auf ihm und wende zuerst den Kopf, um das Ziel über die hintere Schulter zu sehen.\n2. Drehe weiter und schwinge den hinteren Arm waagerecht, treffe mit dem Faustrücken bei leicht gebeugtem Ellbogen.\n3. Beende die Drehung ohne Überschwingen, führe die Hand direkt in die Deckung zurück und stelle die Stellung neu ein.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Pugno girato al rovescio",
+      "description": "1. Dalla posizione, incrocia il piede anteriore o ruota su di esso e gira prima la testa per vedere il bersaglio oltre la spalla posteriore.\n2. Continua la rotazione e porta il braccio posteriore in orizzontale, colpendo con il dorso del pugno e il gomito leggermente flesso.\n3. Completa la rotazione senza eccedere, riporta subito la mano in guardia e ristabilisci la posizione.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "转身鞭拳",
+      "description": "1. 从站姿开始，前脚交叉上步或以前脚为轴转动，先转头越过后肩看清目标。\n2. 继续转身，后臂水平甩出，肘部微屈，用拳背击打。\n3. 完成转体但不过度甩动，手直接收回防守位并调整站姿。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "スピニングバックフィスト",
+      "description": "1. 構えから前足をクロスさせるか前足を軸に回り、まず頭を回して後ろ肩越しに目標を捉えます。\n2. 回転を続け、肘を軽く曲げた後ろ腕を水平に振り、拳の甲で打ちます。\n3. 振り過ぎずに回転を終え、手をまっすぐガードに戻して構えを整えます。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "스피닝 백피스트",
+      "description": "1. 자세에서 앞발을 교차해 딛거나 앞발을 축으로 돌며, 먼저 고개를 돌려 뒷어깨 너머로 목표를 봅니다.\n2. 회전을 이어 가며 팔꿈치를 살짝 굽힌 뒷팔을 수평으로 휘둘러 주먹 등으로 칩니다.\n3. 과하게 휘두르지 않고 회전을 마친 뒤 손을 곧장 가드로 되돌리고 자세를 정리합니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "หมัดเหวี่ยงกลับหลังหมุน",
+      "description": "1. จากท่ายืน ก้าวเท้าหน้าไขว้หรือหมุนบนเท้าหน้า แล้วหันศีรษะก่อนเพื่อมองเป้าข้ามไหล่หลัง\n2. หมุนต่อและเหวี่ยงแขนหลังในแนวนอน ตีด้วยหลังกำปั้นโดยงอศอกเล็กน้อย\n3. หมุนให้ครบโดยไม่เหวี่ยงเกิน ดึงมือกลับการ์ดตรง ๆ และจัดท่ายืนใหม่",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Удар с разворота тыльной стороной кулака",
+      "description": "1. Из стойки шагните передней ногой накрест или развернитесь на ней и сначала поверните голову, чтобы увидеть цель через заднее плечо.\n2. Продолжая разворот, проведите заднюю руку горизонтально и ударьте тыльной стороной кулака со слегка согнутым локтем.\n3. Завершите разворот без лишнего замаха, сразу верните руку в защиту и восстановите стойку.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Удар з розвороту тильним боком кулака",
+      "description": "1. Зі стійки ступніть передньою ногою навхрест або розверніться на ній і спершу поверніть голову, щоб побачити ціль через заднє плече.\n2. Продовжуючи розворот, проведіть задню руку горизонтально й ударте тильним боком кулака зі злегка зігнутим ліктем.\n3. Завершіть розворот без зайвого замаху, одразу поверніть руку в захист і відновіть стійку.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "6.23",
+  "key": "bjj_pull_guard",
+  "title": "Pull Guard",
+  "description": "1. From standing with a trained partner, establish secure sleeve and upper-body grips before taking weight off the feet.\n2. Place one foot at the partner's hip, sit to the mat under control, and use the grips to keep the partner from stepping away.\n3. Bring the second leg around the waist or establish open guard, then settle the position before releasing either grip.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "7 Takedowns",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pull Guard",
+      "description": "1. From standing with a trained partner, establish secure sleeve and upper-body grips before taking weight off the feet.\n2. Place one foot at the partner's hip, sit to the mat under control, and use the grips to keep the partner from stepping away.\n3. Bring the second leg around the waist or establish open guard, then settle the position before releasing either grip.",
+      "sectionTitle": "Takedowns"
+    },
+    "es": {
+      "title": "Tirar a la guardia",
+      "description": "1. De pie con un compañero entrenado, establece agarres seguros en la manga y el tren superior antes de quitar el peso de los pies.\n2. Coloca un pie en su cadera, siéntate en el tapiz con control y usa los agarres para que el compañero no se aleje.\n3. Rodea su cintura con la segunda pierna o establece una guardia abierta y asienta la posición antes de soltar cualquier agarre.",
+      "sectionTitle": "Derribos"
+    },
+    "pt": {
+      "title": "Puxar para a guarda",
+      "description": "1. Em pé com um parceiro treinado, estabeleça pegadas firmes na manga e na parte superior do corpo antes de tirar o peso dos pés.\n2. Coloque um pé no quadril do parceiro, sente-se no tatame com controle e use as pegadas para impedir que ele se afaste.\n3. Envolva a cintura com a segunda perna ou estabeleça a guarda aberta e estabilize a posição antes de soltar qualquer pegada.",
+      "sectionTitle": "Quedas"
+    },
+    "fr": {
+      "title": "Tirer en garde",
+      "description": "1. Debout avec un partenaire entraîné, prenez des saisies solides à la manche et au haut du corps avant de retirer le poids des pieds.\n2. Placez un pied sur sa hanche, asseyez-vous au tapis avec contrôle et utilisez les saisies pour l’empêcher de reculer.\n3. Enroulez la deuxième jambe autour de sa taille ou établissez une garde ouverte, puis stabilisez la position avant de lâcher une saisie.",
+      "sectionTitle": "Amenées au sol"
+    },
+    "de": {
+      "title": "Guard ziehen",
+      "description": "1. Sichere im Stand mit einem trainierten Partner feste Ärmel- und Oberkörpergriffe, bevor du das Gewicht von den Füßen nimmst.\n2. Setze einen Fuß an seine Hüfte, setze dich kontrolliert auf die Matte und hindere ihn mit den Griffen am Zurückweichen.\n3. Schlinge das zweite Bein um seine Hüfte oder baue eine offene Guard auf und stabilisiere die Position, bevor du einen Griff löst.",
+      "sectionTitle": "Niederwürfe"
+    },
+    "it": {
+      "title": "Tirare in guardia",
+      "description": "1. In piedi con un partner esperto, prendi prese sicure sulla manica e sulla parte superiore del corpo prima di togliere il peso dai piedi.\n2. Appoggia un piede sulla sua anca, siediti sul tappeto con controllo e usa le prese per impedirgli di allontanarsi.\n3. Porta la seconda gamba attorno alla vita o imposta una guardia aperta, poi stabilizza la posizione prima di lasciare qualsiasi presa.",
+      "sectionTitle": "Atterramenti"
+    },
+    "zh-Hans": {
+      "title": "拉入防守",
+      "description": "1. 与受过训练的搭档站立，先牢固抓住袖子和上半身，再把重心从脚上移开。\n2. 一只脚抵住对方髋部，有控制地坐到垫上，利用抓握防止搭档后撤。\n3. 用另一条腿环住对方腰部或建立开放式防守，稳定位置后再松开任何抓握。",
+      "sectionTitle": "摔法"
+    },
+    "ja": {
+      "title": "引き込み",
+      "description": "1. 経験のあるパートナーと立った状態で、足から体重を抜く前に袖と上体の組み手を確実に取ります。\n2. 片足を相手の腰に当て、コントロールしながらマットに座り、組み手で相手が離れないようにします。\n3. もう一方の脚を腰に回すかオープンガードを作り、ポジションを落ち着かせてから組み手を離します。",
+      "sectionTitle": "テイクダウン"
+    },
+    "ko": {
+      "title": "풀 가드",
+      "description": "1. 숙련된 파트너와 선 자세에서 발에서 체중을 빼기 전에 소매와 상체 그립을 확실히 잡습니다.\n2. 한 발을 파트너의 엉덩이에 대고 통제하며 매트에 앉고, 그립으로 상대가 물러나지 못하게 합니다.\n3. 두 번째 다리를 허리에 감거나 오픈 가드를 만든 뒤, 포지션을 안정시키고 나서 그립을 놓습니다.",
+      "sectionTitle": "테이크다운"
+    },
+    "th": {
+      "title": "ดึงเข้าการ์ด",
+      "description": "1. ยืนกับคู่ฝึกที่ผ่านการฝึก จับแขนเสื้อและลำตัวท่อนบนให้มั่นคงก่อนถ่ายน้ำหนักออกจากเท้า\n2. วางเท้าข้างหนึ่งที่สะโพกคู่ฝึก นั่งลงบนเบาะอย่างควบคุม และใช้การจับกันไม่ให้คู่ฝึกถอยออก\n3. ใช้ขาอีกข้างโอบเอวหรือตั้งโอเพนการ์ด แล้วจัดตำแหน่งให้มั่นคงก่อนปล่อยการจับข้างใดข้างหนึ่ง",
+      "sectionTitle": "การทุ่ม"
+    },
+    "ru": {
+      "title": "Затягивание в гард",
+      "description": "1. Стоя с подготовленным партнёром, возьмите надёжные захваты за рукав и верх корпуса, прежде чем снять вес со стоп.\n2. Поставьте одну стопу партнёру на таз, под контролем сядьте на ковёр и захватами не давайте ему отступить.\n3. Обхватите талию второй ногой или выстройте открытый гард, затем закрепите позицию, прежде чем отпустить любой захват.",
+      "sectionTitle": "Переводы в партер"
+    },
+    "uk": {
+      "title": "Затягування в гард",
+      "description": "1. Стоячи з підготовленим партнером, візьміть надійні захвати за рукав і верх тулуба, перш ніж зняти вагу зі стоп.\n2. Поставте одну стопу партнерові на таз, під контролем сядьте на килим і захватами не давайте йому відступити.\n3. Обхопіть талію другою ногою або вибудуйте відкритий гард, потім закріпіть позицію, перш ніж відпустити будь-який захват.",
+      "sectionTitle": "Переведення в партер"
+    }
+  }
+}

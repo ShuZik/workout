@@ -1,0 +1,87 @@
+{
+  "id": "65.1",
+  "key": "ju_jitsu",
+  "title": "Ju-Jitsu",
+  "description": "1. Begin on mats with a trained partner in a guarded stance at striking distance.\n2. Practice controlled attacks and defences combining evasion, blocks, throws, takedowns, and locks.\n3. Keep strikes controlled, release every lock at a tap, and alternate attacker and defender roles.",
+  "colorType": "blue",
+  "workoutType": "juJitsu",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ju-Jitsu",
+      "description": "1. Begin on mats with a trained partner in a guarded stance at striking distance.\n2. Practice controlled attacks and defences combining evasion, blocks, throws, takedowns, and locks.\n3. Keep strikes controlled, release every lock at a tap, and alternate attacker and defender roles.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Ju-Jitsu",
+      "description": "1. Comienza sobre el tatami con un compañero entrenado en guardia a distancia de golpeo.\n2. Practica ataques y defensas controlados que combinen esquivas, bloqueos, proyecciones, derribos y luxaciones.\n3. Mantén los golpes controlados, suelta cada luxación ante un golpe de rendición y alterna los roles de atacante y defensor.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Ju-Jitsu",
+      "description": "1. Comece no tatame com um parceiro treinado em guarda, na distância de golpe.\n2. Pratique ataques e defesas controlados combinando esquivas, bloqueios, projeções, quedas e chaves.\n3. Mantenha os golpes controlados, solte cada chave a uma batida e alterne os papéis de atacante e defensor.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Ju-Jitsu",
+      "description": "1. Commencez sur le tapis avec un partenaire entraîné, en garde à distance de frappe.\n2. Pratiquez attaques et défenses contrôlées combinant esquives, blocages, projections, amenées au sol et clés.\n3. Gardez les frappes contrôlées, relâchez chaque clé à la tape et alternez les rôles d'attaquant et de défenseur.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Ju-Jitsu",
+      "description": "1. Beginne auf der Matte mit einem geübten Partner in Deckung auf Schlagdistanz.\n2. Übe kontrollierte Angriffe und Verteidigungen aus Ausweichen, Blocks, Würfen, Takedowns und Hebeln.\n3. Halte Schläge kontrolliert, löse jeden Hebel beim Abklopfen und wechsle die Rollen von Angreifer und Verteidiger.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Ju-Jitsu",
+      "description": "1. Inizia sul tatami con un partner allenato in guardia alla distanza di colpo.\n2. Pratica attacchi e difese controllati che combinano schivate, parate, proiezioni, atterramenti e leve.\n3. Mantieni i colpi controllati, rilascia ogni leva al tap e alterna i ruoli di attaccante e difensore.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "柔术",
+      "description": "1. 与训练有素的同伴在垫上以防守姿势在打击距离开始。\n2. 练习可控的攻防，结合闪避、格挡、摔投、抱摔和关节技。\n3. 保持打击可控，拍击时松开所有关节技，交替担任攻击方和防守方。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "柔術",
+      "description": "1. 熟練のパートナーとマット上で、打撃の間合いで構えて始めます。\n2. かわし、受け、投げ、テイクダウン、関節技を組み合わせた制御された攻防を練習します。\n3. 打撃は制御し、タップですべての関節技を離し、攻撃者と防御者の役割を交代します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "주짓수",
+      "description": "1. 숙련된 파트너와 매트에서 타격 거리의 가드 자세로 시작합니다.\n2. 회피, 막기, 메치기, 테이크다운, 관절기를 결합한 통제된 공격과 방어를 연습합니다.\n3. 타격은 통제하고 탭에 모든 관절기를 풀며 공격자와 방어자 역할을 번갈아 맡습니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ยูยิตสู",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึกในท่าการ์ดที่ระยะโจมตี\n2. ฝึกการโจมตีและป้องกันอย่างควบคุม ผสมการหลบ การปัด การทุ่ม การล้ม และการล็อก\n3. ควบคุมการโจมตี ปล่อยทุกการล็อกเมื่อมีการตบ และสลับบทบาทผู้โจมตีกับผู้ป้องกัน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Джиу-джитсу",
+      "description": "1. Начните на ковре с подготовленным партнёром в стойке на ударной дистанции.\n2. Отрабатывайте контролируемые атаки и защиты, сочетая уходы, блоки, броски, сваливания и болевые.\n3. Контролируйте удары, отпускайте каждый болевой по хлопку и меняйтесь ролями атакующего и защитника.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Джиу-джитсу",
+      "description": "1. Почніть на килимі з підготовленим партнером у стійці на ударній дистанції.\n2. Відпрацьовуйте контрольовані атаки й захисти, поєднуючи ухили, блоки, кидки, звалювання та больові.\n3. Контролюйте удари, відпускайте кожен больовий за плесканням і міняйтеся ролями атакувальника й захисника.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

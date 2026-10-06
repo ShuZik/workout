@@ -1,0 +1,90 @@
+{
+  "id": "94.7",
+  "key": "sports_chanbara_choken_strikes",
+  "title": "Choken Strikes",
+  "description": "1. Hold the choken (long airsoft sword) in both hands, the right hand near the guard and the left at the end, tip on the centre line.\n2. Step in and strike men, kote, do, and ashi in turn, driving each strike from the shoulders and snapping the wrists.\n3. Recover guard after every strike, keep the blade light and fast rather than heavy, and repeat the cycle.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Choken Strikes",
+      "description": "1. Hold the choken (long airsoft sword) in both hands, the right hand near the guard and the left at the end, tip on the centre line.\n2. Step in and strike men, kote, do, and ashi in turn, driving each strike from the shoulders and snapping the wrists.\n3. Recover guard after every strike, keep the blade light and fast rather than heavy, and repeat the cycle.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Golpes con choken",
+      "description": "1. Sujeta el choken (espada larga de aire) con ambas manos, la derecha junto a la guarda y la izquierda en el extremo, la punta en la línea central.\n2. Entra y golpea men, kote, do y ashi por turnos, impulsando cada golpe desde los hombros y con un chasquido de muñecas.\n3. Recupera la guardia tras cada golpe, mantén la hoja ligera y rápida en vez de pesada, y repite el ciclo.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Golpes com choken",
+      "description": "1. Segure o choken (espada longa de ar) com as duas mãos, a direita perto da guarda e a esquerda na ponta do cabo, a ponta na linha central.\n2. Entre e golpeie men, kote, do e ashi em sequência, impulsionando cada golpe a partir dos ombros e estalando os punhos.\n3. Recupere a guarda após cada golpe, mantenha a lâmina leve e rápida em vez de pesada, e repita o ciclo.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Frappes au choken",
+      "description": "1. Tenez le choken (sabre long gonflable) à deux mains, la droite près de la garde et la gauche en bout de poignée, pointe sur la ligne centrale.\n2. Entrez et frappez men, kote, do et ashi à tour de rôle, en lançant chaque frappe depuis les épaules avec un coup sec des poignets.\n3. Reprenez la garde après chaque frappe, gardez la lame légère et rapide plutôt que lourde, et répétez le cycle.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Choken-Schläge",
+      "description": "1. Halte das Choken (langes Luftschwert) mit beiden Händen, die rechte nahe am Stichblatt, die linke am Griffende, die Spitze auf der Mittellinie.\n2. Tritt ein und schlage nacheinander Men, Kote, Do und Ashi, jeden Schlag aus den Schultern geführt und mit schnappenden Handgelenken.\n3. Kehre nach jedem Schlag in die Deckung zurück, halte die Klinge leicht und schnell statt schwer, und wiederhole den Zyklus.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Colpi con il choken",
+      "description": "1. Impugna il choken (spada lunga ad aria) con entrambe le mani, la destra vicino alla guardia e la sinistra in fondo, la punta sulla linea centrale.\n2. Entra e colpisci men, kote, do e ashi a turno, spingendo ogni colpo dalle spalle e con uno scatto dei polsi.\n3. Torna in guardia dopo ogni colpo, tieni la lama leggera e veloce invece che pesante, e ripeti il ciclo.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "长剑击打",
+      "description": "1. 双手持长剑（充气软剑），右手靠近护手，左手握柄尾，剑尖保持在中线。\n2. 上步依次击打面、小手、胴、足，每一击都由肩部发力并配合手腕轻弹。\n3. 每次击打后恢复架势，剑要轻快而非沉重，循环重复。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "長剣の打ち",
+      "description": "1. 長剣（エアーソフト剣）を両手で持ち、右手を鍔元、左手を柄頭に置き、剣先を正中線につけます。\n2. 踏み込んで面・小手・胴・足を順に打ち、肩から振り出して手首を鋭く利かせます。\n3. 打つたびに構えに戻り、重く打たず軽く速く振って、この流れを繰り返します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "조켄 타격",
+      "description": "1. 조켄(긴 에어소프트 검)을 두 손으로 잡고, 오른손은 코등이 가까이, 왼손은 자루 끝에 두며 칼끝을 중심선에 둡니다.\n2. 들어가며 멘, 고테, 도, 아시를 차례로 치고, 각 타격을 어깨에서 이끌며 손목을 튕깁니다.\n3. 매 타격 후 가드를 회복하고, 칼을 무겁지 않게 가볍고 빠르게 다루며 순환을 반복합니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "การตีด้วยโชเค็น",
+      "description": "1. ถือโชเค็น (ดาบยาวลม) ด้วยสองมือ มือขวาใกล้กระบัง มือซ้ายที่ปลายด้าม ปลายดาบอยู่แนวกึ่งกลาง\n2. ก้าวเข้าและตีเมง โคเตะ โด และอาชิตามลำดับ ส่งแรงแต่ละครั้งจากไหล่และสะบัดข้อมือ\n3. กลับสู่การ์ดหลังทุกครั้ง ตีให้เบาและเร็วแทนที่จะหนัก แล้วทำซ้ำเป็นรอบ",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Удары тёкэном",
+      "description": "1. Держите тёкэн (длинный надувной меч) двумя руками: правая у гарды, левая у конца рукояти, остриё на центральной линии.\n2. Шагайте и поочерёдно бейте мэн, котэ, до и аси, посылая каждый удар от плеч и хлёстко работая запястьями.\n3. После каждого удара возвращайтесь в стойку, держите клинок лёгким и быстрым, а не тяжёлым, и повторяйте цикл.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Удари чокеном",
+      "description": "1. Тримайте чокен (довгий надувний меч) двома руками: права біля гарди, ліва біля кінця руків'я, вістря на центральній лінії.\n2. Ступайте й почергово бийте мен, коте, до та аші, посилаючи кожен удар від плечей і хльостко працюючи зап'ястями.\n3. Після кожного удару повертайтеся в стійку, тримайте клинок легким і швидким, а не важким, і повторюйте цикл.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

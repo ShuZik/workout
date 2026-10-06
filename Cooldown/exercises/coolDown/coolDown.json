@@ -1,0 +1,90 @@
+{
+  "id": "10.1",
+  "key": "cool_down",
+  "title": "Rest",
+  "description": "1. Walk or move lightly for several minutes instead of stopping immediately after hard work.\n2. Slow the pace until breathing and heart rate begin to settle.\n3. Finish with relaxed breathing and gentle static stretches for the muscles used in training.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rest",
+      "description": "1. Walk or move lightly for several minutes instead of stopping immediately after hard work.\n2. Slow the pace until breathing and heart rate begin to settle.\n3. Finish with relaxed breathing and gentle static stretches for the muscles used in training.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Descanso",
+      "description": "1. Camina o muévete suavemente durante varios minutos en lugar de detenerte de golpe tras el esfuerzo intenso.\n2. Reduce el ritmo hasta que la respiración y la frecuencia cardíaca empiecen a estabilizarse.\n3. Termina con respiración relajada y estiramientos estáticos suaves de los músculos trabajados.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Descanso",
+      "description": "1. Caminhe ou movimente-se levemente por vários minutos em vez de parar logo após o esforço intenso.\n2. Diminua o ritmo até que a respiração e a frequência cardíaca comecem a se estabilizar.\n3. Termine com respiração relaxada e alongamentos estáticos suaves para os músculos usados no treino.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Repos",
+      "description": "1. Marchez ou bougez légèrement pendant plusieurs minutes au lieu de vous arrêter net après un effort intense.\n2. Ralentissez jusqu’à ce que la respiration et la fréquence cardiaque commencent à se stabiliser.\n3. Terminez par une respiration détendue et des étirements statiques doux des muscles sollicités.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Pause",
+      "description": "1. Gehe oder bewege dich einige Minuten locker, statt nach harter Belastung abrupt stehen zu bleiben.\n2. Verringere das Tempo, bis sich Atmung und Herzfrequenz zu beruhigen beginnen.\n3. Schließe mit entspannter Atmung und sanften statischen Dehnungen der beanspruchten Muskeln ab.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Riposo",
+      "description": "1. Cammina o muoviti leggermente per alcuni minuti invece di fermarti subito dopo lo sforzo intenso.\n2. Rallenta il ritmo finché respiro e frequenza cardiaca non iniziano a stabilizzarsi.\n3. Concludi con una respirazione rilassata e allungamenti statici delicati dei muscoli allenati.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "休息",
+      "description": "1. 高强度训练后不要立即停下，先步行或轻松活动几分钟。\n2. 放慢节奏，直到呼吸和心率开始平稳下来。\n3. 以放松的呼吸和对训练肌群的轻柔静态拉伸结束。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "休憩",
+      "description": "1. 激しい運動の直後にすぐ止まらず、数分間歩くか軽く体を動かします。\n2. 呼吸と心拍数が落ち着き始めるまでペースを落とします。\n3. リラックスした呼吸と、トレーニングで使った筋肉のやさしい静的ストレッチで終えます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "휴식",
+      "description": "1. 강한 운동 직후 바로 멈추지 말고 몇 분간 걷거나 가볍게 움직입니다.\n2. 호흡과 심박수가 안정되기 시작할 때까지 속도를 줄입니다.\n3. 편안한 호흡과 훈련에 사용한 근육의 부드러운 정적 스트레칭으로 마무리합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "พัก",
+      "description": "1. เดินหรือขยับร่างกายเบา ๆ สักสองสามนาที แทนการหยุดทันทีหลังออกกำลังกายหนัก\n2. ลดความเร็วลงจนการหายใจและอัตราการเต้นของหัวใจเริ่มคงที่\n3. จบด้วยการหายใจผ่อนคลายและการยืดเหยียดแบบค้างเบา ๆ สำหรับกล้ามเนื้อที่ใช้ฝึก",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Отдых",
+      "description": "1. Не останавливайтесь сразу после интенсивной нагрузки: несколько минут походите или легко подвигайтесь.\n2. Снижайте темп, пока дыхание и пульс не начнут успокаиваться.\n3. Завершите спокойным дыханием и мягкой статической растяжкой мышц, работавших на тренировке.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Відпочинок",
+      "description": "1. Не зупиняйтеся одразу після інтенсивного навантаження: кілька хвилин походіть або легко порухайтеся.\n2. Знижуйте темп, доки дихання й пульс не почнуть заспокоюватися.\n3. Завершіть спокійним диханням і м’якою статичною розтяжкою м’язів, що працювали на тренуванні.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

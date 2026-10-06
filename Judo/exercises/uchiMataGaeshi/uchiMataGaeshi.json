@@ -1,0 +1,90 @@
+{
+  "id": "41.66",
+  "key": "judo_uchi_mata_gaeshi",
+  "title": "Uchi Mata Gaeshi",
+  "description": "1. As a trained partner lifts with uchi-mata, lower the hips and trap the partner's lifting leg against your thigh.\n2. Turn away from the attack and lift the partner slightly while pulling the upper body back.\n3. Rotate the partner over in the opposite direction of the attack and guide the breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Uchi Mata Gaeshi",
+      "description": "1. As a trained partner lifts with uchi-mata, lower the hips and trap the partner's lifting leg against your thigh.\n2. Turn away from the attack and lift the partner slightly while pulling the upper body back.\n3. Rotate the partner over in the opposite direction of the attack and guide the breakfall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Uchi Mata Gaeshi",
+      "description": "1. Cuando un compañero entrenado levante con uchi-mata, baja las caderas y atrapa su pierna que levanta contra tu muslo.\n2. Gira alejándote del ataque y levanta un poco al compañero mientras tiras del tronco hacia atrás.\n3. Haz rotar al compañero en dirección opuesta al ataque y guía la caída.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Uchi Mata Gaeshi",
+      "description": "1. Quando um parceiro treinado levantar com uchi-mata, baixe os quadris e prenda a perna que levanta contra sua coxa.\n2. Gire afastando-se do ataque e levante um pouco o parceiro enquanto puxa o tronco para trás.\n3. Gire o parceiro na direção oposta ao ataque e guie a queda.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Uchi Mata Gaeshi",
+      "description": "1. Quand un partenaire entraîné soulève en uchi-mata, abaissez les hanches et bloquez sa jambe de levée contre votre cuisse.\n2. Tournez à l’opposé de l’attaque et soulevez légèrement le partenaire en tirant le haut du corps en arrière.\n3. Faites tourner le partenaire dans le sens opposé à l’attaque et guidez la chute.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Uchi Mata Gaeshi",
+      "description": "1. Wenn ein geübter Partner mit Uchi-mata hebt, senke die Hüfte und klemme sein hebendes Bein gegen deinen Oberschenkel.\n2. Drehe dich vom Angriff weg und hebe den Partner leicht an, während du den Oberkörper nach hinten ziehst.\n3. Drehe den Partner entgegen der Angriffsrichtung und führe den Fall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Uchi Mata Gaeshi",
+      "description": "1. Quando un compagno esperto solleva con uchi-mata, abbassa le anche e blocca la sua gamba che solleva contro la tua coscia.\n2. Ruota allontanandoti dall’attacco e solleva leggermente il compagno mentre tiri il busto all’indietro.\n3. Fai ruotare il compagno nella direzione opposta all’attacco e guida la caduta.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "内股返",
+      "description": "1. 训练有素的搭档用内股挑起时，降低髋部，把其挑腿夹在你的大腿上。\n2. 背离进攻方向转体，向后拉其上身并稍微抬起搭档。\n3. 使搭档朝与进攻相反的方向翻转，引导其倒地。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "内股返",
+      "description": "1. 熟練した相手が内股で跳ね上げてきたら、腰を落として相手の跳ね上げる脚を自分の太ももで挟みます。\n2. 攻撃と反対方向へ体を回し、上体を後ろへ引きながら相手を少し持ち上げます。\n3. 攻撃と反対の方向へ相手を回転させ、受身を導きます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "우치 마타 가에시",
+      "description": "1. 숙련된 파트너가 우치마타로 들어 올리면 골반을 낮추고 들어 올리는 다리를 내 허벅지에 끼웁니다.\n2. 공격과 반대쪽으로 돌며 상체를 뒤로 당기고 파트너를 약간 들어 올립니다.\n3. 공격과 반대 방향으로 파트너를 돌리고 낙법을 이끕니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "อุจิมาตะกาเอชิ",
+      "description": "1. เมื่อคู่ฝึกที่ฝึกมาแล้วยกด้วยอุจิมาตะ ให้ย่อสะโพกและหนีบขาที่ยกของคู่ฝึกไว้กับต้นขาคุณ\n2. หมุนตัวออกจากทิศการโจมตีและยกคู่ฝึกขึ้นเล็กน้อย ขณะดึงลำตัวไปด้านหลัง\n3. หมุนคู่ฝึกไปในทิศตรงข้ามกับการโจมตี และนำการล้ม",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Ути-мата-гаэси",
+      "description": "1. Когда подготовленный партнёр поднимает ути-матой, опустите таз и зажмите его подхватывающую ногу своим бедром.\n2. Развернитесь в сторону от атаки и слегка приподнимите партнёра, оттягивая корпус назад.\n3. Переверните партнёра в направлении, противоположном атаке, и направьте страховку.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Учі-мата-гаесі",
+      "description": "1. Коли підготовлений партнер піднімає учі-матою, опустіть таз і затисніть його підхоплювальну ногу своїм стегном.\n2. Розверніться вбік від атаки й трохи підніміть партнера, відтягуючи тулуб назад.\n3. Перекиньте партнера в напрямку, протилежному атаці, і спрямуйте страховку.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

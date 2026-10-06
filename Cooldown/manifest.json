@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#0A84FF",
+    "colorType": "green",
+    "folder": "Cooldown",
+    "id": "10",
+    "icon": "Cooldown/Icon.png",
+    "symbolName": "figure.flexibility",
+    "title": "Rest",
+    "workoutType": "cooldown",
+    "translations": {
+      "en": {
+        "title": "Rest"
+      },
+      "es": {
+        "title": "Descanso"
+      },
+      "pt": {
+        "title": "Descanso"
+      },
+      "fr": {
+        "title": "Repos"
+      },
+      "de": {
+        "title": "Pause"
+      },
+      "it": {
+        "title": "Riposo"
+      },
+      "zh-Hans": {
+        "title": "休息"
+      },
+      "ja": {
+        "title": "休憩"
+      },
+      "ko": {
+        "title": "휴식"
+      },
+      "th": {
+        "title": "พัก"
+      },
+      "ru": {
+        "title": "Отдых"
+      },
+      "uk": {
+        "title": "Відпочинок"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Cooldown/exercises/coolDown/Icon.png",
+      "json": "Cooldown/exercises/coolDown/coolDown.json"
+    },
+    {
+      "icon": "Cooldown/exercises/breathing/Icon.png",
+      "json": "Cooldown/exercises/breathing/breathing.json"
+    },
+    {
+      "icon": "Cooldown/exercises/shoulderStretch/Icon.png",
+      "json": "Cooldown/exercises/shoulderStretch/shoulderStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/tricepsStretch/Icon.png",
+      "json": "Cooldown/exercises/tricepsStretch/tricepsStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/chestStretch/Icon.png",
+      "json": "Cooldown/exercises/chestStretch/chestStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/latStretch/Icon.png",
+      "json": "Cooldown/exercises/latStretch/latStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/hipFlexorStretch/Icon.png",
+      "json": "Cooldown/exercises/hipFlexorStretch/hipFlexorStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/quadricepsStretch/Icon.png",
+      "json": "Cooldown/exercises/quadricepsStretch/quadricepsStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/hamstringStretch/Icon.png",
+      "json": "Cooldown/exercises/hamstringStretch/hamstringStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/calfStretch/Icon.png",
+      "json": "Cooldown/exercises/calfStretch/calfStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/adductorStretch/Icon.png",
+      "json": "Cooldown/exercises/adductorStretch/adductorStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/gluteStretch/Icon.png",
+      "json": "Cooldown/exercises/gluteStretch/gluteStretch.json"
+    },
+    {
+      "icon": "Cooldown/exercises/walkingRecovery/Icon.png",
+      "json": "Cooldown/exercises/walkingRecovery/walkingRecovery.json"
+    },
+    {
+      "json": "Cooldown/exercises/calfRoll/calfRoll.json",
+      "icon": "Cooldown/exercises/calfRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/hamstringRoll/hamstringRoll.json",
+      "icon": "Cooldown/exercises/hamstringRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/quadricepsRoll/quadricepsRoll.json",
+      "icon": "Cooldown/exercises/quadricepsRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/adductorRoll/adductorRoll.json",
+      "icon": "Cooldown/exercises/adductorRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/gluteRoll/gluteRoll.json",
+      "icon": "Cooldown/exercises/gluteRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/piriformisRoll/piriformisRoll.json",
+      "icon": "Cooldown/exercises/piriformisRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/latRoll/latRoll.json",
+      "icon": "Cooldown/exercises/latRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/thoracicSpineRoll/thoracicSpineRoll.json",
+      "icon": "Cooldown/exercises/thoracicSpineRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/upperBackRoll/upperBackRoll.json",
+      "icon": "Cooldown/exercises/upperBackRoll/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/itBandStretch/itBandStretch.json",
+      "icon": "Cooldown/exercises/itBandStretch/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/childsPose/childsPose.json",
+      "icon": "Cooldown/exercises/childsPose/Icon.png"
+    },
+    {
+      "json": "Cooldown/exercises/neckStretch/neckStretch.json",
+      "icon": "Cooldown/exercises/neckStretch/Icon.png"
+    }
+  ]
+}

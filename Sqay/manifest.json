@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#01C5A5",
+    "colorType": "teal",
+    "folder": "Sqay",
+    "id": "95",
+    "icon": "Sqay/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Sqay",
+    "workoutType": "sqay",
+    "translations": {
+      "en": {
+        "title": "Sqay"
+      },
+      "es": {
+        "title": "Sqay"
+      },
+      "pt": {
+        "title": "Sqay"
+      },
+      "fr": {
+        "title": "Sqay"
+      },
+      "de": {
+        "title": "Sqay"
+      },
+      "it": {
+        "title": "Sqay"
+      },
+      "zh-Hans": {
+        "title": "克什米尔剑术"
+      },
+      "ja": {
+        "title": "スカイ"
+      },
+      "ko": {
+        "title": "스카이"
+      },
+      "th": {
+        "title": "สกาย"
+      },
+      "ru": {
+        "title": "Скай"
+      },
+      "uk": {
+        "title": "Скай"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Sqay/exercises/sqay/Icon.png",
+      "json": "Sqay/exercises/sqay/sqay.json"
+    },
+    {
+      "icon": "Sqay/exercises/steppingFootworkWithShieldCover/Icon.png",
+      "json": "Sqay/exercises/steppingFootworkWithShieldCover/steppingFootworkWithShieldCover.json"
+    },
+    {
+      "icon": "Sqay/exercises/overheadDownwardCut/Icon.png",
+      "json": "Sqay/exercises/overheadDownwardCut/overheadDownwardCut.json"
+    },
+    {
+      "icon": "Sqay/exercises/diagonalCuts/Icon.png",
+      "json": "Sqay/exercises/diagonalCuts/diagonalCuts.json"
+    },
+    {
+      "icon": "Sqay/exercises/shieldBlockDrill/Icon.png",
+      "json": "Sqay/exercises/shieldBlockDrill/shieldBlockDrill.json"
+    },
+    {
+      "icon": "Sqay/exercises/swordCutAndShieldBlockExchange/Icon.png",
+      "json": "Sqay/exercises/swordCutAndShieldBlockExchange/swordCutAndShieldBlockExchange.json"
+    },
+    {
+      "icon": "Sqay/exercises/paddedSwordSparring/Icon.png",
+      "json": "Sqay/exercises/paddedSwordSparring/paddedSwordSparring.json"
+    },
+    {
+      "icon": "Sqay/exercises/swordWristCircles/Icon.png",
+      "json": "Sqay/exercises/swordWristCircles/swordWristCircles.json"
+    }
+  ]
+}

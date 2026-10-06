@@ -1,0 +1,87 @@
+{
+  "id": "63.9",
+  "key": "iaido_ganmen_ate",
+  "title": "Ganmen-ate",
+  "description": "1. Walk forward and, before drawing, strike the front opponent's face with the end of the hilt.\n2. Draw the blade free, thrust behind to the rear opponent while looking back, then turn to the front, raise the sword, and cut straight down.\n3. Perform chiburi, resheathe, and return to the start with zanshin to front and rear.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ganmen-ate",
+      "description": "1. Walk forward and, before drawing, strike the front opponent's face with the end of the hilt.\n2. Draw the blade free, thrust behind to the rear opponent while looking back, then turn to the front, raise the sword, and cut straight down.\n3. Perform chiburi, resheathe, and return to the start with zanshin to front and rear.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Ganmen-ate",
+      "description": "1. Camina hacia delante y, antes de desenvainar, golpea la cara del oponente delantero con el extremo de la empuñadura.\n2. Libera la hoja, estoca hacia atrás al oponente trasero mirando hacia atrás; luego gira al frente, eleva la espada y corta recto hacia abajo.\n3. Realiza chiburi, envaina y vuelve al inicio con zanshin al frente y atrás.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Ganmen-ate",
+      "description": "1. Caminhe à frente e, antes de sacar, golpeie o rosto do oponente da frente com a ponta do cabo.\n2. Solte a lâmina, estoque para trás no oponente traseiro olhando para trás; depois vire à frente, eleve a espada e corte reto para baixo.\n3. Faça chiburi, embainhe e volte ao início com zanshin à frente e atrás.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Ganmen-ate",
+      "description": "1. Marchez en avant et, avant de dégainer, frappez le visage de l’adversaire avant avec le pommeau.\n2. Libérez la lame, piquez vers l’arrière l’adversaire arrière en regardant derrière, puis tournez-vous vers l’avant, levez le sabre et coupez droit vers le bas.\n3. Effectuez le chiburi, rengainez et revenez au départ avec zanshin devant et derrière.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Ganmen-ate",
+      "description": "1. Vorwärtsgehen und vor dem Ziehen mit dem Griffende in das Gesicht des vorderen Gegners stoßen.\n2. Die Klinge freiziehen, mit Blick nach hinten den hinteren Gegner stechen, dann nach vorn drehen, das Schwert heben und gerade nach unten schneiden.\n3. Chiburi ausführen, einstecken und mit Zanshin nach vorn und hinten zum Start zurückkehren.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Ganmen-ate",
+      "description": "1. Cammina in avanti e, prima di estrarre, colpisci il viso dell’avversario davanti con l’estremità dell’impugnatura.\n2. Libera la lama, affonda all’indietro sull’avversario dietro guardando indietro, poi gira in avanti, alza la spada e taglia dritto in basso.\n3. Esegui chiburi, rinfodera e torna all’inizio con zanshin davanti e dietro.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "颜面当",
+      "description": "1. 向前行进，在拔刀前用刀柄末端撞击前方对手面部。\n2. 拔出刀身，回头向后刺后方对手，再转向前方，举刀竖直斩落。\n3. 振刀、纳刀，对前后保持残心回到起点。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "顔面当て",
+      "description": "1. 歩み出て、抜く前に柄頭で前の相手の顔面を当てます。\n2. 刀を抜き放ち、後ろを見て後ろの相手を突き、前へ向き直って振りかぶり真っ直ぐ斬り下ろします。\n3. 血振り・納刀を行い、前後に残心を保って元の位置へ戻ります。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "간멘아테",
+      "description": "1. 앞으로 걸어가 칼을 뽑기 전에 칼자루 끝으로 앞 상대의 얼굴을 칩니다.\n2. 칼날을 뽑아 뒤를 보며 뒤 상대를 찌르고, 앞으로 돌아 칼을 들어 곧게 내려 벱니다.\n3. 치부리하고 칼을 꽂은 뒤 앞뒤로 잔심을 유지하며 시작 위치로 돌아옵니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "กันเมนอาเตะ",
+      "description": "1. เดินไปข้างหน้า และก่อนชักดาบให้กระแทกใบหน้าคู่ต่อสู้ด้านหน้าด้วยปลายด้าม\n2. ชักใบดาบออก มองไปด้านหลังแล้วแทงคู่ต่อสู้ด้านหลัง จากนั้นหันกลับด้านหน้า ยกดาบและฟันตรงลง\n3. ทำจิบุริ เก็บดาบ และกลับจุดเริ่มพร้อมซันชินทั้งด้านหน้าและหลัง",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Гаммэн-атэ",
+      "description": "1. Идите вперёд и до обнажения меча ударьте торцом рукояти в лицо переднего противника.\n2. Освободите клинок, глядя назад, уколите заднего противника, затем повернитесь вперёд, поднимите меч и рубите прямо вниз.\n3. Выполните тибури, вложите меч и вернитесь к началу с дзансином вперёд и назад.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Ганмен-ате",
+      "description": "1. Ідіть уперед і до оголення меча вдарте торцем руків’я в обличчя переднього суперника.\n2. Звільніть клинок, дивлячись назад, вколіть заднього суперника, потім поверніться вперед, підніміть меч і рубайте прямо вниз.\n3. Виконайте тібурі, вкладіть меч і поверніться на початок із дзансіном уперед і назад.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

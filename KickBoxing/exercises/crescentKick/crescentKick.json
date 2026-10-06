@@ -1,0 +1,90 @@
+{
+  "id": "3.17",
+  "key": "kick_boxing_crescent_kick",
+  "title": "Crescent Kick",
+  "description": "1. From stance, shift weight to the supporting leg and chamber the kicking knee in front of the body.\n2. Extend the leg through a controlled crescent arc across the target, striking with the appropriate inner or outer edge of the foot.\n3. Bend the knee after the arc and return the foot to stance without letting the torso spin away.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Crescent Kick",
+      "description": "1. From stance, shift weight to the supporting leg and chamber the kicking knee in front of the body.\n2. Extend the leg through a controlled crescent arc across the target, striking with the appropriate inner or outer edge of the foot.\n3. Bend the knee after the arc and return the foot to stance without letting the torso spin away.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Patada en media luna",
+      "description": "1. Desde la postura, pasa el peso a la pierna de apoyo y recoge la rodilla de golpeo delante del cuerpo.\n2. Extiende la pierna en un arco de media luna controlado a través del objetivo, golpeando con el borde interior o exterior del pie según corresponda.\n3. Flexiona la rodilla tras el arco y devuelve el pie a la postura sin dejar que el torso gire de más.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Chute meia-lua",
+      "description": "1. Na base, passe o peso para a perna de apoio e recolha o joelho de chute à frente do corpo.\n2. Estenda a perna num arco de meia-lua controlado através do alvo, atingindo com a borda interna ou externa do pé, conforme o caso.\n3. Flexione o joelho após o arco e leve o pé de volta à base sem deixar o tronco girar para longe.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Coup de pied en croissant",
+      "description": "1. En garde, transférez le poids sur la jambe d’appui et armez le genou de frappe devant le corps.\n2. Dépliez la jambe sur un arc de croissant contrôlé à travers la cible, en frappant avec le bord interne ou externe du pied selon le cas.\n3. Fléchissez le genou après l’arc et reposez le pied en garde sans laisser le buste pivoter.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Sicheltritt",
+      "description": "1. Verlagere aus der Stellung das Gewicht auf das Standbein und ziehe das Trittknie vor den Körper.\n2. Strecke das Bein in einem kontrollierten Sichelbogen durch das Ziel und triff mit der passenden Innen- oder Außenkante des Fußes.\n3. Beuge das Knie nach dem Bogen und setze den Fuß in die Stellung zurück, ohne dass der Oberkörper wegdreht.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Calcio a mezzaluna",
+      "description": "1. Dalla posizione, sposta il peso sulla gamba d’appoggio e carica il ginocchio che calcia davanti al corpo.\n2. Distendi la gamba in un arco a mezzaluna controllato attraverso il bersaglio, colpendo con il bordo interno o esterno del piede a seconda del caso.\n3. Piega il ginocchio dopo l’arco e riporta il piede in posizione senza lasciar ruotare via il busto.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "里合/外摆腿",
+      "description": "1. 从站姿开始，重心移到支撑腿，攻击腿在身体前方提膝。\n2. 腿沿有控制的弧线扫过目标，根据需要用脚的内侧或外侧缘击打。\n3. 弧线完成后屈膝，脚落回站姿，躯干不要随之转开。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "三日月蹴り",
+      "description": "1. 構えから軸脚に体重を移し、蹴り脚の膝を体の前で抱え込みます。\n2. 脚を伸ばして標的を横切るようにコントロールした三日月の弧を描き、足の内側または外側の縁で打ちます。\n3. 弧を描き終えたら膝を曲げ、上体が回り過ぎないようにして足を構えに戻します。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "반달차기",
+      "description": "1. 자세에서 지지 다리로 체중을 옮기고 차는 무릎을 몸 앞으로 접어 올립니다.\n2. 다리를 펴며 목표를 가로지르는 통제된 반달 호를 그리고, 상황에 맞게 발의 안쪽이나 바깥쪽 날로 찹니다.\n3. 호를 그린 뒤 무릎을 굽히고 몸통이 돌아가지 않게 발을 자세로 되돌립니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "เตะวงพระจันทร์เสี้ยว",
+      "description": "1. จากท่ายืน ถ่ายน้ำหนักไปขายืนและยกเข่าขาที่จะเตะขึ้นด้านหน้าลำตัว\n2. เหยียดขาเป็นวงโค้งพระจันทร์เสี้ยวอย่างควบคุมผ่านเป้า โดยใช้สันเท้าด้านในหรือด้านนอกตามความเหมาะสม\n3. งอเข่าหลังจบวงโค้งและวางเท้ากลับสู่ท่ายืนโดยไม่ให้ลำตัวหมุนตามไป",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Удар ногой полумесяцем",
+      "description": "1. Из стойки перенесите вес на опорную ногу и поднимите колено бьющей ноги перед собой.\n2. Выпрямите ногу по контролируемой дуге полумесяца через цель, нанося удар внутренним или внешним ребром стопы.\n3. После дуги согните колено и верните стопу в стойку, не позволяя корпусу развернуться.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Удар ногою півмісяцем",
+      "description": "1. Зі стійки перенесіть вагу на опорну ногу й підніміть коліно ударної ноги перед собою.\n2. Випряміть ногу контрольованою дугою півмісяця крізь ціль, завдаючи удару внутрішнім або зовнішнім ребром стопи.\n3. Після дуги зігніть коліно й поверніть стопу в стійку, не дозволяючи корпусу розвернутися.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

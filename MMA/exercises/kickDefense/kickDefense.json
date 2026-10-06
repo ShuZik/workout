@@ -1,0 +1,90 @@
+{
+  "id": "4.21",
+  "key": "mma_kick_defense",
+  "title": "Kick Defense",
+  "description": "1. From guard, identify the kick level and keep the opposite hand protecting the head.\n2. Raise the shin to check a low kick or brace both forearms against a body kick while the standing knee stays soft.\n3. Return the defending leg or arms to stance immediately and step out of the attacker's follow-up line.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Striking",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kick Defense",
+      "description": "1. From guard, identify the kick level and keep the opposite hand protecting the head.\n2. Raise the shin to check a low kick or brace both forearms against a body kick while the standing knee stays soft.\n3. Return the defending leg or arms to stance immediately and step out of the attacker's follow-up line.",
+      "sectionTitle": "Striking"
+    },
+    "es": {
+      "title": "Defensa de patadas",
+      "description": "1. Desde la guardia, identifica la altura de la patada y mantén la mano contraria protegiendo la cabeza.\n2. Levanta la espinilla para bloquear una patada baja o cubre con ambos antebrazos ante una patada al cuerpo mientras la rodilla de apoyo sigue flexible.\n3. Devuelve de inmediato la pierna o los brazos a la guardia y sal de la línea de seguimiento del atacante.",
+      "sectionTitle": "Golpeo"
+    },
+    "pt": {
+      "title": "Defesa de chutes",
+      "description": "1. Da guarda, identifique a altura do chute e mantenha a mão oposta protegendo a cabeça.\n2. Levante a canela para bloquear um chute baixo ou proteja-se com os dois antebraços contra um chute no corpo, mantendo o joelho de apoio flexível.\n3. Volte a perna ou os braços à base imediatamente e saia da linha de continuação do atacante.",
+      "sectionTitle": "Trocação"
+    },
+    "fr": {
+      "title": "Défense contre les coups de pied",
+      "description": "1. Depuis la garde, identifiez la hauteur du coup de pied et gardez la main opposée en protection de la tête.\n2. Levez le tibia pour bloquer un low kick ou couvrez avec les deux avant-bras contre un coup au corps, genou d’appui souple.\n3. Replacez immédiatement la jambe ou les bras en garde et sortez de la ligne d’enchaînement de l’attaquant.",
+      "sectionTitle": "Frappe"
+    },
+    "de": {
+      "title": "Trittabwehr",
+      "description": "1. Erkenne aus der Deckung die Höhe des Tritts und halte die gegenüberliegende Hand schützend am Kopf.\n2. Heb das Schienbein, um einen Lowkick zu blocken, oder stemme beide Unterarme gegen einen Körpertritt, während das Standknie locker bleibt.\n3. Bring abwehrendes Bein oder Arme sofort zurück in die Stellung und tritt aus der Folgelinie des Angreifers.",
+      "sectionTitle": "Schlagtechnik"
+    },
+    "it": {
+      "title": "Difesa dai calci",
+      "description": "1. Dalla guardia, individua l’altezza del calcio e tieni la mano opposta a protezione della testa.\n2. Solleva la tibia per bloccare un calcio basso o copri con entrambi gli avambracci contro un calcio al busto, mantenendo morbido il ginocchio d’appoggio.\n3. Riporta subito la gamba o le braccia in guardia ed esci dalla linea di prosecuzione dell’attaccante.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "踢击防守",
+      "description": "1. 从架势出发，判断踢击高度，对侧手保持护头。\n2. 抬起小腿格挡低扫，或用双前臂撑挡中段踢，支撑腿膝盖保持放松。\n3. 立即让防守腿或双臂回到站架，并移出对手的追击线路。",
+      "sectionTitle": "打击"
+    },
+    "ja": {
+      "title": "キックディフェンス",
+      "description": "1. ガードからキックの高さを見極め、反対側の手で頭を守り続けます。\n2. ローキックにはすねを上げてチェックし、ミドルキックには両前腕で受け、軸足の膝は柔らかく保ちます。\n3. 守った脚や腕をすぐに構えに戻し、相手の追撃ラインから外れます。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "킥 방어",
+      "description": "1. 가드에서 킥의 높이를 파악하고 반대쪽 손으로 머리를 계속 보호합니다.\n2. 로킥은 정강이를 들어 체크하고, 몸통 킥은 양 전완으로 막으며 디딤 무릎은 부드럽게 유지합니다.\n3. 방어한 다리나 팔을 즉시 스탠스로 되돌리고 상대의 후속 공격 라인에서 벗어납니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ป้องกันการเตะ",
+      "description": "1. จากท่าการ์ด ดูระดับของลูกเตะและใช้มือฝั่งตรงข้ามป้องกันศีรษะไว้\n2. ยกหน้าแข้งรับโลว์คิก หรือใช้แขนท่อนล่างทั้งสองรับลูกเตะลำตัว โดยให้เข่าขาหลักผ่อนคลาย\n3. นำขาหรือแขนที่ใช้ป้องกันกลับสู่ท่ายืนทันที และก้าวออกจากแนวโจมตีต่อเนื่องของคู่",
+      "sectionTitle": "การโจมตี"
+    },
+    "ru": {
+      "title": "Защита от ударов ногами",
+      "description": "1. Из стойки определите уровень удара ногой и держите противоположную руку у головы.\n2. Поднимите голень, чтобы принять лоу-кик, или подставьте оба предплечья под удар в корпус, сохраняя опорное колено мягким.\n3. Сразу верните защищавшуюся ногу или руки в стойку и уйдите с линии следующей атаки.",
+      "sectionTitle": "Ударная техника"
+    },
+    "uk": {
+      "title": "Захист від ударів ногами",
+      "description": "1. Зі стійки визначте рівень удару ногою й тримайте протилежну руку біля голови.\n2. Підніміть гомілку, щоб прийняти лоу-кік, або підставте обидва передпліччя під удар у корпус, зберігаючи опорне коліно м’яким.\n3. Одразу поверніть ногу чи руки, що захищалися, у стійку й зійдіть із лінії наступної атаки.",
+      "sectionTitle": "Ударна техніка"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "4.23",
+  "key": "mma_fence_escape",
+  "title": "Fence Escape",
+  "description": "1. From the padded wall, frame at the collarbone and pummel the opposite arm inside for an underhook.\n2. Step the underhook-side foot outside, turn the hips, and guide the partner past as the back leaves the wall.\n3. Circle to open space with the hands high and reestablish stance before the partner can square up.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Cage",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Fence Escape",
+      "description": "1. From the padded wall, frame at the collarbone and pummel the opposite arm inside for an underhook.\n2. Step the underhook-side foot outside, turn the hips, and guide the partner past as the back leaves the wall.\n3. Circle to open space with the hands high and reestablish stance before the partner can square up.",
+      "sectionTitle": "Cage"
+    },
+    "es": {
+      "title": "Escape de la reja",
+      "description": "1. Desde la pared acolchada, haz marco en la clavícula y mete el brazo contrario por dentro para conseguir un underhook.\n2. Saca hacia fuera el pie del lado del underhook, gira la cadera y guía al compañero hacia la pared mientras tu espalda se separa de ella.\n3. Circula hacia el espacio abierto con las manos altas y recupera la guardia antes de que el compañero se recoloque de frente.",
+      "sectionTitle": "Jaula"
+    },
+    "pt": {
+      "title": "Saída da grade",
+      "description": "1. Contra a parede acolchoada, faça moldura na clavícula e passe o braço oposto por dentro para um underhook.\n2. Coloque o pé do lado do underhook para fora, gire o quadril e conduza o parceiro para a parede enquanto suas costas saem dela.\n3. Circule para o espaço aberto com as mãos altas e restabeleça a base antes que o parceiro se reposicione de frente.",
+      "sectionTitle": "Grade"
+    },
+    "fr": {
+      "title": "Sortie de cage",
+      "description": "1. Dos au mur rembourré, faites cadre sur la clavicule et glissez le bras opposé à l’intérieur pour prendre un sous-bras.\n2. Sortez le pied du côté du sous-bras, tournez les hanches et guidez le partenaire vers le mur pendant que votre dos s’en décolle.\n3. Tournez vers l’espace libre, mains hautes, et reprenez la garde avant que le partenaire ne se replace face à vous.",
+      "sectionTitle": "Cage"
+    },
+    "de": {
+      "title": "Befreiung vom Käfig",
+      "description": "1. Bilde an der gepolsterten Wand einen Rahmen am Schlüsselbein und schiebe den gegenüberliegenden Arm nach innen zu einem Unterhaken.\n2. Setze den Fuß auf der Unterhaken-Seite nach außen, dreh die Hüfte und führe den Partner vorbei, während dein Rücken die Wand verlässt.\n3. Kreise mit hohen Händen in den freien Raum und finde zurück in die Stellung, bevor sich der Partner frontal ausrichten kann.",
+      "sectionTitle": "Käfig"
+    },
+    "it": {
+      "title": "Uscita dalla gabbia",
+      "description": "1. Contro la parete imbottita, fai telaio sulla clavicola e porta il braccio opposto all’interno per un underhook.\n2. Porta fuori il piede del lato dell’underhook, ruota le anche e guida il compagno verso la parete mentre la tua schiena se ne stacca.\n3. Gira verso lo spazio libero con le mani alte e ristabilisci la guardia prima che il compagno si rimetta di fronte.",
+      "sectionTitle": "Gabbia"
+    },
+    "zh-Hans": {
+      "title": "笼边脱离",
+      "description": "1. 背靠软垫墙，在锁骨处做支架，对侧手臂从内侧穿入形成下钩。\n2. 下钩一侧的脚向外迈出，转髋，背部离开墙面的同时引导同伴转向墙边。\n3. 双手保持高位，绕向开阔空间，在同伴正面对你之前恢复站架。",
+      "sectionTitle": "笼边"
+    },
+    "ja": {
+      "title": "ケージからのエスケープ",
+      "description": "1. パッド付きの壁を背に鎖骨にフレームを作り、反対側の腕を内側に差してアンダーフックを取ります。\n2. アンダーフック側の足を外に踏み出し、腰を回して背中が壁から離れると同時に相手を壁側へ送ります。\n3. 手を高く保って開けた空間へ回り込み、相手が正対する前に構えを立て直します。",
+      "sectionTitle": "ケージ"
+    },
+    "ko": {
+      "title": "케이지 탈출",
+      "description": "1. 패드 벽을 등지고 쇄골에 프레임을 만든 뒤 반대쪽 팔을 안으로 넣어 언더훅을 잡습니다.\n2. 언더훅 쪽 발을 바깥으로 딛고 엉덩이를 돌려, 등이 벽에서 떨어지는 동안 파트너를 벽 쪽으로 흘려보냅니다.\n3. 손을 높이 든 채 열린 공간으로 돌아 나가고 파트너가 정면을 잡기 전에 스탠스를 다시 세웁니다.",
+      "sectionTitle": "케이지"
+    },
+    "th": {
+      "title": "หนีจากกรง",
+      "description": "1. จากผนังบุนวม ทำเฟรมที่กระดูกไหปลาร้าและสอดแขนฝั่งตรงข้ามเข้าด้านในเป็นอันเดอร์ฮุก\n2. ก้าวเท้าฝั่งอันเดอร์ฮุกออกด้านนอก หมุนสะโพก และพาคู่ผ่านไปขณะที่หลังออกจากผนัง\n3. วนไปยังพื้นที่โล่งโดยยกมือสูง และตั้งท่ายืนใหม่ก่อนที่คู่จะหันมาเผชิญหน้าได้",
+      "sectionTitle": "กรง"
+    },
+    "ru": {
+      "title": "Уход от сетки",
+      "description": "1. Стоя у мягкой стены, выставьте рамку в ключицу и проведите противоположную руку внутрь для подхвата.\n2. Выведите наружу стопу со стороны подхвата, разверните таз и проведите партнёра мимо, отрывая спину от стены.\n3. Уйдите по кругу в свободное пространство с поднятыми руками и восстановите стойку, пока партнёр не развернулся к вам.",
+      "sectionTitle": "Клетка"
+    },
+    "uk": {
+      "title": "Вихід від сітки",
+      "description": "1. Стоячи біля м’якої стіни, виставте рамку в ключицю й проведіть протилежну руку всередину для підхвату.\n2. Виведіть назовні стопу з боку підхвату, розверніть таз і проведіть партнера повз, відриваючи спину від стіни.\n3. Вийдіть по колу у вільний простір із піднятими руками й відновіть стійку, доки партнер не розвернувся до вас.",
+      "sectionTitle": "Клітка"
+    }
+  }
+}

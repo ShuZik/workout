@@ -1,0 +1,90 @@
+{
+  "id": "3.40",
+  "key": "kick_boxing_spinning_hook_kick",
+  "title": "Spinning Hook Kick",
+  "description": "1. From stance, pivot on the lead foot and turn the back toward the target, spotting it over the rear shoulder before the leg lifts.\n2. Extend the rear leg slightly past the target line and sweep the heel horizontally through it, bending the knee at contact.\n3. Let the leg follow the turn down to the floor, land in a balanced stance facing the target, and restore the guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Spinning Hook Kick",
+      "description": "1. From stance, pivot on the lead foot and turn the back toward the target, spotting it over the rear shoulder before the leg lifts.\n2. Extend the rear leg slightly past the target line and sweep the heel horizontally through it, bending the knee at contact.\n3. Let the leg follow the turn down to the floor, land in a balanced stance facing the target, and restore the guard.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Patada de gancho giratoria",
+      "description": "1. Desde la guardia, pivota sobre el pie delantero y da la espalda al objetivo, viéndolo por encima del hombro trasero antes de elevar la pierna.\n2. Extiende la pierna trasera un poco más allá de la línea del objetivo y barre el talón en horizontal a través de ella, flexionando la rodilla al contacto.\n3. Deja que la pierna siga el giro hasta el suelo, aterriza en una postura equilibrada mirando al objetivo y recupera la guardia.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Chute de gancho giratório",
+      "description": "1. Da base, gire sobre o pé da frente e vire as costas para o alvo, vendo-o por cima do ombro de trás antes de levantar a perna.\n2. Estenda a perna de trás um pouco além da linha do alvo e varra o calcanhar na horizontal através dela, flexionando o joelho no contato.\n3. Deixe a perna acompanhar o giro até o chão, aterrisse em base equilibrada de frente para o alvo e recupere a guarda.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Crochet de pied retourné",
+      "description": "1. Depuis la garde, pivotez sur le pied avant et tournez le dos à la cible en la regardant par-dessus l’épaule arrière avant de lever la jambe.\n2. Tendez la jambe arrière légèrement au-delà de la ligne de la cible et balayez-la horizontalement avec le talon, genou fléchi au contact.\n3. Laissez la jambe suivre la rotation jusqu’au sol, reposez-vous en garde équilibrée face à la cible et remontez les mains.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Gedrehter Hakentritt",
+      "description": "1. Drehe aus der Stellung auf dem vorderen Fuß und wende dem Ziel den Rücken zu; erfasse es über die hintere Schulter, bevor das Bein hochgeht.\n2. Strecke das hintere Bein leicht über die Ziellinie hinaus und ziehe die Ferse waagerecht hindurch, wobei sich das Knie beim Treffer beugt.\n3. Lass das Bein der Drehung zum Boden folgen, lande ausbalanciert mit Blick zum Ziel und stelle die Deckung wieder her.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Calcio a uncino girato",
+      "description": "1. Dalla posizione, ruota sul piede anteriore e volgi la schiena al bersaglio, inquadrandolo oltre la spalla posteriore prima di sollevare la gamba.\n2. Estendi la gamba posteriore leggermente oltre la linea del bersaglio e spazzala orizzontalmente con il tallone, piegando il ginocchio al contatto.\n3. Lascia che la gamba segua la rotazione fino a terra, atterra in posizione equilibrata rivolto al bersaglio e ripristina la guardia.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "转身勾踢",
+      "description": "1. 从站姿开始，以前脚为轴转身背对目标，抬腿前先越过后肩看清目标。\n2. 后腿伸出略超过目标线，用脚跟水平扫过目标，接触时屈膝。\n3. 让腿随转身落地，面向目标稳定站好并恢复防守。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "スピニングフックキック",
+      "description": "1. 構えから前足を軸に回って目標に背を向け、脚を上げる前に後ろ肩越しに目標を捉えます。\n2. 後ろ脚を目標線の少し先まで伸ばし、かかとを水平に振り抜き、当たる瞬間に膝を曲げます。\n3. 回転に合わせて脚を床へ下ろし、目標に向いた安定した構えで着地してガードを戻します。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "스피닝 훅킥",
+      "description": "1. 자세에서 앞발을 축으로 돌아 목표에 등을 보이고, 다리를 들기 전에 뒷어깨 너머로 목표를 봅니다.\n2. 뒷다리를 목표선보다 약간 멀리 뻗은 뒤 뒤꿈치로 수평으로 쓸어 지나가며 맞는 순간 무릎을 굽힙니다.\n3. 회전을 따라 다리를 바닥에 내리고 목표를 향한 균형 잡힌 자세로 착지해 가드를 회복합니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "เตะตวัดส้นหมุนตัว",
+      "description": "1. จากท่ายืน หมุนบนเท้าหน้าหันหลังให้เป้า และมองเป้าข้ามไหล่หลังก่อนยกขา\n2. เหยียดขาหลังเลยแนวเป้าเล็กน้อย แล้วตวัดส้นเท้าผ่านเป้าในแนวนอน งอเข่าตอนกระทบ\n3. ให้ขาตามการหมุนลงพื้น ลงในท่ายืนที่สมดุลหันหน้าเข้าเป้า แล้วยกการ์ดกลั��",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Хук ногой с разворота",
+      "description": "1. Из стойки развернитесь на передней ноге спиной к цели и увидьте её через заднее плечо, прежде чем поднимать ногу.\n2. Выпрямите заднюю ногу чуть дальше линии цели и проведите пятку горизонтально сквозь неё, сгибая колено в момент контакта.\n3. Позвольте ноге вслед за разворотом опуститься на пол, приземлитесь в устойчивую стойку лицом к цели и восстановите защиту.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Хук ногою з розвороту",
+      "description": "1. Зі стійки розверніться на передній нозі спиною до цілі й побачте її через заднє плече, перш ніж піднімати ногу.\n2. Випряміть задню ногу трохи далі лінії цілі й проведіть п’яту горизонтально крізь неї, згинаючи коліно в момент контакту.\n3. Дозвольте нозі слідом за розворотом опуститися на підлогу, приземліться в стійку обличчям до цілі й відновіть захист.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

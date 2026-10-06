@@ -1,0 +1,90 @@
+{
+  "id": "14.19",
+  "key": "balance_single_leg_stand",
+  "title": "Single-Leg Stand",
+  "description": "1. Stand beside a stable support and shift weight fully onto one foot with that knee softly bent.\n2. Lift the opposite foot clear of the floor while the pelvis stays level and the trunk remains upright.\n3. Fix the gaze on one point, lower the foot under control, and repeat on the other leg.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02225",
+    "moderateCode": "02225",
+    "vigorousCode": "02225"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Single-Leg Stand",
+      "description": "1. Stand beside a stable support and shift weight fully onto one foot with that knee softly bent.\n2. Lift the opposite foot clear of the floor while the pelvis stays level and the trunk remains upright.\n3. Fix the gaze on one point, lower the foot under control, and repeat on the other leg.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "De pie sobre una pierna",
+      "description": "1. Ponte de pie junto a un apoyo estable y transfiere todo el peso a un pie, con esa rodilla ligeramente flexionada.\n2. Levanta el otro pie del suelo manteniendo la pelvis nivelada y el tronco erguido.\n3. Fija la mirada en un punto, baja el pie de forma controlada y repite con la otra pierna.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Em pé sobre uma perna",
+      "description": "1. Fique em pé ao lado de um apoio estável e transfira todo o peso para um pé, com esse joelho levemente dobrado.\n2. Tire o outro pé do chão mantendo a pelve nivelada e o tronco ereto.\n3. Fixe o olhar em um ponto, abaixe o pé de forma controlada e repita com a outra perna.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Équilibre sur une jambe",
+      "description": "1. Tenez-vous près d’un appui stable et transférez tout votre poids sur un pied, le genou de cette jambe légèrement fléchi.\n2. Soulevez l’autre pied du sol en gardant le bassin à niveau et le tronc droit.\n3. Fixez le regard sur un point, abaissez le pied avec contrôle et répétez sur l’autre jambe.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Einbeinstand",
+      "description": "1. Stelle dich neben eine stabile Stütze und verlagere dein Gewicht vollständig auf einen Fuß, wobei dieses Knie leicht gebeugt bleibt.\n2. Hebe den anderen Fuß vom Boden, während das Becken waagerecht und der Rumpf aufrecht bleibt.\n3. Fixiere einen Punkt mit den Augen, senke den Fuß kontrolliert ab und wiederhole auf dem anderen Bein.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Posizione eretta su una gamba",
+      "description": "1. Mettiti in piedi accanto a un sostegno stabile e trasferisci tutto il peso su un piede, con il ginocchio di quella gamba leggermente piegato.\n2. Solleva l’altro piede dal pavimento mantenendo il bacino in piano e il tronco eretto.\n3. Fissa lo sguardo su un punto, abbassa il piede in modo controllato e ripeti sull’altra gamba.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "单腿站立",
+      "description": "1. 站在稳固的支撑物旁，将体重完全移到一只脚上，该侧膝盖微屈。\n2. 将另一只脚抬离地面，同时保持骨盆水平、躯干直立。\n3. 目光注视一个固定点，有控制地放下脚，然后换另一条腿重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "片脚立ち",
+      "description": "1. 安定した支えの横に立ち、片方の膝を軽く曲げ、その足に体重を完全に移します。\n2. 骨盤を水平に、上体をまっすぐに保ちながら、反対側の足を床から浮かせます。\n3. 一点を見つめ、足をゆっくり下ろし、反対側の脚でも繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "한 발 서기",
+      "description": "1. 안정적인 지지대 옆에 서서 한쪽 무릎을 살짝 굽히고 그 발에 체중을 완전히 싣습니다.\n2. 골반을 수평으로 유지하고 몸통을 곧게 세운 채 반대쪽 발을 바닥에서 들어 올립니다.\n3. 한 지점을 바라보며 발을 조절해서 내리고 반대쪽 다리로 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ยืนขาเดียว",
+      "description": "1. ยืนข้างที่พยุงที่มั่นคง ถ่ายน้ำหนักทั้งหมดลงบนเท้าข้างหนึ่งโดยงอเข่าข้างนั้นเล็กน้อย\n2. ยกเท้าอีกข้างพ้นพื้น โดยรักษาเชิงกรานให้ได้ระดับและลำตัวตั้งตรง\n3. มองจุดเดียว ลดเท้าลงอย่างควบคุม แล้วทำซ้ำกับขาอีกข้าง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Стойка на одной ноге",
+      "description": "1. Встаньте рядом с устойчивой опорой и полностью перенесите вес на одну стопу, слегка согнув колено этой ноги.\n2. Поднимите противоположную стопу над полом, сохраняя таз ровным, а корпус вертикальным.\n3. Смотрите в одну точку, подконтрольно опустите стопу и повторите на другой ноге.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Стійка на одній нозі",
+      "description": "1. Станьте поруч зі стійкою опорою й повністю перенесіть вагу на одну стопу, злегка зігнувши коліно цієї ноги.\n2. Підніміть протилежну стопу над підлогою, тримаючи таз рівним, а корпус вертикальним.\n3. Дивіться в одну точку, контрольовано опустіть стопу й повторіть на іншій нозі.",
+      "sectionTitle": "База"
+    }
+  }
+}

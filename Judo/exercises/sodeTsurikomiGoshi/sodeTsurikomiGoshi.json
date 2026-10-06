@@ -1,0 +1,90 @@
+{
+  "id": "41.46",
+  "key": "judo_sode_tsurikomi_goshi",
+  "title": "Sode Tsurikomi Goshi",
+  "description": "1. Grip both of the partner's sleeves and lift one sleeve high, straightening the partner's arm upward.\n2. Turn in under the raised arm with the hips low and below the partner's center.\n3. Extend the legs and pull the sleeves through to throw over the hips, guiding the partner into a breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Koshi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sode Tsurikomi Goshi",
+      "description": "1. Grip both of the partner's sleeves and lift one sleeve high, straightening the partner's arm upward.\n2. Turn in under the raised arm with the hips low and below the partner's center.\n3. Extend the legs and pull the sleeves through to throw over the hips, guiding the partner into a breakfall.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "es": {
+      "title": "Sode Tsurikomi Goshi",
+      "description": "1. Agarra ambas mangas del compañero y levanta una manga alto, estirando su brazo hacia arriba.\n2. Entra girando bajo el brazo levantado con las caderas bajas y por debajo del centro del compañero.\n3. Extiende las piernas y tira de las mangas para proyectar sobre las caderas, guiando al compañero hasta la caída.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "pt": {
+      "title": "Sode Tsurikomi Goshi",
+      "description": "1. Agarre ambas as mangas do parceiro e levante uma manga alto, esticando o braço dele para cima.\n2. Entre girando sob o braço levantado com os quadris baixos e abaixo do centro do parceiro.\n3. Estenda as pernas e puxe as mangas para projetar sobre os quadris, guiando o parceiro até a queda.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "fr": {
+      "title": "Sode Tsurikomi Goshi",
+      "description": "1. Saisissez les deux manches du partenaire et levez une manche haut, en tendant son bras vers le haut.\n2. Entrez en pivotant sous le bras levé, hanches basses et sous son centre.\n3. Tendez les jambes et tirez les manches pour projeter par-dessus les hanches, en guidant le partenaire vers la chute.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "de": {
+      "title": "Sode Tsurikomi Goshi",
+      "description": "1. Fasse beide Ärmel des Partners und hebe einen Ärmel hoch, sodass sein Arm nach oben gestreckt wird.\n2. Drehe unter den gehobenen Arm ein, die Hüfte tief und unter seinem Schwerpunkt.\n3. Strecke die Beine und ziehe die Ärmel durch, um über die Hüfte zu werfen, und führe den Partner in den Fall.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "it": {
+      "title": "Sode Tsurikomi Goshi",
+      "description": "1. Afferra entrambe le maniche del compagno e solleva in alto una manica, distendendo il suo braccio verso l’alto.\n2. Entra ruotando sotto il braccio sollevato con le anche basse e sotto il centro del compagno.\n3. Estendi le gambe e tira le maniche per proiettare sopra le anche, guidando il compagno nella caduta.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "zh-Hans": {
+      "title": "袖钓込腰",
+      "description": "1. 双手抓搭档两袖，将一侧袖口高举，使其手臂向上伸直。\n2. 在被举起的手臂下转身进入，髋部低于搭档重心。\n3. 伸腿并拉动双袖将其从髋上投出，引导搭档倒地。",
+      "sectionTitle": "腰技"
+    },
+    "ja": {
+      "title": "袖釣込腰",
+      "description": "1. 相手の両袖を持ち、片方の袖を高く上げて相手の腕を上に伸ばします。\n2. 上げた腕の下に回り込み、腰を低く相手の重心より下に入れます。\n3. 脚を伸ばし袖を引き抜くようにして腰越しに投げ、相手を受身へ導きます。",
+      "sectionTitle": "腰技"
+    },
+    "ko": {
+      "title": "소데 츠리코미 고시",
+      "description": "1. 파트너 양소매를 잡고 한쪽 소매를 높이 들어 팔을 위로 뻗게 합니다.\n2. 들어 올린 팔 아래로 돌아 들어가며 골반을 낮춰 파트너 중심 아래에 둡니다.\n3. 다리를 펴고 소매를 당겨 골반 너머로 던지며 파트너를 낙법으로 이끕니다.",
+      "sectionTitle": "허리기술"
+    },
+    "th": {
+      "title": "โซเดะสึริโกมิโกชิ",
+      "description": "1. จับแขนเสื้อทั้งสองข้างของคู่ฝึก และยกแขนเสื้อข้างหนึ่งขึ้นสูงให้แขนคู่ฝึกเหยียดขึ้น\n2. หมุนตัวเข้าใต้แขนที่ยกขึ้น สะโพกต่ำกว่าจุดศูนย์ถ่วงของคู่ฝึก\n3. เหยียดขาและดึงแขนเสื้อทุ่มข้ามสะโพก นำคู่ฝึกลงพื้น",
+      "sectionTitle": "โคชิวาซะ"
+    },
+    "ru": {
+      "title": "Содэ-цурикоми-госи",
+      "description": "1. Захватите оба рукава партнёра и высоко поднимите один рукав, вытягивая его руку вверх.\n2. Войдите с разворотом под поднятую руку, опустив таз ниже центра тяжести партнёра.\n3. Выпрямите ноги и протяните рукава, бросая через таз и направляя партнёра в страховку.",
+      "sectionTitle": "Коси-вадза"
+    },
+    "uk": {
+      "title": "Соде-цурікомі-госі",
+      "description": "1. Захопіть обидва рукави партнера й високо підніміть один рукав, витягуючи його руку вгору.\n2. Увійдіть із розворотом під підняту руку, опустивши таз нижче центру ваги партнера.\n3. Випряміть ноги й протягніть рукави, кидаючи через таз і спрямовуючи партнера у страховку.",
+      "sectionTitle": "Косі-вадза"
+    }
+  }
+}

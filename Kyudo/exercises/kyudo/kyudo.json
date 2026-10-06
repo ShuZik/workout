@@ -1,0 +1,90 @@
+{
+  "id": "76.1",
+  "key": "kyudo_main",
+  "title": "Kyudo",
+  "description": "1. Enter the shooting line calmly, set the feet and posture, and hold the bow and arrows in the ready position.\n2. Shoot a set of arrows through the eight stages, raising, drawing apart, holding the full draw, and letting the release happen.\n3. Remain in zanshin after each shot, lower the bow under control, and breathe steadily before the next arrow.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "kyudo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kyudo",
+      "description": "1. Enter the shooting line calmly, set the feet and posture, and hold the bow and arrows in the ready position.\n2. Shoot a set of arrows through the eight stages, raising, drawing apart, holding the full draw, and letting the release happen.\n3. Remain in zanshin after each shot, lower the bow under control, and breathe steadily before the next arrow.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kyudo",
+      "description": "1. Entra con calma a la línea de tiro, coloca pies y postura y sostén arco y flechas en posición de preparado.\n2. Tira una serie de flechas siguiendo las ocho fases: elevar, abrir, mantener la apertura completa y dejar que suceda la suelta.\n3. Permanece en zanshin tras cada tiro, baja el arco con control y respira de forma estable antes de la siguiente flecha.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kyudo",
+      "description": "1. Entre com calma na linha de tiro, posicione pés e postura e segure arco e flechas na posição de preparo.\n2. Atire uma série de flechas pelas oito fases: elevar, abrir, manter a abertura completa e deixar a soltura acontecer.\n3. Permaneça em zanshin após cada tiro, baixe o arco com controle e respire de forma estável antes da próxima flecha.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kyudo",
+      "description": "1. Entrez calmement sur la ligne de tir, placez pieds et posture et tenez arc et flèches en position prête.\n2. Tirez une série de flèches selon les huit étapes : lever, ouvrir, tenir la pleine allonge et laisser venir le lâcher.\n3. Restez en zanshin après chaque tir, abaissez l’arc avec contrôle et respirez calmement avant la flèche suivante.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kyudo",
+      "description": "1. Tritt ruhig an die Schießlinie, setze Füße und Haltung und halte Bogen und Pfeile in Bereitschaft.\n2. Schieße eine Serie Pfeile durch die acht Phasen: anheben, auseinanderziehen, den Vollauszug halten und den Abschuss geschehen lassen.\n3. Bleibe nach jedem Schuss im Zanshin, senke den Bogen kontrolliert und atme ruhig vor dem nächsten Pfeil.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Kyudo",
+      "description": "1. Entra con calma sulla linea di tiro, imposta piedi e postura e tieni arco e frecce in posizione di pronto.\n2. Tira una serie di frecce attraverso le otto fasi: sollevare, aprire, mantenere la piena trazione e lasciare che avvenga il rilascio.\n3. Resta in zanshin dopo ogni tiro, abbassa l’arco con controllo e respira con calma prima della freccia successiva.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "弓道",
+      "description": "1. 平静地进入射位，站定双脚与姿势，以准备姿势持弓与箭。\n2. 按射法八节射出一组箭：举弓、引分、保持满弓（会），让离发自然发生。\n3. 每射之后保持残心，控制地放下弓，平稳呼吸后再射下一支。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "弓道",
+      "description": "1. 落ち着いて射位に入り、足と姿勢を整え、弓矢を構えの位置に持ちます。\n2. 射法八節に従って一組の矢を射ます。打起し、引分け、会を保ち、離れが自然に起こるようにします。\n3. 一射ごとに残心を保ち、弓を丁寧に倒し、呼吸を整えてから次の矢に移ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "궁도",
+      "description": "1. 차분하게 사대에 들어가 발과 자세를 정하고 활과 화살을 준비 자세로 듭니다.\n2. 사법팔절에 따라 한 조의 화살을 쏩니다. 들어올리고, 당겨 벌리고, 만작을 유지하며 발시가 자연스럽게 일어나게 합니다.\n3. 매 발마다 잔심을 유지하고 활을 통제하며 내린 뒤 호흡을 고르고 다음 화살로 갑니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "คิวโด",
+      "description": "1. เข้าสู่แนวยิงอย่างสงบ วางเท้าและท่าทาง ถือคันธนูและลูกธนูในท่าเตรียม\n2. ยิงลูกธนูหนึ่งชุดตามแปดขั้นตอน: ยกคันธนู ง้างแยก ค้างเต็มสาย และปล่อยให้การปล่อยลูกเกิดขึ้นเอง\n3. คงซันชินหลังยิงแต่ละครั้ง ลดคันธนูลงอย่างควบคุม และหายใจสม่ำเสมอก่อนลูกถัดไป",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кюдо",
+      "description": "1. Спокойно выйдите на линию стрельбы, установите стопы и осанку и держите лук и стрелы в готовом положении.\n2. Выпустите серию стрел через восемь этапов: подъём, растягивание, удержание полного натяжения и естественный выпуск.\n3. После каждого выстрела сохраняйте дзансин, опускайте лук под контролем и выровняйте дыхание перед следующей стрелой.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кюдо",
+      "description": "1. Спокійно вийдіть на лінію стрільби, установіть стопи й поставу та тримайте лук і стріли в готовому положенні.\n2. Випустіть серію стріл через вісім етапів: підйом, розтягування, утримання повного натягу й природний випуск.\n3. Після кожного пострілу зберігайте дзансін, опускайте лук під контролем і вирівняйте дихання перед наступною стрілою.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

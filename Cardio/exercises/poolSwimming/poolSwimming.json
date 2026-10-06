@@ -1,0 +1,90 @@
+{
+  "id": "11.14",
+  "key": "pool_swimming",
+  "title": "Pool Swimming",
+  "description": "1. Push away from the wall in a long streamlined position and begin the chosen stroke without rushing.\n2. Coordinate the arm pull and kick while exhaling into the water and turning or lifting to inhale.\n3. Approach each wall under control, turn or stop, and push off only when the lane ahead is clear.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.8,
+    "moderate": 8,
+    "vigorous": 9.8,
+    "lightCode": "18240",
+    "moderateCode": "18290",
+    "vigorousCode": "18230"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pool Swimming",
+      "description": "1. Push away from the wall in a long streamlined position and begin the chosen stroke without rushing.\n2. Coordinate the arm pull and kick while exhaling into the water and turning or lifting to inhale.\n3. Approach each wall under control, turn or stop, and push off only when the lane ahead is clear.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "Natación en piscina",
+      "description": "1. Impúlsate desde la pared con el cuerpo alargado y alineado e inicia el estilo elegido sin apresurarte.\n2. Coordina la brazada y la patada mientras exhalas dentro del agua y giras o levantas la cabeza para inhalar.\n3. Acércate a cada pared con control, gira o detente y vuelve a impulsarte solo cuando la calle esté despejada delante.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "Natação em piscina",
+      "description": "1. Impulsione-se da parede com o corpo alongado e alinhado e comece o estilo escolhido sem pressa.\n2. Coordene a braçada e a pernada enquanto expira na água e vira ou levanta a cabeça para inspirar.\n3. Aproxime-se de cada parede com controle, vire ou pare e impulsione-se apenas quando a raia à frente estiver livre.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Natation en piscine",
+      "description": "1. Poussez contre le mur en position allongée et profilée et commencez la nage choisie sans précipitation.\n2. Coordonnez la traction des bras et les battements en expirant dans l’eau et en tournant ou levant la tête pour inspirer.\n3. Approchez chaque mur avec contrôle, tournez ou arrêtez-vous et ne repartez que lorsque le couloir devant vous est libre.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "Schwimmen im Pool",
+      "description": "1. Stoße dich in einer langen, stromlinienförmigen Position von der Wand ab und beginne die gewählte Schwimmart ohne Hast.\n2. Koordiniere Armzug und Beinschlag, atme ins Wasser aus und drehe oder hebe den Kopf zum Einatmen.\n3. Nähere dich jeder Wand kontrolliert, wende oder halte an und stoße dich erst ab, wenn die Bahn vor dir frei ist.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "Nuoto in piscina",
+      "description": "1. Spingiti dalla parete con il corpo lungo e in posizione idrodinamica e inizia lo stile scelto senza fretta.\n2. Coordina la bracciata e la gambata espirando nell’acqua e girando o sollevando la testa per inspirare.\n3. Avvicinati a ogni parete con controllo, gira o fermati e riparti solo quando la corsia davanti è libera.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "泳池游泳",
+      "description": "1. 以伸长、流线型的姿势蹬离池壁，不急不躁地开始所选泳姿。\n2. 协调划臂和踢腿，在水中呼气，转头或抬头吸气。\n3. 可控地接近每面池壁，转身或停止，仅在前方泳道畅通时再次蹬壁出发。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "プール水泳",
+      "description": "1. 体を長く流線形にして壁を蹴り、慌てずに選んだ泳法を始めます。\n2. 腕のかきとキックを合わせ、水中で吐いて、顔を横に向けるか上げて吸います。\n3. 各壁へ落ち着いて近づき、ターンするか止まり、前のレーンが空いているときだけ蹴り出します。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "수영장 수영",
+      "description": "1. 몸을 길고 유선형으로 만들어 벽을 밀어 출발하고 서두르지 않으며 선택한 영법을 시작합니다.\n2. 팔 동작과 발차기를 맞추며 물속에서 내쉬고 머리를 돌리거나 들어 들이쉽니다.\n3. 각 벽에 통제된 속도로 다가가 돌아서거나 멈추고 앞쪽 레인이 비었을 때만 밀어 출발합니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "ว่ายน้ำในสระ",
+      "description": "1. ดันตัวออกจากผนังโดยเหยียดลำตัวเป็นแนวลู่ แล้วเริ่มว่ายท่าที่เลือกโดยไม่รีบร้อน\n2. ประสานการดึงแขนและเตะขา ขณะหายใจออกในน้ำแล้วหันหรือยกศีรษะเพื่อหายใจเข้า\n3. เข้าใกล้ผนังแต่ละด้านอย่างควบคุม กลับตัวหรือหยุด และดันตัวออกเฉพาะเมื่อช่องว่ายข้างหน้าว่าง",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "Плавание в бассейне",
+      "description": "1. Оттолкнитесь от бортика в вытянутом обтекаемом положении и без спешки начните выбранный стиль плавания.\n2. Координируйте гребок руками и работу ног, выдыхая в воду и поворачивая или поднимая голову для вдоха.\n3. Контролируемо приближайтесь к каждому бортику, поворачивайте или останавливайтесь и отталкивайтесь только при свободной дорожке впереди.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "Плавання в басейні",
+      "description": "1. Відштовхніться від бортика у витягнутому обтічному положенні й без поспіху почніть вибраний стиль плавання.\n2. Координуйте гребок руками й роботу ніг, видихаючи у воду та повертаючи або піднімаючи голову для вдиху.\n3. Контрольовано наближайтеся до кожного бортика, повертайте або зупиняйтеся й відштовхуйтеся лише за вільної доріжки попереду.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
+}

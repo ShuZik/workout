@@ -1,0 +1,87 @@
+{
+  "id": "109.11",
+  "key": "wushu_taijijian",
+  "title": "Taijijian",
+  "description": "1. Hold a training straight sword reversed along the left forearm, stand with the feet together, and breathe calmly.\n2. Take the sword and perform the taijijian routine with continuous, even taiji stepping, the blade drawing, piercing, and lifting in smooth arcs led by the waist.\n3. Keep the tempo even through every balance, pass the sword back to the left hand, and close by bringing the feet together.",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taijijian",
+      "description": "1. Hold a training straight sword reversed along the left forearm, stand with the feet together, and breathe calmly.\n2. Take the sword and perform the taijijian routine with continuous, even taiji stepping, the blade drawing, piercing, and lifting in smooth arcs led by the waist.\n3. Keep the tempo even through every balance, pass the sword back to the left hand, and close by bringing the feet together.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taijijian",
+      "description": "1. Sujeta una espada recta de entrenamiento invertida a lo largo del antebrazo izquierdo, junta los pies y respira con calma.\n2. Toma la espada y ejecuta la rutina de taijijian con pasos de taiji continuos y uniformes, la hoja trazando, punzando y elevándose en arcos suaves guiados por la cintura.\n3. Mantén un ritmo uniforme en cada equilibrio, devuelve la espada a la mano izquierda y cierra juntando los pies.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taijijian",
+      "description": "1. Segure uma espada reta de treino invertida ao longo do antebraço esquerdo, fique com os pés juntos e respire calmamente.\n2. Pegue a espada e execute a rotina de taijijian com passos de taiji contínuos e uniformes, a lâmina traçando, estocando e subindo em arcos suaves guiados pela cintura.\n3. Mantenha o ritmo uniforme em cada equilíbrio, devolva a espada à mão esquerda e feche unindo os pés.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taijijian",
+      "description": "1. Tenez une épée droite d’entraînement inversée le long de l’avant-bras gauche, pieds joints, et respirez calmement.\n2. Prenez l’épée et exécutez l’enchaînement de taijijian avec des pas de taiji continus et réguliers, la lame tirant, piquant et remontant en arcs fluides guidés par la taille.\n3. Gardez un tempo régulier dans chaque équilibre, rendez l’épée à la main gauche et fermez en rejoignant les pieds.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taijijian",
+      "description": "1. Halte ein gerades Trainingsschwert umgekehrt am linken Unterarm, stehe mit geschlossenen Füßen und atme ruhig.\n2. Nimm das Schwert und laufe die Taijijian-Routine mit fließenden, gleichmäßigen Taiji-Schritten, die Klinge zieht, sticht und hebt in weichen, von der Taille geführten Bögen.\n3. Halte das Tempo in jeder Gleichgewichtsposition gleichmäßig, gib das Schwert zurück in die linke Hand und schließe mit zusammengeführten Füßen.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taijijian",
+      "description": "1. Tieni una spada dritta da allenamento rovesciata lungo l’avambraccio sinistro, stai a piedi uniti e respira con calma.\n2. Prendi la spada ed esegui la routine di taijijian con passi di taiji continui e uniformi, la lama che traccia, affonda e solleva in archi morbidi guidati dalla vita.\n3. Mantieni il ritmo uniforme in ogni equilibrio, riporta la spada nella mano sinistra e chiudi unendo i piedi.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极剑",
+      "description": "1. 左手反握训练用剑，剑身贴于前臂，并步站立，呼吸平稳。\n2. 接剑演练太极剑套路，步法连贯均匀，以腰带剑，抽、刺、提等剑法走圆滑的弧线。\n3. 平衡动作中保持节奏均匀，将剑交回左手，并步收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極剣",
+      "description": "1. 練習用の直剣を左前腕に沿わせて逆手に持ち、足をそろえて落ち着いて呼吸します。\n2. 剣を取り、途切れない均一な太極の歩法で、腰に導かれた滑らかな弧を描く抽・刺・提などの剣法により太極剣套路を行います。\n3. 平衡の姿勢でもテンポを一定に保ち、剣を左手に戻して足をそろえ収勢します。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "태극검",
+      "description": "1. 훈련용 직검을 왼팔뚝을 따라 거꾸로 쥐고 두 발을 모은 채 차분히 호흡합니다.\n2. 검을 받아 끊김 없고 고른 태극 보법으로, 허리가 이끄는 부드러운 호를 따라 당기기, 찌르기, 들기 동작을 하며 태극검 투로를 수행합니다.\n3. 균형 자세에서도 속도를 일정하게 유지하고 검을 왼손으로 돌려준 뒤 두 발을 모아 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "ไท่จี๋เจี้ยน (กระบี่ไท่จี๋)",
+      "description": "1. ถือกระบี่ตรงสำหรับฝึกแบบกลับด้านแนบแขนซ้าย ยืนชิดเท้า และหายใจอย่างสงบ\n2. รับกระบี่แล้วรำชุดไท่จี๋เจี้ยนด้วยการก้าวแบบไท่จี๋ที่ต่อเนื่องสม่ำเสมอ ใบกระบี่ลาก แทง และยกเป็นโค้งนุ่มนวลโดยมีเอวนำ\n3. รักษาจังหวะสม่ำเสมอในทุกท่าทรงตัว ส่งกระบี่กลับมือซ้าย แล้วจบโดยชิดเท้า",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тайцзицзянь",
+      "description": "1. Держите тренировочный прямой меч обратным хватом вдоль левого предплечья, стопы вместе, дышите спокойно.\n2. Возьмите меч и выполните комплекс тайцзицзянь непрерывными ровными шагами тайцзи: клинок тянет, колет и поднимается плавными дугами, ведомыми поясницей.\n3. Сохраняйте ровный темп во всех равновесиях, верните меч в левую руку и завершите, приставив стопы.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тайцзіцзянь",
+      "description": "1. Тримайте тренувальний прямий меч зворотним хватом уздовж лівого передпліччя, стопи разом, дихайте спокійно.\n2. Візьміть меч і виконайте комплекс тайцзіцзянь безперервними рівними кроками тайцзі: клинок тягне, коле й піднімається плавними дугами, які веде поперек.\n3. Зберігайте рівний темп в усіх рівновагах, поверніть меч у ліву руку й завершіть, приставивши стопи.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

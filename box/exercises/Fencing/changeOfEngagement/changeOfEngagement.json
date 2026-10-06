@@ -1,0 +1,87 @@
+{
+  "id": "54.14",
+  "key": "fencing_change_of_engagement",
+  "title": "Change of Engagement",
+  "description": "1. Start engaged with the partner's blade in one line at lunging distance.\n2. Pass your point under the partner's blade with the fingers and re-engage it on the opposite side, keeping your guard closed throughout.\n3. Hold the new engagement briefly, then change back or finish with a straight thrust, and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Change of Engagement",
+      "description": "1. Start engaged with the partner's blade in one line at lunging distance.\n2. Pass your point under the partner's blade with the fingers and re-engage it on the opposite side, keeping your guard closed throughout.\n3. Hold the new engagement briefly, then change back or finish with a straight thrust, and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Cambio de enganche",
+      "description": "1. Comienza enganchado con la hoja del compañero en una línea a distancia de fondo.\n2. Pasa la punta por debajo de la hoja del compañero con los dedos y vuelve a engancharla por el lado opuesto, manteniendo la guardia cerrada.\n3. Mantén el nuevo enganche un instante, vuelve a cambiar o termina con una estocada directa e intercambia papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Troca de engajamento",
+      "description": "1. Comece engajado com a lâmina do parceiro numa linha à distância de afundo.\n2. Passe a ponta por baixo da lâmina do parceiro com os dedos e reengaje do lado oposto, mantendo a guarda fechada.\n3. Mantenha o novo engajamento um instante, troque de volta ou termine com estocada direta e troque papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Changement d’engagement",
+      "description": "1. Commencez engagé avec le fer du partenaire dans une ligne, à distance de fente.\n2. Passez la pointe sous le fer adverse avec les doigts et réengagez-le du côté opposé, en gardant la garde fermée.\n3. Tenez brièvement le nouvel engagement, rechangez ou terminez par un coup droit, puis inversez les rôles après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Bindungswechsel",
+      "description": "1. Beginne in Bindung mit der Partnerklinge in einer Linie auf Ausfalldistanz.\n2. Führe die Spitze mit den Fingern unter der Partnerklinge durch und binde sie auf der Gegenseite neu, die Deckung bleibt geschlossen.\n3. Halte die neue Bindung kurz, wechsle zurück oder schließe mit geradem Stoß ab und tauscht nach der Serie die Rollen.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Cambio di legamento",
+      "description": "1. Parti legato con la lama del compagno in una linea a distanza d’affondo.\n2. Passa la punta sotto la lama del compagno con le dita e rilegala dal lato opposto, mantenendo la guardia chiusa.\n3. Tieni brevemente il nuovo legamento, ricambia o concludi con una botta dritta e scambiate i ruoli dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "换位接剑",
+      "description": "1. 在弓步距离，与同伴的剑在某一线位接剑开始。\n2. 用手指使剑尖从同伴剑下绕过，在对侧重新接剑，全程保持防守线封闭。\n3. 短暂保持新的接剑，再换回或以直刺结束，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "アンガージュの変更",
+      "description": "1. ファントの間合いで、相手の剣と一つのラインでアンガージュした状態から始めます。\n2. 指で剣先を相手の剣の下にくぐらせ、反対側で再びアンガージュします。構えは常に閉じておきます。\n3. 新しいアンガージュを少し保ち、元に戻すかストレートスラストで終え、セット後に交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "인게이지 변경",
+      "description": "1. 런지 거리에서 파트너 칼과 한 라인으로 인게이지한 상태로 시작합니다.\n2. 손가락으로 칼끝을 파트너 칼 아래로 통과시켜 반대쪽에서 다시 인게이지하며 가드는 계속 닫아 둡니다.\n3. 새 인게이지를 잠시 유지한 뒤 다시 바꾸거나 직접 찌르기로 마무리하고 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เปลี่ยนการแตะดาบ",
+      "description": "1. เริ่มโดยแตะใบดาบคู่ฝึกในแนวหนึ่งในระยะลันจ์\n2. ใช้นิ้วลอดปลายดาบใต้ใบดาบคู่ฝึก แล้วแตะดาบใหม่จากอีกด้าน โดยปิดการ์ดไว้ตลอด\n3. คงการแตะใหม่ครู่หนึ่ง แล้วเปลี่ยนกลับหรือจบด้วยการแทงตรง และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Перемена соединения",
+      "description": "1. Начните из соединения с клинком партнёра в одной линии на дистанции выпада.\n2. Пальцами проведите остриё под клинком партнёра и снова возьмите соединение с противоположной стороны, держа защиту закрытой.\n3. Ненадолго удержите новое соединение, перемените обратно или завершите прямым уколом и поменяйтесь ролями после серии.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Зміна з’єднання",
+      "description": "1. Почніть зі з’єднання з клинком партнера в одній лінії на дистанції випаду.\n2. Пальцями проведіть вістря під клинком партнера й знову візьміть з’єднання з протилежного боку, тримаючи захист закритим.\n3. Ненадовго утримайте нове з’єднання, змініть назад або завершіть прямим уколом і поміняйтеся ролями після серії.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

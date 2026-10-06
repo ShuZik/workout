@@ -1,0 +1,87 @@
+{
+  "id": "89.3",
+  "key": "savate_coup_de_pied_bas",
+  "title": "Coup de Pied Bas",
+  "description": "1. From savate guard, shift weight to the supporting leg and lean the upper body slightly back with both hands high.\n2. Swing the kicking foot forward and low, turning it so the inner edge of the shoe sweeps across the target shin.\n3. Retract the foot at once and come back upright into guard at a safe distance.",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Coup de Pied Bas",
+      "description": "1. From savate guard, shift weight to the supporting leg and lean the upper body slightly back with both hands high.\n2. Swing the kicking foot forward and low, turning it so the inner edge of the shoe sweeps across the target shin.\n3. Retract the foot at once and come back upright into guard at a safe distance.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Coup de pied bas",
+      "description": "1. Desde la guardia de savate, pasa el peso a la pierna de apoyo e inclina ligeramente el tronco hacia atrás con ambas manos altas.\n2. Lanza el pie hacia delante y abajo, girándolo para que el borde interno de la zapatilla barra la espinilla objetivo.\n3. Retira el pie de inmediato y vuelve erguido a la guardia a una distancia segura.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Coup de pied bas",
+      "description": "1. Da guarda de savate, passe o peso para a perna de apoio e incline levemente o tronco para trás com as duas mãos altas.\n2. Lance o pé para a frente e para baixo, girando-o para que a borda interna da sapatilha varra a canela alvo.\n3. Recolha o pé imediatamente e volte ereto à guarda a uma distância segura.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Coup de pied bas",
+      "description": "1. Depuis la garde, transférez le poids sur la jambe d’appui et inclinez légèrement le buste en arrière, les deux mains hautes.\n2. Lancez le pied vers l’avant et en bas en le tournant pour que la carre interne de la chaussure balaie le tibia visé.\n3. Ramenez aussitôt le pied et redressez-vous en garde à distance de sécurité.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Coup de pied bas",
+      "description": "1. Verlagere aus der Deckung das Gewicht auf das Standbein und neige den Oberkörper leicht zurück, beide Hände hoch.\n2. Schwinge den Trittfuß tief nach vorn und drehe ihn so, dass die Schuhinnenkante über das Zielschienbein fegt.\n3. Ziehe den Fuß sofort zurück und richte dich in sicherer Distanz in der Deckung auf.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Coup de pied bas",
+      "description": "1. Dalla guardia di savate, porta il peso sulla gamba d’appoggio e inclina leggermente il busto indietro con entrambe le mani alte.\n2. Lancia il piede in avanti e in basso, ruotandolo in modo che il bordo interno della scarpa spazzi la tibia bersaglio.\n3. Ritira subito il piede e torna eretto in guardia a distanza di sicurezza.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "低踢（Coup de pied bas）",
+      "description": "1. 从法式踢拳防守势开始，重心移到支撑腿，上身略微后仰，双手保持在高位。\n2. 踢击脚向前下方摆出，脚掌转动，用鞋内侧边扫过目标小腿。\n3. 立即收脚，身体回正，在安全距离恢复防守势。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "クー・ド・ピエ・バ",
+      "description": "1. サバットの構えから体重を軸脚に移し、両手を高く保ったまま上体をやや後ろへ傾けます。\n2. 蹴り足を前方低くに振り出し、足を返してシューズの内側の縁で標的のすねを払います。\n3. すぐに足を戻し、安全な間合いで上体を起こして構えに戻ります。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "쿠 드 피에 바",
+      "description": "1. 사바트 가드에서 체중을 지지다리로 옮기고 두 손을 높게 둔 채 상체를 약간 뒤로 기울입니다.\n2. 차는 발을 앞쪽 아래로 휘두르며 발을 돌려 신발 안쪽 가장자리로 목표 정강이를 쓸어 줍니다.\n3. 즉시 발을 회수하고 안전한 거리에서 몸을 세워 가드로 돌아옵니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "คูเดอปีเยบา",
+      "description": "1. จากการ์ดซาวาต ถ่ายน้ำหนักไปที่ขายืนและเอนลำตัวไปด้านหลังเล็กน้อยโดยยกมือทั้งสองสูง\n2. เหวี่ยงเท้าเตะไปข้างหน้าในระดับต่ำ บิดเท้าให้ขอบด้านในของรองเท้ากวาดผ่านหน้าแข้งเป้าหมาย\n3. ดึงเท้ากลับทันทีแล้วยืดตัวกลับสู่การ์ดในระยะปลอดภัย",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Ку-де-пье-ба",
+      "description": "1. Из стойки савата перенесите вес на опорную ногу и слегка отклоните корпус назад, держа обе руки высоко.\n2. Выбросьте бьющую стопу вперёд и низко, развернув её так, чтобы внутреннее ребро обуви прошло по голени цели.\n3. Сразу верните стопу и выпрямитесь в стойку на безопасной дистанции.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Ку-де-п’є-ба",
+      "description": "1. Зі стійки савату перенесіть вагу на опорну ногу й злегка відхиліть корпус назад, тримаючи обидві руки високо.\n2. Викиньте ударну стопу вперед і низько, розвернувши її так, щоб внутрішнє ребро взуття пройшло по гомілці цілі.\n3. Одразу поверніть стопу й випростайтеся в стійку на безпечній дистанції.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

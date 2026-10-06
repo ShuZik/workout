@@ -1,0 +1,90 @@
+{
+  "id": "86.1",
+  "key": "pencak_silat",
+  "title": "Pencak Silat",
+  "description": "1. Stand in a low, balanced stance with the knees bent, hands guarding in front of the chest, and eyes on an imagined opponent.\n2. Move through langkah steps in several directions, linking hand blocks, punches, and kicks with smooth transitions between stances.\n3. Return to a stable stance and guard after each sequence, keeping the movement controlled and the rhythm steady through the interval.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "pencakSilat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pencak Silat",
+      "description": "1. Stand in a low, balanced stance with the knees bent, hands guarding in front of the chest, and eyes on an imagined opponent.\n2. Move through langkah steps in several directions, linking hand blocks, punches, and kicks with smooth transitions between stances.\n3. Return to a stable stance and guard after each sequence, keeping the movement controlled and the rhythm steady through the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Pencak Silat",
+      "description": "1. Colócate en una postura baja y equilibrada con las rodillas flexionadas, las manos en guardia delante del pecho y la mirada en un oponente imaginario.\n2. Desplázate con pasos langkah en varias direcciones, enlazando bloqueos, puñetazos y patadas con transiciones fluidas entre posturas.\n3. Vuelve a una postura estable y a la guardia tras cada secuencia, con movimientos controlados y un ritmo constante durante el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Pencak Silat",
+      "description": "1. Fique numa base baixa e equilibrada com os joelhos flexionados, as mãos em guarda à frente do peito e o olhar num oponente imaginário.\n2. Desloque-se com passos langkah em várias direções, ligando bloqueios, socos e chutes com transições suaves entre as bases.\n3. Volte a uma base estável e à guarda após cada sequência, mantendo o movimento controlado e o ritmo constante durante o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Pencak Silat",
+      "description": "1. Placez-vous dans une position basse et équilibrée, genoux fléchis, mains en garde devant la poitrine, regard sur un adversaire imaginaire.\n2. Déplacez-vous en pas langkah dans plusieurs directions en enchaînant blocages, coups de poing et coups de pied avec des transitions fluides entre les positions.\n3. Revenez à une position stable et en garde après chaque séquence, en gardant un mouvement contrôlé et un rythme régulier pendant l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Pencak Silat",
+      "description": "1. Stehe in einer tiefen, stabilen Stellung mit gebeugten Knien, die Hände schützend vor der Brust und den Blick auf einen gedachten Gegner gerichtet.\n2. Bewege dich mit Langkah-Schritten in mehrere Richtungen und verbinde Abwehr, Fauststöße und Tritte mit fließenden Übergängen zwischen den Stellungen.\n3. Kehre nach jeder Sequenz in eine stabile Stellung und Deckung zurück und halte Bewegung und Rhythmus über das Intervall kontrolliert.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Pencak Silat",
+      "description": "1. Assumi una posizione bassa ed equilibrata con le ginocchia piegate, le mani in guardia davanti al petto e lo sguardo su un avversario immaginario.\n2. Muoviti con i passi langkah in più direzioni, collegando parate, pugni e calci con transizioni fluide tra le posizioni.\n3. Torna a una posizione stabile e in guardia dopo ogni sequenza, mantenendo il movimento controllato e il ritmo costante per tutto l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "班卡西拉",
+      "description": "1. 以屈膝的低稳姿势站立，双手护于胸前，目视假想对手。\n2. 以 langkah 步法向多个方向移动，在姿势间流畅转换，衔接格挡、拳法和腿法。\n3. 每组动作后回到稳定姿势和防守，整个间歇保持动作受控、节奏平稳。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "プンチャック・シラット",
+      "description": "1. 膝を曲げた低く安定した構えで立ち、両手を胸の前でガードし、仮想の相手を見ます。\n2. ランカのステップで複数の方向へ動き、構えの間を滑らかに移りながら受け・突き・蹴りをつなげます。\n3. 各連続動作の後は安定した構えとガードに戻り、インターバル中は動きを制御し一定のリズムを保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "펜칵 실랏",
+      "description": "1. 무릎을 굽힌 낮고 균형 잡힌 자세로 서서 두 손을 가슴 앞에 두고 가상의 상대를 바라봅니다.\n2. 랑카 스텝으로 여러 방향으로 이동하며 자세 사이를 부드럽게 전환하고 막기, 지르기, 차기를 연결합니다.\n3. 각 연속 동작 후 안정된 자세와 가드로 돌아오고, 인터벌 내내 동작을 통제하며 일정한 리듬을 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ปันจักสีลัต",
+      "description": "1. ยืนในท่าต่ำที่สมดุล งอเข่า มือการ์ดอยู่หน้าอก และมองคู่ต่อสู้สมมติ\n2. เคลื่อนที่ด้วยก้าว langkah ไปหลายทิศทาง เชื่อมการปัด หมัด และเตะ โดยเปลี่ยนท่ายืนอย่างลื่นไหล\n3. กลับสู่ท่ายืนที่มั่นคงและการ์ดหลังแต่ละชุด ควบคุมการเคลื่อนไหวและรักษาจังหวะสม่ำเสมอตลอดช่วงเวลา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Пенчак-силат",
+      "description": "1. Встаньте в низкую устойчивую стойку с согнутыми коленями, руки в защите перед грудью, взгляд на воображаемого соперника.\n2. Перемещайтесь шагами лангках в разных направлениях, связывая блоки, удары руками и ногами плавными переходами между ст��йками.\n3. После каждой связки возвращайтесь в устойчивую стойку и защиту, сохраняя контроль движений и ровный ритм весь интервал.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Пенчак-силат",
+      "description": "1. Станьте в низьку стійку з зігнутими колінами, руки в захисті перед грудьми, погляд на уявного суперника.\n2. Пересувайтеся кроками лангках у різних напрямках, поєднуючи блоки, удари руками й ногами плавними переходами між стійками.\n3. Після кожної зв’язки повертайтеся в стійку й захист, зберігаючи контроль рухів і рівний ритм протягом усього інтервалу.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

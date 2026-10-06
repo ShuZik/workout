@@ -1,0 +1,90 @@
+{
+  "id": "10.12",
+  "key": "hamstring_stretch",
+  "title": "Hamstring Stretch",
+  "description": "1. Sit or stand with one leg extended, heel supported, knee softly straight, and toes pointing up.\n2. Hinge forward from the hips with a long spine rather than rounding toward the knee.\n3. Stop at mild tension behind the thigh, hold without bouncing, and switch legs.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hamstring Stretch",
+      "description": "1. Sit or stand with one leg extended, heel supported, knee softly straight, and toes pointing up.\n2. Hinge forward from the hips with a long spine rather than rounding toward the knee.\n3. Stop at mild tension behind the thigh, hold without bouncing, and switch legs.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento de isquiotibiales",
+      "description": "1. Siéntate o ponte de pie con una pierna extendida, el talón apoyado, la rodilla estirada sin bloquearla y los dedos apuntando hacia arriba.\n2. Inclínate hacia delante desde las caderas con la columna alargada, sin redondear la espalda hacia la rodilla.\n3. Detente al sentir una tensión leve en la parte posterior del muslo, mantén sin rebotes y cambia de pierna.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento dos posteriores da coxa",
+      "description": "1. Sente-se ou fique em pé com uma perna estendida, o calcanhar apoiado, o joelho estendido sem travar e os dedos apontando para cima.\n2. Incline-se à frente a partir do quadril, mantendo a coluna alongada em vez de curvá-la em direção ao joelho.\n3. Pare ao sentir uma tensão leve atrás da coxa, mantenha sem movimentos de balanço e troque de perna.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement des ischio-jambiers",
+      "description": "1. Asseyez-vous ou restez debout avec une jambe tendue, le talon soutenu, le genou déplié sans le verrouiller et les orteils vers le haut.\n2. Inclinez-vous vers l’avant depuis les hanches, la colonne allongée, sans arrondir le dos vers le genou.\n3. Arrêtez-vous à une légère tension derrière la cuisse, maintenez sans à-coups et changez de jambe.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Dehnung der hinteren Oberschenkel",
+      "description": "1. Sitze oder stehe mit einem ausgestreckten Bein, abgestützter Ferse, locker gestrecktem Knie und nach oben gerichteten Zehen.\n2. Beuge dich aus der Hüfte nach vorn und halte die Wirbelsäule lang, statt den Rücken zum Knie hin zu runden.\n3. Stoppe bei leichter Spannung an der Oberschenkelrückseite, halte ohne Federn und wechsle die Beine.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento degli ischiocrurali",
+      "description": "1. Siediti o resta in piedi con una gamba distesa, il tallone appoggiato, il ginocchio disteso senza bloccarlo e le dita del piede verso l’alto.\n2. Piegati in avanti dalle anche mantenendo la colonna allungata, senza incurvare la schiena verso il ginocchio.\n3. Fermati quando senti una lieve tensione dietro la coscia, mantieni senza molleggiare e cambia gamba.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "腘绳肌拉伸",
+      "description": "1. 坐下或站立，将一条腿伸出，脚跟有支撑，膝盖轻轻伸直但不锁死，脚尖朝上。\n2. 从髋部向前折叠，保持脊柱伸长，不要弓背靠向膝盖。\n3. 大腿后侧出现轻微拉伸感时停止，不弹振地保持，然后换腿。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "ハムストリングストレッチ",
+      "description": "1. 座るか立った姿勢で片脚を伸ばし、かかとを支え、膝を無理なく伸ばしてつま先を上に向けます。\n2. 膝に向かって背中を丸めず、背骨を長く保って股関節から前に倒します。\n3. 太ももの裏に軽い張りを感じたところで止め、反動をつけずに保ってから脚を替えます。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "햄스트링 스트레칭",
+      "description": "1. 앉거나 선 자세에서 한쪽 다리를 뻗고 발뒤꿈치를 받친 뒤, 무릎을 과하게 잠그지 않고 펴며 발끝을 위로 향합니다.\n2. 무릎 쪽으로 등을 둥글게 굽히지 말고 척추를 길게 유지하며 고관절에서 앞으로 접습니다.\n3. 허벅지 뒤쪽에 가벼운 당김이 느껴지면 멈추고 반동 없이 유지한 뒤 다리를 바꿉니다.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "การยืดกล้ามเนื้อต้นขาด้านหลัง",
+      "description": "1. นั่งหรือยืนโดยเหยียดขาข้างหนึ่ง วางส้นเท้าบนจุดรองรับ เหยียดเข่าอย่างผ่อนคลายโดยไม่ล็อก และชี้ปลายเท้าขึ้น\n2. พับตัวไปข้างหน้าจากสะโพกโดยยืดกระดูกสันหลังให้ยาว แทนการงอหลังเข้าหาเข่า\n3. หยุดเมื่อรู้สึกตึงเล็กน้อยที่ต้นขาด้านหลัง ค้างไว้โดยไม่เด้ง แล้วสลับขา",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Растяжка задней поверхности бедра",
+      "description": "1. Сядьте или встаньте, вытянув одну ногу, опираясь пяткой, мягко выпрямив колено и направив носок вверх.\n2. Наклонитесь вперёд от тазобедренных суставов, сохраняя позвоночник вытянутым, а не округляя спину к колену.\n3. Остановитесь при лёгком натяжении сзади бедра, удерживайте без пружинящих движений и смените ноги.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Розтягування задньої поверхні стегна",
+      "description": "1. Сядьте або станьте, витягнувши одну ногу, спираючись п’ятою, м’яко випрямивши коліно й спрямувавши носок угору.\n2. Нахиліться вперед від кульшових суглобів, зберігаючи хребет витягнутим, а не округлюючи спину до коліна.\n3. Зупиніться за легкого натягу позаду стегна, утримуйте без пружних рухів і змініть ноги.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  }
+}

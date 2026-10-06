@@ -1,0 +1,90 @@
+{
+  "id": "68.5",
+  "key": "kempo_self_defense_sport",
+  "title": "Kempo Self-Defense Sport",
+  "description": "1. Form a team of one defender and three attackers and rehearse an agreed choreography of four scenarios on mats.\n2. Attackers enter one after another at choreographed speed; the defender evades, counters and controls each, and the attackers take practised falls.\n3. Pull every strike, keep every fall safe, stay within three minutes, then rotate the defender.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kempo Self-Defense Sport",
+      "description": "1. Form a team of one defender and three attackers and rehearse an agreed choreography of four scenarios on mats.\n2. Attackers enter one after another at choreographed speed; the defender evades, counters and controls each, and the attackers take practised falls.\n3. Pull every strike, keep every fall safe, stay within three minutes, then rotate the defender.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Defensa personal Sport de kempo",
+      "description": "1. Formad un equipo de un defensor y tres atacantes y ensayad sobre el tatami una coreografía acordada de cuatro escenarios.\n2. Los atacantes entran uno tras otro a velocidad coreografiada; el defensor esquiva, contraataca y controla a cada uno, y los atacantes realizan caídas practicadas.\n3. Frena cada golpe, haz cada caída segura, no superéis tres minutos y rotad al defensor.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Defesa pessoal Sport de kempo",
+      "description": "1. Formem uma equipe de um defensor e três atacantes e ensaiem no tatame uma coreografia combinada de quatro cenários.\n2. Os atacantes entram um após o outro em velocidade coreografada; o defensor esquiva, contra-ataca e controla cada um, e os atacantes fazem quedas treinadas.\n3. Segure cada golpe, faça cada queda com segurança, fiquem dentro de três minutos e alternem o defensor.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Self-défense Sport de kempo",
+      "description": "1. Formez une équipe d’un défenseur et trois attaquants et répétez sur le tapis une chorégraphie convenue de quatre scénarios.\n2. Les attaquants entrent l’un après l’autre à vitesse chorégraphiée ; le défenseur esquive, riposte et contrôle chacun, et les attaquants exécutent des chutes travaillées.\n3. Retenez chaque frappe, sécurisez chaque chute, restez sous trois minutes, puis changez de défenseur.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kempo-Selbstverteidigung Sport",
+      "description": "1. Bildet ein Team aus einem Verteidiger und drei Angreifern und probt auf der Matte eine vereinbarte Choreografie mit vier Szenarien.\n2. Die Angreifer kommen nacheinander im choreografierten Tempo; der Verteidiger weicht aus, kontert und kontrolliert jeden, die Angreifer fallen geübt.\n3. Stoppe jeden Schlag ab, halte jeden Fall sicher, bleibt innerhalb von drei Minuten und wechselt dann den Verteidiger.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Autodifesa Sport di kempo",
+      "description": "1. Formate una squadra di un difensore e tre aggressori e provate sul tatami una coreografia concordata di quattro scenari.\n2. Gli aggressori entrano uno dopo l’altro a velocità coreografata; il difensore schiva, contrattacca e controlla ciascuno, e gli aggressori eseguono cadute allenate.\n3. Trattieni ogni colpo, rendi sicura ogni caduta, restate entro tre minuti e poi cambiate difensore.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "拳法自卫表演（Sport）",
+      "description": "1. 组成一名防守者和三名进攻者的队伍，在垫上排练约定好的四个情境的编排。\n2. 进攻者按编排速度依次上场；防守者闪避、反击并控制每一人，进攻者完成练熟的倒地。\n3. 每次打击都要收力，每次倒地都要安全，控制在三分钟内，然后轮换防守者。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "拳法 護身術スポーツ",
+      "description": "1. 防御役1人と攻撃役3人のチームを作り、マット上で合意した4場面の構成を練習します。\n2. 攻撃役は構成どおりの速さで順に入り、防御役はかわし、反撃し、それぞれを制し、攻撃役は練習した受け身をとります。\n3. 打撃はすべて寸止めし、受け身は安全に、3分以内に収め、防御役を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "켐포 호신술 스포츠",
+      "description": "1. 수비자 1명과 공격자 3명으로 팀을 만들어 매트 위에서 합의된 네 가지 상황의 안무를 연습합니다.\n2. 공격자들은 안무된 속도로 차례로 들어오고, 수비자는 피하고 반격하며 각자를 제압하고, 공격자는 연습한 낙법을 합니다.\n3. 모든 타격은 끊어 치고 모든 낙법은 안전하게 하며 3분 안에 마친 뒤 수비자를 교대합니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ป้องกันตัวสปอร์ตเคมโป",
+      "description": "1. จัดทีมผู้ป้องกันหนึ่งคนและผู้โจมตีสามคน ซ้อมท่าออกแบบสี่สถานการณ์ที่ตกลงไว้บนเบาะ\n2. ผู้โจมตีเข้ามาทีละคนตามความเร็วที่ออกแบบ ผู้ป้องกันหลบ สวน และควบคุมแต่ละคน ผู้โจมตีล้มตามที่ฝึกไว้\n3. หยุดแรงทุกการโจมตี ล้มอย่างปลอดภัยทุกครั้ง ทำภายในสามนาที แล้วหมุนเวียนผู้ป้องกัน",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Самооборона Sport в кэмпо",
+      "description": "1. Составьте команду из одного защитника и трёх атакующих и отрепетируйте на татами оговорённую хореографию из четырёх сценариев.\n2. Атакующие входят по очереди в хореографическом темпе; защитник уходит, контратакует и контролирует каждого, атакующие выполняют отработанные падения.\n3. Не доводите удары, падайте безопасно, укладывайтесь в три минуты, затем смените защитника.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Самозахист Sport у кемпо",
+      "description": "1. Складіть команду з одного захисника й трьох атакувальників і відрепетируйте на татамі узгоджену хореографію з чотирьох сценаріїв.\n2. Атакувальники входять по черзі в хореографічному темпі; захисник ухиляється, контратакує й контролює кожного, атакувальники виконують відпрацьовані падіння.\n3. Не доводьте удари, падайте безпечно, вкладайтеся в три хвилини, потім змініть захисника.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

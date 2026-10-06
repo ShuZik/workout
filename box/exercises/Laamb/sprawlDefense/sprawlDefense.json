@@ -1,0 +1,87 @@
+{
+  "id": "77.9",
+  "key": "laamb_sprawl_defense",
+  "title": "Sprawl Defense",
+  "description": "1. Attacker shoots slowly at the legs; defender reacts as soon as the hands reach the thighs.\n2. Defender throws the legs back, drops the hips onto the attacker's shoulders, and pushes the head down and away.\n3. Attacker stops the shot at once when sprawled on; both reset to stance and switch roles every few reps.",
+  "colorType": "orange",
+  "workoutType": "laamb",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Sprawl Defense",
+      "description": "1. Attacker shoots slowly at the legs; defender reacts as soon as the hands reach the thighs.\n2. Defender throws the legs back, drops the hips onto the attacker's shoulders, and pushes the head down and away.\n3. Attacker stops the shot at once when sprawled on; both reset to stance and switch roles every few reps.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Defensa con sprawl",
+      "description": "1. El atacante entra despacio a las piernas; el defensor reacciona en cuanto las manos llegan a los muslos.\n2. El defensor lanza las piernas atrás, deja caer la cadera sobre los hombros del atacante y empuja su cabeza hacia abajo y afuera.\n3. El atacante detiene la entrada al recibir el sprawl; ambos vuelven a la guardia y cambian de rol cada pocas repeticiones.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Defesa com sprawl",
+      "description": "1. O atacante entra devagar nas pernas; o defensor reage assim que as mãos chegam às coxas.\n2. O defensor joga as pernas para trás, apoia o quadril sobre os ombros do atacante e empurra a cabeça dele para baixo e para fora.\n3. O atacante interrompe a entrada ao receber o sprawl; ambos voltam à base e trocam de papel a cada poucas repetições.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Défense en sprawl",
+      "description": "1. L'attaquant plonge lentement aux jambes ; le défenseur réagit dès que les mains atteignent les cuisses.\n2. Le défenseur projette les jambes en arrière, pose les hanches sur les épaules de l'attaquant et repousse sa tête vers le bas et le côté.\n3. L'attaquant arrête l'entrée dès qu'il est bloqué ; tous deux reprennent la garde et changent de rôle toutes les quelques répétitions.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Sprawl-Abwehr",
+      "description": "1. Der Angreifer schießt langsam auf die Beine; der Verteidiger reagiert, sobald die Hände die Oberschenkel erreichen.\n2. Der Verteidiger wirft die Beine nach hinten, legt die Hüfte auf die Schultern des Angreifers und drückt den Kopf nach unten weg.\n3. Der Angreifer bricht den Angriff sofort ab, wenn er abgefangen ist; beide gehen zurück in die Stellung und wechseln alle paar Wiederholungen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Difesa in sprawl",
+      "description": "1. L'attaccante entra lentamente sulle gambe; il difensore reagisce appena le mani arrivano alle cosce.\n2. Il difensore lancia le gambe indietro, appoggia le anche sulle spalle dell'attaccante e spinge la testa in basso e di lato.\n3. L'attaccante interrompe subito l'entrata quando viene bloccato; entrambi tornano in guardia e si scambiano i ruoli ogni poche ripetizioni.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "后撤压制防守",
+      "description": "1. 进攻方缓慢抱腿下潜；双手一碰到大腿，防守方立即反应。\n2. 防守方双腿向后撤，髋部压在进攻方肩上，并将其头部向下向外推开。\n3. 被压住时进攻方立即停止下潜；双方回到站姿，每做几次交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "スプロールの防御",
+      "description": "1. 攻め手はゆっくり足へタックルに入り、受け手は手が腿に届いた瞬間に反応します。\n2. 受け手は両足を後ろへ投げ出し、腰を攻め手の肩に落とし、頭を下へ外へ押しやります。\n3. つぶされたら攻め手はすぐにタックルを止め、二人とも構えに戻り、数回ごとに役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "스프롤 방어",
+      "description": "1. 공격자가 천천히 다리로 태클을 들어가고, 방어자는 손이 허벅지에 닿는 순간 반응합니다.\n2. 방어자는 다리를 뒤로 뻗고 골반을 공격자의 어깨 위로 떨어뜨리며 머리를 아래 바깥쪽으로 밀어냅니다.\n3. 눌리면 공격자는 즉시 태클을 멈추고, 둘 다 자세로 돌아가 몇 회마다 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ป้องกันด้วยการสปรอว์ล",
+      "description": "1. ฝ่ายรุกพุ่งเข้าหาขาอย่างช้า ๆ ฝ่ายรับตอบสนองทันทีที่มือแตะต้นขา\n2. ฝ่ายรับเหวี่ยงขาไปด้านหลัง ทิ้งสะโพกลงบนไหล่ฝ่ายรุก และดันศีรษะลงและออกด้านข้าง\n3. ฝ่ายรุกหยุดการพุ่งทันทีเมื่อถูกกด ทั้งคู่กลับสู่ท่ายืนและสลับบทบาททุกสองสามครั้ง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Защита сбросом ног",
+      "description": "1. Атакующий медленно проходит в ноги; защищающийся реагирует, как только руки касаются бёдер.\n2. Защищающийся отбрасывает ноги назад, опускает таз на плечи атакующего и давит его голову вниз и в сторону.\n3. Атакующий сразу прекращает проход, когда его придавили; оба возвращаются в стойку и меняются ролями через несколько повторов.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Захист відкиданням ніг",
+      "description": "1. Атакувальник повільно проходить у ноги; захисник реагує, щойно руки торкаються стегон.\n2. Захисник відкидає ноги назад, опускає таз на плечі атакувальника й тисне його голову вниз і вбік.\n3. Атакувальник одразу припиняє прохід, коли його притиснули; обидва повертаються в стійку й міняються ролями через кілька повторів.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

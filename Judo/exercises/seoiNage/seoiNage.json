@@ -1,0 +1,90 @@
+{
+  "id": "41.10",
+  "key": "judo_seoi_nage",
+  "title": "Seoi Nage",
+  "description": "1. From sleeve-and-lapel control, draw the partner forward and turn under the controlled arm with the knees bent.\n2. Place the hips below the partner's center and load the torso across the back while keeping the pulling arm tight.\n3. Extend the legs and rotate the shoulders to project forward, guiding the sleeve through a controlled breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Te-waza",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Seoi Nage",
+      "description": "1. From sleeve-and-lapel control, draw the partner forward and turn under the controlled arm with the knees bent.\n2. Place the hips below the partner's center and load the torso across the back while keeping the pulling arm tight.\n3. Extend the legs and rotate the shoulders to project forward, guiding the sleeve through a controlled breakfall.",
+      "sectionTitle": "Te-waza"
+    },
+    "es": {
+      "title": "Seoi Nage",
+      "description": "1. Desde el control de manga y solapa, atrae al compañero hacia delante y gira bajo el brazo controlado con las rodillas flexionadas.\n2. Coloca las caderas por debajo del centro del compañero y carga su torso sobre tu espalda manteniendo firme el brazo que tira.\n3. Extiende las piernas y gira los hombros para proyectar hacia delante, guiando la manga durante una caída controlada.",
+      "sectionTitle": "Te-waza"
+    },
+    "pt": {
+      "title": "Seoi Nage",
+      "description": "1. Do controle de manga e lapela, puxe o parceiro para a frente e gire sob o braço controlado com os joelhos dobrados.\n2. Coloque os quadris abaixo do centro do parceiro e carregue o tronco dele sobre suas costas, mantendo firme o braço que puxa.\n3. Estenda as pernas e gire os ombros para projetar à frente, guiando a manga durante uma queda controlada.",
+      "sectionTitle": "Te-waza"
+    },
+    "fr": {
+      "title": "Seoi Nage",
+      "description": "1. Depuis le contrôle de la manche et du revers, attirez le partenaire vers l’avant et tournez sous le bras contrôlé, genoux fléchis.\n2. Placez les hanches sous le centre du partenaire et chargez son torse sur votre dos en gardant le bras de traction serré.\n3. Étendez les jambes et tournez les épaules pour projeter vers l’avant, en guidant la manche pendant une chute contrôlée.",
+      "sectionTitle": "Te-waza"
+    },
+    "de": {
+      "title": "Seoi Nage",
+      "description": "1. Ziehe aus dem Ärmel-Revers-Griff den Partner nach vorn und drehe dich mit gebeugten Knien unter den kontrollierten Arm.\n2. Bringe die Hüfte unter die Körpermitte des Partners und lade seinen Rumpf auf deinen Rücken, während der ziehende Arm eng bleibt.\n3. Strecke die Beine und drehe die Schultern zum Vorwärtswurf; führe dabei den Ärmel durch einen kontrollierten Fall.",
+      "sectionTitle": "Te-waza"
+    },
+    "it": {
+      "title": "Seoi Nage",
+      "description": "1. Dal controllo di manica e bavero, attira il compagno in avanti e ruota sotto il braccio controllato con le ginocchia piegate.\n2. Porta le anche sotto il centro del compagno e carica il suo busto sulla tua schiena, mantenendo stretto il braccio che tira.\n3. Distendi le gambe e ruota le spalle per proiettare in avanti, guidando la manica durante una caduta controllata.",
+      "sectionTitle": "Te-waza"
+    },
+    "zh-Hans": {
+      "title": "背负投",
+      "description": "1. 从袖领控制开始，将搭档拉向前方，屈膝转入其被控制的手臂下方。\n2. 将髋部置于搭档重心下方，让其躯干加载到背部，并保持拉拽手臂贴紧。\n3. 伸腿并转肩向前投出，握住袖口引导受控受身。",
+      "sectionTitle": "手技"
+    },
+    "ja": {
+      "title": "背負投",
+      "description": "1. 袖と襟の組み手から相手を前へ引き、膝を曲げて制御している腕の下へ回り込みます。\n2. 腰を相手の重心より低くし、引き手を締めたまま相手の胴体を背中に乗せます。\n3. 脚を伸ばして肩を回し前へ投げ、袖を導いて制御した受身につなげます。",
+      "sectionTitle": "手技"
+    },
+    "ko": {
+      "title": "세오이 나게",
+      "description": "1. 소매와 옷깃을 잡고 파트너를 앞으로 당긴 뒤 무릎을 굽혀 잡고 있는 팔 아래로 돌아 들어갑니다.\n2. 골반을 파트너의 무게중심 아래 두고 당기는 팔을 밀착한 채 파트너의 몸통을 등에 싣습니다.\n3. 다리를 펴고 어깨를 돌려 앞으로 메치며 소매로 통제된 낙법을 유도합니다.",
+      "sectionTitle": "손기술"
+    },
+    "th": {
+      "title": "เซโอนาเกะ",
+      "description": "1. จากการจับแขนเสื้อและปกเสื้อ ดึงคู่ฝึกไปข้างหน้าและหมุนเข้าใต้แขนที่ควบคุมโดยงอเข่า\n2. วางสะโพกต่ำกว่าจุดศูนย์กลางของคู่ฝึกและรับลำตัวไว้บนหลัง โดยรักษาแขนที่ดึงให้กระชับ\n3. เหยียดขาและหมุนไหล่เพื่อทุ่มไปข้างหน้า จับแขนเสื้อช่วยนำการล้มอย่างควบคุม",
+      "sectionTitle": "เทวาซะ"
+    },
+    "ru": {
+      "title": "Сэой-нагэ",
+      "description": "1. Из захвата рукава и отворота потяните партнёра вперёд и повернитесь под контролируемую руку с согнутыми коленями.\n2. Расположите бёдра ниже центра партнёра и загрузите его корпус на спину, плотно удерживая тянущую руку.\n3. Разогните ноги и поверните плечи для броска вперёд, направляя рукав во время контролируемой страховки.",
+      "sectionTitle": "Тэ-вадза"
+    },
+    "uk": {
+      "title": "Сеой-наге",
+      "description": "1. Із захвату рукава й відвороту потягніть партнера вперед і поверніться під контрольовану руку із зігнутими колінами.\n2. Розташуйте стегна нижче центра партнера й завантажте його тулуб на спину, щільно утримуючи руку, що тягне.\n3. Розігніть ноги й поверніть плечі для кидка вперед, спрямовуючи рукав під час контрольованого страхування.",
+      "sectionTitle": "Те-вадза"
+    }
+  }
+}

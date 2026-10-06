@@ -10,5 +10,67 @@
   "energyProfile": null,
   "section": "2 Structure",
   "availableFrom": "1.1.2",
-  "availableUntil": null
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Repeat",
+      "description": "1. Place Repeat before the first workout step that should loop.\n2. Add the steps that belong inside the repeated block.\n3. Close the block with End Repeat so the enclosed steps run again as configured.",
+      "sectionTitle": "Structure"
+    },
+    "es": {
+      "title": "Repetir",
+      "description": "1. Coloca Repetir antes del primer paso de la sesión que deba repetirse.\n2. Añade los pasos que pertenezcan al bloque repetido.\n3. Cierra el bloque con Fin de repetición para que los pasos incluidos vuelvan a ejecutarse según la configuración.",
+      "sectionTitle": "Estructura"
+    },
+    "pt": {
+      "title": "Repetir",
+      "description": "1. Coloque Repetir antes do primeiro passo do treino que deve ser repetido.\n2. Adicione os passos que pertencem ao bloco repetido.\n3. Feche o bloco com Fim da repetição para que os passos incluídos sejam executados novamente conforme a configuração.",
+      "sectionTitle": "Estrutura"
+    },
+    "fr": {
+      "title": "Répéter",
+      "description": "1. Placez Répéter avant la première étape de l’entraînement qui doit être répétée.\n2. Ajoutez les étapes appartenant au bloc à répéter.\n3. Fermez le bloc avec Fin de répétition pour que les étapes incluses soient exécutées à nouveau selon la configuration.",
+      "sectionTitle": "Structure"
+    },
+    "de": {
+      "title": "Wiederholen",
+      "description": "1. Setze Wiederholen vor den ersten Trainingsschritt, der wiederholt werden soll.\n2. Füge die Schritte hinzu, die in den Wiederholungsblock gehören.\n3. Schließe den Block mit Wiederholungsende, damit die eingeschlossenen Schritte wie eingestellt erneut ausgeführt werden.",
+      "sectionTitle": "Struktur"
+    },
+    "it": {
+      "title": "Ripeti",
+      "description": "1. Posiziona Ripeti prima del primo passaggio dell’allenamento da ripetere.\n2. Aggiungi i passaggi che appartengono al blocco ripetuto.\n3. Chiudi il blocco con Fine ripetizione affinché i passaggi inclusi vengano eseguiti di nuovo secondo la configurazione.",
+      "sectionTitle": "Struttura"
+    },
+    "zh-Hans": {
+      "title": "重复",
+      "description": "1. 将“重复”放在需要循环的第一个训练步骤之前。\n2. 添加属于重复区块的步骤。\n3. 用“结束重复”关闭区块，让其中的步骤按设置再次执行。",
+      "sectionTitle": "结构"
+    },
+    "ja": {
+      "title": "繰り返し",
+      "description": "1. 繰り返す最初のワークアウトステップの前に「繰り返し」を置きます。\n2. 繰り返すブロックに含めるステップを追加します。\n3. 「繰り返し終了」でブロックを閉じ、範囲内のステップが設定どおり再実行されるようにします。",
+      "sectionTitle": "構成"
+    },
+    "ko": {
+      "title": "반복",
+      "description": "1. 반복할 첫 운동 단계 앞에 반복을 배치합니다.\n2. 반복 블록에 포함할 단계를 추가합니다.\n3. 반복 끝으로 블록을 닫아 포함된 단계가 설정에 따라 다시 실행되도록 합니다.",
+      "sectionTitle": "구조"
+    },
+    "th": {
+      "title": "ทำซ้ำ",
+      "description": "1. วางทำซ้ำก่อนขั้นตอนแรกของการฝึกที่ต้องการวนซ้ำ\n2. เพิ่มขั้นตอนที่อยู่ภายในบล็อกที่จะทำซ้ำ\n3. ปิดบล็อกด้วยสิ้นสุดการทำซ้ำ เพื่อให้ขั้นตอนภายในทำงานอีกครั้งตามที่กำหนดไว้",
+      "sectionTitle": "โครงสร้าง"
+    },
+    "ru": {
+      "title": "Повтор",
+      "description": "1. Поместите «Повтор» перед первым шагом тренировки, который должен повторяться.\n2. Добавьте шаги, входящие в повторяемый блок.\n3. Закройте блок элементом «Конец повтора», чтобы шаги внутри выполнялись снова согласно настройкам.",
+      "sectionTitle": "Структура"
+    },
+    "uk": {
+      "title": "Повтор",
+      "description": "1. Розмістіть «Повтор» перед першим кроком тренування, який має повторюватися.\n2. Додайте кроки, що входять до повторюваного блоку.\n3. Закрийте блок елементом «Кінець повтору», щоб кроки всередині виконувалися знову згідно з налаштуваннями.",
+      "sectionTitle": "Структура"
+    }
+  }
 }

@@ -1,0 +1,89 @@
+{
+  "id": "13.62",
+  "key": "strength_dumbbell_bench_press",
+  "title": "Dumbbell Bench Press",
+  "description": "1. Lie on a bench with feet planted and hold the dumbbells beside the chest with wrists over elbows.\n2. Press both dumbbells above the shoulders without letting them collide or the shoulders lift from the bench.\n3. Lower the upper arms through a controlled pain-free range, then begin the next press.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dumbbell Bench Press",
+      "description": "1. Lie on a bench with feet planted and hold the dumbbells beside the chest with wrists over elbows.\n2. Press both dumbbells above the shoulders without letting them collide or the shoulders lift from the bench.\n3. Lower the upper arms through a controlled pain-free range, then begin the next press.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Press de banca con mancuernas",
+      "description": "1. Túmbate en un banco con los pies firmes y sujeta las mancuernas junto al pecho con las muñecas sobre los codos.\n2. Empuja ambas mancuernas por encima de los hombros sin que choquen ni los hombros se separen del banco.\n3. Baja los brazos por un recorrido controlado y sin dolor y luego inicia el siguiente empuje.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Supino com halteres",
+      "description": "1. Deite-se em um banco com os pés firmes e segure os halteres ao lado do peito com os punhos sobre os cotovelos.\n2. Empurre os dois halteres acima dos ombros sem deixá-los bater nem tirar os ombros do banco.\n3. Abaixe os braços por uma amplitude controlada e sem dor e depois inicie o próximo empurrão.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Développé couché avec haltères",
+      "description": "1. Allongez-vous sur un banc, pieds ancrés, et tenez les haltères près de la poitrine, poignets au-dessus des coudes.\n2. Poussez les deux haltères au-dessus des épaules sans les entrechoquer ni décoller les épaules du banc.\n3. Redescendez les bras sur une amplitude contrôlée et sans douleur, puis enchaînez la poussée suivante.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Bankdrücken mit Kurzhanteln",
+      "description": "1. Lege dich mit festem Fußstand auf eine Bank und halte die Kurzhanteln neben der Brust, Handgelenke über den Ellbogen.\n2. Drücke beide Kurzhanteln über die Schultern, ohne dass sie zusammenstoßen oder sich die Schultern von der Bank lösen.\n3. Senke die Oberarme durch einen kontrollierten, schmerzfreien Bewegungsumfang und beginne dann die nächste Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Panca piana con manubri",
+      "description": "1. Sdraiati su una panca con i piedi ben piantati e tieni i manubri accanto al petto con i polsi sopra i gomiti.\n2. Spingi entrambi i manubri sopra le spalle senza farli scontrare né staccare le spalle dalla panca.\n3. Abbassa le braccia lungo un’escursione controllata e senza dolore, poi inizia la spinta successiva.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃卧推",
+      "description": "1. 仰卧在凳上，双脚踩稳，将哑铃握于胸部两侧，手腕位于肘部正上方。\n2. 将两只哑铃推至肩部上方，不要让哑铃相撞，肩部也不要离开凳面。\n3. 在受控且无痛的幅度内下放上臂，然后开始下一次推起。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ダンベルベンチプレス",
+      "description": "1. ベンチに仰向けになって足を床につけ、手首を肘の真上にしてダンベルを胸の横で持ちます。\n2. ダンベル同士をぶつけず、肩をベンチから浮かせずに両方を肩の上へ押し上げます。\n3. 痛みのない範囲でコントロールしながら上腕を下ろし、次のプレスに入ります。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "덤벨 벤치 프레스",
+      "description": "1. 벤치에 누워 발을 바닥에 고정하고 손목을 팔꿈치 위에 둔 채 덤벨을 가슴 옆에 듭니다.\n2. 덤벨끼리 부딪치거나 어깨가 벤치에서 뜨지 않게 두 덤벨을 어깨 위로 밀어 올립니다.\n3. 통증 없는 범위에서 통제하며 위팔을 내린 뒤 다음 프레스를 시작합니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "เบนช์เพรสด้วยดัมเบล",
+      "description": "1. นอนบนม้านั่งโดยวางเท้ามั่นคง ถือดัมเบลไว้ข้างหน้าอกโดยให้ข้อมืออยู่เหนือศอก\n2. ดันดัมเบลทั้งสองขึ้นเหนือไหล่โดยไม่ให้ชนกันและไม่ให้ไหล่ยกจากม้านั่ง\n3. ลดต้นแขนลงในช่วงที่ควบคุมได้และไม่เจ็บ แล้วเริ่มดันครั้งถัดไป",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Жим гантелей лёжа",
+      "description": "1. Лягте на скамью, упритесь стопами в пол и держите гантели у груди, запястья над локтями.\n2. Выжмите обе гантели над плечами, не сталкивая их и не отрывая плечи от скамьи.\n3. Опускайте плечи в контролируемой безболезненной амплитуде, затем начинайте следующий жим.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Жим гантелей лежачи",
+      "description": "1. Ляжте на лаву, упріться стопами в підлогу й тримайте гантелі біля грудей, зап’ястя над ліктями.\n2. Вижміть обидві гантелі над плечима, не стикаючи їх і не відриваючи плечей від лави.\n3. Опускайте плечі в контрольованій безболісній амплітуді, потім починайте наступний жим.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

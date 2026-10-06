@@ -1,0 +1,92 @@
+{
+  "id": "1.17",
+  "key": "rear_body_hook",
+  "title": "Rear Body Hook",
+  "description": "1. From guard, lower with the knees and keep the lead hand protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the bent rear fist travels into the side of the torso.\n3. Reverse the rotation, return the fist to the cheek, and recover the original stance height.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "target": "body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Body Hook",
+      "description": "1. From guard, lower with the knees and keep the lead hand protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the bent rear fist travels into the side of the torso.\n3. Reverse the rotation, return the fist to the cheek, and recover the original stance height.",
+      "sectionTitle": "Beginner"
+    },
+    "es": {
+      "title": "Gancho trasero al cuerpo",
+      "description": "1. Desde la guardia, baja con las rodillas y protege la cara con la mano delantera.\n2. Pivota el pie trasero y gira la cadera trasera para que el puño trasero flexionado alcance el costado del torso.\n3. Invierte el giro, devuelve el puño a la mejilla y recupera la altura inicial de la postura.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Gancho de trás no corpo",
+      "description": "1. Da guarda, abaixe-se pelos joelhos e mantenha a mão da frente protegendo o rosto.\n2. Pivote o pé de trás e gire o quadril de trás para o punho de trás, com braço dobrado, atingir a lateral do tronco.\n3. Inverta a rotação, volte o punho à bochecha e recupere a altura original da base.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Crochet arrière au corps",
+      "description": "1. Depuis la garde, descendez en fléchissant les genoux, main avant protégeant le visage.\n2. Pivotez le pied arrière et tournez la hanche arrière pour que le poing arrière, bras fléchi, atteigne le côté du torse.\n3. Inversez la rotation, ramenez le poing à la joue et retrouvez la hauteur initiale de la position.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Hinterer Körperhaken",
+      "description": "1. Senke dich aus der Deckung über die Knie ab; die vordere Hand schützt das Gesicht.\n2. Drehe den hinteren Fuß und die hintere Hüfte, sodass die hintere Faust am gebeugten Arm zur Rumpfseite schlägt.\n3. Drehe zurück, bringe die Faust zur Wange und stelle die ursprüngliche Standhöhe wieder her.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Gancio posteriore al corpo",
+      "description": "1. Dalla guardia, abbassati con le ginocchia e proteggi il viso con la mano anteriore.\n2. Fai perno sul piede posteriore e ruota l’anca posteriore per portare il pugno posteriore, a braccio piegato, sul fianco del tronco.\n3. Inverti la rotazione, riporta il pugno alla guancia e recupera l’altezza iniziale della posizione.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "后手躯干摆拳",
+      "description": "1. 从防守位屈膝降低身体，前手保护面部。\n2. 以后脚转动并旋转后侧髋部，使弯臂的后拳击向躯干侧面。\n3. 反向旋转，拳头回到脸颊，恢复原来站姿高度。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "後ろ手のボディフック",
+      "description": "1. ガードから膝で体を下げ、前手で顔を守ります。\n2. 後ろ足を軸に後ろ側の腰を回し、腕を曲げた後ろの拳を胴体の側面へ打ちます。\n3. 逆に回転し、拳を頬へ戻して元の構えの高さに戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "뒷손 바디 훅",
+      "description": "1. 가드에서 무릎으로 몸을 낮추고 앞손으로 얼굴을 보호합니다.\n2. 뒷발을 축으로 뒤쪽 골반을 돌려 팔을 굽힌 뒷주먹을 몸통 옆으로 보냅니다.\n3. 반대로 회전하고 주먹을 뺨으로 되돌려 원래 자세 높이를 회복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ฮุกหลังลำตัว",
+      "description": "1. จากการ์ด ย่อตัวด้วยเข่าและให้มือหน้าป้องกันใบหน้า\n2. หมุนเท้าหลังและสะโพกหลังให้หมัดหลังที่งอแขนเคลื่อนเข้าด้านข้างลำตัว\n3. หมุนกลับ คืนหมัดข้างแก้ม และคืนความสูงเดิมของท่ายืน",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Задний боковой в корпус",
+      "description": "1. Из защиты опуститесь за счёт коленей, сохраняя переднюю руку у лица.\n2. Поверните заднюю стопу и заднее бедро, направляя кулак согнутой задней руки в боковую часть корпуса.\n3. Развернитесь обратно, верните кулак к щеке и восстановите исходную высоту стойки.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Задній боковий у корпус",
+      "description": "1. Із захисту опустіться за рахунок колін, зберігаючи передню руку біля обличчя.\n2. Поверніть задню стопу й заднє стегно, направляючи кулак зігнутої задньої руки в бічну частину корпуса.\n3. Розверніться назад, поверніть кулак до щоки й відновіть початкову висоту стійки.",
+      "sectionTitle": "База"
+    }
+  }
+}

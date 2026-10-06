@@ -1,0 +1,90 @@
+{
+  "id": "12.20",
+  "key": "bootcamp_push_up",
+  "title": "Push-Up",
+  "description": "1. Place the hands slightly wider than the shoulders and extend the legs into a straight high-plank position.\n2. Bend the elbows back about 30–45 degrees and lower the chest while the head, hips, and heels stay aligned.\n3. Press through both palms to straight arms without letting the hips sag or the lower back arch.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "3 Bootcamp",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Push-Up",
+      "description": "1. Place the hands slightly wider than the shoulders and extend the legs into a straight high-plank position.\n2. Bend the elbows back about 30–45 degrees and lower the chest while the head, hips, and heels stay aligned.\n3. Press through both palms to straight arms without letting the hips sag or the lower back arch.",
+      "sectionTitle": "Bootcamp"
+    },
+    "es": {
+      "title": "Flexión",
+      "description": "1. Coloca las manos un poco más abiertas que los hombros y extiende las piernas en una plancha alta recta.\n2. Flexiona los codos hacia atrás unos 30–45 grados y baja el pecho mientras la cabeza, las caderas y los talones permanecen alineados.\n3. Empuja con ambas palmas hasta estirar los brazos sin dejar que las caderas se hundan ni que la zona lumbar se arquee.",
+      "sectionTitle": "Bootcamp"
+    },
+    "pt": {
+      "title": "Flexão",
+      "description": "1. Posicione as mãos um pouco mais afastadas que os ombros e estenda as pernas em uma prancha alta reta.\n2. Dobre os cotovelos para trás cerca de 30–45 graus e abaixe o peito enquanto cabeça, quadris e calcanhares permanecem alinhados.\n3. Empurre com as duas palmas até estender os braços sem deixar os quadris cederem nem a lombar arquear.",
+      "sectionTitle": "Bootcamp"
+    },
+    "fr": {
+      "title": "Pompe",
+      "description": "1. Placez les mains un peu plus écartées que les épaules et tendez les jambes en planche haute bien droite.\n2. Fléchissez les coudes vers l'arrière d'environ 30–45 degrés et abaissez la poitrine en gardant la tête, les hanches et les talons alignés.\n3. Poussez avec les deux paumes jusqu'à tendre les bras sans laisser les hanches s'affaisser ni le bas du dos se cambrer.",
+      "sectionTitle": "Bootcamp"
+    },
+    "de": {
+      "title": "Liegestütz",
+      "description": "1. Setze die Hände etwas breiter als schulterbreit auf und strecke die Beine in eine gerade hohe Planke.\n2. Beuge die Ellbogen etwa 30–45 Grad nach hinten und senke die Brust, während Kopf, Hüften und Fersen eine Linie bilden.\n3. Drücke dich über beide Handflächen bis zu gestreckten Armen hoch, ohne die Hüften durchhängen zu lassen oder den unteren Rücken ins Hohlkreuz zu bringen.",
+      "sectionTitle": "Bootcamp"
+    },
+    "it": {
+      "title": "Piegamento",
+      "description": "1. Posiziona le mani leggermente più larghe delle spalle ed estendi le gambe in un plank alto ben dritto.\n2. Piega i gomiti indietro di circa 30–45 gradi e abbassa il petto mantenendo testa, anche e talloni allineati.\n3. Spingi con entrambi i palmi fino a distendere le braccia senza lasciar cedere le anche né inarcare la zona lombare.",
+      "sectionTitle": "Bootcamp"
+    },
+    "zh-Hans": {
+      "title": "俯卧撑",
+      "description": "1. 双手撑地，略宽于肩，双腿伸直成笔直的高位平板支撑。\n2. 肘部向后弯曲约30–45度，下放胸部，同时头部、髋部和脚跟保持一条直线。\n3. 用双手掌心推起至手臂伸直，不要让髋部下沉或下背部拱起。",
+      "sectionTitle": "训练营"
+    },
+    "ja": {
+      "title": "腕立て伏せ",
+      "description": "1. 手を肩幅より少し広く置き、脚を伸ばしてまっすぐなハイプランクの姿勢をとります。\n2. 肘を約30～45度後方へ曲げ、頭・腰・かかとを一直線に保ったまま胸を下ろします。\n3. 腰を落としたり腰を反らせたりせず、両手のひらで床を押して腕を伸ばします。",
+      "sectionTitle": "ブートキャンプ"
+    },
+    "ko": {
+      "title": "푸시업",
+      "description": "1. 손을 어깨보다 약간 넓게 짚고 다리를 펴서 곧은 하이 플랭크 자세를 만듭니다.\n2. 팔꿈치를 뒤쪽으로 약 30–45도 굽히며 머리, 골반, 발뒤꿈치를 일직선으로 유지한 채 가슴을 내립니다.\n3. 골반이 처지거나 허리가 젖혀지지 않도록 하면서 양 손바닥으로 밀어 팔을 끝까지 폅니다.",
+      "sectionTitle": "부트캠프"
+    },
+    "th": {
+      "title": "วิดพื้น",
+      "description": "1. วางมือกว้างกว่าไหล่เล็กน้อย และเหยียดขาให้อยู่ในท่าแพลงก์สูงที่ตรง\n2. งอศอกไปด้านหลังประมาณ 30–45 องศา แล้วลดหน้าอกลง โดยให้ศีรษะ สะโพก และส้นเท้าอยู่ในแนวเดียวกัน\n3. ดันผ่านฝ่ามือทั้งสองข้างจนแขนเหยียดตรง โดยไม่ปล่อยให้สะโพกตกหรือหลังส่วนล่างแอ่น",
+      "sectionTitle": "บูตแคมป์"
+    },
+    "ru": {
+      "title": "Отжимание",
+      "description": "1. Поставьте ладони чуть шире плеч и выпрямите ноги в ровную высокую планку.\n2. Сгибайте локти назад примерно на 30–45 градусов и опускайте грудь, сохраняя голову, таз и пятки на одной линии.\n3. Оттолкнитесь обеими ладонями до прямых рук, не допуская провисания таза и прогиба в пояснице.",
+      "sectionTitle": "Буткемп"
+    },
+    "uk": {
+      "title": "Віджимання",
+      "description": "1. Поставте долоні трохи ширше за плечі й випряміть ноги в рівну високу планку.\n2. Згинайте лікті назад приблизно на 30–45 градусів і опускайте груди, зберігаючи голову, таз і п'яти на одній лінії.\n3. Відштовхніться обома долонями до прямих рук, не допускаючи провисання таза й прогину в попереку.",
+      "sectionTitle": "Буткемп"
+    }
+  }
+}

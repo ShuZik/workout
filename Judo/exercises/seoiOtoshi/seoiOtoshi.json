@@ -1,0 +1,90 @@
+{
+  "id": "41.31",
+  "key": "judo_seoi_otoshi",
+  "title": "Seoi Otoshi",
+  "description": "1. Enter as for a shoulder throw, turning under the controlled arm with the partner loaded onto the back.\n2. Drop one or both knees close to the partner's feet while the leg blocks the partner's shin and the pull continues forward.\n3. Rotate the shoulders down and around to drop the partner over, guiding the sleeve to a controlled breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Te-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Seoi Otoshi",
+      "description": "1. Enter as for a shoulder throw, turning under the controlled arm with the partner loaded onto the back.\n2. Drop one or both knees close to the partner's feet while the leg blocks the partner's shin and the pull continues forward.\n3. Rotate the shoulders down and around to drop the partner over, guiding the sleeve to a controlled breakfall.",
+      "sectionTitle": "Te-waza"
+    },
+    "es": {
+      "title": "Seoi Otoshi",
+      "description": "1. Entra como para una proyección de hombro, girando bajo el brazo controlado con el compañero cargado sobre la espalda.\n2. Baja una o ambas rodillas cerca de los pies del compañero mientras la pierna bloquea su espinilla y el tirón continúa hacia delante.\n3. Gira los hombros hacia abajo y alrededor para hacer caer al compañero, guiando la manga hasta una caída controlada.",
+      "sectionTitle": "Te-waza"
+    },
+    "pt": {
+      "title": "Seoi Otoshi",
+      "description": "1. Entre como para uma projeção de ombro, girando sob o braço controlado com o parceiro carregado nas costas.\n2. Baixe um ou ambos os joelhos perto dos pés do parceiro enquanto a perna bloqueia a canela dele e a puxada continua para a frente.\n3. Gire os ombros para baixo e ao redor para derrubar o parceiro, guiando a manga até uma queda controlada.",
+      "sectionTitle": "Te-waza"
+    },
+    "fr": {
+      "title": "Seoi Otoshi",
+      "description": "1. Entrez comme pour une projection d’épaule, en pivotant sous le bras contrôlé avec le partenaire chargé sur le dos.\n2. Descendez un ou deux genoux près des pieds du partenaire pendant que la jambe bloque son tibia et que la traction continue vers l’avant.\n3. Tournez les épaules vers le bas et autour pour faire tomber le partenaire, en guidant la manche vers une chute contrôlée.",
+      "sectionTitle": "Te-waza"
+    },
+    "de": {
+      "title": "Seoi Otoshi",
+      "description": "1. Tritt wie bei einem Schulterwurf ein und drehe dich unter den kontrollierten Arm, den Partner auf dem Rücken geladen.\n2. Senke ein oder beide Knie nahe den Füßen des Partners, während das Bein sein Schienbein blockiert und der Zug nach vorn weitergeht.\n3. Drehe die Schultern nach unten und herum, um den Partner fallen zu lassen, und führe den Ärmel zu einem kontrollierten Fall.",
+      "sectionTitle": "Te-waza"
+    },
+    "it": {
+      "title": "Seoi Otoshi",
+      "description": "1. Entra come per una proiezione di spalla, ruotando sotto il braccio controllato con il compagno caricato sulla schiena.\n2. Abbassa uno o entrambi i ginocchi vicino ai piedi del compagno mentre la gamba blocca il suo stinco e la trazione continua in avanti.\n3. Ruota le spalle verso il basso e attorno per far cadere il compagno, guidando la manica verso una caduta controllata.",
+      "sectionTitle": "Te-waza"
+    },
+    "zh-Hans": {
+      "title": "背负落",
+      "description": "1. 像背负投一样进入，在被控制的手臂下转身，把搭档背在背上。\n2. 单膝或双膝跪向搭档脚边，同时用腿挡住其小腿，继续向前拉。\n3. 肩部向下并绕转，使搭档越过落下，引导袖口完成受控倒地。",
+      "sectionTitle": "手技"
+    },
+    "ja": {
+      "title": "背負落",
+      "description": "1. 背負投と同様に入り、制した腕の下で回って相手を背中に乗せます。\n2. 片膝または両膝を相手の足の近くに落とし、脚で相手のすねを止めながら前方への引きを続けます。\n3. 肩を下へ回して相手を落とし、袖を導いて制御された受身をとらせます。",
+      "sectionTitle": "手技"
+    },
+    "ko": {
+      "title": "세오이 오토시",
+      "description": "1. 어깨 던지기처럼 들어가 통제한 팔 아래로 돌며 파트너를 등에 싣습니다.\n2. 한쪽 또는 양쪽 무릎을 파트너 발 가까이 내리고 다리로 정강이를 막으며 앞으로 계속 당깁니다.\n3. 어깨를 아래로 돌려 파트너를 떨어뜨리고 소매를 이끌어 통제된 낙법을 하게 합니다.",
+      "sectionTitle": "손기술"
+    },
+    "th": {
+      "title": "เซโออิโอโตชิ",
+      "description": "1. เข้าเหมือนทุ่มข้ามไหล่ หมุนตัวใต้แขนที่ควบคุมไว้โดยให้คู่ฝึกอยู่บนหลัง\n2. คุกเข่าข้างเดียวหรือทั้งสองข้างใกล้เท้าคู่ฝึก ขณะที่ขาขวางหน้าแข้งไว้และดึงไปข้างหน้าต่อ\n3. หมุนไหล่ลงและอ้อมเพื่อทุ่มคู่ฝึกลง พร้อมนำแขนเสื้อให้ล้มอย่างควบคุมได้",
+      "sectionTitle": "เทวาซะ"
+    },
+    "ru": {
+      "title": "Сэой-отоси",
+      "description": "1. Войдите как для броска через спину, разворачиваясь под контролируемой рукой и нагружая партнёра на спину.\n2. Опуститесь на одно или оба колена у стоп партнёра, блокируя ногой его голень и продолжая тянуть вперёд.\n3. Поверните плечи вниз и в сторону, опрокидывая партнёра, и направляйте рукав к контролируемой страховке.",
+      "sectionTitle": "Тэ-вадза"
+    },
+    "uk": {
+      "title": "Сеой-отосі",
+      "description": "1. Увійдіть як для кидка через спину, розвертаючись під контрольованою рукою й навантажуючи партнера на спину.\n2. Опустіться на одне або обидва коліна біля стоп партнера, блокуючи ногою його гомілку й продовжуючи тягнути вперед.\n3. Поверніть плечі вниз і вбік, перекидаючи партнера, і спрямовуйте рукав до контрольованої страховки.",
+      "sectionTitle": "Те-вадза"
+    }
+  }
+}

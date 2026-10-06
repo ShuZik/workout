@@ -1,0 +1,90 @@
+{
+  "id": "10.4",
+  "key": "walking_recovery",
+  "title": "Walking Recovery",
+  "description": "1. Walk with short easy steps and let the arms swing loosely.\n2. Reduce the pace every few minutes while inhaling through the nose and exhaling without strain.\n3. Continue until conversation and breathing feel comfortable, then stop gradually.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 5.5,
+    "lightCode": "17152",
+    "moderateCode": "17190",
+    "vigorousCode": "17220"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Active Rest",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Walking Recovery",
+      "description": "1. Walk with short easy steps and let the arms swing loosely.\n2. Reduce the pace every few minutes while inhaling through the nose and exhaling without strain.\n3. Continue until conversation and breathing feel comfortable, then stop gradually.",
+      "sectionTitle": "Active Rest"
+    },
+    "es": {
+      "title": "Recuperación caminando",
+      "description": "1. Camina con pasos cortos y suaves y deja que los brazos se balanceen relajados.\n2. Reduce el ritmo cada pocos minutos mientras inhalas por la nariz y exhalas sin esfuerzo.\n3. Continúa hasta que hablar y respirar resulte cómodo y después detente gradualmente.",
+      "sectionTitle": "Descanso activo"
+    },
+    "pt": {
+      "title": "Recuperação caminhando",
+      "description": "1. Caminhe com passos curtos e leves e deixe os braços balançarem soltos.\n2. Reduza o ritmo a cada poucos minutos enquanto inspira pelo nariz e expira sem esforço.\n3. Continue até conversar e respirar ficarem confortáveis e depois pare gradualmente.",
+      "sectionTitle": "Descanso ativo"
+    },
+    "fr": {
+      "title": "Récupération en marchant",
+      "description": "1. Marchez avec de petits pas faciles et laissez les bras se balancer librement.\n2. Réduisez le rythme toutes les quelques minutes en inspirant par le nez et en expirant sans effort.\n3. Continuez jusqu’à ce que parler et respirer soit confortable, puis arrêtez-vous progressivement.",
+      "sectionTitle": "Repos actif"
+    },
+    "de": {
+      "title": "Erholung beim Gehen",
+      "description": "1. Gehe mit kurzen, lockeren Schritten und lasse die Arme entspannt schwingen.\n2. Reduziere das Tempo alle paar Minuten, während du durch die Nase einatmest und ohne Anstrengung ausatmest.\n3. Gehe weiter, bis Sprechen und Atmen angenehm sind, und halte dann allmählich an.",
+      "sectionTitle": "Aktive Erholung"
+    },
+    "it": {
+      "title": "Recupero camminando",
+      "description": "1. Cammina con passi corti e facili e lascia oscillare le braccia rilassate.\n2. Riduci il ritmo ogni pochi minuti inspirando dal naso ed espirando senza sforzo.\n3. Continua finché parlare e respirare risulta confortevole, poi fermati gradualmente.",
+      "sectionTitle": "Riposo attivo"
+    },
+    "zh-Hans": {
+      "title": "步行恢复",
+      "description": "1. 用短而轻松的步伐行走，让双臂放松摆动。\n2. 每隔几分钟放慢节奏，同时通过鼻子吸气，不费力地呼气。\n3. 持续到交谈和呼吸都感觉舒适，再逐渐停下。",
+      "sectionTitle": "积极休息"
+    },
+    "ja": {
+      "title": "歩行での回復",
+      "description": "1. 短く楽な歩幅で歩き、腕をゆったり振ります。\n2. 鼻から吸って無理なく吐きながら、数分ごとにペースを落とします。\n3. 会話と呼吸が楽になるまで続け、その後徐々に止まります。",
+      "sectionTitle": "アクティブレスト"
+    },
+    "ko": {
+      "title": "걷기 회복",
+      "description": "1. 짧고 편안한 걸음으로 걷고 팔을 느슨하게 흔듭니다.\n2. 코로 들이쉬고 무리 없이 내쉬며 몇 분마다 속도를 줄입니다.\n3. 대화와 호흡이 편안해질 때까지 이어간 뒤 서서히 멈춥니다.",
+      "sectionTitle": "활동적 휴식"
+    },
+    "th": {
+      "title": "การเดินเพื่อฟื้นตัว",
+      "description": "1. เดินด้วยก้าวสั้นสบาย ๆ และปล่อยแขนแกว่งอย่างผ่อนคลาย\n2. ลดจังหวะทุกสองสามนาที ขณะหายใจเข้าทางจมูกและหายใจออกโดยไม่ฝืน\n3. ทำต่อจนพูดคุยและหายใจได้สบาย แล้วค่อย ๆ หยุด",
+      "sectionTitle": "การพักแบบเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Восстановительная ходьба",
+      "description": "1. Идите короткими лёгкими шагами, свободно двигая руками.\n2. Снижайте темп каждые несколько минут, вдыхая через нос и выдыхая без напряжения.\n3. Продолжайте, пока разговор и дыхание не станут комфортными, затем постепенно остановитесь.",
+      "sectionTitle": "Активный отдых"
+    },
+    "uk": {
+      "title": "Відновлювальна ходьба",
+      "description": "1. Ідіть короткими легкими кроками, вільно рухаючи руками.\n2. Знижуйте темп кожні кілька хвилин, вдихаючи через ніс і видихаючи без напруження.\n3. Продовжуйте, доки розмова й дихання не стануть комфортними, потім поступово зупиніться.",
+      "sectionTitle": "Активний відпочинок"
+    }
+  }
+}

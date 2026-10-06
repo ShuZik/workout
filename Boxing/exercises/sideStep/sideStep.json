@@ -1,0 +1,91 @@
+{
+  "id": "1.39",
+  "key": "side_step",
+  "title": "Side Step",
+  "description": "1. Begin in boxing stance and keep the knees soft, chin tucked, and hands at guard.\n2. Move left by stepping the left foot first and move right by stepping the right foot first.\n3. Follow with the opposite foot to restore the same stance width without crossing the legs or bouncing upright.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 5.8,
+    "vigorous": 7,
+    "lightCode": "15425",
+    "moderateCode": "15110",
+    "vigorousCode": "15113"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "2 Base",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Side Step",
+      "description": "1. Begin in boxing stance and keep the knees soft, chin tucked, and hands at guard.\n2. Move left by stepping the left foot first and move right by stepping the right foot first.\n3. Follow with the opposite foot to restore the same stance width without crossing the legs or bouncing upright.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Paso lateral",
+      "description": "1. Empieza en postura de boxeo con rodillas flexibles, mentón recogido y manos en guardia.\n2. Para ir a la izquierda, mueve primero el pie izquierdo; para ir a la derecha, el derecho.\n3. Sigue con el pie contrario para recuperar la misma anchura de postura sin cruzar las piernas ni saltar erguido.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Passo lateral",
+      "description": "1. Comece na base de boxe com joelhos relaxados, queixo recolhido e mãos na guarda.\n2. Vá para a esquerda movendo primeiro o pé esquerdo e para a direita movendo primeiro o direito.\n3. Acompanhe com o outro pé para recuperar a mesma largura da base, sem cruzar as pernas nem saltar para cima.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Pas latéral",
+      "description": "1. Commencez en position de boxe, genoux souples, menton rentré et mains en garde.\n2. Pour aller à gauche, déplacez d’abord le pied gauche ; pour aller à droite, déplacez d’abord le pied droit.\n3. Faites suivre l’autre pied pour retrouver la même largeur de position sans croiser les jambes ni vous redresser en bondissant.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Seitwärtsschritt",
+      "description": "1. Beginne im Boxstand mit lockeren Knien, eingezogenem Kinn und Händen in der Deckung.\n2. Gehe nach links, indem du zuerst den linken Fuß bewegst, und nach rechts mit dem rechten Fuß zuerst.\n3. Ziehe den anderen Fuß nach, um dieselbe Standbreite wiederherzustellen, ohne die Beine zu kreuzen oder aufrecht hochzufedern.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Passo laterale",
+      "description": "1. Parti dalla posizione di pugilato con ginocchia morbide, mento rientrato e mani in guardia.\n2. Vai a sinistra muovendo prima il piede sinistro e a destra muovendo prima quello destro.\n3. Segui con l’altro piede per recuperare la stessa larghezza della posizione, senza incrociare le gambe o rimbalzare in posizione eretta.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "侧移步",
+      "description": "1. 从拳击站姿开始，膝盖放松，下巴内收，双手保持防守。\n2. 向左移动时先动左脚，向右移动时先动右脚。\n3. 另一只脚跟进以恢复相同站距，不要交叉双腿或向上弹起。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "サイドステップ",
+      "description": "1. ボクシングの構えで膝を柔らかく、顎を引き、手をガードに置きます。\n2. 左へ動くときは左足を先に、右へ動くときは右足を先に動かします。\n3. 反対の足を追従させて同じ足幅に戻し、脚を交差させたり上へ跳ねて直立したりしないようにします。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "사이드 스텝",
+      "description": "1. 복싱 자세에서 무릎을 부드럽게 유지하고 턱을 당기며 손을 가드에 둡니다.\n2. 왼쪽으로 갈 때는 왼발을 먼저, 오른쪽으로 갈 때는 오른발을 먼저 움직입니다.\n3. 반대 발을 따라 움직여 원래 발 간격을 회복하고 다리를 교차하거나 위로 튀어 올라 몸을 펴지 않습니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ก้าวด้านข้าง",
+      "description": "1. เริ่มในท่ายืนมวยสากล ผ่อนเข่า เก็บคาง และวางมือในการ์ด\n2. ไปทางซ้ายโดยก้าวเท้าซ้ายก่อน และไปทางขวาโดยก้าวเท้าขวาก่อน\n3. ขยับอีกเท้าตามเพื่อคืนระยะห่างเดิม โดยไม่ไขว้ขาหรือเด้งตัวขึ้นจนยืนตรง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Шаг в сторону",
+      "description": "1. Начните в боксёрской стойке с мягкими коленями, опущенным подбородком и руками в защите.\n2. Для движения влево сначала шагните левой стопой, для движения вправо — правой.\n3. Подтяните противоположную стопу, восстанавливая прежнюю ширину стойки, не скрещивая ноги и не подпрыгивая с выпрямлением тела.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Крок убік",
+      "description": "1. Почніть у боксерській стійці з м’якими колінами, опущеним підборіддям і руками в захисті.\n2. Для руху ліворуч спочатку крокніть лівою стопою, для руху праворуч — правою.\n3. Підтягніть протилежну стопу, відновлюючи попередню ширину стійки, не схрещуючи ноги й не підстрибуючи з випрямленням тіла.",
+      "sectionTitle": "База"
+    }
+  }
+}

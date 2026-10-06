@@ -7,13 +7,103 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
-    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 5 },
-    { "id": "neck", "exerciseID": "10.33", "kind": "timed", "durationSeconds": 45 },
-    { "id": "shoulders", "exerciseID": "10.6", "kind": "timed", "durationSeconds": 45 },
-    { "id": "hips", "exerciseID": "10.10", "kind": "timed", "durationSeconds": 60 },
-    { "id": "child", "exerciseID": "10.32", "kind": "timed", "durationSeconds": 75 },
-    { "id": "forward-fold", "exerciseID": "24.7", "kind": "timed", "durationSeconds": 60 },
-    { "id": "body-scan", "exerciseID": "19.43", "kind": "timed", "durationSeconds": 180 },
-    { "id": "sleep", "exerciseID": "19.3", "kind": "timed", "durationSeconds": 180 }
-  ]
+    {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
+      "id": "neck",
+      "exerciseID": "10.33",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "shoulders",
+      "exerciseID": "10.6",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "hips",
+      "exerciseID": "10.10",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "child",
+      "exerciseID": "10.32",
+      "kind": "timed",
+      "durationSeconds": 75
+    },
+    {
+      "id": "forward-fold",
+      "exerciseID": "24.7",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "body-scan",
+      "exerciseID": "19.43",
+      "kind": "timed",
+      "durationSeconds": 180
+    },
+    {
+      "id": "sleep",
+      "exerciseID": "19.3",
+      "kind": "timed",
+      "durationSeconds": 180
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "Evening Unwind",
+      "description": "Slow stretching and a sleep meditation to let the day settle."
+    },
+    "es": {
+      "title": "Relajación nocturna",
+      "description": "Estiramientos lentos y una meditación para dormir que ayudan a cerrar el día."
+    },
+    "pt": {
+      "title": "Relaxamento à noite",
+      "description": "Alongamentos lentos e uma meditação para dormir para desacelerar ao fim do dia."
+    },
+    "fr": {
+      "title": "Détente du soir",
+      "description": "Des étirements lents et une méditation pour le sommeil afin de terminer la journée en douceur."
+    },
+    "de": {
+      "title": "Abendliche Entspannung",
+      "description": "Langsames Dehnen und eine Schlafmeditation, um den Tag ausklingen zu lassen."
+    },
+    "it": {
+      "title": "Rilassamento serale",
+      "description": "Stretching lento e una meditazione per il sonno per concludere la giornata con calma."
+    },
+    "zh-Hans": {
+      "title": "晚间放松",
+      "description": "缓慢伸展与睡眠冥想，让一天平静结束。"
+    },
+    "ja": {
+      "title": "夜のリラックス",
+      "description": "ゆっくりとしたストレッチと睡眠のための瞑想で、一日を穏やかに締めくくります。"
+    },
+    "ko": {
+      "title": "저녁 이완",
+      "description": "느린 스트레칭과 수면 명상으로 하루를 차분하게 마무리합니다."
+    },
+    "th": {
+      "title": "ผ่อนคลายยามเย็น",
+      "description": "ยืดเหยียดช้า ๆ และทำสมาธิก่อนนอน เพื่อปล่อยให้วันค่อย ๆ สงบลง"
+    },
+    "ru": {
+      "title": "Вечернее расслабление",
+      "description": "Медленная растяжка и медитация перед сном, чтобы спокойно завершить день."
+    },
+    "uk": {
+      "title": "Вечірнє розслаблення",
+      "description": "Повільне розтягування та медитація перед сном, щоб спокійно завершити день."
+    }
+  }
 }

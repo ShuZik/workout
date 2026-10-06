@@ -1,0 +1,87 @@
+{
+  "id": "92.1",
+  "key": "shuai_jiao",
+  "title": "Shuai Jiao",
+  "description": "1. Begin standing on mats with a trained partner in jackets and belts, taking sleeve, collar, or belt grips.\n2. Drill footwork, grip fighting, and quick standing throws and sweeps that unbalance the partner.\n3. Guide each throw to a controlled landing, stop when the partner touches down, and reset standing.",
+  "colorType": "red",
+  "workoutType": "shuaiJiao",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Shuai Jiao",
+      "description": "1. Begin standing on mats with a trained partner in jackets and belts, taking sleeve, collar, or belt grips.\n2. Drill footwork, grip fighting, and quick standing throws and sweeps that unbalance the partner.\n3. Guide each throw to a controlled landing, stop when the partner touches down, and reset standing.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Shuai Jiao",
+      "description": "1. Comienza de pie sobre el tatami con un compañero entrenado con chaqueta y cinturón, tomando agarres de manga, cuello o cinturón.\n2. Practica desplazamientos, lucha de agarres y proyecciones y barridos rápidos de pie que desequilibren al compañero.\n3. Guía cada proyección a una caída controlada, detente cuando el compañero toque el suelo y reinicia de pie.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Shuai Jiao",
+      "description": "1. Comece de pé no tatame com um parceiro treinado de jaqueta e cinto, pegando na manga, na gola ou no cinto.\n2. Treine deslocamentos, briga de pegada e projeções e varridas rápidas em pé que desequilibrem o parceiro.\n3. Conduza cada projeção a uma queda controlada, pare quando o parceiro tocar o chão e recomece de pé.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Shuai Jiao",
+      "description": "1. Commencez debout sur le tapis avec un partenaire entraîné en veste et ceinture, en saisissant manche, col ou ceinture.\n2. Travaillez déplacements, combat de saisie et projections et balayages rapides debout qui déséquilibrent le partenaire.\n3. Guidez chaque projection vers une chute contrôlée, arrêtez quand le partenaire touche le sol et repartez debout.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Shuai Jiao",
+      "description": "1. Beginne stehend auf der Matte mit einem geübten Partner in Jacke und Gürtel und greife Ärmel, Kragen oder Gürtel.\n2. Übe Beinarbeit, Griffkampf und schnelle Standwürfe und Fußfeger, die den Partner aus dem Gleichgewicht bringen.\n3. Führe jeden Wurf in eine kontrollierte Landung, stoppe, wenn der Partner den Boden berührt, und beginne stehend neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Shuai Jiao",
+      "description": "1. Inizia in piedi sul tatami con un partner allenato in giacca e cintura, prendendo manica, colletto o cintura.\n2. Allena spostamenti, lotta per la presa e proiezioni e spazzate rapide in piedi che sbilancino il partner.\n3. Guida ogni proiezione a una caduta controllata, fermati quando il partner tocca terra e riparti in piedi.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "中国式摔跤",
+      "description": "1. 与穿褡裢和腰带的训练有素的同伴站在垫上开始，抓袖、领或腰带。\n2. 练习步法、把位争夺，以及使同伴失衡的快速站立摔法和扫腿。\n3. 引导每次摔投平稳落地，同伴触地即停，站立重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "シュアイジャオ",
+      "description": "1. 上着と帯を着けた熟練のパートナーとマット上に立ち、袖、襟、帯を持って始めます。\n2. 足さばき、組み手争い、相手を崩す素早い立ち投げと足払いを練習します。\n3. すべての投げを制御された着地に導き、相手が接地したら止め、立って再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "솨이자오",
+      "description": "1. 상의와 띠를 착용한 숙련된 파트너와 매트에 서서 소매, 깃 또는 띠를 잡고 시작합니다.\n2. 발놀림, 그립 싸움, 파트너의 균형을 무너뜨리는 빠른 선 자세 메치기와 쓸기를 연습합니다.\n3. 모든 메치기를 통제된 착지로 이끌고 파트너가 바닥에 닿으면 멈춘 뒤 선 자세로 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ซ่วยเจียว",
+      "description": "1. เริ่มยืนบนเบาะกับคู่ฝึกที่ผ่านการฝึกซึ่งสวมเสื้อและเข็มขัด จับแขนเสื้อ ปก หรือเข็มขัด\n2. ฝึกฟุตเวิร์ก การแย่งจับ และการทุ่มกับกวาดขาในท่ายืนอย่างรวดเร็วเพื่อทำลายสมดุลของคู่ฝึก\n3. นำทุกการทุ่มให้ลงพื้นอย่างควบคุม หยุดเมื่อคู่ฝึกแตะพื้น แล้วเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Шуай-цзяо",
+      "description": "1. Начните стоя на ковре с подготовленным партнёром в куртках и поясах, беря захваты за рукав, ворот или пояс.\n2. Отрабатывайте передвижения, борьбу за захват и быстрые броски и подсечки в стойке, выводящие партнёра из равновесия.\n3. Доводите каждый бросок до контролируемого приземления, останавливайтесь при касании партнёром земли и начинайте снова в стойке.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Шуай-цзяо",
+      "description": "1. Почніть стоячи на килимі з підготовленим партнером у куртках і поясах, беручи захвати за рукав, комір або пояс.\n2. Відпрацьовуйте пересування, боротьбу за захват і швидкі кидки та підсічки в стійці, що виводять партнера з рівноваги.\n3. Доводьте кожен кидок до контрольованого приземлення, зупиняйтеся, коли партнер торкнеться землі, і починайте знову в стійці.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

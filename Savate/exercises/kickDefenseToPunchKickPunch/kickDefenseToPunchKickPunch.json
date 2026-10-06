@@ -1,0 +1,90 @@
+{
+  "id": "89.8",
+  "key": "savate_kick_defense_counter",
+  "title": "Kick Defense to Punch-Kick-Punch",
+  "description": "1. The partner attacks with one agreed kick at controlled speed while you hold guard.\n2. Parry or evade the kick, then reply at once with a punch-kick-punch sequence.\n3. Keep the counter light, return to guard, and swap roles after several repetitions.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kick Defense to Punch-Kick-Punch",
+      "description": "1. The partner attacks with one agreed kick at controlled speed while you hold guard.\n2. Parry or evade the kick, then reply at once with a punch-kick-punch sequence.\n3. Keep the counter light, return to guard, and swap roles after several repetitions.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Defensa de patada y respuesta puño-pie-puño",
+      "description": "1. El compañero ataca con una patada acordada a velocidad controlada mientras mantienes la guardia.\n2. Para o esquiva la patada y responde de inmediato con una secuencia puño-pie-puño.\n3. Mantén la respuesta ligera, vuelve a la guardia e intercambiad roles tras varias repeticiones.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Defesa de chute e resposta punho-pé-punho",
+      "description": "1. O parceiro ataca com um chute combinado em velocidade controlada enquanto você mantém a guarda.\n2. Apare ou esquive o chute e responda imediatamente com uma sequência punho-pé-punho.\n3. Mantenha a resposta leve, volte à guarda e troquem os papéis após várias repetições.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Défense sur pied, riposte poings-pieds-poings",
+      "description": "1. Le partenaire attaque avec un coup de pied convenu à vitesse contrôlée pendant que vous restez en garde.\n2. Parez ou esquivez le coup de pied, puis ripostez aussitôt par poings-pieds-poings.\n3. Gardez la riposte légère, revenez en garde et inversez les rôles après plusieurs répétitions.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Trittabwehr mit Konter Faust-Fuß-Faust",
+      "description": "1. Der Partner greift kontrolliert mit einem vereinbarten Tritt an, während du in Deckung bleibst.\n2. Pariere oder weiche dem Tritt aus und antworte sofort mit Faust-Fuß-Faust.\n3. Halte den Konter leicht, kehre in die Deckung zurück und tauscht nach einigen Wiederholungen die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Difesa sul calcio e risposta pugno-piede-pugno",
+      "description": "1. Il compagno attacca con un calcio concordato a velocità controllata mentre mantieni la guardia.\n2. Para o schiva il calcio e rispondi subito con una sequenza pugno-piede-pugno.\n3. Mantieni la risposta leggera, torna in guardia e scambiatevi i ruoli dopo alcune ripetizioni.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "防腿后拳-腿-拳反击",
+      "description": "1. 同伴以约定的腿法控速进攻，你保持防守势。\n2. 格挡或闪避这记腿法，随即以拳-腿-拳组合反击。\n3. 反击保持轻触，回到防守势，重复数次后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "蹴りへの防御から突き・蹴り・突き",
+      "description": "1. 構えたあなたに、パートナーが合意した蹴りを1本、コントロールした速度で出します。\n2. 蹴りをパリーまたはかわし、すぐに突き・蹴り・突きで返します。\n3. 反撃は軽く保ち、構えに戻り、数回ごとに役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "킥 방어 후 펀치-킥-펀치 반격",
+      "description": "1. 가드를 유지한 상태에서 파트너가 합의된 킥 하나를 통제된 속도로 공격합니다.\n2. 킥을 막거나 피한 뒤 즉시 펀치-킥-펀치로 반격합니다.\n3. 반격은 가볍게 하고 가드로 돌아오며 여러 번 반복 후 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ป้องกันลูกเตะแล้วสวนหมัด-เท้า-หมัด",
+      "description": "1. คู่ฝึกโจมตีด้วยลูก���ตะที่ตกลงไว้หนึ่งครั้งด้วยความเร็วที่ควบคุม ขณะคุณคงการ์ด\n2. ปัดหรือหลบลูกเตะ แล้วสวนทันทีด้วยชุดหมัด-เท้า-หมัด\n3. สวนเบา ๆ กลับสู่การ์ด และสลับบทบาทหลังทำซ้ำหลายครั้ง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Защита от удара ногой и ответ рука-нога-рука",
+      "description": "1. Партнёр атак��ет одним оговорённым ударом ногой на контролируемой скорости, вы держите стойку.\n2. Отбейте удар или уйдите от него и сразу ответьте связкой рука-нога-рука.\n3. Отвечайте легко, возвращайтесь в стойку и меняйтесь ролями после нескольких повторов.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Захист від удару ногою й відповідь рука-нога-рука",
+      "description": "1. Партнер атакує одним узгодженим ударом ногою на контрольованій швидкості, ви тримаєте стійку.\n2. Відбийте удар або ухиліться й одразу відповідайте зв’язкою рука-нога-рука.\n3. Відповідайте легко, повертайтеся в стійку й міняйтеся ролями після кількох повторень.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

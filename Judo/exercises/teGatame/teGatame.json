@@ -1,0 +1,90 @@
+{
+  "id": "41.103",
+  "key": "judo_te_gatame",
+  "title": "Te Gatame",
+  "description": "1. Control the partner's wrist with one hand and keep the arm straight with the palm turned up.\n2. Place the other hand or forearm against the back of the partner's elbow while staying close.\n3. Pull the wrist and press the elbow only gradually against the joint and release immediately at a tap.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "7 Groundwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Te Gatame",
+      "description": "1. Control the partner's wrist with one hand and keep the arm straight with the palm turned up.\n2. Place the other hand or forearm against the back of the partner's elbow while staying close.\n3. Pull the wrist and press the elbow only gradually against the joint and release immediately at a tap.",
+      "sectionTitle": "Groundwork"
+    },
+    "es": {
+      "title": "Te Gatame",
+      "description": "1. Controla la muñeca del compañero con una mano y mantén el brazo estirado con la palma hacia arriba.\n2. Coloca la otra mano o el antebrazo contra la parte posterior del codo del compañero mientras te mantienes cerca.\n3. Tira de la muñeca y presiona el codo solo de forma gradual contra la articulación y suelta de inmediato ante un golpe de rendición.",
+      "sectionTitle": "Trabajo en suelo"
+    },
+    "pt": {
+      "title": "Te Gatame",
+      "description": "1. Controle o punho do parceiro com uma mão e mantenha o braço estendido com a palma para cima.\n2. Coloque a outra mão ou o antebraço contra a parte de trás do cotovelo do parceiro, mantendo-se próximo.\n3. Puxe o punho e pressione o cotovelo apenas gradualmente contra a articulação e solte imediatamente a um toque de desistência.",
+      "sectionTitle": "Trabalho de solo"
+    },
+    "fr": {
+      "title": "Te Gatame",
+      "description": "1. Contrôlez le poignet du partenaire d’une main et gardez le bras tendu, paume vers le haut.\n2. Placez l’autre main ou l’avant-bras contre l’arrière de son coude en restant proche.\n3. Tirez le poignet et pressez le coude uniquement progressivement contre l’articulation, et relâchez immédiatement au tapotement.",
+      "sectionTitle": "Travail au sol"
+    },
+    "de": {
+      "title": "Te Gatame",
+      "description": "1. Kontrolliere das Handgelenk des Partners mit einer Hand und halte den Arm gestreckt, Handfläche nach oben.\n2. Lege die andere Hand oder den Unterarm an die Rückseite seines Ellbogens und bleibe nah.\n3. Ziehe am Handgelenk und drücke den Ellbogen nur allmählich gegen das Gelenk, und löse sofort bei Abklopfen.",
+      "sectionTitle": "Bodentechniken"
+    },
+    "it": {
+      "title": "Te Gatame",
+      "description": "1. Controlla il polso del compagno con una mano e mantieni il braccio teso con il palmo in alto.\n2. Metti l’altra mano o l’avambraccio contro il retro del suo gomito restando vicino.\n3. Tira il polso e premi il gomito solo gradualmente contro l’articolazione e rilascia subito al tap.",
+      "sectionTitle": "Lavoro a terra"
+    },
+    "zh-Hans": {
+      "title": "腕挫手固",
+      "description": "1. 一只手控制搭档手腕，使其手臂伸直、掌心朝上。\n2. 另一只手或前臂抵住搭档肘部后侧，保持贴近。\n3. 拉手腕、压肘部，只逐渐对关节施压，搭档拍击时立即松开。",
+      "sectionTitle": "寝技"
+    },
+    "ja": {
+      "title": "腕挫手固",
+      "description": "1. 片手で相手の手首を制し、手のひらを上にして腕を伸ばしたまま保ちます。\n2. 近くに位置したまま、もう一方の手または前腕を相手の肘の裏に当てます。\n3. 手首を引き肘を押して徐々にだけ関節に圧をかけ、タップで直ちに解きます。",
+      "sectionTitle": "寝技"
+    },
+    "ko": {
+      "title": "테 가타메",
+      "description": "1. 한 손으로 파트너 손목을 통제하고 손바닥이 위로 향한 채 팔을 펴 둡니다.\n2. 가까이 붙어 다른 손이나 전완을 파트너 팔꿈치 뒤에 댑니다.\n3. 손목을 당기고 팔꿈치를 눌러 관절에 서서히만 압력을 주며 탭하면 즉시 놓습니다.",
+      "sectionTitle": "굳히기"
+    },
+    "th": {
+      "title": "เทะกาตาเมะ",
+      "description": "1. ใช้มือข้างหนึ่งควบคุมข้อมือคู่ฝึก และให้แขนเหยียดตรงโดยหงายฝ่ามือ\n2. วางมืออีกข้างหรือแขนท่อนล่างไว้ที่ด้านหลังข้อศอกคู่ฝึก และอยู่ชิดไว้\n3. ดึงข้อมือและกดข้อศอกเข้าหาข้อต่ออย่างค่อยเป็นค่อยไปเท่านั้น และปล่อยทันทีเมื่อคู่ฝึกตบยอมแพ้",
+      "sectionTitle": "การต่อสู้บนพื้น"
+    },
+    "ru": {
+      "title": "Тэ-гатамэ",
+      "description": "1. Контролируйте запястье партнёра одной рукой, удерживая руку прямой ладонью вверх.\n2. Приставьте другую ладонь или предплечье к тыльной стороне его локтя, оставаясь вплотную.\n3. Тяните запястье и давите на локоть лишь постепенно и немедленно отпускайте при постукивании.",
+      "sectionTitle": "Партер"
+    },
+    "uk": {
+      "title": "Те-гатаме",
+      "description": "1. Контролюйте зап’ястя партнера однією рукою, утримуючи руку прямою долонею вгору.\n2. Приставте іншу долоню або передпліччя до тильного боку його ліктя, залишаючись упритул.\n3. Тягніть зап’ястя й тисніть на лікоть лише поступово та негайно відпускайте при постукуванні.",
+      "sectionTitle": "Партер"
+    }
+  }
+}

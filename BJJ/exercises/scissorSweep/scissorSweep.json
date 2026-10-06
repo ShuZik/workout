@@ -1,0 +1,90 @@
+{
+  "id": "6.32",
+  "key": "bjj_scissor_sweep",
+  "title": "Scissor Sweep",
+  "description": "1. From guard, control the partner's sleeve and upper body, turn onto one side, and place the near shin across the torso.\n2. Pull the partner forward while the lower leg chops across the base and the upper shin drives in the opposite direction.\n3. Follow the rotation to the top, establish mount or another stable control, and then release the grips.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Sweeps",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Scissor Sweep",
+      "description": "1. From guard, control the partner's sleeve and upper body, turn onto one side, and place the near shin across the torso.\n2. Pull the partner forward while the lower leg chops across the base and the upper shin drives in the opposite direction.\n3. Follow the rotation to the top, establish mount or another stable control, and then release the grips.",
+      "sectionTitle": "Sweeps"
+    },
+    "es": {
+      "title": "Barrida de tijera",
+      "description": "1. Desde la guardia, controla la manga y el tren superior del compañero, gira de lado y coloca la espinilla cercana cruzada sobre su torso.\n2. Tira del compañero hacia delante mientras la pierna de abajo corta su base y la espinilla de arriba empuja en sentido contrario.\n3. Sigue la rotación hasta quedar arriba, establece la montada u otro control estable y luego suelta los agarres.",
+      "sectionTitle": "Barridos"
+    },
+    "pt": {
+      "title": "Raspagem de tesoura",
+      "description": "1. Da guarda, controle a manga e a parte superior do corpo do parceiro, vire de lado e coloque a canela próxima atravessada no tronco dele.\n2. Puxe o parceiro para a frente enquanto a perna de baixo corta a base e a canela de cima empurra no sentido oposto.\n3. Acompanhe a rotação até ficar por cima, estabeleça a montada ou outro controle estável e então solte as pegadas.",
+      "sectionTitle": "Raspagens"
+    },
+    "fr": {
+      "title": "Renversement en ciseaux",
+      "description": "1. En garde, contrôlez la manche et le haut du corps du partenaire, tournez-vous sur le côté et placez le tibia proche en travers de son buste.\n2. Tirez le partenaire vers l’avant pendant que la jambe du bas fauche sa base et que le tibia du haut pousse dans le sens opposé.\n3. Suivez la rotation jusqu’au-dessus, établissez la montée ou un autre contrôle stable, puis relâchez les saisies.",
+      "sectionTitle": "Renversements"
+    },
+    "de": {
+      "title": "Scheren-Sweep",
+      "description": "1. Kontrolliere aus der Guard Ärmel und Oberkörper des Partners, drehe dich auf die Seite und lege das nahe Schienbein quer über seinen Oberkörper.\n2. Ziehe den Partner nach vorn, während das untere Bein seine Basis wegschlägt und das obere Schienbein in die Gegenrichtung drückt.\n3. Folge der Rotation nach oben, sichere Mount oder eine andere stabile Kontrolle und löse dann die Griffe.",
+      "sectionTitle": "Umkehrtechniken"
+    },
+    "it": {
+      "title": "Ribaltamento a forbice",
+      "description": "1. Dalla guardia, controlla la manica e la parte superiore del corpo del partner, girati su un fianco e metti la tibia vicina di traverso sul suo busto.\n2. Tira il partner in avanti mentre la gamba inferiore falcia la sua base e la tibia superiore spinge nella direzione opposta.\n3. Segui la rotazione fino a finire sopra, stabilizza la monta o un altro controllo stabile e poi lascia le prese.",
+      "sectionTitle": "Ribaltamenti"
+    },
+    "zh-Hans": {
+      "title": "剪刀扫技",
+      "description": "1. 在防守位控制搭档的袖子和上半身，身体侧转，将近侧小腿横在对方躯干前。\n2. 把搭档向前拉，同时下方的腿砍向对方支撑底盘，上方小腿向相反方向推。\n3. 顺着翻转来到上位，建立骑乘或其他稳定控制，然后再松开抓握。",
+      "sectionTitle": "扫技"
+    },
+    "ja": {
+      "title": "シザースイープ",
+      "description": "1. ガードから相手の袖と上体をコントロールし、横向きになって手前のすねを相手の胴に横向きに当てます。\n2. 相手を前に引きながら、下の脚で土台を刈り、上のすねを反対方向へ押し込みます。\n3. 回転に合わせて上になり、マウントなど安定したコントロールを確立してからグリップを離します。",
+      "sectionTitle": "スイープ"
+    },
+    "ko": {
+      "title": "시저 스윕",
+      "description": "1. 가드에서 파트너의 소매와 상체를 제어하고 옆으로 돌아누워 가까운 정강이를 상대 몸통에 가로질러 댑니다.\n2. 파트너를 앞으로 당기면서 아래쪽 다리로 상대의 베이스를 베고, 위쪽 정강이는 반대 방향으로 밉니다.\n3. 회전을 따라 상위로 올라가 마운트나 다른 안정된 컨트롤을 잡은 뒤 그립을 놓습니다.",
+      "sectionTitle": "스윕"
+    },
+    "th": {
+      "title": "ซิซเซอร์สวีป",
+      "description": "1. จากการ์ด คุมแขนเสื้อและลำตัวท่อนบนของคู่ฝึก ตะแคงตัว แล้ววางหน้าแข้งฝั่งใกล้พาดขวางลำตัวคู่ฝึก\n2. ดึงคู่ฝึกมาข้างหน้า ขณะที่ขาล่างตัดฐานของคู่ฝึกและหน้าแข้งบนดันไปในทิศตรงข้าม\n3. ตามการหมุนขึ้นมาด้านบน ตั้งเมาท์หรือการควบคุมที่มั่นคงอื่น แล้วจึงปล่อยการจับ",
+      "sectionTitle": "การสวีป"
+    },
+    "ru": {
+      "title": "Свип ножницами",
+      "description": "1. Из гарда контролируйте рукав и верх корпуса партнёра, повернитесь на бок и поставьте ближнюю голень поперёк его корпуса.\n2. Тяните партнёра вперёд, пока нижняя нога подсекает его опору, а верхняя голень толкает в противоположную сторону.\n3. Следуйте за вращением наверх, закрепите маунт или другой устойчивый контроль и только затем отпустите захваты.",
+      "sectionTitle": "Свипы"
+    },
+    "uk": {
+      "title": "Свіп ножицями",
+      "description": "1. З гарду контролюйте рукав і верх тулуба партнера, поверніться на бік і поставте ближню гомілку поперек його тулуба.\n2. Тягніть партнера вперед, поки нижня нога підсікає його опору, а верхня гомілка штовхає в протилежний бік.\n3. Слідуйте за обертанням нагору, закріпіть маунт або інший стійкий контроль і лише потім відпустіть захвати.",
+      "sectionTitle": "Свіпи"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "Sambo",
+    "id": "88",
+    "icon": "Sambo/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Sambo",
+    "workoutType": "sambo",
+    "translations": {
+      "en": {
+        "title": "Sambo"
+      },
+      "es": {
+        "title": "Sambo"
+      },
+      "pt": {
+        "title": "Sambo"
+      },
+      "fr": {
+        "title": "Sambo"
+      },
+      "de": {
+        "title": "Sambo"
+      },
+      "it": {
+        "title": "Sambo"
+      },
+      "zh-Hans": {
+        "title": "桑搏"
+      },
+      "ja": {
+        "title": "サンボ"
+      },
+      "ko": {
+        "title": "삼보"
+      },
+      "th": {
+        "title": "แซมโบ"
+      },
+      "ru": {
+        "title": "Самбо"
+      },
+      "uk": {
+        "title": "Самбо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Sambo/exercises/sambo/Icon.png",
+      "json": "Sambo/exercises/sambo/sambo.json"
+    },
+    {
+      "icon": "Sambo/exercises/achillesLock/Icon.png",
+      "json": "Sambo/exercises/achillesLock/achillesLock.json"
+    },
+    {
+      "icon": "Sambo/exercises/calfCompressionLock/Icon.png",
+      "json": "Sambo/exercises/calfCompressionLock/calfCompressionLock.json"
+    },
+    {
+      "icon": "Sambo/exercises/bicepsCompressionLock/Icon.png",
+      "json": "Sambo/exercises/bicepsCompressionLock/bicepsCompressionLock.json"
+    },
+    {
+      "icon": "Sambo/exercises/kneeBar/Icon.png",
+      "json": "Sambo/exercises/kneeBar/kneeBar.json"
+    }
+  ]
+}

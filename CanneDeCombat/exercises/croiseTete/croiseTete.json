@@ -1,0 +1,90 @@
+{
+  "id": "48.5",
+  "key": "canne_croise_tete",
+  "title": "Croise Tete",
+  "description": "1. From guard, wind the cane up over the opposite shoulder with the hand high and the point extended behind you.\n2. Strike downward on a diagonal from the cross side toward the head, turning the shoulders through the line and keeping the arm extended.\n3. Control the end of the arc so the cane does not swing past the body, then return to guard.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Strikes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Croise Tete",
+      "description": "1. From guard, wind the cane up over the opposite shoulder with the hand high and the point extended behind you.\n2. Strike downward on a diagonal from the cross side toward the head, turning the shoulders through the line and keeping the arm extended.\n3. Control the end of the arc so the cane does not swing past the body, then return to guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Croisé tête",
+      "description": "1. Desde la guardia, arma el bastón por encima del hombro opuesto con la mano alta y la punta extendida detrás de ti.\n2. Golpea hacia abajo en diagonal desde el lado cruzado hacia la cabeza, girando los hombros a través de la línea y con el brazo extendido.\n3. Controla el final del arco para que el bastón no pase el cuerpo y vuelve a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Croisé tête",
+      "description": "1. Da guarda, arme a bengala por cima do ombro oposto com a mão alta e a ponta estendida atrás de você.\n2. Golpeie para baixo em diagonal do lado cruzado em direção à cabeça, girando os ombros pela linha com o braço estendido.\n3. Controle o fim do arco para que a bengala não passe do corpo e volte à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Croisé tête",
+      "description": "1. Depuis la garde, armez la canne au-dessus de l’épaule opposée, main haute et pointe tendue derrière vous.\n2. Frappez vers le bas en diagonale depuis le côté croisé vers la tête, en tournant les épaules à travers la ligne, bras tendu.\n3. Contrôlez la fin de l’arc pour que la canne ne dépasse pas le corps, puis revenez en garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Croisé tête",
+      "description": "1. Aus der Grundstellung den Stock über die gegenüberliegende Schulter ausholen, Hand hoch, Spitze hinter dir gestreckt.\n2. Diagonal von der gekreuzten Seite abwärts zum Kopf schlagen, die Schultern durch die Linie drehen, Arm gestreckt.\n3. Das Ende des Bogens kontrollieren, damit der Stock nicht am Körper vorbeischwingt, und in die Grundstellung zurückkehren.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Croisé tête",
+      "description": "1. Dalla guardia carica il bastone sopra la spalla opposta con la mano alta e la punta tesa dietro di te.\n2. Colpisci verso il basso in diagonale dal lato incrociato verso la testa, ruotando le spalle attraverso la linea a braccio teso.\n3. Controlla la fine dell’arco perché il bastone non superi il corpo e torna in guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "交叉头部击",
+      "description": "1. 从戒备姿势将杖举过对侧肩膀蓄势，手高举，杖尖向身后伸出。\n2. 从交叉一侧斜向下击向头部，肩部转过击打线，手臂保持伸展。\n3. 控制弧线末端，不让杖甩过身体，回到戒备姿势。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "クロワゼ・テット",
+      "description": "1. 構えから、手を高くして先端を背後へ伸ばし、反対側の肩越しにカンヌを振りかぶります。\n2. 腕を伸ばしたまま肩を回し、交差側から頭部へ斜めに打ち下ろします。\n3. カンヌが体の向こうへ流れないよう弧の終わりを制御し、構えに戻ります。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "크루아제 테트",
+      "description": "1. 가드에서 손을 높이 하고 끝을 뒤로 뻗은 채 반대쪽 어깨 위로 지팡이를 감아 올립니다.\n2. 교차하는 쪽에서 머리를 향해 대각선으로 내려치며 어깨를 선을 따라 돌리고 팔을 뻗은 상태를 유지합니다.\n3. 지팡이가 몸을 지나쳐 휘둘리지 않도록 호의 끝을 통제하고 가드로 돌아옵니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ครัวเซ เตต",
+      "description": "1. จากการ์ด ง้างไม้ข้ามไหล่ฝั่งตรงข้าม มือยกสูงและปลายไม้เหยียดไปด้านหลัง\n2. ฟาดลงแนวเฉียงจากฝั่งไขว้ไปที่ศีรษะ หมุนไหล่ผ่านแนวตีและแขนเหยียด\n3. ควบคุมปลายส่วนโค้งไม่ให้ไม้เหวี่ยงเลยลำตัว แล้วกลับสู่การ์ด",
+      "sectionTitle": "การตี"
+    },
+    "ru": {
+      "title": "Круазе тет",
+      "description": "1. Из стойки сделайте замах тростью через противоположное плечо, рука высоко, острие вытянуто позади.\n2. Ударьте вниз по диагонали с перекрёстной стороны в голову, проворачивая плечи через линию и держа руку вытянутой.\n3. Проконтролируйте конец дуги, чтобы трость не ушла за корпус, и вернитесь в стойку.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Круазе тет",
+      "description": "1. Зі стійки зробіть замах тростиною через протилежне плече, рука високо, вістря витягнуте позаду.\n2. Ударте вниз по діагоналі з перехресного боку в голову, провертаючи плечі через лінію й тримаючи руку витягнутою.\n3. Проконтролюйте кінець дуги, щоб тростина не пішла за корпус, і поверніться в стійку.",
+      "sectionTitle": "Удари"
+    }
+  }
+}

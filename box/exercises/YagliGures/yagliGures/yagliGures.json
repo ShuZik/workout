@@ -1,0 +1,87 @@
+{
+  "id": "110.1",
+  "key": "yagli_gures",
+  "title": "Yagli Gures",
+  "description": "1. Begin on grass or mats with a trained partner, both in wrestling breeches, after a short peşrev warm-up.\n2. Grip the arms, neck, and breeches and work to lift, turn, or trip the partner onto the back.\n3. Control every fall, stop when the partner's back or both elbows touch, and reset standing.",
+  "colorType": "orange",
+  "workoutType": "yagliGures",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Yagli Gures",
+      "description": "1. Begin on grass or mats with a trained partner, both in wrestling breeches, after a short peşrev warm-up.\n2. Grip the arms, neck, and breeches and work to lift, turn, or trip the partner onto the back.\n3. Control every fall, stop when the partner's back or both elbows touch, and reset standing.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Yağlı güreş",
+      "description": "1. Comienza sobre hierba o tatami con un compañero entrenado, ambos con calzones de lucha, tras un breve calentamiento de peşrev.\n2. Agarra brazos, cuello y calzones e intenta levantar, girar o hacer caer al compañero de espaldas.\n3. Controla cada caída, detente cuando la espalda o ambos codos del compañero toquen el suelo y reinicia de pie.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Yağlı güreş",
+      "description": "1. Comece na grama ou no tatame com um parceiro treinado, ambos com calções de luta, após um breve aquecimento de peşrev.\n2. Segure braços, pescoço e calções e tente levantar, girar ou derrubar o parceiro de costas.\n3. Controle cada queda, pare quando as costas ou os dois cotovelos do parceiro tocarem o chão e recomece de pé.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Yağlı güreş",
+      "description": "1. Commencez sur l'herbe ou le tapis avec un partenaire entraîné, tous deux en culotte de lutte, après un bref échauffement de peşrev.\n2. Saisissez bras, cou et culotte et tentez de soulever, faire tourner ou faire chuter le partenaire sur le dos.\n3. Contrôlez chaque chute, arrêtez quand le dos ou les deux coudes du partenaire touchent et repartez debout.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Yağlı güreş",
+      "description": "1. Beginne auf Gras oder Matte mit einem geübten Partner, beide in Ringerhosen, nach einem kurzen Peşrev-Aufwärmen.\n2. Greife Arme, Nacken und Hose und versuche, den Partner anzuheben, zu drehen oder auf den Rücken zu bringen.\n3. Kontrolliere jeden Fall, stoppe, wenn Rücken oder beide Ellbogen des Partners aufkommen, und beginne stehend neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Yağlı güreş",
+      "description": "1. Inizia sull'erba o sul tatami con un partner allenato, entrambi con calzoni da lotta, dopo un breve riscaldamento di peşrev.\n2. Afferra braccia, collo e calzoni e cerca di sollevare, ruotare o far cadere il partner sulla schiena.\n3. Controlla ogni caduta, fermati quando la schiena o entrambi i gomiti del partner toccano terra e riparti in piedi.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "土耳其油摔跤",
+      "description": "1. 简短做完佩什雷夫热身后，与训练有素的同伴在草地或垫上开始，双方穿摔跤裤。\n2. 抓手臂、颈部和裤子，设法抱起、转动或绊倒同伴使其背部着地。\n3. 控制每次倒地，同伴背部或双肘触地即停，站立重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ヤール・ギュレシ",
+      "description": "1. 短いペシュレヴの準備運動の後、レスリングパンツを履いた��練のパートナーと草地かマット上で始めます。\n2. 腕、首、パンツを持ち、相手を持ち上げ、回し、足を掛けて背中から倒そうとします。\n3. すべての落下を制御し、相手の背中か両肘がつ���たら止め、立って再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "야을르 귀레시",
+      "description": "1. 짧은 페슈레브 준비운동 후 레슬링 바지를 입은 숙련된 파트너와 잔디나 매트에서 시작합니다.\n2. 팔, 목, 바지를 잡고 파트너를 들어 올리거나 돌리거나 걸어 등으로 넘기려 합니다.\n3. 모든 낙하를 통제하고 파트너의 등이나 양 팔꿈치가 닿으면 멈춘 뒤 선 자세로 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ยาลึกือเรช",
+      "description": "1. เริ่มบนหญ้าหรือเบาะกับคู่ฝึกที่ผ่านการฝึก ทั้งคู่สวมกางเกงมวยปล้ำ หลังวอร์มอัพเปชเรฟสั้นๆ\n2. จับแขน คอ และกางเกง แล้วพยายามยก หมุน หรือขัดขาให้คู่ฝึกหงายหลัง\n3. ควบคุมทุกการล้ม หยุดเมื่อหลังหรือศอกทั้งสองของคู่ฝึกแตะพื้น แล้วเริ่มใหม่ในท่ายืน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Ягълы гюреш",
+      "description": "1. После короткой разминки пешрев начните на траве или ковре с подготовленным партнёром, оба в борцовских штанах.\n2. Захватывайте руки, шею и штаны и пытайтесь поднять, развернуть или подбить партнёра на спину.\n3. Контролируйте каждое падение, останавливайтесь при касании спиной или обоими локтями и начинайте снова в стойке.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Ягли гюреш",
+      "description": "1. Після короткої розминки пешрев почніть на траві або килимі з підготовленим партнером, обидва в борцівських штанях.\n2. Захоплюйте руки, шию й штани та намагайтеся підняти, розвернути чи підбити партнера на спину.\n3. Контролюйте кожне падіння, зупиняйтеся, коли партнер торкнеться спиною або обома ліктями, і починайте знову в стійці.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "91.7",
+  "key": "shorinji_kempo_kote_nuki",
+  "title": "Kote Nuki Wrist Release",
+  "description": "1. Attacker grabs the defender's wrist with the same-side hand; defender stays relaxed with the fingers spread.\n2. Defender feints a strike toward the eyes, bends the elbow, and pulls the wrist out through the gap between the attacker's thumb and fingers while turning the hips.\n3. Defender steps away into kamae with zanshin; attacker grips again with moderate force, and roles switch.",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kote Nuki Wrist Release",
+      "description": "1. Attacker grabs the defender's wrist with the same-side hand; defender stays relaxed with the fingers spread.\n2. Defender feints a strike toward the eyes, bends the elbow, and pulls the wrist out through the gap between the attacker's thumb and fingers while turning the hips.\n3. Defender steps away into kamae with zanshin; attacker grips again with moderate force, and roles switch.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Liberación de muñeca kote nuki",
+      "description": "1. El atacante agarra la muñeca del defensor con la mano del mismo lado; el defensor se mantiene relajado con los dedos abiertos.\n2. El defensor amaga un golpe a los ojos, flexiona el codo y saca la muñeca por el hueco entre el pulgar y los dedos del atacante mientras gira la cadera.\n3. El defensor se aleja a kamae con zanshin; el atacante vuelve a agarrar con fuerza moderada y se intercambian los papeles.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Soltura de punho kote nuki",
+      "description": "1. O atacante agarra o punho do defensor com a mão do mesmo lado; o defensor permanece relaxado com os dedos abertos.\n2. O defensor finta um golpe aos olhos, dobra o cotovelo e puxa o punho pela abertura entre o polegar e os dedos do atacante enquanto gira o quadril.\n3. O defensor se afasta em kamae com zanshin; o atacante agarra de novo com força moderada e os papéis se invertem.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Dégagement de poignet kote nuki",
+      "description": "1. L'attaquant saisit le poignet du défenseur avec la main du même côté ; le défenseur reste détendu, doigts écartés.\n2. Le défenseur feinte une frappe vers les yeux, plie le coude et sort le poignet par l'espace entre le pouce et les doigts de l'attaquant en tournant les hanches.\n3. Le défenseur s'écarte en kamae avec zanshin ; l'attaquant saisit à nouveau avec une force modérée et les rôles s'inversent.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Kote Nuki – Handgelenkbefreiung",
+      "description": "1. Der Angreifer greift das Handgelenk des Verteidigers mit der gleichseitigen Hand; der Verteidiger bleibt locker, die Finger gespreizt.\n2. Der Verteidiger täuscht einen Schlag zu den Augen an, beugt den Ellbogen und zieht das Handgelenk unter Hüftdrehung durch die Lücke zwischen Daumen und Fingern des Angreifers.\n3. Der Verteidiger tritt mit Zanshin ins Kamae zurück; der Angreifer greift erneut mit mäßiger Kraft, dann werden die Rollen getauscht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Liberazione del polso kote nuki",
+      "description": "1. L'attaccante afferra il polso del difensore con la mano dello stesso lato; il difensore resta rilassato con le dita aperte.\n2. Il difensore finge un colpo agli occhi, piega il gomito e sfila il polso nello spazio tra pollice e dita dell'attaccante ruotando le anche.\n3. Il difensore si allontana in kamae con zanshin; l'attaccante riafferra con forza moderata e i ruoli si scambiano.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "小手拔",
+      "description": "1. 攻者用同侧手抓住守者手腕；守者保持放松，手指张开。\n2. 守者虚击对方眼部，屈肘并转腰，将手腕从攻者拇指与四指之间的空隙中抽出。\n3. 守者撤步以残心回到构式；攻者再以中等力量抓握，然后互换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "小手抜",
+      "description": "1. 攻者は同じ側の手で守者の手首をつかみ、守者は指を開いて力を抜きます。\n2. 守者は目打ちで牽制し、肘を曲げて腰を回しながら、攻者の親指と他の指の間から手首を抜きます。\n3. 守者は間合いを取って残心をもって構え、攻者は適度な力で再びつかみ、役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "고테누키 손목 빼기",
+      "description": "1. 공격자는 같은 쪽 손으로 방어자의 손목을 잡고, 방어자는 손가락을 펴고 힘을 뺍니다.\n2. 방어자는 눈을 향한 치기로 견제하고, 팔꿈치를 굽히며 허리를 돌려 공격자의 엄지와 나머지 손가락 사이 틈으로 손목을 빼냅니다.\n3. 방어자는 물러나 잔심을 유지하며 카마에를 잡고, 공격자는 적당한 힘으로 다시 잡은 뒤 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "โคเตะนุคิ สะบัดข้อมือหลุด",
+      "description": "1. ผู้โจมตีจับข้อมือผู้ป้องกันด้วยมือข้างเดียวกัน ผู้ป้องกันผ่อนคลายและกางนิ้วออก\n2. ผู้ป้องกันหลอกตีไปที่ตา งอศอก แล้วหมุนสะโพกพร้อมดึงข้อมือออกทางช่องระหว่างนิ้วโป้งกับนิ้วอื่นของผู้โจมตี\n3. ผู้ป้องกันถอยออกไปตั้งคามาเอะพร้อมซันชิน ผู้โจมตีจับใหม่ด้วยแรงปานกลาง แล้วสลับบทบาท",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Котэ-нуки — освобождение запястья",
+      "description": "1. Атакующий хватает запястье защищающегося одноимённой рукой; защищающийся расслаблен, пальцы раскрыты.\n2. Защищающийся обозначает удар в глаза, сгибает локоть и, поворачивая бёдра, выводит запястье через промежуток между большим и остальными пальцами атакующего.\n3. Защищающийся отходит в камаэ с дзансином; атакующий снова берёт захват с умеренной силой, и партнёры меняются ролями.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Коте-нукі — звільнення зап'ястя",
+      "description": "1. Нападник хапає зап'ястя захисника однойменною рукою; захисник розслаблений, пальці розкриті.\n2. Захисник позначає удар в очі, згинає лікоть і, повертаючи стегна, виводить зап'ястя крізь проміжок між великим та іншими пальцями нападника.\n3. Захисник відходить у камае з дзансіном; нападник знову бере захоплення з помірною силою, і партнери міняються ролями.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

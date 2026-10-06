@@ -1,0 +1,87 @@
+{
+  "id": "109.7",
+  "key": "wushu_gunshu",
+  "title": "Gunshu",
+  "description": "1. Hold a training staff upright at your side, stand ready, and confirm a clear radius of more than one staff length around you.\n2. Perform the gunshu routine with sweeping, smashing, poking, and figure-eight spinning actions, moving the staff with both hands through changquan-style stances and steps.\n3. Keep every spin controlled and clear of the head and floor, then bring the staff upright and close in the ready stance.",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Gunshu",
+      "description": "1. Hold a training staff upright at your side, stand ready, and confirm a clear radius of more than one staff length around you.\n2. Perform the gunshu routine with sweeping, smashing, poking, and figure-eight spinning actions, moving the staff with both hands through changquan-style stances and steps.\n3. Keep every spin controlled and clear of the head and floor, then bring the staff upright and close in the ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Gunshu",
+      "description": "1. Sujeta un bastón de entrenamiento vertical a tu lado, ponte en preparación y confirma un radio libre de más de un bastón a tu alrededor.\n2. Ejecuta la rutina de gunshu con barridos, golpes descendentes, estocadas y giros en ocho, moviendo el bastón con ambas manos a través de posiciones y pasos de estilo changquan.\n3. Mantén cada giro controlado y lejos de la cabeza y del suelo, luego pon el bastón vertical y cierra en posición de preparación.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Gunshu",
+      "description": "1. Segure um bastão de treino na vertical ao lado do corpo, fique pronto e confirme um raio livre maior que um bastão ao redor.\n2. Execute a rotina de gunshu com varridas, golpes descendentes, estocadas e giros em oito, movendo o bastão com as duas mãos por bases e passos no estilo changquan.\n3. Mantenha cada giro controlado e longe da cabeça e do chão, depois coloque o bastão na vertical e feche em posição de prontidão.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Gunshu",
+      "description": "1. Tenez un bâton d’entraînement vertical à votre côté, placez-vous prêt et vérifiez un rayon dégagé de plus d’une longueur de bâton.\n2. Exécutez l’enchaînement de gunshu avec balayages, frappes écrasantes, piqués et moulinets en huit, en déplaçant le bâton à deux mains à travers des positions et pas de style changquan.\n3. Gardez chaque moulinet contrôlé, loin de la tête et du sol, puis redressez le bâton et fermez en position prête.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Gunshu",
+      "description": "1. Halte einen Trainingsstab aufrecht an deiner Seite, stehe bereit und stelle einen freien Radius von mehr als einer Stablänge sicher.\n2. Laufe die Gunshu-Routine mit Fege-, Schmetter-, Stoß- und Achterdrehaktionen und führe den Stab beidhändig durch Stellungen und Schritte im Changquan-Stil.\n3. Halte jede Drehung kontrolliert und fern von Kopf und Boden, stelle den Stab dann aufrecht und schließe in Bereitschaftsstellung.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Gunshu",
+      "description": "1. Tieni un bastone da allenamento verticale al tuo fianco, mettiti pronto e verifica un raggio libero superiore a un bastone intorno a te.\n2. Esegui la routine di gunshu con spazzate, colpi schiaccianti, stoccate e rotazioni a otto, muovendo il bastone con due mani attraverso posizioni e passi in stile changquan.\n3. Mantieni ogni rotazione controllata e lontana da testa e pavimento, poi porta il bastone in verticale e chiudi in posizione di pronto.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "棍术",
+      "description": "1. 将训练用棍竖立于身侧，预备站立，确认周围有超过一根棍长的空间。\n2. 演练棍术套路，包括扫、劈、戳及舞花等棍法，双手持棍配合长拳风格的步型和步法。\n3. 每次舞花都要控制好，远离头部和地面，最后将棍竖立，以预备势收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "棍術",
+      "description": "1. 練習用の棍を体の横に立てて持ち、準備姿勢で棍一本分以上の空間を確保します。\n2. 掃・劈・戳や舞花などの棍法で棍術套路を行い、両手で棍を操りながら長拳風の歩型と歩法で移動します。\n3. 回転は頭と床から離して制御し、最後に棍を立てて準備姿勢で収勢します。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "곤술",
+      "description": "1. 훈련용 곤을 몸 옆에 세워 쥐고 준비 자세에서 주변에 곤 길이 이상의 공간을 확인합니다.\n2. 쓸기, 내려치기, 찌르기, 8자 돌리기 동작으로 곤술 투로를 수행하며 두 손으로 곤을 다루고 장권식 보형과 보법으로 이동합니다.\n3. 모든 회전은 머리와 바닥에서 떨어지게 통제한 뒤 곤을 세우고 준비 자세로 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "กุ้นซู่ (พลอง)",
+      "description": "1. ถือพลองฝึกตั้งตรงข้างลำตัว ยืนเตรียม และตรวจว่ารอบตัวโล่งเกินความยาวพลองหนึ่งอัน\n2. รำชุดกุ้นซู่ด้วยท่ากวาด ฟาด แทง และควงเลขแปด ใช้สองมือควบคุมพลองไปพร้อมท่ายืนและการก้าวแบบฉางเฉวียน\n3. ควบคุมการควงทุกครั้งให้ห่างศีรษะและพื้น แล้วตั้งพลองตรงและจบในท่าเตรียม",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Гуньшу",
+      "description": "1. Держите тренировочный шест вертикально сбоку, встаньте в стойку готовности и убедитесь, что вокруг свободно больше чем на длину шеста.\n2. Выполните комплекс гуньшу с метущими, рубящими сверху, тычковыми действиями и вращениями восьмёркой, двигая шест обеими руками через стойки и шаги в стиле чанцюань.\n3. Держите каждое вращение под контролем вдали от головы и пола, затем поставьте шест вертикально и завершите в стойке готовности.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Гуньшу",
+      "description": "1. Тримайте тренувальну жердину вертикально збоку, станьте в стійку готовності й переконайтеся, що довкола вільно більше ніж на довжину жердини.\n2. Виконайте комплекс гуньшу з метучими, рубальними згори, тичковими діями та обертаннями вісімкою, рухаючи жердину обома руками через стійки й кроки в стилі чанцюань.\n3. Тримайте кожне обертання під контролем далеко від голови й підлоги, потім поставте жердину вертикально й завершіть у стійці готовності.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "MuayThai",
+    "id": "2",
+    "icon": "MuayThai/Icon.png",
+    "symbolName": "figure.kickboxing",
+    "title": "Muay Thai",
+    "workoutType": "muayThai",
+    "translations": {
+      "en": {
+        "title": "Muay Thai"
+      },
+      "es": {
+        "title": "Muay Thai"
+      },
+      "pt": {
+        "title": "Muay Thai"
+      },
+      "fr": {
+        "title": "Muay-thaï"
+      },
+      "de": {
+        "title": "Muay Thai"
+      },
+      "it": {
+        "title": "Muay Thai"
+      },
+      "zh-Hans": {
+        "title": "泰拳"
+      },
+      "ja": {
+        "title": "ムエタイ"
+      },
+      "ko": {
+        "title": "무에타이"
+      },
+      "th": {
+        "title": "มวยไทย"
+      },
+      "ru": {
+        "title": "Муай-тай"
+      },
+      "uk": {
+        "title": "Муай-тай"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "MuayThai/exercises/muayThai/Icon.png",
+      "json": "MuayThai/exercises/muayThai/muayThai.json"
+    },
+    {
+      "icon": "MuayThai/exercises/jab/Icon.png",
+      "json": "MuayThai/exercises/jab/jab.json"
+    },
+    {
+      "icon": "MuayThai/exercises/cross/Icon.png",
+      "json": "MuayThai/exercises/cross/cross.json"
+    },
+    {
+      "icon": "MuayThai/exercises/leadHook/Icon.png",
+      "json": "MuayThai/exercises/leadHook/leadHook.json"
+    },
+    {
+      "icon": "MuayThai/exercises/rearHook/Icon.png",
+      "json": "MuayThai/exercises/rearHook/rearHook.json"
+    },
+    {
+      "icon": "MuayThai/exercises/leadUppercut/Icon.png",
+      "json": "MuayThai/exercises/leadUppercut/leadUppercut.json"
+    },
+    {
+      "icon": "MuayThai/exercises/rearUppercut/Icon.png",
+      "json": "MuayThai/exercises/rearUppercut/rearUppercut.json"
+    },
+    {
+      "icon": "MuayThai/exercises/leadTeep/Icon.png",
+      "json": "MuayThai/exercises/leadTeep/leadTeep.json"
+    },
+    {
+      "icon": "MuayThai/exercises/rearTeep/Icon.png",
+      "json": "MuayThai/exercises/rearTeep/rearTeep.json"
+    },
+    {
+      "icon": "MuayThai/exercises/leadLowKick/Icon.png",
+      "json": "MuayThai/exercises/leadLowKick/leadLowKick.json"
+    },
+    {
+      "icon": "MuayThai/exercises/rearLowKick/Icon.png",
+      "json": "MuayThai/exercises/rearLowKick/rearLowKick.json"
+    },
+    {
+      "icon": "MuayThai/exercises/leadRoundhouseKick/Icon.png",
+      "json": "MuayThai/exercises/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "MuayThai/exercises/rearRoundhouseKick/Icon.png",
+      "json": "MuayThai/exercises/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "MuayThai/exercises/leadKnee/Icon.png",
+      "json": "MuayThai/exercises/leadKnee/leadKnee.json"
+    },
+    {
+      "icon": "MuayThai/exercises/rearKnee/Icon.png",
+      "json": "MuayThai/exercises/rearKnee/rearKnee.json"
+    },
+    {
+      "icon": "MuayThai/exercises/leadHorizontalElbow/Icon.png",
+      "json": "MuayThai/exercises/leadHorizontalElbow/leadHorizontalElbow.json"
+    },
+    {
+      "icon": "MuayThai/exercises/rearHorizontalElbow/Icon.png",
+      "json": "MuayThai/exercises/rearHorizontalElbow/rearHorizontalElbow.json"
+    },
+    {
+      "icon": "MuayThai/exercises/clinchControl/Icon.png",
+      "json": "MuayThai/exercises/clinchControl/clinchControl.json"
+    },
+    {
+      "icon": "MuayThai/exercises/kickCheck/Icon.png",
+      "json": "MuayThai/exercises/kickCheck/kickCheck.json"
+    },
+    {
+      "icon": "MuayThai/exercises/sweep/Icon.png",
+      "json": "MuayThai/exercises/sweep/sweep.json"
+    },
+    {
+      "json": "MuayThai/exercises/muayThaiStance/muayThaiStance.json",
+      "icon": "MuayThai/exercises/muayThaiStance/Icon.png"
+    },
+    {
+      "json": "MuayThai/exercises/forwardBackwardStep/forwardBackwardStep.json",
+      "icon": "MuayThai/exercises/forwardBackwardStep/Icon.png"
+    },
+    {
+      "json": "MuayThai/exercises/lateralStep/lateralStep.json",
+      "icon": "MuayThai/exercises/lateralStep/Icon.png"
+    },
+    {
+      "json": "MuayThai/exercises/leadUppercutElbow/leadUppercutElbow.json",
+      "icon": "MuayThai/exercises/leadUppercutElbow/Icon.png"
+    },
+    {
+      "json": "MuayThai/exercises/rearUppercutElbow/rearUppercutElbow.json",
+      "icon": "MuayThai/exercises/rearUppercutElbow/Icon.png"
+    },
+    {
+      "json": "MuayThai/exercises/leadDownwardElbow/leadDownwardElbow.json",
+      "icon": "MuayThai/exercises/leadDownwardElbow/Icon.png"
+    },
+    {
+      "json": "MuayThai/exercises/rearDownwardElbow/rearDownwardElbow.json",
+      "icon": "MuayThai/exercises/rearDownwardElbow/Icon.png"
+    },
+    {
+      "json": "MuayThai/exercises/kickCatch/kickCatch.json",
+      "icon": "MuayThai/exercises/kickCatch/Icon.png"
+    },
+    {
+      "icon": "MuayThai/exercises/waiKruRamMuay/Icon.png",
+      "json": "MuayThai/exercises/waiKruRamMuay/waiKruRamMuay.json"
+    }
+  ]
+}

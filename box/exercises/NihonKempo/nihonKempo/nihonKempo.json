@@ -1,0 +1,87 @@
+{
+  "id": "84.1",
+  "key": "nihon_kempo_main",
+  "title": "Nihon Kempo",
+  "description": "1. Take a guarded kamae with the chin tucked, fists high, and the weight ready to strike, kick, or clinch.\n2. Shadow-fight (soran) through straight punches, hooks, kicks, knee entries, and imagined takedown or grappling transitions at controlled speed.\n3. Recover kamae after every exchange; for bogu sparring wear the full protective gear and stop at the referee's or partner's signal.",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Nihon Kempo",
+      "description": "1. Take a guarded kamae with the chin tucked, fists high, and the weight ready to strike, kick, or clinch.\n2. Shadow-fight (soran) through straight punches, hooks, kicks, knee entries, and imagined takedown or grappling transitions at controlled speed.\n3. Recover kamae after every exchange; for bogu sparring wear the full protective gear and stop at the referee's or partner's signal.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Nihon Kempo",
+      "description": "1. Adopta un kamae en guardia con la barbilla recogida, los puños altos y el peso listo para golpear, patear o agarrar.\n2. Combate de sombra (soran) con directos, ganchos, patadas, entradas de rodilla y transiciones imaginarias de derribo o agarre a velocidad controlada.\n3. Recupera el kamae tras cada intercambio; para el combate con bogu usa todo el equipo de protección y detente a la señal del árbitro o del compañero.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Nihon Kempo",
+      "description": "1. Assuma um kamae em guarda com o queixo recolhido, punhos altos e o peso pronto para golpear, chutar ou agarrar.\n2. Luta de sombra (soran) com diretos, ganchos, chutes, entradas de joelho e transições imaginárias de queda ou agarre em velocidade controlada.\n3. Recupere o kamae após cada troca; no combate com bogu use todo o equipamento de proteção e pare ao sinal do árbitro ou do parceiro.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Nihon Kempo",
+      "description": "1. Prenez un kamae en garde, menton rentré, poings hauts, poids prêt à frapper, donner un coup de pied ou saisir.\n2. Combattez dans le vide (soran) avec directs, crochets, coups de pied, entrées de genou et transitions imaginaires de projection ou de saisie à vitesse contrôlée.\n3. Reprenez le kamae après chaque échange ; en combat avec bogu, portez l’équipement complet et arrêtez au signal de l’arbitre ou du partenaire.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Nihon Kempo",
+      "description": "1. Ein gedecktes Kamae einnehmen, Kinn eingezogen, Fäuste hoch, Gewicht bereit zum Schlagen, Treten oder Greifen.\n2. Schattenkampf (Soran) mit Geraden, Haken, Tritten, Knieeinstiegen und gedachten Wurf- oder Bodenübergängen in kontrolliertem Tempo.\n3. Nach jedem Schlagabtausch ins Kamae zurückkehren; beim Bogu-Kampf die volle Schutzausrüstung tragen und auf Zeichen von Kampfrichter oder Partner stoppen.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Nihon Kempo",
+      "description": "1. Assumi un kamae in guardia con il mento raccolto, pugni alti e peso pronto a colpire, calciare o afferrare.\n2. Combattimento con l’ombra (soran) con diretti, ganci, calci, entrate di ginocchio e transizioni immaginarie di proiezione o presa a velocità controllata.\n3. Recupera il kamae dopo ogni scambio; nel combattimento con bogu indossa tutte le protezioni e fermati al segnale dell’arbitro o del partner.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "日本拳法",
+      "description": "1. 取防守的构，收下颌，双拳抬高，重心随时可击打、踢击或抱摔。\n2. 以受控速度进行想乱（空击）：直拳、勾拳、踢击、膝撞切入以及假想的摔投或缠斗转换。\n3. 每次交锋后恢复构；进行防具实战时佩戴全套护具，并在裁判或同伴示意时立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "日本拳法",
+      "description": "1. 顎を引き拳を高く上げ、打つ・蹴る・組むのいずれにも移れる重心で構えます。\n2. 想乱として、直突き・鉤突き・蹴り・膝の入り・投げや組み技への移行を想定し、制御した速さで行います。\n3. 攻防の後は必ず構えに戻り、防具練習では防具一式を着け、審判や相手の合図で止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "일본권법",
+      "description": "1. 턱을 당기고 주먹을 높이 든 채 치기, 차기, 잡기로 바로 이어갈 수 있는 자세를 취합니다.\n2. 통제된 속도로 소란(섀도)을 하며 스트레이트, 훅, 발차기, 무릎 진입, 가상의 던지기나 그래플링 전환을 연결합니다.\n3. 매 교환 후 자세를 회복하고, 방구 대련 시에는 보호구를 모두 착용하고 심판이나 상대의 신호에 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "นิฮงเคมโป",
+      "description": "1. ตั้งการ์ดคามาเอะ เก็บคาง กำปั้นสูง น้ำหนักพร้อมจะต่อย เตะ หรือคว้าจับ\n2. ชกลม (โซรัน) ด้วยหมัดตรง หมัดฮุก การเตะ การเข้าเข่า และการเปลี่ยนไปทุ่มหรือปล้ำแบบสมมติ ด้วยความเร็วที่ควบคุมได้\n3. กลับสู่คามาเอะหลังการแลกแต่ละครั้ง หากซ้อมสวมโบงุให้สวมอุปกรณ์ป้องกันครบชุด และหยุดเมื่อกรรมการหรือคู่ส่งสัญญาณ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Нихон кэмпо",
+      "description": "1. Займите защитную стойку камаэ: подбородок опущен, кулаки высоко, вес готов к удару, пинку или захвату.\n2. Проведите бой с тенью (соран): прямые, боковые, удары ногами, входы коленом и воображаемые переходы в бросок или борьбу с контролируемой скоростью.\n3. После каждого обмена возвращайтесь в камаэ; в спарринге в богу надевайте полную защиту и останавливайтесь по сигналу судьи или партнёра.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Ніхон кемпо",
+      "description": "1. Займіть захисну стійку камае: підборіддя опущене, кулаки високо, вага готова до удару, удару ногою чи захоплення.\n2. Проведіть бій із тінню (соран): прямі, бокові, удари ногами, входи коліном та уявні переходи в кидок або боротьбу з контрольованою швидкістю.\n3. Після кожного обміну повертайтеся в камае; у спаринґу в боґу вдягайте повний захист і зупиняйтеся за сигналом судді чи партнера.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "106.10",
+  "key": "vo_co_truyen_roi_thai_son",
+  "title": "Roi Thai Son",
+  "description": "1. Hold the training staff in the ready position at the starting point and perform the opening salute of Roi Thai Son.\n2. Perform the strikes, sweeps, thrusts and twirls of the staff form in sequence, keeping clear space around you and the stances stable.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+  "colorType": "indigo",
+  "workoutType": "voCoTruyen",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Roi Thai Son",
+      "description": "1. Hold the training staff in the ready position at the starting point and perform the opening salute of Roi Thai Son.\n2. Perform the strikes, sweeps, thrusts and twirls of the staff form in sequence, keeping clear space around you and the stances stable.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Roi Thai Son",
+      "description": "1. Sujeta el bastón de entrenamiento en posición de preparado en el punto de inicio y realiza el saludo de apertura de Roi Thai Son.\n2. Realiza en secuencia los golpes, barridos, estocadas y molinetes de la forma de bastón, manteniendo espacio libre a tu alrededor y posturas estables.\n3. Termina de nuevo en el punto de inicio con el saludo de cierre, devuelve el arma a la posición de preparado y mantén despejada la zona de entrenamiento.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Roi Thai Son",
+      "description": "1. Segure o bastão de treino em posição de prontidão no ponto de partida e faça a saudação de abertura de Roi Thai Son.\n2. Execute em sequência os golpes, varridas, estocadas e molinetes da forma de bastão, mantendo espaço livre ao redor e bases estáveis.\n3. Termine de volta ao ponto de partida com a saudação de encerramento, recoloque a arma na posição de prontidão e mantenha a área de treino livre.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Roi Thai Son",
+      "description": "1. Tenez le bâton d’entraînement en position prête au point de départ et effectuez le salut d’ouverture de Roi Thai Son.\n2. Exécutez dans l’ordre les frappes, balayages, estocs et moulinets de la forme au bâton, en gardant de l’espace autour de vous et des positions stables.\n3. Terminez au point de départ par le salut de clôture, ramenez l’arme en position prête et gardez la zone d’entraînement dégagée.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Roi Thai Son",
+      "description": "1. Halte den Trainingsstock am Startpunkt in Bereitschaftsposition und führe den Eröffnungsgruß von Roi Thai Son aus.\n2. Führe die Schläge, Fegebewegungen, Stöße und Wirbel der Stockform der Reihe nach aus, halte Raum um dich frei und die Stellungen stabil.\n3. Beende die Form wieder am Startpunkt mit dem Schlussgruß, bringe die Waffe in die Bereitschaftsposition zurück und halte den Trainingsbereich frei.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Roi Thai Son",
+      "description": "1. Tieni il bastone da allenamento in posizione di pronto nel punto di partenza ed esegui il saluto di apertura di Roi Thai Son.\n2. Esegui in sequenza colpi, spazzate, affondi e mulinelli della forma col bastone, mantenendo spazio libero intorno e posizioni stabili.\n3. Concludi di nuovo nel punto di partenza con il saluto di chiusura, riporta l’arma in posizione di pronto e mantieni libera l’area di allenamento.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "Roi Thai Son",
+      "description": "1. 在起点以预备姿势持训练用棍，完成Roi Thai Son的起势礼。\n2. 按顺序完成棍术套路的劈打、扫棍、戳击和舞花，保持周围空间无障碍、步型稳固。\n3. 回到起点完成收势礼，将器械收回预备位置，并保持训练区域无人无物。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "Roi Thai Son",
+      "description": "1. 開始位置で練習用の棒を用意の位置に構え、Roi Thai Sonの始めの礼を行います。\n2. 棒の型の打ち、払い、突き、回しを順に行い、周囲の空間を確保し、立ち方を安定させます。\n3. 開始位置に戻って終わりの礼を行い、武器を用意の位置に戻し、練習スペースに人や物がない状態を保ちます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "Roi Thai Son",
+      "description": "1. 시작 지점에서 연습용 봉을 준비 위치로 잡고 Roi Thai Son의 시작 인사를 합니다.\n2. 봉 품새의 치기, 쓸기, 찌르기, 돌리기를 순서대로 수행하며 주변 공간을 비워 두고 자세를 안정되게 유지합니다.\n3. 시작 지점으로 돌아와 마무리 인사를 하고 무기를 준비 위치로 되돌리며 훈련 공간을 비워 둡니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "Roi Thai Son",
+      "description": "1. ถือไม้พลองฝึกในท่าเตรียมที่จุดเริ่มต้น แล้วทำความเคารพเปิดของ Roi Thai Son\n2. ทำการตี กวาด แทง และควงไม้พลองของท่ารำตามลำดับ รักษาพื้นที่รอบตัวให้โล่งและท่ายืนให้มั่นคง\n3. จบที่จุดเริ่มต้นด้วยการทำความเคารพปิด นำอาวุธกลับสู่ท่าเตรียม และรักษาพื้นที่ฝึกให้โล่ง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Roi Thai Son",
+      "description": "1. Держите учебный шест в готовой позиции в исходной точке и выполните начальное приветствие формы Roi Thai Son.\n2. Выполняйте по порядку удары, подсечки, тычки и вращения формы с шестом, сохраняя свободное пространство вокруг и устойчивые стойки.\n3. Завершите в исходной точке заключительным приветствием, верните оружие в готовую позицию и следите, чтобы зона тренировки оставалась свободной.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Roi Thai Son",
+      "description": "1. Тримайте навчальну палицю у готовій позиції у вихідній точці й виконайте початкове привітання форми Roi Thai Son.\n2. Виконуйте по черзі удари, підсічки, тички й обертання форми з палицею, зберігаючи вільний простір навколо та стійкі стійки.\n3. Завершіть у вихідній точці заключним привітанням, поверніть зброю в готову позицію та стежте, щоб зона тренування залишалася вільною.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

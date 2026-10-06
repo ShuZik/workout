@@ -7,14 +7,109 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
-    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 5 },
-    { "id": "arrival", "exerciseID": "24.1", "kind": "timed", "durationSeconds": 45 },
-    { "id": "cat-cow", "exerciseID": "24.2", "kind": "timed", "durationSeconds": 60 },
-    { "id": "downward-dog", "exerciseID": "24.3", "kind": "timed", "durationSeconds": 45 },
-    { "id": "warrior-one", "exerciseID": "24.4", "kind": "timed", "durationSeconds": 45 },
-    { "id": "warrior-two", "exerciseID": "24.5", "kind": "timed", "durationSeconds": 45 },
-    { "id": "tree", "exerciseID": "24.6", "kind": "timed", "durationSeconds": 45 },
-    { "id": "forward-fold", "exerciseID": "24.7", "kind": "timed", "durationSeconds": 60 },
-    { "id": "savasana", "exerciseID": "24.8", "kind": "timed", "durationSeconds": 120 }
-  ]
+    {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
+      "id": "arrival",
+      "exerciseID": "24.1",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "cat-cow",
+      "exerciseID": "24.2",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "downward-dog",
+      "exerciseID": "24.3",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "warrior-one",
+      "exerciseID": "24.4",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "warrior-two",
+      "exerciseID": "24.5",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "tree",
+      "exerciseID": "24.6",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "forward-fold",
+      "exerciseID": "24.7",
+      "kind": "timed",
+      "durationSeconds": 60
+    },
+    {
+      "id": "savasana",
+      "exerciseID": "24.8",
+      "kind": "timed",
+      "durationSeconds": 120
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "Morning Flow",
+      "description": "A calm, full-body yoga flow to begin the day with mobility and steady breathing."
+    },
+    "es": {
+      "title": "Secuencia matutina",
+      "description": "Una secuencia tranquila de yoga para todo el cuerpo que inicia el día con movilidad y respiración constante."
+    },
+    "pt": {
+      "title": "Fluxo matinal",
+      "description": "Um fluxo tranquilo de yoga para o corpo inteiro para começar o dia com mobilidade e respiração constante."
+    },
+    "fr": {
+      "title": "Enchaînement du matin",
+      "description": "Un enchaînement calme de yoga pour tout le corps afin de commencer la journée avec mobilité et respiration régulière."
+    },
+    "de": {
+      "title": "Morgen-Flow",
+      "description": "Ein ruhiger Yoga-Flow für den ganzen Körper, um den Tag mit Beweglichkeit und gleichmäßiger Atmung zu beginnen."
+    },
+    "it": {
+      "title": "Sequenza del mattino",
+      "description": "Una sequenza calma di yoga per tutto il corpo per iniziare la giornata con mobilità e respirazione regolare."
+    },
+    "zh-Hans": {
+      "title": "晨间流瑜伽",
+      "description": "平静的全身流瑜伽，以灵活活动和稳定呼吸开始一天。"
+    },
+    "ja": {
+      "title": "朝のフロー",
+      "description": "全身を動かす穏やかなヨガフローで、動きやすさと安定した呼吸とともに一日を始めます。"
+    },
+    "ko": {
+      "title": "아침 플로우",
+      "description": "전신을 위한 차분한 요가 플로우로 움직임과 안정적인 호흡으로 하루를 시작합니다."
+    },
+    "th": {
+      "title": "โยคะโฟลว์ยามเช้า",
+      "description": "โยคะโฟลว์ทั่วร่างกายอย่างสงบ เพื่อเริ่มวันด้วยความคล่องตัวและการหายใจสม่ำเสมอ"
+    },
+    "ru": {
+      "title": "Утренний комплекс",
+      "description": "Спокойный комплекс йоги для всего тела, чтобы начать день с подвижности и ровного дыхания."
+    },
+    "uk": {
+      "title": "Ранковий комплекс",
+      "description": "Спокійний комплекс йоги для всього тіла, щоб розпочати день із рухливості та рівного дихання."
+    }
+  }
 }

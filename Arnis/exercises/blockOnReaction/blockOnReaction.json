@@ -1,0 +1,90 @@
+{
+  "id": "45.8",
+  "key": "arnis_block_on_reaction",
+  "title": "Block on Reaction",
+  "description": "1. Partner A attacks with slow strikes from the standard angles in random order; partner B stands in guard with a stick.\n2. Partner B reads each attack and answers with the matching stick block, meeting the incoming stick and moving off the line of attack.\n3. Partner A keeps power low and increases speed only as B stays accurate; swap roles after each round.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "arnis",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Block on Reaction",
+      "description": "1. Partner A attacks with slow strikes from the standard angles in random order; partner B stands in guard with a stick.\n2. Partner B reads each attack and answers with the matching stick block, meeting the incoming stick and moving off the line of attack.\n3. Partner A keeps power low and increases speed only as B stays accurate; swap roles after each round.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Bloqueo por reacción",
+      "description": "1. El compañero A ataca con golpes lentos desde los ángulos estándar en orden aleatorio; el compañero B está en guardia con un bastón.\n2. B lee cada ataque y responde con el bloqueo de bastón correspondiente, encontrando el bastón entrante y saliendo de la línea de ataque.\n3. A mantiene poca potencia y solo aumenta la velocidad mientras B sea preciso; cambien de rol tras cada asalto.",
+      "sectionTitle": "Ejercicios con compañero"
+    },
+    "pt": {
+      "title": "Bloqueio por reação",
+      "description": "1. O parceiro A ataca com golpes lentos dos ângulos padrão em ordem aleatória; o parceiro B fica em guarda com um bastão.\n2. B lê cada ataque e responde com o bloqueio de bastão correspondente, encontrando o bastão que chega e saindo da linha de ataque.\n3. A mantém pouca força e só aumenta a velocidade enquanto B for preciso; troquem de papel após cada round.",
+      "sectionTitle": "Exercícios com parceiro"
+    },
+    "fr": {
+      "title": "Blocage en réaction",
+      "description": "1. Le partenaire A attaque lentement selon les angles standard dans un ordre aléatoire ; le partenaire B est en garde avec un bâton.\n2. B lit chaque attaque et répond par le blocage au bâton correspondant, en rencontrant le bâton adverse et en sortant de la ligne d’attaque.\n3. A garde peu de puissance et n’accélère que si B reste précis ; changez de rôle à chaque reprise.",
+      "sectionTitle": "Exercices avec partenaire"
+    },
+    "de": {
+      "title": "Block auf Reaktion",
+      "description": "1. Partner A greift langsam aus den Standardwinkeln in zufälliger Reihenfolge an; Partner B steht mit einem Stock in Deckung.\n2. B liest jeden Angriff und antwortet mit dem passenden Stockblock, trifft den ankommenden Stock und verlässt die Angriffslinie.\n3. A hält die Kraft gering und erhöht das Tempo nur, solange B genau bleibt; nach jeder Runde Rollen tauschen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Parata su reazione",
+      "description": "1. Il partner A attacca con colpi lenti dagli angoli standard in ordine casuale; il partner B è in guardia con un bastone.\n2. B legge ogni attacco e risponde con la parata di bastone corrispondente, incontrando il bastone in arrivo e uscendo dalla linea d’attacco.\n3. A tiene bassa la potenza e aumenta la velocità solo se B resta preciso; scambiate i ruoli dopo ogni ripresa.",
+      "sectionTitle": "Esercizi con partner"
+    },
+    "zh-Hans": {
+      "title": "反应格挡",
+      "description": "1. 同伴A以随机顺序从标准角度缓慢击打；同伴B持棍戒备。\n2. B判断每次攻击，用对应的棍格挡迎接来棍，并移出攻击线。\n3. A保持低力度，只有B保持准确时才加快速度；每回合后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "反応ブロック",
+      "description": "1. パートナーAは標準の角度からランダムな順にゆっくり打ち込み、パートナーBは棒を持って構えます。\n2. Bは各攻撃を読み、対応する棒の受けで来る棒を迎え、攻撃線から外れます。\n3. Aは力を弱く保ち、Bが正確な間だけ速度を上げます。ラウンドごとに役割を交代します。",
+      "sectionTitle": "相手との練習"
+    },
+    "ko": {
+      "title": "반응 막기",
+      "description": "1. 파트너 A는 표준 각도에서 무작위 순서로 천천히 치고, 파트너 B는 스틱을 들고 가드를 잡습니다.\n2. B는 각 공격을 읽고 맞는 스틱 막기로 들어오는 스틱을 맞이하며 공격선에서 벗어납니다.\n3. A는 힘을 낮게 유지하고 B가 정확할 때만 속도를 올립니다. 라운드마다 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ปัดป้องตามปฏิกิริยา",
+      "description": "1. คู่ฝึก A ตีช้าๆ จากมุมมาตรฐานแบบสุ่มลำดับ คู่ฝึก B ยืนการ์ดพร้อมไม้\n2. B อ่านการโจมตีแต่ละครั้งแล้วตอบด้วยการปัดป้องด้วยไม้ที่ตรงกัน รับไม้ที่เข้ามาและออกจากแนวโจมตี\n3. A ใช้แรงต่ำและเพิ่มความเร็วเมื่อ B ยังแม่นยำเท่านั้น สลับบทบาทหลังแต่ละยก",
+      "sectionTitle": "การฝึกกับคู่ฝึก"
+    },
+    "ru": {
+      "title": "Блок на реакцию",
+      "description": "1. Партнёр A медленно атакует со стандартных углов в случайном порядке; партнёр B стоит в защите с палкой.\n2. B считывает каждую атаку и отвечает соответствующим блоком палкой, встречая летящую палку и уходя с линии атаки.\n3. A держит силу низкой и ускоряется, только пока B точен; после каждого раунда меняйтесь ролями.",
+      "sectionTitle": "Упражнения с партнёром"
+    },
+    "uk": {
+      "title": "Блок на реакцію",
+      "description": "1. Партнер A повільно атакує зі стандартних кутів у випадковому порядку; партнер B стоїть у захисті з палицею.\n2. B зчитує кожну атаку й відповідає відповідним блоком палицею, зустрічаючи палицю й виходячи з лінії атаки.\n3. A тримає силу низькою й прискорюється, лише поки B точний; після кожного раунду міняйтеся ролями.",
+      "sectionTitle": "Вправи з партнером"
+    }
+  }
+}

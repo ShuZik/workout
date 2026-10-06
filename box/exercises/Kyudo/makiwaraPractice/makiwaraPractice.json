@@ -1,0 +1,87 @@
+{
+  "id": "76.6",
+  "key": "kyudo_makiwara",
+  "title": "Makiwara Practice",
+  "description": "1. Stand about one bow length from the straw makiwara with the arrow nocked and the target at shoulder height.\n2. Shoot through the full eight stages, focusing on form rather than aim, since the close target cannot be missed.\n3. Hold zanshin, withdraw the arrow from the straw carefully with both hands, and repeat with attention to one technical point.",
+  "colorType": "sage",
+  "workoutType": "kyudo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Shooting",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Makiwara Practice",
+      "description": "1. Stand about one bow length from the straw makiwara with the arrow nocked and the target at shoulder height.\n2. Shoot through the full eight stages, focusing on form rather than aim, since the close target cannot be missed.\n3. Hold zanshin, withdraw the arrow from the straw carefully with both hands, and repeat with attention to one technical point.",
+      "sectionTitle": "Shooting"
+    },
+    "es": {
+      "title": "Práctica en makiwara",
+      "description": "1. Colócate a una longitud de arco del makiwara de paja, con la flecha colocada y el blanco a la altura del hombro.\n2. Tira siguiendo las ocho fases completas, centrándote en la forma y no en la puntería, pues el blanco cercano no se puede fallar.\n3. Mantén el zanshin, extrae la flecha de la paja con cuidado y con ambas manos, y repite atendiendo a un punto técnico.",
+      "sectionTitle": "Tiro"
+    },
+    "pt": {
+      "title": "Prática no makiwara",
+      "description": "1. Fique a um comprimento de arco do makiwara de palha, com a flecha encaixada e o alvo à altura do ombro.\n2. Atire pelas oito fases completas, focando na forma e não na mira, pois o alvo próximo não pode ser errado.\n3. Mantenha o zanshin, retire a flecha da palha com cuidado e com as duas mãos, e repita atento a um ponto técnico.",
+      "sectionTitle": "Tiro"
+    },
+    "fr": {
+      "title": "Tir sur makiwara",
+      "description": "1. Placez-vous à environ une longueur d’arc du makiwara en paille, flèche encochée, cible à hauteur d’épaule.\n2. Tirez en suivant les huit étapes complètes en vous concentrant sur la forme plutôt que sur la visée, la cible proche ne pouvant être manquée.\n3. Gardez le zanshin, retirez la flèche de la paille avec précaution à deux mains et répétez en travaillant un point technique.",
+      "sectionTitle": "Tir"
+    },
+    "de": {
+      "title": "Makiwara-Training",
+      "description": "1. Etwa eine Bogenlänge vor dem Stroh-Makiwara stehen, Pfeil eingelegt, Ziel auf Schulterhöhe.\n2. Durch alle acht Phasen schießen und dich auf die Form statt auf das Zielen konzentrieren, da das nahe Ziel nicht zu verfehlen ist.\n3. Zanshin halten, den Pfeil vorsichtig mit beiden Händen aus dem Stroh ziehen und mit Fokus auf einen technischen Punkt wiederholen.",
+      "sectionTitle": "Schießen"
+    },
+    "it": {
+      "title": "Pratica al makiwara",
+      "description": "1. Posizionati a circa una lunghezza d’arco dal makiwara di paglia, freccia incoccata e bersaglio all’altezza della spalla.\n2. Tira seguendo tutte le otto fasi concentrandoti sulla forma e non sulla mira, perché il bersaglio vicino non si può mancare.\n3. Mantieni lo zanshin, estrai la freccia dalla paglia con cura a due mani e ripeti curando un punto tecnico.",
+      "sectionTitle": "Tiro"
+    },
+    "zh-Hans": {
+      "title": "卷藁练习",
+      "description": "1. 站在距草靶（卷藁）约一弓长处，搭好箭，靶与肩同高。\n2. 完整按射法八节射出，专注于射形而非瞄准，因为近靶不会射偏。\n3. 保持残心，双手小心地从草靶中拔出箭，并针对一个技术要点重复练习。",
+      "sectionTitle": "射箭"
+    },
+    "ja": {
+      "title": "巻藁練習",
+      "description": "1. 巻藁から弓一張りほどの距離に立ち、矢を番え、巻藁を肩の高さにします。\n2. 近い的は外れないので狙いより射形に集中し、射法八節を通して射ます。\n3. 残心を保ち、両手で丁寧に巻藁から矢を抜き、一つの技術的要点を意識して繰り返します。",
+      "sectionTitle": "射"
+    },
+    "ko": {
+      "title": "마키와라 연습",
+      "description": "1. 짚 과녁(마키와라)에서 활 길이 정도 떨어져 서서 화살을 메기고 과녁을 어깨 높이에 둡니다.\n2. 가까운 과녁은 빗나갈 수 없으므로 조준보다 자세에 집중하며 사법팔절 전체로 쏩니다.\n3. 잔심을 유지하고 두 손으로 조심스럽게 짚에서 화살을 뽑은 뒤 한 가지 기술 요점에 집중해 반복합니다.",
+      "sectionTitle": "사법"
+    },
+    "th": {
+      "title": "ฝึกยิงมากิวาระ",
+      "description": "1. ยืนห่างจากเป้าฟางมากิวาระประมาณหนึ่งความยาวคันธนู พาดลูกธนูแล้ว เป้าอยู่ระดับไหล่\n2. ยิงครบแปดขั้นตอน โดยเน้นท่าทางมากกว่าการเล็ง เพราะเป้าใกล้ยิงไม่พลาด\n3. คงซันชิน ดึงลูกธนูออกจากฟางอย่างระมัดระวังด้วยสองมือ แล้วทำซ้ำโดยเน้นจุดเทคนิคหนึ่งจุด",
+      "sectionTitle": "การยิง"
+    },
+    "ru": {
+      "title": "Стрельба по макивара",
+      "description": "1. Встаньте примерно на длину лука от соломенной макивары, стрела наложена, мишень на уровне плеча.\n2. Стреляйте через все восемь этапов, сосредоточившись на форме, а не на прицеливании, так как по близкой мишени не промахнуться.\n3. Сохраните дзансин, осторожно извлеките стрелу из соломы обеими руками и повторите, работая над одной технической деталью.",
+      "sectionTitle": "Стрельба"
+    },
+    "uk": {
+      "title": "Стрільба по маківарі",
+      "description": "1. Станьте приблизно на довжину лука від солом’яної маківари, стріла накладена, мішень на рівні плеча.\n2. Стріляйте через усі вісім етапів, зосередившись на формі, а не на прицілюванні, бо по близькій мішені не схибиш.\n3. Збережіть дзансін, обережно вийміть стрілу із соломи обома руками й повторіть, працюючи над однією технічною деталлю.",
+      "sectionTitle": "Стрільба"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "83.5",
+  "key": "naginata_men_uchi",
+  "title": "Men-uchi",
+  "description": "1. From chudan, swing the naginata up overhead with both hands, sliding the hands along the shaft as it rises.\n2. Step in with okuri-ashi and strike the side of the head (sokumen) with the monouchi, calling out men.\n3. Show zanshin, return to chudan, and repeat on the other side.",
+  "colorType": "violet",
+  "workoutType": "naginata",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Men-uchi",
+      "description": "1. From chudan, swing the naginata up overhead with both hands, sliding the hands along the shaft as it rises.\n2. Step in with okuri-ashi and strike the side of the head (sokumen) with the monouchi, calling out men.\n3. Show zanshin, return to chudan, and repeat on the other side.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Men-uchi",
+      "description": "1. Desde chudan, alza la naginata por encima de la cabeza con ambas manos, deslizándolas por el mango al subir.\n2. Entra con okuri-ashi y golpea el lateral de la cabeza (sokumen) con el monouchi, gritando men.\n3. Muestra zanshin, vuelve a chudan y repite por el otro lado.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Men-uchi",
+      "description": "1. A partir de chudan, erga a naginata acima da cabeça com as duas mãos, deslizando-as pelo cabo enquanto sobe.\n2. Entre com okuri-ashi e golpeie a lateral da cabeça (sokumen) com o monouchi, gritando men.\n3. Mostre zanshin, volte a chudan e repita do outro lado.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Men-uchi",
+      "description": "1. Depuis chudan, levez le naginata au-dessus de la tête à deux mains, en faisant glisser les mains le long de la hampe.\n2. Entrez en okuri-ashi et frappez le côté de la tête (sokumen) avec le monouchi en criant men.\n3. Montrez le zanshin, revenez en chudan et répétez de l'autre côté.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Men-Uchi",
+      "description": "1. Schwinge die Naginata aus Chudan mit beiden Händen über den Kopf und lass die Hände dabei am Schaft entlanggleiten.\n2. Tritt mit Okuri-Ashi ein und schlage mit dem Monouchi seitlich an den Kopf (Sokumen), dabei rufst du Men.\n3. Zeige Zanshin, kehre nach Chudan zurück und wiederhole auf der anderen Seite.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Men-uchi",
+      "description": "1. Da chudan, porta la naginata sopra la testa con entrambe le mani, facendole scorrere lungo l'asta mentre sale.\n2. Entra con okuri-ashi e colpisci il lato della testa (sokumen) con il monouchi, gridando men.\n3. Mostra zanshin, torna in chudan e ripeti dall'altro lato.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "面击",
+      "description": "1. 从中段构起，双手将薙刀举过头顶，上举时双手沿柄滑动。\n2. 以送足上步，用物打击打头部侧面（侧面），同时发声喊面。\n3. 保持残心，回到中段，再向另一侧重复。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "面打ち",
+      "description": "1. 中段から両手で薙刀を頭上に振りかぶり、上げながら手を柄に沿って滑らせます。\n2. 送り足で踏み込み、物打で側面を打ち、面と発声します。\n3. 残心を示して中段に戻り、反対側でも繰り返します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "머리 치기(멘우치)",
+      "description": "1. 중단에서 두 손으로 나기나타를 머리 위로 휘둘러 올리며, 올릴 때 손을 자루를 따라 미끄러뜨립니다.\n2. 오쿠리아시로 들어가며 모노우치로 머리 옆면(소쿠멘)을 치고 멘이라고 외칩니다.\n3. 잔심을 보이고 중단으로 돌아가 반대쪽으로 반복합니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เมงอุจิ",
+      "description": "1. จากท่าชูดัง เหวี่ยงนางินาตะขึ้นเหนือศีรษะด้วยสองมือ เลื่อนมือไปตามด้ามขณะยกขึ้น\n2. ก้าวเข้าด้วยโอคุริอาชิและฟันด้านข้างศีรษะ (โซคุเมง) ด้วยโมโนอุจิ พร้อมเปล่งเสียงเมง\n3. แสดงซันชิน กลับสู่ชูดัง แล้วทำซ้ำอีกข้าง",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Мэн-ути",
+      "description": "1. Из тюдана вскиньте нагинату над головой обеими руками, скользя ладонями по древку при подъёме.\n2. Шагните окури-аси и ударьте моноути в боковую часть головы (сокумэн) с выкриком мэн.\n3. Покажите дзансин, вернитесь в тюдан и повторите на другую сторону.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Мен-учі",
+      "description": "1. Із чюдану здійміть нагінату над головою обома руками, ковзаючи долонями по держаку під час підйому.\n2. Ступіть окурі-аші й ударте моноучі в бічну частину голови (сокумен) з вигуком мен.\n3. Покажіть дзаншін, поверніться в чюдан і повторіть на інший бік.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

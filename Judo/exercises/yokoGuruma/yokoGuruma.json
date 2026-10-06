@@ -1,0 +1,90 @@
+{
+  "id": "41.79",
+  "key": "judo_yoko_guruma",
+  "title": "Yoko Guruma",
+  "description": "1. As a trained partner bends forward or attempts ura-nage, slide one leg deep between the partner's legs.\n2. Drop onto your side under the partner while holding the partner's upper body.\n3. Wheel the partner over your body to the side and guide a controlled landing.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Yoko Guruma",
+      "description": "1. As a trained partner bends forward or attempts ura-nage, slide one leg deep between the partner's legs.\n2. Drop onto your side under the partner while holding the partner's upper body.\n3. Wheel the partner over your body to the side and guide a controlled landing.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Yoko Guruma",
+      "description": "1. Cuando un compañero entrenado se incline o intente ura-nage, desliza una pierna profunda entre sus piernas.\n2. Déjate caer de lado bajo el compañero sujetando su tronco.\n3. Haz girar al compañero sobre tu cuerpo hacia un lado y guía un aterrizaje controlado.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Yoko Guruma",
+      "description": "1. Quando um parceiro treinado se inclinar ou tentar ura-nage, deslize uma perna profunda entre as pernas dele.\n2. Caia de lado sob o parceiro segurando o tronco dele.\n3. Gire o parceiro sobre seu corpo para o lado e guie uma aterrissagem controlada.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Yoko Guruma",
+      "description": "1. Quand un partenaire entraîné se penche ou tente ura-nage, glissez une jambe profondément entre ses jambes.\n2. Laissez-vous tomber sur le côté sous le partenaire en tenant son buste.\n3. Faites tourner le partenaire par-dessus votre corps sur le côté et guidez une réception contrôlée.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Yoko Guruma",
+      "description": "1. Wenn ein geübter Partner sich vorbeugt oder Ura-nage versucht, schiebe ein Bein tief zwischen seine Beine.\n2. Lass dich seitlich unter den Partner fallen und halte seinen Oberkörper.\n3. Drehe den Partner wie ein Rad seitlich über deinen Körper und führe eine kontrollierte Landung.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Yoko Guruma",
+      "description": "1. Quando un compagno esperto si piega o tenta ura-nage, fai scivolare una gamba in profondità tra le sue gambe.\n2. Lasciati cadere di lato sotto il compagno tenendo il suo busto.\n3. Fai ruotare il compagno sopra il tuo corpo di lato e guida un atterraggio controllato.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "横车",
+      "description": "1. 训练有素的搭档前倾或尝试里投时，一条腿深插到其两腿之间。\n2. 抓住其上身，侧身倒在搭档下方。\n3. 使搭档像车轮一样越过你的身体向侧面翻转，引导受控落地。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "横車",
+      "description": "1. 熟練した相手が前かがみになるか裏投をかけてきたら、片脚を相手の両脚の間へ深く滑り込ませます。\n2. 相手の上体を持ったまま、相手の下へ横向きに倒れます。\n3. 相手を自分の体の上で横へ車のように回し、制御された着地へ導きます。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "요코 구루마",
+      "description": "1. 숙련된 파트너가 숙이거나 우라나게를 시도하면 한 다리를 파트너 다리 사이로 깊게 넣습니다.\n2. 파트너 상체를 잡은 채 파트너 아래로 옆으로 넘어집니다.\n3. 파트너를 내 몸 위로 옆으로 굴리고 통제된 착지를 이끕니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "โยโกะกุรุมะ",
+      "description": "1. เมื่อคู่ฝึกที่ฝึกมาแล้วก้มตัวหรือพยายามอุระนาเกะ ให้สอดขาข้างหนึ่งลึกเข้าระหว่างขาคู่ฝึก\n2. จับลำตัวคู่ฝึกไว้และล้มตะแคงลงใต้คู่ฝึก\n3. หมุนคู่ฝึกข้ามตัวคุณไปด้านข้างและนำการลงพื้นอย่างควบคุมได้",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Ёко-гурума",
+      "description": "1. Когда подготовленный партнёр наклоняется или пытается ура-нагэ, глубоко проведите одну ногу между его ногами.\n2. Упадите на бок под партнёра, удерживая его корпус.\n3. Прокатите партнёра колесом через себя в сторону и направьте контролируемое приземление.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Йоко-гурума",
+      "description": "1. Коли підготовлений партнер нахиляється або намагається ура-наге, глибоко проведіть одну ногу між його ногами.\n2. Упадіть на бік під партнера, утримуючи його тулуб.\n3. Перекотіть партнера колесом через себе вбік і спрямуйте контрольоване приземлення.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

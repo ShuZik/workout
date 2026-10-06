@@ -21,5 +21,67 @@
   "section": "1 Main",
   "availableFrom": "1.1.0",
   "availableUntil": null,
-  "state": "active"
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Guided Breathing",
+      "description": "1. Sit upright or lie comfortably and listen for the first inhale cue without taking an extra preparatory breath.\n2. Inhale and exhale only during the matching prompts, using a volume of air that remains comfortable.\n3. If the count feels strained, return to natural breathing and rejoin the next cycle at a shorter count.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Respiración guiada",
+      "description": "1. Siéntate con la espalda erguida o túmbate cómodamente y espera la primera indicación de inhalar sin hacer una respiración preparatoria adicional.\n2. Inhala y exhala solo durante las indicaciones correspondientes, tomando una cantidad de aire que resulte cómoda.\n3. Si la cuenta te obliga a esforzarte, vuelve a la respiración natural y retoma el siguiente ciclo con una cuenta más corta.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Respiração guiada",
+      "description": "1. Sente-se com a coluna ereta ou deite-se confortavelmente e aguarde a primeira instrução para inspirar, sem fazer uma respiração preparatória extra.\n2. Inspire e expire apenas durante as instruções correspondentes, usando um volume de ar confortável.\n3. Se a contagem exigir esforço, volte à respiração natural e retome o próximo ciclo com uma contagem mais curta.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Respiration guidée",
+      "description": "1. Asseyez-vous le dos droit ou allongez-vous confortablement et attendez la première consigne d’inspiration sans prendre de respiration préparatoire supplémentaire.\n2. Inspirez et expirez uniquement pendant les consignes correspondantes, avec un volume d’air qui reste confortable.\n3. Si le compte demande un effort, reprenez votre respiration naturelle et rejoignez le cycle suivant avec un compte plus court.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Angeleitetes Atmen",
+      "description": "1. Sitze aufrecht oder liege bequem und warte auf die erste Aufforderung zum Einatmen, ohne vorher einen zusätzlichen Atemzug zu nehmen.\n2. Atme nur während der entsprechenden Anweisungen ein und aus. Wähle dabei eine Luftmenge, die angenehm bleibt.\n3. Wenn die Zählzeit anstrengend wird, kehre zur natürlichen Atmung zurück und steige im nächsten Zyklus mit einer kürzeren Zählzeit wieder ein.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Respirazione guidata",
+      "description": "1. Siediti con la schiena dritta o sdraiati comodamente e attendi il primo invito a inspirare senza fare un respiro preparatorio aggiuntivo.\n2. Inspira ed espira solo durante le indicazioni corrispondenti, usando un volume d’aria che rimanga confortevole.\n3. Se il conteggio richiede uno sforzo, torna alla respirazione naturale e riprendi il ciclo successivo con un conteggio più breve.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "引导呼吸",
+      "description": "1. 坐直或舒适地躺下，等待第一次吸气提示，不要额外做准备性呼吸。\n2. 仅在相应提示期间吸气和呼气，保持舒适的呼吸量。\n3. 如果计数时长让你感到吃力，恢复自然呼吸，并在下一轮以更短的计数时长重新加入。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ガイド付き呼吸",
+      "description": "1. 背筋を伸ばして座るか楽な姿勢で横になり、余分な準備の呼吸をせずに最初の吸う合図を待ちます。\n2. 吸う・吐くそれぞれの合図に合わせてのみ呼吸し、無理のない量の空気を出し入れします。\n3. 数える長さが苦しく感じたら自然な呼吸に戻し、次のサイクルから短めのカウントで再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "안내에 따른 호흡",
+      "description": "1. 허리를 펴고 앉거나 편안하게 누워 별도의 준비 호흡을 하지 않고 첫 들숨 안내를 기다립니다.\n2. 해당 안내가 나올 때만 들이쉬고 내쉬며, 편안한 양의 공기로 호흡합니다.\n3. 세는 시간이 힘들게 느껴지면 자연스러운 호흡으로 돌아간 뒤, 다음 주기에서 더 짧게 세며 다시 시작합니다.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "การหายใจตามคำแนะนำ",
+      "description": "1. นั่งตัวตรงหรือนอนในท่าที่สบาย รอฟังสัญญาณหายใจเข้าครั้งแรกโดยไม่หายใจเตรียมเพิ่มอีกครั้ง\n2. หายใจเข้าและออกเฉพาะช่วงที่มีคำแนะนำตรงกัน โดยใช้ปริมาณลมหายใจที่รู้สึกสบาย\n3. หากระยะเวลานับทำให้รู้สึกฝืน ให้กลับไปหายใจตามธรรมชาติ แล้วเข้าร่วมรอบถัดไปด้วยการนับที่สั้นลง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Дыхание по подсказкам",
+      "description": "1. Сядьте прямо или удобно лягте и дождитесь первой подсказки для вдоха, не делая дополнительного подготовительного вдоха.\n2. Вдыхайте и выдыхайте только по соответствующим подсказкам, используя комфортный объём воздуха.\n3. Если счёт вызывает напряжение, вернитесь к естественному дыханию и начните следующий цикл с более коротким счётом.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Дихання за підказками",
+      "description": "1. Сядьте рівно або зручно ляжте й дочекайтеся першої підказки для вдиху, не роблячи додаткового підготовчого вдиху.\n2. Вдихайте й видихайте лише за відповідними підказками, використовуючи комфортний об’єм повітря.\n3. Якщо відлік викликає напруження, поверніться до природного дихання й почніть наступний цикл із коротшим відліком.",
+      "sectionTitle": "Основне"
+    }
+  }
 }

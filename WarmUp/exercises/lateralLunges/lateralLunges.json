@@ -1,0 +1,90 @@
+{
+  "id": "9.29",
+  "key": "lateral_lunges",
+  "title": "Lateral Lunges",
+  "description": "1. Stand tall with feet together and toes pointing forward.\n2. Step wide to one side, bend that knee, and send the hips back while the other leg stays long.\n3. Push through the bent leg to return to center and alternate sides.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lateral Lunges",
+      "description": "1. Stand tall with feet together and toes pointing forward.\n2. Step wide to one side, bend that knee, and send the hips back while the other leg stays long.\n3. Push through the bent leg to return to center and alternate sides.",
+      "sectionTitle": "Dynamic Movement"
+    },
+    "es": {
+      "title": "Zancadas laterales",
+      "description": "1. Ponte de pie erguido con los pies juntos y los dedos apuntando hacia delante.\n2. Da un paso amplio a un lado, flexiona esa rodilla y lleva las caderas hacia atrás mientras la otra pierna permanece extendida.\n3. Empuja con la pierna flexionada para volver al centro y alterna los lados.",
+      "sectionTitle": "Movimiento dinámico"
+    },
+    "pt": {
+      "title": "Avanços laterais",
+      "description": "1. Fique ereto com os pés juntos e os dedos apontados para a frente.\n2. Dê um passo largo para um lado, dobre esse joelho e leve os quadris para trás enquanto a outra perna permanece estendida.\n3. Empurre com a perna dobrada para voltar ao centro e alterne os lados.",
+      "sectionTitle": "Movimento dinâmico"
+    },
+    "fr": {
+      "title": "Fentes latérales",
+      "description": "1. Tenez-vous droit, les pieds joints et les orteils dirigés vers l’avant.\n2. Faites un grand pas sur le côté, fléchissez ce genou et reculez les hanches en gardant l’autre jambe allongée.\n3. Poussez sur la jambe fléchie pour revenir au centre et alternez les côtés.",
+      "sectionTitle": "Mouvement dynamique"
+    },
+    "de": {
+      "title": "Seitliche Ausfallschritte",
+      "description": "1. Stehe aufrecht mit geschlossenen Füßen und nach vorne zeigenden Zehen.\n2. Mache einen weiten Schritt zur Seite, beuge dieses Knie und schiebe die Hüfte zurück, während das andere Bein gestreckt bleibt.\n3. Drücke dich über das gebeugte Bein zur Mitte zurück und wechsle die Seiten.",
+      "sectionTitle": "Dynamische Bewegung"
+    },
+    "it": {
+      "title": "Affondi laterali",
+      "description": "1. Stai eretto con i piedi uniti e le punte rivolte in avanti.\n2. Fai un passo ampio di lato, piega quel ginocchio e sposta le anche indietro mentre l’altra gamba resta distesa.\n3. Spingi sulla gamba piegata per tornare al centro e alterna i lati.",
+      "sectionTitle": "Movimento dinamico"
+    },
+    "zh-Hans": {
+      "title": "侧弓步",
+      "description": "1. 直立站好，双脚并拢，脚尖朝前。\n2. 向一侧迈出大步，弯曲该侧膝盖并将髋部向后移，另一条腿保持伸展。\n3. 用弯曲的腿发力回到中央，并左右交替。",
+      "sectionTitle": "动态动作"
+    },
+    "ja": {
+      "title": "サイドランジ",
+      "description": "1. 足をそろえ、つま先を前に向けてまっすぐ立ちます。\n2. 横に大きく踏み出し、その膝を曲げて腰を後ろに引き、反対の脚は伸ばしたままにします。\n3. 曲げた脚で押して中央に戻り、左右交互に行います。",
+      "sectionTitle": "ダイナミックな動作"
+    },
+    "ko": {
+      "title": "사이드 런지",
+      "description": "1. 발을 모으고 발끝을 앞으로 향한 채 똑바로 섭니다.\n2. 한쪽으로 크게 내딛고 해당 무릎을 굽혀 엉덩이를 뒤로 보내며 반대쪽 다리는 길게 유지합니다.\n3. 굽힌 다리로 밀어 중앙으로 돌아온 뒤 양쪽을 번갈아 실시합니다.",
+      "sectionTitle": "동적 움직임"
+    },
+    "th": {
+      "title": "ลันจ์ด้านข้าง",
+      "description": "1. ยืนตัวตรง เท้าชิดและปลายเท้าชี้ไปข้างหน้า\n2. ก้าวกว้างไปด้านข้าง งอเข่าข้างนั้นและส่งสะโพกไปด้านหลัง ขณะที่ขาอีกข้างเหยียดยาว\n3. ดันผ่านขาที่งอเพื่อกลับตรงกลางแล้วสลับข้าง",
+      "sectionTitle": "การเคลื่อนไหวแบบไดนามิก"
+    },
+    "ru": {
+      "title": "Боковые выпады",
+      "description": "1. Встаньте прямо, сведите стопы и направьте носки вперёд.\n2. Широко шагните в сторону, согните это колено и отведите таз назад, сохраняя другую ногу вытянутой.\n3. Оттолкнитесь согнутой ногой, вернитесь в центр и чередуйте стороны.",
+      "sectionTitle": "Динамические движения"
+    },
+    "uk": {
+      "title": "Бічні випади",
+      "description": "1. Станьте прямо, зведіть стопи й спрямуйте носки вперед.\n2. Широко крокніть убік, зігніть це коліно та відведіть таз назад, зберігаючи іншу ногу витягнутою.\n3. Відштовхніться зігнутою ногою, поверніться в центр і чергуйте сторони.",
+      "sectionTitle": "Динамічні рухи"
+    }
+  }
+}

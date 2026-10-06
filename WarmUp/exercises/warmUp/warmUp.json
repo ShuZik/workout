@@ -1,0 +1,90 @@
+{
+  "id": "9.1",
+  "key": "warm_up",
+  "title": "Warm-up",
+  "description": "1. Begin with controlled circles at the ankles, hips, shoulders, elbows, and wrists.\n2. Add dynamic movements such as squats, lunges, arm swings, and torso rotations through an easy range.\n3. Finish with light versions of the first sport-specific movements, increasing speed without adding full power.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.5,
+    "moderate": 4,
+    "vigorous": 6,
+    "lightCode": "02140",
+    "moderateCode": "02143",
+    "vigorousCode": "02145"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Warm-up",
+      "description": "1. Begin with controlled circles at the ankles, hips, shoulders, elbows, and wrists.\n2. Add dynamic movements such as squats, lunges, arm swings, and torso rotations through an easy range.\n3. Finish with light versions of the first sport-specific movements, increasing speed without adding full power.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Calentamiento",
+      "description": "1. Empieza con círculos controlados de tobillos, caderas, hombros, codos y muñecas.\n2. Añade movimientos dinámicos como sentadillas, zancadas, balanceos de brazos y rotaciones del tronco dentro de un rango cómodo.\n3. Termina con versiones suaves de los primeros movimientos específicos del deporte, aumentando la velocidad sin aplicar toda la potencia.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Aquecimento",
+      "description": "1. Comece com círculos controlados nos tornozelos, quadris, ombros, cotovelos e punhos.\n2. Acrescente movimentos dinâmicos, como agachamentos, avanços, balanços dos braços e rotações do tronco, em uma amplitude confortável.\n3. Termine com versões leves dos primeiros movimentos específicos do esporte, aumentando a velocidade sem aplicar força total.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Échauffement",
+      "description": "1. Commencez par des cercles contrôlés des chevilles, des hanches, des épaules, des coudes et des poignets.\n2. Ajoutez des mouvements dynamiques comme des squats, des fentes, des balancements de bras et des rotations du tronc dans une amplitude confortable.\n3. Terminez par des versions légères des premiers mouvements propres au sport, en augmentant la vitesse sans utiliser toute la puissance.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Aufwärmen",
+      "description": "1. Beginne mit kontrollierten Kreisen der Sprunggelenke, Hüften, Schultern, Ellbogen und Handgelenke.\n2. Ergänze dynamische Bewegungen wie Kniebeugen, Ausfallschritte, Armschwünge und Rumpfdrehungen in einem angenehmen Bewegungsumfang.\n3. Schließe mit leichten Varianten der ersten sportartspezifischen Bewegungen ab und erhöhe die Geschwindigkeit, ohne volle Kraft einzusetzen.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Riscaldamento",
+      "description": "1. Inizia con circonduzioni controllate di caviglie, anche, spalle, gomiti e polsi.\n2. Aggiungi movimenti dinamici come squat, affondi, slanci delle braccia e rotazioni del busto entro un’ampiezza confortevole.\n3. Termina con versioni leggere dei primi movimenti specifici dello sport, aumentando la velocità senza usare tutta la potenza.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "热身",
+      "description": "1. 先控制动作，让踝关节、髋部、肩部、肘部和手腕做绕环运动。\n2. 加入深蹲、弓步、摆臂和躯干转动等动态动作，保持轻松舒适的活动幅度。\n3. 最后以较轻的力度练习该运动最先使用的专项动作，提高速度，但不要全力发力。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ウォームアップ",
+      "description": "1. 足首、股関節、肩、肘、手首をコントロールしながら回す動きから始めます。\n2. スクワット、ランジ、腕振り、体幹の回旋などの動的な動きを、無理のない範囲で加えます。\n3. 最後に、その競技で最初に行う動きを軽く練習し、全力を出さずに速度を上げます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "준비 운동",
+      "description": "1. 발목, 엉덩관절, 어깨, 팔꿈치 및 손목을 통제하며 원을 그리는 동작으로 시작합니다.\n2. 편안한 가동 범위에서 스쿼트, 런지, 팔 흔들기 및 몸통 회전과 같은 동적 동작을 추가합니다.\n3. 마지막으로 해당 종목에서 처음 수행할 동작을 가볍게 연습하며, 최대 힘을 쓰지 않고 속도를 높입니다.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "อบอุ่นร่างกาย",
+      "description": "1. เริ่มด้วยการหมุนข้อเท้า สะโพก ไหล่ ข้อศอก และข้อมือเป็นวงอย่างควบคุม\n2. เพิ่มการเคลื่อนไหวแบบไดนามิก เช่น สควอต ลันจ์ แกว่งแขน และหมุนลำตัว ในช่วงการเคลื่อนไหวที่ทำได้สบาย\n3. จบด้วยการฝึกท่าเริ่มต้นเฉพาะของกีฬานั้นแบบเบา ๆ เพิ่มความเร็วโดยไม่ออกแรงเต็มกำลัง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Разминка",
+      "description": "1. Начните с контролируемых круговых движений голеностопами, тазобедренными суставами, плечами, локтями и запястьями.\n2. Добавьте динамические движения: приседания, выпады, махи руками и повороты корпуса в комфортной амплитуде.\n3. Завершите лёгкими вариантами первых движений, характерных для вашего спорта, увеличивая скорость без полной мощности.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Розминка",
+      "description": "1. Почніть із контрольованих кругових рухів гомілковостопними й кульшовими суглобами, плечима, ліктями та зап’ястками.\n2. Додайте динамічні рухи: присідання, випади, махи руками та повороти корпусу в комфортній амплітуді.\n3. Завершіть легкими варіантами перших рухів, характерних для вашого спорту, збільшуючи швидкість без повної потужності.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "72.2",
+  "key": "kuk_sool_won_danjeon_breathing",
+  "title": "Danjeon Ki Breathing",
+  "description": "1. Sit cross-legged or stand with the spine upright, shoulders relaxed, and hands resting below the navel.\n2. Inhale slowly through the nose into the lower abdomen, hold briefly, then exhale through the mouth while keeping the abdomen firm.\n3. Continue at a calm, even pace for the round, keeping the attention on the danjeon below the navel.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kukSoolWon",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Danjeon Ki Breathing",
+      "description": "1. Sit cross-legged or stand with the spine upright, shoulders relaxed, and hands resting below the navel.\n2. Inhale slowly through the nose into the lower abdomen, hold briefly, then exhale through the mouth while keeping the abdomen firm.\n3. Continue at a calm, even pace for the round, keeping the attention on the danjeon below the navel.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Respiración ki del danjeon",
+      "description": "1. Siéntate con las piernas cruzadas o ponte de pie con la columna erguida, los hombros relajados y las manos apoyadas bajo el ombligo.\n2. Inhala despacio por la nariz llevando el aire al bajo vientre, retén un momento y exhala por la boca manteniendo el abdomen firme.\n3. Continúa a un ritmo tranquilo y regular durante el asalto, con la atención en el danjeon, bajo el ombligo.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Respiração ki do danjeon",
+      "description": "1. Sente-se de pernas cruzadas ou fique em pé com a coluna ereta, ombros relaxados e mãos apoiadas abaixo do umbigo.\n2. Inspire devagar pelo nariz enchendo o baixo-ventre, segure um instante e expire pela boca mantendo o abdômen firme.\n3. Continue em ritmo calmo e regular durante o round, com a atenção no danjeon, abaixo do umbigo.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Respiration ki du danjeon",
+      "description": "1. Asseyez-vous en tailleur ou tenez-vous debout, dos droit, épaules relâchées et mains posées sous le nombril.\n2. Inspirez lentement par le nez dans le bas-ventre, retenez brièvement, puis expirez par la bouche en gardant l'abdomen ferme.\n3. Poursuivez à un rythme calme et régulier pendant le round, l'attention portée sur le danjeon sous le nombril.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Danjeon-Ki-Atmung",
+      "description": "1. Sitze im Schneidersitz oder stehe mit aufrechter Wirbelsäule, lockeren Schultern und den Händen unterhalb des Nabels.\n2. Atme langsam durch die Nase in den Unterbauch ein, halte kurz an und atme dann durch den Mund aus, während der Bauch fest bleibt.\n3. Atme die ganze Runde ruhig und gleichmäßig weiter, die Aufmerksamkeit auf dem Danjeon unterhalb des Nabels.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Respirazione ki del danjeon",
+      "description": "1. Siediti a gambe incrociate o stai in piedi con la schiena eretta, le spalle rilassate e le mani appoggiate sotto l'ombelico.\n2. Inspira lentamente dal naso portando l'aria nel basso ventre, trattieni un attimo, poi espira dalla bocca mantenendo l'addome sodo.\n3. Prosegui a ritmo calmo e regolare per tutto il round, con l'attenzione sul danjeon sotto l'ombelico.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "丹田气息呼吸",
+      "description": "1. 盘腿而坐或站立，脊柱挺直，双肩放松，双手放在肚脐下方。\n2. 用鼻子缓慢吸气至小腹，稍作屏息，然后保持腹部紧实，从口中呼气。\n3. 整个回合以平静均匀的节奏持续呼吸，注意力集中在肚脐下方的丹田。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "丹田呼吸",
+      "description": "1. あぐらで座るか立って、背筋を伸ばし、肩の力を抜き、両手をへその下に添えます。\n2. 鼻からゆっくり下腹へ息を吸い、少し止めてから、腹を締めたまま口から吐きます。\n3. ラウンドの間、落ち着いた一定のペースで続け、へその下の丹田に意識を置きます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "단전 기 호흡",
+      "description": "1. 책상다리로 앉거나 서서 척추를 곧게 펴고 어깨에 힘을 빼며, 두 손을 배꼽 아래에 둡니다.\n2. 코로 천천히 아랫배까지 숨을 들이마시고 잠시 멈춘 뒤, 배를 단단히 유지한 채 입으로 내쉽니다.\n3. 라운드 동안 차분하고 고른 속도로 계속하며, 배꼽 아래 단전에 의식을 둡니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "หายใจรวมพลังที่ตันเจียน",
+      "description": "1. นั่งขัดสมาธิหรือยืนให้หลังตรง ผ่อนคลายไหล่ และวางมือไว้ใต้สะดือ\n2. หายใจเข้าช้าๆ ทางจมูกลงไปที่ท้องน้อย กลั้นไว้ครู่หนึ่ง แล้วหายใจออกทางปากโดยเกร็งหน้าท้องไว้\n3. ทำต่อเนื่องด้วยจังหวะสงบสม่ำเสมอตลอดยก และจดจ่อที่ตันเจียนใต้สะดือ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Дыхание ки в даньчжон",
+      "description": "1. Сядьте со скрещёнными ногами или встаньте, выпрямив позвоночник, расслабив плечи и положив руки ниже пупка.\n2. Медленно вдохните носом в низ живота, ненадолго задержите дыхание, затем выдохните ртом, сохраняя живот упругим.\n3. Продолжайте в спокойном ровном темпе весь раунд, удерживая внимание на даньчжон ниже пупка.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Дихання кі в даньчжон",
+      "description": "1. Сядьте зі схрещеними ногами або встаньте, випрямивши хребет, розслабивши плечі й поклавши руки нижче пупка.\n2. Повільно вдихніть носом у низ живота, ненадовго затримайте подих, потім видихніть ротом, тримаючи живіт пружним.\n3. Продовжуйте в спокійному рівному темпі весь раунд, утримуючи увагу на даньчжон нижче пупка.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

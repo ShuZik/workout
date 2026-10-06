@@ -1,0 +1,90 @@
+{
+  "id": "10.33",
+  "key": "cooldown_neck_stretch",
+  "title": "Neck Stretch",
+  "description": "1. Sit or stand tall with shoulders relaxed and chin level.\n2. Tilt one ear toward the same-side shoulder without lifting that shoulder or rotating the head.\n3. Hold at mild tension without pulling on the head, return to center, and repeat on the other side.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Neck Stretch",
+      "description": "1. Sit or stand tall with shoulders relaxed and chin level.\n2. Tilt one ear toward the same-side shoulder without lifting that shoulder or rotating the head.\n3. Hold at mild tension without pulling on the head, return to center, and repeat on the other side.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento de cuello",
+      "description": "1. Siéntate o ponte de pie con la espalda erguida, los hombros relajados y la barbilla nivelada.\n2. Inclina una oreja hacia el hombro del mismo lado sin levantar ese hombro ni girar la cabeza.\n3. Mantén una tensión leve sin tirar de la cabeza, vuelve al centro y repite del otro lado.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento do pescoço",
+      "description": "1. Sente-se ou fique em pé com a postura ereta, os ombros relaxados e o queixo nivelado.\n2. Incline uma orelha em direção ao ombro do mesmo lado sem levantar esse ombro nem girar a cabeça.\n3. Mantenha uma tensão leve sem puxar a cabeça, volte ao centro e repita do outro lado.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement du cou",
+      "description": "1. Asseyez-vous ou tenez-vous debout bien droit, les épaules détendues et le menton à l’horizontale.\n2. Inclinez une oreille vers l’épaule du même côté sans lever cette épaule ni tourner la tête.\n3. Maintenez une légère tension sans tirer sur la tête, revenez au centre et répétez de l’autre côté.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Nackendehnung",
+      "description": "1. Sitze oder stehe aufrecht, mit entspannten Schultern und waagerecht gehaltenem Kinn.\n2. Neige ein Ohr zur Schulter derselben Seite, ohne diese Schulter anzuheben oder den Kopf zu drehen.\n3. Halte bei leichter Spannung, ohne am Kopf zu ziehen, kehre zur Mitte zurück und wiederhole auf der anderen Seite.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento del collo",
+      "description": "1. Siediti o resta in piedi con la schiena dritta, le spalle rilassate e il mento orizzontale.\n2. Inclina un orecchio verso la spalla dello stesso lato senza sollevare quella spalla né ruotare la testa.\n3. Mantieni una lieve tensione senza tirare la testa, torna al centro e ripeti dall’altro lato.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "颈部拉伸",
+      "description": "1. 坐直或站直，放松肩部，下巴保持水平。\n2. 将一侧耳朵倾向同侧肩膀，不要抬起该侧肩膀或转动头部。\n3. 在轻微拉伸感下保持，不要拉拽头部，回到中间，再换侧重复。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "首のストレッチ",
+      "description": "1. 背筋を伸ばして座るか立ち、肩を緩めて顎を水平に保ちます。\n2. 肩を上げたり頭を回したりせず、片耳を同じ側の肩に近づけるように傾けます。\n3. 頭を引っ張らずに軽い張りで保ち、中央に戻して反対側も繰り返します。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "목 스트레칭",
+      "description": "1. 허리를 펴고 앉거나 서서 어깨의 긴장을 풀고 턱을 수평으로 유지합니다.\n2. 어깨를 올리거나 머리를 돌리지 않고 한쪽 귀를 같은 쪽 어깨로 기울입니다.\n3. 머리를 잡아당기지 않고 가벼운 당김에서 유지한 뒤 중앙으로 돌아와 반대쪽도 반복합니다.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "การยืดกล้ามเนื้อคอ",
+      "description": "1. นั่งหรือยืนตัวตรง ผ่อนคลายไหล่ และให้คางอยู่ในแนวระดับ\n2. เอียงหูข้างหนึ่งเข้าหาไหล่ข้างเดียวกัน โดยไม่ยกไหล่ข้างนั้นหรือหมุนศีรษะ\n3. ค้างไว้เมื่อรู้สึกตึงเล็กน้อยโดยไม่ดึงศีรษะ กลับมาตรงกลาง แล้วทำซ้ำอีกข้าง",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Растяжка шеи",
+      "description": "1. Сядьте или встаньте прямо, расслабьте плечи и держите подбородок горизонтально.\n2. Наклоните одно ухо к плечу с той же стороны, не поднимая это плечо и не поворачивая голову.\n3. Удерживайте лёгкое натяжение, не тяните голову, вернитесь в центр и повторите с другой стороны.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Розтягування шиї",
+      "description": "1. Сядьте або станьте рівно, розслабте плечі й тримайте підборіддя горизонтально.\n2. Нахиліть одне вухо до плеча з того самого боку, не піднімаючи це плече й не повертаючи голову.\n3. Утримуйте легкий натяг, не тягніть голову, поверніться в центр і повторіть з іншого боку.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  }
+}

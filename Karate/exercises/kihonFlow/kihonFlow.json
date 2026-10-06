@@ -1,0 +1,90 @@
+{
+  "id": "40.21",
+  "key": "karate_kihon_flow",
+  "title": "Kihon Flow",
+  "description": "1. Choose a short sequence such as stance, block, and counterpunch, and set the first stance precisely.\n2. Perform each technique in order, coordinating the hip turn and opposite-hand retraction without rushing between positions.\n3. Hold each finish briefly, then rechamber and establish the next stance before continuing the sequence.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Practice",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kihon Flow",
+      "description": "1. Choose a short sequence such as stance, block, and counterpunch, and set the first stance precisely.\n2. Perform each technique in order, coordinating the hip turn and opposite-hand retraction without rushing between positions.\n3. Hold each finish briefly, then rechamber and establish the next stance before continuing the sequence.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Secuencia de kihon",
+      "description": "1. Elige una secuencia corta, como postura, bloqueo y contragolpe, y coloca la primera postura con precisión.\n2. Ejecuta cada técnica en orden, coordinando el giro de cadera y la retracción de la mano contraria sin apresurarte entre posiciones.\n3. Mantén brevemente cada final, vuelve a preparar y establece la siguiente postura antes de continuar la secuencia.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Sequência de kihon",
+      "description": "1. Escolha uma sequência curta, como base, defesa e contra-ataque, e posicione a primeira base com precisão.\n2. Execute cada técnica em ordem, coordenando a rotação do quadril e o recolhimento da mão oposta sem se apressar entre as posições.\n3. Sustente brevemente cada finalização, prepare novamente e estabeleça a próxima base antes de continuar a sequência.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Enchaînement de kihon",
+      "description": "1. Choisissez un court enchaînement, par exemple position, blocage et contre-attaque, et placez la première position avec précision.\n2. Exécutez chaque technique dans l’ordre en coordonnant la rotation de hanche et le retrait de la main opposée, sans vous précipiter entre les positions.\n3. Marquez brièvement chaque fin de technique, réarmez et établissez la position suivante avant de poursuivre l’enchaînement.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Kihon-Abfolge",
+      "description": "1. Wähle eine kurze Abfolge wie Stand, Block und Konter und nimm den ersten Stand präzise ein.\n2. Führe jede Technik der Reihe nach aus und koordiniere Hüftdrehung und Zurückziehen der Gegenhand, ohne zwischen den Positionen zu hetzen.\n3. Halte jedes Technikende kurz, hole erneut aus und baue den nächsten Stand auf, bevor du die Abfolge fortsetzt.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Sequenza di kihon",
+      "description": "1. Scegli una breve sequenza, come posizione, parata e contrattacco, e imposta con precisione la prima posizione.\n2. Esegui ogni tecnica in ordine, coordinando la rotazione dell’anca e il richiamo della mano opposta senza affrettarti tra le posizioni.\n3. Mantieni brevemente ogni chiusura, ricarica e imposta la posizione successiva prima di proseguire la sequenza.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "基本技连贯练习",
+      "description": "1. 选择一组简短组合，如站姿、格挡和反击，并精确站好第一个站姿。\n2. 按顺序完成每个技术，协调髋部转动与另一只手的回收，各位置之间不要仓促。\n3. 每个动作结束时短暂停顿，重新蓄势并站稳下一个站姿，再继续组合。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "基本の連続稽古",
+      "description": "1. 立ち方、受け、逆突きなど短い組み合わせを選び、最初の立ち方を正確にとります。\n2. 腰の回転と引き手を連動させ、位置の間で急がずに各技を順番に行います。\n3. 各技の極めを一瞬保ち、構え直して次の立ち方をとってから組み合わせを続けます。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "기본 연결 동작",
+      "description": "1. 서기, 막기, 반격 지르기처럼 짧은 연결을 정하고 첫 서기를 정확하게 잡습니다.\n2. 골반 회전과 반대 손 당기기를 맞추며 자세 사이에서 서두르지 않고 기술을 순서대로 수행합니다.\n3. 각 마무리를 잠시 유지하고 다시 준비해 다음 서기를 잡은 뒤 연결을 이어갑니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "การฝึกคิฮนต่อเนื่อง",
+      "description": "1. เลือกชุดท่าสั้น ๆ เช่น ท่ายืน การปัดป้อง และหมัดสวนกลับ แล้วจัดท่ายืนแรกให้แม่นยำ\n2. ทำแต่ละเทคนิคตามลำดับ โดยประสานการหมุนสะโพกกับการดึงมืออีกข้างกลับ ไม่รีบเร่งระหว่างตำแหน่ง\n3. ค้างท่าจบของแต่ละเทคนิคสั้น ๆ แล้วเตรียมใหม่และจัดท่ายืนถัดไปก่อนทำชุดท่าต่อ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Связка кихон",
+      "description": "1. Выберите короткую связку, например стойка, блок и контрудар, и точно займите первую стойку.\n2. Выполняйте каждую технику по порядку, согласуя поворот таза с отведением противоположной руки и не торопясь между позициями.\n3. Ненадолго фиксируйте каждое завершение, снова подготовьтесь и займите следующую стойку, прежде чем продолжить связку.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Зв’язка кіхон",
+      "description": "1. Оберіть коротку зв’язку, наприклад стійка, блок і контрудар, і точно займіть першу стійку.\n2. Виконуйте кожну техніку по черзі, узгоджуючи поворот таза з відведенням протилежної руки й не поспішаючи між позиціями.\n3. Ненадовго фіксуйте кожне завершення, знову підготуйтеся й займіть наступну стійку, перш ніж продовжити зв’язку.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

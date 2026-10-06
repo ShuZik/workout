@@ -1,0 +1,90 @@
+{
+  "id": "59.1",
+  "key": "hand_to_hand_combat",
+  "title": "Hand-to-Hand Combat",
+  "description": "1. On mats with a trained partner and protective gear, take a mobile fighting stance with the hands guarding the head.\n2. Combine punch and kick series with throws and a short controlled ground phase with body strikes and a submission attempt, within the agreed rules.\n3. Reset to stance after each exchange and stop immediately at a tap, a verbal signal or the coach's command.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "handToHandCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hand-to-Hand Combat",
+      "description": "1. On mats with a trained partner and protective gear, take a mobile fighting stance with the hands guarding the head.\n2. Combine punch and kick series with throws and a short controlled ground phase with body strikes and a submission attempt, within the agreed rules.\n3. Reset to stance after each exchange and stop immediately at a tap, a verbal signal or the coach's command.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Combate cuerpo a cuerpo",
+      "description": "1. Sobre tatami, con un compañero entrenado y equipo de protección, adopta una guardia móvil con las manos protegiendo la cabeza.\n2. Combina series de golpes y patadas con proyecciones y una fase corta y controlada en el suelo con golpes al cuerpo y un intento de sumisión, dentro de las reglas acordadas.\n3. Vuelve a la guardia tras cada intercambio y para de inmediato ante una palmada, una señal verbal o la orden del entrenador.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Combate corpo a corpo",
+      "description": "1. No tatame, com um parceiro treinado e equipamento de proteção, assuma uma guarda móvel com as mãos protegendo a cabeça.\n2. Combine séries de socos e chutes com projeções e uma fase curta e controlada no chão com golpes no corpo e uma tentativa de finalização, dentro das regras combinadas.\n3. Volte à guarda após cada troca e pare imediatamente a um toque, sinal verbal ou comando do treinador.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Combat au corps à corps",
+      "description": "1. Sur le tatami, avec un partenaire entraîné et des protections, prenez une garde mobile, mains protégeant la tête.\n2. Combinez séries de coups de poing et de pied, projections et une courte phase au sol contrôlée avec frappes au corps et tentative de soumission, selon les règles convenues.\n3. Revenez en garde après chaque échange et arrêtez immédiatement à la frappe au sol, au signal verbal ou au commandement de l’entraîneur.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Nahkampf (Rukopashny Boi)",
+      "description": "1. Nimm auf der Matte mit einem geübten Partner und Schutzausrüstung eine bewegliche Kampfstellung ein, die Hände schützen den Kopf.\n2. Kombiniere Schlag- und Trittserien mit Würfen und einer kurzen, kontrollierten Bodenphase mit Körpertreffern und einem Aufgabeversuch nach den vereinbarten Regeln.\n3. Kehre nach jedem Austausch in die Stellung zurück und stoppe sofort bei Abklopfen, verbalem Signal oder Kommando des Trainers.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Combattimento corpo a corpo",
+      "description": "1. Sul tatami, con un compagno allenato e protezioni, assumi una guardia mobile con le mani a protezione della testa.\n2. Combina serie di pugni e calci con proiezioni e una breve fase a terra controllata con colpi al corpo e un tentativo di sottomissione, secondo le regole concordate.\n3. Torna in guardia dopo ogni scambio e fermati subito a un battito, a un segnale verbale o al comando dell’allenatore.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "徒手格斗（Рукопашный бой）",
+      "description": "1. 在垫上与受过训练的同伴穿戴护具，站成灵活的实战姿势，双手护头。\n2. 在约定规则内，把拳腿连击与摔法以及简短可控的地面阶段（击打躯干并尝试降服）结合起来。\n3. 每次交手后回到实战姿势，一旦拍垫、口头示意或教练口令立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "白兵格闘（ルカパシュヌイ・ボイ）",
+      "description": "1. マット上で訓練されたパートナーと防具を着け、両手で頭を守る動きやすい構えをとります。\n2. 合意したルールの範囲で、突きと蹴りの連打、投げ、胴への打撃と関節技を試みる短くコントロールされた寝技を組み合わせます。\n3. 攻防ごとに構えに戻り、タップ、声の合図、指導者の号令があればすぐに止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "백병격투",
+      "description": "1. 매트 위에서 훈련된 파트너와 보호구를 착용하고 두 손으로 머리를 보호하는 기동성 있는 대련 자세를 잡습니다.\n2. 합의한 규칙 안에서 펀치·킥 연타, 던지기, 몸통 타격과 서브미션 시도를 포함한 짧고 통제된 그라운드 단계를 조합합니다.\n3. 교환마다 자세로 돌아오고 탭, 구두 신호, 코치의 구령에 즉시 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "การต่อสู้ระยะประชิด (รูคาพาชนืยบอย)",
+      "description": "1. บนเบาะกับคู่ฝึกที่ผ่านการฝึกและสวมอุปกรณ์ป้องกัน ยืนท่าต่อสู้ที่คล่องตัว มือป้องกันศีรษะ\n2. ผสมชุดหมัดและเตะกับการทุ่ม และช่วงบนพื้นสั้น ๆ ที่ควบคุม มีการโจมตีลำตัวและพยายามล็อก ภายใต้กติกาที่ตกลง\n3. กลับสู่ท่าหลังการแลกแต่ละครั้ง และหยุดทันทีเมื่อตบเบาะ ส่งสัญญาณเสียง หรือโค้ชสั่ง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Рукопашный бой",
+      "description": "1. На татами с подготовленным партнёром и в защитной экипировке займите подвижную боевую стойку, руки защищают голову.\n2. Сочетайте серии ударов руками и ногами с бросками и коротким контролируемым партером с ударами по корпусу и попыткой болевого в рамках оговорённых правил.\n3. После каждого обмена возвращайтесь в стойку и сразу останавливайтесь по хлопку, голосовому сигналу или команде тренера.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Рукопашний бій",
+      "description": "1. На татамі з підготовленим партнером і в захисному спорядженні займіть рухливу бойову стійку, руки захищають голову.\n2. Поєднуйте серії ударів руками й ногами з кидками та коротким контрольованим партером з ударами по корпусу й спробою больового в межах узгоджених правил.\n3. Після кожного обміну повертайтеся в стійку й одразу зупиняйтеся за поплескуванням, голосовим сигналом або командою тренера.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

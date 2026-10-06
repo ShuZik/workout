@@ -1,0 +1,249 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "KickBoxing",
+    "id": "3",
+    "icon": "KickBoxing/Icon.png",
+    "symbolName": "figure.kickboxing",
+    "title": "Kickboxing",
+    "workoutType": "kickBoxing",
+    "translations": {
+      "en": {
+        "title": "Kickboxing"
+      },
+      "es": {
+        "title": "Kickboxing"
+      },
+      "pt": {
+        "title": "Kickboxing"
+      },
+      "fr": {
+        "title": "Kick-boxing"
+      },
+      "de": {
+        "title": "Kickboxen"
+      },
+      "it": {
+        "title": "Kickboxing"
+      },
+      "zh-Hans": {
+        "title": "踢拳"
+      },
+      "ja": {
+        "title": "キックボクシング"
+      },
+      "ko": {
+        "title": "킥복싱"
+      },
+      "th": {
+        "title": "คิกบ็อกซิ่ง"
+      },
+      "ru": {
+        "title": "Кикбоксинг"
+      },
+      "uk": {
+        "title": "Кікбоксинг"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "KickBoxing/exercises/kickboxing/Icon.png",
+      "json": "KickBoxing/exercises/kickboxing/kickboxing.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/jab/Icon.png",
+      "json": "KickBoxing/exercises/jab/jab.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/cross/Icon.png",
+      "json": "KickBoxing/exercises/cross/cross.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/leadHook/Icon.png",
+      "json": "KickBoxing/exercises/leadHook/leadHook.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rearHook/Icon.png",
+      "json": "KickBoxing/exercises/rearHook/rearHook.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/leadUppercut/Icon.png",
+      "json": "KickBoxing/exercises/leadUppercut/leadUppercut.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rearUppercut/Icon.png",
+      "json": "KickBoxing/exercises/rearUppercut/rearUppercut.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/leadFrontKick/Icon.png",
+      "json": "KickBoxing/exercises/leadFrontKick/leadFrontKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rearFrontKick/Icon.png",
+      "json": "KickBoxing/exercises/rearFrontKick/rearFrontKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/leadRoundhouseKick/Icon.png",
+      "json": "KickBoxing/exercises/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rearRoundhouseKick/Icon.png",
+      "json": "KickBoxing/exercises/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/leadSideKick/Icon.png",
+      "json": "KickBoxing/exercises/leadSideKick/leadSideKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rearSideKick/Icon.png",
+      "json": "KickBoxing/exercises/rearSideKick/rearSideKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/kickBlockCheckDrill/Icon.png",
+      "json": "KickBoxing/exercises/kickBlockCheckDrill/kickBlockCheckDrill.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/leadLowKick/Icon.png",
+      "json": "KickBoxing/exercises/leadLowKick/leadLowKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rearLowKick/Icon.png",
+      "json": "KickBoxing/exercises/rearLowKick/rearLowKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/leadKnee/Icon.png",
+      "json": "KickBoxing/exercises/leadKnee/leadKnee.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rearKnee/Icon.png",
+      "json": "KickBoxing/exercises/rearKnee/rearKnee.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/crescentKick/Icon.png",
+      "json": "KickBoxing/exercises/crescentKick/crescentKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/axeKick/Icon.png",
+      "json": "KickBoxing/exercises/axeKick/axeKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/spinningBackKick/Icon.png",
+      "json": "KickBoxing/exercises/spinningBackKick/spinningBackKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/footSweep/Icon.png",
+      "json": "KickBoxing/exercises/footSweep/footSweep.json"
+    },
+    {
+      "json": "KickBoxing/exercises/kickboxingStance/kickboxingStance.json",
+      "icon": "KickBoxing/exercises/kickboxingStance/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/forwardBackwardStep/forwardBackwardStep.json",
+      "icon": "KickBoxing/exercises/forwardBackwardStep/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/lateralStep/lateralStep.json",
+      "icon": "KickBoxing/exercises/lateralStep/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/leadHookKick/leadHookKick.json",
+      "icon": "KickBoxing/exercises/leadHookKick/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/rearHookKick/rearHookKick.json",
+      "icon": "KickBoxing/exercises/rearHookKick/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/parry/parry.json",
+      "icon": "KickBoxing/exercises/parry/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/block/block.json",
+      "icon": "KickBoxing/exercises/block/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/rollWeave/rollWeave.json",
+      "icon": "KickBoxing/exercises/rollWeave/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/bodyJab/bodyJab.json",
+      "icon": "KickBoxing/exercises/bodyJab/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/bodyCross/bodyCross.json",
+      "icon": "KickBoxing/exercises/bodyCross/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/leadBodyHook/leadBodyHook.json",
+      "icon": "KickBoxing/exercises/leadBodyHook/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/rearBodyHook/rearBodyHook.json",
+      "icon": "KickBoxing/exercises/rearBodyHook/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/leadBodyUppercut/leadBodyUppercut.json",
+      "icon": "KickBoxing/exercises/leadBodyUppercut/Icon.png"
+    },
+    {
+      "json": "KickBoxing/exercises/rearBodyUppercut/rearBodyUppercut.json",
+      "icon": "KickBoxing/exercises/rearBodyUppercut/Icon.png"
+    },
+    {
+      "icon": "KickBoxing/exercises/corkscrewPunch/Icon.png",
+      "json": "KickBoxing/exercises/corkscrewPunch/corkscrewPunch.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/spinningBackfist/Icon.png",
+      "json": "KickBoxing/exercises/spinningBackfist/spinningBackfist.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/switchKick/Icon.png",
+      "json": "KickBoxing/exercises/switchKick/switchKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/spinningHookKick/Icon.png",
+      "json": "KickBoxing/exercises/spinningHookKick/spinningHookKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/sideKneeKick/Icon.png",
+      "json": "KickBoxing/exercises/sideKneeKick/sideKneeKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/scissorFrontKick/Icon.png",
+      "json": "KickBoxing/exercises/scissorFrontKick/scissorFrontKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/scissorRoundhouseKick/Icon.png",
+      "json": "KickBoxing/exercises/scissorRoundhouseKick/scissorRoundhouseKick.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/parryAndStraightCounter/Icon.png",
+      "json": "KickBoxing/exercises/parryAndStraightCounter/parryAndStraightCounter.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/rollUnderHookAndBodyHookCounter/Icon.png",
+      "json": "KickBoxing/exercises/rollUnderHookAndBodyHookCounter/rollUnderHookAndBodyHookCounter.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/slipAndSimultaneousCounter/Icon.png",
+      "json": "KickBoxing/exercises/slipAndSimultaneousCounter/slipAndSimultaneousCounter.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/stepInCounterToTheSupportingLeg/Icon.png",
+      "json": "KickBoxing/exercises/stepInCounterToTheSupportingLeg/stepInCounterToTheSupportingLeg.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/taskSparringOffensive/Icon.png",
+      "json": "KickBoxing/exercises/taskSparringOffensive/taskSparringOffensive.json"
+    },
+    {
+      "icon": "KickBoxing/exercises/taskSparringRhythmBreaking/Icon.png",
+      "json": "KickBoxing/exercises/taskSparringRhythmBreaking/taskSparringRhythmBreaking.json"
+    }
+  ]
+}

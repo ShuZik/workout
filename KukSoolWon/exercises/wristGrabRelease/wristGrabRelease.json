@@ -1,0 +1,90 @@
+{
+  "id": "72.8",
+  "key": "kuk_sool_won_wrist_grab_release",
+  "title": "Wrist Grab Release",
+  "description": "1. Attacker grabs the defender's wrist with a firm but cooperative grip; defender stays relaxed.\n2. Defender rotates the wrist toward the attacker's thumb and pulls out with a quick circular motion, stepping to the outside.\n3. Defender returns to a ready stance at a safe distance; attacker grips again with gradually more resistance, then roles switch.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kukSoolWon",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wrist Grab Release",
+      "description": "1. Attacker grabs the defender's wrist with a firm but cooperative grip; defender stays relaxed.\n2. Defender rotates the wrist toward the attacker's thumb and pulls out with a quick circular motion, stepping to the outside.\n3. Defender returns to a ready stance at a safe distance; attacker grips again with gradually more resistance, then roles switch.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Liberación de agarre de muñeca",
+      "description": "1. El atacante agarra la muñeca del defensor con un agarre firme pero colaborativo; el defensor se mantiene relajado.\n2. El defensor gira la muñeca hacia el pulgar del atacante y la saca con un movimiento circular rápido, saliendo hacia fuera.\n3. El defensor vuelve a la posición de preparado a una distancia segura; el atacante agarra de nuevo con una resistencia cada vez mayor y luego se intercambian los papeles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Soltura de agarre no punho",
+      "description": "1. O atacante agarra o punho do defensor com pegada firme, mas cooperativa; o defensor permanece relaxado.\n2. O defensor gira o punho em direção ao polegar do atacante e o puxa com um movimento circular rápido, saindo pelo lado de fora.\n3. O defensor volta à posição de prontidão a uma distância segura; o atacante agarra de novo com resistência gradualmente maior e depois os papéis se invertem.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Dégagement de saisie de poignet",
+      "description": "1. L'attaquant saisit le poignet du défenseur avec une prise ferme mais coopérative ; le défenseur reste détendu.\n2. Le défenseur tourne le poignet vers le pouce de l'attaquant et se dégage d'un mouvement circulaire rapide, en sortant vers l'extérieur.\n3. Le défenseur revient en position prête à distance de sécurité ; l'attaquant saisit à nouveau avec une résistance progressive, puis les rôles s'inversent.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Befreiung aus dem Handgelenkgriff",
+      "description": "1. Der Angreifer greift das Handgelenk des Verteidigers fest, aber kooperativ; der Verteidiger bleibt locker.\n2. Der Verteidiger dreht das Handgelenk zum Daumen des Angreifers und löst sich mit einer schnellen Kreisbewegung, während er nach außen tritt.\n3. Der Verteidiger kehrt in sicherem Abstand in die Bereitschaftsstellung zurück; der Angreifer greift erneut mit allmählich mehr Widerstand, dann werden die Rollen getauscht.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Liberazione dalla presa al polso",
+      "description": "1. L'attaccante afferra il polso del difensore con una presa salda ma collaborativa; il difensore resta rilassato.\n2. Il difensore ruota il polso verso il pollice dell'attaccante e lo sfila con un rapido movimento circolare, uscendo verso l'esterno.\n3. Il difensore torna in posizione di pronto a distanza di sicurezza; l'attaccante riafferra con resistenza via via maggiore, poi i ruoli si scambiano.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "解脱抓腕",
+      "description": "1. 攻者以牢固但配合的力度抓住守者手腕；守者保持放松。\n2. 守者将手腕转向攻者拇指一侧，以快速的画圆动作抽出，同时向外侧移步。\n3. 守者在安全距离回到预备姿势；攻者再次抓握并逐渐加大阻力，然后互换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "手首つかみからの外し",
+      "description": "1. 攻め手はしっかりと、ただし協力的な力で受け手の手首をつかみ、受け手は力を抜きます。\n2. 受け手は手首を攻め手の親指の方へ回し、素早い円の動きで抜きながら外側へ踏み出します。\n3. 受け手は安全な間合いで準備の姿勢に戻り、攻め手は少しずつ抵抗を強めて再びつかみ、その後役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "손목 잡기 빼기",
+      "description": "1. 공격자는 단단하지만 협조적인 힘으로 방어자의 손목을 잡고, 방어자는 힘을 뺍니다.\n2. 방어자는 손목을 공격자의 엄지 쪽으로 돌리며 빠른 원 동작으로 빼내고 바깥쪽으로 비켜섭니다.\n3. 방어자는 안전한 거리에서 준비 자세로 돌아오고, 공격자는 저항을 점차 높여 다시 잡은 뒤 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "แก้การจับข้อมือ",
+      "description": "1. ผู้โจมตีจับข้อมือผู้ป้องกันอย่างมั่นคงแต่ให้ความร่วมมือ ผู้ป้องกันผ่อนคลาย\n2. ผู้ป้องกันหมุนข้อมือไปทางนิ้วโป้งของผู้โจมตีแล้วดึงออกด้วยการหมุนเป็นวงอย่างรวดเร็ว พร้อมก้าวออกด้านนอก\n3. ผู้ป้องกันกลับสู่ท่าเตรียมในระยะปลอดภัย ผู้โจมตีจับใหม่โดยเพิ่มแรงต้านทีละน้อย แล้วสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Освобождение от захвата запястья",
+      "description": "1. Атакующий берёт запястье защищающегося крепким, но партнёрским захватом; защищающийся расслаблен.\n2. Защищающийся поворачивает запястье в сторону большого пальца атакующего и выводит его быстрым круговым движением, отступая наружу.\n3. Защищающийся возвращается в стойку готовности на безопасной дистанции; атакующий снова берёт захват, постепенно усиливая сопротивление, затем партнёры меняются ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Звільнення від захоплення зап'ястя",
+      "description": "1. Нападник бере зап'ястя захисника міцним, але партнерським захопленням; захисник розслаблений.\n2. Захисник повертає зап'ястя в бік великого пальця нападника й виводить його швидким коловим рухом, відступаючи назовні.\n3. Захисник повертається в стійку готовності на безпечній дистанції; нападник знову бере захоплення, поступово посилюючи опір, потім партнери міняються ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "60.1",
+  "key": "hapkido_main",
+  "title": "Hapkido",
+  "description": "1. Stand in a relaxed guard on mats with knees soft and hands open in front of the body.\n2. Practice breakfalls, circular evasions, kicks, and controlled wrist or arm releases with a trained partner at a cooperative pace.\n3. Apply every joint control slowly, release at the first tap or signal, and reset to guard before the next repetition.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "hapkido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hapkido",
+      "description": "1. Stand in a relaxed guard on mats with knees soft and hands open in front of the body.\n2. Practice breakfalls, circular evasions, kicks, and controlled wrist or arm releases with a trained partner at a cooperative pace.\n3. Apply every joint control slowly, release at the first tap or signal, and reset to guard before the next repetition.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Hapkido",
+      "description": "1. Ponte en guardia relajada sobre colchonetas, con las rodillas blandas y las manos abiertas delante del cuerpo.\n2. Practica caídas, esquivas circulares, patadas y liberaciones controladas de muñeca o brazo con un compañero entrenado a ritmo cooperativo.\n3. Aplica cada control articular despacio, suelta a la primera palmada o señal y vuelve a la guardia antes de la siguiente repetición.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Hapkido",
+      "description": "1. Fique em guarda relaxada sobre tatames, joelhos soltos e mãos abertas à frente do corpo.\n2. Pratique quedas, esquivas circulares, chutes e liberações controladas de punho ou braço com um parceiro treinado em ritmo cooperativo.\n3. Aplique cada controle articular devagar, solte ao primeiro toque ou sinal e volte à guarda antes da próxima repetição.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Hapkido",
+      "description": "1. Tenez une garde détendue sur tapis, genoux souples, mains ouvertes devant le corps.\n2. Travaillez chutes, esquives circulaires, coups de pied et dégagements contrôlés de poignet ou de bras avec un partenaire entraîné, en coopération.\n3. Appliquez chaque contrôle articulaire lentement, relâchez à la première tape ou au premier signal et revenez en garde avant la répétition suivante.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Hapkido",
+      "description": "1. Auf Matten in lockerer Deckung stehen, Knie weich, Hände offen vor dem Körper.\n2. Fallschule, kreisförmiges Ausweichen, Tritte und kontrollierte Hand- oder Armbefreiungen mit einem geübten Partner kooperativ üben.\n3. Jeden Gelenkhebel langsam ansetzen, beim ersten Abklopfen oder Signal lösen und vor der nächsten Wiederholung in die Deckung zurück.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Hapkido",
+      "description": "1. Stai in guardia rilassata sul tatami, ginocchia morbide e mani aperte davanti al corpo.\n2. Pratica cadute, schivate circolari, calci e liberazioni controllate di polso o braccio con un partner allenato a ritmo cooperativo.\n3. Applica ogni leva articolare lentamente, rilascia al primo battito o segnale e torna in guardia prima della ripetizione successiva.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "合气道（韩国）",
+      "description": "1. 在垫子上以放松的戒备姿势站立，膝盖微屈，双手张开置于身前。\n2. 与训练有素的同伴以合作节奏练习倒法、圆形闪避、踢法以及受控的腕部或手臂解脱。\n3. 每个关节控制都缓慢施加，对方一拍或示意立即松开，回到戒备姿势再进行下一次。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ハプキド（合気道）",
+      "description": "1. マットの上で膝を柔らかくし、手を開いて体の前に置いたリラックスした構えで立ちます。\n2. 訓練を積んだ相手と協力的なペースで、受け身、円の体捌き、蹴り、制御された手首や腕の外しを練習します。\n3. 関節技はすべてゆっくりかけ、最初のタップや合図で放し、構えに戻ってから次の反復に移ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "합기도",
+      "description": "1. 매트 위에서 무릎을 부드럽게 하고 손을 펴서 몸 앞에 둔 편안한 겨눔 자세로 섭니다.\n2. 숙련된 짝과 협력적인 속도로 낙법, 원형 피하기, 발차기, 통제된 손목·팔 풀기를 연습합니다.\n3. 모든 관절 꺾기는 천천히 걸고 첫 탭이나 신호에 즉시 풀며, 겨눔 자세로 돌아와 다음 반복을 합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ฮับกิโด",
+      "description": "1. ยืนในท่าการ์ดผ่อนคลายบนเบาะ เข่างอเล็กน้อย มือแบอยู่หน้าลำตัว\n2. ฝึกการล้ม การหลบแบบวงกลม การเตะ และการแกะข้อมือหรือแขนอย่างควบคุมกับคู่ที่ฝึกมาแล้วในจังหวะร่วมมือ\n3. ล็อกข้อต่อทุกครั้งอย่างช้าๆ ปล่อยทันทีเมื่อคู่ตบหรือส่งสัญญาณ และกลับสู่การ์ดก่อนทำซ้ำ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Хапкидо",
+      "description": "1. Встаньте на татами в расслабленную стойку, колени мягкие, открытые ладони перед корпусом.\n2. Отрабатывайте страховку, круговые уходы, удары ногами и контролируемые освобождения запястья или руки с подготовленным партнёром в кооперативном темпе.\n3. Каждый болевой контроль проводите медленно, отпускайте при первом хлопке или сигнале и возвращайтесь в стойку перед следующим повтором.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Хапкідо",
+      "description": "1. Станьте на татамі в розслаблену стійку, коліна м’які, відкриті долоні перед корпусом.\n2. Відпрацьовуйте страхування, кругові відходи, удари ногами й контрольовані звільнення зап’ястка чи руки з підготовленим партнером у кооперативному темпі.\n3. Кожен больовий контроль проводьте повільно, відпускайте при першому плесканні чи сигналі й повертайтеся в стійку перед наступним повтором.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

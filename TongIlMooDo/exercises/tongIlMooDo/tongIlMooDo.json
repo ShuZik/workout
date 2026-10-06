@@ -1,0 +1,90 @@
+{
+  "id": "104.1",
+  "key": "tong_il_moo_do_main",
+  "title": "Tong-il Moo Do",
+  "description": "1. Start in a balanced guard on mats with knees soft and hands ready to strike or grab.\n2. Combine strikes and kicks with controlled throws and joint locks in short sequences, practicing falls between repetitions.\n3. Release every lock at the first tap, return to guard after each sequence, and keep the pace steady through the interval.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "tongIlMooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tong-il Moo Do",
+      "description": "1. Start in a balanced guard on mats with knees soft and hands ready to strike or grab.\n2. Combine strikes and kicks with controlled throws and joint locks in short sequences, practicing falls between repetitions.\n3. Release every lock at the first tap, return to guard after each sequence, and keep the pace steady through the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Tong-il Moo Do",
+      "description": "1. Empieza en guardia equilibrada sobre colchonetas con rodillas blandas y manos listas para golpear o agarrar.\n2. Combina golpes y patadas con proyecciones y luxaciones controladas en secuencias cortas, practicando caídas entre repeticiones.\n3. Suelta cada luxación a la primera palmada, vuelve a la guardia tras cada secuencia y mantén un ritmo constante durante el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Tong-il Moo Do",
+      "description": "1. Comece em guarda equilibrada sobre tatames com joelhos soltos e mãos prontas para golpear ou agarrar.\n2. Combine golpes e chutes com projeções e chaves controladas em sequências curtas, praticando quedas entre as repetições.\n3. Solte cada chave ao primeiro toque, volte à guarda após cada sequência e mantenha ritmo constante durante o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Tong-il Moo Do",
+      "description": "1. Commencez en garde équilibrée sur tapis, genoux souples, mains prêtes à frapper ou saisir.\n2. Enchaînez frappes et coups de pied avec projections et clés contrôlées en courtes séquences, en travaillant les chutes entre les répétitions.\n3. Relâchez chaque clé à la première tape, revenez en garde après chaque séquence et gardez un rythme régulier pendant l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Tong-il Moo Do",
+      "description": "1. In ausgewogener Deckung auf Matten beginnen, Knie weich, Hände bereit zum Schlagen oder Greifen.\n2. Schläge und Tritte mit kontrollierten Würfen und Gelenkhebeln in kurzen Folgen verbinden und zwischen den Wiederholungen Fallschule üben.\n3. Jeden Hebel beim ersten Abklopfen lösen, nach jeder Folge in die Deckung zurück und das Tempo im Intervall gleichmäßig halten.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Tong-il Moo Do",
+      "description": "1. Inizia in guardia equilibrata sul tatami con ginocchia morbide e mani pronte a colpire o afferrare.\n2. Combina colpi e calci con proiezioni e leve controllate in brevi sequenze, praticando le cadute tra le ripetizioni.\n3. Rilascia ogni leva al primo battito, torna in guardia dopo ogni sequenza e mantieni un ritmo costante durante l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "统一武道",
+      "description": "1. 在垫上以平衡的戒备姿势开始，膝盖微屈，双手准备击打或抓握。\n2. 以短序列组合拳脚与受控的摔法和关节技，在重复之间练习倒法。\n3. 对方一拍即松开关节技，每个序列后回到戒备姿势，整个时段保持稳定节奏。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "トンイルムド（統一武道）",
+      "description": "1. マットの上で膝を柔らかく、打つ・つかむ準備をした手でバランスのよい構えから始めます。\n2. 打撃と蹴りを、制御した投げと関節技と短い流れで組み合わせ、反復の合間に受け身を練習します。\n3. 関節技は最初のタップで放し、各流れの後は構えに戻り、インターバル中は一定のペースを保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "통일무도",
+      "description": "1. 매트 위에서 무릎을 부드럽게 하고 치거나 잡을 준비가 된 손으로 균형 잡힌 겨눔 자세로 시작합니다.\n2. 치기와 차기를 통제된 던지기, 관절 꺾기와 짧은 흐름으로 연결하고 반복 사이에 낙법을 연습합니다.\n3. 꺾기는 첫 탭에 풀고 흐름마다 겨눔 자세로 돌아오며 시간 내내 일정한 속도를 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ทงอิลมูโด",
+      "description": "1. เริ่มในท่าการ์ดที่สมดุลบนเบาะ เข่างอเล็กน้อย มือพร้อมตีหรือจับ\n2. ผสมการตีและเตะกับการทุ่มและล็อกข้อต่ออย่างควบคุมเป็นชุดสั้นๆ และฝึกการล้มระหว่างการทำซ้ำ\n3. ปล่อยการล็อกทันทีที่คู่ตบ กลับสู่การ์ดหลังแต่ละชุด และรักษาจังหวะให้คงที่ตลอดช่วงเวลา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Тониль-мудо",
+      "description": "1. Начните в сбалансированной стойке на татами, колени мягкие, руки готовы к удару или захвату.\n2. Соединяйте удары руками и ногами с контролируемыми бросками и болевыми короткими связками, отрабатывая падения между повторами.\n3. Отпускайте каждый болевой при первом хлопке, возвращайтесь в стойку после каждой связки и держите ровный темп весь интервал.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Тоніль-мудо",
+      "description": "1. Почніть у збалансованій стійці на татамі, коліна м’які, руки готові до удару чи захоплення.\n2. Поєднуйте удари руками й ногами з контрольованими кидками й больовими короткими зв’язками, відпрацьовуючи падіння між повторами.\n3. Відпускайте кожен больовий при першому плесканні, повертайтеся в стійку після кожної зв’язки й тримайте рівний темп весь інтервал.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "109.5",
+  "key": "wushu_daoshu",
+  "title": "Daoshu",
+  "description": "1. Hold a training broadsword in the left hand with the blade along the forearm, stand ready, and check that the space around you is clear.\n2. Pass the sword to the right hand and perform the daoshu routine with wrapping, chopping, cutting, and slicing actions while the free hand balances each changquan-style posture.\n3. Keep the blade path away from the head and body, then return the sword to the left hand and close in the ready stance.",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Daoshu",
+      "description": "1. Hold a training broadsword in the left hand with the blade along the forearm, stand ready, and check that the space around you is clear.\n2. Pass the sword to the right hand and perform the daoshu routine with wrapping, chopping, cutting, and slicing actions while the free hand balances each changquan-style posture.\n3. Keep the blade path away from the head and body, then return the sword to the left hand and close in the ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Daoshu",
+      "description": "1. Sujeta un sable de entrenamiento en la mano izquierda con la hoja a lo largo del antebrazo, ponte en preparación y comprueba que el espacio alrededor está libre.\n2. Pasa el sable a la mano derecha y ejecuta la rutina de daoshu con acciones de envolver, tajar, cortar y rebanar mientras la mano libre equilibra cada postura de estilo changquan.\n3. Mantén la trayectoria de la hoja lejos de la cabeza y el cuerpo, devuelve el sable a la mano izquierda y cierra en posición de preparación.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Daoshu",
+      "description": "1. Segure um sabre de treino na mão esquerda com a lâmina junto ao antebraço, fique pronto e verifique que o espaço ao redor está livre.\n2. Passe o sabre para a mão direita e execute a rotina de daoshu com ações de envolver, golpear, cortar e fatiar enquanto a mão livre equilibra cada postura no estilo changquan.\n3. Mantenha a trajetória da lâmina longe da cabeça e do corpo, devolva o sabre à mão esquerda e feche em posição de prontidão.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Daoshu",
+      "description": "1. Tenez un sabre d’entraînement dans la main gauche, lame le long de l’avant-bras, placez-vous prêt et vérifiez que l’espace autour est dégagé.\n2. Passez le sabre dans la main droite et exécutez l’enchaînement de daoshu avec des enroulements, frappes de taille, coupes et tranches, la main libre équilibrant chaque posture de style changquan.\n3. Gardez la trajectoire de la lame loin de la tête et du corps, puis rendez le sabre à la main gauche et fermez en position prête.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Daoshu",
+      "description": "1. Halte einen Trainingssäbel in der linken Hand mit der Klinge am Unterarm, stehe bereit und prüfe, dass der Raum um dich frei ist.\n2. Übergib den Säbel an die rechte Hand und laufe die Daoshu-Routine mit Wickel-, Hieb-, Schnitt- und Ziehschnittaktionen, während die freie Hand jede Changquan-Stellung ausbalanciert.\n3. Führe die Klinge stets fern von Kopf und Körper, gib den Säbel zurück in die linke Hand und schließe in Bereitschaftsstellung.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Daoshu",
+      "description": "1. Tieni una sciabola da allenamento nella mano sinistra con la lama lungo l’avambraccio, mettiti pronto e verifica che lo spazio intorno sia libero.\n2. Passa la sciabola alla mano destra ed esegui la routine di daoshu con azioni di avvolgere, fendere, tagliare e affettare mentre la mano libera bilancia ogni postura in stile changquan.\n3. Mantieni la traiettoria della lama lontana da testa e corpo, riporta la sciabola nella mano sinistra e chiudi in posizione di pronto.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "刀术",
+      "description": "1. 左手抱训练用刀，刀背贴于前臂，预备站立并确认周围空间安全。\n2. 接刀于右手，演练刀术套路，包括缠头、裹脑、劈、斩、砍等刀法，另一手配合长拳风格的定势保持平衡。\n3. 刀的运行路线远离头部和身体，最后将刀交回左手，以预备势收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "刀術",
+      "description": "1. 練習用の刀を左手に持ち刃を前腕に沿わせ、準備姿勢で周囲の安全を確認します。\n2. 刀を右手に持ち替え、纏頭・裹脳・劈・斬などの刀法で刀術套路を行い、空いた手で長拳風の各姿勢のバランスを取ります。\n3. 刃の軌道を頭と体から離し、刀を左手に戻して準備姿勢で収勢します。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "도술",
+      "description": "1. 훈련용 도를 왼손에 쥐고 칼날을 팔뚝을 따라 붙인 채 준비 자세를 취하고 주변이 비어 있는지 확인합니다.\n2. 도를 오른손으로 넘겨 감기, 내려베기, 베기, 썰기 동작으로 도술 투로를 수행하고 빈손으로 장권식 자세의 균형을 잡습니다.\n3. 칼날의 궤도를 머리와 몸에서 멀리 유지한 뒤 도를 왼손으로 돌려받고 준비 자세로 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "เต่าซู่ (กระบี่จีน)",
+      "description": "1. ถือดาบฝึกในมือซ้ายโดยแนบใบดาบกับแขน ยืนเตรียม และตรวจดูว่ารอบตัวโล่ง\n2. ส่งดาบไปมือขวาแล���วรำชุดเต่าซู่ด้วยท่าพันศีรษะ ฟัน ตัด และเฉือน ขณะที่มือว่างช่วยทรงตัวในแต่ละท่าแบบฉางเฉวียน\n3. ให้แนวใบดาบอยู่ห่างศีรษะและลำตัว แล้วส่งดาบกลับมือ��้ายและจบในท่าเตรียม",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Даошу",
+      "description": "1. Держите тренировочную саблю в левой руке, клинок вдоль предплечья, встаньте в стойку готовности и убедитесь, что пространство вокруг свободно.\n2. Переложите саблю в правую руку и выполните комплекс даошу с обкручиваниями, рубящими, режущими и срезающими действиями, свободной рукой уравновешивая каждую позу в стиле чанцюань.\n3. Ведите клинок вдали от головы и тела, затем верните саблю в левую руку и завершите в стойке готовности.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Даошу",
+      "description": "1. Тримайте тренувальну шаблю в лівій руці, клинок уздовж передпліччя, станьте в стійку готовності й переконайтеся, що простір довкола вільний.\n2. Перекладіть шаблю в праву руку й виконайте комплекс даошу з обкручуваннями, рубальними, різальними та зрізальними діями, вільною рукою врівноважуючи кожну позу в стилі чанцюань.\n3. Ведіть клинок далеко від голови й тіла, потім поверніть шаблю в ліву руку й завершіть у стійці готовності.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

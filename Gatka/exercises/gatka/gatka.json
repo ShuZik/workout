@@ -1,0 +1,90 @@
+{
+  "id": "55.1",
+  "key": "gatka_main",
+  "title": "Gatka",
+  "description": "1. Stand with the soti (training stick) in the right hand and the farri (small shield) in the left, feet apart and knees soft.\n2. Step and turn while striking with the soti and covering the body with the farri, keeping the stick moving in controlled arcs.\n3. Return to the ready stance after each sequence with the shield in front and the stick under control.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "gatka",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Gatka",
+      "description": "1. Stand with the soti (training stick) in the right hand and the farri (small shield) in the left, feet apart and knees soft.\n2. Step and turn while striking with the soti and covering the body with the farri, keeping the stick moving in controlled arcs.\n3. Return to the ready stance after each sequence with the shield in front and the stick under control.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Gatka",
+      "description": "1. Ponte de pie con el soti (palo de entrenamiento) en la mano derecha y el farri (escudo pequeño) en la izquierda, pies separados y rodillas flexionadas.\n2. Da pasos y giros mientras golpeas con el soti y cubres el cuerpo con el farri, manteniendo el palo en arcos controlados.\n3. Vuelve a la posición de preparación tras cada secuencia, con el escudo delante y el palo bajo control.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Gatka",
+      "description": "1. Fique com o soti (bastão de treino) na mão direita e o farri (escudo pequeno) na esquerda, pés afastados e joelhos fletidos.\n2. Dê passos e giros enquanto golpeia com o soti e cobre o corpo com o farri, mantendo o bastão em arcos controlados.\n3. Volte à posição de prontidão após cada sequência, com o escudo à frente e o bastão sob controle.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Gatka",
+      "description": "1. Tenez le soti (bâton d’entraînement) en main droite et le farri (petit bouclier) en main gauche, pieds écartés et genoux souples.\n2. Avancez et pivotez en frappant avec le soti et en couvrant le corps avec le farri, bâton en arcs contrôlés.\n3. Revenez en position prête après chaque séquence, bouclier devant et bâton sous contrôle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Gatka",
+      "description": "1. Stehe mit dem Soti (Trainingsstock) in der rechten und dem Farri (kleiner Schild) in der linken Hand, Füße auseinander, Knie locker.\n2. Schreite und drehe dich, während du mit dem Soti schlägst und den Körper mit dem Farri deckst, den Stock in kontrollierten Bögen.\n3. Kehre nach jeder Folge in die Bereitschaftsstellung zurück, Schild vorn, Stock unter Kontrolle.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Gatka",
+      "description": "1. Stai con il soti (bastone da allenamento) nella mano destra e il farri (piccolo scudo) nella sinistra, piedi divaricati e ginocchia morbide.\n2. Avanza e ruota colpendo con il soti e coprendo il corpo con il farri, mantenendo il bastone in archi controllati.\n3. Torna in posizione di pronto dopo ogni sequenza, con lo scudo davanti e il bastone sotto controllo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "锡克棍术",
+      "description": "1. 右手持soti（训练棍），左手持farri（小盾），双脚分开，膝盖放松。\n2. 边移步转身边用棍击打，用盾护住身体，让棍沿受控弧线运动。\n3. 每组动作后回到预备姿势，盾在身前，棍受控制。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ガトカ",
+      "description": "1. 右手にソティ（練習用の棒）、左手にファリ（小盾）を持ち、足を開いて膝をゆるめて立ちます。\n2. ソティで打ちながら踏み込みと回転を行い、ファリで体を守り、棒を制御された弧で動かし続けます。\n3. 各連続動作の後は盾を前に、棒を制御したまま準備姿勢に戻ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "가트카",
+      "description": "1. 오른손에 소티(훈련용 막대), 왼손에 파리(작은 방패)를 들고 발을 벌리고 무릎을 부드럽게 하여 섭니다.\n2. 소티로 치면서 걷고 돌며 파리로 몸을 가리고, 막대를 통제된 호로 계속 움직입니다.\n3. 각 연속 동작 후 방패를 앞에 두고 막대를 통제한 채 준비 자세로 돌아옵니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "กัตกา",
+      "description": "1. ยืนถือโสตี (ไม้ฝึก) ด้วยมือขวาและฟาร์รี (โล่เล็ก) ด้วยมือซ้าย แยกเท้าและผ่อนเข่า\n2. ก้าวและหมุนตัวขณะตีด้วยโสตีและใช้ฟาร์รีบังลำตัว ให้ไม้เคลื่อนเป็นวงโค้งที่ควบคุมได้\n3. กลับสู่ท่าเตรียมหลังแต่ละชุด โล่อยู่ด้านหน้าและไม้อยู่ในการควบคุม",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Гатка",
+      "description": "1. Встаньте с соти (тренировочной палкой) в правой руке и фарри (малым щитом) в левой, ноги врозь, колени мягкие.\n2. Шагайте и поворачивайтесь, нанося удары соти и прикрывая корпус фарри, ведя палку по контролируемым дугам.\n3. После каждой серии возвращайтесь в готовую позицию, щит впереди, палка под контролем.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Гатка",
+      "description": "1. Станьте із соті (тренувальною палицею) в правій руці й фаррі (малим щитом) у лівій, ноги нарізно, коліна м’які.\n2. Крокуйте й повертайтеся, завдаючи ударів соті й прикриваючи корпус фаррі, ведучи палицю контрольованими дугами.\n3. Після кожної серії повертайтеся в готову позицію, щит попереду, палиця під контролем.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

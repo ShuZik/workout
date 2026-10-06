@@ -1,0 +1,90 @@
+{
+  "id": "69.1",
+  "key": "kendo_main",
+  "title": "Kendo",
+  "description": "1. Stand in chudan-no-kamae with a shinai or bokuto, left heel slightly raised and the tip pointing at the partner's throat.\n2. Move with suri-ashi and strike men, kote, or do with a stamping step, a clear kiai, and sword, body, and spirit together.\n3. Pass through or recover distance, keep zanshin, and rebuild kamae before the next attack.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kendo",
+      "description": "1. Stand in chudan-no-kamae with a shinai or bokuto, left heel slightly raised and the tip pointing at the partner's throat.\n2. Move with suri-ashi and strike men, kote, or do with a stamping step, a clear kiai, and sword, body, and spirit together.\n3. Pass through or recover distance, keep zanshin, and rebuild kamae before the next attack.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kendo",
+      "description": "1. Colócate en chudan-no-kamae con shinai o bokuto, el talón izquierdo algo elevado y la punta hacia la garganta del compañero.\n2. Desplázate con suri-ashi y golpea men, kote o do con pisada, un kiai claro y espada, cuerpo y espíritu unidos.\n3. Atraviesa o recupera la distancia, mantén el zanshin y rehaz el kamae antes del siguiente ataque.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kendo",
+      "description": "1. Fique em chudan-no-kamae com shinai ou bokuto, o calcanhar esquerdo levemente elevado e a ponta na direção da garganta do parceiro.\n2. Desloque-se com suri-ashi e golpeie men, kote ou do com pisada, kiai claro e espada, corpo e espírito juntos.\n3. Passe ou recupere a distância, mantenha o zanshin e refaça o kamae antes do próximo ataque.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kendo",
+      "description": "1. Placez-vous en chudan-no-kamae avec shinai ou bokuto, talon gauche légèrement levé, pointe vers la gorge du partenaire.\n2. Déplacez-vous en suri-ashi et frappez men, kote ou do avec appel du pied, kiai net et unité sabre-corps-esprit.\n3. Traversez ou reprenez la distance, gardez le zanshin et reformez le kamae avant l’attaque suivante.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kendo",
+      "description": "1. Stehe im Chudan-no-Kamae mit Shinai oder Bokuto, die linke Ferse leicht angehoben, die Spitze zur Kehle des Partners.\n2. Bewege dich mit Suri-Ashi und schlage Men, Kote oder Do mit Stampfschritt, klarem Kiai und Einheit von Schwert, Körper und Geist.\n3. Gehe durch oder stelle die Distanz wieder her, halte Zanshin und baue das Kamae vor dem nächsten Angriff neu auf.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Kendo",
+      "description": "1. Mettiti in chudan-no-kamae con shinai o bokuto, tallone sinistro leggermente sollevato e punta verso la gola del compagno.\n2. Muoviti in suri-ashi e colpisci men, kote o do con battuta del piede, kiai chiaro e spada, corpo e spirito uniti.\n3. Passa oltre o recupera la distanza, mantieni lo zanshin e ricostruisci il kamae prima dell’attacco successivo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "剑道",
+      "description": "1. 持竹刀或木刀成中段构，左脚跟微抬，剑尖指向对方咽喉。\n2. 以滑步移动，配合踏步、清晰的气合及气剑体一致，击打面、小手或胴。\n3. 穿过或恢复间合，保持残心，在下一次进攻前重新成构。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "剣道",
+      "description": "1. 竹刀または木刀で中段の構えをとり、左かかとを少し上げ、剣先を相手の喉に向けます。\n2. すり足で移動し、踏み込み、はっきりした気合、気剣体一致で面・小手・胴を打ちます。\n3. 打ち抜けるか間合いを戻し、残心を示して次の攻めの前に構え直します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "검도",
+      "description": "1. 죽도나 목검으로 중단세를 잡고 왼발 뒤꿈치를 살짝 들며 칼끝을 상대 목을 향하게 합니다.\n2. 스리아시로 움직이며 구름발, 분명한 기합, 기검체일치로 머리·손목·허리를 칩니다.\n3. 지나치거나 거리를 회복하고 잔심을 유지한 뒤 다음 공격 전에 자세를 다시 잡습니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "เคนโด",
+      "description": "1. ยืนท่าชูดังโนะคามาเอะด้วยชิไนหรือโบคุโตะ ส้นเท้าซ้ายยกเล็กน้อย ปลายดาบชี้ที่คอคู่ฝึก\n2. เคลื่อนที่แบบซูริอาชิ แล้วตีเมน โคเตะ หรือโดพร้อมการกระทืบเท้า เสียงคิไอชัดเจน และความเป็นหนึ่งของดาบ กาย ใจ\n3. ผ่านไปหรือกลับสู่ระยะ คงซันชิน และตั้งท่าใหม่ก่อนการโจมตีครั้งต่อไป",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кэндо",
+      "description": "1. Встаньте в тюдан-но-камаэ с синаем или боккэном, левая пятка чуть приподнята, кончик направлен в горло партнёра.\n2. Перемещайтесь суриаси и наносите удары мэн, котэ или до с притопом, чётким киай и единством меча, тела и духа.\n3. Пройдите насквозь или восстановите дистанцию, сохраните дзансин и восстановите камаэ перед следующей атакой.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кендо",
+      "description": "1. Станьте в тюдан-но-камае з сінаєм або бокеном, ліва п’ята трохи піднята, кінчик спрямований у горло партнера.\n2. Пересувайтеся суріасі й завдавайте ударів мен, коте або до з притупом, чітким кіай і єдністю меча, тіла й духу.\n3. Пройдіть наскрізь або відновіть дистанцію, збережіть дзансін і відновіть камае перед наступною атакою.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

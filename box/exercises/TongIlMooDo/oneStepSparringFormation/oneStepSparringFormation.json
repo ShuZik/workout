@@ -1,0 +1,87 @@
+{
+  "id": "104.2",
+  "key": "tong_il_moo_do_one_step_formation",
+  "title": "One Step Sparring Formation",
+  "description": "1. Face a partner at one step's distance on mats; the attacker signals and prepares the agreed single punch or kick.\n2. The attacker steps in with the single attack; the defender blocks or evades and finishes with a controlled strike or kick counter, stopping short of contact.\n3. Release any hold at once, return to the start positions, repeat on the other side, and switch roles after each set.",
+  "colorType": "cyan",
+  "workoutType": "tongIlMooDo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "2 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "One Step Sparring Formation",
+      "description": "1. Face a partner at one step's distance on mats; the attacker signals and prepares the agreed single punch or kick.\n2. The attacker steps in with the single attack; the defender blocks or evades and finishes with a controlled strike or kick counter, stopping short of contact.\n3. Release any hold at once, return to the start positions, repeat on the other side, and switch roles after each set.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Combate de un paso: formación",
+      "description": "1. Ponte frente a un compañero a un paso de distancia sobre colchonetas; el atacante hace la señal y prepara el único puñetazo o patada acordado.\n2. El atacante entra con el único ataque; el defensor bloquea o esquiva y termina con un contraataque controlado de golpe o patada, deteniéndose antes del contacto.\n3. Suelta cualquier agarre de inmediato, volved a las posiciones iniciales, repetid hacia el otro lado e intercambiad papeles tras cada serie.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Combate de um passo: formação",
+      "description": "1. Fique de frente para um parceiro a um passo de distância sobre tatames; o atacante sinaliza e prepara o único soco ou chute combinado.\n2. O atacante entra com o único ataque; o defensor bloqueia ou esquiva e termina com um contra-ataque controlado de golpe ou chute, parando antes do contato.\n3. Solte qualquer pegada imediatamente, voltem às posições iniciais, repitam para o outro lado e troquem os papéis após cada série.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Combat à un pas : formation",
+      "description": "1. Face à un partenaire à un pas de distance sur tapis ; l’attaquant fait le signal et prépare l’unique coup de poing ou de pied convenu.\n2. L’attaquant entre avec l’attaque unique ; le défenseur bloque ou esquive et conclut par une riposte contrôlée en frappe ou coup de pied, arrêtée avant le contact.\n3. Relâchez immédiatement toute saisie, revenez aux positions de départ, répétez de l’autre côté et inversez les rôles après chaque série.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Einschrittkampf: Formation",
+      "description": "1. Einem Partner auf einen Schritt Abstand auf Matten gegenüber; der Angreifer gibt das Signal und bereitet den einen vereinbarten Fauststoß oder Tritt vor.\n2. Der Angreifer tritt mit dem einen Angriff vor; der Verteidiger blockt oder weicht aus und beendet mit kontrolliertem Schlag- oder Trittkonter, vor dem Kontakt gestoppt.\n3. Jeden Griff sofort lösen, in die Ausgangspositionen zurück, zur anderen Seite wiederholen und nach jedem Satz die Rollen tauschen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Combattimento a un passo: formazione",
+      "description": "1. Di fronte a un partner a un passo di distanza sul tatami; l’attaccante dà il segnale e prepara l’unico pugno o calcio concordato.\n2. L’attaccante entra con l’unico attacco; il difensore para o schiva e conclude con un contrattacco controllato di colpo o calcio, fermato prima del contatto.\n3. Rilascia subito ogni presa, tornate alle posizioni iniziali, ripetete dall’altro lato e scambiate i ruoli dopo ogni serie.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "一步对练：基础",
+      "description": "1. 在垫上与同伴相距一步相对；进攻方示意并准备约定的单一拳或踢。\n2. 进攻方上步做单一攻击；防守方格挡或闪避，以受控的拳或踢反击收尾，在接触前停住。\n3. 立即松开任何抓握，回到起始位置，向另一侧重复，每组后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "一歩組手：基本",
+      "description": "1. マットの上で一歩の間合いで相手と向き合い、攻め手は合図をして決めた一つの突きか蹴りを用意します。\n2. 攻め手は一つの攻撃で踏み込み、受け手は受けるかかわして、制御した打撃か蹴りで反撃し、当てる直前で止めます。\n3. つかみはすぐに放し、開始位置に戻り、反対側でも繰り返し、各セットごとに役割を交代します。",
+      "sectionTitle": "対人練習"
+    },
+    "ko": {
+      "title": "일보 대련: 기본",
+      "description": "1. 매트 위에서 한 걸음 거리로 짝과 마주 서고, 공격자는 신호를 한 뒤 약속한 한 가지 지르기나 차기를 준비합니다.\n2. 공격자는 한 가지 공격으로 들어오고, 수비자는 막거나 피한 뒤 통제된 치기나 차기 반격으로 접촉 직전에 멈춰 마무리합니다.\n3. 잡은 것은 즉시 풀고 시작 위치로 돌아가 반대쪽으로 반복하며 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "짝 훈련"
+    },
+    "th": {
+      "title": "ซ้อมต่อสู้หนึ่งก้าว: พื้นฐาน",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ห่างหนึ่งก้าวบนเบาะ ฝ่ายโจมตีส่งสัญญาณและเตรียมหมัดหรือเตะเดียวที่ตกลง\n2. ฝ่ายโจมตีก้าวเข้าด้วยการโจมตีเดียว ฝ่ายรับปัดหรือหลบแล้วจบด้วยการตีหรือเตะสวนอย่างควบคุม หยุดก่อนสัมผัส\n3. ปล่อยการจับทันที กลับตำแหน่งเริ่ม ทำซ้ำอีกด้าน และสลับบทบาทหลังแต่ละเซต",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Спарринг в один шаг: базовый",
+      "description": "1. Встаньте напротив партнёра на расстоянии шага на татами; атакующий подаёт сигнал и готовит одну оговорённую атаку рукой или ногой.\n2. Атакующий входит одной атакой; защищающийся блокирует или уходит и завершает контролируемой контратакой рукой или ногой, останавливая её до контакта.\n3. Сразу отпустите любой захват, вернитесь в исходные позиции, повторите в другую сторону и меняйтесь ролями после каждой серии.",
+      "sectionTitle": "Упражнения в паре"
+    },
+    "uk": {
+      "title": "Спаринг в один крок: базовий",
+      "description": "1. Станьте навпроти партнера на відстані кроку на татамі; атакувальник подає сигнал і готує одну обумовлену атаку рукою чи ногою.\n2. Атакувальник входить однією атакою; захисник блокує або ухиляється й завершує контрольованою контратакою рукою чи ногою, зупиняючи її до контакту.\n3. Одразу відпустіть будь-яке захоплення, поверніться у вихідні позиції, повторіть в інший бік і міняйтеся ролями після кожної серії.",
+      "sectionTitle": "Вправи в парі"
+    }
+  }
+}

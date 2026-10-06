@@ -1,0 +1,87 @@
+{
+  "id": "69.10",
+  "key": "kendo_kihon_9",
+  "title": "Kihon 9 Do-Uchiotoshi-Men",
+  "description": "1. Both stand in chudan; motodachi steps in and strikes do.\n2. Kakarite steps diagonally back to the left, knocks motodachi's bokuto down to the right, and immediately strikes men.\n3. Kakarite shows zanshin, and both return to chudan.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kihon 9 Do-Uchiotoshi-Men",
+      "description": "1. Both stand in chudan; motodachi steps in and strikes do.\n2. Kakarite steps diagonally back to the left, knocks motodachi's bokuto down to the right, and immediately strikes men.\n3. Kakarite shows zanshin, and both return to chudan.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Kihon 9 Do-Uchiotoshi-Men",
+      "description": "1. Ambos en chudan; motodachi entra y golpea do.\n2. Kakarite retrocede en diagonal a la izquierda, abate el bokuto de motodachi hacia abajo a la derecha y golpea men de inmediato.\n3. Kakarite muestra zanshin y ambos vuelven a chudan.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Kihon 9 Do-Uchiotoshi-Men",
+      "description": "1. Ambos em chudan; motodachi entra e golpeia do.\n2. Kakarite recua em diagonal à esquerda, abate o bokuto de motodachi para baixo à direita e golpeia men de imediato.\n3. Kakarite mostra zanshin e ambos voltam a chudan.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Kihon 9 Do-Uchiotoshi-Men",
+      "description": "1. Tous deux en chudan ; motodachi entre et frappe do.\n2. Kakarite recule en diagonale vers la gauche, rabat le bokuto de motodachi vers le bas à droite et frappe aussitôt men.\n3. Kakarite montre le zanshin et tous deux reviennent en chudan.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Kihon 9 Do-Uchiotoshi-Men",
+      "description": "1. Beide im Chudan; Motodachi tritt ein und schlägt Do.\n2. Kakarite tritt diagonal links zurück, schlägt das Bokuto des Motodachi nach rechts unten und trifft sofort Men.\n3. Kakarite zeigt Zanshin, beide kehren ins Chudan zurück.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Kihon 9 Do-Uchiotoshi-Men",
+      "description": "1. Entrambi in chudan; motodachi entra e colpisce do.\n2. Kakarite arretra in diagonale a sinistra, abbatte il bokuto di motodachi verso il basso a destra e colpisce subito men.\n3. Kakarite mostra zanshin ed entrambi tornano in chudan.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "基本9 胴打落面",
+      "description": "1. 双方中段构；元立上步击胴。\n2. 挂手向左后斜退，将元立的木刀向右下打落，随即击面。\n3. 挂手示残心，双方回到中段。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "基本9 打ち落とし技（胴打ち落とし面）",
+      "description": "1. 互いに中段に構え、元立ちが踏み込んで胴を打ちます。\n2. 掛り手は左斜め後ろへ体をさばいて元立ちの木刀を右下へ打ち落とし、すかさず面を打ちます。\n3. 掛り手は残心を示し、互いに中段に戻ります。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "기본 9 허리 쳐 떨어뜨리고 머리",
+      "description": "1. 둘 다 중단; 원립이 들어오며 허리를 칩니다.\n2. 괘수가 왼쪽 뒤 대각으로 물러나며 원립의 목검을 오른쪽 아래로 쳐 떨어뜨리고 곧바로 머리를 칩니다.\n3. 괘수가 잔심을 보이고 둘 다 중단으로 돌아갑니다.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "คิฮง 9 โด-อุจิโอโตชิ-เมน",
+      "description": "1. ทั้งคู่ในท่าชูดัง โมโตดาจิก้าวเข้าตีโด\n2. คาคาริเตะถอยเฉียงไปทางซ้ายด้านหลัง ตีโบคุโตะของโมโตดาจิลงไปทางขวาล่าง แล้วตีเมนทันที\n3. คาคาริเตะแสดงซันชิน ทั้งคู่กลับสู่ชูดัง",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Кихон 9 До-утиотоси-мэн",
+      "description": "1. Оба в тюдан; мотодати входит и бьёт до.\n2. Какаритэ отступает по диагонали назад влево, сбивает боккэн мотодати вниз вправо и сразу бьёт мэн.\n3. Какаритэ показывает дзансин, оба возвращаются в тюдан.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Кіхон 9 До-утіотосі-мен",
+      "description": "1. Обоє в тюдан; мотодаті входить і б’є до.\n2. Какарите відступає по діагоналі назад ліворуч, збиває бокен мотодаті вниз праворуч і одразу б’є мен.\n3. Какарите показує дзансін, обоє повертаються в тюдан.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

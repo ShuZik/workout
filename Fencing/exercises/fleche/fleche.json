@@ -1,0 +1,90 @@
+{
+  "id": "54.6",
+  "key": "fencing_fleche",
+  "title": "Flèche",
+  "description": "1. From en garde with épée or foil, extend the arm fully so the point leads, and shift the weight onto the front foot.\n2. Fall forward and push off the front leg so the rear leg crosses past it, aiming to hit before the rear foot lands.\n3. Run past the partner's side without contact, slow down safely, and return to en garde; in sabre the flèche is not permitted.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Footwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Flèche",
+      "description": "1. From en garde with épée or foil, extend the arm fully so the point leads, and shift the weight onto the front foot.\n2. Fall forward and push off the front leg so the rear leg crosses past it, aiming to hit before the rear foot lands.\n3. Run past the partner's side without contact, slow down safely, and return to en garde; in sabre the flèche is not permitted.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Flecha",
+      "description": "1. Desde la guardia con espada o florete, extiende el brazo por completo para que la punta preceda y pasa el peso al pie delantero.\n2. Déjate caer hacia delante y empuja con la pierna delantera para que la trasera la cruce, buscando tocar antes de que aterrice el pie trasero.\n3. Pasa por el costado del compañero sin contacto, frena con seguridad y vuelve a guardia; en sable la flecha no está permitida.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Flecha",
+      "description": "1. Da guarda com espada ou florete, estenda totalmente o braço para a ponta liderar e passe o peso ao pé da frente.\n2. Caia para a frente e impulsione com a perna da frente para a de trás a ultrapassar, buscando tocar antes do pé de trás pousar.\n3. Passe ao lado do parceiro sem contato, desacelere com segurança e volte à guarda; no sabre a flecha não é permitida.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Flèche",
+      "description": "1. Depuis la garde à l’épée ou au fleuret, allongez complètement le bras pour que la pointe mène et portez le poids sur le pied avant.\n2. Basculez vers l’avant et poussez sur la jambe avant pour que la jambe arrière la croise, en cherchant à toucher avant que le pied arrière ne se pose.\n3. Dépassez le partenaire sur le côté sans contact, ralentissez en sécurité et revenez en garde ; au sabre la flèche est interdite.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Flèche",
+      "description": "1. Strecke aus der Fechtstellung mit Degen oder Florett den Arm vollständig, sodass die Spitze führt, und verlagere das Gewicht auf den vorderen Fuß.\n2. Falle nach vorn und stoße dich vom vorderen Bein ab, sodass das hintere Bein vorbeikreuzt; der Treffer soll vor dem Aufsetzen des hinteren Fußes sitzen.\n3. Laufe ohne Kontakt seitlich am Partner vorbei, bremse sicher ab und kehre in die Fechtstellung zurück; im Säbel ist die Flèche nicht erlaubt.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Flèche (freccia)",
+      "description": "1. Dalla guardia con spada o fioretto, distendi completamente il braccio così che la punta preceda e porta il peso sul piede anteriore.\n2. Cadi in avanti e spingi con la gamba anteriore in modo che la posteriore la incroci, cercando di toccare prima che il piede posteriore atterri.\n3. Supera il compagno di lato senza contatto, rallenta in sicurezza e torna in guardia; nella sciabola la flèche non è consentita.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "冲刺（Flèche）",
+      "description": "1. 以重剑或花剑成实战姿势，手臂完全伸直使剑尖领先，重心移到前脚。\n2. 身体前倾，前腿蹬地，使后腿从前腿旁交叉越过，力求在后脚落地前击中。\n3. 从同伴侧面越过且不发生碰撞，安全减速后回到实战姿势；佩剑不允许冲刺。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "フレッシュ",
+      "description": "1. エペまたはフルーレのアンガルドから腕を完全に伸ばして剣先を先行させ、体重を前足に移します。\n2. 前へ倒れ込みながら前脚で蹴り、後ろ脚を前に交差させ、後ろ足が着地する前に突くことを狙います。\n3. 相手の横を接触せずに走り抜け、安全に減速してアンガルドへ戻ります。サーブルではフレッシュは認められません。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "플레슈",
+      "description": "1. 에페나 플뢰레 앙가르드에서 팔을 완전히 뻗어 칼끝이 먼저 나가게 하고 체중을 앞발로 옮깁니다.\n2. 앞으로 쓰러지듯 앞다리로 밀어 뒷다리가 앞다리를 지나 교차하게 하며, 뒷발이 닿기 전에 찌르는 것을 노립니다.\n3. 파트너 옆으로 접촉 없이 지나쳐 안전하게 속도를 줄이고 앙가르드로 돌아옵니다. 사브르에서는 플레슈가 허용되지 않습니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "เฟลช",
+      "description": "1. จากอองการ์ดด้วยดาบเอเป้หรือฟอยล์ เหยียดแขนสุดให้ปลายดาบนำ และถ่ายน้ำหนักไปที่เท้าหน้า\n2. โน้มตัวไปข้างหน้าและถีบขาหน้า ให้ขาหลังข้ามผ่านไปข้างหน้า มุ่งแทงให้ถึงก่อนเท้าหลังแตะพื้น\n3. วิ่งผ่านด้านข้างคู่ฝึกโดยไม่ชน ชะลออย่างปลอดภัย และกลับสู่อองการ์ด ในดาบเซเบอร์ไม่อนุญาตให้ใช้เฟลช",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Флешь",
+      "description": "1. Из стойки со шпагой или рапирой полностью выпрямите руку, чтобы остриё шло первым, и перенесите вес на переднюю ногу.\n2. Падая вперёд, оттолкнитесь передней ногой, чтобы задняя скрестно прошла вперёд; стремитесь нанести укол до постановки задней ноги.\n3. Пробегите мимо партнёра сбоку без столкновения, безопасно затормозите и вернитесь в стойку; в сабле флешь не разрешена.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Флеш",
+      "description": "1. Зі стійки зі шпагою чи рапірою повністю випряміть руку, щоб вістря йшло першим, і перенесіть вагу на передню ногу.\n2. Падаючи вперед, відштовхніться передньою ногою, щоб задня перехресно пройшла вперед; прагніть уколу до постановки задньої ноги.\n3. Пробіжіть повз партнера збоку без зіткнення, безпечно загальмуйте й поверніться в стійку; у шаблі флеш не дозволено.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

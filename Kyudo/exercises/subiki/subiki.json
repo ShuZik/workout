@@ -1,0 +1,90 @@
+{
+  "id": "76.5",
+  "key": "kyudo_subiki",
+  "title": "Subiki",
+  "description": "1. Take the shooting stance with a strung bow and glove but no arrow nocked.\n2. Raise and draw the bow through the stages to full draw, keeping the string path and hand positions exactly as in a real shot.\n3. Return the string slowly to rest without releasing it, since dry-firing can damage the bow, then repeat.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "kyudo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Subiki",
+      "description": "1. Take the shooting stance with a strung bow and glove but no arrow nocked.\n2. Raise and draw the bow through the stages to full draw, keeping the string path and hand positions exactly as in a real shot.\n3. Return the string slowly to rest without releasing it, since dry-firing can damage the bow, then repeat.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Subiki",
+      "description": "1. Adopta la postura de tiro con el arco encordado y el guante, pero sin flecha colocada.\n2. Eleva y abre el arco por las fases hasta la apertura completa, manteniendo el recorrido de la cuerda y las manos como en un tiro real.\n3. Devuelve la cuerda despacio sin soltarla, ya que disparar en vacío puede dañar el arco, y repite.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Subiki",
+      "description": "1. Assuma a postura de tiro com o arco encordoado e a luva, mas sem flecha encaixada.\n2. Eleve e abra o arco pelas fases até a abertura completa, mantendo o percurso da corda e as mãos como num tiro real.\n3. Devolva a corda devagar sem soltá-la, pois disparar em vazio pode danificar o arco, e repita.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Subiki",
+      "description": "1. Prenez la posture de tir avec l’arc bandé et le gant, mais sans flèche encochée.\n2. Levez et ouvrez l’arc à travers les étapes jusqu’à la pleine allonge, trajectoire de corde et mains comme pour un vrai tir.\n3. Ramenez lentement la corde sans la lâcher, car un tir à vide peut abîmer l’arc, puis répétez.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Subiki",
+      "description": "1. Die Schießhaltung mit gespanntem Bogen und Handschuh, aber ohne eingelegten Pfeil einnehmen.\n2. Den Bogen durch die Phasen bis zum Vollauszug heben und ziehen, Sehnenweg und Handpositionen genau wie bei einem echten Schuss.\n3. Die Sehne langsam zurückführen, ohne sie loszulassen, da ein Leerschuss den Bogen beschädigen kann, und wiederholen.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Subiki",
+      "description": "1. Assumi la postura di tiro con l’arco incordato e il guanto, ma senza freccia incoccata.\n2. Solleva e apri l’arco attraverso le fasi fino alla piena trazione, con percorso della corda e mani come in un tiro reale.\n3. Riporta lentamente la corda senza rilasciarla, perché il tiro a vuoto può danneggiare l’arco, e ripeti.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "素引",
+      "description": "1. 持上弦的弓并戴好弓手套，不搭箭，站好射箭姿势。\n2. 按各节举弓并引至满弓，弦路与手的位置与真实射箭完全相同。\n3. 缓慢将弦送回原位而不放开，因空放可能损坏弓，然后重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "素引き",
+      "description": "1. 弦を張った弓と弽を用い、矢を番えずに射の姿勢を取ります。\n2. 各節に沿って打ち起こし会まで引き分け、弦の通り道と手の位置を実際の射と同じに保ちます。\n3. 空打ちは弓を傷めるため離さずにゆっくり弦を戻し、繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "스비키",
+      "description": "1. 시위를 건 활과 깍지장갑을 사용하되 화살은 메기지 않고 사법 자세를 취합니다.\n2. 단계에 따라 활을 들어 만작까지 당기며 시위의 길과 손 위치를 실제 사법과 똑같이 유지합니다.\n3. 빈 활 쏘기는 활을 상하게 할 수 있으므로 놓지 말고 시위를 천천히 되돌린 뒤 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "สุบิกิ",
+      "description": "1. ยืนท่ายิงโดยใช้คันธนูที่ขึ้นสายแล้วและสวมถุงมือ แต่ไม่พาดลูกธนู\n2. ยกและง้างคันธนูผ่านแต่ละขั้นจนเต็มสาย รักษาแนวสายและตำแหน่งมือเหมือนการยิงจริง\n3. ค่อยๆ ผ่อนสายกลับโดยไม่ปล่อย เพราะการปล่อยสายเปล่าอาจทำให้คันธนูเสียหาย แล้วทำซ้ำ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Субики",
+      "description": "1. Займите стрелковую стойку с натянутым луком и перчаткой, но без наложенной стрелы.\n2. Поднимите и растяните лук по этапам до полного натяжения, сохраняя путь тетивы и положение рук как при настоящем выстреле.\n3. Медленно верните тетиву, не отпуская её, так как холостой выстрел может повредить лук, и повторите.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Субікі",
+      "description": "1. Займіть стрілецьку стійку з натягнутим луком і рукавичкою, але без накладеної стріли.\n2. Підніміть і розтягніть лук за етапами до повного натягу, зберігаючи шлях тятиви й положення рук як під час справжнього пострілу.\n3. Повільно поверніть тятиву, не відпускаючи її, бо холостий постріл може пошкодити лук, і повторіть.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "71.4",
+  "key": "kudo_nage_waza_drills",
+  "title": "Kudo Nage-waza Drills",
+  "description": "1. With a trained partner on mats, take a short clinch grip on the collar, sleeve or body from fighting stance.\n2. Break the partner's balance and enter a practised throw within a few seconds, holding the sleeve to guide the fall.\n3. Mark a finishing punch above the landed partner without contact, help them up, and swap roles.",
+  "colorType": "coral",
+  "workoutType": "kudo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kudo Nage-waza Drills",
+      "description": "1. With a trained partner on mats, take a short clinch grip on the collar, sleeve or body from fighting stance.\n2. Break the partner's balance and enter a practised throw within a few seconds, holding the sleeve to guide the fall.\n3. Mark a finishing punch above the landed partner without contact, help them up, and swap roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Proyecciones de kudo",
+      "description": "1. Con un compañero entrenado sobre el tatami, toma desde la guardia un agarre breve de clinch en el cuello, la manga o el cuerpo.\n2. Desequilibra al compañero y entra en una proyección practicada en pocos segundos, sujetando la manga para guiar la caída.\n3. Marca un puñetazo final sobre el compañero caído sin contacto, ayúdale a levantarse e intercambiad roles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Projeções de kudo",
+      "description": "1. Com um parceiro treinado no tatame, faça a partir da guarda uma pegada curta de clinch na gola, na manga ou no corpo.\n2. Desequilibre o parceiro e entre numa projeção treinada em poucos segundos, segurando a manga para guiar a queda.\n3. Marque um soco final acima do parceiro caído sem contato, ajude-o a levantar e troquem os papéis.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Projections de kudo",
+      "description": "1. Avec un partenaire entraîné sur le tatami, prenez depuis la garde une courte saisie au col, à la manche ou au corps.\n2. Déséquilibrez le partenaire et entrez en quelques secondes dans une projection maîtrisée, en tenant la manche pour guider la chute.\n3. Marquez un coup de poing final au-dessus du partenaire au sol sans contact, aidez-le à se relever et inversez les rôles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kudo-Wurftraining",
+      "description": "1. Fasse mit einem geübten Partner auf der Matte aus der Kampfstellung kurz Kragen, Ärmel oder Körper im Clinch.\n2. Bringe den Partner aus dem Gleichgewicht und setze innerhalb weniger Sekunden einen geübten Wurf an, den Ärmel haltend, um den Fall zu führen.\n3. Deute über dem gelandeten Partner einen Abschlussschlag ohne Kontakt an, hilf ihm auf und tauscht die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Proiezioni di kudo",
+      "description": "1. Con un compagno allenato sul tatami, prendi dalla guardia una breve presa di clinch al bavero, alla manica o al corpo.\n2. Sbilancia il compagno ed entra in una proiezione allenata entro pochi secondi, tenendo la manica per guidare la caduta.\n3. Segna un pugno finale sopra il compagno a terra senza contatto, aiutalo a rialzarsi e scambiatevi i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "空道摔法练习",
+      "description": "1. 与受过训练的同伴在垫上，从实战姿势短暂抓握衣领、袖子或身体进入缠抱。\n2. 破坏同伴平衡，在几秒内切入已熟练的摔法，抓住袖子引导其落地。\n3. 在落地的同伴上方虚拟一记收尾拳而不接触，扶其起身后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "空道の投げ技ドリル",
+      "description": "1. マット上で訓練されたパートナーと、構えから襟・袖・胴を短く掴んで組みます。\n2. 相手の崩しを作り、数秒以内に練習した投げに入り、袖を持って受け身を導きます。\n3. 倒れた相手の上で接触せずに決めの突きを示し、引き起こしてから役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "쿠도 메치기 드릴",
+      "description": "1. 훈련된 파트너와 매트 위에서 대련 자세로부터 깃, 소매 또는 몸통을 짧게 잡아 클린치합니다.\n2. 파트너의 균형을 무너뜨리고 몇 초 안에 연습한 메치기로 들어가며 소매를 잡아 낙법을 유도합니다.\n3. 넘어진 파트너 위로 접촉 없이 마무리 펀치를 표시하고, 일으켜 세운 뒤 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ฝึกทุ่มคูโด",
+      "description": "1. กับคู่ฝึกที่ผ่านการฝึกบนเบาะ จับคลินช์สั้น ๆ ที่คอเสื้อ แขนเสื้อ หรือลำตัวจากท่าต่อสู้\n2. ทำลายสมดุลคู่ฝึกแล้วเข้าท่าทุ่มที่ฝึกไว้ภายในไม่กี่วินาที จับแขนเสื้อไว้เพื่อประคองการล้ม\n3. ทำท่าหมัดปิดเหนือคู่ฝึกที่ล้มโดยไม่สัมผัส ช่วยพยุงขึ้น แล้วสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Броски в кудо",
+      "description": "1. С подготовленным партнёром на татами из боевой стойки возьмите короткий захват за ворот, рукав или корпус.\n2. Выведите партнёра из равновесия и за несколько секунд войдите в отработанный бросок, удерживая рукав, чтобы направить падение.\n3. Обозначьте добивающий удар над упавшим партнёром без контакта, помогите ему встать и поменяйтесь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Кидки в кудо",
+      "description": "1. З підготовленим партнером на татамі з бойової стійки візьміть коротке захоплення за комір, рукав або корпус.\n2. Виведіть партнера з рівноваги й за кілька секунд увійдіть у відпрацьований кидок, утримуючи рукав, щоб спрямувати падіння.\n3. Позначте добивальний удар над партнером, що впав, без контакту, допоможіть йому підвестися й поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

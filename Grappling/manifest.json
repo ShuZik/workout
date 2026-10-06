@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#AF6ED7",
+    "colorType": "violet",
+    "folder": "Grappling",
+    "id": "58",
+    "icon": "Grappling/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Grappling",
+    "workoutType": "grappling",
+    "translations": {
+      "en": {
+        "title": "Grappling"
+      },
+      "es": {
+        "title": "Grappling"
+      },
+      "pt": {
+        "title": "Grappling"
+      },
+      "fr": {
+        "title": "Grappling"
+      },
+      "de": {
+        "title": "Grappling"
+      },
+      "it": {
+        "title": "Grappling"
+      },
+      "zh-Hans": {
+        "title": "缠斗"
+      },
+      "ja": {
+        "title": "グラップリング"
+      },
+      "ko": {
+        "title": "그래플링"
+      },
+      "th": {
+        "title": "แกรปปลิง"
+      },
+      "ru": {
+        "title": "Грэпплинг"
+      },
+      "uk": {
+        "title": "Грепплінг"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Grappling/exercises/grappling/Icon.png",
+      "json": "Grappling/exercises/grappling/grappling.json"
+    },
+    {
+      "icon": "Grappling/exercises/halfGuardRestart/Icon.png",
+      "json": "Grappling/exercises/halfGuardRestart/halfGuardRestart.json"
+    },
+    {
+      "icon": "Grappling/exercises/openGuardRestart/Icon.png",
+      "json": "Grappling/exercises/openGuardRestart/openGuardRestart.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "49.15",
+  "key": "capoeira_rasteira",
+  "title": "Rasteira",
+  "description": "1. On mats, the partner trained in falling plays a slow ginga and leaves weight on the front foot; you drop low into negativa with a hand on the floor.\n2. Hook the heel or instep of your extended leg behind the partner's weighted ankle and sweep it forward along the floor at walking speed.\n3. The partner sits back into a controlled fall or steps out to release; stop the sweep if they cannot fall safely, then both rise and switch roles.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rasteira",
+      "description": "1. On mats, the partner trained in falling plays a slow ginga and leaves weight on the front foot; you drop low into negativa with a hand on the floor.\n2. Hook the heel or instep of your extended leg behind the partner's weighted ankle and sweep it forward along the floor at walking speed.\n3. The partner sits back into a controlled fall or steps out to release; stop the sweep if they cannot fall safely, then both rise and switch roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Rasteira",
+      "description": "1. Sobre colchonetas, el compañero entrenado en caídas hace una ginga lenta con el peso en el pie delantero; tú bajas a negativa con una mano en el suelo.\n2. Engancha con el talón o el empeine de tu pierna extendida detrás del tobillo cargado del compañero y bárrelo hacia delante por el suelo a velocidad de paso.\n3. El compañero se sienta en una caída controlada o da un paso para salir; detén el barrido si no puede caer con seguridad, luego ambos se levantan y cambian de rol.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Rasteira",
+      "description": "1. Em colchonetes, o parceiro treinado em quedas faz uma ginga lenta com o peso no pé da frente; você desce para a negativa com uma mão no chão.\n2. Encaixe o calcanhar ou o peito do pé da perna estendida atrás do tornozelo carregado do parceiro e varra-o para a frente pelo chão em velocidade de caminhada.\n3. O parceiro senta em uma queda controlada ou dá um passo para sair; pare a varredura se ele não puder cair com segurança, depois ambos se levantam e trocam de papel.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Rasteira",
+      "description": "1. Sur tapis, le partenaire formé aux chutes fait une ginga lente avec le poids sur le pied avant ; vous descendez en negativa, une main au sol.\n2. Accrochez avec le talon ou le cou-de-pied de la jambe tendue l’arrière de la cheville chargée du partenaire et balayez-la vers l’avant au sol, à vitesse de marche.\n3. Le partenaire s’assoit dans une chute contrôlée ou sort d’un pas ; arrêtez le balayage s’il ne peut pas chuter en sécurité, puis relevez-vous et changez de rôle.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Rasteira",
+      "description": "1. Auf Matten spielt der fallgeübte Partner eine langsame Ginga mit Gewicht auf dem vorderen Fuß; du gehst mit einer Hand am Boden in die Negativa.\n2. Hake Ferse oder Spann deines gestreckten Beins hinter den belasteten Knöchel des Partners und fege ihn im Gehtempo am Boden nach vorn.\n3. Der Partner setzt sich in einen kontrollierten Fall oder tritt heraus; brich die Fegebewegung ab, wenn er nicht sicher fallen kann, dann steht ihr auf und tauscht die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Rasteira",
+      "description": "1. Su materassini il partner esperto di cadute esegue una ginga lenta con il peso sul piede anteriore; tu scendi in negativa con una mano a terra.\n2. Aggancia con il tallone o il collo del piede della gamba tesa dietro la caviglia caricata del partner e spazzala in avanti sul pavimento a velocità di camminata.\n3. Il partner si siede in una caduta controllata o esce con un passo; interrompi la spazzata se non può cadere in sicurezza, poi rialzatevi e scambiatevi i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "扫腿（Rasteira）",
+      "description": "1. 在垫子上，受过倒地训练的同伴缓慢做金加步，重心在前脚；你降低成内加蒂瓦，一只手撑地。\n2. 用伸出腿的脚跟或脚背勾住同伴承重脚踝的后侧，以步行速度沿地面向前扫。\n3. 同伴向后坐成可控倒地或迈步脱离；如果对方无法安全倒地就停止扫腿，然后双方起身交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ハステイラ",
+      "description": "1. マットの上で、受け身に慣れたパートナーが前足に体重を残したままゆっくりジンガし、あなたは片手を床についてネガチーバに下がります。\n2. 伸ばした脚のかかとか足の甲をパートナーの体重がかかった足首の後ろに掛け、歩く速さで床に沿って前へ払います。\n3. パートナーは腰を落としてコントロールされた受け身をとるか一歩出て外します。安全に倒れられない場合は払いを止め、二人とも立って役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "하스테이라",
+      "description": "1. 매트 위에서 낙법에 익숙한 파트너가 앞발에 체중을 둔 채 천천히 징가를 하고, 당신은 한 손을 바닥에 짚고 네가치바로 내려갑니다.\n2. 뻗은 다리의 뒤꿈치나 발등을 파트너의 체중이 실린 발목 뒤에 걸어 걷는 속도로 바닥을 따라 앞으로 쓸어 냅니다.\n3. 파트너는 통제된 낙법으로 앉거나 한 걸음 빠져나옵니다. 안전하게 넘어질 수 없으면 쓸기를 멈추고 둘 다 일어나 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ฮัสเตรา",
+      "description": "1. บนเบาะ คู่ฝึกที่ฝึกการล้มมาแล้วทำจิงกาช้า ๆ โดยลงน้ำหนักที่เท้าหน้า ส่วนคุณย่อลงเป็นเนกาติวาโดยมือแตะพื้น\n2. ใช้ส้นเท้าหรือหลังเท้าของขาที่เหยียดเกี่ยวหลังข้อเท้าที่รับน้ำหนักของคู่ฝึก แล้วกวาดไปข้างหน้าตามพื้นด้วยความเร็วเท่าการเดิน\n3. คู่ฝึกนั่งลงล้มอย่างควบคุมหรือก้าวออก หยุดกวาดหากเขาล้มอย่างปลอดภัยไม่ได้ จากนั้นทั้งคู่ลุกขึ้นและสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Растейра",
+      "description": "1. На матах партнёр, умеющий падать, медленно играет джингу с весом на передней ноге; вы опускаетесь в негативу с рукой на полу.\n2. Зацепите пяткой или подъёмом вытянутой ноги заднюю сторону нагруженной лодыжки партнёра и подсеките её вперёд по полу в темпе шага.\n3. Партнёр садится в контролируемое падение или выходит шагом; прекратите подсечку, если он не может безопасно упасть, затем оба встаньте и поменяйтесь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Растейра",
+      "description": "1. На матах партнер, який уміє падати, повільно грає джингу з вагою на передній нозі; ви опускаєтеся в негативу з рукою на підлозі.\n2. Зачепіть п’ятою або підйомом витягнутої ноги задню частину навантаженої щиколотки партнера й підсічіть її вперед по підлозі в темпі кроку.\n3. Партнер сідає в контрольоване падіння або виходить кроком; припиніть підсічку, якщо він не може безпечно впасти, потім обоє підведіться й поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

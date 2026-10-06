@@ -1,0 +1,90 @@
+{
+  "id": "62.3",
+  "key": "hwa_rang_do_gotoogi",
+  "title": "Gotoogi",
+  "description": "1. Kneel or stand facing a trained partner on mats and agree on the allowed submissions and round length.\n2. Grapple for position and control, then work joint locks and chokes as the Gotoogi submission rules allow, without strikes.\n3. Apply every submission gradually, release instantly at a tap or verbal signal, and restart from the agreed position.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "hwaRangDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Sparring",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Gotoogi",
+      "description": "1. Kneel or stand facing a trained partner on mats and agree on the allowed submissions and round length.\n2. Grapple for position and control, then work joint locks and chokes as the Gotoogi submission rules allow, without strikes.\n3. Apply every submission gradually, release instantly at a tap or verbal signal, and restart from the agreed position.",
+      "sectionTitle": "Sparring"
+    },
+    "es": {
+      "title": "Gotoogi",
+      "description": "1. Arrodíllate o ponte de pie frente a un compañero entrenado sobre colchonetas y acordad las sumisiones permitidas y la duración del asalto.\n2. Luchad por la posición y el control, y trabajad luxaciones y estrangulaciones según permitan las reglas de sumisión de Gotoogi, sin golpes.\n3. Aplica cada sumisión de forma gradual, suelta al instante ante una palmada o señal verbal y reiniciad desde la posición acordada.",
+      "sectionTitle": "Combate"
+    },
+    "pt": {
+      "title": "Gotoogi",
+      "description": "1. Ajoelhe ou fique em pé de frente para um parceiro treinado sobre tatames e combinem as finalizações permitidas e a duração do round.\n2. Lutem por posição e controle e trabalhem chaves e estrangulamentos conforme as regras de finalização de Gotoogi, sem golpes.\n3. Aplique cada finalização gradualmente, solte instantaneamente ao toque ou sinal verbal e reiniciem da posição combinada.",
+      "sectionTitle": "Combate"
+    },
+    "fr": {
+      "title": "Gotoogi",
+      "description": "1. À genoux ou debout face à un partenaire entraîné sur tapis, convenez des soumissions autorisées et de la durée de reprise.\n2. Luttez pour la position et le contrôle, puis travaillez clés et étranglements selon les règles de soumission du Gotoogi, sans frappe.\n3. Appliquez chaque soumission progressivement, relâchez instantanément à la tape ou au signal verbal et reprenez depuis la position convenue.",
+      "sectionTitle": "Combat"
+    },
+    "de": {
+      "title": "Gotoogi",
+      "description": "1. Kniend oder stehend einem geübten Partner auf Matten gegenüber, erlaubte Aufgabegriffe und Rundenlänge vereinbaren.\n2. Um Position und Kontrolle ringen, dann Gelenkhebel und Würger einsetzen, wie die Gotoogi-Aufgaberegeln erlauben, ohne Schläge.\n3. Jeden Aufgabegriff allmählich ansetzen, beim Abklopfen oder verbalen Signal sofort lösen und aus der vereinbarten Position neu beginnen.",
+      "sectionTitle": "Sparring"
+    },
+    "it": {
+      "title": "Gotoogi",
+      "description": "1. In ginocchio o in piedi di fronte a un partner allenato sul tatami, concordate le sottomissioni consentite e la durata del round.\n2. Lottate per posizione e controllo, poi lavorate leve e strangolamenti come consentito dalle regole di sottomissione Gotoogi, senza colpi.\n3. Applica ogni sottomissione gradualmente, rilascia subito a un battito o segnale verbale e ripartite dalla posizione concordata.",
+      "sectionTitle": "Combattimento"
+    },
+    "zh-Hans": {
+      "title": "固斗技",
+      "description": "1. 在垫上与训练有素的同伴跪姿或站姿相对，约定允许的降服技和回合时长。\n2. 争夺位置与控制，再按固斗技降服规则使用关节技和绞技，不使用击打。\n3. 每个降服技逐渐施力，对方拍垫或口头示意立即松开，从约定位置重新开始。",
+      "sectionTitle": "实战"
+    },
+    "ja": {
+      "title": "ゴトゥギ",
+      "description": "1. マットの上で訓練を積んだ相手と膝立ちまたは立って向き合い、使ってよい極め技とラウンドの長さを決めます。\n2. 打撃なしで、ゴトゥギの極め技規則の範囲で位置とコントロールを争い、関節技と絞め技をかけます。\n3. 極め技は徐々にかけ、タップや声の合図で即座に放し、決めた姿勢から再開します。",
+      "sectionTitle": "組手・試合"
+    },
+    "ko": {
+      "title": "고투기",
+      "description": "1. 매트 위에서 숙련된 짝과 무릎을 꿇거나 서서 마주하고 허용되는 꺾기·조르기와 라운드 시간을 정합니다.\n2. 타격 없이 고투기 서브미션 규칙이 허용하는 대로 자세와 제압을 다투고 관절 꺾기와 조르기를 합니다.\n3. 모든 서브미션은 서서히 걸고 탭이나 말 신호에 즉시 풀며 정한 자세에서 다시 시작합니다.",
+      "sectionTitle": "겨루기"
+    },
+    "th": {
+      "title": "โกทูกี",
+      "description": "1. คุกเข่าหรือยืนหันหน้าเข้าหาคู่ที่ฝึกมาแล้วบนเบาะ ตกลงท่าล็อกที่อนุญาตและความยาวยก\n2. แย่งตำแหน่งและการควบคุม แล้วใช้การล็อกข้อต่อและรัดคอตามกติกาโกทูกี โดยไม่มีการตี\n3. ล็อกทุกครั้งอย่างค่อยเป็นค่อยไป ปล่อยทันทีเมื่อคู่ตบหรือบอก และเริ่มใหม่จากตำแหน่งที่ตกลง",
+      "sectionTitle": "การต่อสู้"
+    },
+    "ru": {
+      "title": "Готуги",
+      "description": "1. Встаньте на колени или в стойку напротив подготовленного партнёра на татами и договоритесь о разрешённых приёмах и длительности раунда.\n2. Боритесь за позицию и контроль, затем проводите болевые и удушающие приёмы в рамках правил готуги, без ударов.\n3. Каждый приём проводите постепенно, мгновенно отпускайте при хлопке или голосовом сигнале и начинайте снова из оговорённой позиции.",
+      "sectionTitle": "Спарринг"
+    },
+    "uk": {
+      "title": "Готугі",
+      "description": "1. Станьте на коліна або в стійку навпроти підготовленого партнера на татамі й домовтеся про дозволені прийоми та тривалість раунду.\n2. Боріться за позицію й контроль, потім проводьте больові й задушливі прийоми в межах правил готугі, без ударів.\n3. Кожен прийом проводьте поступово, миттєво відпускайте при плесканні чи голосовому сигналі й починайте знову з обумовленої позиції.",
+      "sectionTitle": "Спаринг"
+    }
+  }
+}

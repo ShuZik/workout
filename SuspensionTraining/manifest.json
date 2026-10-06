@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#01C5A5",
+    "colorType": "teal",
+    "folder": "SuspensionTraining",
+    "id": "22",
+    "icon": "SuspensionTraining/Icon.png",
+    "symbolName": "figure.strengthtraining.functional",
+    "title": "TRX",
+    "workoutType": "suspensionTraining",
+    "translations": {
+      "en": {
+        "title": "TRX"
+      },
+      "es": {
+        "title": "TRX"
+      },
+      "pt": {
+        "title": "TRX"
+      },
+      "fr": {
+        "title": "TRX"
+      },
+      "de": {
+        "title": "TRX"
+      },
+      "it": {
+        "title": "TRX"
+      },
+      "zh-Hans": {
+        "title": "TRX"
+      },
+      "ja": {
+        "title": "TRX"
+      },
+      "ko": {
+        "title": "TRX"
+      },
+      "th": {
+        "title": "TRX"
+      },
+      "ru": {
+        "title": "TRX"
+      },
+      "uk": {
+        "title": "TRX"
+      }
+    }
+  },
+  "files": [
+    {
+      "json": "SuspensionTraining/exercises/trx/trx.json",
+      "icon": "SuspensionTraining/exercises/trx/Icon.png"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionRow/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionRow/suspensionRow.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionChestPress/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionChestPress/suspensionChestPress.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionSquat/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionSquat/suspensionSquat.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionHipHinge/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionHipHinge/suspensionHipHinge.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionReverseLunge/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionReverseLunge/suspensionReverseLunge.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionHamstringCurl/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionHamstringCurl/suspensionHamstringCurl.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionBicepsCurl/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionBicepsCurl/suspensionBicepsCurl.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionTricepsPress/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionTricepsPress/suspensionTricepsPress.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionPlank/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionPlank/suspensionPlank.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionStandingRollout/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionStandingRollout/suspensionStandingRollout.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionPushUp/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionPushUp/suspensionPushUp.json"
+    },
+    {
+      "icon": "SuspensionTraining/exercises/suspensionYFly/Icon.png",
+      "json": "SuspensionTraining/exercises/suspensionYFly/suspensionYFly.json"
+    }
+  ]
+}

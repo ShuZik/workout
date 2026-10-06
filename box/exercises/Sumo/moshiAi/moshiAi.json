@@ -1,0 +1,87 @@
+{
+  "id": "97.24",
+  "key": "sumo_moshi_ai",
+  "title": "Moshi-ai",
+  "description": "1. Form a group of at least three wrestlers around a marked ring with two starting in the center.\n2. Wrestle a short controlled bout using pushes and force-outs; the winner stays in and chooses the next opponent.\n3. Rotate continuously until the round ends, stopping any bout immediately on a fall or loss of control.",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "7 Group Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Moshi-ai",
+      "description": "1. Form a group of at least three wrestlers around a marked ring with two starting in the center.\n2. Wrestle a short controlled bout using pushes and force-outs; the winner stays in and chooses the next opponent.\n3. Rotate continuously until the round ends, stopping any bout immediately on a fall or loss of control.",
+      "sectionTitle": "Group Practice"
+    },
+    "es": {
+      "title": "Moshi-ai",
+      "description": "1. Forma un grupo de al menos tres luchadores alrededor de un anillo marcado, con dos empezando en el centro.\n2. Luchen un combate corto y controlado con empujes y salidas; el ganador se queda y elige al siguiente rival.\n3. Roten de forma continua hasta que termine el asalto, deteniendo cualquier combate de inmediato ante una caída o pérdida de control.",
+      "sectionTitle": "Práctica en grupo"
+    },
+    "pt": {
+      "title": "Moshi-ai",
+      "description": "1. Forme um grupo de pelo menos três lutadores ao redor de um anel marcado, com dois começando no centro.\n2. Lutem um combate curto e controlado com empurrões e saídas; o vencedor fica e escolhe o próximo adversário.\n3. Façam rodízio contínuo até o fim do round, parando qualquer luta imediatamente em uma queda ou perda de controle.",
+      "sectionTitle": "Prática em grupo"
+    },
+    "fr": {
+      "title": "Moshi-ai",
+      "description": "1. Formez un groupe d’au moins trois lutteurs autour d’un cercle marqué, deux commençant au centre.\n2. Disputez un combat court et contrôlé avec poussées et sorties ; le vainqueur reste et choisit l’adversaire suivant.\n3. Tournez en continu jusqu’à la fin du round, en arrêtant immédiatement tout combat en cas de chute ou de perte de contrôle.",
+      "sectionTitle": "Pratique en groupe"
+    },
+    "de": {
+      "title": "Moshi-ai",
+      "description": "1. Bildet eine Gruppe von mindestens drei Ringern um einen markierten Ring, zwei beginnen in der Mitte.\n2. Ringt einen kurzen, kontrollierten Kampf mit Schieben und Herausdrücken; der Sieger bleibt und wählt den nächsten Gegner.\n3. Wechselt fortlaufend bis zum Rundenende und stoppt jeden Kampf sofort bei einem Sturz oder Kontrollverlust.",
+      "sectionTitle": "Gruppentraining"
+    },
+    "it": {
+      "title": "Moshi-ai",
+      "description": "1. Formate un gruppo di almeno tre lottatori attorno a un anello segnato, con due che iniziano al centro.\n2. Disputate un incontro breve e controllato con spinte e uscite; il vincitore resta e sceglie il prossimo avversario.\n3. Ruotate senza sosta fino alla fine del round, fermando subito qualsiasi incontro in caso di caduta o perdita di controllo.",
+      "sectionTitle": "Pratica di gruppo"
+    },
+    "zh-Hans": {
+      "title": "申合",
+      "description": "1. 至少三名力士围在划定的圆圈旁组成一组，两人在中央开始。\n2. 用推和逼出进行一场短暂且受控的比试；胜者留下并挑选下一位对手。\n3. 持续轮换直到本轮结束，一旦有人摔倒或失控立即停止该场比试。",
+      "sectionTitle": "小组练习"
+    },
+    "ja": {
+      "title": "申し合い",
+      "description": "1. 印をつけた土俵の周りに三人以上で集まり、二人が中央から始めます。\n2. 押しや寄りで短く制御した取組を行い、勝った者が残って次の相手を選びます。\n3. ラウンド終了まで続けて交代し、倒れたり制御を失ったりしたら即座にその取組を止めます。",
+      "sectionTitle": "グループ練習"
+    },
+    "ko": {
+      "title": "모시아이",
+      "description": "1. 표시한 경기장 주위에 세 명 이상이 모이고 두 명이 중앙에서 시작합니다.\n2. 밀기와 밀어내기로 짧고 통제된 대결을 하며, 이긴 사람이 남아 다음 상대를 고릅니다.\n3. 라운드가 끝날 때까지 계속 교대하며, 넘어지거나 통제를 잃으면 즉시 그 대결을 멈춥니다.",
+      "sectionTitle": "그룹 훈련"
+    },
+    "th": {
+      "title": "โมชิไอ",
+      "description": "1. รวมกลุ่มนักมวยปล้ำอย่างน้อยสามคนรอบวงที่ทำเครื่องหมายไว้ โดยสองคนเริ่มที่กลางวง\n2. ปล้ำสั้น ๆ อย่างควบคุมด้วยการดันและดันออก ผู้ชนะอยู่ต่อและเลือกคู่ต่อไป\n3. หมุนเวียนต่อเนื่องจนจบรอบ และหยุดการปล้ำทันทีเมื่อมีการล้มหรือเสียการควบคุม",
+      "sectionTitle": "ฝึกเป็นกลุ่ม"
+    },
+    "ru": {
+      "title": "Моси-ай",
+      "description": "1. Соберите группу минимум из трёх борцов вокруг размеченного круга; двое начинают в центре.\n2. Проведите короткую контролируемую схватку с толчками и вытеснениями; победитель остаётся и выбирает следующего соперника.\n3. Меняйтесь непрерывно до конца раунда и сразу останавливайте схватку при падении или потере контроля.",
+      "sectionTitle": "Групповая практика"
+    },
+    "uk": {
+      "title": "Мосі-ай",
+      "description": "1. Зберіть групу щонайменше з трьох борців навколо розміченого кола; двоє починають у центрі.\n2. Проведіть коротку контрольовану сутичку з поштовхами й витісненнями; переможець лишається й обирає наступного суперника.\n3. Змінюйтеся безперервно до кінця раунду й одразу зупиняйте сутичку в разі падіння чи втрати контролю.",
+      "sectionTitle": "Групова практика"
+    }
+  }
+}

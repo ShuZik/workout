@@ -1,0 +1,87 @@
+{
+  "id": "51.1",
+  "key": "chidaoba",
+  "title": "Chidaoba",
+  "description": "1. Begin standing on mats with a trained partner, both in short jackets and belts, taking grips on the jacket and belt.\n2. Work for throws and trips from the standing grip only, with no groundwork after the fall.\n3. Guide every throw to a controlled landing and reset standing after each fall.",
+  "colorType": "red",
+  "workoutType": "chidaoba",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Chidaoba",
+      "description": "1. Begin standing on mats with a trained partner, both in short jackets and belts, taking grips on the jacket and belt.\n2. Work for throws and trips from the standing grip only, with no groundwork after the fall.\n3. Guide every throw to a controlled landing and reset standing after each fall.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Chidaoba",
+      "description": "1. Comienza de pie sobre el tatami con un compañero entrenado, ambos con chaqueta corta y cinturón, agarrando chaqueta y cinturón.\n2. Busca proyecciones y zancadillas solo desde el agarre de pie, sin trabajo en el suelo tras la caída.\n3. Guía cada proyección a una caída controlada y reinicia de pie tras cada caída.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Chidaoba",
+      "description": "1. Comece de pé no tatame com um parceiro treinado, ambos de jaqueta curta e cinto, segurando jaqueta e cinto.\n2. Busque projeções e rasteiras apenas a partir da pegada em pé, sem luta no solo após a queda.\n3. Conduza cada projeção a uma queda controlada e recomece de pé após cada queda.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Chidaoba",
+      "description": "1. Commencez debout sur le tapis avec un partenaire entraîné, tous deux en veste courte et ceinture, en saisissant veste et ceinture.\n2. Cherchez projections et crocs-en-jambe uniquement depuis la saisie debout, sans travail au sol après la chute.\n3. Guidez chaque projection vers une chute contrôlée et repartez debout après chaque chute.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Tschidaoba",
+      "description": "1. Beginne stehend auf der Matte mit einem geübten Partner, beide in kurzer Jacke und Gürtel, und greife Jacke und Gürtel.\n2. Arbeite an Würfen und Beinstellen nur aus dem Standgriff, ohne Bodenkampf nach dem Fall.\n3. Führe jeden Wurf in eine kontrollierte Landung und beginne nach jedem Fall stehend neu.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Chidaoba",
+      "description": "1. Inizia in piedi sul tatami con un partner allenato, entrambi con giacca corta e cintura, afferrando giacca e cintura.\n2. Cerca proiezioni e sgambetti solo dalla presa in piedi, senza lotta a terra dopo la caduta.\n3. Guida ogni proiezione a una caduta controllata e riparti in piedi dopo ogni caduta.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "格鲁吉亚摔跤",
+      "description": "1. 与训练有素的同伴站在垫上开始，双方穿短上衣系腰带，抓上衣和腰带。\n2. 只从站立握持中进行摔投和绊摔，倒地后不进行地面技。\n3. 引导每次摔投平稳落地，每次倒地后站立重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "チダオバ",
+      "description": "1. 短い上着と帯を着けた熟練のパートナーとマット上に立ち、上着と帯を持って始めます。\n2. 立ち組みからのみ投げと足払いを狙い、倒れた後の寝技は行いません。\n3. すべての投げを制御された着地に導き、倒れるたびに立って再開します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "치다오바",
+      "description": "1. 짧은 상의와 띠를 착용한 숙련된 파트너와 매트에 서서 상의와 띠를 잡고 시작합니다.\n2. 선 자세 그립에서만 메치기와 걸기를 시도하며 넘어진 뒤 그라운드 기술은 하지 않습니다.\n3. 모든 메치기를 통제된 착지로 이끌고 넘어질 때마다 선 자세로 다시 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ชิดาโอบา",
+      "description": "1. เริ่มยืนบนเบาะกับคู่ฝึกที่ผ่านการฝึก ทั้งคู่สวมเสื้อสั้นและเข็มขัด จับเสื้อและเข็มขัด\n2. พยายามทุ่มและขัดขาจากการจับยืนเท่านั้น ไม่ปล้ำบนพื้นหลังการล้ม\n3. นำทุกการทุ่มให้ลงพื้นอย่างควบคุม และเริ่มใหม่ในท่ายืนหลังการล้มแต่ละครั้ง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Чидаоба",
+      "description": "1. Начните стоя на ковре с подготовленным партнёром, оба в коротких куртках и поясах, захваты за куртку и пояс.\n2. Работайте на броски и подсечки только из захвата в стойке, без борьбы в партере после падения.\n3. Доводите каждый бросок до контролируемого приземления и начинайте снова в стойке после каждого падения.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Чидаоба",
+      "description": "1. Почніть стоячи на килимі з підготовленим партнером, обидва в коротких куртках і поясах, захвати за куртку й пояс.\n2. Працюйте на кидки й підсічки лише із захвату в стійці, без боротьби в партері після падіння.\n3. Доводьте кожен кидок до контрольованого приземлення й починайте знову в стійці після кожного падіння.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

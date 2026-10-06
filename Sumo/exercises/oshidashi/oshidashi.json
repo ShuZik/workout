@@ -1,0 +1,90 @@
+{
+  "id": "97.2",
+  "key": "sumo_oshidashi",
+  "title": "Oshidashi",
+  "description": "1. Face a partner in a low sumo stance with hips down and hands at the partner's armpits or chest, no belt grip.\n2. Push upward and forward with both palms while driving the legs in short sliding steps and keeping the elbows tucked.\n3. Move the partner steadily to the edge of the ring or mat zone, then stop and reset in the center.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Oshidashi",
+      "description": "1. Face a partner in a low sumo stance with hips down and hands at the partner's armpits or chest, no belt grip.\n2. Push upward and forward with both palms while driving the legs in short sliding steps and keeping the elbows tucked.\n3. Move the partner steadily to the edge of the ring or mat zone, then stop and reset in the center.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Oshidashi",
+      "description": "1. Frente a un compañero en guardia baja de sumo, cadera abajo y manos en sus axilas o pecho, sin agarrar el cinturón.\n2. Empuja hacia arriba y adelante con ambas palmas mientras avanzas con pasos cortos deslizados y los codos pegados.\n3. Lleva al compañero de forma constante hasta el borde del anillo o zona del tapiz, luego detente y reinicia en el centro.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Oshidashi",
+      "description": "1. De frente para um parceiro em base baixa de sumô, quadril baixo e mãos nas axilas ou no peito dele, sem pegar a faixa.\n2. Empurre para cima e para a frente com as duas palmas enquanto avança com passos curtos deslizantes e cotovelos junto ao corpo.\n3. Leve o parceiro de forma constante até a borda do anel ou da área, então pare e recomece no centro.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Oshidashi",
+      "description": "1. Face à un partenaire en garde basse de sumo, hanches basses et mains aux aisselles ou à la poitrine, sans saisir la ceinture.\n2. Poussez vers le haut et l’avant avec les deux paumes en avançant à petits pas glissés, coudes serrés.\n3. Amenez le partenaire régulièrement jusqu’au bord du cercle ou de la zone, puis arrêtez et repartez au centre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Oshidashi",
+      "description": "1. Stehe einem Partner in tiefer Sumo-Haltung gegenüber, Hüfte tief, Hände an Achseln oder Brust, ohne Gürtelgriff.\n2. Schiebe mit beiden Handflächen nach oben und vorn, während die Beine in kurzen Gleitschritten treiben und die Ellbogen eng bleiben.\n3. Bewege den Partner gleichmäßig an den Rand des Rings oder der Mattenzone, stoppe dann und starte in der Mitte neu.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Oshidashi",
+      "description": "1. Di fronte a un partner in guardia bassa da sumo, anche basse e mani alle ascelle o al petto, senza presa alla cintura.\n2. Spingi verso l’alto e in avanti con entrambi i palmi avanzando a piccoli passi scivolati e gomiti stretti.\n3. Porta il partner con costanza al bordo dell’anello o della zona, poi fermati e riparti dal centro.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "押出",
+      "description": "1. 与同伴相对，采用低位相扑姿势，髋部下沉，双手放在对方腋下或胸口，不抓腰带。\n2. 双掌向上向前推，同时以短促滑步推进，肘部收紧。\n3. 稳定地把同伴推到圈边或区域边缘，然后停止并回到中央重新开始。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "押し出し",
+      "description": "1. 低い相撲の構えで相手と向き合い、腰を落として両手を相手の脇か胸に当て、まわしは取りません。\n2. 両手のひらで上前方へ押しながら、脇を締めて短いすり足で前進します。\n3. 相手を着実に土俵際やマットの境まで運び、止まって中央で仕切り直します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "오시다시",
+      "description": "1. 낮은 스모 자세로 파트너와 마주 서서 엉덩이를 낮추고 손을 상대의 겨드랑이나 가슴에 대며 샅바는 잡지 않습니다.\n2. 두 손바닥으로 위와 앞으로 밀며 팔꿈치를 붙이고 짧은 미끄럼 걸음으로 나아갑니다.\n3. 파트너를 꾸준히 경기장이나 매트 구역 가장자리까지 밀고, 멈춘 뒤 중앙에서 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "โอชิดาชิ",
+      "description": "1. หันหน้าเข้าหาคู่ฝึกในท่าซูโม่ต่ำ สะโพกต่ำ มือวางที่รักแร้หรือหน้าอกคู่ฝึก ไม่จับผ้าคาดเอว\n2. ดันขึ้นและไปข้างหน้าด้วยฝ่ามือทั้งสอง พร้อมขับขาด้วยก้าวลากสั้น ๆ และหนีบศอก\n3. ดันคู่ฝึกอย่างสม่ำเสมอไปถึงขอบวงหรือขอบพื้นที่ แล้วหยุดและเริ่มใหม่ที่กลาง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Осидаси",
+      "description": "1. Встаньте напротив партнёра в низкой стойке сумо: таз низко, руки у его подмышек или на груди, без захвата пояса.\n2. Толкайте обеими ладонями вверх и вперёд, продвигаясь короткими скользящими шагами и прижимая локти.\n3. Равномерно доведите партнёра до края круга или зоны, затем остановитесь и начните заново в центре.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Осідасі",
+      "description": "1. Станьте навпроти партнера в низькій стійці сумо: таз низько, руки біля його пахв або на грудях, без захвату пояса.\n2. Штовхайте обома долонями вгору й уперед, просуваючись короткими ковзними кроками й притискаючи лікті.\n3. Рівномірно доведіть партнера до краю кола чи зони, потім зупиніться й почніть знову в центрі.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

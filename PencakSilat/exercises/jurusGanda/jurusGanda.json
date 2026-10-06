@@ -1,0 +1,90 @@
+{
+  "id": "86.5",
+  "key": "pencak_silat_jurus_ganda",
+  "title": "Jurus Ganda",
+  "description": "1. With a trained partner, agree on a choreographed sequence in which one attacks and the other defends, empty-handed or with blunt training weapons.\n2. Perform the attacks and defences at controlled speed, keeping a safe distance and stopping every strike or weapon cut short of contact.\n3. Swap the attacker and defender roles for the next run and stop at once if either partner loses control or calls a halt.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "pencakSilat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jurus Ganda",
+      "description": "1. With a trained partner, agree on a choreographed sequence in which one attacks and the other defends, empty-handed or with blunt training weapons.\n2. Perform the attacks and defences at controlled speed, keeping a safe distance and stopping every strike or weapon cut short of contact.\n3. Swap the attacker and defender roles for the next run and stop at once if either partner loses control or calls a halt.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Jurus Ganda",
+      "description": "1. Con un compañero entrenado, acordad una secuencia coreografiada en la que uno ataca y el otro defiende, a mano vacía o con armas de entrenamiento romas.\n2. Ejecutad ataques y defensas a velocidad controlada, manteniendo una distancia segura y deteniendo cada golpe o corte antes del contacto.\n3. Intercambiad los papeles de atacante y defensor en la siguiente pasada y parad de inmediato si alguno pierde el control o pide detenerse.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Jurus Ganda",
+      "description": "1. Com um parceiro treinado, combinem uma sequência coreografada em que um ataca e o outro defende, de mãos livres ou com armas de treino sem fio.\n2. Executem ataques e defesas em velocidade controlada, mantendo distância segura e parando cada golpe ou corte antes do contato.\n3. Troquem os papéis de atacante e defensor na próxima execução e parem imediatamente se algum perder o controle ou pedir para parar.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Jurus Ganda",
+      "description": "1. Avec un partenaire entraîné, convenez d’une séquence chorégraphiée où l’un attaque et l’autre défend, à mains nues ou avec des armes d’entraînement émoussées.\n2. Exécutez attaques et défenses à vitesse contrôlée, en gardant une distance sûre et en arrêtant chaque frappe ou coupe avant le contact.\n3. Inversez les rôles d’attaquant et de défenseur au passage suivant et arrêtez immédiatement si l’un perd le contrôle ou demande l’arrêt.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Jurus Ganda",
+      "description": "1. Vereinbare mit einem trainierten Partner eine choreografierte Abfolge, in der einer angreift und der andere abwehrt, waffenlos oder mit stumpfen Trainingswaffen.\n2. Führt Angriffe und Abwehr in kontrolliertem Tempo aus, haltet sicheren Abstand und stoppt jeden Schlag oder Waffenhieb vor dem Kontakt.\n3. Tauscht im nächsten Durchgang die Rollen und hört sofort auf, wenn einer die Kontrolle verliert oder Stopp ruft.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Jurus Ganda",
+      "description": "1. Con un partner allenato, concordate una sequenza coreografata in cui uno attacca e l’altro difende, a mani nude o con armi da allenamento smussate.\n2. Eseguite attacchi e difese a velocità controllata, mantenendo una distanza sicura e fermando ogni colpo o fendente prima del contatto.\n3. Scambiate i ruoli di attaccante e difensore nel passaggio successivo e fermatevi subito se uno perde il controllo o chiede di fermarsi.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "双人对练（Jurus Ganda）",
+      "description": "1. 与受过训练的同伴约定一套编排好的套路，一人进攻一人防守，可徒手或使用钝头训练器械。\n2. 以受控速度完成攻防，保持安全距离，每次击打或器械劈砍���在接触前停住。\n3. 下一遍交换攻防角色，任何一方失控或喊停时立即停止。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ジュルス・ガンダ",
+      "description": "1. 訓練を受けたパートナーと、一人が攻め一人が受ける振り付けの連続技を、素手または刃引きの練習用武器で決めます。\n2. 制御された速度で攻防を行い、安全な間合いを保ち、打撃や武器の斬りはすべて当たる前に止めます。\n3. 次の回では攻め手と受け手を交代し、どちらかが制御を失ったり止めを求めたらすぐに中止します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "주루스 간다",
+      "description": "1. 훈련된 파트너와 한 명은 공격하고 다른 한 명은 방어하는 안무 연속 동작을 맨손 또는 날이 없는 훈련용 무기로 정합니다.\n2. 통제된 속도로 공격과 방어를 수행하고 안전한 거리를 유지하며 모든 타격과 무기 베기를 접촉 전에 멈춥니다.\n3. 다음 회차에는 공격자와 방어자 역할을 바꾸고, 한쪽이 통제를 잃거나 정지를 요청하면 즉시 멈춥니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "จูรุส กันดา",
+      "description": "1. ตกลงลำดับท่าที่ออกแบบไว้กับคู่ฝึกที่ผ่านการฝึก โดยคนหนึ่งรุกอีกคนรับ มือเปล่าหรือใช้อาวุธฝึกไม่มีคม\n2. ทำการรุกและรับด้วยความเร็วที่ควบคุมได้ รักษาระยะปลอดภัย และหยุดทุกการตีหรือฟันก่อนถึงตัว\n3. สลับบทบาทผู้รุกและผู้รับในรอบถัดไป และหยุดทันทีหากฝ่ายใดเสียการควบคุมหรือขอให้หยุด",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Джурус ганда",
+      "description": "1. С подготовленным партнёром договоритесь о поставленной связке, где один атакует, а другой защищается — без оружия или с тупым учебным оружием.\n2. Выполняйте атаки и защиты в контролируемом темпе, сохраняя безопасную дистанцию и останавливая каждый удар или рубящее движение до контакта.\n3. В следующем повторе поменяйтесь ролями и немедленно остановитесь, если кто-то теряет контроль или просит остановиться.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Джурус ганда",
+      "description": "1. З підготовленим партнером домовтеся про поставлену зв’язку, де один атакує, а інший захищається — без зброї або з тупою навчальною зброєю.\n2. Виконуйте атаки й захисти в контрольованому темпі, зберігаючи безпечну дистанцію та зупиняючи кожен удар чи рубаючий рух до контакту.\n3. У наступному повторі поміняйтеся ролями й негайно зупиніться, якщо хтось утрачає контроль або просить зупинитися.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

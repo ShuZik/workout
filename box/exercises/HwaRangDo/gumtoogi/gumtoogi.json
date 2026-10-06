@@ -1,0 +1,87 @@
+{
+  "id": "62.4",
+  "key": "hwa_rang_do_gumtoogi",
+  "title": "Gumtoogi",
+  "description": "1. Equip both partners with padded training swords and head and hand protection, and agree on valid targets and round time.\n2. Move in and out of range, cutting and thrusting at the agreed targets while parrying and evading the partner's sword.\n3. Stop at each scoring touch or the coach's call, step back to the start lines, and resume only when both are ready.",
+  "colorType": "purple",
+  "workoutType": "hwaRangDo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "2 Sparring",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Gumtoogi",
+      "description": "1. Equip both partners with padded training swords and head and hand protection, and agree on valid targets and round time.\n2. Move in and out of range, cutting and thrusting at the agreed targets while parrying and evading the partner's sword.\n3. Stop at each scoring touch or the coach's call, step back to the start lines, and resume only when both are ready.",
+      "sectionTitle": "Sparring"
+    },
+    "es": {
+      "title": "Gumtoogi",
+      "description": "1. Equipad a ambos compañeros con espadas acolchadas de entrenamiento y protección de cabeza y manos, y acordad los blancos válidos y el tiempo del asalto.\n2. Entrad y salid de distancia, cortando y estocando a los blancos acordados mientras paráis y esquiváis la espada del compañero.\n3. Deteneos en cada toque válido o a la orden del entrenador, volved a las líneas de inicio y reanudad solo cuando ambos estéis listos.",
+      "sectionTitle": "Combate"
+    },
+    "pt": {
+      "title": "Gumtoogi",
+      "description": "1. Equipem ambos com espadas acolchoadas de treino e proteção de cabeça e mãos, e combinem alvos válidos e tempo do round.\n2. Entrem e saiam da distância, cortando e estocando nos alvos combinados enquanto aparam e esquivam da espada do parceiro.\n3. Parem a cada toque válido ou ao comando do treinador, voltem às linhas de início e retomem só quando ambos estiverem prontos.",
+      "sectionTitle": "Combate"
+    },
+    "fr": {
+      "title": "Gumtoogi",
+      "description": "1. Équipez les deux partenaires d’épées d’entraînement rembourrées et de protections de tête et de mains, et convenez des cibles valables et de la durée.\n2. Entrez et sortez de la distance en coupant et piquant les cibles convenues tout en parant et esquivant l’épée du partenaire.\n3. Arrêtez à chaque touche valable ou au signal de l’entraîneur, revenez aux lignes de départ et reprenez quand tous deux sont prêts.",
+      "sectionTitle": "Combat"
+    },
+    "de": {
+      "title": "Gumtoogi",
+      "description": "1. Beide Partner mit gepolsterten Trainingsschwertern sowie Kopf- und Handschutz ausrüsten, gültige Ziele und Rundenzeit vereinbaren.\n2. In die Distanz hinein- und hinausgehen, auf die vereinbarten Ziele schneiden und stechen, das Schwert des Partners parieren und ausweichen.\n3. Bei jedem gültigen Treffer oder Trainerkommando stoppen, zu den Startlinien zurück und erst weitermachen, wenn beide bereit sind.",
+      "sectionTitle": "Sparring"
+    },
+    "it": {
+      "title": "Gumtoogi",
+      "description": "1. Equipaggiate entrambi con spade imbottite da allenamento e protezioni per testa e mani, e concordate bersagli validi e durata del round.\n2. Entrate e uscite dalla distanza, tagliando e affondando sui bersagli concordati mentre parate e schivate la spada del partner.\n3. Fermatevi a ogni tocco valido o al comando dell’allenatore, tornate alle linee di partenza e riprendete solo quando entrambi siete pronti.",
+      "sectionTitle": "Combattimento"
+    },
+    "zh-Hans": {
+      "title": "剑斗技",
+      "description": "1. 双方配备软垫训练剑及头部和手部护具，约定有效部位和回合时间。\n2. 进出距离，对约定部位斩击和刺击，同时格挡并闪避对方的剑。\n3. 每次有效击中或教练喊停即停，退回起始线，双方都准备好后再继续。",
+      "sectionTitle": "实战"
+    },
+    "ja": {
+      "title": "クムトゥギ（剣闘技）",
+      "description": "1. 二人ともクッション付きの練習用剣と頭部・手の防具を着け、有効部位とラウンド時間を決めます。\n2. 間合いを出入りし、決めた部位へ斬りと突きを出しながら、相手の剣を受け流しかわします。\n3. 有効打か指導者の合図ごとに止め、開始線に戻り、双方の準備ができてから再開します。",
+      "sectionTitle": "組手・試合"
+    },
+    "ko": {
+      "title": "검투기",
+      "description": "1. 두 사람 모두 패드가 있는 훈련용 검과 머리·손 보호구를 착용하고 유효 부위와 라운드 시간을 정합니다.\n2. 거리를 드나들며 정한 부위로 베기와 찌르기를 하고 상대의 검을 막고 피합니다.\n3. 유효 타격이나 지도자의 신호마다 멈추고 시작선으로 물러나 둘 다 준비되면 다시 시작합니다.",
+      "sectionTitle": "겨루기"
+    },
+    "th": {
+      "title": "กุมทูกี",
+      "description": "1. ให้ทั้งคู่ใช้ดาบฝึกบุนวมและสวมอุปกรณ์ป้องกันศีรษะและมือ ตกลงเป้าที่นับคะแนนและเวลายก\n2. เข้าออกระยะ ฟันและแทงไปยังเป้าที่ตกลง พร้อมปัดและหลบดาบของคู่\n3. หยุดทุกครั้งที่ฟันโดนเป้าหรือโค้ชสั่ง ถอยกลับเส้นเริ่ม และเริ่มใหม่เมื่อทั้งคู่พร้อม",
+      "sectionTitle": "การต่อสู้"
+    },
+    "ru": {
+      "title": "Гумтуги",
+      "description": "1. Обеспечьте обоих партнёров мягкими тренировочными мечами и защитой головы и рук, договоритесь о зачётных целях и времени раунда.\n2. Входите в дистанцию и выходите из неё, нанося рубящие и колющие удары по оговорённым целям, парируя и уклоняясь от меча партнёра.\n3. Останавливайтесь после каждого зачётного касания или по команде тренера, возвращайтесь к стартовым линиям и продолжайте, когда оба готовы.",
+      "sectionTitle": "Спарринг"
+    },
+    "uk": {
+      "title": "Гумтугі",
+      "description": "1. Забезпечте обох партнерів м’якими тренувальними мечами та захистом голови й рук, домовтеся про залікові цілі й час раунду.\n2. Входьте в дистанцію й виходьте з неї, завдаючи рубальних і колючих ударів по обумовлених цілях, паруючи й ухиляючись від меча партнера.\n3. Зупиняйтеся після кожного залікового торкання або за командою тренера, повертайтеся до стартових ліній і продовжуйте, коли обидва готові.",
+      "sectionTitle": "Спаринг"
+    }
+  }
+}

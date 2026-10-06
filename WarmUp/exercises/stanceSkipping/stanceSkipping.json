@@ -1,0 +1,90 @@
+{
+  "id": "9.68",
+  "key": "jump_rope_stance_skipping",
+  "title": "Stance Skipping",
+  "description": "1. Stand in a fighting stance with one foot slightly forward, knees soft, and the rope behind the heels.\n2. Skip with small hops on the balls of both feet while keeping the staggered stance and most of the weight over the front foot.\n3. Switch the lead foot every few turns with a quick hop and keep the hands low and relaxed.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 8.3,
+    "moderate": 11.8,
+    "vigorous": 12.3,
+    "lightCode": "15552",
+    "moderateCode": "15551",
+    "vigorousCode": "15550"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Cardio",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Stance Skipping",
+      "description": "1. Stand in a fighting stance with one foot slightly forward, knees soft, and the rope behind the heels.\n2. Skip with small hops on the balls of both feet while keeping the staggered stance and most of the weight over the front foot.\n3. Switch the lead foot every few turns with a quick hop and keep the hands low and relaxed.",
+      "sectionTitle": "Cardio"
+    },
+    "es": {
+      "title": "Comba en guardia",
+      "description": "1. Colócate en guardia con un pie ligeramente adelantado, rodillas suaves y la cuerda detrás de los talones.\n2. Salta con pequeños rebotes sobre la parte delantera de ambos pies manteniendo la guardia escalonada y la mayor parte del peso sobre el pie delantero.\n3. Cambia el pie adelantado cada pocos giros con un salto rápido y mantén las manos bajas y relajadas.",
+      "sectionTitle": "Cardio"
+    },
+    "pt": {
+      "title": "Corda em guarda",
+      "description": "1. Fique em guarda com um pé ligeiramente à frente, joelhos suaves e a corda atrás dos calcanhares.\n2. Salte com pequenos quiques na ponta dos dois pés mantendo a guarda escalonada e a maior parte do peso sobre o pé da frente.\n3. Troque o pé da frente a cada poucas voltas com um salto rápido e mantenha as mãos baixas e relaxadas.",
+      "sectionTitle": "Cardio"
+    },
+    "fr": {
+      "title": "Corde en garde",
+      "description": "1. Placez-vous en garde, un pied légèrement devant, genoux souples, corde derrière les talons.\n2. Sautillez par petits rebonds sur l’avant des deux pieds en gardant la garde décalée et la majeure partie du poids sur le pied avant.\n3. Changez de pied avant tous les quelques tours par un petit saut rapide et gardez les mains basses et détendues.",
+      "sectionTitle": "Cardio"
+    },
+    "de": {
+      "title": "Seilspringen in Kampfstellung",
+      "description": "1. In Kampfstellung stehen, ein Fuß leicht vorn, Knie locker, das Seil hinter den Fersen.\n2. Mit kleinen Sprüngen auf den Ballen beider Füße springen, die versetzte Stellung halten und das meiste Gewicht über dem vorderen Fuß.\n3. Alle paar Umdrehungen mit einem schnellen Hüpfer die Führungsseite wechseln und die Hände tief und locker halten.",
+      "sectionTitle": "Cardio"
+    },
+    "it": {
+      "title": "Corda in guardia",
+      "description": "1. Mettiti in guardia con un piede leggermente avanti, ginocchia morbide e corda dietro i talloni.\n2. Salta con piccoli rimbalzi sugli avampiedi mantenendo la guardia sfalsata e la maggior parte del peso sul piede anteriore.\n3. Cambia il piede avanti ogni pochi giri con un saltello rapido e tieni le mani basse e rilassate.",
+      "sectionTitle": "Cardio"
+    },
+    "zh-Hans": {
+      "title": "格斗站姿跳绳",
+      "description": "1. 以格斗站姿站立，一脚略在前，膝盖放松，绳子在脚跟后。\n2. 保持前后错开的站姿，以双脚前脚掌小幅跳跃，大部分体重在前脚上。\n3. 每隔几圈快速一跳换前脚，双手保持低而放松。",
+      "sectionTitle": "有氧运动"
+    },
+    "ja": {
+      "title": "構え縄跳び",
+      "description": "1. 片足を少し前に出した構えで立ち、膝を柔らかくし、ロープをかかとの後ろに置きます。\n2. 前後に開いた構えを保ち、体重の多くを前足に乗せたまま両足の母指球で小さく跳びます。\n3. 数回旋ごとに素早い跳躍で前足を入れ替え、手は低く力を抜いておきます。",
+      "sectionTitle": "有酸素運動"
+    },
+    "ko": {
+      "title": "스탠스 줄넘기",
+      "description": "1. 한 발을 약간 앞에 둔 격투 자세로 서고 무릎을 부드럽게, 줄은 발뒤꿈치 뒤에 둡니다.\n2. 엇갈린 자세를 유지하고 체중 대부분을 앞발에 둔 채 두 발 앞꿈치로 작게 뜁니다.\n3. 몇 회전마다 빠른 점프로 앞발을 바꾸고 손은 낮고 편안하게 유지합니다.",
+      "sectionTitle": "유산소 운동"
+    },
+    "th": {
+      "title": "กระโดดเชือกในท่าการ์ด",
+      "description": "1. ยืนในท่าการ์ด เท้าหนึ่งอยู่หน้าเล็กน้อย เข่าผ่อนคลาย และเชือกอยู่หลังส้นเท้า\n2. กระโดดเบาๆ ด้วยปลายเท้าทั้งสองโดยรักษาท่ายืนเหลื่อมและให้น้ำหนักส่วนใหญ่อยู่ที่เท้าหน้า\n3. สลับเท้าหน้าทุกสองสามรอบด้วยการกระโดดเร็วๆ และให้มืออยู่ต่ำและผ่อนคลาย",
+      "sectionTitle": "คาร์ดิโอ"
+    },
+    "ru": {
+      "title": "Скакалка в стойке",
+      "description": "1. Встаньте в боевую стойку, одна нога чуть впереди, колени мягкие, скакалка за пятками.\n2. Прыгайте небольшими подскоками на передней части обеих стоп, сохраняя разножку и основной вес над передней ногой.\n3. Каждые несколько оборотов быстрым подскоком меняйте переднюю ногу, руки держите низко и расслабленно.",
+      "sectionTitle": "Кардио"
+    },
+    "uk": {
+      "title": "Скакалка в стійці",
+      "description": "1. Станьте в бойову стійку, одна нога трохи попереду, коліна м’які, скакалка за п’ятами.\n2. Стрибайте невеликими підскоками на передній частині обох стоп, зберігаючи різностійку й основну вагу над передньою ногою.\n3. Кожні кілька обертів швидким підскоком міняйте передню ногу, руки тримайте низько й розслаблено.",
+      "sectionTitle": "Кардіо"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "83.10",
+  "key": "naginata_shikake_oji_waza",
+  "title": "Shikake-Oji Waza Practice",
+  "description": "1. Face the partner in chudan at striking distance; shikake (attacker) and oji (responder) agree on the target and response.\n2. Shikake strikes the target at controlled speed; oji parries, evades, or deflects with the shaft and answers with a counter-strike.\n3. Both stop the blade short or touch lightly, return to kamae with zanshin, and switch roles after each set.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "naginata",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Shikake-Oji Waza Practice",
+      "description": "1. Face the partner in chudan at striking distance; shikake (attacker) and oji (responder) agree on the target and response.\n2. Shikake strikes the target at controlled speed; oji parries, evades, or deflects with the shaft and answers with a counter-strike.\n3. Both stop the blade short or touch lightly, return to kamae with zanshin, and switch roles after each set.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Práctica de shikake-oji waza",
+      "description": "1. Enfrenta al compañero en chudan a distancia de golpe; shikake (atacante) y oji (respondedor) acuerdan el objetivo y la respuesta.\n2. Shikake golpea el objetivo a velocidad controlada; oji para, esquiva o desvía con el mango y responde con un contragolpe.\n3. Ambos detienen la hoja antes o tocan suave, vuelven al kamae con zanshin y cambian de rol tras cada serie.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Prática de shikake-oji waza",
+      "description": "1. Fique diante do parceiro em chudan na distância de golpe; shikake (atacante) e oji (quem responde) combinam o alvo e a resposta.\n2. Shikake golpeia o alvo em velocidade controlada; oji defende, esquiva ou desvia com o cabo e responde com um contragolpe.\n3. Ambos param a lâmina antes ou tocam de leve, voltam ao kamae com zanshin e trocam de papel após cada série.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Pratique du shikake-oji waza",
+      "description": "1. Faites face au partenaire en chudan à distance de frappe ; shikake (attaquant) et oji (répondant) conviennent de la cible et de la réponse.\n2. Shikake frappe la cible à vitesse contrôlée ; oji pare, esquive ou dévie avec la hampe et riposte par une contre-attaque.\n3. Tous deux arrêtent la lame avant l'impact ou touchent légèrement, reviennent en kamae avec zanshin et changent de rôle après chaque série.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Shikake-Oji-Waza-Übung",
+      "description": "1. Steht euch in Chudan auf Schlagdistanz gegenüber; Shikake (Angreifer) und Oji (Antwortender) vereinbaren Ziel und Antwort.\n2. Shikake schlägt kontrolliert auf das Ziel; Oji pariert, weicht aus oder lenkt mit dem Schaft ab und antwortet mit einem Gegenschlag.\n3. Beide stoppen die Klinge kurz vorher oder berühren nur leicht, kehren mit Zanshin ins Kamae zurück und wechseln nach jeder Serie die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Pratica di shikake-oji waza",
+      "description": "1. Fronteggia il partner in chudan a distanza di colpo; shikake (attaccante) e oji (chi risponde) concordano bersaglio e risposta.\n2. Shikake colpisce il bersaglio a velocità controllata; oji para, schiva o devia con l'asta e risponde con un contrattacco.\n3. Entrambi fermano la lama prima o toccano leggermente, tornano in kamae con zanshin e scambiano i ruoli dopo ogni serie.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "仕掛应对技练习",
+      "description": "1. 与同伴以中段构在击打距离相对；仕掛（进攻方）与应对方约定目标和应对方式。\n2. 仕掛以受控速度击打目标；应对方用柄格挡、闪避或拨开，并以反击回应。\n3. 双方在接触前收刀或轻触，保持残心回到构，每组后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "しかけ応じ技の稽古",
+      "description": "1. 打ち間で中段に構えて相手と向き合い、しかけ（打ち込む側）と応じ（応じる側）で打突部位と応じ方を決めます。\n2. しかけは制御した速さで打ち込み、応じは柄で受ける、かわす、すり上げるなどして応じ、打ち返します。\n3. 互いに刃部を寸止めするか軽く触れる程度にとどめ、残心を示して構えに戻り、一組ごとに役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "시카케·오지 기술 연습",
+      "description": "1. 타격 거리에서 중단 자세로 파트너와 마주하고, 시카케(공격자)와 오지(응수자)가 목표와 응수 방법을 정합니다.\n2. 시카케는 제어된 속도로 목표를 치고, 오지는 자루로 막거나 피하거나 흘려 내고 반격으로 응수합니다.\n3. 둘 다 칼날을 직전에 멈추거나 가볍게만 닿게 하고, 잔심을 보이며 자세로 돌아가 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฝึกชิคาเกะ-โอจิวาซะ",
+      "description": "1. ยืนในท่าชูดังเผชิญหน้าคู่ฝึกในระยะฟัน ชิคาเกะ (ฝ่ายรุก) และโอจิ (ฝ่ายตอบโต้) ตกลงเป้าหมายและวิธีตอบโต้\n2. ชิคาเกะฟันเป้าด้วยความเร็วที่ควบคุมได้ โอจิปัด หลบ หรือเบี่ยงด้วยด้าม แล้วสวนกลับ\n3. ทั้งคู่หยุดใบมีดก่อนถึงเป้าหรือแตะเบา ๆ กลับสู่คามาเอะพร้อมซันชิน และสลับบทบาททุกชุด",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Практика сикакэ-одзи вадза",
+      "description": "1. Встаньте в тюдан напротив партнёра на дистанции удара; сикакэ (атакующий) и одзи (отвечающий) договариваются о цели и ответе.\n2. Сикакэ бьёт в цель с контролируемой скоростью; одзи отбивает, уходит или отводит удар древком и отвечает контрударом.\n3. Оба останавливают клинок до касания или касаются слегка, возвращаются в камаэ с дзансином и меняются ролями после каждой серии.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Практика шікаке-оджі вадза",
+      "description": "1. Станьте в чюдан навпроти партнера на дистанції удару; шікаке (атакувальник) і оджі (той, хто відповідає) домовляються про ціль і відповідь.\n2. Шікаке б'є в ціль із контрольованою швидкістю; оджі відбиває, ухиляється або відводить удар держаком і відповідає контрударом.\n3. Обидва зупиняють клинок до торкання або торкаються злегка, повертаються в камае з дзаншіном і міняються ролями після кожної серії.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

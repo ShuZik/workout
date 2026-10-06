@@ -1,0 +1,90 @@
+{
+  "id": "19.11",
+  "key": "meditation_awareness",
+  "title": "Awareness Meditation",
+  "description": "1. Sit with an upright relaxed posture and begin by noticing contact with the chair or floor.\n2. Open attention to changing sensations, sounds, thoughts, and emotions without selecting only one anchor.\n3. Note each event briefly as “hearing,” “thinking,” or “feeling,” then let it pass without following it.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "meditation",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1,
+    "vigorous": 1,
+    "lightCode": "07075",
+    "moderateCode": "07075",
+    "vigorousCode": "07075"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Themes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Awareness Meditation",
+      "description": "1. Sit with an upright relaxed posture and begin by noticing contact with the chair or floor.\n2. Open attention to changing sensations, sounds, thoughts, and emotions without selecting only one anchor.\n3. Note each event briefly as “hearing,” “thinking,” or “feeling,” then let it pass without following it.",
+      "sectionTitle": "Themes"
+    },
+    "es": {
+      "title": "Meditación de conciencia",
+      "description": "1. Siéntate con una postura erguida y relajada y comienza notando el contacto con la silla o el suelo.\n2. Abre la atención a las sensaciones, sonidos, pensamientos y emociones cambiantes sin elegir un único punto de referencia.\n3. Reconoce brevemente cada evento como «oír», «pensar» o «sentir», y deja que pase sin seguirlo.",
+      "sectionTitle": "Temas"
+    },
+    "pt": {
+      "title": "Meditação de consciência",
+      "description": "1. Sente-se com uma postura ereta e relaxada e comece percebendo o contato com a cadeira ou o chão.\n2. Abra a atenção às sensações, sons, pensamentos e emoções que mudam, sem escolher apenas um ponto de apoio.\n3. Identifique brevemente cada evento como “ouvir”, “pensar” ou “sentir” e deixe-o passar sem acompanhá-lo.",
+      "sectionTitle": "Temas"
+    },
+    "fr": {
+      "title": "Méditation de pleine conscience ouverte",
+      "description": "1. Asseyez-vous dans une posture droite et détendue et commencez par remarquer le contact avec la chaise ou le sol.\n2. Ouvrez votre attention aux sensations, sons, pensées et émotions changeants sans choisir un seul point d’ancrage.\n3. Identifiez brièvement chaque événement comme « entendre », « penser » ou « ressentir », puis laissez-le passer sans le suivre.",
+      "sectionTitle": "Thèmes"
+    },
+    "de": {
+      "title": "Gewahrseinsmeditation",
+      "description": "1. Sitze aufrecht und entspannt und nimm zunächst den Kontakt mit dem Stuhl oder Boden wahr.\n2. Öffne deine Aufmerksamkeit für wechselnde Empfindungen, Geräusche, Gedanken und Gefühle, ohne nur einen Anker zu wählen.\n3. Benenne jedes Ereignis kurz als „Hören“, „Denken“ oder „Fühlen“ und lasse es dann vorbeiziehen, ohne ihm zu folgen.",
+      "sectionTitle": "Themen"
+    },
+    "it": {
+      "title": "Meditazione di consapevolezza",
+      "description": "1. Siediti con una postura eretta e rilassata e inizia notando il contatto con la sedia o il pavimento.\n2. Apri l’attenzione alle sensazioni, ai suoni, ai pensieri e alle emozioni che cambiano, senza scegliere un solo punto di riferimento.\n3. Riconosci brevemente ogni evento come “ascoltare”, “pensare” o “sentire”, poi lascialo passare senza seguirlo.",
+      "sectionTitle": "Temi"
+    },
+    "zh-Hans": {
+      "title": "觉察冥想",
+      "description": "1. 以挺直而放松的姿势坐好，先觉察身体与椅子或地面的接触。\n2. 将注意力开放给不断变化的感觉、声音、想法和情绪，不只选择一个专注点。\n3. 将每个体验简短地标记为“听见”“思考”或“感受”，然后让它过去，不追随它。",
+      "sectionTitle": "主题"
+    },
+    "ja": {
+      "title": "気づきの瞑想",
+      "description": "1. 背筋を伸ばして楽に座り、まず椅子や床との接触に気づきます。\n2. 一つの対象だけに集中せず、変化する感覚、音、思考、感情に注意を開きます。\n3. それぞれを「聞く」「考える」「感じる」と短く認識し、追いかけずに通り過ぎるままにします。",
+      "sectionTitle": "テーマ"
+    },
+    "ko": {
+      "title": "알아차림 명상",
+      "description": "1. 편안하고 곧은 자세로 앉아 의자나 바닥에 닿는 감각을 알아차리며 시작합니다.\n2. 하나의 기준점만 선택하지 않고 변화하는 감각, 소리, 생각, 감정에 주의를 엽니다.\n3. 각 경험을 “듣기”, “생각하기”, “느끼기”로 짧게 알아차린 뒤 따라가지 않고 지나가게 둡니다.",
+      "sectionTitle": "주제"
+    },
+    "th": {
+      "title": "การทำสมาธิแบบรับรู้",
+      "description": "1. นั่งตัวตรงในท่าที่ผ่อนคลาย เริ่มด้วยการรับรู้จุดที่ร่างกายสัมผัสเก้าอี้หรือพื้น\n2. เปิดความสนใจรับรู้ความรู้สึกทางกาย เสียง ความคิด และอารมณ์ที่เปลี่ยนแปลง โดยไม่เลือกจุดยึดเพียงอย่างเดียว\n3. รับรู้แต่ละสิ่งสั้น ๆ ว่า “ได้ยิน” “คิด” หรือ “รู้สึก” แล้วปล่อยให้ผ่านไปโดยไม่ตามไป",
+      "sectionTitle": "หัวข้อ"
+    },
+    "ru": {
+      "title": "Медитация осознавания",
+      "description": "1. Сядьте прямо и расслабленно, начав с ощущения контакта со стулом или полом.\n2. Откройте внимание меняющимся ощущениям, звукам, мыслям и эмоциям, не выбирая только одну опору.\n3. Кратко отмечайте каждое событие как «слышу», «думаю» или «чувствую», затем позволяйте ему пройти, не следуя за ним.",
+      "sectionTitle": "Темы"
+    },
+    "uk": {
+      "title": "Медитація усвідомлення",
+      "description": "1. Сядьте рівно й розслаблено, почавши з відчуття контакту зі стільцем або підлогою.\n2. Відкрийте увагу мінливим відчуттям, звукам, думкам та емоціям, не обираючи лише одну опору.\n3. Коротко позначайте кожну подію як «чую», «думаю» або «відчуваю», потім дозволяйте їй минути, не слідуючи за нею.",
+      "sectionTitle": "Теми"
+    }
+  }
+}

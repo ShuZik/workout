@@ -1,0 +1,90 @@
+{
+  "id": "13.81",
+  "key": "calisthenics_walking_lunge",
+  "title": "Walking Lunge",
+  "description": "1. Stand tall with enough clear distance ahead and brace the trunk.\n2. Step forward and lower both knees until the rear knee approaches the floor and the front knee tracks over the toes.\n3. Drive through the front foot, bring the rear leg through into the next step, and alternate sides.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Walking Lunge",
+      "description": "1. Stand tall with enough clear distance ahead and brace the trunk.\n2. Step forward and lower both knees until the rear knee approaches the floor and the front knee tracks over the toes.\n3. Drive through the front foot, bring the rear leg through into the next step, and alternate sides.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Zancada caminando",
+      "description": "1. Ponte erguido con suficiente espacio libre por delante y activa el tronco.\n2. Da un paso al frente y baja ambas rodillas hasta que la rodilla trasera se acerque al suelo y la delantera siga la dirección de los dedos.\n3. Empuja con el pie delantero, lleva la pierna trasera hacia el siguiente paso y alterna los lados.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Afundo caminhando",
+      "description": "1. Fique em pé, ereto, com espaço livre suficiente à frente e contraia o tronco.\n2. Dê um passo à frente e abaixe os dois joelhos até o joelho de trás se aproximar do chão e o da frente acompanhar os dedos.\n3. Empurre pelo pé da frente, leve a perna de trás para o próximo passo e alterne os lados.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Fentes marchées",
+      "description": "1. Tenez-vous droit avec suffisamment d’espace dégagé devant vous et gainez le tronc.\n2. Faites un pas en avant et descendez les deux genoux jusqu’à ce que le genou arrière approche du sol et que le genou avant suive les orteils.\n3. Poussez sur le pied avant, amenez la jambe arrière dans le pas suivant et alternez les côtés.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Gehender Ausfallschritt",
+      "description": "1. Stehe aufrecht mit ausreichend freiem Platz vor dir und spanne den Rumpf an.\n2. Mache einen Schritt nach vorne und senke beide Knie, bis sich das hintere Knie dem Boden nähert und das vordere Knie den Zehen folgt.\n3. Drücke dich über den vorderen Fuß ab, bringe das hintere Bein in den nächsten Schritt und wechsle die Seiten ab.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Affondi in camminata",
+      "description": "1. Resta ben eretto con abbastanza spazio libero davanti a te e contrai il tronco.\n2. Fai un passo avanti e abbassa entrambe le ginocchia finché quello posteriore si avvicina a terra e quello anteriore segue le dita.\n3. Spingi con il piede anteriore, porta la gamba posteriore nel passo successivo e alterna i lati.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "行进弓步",
+      "description": "1. 站直，确保前方有足够的空地，收紧躯干。\n2. 向前迈步，双膝下降，直到后膝接近地面，前膝沿脚尖方向移动。\n3. 前脚发力，将后腿向前迈入下一步，左右交替进行。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ウォーキングランジ",
+      "description": "1. 前方に十分なスペースを確保してまっすぐ立ち、体幹を固めます。\n2. 前に踏み出し、後ろの膝が床に近づくまで両膝を下ろし、前の膝はつま先の方向に向けます。\n3. 前足で押し、後ろ脚を次の一歩へ運んで左右交互に進みます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "워킹 런지",
+      "description": "1. 앞쪽에 충분한 공간을 확보하고 똑바로 서서 몸통에 힘을 줍니다.\n2. 앞으로 내딛고 뒷무릎이 바닥에 가까워지고 앞무릎이 발가락 방향을 따를 때까지 두 무릎을 내립니다.\n3. 앞발로 밀며 뒷다리를 다음 걸음으로 가져오고 양쪽을 번갈아 진행합니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "วอล์กกิงลันจ์",
+      "description": "1. ยืนตัวตรงโดยมีพื้นที่ว่างด้านหน้าเพียงพอ และเกร็งลำตัว\n2. ก้าวไปด้านหน้าและลดเข่าทั้งสองลงจนเข่าหลังใกล้พื้นและเข่าหน้าเคลื่อนตามแนวนิ้วเท้า\n3. ดันผ่านเท้าหน้า นำขาหลังก้าวต่อไปข้างหน้า และสลับข้าง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Выпады в ходьбе",
+      "description": "1. Встаньте прямо, обеспечив достаточно свободного места впереди, и напрягите корпус.\n2. Шагните вперёд и опустите оба колена, пока заднее колено не приблизится к полу, а переднее не встанет по линии носка.\n3. Оттолкнитесь передней стопой, перенесите заднюю ногу в следующий шаг и чередуйте стороны.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Випади в ходьбі",
+      "description": "1. Станьте рівно, забезпечивши достатньо вільного місця попереду, і напружте корпус.\n2. Ступіть уперед і опустіть обидва коліна, доки заднє коліно не наблизиться до підлоги, а переднє не стане за лінією носка.\n3. Відштовхніться передньою стопою, перенесіть задню ногу в наступний крок і чергуйте сторони.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

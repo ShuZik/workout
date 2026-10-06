@@ -1,0 +1,453 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#4766C1",
+    "colorType": "indigo",
+    "folder": "Judo",
+    "id": "41",
+    "icon": "Judo/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Judo",
+    "workoutType": "judo",
+    "translations": {
+      "en": {
+        "title": "Judo"
+      },
+      "es": {
+        "title": "Judo"
+      },
+      "pt": {
+        "title": "Judô"
+      },
+      "fr": {
+        "title": "Judo"
+      },
+      "de": {
+        "title": "Judo"
+      },
+      "it": {
+        "title": "Judo"
+      },
+      "zh-Hans": {
+        "title": "柔道"
+      },
+      "ja": {
+        "title": "柔道"
+      },
+      "ko": {
+        "title": "유도"
+      },
+      "th": {
+        "title": "ยูโด"
+      },
+      "ru": {
+        "title": "Дзюдо"
+      },
+      "uk": {
+        "title": "Дзюдо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Judo/exercises/judo/Icon.png",
+      "json": "Judo/exercises/judo/judo.json"
+    },
+    {
+      "icon": "Judo/exercises/backBreakfall/Icon.png",
+      "json": "Judo/exercises/backBreakfall/backBreakfall.json"
+    },
+    {
+      "icon": "Judo/exercises/sideBreakfall/Icon.png",
+      "json": "Judo/exercises/sideBreakfall/sideBreakfall.json"
+    },
+    {
+      "icon": "Judo/exercises/forwardBreakfall/Icon.png",
+      "json": "Judo/exercises/forwardBreakfall/forwardBreakfall.json"
+    },
+    {
+      "icon": "Judo/exercises/forwardRollBreakfall/Icon.png",
+      "json": "Judo/exercises/forwardRollBreakfall/forwardRollBreakfall.json"
+    },
+    {
+      "icon": "Judo/exercises/shintaiMovement/Icon.png",
+      "json": "Judo/exercises/shintaiMovement/shintaiMovement.json"
+    },
+    {
+      "icon": "Judo/exercises/taiSabaki/Icon.png",
+      "json": "Judo/exercises/taiSabaki/taiSabaki.json"
+    },
+    {
+      "icon": "Judo/exercises/kumiKata/Icon.png",
+      "json": "Judo/exercises/kumiKata/kumiKata.json"
+    },
+    {
+      "icon": "Judo/exercises/kuzushi/Icon.png",
+      "json": "Judo/exercises/kuzushi/kuzushi.json"
+    },
+    {
+      "icon": "Judo/exercises/seoiNage/Icon.png",
+      "json": "Judo/exercises/seoiNage/seoiNage.json"
+    },
+    {
+      "icon": "Judo/exercises/oGoshi/Icon.png",
+      "json": "Judo/exercises/oGoshi/oGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/ukiGoshi/Icon.png",
+      "json": "Judo/exercises/ukiGoshi/ukiGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/oSotoGari/Icon.png",
+      "json": "Judo/exercises/oSotoGari/oSotoGari.json"
+    },
+    {
+      "icon": "Judo/exercises/oUchiGari/Icon.png",
+      "json": "Judo/exercises/oUchiGari/oUchiGari.json"
+    },
+    {
+      "icon": "Judo/exercises/koUchiGari/Icon.png",
+      "json": "Judo/exercises/koUchiGari/koUchiGari.json"
+    },
+    {
+      "icon": "Judo/exercises/deAshiHarai/Icon.png",
+      "json": "Judo/exercises/deAshiHarai/deAshiHarai.json"
+    },
+    {
+      "icon": "Judo/exercises/kesaGatame/Icon.png",
+      "json": "Judo/exercises/kesaGatame/kesaGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/yokoShihoGatame/Icon.png",
+      "json": "Judo/exercises/yokoShihoGatame/yokoShihoGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/sasaeTsurikomiAshi/Icon.png",
+      "json": "Judo/exercises/sasaeTsurikomiAshi/sasaeTsurikomiAshi.json"
+    },
+    {
+      "icon": "Judo/exercises/kataGatame/Icon.png",
+      "json": "Judo/exercises/kataGatame/kataGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/tateShihoGatame/Icon.png",
+      "json": "Judo/exercises/tateShihoGatame/tateShihoGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/kamiShihoGatame/Icon.png",
+      "json": "Judo/exercises/kamiShihoGatame/kamiShihoGatame.json"
+    },
+    {
+      "json": "Judo/exercises/hizaGuruma/hizaGuruma.json",
+      "icon": "Judo/exercises/hizaGuruma/Icon.png"
+    },
+    {
+      "json": "Judo/exercises/hadakaJime/hadakaJime.json",
+      "icon": "Judo/exercises/hadakaJime/Icon.png"
+    },
+    {
+      "json": "Judo/exercises/jujiGatame/jujiGatame.json",
+      "icon": "Judo/exercises/jujiGatame/Icon.png"
+    },
+    {
+      "icon": "Judo/exercises/ipponSeoiNage/Icon.png",
+      "json": "Judo/exercises/ipponSeoiNage/ipponSeoiNage.json"
+    },
+    {
+      "icon": "Judo/exercises/seoiOtoshi/Icon.png",
+      "json": "Judo/exercises/seoiOtoshi/seoiOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/taiOtoshi/Icon.png",
+      "json": "Judo/exercises/taiOtoshi/taiOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/kataGuruma/Icon.png",
+      "json": "Judo/exercises/kataGuruma/kataGuruma.json"
+    },
+    {
+      "icon": "Judo/exercises/sukuiNage/Icon.png",
+      "json": "Judo/exercises/sukuiNage/sukuiNage.json"
+    },
+    {
+      "icon": "Judo/exercises/obiOtoshi/Icon.png",
+      "json": "Judo/exercises/obiOtoshi/obiOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/ukiOtoshi/Icon.png",
+      "json": "Judo/exercises/ukiOtoshi/ukiOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/sumiOtoshi/Icon.png",
+      "json": "Judo/exercises/sumiOtoshi/sumiOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/yamaArashi/Icon.png",
+      "json": "Judo/exercises/yamaArashi/yamaArashi.json"
+    },
+    {
+      "icon": "Judo/exercises/obiToriGaeshi/Icon.png",
+      "json": "Judo/exercises/obiToriGaeshi/obiToriGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/kuchikiTaoshi/Icon.png",
+      "json": "Judo/exercises/kuchikiTaoshi/kuchikiTaoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/kibisuGaeshi/Icon.png",
+      "json": "Judo/exercises/kibisuGaeshi/kibisuGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/uchiMataSukashi/Icon.png",
+      "json": "Judo/exercises/uchiMataSukashi/uchiMataSukashi.json"
+    },
+    {
+      "icon": "Judo/exercises/koUchiGaeshi/Icon.png",
+      "json": "Judo/exercises/koUchiGaeshi/koUchiGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/koshiGuruma/Icon.png",
+      "json": "Judo/exercises/koshiGuruma/koshiGuruma.json"
+    },
+    {
+      "icon": "Judo/exercises/tsurikomiGoshi/Icon.png",
+      "json": "Judo/exercises/tsurikomiGoshi/tsurikomiGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/sodeTsurikomiGoshi/Icon.png",
+      "json": "Judo/exercises/sodeTsurikomiGoshi/sodeTsurikomiGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/haraiGoshi/Icon.png",
+      "json": "Judo/exercises/haraiGoshi/haraiGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/tsuriGoshi/Icon.png",
+      "json": "Judo/exercises/tsuriGoshi/tsuriGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/haneGoshi/Icon.png",
+      "json": "Judo/exercises/haneGoshi/haneGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/utsuriGoshi/Icon.png",
+      "json": "Judo/exercises/utsuriGoshi/utsuriGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/ushiroGoshi/Icon.png",
+      "json": "Judo/exercises/ushiroGoshi/ushiroGoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/koSotoGari/Icon.png",
+      "json": "Judo/exercises/koSotoGari/koSotoGari.json"
+    },
+    {
+      "icon": "Judo/exercises/okuriAshiHarai/Icon.png",
+      "json": "Judo/exercises/okuriAshiHarai/okuriAshiHarai.json"
+    },
+    {
+      "icon": "Judo/exercises/uchiMata/Icon.png",
+      "json": "Judo/exercises/uchiMata/uchiMata.json"
+    },
+    {
+      "icon": "Judo/exercises/koSotoGake/Icon.png",
+      "json": "Judo/exercises/koSotoGake/koSotoGake.json"
+    },
+    {
+      "icon": "Judo/exercises/ashiGuruma/Icon.png",
+      "json": "Judo/exercises/ashiGuruma/ashiGuruma.json"
+    },
+    {
+      "icon": "Judo/exercises/haraiTsurikomiAshi/Icon.png",
+      "json": "Judo/exercises/haraiTsurikomiAshi/haraiTsurikomiAshi.json"
+    },
+    {
+      "icon": "Judo/exercises/oGuruma/Icon.png",
+      "json": "Judo/exercises/oGuruma/oGuruma.json"
+    },
+    {
+      "icon": "Judo/exercises/oSotoGuruma/Icon.png",
+      "json": "Judo/exercises/oSotoGuruma/oSotoGuruma.json"
+    },
+    {
+      "icon": "Judo/exercises/oSotoOtoshi/Icon.png",
+      "json": "Judo/exercises/oSotoOtoshi/oSotoOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/tsubameGaeshi/Icon.png",
+      "json": "Judo/exercises/tsubameGaeshi/tsubameGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/oSotoGaeshi/Icon.png",
+      "json": "Judo/exercises/oSotoGaeshi/oSotoGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/oUchiGaeshi/Icon.png",
+      "json": "Judo/exercises/oUchiGaeshi/oUchiGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/haneGoshiGaeshi/Icon.png",
+      "json": "Judo/exercises/haneGoshiGaeshi/haneGoshiGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/haraiGoshiGaeshi/Icon.png",
+      "json": "Judo/exercises/haraiGoshiGaeshi/haraiGoshiGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/uchiMataGaeshi/Icon.png",
+      "json": "Judo/exercises/uchiMataGaeshi/uchiMataGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/tomoeNage/Icon.png",
+      "json": "Judo/exercises/tomoeNage/tomoeNage.json"
+    },
+    {
+      "icon": "Judo/exercises/sumiGaeshi/Icon.png",
+      "json": "Judo/exercises/sumiGaeshi/sumiGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/hikikomiGaeshi/Icon.png",
+      "json": "Judo/exercises/hikikomiGaeshi/hikikomiGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/tawaraGaeshi/Icon.png",
+      "json": "Judo/exercises/tawaraGaeshi/tawaraGaeshi.json"
+    },
+    {
+      "icon": "Judo/exercises/uraNage/Icon.png",
+      "json": "Judo/exercises/uraNage/uraNage.json"
+    },
+    {
+      "icon": "Judo/exercises/yokoOtoshi/Icon.png",
+      "json": "Judo/exercises/yokoOtoshi/yokoOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/taniOtoshi/Icon.png",
+      "json": "Judo/exercises/taniOtoshi/taniOtoshi.json"
+    },
+    {
+      "icon": "Judo/exercises/haneMakikomi/Icon.png",
+      "json": "Judo/exercises/haneMakikomi/haneMakikomi.json"
+    },
+    {
+      "icon": "Judo/exercises/sotoMakikomi/Icon.png",
+      "json": "Judo/exercises/sotoMakikomi/sotoMakikomi.json"
+    },
+    {
+      "icon": "Judo/exercises/uchiMakikomi/Icon.png",
+      "json": "Judo/exercises/uchiMakikomi/uchiMakikomi.json"
+    },
+    {
+      "icon": "Judo/exercises/ukiWaza/Icon.png",
+      "json": "Judo/exercises/ukiWaza/ukiWaza.json"
+    },
+    {
+      "icon": "Judo/exercises/yokoWakare/Icon.png",
+      "json": "Judo/exercises/yokoWakare/yokoWakare.json"
+    },
+    {
+      "icon": "Judo/exercises/yokoGuruma/Icon.png",
+      "json": "Judo/exercises/yokoGuruma/yokoGuruma.json"
+    },
+    {
+      "icon": "Judo/exercises/yokoGake/Icon.png",
+      "json": "Judo/exercises/yokoGake/yokoGake.json"
+    },
+    {
+      "icon": "Judo/exercises/dakiWakare/Icon.png",
+      "json": "Judo/exercises/dakiWakare/dakiWakare.json"
+    },
+    {
+      "icon": "Judo/exercises/oSotoMakikomi/Icon.png",
+      "json": "Judo/exercises/oSotoMakikomi/oSotoMakikomi.json"
+    },
+    {
+      "icon": "Judo/exercises/uchiMataMakikomi/Icon.png",
+      "json": "Judo/exercises/uchiMataMakikomi/uchiMataMakikomi.json"
+    },
+    {
+      "icon": "Judo/exercises/haraiMakikomi/Icon.png",
+      "json": "Judo/exercises/haraiMakikomi/haraiMakikomi.json"
+    },
+    {
+      "icon": "Judo/exercises/koUchiMakikomi/Icon.png",
+      "json": "Judo/exercises/koUchiMakikomi/koUchiMakikomi.json"
+    },
+    {
+      "icon": "Judo/exercises/kuzureKesaGatame/Icon.png",
+      "json": "Judo/exercises/kuzureKesaGatame/kuzureKesaGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/ushiroKesaGatame/Icon.png",
+      "json": "Judo/exercises/ushiroKesaGatame/ushiroKesaGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/kuzureKamiShihoGatame/Icon.png",
+      "json": "Judo/exercises/kuzureKamiShihoGatame/kuzureKamiShihoGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/namiJujiJime/Icon.png",
+      "json": "Judo/exercises/namiJujiJime/namiJujiJime.json"
+    },
+    {
+      "icon": "Judo/exercises/gyakuJujiJime/Icon.png",
+      "json": "Judo/exercises/gyakuJujiJime/gyakuJujiJime.json"
+    },
+    {
+      "icon": "Judo/exercises/kataJujiJime/Icon.png",
+      "json": "Judo/exercises/kataJujiJime/kataJujiJime.json"
+    },
+    {
+      "icon": "Judo/exercises/okuriEriJime/Icon.png",
+      "json": "Judo/exercises/okuriEriJime/okuriEriJime.json"
+    },
+    {
+      "icon": "Judo/exercises/katahaJime/Icon.png",
+      "json": "Judo/exercises/katahaJime/katahaJime.json"
+    },
+    {
+      "icon": "Judo/exercises/katateJime/Icon.png",
+      "json": "Judo/exercises/katateJime/katateJime.json"
+    },
+    {
+      "icon": "Judo/exercises/ryoteJime/Icon.png",
+      "json": "Judo/exercises/ryoteJime/ryoteJime.json"
+    },
+    {
+      "icon": "Judo/exercises/sodeGurumaJime/Icon.png",
+      "json": "Judo/exercises/sodeGurumaJime/sodeGurumaJime.json"
+    },
+    {
+      "icon": "Judo/exercises/tsukkomiJime/Icon.png",
+      "json": "Judo/exercises/tsukkomiJime/tsukkomiJime.json"
+    },
+    {
+      "icon": "Judo/exercises/udeGatame/Icon.png",
+      "json": "Judo/exercises/udeGatame/udeGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/hizaGatame/Icon.png",
+      "json": "Judo/exercises/hizaGatame/hizaGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/wakiGatame/Icon.png",
+      "json": "Judo/exercises/wakiGatame/wakiGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/haraGatame/Icon.png",
+      "json": "Judo/exercises/haraGatame/haraGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/ashiGatame/Icon.png",
+      "json": "Judo/exercises/ashiGatame/ashiGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/teGatame/Icon.png",
+      "json": "Judo/exercises/teGatame/teGatame.json"
+    },
+    {
+      "icon": "Judo/exercises/sankakuGatame/Icon.png",
+      "json": "Judo/exercises/sankakuGatame/sankakuGatame.json"
+    }
+  ]
+}

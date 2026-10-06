@@ -1,0 +1,87 @@
+{
+  "id": "63.5",
+  "key": "iaido_tsuka_ate",
+  "title": "Tsuka-ate",
+  "description": "1. Sit in tate-hiza with opponents in front and behind; rise and drive the end of the hilt, still sheathed, into the front opponent's solar plexus.\n2. Draw the blade free, look back, and thrust behind into the rear opponent's solar plexus, then turn to the front, raise the sword, and cut down with kirioroshi.\n3. Perform chiburi, resheathe while lowering into tate-hiza, and keep zanshin toward both opponents.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Seated Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tsuka-ate",
+      "description": "1. Sit in tate-hiza with opponents in front and behind; rise and drive the end of the hilt, still sheathed, into the front opponent's solar plexus.\n2. Draw the blade free, look back, and thrust behind into the rear opponent's solar plexus, then turn to the front, raise the sword, and cut down with kirioroshi.\n3. Perform chiburi, resheathe while lowering into tate-hiza, and keep zanshin toward both opponents.",
+      "sectionTitle": "Seated Forms"
+    },
+    "es": {
+      "title": "Tsuka-ate",
+      "description": "1. Siéntate en tate-hiza con oponentes delante y detrás; levántate y golpea con el extremo de la empuñadura, aún envainada, el plexo solar del oponente delantero.\n2. Libera la hoja, mira atrás y estoca hacia atrás al plexo solar del oponente trasero; luego gira al frente, eleva la espada y corta hacia abajo con kirioroshi.\n3. Realiza chiburi, envaina mientras bajas a tate-hiza y mantén zanshin hacia ambos oponentes.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "pt": {
+      "title": "Tsuka-ate",
+      "description": "1. Sente em tate-hiza com oponentes à frente e atrás; levante e golpeie com a ponta do cabo, ainda embainhado, o plexo solar do oponente da frente.\n2. Solte a lâmina, olhe para trás e estoque para trás no plexo solar do oponente traseiro; depois vire à frente, eleve a espada e corte para baixo com kirioroshi.\n3. Faça chiburi, embainhe enquanto desce para tate-hiza e mantenha zanshin para ambos os oponentes.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "fr": {
+      "title": "Tsuka-ate",
+      "description": "1. Asseyez-vous en tate-hiza, adversaires devant et derrière ; levez-vous et frappez avec le pommeau, encore au fourreau, le plexus solaire de l’adversaire avant.\n2. Libérez la lame, regardez derrière et piquez vers l’arrière au plexus de l’adversaire arrière, puis tournez-vous vers l’avant, levez le sabre et coupez en kirioroshi.\n3. Effectuez le chiburi, rengainez en redescendant en tate-hiza et gardez le zanshin vers les deux adversaires.",
+      "sectionTitle": "Formes assises"
+    },
+    "de": {
+      "title": "Tsuka-ate",
+      "description": "1. Im Tate-Hiza sitzen, Gegner vorn und hinten; aufstehen und das Griffende, noch in der Scheide, in den Solarplexus des vorderen Gegners stoßen.\n2. Die Klinge freiziehen, zurückblicken und nach hinten in den Solarplexus des hinteren Gegners stechen, dann nach vorn drehen, das Schwert heben und mit Kirioroshi schneiden.\n3. Chiburi ausführen, beim Absenken ins Tate-Hiza einstecken und Zanshin zu beiden Gegnern halten.",
+      "sectionTitle": "Formen im Sitzen"
+    },
+    "it": {
+      "title": "Tsuka-ate",
+      "description": "1. Siediti in tate-hiza con avversari davanti e dietro; alzati e colpisci con l’estremità dell’impugnatura, ancora nel fodero, il plesso solare dell’avversario davanti.\n2. Libera la lama, guarda indietro e affonda all’indietro nel plesso solare dell’avversario dietro, poi gira in avanti, alza la spada e taglia con kirioroshi.\n3. Esegui chiburi, rinfodera scendendo in tate-hiza e mantieni lo zanshin verso entrambi gli avversari.",
+      "sectionTitle": "Forme da seduti"
+    },
+    "zh-Hans": {
+      "title": "柄当",
+      "description": "1. 以立膝坐姿，前后各有对手；起身用仍在鞘中的刀柄末端撞击前方对手的心窝。\n2. 拔出刀身，回头向后刺后方对手的心窝，再转向前方，举刀斩落。\n3. 振刀，下沉至立膝时纳刀，对两名对手保持残心。",
+      "sectionTitle": "坐姿形"
+    },
+    "ja": {
+      "title": "柄当て（つかあて）",
+      "description": "1. 前後に相手がいる想定で立膝に座り、腰を上げて鞘に収めたままの柄頭で前の相手の水月を当てます。\n2. 刀を抜き放って後ろを見て、後ろの相手の水月を突き、前へ向き直って振りかぶり斬り下ろします。\n3. 血振りをし、立膝に戻りながら納刀し、前後の相手に残心を保ちます。",
+      "sectionTitle": "座り技の形"
+    },
+    "ko": {
+      "title": "쓰카아테",
+      "description": "1. 앞뒤에 상대가 있는 상정으로 다테히자로 앉아, 일어나며 칼집에 든 채 칼자루 끝으로 앞 상대의 명치를 칩니다.\n2. 칼날을 뽑아 뒤를 보고 뒤 상대의 명치를 찌른 뒤 앞으로 돌아 칼을 들어 기리오로시로 벱니다.\n3. 치부리를 하고 다테히자로 내려가며 칼을 꽂고 두 상대에게 잔심을 유지합니다.",
+      "sectionTitle": "앉은 자세 형"
+    },
+    "th": {
+      "title": "สึกะอาเตะ",
+      "description": "1. นั่งท่าทาเตะฮิซะ มีคู่ต่อสู้ด้านหน้าและด้านหลัง ลุกขึ้นแล้วกระแทกปลายด้ามดาบที่ยังอยู่ในฝักเข้าลิ้นปี่ของคู่ต่อสู้ด้านหน้า\n2. ชักใบดาบออก มองไปด้านหลัง แทงไปข้างหลังเข้าลิ้นปี่ของคู่ต่อสู้ด้านหลัง แล้วหันกลับมาด้านหน้า ยกดาบและฟันลง\n3. ทำจิบุริ เก็บดาบขณะลดตัวลงสู่ทาเตะฮิซะ และคงซันชินต่อคู่ต่อสู้ทั้งสอง",
+      "sectionTitle": "ท่าร่างแบบนั่ง"
+    },
+    "ru": {
+      "title": "Цука-атэ",
+      "description": "1. Сядьте в татэ-хидза, противники спереди и сзади; поднимитесь и ударьте торцом рукояти, ещё в ножнах, в солнечное сплетение переднего противника.\n2. Освободите клинок, посмотрите назад и уколите назад в солнечное сплетение заднего противника, затем повернитесь вперёд, поднимите меч и рубите вниз кириороси.\n3. Выполните тибури, вложите меч, опускаясь в татэ-хидза, и сохраните дзансин к обоим противникам.",
+      "sectionTitle": "Формы из положения сидя"
+    },
+    "uk": {
+      "title": "Цука-ате",
+      "description": "1. Сядьте в тате-хідза, суперники спереду й ззаду; підведіться й ударте торцем руків’я, ще в піхвах, у сонячне сплетіння переднього суперника.\n2. Звільніть клинок, подивіться назад і вколіть назад у сонячне сплетіння заднього суперника, потім поверніться вперед, підніміть меч і рубайте вниз кіріоросі.\n3. Виконайте тібурі, вкладіть меч, опускаючись у тате-хідза, і збережіть дзансін до обох суперників.",
+      "sectionTitle": "Форми з положення сидячи"
+    }
+  }
+}

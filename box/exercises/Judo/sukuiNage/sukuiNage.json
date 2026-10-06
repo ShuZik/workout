@@ -1,0 +1,87 @@
+{
+  "id": "41.34",
+  "key": "judo_sukui_nage",
+  "title": "Sukui Nage",
+  "description": "1. Step in behind or beside the partner with the hips close and the knees bent.\n2. Scoop the partner's legs or lower body from behind with the arm while the other arm controls the upper body.\n3. Lift and rotate the partner backward over the hip line and guide a back breakfall without dropping onto the partner.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "4 Te-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Sukui Nage",
+      "description": "1. Step in behind or beside the partner with the hips close and the knees bent.\n2. Scoop the partner's legs or lower body from behind with the arm while the other arm controls the upper body.\n3. Lift and rotate the partner backward over the hip line and guide a back breakfall without dropping onto the partner.",
+      "sectionTitle": "Te-waza"
+    },
+    "es": {
+      "title": "Sukui Nage",
+      "description": "1. Entra detrás o al lado del compañero con las caderas cerca y las rodillas flexionadas.\n2. Recoge por detrás las piernas o la parte inferior del cuerpo del compañero con el brazo mientras el otro brazo controla el tronco.\n3. Levanta y gira al compañero hacia atrás sobre la línea de la cadera y guía una caída de espaldas sin caer encima de él.",
+      "sectionTitle": "Te-waza"
+    },
+    "pt": {
+      "title": "Sukui Nage",
+      "description": "1. Entre atrás ou ao lado do parceiro com os quadris próximos e os joelhos flexionados.\n2. Recolha por trás as pernas ou a parte inferior do corpo do parceiro com o braço enquanto o outro braço controla o tronco.\n3. Levante e gire o parceiro para trás sobre a linha do quadril e guie uma queda de costas sem cair sobre ele.",
+      "sectionTitle": "Te-waza"
+    },
+    "fr": {
+      "title": "Sukui Nage",
+      "description": "1. Entrez derrière ou à côté du partenaire, hanches proches et genoux fléchis.\n2. Ramassez par l’arrière les jambes ou le bas du corps du partenaire avec le bras pendant que l’autre bras contrôle le haut du corps.\n3. Soulevez et faites tourner le partenaire vers l’arrière par-dessus la ligne de hanche et guidez une chute arrière sans tomber sur lui.",
+      "sectionTitle": "Te-waza"
+    },
+    "de": {
+      "title": "Sukui Nage",
+      "description": "1. Tritt hinter oder neben den Partner, die Hüfte nah und die Knie gebeugt.\n2. Schaufle die Beine oder den Unterkörper des Partners von hinten mit dem Arm auf, während der andere Arm den Oberkörper kontrolliert.\n3. Hebe und drehe den Partner rückwärts über die Hüftlinie und führe einen Rückwärtsfall, ohne auf ihn zu fallen.",
+      "sectionTitle": "Te-waza"
+    },
+    "it": {
+      "title": "Sukui Nage",
+      "description": "1. Entra dietro o accanto al compagno con le anche vicine e le ginocchia piegate.\n2. Raccogli da dietro le gambe o la parte bassa del corpo del compagno con il braccio mentre l’altro braccio controlla il busto.\n3. Solleva e ruota il compagno all’indietro sopra la linea dell’anca e guida una caduta all’indietro senza cadergli addosso.",
+      "sectionTitle": "Te-waza"
+    },
+    "zh-Hans": {
+      "title": "掬投",
+      "description": "1. 进入搭档身后或侧面，髋部靠近，双膝弯曲。\n2. 用手臂从后方抄起搭档的腿或下半身，另一手臂控制其上身。\n3. 将搭档抬起并向后经髋线旋转，引导其后倒，不要压在其身上。",
+      "sectionTitle": "手技"
+    },
+    "ja": {
+      "title": "掬投",
+      "description": "1. 相手の後ろまたは横へ入り、腰を近づけて膝を曲げます。\n2. 片腕で相手の脚または下半身を後ろからすくい、もう一方の腕で上体を制します。\n3. 相手を持ち上げて腰の線を越えて後方へ回し、相手の上に倒れ込まずに後ろ受身へ導きます。",
+      "sectionTitle": "手技"
+    },
+    "ko": {
+      "title": "스쿠이 나게",
+      "description": "1. 골반을 가까이 하고 무릎을 굽힌 채 파트너 뒤나 옆으로 들어갑니다.\n2. 한 팔로 파트너의 다리나 하체를 뒤에서 떠올리고 다른 팔로 상체를 통제합니다.\n3. 파트너를 들어 골반 선 위로 뒤로 돌리고 파트너 위로 쓰러지지 않으며 뒤 낙법을 유도합니다.",
+      "sectionTitle": "손기술"
+    },
+    "th": {
+      "title": "สุกุยนาเกะ",
+      "description": "1. เข้าไปด้านหลังหรือด้านข้างคู่ฝึก สะโพกชิดและงอเข่า\n2. ใช้แขนช้อนขาหรือช่วงล่างของคู่ฝึกจากด้านหลัง ขณะที่แขนอีกข้างควบคุมลำตัวส่วนบน\n3. ยกและหมุนคู่ฝึกไปด้านหลังข้ามแนวสะโพก และนำให้ล้มหงายโดยไม่ล้มทับคู่ฝึก",
+      "sectionTitle": "เทวาซะ"
+    },
+    "ru": {
+      "title": "Сукуи-нагэ",
+      "description": "1. Войдите за спину или сбоку от партнёра, держа таз близко и колени согнутыми.\n2. Подхватите рукой ноги или нижнюю часть тела партнёра сзади, другой рукой контролируя корпус.\n3. Поднимите и разверните партн��ра назад через линию бедра, направляя страховку на спину и не падая на него.",
+      "sectionTitle": "Тэ-вадза"
+    },
+    "uk": {
+      "title": "Сукуї-наге",
+      "description": "1. Увійдіть за спину або збоку від партнера, тримаючи таз близько й коліна зігнутими.\n2. Підхопіть рукою ноги або нижню частину тіла партнера ззаду, іншою рукою контролюючи тулуб.\n3. Підніміть і розверніть партнера назад через лінію стегна, спрямовуючи страховку на спину й не падаючи на нього.",
+      "sectionTitle": "Те-вадза"
+    }
+  }
+}

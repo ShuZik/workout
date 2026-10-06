@@ -1,0 +1,87 @@
+{
+  "id": "1.46",
+  "key": "technique_sparring",
+  "title": "Technique Sparring",
+  "description": "1. In a supervised ring, both boxers wear gum shields, head guards, groin guards and at least 10 oz gloves and agree one specific skill.\n2. One boxer applies the set technique at controlled speed while the partner plays a semi-passive role, for example answering a lead hand to the head with a block.\n3. Keep the power light, swap roles after the agreed time, and stop immediately at the coach's call or any loss of control.",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.8,
+    "moderate": 9.3,
+    "vigorous": 12.3,
+    "lightCode": "15110",
+    "moderateCode": "15125",
+    "vigorousCode": "15100"
+  },
+  "section": "4 Intermediate",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Technique Sparring",
+      "description": "1. In a supervised ring, both boxers wear gum shields, head guards, groin guards and at least 10 oz gloves and agree one specific skill.\n2. One boxer applies the set technique at controlled speed while the partner plays a semi-passive role, for example answering a lead hand to the head with a block.\n3. Keep the power light, swap roles after the agreed time, and stop immediately at the coach's call or any loss of control.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Sparring técnico",
+      "description": "1. En un ring supervisado, ambos boxeadores llevan protector bucal, casco, coquilla y guantes de al menos 10 oz, y acuerdan una habilidad concreta.\n2. Uno aplica la técnica fijada a velocidad controlada mientras el compañero adopta un papel semipasivo, por ejemplo respondiendo con un bloqueo a un golpe de la mano delantera a la cabeza.\n3. Mantén la potencia baja, intercambia los papeles tras el tiempo acordado y detente de inmediato a la señal del entrenador o ante cualquier pérdida de control.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Sparring técnico",
+      "description": "1. Num ringue supervisionado, os dois boxeadores usam protetor bucal, capacete, coquilha e luvas de pelo menos 10 oz e combinam uma habilidade específica.\n2. Um aplica a técnica definida em velocidade controlada enquanto o parceiro tem papel semipassivo, por exemplo respondendo com bloqueio a um golpe da mão da frente na cabeça.\n3. Mantenha a potência leve, troque os papéis após o tempo combinado e pare imediatamente ao sinal do treinador ou a qualquer perda de controle.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Sparring technique",
+      "description": "1. Sur un ring supervisé, les deux boxeurs portent protège-dents, casque, coquille et gants d’au moins 10 oz, et s’accordent sur un geste précis.\n2. L’un applique la technique choisie à vitesse contrôlée tandis que le partenaire reste semi-passif, par exemple en bloquant un coup du bras avant au visage.\n3. Gardez une puissance légère, inversez les rôles après le temps convenu et arrêtez immédiatement au signal de l’entraîneur ou à toute perte de contrôle.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "Techniksparring",
+      "description": "1. Im beaufsichtigten Ring tragen beide Boxer Mundschutz, Kopfschutz, Tiefschutz und mindestens 10-oz-Handschuhe und vereinbaren eine bestimmte Technik.\n2. Einer wendet die vereinbarte Technik mit kontrolliertem Tempo an, während der Partner halbpassiv bleibt, etwa eine Führhand zum Kopf mit einem Block beantwortet.\n3. Halte die Wucht gering, tausche nach der vereinbarten Zeit die Rollen und brich sofort ab, wenn der Trainer ruft oder die Kontrolle verloren geht.",
+      "sectionTitle": "Fortgeschritten"
+    },
+    "it": {
+      "title": "Sparring tecnico",
+      "description": "1. Su un ring sorvegliato, entrambi i pugili indossano paradenti, caschetto, conchiglia e guantoni da almeno 10 oz e concordano un’abilità specifica.\n2. Uno applica la tecnica stabilita a velocità controllata mentre il compagno ha un ruolo semi-passivo, ad esempio parando un colpo del braccio anteriore al volto.\n3. Mantieni la potenza leggera, scambia i ruoli dopo il tempo concordato e fermati subito al richiamo dell’allenatore o a qualsiasi perdita di controllo.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "技术实战",
+      "description": "1. 在有人监督的拳台上，双方都戴护齿、头盔、护裆和至少 10 盎司拳套，并约定一项具体技术。\n2. 一方以受控速度运用约定技术，另一方半被动配合，例如用格挡回应打向头部的前手拳。\n3. 保持轻力量，约定时间后交换角色；教练叫停或任何一方失控时立即停止。",
+      "sectionTitle": "中级"
+    },
+    "ja": {
+      "title": "テクニックスパーリング",
+      "description": "1. 指導者の監督下のリングで、双方がマウスピース、ヘッドギア、ファウルカップ、10オンス以上のグローブを着け、練習する技術を一つ決めます。\n2. 一方が決めた技術をスピードを抑えて使い、相手は半ば受け身で応じます。例として、顔面へのリードパンチをブロックで受けます。\n3. パワーは軽く保ち、決めた時間で役割を交代し、コーチの合図や制御の乱れがあればすぐに止めます。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "기술 스파링",
+      "description": "1. 감독이 있는 링에서 두 선수 모두 마우스피스, 헤드기어, 낭심 보호대, 10온스 이상 글러브를 착용하고 특정 기술 하나를 정합니다.\n2. 한 선수는 정한 기술을 통제된 속도로 사용하고 상대는 반수동 역할을 합니다. 예를 들어 얼굴로 오는 앞손 펀치를 블록으로 받습니다.\n3. 힘은 가볍게 유지하고 정한 시간 뒤 역할을 바꾸며, 코치의 신호나 통제 상실 시 즉시 멈춥니다.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "สปาร์ริงเทคนิค",
+      "description": "1. บนเวทีที่มีผู้ควบคุม นักมวยทั้งสองสวมฟันยาง เฮดการ์ด กระจับ และนวมอย่างน้อย 10 ออนซ์ แล้วตกลงทักษะเฉพาะหนึ่งอย่าง\n2. ฝ่ายหนึ่งใช้เทคนิคที่กำหนดด้วยความเร็วที่ควบคุม อีกฝ่ายเป็นผู้รับกึ่งนิ่ง เช่น ตั้งการ์ดรับหมัดหน้าที่เข้าหน้า\n3. ใช้แรงเบา สลับบทบาทเมื่อครบเวลาที่ตกลง และหยุดทันทีเมื่อโค้ชสั่งหรือเสียการควบคุม",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Технический спарринг",
+      "description": "1. На ринге под присмотром тренера оба боксёра надевают капу, шлем, бандаж и перчатки не легче 10 унций и договариваются об одном конкретном навыке.\n2. Один выполняет заданную технику на контролируемой скорости, партнёр работает полупассивно, например отвечает блоком на прямой передней рукой в голову.\n3. Держите силу удара низкой, меняйтесь ролями через оговорённое время и сразу останавливайтесь по команде тренера или при потере контроля.",
+      "sectionTitle": "Средний"
+    },
+    "uk": {
+      "title": "Технічний спаринг",
+      "description": "1. На рингу під наглядом тренера обидва боксери вдягають капу, шолом, бандаж і рукавиці не легші за 10 унцій та домовляються про одну конкретну навичку.\n2. Один виконує задану техніку на контрольованій швидкості, партнер працює напівпасивно, наприклад відповідає блоком на прямий передньою рукою в голову.\n3. Тримайте силу удару низькою, мінятеся ролями через обумовлений час і негайно зупиняйтеся за командою тренера або в разі втрати контролю.",
+      "sectionTitle": "Середній"
+    }
+  }
+}

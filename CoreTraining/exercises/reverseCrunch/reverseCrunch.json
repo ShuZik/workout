@@ -1,0 +1,90 @@
+{
+  "id": "14.15",
+  "key": "core_reverse_crunch",
+  "title": "Reverse Crunch",
+  "description": "1. Lie on the back with knees bent over the hips and arms beside the body for support.\n2. Exhale to curl the pelvis toward the ribs and lift the tailbone a small distance from the floor.\n3. Lower the pelvis under control without swinging the legs or arching the lower back.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Reverse Crunch",
+      "description": "1. Lie on the back with knees bent over the hips and arms beside the body for support.\n2. Exhale to curl the pelvis toward the ribs and lift the tailbone a small distance from the floor.\n3. Lower the pelvis under control without swinging the legs or arching the lower back.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Encogimiento abdominal inverso",
+      "description": "1. Túmbate boca arriba con las rodillas flexionadas sobre las caderas y los brazos junto al cuerpo como apoyo.\n2. Exhala para acercar la pelvis a las costillas y elevar ligeramente el coxis del suelo.\n3. Baja la pelvis de forma controlada sin balancear las piernas ni arquear la zona lumbar.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Abdominal inverso",
+      "description": "1. Deite de costas com os joelhos dobrados sobre os quadris e os braços ao lado do corpo para apoio.\n2. Expire para enrolar a pelve em direção às costelas e elevar um pouco o cóccix do chão.\n3. Abaixe a pelve de forma controlada sem balançar as pernas nem arquear a lombar.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Crunch inversé",
+      "description": "1. Allongez-vous sur le dos, genoux fléchis au-dessus des hanches et bras près du corps pour vous soutenir.\n2. Expirez pour enrouler le bassin vers les côtes et soulever légèrement le coccyx du sol.\n3. Abaissez le bassin avec contrôle sans balancer les jambes ni cambrer le bas du dos.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Umgekehrtes Bauchpressen",
+      "description": "1. Lege dich auf den Rücken, halte die gebeugten Knie über den Hüften und lege die Arme zur Unterstützung neben den Körper.\n2. Atme aus, rolle das Becken zu den Rippen und hebe das Steißbein ein kleines Stück vom Boden.\n3. Senke das Becken kontrolliert ab, ohne mit den Beinen zu schwingen oder den unteren Rücken ins Hohlkreuz zu bringen.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Crunch inverso",
+      "description": "1. Sdraiati sulla schiena con le ginocchia piegate sopra le anche e le braccia accanto al corpo come sostegno.\n2. Espira per arrotolare il bacino verso le costole e sollevare leggermente il coccige dal pavimento.\n3. Abbassa il bacino in modo controllato senza oscillare con le gambe né inarcare la zona lombare.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "反向卷腹",
+      "description": "1. 仰卧，屈膝并将膝盖置于髋部上方，双臂放在身体两侧提供支撑。\n2. 呼气，将骨盆卷向肋骨，使尾骨稍稍抬离地面。\n3. 有控制地放下骨盆，不要摆动双腿或拱起下背部。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "リバースクランチ",
+      "description": "1. 仰向けになり、膝を曲げて腰の上に保ち、腕を体の横に置いて支えます。\n2. 息を吐きながら骨盤を肋骨の方向へ丸め、尾骨を床から少し持ち上げます。\n3. 脚を振ったり腰を反らしたりせず、骨盤をゆっくり下ろします。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "리버스 크런치",
+      "description": "1. 등을 대고 누워 무릎을 굽혀 골반 위에 두고 팔을 몸 옆에 놓아 받칩니다.\n2. 숨을 내쉬며 골반을 갈비뼈 쪽으로 말아 꼬리뼈를 바닥에서 조금 들어 올립니다.\n3. 다리를 흔들거나 허리를 과하게 젖히지 않고 골반을 조절하며 내립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "รีเวิร์สครันช์",
+      "description": "1. นอนหงาย งอเข่าให้อยู่เหนือสะโพก และวางแขนข้างลำตัวเพื่อช่วยพยุง\n2. หายใจออกพร้อมม้วนเชิงกรานเข้าหาชายโครง แล้วยกกระดูกก้นกบพ้นพื้นเล็กน้อย\n3. ลดเชิงกรานลงอย่างควบคุม โดยไม่แกว่งขาหรือแอ่นหลังส่วนล่าง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Обратные скручивания",
+      "description": "1. Лягте на спину, согните колени над тазом и положите руки вдоль тела для поддержки.\n2. На выдохе подкрутите таз к рёбрам и немного приподнимите копчик над полом.\n3. Подконтрольно опустите таз, не раскачивая ноги и не прогибая поясницу.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Зворотні скручування",
+      "description": "1. Ляжте на спину, зігніть коліна над тазом і покладіть руки вздовж тіла для підтримки.\n2. На видиху підкрутіть таз до ребер і трохи підніміть куприк над підлогою.\n3. Контрольовано опустіть таз, не розгойдуючи ноги й не прогинаючи поперек.",
+      "sectionTitle": "База"
+    }
+  }
+}

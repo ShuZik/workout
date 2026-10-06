@@ -1,0 +1,90 @@
+{
+  "id": "2.28",
+  "key": "muay_thai_rear_downward_elbow",
+  "title": "Rear Downward Elbow",
+  "description": "1. From close guard, load the rear side and lift the bent rear elbow above the target.\n2. Rotate the rear hip forward and draw the point of the elbow down diagonally into an elbow pad.\n3. Reverse the rotation and return the rear forearm immediately to guard.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Elbows",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Downward Elbow",
+      "description": "1. From close guard, load the rear side and lift the bent rear elbow above the target.\n2. Rotate the rear hip forward and draw the point of the elbow down diagonally into an elbow pad.\n3. Reverse the rotation and return the rear forearm immediately to guard.",
+      "sectionTitle": "Elbows"
+    },
+    "es": {
+      "title": "Codazo descendente trasero",
+      "description": "1. Desde una guardia cerrada, carga el lado trasero y eleva el codo trasero flexionado por encima del objetivo.\n2. Gira la cadera trasera hacia delante y lleva la punta del codo hacia abajo en diagonal contra una manopla de codo.\n3. Invierte la rotación y devuelve de inmediato el antebrazo trasero a la guardia.",
+      "sectionTitle": "Codazos"
+    },
+    "pt": {
+      "title": "Cotovelada descendente de trás",
+      "description": "1. Na guarda fechada, carregue o lado de trás e eleve o cotovelo de trás flexionado acima do alvo.\n2. Gire o quadril de trás à frente e leve a ponta do cotovelo para baixo na diagonal contra um aparador de cotovelo.\n3. Desfaça a rotação e leve imediatamente o antebraço de trás de volta à guarda.",
+      "sectionTitle": "Cotoveladas"
+    },
+    "fr": {
+      "title": "Coude descendant arrière",
+      "description": "1. En garde rapprochée, chargez le côté arrière et levez le coude arrière fléchi au-dessus de la cible.\n2. Tournez la hanche arrière vers l’avant et abaissez la pointe du coude en diagonale dans une patte d’ours.\n3. Inversez la rotation et ramenez aussitôt l’avant-bras arrière en garde.",
+      "sectionTitle": "Coups de coude"
+    },
+    "de": {
+      "title": "Hinterer Abwärtsellbogen",
+      "description": "1. Belaste aus enger Deckung die hintere Seite und hebe den gebeugten hinteren Ellbogen über das Ziel.\n2. Drehe die hintere Hüfte nach vorn und ziehe die Ellbogenspitze diagonal nach unten in ein Schlagpolster.\n3. Kehre die Drehung um und bringe den hinteren Unterarm sofort in die Deckung.",
+      "sectionTitle": "Ellbogentechniken"
+    },
+    "it": {
+      "title": "Gomitata discendente posteriore",
+      "description": "1. Da una guardia stretta, carica il lato posteriore e solleva il gomito posteriore piegato sopra il bersaglio.\n2. Ruota l’anca posteriore in avanti e porta la punta del gomito in basso in diagonale contro un colpitore.\n3. Inverti la rotazione e riporta subito l’avambraccio posteriore in guardia.",
+      "sectionTitle": "Gomitate"
+    },
+    "zh-Hans": {
+      "title": "后手砸肘",
+      "description": "1. 从近距离防守位开始，后侧蓄力，将弯曲的后肘抬到目标上方。\n2. 后髋向前转，肘尖沿斜线向下砸击肘靶。\n3. 反向转回，后前臂立即回到防守位。",
+      "sectionTitle": "肘法"
+    },
+    "ja": {
+      "title": "後ろ手の打ち下ろし肘打ち",
+      "description": "1. 接近したガードから後ろ側に体重を乗せ、曲げた後ろの肘を標的の上へ上げます。\n2. 後ろの腰を前へ回し、肘先を斜め下へミットに打ち下ろします。\n3. 回転を戻し、すぐに後ろの前腕をガードに戻します。",
+      "sectionTitle": "肘打ち"
+    },
+    "ko": {
+      "title": "뒷손 내려찍기 팔꿈치",
+      "description": "1. 근접 가드에서 뒤쪽에 체중을 싣고 굽힌 뒤 팔꿈치를 목표 위로 듭니다.\n2. 뒤 골반을 앞으로 돌리며 팔꿈치 끝을 대각선 아래로 미트에 내려찍습니다.\n3. 회전을 되돌리고 즉시 뒤 전완을 가드로 되돌립니다.",
+      "sectionTitle": "팔꿈치 공격"
+    },
+    "th": {
+      "title": "ศอกสับมือหลัง",
+      "description": "1. จากการ์ดระยะประชิด ลงน้ำหนักด้านหลังและยกศอกหลังที่งอขึ้นเหนือเป้า\n2. หมุนสะโพกหลังไปข้างหน้าและสับปลายศอกลงในแนวเฉียงเข้าเป้าศอก\n3. หมุนกลับและยกแขนหลังคืนสู่การ์ดทันที",
+      "sectionTitle": "ศอก"
+    },
+    "ru": {
+      "title": "Нисходящий удар задним локтем",
+      "description": "1. Из плотной защиты загрузите заднюю сторону и поднимите согнутый задний локоть над целью.\n2. Поверните заднюю сторону таза вперёд и проведите кончик локтя вниз по диагонали в лапу.\n3. Раскрутитесь обратно и сразу верните заднее предплечье в защиту.",
+      "sectionTitle": "Удары локтями"
+    },
+    "uk": {
+      "title": "Низхідний удар заднім ліктем",
+      "description": "1. Зі щільного захисту завантажте задній бік і підніміть зігнутий задній лікоть над ціллю.\n2. Поверніть задній бік таза вперед і проведіть кінчик ліктя вниз по діагоналі в лапу.\n3. Розкрутіться назад і одразу поверніть заднє передпліччя в захист.",
+      "sectionTitle": "Удари ліктями"
+    }
+  }
+}

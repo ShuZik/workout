@@ -1,0 +1,90 @@
+{
+  "id": "54.9",
+  "key": "fencing_counter_disengage",
+  "title": "Counter-disengage",
+  "description": "1. At lunging distance, the partner attempts to change the engagement or make a circular action around your blade.\n2. Follow the partner's circle with your own point in the same direction, deceiving the change so your blade ends in the line the partner just left open.\n3. Extend and lunge to hit, recover to en garde, and let the partner vary the timing before swapping roles.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Counter-disengage",
+      "description": "1. At lunging distance, the partner attempts to change the engagement or make a circular action around your blade.\n2. Follow the partner's circle with your own point in the same direction, deceiving the change so your blade ends in the line the partner just left open.\n3. Extend and lunge to hit, recover to en garde, and let the partner vary the timing before swapping roles.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Contradesenganche",
+      "description": "1. A distancia de fondo, el compañero intenta cambiar el enganche o hacer una acción circular alrededor de tu hoja.\n2. Sigue el círculo del compañero con tu punta en el mismo sentido, burlando el cambio para que tu hoja acabe en la línea que el compañero dejó abierta.\n3. Extiende y tira a fondo para tocar, vuelve a guardia y deja que el compañero varíe el tiempo antes de cambiar papeles.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Contradesengajamento",
+      "description": "1. À distância de afundo, o parceiro tenta trocar o engajamento ou fazer uma ação circular em torno da sua lâmina.\n2. Acompanhe o círculo do parceiro com sua ponta no mesmo sentido, enganando a troca para sua lâmina terminar na linha que ele deixou aberta.\n3. Estenda e afunde para tocar, volte à guarda e deixe o parceiro variar o tempo antes de trocar papéis.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Contre-dégagement",
+      "description": "1. À distance de fente, le partenaire tente un changement d’engagement ou une action circulaire autour de votre fer.\n2. Suivez son cercle avec votre pointe dans le même sens, trompant le changement pour finir dans la ligne qu’il vient d’ouvrir.\n3. Allongez et fendez-vous pour toucher, revenez en garde et laissez le partenaire varier le moment avant d’inverser.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Konterumgehung",
+      "description": "1. Auf Ausfalldistanz versucht der Partner einen Bindungswechsel oder eine Kreisaktion um deine Klinge.\n2. Folge seinem Kreis mit deiner Spitze in derselben Richtung und täusche den Wechsel, sodass deine Klinge in der Linie endet, die er gerade geöffnet hat.\n3. Strecke und falle aus zum Treffer, kehre zurück und lass den Partner das Timing variieren, bevor ihr tauscht.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Controcavazione",
+      "description": "1. A distanza d’affondo il compagno tenta un cambio di legamento o un’azione circolare attorno alla tua lama.\n2. Segui il suo cerchio con la tua punta nello stesso senso, eludendo il cambio così che la lama finisca nella linea che ha appena aperto.\n3. Distendi e affonda per toccare, torna in guardia e lascia variare il tempo al compagno prima di scambiare i ruoli.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "反转移",
+      "description": "1. 在弓步距离，同伴试图换位接剑或绕你的剑做画圆动作。\n2. 剑尖沿同伴画圆的同一方向跟随，避开其换位，使你的剑停在同伴刚让出的线位。\n3. 伸臂弓步刺中，恢复实战姿势，让同伴变换时机后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "コントル・デガジェ",
+      "description": "1. ファントの間合いで、相手がアンガージュの変更や剣の周りの円運動を試みます。\n2. 相手の円と同じ方向に剣先で追い、変更をかわして相手が空けたばかりのラインに剣を置きます。\n3. 腕を伸ばしてファントで突き、アンガルドに戻り、相手にタイミングを変えてもらってから役割を交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "카운터 디스인게이지",
+      "description": "1. 런지 거리에서 파트너가 인게이지 변경이나 내 칼 주위를 도는 원형 동작을 시도합니다.\n2. 파트너의 원을 같은 방향으로 칼끝으로 따라가 변경을 속이고, 파트너가 방금 연 라인에 칼을 둡니다.\n3. 팔을 뻗어 런지로 찌르고 앙가르드로 돌아오며, 파트너가 타이밍을 바꾸게 한 뒤 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เคาน์เตอร์ดิสเอนเกจ",
+      "description": "1. ในระยะลันจ์ คู่ฝึกพยายามเปลี่ยนการแตะดาบหรือหมุนดาบรอบใบดาบของคุณ\n2. หมุนปลายดาบตามวงของคู่ฝึกในทิศเดียวกันเพื่อหลบการเปลี่ยน ให้ดาบไปอยู่ในแนวที่คู่ฝึกเพิ่งเปิด\n3. เหยียดแขนแล้วลันจ์แทง กลับสู่อองการ์ด ให้คู่ฝึกเปลี่ยนจังหวะแล้วสลับบทบาท",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Контрперевод",
+      "description": "1. На дистанции выпада партнёр пытается переменить соединение или выполнить круговое действие вокруг вашего клинка.\n2. Следуйте остриём за кругом партнёра в ту же сторону, обманывая перемену, чтобы клинок оказался в линии, которую партнёр только что открыл.\n3. Выпрямите руку и выпадом нанесите укол, вернитесь в стойку и дайте партнёру менять момент, затем поменяйтесь ролями.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Контрпереведення",
+      "description": "1. На дистанції випаду партнер намагається змінити з’єднання або виконати колову дію навколо вашого клинка.\n2. Ідіть вістрям за колом партнера в той самий бік, обманюючи зміну, щоб клинок опинився в лінії, яку партнер щойно відкрив.\n3. Випряміть руку й випадом завдайте уколу, поверніться в стійку й дайте партнерові змінювати момент, потім поміняйтеся ролями.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

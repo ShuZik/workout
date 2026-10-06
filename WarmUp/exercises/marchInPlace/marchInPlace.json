@@ -1,0 +1,90 @@
+{
+  "id": "9.20",
+  "key": "march_in_place",
+  "title": "March in Place",
+  "description": "1. Stand tall with feet under the hips and elbows bent.\n2. Lift one knee while the opposite arm swings forward, then place the foot under the hip.\n3. Alternate sides with light foot contacts and gradually increase the cadence.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Cardio",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "March in Place",
+      "description": "1. Stand tall with feet under the hips and elbows bent.\n2. Lift one knee while the opposite arm swings forward, then place the foot under the hip.\n3. Alternate sides with light foot contacts and gradually increase the cadence.",
+      "sectionTitle": "Cardio"
+    },
+    "es": {
+      "title": "Marcha en el sitio",
+      "description": "1. Ponte de pie erguido con los pies bajo las caderas y los codos flexionados.\n2. Eleva una rodilla mientras el brazo contrario avanza y después coloca el pie bajo la cadera.\n3. Alterna los lados con apoyos ligeros y aumenta gradualmente la cadencia.",
+      "sectionTitle": "Cardio"
+    },
+    "pt": {
+      "title": "Marcha no lugar",
+      "description": "1. Fique ereto com os pés sob os quadris e os cotovelos dobrados.\n2. Eleve um joelho enquanto o braço oposto avança e depois coloque o pé sob o quadril.\n3. Alterne os lados com apoios leves e aumente gradualmente a cadência.",
+      "sectionTitle": "Cardio"
+    },
+    "fr": {
+      "title": "Marche sur place",
+      "description": "1. Tenez-vous droit, les pieds sous les hanches et les coudes fléchis.\n2. Levez un genou tandis que le bras opposé avance, puis reposez le pied sous la hanche.\n3. Alternez les côtés avec des appuis légers et augmentez progressivement la cadence.",
+      "sectionTitle": "Cardio"
+    },
+    "de": {
+      "title": "Marschieren auf der Stelle",
+      "description": "1. Stehe aufrecht mit den Füßen unter den Hüften und gebeugten Ellbogen.\n2. Hebe ein Knie, während der gegenüberliegende Arm nach vorne schwingt, und setze den Fuß dann unter der Hüfte ab.\n3. Wechsle die Seiten mit leichten Bodenkontakten und erhöhe die Schrittfrequenz allmählich.",
+      "sectionTitle": "Cardio"
+    },
+    "it": {
+      "title": "Marcia sul posto",
+      "description": "1. Stai eretto con i piedi sotto le anche e i gomiti piegati.\n2. Solleva un ginocchio mentre il braccio opposto avanza, poi appoggia il piede sotto l’anca.\n3. Alterna i lati con appoggi leggeri e aumenta gradualmente la cadenza.",
+      "sectionTitle": "Cardio"
+    },
+    "zh-Hans": {
+      "title": "原地踏步",
+      "description": "1. 直立站好，双脚位于髋部下方，肘部弯曲。\n2. 抬起一侧膝盖，同时对侧手臂向前摆动，然后将脚放回髋部下方。\n3. 左右交替，轻轻落地，并逐渐提高步频。",
+      "sectionTitle": "有氧运动"
+    },
+    "ja": {
+      "title": "その場足踏み",
+      "description": "1. 足を腰の下に置き、肘を曲げてまっすぐ立ちます。\n2. 反対側の腕を前に振りながら片方の膝を上げ、足を腰の下に戻します。\n3. 軽く接地して左右交互に行い、徐々にピッチを上げます。",
+      "sectionTitle": "有酸素運動"
+    },
+    "ko": {
+      "title": "제자리 걷기",
+      "description": "1. 발을 골반 아래에 두고 팔꿈치를 굽힌 채 똑바로 섭니다.\n2. 반대쪽 팔을 앞으로 흔들면서 한쪽 무릎을 올린 뒤 발을 골반 아래에 놓습니다.\n3. 가볍게 발을 딛으며 양쪽을 번갈아 실시하고 걸음 빈도를 서서히 높입니다.",
+      "sectionTitle": "유산소 운동"
+    },
+    "th": {
+      "title": "เดินย่ำอยู่กับที่",
+      "description": "1. ยืนตัวตรง วางเท้าใต้สะโพกและงอข้อศอก\n2. ยกเข่าข้างหนึ่งพร้อมแกว่งแขนตรงข้ามไปข้างหน้า แล้ววางเท้าใต้สะโพก\n3. สลับข้างโดยลงเท้าเบา ๆ และค่อย ๆ เพิ่มความถี่ของก้าว",
+      "sectionTitle": "คาร์ดิโอ"
+    },
+    "ru": {
+      "title": "Ходьба на месте",
+      "description": "1. Встаньте прямо, поставьте стопы под тазом и согните локти.\n2. Поднимите одно колено, одновременно двигая противоположной рукой вперёд, затем поставьте стопу под тазом.\n3. Чередуйте стороны, легко касаясь пола стопами, и постепенно повышайте частоту шагов.",
+      "sectionTitle": "Кардио"
+    },
+    "uk": {
+      "title": "Ходьба на місці",
+      "description": "1. Станьте прямо, поставте стопи під тазом і зігніть лікті.\n2. Підніміть одне коліно, одночасно рухаючи протилежною рукою вперед, потім поставте стопу під тазом.\n3. Чергуйте сторони, легко торкаючись підлоги стопами, та поступово підвищуйте частоту кроків.",
+      "sectionTitle": "Кардіо"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "3.48",
+  "key": "kick_boxing_task_sparring_offensive",
+  "title": "Task Sparring: Offensive",
+  "description": "1. With a coach present and full protective equipment, assign one partner an attacking task, such as leading every exchange with a kick.\n2. Spar at controlled speed and light contact while the attacker pursues the task and the partner defends and moves.\n3. Swap tasks between rounds and stop immediately at the coach's call or any loss of control.",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Task Sparring: Offensive",
+      "description": "1. With a coach present and full protective equipment, assign one partner an attacking task, such as leading every exchange with a kick.\n2. Spar at controlled speed and light contact while the attacker pursues the task and the partner defends and moves.\n3. Swap tasks between rounds and stop immediately at the coach's call or any loss of control.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Sparring con tarea: ofensiva",
+      "description": "1. Con un entrenador presente y todo el equipo de protección, asigna a un compañero una tarea ofensiva, como iniciar cada intercambio con una patada.\n2. Haced sparring a velocidad controlada y contacto ligero mientras el atacante cumple la tarea y el compañero se defiende y se desplaza.\n3. Intercambiad las tareas entre asaltos y deteneos de inmediato a la señal del entrenador o ante cualquier pérdida de control.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Sparring com tarefa: ofensivo",
+      "description": "1. Com treinador presente e todo o equipamento de proteção, dê a um parceiro uma tarefa ofensiva, como iniciar cada troca com um chute.\n2. Façam sparring em velocidade controlada e contato leve enquanto o atacante cumpre a tarefa e o parceiro defende e se movimenta.\n3. Troquem as tarefas entre rounds e parem imediatamente ao sinal do treinador ou a qualquer perda de controle.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Sparring à thème : offensif",
+      "description": "1. En présence d’un entraîneur et avec toutes les protections, donnez à un partenaire une consigne offensive, par exemple ouvrir chaque échange par un coup de pied.\n2. Travaillez à vitesse contrôlée et contact léger pendant que l’attaquant suit la consigne et que le partenaire défend et se déplace.\n3. Échangez les consignes entre les rounds et arrêtez immédiatement au signal de l’entraîneur ou à toute perte de contrôle.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Aufgabensparring: Angriff",
+      "description": "1. Gib in Anwesenheit eines Trainers und in voller Schutzausrüstung einem Partner eine Angriffsaufgabe, etwa jeden Schlagabtausch mit einem Tritt zu eröffnen.\n2. Spart mit kontrolliertem Tempo und leichtem Kontakt, während der Angreifer die Aufgabe verfolgt und der Partner verteidigt und sich bewegt.\n3. Tauscht die Aufgaben zwischen den Runden und brecht sofort ab, wenn der Trainer ruft oder die Kontrolle verloren geht.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Sparring a tema: offensivo",
+      "description": "1. Con un allenatore presente e tutte le protezioni, assegna a un compagno un compito offensivo, come aprire ogni scambio con un calcio.\n2. Fate sparring a velocità controllata e contatto leggero mentre l’attaccante persegue il compito e il compagno si difende e si muove.\n3. Scambiatevi i compiti tra le riprese e fermatevi subito al richiamo dell’allenatore o a qualsiasi perdita di controllo.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "任务实战：进攻",
+      "description": "1. 在教练在场并穿戴全部护具的情况下，给一方布置进攻任务，例如每次交手都以腿法开始。\n2. 以受控速度和轻接触对练，进攻方执行任务，另一方防守并移动。\n3. 回合之间交换任务；教练叫停或任何失控时立即停止。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "課題スパーリング：攻撃",
+      "description": "1. コーチの立ち会いと防具一式のもと、一方に攻撃の課題を与えます。例として、毎回の攻防を蹴りから始めます。\n2. 攻撃役が課題に取り組み、相手が守って動く中、スピードを抑え軽い接触でスパーリングします。\n3. ラウンドごとに課題を交代し、コーチの合図や制御の乱れがあればすぐに止めます。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "과제 스파링: 공격",
+      "description": "1. 코치가 있고 보호구를 모두 갖춘 상태에서 한 사람에게 공격 과제를 줍니다. 예를 들어 모든 교환을 킥으로 시작합니다.\n2. 공격자는 과제를 수행하고 상대는 방어하며 움직이는 가운데, 통제된 속도와 가벼운 접촉으로 스파링합니다.\n3. 라운드마다 과제를 바꾸고, 코치의 신호나 통제 상실 시 즉시 멈춥니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "สปาร์ริงตามโจทย์: ฝ่ายรุก",
+      "description": "1. มีโค้ชดูแลและสวมอุปกรณ์ป้องกันครบ กำหนดโจทย์ฝ่ายรุกให้คู่ฝึกคนหนึ่ง เช่น เริ่มทุกจังหวะด้วยการเตะ\n2. สปาร์ด้วยความเร็วที่ควบคุมและสัมผัสเบา ฝ่ายรุกทำตามโจทย์ ส่วนอีกฝ่ายป้องกันและเคลื่อนที่\n3. สลับโจทย์ระหว่างยก และหยุดทันทีเมื่อโค้ชสั่งหรือเสียการควบคุม",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Спарринг с заданием: атака",
+      "description": "1. В присутствии тренера и в полной экипировке дайте одному партнёру атакующее задание, например начинать каждый обмен ударом ногой.\n2. Проводите спарринг на контролируемой скорости с лёгким контактом: атакующий выполняет задание, партнёр защищается и перемещается.\n3. Меняйте задания между раундами и сразу останавливайте��ь по команде тренера или при потере контроля.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Спаринг із завданням: атака",
+      "description": "1. У присутності тренера й у повному спорядженні дайте одному партнерові атакувальне завдання, наприклад починати кожен обмін ударом ногою.\n2. Проводьте спаринг на контрольованій швидкості з легким контактом: атакувальник в��конує завдання, партнер захищається й пересувається.\n3. Міняйте завдання між раундами й одразу зупиняйтеся за командою тренера або в разі втрати контролю.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "63.7",
+  "key": "iaido_morote_zuki",
+  "title": "Morote-zuki",
+  "description": "1. Step forward and draw with a horizontal cut toward the front opponent's face, then grip with both hands and step in with a two-handed thrust to the solar plexus.\n2. Withdraw the blade, turn to the rear, and cut down the rear opponent; then turn back to the front and cut down again.\n3. Finish with chiburi and resheathing, holding zanshin toward the last opponent.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Morote-zuki",
+      "description": "1. Step forward and draw with a horizontal cut toward the front opponent's face, then grip with both hands and step in with a two-handed thrust to the solar plexus.\n2. Withdraw the blade, turn to the rear, and cut down the rear opponent; then turn back to the front and cut down again.\n3. Finish with chiburi and resheathing, holding zanshin toward the last opponent.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Morote-zuki",
+      "description": "1. Avanza y desenvaina con un corte horizontal hacia la cara del oponente delantero; luego toma la espada con ambas manos y entra con una estocada a dos manos al plexo solar.\n2. Retira la hoja, gira hacia atrás y corta hacia abajo al oponente trasero; después vuelve al frente y corta de nuevo.\n3. Termina con chiburi y envainado, manteniendo zanshin hacia el último oponente.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Morote-zuki",
+      "description": "1. Avance e saque com um corte horizontal em direção ao rosto do oponente da frente; depois segure com as duas mãos e entre com uma estocada a duas mãos ao plexo solar.\n2. Retire a lâmina, vire para trás e corte para baixo o oponente traseiro; depois volte à frente e corte novamente.\n3. Termine com chiburi e embainhar, mantendo zanshin para o último oponente.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Morote-zuki",
+      "description": "1. Avancez et dégainez par une coupe horizontale vers le visage de l’adversaire avant, puis saisissez à deux mains et entrez par une estocade à deux mains au plexus solaire.\n2. Retirez la lame, tournez-vous vers l’arrière et coupez l’adversaire arrière, puis revenez vers l’avant et coupez de nouveau.\n3. Terminez par le chiburi et le rengainage en gardant le zanshin vers le dernier adversaire.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Morote-zuki",
+      "description": "1. Vortreten und mit einem waagerechten Schnitt zum Gesicht des vorderen Gegners ziehen, dann beidhändig greifen und mit einem beidhändigen Stich zum Solarplexus eindringen.\n2. Die Klinge zurückziehen, nach hinten drehen und den hinteren Gegner niederschneiden, dann wieder nach vorn drehen und erneut schneiden.\n3. Mit Chiburi und Einstecken abschließen und Zanshin zum letzten Gegner halten.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Morote-zuki",
+      "description": "1. Avanza ed estrai con un taglio orizzontale verso il viso dell’avversario davanti, poi impugna a due mani ed entra con un affondo a due mani al plesso solare.\n2. Ritira la lama, gira all’indietro e taglia l’avversario dietro; poi torna in avanti e taglia di nuovo.\n3. Concludi con chiburi e rinfoderare, mantenendo lo zanshin verso l’ultimo avversario.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "诸手突",
+      "description": "1. 向前踏步，拔刀横斩前方对手面部，然后双手握刀上步双手刺向心窝。\n2. 抽回刀身，转向后方斩落后方对手，再转回前方再次斩落。\n3. 以振刀和纳刀结束，对最后一名对手保持残心。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "諸手突き（もろてづき）",
+      "description": "1. 踏み出して前の相手の顔面へ横に抜き付け、両手で握って踏み込み、水月を諸手で突きます。\n2. 刀を抜き取り、後ろへ向き直って後ろの相手を斬り下ろし、再び前へ向き直って斬り下ろします。\n3. 血振りと納刀で終え、最後の相手に残心を保ちます。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "모로테즈키",
+      "description": "1. 앞으로 나서며 앞 상대의 얼굴을 향해 수평으로 뽑아 벤 뒤 두 손으로 잡고 들어가며 명치를 양손으로 찌릅니다.\n2. 칼을 빼내고 뒤로 돌아 뒤 상대를 내려 벤 뒤 다시 앞으로 돌아 한 번 더 벱니다.\n3. 치부리와 납도로 마치며 마지막 상대에게 잔심을 유지합니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "โมโรเตะซึกิ",
+      "description": "1. ก้าวไปข้างหน้าแล้วชักดาบฟันแนวนอนไปที่ใบหน้าคู่ต่อสู้ด้านหน้า จากนั้นจับสองมือแล้วพุ่งเข้าแทงลิ้นปี่ด้วยสองมือ\n2. ดึงดาบกลับ หันไปด้านหลังและฟันคู่ต่อสู้ด้านหลัง แล้วหันกลับมาด้านหน้าและฟันลงอีกครั้ง\n3. จบด้วยจิบุริและการเก็บดาบ โดยคงซันชินต่อคู่ต่อสู้คนสุดท้าย",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Моротэ-дзуки",
+      "description": "1. Шагните вперёд и обнажите меч горизонтальным разрезом к лицу переднего противника, затем возьмите меч двумя руками и войдите уколом двумя руками в солнечное сплетение.\n2. Извлеките клинок, развернитесь назад и разрубите заднего противника, затем снова повернитесь вперёд и рубите ещё раз.\n3. Завершите тибури и вложением меча, сохраняя дзансин к последнему противнику.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Мороте-дзукі",
+      "description": "1. Ступіть уперед і оголіть меч горизонтальним розрізом до обличчя переднього суперника, потім візьміть меч двома руками й увійдіть уколом двома руками в сонячне сплетіння.\n2. Вийміть клинок, розверніться назад і розрубайте заднього суперника, потім знову поверніться вперед і рубайте ще раз.\n3. Завершіть тібурі й вкладанням меча, зберігаючи дзансін до останнього суперника.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

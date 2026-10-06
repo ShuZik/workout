@@ -1,0 +1,90 @@
+{
+  "id": "71.3",
+  "key": "kudo_idou",
+  "title": "Kudo Idou",
+  "description": "1. Start in fighting stance with the guard high and room to move forward, back and sideways.\n2. Step in each direction while throwing the basic punches and kicks, landing each technique as the feet settle.\n3. Keep the stance width constant, turn at the end of the line, and repeat back in the other direction.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "kudo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kudo Idou",
+      "description": "1. Start in fighting stance with the guard high and room to move forward, back and sideways.\n2. Step in each direction while throwing the basic punches and kicks, landing each technique as the feet settle.\n3. Keep the stance width constant, turn at the end of the line, and repeat back in the other direction.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Idou de kudo",
+      "description": "1. Empieza en guardia de combate con las manos altas y espacio para moverte adelante, atrás y a los lados.\n2. Desplázate en cada dirección lanzando los golpes y patadas básicos, conectando cada técnica cuando los pies se asientan.\n3. Mantén constante la anchura de la guardia, gira al final de la línea y repite en la otra dirección.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Idou de kudo",
+      "description": "1. Comece em guarda de combate com as mãos altas e espaço para se mover para a frente, para trás e para os lados.\n2. Desloque-se em cada direção lançando os socos e chutes básicos, aplicando cada técnica quando os pés se firmam.\n3. Mantenha constante a largura da base, vire ao fim da linha e repita na outra direção.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Idou de kudo",
+      "description": "1. Commencez en garde de combat, mains hautes, avec de l’espace pour avancer, reculer et vous déplacer latéralement.\n2. Déplacez-vous dans chaque direction en lançant les coups de poing et de pied de base, chaque technique arrivant quand les appuis se posent.\n3. Gardez une largeur de garde constante, faites demi-tour en bout de ligne et repartez dans l’autre sens.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Kudo-Idou",
+      "description": "1. Beginne in Kampfstellung mit hoher Deckung und Platz, um dich vor, zurück und seitlich zu bewegen.\n2. Schreite in jede Richtung und setze dabei die Grundschläge und -tritte ein, jede Technik genau dann, wenn die Füße stehen.\n3. Halte die Stellungsbreite konstant, wende am Ende der Linie und wiederhole in die andere Richtung.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Idou di kudo",
+      "description": "1. Inizia in guardia di combattimento con le mani alte e spazio per muoverti avanti, indietro e lateralmente.\n2. Spostati in ogni direzione tirando i pugni e i calci base, chiudendo ogni tecnica quando i piedi si assestano.\n3. Mantieni costante la larghezza della guardia, gira a fine linea e ripeti nella direzione opposta.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "空道移动基本功（Idou）",
+      "description": "1. 以高位护手的实战姿势开始，留出前后左右移动的空间。\n2. 向各方向移步，同时打出基本拳法和腿法，每个动作在脚步站稳时完成。\n3. 保持步幅一致，在线路尽头转身，再向另一方向重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "空道の移動稽古",
+      "description": "1. ガードを高く構え、前後左右に動ける空間を確保して始めます。\n2. 各方向へ移動しながら基本の突きと蹴りを出し、足が決まった瞬間に技を当てます。\n3. スタンス幅を一定に保ち、端で向きを変えて反対方向へ繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "쿠도 이동 기본",
+      "description": "1. 가드를 높인 대련 자세로 앞뒤와 옆으로 움직일 공간을 두고 시작합니다.\n2. 각 방향으로 이동하며 기본 펀치와 킥을 내고, 발이 자리 잡는 순간 기술을 마무리합니다.\n3. 스탠스 폭을 일정하게 유지하고 라인 끝에서 돌아 반대 방향으로 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "อิโดคูโด",
+      "description": "1. เริ่มในท่าต่อสู้ยกการ์ดสูง มีพื้นที่เคลื่อนไปหน้า หลัง และด้านข้าง\n2. ก้าวไปทุกทิศทางพร้อมปล่อยหมัดและเตะพื้นฐาน ให้แต่ละท่าลงเมื่อเท้าวางมั่น\n3. รักษาความกว้างของท่ายืนให้คงที่ หันกลับที่ปลายแนว แล้วทำซ้ำอีกทิศทาง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Идо кудо",
+      "description": "1. Начните в боевой стойке с высокой защитой и местом для движения вперёд, назад и в стороны.\n2. Перемещайтесь в каждом направлении, нанося базовые удары руками и ногами так, чтобы техника приходилась на постановку стоп.\n3. Сохраняйте ширину стойки, развернитесь в конце линии и повторите в обратном направлении.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Ідо кудо",
+      "description": "1. Почніть у бойовій стійці з високим захистом і місцем для руху вперед, назад і вбоки.\n2. Пересувайтеся в кожному напрямку, наносячи базові удари руками й ногами так, щоб техніка припадала на постановку стоп.\n3. Зберігайте ширину стійки, розверніться в кінці лінії й повторіть у зворотному напрямку.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

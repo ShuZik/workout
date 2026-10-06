@@ -1,0 +1,90 @@
+{
+  "id": "78.5",
+  "key": "lethwei_jumping_knee",
+  "title": "Jumping Knee",
+  "description": "1. From guard with clear space in front, step forward with the rear foot or switch the feet to load the jump.\n2. Spring off the supporting leg and drive the opposite knee forward and upward into a held body pad while the hands guard the head.\n3. Land on both feet with soft knees under the hips, then step back to stance distance and reset.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "lethwei",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jumping Knee",
+      "description": "1. From guard with clear space in front, step forward with the rear foot or switch the feet to load the jump.\n2. Spring off the supporting leg and drive the opposite knee forward and upward into a held body pad while the hands guard the head.\n3. Land on both feet with soft knees under the hips, then step back to stance distance and reset.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Rodilla en salto",
+      "description": "1. Desde la guardia y con espacio libre delante, avanza el pie trasero o cambia los pies para cargar el salto.\n2. Impúlsate con la pierna de apoyo y lleva la rodilla contraria hacia delante y arriba contra un pao, con las manos protegiendo la cabeza.\n3. Aterriza con ambos pies y rodillas flexionadas bajo la cadera, luego retrocede a la distancia de guardia y reinicia.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Joelhada voadora",
+      "description": "1. Da guarda, com espaço livre à frente, avance o pé de trás ou troque os pés para carregar o salto.\n2. Impulsione com a perna de apoio e leve o joelho oposto para frente e para cima contra um aparador, com as mãos protegendo a cabeça.\n3. Aterrisse com os dois pés e joelhos flexionados sob o quadril, depois recue para a distância de guarda e recomece.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Genou sauté",
+      "description": "1. Depuis la garde, avec de l’espace devant, avancez le pied arrière ou changez de pied pour préparer le saut.\n2. Poussez sur la jambe d’appui et projetez le genou opposé vers l’avant et le haut dans un bouclier, mains protégeant la tête.\n3. Retombez sur les deux pieds, genoux souples sous les hanches, puis reculez à distance de garde et recommencez.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Springendes Knie",
+      "description": "1. Mache aus der Deckung mit freiem Raum vor dir einen Schritt mit dem hinteren Fuß oder wechsle die Füße, um den Sprung vorzubereiten.\n2. Stoße dich vom Standbein ab und treibe das andere Knie nach vorn oben in ein gehaltenes Polster, während die Hände den Kopf schützen.\n3. Lande auf beiden Füßen mit weichen Knien unter der Hüfte, tritt dann auf Stellungsdistanz zurück und setze neu an.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Ginocchiata in salto",
+      "description": "1. Dalla guardia, con spazio libero davanti, avanza il piede posteriore o cambia i piedi per caricare il salto.\n2. Spingi con la gamba d’appoggio e porta il ginocchio opposto in avanti e in alto contro un colpitore, con le mani a protezione della testa.\n3. Atterra su entrambi i piedi con ginocchia morbide sotto le anche, poi torna alla distanza di guardia e ricomincia.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "飞膝",
+      "description": "1. 从防守位，在前方留出空间，后脚上步或换步以蓄力起跳。\n2. 支撑腿蹬地，对侧膝盖向前向上顶入护靶，双手护住头部。\n3. 双脚落地、膝盖微屈位于髋下，然后退回站姿距离重新准备。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "飛び膝蹴り",
+      "description": "1. 前方に空間を確保したガードから、後ろ足を踏み出すか足を入れ替えて跳躍の準備をします。\n2. 軸足で踏み切り、両手で頭を守りながら反対の膝を前上方へミットに突き上げます。\n3. 膝を柔らかく保ち腰の下で両足着地し、構えの距離へ下がって仕切り直します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "점프 무릎",
+      "description": "1. 앞에 공간이 있는 가드에서 뒷발을 내딛거나 발을 바꿔 도약을 준비합니다.\n2. 지지발로 뛰어오르며 반대쪽 무릎을 앞·위로 올려 잡아 준 패드를 차고, 손은 머리를 보호합니다.\n3. 무릎을 부드럽게 굽혀 골반 아래로 두 발 착지한 뒤 스탠스 거리로 물러나 다시 준비합니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เข่าลอย",
+      "description": "1. จากการ์ดที่มีพื้นที่ว่างด้านหน้า ก้าวเท้าหลังหรือสลับเท้าเพื่อเตรียมกระโดด\n2. ถีบตัวจากขายืนแล้วส่งเข่าอีกข้างไปข้างหน้าและขึ้นบนใส่เป้าที่ถือไว้ มือป้องกันศีรษะ\n3. ลงด้วยสองเท้า งอเข่าเล็กน้อยใต้สะโพก แล้วถอยกลับระยะท่ายืนและเริ่มใหม่",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Колено в прыжке",
+      "description": "1. Из защиты при свободном пространстве впереди шагните задней ногой или смените ноги, чтобы подготовить прыжок.\n2. Оттолкнитесь опорной ногой и направьте другое колено вперёд и вверх в удерживаемую лапу, руки защищают голову.\n3. Приземлитесь на обе ноги с мягкими коленями под тазом, затем отступите на дистанцию стойки и начните заново.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Коліно у стрибку",
+      "description": "1. Із захисту за вільного простору попереду ступіть задньою ногою або змініть ноги, щоб підготувати стрибок.\n2. Відштовхніться опорною ногою й спрямуйте інше коліно вперед і вгору в утримувану лапу, руки захищають голову.\n3. Приземліться на обидві ноги з м’якими колінами під тазом, потім відступіть на дистанцію стійки й почніть знову.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

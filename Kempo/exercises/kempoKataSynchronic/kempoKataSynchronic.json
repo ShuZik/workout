@@ -1,0 +1,90 @@
+{
+  "id": "68.3",
+  "key": "kempo_kata_synchronic",
+  "title": "Kempo Kata Synchronic",
+  "description": "1. Line up as a team of three in a triangle facing the same direction, bow together, and announce the kata.\n2. Perform the whole kata in unison, matching timing, turns and breathing cues set by the lead athlete.\n3. Finish together on the starting spots, hold, bow, and review where the timing drifted.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kempo Kata Synchronic",
+      "description": "1. Line up as a team of three in a triangle facing the same direction, bow together, and announce the kata.\n2. Perform the whole kata in unison, matching timing, turns and breathing cues set by the lead athlete.\n3. Finish together on the starting spots, hold, bow, and review where the timing drifted.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Kata sincronizado de kempo",
+      "description": "1. Formad un equipo de tres en triángulo mirando en la misma dirección, saludad juntos y anunciad el kata.\n2. Ejecutad el kata completo al unísono, igualando ritmo, giros y señales de respiración marcadas por el atleta guía.\n3. Terminad juntos en los puntos de inicio, mantened, saludad y revisad dónde se desajustó el ritmo.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Kata sincronizado de kempo",
+      "description": "1. Formem uma equipe de três em triângulo voltada para a mesma direção, cumprimentem juntos e anunciem o kata.\n2. Executem o kata completo em uníssono, igualando ritmo, giros e sinais de respiração dados pelo atleta guia.\n3. Terminem juntos nos pontos de partida, mantenham, cumprimentem e revisem onde o ritmo se desencontrou.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Kata synchronisé de kempo",
+      "description": "1. Placez-vous à trois en triangle face à la même direction, saluez ensemble et annoncez le kata.\n2. Exécutez le kata en entier à l’unisson, en accordant rythme, changements de direction et repères respiratoires donnés par l’athlète de tête.\n3. Terminez ensemble sur les points de départ, tenez, saluez et repérez où le rythme s’est décalé.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Kempo-Kata synchron",
+      "description": "1. Stellt euch als Dreierteam im Dreieck in dieselbe Richtung, verbeugt euch gemeinsam und nennt die Kata.\n2. Lauft die ganze Kata synchron und passt Timing, Wendungen und Atemzeichen dem führenden Athleten an.\n3. Endet gemeinsam auf den Startpunkten, haltet, verbeugt euch und prüft, wo das Timing auseinanderlief.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Kata sincronizzato di kempo",
+      "description": "1. Disponetevi in tre a triangolo rivolti nella stessa direzione, salutate insieme e annunciate il kata.\n2. Eseguite il kata completo all’unisono, allineando ritmo, cambi di direzione e segnali di respiro dati dall’atleta guida.\n3. Concludete insieme sui punti di partenza, mantenete, salutate e verificate dove il ritmo si è sfasato.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "拳法团体同步型",
+      "description": "1. 三人一组呈三角形面向同一方向站好，一起行礼并报出型名。\n2. 整齐一致地完整演练该型，节奏、转向和呼吸提示都跟随领队队员。\n3. 一起回到各自起点收势，保持片刻后行礼，并复查节奏不一致之处。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "拳法 団体シンクロ形",
+      "description": "1. 3人で同じ方向を向いて三角形に並び、そろって礼をして形名を告げます。\n2. 先頭の選手が示すタイミング、転換、呼吸の合図に合わせ、形全体をそろって演武します。\n3. そろって開始位置で終わり、姿勢を保って礼をし、タイミングがずれた箇所を確認します。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "켐포 단체 싱크로 카타",
+      "description": "1. 세 명이 같은 방향을 보고 삼각형으로 서서 함께 인사하고 카타 이름을 말합니다.\n2. 선두 선수가 정하는 타이밍, 방향 전환, 호흡 신호에 맞춰 카타 전체를 한 몸처럼 수행합니다.\n3. 함께 시작 지점에서 마치고 자세를 유지한 뒤 인사하며, 타이밍이 어긋난 곳을 점검합니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "กาตะทีมพร้อมเพรียงเคมโป",
+      "description": "1. ตั้งแถวทีมสามคนเป็นรูปสามเหลี่ยมหันทิศเดียวกัน ทำความเคารพพร้อมกันและประกาศชื่อกาตะ\n2. แสดงกาตะทั้งชุดพร้อมกัน ให้จังหวะ การหมุน และสัญญาณการหายใจตรงกับผู้นำทีม\n3. จบพร้อมกันที่จุดเริ่ม ค้างท่า ทำความเคารพ และทบทวนจุดที่จังหวะคลาดกัน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Синхронное ката кэмпо",
+      "description": "1. Постройтесь командой из трёх треугольником лицом в одну сторону, вместе поклонитесь и назовите ката.\n2. Выполните ката целиком синхронно, согласуя темп, повороты и дыхательные сигналы ведущего спортсмена.\n3. Закончите вместе на стартовых точках, задержитесь, поклонитесь и разберите, где темп разошёлся.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Синхронне ката кемпо",
+      "description": "1. Шикуйтеся командою з трьох трикутником обличчям в один бік, разом вклоніться й назвіть ката.\n2. Виконайте ката повністю синхронно, узгоджуючи темп, повороти й дихальні сигнали провідного спортсмена.\n3. Завершіть разом на стартових точках, затримайтеся, вклоніться й розберіть, де темп розійшовся.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

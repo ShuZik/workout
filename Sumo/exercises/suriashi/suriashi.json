@@ -1,0 +1,90 @@
+{
+  "id": "97.19",
+  "key": "sumo_suriashi",
+  "title": "Suriashi",
+  "description": "1. Squat into a low stance with the hips down, back upright, and elbows close with the palms forward as if pushing.\n2. Slide one foot forward along the floor without lifting it, then slide the other foot up while keeping the hips at the same height.\n3. Continue across the zone in a straight line, turn in the low stance, and slide back.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Suriashi",
+      "description": "1. Squat into a low stance with the hips down, back upright, and elbows close with the palms forward as if pushing.\n2. Slide one foot forward along the floor without lifting it, then slide the other foot up while keeping the hips at the same height.\n3. Continue across the zone in a straight line, turn in the low stance, and slide back.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Suriashi",
+      "description": "1. Agáchate en una postura baja con la cadera abajo, la espalda erguida y los codos cerca con las palmas al frente como empujando.\n2. Desliza un pie hacia delante por el suelo sin levantarlo y luego acerca el otro manteniendo la cadera a la misma altura.\n3. Sigue cruzando la zona en línea recta, gira en la postura baja y vuelve deslizando.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Suriashi",
+      "description": "1. Agache em base baixa com o quadril baixo, costas eretas e cotovelos próximos com as palmas à frente como se empurrasse.\n2. Deslize um pé para a frente pelo chão sem levantá-lo e traga o outro mantendo o quadril na mesma altura.\n3. Continue atravessando a área em linha reta, vire na base baixa e volte deslizando.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Suriashi",
+      "description": "1. Accroupissez-vous en position basse, hanches basses, dos droit, coudes serrés et paumes vers l’avant comme pour pousser.\n2. Glissez un pied vers l’avant au sol sans le lever, puis ramenez l’autre en gardant les hanches à la même hauteur.\n3. Traversez la zone en ligne droite, faites demi-tour en position basse et revenez en glissant.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Suriashi",
+      "description": "1. Gehe in eine tiefe Hocke, Hüfte unten, Rücken aufrecht, Ellbogen eng und Handflächen nach vorn wie zum Schieben.\n2. Schiebe einen Fuß über den Boden nach vorn, ohne ihn anzuheben, und ziehe den anderen nach, die Hüfte auf gleicher Höhe.\n3. Durchquere die Zone geradlinig, wende in der tiefen Haltung und gleite zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Suriashi",
+      "description": "1. Accovacciati in posizione bassa con anche giù, schiena eretta e gomiti vicini con i palmi avanti come per spingere.\n2. Fai scivolare un piede in avanti sul pavimento senza sollevarlo, poi avvicina l’altro mantenendo le anche alla stessa altezza.\n3. Attraversa la zona in linea retta, girati nella posizione bassa e torna scivolando.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "摺足",
+      "description": "1. 蹲成低位姿势，髋部下沉，背部挺直，肘部贴近，掌心向前如同推人。\n2. 一只脚贴地向前滑出不抬起，再滑上另一只脚，髋部高度保持不变。\n3. 沿直线滑过整个区域，在低位姿势中转身后滑回。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "摺り足",
+      "description": "1. 腰を落とした低い構えになり、背筋を伸ばし、脇を締めて押すように手のひらを前に向けます。\n2. 片足を床から離さずに前へすり出し、腰の高さを変えずにもう一方の足を引き寄せます。\n3. 区域をまっすぐ進み、低い構えのまま向きを変えて、すり足で戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "스리아시",
+      "description": "1. 엉덩이를 낮추고 등을 곧게 세운 낮은 자세에서 팔꿈치를 붙이고 미는 것처럼 손바닥을 앞으로 향합니다.\n2. 한 발을 들지 않고 바닥을 따라 앞으로 미끄러뜨린 뒤 엉덩이 높이를 유지하며 다른 발을 끌어옵니다.\n3. 구역을 일직선으로 가로지르고 낮은 자세로 돌아서 미끄럼 걸음으로 돌아옵니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "สึริอาชิ",
+      "description": "1. ย่อตัวลงท่าต่ำ สะโพกต่ำ หลังตรง ศอกชิด ฝ่ามือหันไปข้างหน้าเหมือนกำลังดัน\n2. ลากเท้าข้างหนึ่งไปข้างหน้าตามพื้นโดยไม่ยก แล้วลากอีกข้างตามมาโดยรักษาระดับสะโพกเท่าเดิม\n3. เคลื่อนข้ามพื้นที่เป็นเส้นตรง หมุนตัวในท่าต่ำ แล้วลากเท้ากลับ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Суриаси",
+      "description": "1. Опуститесь в низкую стойку: таз внизу, спина прямая, локти прижаты, ладони вперёд, как при толчке.\n2. Скользните одной стопой вперёд по полу, не отрывая её, затем подтяните другую, держа таз на той же высоте.\n3. Пройдите зону по прямой, развернитесь в низкой стойке и скользите обратно.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Суріасі",
+      "description": "1. Опустіться в низьку стійку: таз унизу, спина пряма, лікті притиснуті, долоні вперед, як під час поштовху.\n2. Ковзніть однією стопою вперед по підлозі, не відриваючи її, потім підтягніть іншу, тримаючи таз на тій самій висоті.\n3. Пройдіть зону по прямій, розверніться в низькій стійці й ковзайте назад.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

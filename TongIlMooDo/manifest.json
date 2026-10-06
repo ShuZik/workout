@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#67C4ED",
+    "colorType": "cyan",
+    "folder": "TongIlMooDo",
+    "id": "104",
+    "icon": "TongIlMooDo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Tong-il Moo Do",
+    "workoutType": "tongIlMooDo",
+    "translations": {
+      "en": {
+        "title": "Tong-il Moo Do"
+      },
+      "es": {
+        "title": "Tong-il Moo Do"
+      },
+      "pt": {
+        "title": "Tong-il Moo Do"
+      },
+      "fr": {
+        "title": "Tong-il Moo Do"
+      },
+      "de": {
+        "title": "Tong-il Moo Do"
+      },
+      "it": {
+        "title": "Tong-il Moo Do"
+      },
+      "zh-Hans": {
+        "title": "统一武道"
+      },
+      "ja": {
+        "title": "トンイルムド"
+      },
+      "ko": {
+        "title": "통일무도"
+      },
+      "th": {
+        "title": "ทงอิลมูโด"
+      },
+      "ru": {
+        "title": "Тонгиль мудо"
+      },
+      "uk": {
+        "title": "Тонгіль мудо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "TongIlMooDo/exercises/tongIlMooDo/Icon.png",
+      "json": "TongIlMooDo/exercises/tongIlMooDo/tongIlMooDo.json"
+    },
+    {
+      "icon": "TongIlMooDo/exercises/oneStepSparringFormation/Icon.png",
+      "json": "TongIlMooDo/exercises/oneStepSparringFormation/oneStepSparringFormation.json"
+    },
+    {
+      "icon": "TongIlMooDo/exercises/oneStepSparringWithThrowing/Icon.png",
+      "json": "TongIlMooDo/exercises/oneStepSparringWithThrowing/oneStepSparringWithThrowing.json"
+    },
+    {
+      "icon": "TongIlMooDo/exercises/oneStepSparringWithThrowingAndLocking/Icon.png",
+      "json": "TongIlMooDo/exercises/oneStepSparringWithThrowingAndLocking/oneStepSparringWithThrowingAndLocking.json"
+    },
+    {
+      "icon": "TongIlMooDo/exercises/freeStyleMultiple/Icon.png",
+      "json": "TongIlMooDo/exercises/freeStyleMultiple/freeStyleMultiple.json"
+    }
+  ]
+}

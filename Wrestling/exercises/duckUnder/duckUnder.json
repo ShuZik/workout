@@ -1,0 +1,90 @@
+{
+  "id": "7.6",
+  "key": "wrestling_duck_under",
+  "title": "Duck Under",
+  "description": "1. From a collar tie, lift the partner's arm at the elbow with your inside hand.\n2. Change level and slip your head under the lifted arm while stepping to the partner's side.\n3. Come up behind the partner, lock the hands around the waist, and hold the position before resetting.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Duck Under",
+      "description": "1. From a collar tie, lift the partner's arm at the elbow with your inside hand.\n2. Change level and slip your head under the lifted arm while stepping to the partner's side.\n3. Come up behind the partner, lock the hands around the waist, and hold the position before resetting.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Duck under",
+      "description": "1. Desde un agarre de nuca, levanta el brazo del compañero por el codo con tu mano interior.\n2. Cambia de nivel y pasa la cabeza bajo el brazo levantado mientras das un paso al costado del compañero.\n3. Sube detrás del compañero, cierra las manos alrededor de su cintura y mantén la posición antes de reiniciar.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Duck under",
+      "description": "1. A partir de uma pegada na nuca, levante o braço do parceiro pelo cotovelo com a mão de dentro.\n2. Mude de nível e passe a cabeça sob o braço levantado enquanto dá um passo para o lado do parceiro.\n3. Suba atrás do parceiro, trave as mãos ao redor da cintura dele e mantenha a posição antes de recomeçar.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Passage sous le bras",
+      "description": "1. Depuis une prise de nuque, soulevez le bras du partenaire au coude avec votre main intérieure.\n2. Changez de niveau et glissez la tête sous le bras levé en faisant un pas sur le côté du partenaire.\n3. Remontez derrière le partenaire, verrouillez les mains autour de sa taille et tenez la position avant de recommencer.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Unterducken",
+      "description": "1. Hebe aus dem Nackengriff den Arm des Partners am Ellbogen mit deiner inneren Hand an.\n2. Wechsle die Höhe und tauche mit dem Kopf unter dem angehobenen Arm durch, während du zur Seite des Partners trittst.\n3. Komm hinter dem Partner hoch, schließe die Hände um seine Taille und halte die Position, bevor ihr neu beginnt.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Duck under",
+      "description": "1. Da una presa al collo, solleva il braccio del partner dal gomito con la mano interna.\n2. Cambia livello e passa con la testa sotto il braccio sollevato facendo un passo al fianco del partner.\n3. Risali dietro il partner, chiudi le mani intorno alla vita e mantieni la posizione prima di ripartire.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "钻臂绕后",
+      "description": "1. 从颈部抓握开始，用内侧手托起同伴手肘。\n2. 降低重心，头从抬起的手臂下钻过，同时上步到同伴侧面。\n3. 起身到同伴身后，双手扣住其腰部，保持姿势后重新开始。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ダックアンダー",
+      "description": "1. カラータイの状態から、内側の手で相手の腕を肘から持ち上げます。\n2. 姿勢を低くして持ち上げた腕の下に頭をくぐらせ、相手の横へ踏み込みます。\n3. 相手の背後に立ち上がり、腰の周りで手を組んで姿勢を保ってから再開します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "덕 언더",
+      "description": "1. 칼라 타이 상태에서 안쪽 손으로 파트너의 팔꿈치를 들어 올립니다.\n2. 자세를 낮추고 들어 올린 팔 아래로 머리를 넣으며 파트너 옆으로 발을 디딥니다.\n3. 파트너 뒤로 일어나 허리를 양손으로 잠그고 자세를 유지한 뒤 다시 시작합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "มุดใต้แขน",
+      "description": "1. จากการจับคอ ใช้มือด้านในยกแขนของคู่ฝึกขึ้นที่ข้อศอก\n2. ลดระดับตัวแล้วมุดศีรษะใต้แขนที่ยกขึ้น พร้อมก้าวไปด้านข้างของคู่ฝึก\n3. ลุกขึ้นด้านหลังคู่ฝึก ล็อกมือรอบเอว และค้างท่าไว้ก่อนเริ่มใหม่",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Нырок под руку",
+      "description": "1. Из захвата за шею поднимите руку партнёра за локоть своей внутренней рукой.\n2. Опуститесь и нырните головой под поднятую руку, шагнув в сторону партнёра.\n3. Выйдите за спину партнёра, сцепите руки вокруг его пояса и удержите положение, затем начните заново.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Пірнання під руку",
+      "description": "1. Із захвату за шию підніміть руку партнера за лікоть своєю внутрішньою рукою.\n2. Опустіться й пірніть головою під підняту руку, ступивши вбік від партнера.\n3. Вийдіть за спину партнера, зчепіть руки навколо його пояса й утримайте положення, потім почніть знову.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

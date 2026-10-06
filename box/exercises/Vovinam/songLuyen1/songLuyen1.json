@@ -1,0 +1,87 @@
+{
+  "id": "107.9",
+  "key": "vovinam_song_luyen_1",
+  "title": "Song Luyen 1",
+  "description": "1. Face your partner at the agreed distance, salute, and confirm the attacker and defender roles for Song Luyen 1.\n2. Perform the set sequence of basic punch and kick attacks with matching blocks, evasions and counters at controlled speed and light contact.\n3. Stop each finish under control, release promptly, salute again at the end, and change roles when practising.",
+  "colorType": "blue",
+  "workoutType": "vovinam",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Song Luyen 1",
+      "description": "1. Face your partner at the agreed distance, salute, and confirm the attacker and defender roles for Song Luyen 1.\n2. Perform the set sequence of basic punch and kick attacks with matching blocks, evasions and counters at controlled speed and light contact.\n3. Stop each finish under control, release promptly, salute again at the end, and change roles when practising.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Song Luyen 1",
+      "description": "1. Colócate frente a tu compañero a la distancia acordada, saluda y confirma los papeles de atacante y defensor en Song Luyen 1.\n2. Realizad la secuencia fija de ataques básicos de puño y pierna con sus bloqueos, esquivas y contraataques a velocidad controlada y con contacto ligero.\n3. Detén cada final con control, suelta enseguida, vuelve a saludar al terminar e intercambiad los papeles durante la práctica.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Song Luyen 1",
+      "description": "1. Fique de frente para o parceiro na distância combinada, cumprimente e confirme os papéis de atacante e defensor em Song Luyen 1.\n2. Executem a sequência fixa de ataques básicos de soco e chute com os bloqueios, esquivas e contra-ataques correspondentes, em velocidade controlada e contato leve.\n3. Pare cada finalização com controle, solte prontamente, cumprimente novamente no fim e troquem de papéis durante o treino.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Song Luyen 1",
+      "description": "1. Faites face à votre partenaire à la distance convenue, saluez et confirmez les rôles d’attaquant et de défenseur pour Song Luyen 1.\n2. Exécutez la séquence fixe d’attaques de base des poings et des pieds avec les blocages, esquives et ripostes correspondants, à vitesse contrôlée et contact léger.\n3. Arrêtez chaque finale sous contrôle, relâchez aussitôt, saluez de nouveau à la fin et inversez les rôles à l’entraînement.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Song Luyen 1",
+      "description": "1. Stelle dich deinem Partner im vereinbarten Abstand gegenüber, grüße und kläre die Rollen von Angreifer und Verteidiger für Song Luyen 1.\n2. Führt die festgelegte Folge einfacher Faust- und Trittangriffe mit passenden Abwehren, Ausweichbewegungen und Kontern bei kontrolliertem Tempo und leichtem Kontakt aus.\n3. Stoppe jedes Finish kontrolliert, löse sofort, grüße am Ende erneut und tauscht beim Üben die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Song Luyen 1",
+      "description": "1. Mettiti di fronte al partner alla distanza concordata, saluta e conferma i ruoli di attaccante e difensore in Song Luyen 1.\n2. Eseguite la sequenza fissa di attacchi base di pugno e calcio con le relative parate, schivate e contrattacchi a velocità controllata e contatto leggero.\n3. Ferma ogni conclusione con controllo, rilascia subito, saluta di nuovo alla fine e scambiatevi i ruoli durante la pratica.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "双练一",
+      "description": "1. 与搭档相对站在约定距离，行礼，并确认双练一中进攻方与防守方的角色。\n2. 以可控速度和轻接触完成固定顺序的基本拳腿进攻，以及相应的格挡、闪避和反击。\n3. 每个收尾动作都要控制住并及时松开，结束时再次行礼，练习时互换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "Song Luyen 1",
+      "description": "1. 決めた間合いでパートナーと向き合って礼をし、Song Luyen 1での攻撃側と防御側の役割を確認します。\n2. 決められた順序の基本的な突きと蹴りの攻撃に、対応する受け、かわし、反撃を、コントロールした速さと軽い接触で行います。\n3. 各フィニッシュはコントロールして止め、すぐに離し、最後に再び礼をして、練習では役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "Song Luyen 1",
+      "description": "1. 정한 거리에서 파트너와 마주 서서 인사하고 Song Luyen 1에서 공격자와 방어자 역할을 확인합니다.\n2. 정해진 순서의 기본 지르기와 차기 공격에 맞는 막기, 피하기, 반격을 통제된 속도와 가벼운 접촉으로 수행합니다.\n3. 각 마무리는 통제된 상태로 멈추고 즉시 풀어 주며, 끝에 다시 인사하고 연습할 때 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "Song Luyen 1",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ฝึกในระยะที่ตกลงไว้ ทำความเคารพ และยืนยันบทบาทฝ่ายรุกและฝ่ายรับใน Song Luyen 1\n2. ทำลำดับที่กำหนดของการโจมตีด้วยหมัดและเท้าพื้นฐาน พร้อมก���รปัด การหลบ และการตอบโต้ที่สอดคล้อง ด้วยความเร็วที่ควบคุมได้และการสัมผัสเบา ๆ\n3. หยุดท่าจบแต่ละครั้งอย่างควบคุมได้ ปล่อยทันที ทำความเคารพอีกครั้งเมื่อจบ และสลับบทบาทระหว่างฝึก",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Song Luyen 1",
+      "description": "1. Встаньте лицом к партнёру на оговорённой дистанции, поприветствуйте его и уточните роли атакующего и защищающегося в форме Song Luyen 1.\n2. Выполняйте заданную последовательность базовых атак руками и ногами с соответствующими блоками, уходами и контратаками в контролируемом темпе и с лёгким контактом.\n3. Останавливайте каждое завершение под контролем, сразу отпускайте, в конце снова поприветствуйте партнёра и меняйтесь ролями при отработке.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Song Luyen 1",
+      "description": "1. Станьте обличчям до партнера на домовленій дистанції, привітайтеся й уточніть ролі того, хто атакує, і того, хто захищається, у формі Song Luyen 1.\n2. Виконуйте задану послідовність базових атак руками й ногами з відповідними блоками, ухилами та контратаками в контрольованому темпі й з легким контактом.\n3. Зупиняйте кожне завершення під контролем, одразу відпускайте, наприкінці знову привітайтеся й міняйтеся ролями під час відпрацювання.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

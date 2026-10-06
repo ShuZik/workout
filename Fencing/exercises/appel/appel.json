@@ -1,0 +1,90 @@
+{
+  "id": "54.2",
+  "key": "fencing_appel",
+  "title": "Appel",
+  "description": "1. Stand en garde with the weight centered and the weapon arm relaxed.\n2. Lift the front foot slightly and stamp it flat on the floor to make a sharp sound without shifting the rear foot or leaning forward.\n3. Use the stamp to signal or prepare an attack, then continue with an advance or lunge or return to a still guard.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Footwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Appel",
+      "description": "1. Stand en garde with the weight centered and the weapon arm relaxed.\n2. Lift the front foot slightly and stamp it flat on the floor to make a sharp sound without shifting the rear foot or leaning forward.\n3. Use the stamp to signal or prepare an attack, then continue with an advance or lunge or return to a still guard.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Appel",
+      "description": "1. Colócate en guardia con el peso centrado y el brazo armado relajado.\n2. Levanta ligeramente el pie delantero y golpea el suelo con la planta para hacer un sonido seco, sin mover el pie trasero ni inclinarte.\n3. Usa el golpe para señalar o preparar un ataque y continúa con un avance o un fondo, o vuelve a una guardia quieta.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Appel",
+      "description": "1. Fique em guarda com o peso centrado e o braço armado relaxado.\n2. Levante levemente o pé da frente e bata-o chapado no chão para um som seco, sem mover o pé de trás nem inclinar o tronco.\n3. Use a batida para sinalizar ou preparar um ataque e continue com avanço ou afundo, ou volte a uma guarda parada.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Appel",
+      "description": "1. Tenez-vous en garde, poids centré et bras armé détendu.\n2. Levez légèrement le pied avant et frappez-le à plat au sol pour un son sec, sans déplacer le pied arrière ni vous pencher.\n3. Utilisez l’appel pour signaler ou préparer une attaque, puis enchaînez une marche ou une fente, ou revenez en garde immobile.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Appel",
+      "description": "1. Stehe in Fechtstellung mit zentriertem Gewicht und lockerem Waffenarm.\n2. Hebe den vorderen Fuß leicht an und setze ihn flach mit einem deutlichen Stampfen auf, ohne den hinteren Fuß zu bewegen oder dich vorzulehnen.\n3. Nutze das Stampfen als Signal oder Vorbereitung eines Angriffs und folge mit Schritt oder Ausfall oder kehre in eine ruhige Stellung zurück.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Appel",
+      "description": "1. Stai in guardia con il peso centrato e il braccio armato rilassato.\n2. Solleva leggermente il piede anteriore e battilo piatto a terra con un suono secco, senza muovere il piede posteriore né sbilanciarti avanti.\n3. Usa la battuta di piede per segnalare o preparare un attacco, poi prosegui con un passo avanti o un affondo, oppure torna in guardia ferma.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "跺脚（Appel）",
+      "description": "1. 成实战姿势，重心居中，持剑臂放松。\n2. 前脚稍抬起，以全脚掌拍地发出清脆声响，后脚不动，身体不前倾。\n3. 用跺脚发出信号或准备进攻，随后前进或弓步，或回到静止的实战姿势。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "アペル",
+      "description": "1. 重心を中央に置き、剣腕の力を抜いてアンガルドで立ちます。\n2. 前足を少し上げ、足裏全体で床を鋭く踏み鳴らします。後ろ足は動かさず、前に傾きません。\n3. 踏み込みを合図や攻撃の準備に使い、マルシェやファントへ続けるか、静止したアンガルドに戻ります。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "아펠",
+      "description": "1. 체중을 중앙에 두고 칼 든 팔을 편하게 한 앙가르드로 섭니다.\n2. 앞발을 살짝 들었다가 발바닥 전체로 바닥을 쳐 날카로운 소리를 내되, 뒷발을 움직이거나 앞으로 기울지 않습니다.\n3. 발 구르기로 공격을 알리거나 준비한 뒤 전진이나 런지로 이어 가거나 정지한 앙가르드로 돌아옵니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "อัปเปล",
+      "description": "1. ยืนท่าอองการ์ด น้ำหนักอยู่ตรงกลาง แขนถือดาบผ่อนคลาย\n2. ยกเท้าหน้าขึ้นเล็กน้อยแล้วกระทืบลงพื้นทั้งฝ่าเท้าให้เกิดเสียงชัด โดยไม่ขยับเท้าหลังหรือโน้มตัวไปข้างหน้า\n3. ใช้การกระทืบเท้าเป็นสัญญาณหรือเตรียมการโจมตี แล้วต่อด้วยการก้าวหรือลันจ์ หรือกลับสู่อองการ์ดนิ่ง",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Аппель",
+      "description": "1. Встаньте в боевую стойку, вес по центру, вооружённая рука расслаблена.\n2. Слегка приподнимите переднюю стопу и резко притопните всей подошвой, не сдвигая заднюю ногу и не наклоняясь вперёд.\n3. Используйте притоп как сигнал или подготовку атаки, затем продолжите шагом или выпадом либо вернитесь в неподвижную стойку.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Апель",
+      "description": "1. Станьте в бойову стійку, вага по центру, озброєна рука розслаблена.\n2. Злегка підніміть передню стопу й різко притупніть усією підошвою, не зсуваючи задню ногу й не нахиляючись уперед.\n3. Використайте притуп як сигнал або підготовку атаки, потім продовжте кроком чи випадом або поверніться в нерухому стійку.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

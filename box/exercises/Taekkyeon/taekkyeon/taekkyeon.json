@@ -1,0 +1,87 @@
+{
+  "id": "99.1",
+  "key": "taekkyeon_main",
+  "title": "Taekkyeon",
+  "description": "1. Stand relaxed with knees soft and hands loose in front of the body, ready to step in the pum pattern.\n2. Flow between pum-balgi stepping, arm swings, light push kicks, and trips with a continuous bouncing rhythm.\n3. Return to the centered stepping rhythm after every action and keep kicks controlled and contact light.",
+  "colorType": "green",
+  "workoutType": "taekkyeon",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taekkyeon",
+      "description": "1. Stand relaxed with knees soft and hands loose in front of the body, ready to step in the pum pattern.\n2. Flow between pum-balgi stepping, arm swings, light push kicks, and trips with a continuous bouncing rhythm.\n3. Return to the centered stepping rhythm after every action and keep kicks controlled and contact light.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Taekkyeon",
+      "description": "1. Ponte relajado con las rodillas blandas y las manos sueltas delante del cuerpo, listo para pisar en el patrón pum.\n2. Fluye entre el paso pum-balgi, balanceos de brazos, patadas de empuje ligeras y zancadillas con un ritmo continuo y elástico.\n3. Vuelve al ritmo de paso centrado tras cada acción y mantén las patadas controladas y el contacto ligero.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Taekkyeon",
+      "description": "1. Fique relaxado com joelhos soltos e mãos leves à frente do corpo, pronto para pisar no padrão pum.\n2. Flua entre o passo pum-balgi, balanços de braços, chutes de empurrão leves e rasteiras com ritmo contínuo e elástico.\n3. Volte ao ritmo de passos centrado após cada ação e mantenha os chutes controlados e o contato leve.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Taekkyeon",
+      "description": "1. Tenez-vous détendu, genoux souples, mains libres devant le corps, prêt à marcher selon le motif pum.\n2. Enchaînez le pas pum-balgi, les balancements de bras, de légers coups de pied poussés et des crochets de jambe sur un rythme souple et continu.\n3. Revenez au rythme de pas centré après chaque action, coups de pied contrôlés et contact léger.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Taekkyeon",
+      "description": "1. Locker stehen, Knie weich, Hände entspannt vor dem Körper, bereit für die Pum-Schrittfigur.\n2. Fließend zwischen Pum-Balgi-Schritten, Armschwüngen, leichten Stoßtritten und Fußfegern in einem federnden Rhythmus wechseln.\n3. Nach jeder Aktion zum zentrierten Schrittrhythmus zurückkehren, Tritte kontrolliert und Kontakt leicht halten.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Taekkyeon",
+      "description": "1. Stai rilassato con ginocchia morbide e mani sciolte davanti al corpo, pronto a muoverti nello schema pum.\n2. Passa fluidamente tra il passo pum-balgi, oscillazioni delle braccia, calci di spinta leggeri e sgambetti con ritmo elastico continuo.\n3. Torna al ritmo di passo centrato dopo ogni azione e mantieni i calci controllati e il contatto leggero.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "跆跟",
+      "description": "1. 放松站立，膝盖微屈，双手轻松置于身前，准备踩品字步。\n2. 以连续弹性的节奏在品步、挥臂、轻推踢和绊腿之间流畅切换。\n3. 每个动作后回到居中的步伐节奏，踢腿保持控制，接触要轻。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "テッキョン",
+      "description": "1. 膝を柔らかくし、手を体の前で楽に構えてリラックスして立ち、品（プム）の歩法に備えます。\n2. プムバルギ、腕の振り、軽い押し蹴り、足掛けを、弾むような連続したリズムでつなぎます。\n3. 各動作の後は中心の歩法リズムに戻り、蹴りは制御し接触は軽く保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "택견",
+      "description": "1. 무릎을 부드럽게 하고 손을 몸 앞에 가볍게 둔 채 편하게 서서 품밟기를 준비합니다.\n2. 품밟기, 활갯짓, 가벼운 밀어차기, 걸이 기술을 굼실거리는 연속 리듬으로 이어 갑니다.\n3. 동작마다 중심 품밟기 리듬으로 돌아오고 발질은 통제하며 접촉은 가볍게 합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "แทคย็อน",
+      "description": "1. ยืนผ่อนคลาย เข่างอเล็กน้อย มือหลวมๆ อยู่หน้าลำตัว พร้อมก้าวตามแบบพุม\n2. เคลื่อนไหวต่อเนื่องระหว่างการก้าวพุมบัลกี การแกว่งแขน การเตะดันเบาๆ และการขัดขา ด้วยจังหวะเด้งที่ต่อเนื่อง\n3. กลับสู่จังหวะก้าวกลางหลังทุกท่า ควบคุมการเตะและสัมผัสเบาๆ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Тхэккён",
+      "description": "1. Встаньте расслабленно, колени мягкие, руки свободно перед корпусом, готовность к шагам пум.\n2. Плавно переходите между шагами пум-бальги, махами рук, лёгкими толчковыми ударами ногой и подсечками в непрерывном пружинящем ритме.\n3. После каждого действия возвращайтесь в центральный ритм шагов, удары ногами контролируйте, контакт лёгкий.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Теккьон",
+      "description": "1. Станьте розслаблено, коліна м’які, руки вільно перед корпусом, готовність до кроків пум.\n2. Плавно переходьте між кроками пум-бальгі, махами рук, легкими поштовховими ударами ногою й підсічками в безперервному пружному ритмі.\n3. Після кожної дії повертайтеся до центрального ритму кроків, удари ногами контролюйте, контакт легкий.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

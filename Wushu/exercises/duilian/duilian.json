@@ -1,0 +1,90 @@
+{
+  "id": "109.13",
+  "key": "wushu_duilian",
+  "title": "Duilian",
+  "description": "1. Two or three partners salute and face each other at the agreed distance, holding training weapons only if the set uses them.\n2. Perform the pre-arranged attack-and-defence sequence at the agreed speed, each partner timing the block, evasion, or counter to the other's choreographed attack without full force.\n3. Stop at once if timing or distance breaks down, reset together, and finish with a closing salute.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Duilian",
+      "description": "1. Two or three partners salute and face each other at the agreed distance, holding training weapons only if the set uses them.\n2. Perform the pre-arranged attack-and-defence sequence at the agreed speed, each partner timing the block, evasion, or counter to the other's choreographed attack without full force.\n3. Stop at once if timing or distance breaks down, reset together, and finish with a closing salute.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Duilian",
+      "description": "1. Dos o tres compañeros se saludan y se colocan frente a frente a la distancia acordada, con armas de entrenamiento solo si la serie las usa.\n2. Ejecutad la secuencia preestablecida de ataque y defensa a la velocidad acordada; cada compañero sincroniza su bloqueo, esquiva o contraataque con el ataque coreografiado del otro sin fuerza plena.\n3. Deteneos de inmediato si se pierde el ritmo o la distancia, reiniciad juntos y terminad con un saludo de cierre.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Duilian",
+      "description": "1. Dois ou três parceiros se cumprimentam e ficam frente a frente na distância combinada, com armas de treino apenas se a série as usar.\n2. Executem a sequência combinada de ataque e defesa na velocidade acordada; cada parceiro sincroniza o bloqueio, esquiva ou contra-ataque com o ataque coreografado do outro sem força total.\n3. Parem imediatamente se o tempo ou a distância se perderem, recomecem juntos e terminem com uma saudação final.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Duilian",
+      "description": "1. Deux ou trois partenaires se saluent et se font face à la distance convenue, avec des armes d’entraînement seulement si l’enchaînement en prévoit.\n2. Exécutez la séquence d’attaque et de défense préétablie à la vitesse convenue, chaque partenaire synchronisant son blocage, son esquive ou sa riposte avec l’attaque chorégraphiée de l’autre, sans pleine force.\n3. Arrêtez-vous immédiatement si le rythme ou la distance se perd, recommencez ensemble et terminez par un salut final.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Duilian",
+      "description": "1. Zwei oder drei Partner grüßen sich und stehen sich im vereinbarten Abstand gegenüber, mit Trainingswaffen nur, wenn die Form sie vorsieht.\n2. Führt die abgesprochene Angriffs- und Abwehrfolge im vereinbarten Tempo aus; jeder Partner stimmt Abwehr, Ausweichen oder Konter zeitlich auf den choreografierten Angriff des anderen ab, ohne volle Kraft.\n3. Stoppt sofort, wenn Timing oder Distanz verloren gehen, setzt gemeinsam neu an und schließt mit einem Abschlussgruß.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Duilian",
+      "description": "1. Due o tre partner si salutano e si pongono uno di fronte all’altro alla distanza concordata, con armi da allenamento solo se la sequenza le prevede.\n2. Eseguite la sequenza prestabilita di attacco e difesa alla velocità concordata; ogni partner sincronizza parata, schivata o contrattacco con l’attacco coreografato dell’altro senza piena forza.\n3. Fermatevi subito se si perdono tempo o distanza, ripartite insieme e concludete con un saluto finale.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "对练",
+      "description": "1. 两人或三人行礼后按约定距离相对站立，套路需要时才持训练器械。\n2. 按约定速度演练预先编排的攻防动作，每人根据对方编排好的进攻把握格挡、闪躲或反击的时机，不用全力。\n3. 一旦节奏或距离失控立即停止，共同重新开始，最后行礼结束。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "対練",
+      "description": "1. 二人または三人が礼をして決めた間合いで向かい合い、套路で使う場合のみ練習用武器を持ちます。\n2. 決めた速さで約束された攻防の流れを行い、各自が相手の振り付けられた攻撃に合わせて受け・かわし・反撃のタイミングを取り、全力は使いません。\n3. タイミングや間合いが崩れたらすぐ止めて���緒にやり直し、最後に礼で終えます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "대련 (둬롄)",
+      "description": "1. 두세 명의 파트너가 인사한 뒤 약속한 거리에서 마주 서며, 투로에 필요할 때만 훈련용 무기를 듭니다.\n2. 약속한 속도로 미리 정한 공격과 방어 순서를 수행하며, 각자 상대의 안무된 공격에 맞춰 막기, 피하기, 반격의 타이밍을 잡고 전력을 쓰지 않습니다.\n3. 타이���이나 거리가 무너지면 즉시 멈추고 함께 다시 시작한 뒤 마무리 인사로 끝냅니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ตุ้ยเลี่ยน (ชุดฝึกคู่)",
+      "description": "1. คู่ฝึกสองหรือสามคนทำความเคารพแล้วยืนหันหน้าเข้าหากันในระยะที่ตกลงไว้ ถืออาวุธฝึกเฉพาะเมื่อชุดนั้นใช้\n2. แสดงลำดับรุกรับที่ซ้อมไว้ด้วยความเร็วที่ตกลงกัน แต่ละคนจับจังหวะปัด หลบ หรือโต้กลับให้ตรงกับการโจมตีที่ออกแบบไว้ของอีกฝ่าย โดยไม่ใช้แรงเต็มที่\n3. หยุดทันทีหากจังหวะหรือระยะผิดพลาด เริ่มใหม่พร้อมกัน แล้วจบด้วยการคารวะ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Дуйлянь",
+      "description": "1. Двое или трое партнёров обмениваются приветствием и встают лицом друг к другу на оговорённой дистанции, с тренировочным оружием, только если комплекс его предусматривает.\n2. Выполните заранее поставленную последовательность атак и защит в оговорённом темпе: каждый партнёр согласует свой блок, уход или контратаку с хореографической атакой другого, без полной силы.\n3. Сразу остановитесь при сбое ритма или дистанции, начните заново вместе и завершите заключительным приветствием.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Дуйлянь",
+      "description": "1. Двоє або троє партнерів обмінюються привітанням і стають обличчям одне до одного на домовленій дистанції, з тренувальною зброєю, лише якщо комплекс її передбачає.\n2. Виконайте заздалегідь поставлену послідовність атак і захистів у домовленому темпі: кожен партнер узгоджує свій блок, ухід або контратаку з хореографічною атакою іншого, без повної сили.\n3. Одразу зупиніться в разі збою ритму чи дистанції, почніть знову разом і завершіть заключним привітанням.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "9.8",
+  "key": "wrist_stretching",
+  "title": "Hand Open-Close",
+  "description": "1. Extend both hands in front with fingers spread wide.\n2. Close the fingers into relaxed fists without squeezing the thumbs inside.\n3. Open the hands fully again and repeat while keeping the wrists straight.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.8,
+    "vigorous": 3.8,
+    "lightCode": "02101",
+    "moderateCode": "02024",
+    "vigorousCode": "02022"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hand Open-Close",
+      "description": "1. Extend both hands in front with fingers spread wide.\n2. Close the fingers into relaxed fists without squeezing the thumbs inside.\n3. Open the hands fully again and repeat while keeping the wrists straight.",
+      "sectionTitle": "Joint Mobility"
+    },
+    "es": {
+      "title": "Abrir y cerrar las manos",
+      "description": "1. Extiende ambas manos al frente con los dedos bien separados.\n2. Cierra los dedos formando puños relajados, sin encerrar los pulgares dentro.\n3. Abre las manos por completo y repite manteniendo las muñecas rectas.",
+      "sectionTitle": "Movilidad articular"
+    },
+    "pt": {
+      "title": "Abrir e fechar as mãos",
+      "description": "1. Estenda as duas mãos à frente com os dedos bem abertos.\n2. Feche os dedos em punhos relaxados, sem prender os polegares por dentro.\n3. Abra completamente as mãos novamente e repita mantendo os punhos retos.",
+      "sectionTitle": "Mobilidade articular"
+    },
+    "fr": {
+      "title": "Ouverture et fermeture des mains",
+      "description": "1. Tendez les deux mains devant vous, les doigts bien écartés.\n2. Fermez les doigts en poings détendus sans enfermer les pouces à l’intérieur.\n3. Ouvrez de nouveau complètement les mains et répétez en gardant les poignets droits.",
+      "sectionTitle": "Mobilité articulaire"
+    },
+    "de": {
+      "title": "Hände öffnen und schließen",
+      "description": "1. Strecke beide Hände mit weit gespreizten Fingern nach vorne.\n2. Schließe die Finger zu lockeren Fäusten, ohne die Daumen innen einzuklemmen.\n3. Öffne die Hände wieder vollständig und wiederhole dies bei geraden Handgelenken.",
+      "sectionTitle": "Gelenkbeweglichkeit"
+    },
+    "it": {
+      "title": "Aprire e chiudere le mani",
+      "description": "1. Estendi entrambe le mani davanti a te con le dita ben divaricate.\n2. Chiudi le dita formando pugni rilassati senza stringere i pollici all’interno.\n3. Apri di nuovo completamente le mani e ripeti mantenendo i polsi dritti.",
+      "sectionTitle": "Mobilità articolare"
+    },
+    "zh-Hans": {
+      "title": "手掌开合",
+      "description": "1. 双手向前伸出，手指充分张开。\n2. 手指合拢成放松的拳头，不要将拇指握在拳内。\n3. 再次完全张开双手，重复动作，保持手腕伸直。",
+      "sectionTitle": "关节活动"
+    },
+    "ja": {
+      "title": "手の開閉",
+      "description": "1. 両手を前に伸ばし、指を大きく広げます。\n2. 親指を中に握り込まず、指を閉じて軽く拳を作ります。\n3. 手を再び完全に開き、手首をまっすぐ保って繰り返します。",
+      "sectionTitle": "関節の可動性"
+    },
+    "ko": {
+      "title": "손 펴고 쥐기",
+      "description": "1. 양손을 앞으로 뻗고 손가락을 넓게 벌립니다.\n2. 엄지손가락을 안에 넣어 누르지 않고 손가락을 접어 편안하게 주먹을 쥡니다.\n3. 손을 다시 완전히 펴고 손목을 곧게 유지하며 반복합니다.",
+      "sectionTitle": "관절 가동성"
+    },
+    "th": {
+      "title": "แบมือและกำมือ",
+      "description": "1. เหยียดมือทั้งสองไปด้านหน้าและกางนิ้วให้กว้าง\n2. หุบนิ้วเป็นกำปั้นหลวม ๆ โดยไม่กำทับนิ้วหัวแม่มือไว้ด้านใน\n3. แบมือให้เต็มที่อีกครั้งและทำซ้ำโดยรักษาข้อมือให้ตรง",
+      "sectionTitle": "การเคลื่อนไหวข้อต่อ"
+    },
+    "ru": {
+      "title": "Сжимание и разжимание кистей",
+      "description": "1. Вытяните обе кисти перед собой и широко разведите пальцы.\n2. Сложите пальцы в расслабленные кулаки, не зажимая большие пальцы внутри.\n3. Снова полностью раскройте кисти и повторяйте, сохраняя запястья прямыми.",
+      "sectionTitle": "Подвижность суставов"
+    },
+    "uk": {
+      "title": "Стискання та розтискання кистей",
+      "description": "1. Витягніть обидві кисті перед собою та широко розведіть пальці.\n2. Складіть пальці в розслаблені кулаки, не затискаючи великі пальці всередині.\n3. Знову повністю розкрийте кисті та повторюйте, зберігаючи зап’ястки прямими.",
+      "sectionTitle": "Рухливість суглобів"
+    }
+  }
+}

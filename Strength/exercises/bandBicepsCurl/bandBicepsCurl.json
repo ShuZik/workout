@@ -1,0 +1,90 @@
+{
+  "id": "13.10",
+  "key": "resistance_band_band_biceps_curl",
+  "title": "Band Biceps Curl",
+  "description": "1. Stand on the band with feet hip-width apart and hold the ends with palms forward and elbows beside the ribs.\n2. Bend the elbows to bring the hands toward the shoulders while the upper arms remain still.\n3. Lower to nearly straight elbows under control without letting the band pull the wrists backward.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Resistance Bands",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Band Biceps Curl",
+      "description": "1. Stand on the band with feet hip-width apart and hold the ends with palms forward and elbows beside the ribs.\n2. Bend the elbows to bring the hands toward the shoulders while the upper arms remain still.\n3. Lower to nearly straight elbows under control without letting the band pull the wrists backward.",
+      "sectionTitle": "Resistance Bands"
+    },
+    "es": {
+      "title": "Curl de bíceps con banda",
+      "description": "1. Pisa la banda con los pies al ancho de las caderas y sujeta los extremos con las palmas hacia delante y los codos junto a las costillas.\n2. Flexiona los codos para acercar las manos a los hombros manteniendo inmóviles los brazos por encima del codo.\n3. Baja con control hasta casi extender los codos sin dejar que la banda tire de las muñecas hacia atrás.",
+      "sectionTitle": "Bandas de resistencia"
+    },
+    "pt": {
+      "title": "Rosca bíceps com elástico",
+      "description": "1. Pise no elástico com os pés na largura dos quadris e segure as pontas com as palmas para a frente e os cotovelos junto às costelas.\n2. Dobre os cotovelos para levar as mãos aos ombros mantendo a parte superior dos braços parada.\n3. Abaixe com controle até quase estender os cotovelos sem deixar o elástico puxar os punhos para trás.",
+      "sectionTitle": "Elásticos de resistência"
+    },
+    "fr": {
+      "title": "Curl biceps avec élastique",
+      "description": "1. Placez les pieds sur l’élastique à la largeur des hanches et tenez ses extrémités, paumes vers l’avant et coudes près des côtes.\n2. Fléchissez les coudes pour rapprocher les mains des épaules en gardant les bras immobiles au-dessus des coudes.\n3. Redescendez avec contrôle jusqu’aux coudes presque tendus sans laisser l’élastique tirer les poignets en arrière.",
+      "sectionTitle": "Élastiques de résistance"
+    },
+    "de": {
+      "title": "Bizepscurl mit Band",
+      "description": "1. Stehe hüftbreit auf dem Band und halte die Enden mit Handflächen nach vorne und Ellbogen neben den Rippen.\n2. Beuge die Ellbogen und führe die Hände zu den Schultern, während die Oberarme still bleiben.\n3. Senke kontrolliert bis zu fast gestreckten Ellbogen ab, ohne dass das Band die Handgelenke nach hinten zieht.",
+      "sectionTitle": "Widerstandsbänder"
+    },
+    "it": {
+      "title": "Curl bicipiti con elastico",
+      "description": "1. Stai sull’elastico con i piedi alla larghezza delle anche e tieni le estremità con i palmi in avanti e i gomiti accanto alle costole.\n2. Piega i gomiti per avvicinare le mani alle spalle mantenendo ferme le braccia sopra i gomiti.\n3. Scendi con controllo fino a quasi distendere i gomiti senza lasciare che l’elastico tiri i polsi indietro.",
+      "sectionTitle": "Elastici di resistenza"
+    },
+    "zh-Hans": {
+      "title": "弹力带二头肌弯举",
+      "description": "1. 双脚与髋同宽踩住弹力带，握住两端，掌心朝前，肘部靠近肋骨。\n2. 弯曲肘部，将双手抬向肩膀，上臂保持不动。\n3. 有控制地下放至肘部接近伸直，不要让弹力带将手腕向后拉。",
+      "sectionTitle": "弹力带"
+    },
+    "ja": {
+      "title": "バンドバイセプスカール",
+      "description": "1. 足を腰幅にしてバンドを踏み、手のひらを前、肘を肋骨の横に置いて端を持ちます。\n2. 上腕を動かさずに肘を曲げ、手を肩へ近づけます。\n3. バンドに手首を後ろへ引かせず、肘がほぼ伸びるまで制御して下ろします。",
+      "sectionTitle": "レジスタンスバンド"
+    },
+    "ko": {
+      "title": "밴드 바이셉스 컬",
+      "description": "1. 발을 골반너비로 벌려 밴드를 밟고 손바닥을 앞으로, 팔꿈치를 갈비뼈 옆에 두고 양 끝을 잡습니다.\n2. 위팔을 움직이지 않고 팔꿈치를 굽혀 손을 어깨 쪽으로 가져옵니다.\n3. 밴드가 손목을 뒤로 당기지 않도록 통제하며 팔꿈치가 거의 펴질 때까지 내립니다.",
+      "sectionTitle": "저항 밴드"
+    },
+    "th": {
+      "title": "งอแขนไบเซปส์ด้วยยางยืด",
+      "description": "1. เหยียบยางยืดโดยแยกเท้าเท่าความกว้างสะโพก จับปลายโดยหันฝ่ามือหน้าและศอกชิดซี่โครง\n2. งอศอกเพื่อนำมือเข้าหาหัวไหล่โดยให้ต้นแขนอยู่นิ่ง\n3. ลดลงอย่างควบคุมจนศอกเกือบตรง โดยไม่ให้ยางดึงข้อมือไปด้านหลัง",
+      "sectionTitle": "ยางยืดแรงต้าน"
+    },
+    "ru": {
+      "title": "Сгибание рук с резинкой",
+      "description": "1. Встаньте на резинку со стопами на ширине таза и держите концы ладонями вперёд, прижав локти к рёбрам.\n2. Согните локти, подводя кисти к плечам и сохраняя верхние части рук неподвижными.\n3. Контролируемо опустите до почти прямых локтей, не позволяя резинке оттягивать запястья назад.",
+      "sectionTitle": "Резинки сопротивления"
+    },
+    "uk": {
+      "title": "Згинання рук із гумою",
+      "description": "1. Станьте на гуму зі стопами на ширині таза та тримайте кінці долонями вперед, притиснувши лікті до ребер.\n2. Зігніть лікті, підводячи кисті до плечей і зберігаючи верхні частини рук нерухомими.\n3. Контрольовано опустіть до майже прямих ліктів, не дозволяючи гумі відтягувати зап’ястки назад.",
+      "sectionTitle": "Гуми опору"
+    }
+  }
+}

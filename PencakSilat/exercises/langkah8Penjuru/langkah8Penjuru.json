@@ -1,0 +1,90 @@
+{
+  "id": "86.2",
+  "key": "pencak_silat_langkah_8_penjuru",
+  "title": "Langkah 8 Penjuru",
+  "description": "1. Start in kuda-kuda horse stance at the centre of an imagined star of eight directions, with both hands in guard.\n2. Step one foot toward each direction in turn, front, back, sides, and diagonals, settling into a stable stance on every step.\n3. Bring the foot back to the centre between steps, keeping the hips low and the guard up, then repeat the cycle leading with the other foot.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "pencakSilat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Langkah 8 Penjuru",
+      "description": "1. Start in kuda-kuda horse stance at the centre of an imagined star of eight directions, with both hands in guard.\n2. Step one foot toward each direction in turn, front, back, sides, and diagonals, settling into a stable stance on every step.\n3. Bring the foot back to the centre between steps, keeping the hips low and the guard up, then repeat the cycle leading with the other foot.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Langkah 8 Penjuru",
+      "description": "1. Empieza en kuda-kuda (postura de jinete) en el centro de una estrella imaginaria de ocho direcciones, con ambas manos en guardia.\n2. Da un paso con un pie hacia cada dirección por turno, delante, detrás, a los lados y en diagonal, asentándote en una postura estable en cada paso.\n3. Devuelve el pie al centro entre pasos, con la cadera baja y la guardia alta, y repite el ciclo empezando con el otro pie.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Langkah 8 Penjuru",
+      "description": "1. Comece em kuda-kuda (base de cavaleiro) no centro de uma estrela imaginária de oito direções, com as duas mãos em guarda.\n2. Dê um passo com um pé em cada direção, à frente, atrás, para os lados e nas diagonais, firmando uma base estável a cada passo.\n3. Traga o pé de volta ao centro entre os passos, com o quadril baixo e a guarda alta, e repita o ciclo começando com o outro pé.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Langkah 8 Penjuru",
+      "description": "1. Commencez en kuda-kuda (position du cavalier) au centre d’une étoile imaginaire à huit directions, les deux mains en garde.\n2. Avancez un pied tour à tour vers chaque direction, avant, arrière, côtés et diagonales, en vous stabilisant dans une position solide à chaque pas.\n3. Ramenez le pied au centre entre les pas, hanches basses et garde haute, puis répétez le cycle en commençant par l’autre pied.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Langkah 8 Penjuru",
+      "description": "1. Beginne im Kuda-Kuda (Reiterstand) in der Mitte eines gedachten Sterns mit acht Richtungen, beide Hände in Deckung.\n2. Setze nacheinander einen Fuß in jede Richtung, vorwärts, rückwärts, seitlich und diagonal, und finde bei jedem Schritt eine stabile Stellung.\n3. Führe den Fuß zwischen den Schritten zur Mitte zurück, halte die Hüfte tief und die Deckung oben und wiederhole den Zyklus mit dem anderen Fuß.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Langkah 8 Penjuru",
+      "description": "1. Parti in kuda-kuda (posizione del cavaliere) al centro di una stella immaginaria a otto direzioni, con entrambe le mani in guardia.\n2. Porta un piede a turno verso ogni direzione, avanti, indietro, lati e diagonali, stabilizzandoti in una posizione solida a ogni passo.\n3. Riporta il piede al centro tra un passo e l’altro, con anche basse e guardia alta, poi ripeti il ciclo partendo con l’altro piede.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "八方步（Langkah 8 Penjuru）",
+      "description": "1. 在假想的八方位星形中心以马步（kuda-kuda）站立，双手防守。\n2. 单脚依次向各个方向迈步——前、后、左右和斜向——每一步都稳定成势。\n3. 每步之间将脚收回中心，保持低髋和防守，然后换另一只脚领先重复一轮。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ランカ・ドゥラパン・プンジュル",
+      "description": "1. 八方向の仮想の星の中心でクダクダ（騎馬立ち）になり、両手でガードします。\n2. 前、後ろ、左右、斜めの各方向へ片足ずつ順に踏み出し、毎回安定した構えに落ち着きます。\n3. 一歩ごとに足を中心へ戻し、腰を低くガードを上げたまま、反対の足から同じ循環を繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "랑카 8 펀주루",
+      "description": "1. 여덟 방향의 가상 별 중심에서 쿠다쿠다(기마 자세)로 서서 두 손을 가드합니다.\n2. 앞, 뒤, 옆, 대각선의 각 방향으로 한 발씩 차례로 내딛고 매 걸음 안정된 자세를 잡습니다.\n3. 걸음 사이마다 발을 중심으로 되돌리고 엉덩이를 낮게, 가드를 높게 유지한 채 반대 발로 순환을 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ลังกะห์แปดทิศ",
+      "description": "1. เริ่มในท่ากูดา-กูดา (ท่าม้า) ที่กลางดาวสมมติแปดทิศ มือทั้งสองการ์ด\n2. ก้าวเท้าหนึ่งไปทีละทิศ หน้า หลัง ข้าง และทแยง โดยตั้งท่าให้มั่นคงทุกก้าว\n3. ดึงเท้ากลับมากลางระหว่างก้าว รักษาสะโพกต่ำและการ์ดสูง แล้วทำซ้ำรอบโดยนำด้วยเท้าอีกข้าง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Лангках 8 пенджуру",
+      "description": "1. Начните в стойке куда-куда (стойка всадника) в центре воображаемой звезды из восьми направлений, обе руки в защите.\n2. Поочерёдно шагайте одной ногой в каждое направление — вперёд, назад, в стороны и по диагоналям, — устойчиво фиксируя стойку на каждом шаге.\n3. Между шагами возвращайте ногу в центр, держа таз низко и руки в защите, затем повторите цикл с другой ноги.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Лангках 8 пенджуру",
+      "description": "1. Почніть у стійці куда-куда (стійка вершника) в центрі уявної зірки з восьми напрямків, обидві руки в захисті.\n2. Почергово ступайте однією ногою в кожен напрямок — уперед, назад, убік і по діагоналях, — стійко фіксуючи стійку на кожному кроці.\n3. Між кроками повертайте ногу в центр, тримаючи таз низько й руки в захисті, потім повторіть цикл з іншої ноги.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

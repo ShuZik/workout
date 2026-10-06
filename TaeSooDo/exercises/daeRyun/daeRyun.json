@@ -1,0 +1,90 @@
+{
+  "id": "98.3",
+  "key": "tae_soo_do_dae_ryun",
+  "title": "Dae Ryun",
+  "description": "1. With protective gear and a coach supervising, face a partner in fighting stance and agree on contact level, targets, and round time.\n2. Spar with punches, kicks, and footwork at the agreed contact, scoring clean techniques while defending with blocks and evasions.\n3. Stop at the coach's call, separate to the start lines, and reset before the next exchange.",
+  "color": "#EA7CC7",
+  "colorType": "pink",
+  "workoutType": "taeSooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Sparring",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dae Ryun",
+      "description": "1. With protective gear and a coach supervising, face a partner in fighting stance and agree on contact level, targets, and round time.\n2. Spar with punches, kicks, and footwork at the agreed contact, scoring clean techniques while defending with blocks and evasions.\n3. Stop at the coach's call, separate to the start lines, and reset before the next exchange.",
+      "sectionTitle": "Sparring"
+    },
+    "es": {
+      "title": "Dae Ryun",
+      "description": "1. Con equipo de protección y un entrenador supervisando, colócate frente a un compañero en guardia y acordad nivel de contacto, blancos y tiempo del asalto.\n2. Combatid con puñetazos, patadas y juego de pies al contacto acordado, puntuando técnicas limpias mientras os defendéis con bloqueos y esquivas.\n3. Deteneos a la orden del entrenador, separaos a las líneas de inicio y reiniciad antes del siguiente intercambio.",
+      "sectionTitle": "Combate"
+    },
+    "pt": {
+      "title": "Dae Ryun",
+      "description": "1. Com equipamento de proteção e um treinador supervisionando, fique de frente para um parceiro em guarda e combinem nível de contato, alvos e tempo do round.\n2. Lutem com socos, chutes e trabalho de pés no contato combinado, pontuando técnicas limpas enquanto se defendem com bloqueios e esquivas.\n3. Parem ao comando do treinador, separem-se até as linhas de início e reiniciem antes da próxima troca.",
+      "sectionTitle": "Combate"
+    },
+    "fr": {
+      "title": "Dae Ryun",
+      "description": "1. Avec protections et sous la supervision d’un entraîneur, face à un partenaire en garde, convenez du niveau de contact, des cibles et de la durée.\n2. Combattez avec coups de poing, coups de pied et déplacements au contact convenu, en marquant des techniques nettes tout en vous défendant par blocages et esquives.\n3. Arrêtez au signal de l’entraîneur, séparez-vous aux lignes de départ et recommencez avant l’échange suivant.",
+      "sectionTitle": "Combat"
+    },
+    "de": {
+      "title": "Dae Ryun",
+      "description": "1. Mit Schutzausrüstung und unter Traineraufsicht einem Partner in Kampfstellung gegenüber Kontaktstärke, Ziele und Rundenzeit vereinbaren.\n2. Mit Fauststößen, Tritten und Beinarbeit im vereinbarten Kontakt sparren, saubere Techniken punkten und mit Blocks und Ausweichen verteidigen.\n3. Beim Trainerkommando stoppen, zu den Startlinien trennen und vor dem nächsten Austausch neu beginnen.",
+      "sectionTitle": "Sparring"
+    },
+    "it": {
+      "title": "Dae Ryun",
+      "description": "1. Con protezioni e un allenatore che supervisiona, di fronte a un partner in guardia concordate contatto, bersagli e durata del round.\n2. Combattete con pugni, calci e gioco di gambe al contatto concordato, segnando tecniche pulite e difendendovi con parate e schivate.\n3. Fermatevi al comando dell’allenatore, separatevi alle linee di partenza e ripartite prima dello scambio successivo.",
+      "sectionTitle": "Combattimento"
+    },
+    "zh-Hans": {
+      "title": "对练实战",
+      "description": "1. 穿戴护具并在教练监督下，与同伴以实战站姿相对，约定接触强度、有效部位和回合时间。\n2. 以约定的接触强度用拳、踢和步法实战，打出干净的得分技术，同时以格挡和闪避防守。\n3. 听到教练口令即停，分开回到起始线，重新准备下一回合。",
+      "sectionTitle": "实战"
+    },
+    "ja": {
+      "title": "対練（デリョン）",
+      "description": "1. 防具を着け指導者の監督のもと、構えた相手と向き合い、接触の強さ、有効部位、ラウンド時間を決めます。\n2. 決めた接触で突き、蹴り、足捌きを使って対戦し、受けとかわしで守りながらきれいな技で得点します。\n3. 指導者の合図で止め、開始線に分かれ、次の攻防の前に構え直します。",
+      "sectionTitle": "組手・試合"
+    },
+    "ko": {
+      "title": "대련",
+      "description": "1. 보호구를 착용하고 지도자의 감독 아래 겨룸 자세의 짝과 마주하여 접촉 강도, 유효 부위, 라운드 시간을 정합니다.\n2. 정한 접촉으로 지르기, 차기, 발놀림을 써서 겨루며 막기와 피하기로 방어하고 깨끗한 기술로 득점합니다.\n3. 지도자의 신호에 멈추고 시작선으로 떨어져 다음 공방 전에 다시 준비합니다.",
+      "sectionTitle": "겨루기"
+    },
+    "th": {
+      "title": "แดรยอน",
+      "description": "1. สวมอุปกรณ์ป้องกันและมีโค้ชดูแล หันหน้าเข้าหาคู่ในท่าต่อสู้ ตกลงระดับการสัมผัส เป้า และเวลายก\n2. ต่อสู้ด้วยหมัด เตะ และฟุตเวิร์กตามระดับที่ตกลง ทำคะแนนด้วยเทคนิคที่ชัดเจน พร้อมป้องกันด้วยการปัดและหลบ\n3. หยุดเมื่อโค้ชสั่ง แยกกลับเส้นเริ่ม และเตรียมใหม่ก่อนการแลกครั้งถัดไป",
+      "sectionTitle": "การต่อสู้"
+    },
+    "ru": {
+      "title": "Дэ рён",
+      "description": "1. В защитной экипировке под контролем тренера встаньте напротив партнёра в боевой стойке и договоритесь об уровне контакта, целях и времени раунда.\n2. Ведите спарринг ударами руками и ногами с работой ног при оговорённом контакте, набирая очки чистой техникой и защищаясь блоками и уходами.\n3. Останавливайтесь по команде тренера, расходитесь к стартовым линиям и готовьтесь к следующему обмену.",
+      "sectionTitle": "Спарринг"
+    },
+    "uk": {
+      "title": "Де рйон",
+      "description": "1. У захисному спорядженні під контролем тренера станьте навпроти партнера в бойовій стійці й домовтеся про рівень контакту, цілі й час раунду.\n2. Ведіть спаринг ударами руками й ногами з роботою ніг за обумовленого контакту, набираючи очки чистою технікою й захищаючись блоками та відходами.\n3. Зупиняйтеся за командою тренера, розходьтеся до стартових ліній і готуйтеся до наступного обміну.",
+      "sectionTitle": "Спаринг"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#67C4ED",
+    "colorType": "cyan",
+    "folder": "QazaqKuresi",
+    "id": "87",
+    "icon": "QazaqKuresi/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Qazaq Kuresi",
+    "workoutType": "qazaqKuresi",
+    "translations": {
+      "en": {
+        "title": "Qazaq Kuresi"
+      },
+      "es": {
+        "title": "Lucha kazaja"
+      },
+      "pt": {
+        "title": "Luta cazaque"
+      },
+      "fr": {
+        "title": "Lutte kazakhe"
+      },
+      "de": {
+        "title": "Kasachisches Ringen"
+      },
+      "it": {
+        "title": "Lotta kazaka"
+      },
+      "zh-Hans": {
+        "title": "哈萨克式摔跤"
+      },
+      "ja": {
+        "title": "カザフ・クレス"
+      },
+      "ko": {
+        "title": "카자흐 쿠레시"
+      },
+      "th": {
+        "title": "มวยปล้ำคาซัค"
+      },
+      "ru": {
+        "title": "Казахская борьба"
+      },
+      "uk": {
+        "title": "Казахська боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "QazaqKuresi/exercises/qazaqKuresi/Icon.png",
+      "json": "QazaqKuresi/exercises/qazaqKuresi/qazaqKuresi.json"
+    },
+    {
+      "icon": "QazaqKuresi/exercises/shalypLaqtyru/Icon.png",
+      "json": "QazaqKuresi/exercises/shalypLaqtyru/shalypLaqtyru.json"
+    },
+    {
+      "icon": "QazaqKuresi/exercises/qagypLaqtyru/Icon.png",
+      "json": "QazaqKuresi/exercises/qagypLaqtyru/qagypLaqtyru.json"
+    },
+    {
+      "icon": "QazaqKuresi/exercises/ilipLaqtyru/Icon.png",
+      "json": "QazaqKuresi/exercises/ilipLaqtyru/ilipLaqtyru.json"
+    },
+    {
+      "icon": "QazaqKuresi/exercises/zhambas/Icon.png",
+      "json": "QazaqKuresi/exercises/zhambas/zhambas.json"
+    },
+    {
+      "icon": "QazaqKuresi/exercises/arqadanAsyrypLaqtyru/Icon.png",
+      "json": "QazaqKuresi/exercises/arqadanAsyrypLaqtyru/arqadanAsyrypLaqtyru.json"
+    },
+    {
+      "icon": "QazaqKuresi/exercises/kotermelepLaqtyru/Icon.png",
+      "json": "QazaqKuresi/exercises/kotermelepLaqtyru/kotermelepLaqtyru.json"
+    }
+  ]
+}

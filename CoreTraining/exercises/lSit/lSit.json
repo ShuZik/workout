@@ -1,0 +1,90 @@
+{
+  "id": "14.20",
+  "key": "calisthenics_l_sit",
+  "title": "L-Sit",
+  "description": "1. Sit between parallettes or place the palms beside the hips with the legs extended forward.\n2. Press down through straight arms, depress the shoulders, and lift the hips away from the floor.\n3. Straighten and raise the legs to form an L shape; bend the knees if needed to keep the hips lifted.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "3 Intermediate",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "L-Sit",
+      "description": "1. Sit between parallettes or place the palms beside the hips with the legs extended forward.\n2. Press down through straight arms, depress the shoulders, and lift the hips away from the floor.\n3. Straighten and raise the legs to form an L shape; bend the knees if needed to keep the hips lifted.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Apoyo en L",
+      "description": "1. Siéntate entre barras paralelas bajas o coloca las palmas junto a las caderas con las piernas extendidas hacia delante.\n2. Empuja hacia abajo con los brazos rectos, baja los hombros y eleva las caderas del suelo.\n3. Estira y eleva las piernas para formar una L; flexiona las rodillas si lo necesitas para mantener las caderas elevadas.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Apoio em L",
+      "description": "1. Sente-se entre barras paralelas baixas ou coloque as palmas ao lado dos quadris com as pernas estendidas para a frente.\n2. Pressione para baixo com os braços estendidos, abaixe os ombros e tire os quadris do chão.\n3. Estenda e eleve as pernas para formar um L; dobre os joelhos se necessário para manter os quadris elevados.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Équerre",
+      "description": "1. Asseyez-vous entre des barres parallèles basses ou posez les paumes près des hanches, jambes tendues vers l’avant.\n2. Poussez vers le bas avec les bras tendus, abaissez les épaules et soulevez le bassin du sol.\n3. Tendez et relevez les jambes pour former un L ; fléchissez les genoux si nécessaire pour garder le bassin soulevé.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "L-Sitz",
+      "description": "1. Setze dich zwischen niedrige Parallelbarren oder lege die Handflächen neben die Hüften und strecke die Beine nach vorn.\n2. Drücke mit gestreckten Armen nach unten, senke die Schultern und hebe die Hüften vom Boden.\n3. Strecke und hebe die Beine zu einer L-Form. Beuge bei Bedarf die Knie, damit die Hüften angehoben bleiben.",
+      "sectionTitle": "Mittelstufe"
+    },
+    "it": {
+      "title": "Squadra",
+      "description": "1. Siediti tra due parallele basse oppure appoggia i palmi accanto alle anche con le gambe distese in avanti.\n2. Spingi verso il basso con le braccia tese, abbassa le spalle e solleva le anche dal pavimento.\n3. Distendi e solleva le gambe per formare una L; piega le ginocchia se necessario per mantenere le anche sollevate.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "L字支撑",
+      "description": "1. 坐在低双杠之间，或将双手掌放在髋部两侧，双腿向前伸直。\n2. 双臂伸直向下撑，肩部下沉，将髋部抬离地面。\n3. 伸直并抬起双腿，使身体形成L形；如有需要，弯曲膝盖以保持髋部离地。",
+      "sectionTitle": "中级"
+    },
+    "ja": {
+      "title": "Lシット",
+      "description": "1. 低い平行バーの間に座るか、腰の横に手のひらを置き、脚を前に伸ばします。\n2. 腕を伸ばして下に押し、肩を下げて腰を床から持ち上げます。\n3. 脚を伸ばして上げ、L字を作ります。必要なら膝を曲げ、腰を浮かせたままにします。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "L자 버티기",
+      "description": "1. 낮은 평행봉 사이에 앉거나 골반 옆에 손바닥을 놓고 다리를 앞으로 뻗습니다.\n2. 팔을 곧게 편 채 아래로 밀고 어깨를 내려 골반을 바닥에서 들어 올립니다.\n3. 다리를 펴서 들어 올려 L자 모양을 만듭니다. 골반을 들고 있기 어렵다면 무릎을 굽힙니다.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "แอลซิต",
+      "description": "1. นั่งระหว่างบาร์คู่เตี้ย หรือวางฝ่ามือข้างสะโพกโดยเหยียดขาไปข้างหน้า\n2. เหยียดแขนแล้วกดลง ลดไหล่ลง และยกสะโพกพ้นพื้น\n3. เหยียดและยกขาให้เป็นรูปตัว L หากจำเป็นให้งอเข่าเพื่อให้สะโพกยังยกอยู่",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Уголок",
+      "description": "1. Сядьте между низкими параллельными брусьями или поставьте ладони рядом с тазом, вытянув ноги вперёд.\n2. Давите вниз прямыми руками, опустите плечи и приподнимите таз над полом.\n3. Выпрямите и поднимите ноги, образуя уголок; при необходимости согните колени, чтобы удерживать таз поднятым.",
+      "sectionTitle": "Средний уровень"
+    },
+    "uk": {
+      "title": "Куточок",
+      "description": "1. Сядьте між низькими паралельними брусами або поставте долоні поруч із тазом, витягнувши ноги вперед.\n2. Тисніть униз прямими руками, опустіть плечі й трохи підніміть таз над підлогою.\n3. Випряміть і підніміть ноги, утворюючи куточок; за потреби зігніть коліна, щоб утримувати таз піднятим.",
+      "sectionTitle": "Середній рівень"
+    }
+  }
+}

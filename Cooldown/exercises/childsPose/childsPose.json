@@ -1,0 +1,90 @@
+{
+  "id": "10.32",
+  "key": "cooldown_childs_pose",
+  "title": "Child's Pose",
+  "description": "1. Kneel with big toes together, widen the knees comfortably, and place both hands on the mat.\n2. Send the hips toward the heels while reaching the arms forward and lengthening the spine.\n3. Rest the forehead down, relax the shoulders, and breathe without forcing the hips lower.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2,
+    "moderate": 2.3,
+    "vigorous": 2.7,
+    "lightCode": "02170",
+    "moderateCode": "02175",
+    "vigorousCode": "02185"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Child's Pose",
+      "description": "1. Kneel with big toes together, widen the knees comfortably, and place both hands on the mat.\n2. Send the hips toward the heels while reaching the arms forward and lengthening the spine.\n3. Rest the forehead down, relax the shoulders, and breathe without forcing the hips lower.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Postura del niño",
+      "description": "1. Arrodíllate con los dedos gordos de los pies juntos, separa las rodillas hasta una anchura cómoda y coloca ambas manos en la esterilla.\n2. Lleva las caderas hacia los talones mientras estiras los brazos hacia delante y alargas la columna.\n3. Apoya la frente, relaja los hombros y respira sin forzar las caderas hacia abajo.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Postura da criança",
+      "description": "1. Ajoelhe-se com os dedões dos pés juntos, afaste os joelhos de forma confortável e coloque as duas mãos no tapete.\n2. Leve o quadril em direção aos calcanhares enquanto estende os braços à frente e alonga a coluna.\n3. Apoie a testa, relaxe os ombros e respire sem forçar o quadril mais para baixo.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Posture de l’enfant",
+      "description": "1. Agenouillez-vous, les gros orteils joints, écartez les genoux confortablement et posez les deux mains sur le tapis.\n2. Amenez les hanches vers les talons en tendant les bras vers l’avant et en allongeant la colonne.\n3. Posez le front, détendez les épaules et respirez sans forcer les hanches à descendre davantage.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Kindhaltung",
+      "description": "1. Knie dich hin, bringe die großen Zehen zusammen, öffne die Knie angenehm weit und lege beide Hände auf die Matte.\n2. Schiebe die Hüfte zu den Fersen, während du die Arme nach vorn streckst und die Wirbelsäule lang machst.\n3. Lege die Stirn ab, entspanne die Schultern und atme, ohne die Hüfte weiter nach unten zu drücken.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Posizione del bambino",
+      "description": "1. Inginocchiati con gli alluci uniti, allarga le ginocchia in modo confortevole e appoggia entrambe le mani sul tappetino.\n2. Porta il bacino verso i talloni mentre distendi le braccia in avanti e allunghi la colonna.\n3. Appoggia la fronte, rilassa le spalle e respira senza forzare il bacino più in basso.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "婴儿式",
+      "description": "1. 跪下，双脚大脚趾相碰，将膝盖分开至舒适宽度，双手放在垫子上。\n2. 髋部移向脚跟，同时双臂向前伸展，拉长脊柱。\n3. 放下前额，放松肩部，自然呼吸，不要强迫髋部压得更低。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "チャイルドポーズ",
+      "description": "1. 膝立ちになり、両足の親指を合わせ、膝を無理のない幅に開いて両手をマットにつきます。\n2. 腕を前に伸ばして背骨を長く保ちながら、腰をかかとの方へ下ろします。\n3. 額を下ろして肩を緩め、腰を無理に低く押し込まずに呼吸します。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "아기 자세",
+      "description": "1. 무릎을 꿇고 양 엄지발가락을 붙인 뒤 무릎을 편안한 너비로 벌리고 두 손을 매트에 댑니다.\n2. 팔을 앞으로 뻗고 척추를 길게 늘리며 골반을 발뒤꿈치 쪽으로 보냅니다.\n3. 이마를 내려놓고 어깨의 긴장을 풀어 호흡하되 골반을 억지로 더 낮추지 않습니다.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "ท่าเด็ก",
+      "description": "1. คุกเข่าให้นิ้วหัวแม่เท้าชิดกัน แยกเข่าในระยะที่สบาย แล้ววางมือทั้งสองบนเสื่อ\n2. เลื่อนสะโพกเข้าหาส้นเท้า พร้อมเหยียดแขนไปข้างหน้าและยืดกระดูกสันหลังให้ยาว\n3. วางหน้าผากลง ผ่อนคลายไหล่ และหายใจโดยไม่ฝืนกดสะโพกให้ต่ำลง",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Поза ребёнка",
+      "description": "1. Встаньте на колени, соедините большие пальцы ног, разведите колени на комфортную ширину и поставьте обе руки на коврик.\n2. Направьте таз к пяткам, вытягивая руки вперёд и удлиняя позвоночник.\n3. Опустите лоб, расслабьте плечи и дышите, не заставляя таз опускаться ниже.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Поза дитини",
+      "description": "1. Станьте на коліна, з’єднайте великі пальці ніг, розведіть коліна на комфортну ширину й поставте обидві руки на килимок.\n2. Спрямуйте таз до п’ят, витягуючи руки вперед і подовжуючи хребет.\n3. Опустіть лоб, розслабте плечі й дихайте, не змушуючи таз опускатися нижче.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  }
+}

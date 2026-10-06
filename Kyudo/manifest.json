@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#90A994",
+    "colorType": "sage",
+    "folder": "Kyudo",
+    "id": "76",
+    "icon": "Kyudo/Icon.png",
+    "symbolName": "figure.archery",
+    "title": "Kyudo",
+    "workoutType": "kyudo",
+    "translations": {
+      "en": {
+        "title": "Kyudo"
+      },
+      "es": {
+        "title": "Kyudo"
+      },
+      "pt": {
+        "title": "Kyudô"
+      },
+      "fr": {
+        "title": "Kyudo"
+      },
+      "de": {
+        "title": "Kyūdō"
+      },
+      "it": {
+        "title": "Kyudo"
+      },
+      "zh-Hans": {
+        "title": "弓道"
+      },
+      "ja": {
+        "title": "弓道"
+      },
+      "ko": {
+        "title": "궁도"
+      },
+      "th": {
+        "title": "คิวโด"
+      },
+      "ru": {
+        "title": "Кюдо"
+      },
+      "uk": {
+        "title": "Кюдо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Kyudo/exercises/kyudo/Icon.png",
+      "json": "Kyudo/exercises/kyudo/kyudo.json"
+    },
+    {
+      "icon": "Kyudo/exercises/shahoHassetsu/Icon.png",
+      "json": "Kyudo/exercises/shahoHassetsu/shahoHassetsu.json"
+    },
+    {
+      "icon": "Kyudo/exercises/toshuRenshu/Icon.png",
+      "json": "Kyudo/exercises/toshuRenshu/toshuRenshu.json"
+    },
+    {
+      "icon": "Kyudo/exercises/gomuyumiRenshu/Icon.png",
+      "json": "Kyudo/exercises/gomuyumiRenshu/gomuyumiRenshu.json"
+    },
+    {
+      "icon": "Kyudo/exercises/subiki/Icon.png",
+      "json": "Kyudo/exercises/subiki/subiki.json"
+    },
+    {
+      "icon": "Kyudo/exercises/makiwaraPractice/Icon.png",
+      "json": "Kyudo/exercises/makiwaraPractice/makiwaraPractice.json"
+    },
+    {
+      "icon": "Kyudo/exercises/matoMaePractice/Icon.png",
+      "json": "Kyudo/exercises/matoMaePractice/matoMaePractice.json"
+    }
+  ]
+}

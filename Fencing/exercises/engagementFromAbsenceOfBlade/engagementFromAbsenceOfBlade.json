@@ -1,0 +1,90 @@
+{
+  "id": "54.13",
+  "key": "fencing_engagement_from_absence",
+  "title": "Engagement from Absence of Blade",
+  "description": "1. Stand at advancing distance with the blades apart and the partner's point roughly in line.\n2. Advance and bring the strong part of your blade into light contact with the partner's weak part, closing the chosen line, for example sixte or quarte.\n3. Hold the engagement with gentle finger pressure, feel the partner's reaction, then release, step back, and repeat in the other line.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Engagement from Absence of Blade",
+      "description": "1. Stand at advancing distance with the blades apart and the partner's point roughly in line.\n2. Advance and bring the strong part of your blade into light contact with the partner's weak part, closing the chosen line, for example sixte or quarte.\n3. Hold the engagement with gentle finger pressure, feel the partner's reaction, then release, step back, and repeat in the other line.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Enganche desde ausencia de hoja",
+      "description": "1. Colócate a distancia de avance con las hojas separadas y la punta del compañero aproximadamente en línea.\n2. Avanza y pon el fuerte de tu hoja en contacto ligero con el débil del compañero, cerrando la línea elegida, por ejemplo sexta o cuarta.\n3. Mantén el enganche con suave presión de dedos, siente la reacción del compañero, suelta, retrocede y repite en la otra línea.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Engajamento a partir da ausência de lâmina",
+      "description": "1. Fique à distância de avanço com as lâminas separadas e a ponta do parceiro aproximadamente em linha.\n2. Avance e leve o forte da sua lâmina a um contato leve com o fraco do parceiro, fechando a linha escolhida, por exemplo sexta ou quarta.\n3. Mantenha o engajamento com pressão suave dos dedos, sinta a reação do parceiro, solte, recue e repita na outra linha.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Engagement sur absence de fer",
+      "description": "1. Placez-vous à distance de marche, fers séparés, la pointe du partenaire à peu près en ligne.\n2. Marchez et amenez le fort de votre lame au contact léger du faible adverse en fermant la ligne choisie, par exemple sixte ou quarte.\n3. Tenez l’engagement par une légère pression des doigts, sentez la réaction, relâchez, reculez et répétez dans l’autre ligne.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Bindung aus der Klingenabwesenheit",
+      "description": "1. Stehe auf Schrittdistanz, Klingen getrennt, die Partnerspitze ungefähr in Linie.\n2. Gehe vor und bringe die Stärke deiner Klinge in leichten Kontakt mit der Schwäche der Partnerklinge, um die gewählte Linie zu schließen, etwa Sixt oder Quart.\n3. Halte die Bindung mit sanftem Fingerdruck, spüre die Reaktion, löse, tritt zurück und wiederhole in der anderen Linie.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Legamento dall’assenza di ferro",
+      "description": "1. Stai a distanza di passo con le lame separate e la punta del compagno all’incirca in linea.\n2. Avanza e porta il forte della tua lama a contatto leggero con il debole del compagno, chiudendo la linea scelta, per esempio sesta o quarta.\n3. Mantieni il legamento con lieve pressione delle dita, senti la reazione, rilascia, arretra e ripeti nell’altra linea.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "从无接剑状态接剑",
+      "description": "1. 双方剑身分开，同伴剑尖大致在线，站在前进步距离。\n2. 前进并用你剑的强部轻触同伴剑的弱部，封住所选线位，如第六或第四位。\n3. 以轻微手指压力保持接剑，感受同伴反应，然后松开、后退，在另一线位重复。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "アブサンス・ド・フェールからのアンガージュ",
+      "description": "1. 剣を離し、相手の剣先がおおむねラインにある状態で、一歩の間合いに立ちます。\n2. 前進して自分の剣の強部を相手の弱部に軽く接触させ、選んだライン（シクストやカルトなど）を閉じます。\n3. 指の軽い圧でアンガージュを保ち、相手の反応を感じてから離し、下がって反対のラインで繰り返します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "칼 떨어진 상태에서 인게이지",
+      "description": "1. 칼을 떨어뜨리고 파트너 칼끝이 대략 라인에 있는 상태로 한 걸음 거리에 섭니다.\n2. 전진하며 내 칼의 강부를 파트너 칼 약부에 가볍게 닿게 해 선택한 라인(식스트나 카르트)을 닫습니다.\n3. 부드러운 손가락 압력으로 인게이지를 유지하며 반응을 느끼고, 놓고 물러나 다른 라인에서 반복합니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เอนเกจจากการไม่แตะดาบ",
+      "description": "1. ยืนในระยะก้าว ใบดาบแยกกัน ปลายดาบคู่ฝึกอยู่ในแนวโดยประมาณ\n2. ก้าวเข้าแล้วนำส่วนแข็งของดาบแตะส่วนอ่อนของดาบคู่ฝึกเบาๆ เพื่อปิดแนวที่เลือก เช่น ซิกซ์ต์หรือการ์ต\n3. คงการแตะด้วยแรงนิ้วเบาๆ รับรู้ปฏิกิริยาคู่ฝึก แล้วปล่อย ถอยหลัง และทำซ้ำในอีกแนว",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Соединение из отсутствия клинка",
+      "description": "1. Встаньте на дистанции шага, клинки разведены, остриё партнёра примерно в линии.\n2. Шагните вперёд и сильной частью клинка мягко коснитесь слабой части клинка партнёра, закрывая выбранную линию, например шестую или четвёртую.\n3. Удерживайте соединение лёгким нажимом пальцев, почувствуйте реакцию, отпустите, отступите и повторите в другой линии.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "З’єднання з відсутності клинка",
+      "description": "1. Станьте на дистанції кроку, клинки розведені, вістря партнера приблизно в лінії.\n2. Ступіть уперед і сильною частиною клинка м’яко торкніться слабкої частини клинка партнера, закриваючи обрану лінію, наприклад шосту чи четверту.\n3. Утримуйте з’єднання легким натиском пальців, відчуйте реакцію, відпустіть, відступіть і повторіть в іншій лінії.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

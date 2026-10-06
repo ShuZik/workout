@@ -1,0 +1,87 @@
+{
+  "id": "3.45",
+  "key": "kick_boxing_roll_hook_body_counter",
+  "title": "Roll Under Hook and Body Hook Counter",
+  "description": "1. The feeder throws a slow hook toward the defender's head while both partners keep a light-contact agreement.\n2. The defender bends the knees and rolls under the hook in a shallow U, rising on the outside of the punching arm.\n3. From that angle the defender answers with a controlled body hook to the feeder's guarded side or a body shield, then both reset and swap roles.",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Defense",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Roll Under Hook and Body Hook Counter",
+      "description": "1. The feeder throws a slow hook toward the defender's head while both partners keep a light-contact agreement.\n2. The defender bends the knees and rolls under the hook in a shallow U, rising on the outside of the punching arm.\n3. From that angle the defender answers with a controlled body hook to the feeder's guarded side or a body shield, then both reset and swap roles.",
+      "sectionTitle": "Defense"
+    },
+    "es": {
+      "title": "Esquiva rodada al gancho y gancho al cuerpo",
+      "description": "1. El atacante lanza un gancho lento hacia la cabeza del defensor, con acuerdo de contacto ligero.\n2. El defensor flexiona las rodillas y pasa por debajo del gancho en una U poco profunda, saliendo por fuera del brazo que golpea.\n3. Desde ese ángulo responde con un gancho controlado al costado protegido del atacante o a un escudo; luego ambos se recolocan e intercambian papeles.",
+      "sectionTitle": "Defensa"
+    },
+    "pt": {
+      "title": "Esquiva por baixo do gancho e gancho no corpo",
+      "description": "1. O atacante lança um gancho lento na direção da cabeça do defensor, com acordo de contato leve.\n2. O defensor flexiona os joelhos e passa por baixo do gancho num U raso, saindo por fora do braço que golpeia.\n3. Desse ângulo, responde com um gancho controlado na lateral protegida do atacante ou num aparador; depois ambos se reposicionam e trocam os papéis.",
+      "sectionTitle": "Defesa"
+    },
+    "fr": {
+      "title": "Rotation sous le crochet et crochet au corps",
+      "description": "1. Le partenaire lance un crochet lent vers la tête du défenseur, avec un accord de contact léger.\n2. Le défenseur fléchit les genoux et passe sous le crochet en U peu profond, en remontant à l’extérieur du bras qui frappe.\n3. Sous cet angle, il répond par un crochet au corps contrôlé sur le flanc protégé du partenaire ou un bouclier, puis tous deux se replacent et inversent les rôles.",
+      "sectionTitle": "Défense"
+    },
+    "de": {
+      "title": "Abtauchen unter den Haken mit Körperhaken",
+      "description": "1. Der Angreifer schlägt einen langsamen Haken zum Kopf des Verteidigers; beide halten leichten Kontakt ein.\n2. Der Verteidiger beugt die Knie, taucht in einem flachen U unter dem Haken durch und kommt außen am Schlagarm hoch.\n3. Aus diesem Winkel kontert er mit einem kontrollierten Körperhaken auf die gedeckte Seite oder ein Schlagpolster; danach neu ansetzen und Rollen tauschen.",
+      "sectionTitle": "Verteidigung"
+    },
+    "it": {
+      "title": "Schivata rotolata sotto il gancio e gancio al corpo",
+      "description": "1. Chi attacca lancia un gancio lento verso la testa del difensore, con accordo di contatto leggero.\n2. Il difensore piega le ginocchia e passa sotto il gancio con una U poco profonda, risalendo all’esterno del braccio che colpisce.\n3. Da quell’angolo risponde con un gancio controllato al fianco protetto dell’attaccante o a un colpitore, poi entrambi si riposizionano e scambiano i ruoli.",
+      "sectionTitle": "Difesa"
+    },
+    "zh-Hans": {
+      "title": "潜闪摆拳接躯干勾拳反击",
+      "description": "1. 喂拳者向防守者头部打出缓慢摆拳，双方约定轻接触。\n2. 防守者屈膝以浅U形从摆拳下方潜闪，在出拳手臂外侧起身。\n3. 防守者从该角度用受控勾拳击打喂拳者有防护的一侧或脚靶，然后双方复位并交换角色。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "フックをウィービングしてボディフック",
+      "description": "1. 攻撃役が防御役の頭へゆっくりフックを打ちます。軽い接触で合意しておきます。\n2. 防御役は膝を曲げ、浅いU字でフックの下をくぐり、打ってきた腕の外側に起き上がります。\n3. その角度から攻撃役の守られた脇腹かミットへ制御したボディフックを返し、両者構え直して役割を交代します。",
+      "sectionTitle": "ディフェンス"
+    },
+    "ko": {
+      "title": "훅 위빙 후 바디 훅 카운터",
+      "description": "1. 공격자는 방어자의 머리로 느린 훅을 치며, 가벼운 접촉을 약속합니다.\n2. 방어자는 무릎을 굽혀 얕은 U자로 훅 아래를 빠져나가 펀치한 팔의 바깥쪽으로 일어납니다.\n3. 그 각도에서 공격자의 가드된 옆구리나 미트에 통제된 바디 훅으로 반격한 뒤, 두 사람 모두 다시 자세를 잡고 역할을 바꿉니다.",
+      "sectionTitle": "방어"
+    },
+    "th": {
+      "title": "มุดหลบหมัดฮุกแล้วสวนฮุกลำตัว",
+      "description": "1. ผู้ป้อนหมัดเหวี่ยงฮุกช้า ๆ ไปที่ศีรษะผู้ป้องกัน โดยตกลงสัมผัสเบา\n2. ผู้ป้องกันงอเข่ามุดใต้หมัดฮุกเป็นรูปตัวยูตื้น ๆ แล้วโผล่ขึ้นด้านนอกแขนที่ชก\n3. จากมุมนั้นสวนฮุกลำตัวแบบควบคุมไปที่ด้านที่ป้องกันไว้หรือเป้าลำตัว แล้วทั้งคู่ตั้งท่าใหม่และสลับบทบาท",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Нырок под боковой и боковой в корпус",
+      "description": "1. Атакующий наносит медленный боковой в голову защищающегося; партнёры договариваются о лёгком контакте.\n2. Защищающийся сгибает колени и уходит под удар неглубокой дугой, поднимаясь снаружи бьющей руки.\n3. С этого угла он отвечает контролируемым боковым в прикрытый бок атакующего или в щит, затем оба возвращаются в стойку и меняются ролями.",
+      "sectionTitle": "Защита"
+    },
+    "uk": {
+      "title": "Пірнання під боковий і боковий у корпус",
+      "description": "1. Атакувальник завдає повільного бокового в голову того, хто захищається; партнери домовляються про легкий контакт.\n2. Той, хто захищається, згинає коліна й іде під удар неглибокою дугою, піднімаючись зовні руки, що б’є.\n3. Із цього кута він відповідає контрольованим боковим у прикритий бік атакувальника або в щит, потім обидва повертаються в стійку й міняються ролями.",
+      "sectionTitle": "Захист"
+    }
+  }
+}

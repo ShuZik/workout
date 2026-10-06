@@ -1,0 +1,90 @@
+{
+  "id": "7.1",
+  "key": "wrestling",
+  "title": "Wrestling",
+  "description": "1. Begin on mats with a trained partner in a low wrestling stance, hands active and head up.\n2. Drill stance motion, hand fighting, level changes, takedown entries, and par terre turns at controlled intensity.\n3. Finish each exchange on top with control, release immediately on any stop signal, and reset to neutral.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wrestling",
+      "description": "1. Begin on mats with a trained partner in a low wrestling stance, hands active and head up.\n2. Drill stance motion, hand fighting, level changes, takedown entries, and par terre turns at controlled intensity.\n3. Finish each exchange on top with control, release immediately on any stop signal, and reset to neutral.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Lucha",
+      "description": "1. Comienza sobre la colchoneta con un compañero entrenado en una guardia de lucha baja, manos activas y cabeza alta.\n2. Practica desplazamientos, lucha de manos, cambios de nivel, entradas de derribo y giros en par terre a intensidad controlada.\n3. Termina cada intercambio arriba con control, suelta de inmediato ante cualquier señal de parada y vuelve a la posición neutral.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Luta olímpica",
+      "description": "1. Comece no tatame com um parceiro treinado em base baixa de luta, mãos ativas e cabeça erguida.\n2. Treine deslocamento, briga de mãos, mudanças de nível, entradas de queda e viradas no par terre em intensidade controlada.\n3. Termine cada troca por cima com controle, solte imediatamente a qualquer sinal de parada e volte à posição neutra.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Lutte",
+      "description": "1. Commencez sur le tapis avec un partenaire entraîné en garde de lutte basse, mains actives et tête haute.\n2. Travaillez déplacements, combat de mains, changements de niveau, entrées d'amenée au sol et retournements au par terre à intensité contrôlée.\n3. Terminez chaque échange au-dessus avec contrôle, relâchez aussitôt à tout signal d'arrêt et revenez en position neutre.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Ringen",
+      "description": "1. Beginne auf der Matte mit einem geübten Partner in tiefer Ringerstellung, Hände aktiv, Kopf hoch.\n2. Übe Bewegung in der Stellung, Handkampf, Höhenwechsel, Takedown-Ansätze und Bodendrehungen mit kontrollierter Intensität.\n3. Beende jeden Austausch kontrolliert oben, löse sofort bei jedem Stoppsignal und kehre in die neutrale Position zurück.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Lotta",
+      "description": "1. Inizia sul materassino con un partner allenato in guardia bassa da lotta, mani attive e testa alta.\n2. Allena spostamenti, lotta di mani, cambi di livello, entrate per atterramenti e ribaltamenti in par terre a intensità controllata.\n3. Chiudi ogni scambio sopra con controllo, rilascia subito a qualsiasi segnale di stop e torna in posizione neutra.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "摔跤",
+      "description": "1. 与训练有素的同伴在垫上以低摔跤站姿开始，双手主动，抬头。\n2. 以可控强度练习站姿移动、手部争夺、变换高度、抱摔切入和跪撑翻转。\n3. 每次交手以上位控制结束，听到任何停止信号立即松开，回到中立姿势。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "レスリング",
+      "description": "1. 熟練のパートナーとマット上で低いレスリングの構えから始め、手を動かし頭を上げます。\n2. 構えでの動き、ハンドファイト、レベルチェンジ、タックルの入り、パーテールでの返しを制御された強度で練習します。\n3. 各攻防は上で制して終え、停止の合図があれば直ちに離し、ニュートラルに戻ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "레슬링",
+      "description": "1. 숙련된 파트너와 매트에서 낮은 레슬링 자세로 시작하며 손을 움직이고 고개를 듭니다.\n2. 자세 이동, 핸드 파이팅, 레벨 체인지, 테이크다운 진입, 파테르 뒤집기를 통제된 강도로 연습합니다.\n3. 각 공방을 위에서 통제하며 마치고 정지 신호가 있으면 즉시 풀고 중립 자세로 돌아갑니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "มวยปล้ำ",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึกในท่ามวยปล้ำต่ำ มือกระฉับกระเฉง และเงยหน้า\n2. ฝึกการเคลื่อนที่ในท่า การต่อสู้ด้วยมือ กา���เปลี่ยนระดับ การเข้าทุ่ม และการพลิกในตำแหน่งพาร์แตร์ด้วยความหนักที่ควบคุมได้\n3. จบแต่ละจังหวะด้วยการควบคุมจากด้านบน ปล่อยทันทีเมื่อมีสัญญาณหยุด แล้วกลับสู่ท่าเป็นกลาง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Борьба",
+      "description": "1. Начните на ковре с подготовленным партнёром в низкой борцовской стойке, руки активны, голова поднята.\n2. Отрабатывайте передвижения в стойке, борьбу за захват, смену уровня, входы в проходы и перевороты в партере с контролируемой интенсивностью.\n3. Завершайте каждую схватку контролем сверху, сразу отпускайте по любому сигналу остановки и возвращайтесь в нейтральное положение.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Боротьба",
+      "description": "1. Почніть на килимі з підготовленим партнером у низькій борцівській стійці, руки активні, голова піднята.\n2. Відпрацьовуйте пересування в стійці, боротьбу за захват, зміну рівня, входи в проходи й перевороти в партері з контрольованою інтенсивністю.\n3. Завершуйте кожен обмін контролем згори, одразу відпускайте за будь-яким сигналом зупинки й повертайтеся в нейтральне положення.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

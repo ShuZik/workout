@@ -1,0 +1,90 @@
+{
+  "id": "40.25",
+  "key": "karate_empi_uchi_enpi",
+  "title": "Empi Uchi (Enpi)",
+  "description": "1. Set a stable stance with the striking arm bent tightly and the opposite hand protecting or controlling near the body.\n2. Rotate the hips and torso to drive the point of the elbow along the chosen horizontal, rising, or downward line into a pad.\n3. Stop the elbow under control and return the forearm to the chamber or guard without overrotating.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Punches",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Empi Uchi (Enpi)",
+      "description": "1. Set a stable stance with the striking arm bent tightly and the opposite hand protecting or controlling near the body.\n2. Rotate the hips and torso to drive the point of the elbow along the chosen horizontal, rising, or downward line into a pad.\n3. Stop the elbow under control and return the forearm to the chamber or guard without overrotating.",
+      "sectionTitle": "Punches"
+    },
+    "es": {
+      "title": "Empi Uchi (Enpi)",
+      "description": "1. Adopta una postura estable con el brazo que golpea bien flexionado y la mano opuesta protegiendo o controlando cerca del cuerpo.\n2. Gira caderas y torso para llevar la punta del codo por la línea horizontal, ascendente o descendente elegida hacia una almohadilla.\n3. Detén el codo con control y devuelve el antebrazo a la posición preparada o a la guardia sin girar demasiado.",
+      "sectionTitle": "Puñetazos"
+    },
+    "pt": {
+      "title": "Empi Uchi (Enpi)",
+      "description": "1. Assuma uma postura estável com o braço que golpeia bem dobrado e a mão oposta protegendo ou controlando junto ao corpo.\n2. Gire quadris e tronco para levar a ponta do cotovelo pela linha horizontal, ascendente ou descendente escolhida até um aparador.\n3. Pare o cotovelo com controle e retorne o antebraço à preparação ou guarda sem girar demais.",
+      "sectionTitle": "Socos"
+    },
+    "fr": {
+      "title": "Empi Uchi (Enpi)",
+      "description": "1. Prenez une posture stable, bras de frappe bien fléchi et main opposée en protection ou contrôle près du corps.\n2. Tournez les hanches et le torse pour mener la pointe du coude sur la ligne horizontale, montante ou descendante choisie vers un pao.\n3. Arrêtez le coude avec contrôle et ramenez l’avant-bras en position armée ou en garde sans rotation excessive.",
+      "sectionTitle": "Coups de poing"
+    },
+    "de": {
+      "title": "Empi Uchi (Enpi)",
+      "description": "1. Nimm einen stabilen Stand mit eng gebeugtem Schlagarm ein; die andere Hand schützt oder kontrolliert nah am Körper.\n2. Drehe Hüfte und Rumpf, um die Ellbogenspitze auf der gewählten waagerechten, aufsteigenden oder abwärts gerichteten Linie in ein Schlagpolster zu führen.\n3. Stoppe den Ellbogen kontrolliert und bringe den Unterarm ohne Überdrehen in die Ausgangsposition oder Deckung zurück.",
+      "sectionTitle": "Faustschläge"
+    },
+    "it": {
+      "title": "Empi Uchi (Enpi)",
+      "description": "1. Assumi una posizione stabile con il braccio che colpisce ben piegato e la mano opposta in protezione o controllo vicino al corpo.\n2. Ruota anche e busto per dirigere la punta del gomito lungo la linea orizzontale, ascendente o discendente scelta verso un colpitore.\n3. Ferma il gomito con controllo e riporta l’avambraccio in preparazione o guardia senza ruotare troppo.",
+      "sectionTitle": "Pugni"
+    },
+    "zh-Hans": {
+      "title": "猿臂打（肘击）",
+      "description": "1. 站稳，击打手臂紧屈，另一只手在身体附近保护或控制。\n2. 转动髋部和躯干，让肘尖沿所选水平、上升或下降路线击向靶垫。\n3. 受控停肘，将前臂收回预备位或防守位，不要过度旋转。",
+      "sectionTitle": "拳击"
+    },
+    "ja": {
+      "title": "猿臂打ち（エンピ）",
+      "description": "1. 安定した構えを取り、打つ腕をしっかり曲げ、反対の手で体の近くを守るか制御します。\n2. 腰と胴体を回し、選んだ水平、上向き、または下向きの線に沿って肘先をミットへ打ち込みます。\n3. 肘を制御して止め、回しすぎずに前腕を引き手またはガードへ戻します。",
+      "sectionTitle": "突き"
+    },
+    "ko": {
+      "title": "엠피 우치 (엔피)",
+      "description": "1. 안정적인 자세에서 치는 팔을 단단히 굽히고 반대 손은 몸 가까이에서 보호하거나 통제합니다.\n2. 골반과 몸통을 돌려 팔꿈치 끝을 선택한 수평, 위쪽 또는 아래쪽 선을 따라 패드로 보냅니다.\n3. 팔꿈치를 통제해 멈추고 과도하게 돌리지 않으며 전완을 준비 위치나 가드로 되돌립니다.",
+      "sectionTitle": "지르기"
+    },
+    "th": {
+      "title": "เอมปิอุจิ (เอ็นปิ)",
+      "description": "1. ตั้งท่ายืนมั่นคง งอแขนที่ตีให้กระชับ และใช้มืออีกข้างป้องกันหรือควบคุมใกล้ลำตัว\n2. หมุนสะโพกและลำตัวเพื่อส่งปลายศอกตามแนวนอน แนวขึ้น หรือแนวลงที่เลือกเข้าสู่เป้า\n3. หยุดศอกอย่างควบคุมแล้วคืนท่อนแขนสู่ท่าเตรียมหรือการ์ดโดยไม่หมุนเกิน",
+      "sectionTitle": "หมัด"
+    },
+    "ru": {
+      "title": "Эмпи-ути (энпи)",
+      "description": "1. Примите устойчивую стойку, плотно согните ударную руку, а другой рукой защищайте или контролируйте область у корпуса.\n2. Поверните бёдра и корпус, направляя кончик локтя по выбранной горизонтальной, восходящей или нисходящей линии в лапу.\n3. Подконтрольно остановите локоть и верните предплечье в исходное положение или защиту без избыточного поворота.",
+      "sectionTitle": "Удары руками"
+    },
+    "uk": {
+      "title": "Емпі-уті (енпі)",
+      "description": "1. Прийміть стійку позицію, щільно зігніть ударну руку, а іншою рукою захищайте або контролюйте ділянку біля тулуба.\n2. Поверніть стегна й тулуб, спрямовуючи кінчик ліктя за вибраною горизонтальною, висхідною або низхідною лінією в лапу.\n3. Контрольовано зупиніть лікоть і поверніть передпліччя у вихідне положення або захист без надмірного повороту.",
+      "sectionTitle": "Удари руками"
+    }
+  }
+}

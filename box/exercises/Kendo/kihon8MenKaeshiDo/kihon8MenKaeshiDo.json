@@ -1,0 +1,87 @@
+{
+  "id": "69.9",
+  "key": "kendo_kihon_8",
+  "title": "Kihon 8 Men-Kaeshi-Do",
+  "description": "1. Both stand in chudan; motodachi steps in and strikes men.\n2. Kakarite meets the strike on the left side of the own blade while stepping diagonally forward right, turns the wrists over, and cuts the right do.\n3. Kakarite turns to face motodachi with zanshin, and both reset.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kihon 8 Men-Kaeshi-Do",
+      "description": "1. Both stand in chudan; motodachi steps in and strikes men.\n2. Kakarite meets the strike on the left side of the own blade while stepping diagonally forward right, turns the wrists over, and cuts the right do.\n3. Kakarite turns to face motodachi with zanshin, and both reset.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Kihon 8 Men-Kaeshi-Do",
+      "description": "1. Ambos en chudan; motodachi entra y golpea men.\n2. Kakarite recibe el golpe con el lado izquierdo de su hoja mientras avanza en diagonal a la derecha, gira las muñecas y corta el do derecho.\n3. Kakarite se gira hacia motodachi con zanshin y ambos se reinician.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Kihon 8 Men-Kaeshi-Do",
+      "description": "1. Ambos em chudan; motodachi entra e golpeia men.\n2. Kakarite recebe o golpe no lado esquerdo da própria lâmina enquanto avança em diagonal à direita, gira os punhos e corta o do direito.\n3. Kakarite vira para motodachi com zanshin e ambos recomeçam.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Kihon 8 Men-Kaeshi-Do",
+      "description": "1. Tous deux en chudan ; motodachi entre et frappe men.\n2. Kakarite reçoit la frappe sur le côté gauche de sa lame en avançant en diagonale à droite, retourne les poignets et coupe le do droit.\n3. Kakarite se retourne vers motodachi avec zanshin et tous deux recommencent.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Kihon 8 Men-Kaeshi-Do",
+      "description": "1. Beide im Chudan; Motodachi tritt ein und schlägt Men.\n2. Kakarite nimmt den Schlag mit der linken Klingenseite auf, tritt dabei diagonal rechts vor, dreht die Handgelenke um und schneidet rechtes Do.\n3. Kakarite dreht sich mit Zanshin zu Motodachi, beide beginnen neu.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Kihon 8 Men-Kaeshi-Do",
+      "description": "1. Entrambi in chudan; motodachi entra e colpisce men.\n2. Kakarite riceve il colpo sul lato sinistro della propria lama avanzando in diagonale a destra, ruota i polsi e taglia il do destro.\n3. Kakarite si gira verso motodachi con zanshin ed entrambi ricominciano.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "基本8 面返胴",
+      "description": "1. 双方中段构；元立上步击面。\n2. 挂手向右前斜进，以己刀左侧接住击打，翻转手腕斩右胴。\n3. 挂手转身面对元立示残心，双方重设。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "基本8 返し技（面返し胴）",
+      "description": "1. 互いに中段に構え、元立ちが踏み込んで面を打ちます。\n2. 掛り手は右斜め前に出ながら自分の刀の左側（表）で面を受け、手首を返して右胴を打ちます。\n3. 掛り手は元立ちに向き直って残心を示し、互いに構え直します。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "기본 8 머리 받아 허리",
+      "description": "1. 둘 다 중단; 원립이 들어오며 머리를 칩니다.\n2. 괘수가 오른쪽 앞 대각으로 나서며 자기 칼 왼쪽으로 치기를 받고 손목을 뒤집어 오른쪽 허리를 벱니다.\n3. 괘수가 원립을 향해 돌아 잔심을 보이고 둘 다 다시 자세를 잡습니다.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "คิฮง 8 เมน-คาเอชิ-โด",
+      "description": "1. ทั้งคู่ในท่าชูดัง โมโตดาจิก้าวเข้าตีเมน\n2. คาคาริเตะรับการตีด้วยด้านซ้ายของดาบตนขณะก้าวเฉียงไปข้างหน้าทางขวา พลิกข้อมือ แล้วฟันโดขวา\n3. คาคาริเตะหันกลับหาโมโตดาจิพร้อมซันชิน แล้วเริ่มใหม่",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Кихон 8 Мэн-каэси-до",
+      "description": "1. Оба в тюдан; мотодати входит и бьёт мэн.\n2. Какаритэ принимает удар левой стороной своего клинка, шагая по диагонали вперёд вправо, переворачивает кисти и рубит правый до.\n3. Какаритэ поворачивается к мотодати с дзансином, оба начинают заново.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Кіхон 8 Мен-каесі-до",
+      "description": "1. Обоє в тюдан; мотодаті входить і б’є мен.\n2. Какарите приймає удар лівим боком свого клинка, ступаючи по діагоналі вперед праворуч, перевертає кисті й рубає правий до.\n3. Какарите повертається до мотодаті з дзансіном, обоє починають знову.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "68.2",
+  "key": "kempo_kata_individual",
+  "title": "Kempo Kata Individual",
+  "description": "1. Choose one traditional or modern kata, bow, and announce its name as in competition.\n2. Perform the whole kata at competition rhythm with clear stances, focused techniques and a steady gaze.\n3. Finish on the starting spot, hold the closing posture briefly, bow, and note any errors before repeating.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kempo Kata Individual",
+      "description": "1. Choose one traditional or modern kata, bow, and announce its name as in competition.\n2. Perform the whole kata at competition rhythm with clear stances, focused techniques and a steady gaze.\n3. Finish on the starting spot, hold the closing posture briefly, bow, and note any errors before repeating.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Kata individual de kempo",
+      "description": "1. Elige un kata tradicional o moderno, saluda y anuncia su nombre como en competición.\n2. Ejecuta el kata completo con ritmo de competición, posturas claras, técnicas con intención y mirada estable.\n3. Termina en el punto de inicio, mantén brevemente la postura final, saluda y anota los errores antes de repetir.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Kata individual de kempo",
+      "description": "1. Escolha um kata tradicional ou moderno, cumprimente e anuncie o nome como em competição.\n2. Execute o kata completo em ritmo de competição, com bases nítidas, técnicas focadas e olhar firme.\n3. Termine no ponto de partida, mantenha brevemente a postura final, cumprimente e anote os erros antes de repetir.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Kata individuel de kempo",
+      "description": "1. Choisissez un kata traditionnel ou moderne, saluez et annoncez son nom comme en compétition.\n2. Exécutez le kata en entier au rythme de compétition, avec des positions nettes, des techniques concentrées et un regard stable.\n3. Terminez sur le point de départ, tenez brièvement la posture finale, saluez et notez les erreurs avant de recommencer.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Kempo-Kata Einzel",
+      "description": "1. Wähle eine traditionelle oder moderne Kata, verbeuge dich und nenne ihren Namen wie im Wettkampf.\n2. Laufe die ganze Kata im Wettkampfrhythmus mit klaren Stellungen, konzentrierten Techniken und ruhigem Blick.\n3. Ende am Startpunkt, halte die Schlussposition kurz, verbeuge dich und notiere Fehler vor der Wiederholung.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Kata individuale di kempo",
+      "description": "1. Scegli un kata tradizionale o moderno, saluta e annuncia il nome come in gara.\n2. Esegui il kata completo al ritmo di gara, con posizioni nette, tecniche concentrate e sguardo fermo.\n3. Termina sul punto di partenza, mantieni brevemente la posizione finale, saluta e annota gli errori prima di ripetere.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "拳法个人型",
+      "description": "1. 选择一个传统或现代的型，行礼并像比赛一样报出名称。\n2. 以比赛节奏完整演练该型，步型清楚、技术专注、目光稳定。\n3. 回到起点收势，短暂保持结束姿势，行礼，并在重复前记下失误。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "拳法 個人形",
+      "description": "1. 伝統または現代の形を一つ選び、礼をして試合のように形名を告げます。\n2. 立ち方を明確に、技に集中し、目線を安定させて試合のリズムで形全体を演武します。\n3. 開始位置で終わり、終わりの姿勢を少し保って礼をし、繰り返す前に誤りを確認します。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "켐포 개인 카타",
+      "description": "1. 전통 또는 현대 카타 하나를 고르고 인사한 뒤 시합처럼 이름을 말합니다.\n2. 명확한 서기, 집중된 기술, 안정된 시선으로 시합 리듬에 맞춰 카타 전체를 수행합니다.\n3. 시작 지점에서 마치고 마무리 자세를 잠시 유지한 뒤 인사하고, 반복 전에 실수를 점검합니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "กาตะเดี่ยวเคมโป",
+      "description": "1. เลือกกาตะแบบดั้งเดิมหรือสมัยใหม่หนึ่งชุด ทำความเคารพ และประกาศชื่อเหมือนในการแข่งขัน\n2. แสดงกาตะทั้งชุดด้วยจังหวะการแข่งขัน ท่ายืนชัดเจน เทคนิคมีสมาธิ และสายตามั่นคง\n3. จบที่จุดเริ่ม ค้างท่าปิดสักครู่ ทำความเคารพ และทบทวนข้อผิดพลาดก่อนทำซ้ำ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Индивидуальное ката кэмпо",
+      "description": "1. Выберите одно традиционное или совре��енное ката, поклонитесь и назовите его, как на соревнованиях.\n2. Выполните ката целиком в соревновательном ритме с чёткими стойками, сосредоточенной техникой и устойчивым взглядом.\n3. Закончите на стартовой точке, ненадолго задержите финальную позицию, поклонитесь и отметьте ошибки перед повтором.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Індивідуальне ката кемпо",
+      "description": "1. Оберіть одне традиційне або сучасне ката, вклоніться й назвіть його, як на змаганнях.\n2. Виконайте ката повністю в змагальному ритмі з чіткими стійками, зосередженою технікою й стійким поглядом.\n3. Завершіть на стартовій точці, ненадовго затримайте фінальну позицію, вклоніться й відзначте помилки перед повтором.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

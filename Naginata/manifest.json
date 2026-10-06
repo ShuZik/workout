@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#AF6ED7",
+    "colorType": "violet",
+    "folder": "Naginata",
+    "id": "83",
+    "icon": "Naginata/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Naginata",
+    "workoutType": "naginata",
+    "translations": {
+      "en": {
+        "title": "Naginata"
+      },
+      "es": {
+        "title": "Naginata"
+      },
+      "pt": {
+        "title": "Naginata"
+      },
+      "fr": {
+        "title": "Naginata"
+      },
+      "de": {
+        "title": "Naginata"
+      },
+      "it": {
+        "title": "Naginata"
+      },
+      "zh-Hans": {
+        "title": "薙刀"
+      },
+      "ja": {
+        "title": "なぎなた"
+      },
+      "ko": {
+        "title": "나기나타"
+      },
+      "th": {
+        "title": "นากินาตะ"
+      },
+      "ru": {
+        "title": "Нагината"
+      },
+      "uk": {
+        "title": "Нагіната"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Naginata/exercises/naginata/Icon.png",
+      "json": "Naginata/exercises/naginata/naginata.json"
+    },
+    {
+      "icon": "Naginata/exercises/hassoNoKamae/Icon.png",
+      "json": "Naginata/exercises/hassoNoKamae/hassoNoKamae.json"
+    },
+    {
+      "icon": "Naginata/exercises/wakiNoKamae/Icon.png",
+      "json": "Naginata/exercises/wakiNoKamae/wakiNoKamae.json"
+    },
+    {
+      "icon": "Naginata/exercises/ashiSabakiFootwork/Icon.png",
+      "json": "Naginata/exercises/ashiSabakiFootwork/ashiSabakiFootwork.json"
+    },
+    {
+      "icon": "Naginata/exercises/menUchi/Icon.png",
+      "json": "Naginata/exercises/menUchi/menUchi.json"
+    },
+    {
+      "icon": "Naginata/exercises/koteUchi/Icon.png",
+      "json": "Naginata/exercises/koteUchi/koteUchi.json"
+    },
+    {
+      "icon": "Naginata/exercises/doUchi/Icon.png",
+      "json": "Naginata/exercises/doUchi/doUchi.json"
+    },
+    {
+      "icon": "Naginata/exercises/suneUchi/Icon.png",
+      "json": "Naginata/exercises/suneUchi/suneUchi.json"
+    },
+    {
+      "icon": "Naginata/exercises/tsuki/Icon.png",
+      "json": "Naginata/exercises/tsuki/tsuki.json"
+    },
+    {
+      "icon": "Naginata/exercises/shikakeOjiWazaPractice/Icon.png",
+      "json": "Naginata/exercises/shikakeOjiWazaPractice/shikakeOjiWazaPractice.json"
+    }
+  ]
+}

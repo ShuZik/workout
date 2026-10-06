@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "NihonKempo",
+    "id": "84",
+    "icon": "NihonKempo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Nihon Kempo",
+    "workoutType": "nihonKempo",
+    "translations": {
+      "en": {
+        "title": "Nihon Kempo"
+      },
+      "es": {
+        "title": "Nihon Kempo"
+      },
+      "pt": {
+        "title": "Nihon Kempô"
+      },
+      "fr": {
+        "title": "Nihon Kempo"
+      },
+      "de": {
+        "title": "Nihon Kempō"
+      },
+      "it": {
+        "title": "Nihon Kempo"
+      },
+      "zh-Hans": {
+        "title": "日本拳法"
+      },
+      "ja": {
+        "title": "日本拳法"
+      },
+      "ko": {
+        "title": "니혼 켐포"
+      },
+      "th": {
+        "title": "นิฮงเคมโป"
+      },
+      "ru": {
+        "title": "Нихон кэмпо"
+      },
+      "uk": {
+        "title": "Ніхон кемпо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "NihonKempo/exercises/nihonKempo/Icon.png",
+      "json": "NihonKempo/exercises/nihonKempo/nihonKempo.json"
+    },
+    {
+      "icon": "NihonKempo/exercises/kamaeGuardStance/Icon.png",
+      "json": "NihonKempo/exercises/kamaeGuardStance/kamaeGuardStance.json"
+    },
+    {
+      "icon": "NihonKempo/exercises/footworkDrill/Icon.png",
+      "json": "NihonKempo/exercises/footworkDrill/footworkDrill.json"
+    },
+    {
+      "icon": "NihonKempo/exercises/straightPunchChokuZuki/Icon.png",
+      "json": "NihonKempo/exercises/straightPunchChokuZuki/straightPunchChokuZuki.json"
+    },
+    {
+      "icon": "NihonKempo/exercises/frontKickToTheDo/Icon.png",
+      "json": "NihonKempo/exercises/frontKickToTheDo/frontKickToTheDo.json"
+    },
+    {
+      "icon": "NihonKempo/exercises/takedownWithFinishingStrike/Icon.png",
+      "json": "NihonKempo/exercises/takedownWithFinishingStrike/takedownWithFinishingStrike.json"
+    },
+    {
+      "icon": "NihonKempo/exercises/punchAndKickMittRounds/Icon.png",
+      "json": "NihonKempo/exercises/punchAndKickMittRounds/punchAndKickMittRounds.json"
+    },
+    {
+      "icon": "NihonKempo/exercises/boguKumiteSparring/Icon.png",
+      "json": "NihonKempo/exercises/boguKumiteSparring/boguKumiteSparring.json"
+    }
+  ]
+}

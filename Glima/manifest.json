@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#4766C1",
+    "colorType": "indigo",
+    "folder": "Glima",
+    "id": "56",
+    "icon": "Glima/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Glima",
+    "workoutType": "glima",
+    "translations": {
+      "en": {
+        "title": "Glima"
+      },
+      "es": {
+        "title": "Glima"
+      },
+      "pt": {
+        "title": "Glima"
+      },
+      "fr": {
+        "title": "Glima"
+      },
+      "de": {
+        "title": "Glíma"
+      },
+      "it": {
+        "title": "Glima"
+      },
+      "zh-Hans": {
+        "title": "冰岛式摔跤"
+      },
+      "ja": {
+        "title": "グリマ"
+      },
+      "ko": {
+        "title": "글리마"
+      },
+      "th": {
+        "title": "กลีมา"
+      },
+      "ru": {
+        "title": "Глима"
+      },
+      "uk": {
+        "title": "Гліма"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Glima/exercises/glima/Icon.png",
+      "json": "Glima/exercises/glima/glima.json"
+    },
+    {
+      "icon": "Glima/exercises/glimaStepping/Icon.png",
+      "json": "Glima/exercises/glimaStepping/glimaStepping.json"
+    }
+  ]
+}

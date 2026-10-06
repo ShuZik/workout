@@ -1,0 +1,90 @@
+{
+  "id": "94.1",
+  "key": "sports_chanbara_main",
+  "title": "Sports Chanbara",
+  "description": "1. Hold an air-filled kodachi in a relaxed one-handed grip, stand light on the feet, and keep the free hand away from the target zone.\n2. Move in and out of range and deliver quick controlled strikes to the head, wrist, trunk, and legs, using footwork rather than strength.\n3. Recover your guard after each strike; in sparring wear the face mask and stop at once when a hit is called.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sports Chanbara",
+      "description": "1. Hold an air-filled kodachi in a relaxed one-handed grip, stand light on the feet, and keep the free hand away from the target zone.\n2. Move in and out of range and deliver quick controlled strikes to the head, wrist, trunk, and legs, using footwork rather than strength.\n3. Recover your guard after each strike; in sparring wear the face mask and stop at once when a hit is called.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Sports Chanbara",
+      "description": "1. Sostén un kodachi inflable con agarre relajado a una mano, mantente ligero sobre los pies y aleja la mano libre de la zona de impacto.\n2. Entra y sal de distancia y lanza golpes rápidos y controlados a la cabeza, la muñeca, el tronco y las piernas, usando los pies más que la fuerza.\n3. Recupera la guardia tras cada golpe; en combate usa la careta y detente en cuanto se cante un impacto.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Sports Chanbara",
+      "description": "1. Segure um kodachi inflável com pegada relaxada de uma mão, fique leve sobre os pés e mantenha a mão livre longe da zona de alvo.\n2. Entre e saia da distância e aplique golpes rápidos e controlados na cabeça, no pulso, no tronco e nas pernas, usando os pés mais que a força.\n3. Recupere a guarda após cada golpe; no combate use a máscara e pare assim que um toque for anunciado.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Sports Chanbara",
+      "description": "1. Tenez un kodachi gonflable d’une main sans crispation, restez léger sur les appuis et gardez la main libre hors de la zone de touche.\n2. Entrez et sortez de distance et portez des frappes rapides et contrôlées à la tête, au poignet, au tronc et aux jambes, par le jeu de jambes plutôt que la force.\n3. Reprenez la garde après chaque frappe ; en combat, portez le masque et arrêtez dès qu’une touche est annoncée.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Sports Chanbara",
+      "description": "1. Ein luftgefülltes Kodachi locker einhändig halten, leichtfüßig stehen und die freie Hand aus der Trefferzone halten.\n2. In die Distanz hinein und heraus bewegen und schnelle kontrollierte Treffer zu Kopf, Handgelenk, Rumpf und Beinen setzen, über Fußarbeit statt Kraft.\n3. Nach jedem Treffer die Deckung wiederherstellen; im Kampf die Gesichtsmaske tragen und sofort stoppen, wenn ein Treffer angesagt wird.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Sports Chanbara",
+      "description": "1. Impugna un kodachi gonfiabile con presa rilassata a una mano, resta leggero sui piedi e tieni la mano libera fuori dalla zona bersaglio.\n2. Entra ed esci dalla distanza e porta colpi rapidi e controllati a testa, polso, tronco e gambe, usando il gioco di gambe più che la forza.\n3. Ritrova la guardia dopo ogni colpo; nel combattimento indossa la maschera e fermati appena viene chiamato un colpo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "运动チャンバラ（运动剑道）",
+      "description": "1. 单手放松握住充气小太刀，脚步轻盈，空手远离有效打击区。\n2. 进出间合，以步法而非蛮力对头部、手腕、躯干和腿部进行快速受控的击打。\n3. 每次击打后恢复戒备；对练时佩戴面罩，一旦宣布击中立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "スポーツチャンバラ",
+      "description": "1. エアーソフト剣の小太刀を片手で柔らかく持ち、足取りを軽くし、空いた手は打突部位から離します。\n2. 間合いに出入りしながら、力ではなく足さばきで面・小手・胴・足へ素早く制御した打ちを出します。\n3. 打つたびに構えを戻し、試合形式では面を着け、打ちが宣告されたら直ちに止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "스포츠 찬바라",
+      "description": "1. 공기를 넣은 소태도(고다치)를 한 손으로 가볍게 잡고 발을 가볍게 하며 빈손은 타격 부위에서 멀리 둡니다.\n2. 거리 안팎으로 움직이며 힘보다 발놀림으로 머리, 손목, 몸통, 다리에 빠르고 통제된 타격을 합니다.\n3. 타격마다 자세를 회복하고, 대련에서는 안면 마스크를 쓰며 타격이 선언되면 즉시 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "สปอร์ตชันบาระ",
+      "description": "1. ถือดาบสั้นเป่าลม (โคดาจิ) ด้วยมือเดียวแบบผ่อนคลาย ยืนเบาเท้า และเก็บมือที่ว่างให้ห่างจากเป้า\n2. เคลื่อนเข้าออกระยะ และตีอย่างรวดเร็วที่ควบคุมได้ไปที่ศีรษะ ข้อมือ ลำตัว และขา โดยใช้ฟุตเวิร์กมากกว่าแรง\n3. กลับสู่การ์ดหลังการตีแต่ละครั้ง เมื่อซ้อมต่อสู้ให้สวมหน้ากาก และหยุดทันทีเมื่อมีการประกาศการตีถูก",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Спортивная чанбара",
+      "description": "1. Держите надувной кодати одной рукой расслабленным хватом, стойте легко на ногах и уберите свободную руку из зоны поражения.\n2. Входите в дистанцию и выходите из неё, нанося быстрые контролируемые удары в голову, запястье, корпус и ноги за счёт работы ног, а не силы.\n3. После каждого удара восстанавливайте защиту; в поединке надевайте маску и сразу останавливайтесь при объявлении попадания.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Спортивна чанбара",
+      "description": "1. Тримайте надувний кодаті однією рукою розслабленим хватом, стійте легко на ногах і приберіть вільну руку із зони ураження.\n2. Входьте в дистанцію й виходьте з неї, завдаючи швидких контрольованих ударів у голову, зап’ястя, корпус і ноги за рахунок роботи ніг, а не сили.\n3. Після кожного удару відновлюйте захист; у поєдинку вдягайте маску й одразу зупиняйтеся, коли оголошено влучання.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

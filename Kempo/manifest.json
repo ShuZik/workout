@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#E6BF00",
+    "colorType": "yellow",
+    "folder": "Kempo",
+    "id": "68",
+    "icon": "Kempo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Kempo",
+    "workoutType": "kempo",
+    "translations": {
+      "en": {
+        "title": "Kempo"
+      },
+      "es": {
+        "title": "Kempo"
+      },
+      "pt": {
+        "title": "Kempô"
+      },
+      "fr": {
+        "title": "Kempo"
+      },
+      "de": {
+        "title": "Kempō"
+      },
+      "it": {
+        "title": "Kempo"
+      },
+      "zh-Hans": {
+        "title": "拳法"
+      },
+      "ja": {
+        "title": "拳法"
+      },
+      "ko": {
+        "title": "켐포"
+      },
+      "th": {
+        "title": "เคมโป"
+      },
+      "ru": {
+        "title": "Кэмпо"
+      },
+      "uk": {
+        "title": "Кемпо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Kempo/exercises/kempo/Icon.png",
+      "json": "Kempo/exercises/kempo/kempo.json"
+    },
+    {
+      "icon": "Kempo/exercises/kempoKataIndividual/Icon.png",
+      "json": "Kempo/exercises/kempoKataIndividual/kempoKataIndividual.json"
+    },
+    {
+      "icon": "Kempo/exercises/kempoKataSynchronic/Icon.png",
+      "json": "Kempo/exercises/kempoKataSynchronic/kempoKataSynchronic.json"
+    },
+    {
+      "icon": "Kempo/exercises/kempoSelfDefenseKombat/Icon.png",
+      "json": "Kempo/exercises/kempoSelfDefenseKombat/kempoSelfDefenseKombat.json"
+    },
+    {
+      "icon": "Kempo/exercises/kempoSelfDefenseSport/Icon.png",
+      "json": "Kempo/exercises/kempoSelfDefenseSport/kempoSelfDefenseSport.json"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#01C5A5",
+    "colorType": "teal",
+    "folder": "Breathwork",
+    "id": "18",
+    "icon": "Breathwork/Icon.png",
+    "symbolName": "lungs.fill",
+    "title": "Breathwork",
+    "workoutType": "breathwork",
+    "translations": {
+      "en": {
+        "title": "Breathwork"
+      },
+      "es": {
+        "title": "Respiración"
+      },
+      "pt": {
+        "title": "Respiração"
+      },
+      "fr": {
+        "title": "Respiration"
+      },
+      "de": {
+        "title": "Atemübungen"
+      },
+      "it": {
+        "title": "Respirazione"
+      },
+      "zh-Hans": {
+        "title": "呼吸练习"
+      },
+      "ja": {
+        "title": "呼吸法"
+      },
+      "ko": {
+        "title": "호흡 훈련"
+      },
+      "th": {
+        "title": "ฝึกการหายใจ"
+      },
+      "ru": {
+        "title": "Дыхательные практики"
+      },
+      "uk": {
+        "title": "Дихальні практики"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Breathwork/exercises/guidedBreathing/Icon.png",
+      "json": "Breathwork/exercises/guidedBreathing/guidedBreathing.json"
+    },
+    {
+      "json": "Breathwork/exercises/bellyBreathing/bellyBreathing.json",
+      "icon": "Breathwork/exercises/bellyBreathing/Icon.png"
+    },
+    {
+      "json": "Breathwork/exercises/boxBreathing/boxBreathing.json",
+      "icon": "Breathwork/exercises/boxBreathing/Icon.png"
+    },
+    {
+      "json": "Breathwork/exercises/fourSevenEightBreathing/fourSevenEightBreathing.json",
+      "icon": "Breathwork/exercises/fourSevenEightBreathing/Icon.png"
+    },
+    {
+      "json": "Breathwork/exercises/coherentBreathing/coherentBreathing.json",
+      "icon": "Breathwork/exercises/coherentBreathing/Icon.png"
+    },
+    {
+      "json": "Breathwork/exercises/pursedLipBreathing/pursedLipBreathing.json",
+      "icon": "Breathwork/exercises/pursedLipBreathing/Icon.png"
+    },
+    {
+      "json": "Breathwork/exercises/alternateNostrilBreathing/alternateNostrilBreathing.json",
+      "icon": "Breathwork/exercises/alternateNostrilBreathing/Icon.png"
+    }
+  ]
+}

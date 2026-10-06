@@ -1,0 +1,90 @@
+{
+  "id": "109.3",
+  "key": "wushu_nanquan",
+  "title": "Nanquan",
+  "description": "1. Start in a ready stance with the fists at the waist, chest lifted, and a firm, low base.\n2. Perform the nanquan routine with low, stable stances, short powerful hand techniques, bridge-arm actions, and few kicks, driving power from the legs and hips.\n3. Exhale sharply on power moves, keep every stance rooted, and finish with the closing salute in a stable stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "wushu",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Nanquan",
+      "description": "1. Start in a ready stance with the fists at the waist, chest lifted, and a firm, low base.\n2. Perform the nanquan routine with low, stable stances, short powerful hand techniques, bridge-arm actions, and few kicks, driving power from the legs and hips.\n3. Exhale sharply on power moves, keep every stance rooted, and finish with the closing salute in a stable stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Nanquan",
+      "description": "1. Empieza en posición de preparación con los puños en la cintura, el pecho elevado y una base firme y baja.\n2. Ejecuta la rutina de nanquan con posiciones bajas y estables, técnicas de mano cortas y potentes, acciones de brazo puente y pocas patadas, generando la fuerza desde piernas y caderas.\n3. Exhala con fuerza en los movimientos de potencia, mantén cada posición enraizada y termina con el saludo de cierre en una posición estable.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Nanquan",
+      "description": "1. Comece em posição de prontidão com punhos na cintura, peito erguido e uma base firme e baixa.\n2. Execute a rotina de nanquan com bases baixas e estáveis, técnicas de mão curtas e potentes, ações de braço-ponte e poucos chutes, gerando força das pernas e do quadril.\n3. Expire com força nos movimentos de potência, mantenha cada base enraizada e termine com a saudação de encerramento em base estável.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Nanquan",
+      "description": "1. Commencez en position prête, poings aux hanches, poitrine ouverte et base basse et solide.\n2. Exécutez l’enchaînement de nanquan avec des positions basses et stables, des techniques de main courtes et puissantes, des actions de bras-pont et peu de coups de pied, en tirant la force des jambes et des hanches.\n3. Expirez vivement sur les mouvements de puissance, gardez chaque position ancrée et terminez par le salut de clôture dans une position stable.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Nanquan",
+      "description": "1. Beginne in Bereitschaftsstellung mit Fäusten an der Hüfte, gehobener Brust und fester, tiefer Basis.\n2. Laufe die Nanquan-Routine mit tiefen, stabilen Stellungen, kurzen kraftvollen Handtechniken, Brückenarm-Aktionen und wenigen Tritten, die Kraft aus Beinen und Hüfte.\n3. Atme bei Kraftbewegungen kräftig aus, halte jede Stellung verwurzelt und schließe mit dem Schlussgruß in stabiler Stellung ab.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Nanquan",
+      "description": "1. Inizia in posizione di pronto con i pugni ai fianchi, il petto sollevato e una base bassa e solida.\n2. Esegui la routine di nanquan con posizioni basse e stabili, tecniche di mano corte e potenti, azioni del braccio-ponte e pochi calci, generando forza da gambe e anche.\n3. Espira con decisione nei movimenti di potenza, mantieni ogni posizione radicata e chiudi con il saluto finale in posizione stabile.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "南拳",
+      "description": "1. 并步站立，双拳抱腰，挺胸，下盘稳固。\n2. 演练南拳套路：步型低而稳，手法短促有力，多桥手动作，腿法较少，发力源于腿和腰胯。\n3. 发力动作配合发声呼气，每个步型扎稳，最后在稳定的步型中抱拳收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "南拳",
+      "description": "1. 拳を腰に構え、胸を張り、低く安定した土台の準備姿勢で始めます。\n2. 低く安定した歩型、短く力強い手技、橋手の動作、少なめの蹴りで南拳套路を行い、力を脚と腰から生み出します。\n3. 発力の動作では鋭く息を吐き、すべての歩型を安定させ、安定した姿勢で終わりの礼をします。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "남권",
+      "description": "1. 주먹을 허리에 두고 가슴을 펴며 낮고 단단한 기반의 준비 자세로 시작합니다.\n2. 낮고 안정된 보형, 짧고 강한 손 기술, 교수 동작, 적은 발차기로 남권 투로를 수행하며 다리와 골반에서 힘을 냅니다.\n3. 발력 동작에서 날카롭게 숨을 내쉬고 모든 보형을 단단히 유지한 뒤 안정된 자세로 마무리 인사를 합니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "หนานเฉวียน",
+      "description": "1. เริ่มในท่าเตรียม กำหมัดที่เอว ยืดอก และฐานต่ำมั่นคง\n2. รำชุดหนานเฉวียนด้วยท่ายืนต่ำและมั่นคง เทคนิคมือสั้นทรงพลัง ท่าแขนสะพาน และเตะน้อย โดยส่งแรงจากขาและสะโพก\n3. หายใจออกแรง ๆ ในจังหวะออกแรง รักษาทุกท่ายืนให้หนักแน่น แล้วคารวะจบในท่ายืนที่มั่นคง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Наньцюань",
+      "description": "1. Начните в стойке готовности: кулаки у пояса, грудь раскрыта, база низкая и прочная.\n2. Выполните комплекс наньцюань с низкими устойчивыми стойками, короткими мощными техниками рук, действиями «руки-мосты» и небольшим числом ударов ногами, вкладывая силу от ног и бёдер.\n3. Резко выдыхайте на силовых движениях, сохраняйте укоренённость каждой стойки и завершите приветствием в устойчивой стойке.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Наньцюань",
+      "description": "1. Почніть у стійці готовності: кулаки біля пояса, груди розкриті, база низька й міцна.\n2. Виконайте комплекс наньцюань з низькими стійкими стійками, короткими потужними техніками рук, діями «руки-мости» й невеликою кількістю ударів ногами, вкладаючи силу від ніг і стегон.\n3. Різко видихайте на силових рухах, зберігайте вкоріненість кожної стійки й завершіть привітанням у стійкій стійці.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

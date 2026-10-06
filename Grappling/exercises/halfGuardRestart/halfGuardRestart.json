@@ -1,0 +1,90 @@
+{
+  "id": "58.2",
+  "key": "grappling_half_guard_restart",
+  "title": "Half Guard Restart",
+  "description": "1. Start with the bottom partner holding one of the top partner's legs between the legs and an underhook or frame.\n2. On a signal, the bottom partner works to sweep or recover full guard while the top partner works to pass or stabilize.\n3. Stop when a position is secured or at any tap, then reset to half guard and switch roles.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "grappling",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Half Guard Restart",
+      "description": "1. Start with the bottom partner holding one of the top partner's legs between the legs and an underhook or frame.\n2. On a signal, the bottom partner works to sweep or recover full guard while the top partner works to pass or stabilize.\n3. Stop when a position is secured or at any tap, then reset to half guard and switch roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Reinicio en media guardia",
+      "description": "1. Empieza con el compañero de abajo sujetando una pierna del de arriba entre sus piernas y con un underhook o un marco.\n2. A la señal, el de abajo busca barrer o recuperar la guardia completa mientras el de arriba busca pasar o estabilizar.\n3. Para cuando se asegure una posición o ante cualquier golpe de rendición, vuelve a la media guardia y cambiad de rol.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Reinício na meia-guarda",
+      "description": "1. Comece com o parceiro de baixo prendendo uma perna do de cima entre as pernas e com um underhook ou enquadramento.\n2. Ao sinal, o de baixo busca raspar ou recuperar a guarda fechada enquanto o de cima busca passar ou estabilizar.\n3. Pare quando uma posição for garantida ou a qualquer batida, volte à meia-guarda e troquem de papel.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Reprise en demi-garde",
+      "description": "1. Commencez avec le partenaire du dessous tenant une jambe de celui du dessus entre ses jambes, avec un dessous de bras ou un cadre.\n2. Au signal, celui du dessous cherche à renverser ou à reprendre la garde fermée, celui du dessus à passer ou à stabiliser.\n3. Arrêtez dès qu'une position est acquise ou à toute tape, revenez en demi-garde et inversez les rôles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Neustart aus der halben Guard",
+      "description": "1. Der untere Partner hält ein Bein des oberen zwischen den Beinen, mit Unterhaken oder Frame.\n2. Auf ein Signal versucht der untere zu sweepen oder die volle Guard zurückzugewinnen, der obere zu passieren oder zu stabilisieren.\n3. Stoppt, sobald eine Position gesichert ist oder bei jedem Abklopfen, startet erneut aus der halben Guard und tauscht die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Ripartenza da mezza guardia",
+      "description": "1. Inizia con il partner sotto che tiene una gamba di quello sopra tra le gambe, con un underhook o un frame.\n2. Al segnale, chi è sotto cerca di ribaltare o recuperare la guardia chiusa, chi è sopra di passare o stabilizzare.\n3. Fermatevi quando una posizione è assicurata o a qualsiasi tap, ripartite da mezza guardia e scambiate i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "半防守重新开始",
+      "description": "1. 下位同伴用双腿夹住上位同伴的一条腿，并取得下钩或支架。\n2. 听到信号后，下位努力扫翻或恢复全防守，上位努力过腿或稳住。\n3. 取得稳定位置或任何拍击时停止，回到半防守并交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ハーフガード再開",
+      "description": "1. 下の人が上の人の片脚を両脚で挟み、アンダーフックかフレームを作った状態から始めます。\n2. 合図で下はスイープかフルガードの回復を、上はパスか安定を狙います。\n3. ポジションが確保されるかタップで止め、ハーフガードに戻して役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "하프 가드 재시작",
+      "description": "1. 아래 파트너가 위 파트너의 한쪽 다리를 다리 사이에 끼우고 언더훅이나 프레임을 만든 상태로 시작합니다.\n2. 신호에 맞춰 아래는 스윕이나 풀 가드 회복을, 위는 패스나 안정화를 시도합니다.\n3. 포지션이 확보되거나 탭이 나오면 멈추고 하프 가드로 돌아가 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "เริ่มใหม่จากฮาล์ฟการ์ด",
+      "description": "1. เริ่มโดยคู่ฝึกด้านล่างหนีบขาข้างหนึ่งของคู่ฝึกด้านบนไว้ระหว่างขา พร้อมอันเดอร์ฮุกหรือการค้ำ\n2. เมื่อได้สัญญาณ ด้านล่างพยายามสวีปหรือกลับสู่ฟูลการ์ด ส่วนด้านบนพยายามผ่านการ์ดหรือทรงตำแหน่ง\n3. หยุดเมื่อได้ตำแหน่งมั่นคงหรือมีการตบ แล้วกลับสู่ฮาล์ฟการ์ดและสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Старт из полугарда",
+      "description": "1. Нижний партнёр удерживает одну ногу верхнего между своими ногами, имея подхват или упор.\n2. По сигналу нижний стремится сделать свип или вернуть полный гард, а верхний — пройти или стабилизироваться.\n3. Остановитесь при закреплении позиции или любом хлопке, вернитесь в полугард и смените роли.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Старт із напівгарду",
+      "description": "1. Нижній партнер утримує одну ногу верхнього між своїми ногами, маючи підхоплення або упор.\n2. За сигналом нижній прагне зробити свіп або повернути повний гард, а верхній — пройти чи стабілізуватися.\n3. Зупиніться, коли позицію закріплено, або за будь-якого плескання, поверніться в напівгард і поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

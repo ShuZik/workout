@@ -1,0 +1,90 @@
+{
+  "id": "91.9",
+  "key": "shorinji_kempo_okuri_gote",
+  "title": "Okuri Gote Wrist Lock",
+  "description": "1. Attacker grips the defender's lapel; defender covers the gripping hand and holds it firmly against the chest.\n2. Defender bends the attacker's wrist toward the forearm, raises the elbow, and sinks the hips to bring the attacker down onto the knees.\n3. Defender applies pressure gradually and releases the moment the attacker taps, then helps the attacker up and roles switch.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Okuri Gote Wrist Lock",
+      "description": "1. Attacker grips the defender's lapel; defender covers the gripping hand and holds it firmly against the chest.\n2. Defender bends the attacker's wrist toward the forearm, raises the elbow, and sinks the hips to bring the attacker down onto the knees.\n3. Defender applies pressure gradually and releases the moment the attacker taps, then helps the attacker up and roles switch.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Luxación de muñeca okuri gote",
+      "description": "1. El atacante agarra la solapa del defensor; el defensor cubre la mano que agarra y la sujeta con firmeza contra el pecho.\n2. El defensor flexiona la muñeca del atacante hacia el antebrazo, eleva su codo y baja la cadera para llevarlo de rodillas.\n3. El defensor aplica la presión poco a poco y suelta en cuanto el atacante golpea; luego lo ayuda a levantarse y se intercambian los papeles.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Chave de punho okuri gote",
+      "description": "1. O atacante agarra a lapela do defensor; o defensor cobre a mão que agarra e a prende firmemente contra o peito.\n2. O defensor dobra o punho do atacante em direção ao antebraço, eleva o cotovelo dele e abaixa o quadril para levá-lo de joelhos.\n3. O defensor aplica a pressão aos poucos e solta assim que o atacante bate; depois o ajuda a levantar e os papéis se invertem.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Clé de poignet okuri gote",
+      "description": "1. L'attaquant saisit le revers du défenseur ; le défenseur couvre la main qui saisit et la plaque fermement contre sa poitrine.\n2. Le défenseur plie le poignet de l'attaquant vers l'avant-bras, lui lève le coude et descend les hanches pour l'amener à genoux.\n3. Le défenseur applique la pression progressivement et lâche dès que l'attaquant tape, puis l'aide à se relever et les rôles s'inversent.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Okuri Gote – Handgelenkhebel",
+      "description": "1. Der Angreifer greift das Revers des Verteidigers; der Verteidiger deckt die greifende Hand ab und hält sie fest an der Brust.\n2. Der Verteidiger beugt das Handgelenk des Angreifers zum Unterarm, hebt dessen Ellbogen an und senkt die Hüfte, um ihn auf die Knie zu bringen.\n3. Der Verteidiger steigert den Druck allmählich und lässt sofort los, wenn der Angreifer abklopft, hilft ihm dann auf, und die Rollen werden getauscht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Leva al polso okuri gote",
+      "description": "1. L'attaccante afferra il bavero del difensore; il difensore copre la mano che afferra e la tiene ferma contro il petto.\n2. Il difensore piega il polso dell'attaccante verso l'avambraccio, ne solleva il gomito e abbassa le anche per portarlo in ginocchio.\n3. Il difensore applica la pressione gradualmente e lascia appena l'attaccante batte, poi lo aiuta a rialzarsi e i ruoli si scambiano.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "送小手",
+      "description": "1. 攻者抓住守者衣领；守者按住其抓握的手，牢牢贴在胸前。\n2. 守者将攻者手腕向前臂方向折屈，抬起其肘部并沉腰，使其跪倒。\n3. 守者逐渐加压，攻者一拍击示意就立即放开，再扶其起身，然后互换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "送小手",
+      "description": "1. 攻者が守者の襟をつかみ、守者はつかんだ手を押さえて胸にしっかりと固定します。\n2. 守者は攻者の手首を前腕の方へ曲げ、肘を上げながら腰を落とし、攻者を膝つきにさせます。\n3. 守者は圧を徐々にかけ、攻者が合図した瞬間に放し、助け起こしてから役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "오쿠리고테 손목 꺾기",
+      "description": "1. 공격자가 방어자의 옷깃을 잡으면, 방어자는 잡은 손을 덮어 가슴에 단단히 고정합니다.\n2. 방어자는 공격자의 손목을 팔뚝 쪽으로 꺾고 팔꿈치를 들어 올리며 허리를 낮춰 공격자를 무릎 꿇게 합니다.\n3. 방어자는 압력을 서서히 가하고 공격자가 탭하는 순간 풀어 준 뒤, 일으켜 세우고 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "โอคุริโกเตะ ล็อกข้อมือ",
+      "description": "1. ผู้โจมตีจับคอเสื้อผู้ป้องกัน ผู้ป้องกันใช้มือปิดทับมือที่จับไว้แล้วกดแนบกับหน้าอกให้แน่น\n2. ผู้ป้องกันพับข้อมือผู้โจมตีเข้าหาแขนท่อนล่าง ยกศอกของเขาขึ้นและย่อสะโพกลงให้ผู้โจมตีคุกเข่า\n3. ผู้ป้องกันเพิ่มแรงกดทีละน้อยและปล่อยทันทีที่ผู้โจมตีตบสัญญาณ จากนั้นช่วยพยุงขึ้นแล้วสลับบทบาท",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Окури-готэ — замок на запястье",
+      "description": "1. Атакующий хватает защищающегося за отворот; защищающийся накрывает захватывающую кисть и плотно прижимает её к груди.\n2. Защищающийся сгибает запястье атакующего к предплечью, поднимает его локоть и опускает бёдра, ставя атакующего на колени.\n3. Защищающийся усиливает давление постепенно и отпускает в момент хлопка, затем помогает атакующему подняться, и партнёры меняются ролями.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Окурі-ґоте — замок на зап'ясті",
+      "description": "1. Нападник хапає захисника за відворот; захисник накриває кисть, що тримає, і щільно притискає її до грудей.\n2. Захисник згинає зап'ястя нападника до передпліччя, піднімає його лікоть і опускає стегна, ставлячи нападника на коліна.\n3. Захисник посилює тиск поступово й відпускає в момент плескання, потім допомагає нападникові підвестися, і партнери міняються ролями.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

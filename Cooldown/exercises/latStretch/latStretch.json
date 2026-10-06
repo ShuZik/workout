@@ -1,0 +1,90 @@
+{
+  "id": "10.9",
+  "key": "lat_stretch",
+  "title": "Lat Stretch",
+  "description": "1. Place both hands on a stable support at about waist height and step back.\n2. Hinge the hips and lower the chest between the arms while keeping the spine long.\n3. Press the hands into the support, hold the stretch along the sides of the back, then rise slowly.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lat Stretch",
+      "description": "1. Place both hands on a stable support at about waist height and step back.\n2. Hinge the hips and lower the chest between the arms while keeping the spine long.\n3. Press the hands into the support, hold the stretch along the sides of the back, then rise slowly.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento de dorsales",
+      "description": "1. Coloca ambas manos sobre un apoyo estable aproximadamente a la altura de la cintura y da un paso atrás.\n2. Flexiona desde las caderas y baja el pecho entre los brazos, manteniendo la columna alargada.\n3. Presiona el apoyo con las manos, mantén el estiramiento a los lados de la espalda y después incorpórate lentamente.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento dos dorsais",
+      "description": "1. Coloque as duas mãos em um apoio estável aproximadamente à altura da cintura e dê um passo para trás.\n2. Incline-se a partir do quadril e abaixe o peito entre os braços, mantendo a coluna alongada.\n3. Pressione as mãos contra o apoio, mantenha o alongamento nas laterais das costas e depois levante-se lentamente.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement des grands dorsaux",
+      "description": "1. Posez les deux mains sur un support stable à peu près à hauteur de taille et reculez d’un pas.\n2. Pliez-vous depuis les hanches et abaissez la poitrine entre les bras en gardant la colonne allongée.\n3. Appuyez les mains sur le support, maintenez l’étirement sur les côtés du dos, puis redressez-vous lentement.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Latissimus-Dehnung",
+      "description": "1. Lege beide Hände auf eine stabile Stütze etwa auf Taillenhöhe und gehe einen Schritt zurück.\n2. Beuge dich aus der Hüfte und senke die Brust zwischen die Arme, während die Wirbelsäule lang bleibt.\n3. Drücke die Hände gegen die Stütze, halte die Dehnung an den Seiten des Rückens und richte dich dann langsam auf.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento dei dorsali",
+      "description": "1. Appoggia entrambe le mani su un sostegno stabile circa all’altezza della vita e fai un passo indietro.\n2. Piegati dalle anche e abbassa il petto tra le braccia, mantenendo la colonna allungata.\n3. Premi le mani sul sostegno, mantieni l’allungamento lungo i lati della schiena e poi rialzati lentamente.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "背阔肌拉伸",
+      "description": "1. 双手放在约腰高的稳固支撑面上，向后迈步。\n2. 从髋部折叠，将胸部降到双臂之间，同时保持脊柱伸长。\n3. 双手压向支撑面，保持背部两侧的拉伸，然后缓慢起身。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "広背筋ストレッチ",
+      "description": "1. 腰の高さほどの安定した台に両手を置き、一歩後ろに下がります。\n2. 背骨を長く保ちながら股関節から曲げ、胸を両腕の間に下ろします。\n3. 手で台を押し、背中の両側のストレッチを保ってからゆっくり起き上がります。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "광배근 스트레칭",
+      "description": "1. 허리 높이 정도의 안정된 지지대에 두 손을 놓고 뒤로 물러섭니다.\n2. 척추를 길게 유지하며 고관절에서 접어 가슴을 두 팔 사이로 내립니다.\n3. 손으로 지지대를 누르고 등 양옆이 늘어나는 자세를 유지한 뒤 천천히 일어납니다.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "การยืดกล้ามเนื้อหลังด้านข้าง",
+      "description": "1. วางมือทั้งสองบนจุดรองรับที่มั่นคงสูงประมาณเอว แล้วก้าวถอยหลัง\n2. พับตัวจากสะโพกและลดหน้าอกลงระหว่างแขน โดยยืดกระดูกสันหลังให้ยาว\n3. กดมือเข้ากับจุดรองรับ ค้างท่าเพื่อยืดด้านข้างของหลัง แล้วค่อย ๆ ยกตัวขึ้น",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Растяжка широчайших мышц спины",
+      "description": "1. Положите обе руки на устойчивую опору примерно на высоте талии и шагните назад.\n2. Согнитесь в тазобедренных суставах и опустите грудь между руками, сохраняя позвоночник вытянутым.\n3. Надавите руками на опору, удерживайте растяжку вдоль боков спины, затем медленно поднимитесь.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Розтягування найширших м’язів спини",
+      "description": "1. Покладіть обидві руки на стійку опору приблизно на висоті талії та зробіть крок назад.\n2. Зігніться в кульшових суглобах і опустіть груди між руками, зберігаючи хребет витягнутим.\n3. Натисніть руками на опору, утримуйте розтягування вздовж боків спини, потім повільно підніміться.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  }
+}

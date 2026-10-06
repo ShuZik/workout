@@ -1,0 +1,90 @@
+{
+  "id": "6.30",
+  "key": "bjj_guillotine_defense",
+  "title": "Guillotine Defense",
+  "description": "1. As the neck is wrapped, tuck the chin, control the choking wrist with both hands, and keep the spine aligned.\n2. Restore posture and move the body toward the safe side while preventing the choking elbow from closing around the neck.\n3. Clear the head only when space opens; if the grip tightens or breathing changes, tap immediately.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Escapes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Guillotine Defense",
+      "description": "1. As the neck is wrapped, tuck the chin, control the choking wrist with both hands, and keep the spine aligned.\n2. Restore posture and move the body toward the safe side while preventing the choking elbow from closing around the neck.\n3. Clear the head only when space opens; if the grip tightens or breathing changes, tap immediately.",
+      "sectionTitle": "Escapes"
+    },
+    "es": {
+      "title": "Defensa de guillotina",
+      "description": "1. Cuando te rodeen el cuello, recoge la barbilla, controla la muñeca que estrangula con ambas manos y mantén la columna alineada.\n2. Recupera la postura y desplaza el cuerpo hacia el lado seguro mientras impides que el codo que estrangula se cierre alrededor del cuello.\n3. Saca la cabeza solo cuando se abra espacio; si el agarre se aprieta o la respiración cambia, palmea de inmediato.",
+      "sectionTitle": "Escapes"
+    },
+    "pt": {
+      "title": "Defesa de guilhotina",
+      "description": "1. Quando o pescoço for envolvido, recolha o queixo, controle o punho do estrangulamento com as duas mãos e mantenha a coluna alinhada.\n2. Recupere a postura e mova o corpo para o lado seguro, impedindo que o cotovelo do estrangulamento se feche em volta do pescoço.\n3. Tire a cabeça só quando houver espaço; se a pegada apertar ou a respiração mudar, bata imediatamente.",
+      "sectionTitle": "Saídas"
+    },
+    "fr": {
+      "title": "Défense contre la guillotine",
+      "description": "1. Dès que le cou est enroulé, rentrez le menton, contrôlez le poignet d’étranglement à deux mains et gardez la colonne alignée.\n2. Redressez votre posture et déplacez le corps vers le côté sûr en empêchant le coude d’étranglement de se refermer autour du cou.\n3. Dégagez la tête seulement quand l’espace s’ouvre ; si la prise se resserre ou si la respiration change, tapez immédiatement.",
+      "sectionTitle": "Sorties"
+    },
+    "de": {
+      "title": "Guillotine-Verteidigung",
+      "description": "1. Ziehe, sobald der Hals umschlungen wird, das Kinn ein, kontrolliere das Würgehandgelenk mit beiden Händen und halte die Wirbelsäule gerade.\n2. Richte die Haltung wieder auf und bewege den Körper zur sicheren Seite, während du verhinderst, dass sich der Würgeellbogen um den Hals schließt.\n3. Befreie den Kopf erst, wenn Raum entsteht; wird der Griff enger oder verändert sich die Atmung, klopfe sofort ab.",
+      "sectionTitle": "Befreiungen"
+    },
+    "it": {
+      "title": "Difesa dalla ghigliottina",
+      "description": "1. Appena il collo viene avvolto, abbassa il mento, controlla il polso dello strangolamento con entrambe le mani e mantieni la colonna allineata.\n2. Recupera la postura e sposta il corpo verso il lato sicuro impedendo al gomito dello strangolamento di chiudersi attorno al collo.\n3. Libera la testa solo quando si apre spazio; se la presa si stringe o il respiro cambia, batti subito.",
+      "sectionTitle": "Uscite"
+    },
+    "zh-Hans": {
+      "title": "断头台防守",
+      "description": "1. 颈部被环绕时，收下巴，双手控制对方绞杀手腕，保持脊柱一线。\n2. 恢复姿势，身体移向安全一侧，同时阻止对方绞杀肘部在颈部合拢。\n3. 只有出现空间时才抽出头部；如果抓握收紧或呼吸发生变化，立即拍垫。",
+      "sectionTitle": "逃脱"
+    },
+    "ja": {
+      "title": "ギロチンディフェンス",
+      "description": "1. 首を巻かれたら顎を引き、両手で絞める側の手首をコントロールし、背骨をまっすぐ保ちます。\n2. 姿勢を立て直し、絞める側の肘が首の周りで閉じないようにしながら、体を安全な側へ移します。\n3. スペースができたときだけ頭を抜き、締めが強くなったり呼吸が変わったりしたらすぐにタップします。",
+      "sectionTitle": "エスケープ"
+    },
+    "ko": {
+      "title": "길로틴 디펜스",
+      "description": "1. 목이 감기면 턱을 당기고 두 손으로 초크하는 손목을 제어하며 척추를 곧게 유지합니다.\n2. 자세를 회복하고 초크하는 팔꿈치가 목 주위로 닫히지 않게 막으면서 몸을 안전한 쪽으로 옮깁니다.\n3. 공간이 생길 때만 머리를 빼고, 그립이 조여지거나 호흡이 달라지면 즉시 탭합니다.",
+      "sectionTitle": "이스케이프"
+    },
+    "th": {
+      "title": "การป้องกันกิโยติน",
+      "description": "1. เมื่อถูกโอบคอ ให้เก็บคาง ใช้มือทั้งสองคุมข้อมือที่รัดคอ และรักษากระดูกสันหลังให้ตรง\n2. ตั้งท่าทรงตัวกลับมาและเคลื่อนตัวไปฝั่งที่ปลอดภัย พร้อมกันไม่ให้ศอกที่รัดคอปิดล็อกรอบคอ\n3. ดึงศีรษะออกเมื่อมีช่องว่างเท่านั้น หากการล็อกแน่นขึ้นหรือการหายใจเปลี่ยนไป ให้แท็ปทันที",
+      "sectionTitle": "การหนี"
+    },
+    "ru": {
+      "title": "Защита от гильотины",
+      "description": "1. Как только шею обхватили, прижмите подбородок, контролируйте удушающее запястье обеими руками и держите позвоночник ровно.\n2. Восстановите осанку и смещайтесь в безопасную сторону, не давая удушающему локтю замкнуться вокруг шеи.\n3. Освобождайте голову, только когда появится пространство; если захват затягивается или меняется дыхание, сразу постучите.",
+      "sectionTitle": "Выходы"
+    },
+    "uk": {
+      "title": "Захист від гільйотини",
+      "description": "1. Щойно шию обхопили, притисніть підборіддя, контролюйте зап’ястя, що душить, обома руками й тримайте хребет рівно.\n2. Відновіть поставу й зміщуйтеся в безпечний бік, не даючи ліктю, що душить, замкнутися навколо шиї.\n3. Звільняйте голову, лише коли з’явиться простір; якщо захват затягується або змінюється дихання, одразу постукайте.",
+      "sectionTitle": "Виходи"
+    }
+  }
+}

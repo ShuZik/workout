@@ -1,0 +1,87 @@
+{
+  "id": "40.32",
+  "key": "karate_heian_godan",
+  "title": "Heian Godan",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Link reverse punches, a cross-legged stance, upper and lower X-blocks, a jump forward landing in kosa-dachi, and closing combined high and low blocks in back stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Heian Godan",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Link reverse punches, a cross-legged stance, upper and lower X-blocks, a jump forward landing in kosa-dachi, and closing combined high and low blocks in back stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Heian Godan",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Enlaza gyaku-zuki, una posición de piernas cruzadas, bloqueos en X alto y bajo, un salto hacia delante cayendo en kosa-dachi y bloqueos combinados alto y bajo finales en posición atrasada.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Heian Godan",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Encadeie gyaku-zuki, uma base de pernas cruzadas, bloqueios em X alto e baixo, um salto para a frente caindo em kosa-dachi e bloqueios combinados alto e baixo finais na base recuada.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Heian Godan",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Enchaînez des gyaku-zuki, une position jambes croisées, des blocages en X haut et bas, un saut vers l’avant réceptionné en kosa-dachi et des blocages combinés haut et bas finaux en position arrière.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Heian Godan",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Verbinde Gyaku-zuki, einen Kreuzbeinstand, hohe und tiefe X-Abwehren, einen Sprung nach vorn mit Landung im Kosa-dachi und abschließende kombinierte Hoch-Tief-Abwehren im Rückwärtsstand.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Heian Godan",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Collega gyaku-zuki, una posizione a gambe incrociate, parate a X alta e bassa, un salto in avanti atterrando in kosa-dachi e parate combinate alta e bassa finali in posizione arretrata.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "平安五段",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 连接逆冲拳、交叉立、上段与下段十字格挡、向前跳跃落成交叉立，最后在后屈立做上下组合格挡。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "平安五段",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 逆突き、交差立ち、上段・下段の十字受け、前方への跳躍から交差立ちへの着地、最後に後屈立ちでの上下同時受けをつなげます。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "헤이안 고단",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 역지르기, 꼬아서기, 상단·하단 엇걸어 막기, 앞으로 뛰어 꼬아서기로 착지, 마지막 뒷굽이 상하 동시 막기를 잇습니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "เฮอัน โกดัน",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. ต่อหมัดสวน ท่ายืนไขว้ขา การปัดไขว้รูป X สูงและต่ำ กระโดดไปข้างหน้าลงในท่าโคซะดาจิ และจบด้วยการปัดสูงต่ำพร้อมกันในท่ายืนหลัง\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Хэйан годан",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Свяжите гяку-цуки, стойку со скрещёнными ногами, верхний и нижний Х-блоки, прыжок вперёд с приземлением в коса-дати и завершающие комбинированные верхне-нижние блоки в задней стойке.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Хейан ґодан",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Поєднайте ґяку-цукі, стійку зі схрещеними ногами, верхній і нижній Х-блоки, стрибок уперед із приземленням у коса-дачі та завершальні комбіновані верхньо-нижні блоки в задній стійці.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

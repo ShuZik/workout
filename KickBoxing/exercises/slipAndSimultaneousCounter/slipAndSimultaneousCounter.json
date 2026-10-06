@@ -1,0 +1,90 @@
+{
+  "id": "3.46",
+  "key": "kick_boxing_slip_simultaneous_counter",
+  "title": "Slip and Simultaneous Counter",
+  "description": "1. The feeder throws a controlled straight punch at the defender's head while both wear gloves and mouthguards.\n2. The defender slips to the outside of the punch and, in the same movement, sends a straight punch to the feeder's raised glove or chest target.\n3. Land the counter lightly, step back to guard together, and swap roles after the agreed repetitions.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Defense",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Slip and Simultaneous Counter",
+      "description": "1. The feeder throws a controlled straight punch at the defender's head while both wear gloves and mouthguards.\n2. The defender slips to the outside of the punch and, in the same movement, sends a straight punch to the feeder's raised glove or chest target.\n3. Land the counter lightly, step back to guard together, and swap roles after the agreed repetitions.",
+      "sectionTitle": "Defense"
+    },
+    "es": {
+      "title": "Esquiva lateral con contraataque simultáneo",
+      "description": "1. El atacante lanza un recto controlado a la cabeza del defensor; ambos llevan guantes y protector bucal.\n2. El defensor esquiva por fuera del golpe y, en el mismo movimiento, lanza un recto al guante levantado o al pecho del atacante.\n3. Aplica el contraataque con suavidad, volved juntos a la guardia e intercambiad papeles tras las repeticiones acordadas.",
+      "sectionTitle": "Defensa"
+    },
+    "pt": {
+      "title": "Esquiva com contra-ataque simultâneo",
+      "description": "1. O atacante lança um direto controlado na cabeça do defensor; ambos usam luvas e protetor bucal.\n2. O defensor esquiva por fora do golpe e, no mesmo movimento, lança um direto na luva levantada ou no peito do atacante.\n3. Aplique o contra-ataque de leve, voltem juntos à guarda e troquem os papéis após as repetições combinadas.",
+      "sectionTitle": "Defesa"
+    },
+    "fr": {
+      "title": "Esquive et contre simultané",
+      "description": "1. Le partenaire lance un direct contrôlé vers la tête du défenseur ; tous deux portent gants et protège-dents.\n2. Le défenseur esquive à l’extérieur du coup et, dans le même mouvement, envoie un direct sur le gant levé ou la poitrine du partenaire.\n3. Touchez légèrement, revenez ensemble en garde et inversez les rôles après les répétitions convenues.",
+      "sectionTitle": "Défense"
+    },
+    "de": {
+      "title": "Abrollen mit gleichzeitigem Konter",
+      "description": "1. Der Angreifer schlägt eine kontrollierte Gerade zum Kopf des Verteidigers; beide tragen Handschuhe und Mundschutz.\n2. Der Verteidiger weicht nach außen aus und schlägt in derselben Bewegung eine Gerade auf den erhobenen Handschuh oder die Brust des Angreifers.\n3. Setze den Konter leicht, geht gemeinsam in die Deckung zurück und tauscht nach den vereinbarten Wiederholungen die Rollen.",
+      "sectionTitle": "Verteidigung"
+    },
+    "it": {
+      "title": "Schivata con contro simultaneo",
+      "description": "1. Chi attacca lancia un diretto controllato alla testa del difensore; entrambi indossano guantoni e paradenti.\n2. Il difensore schiva all’esterno del colpo e, nello stesso movimento, porta un diretto al guantone alzato o al petto dell’attaccante.\n3. Porta il contro con leggerezza, tornate insieme in guardia e scambiate i ruoli dopo le ripetizioni concordate.",
+      "sectionTitle": "Difesa"
+    },
+    "zh-Hans": {
+      "title": "侧闪同时反击",
+      "description": "1. 喂拳者向防守者头部打出受控直拳，双方都戴拳套和护齿。\n2. 防守者向拳的外侧闪躲，并在同一动作中用直拳击打喂拳者举起的拳套或胸部目标。\n3. 轻轻完成反击，双方一起回到防守位，完成约定次数后交换角色。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "スリップと同時カウンター",
+      "description": "1. 攻撃役が防御役の頭へ制御したストレートを打ちます。両者ともグローブとマウスピースを着けます。\n2. 防御役はパンチの外側へスリップし、同じ動作の中で攻撃役のグローブか胸へストレートを打ちます。\n3. カウンターは軽く当て、一緒にガードへ戻り、決めた回数で役割を交代します。",
+      "sectionTitle": "ディフェンス"
+    },
+    "ko": {
+      "title": "슬립과 동시 카운터",
+      "description": "1. 공격자는 방어자의 머리로 통제된 스트레이트를 치며, 두 사람 모두 글러브와 마우스피스를 착용합니다.\n2. 방어자는 펀치 바깥쪽으로 슬립하면서 같은 동작으로 공격자가 든 글러브나 가슴에 스트레이트를 칩니다.\n3. 카운터는 가볍게 맞히고 함께 가드로 돌아온 뒤 정한 횟수 후 역할을 바꿉니다.",
+      "sectionTitle": "방어"
+    },
+    "th": {
+      "title": "หลบหมัดพร้อมสวนในจังหวะเดียว",
+      "description": "1. ผู้ป้อนหมัดออกหมัดตรงแบบควบคุมไปที่ศีรษะผู้ป้องกัน ทั้งสองสวมนวมและฟันยาง\n2. ผู้ป้องกันเอียงหลบออกด้านนอกหมัด และในจังหวะเดียวกันออกหมัดตรงไปที่นวมที่ยกไว้หรือหน้าอกของผู้ป้อน\n3. สวนเบา ๆ แล้วถอยกลับการ์ดพร้อมกัน และสลับบทบาทเมื่อครบจำนวนที่ตกลง",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Уклон с одновременной контратакой",
+      "description": "1. Атакующий наносит контролируемый прямой в голову защищающегося; оба в перчатках и капах.\n2. Защищающийся уходит уклоном наружу от удара и в том же движении наносит прямой в поднятую перчатку или грудь атакующего.\n3. Наносите контрудар легко, вместе вернитесь в защиту и меняйтесь ролями после оговорённых повторений.",
+      "sectionTitle": "Защита"
+    },
+    "uk": {
+      "title": "Ухил з одночасною контратакою",
+      "description": "1. Атакувальник завдає контрольованого прямого в голову того, хто захищається; обидва в рукавицях і капах.\n2. Той, хто захищається, ухиляється назовні від удару й тим самим рухом завдає прямого в підняту рукавицю або груди атакувальника.\n3. Завдавайте контрудару легко, разом поверніться в захист і міняйтеся ролями після обумовлених повторень.",
+      "sectionTitle": "Захист"
+    }
+  }
+}

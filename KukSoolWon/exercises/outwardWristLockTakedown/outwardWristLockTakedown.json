@@ -1,0 +1,90 @@
+{
+  "id": "72.9",
+  "key": "kuk_sool_won_outward_wrist_lock_takedown",
+  "title": "Outward Wrist Lock Takedown",
+  "description": "1. Attacker grabs the defender's wrist or lapel; defender secures the attacker's hand with both hands, thumbs on its back.\n2. Defender turns the attacker's wrist outward and steps back in a circle, leading the attacker down into a breakfall.\n3. Defender applies the lock slowly and releases at the first tap; attacker rolls out safely before roles switch.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "kukSoolWon",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Outward Wrist Lock Takedown",
+      "description": "1. Attacker grabs the defender's wrist or lapel; defender secures the attacker's hand with both hands, thumbs on its back.\n2. Defender turns the attacker's wrist outward and steps back in a circle, leading the attacker down into a breakfall.\n3. Defender applies the lock slowly and releases at the first tap; attacker rolls out safely before roles switch.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Derribo con luxación de muñeca hacia fuera",
+      "description": "1. El atacante agarra la muñeca o la solapa del defensor; el defensor sujeta la mano del atacante con las dos manos, con los pulgares sobre el dorso.\n2. El defensor gira la muñeca del atacante hacia fuera y retrocede en círculo, llevándolo al suelo con una caída.\n3. El defensor aplica la luxación despacio y suelta al primer golpe de aviso; el atacante sale rodando con seguridad antes de cambiar de papel.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Queda com chave de punho para fora",
+      "description": "1. O atacante agarra o punho ou a lapela do defensor; o defensor prende a mão do atacante com as duas mãos, polegares no dorso.\n2. O defensor gira o punho do atacante para fora e recua em círculo, conduzindo-o ao chão em uma queda.\n3. O defensor aplica a chave devagar e solta à primeira batida; o atacante sai rolando com segurança antes da troca de papéis.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Amenée au sol par clé de poignet extérieure",
+      "description": "1. L'attaquant saisit le poignet ou le revers du défenseur ; le défenseur saisit la main de l'attaquant à deux mains, pouces sur le dos de la main.\n2. Le défenseur tourne le poignet de l'attaquant vers l'extérieur et recule en cercle, l'amenant au sol en chute.\n3. Le défenseur applique la clé lentement et lâche au premier tapé ; l'attaquant roule en sécurité avant l'inversion des rôles.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Wurf mit Handgelenkhebel nach außen",
+      "description": "1. Der Angreifer greift Handgelenk oder Revers des Verteidigers; der Verteidiger fasst die Hand des Angreifers mit beiden Händen, die Daumen auf dem Handrücken.\n2. Der Verteidiger dreht das Handgelenk des Angreifers nach außen und tritt im Kreis zurück, sodass der Angreifer in eine Fallübung geführt wird.\n3. Der Verteidiger setzt den Hebel langsam an und lässt beim ersten Abklopfen los; der Angreifer rollt sicher ab, dann werden die Rollen getauscht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Atterramento con leva al polso verso l'esterno",
+      "description": "1. L'attaccante afferra il polso o il bavero del difensore; il difensore blocca la mano dell'attaccante con entrambe le mani, pollici sul dorso.\n2. Il difensore ruota il polso dell'attaccante verso l'esterno e arretra in cerchio, portandolo a terra in caduta.\n3. Il difensore applica la leva lentamente e lascia al primo battito; l'attaccante rotola fuori in sicurezza prima dello scambio dei ruoli.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "外翻腕摔",
+      "description": "1. 攻者抓住守者手腕或衣领；守者用双手扣住攻者的手，拇指压在其手背上。\n2. 守者将攻者手腕向外翻转并画圆后撤，引导攻者以倒法倒地。\n3. 守者缓慢施加关节技，攻者第一次拍击示意就松开；攻者安全滚出后互换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "小手返し投げ",
+      "description": "1. 攻め手が受け手の手首か襟をつかみ、受け手は両手で攻め手の手を取り、親指を手の甲に当てます。\n2. 受け手は攻め手の手首を外側へ返しながら円を描いて後ろへ下がり、攻め手を受身へ導きます。\n3. 受け手は関節技をゆっくりかけ、最初の合図で放し、攻め手が安全に転がり出てから役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "손목 바깥 꺾어 넘기기",
+      "description": "1. 공격자가 방어자의 손목이나 옷깃을 잡으면, 방어자는 두 손으로 공격자의 손을 잡고 엄지를 손등에 댑니다.\n2. 방어자는 공격자의 손목을 바깥으로 꺾으며 원을 그리듯 뒤로 물러나 공격자를 낙법으로 이끕니다.\n3. 방어자는 꺾기를 천천히 걸고 첫 탭에 풀어 주며, 공격자가 안전하게 굴러 나온 뒤 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "บิดข้อมือออกนอกแล้วทุ่ม",
+      "description": "1. ผู้โจมตีจับข้อมือหรือคอเสื้อผู้ป้องกัน ผู้ป้องกันใช้สองมือจับมือผู้โจมตีไว้ โดยวางนิ้วโป้งบนหลังมือ\n2. ผู้ป้องกันบิดข้อมือผู้โจมตีออกด้านนอกและถอยหลังเป็นวง พาผู้โจมตีลงสู่การล้ม\n3. ผู้ป้องกันล็อกอย่างช้าๆ และปล่อยทันทีเมื่อตบสัญญาณครั้งแรก ผู้โจมตีม้วนตัวออกอย่างปลอดภัยก่อนสลับบทบาท",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Бросок наружным загибом запястья",
+      "description": "1. Атакующий хватает защищающегося за запястье или отворот; защищающийся обеими руками фиксирует кисть атакующего, большие пальцы на её тыльной стороне.\n2. Защищающийся выворачивает запястье атакующего наружу и отступает по кругу, уводя атакующего в падение.\n3. Защищающийся проводит болевой медленно и отпускает при первом хлопке; атакующий безопасно выкатывается, после чего партнёры меняются ролями.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Кидок зовнішнім загином зап'ястя",
+      "description": "1. Нападник хапає захисника за зап'ястя або відворот; захисник обома руками фіксує кисть нападника, великі пальці на її тильному боці.\n2. Захисник вивертає зап'ястя нападника назовні й відступає по колу, виводячи нападника в падіння.\n3. Захисник проводить больовий повільно й відпускає при першому плесканні; нападник безпечно викочується, після чого партнери міняються ролями.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

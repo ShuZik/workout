@@ -1,0 +1,87 @@
+{
+  "id": "62.1",
+  "key": "hwa_rang_do_main",
+  "title": "Hwa Rang Do",
+  "description": "1. Start in a balanced fighting stance on mats with hands up, knees soft, and the chin tucked.\n2. Combine strikes, kicks, takedown entries, and ground control in a flowing round, adding weapon footwork only with training weapons.\n3. Reset to stance after each exchange, keep contact controlled, and stop immediately at a tap or the coach's call.",
+  "colorType": "purple",
+  "workoutType": "hwaRangDo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Hwa Rang Do",
+      "description": "1. Start in a balanced fighting stance on mats with hands up, knees soft, and the chin tucked.\n2. Combine strikes, kicks, takedown entries, and ground control in a flowing round, adding weapon footwork only with training weapons.\n3. Reset to stance after each exchange, keep contact controlled, and stop immediately at a tap or the coach's call.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Hwa Rang Do",
+      "description": "1. Empieza en guardia de combate equilibrada sobre colchonetas, con manos arriba, rodillas blandas y barbilla recogida.\n2. Combina golpes, patadas, entradas de derribo y control en el suelo en un asalto fluido, añadiendo trabajo de pies con armas solo con armas de entrenamiento.\n3. Vuelve a la guardia tras cada intercambio, mantén el contacto controlado y detente de inmediato ante una palmada o la orden del entrenador.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Hwa Rang Do",
+      "description": "1. Comece em guarda de luta equilibrada sobre tatames, mãos altas, joelhos soltos e queixo recolhido.\n2. Combine golpes, chutes, entradas de queda e controle no solo num round fluido, acrescentando trabalho de pés com armas apenas com armas de treino.\n3. Volte à guarda após cada troca, mantenha o contato controlado e pare imediatamente ao toque ou ao comando do treinador.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Hwa Rang Do",
+      "description": "1. Commencez en garde de combat équilibrée sur tapis, mains hautes, genoux souples, menton rentré.\n2. Enchaînez frappes, coups de pied, entrées de projection et contrôle au sol dans une reprise fluide, avec un travail de jambes armé uniquement avec des armes d’entraînement.\n3. Revenez en garde après chaque échange, gardez un contact contrôlé et arrêtez immédiatement à la tape ou au signal de l’entraîneur.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Hwa Rang Do",
+      "description": "1. In ausgewogener Kampfstellung auf Matten beginnen, Hände oben, Knie weich, Kinn eingezogen.\n2. Schläge, Tritte, Takedown-Ansätze und Bodenkontrolle in einer fließenden Runde verbinden, Waffenbeinarbeit nur mit Trainingswaffen.\n3. Nach jedem Austausch in die Stellung zurück, Kontakt kontrolliert halten und beim Abklopfen oder Trainerkommando sofort stoppen.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Hwa Rang Do",
+      "description": "1. Inizia in guardia di combattimento equilibrata sul tatami, mani alte, ginocchia morbide e mento raccolto.\n2. Combina colpi, calci, entrate di atterramento e controllo a terra in un round fluido, aggiungendo lavoro di gambe con armi solo con armi da allenamento.\n3. Torna in guardia dopo ogni scambio, mantieni il contatto controllato e fermati subito a un battito o al comando dell’allenatore.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "花郎道",
+      "description": "1. 在垫子上以平衡的实战站姿开始，双手抬高，膝盖微屈，下巴内收。\n2. 在流畅的回合中组合拳击、踢法、摔法切入和地面控制，器械步法只用训练器械练习。\n3. 每次交手后回到站姿，接触保持受控，对方拍垫或教练喊停时立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ファランド（花郎道）",
+      "description": "1. マットの上で手を上げ、膝を柔らかく、顎を引いたバランスのよい構えから始めます。\n2. 打撃、蹴り、テイクダウンへの入り、寝技のコントロールを流れるようなラウンドで組み合わせ、武器の足捌きは練習用武器でのみ行います。\n3. 攻防ごとに構えに戻り、接触を制御し、タップや指導者の合図で直ちに止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "화랑도",
+      "description": "1. 매트 위에서 손을 올리고 무릎을 부드럽게, 턱을 당긴 균형 잡힌 겨룸 자세로 시작합니다.\n2. 타격, 발차기, 넘기기 진입, 바닥 제압을 흐르는 라운드로 연결하며, 무기 발놀림은 훈련용 무기로만 합니다.\n3. 공방마다 자세로 돌아오고 접촉을 통제하며 탭이나 지도자의 신호에 즉시 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ฮวารังโด",
+      "description": "1. เริ่มในท่าต่อสู้ที่สมดุลบนเบาะ ยกมือ เข่างอเล็กน้อย และก้มคาง\n2. ผสมการตี เตะ การเข้าทุ่ม และการควบคุมบนพื้นในยกที่ลื่นไหล ฝึกฟุตเวิร์กอาวุธด้วยอาวุธฝึกเท่านั้น\n3. กลับสู่ท่าหลังการแลกแต่ละครั้ง ควบคุมการสัมผัส และหยุดทันทีเมื่อคู่ตบหรือโค้ชสั่ง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Хваран-до",
+      "description": "1. Начните в сбалансированной боевой стойке на татами, руки подняты, колени мягкие, подбородок прижат.\n2. Соединяйте удары руками и ногами, входы в тейкдаун и контроль в партере в плавном раунде, работу ног с оружием выполняйте только с тренировочным оружием.\n3. После каждого обмена возвращайтесь в стойку, контролируйте контакт и сразу останавливайтесь при хлопке или команде тренера.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Хваран-до",
+      "description": "1. Почніть у збалансованій бойовій стійці на татамі, руки підняті, коліна м’які, підборіддя притиснуте.\n2. Поєднуйте удари руками й ногами, входи в тейкдаун і контроль у партері в плавному раунді, роботу ніг зі зброєю виконуйте лише з тренувальною зброєю.\n3. Після кожного обміну повертайтеся в стійку, контролюйте контакт і одразу зупиняйтеся при плесканні або команді тренера.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1.12",
+  "key": "body_jab",
+  "title": "Body Jab",
+  "description": "1. From guard, lower the body by bending the knees while keeping the back upright and the rear hand high.\n2. Extend the lead fist straight into the torso line with the head slightly outside the centerline.\n3. Retract the fist first, then straighten the legs and return to the original guard and distance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "target": "body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Body Jab",
+      "description": "1. From guard, lower the body by bending the knees while keeping the back upright and the rear hand high.\n2. Extend the lead fist straight into the torso line with the head slightly outside the centerline.\n3. Retract the fist first, then straighten the legs and return to the original guard and distance.",
+      "sectionTitle": "Beginner"
+    },
+    "es": {
+      "title": "Jab al cuerpo",
+      "description": "1. Desde la guardia, baja el cuerpo flexionando las rodillas, con espalda erguida y mano trasera alta.\n2. Extiende el puño delantero recto hacia el torso, con la cabeza ligeramente fuera de la línea central.\n3. Retrae primero el puño, después estira las piernas y vuelve a la guardia y distancia originales.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Jab no corpo",
+      "description": "1. Da guarda, abaixe o corpo flexionando os joelhos, mantendo as costas eretas e a mão de trás alta.\n2. Estenda o punho da frente reto para a linha do tronco, com a cabeça ligeiramente fora da linha central.\n3. Recolha primeiro o punho, depois estenda as pernas e volte à guarda e distância originais.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Jab au corps",
+      "description": "1. Depuis la garde, abaissez le corps en fléchissant les genoux, dos droit et main arrière haute.\n2. Tendez le poing avant droit vers le torse, la tête légèrement hors de l’axe central.\n3. Ramenez d’abord le poing, puis redressez les jambes et retrouvez la garde et la distance initiales.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Jab zum Körper",
+      "description": "1. Senke aus der Deckung den Körper durch Kniebeugung, mit aufrechtem Rücken und hoher hinterer Hand.\n2. Strecke die vordere Faust gerade zum Rumpf, mit dem Kopf leicht außerhalb der Mittellinie.\n3. Ziehe zuerst die Faust zurück, strecke dann die Beine und kehre zur ursprünglichen Deckung und Distanz zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Jab al corpo",
+      "description": "1. Dalla guardia, abbassa il corpo piegando le ginocchia, con schiena eretta e mano posteriore alta.\n2. Estendi il pugno anteriore diritto verso il tronco, con la testa leggermente fuori dalla linea centrale.\n3. Ritira prima il pugno, poi raddrizza le gambe e torna alla guardia e alla distanza iniziali.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "前手躯干直拳",
+      "description": "1. 从防守位屈膝降低身体，背部保持直立，后手抬高。\n2. 前拳沿直线击向躯干，头部略偏离中线。\n3. 先收拳，再伸直双腿，回到原来的防守位和距离。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ボディジャブ",
+      "description": "1. ガードから膝を曲げて体を下げ、背中を起こし、後ろの手を高く保ちます。\n2. 頭を中心線から少し外し、前の拳を胴体へまっすぐ伸ばします。\n3. まず拳を戻し、それから脚を伸ばして元のガードと距離へ戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "바디 잽",
+      "description": "1. 가드에서 무릎을 굽혀 몸을 낮추고 등을 곧게 세우며 뒷손을 높이 유지합니다.\n2. 머리를 중심선에서 약간 벗어나게 하고 앞주먹을 몸통을 향해 곧게 뻗습니다.\n3. 먼저 주먹을 당긴 다음 다리를 펴고 원래 가드와 거리로 돌아갑니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "แย็บลำตัว",
+      "description": "1. จากการ์ด ย่อตัวด้วยการงอเข่าโดยหลังยังตั้งตรงและมือหลังยกสูง\n2. ส่งหมัดหน้าเป็นเส้นตรงเข้าหาแนวลำตัว โดยศีรษะอยู่นอกแนวกึ่งกลางเล็กน้อย\n3. ดึงหมัดกลับก่อน แล้วจึงเหยียดขาและกลับสู่การ์ดกับระยะเดิม",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Джеб в корпус",
+      "description": "1. Из защиты опустите тело, сгибая колени, сохраняя спину прямой и заднюю руку поднятой.\n2. Выпрямите передний кулак в линию корпуса, сместив голову чуть в сторону от центральной линии.\n3. Сначала верните кулак, затем выпрямите ноги и восстановите исходную защиту и дистанцию.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Джеб у корпус",
+      "description": "1. Із захисту опустіть тіло, згинаючи коліна, зберігаючи спину прямою й задню руку піднятою.\n2. Випряміть передній кулак у лінію корпуса, змістивши голову трохи вбік від центральної лінії.\n3. Спочатку поверніть кулак, потім випряміть ноги й відновіть початковий захист і дистанцію.",
+      "sectionTitle": "База"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "84.2",
+  "key": "nihon_kempo_kamae",
+  "title": "Kamae Guard Stance",
+  "description": "1. Stand half-turned with the left foot forward, knees bent, and the weight on the balls of the feet.\n2. Hold the lead fist at eye level and the rear fist beside the chin, elbows in to cover the body and chin tucked.\n3. Keep the guard for the whole round with small, light bounces, rechecking hand height after every movement.",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kamae Guard Stance",
+      "description": "1. Stand half-turned with the left foot forward, knees bent, and the weight on the balls of the feet.\n2. Hold the lead fist at eye level and the rear fist beside the chin, elbows in to cover the body and chin tucked.\n3. Keep the guard for the whole round with small, light bounces, rechecking hand height after every movement.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Guardia kamae",
+      "description": "1. Colócate de medio perfil con el pie izquierdo delante, las rodillas flexionadas y el peso sobre la parte anterior de los pies.\n2. Sostén el puño delantero a la altura de los ojos y el trasero junto a la barbilla, con los codos cerrados para cubrir el cuerpo y la barbilla metida.\n3. Mantén la guardia todo el asalto con pequeños rebotes ligeros, comprobando la altura de las manos tras cada movimiento.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Guarda kamae",
+      "description": "1. Fique meio de lado com o pé esquerdo à frente, joelhos flexionados e o peso sobre a parte da frente dos pés.\n2. Mantenha o punho da frente na altura dos olhos e o de trás junto ao queixo, cotovelos fechados protegendo o corpo e queixo recolhido.\n3. Sustente a guarda durante todo o round com pequenos saltitos leves, conferindo a altura das mãos após cada movimento.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Garde kamae",
+      "description": "1. Placez-vous de trois quarts, pied gauche devant, genoux fléchis et poids sur l'avant des pieds.\n2. Tenez le poing avant à hauteur des yeux et le poing arrière près du menton, coudes serrés pour couvrir le corps et menton rentré.\n3. Gardez la garde tout le round avec de petits rebonds légers, en vérifiant la hauteur des mains après chaque mouvement.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Kamae-Grundstellung",
+      "description": "1. Stehe halb seitlich mit dem linken Fuß vorn, die Knie gebeugt und das Gewicht auf den Fußballen.\n2. Halte die vordere Faust auf Augenhöhe und die hintere neben dem Kinn, die Ellbogen eng am Körper und das Kinn eingezogen.\n3. Halte die Deckung die ganze Runde mit kleinen, leichten Sprüngen und prüfe nach jeder Bewegung die Höhe der Hände.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Guardia kamae",
+      "description": "1. Mettiti di tre quarti con il piede sinistro avanti, ginocchia piegate e peso sull'avampiede.\n2. Tieni il pugno avanti all'altezza degli occhi e quello dietro accanto al mento, gomiti chiusi a coprire il corpo e mento basso.\n3. Mantieni la guardia per tutto il round con piccoli saltelli leggeri, ricontrollando l'altezza delle mani dopo ogni movimento.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "构式",
+      "description": "1. 半侧身站立，左脚在前，膝盖弯曲，重心落在前脚掌。\n2. 前拳举至眼高，后拳置于下颌旁，双肘内收护住躯干，收紧下颌。\n3. 整个回合保持防守，轻轻小幅跳动，每次移动后检查双手高度。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "構え",
+      "description": "1. 左足を前にした半身で立ち、膝を曲げて母指球に体重を乗せます。\n2. 前の拳を目の高さに、後ろの拳を顎の横に置き、肘を締めて胴を守り、顎を引きます。\n3. ラウンドの間ずっと小さく軽く弾みながら構えを保ち、動くたびに手の高さを確かめます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "카마에 겨눔 자세",
+      "description": "1. 왼발을 앞에 두고 반쯤 돌아서서 무릎을 굽히고 체중을 앞꿈치에 둡니다.\n2. 앞 주먹은 눈높이에, 뒷주먹은 턱 옆에 두고 팔꿈치를 붙여 몸통을 막으며 턱을 당깁니다.\n3. 라운드 내내 작고 가볍게 뛰며 자세를 유지하고, 움직일 때마다 손 높이를 다시 확인합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ท่าการ์ดคามาเอะ",
+      "description": "1. ยืนเฉียงครึ่งตัว เท้าซ้ายอยู่หน้า งอเข่า และลงน้ำหนักที่ปลายเท้า\n2. ยกกำปั้นหน้าไว้ระดับสายตาและกำปั้นหลังไว้ข้างคาง หุบศอกเพื่อป้องกันลำตัวและก้มคาง\n3. รักษาการ์ดตลอดยกพร้อมขยับตัวเบาๆ เป็นจังหวะสั้น และตรวจระดับมือทุกครั้งหลังเคลื่อนไหว",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Стойка камаэ",
+      "description": "1. Встаньте вполоборота левой ногой вперёд, колени согнуты, вес на подушечках стоп.\n2. Держите передний кулак на уровне глаз, задний — у подбородка, локти прижаты к корпусу, подбородок опущен.\n3. Сохраняйте защиту весь раунд, слегка пружиня, и после каждого движения проверяйте высоту рук.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Стійка камае",
+      "description": "1. Станьте впівоберта лівою ногою вперед, коліна зігнуті, вага на подушечках стоп.\n2. Тримайте передній кулак на рівні очей, задній — біля підборіддя, лікті притиснуті до корпусу, підборіддя опущене.\n3. Зберігайте захист увесь раунд, легенько пружинячи, і після кожного руху перевіряйте висоту рук.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

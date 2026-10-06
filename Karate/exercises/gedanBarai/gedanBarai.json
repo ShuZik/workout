@@ -1,0 +1,90 @@
+{
+  "id": "40.13",
+  "key": "karate_gedan_barai",
+  "title": "Gedan Barai",
+  "description": "1. Chamber the blocking fist near the opposite shoulder while the other arm extends down the intended line.\n2. Rotate the hips and sweep the forearm diagonally down and outward as the opposite fist retracts.\n3. Stop just outside the lead thigh with the wrist straight and elbow slightly bent.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Blocks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Gedan Barai",
+      "description": "1. Chamber the blocking fist near the opposite shoulder while the other arm extends down the intended line.\n2. Rotate the hips and sweep the forearm diagonally down and outward as the opposite fist retracts.\n3. Stop just outside the lead thigh with the wrist straight and elbow slightly bent.",
+      "sectionTitle": "Blocks"
+    },
+    "es": {
+      "title": "Gedan Barai",
+      "description": "1. Prepara el puño que bloquea cerca del hombro opuesto mientras el otro brazo se extiende hacia la línea prevista.\n2. Gira las caderas y barre el antebrazo en diagonal hacia abajo y afuera mientras retraes el puño opuesto.\n3. Detente justo por fuera del muslo adelantado, con la muñeca recta y el codo ligeramente flexionado.",
+      "sectionTitle": "Bloqueos"
+    },
+    "pt": {
+      "title": "Gedan Barai",
+      "description": "1. Prepare o punho de bloqueio perto do ombro oposto enquanto o outro braço se estende na direção prevista.\n2. Gire os quadris e leve o antebraço diagonalmente para baixo e para fora enquanto recolhe o punho oposto.\n3. Pare logo fora da coxa da frente, com o punho alinhado e o cotovelo levemente dobrado.",
+      "sectionTitle": "Bloqueios"
+    },
+    "fr": {
+      "title": "Gedan Barai",
+      "description": "1. Armez le poing de blocage près de l’épaule opposée tandis que l’autre bras s’étend sur la ligne prévue.\n2. Tournez les hanches et balayez l’avant-bras en diagonale vers le bas et l’extérieur en ramenant le poing opposé.\n3. Arrêtez juste à l’extérieur de la cuisse avant, poignet droit et coude légèrement fléchi.",
+      "sectionTitle": "Blocages"
+    },
+    "de": {
+      "title": "Gedan Barai",
+      "description": "1. Positioniere die blockende Faust nahe der gegenüberliegenden Schulter, während der andere Arm entlang der vorgesehenen Linie ausgestreckt ist.\n2. Drehe die Hüften und führe den Unterarm diagonal nach unten und außen, während die andere Faust zurückzieht.\n3. Stoppe knapp außerhalb des vorderen Oberschenkels mit geradem Handgelenk und leicht gebeugtem Ellbogen.",
+      "sectionTitle": "Blöcke"
+    },
+    "it": {
+      "title": "Gedan Barai",
+      "description": "1. Prepara il pugno che para vicino alla spalla opposta mentre l’altro braccio si estende lungo la linea prevista.\n2. Ruota le anche e spazza l’avambraccio diagonalmente verso il basso e fuori mentre richiami il pugno opposto.\n3. Fermati appena all’esterno della coscia anteriore, con polso diritto e gomito leggermente piegato.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "下段扫受",
+      "description": "1. 将格挡拳收在对侧肩部附近，另一只手臂沿预定路线伸出。\n2. 转动髋部，前臂沿斜线向下、向外扫出，同时另一只拳收回。\n3. 在前侧大腿外侧附近停住，手腕保持伸直，肘部微屈。",
+      "sectionTitle": "格挡"
+    },
+    "ja": {
+      "title": "下段払い",
+      "description": "1. 受ける拳を反対側の肩付近に構え、もう一方の腕を予定した方向へ伸ばします。\n2. 腰を回し、前腕を斜め下の外側へ払いながら反対の拳を引きます。\n3. 前脚の太もものすぐ外側で止め、手首をまっすぐ、肘を少し曲げて保ちます。",
+      "sectionTitle": "受け"
+    },
+    "ko": {
+      "title": "게단 바라이",
+      "description": "1. 막는 주먹을 반대 어깨 근처에 준비하고 다른 팔을 예정된 방향으로 뻗습니다.\n2. 골반을 돌려 전완을 대각선 아래 바깥쪽으로 쓸어 내리면서 반대 주먹을 거둡니다.\n3. 앞쪽 허벅지 바로 바깥에서 멈추고 손목을 곧게, 팔꿈치를 약간 굽혀 유지합니다.",
+      "sectionTitle": "막기"
+    },
+    "th": {
+      "title": "เกดันบาราอิ",
+      "description": "1. เตรียมหมัดที่ใช้ป้องกันใกล้ไหล่ฝั่งตรงข้าม พร้อมเหยียดแขนอีกข้างตามแนวที่ต้องการ\n2. หมุนสะโพกและปัดท่อนแขนเฉียงลงออกด้านนอก พร้อมดึงหมัดอีกข้างกลับ\n3. หยุดบริเวณด้านนอกต้นขาข้างหน้า โดยรักษาข้อมือให้ตรงและงอศอกเล็กน้อย",
+      "sectionTitle": "การป้องกัน"
+    },
+    "ru": {
+      "title": "Гэдан-барай",
+      "description": "1. Подведите блокирующий кулак к противоположному плечу, вытянув другую руку вдоль намеченной линии.\n2. Поверните таз и проведите предплечье по диагонали вниз и наружу, одновременно отводя другой кулак назад.\n3. Остановитесь сразу снаружи переднего бедра, сохраняя прямое запястье и слегка согнутый локоть.",
+      "sectionTitle": "Блоки"
+    },
+    "uk": {
+      "title": "Гедан-барай",
+      "description": "1. Підведіть блокувальний кулак до протилежного плеча, витягнувши іншу руку вздовж наміченої лінії.\n2. Поверніть таз і проведіть передпліччя по діагоналі вниз та назовні, одночасно відводячи інший кулак назад.\n3. Зупиніться одразу зовні переднього стегна, зберігаючи пряме зап’ястя та трохи зігнутий лікоть.",
+      "sectionTitle": "Блоки"
+    }
+  }
+}

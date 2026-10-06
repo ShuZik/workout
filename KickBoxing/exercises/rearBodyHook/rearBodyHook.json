@@ -1,0 +1,90 @@
+{
+  "id": "3.34",
+  "key": "kick_boxing_rear_body_hook",
+  "title": "Rear Body Hook",
+  "description": "1. From guard, bend the knees and keep the lead hand protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the bent fist travels into the side of the torso.\n3. Reverse the rotation and return the rear hand to the cheek without narrowing the stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Body Hook",
+      "description": "1. From guard, bend the knees and keep the lead hand protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the bent fist travels into the side of the torso.\n3. Reverse the rotation and return the rear hand to the cheek without narrowing the stance.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Gancho trasero al cuerpo",
+      "description": "1. Desde la guardia, flexiona las rodillas y mantén la mano delantera protegiendo la cara.\n2. Pivota el pie trasero y gira la cadera trasera para que el puño flexionado entre en el costado del torso.\n3. Invierte la rotación y devuelve la mano trasera a la mejilla sin estrechar la postura.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Gancho de trás no corpo",
+      "description": "1. Na guarda, flexione os joelhos e mantenha a mão da frente protegendo o rosto.\n2. Gire o pé de trás e o quadril de trás para que o punho flexionado entre na lateral do tronco.\n3. Desfaça a rotação e leve a mão de trás de volta à bochecha sem estreitar a base.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Crochet arrière au corps",
+      "description": "1. En garde, fléchissez les genoux et gardez la main avant devant le visage.\n2. Pivotez sur le pied arrière et tournez la hanche arrière pour que le poing fléchi entre dans le flanc.\n3. Inversez la rotation et ramenez la main arrière à la joue sans resserrer la position.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Hinterer Körperhaken",
+      "description": "1. Beuge aus der Deckung die Knie und halte die vordere Hand schützend vor dem Gesicht.\n2. Drehe den hinteren Fuß und die hintere Hüfte, sodass die gebeugte Faust in die Rumpfseite trifft.\n3. Kehre die Drehung um und bringe die hintere Hand zur Wange zurück, ohne die Stellung zu verengen.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Gancio posteriore al corpo",
+      "description": "1. Dalla guardia, piega le ginocchia e tieni la mano anteriore a protezione del viso.\n2. Ruota il piede posteriore e l’anca posteriore affinché il pugno piegato entri nel fianco del busto.\n3. Inverti la rotazione e riporta la mano posteriore alla guancia senza restringere la posizione.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "后手躯干摆拳",
+      "description": "1. 从防守位屈膝，前手保持保护脸部。\n2. 后脚转动并转动后髋，使弯曲的拳头打入躯干侧面。\n3. 反向转回，后手回到脸颊，站距不要变窄。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "後ろ手のボディフック",
+      "description": "1. ガードから膝を曲げ、前手で顔を守り続けます。\n2. 後ろ足を軸に後ろの腰を回し、曲げた拳を胴体の側面へ打ち込みます。\n3. 回転を戻し、スタンスを狭めずに後ろの手を頬へ戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "뒷손 바디 훅",
+      "description": "1. 가드에서 무릎을 굽히고 앞손으로 계속 얼굴을 보호합니다.\n2. 뒷발을 돌리고 뒤 골반을 회전해 굽힌 주먹을 몸통 옆구리로 넣습니다.\n3. 회전을 되돌리고 자세 폭을 좁히지 않은 채 뒷손을 볼로 되돌립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ฮุกหลังลำตัว",
+      "description": "1. จากการ์ด งอเข่าและให้มือหน้าป้องกันใบหน้าไว้\n2. หมุนเท้าหลังและสะโพกหลัง ให้หมัดที่งอแขนเข้าด้านข้างลำตัว\n3. หมุนกลับและดึงมือหลังคืนมาที่แก้ม โดยไม่ทำให้ท่ายืนแคบลง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Задний боковой в корпус",
+      "description": "1. Из защиты согните колени и держите переднюю руку у лица.\n2. Поверните заднюю стопу и заднюю сторону таза, чтобы согнутый кулак вошёл в бок корпуса.\n3. Раскрутитесь обратно и верните заднюю руку к щеке, не сужая стойку.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Задній боковий у корпус",
+      "description": "1. Із захисту зігніть коліна й тримайте передню руку біля обличчя.\n2. Поверніть задню стопу й задній бік таза, щоб зігнутий кулак увійшов у бік корпусу.\n3. Розкрутіться назад і поверніть задню руку до щоки, не звужуючи стійку.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

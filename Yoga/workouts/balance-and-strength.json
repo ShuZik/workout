@@ -7,16 +7,121 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
-    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 5 },
-    { "id": "mountain", "exerciseID": "24.1", "kind": "timed", "durationSeconds": 45 },
-    { "id": "chair", "exerciseID": "24.12", "kind": "timed", "durationSeconds": 45 },
-    { "id": "warrior-one-left", "exerciseID": "24.4", "kind": "timed", "durationSeconds": 45 },
-    { "id": "warrior-one-right", "exerciseID": "24.4", "kind": "timed", "durationSeconds": 45 },
-    { "id": "warrior-two-left", "exerciseID": "24.5", "kind": "timed", "durationSeconds": 45 },
-    { "id": "warrior-two-right", "exerciseID": "24.5", "kind": "timed", "durationSeconds": 45 },
-    { "id": "tree-left", "exerciseID": "24.6", "kind": "timed", "durationSeconds": 45 },
-    { "id": "tree-right", "exerciseID": "24.6", "kind": "timed", "durationSeconds": 45 },
-    { "id": "bridge", "exerciseID": "24.10", "kind": "timed", "durationSeconds": 45 },
-    { "id": "savasana", "exerciseID": "24.8", "kind": "timed", "durationSeconds": 90 }
-  ]
+    {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
+      "id": "mountain",
+      "exerciseID": "24.1",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "chair",
+      "exerciseID": "24.12",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "warrior-one-left",
+      "exerciseID": "24.4",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "warrior-one-right",
+      "exerciseID": "24.4",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "warrior-two-left",
+      "exerciseID": "24.5",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "warrior-two-right",
+      "exerciseID": "24.5",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "tree-left",
+      "exerciseID": "24.6",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "tree-right",
+      "exerciseID": "24.6",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "bridge",
+      "exerciseID": "24.10",
+      "kind": "timed",
+      "durationSeconds": 45
+    },
+    {
+      "id": "savasana",
+      "exerciseID": "24.8",
+      "kind": "timed",
+      "durationSeconds": 90
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "Balance & Strength",
+      "description": "Foundational standing poses for stable legs, balance, and posture."
+    },
+    "es": {
+      "title": "Equilibrio y fuerza",
+      "description": "Posturas básicas de pie para la estabilidad de las piernas, el equilibrio y la postura."
+    },
+    "pt": {
+      "title": "Equilíbrio e força",
+      "description": "Posturas básicas em pé para estabilidade das pernas, equilíbrio e postura."
+    },
+    "fr": {
+      "title": "Équilibre et force",
+      "description": "Des postures debout fondamentales pour la stabilité des jambes, l’équilibre et la posture."
+    },
+    "de": {
+      "title": "Gleichgewicht und Kraft",
+      "description": "Grundlegende stehende Haltungen für stabile Beine, Gleichgewicht und Körperhaltung."
+    },
+    "it": {
+      "title": "Equilibrio e forza",
+      "description": "Posizioni fondamentali in piedi per gambe stabili, equilibrio e postura."
+    },
+    "zh-Hans": {
+      "title": "平衡与力量",
+      "description": "基础站立体式，增强腿部稳定性、平衡与体态。"
+    },
+    "ja": {
+      "title": "バランスと筋力",
+      "description": "脚の安定、バランス、姿勢のための基本的な立位のポーズ。"
+    },
+    "ko": {
+      "title": "균형과 근력",
+      "description": "다리의 안정성, 균형 및 자세를 위한 기본 서기 자세."
+    },
+    "th": {
+      "title": "สมดุลและความแข็งแรง",
+      "description": "ท่ายืนพื้นฐานเพื่อความมั่นคงของขา สมดุล และท่าทาง"
+    },
+    "ru": {
+      "title": "Баланс и сила",
+      "description": "Базовые позы стоя для устойчивости ног, баланса и осанки."
+    },
+    "uk": {
+      "title": "Баланс і сила",
+      "description": "Базові пози стоячи для стійкості ніг, балансу та постави."
+    }
+  }
 }

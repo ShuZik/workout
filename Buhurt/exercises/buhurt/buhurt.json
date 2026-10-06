@@ -1,0 +1,90 @@
+{
+  "id": "47.1",
+  "key": "buhurt_main",
+  "title": "Buhurt",
+  "description": "1. Wearing full buhurt-approved armor with a blunt weapon and shield, take a guarded stance with the shield covering the body and knees bent.\n2. Move with short stable steps and drill permitted actions such as weapon strikes, shield pushes, and clinch entries at the intensity set by the coach.\n3. Keep a wide base to stay on your feet, stop immediately at the coach's call, and reset after every exchange.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "buhurt",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Buhurt",
+      "description": "1. Wearing full buhurt-approved armor with a blunt weapon and shield, take a guarded stance with the shield covering the body and knees bent.\n2. Move with short stable steps and drill permitted actions such as weapon strikes, shield pushes, and clinch entries at the intensity set by the coach.\n3. Keep a wide base to stay on your feet, stop immediately at the coach's call, and reset after every exchange.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Buhurt",
+      "description": "1. Con armadura completa homologada para buhurt, arma roma y escudo, adopta una guardia con el escudo cubriendo el cuerpo y las rodillas flexionadas.\n2. Desplázate con pasos cortos y estables y practica acciones permitidas como golpes con el arma, empujes de escudo y entradas al clinch con la intensidad que marque el entrenador.\n3. Mantén una base amplia para no caer, detente en cuanto el entrenador lo indique y reinicia tras cada intercambio.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Buhurt",
+      "description": "1. Com armadura completa aprovada para buhurt, arma sem fio e escudo, adote uma guarda com o escudo cobrindo o corpo e os joelhos fletidos.\n2. Desloque-se com passos curtos e estáveis e treine ações permitidas, como golpes com a arma, empurrões de escudo e entradas no clinch, na intensidade definida pelo treinador.\n3. Mantenha a base larga para não cair, pare imediatamente ao sinal do treinador e recomece após cada troca.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Buhurt",
+      "description": "1. En armure complète homologuée buhurt, avec arme émoussée et bouclier, prenez une garde, bouclier couvrant le corps et genoux fléchis.\n2. Déplacez-vous à petits pas stables et travaillez les actions autorisées — frappes d’arme, poussées de bouclier, entrées en corps-à-corps — à l’intensité fixée par l’entraîneur.\n3. Gardez une base large pour rester debout, arrêtez-vous immédiatement au signal de l’entraîneur et réinitialisez après chaque échange.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Buhurt",
+      "description": "1. In vollständiger, für Buhurt zugelassener Rüstung mit stumpfer Waffe und Schild eine Deckung einnehmen, Schild vor dem Körper, Knie gebeugt.\n2. Mit kurzen, stabilen Schritten bewegen und erlaubte Aktionen wie Waffenschläge, Schildstöße und Clinch-Eingänge in der vom Trainer vorgegebenen Intensität üben.\n3. Breite Basis halten, um auf den Beinen zu bleiben, beim Trainerkommando sofort stoppen und nach jedem Schlagabtausch neu beginnen.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Buhurt",
+      "description": "1. Con armatura completa omologata per il buhurt, arma smussata e scudo, assumi una guardia con lo scudo a coprire il corpo e le ginocchia piegate.\n2. Muoviti con passi corti e stabili e allena azioni consentite come colpi d’arma, spinte di scudo ed entrate in clinch all’intensità decisa dall’allenatore.\n3. Mantieni una base ampia per restare in piedi, fermati subito al segnale dell’allenatore e riparti dopo ogni scambio.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "甲胄团战",
+      "description": "1. 穿戴符合甲胄团战规定的全套盔甲，持钝兵器和盾牌，屈膝成戒备姿势，盾牌护住身体。\n2. 以短而稳的步伐移动，按教练设定的强度练习允许的动作，如兵器击打、盾推和缠抱切入。\n3. 保持宽站位以免倒地，听到教练口令立即停止，每次交锋后重新开始。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ブフルト",
+      "description": "1. ブフルト規定に合う全身甲冑を着け、刃引きの武器と盾を持ち、膝を曲げて盾で体を覆う構えを取ります。\n2. 短く安定した歩幅で動き、武器での打撃、盾での押し、組み付きへの入りなど許可された動作をコーチが決めた強度で練習します。\n3. 倒れないよう広い基盤を保ち、コーチの合図で即座に止まり、攻防ごとにリセットします。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "부후르트",
+      "description": "1. 부후르트 규정에 맞는 전신 갑옷을 입고 무딘 무기와 방패를 들어 무릎을 굽히고 방패로 몸을 가린 가드 자세를 잡습니다.\n2. 짧고 안정된 걸음으로 움직이며 무기 타격, 방패 밀기, 클린치 진입 같은 허용된 동작을 코치가 정한 강도로 연습합니다.\n3. 넘어지지 않도록 넓은 기저면을 유지하고 코치 신호에 즉시 멈추며 매 교환 후 다시 시작합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "บูเฮิร์ท",
+      "description": "1. สวมชุดเกราะเต็มตัวที่ผ่านเกณฑ์บูเฮิร์ท ถืออาวุธทื่อและโล่ ตั้งการ์ดโดยโล่บังลำตัวและงอเข่า\n2. เคลื่อนที่ด้วยก้าวสั้นมั่นคง และฝึกท่าที่อนุญาต เช่น การฟันด้วยอาวุธ การดันโล่ และการเข้าประชิด ตามความหนักที่โค้ชกำหนด\n3. รักษาฐานกว้างเพื่อไม่ล้ม หยุดทันทีเมื่อโค้ชสั่ง และเริ่มใหม่หลังการปะทะแต่ละครั้ง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Бугурт",
+      "description": "1. В полном доспехе, допущенном к бугурту, с затупленным оружием и щитом займите стойку, прикрывая корпус щитом и согнув колени.\n2. Двигайтесь короткими устойчивыми шагами и отрабатывайте разрешённые действия — удары оружием, толчки щитом, входы в клинч — с интенсивностью, заданной тренером.\n3. Держите широкую опору, чтобы устоять на ногах, сразу останавливайтесь по команде тренера и начинайте заново после каждого обмена.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Бугурт",
+      "description": "1. У повному обладунку, допущеному до бугурту, із затупленою зброєю та щитом станьте в стійку, прикриваючи корпус щитом і зігнувши коліна.\n2. Рухайтеся короткими стійкими кроками й відпрацьовуйте дозволені дії — удари зброєю, поштовхи щитом, входи в клінч — з інтенсивністю, яку задає тренер.\n3. Тримайте широку опору, щоб устояти на ногах, одразу зупиняйтеся за командою тренера й починайте знову після кожного обміну.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

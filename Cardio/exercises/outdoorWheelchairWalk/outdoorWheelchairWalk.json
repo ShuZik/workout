@@ -1,0 +1,90 @@
+{
+  "id": "11.24",
+  "key": "wheelchair_outdoor_walk",
+  "title": "Outdoor Wheelchair Walk",
+  "description": "1. Choose a smooth accessible route, check tire pressure and brakes, and sit with the pelvis supported.\n2. Grip the push rims behind the top, push forward through a comfortable arc, and release with relaxed hands.\n3. Let the hands recover below the rims and repeat at a steady cadence while scanning the path.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "wheelchairCompendium2024",
+    "unit": "METWC",
+    "defaultIntensity": "moderate",
+    "light": 2.7,
+    "moderate": 4,
+    "vigorous": 4.3,
+    "lightCode": "90153",
+    "moderateCode": "90155",
+    "vigorousCode": "90157"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Adaptive Cardio",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Outdoor Wheelchair Walk",
+      "description": "1. Choose a smooth accessible route, check tire pressure and brakes, and sit with the pelvis supported.\n2. Grip the push rims behind the top, push forward through a comfortable arc, and release with relaxed hands.\n3. Let the hands recover below the rims and repeat at a steady cadence while scanning the path.",
+      "sectionTitle": "Adaptive Cardio"
+    },
+    "es": {
+      "title": "Paseo en silla de ruedas al aire libre",
+      "description": "1. Elige una ruta accesible y lisa, comprueba la presión de los neumáticos y los frenos y siéntate con la pelvis apoyada.\n2. Agarra los aros de propulsión justo detrás de su punto más alto, empuja hacia delante siguiendo un arco cómodo y suelta con las manos relajadas.\n3. Deja que las manos vuelvan por debajo de los aros y repite a una cadencia constante mientras observas el camino.",
+      "sectionTitle": "Cardio adaptado"
+    },
+    "pt": {
+      "title": "Passeio em cadeira de rodas ao ar livre",
+      "description": "1. Escolha um trajeto acessível e liso, verifique a pressão dos pneus e os freios e sente-se com a pelve apoiada.\n2. Segure os aros de propulsão atrás do ponto mais alto, empurre para a frente em um arco confortável e solte com as mãos relaxadas.\n3. Deixe as mãos retornarem por baixo dos aros e repita em uma cadência constante enquanto observa o caminho.",
+      "sectionTitle": "Cardio adaptado"
+    },
+    "fr": {
+      "title": "Promenade en fauteuil roulant en extérieur",
+      "description": "1. Choisissez un parcours lisse et accessible, vérifiez la pression des pneus et les freins et asseyez-vous avec le bassin soutenu.\n2. Saisissez les mains courantes derrière leur sommet, poussez vers l’avant sur un arc confortable et relâchez avec les mains détendues.\n3. Ramenez les mains sous les mains courantes et répétez à une cadence régulière tout en observant le chemin.",
+      "sectionTitle": "Cardio adapté"
+    },
+    "de": {
+      "title": "Rollstuhlspaziergang im Freien",
+      "description": "1. Wähle eine glatte, barrierefreie Strecke, prüfe Reifendruck und Bremsen und sitze mit abgestütztem Becken.\n2. Greife die Greifreifen hinter dem höchsten Punkt, schiebe in einem angenehmen Bogen nach vorn und lasse mit entspannten Händen los.\n3. Führe die Hände unter den Greifreifen zurück und wiederhole in gleichmäßigem Tempo, während du den Weg prüfst.",
+      "sectionTitle": "Adaptives Cardio"
+    },
+    "it": {
+      "title": "Passeggiata in carrozzina all’aperto",
+      "description": "1. Scegli un percorso liscio e accessibile, controlla la pressione degli pneumatici e i freni e siediti con il bacino sostenuto.\n2. Afferra i corrimano dietro il punto più alto, spingi avanti lungo un arco confortevole e rilascia con le mani rilassate.\n3. Riporta le mani sotto i corrimano e ripeti con una cadenza regolare mentre osservi il percorso.",
+      "sectionTitle": "Cardio adattato"
+    },
+    "zh-Hans": {
+      "title": "户外轮椅漫行",
+      "description": "1. 选择平整、无障碍的路线，检查胎压和刹车，坐好并支撑骨盆。\n2. 在手推圈最高点稍后方握住，以舒适的弧线向前推，再放松双手松开。\n3. 双手从手推圈下方回收，以稳定节奏重复，同时观察路径。",
+      "sectionTitle": "适应性有氧运动"
+    },
+    "ja": {
+      "title": "屋外車いすウォーキング",
+      "description": "1. 平らで通行しやすいルートを選び、タイヤの空気圧とブレーキを確認し、骨盤を支えて座ります。\n2. ハンドリムの頂点より後ろを握り、無理のない弧を描いて前へ押し、手を緩めて離します。\n3. 手をリムの下から戻し、道を確認しながら一定のペースで繰り返します。",
+      "sectionTitle": "適応型有酸素運動"
+    },
+    "ko": {
+      "title": "야외 휠체어 산책",
+      "description": "1. 매끄럽고 접근 가능한 경로를 선택하고 타이어 공기압과 브레이크를 확인한 뒤 골반을 받쳐 앉습니다.\n2. 푸시림의 가장 높은 지점 뒤쪽을 잡고 편안한 호를 따라 앞으로 밀며 손의 긴장을 풀어 놓습니다.\n3. 손을 림 아래로 회수하고 경로를 살피며 일정한 속도로 반복합니다.",
+      "sectionTitle": "적응형 유산소 운동"
+    },
+    "th": {
+      "title": "การเคลื่อนวีลแชร์กลางแจ้ง",
+      "description": "1. เลือกเส้นทางเรียบที่เข้าถึงได้ ตรวจแรงดันลมยางและเบรก แล้วนั่งโดยมีสิ่งรองรับเชิงกราน\n2. จับห่วงดันล้อด้านหลังจุดสูงสุด ดันไปข้างหน้าตามแนวโค้งที่สบาย แล้วปล่อยมืออย่างผ่อนคลาย\n3. นำมือกลับใต้ห่วงและทำซ้ำด้วยจังหวะสม่ำเสมอ ขณะมองตรวจเส้นทาง",
+      "sectionTitle": "คาร์ดิโอแบบปรับให้เหมาะสม"
+    },
+    "ru": {
+      "title": "Прогулка на коляске на открытом воздухе",
+      "description": "1. Выберите ровный доступный маршрут, проверьте давление в шинах и тормоза и сядьте с опорой для таза.\n2. Возьмитесь за ободы для толкания позади верхней точки, толкните вперёд по комфортной дуге и отпустите расслабленными кистями.\n3. Верните кисти под ободами и повторяйте в ровном ритме, осматривая путь.",
+      "sectionTitle": "Адаптивное кардио"
+    },
+    "uk": {
+      "title": "Прогулянка на кріслі колісному надворі",
+      "description": "1. Оберіть рівний доступний маршрут, перевірте тиск у шинах і гальма та сядьте з опорою для таза.\n2. Візьміться за ободи для штовхання позаду верхньої точки, штовхніть уперед по комфортній дузі й відпустіть розслабленими кистями.\n3. Поверніть кисті під ободами й повторюйте в рівному ритмі, оглядаючи шлях.",
+      "sectionTitle": "Адаптивне кардіо"
+    }
+  }
+}

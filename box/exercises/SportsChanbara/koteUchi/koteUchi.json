@@ -1,0 +1,87 @@
+{
+  "id": "94.4",
+  "key": "sports_chanbara_kote_uchi",
+  "title": "Kote-uchi",
+  "description": "1. Receiver wears the face mask and holds the kodachi in guard; striker faces them at one-step distance.\n2. Striker steps in and snaps a short strike onto the back of the receiver's weapon hand or wrist (kote).\n3. Striker recovers guard and steps out; keep the strike light, receiver calls stop if needed, and switch roles after each set.",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kote-uchi",
+      "description": "1. Receiver wears the face mask and holds the kodachi in guard; striker faces them at one-step distance.\n2. Striker steps in and snaps a short strike onto the back of the receiver's weapon hand or wrist (kote).\n3. Striker recovers guard and steps out; keep the strike light, receiver calls stop if needed, and switch roles after each set.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Kote-uchi",
+      "description": "1. El receptor lleva la careta y sostiene el kodachi en guardia; el atacante se coloca frente a él a un paso.\n2. El atacante entra y lanza un golpe corto y seco al dorso de la mano armada o la muñeca del receptor (kote).\n3. El atacante recupera la guardia y sale; golpe ligero, el receptor dice alto si hace falta, y cambiad de rol tras cada serie.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Kote-uchi",
+      "description": "1. O receptor usa a máscara e segura o kodachi em guarda; o atacante fica diante dele a um passo.\n2. O atacante entra e dá um golpe curto e seco no dorso da mão armada ou no punho do receptor (kote).\n3. O atacante recupera a guarda e sai; golpe leve, o receptor diz pare se necessário, e troquem de papel após cada série.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Kote-uchi",
+      "description": "1. Le receveur porte le masque et tient le kodachi en garde ; le frappeur lui fait face à un pas de distance.\n2. Le frappeur entre et donne un petit coup sec sur le dos de la main armée ou le poignet du receveur (kote).\n3. Le frappeur reprend la garde et ressort ; frappez légèrement, le receveur annonce stop si besoin, et changez de rôle après chaque série.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Kote-Uchi",
+      "description": "1. Der Empfänger trägt die Gesichtsmaske und hält das Kodachi in Deckung; der Schlagende steht ihm auf einen Schritt gegenüber.\n2. Der Schlagende tritt ein und schnappt einen kurzen Schlag auf den Rücken der Waffenhand oder das Handgelenk des Empfängers (Kote).\n3. Der Schlagende geht zurück in Deckung und tritt aus; schlage leicht, der Empfänger ruft bei Bedarf Stopp, nach jeder Serie Rollen tauschen.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Kote-uchi",
+      "description": "1. Chi riceve indossa la maschera e tiene il kodachi in guardia; chi colpisce gli sta di fronte a un passo.\n2. Chi colpisce entra e dà un colpo corto e secco sul dorso della mano armata o sul polso di chi riceve (kote).\n3. Chi colpisce torna in guardia ed esce; colpo leggero, chi riceve chiama lo stop se serve, e scambiatevi i ruoli dopo ogni serie.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "小手击",
+      "description": "1. 受方戴面罩，以架势持小太刀；攻方在一步距离外与其相对。\n2. 攻方上步，短促轻弹击打受方持剑手的手背或手腕（小手）。\n3. 攻方恢复架势并退出；击打要轻，受方必要时喊停，每组后交换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "小手打ち",
+      "description": "1. 受け手は面を着けて小太刀を構え、打ち手は一歩の間合いで向き合います。\n2. 打ち手は踏み込み、受け手の剣を持つ手の甲または手首（小手）を短く鋭く打ちます。\n3. 打ち手は構えに戻って下がります。打ちは軽く、受け手は必要なら止めの合図を出し、一組ごとに交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "손목 치기(고테우치)",
+      "description": "1. 받는 사람은 안면 마스크를 쓰고 고다치를 가드로 잡으며, 치는 사람은 한 걸음 거리에서 마주 섭니다.\n2. 치는 사람은 들어가며 받는 사람의 무기 든 손등이나 손목(고테)을 짧게 튕겨 칩니다.\n3. 치는 사람은 가드를 회복하고 빠지며, 가볍게 치고, 받는 사람은 필요하면 정지를 외치며, 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "โคเตะอุจิ",
+      "description": "1. ผู้รับสวมหน้ากากและถือโคดาจิในท่าการ์ด ผู้ตียืนเผชิญหน้าในระยะหนึ่งก้าว\n2. ผู้ตีก้าวเข้าและสะบัดตีสั้น ๆ ที่หลังมือหรือข้อมือข้างที่ถืออาวุธของผู้รับ (โคเตะ)\n3. ผู้ตีกลับสู่การ์ดและถอยออก ตีเบา ๆ ผู้รับสั่งหยุดได้หากจำเป็น และสลับบทบาททุกชุด",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Котэ-ути",
+      "description": "1. Принимающий в защитной маске держит кодати в стойке; атакующий стоит напротив на расстоянии шага.\n2. Атакующий шагает и коротким хлёстким ударом бьёт по тыльной стороне вооружённой кисти или запястью принимающего (котэ).\n3. Атакующий возвращается в стойку и отходит; бейте легко, принимающий при необходимости командует стоп, после каждой серии смена ролей.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Коте-учі",
+      "description": "1. Той, хто приймає, у захисній масці тримає кодачі в стійці; атакувальник стоїть навпроти на відстані кроку.\n2. Атакувальник ступає й коротким хльостким ударом б'є по тильному боці озброєної кисті чи зап'ястю того, хто приймає (коте).\n3. Атакувальник повертається в стійку й відходить; бийте легко, той, хто приймає, за потреби командує стоп, після кожної серії зміна ролей.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

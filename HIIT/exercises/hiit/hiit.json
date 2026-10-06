@@ -1,0 +1,91 @@
+{
+  "id": "12.1",
+  "key": "hiit",
+  "title": "HIIT",
+  "description": "1. Choose one or more exercises that can be performed safely at high cadence and set the work and recovery intervals.\n2. Perform the work interval at a hard repeatable effort while keeping the full movement range.\n3. Reduce to easy movement or rest during recovery, then begin the next work interval only after regaining control.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "durationSeconds": 30,
+  "durationUnit": "seconds",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "HIIT",
+      "description": "1. Choose one or more exercises that can be performed safely at high cadence and set the work and recovery intervals.\n2. Perform the work interval at a hard repeatable effort while keeping the full movement range.\n3. Reduce to easy movement or rest during recovery, then begin the next work interval only after regaining control.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "HIIT",
+      "description": "1. Elige uno o más ejercicios que puedas realizar con seguridad a un ritmo alto y define los intervalos de trabajo y de recuperación.\n2. Realiza el intervalo de trabajo con un esfuerzo intenso y repetible, manteniendo el rango completo de movimiento.\n3. Durante la recuperación, pasa a un movimiento suave o descansa, y empieza el siguiente intervalo de trabajo solo cuando hayas recuperado el control.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "HIIT",
+      "description": "1. Escolha um ou mais exercícios que possam ser feitos com segurança em ritmo alto e defina os intervalos de trabalho e de recuperação.\n2. Faça o intervalo de trabalho com um esforço intenso e repetível, mantendo a amplitude completa do movimento.\n3. Na recuperação, reduza para um movimento leve ou descanse, e comece o próximo intervalo de trabalho só depois de recuperar o controle.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "HIIT",
+      "description": "1. Choisissez un ou plusieurs exercices réalisables en toute sécurité à cadence élevée et définissez les intervalles d'effort et de récupération.\n2. Effectuez l'intervalle d'effort à une intensité élevée et reproductible en conservant toute l'amplitude du mouvement.\n3. Pendant la récupération, passez à un mouvement léger ou reposez-vous, puis ne commencez l'intervalle suivant qu'après avoir retrouvé le contrôle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "HIIT",
+      "description": "1. Wähle eine oder mehrere Übungen, die du sicher in hohem Tempo ausführen kannst, und lege Belastungs- und Erholungsintervalle fest.\n2. Absolviere das Belastungsintervall mit hoher, wiederholbarer Anstrengung und behalte den vollen Bewegungsumfang bei.\n3. Wechsle in der Erholung zu lockerer Bewegung oder pausiere und beginne das nächste Belastungsintervall erst, wenn du wieder die Kontrolle hast.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "HIIT",
+      "description": "1. Scegli uno o più esercizi che puoi eseguire in sicurezza a ritmo elevato e imposta gli intervalli di lavoro e di recupero.\n2. Esegui l'intervallo di lavoro con uno sforzo intenso e ripetibile, mantenendo l'intera ampiezza del movimento.\n3. Durante il recupero passa a un movimento leggero o riposa, e inizia l'intervallo di lavoro successivo solo dopo aver ritrovato il controllo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "高强度间歇训练",
+      "description": "1. 选择一个或多个能在高节奏下安全完成的动作，并设定训练间歇和恢复间歇。\n2. 以高强度且可重复的用力完成训练间歇，同时保持完整的动作幅度。\n3. 恢复期间改为轻松活动或休息，重新恢复控制后再开始下一个训练间歇。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "高強度インターバルトレーニング",
+      "description": "1. 高いテンポで安全に行える種目を1つ以上選び、運動とリカバリーのインターバルを設定します。\n2. 運動インターバルでは、全可動域を保ちながら、きついけれど繰り返せる強度で行います。\n3. リカバリー中は軽い動きか休息に切り替え、コントロールを取り戻してから次の運動インターバルを始めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "고강도 인터벌 트레이닝",
+      "description": "1. 빠른 템포로 안전하게 수행할 수 있는 운동을 하나 이상 고르고 운동 구간과 회복 구간을 설정합니다.\n2. 운동 구간은 전체 가동 범위를 유지하면서 힘들지만 반복 가능한 강도로 수행합니다.\n3. 회복 구간에는 가벼운 움직임으로 낮추거나 휴식하고, 통제력을 되찾은 뒤에만 다음 운동 구간을 시작합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "การฝึกแบบหนักสลับพัก",
+      "description": "1. เลือกท่าออกกำลังกายหนึ่งท่าหรือมากกว่าที่ทำได้อย่างปลอดภัยในจังหวะเร็ว และกำหนดช่วงออกแรงกับช่วงพักฟื้น\n2. ทำช่วงออกแรงด้วยความหนักที่สูงแต่ทำซ้ำได้ โดยรักษาช่วงการเคลื่อนไหวให้เต็มที่\n3. ในช่วงพักฟื้น ให้ลดเป็นการเคลื่อนไหวเบา ๆ หรือพัก แล้วเริ่มช่วงออกแรงถัดไปเมื่อกลับมาควบคุมร่างกายได้แล้วเท่านั้น",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "HIIT",
+      "description": "1. Выберите одно или несколько упражнений, которые можно безопасно выполнять в высоком темпе, и задайте интервалы работы и восстановления.\n2. Выполняйте рабочий интервал с высоким, но воспроизводимым усилием, сохраняя полную амплитуду движения.\n3. Во время восстановления переходите на лёгкое движение или отдыхайте и начинайте следующий рабочий интервал только после того, как вернёте контроль.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "HIIT",
+      "description": "1. Оберіть одну або кілька вправ, які можна безпечно виконувати у високому темпі, і задайте інтервали роботи та відновлення.\n2. Виконуйте робочий інтервал із високим, але відтворюваним зусиллям, зберігаючи повну амплітуду руху.\n3. Під час відновлення переходьте на легкий рух або відпочивайте й починайте наступний робочий інтервал лише після того, як повернете контроль.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

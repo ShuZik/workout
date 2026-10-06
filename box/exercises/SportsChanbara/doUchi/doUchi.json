@@ -1,0 +1,87 @@
+{
+  "id": "94.5",
+  "key": "sports_chanbara_do_uchi",
+  "title": "Do-uchi",
+  "description": "1. Receiver wears the face mask and stands in guard; striker faces them at one-step distance.\n2. Striker steps in, turns the wrist, and strikes the side of the receiver's torso (do) with a horizontal snap of the kodachi.\n3. Striker recovers guard and steps out of range; receiver calls stop if needed, and both switch roles after each set.",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Do-uchi",
+      "description": "1. Receiver wears the face mask and stands in guard; striker faces them at one-step distance.\n2. Striker steps in, turns the wrist, and strikes the side of the receiver's torso (do) with a horizontal snap of the kodachi.\n3. Striker recovers guard and steps out of range; receiver calls stop if needed, and both switch roles after each set.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Do-uchi",
+      "description": "1. El receptor lleva la careta y está en guardia; el atacante se coloca frente a él a un paso.\n2. El atacante entra, gira la muñeca y golpea el costado del tronco del receptor (do) con un chasquido horizontal del kodachi.\n3. El atacante recupera la guardia y sale de distancia; el receptor dice alto si hace falta, y ambos cambian de rol tras cada serie.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Do-uchi",
+      "description": "1. O receptor usa a máscara e fica em guarda; o atacante fica diante dele a um passo.\n2. O atacante entra, gira o punho e golpeia a lateral do tronco do receptor (do) com um estalo horizontal do kodachi.\n3. O atacante recupera a guarda e sai da distância; o receptor diz pare se necessário, e ambos trocam de papel após cada série.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Do-uchi",
+      "description": "1. Le receveur porte le masque et se tient en garde ; le frappeur lui fait face à un pas de distance.\n2. Le frappeur entre, tourne le poignet et touche le flanc du receveur (do) d'un coup sec horizontal du kodachi.\n3. Le frappeur reprend la garde et ressort de distance ; le receveur annonce stop si besoin, et tous deux changent de rôle après chaque série.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Do-Uchi",
+      "description": "1. Der Empfänger trägt die Gesichtsmaske und steht in Deckung; der Schlagende steht ihm auf einen Schritt gegenüber.\n2. Der Schlagende tritt ein, dreht das Handgelenk und trifft mit einem waagerechten Schnappen des Kodachi die Rumpfseite des Empfängers (Do).\n3. Der Schlagende geht zurück in Deckung und aus der Distanz; der Empfänger ruft bei Bedarf Stopp, nach jeder Serie wechseln beide die Rollen.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Do-uchi",
+      "description": "1. Chi riceve indossa la maschera ed è in guardia; chi colpisce gli sta di fronte a un passo.\n2. Chi colpisce entra, ruota il polso e tocca il fianco del busto di chi riceve (do) con uno scatto orizzontale del kodachi.\n3. Chi colpisce torna in guardia ed esce di distanza; chi riceve chiama lo stop se serve, ed entrambi scambiano i ruoli dopo ogni serie.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "胴击",
+      "description": "1. 受方戴好面罩并摆好架势；攻方在一步距离外与其相对。\n2. 攻方上步转腕，用小太刀水平轻弹击打受方躯干侧面（胴）。\n3. 攻方恢复架势并退出攻击距离；受方必要时喊停，每组后双方交换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "胴打ち",
+      "description": "1. 受け手は面を着けて構え、打ち手は一歩の間合いで向き合います。\n2. 打ち手は踏み込んで手首を返し、小太刀を水平に振って受け手の胴の側面を打ちます。\n3. 打ち手は構えに戻って間合いの外へ下がり、受け手は必要なら止めの合図を出し、一組ごとに役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "허리 치기(도우치)",
+      "description": "1. 받는 사람은 안면 마스크를 쓰고 가드를 잡으며, 치는 사람은 한 걸음 거리에서 마주 섭니다.\n2. 치는 사람은 들어가며 손목을 돌려 고다치를 수평으로 튕겨 받는 사람의 몸통 옆(도)을 칩니다.\n3. 치는 사람은 가드를 회복하고 거리 밖으로 물러나며, 받는 사람은 필요하면 정지를 외치고, 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "โดอุจิ",
+      "description": "1. ผู้รับสวมหน้ากากและตั้งการ์ด ผู้ตียืนเผชิญหน้าในระยะหนึ่งก้าว\n2. ผู้ตีก้าวเข้า หมุนข้อมือ และตีด้านข้างลำตัวของผู้รับ (โด) ด้วยการสะบัดโคดาจิในแนวนอน\n3. ผู้ตีกลับสู่การ์ดและถอยออกนอกระยะ ผู้รับสั่งหยุดได้หากจำเป็น และสลับบทบาททุกชุด",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "До-ути",
+      "description": "1. Принимающий в защитной маске стоит в стойке; атакующий стоит напротив на расстоянии шага.\n2. Атакующий шагает, разворачивает запястье и горизонтальным хлёстом кодати бьёт по боку корпуса принимающего (до).\n3. Атакующий возвращается в стойку и выходит из дистанции; принимающий при необходимости командует стоп, после каждой серии роли меняются.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "До-учі",
+      "description": "1. Той, хто приймає, у захисній масці стоїть у стійці; атакувальник стоїть навпроти на відстані кроку.\n2. Атакувальник ступає, розвертає зап'ястя й горизонтальним хльостом кодачі б'є по боці корпусу того, хто приймає (до).\n3. Атакувальник повертається в стійку й виходить із дистанції; той, хто приймає, за потреби командує стоп, після кожної серії ролі змінюються.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

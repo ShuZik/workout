@@ -1,0 +1,90 @@
+{
+  "id": "69.16",
+  "key": "kendo_tachi_6",
+  "title": "Kendo Kata Tachi 6",
+  "description": "1. Uchidachi takes chudan and shidachi gedan; shidachi raises the tip, pressing uchidachi from jodan back to chudan.\n2. Uchidachi cuts a small kote; shidachi deflects with a small semicircular suriage and cuts kote.\n3. Shidachi steps diagonally into left jodan as zanshin; both return to chudan and the start.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "3 Partner Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kendo Kata Tachi 6",
+      "description": "1. Uchidachi takes chudan and shidachi gedan; shidachi raises the tip, pressing uchidachi from jodan back to chudan.\n2. Uchidachi cuts a small kote; shidachi deflects with a small semicircular suriage and cuts kote.\n3. Shidachi steps diagonally into left jodan as zanshin; both return to chudan and the start.",
+      "sectionTitle": "Partner Forms"
+    },
+    "es": {
+      "title": "Kendo Kata Tachi 6",
+      "description": "1. Uchidachi toma chudan y shidachi gedan; shidachi eleva la punta y presiona a uchidachi, que pasa de jodan de vuelta a chudan.\n2. Uchidachi corta un kote pequeño; shidachi lo desvía con un pequeño suriage semicircular y corta kote.\n3. Shidachi avanza en diagonal a hidari-jodan como zanshin; ambos vuelven a chudan y al inicio.",
+      "sectionTitle": "Formas en pareja"
+    },
+    "pt": {
+      "title": "Kendo Kata Tachi 6",
+      "description": "1. Uchidachi assume chudan e shidachi gedan; shidachi ergue a ponta e pressiona uchidachi, que passa de jodan de volta a chudan.\n2. Uchidachi corta um kote pequeno; shidachi desvia com um pequeno suriage semicircular e corta kote.\n3. Shidachi avança em diagonal para hidari-jodan como zanshin; ambos voltam a chudan e ao início.",
+      "sectionTitle": "Formas em dupla"
+    },
+    "fr": {
+      "title": "Kendo Kata Tachi 6",
+      "description": "1. Uchidachi prend chudan et shidachi gedan ; shidachi lève la pointe et presse uchidachi, qui passe de jodan à chudan.\n2. Uchidachi coupe un petit kote ; shidachi dévie par un petit suriage semi-circulaire et coupe kote.\n3. Shidachi se déplace en diagonale en hidari-jodan comme zanshin ; tous deux reviennent en chudan et au départ.",
+      "sectionTitle": "Formes à deux"
+    },
+    "de": {
+      "title": "Kendo Kata Tachi 6",
+      "description": "1. Uchidachi nimmt Chudan, Shidachi Gedan; Shidachi hebt die Spitze und drängt Uchidachi aus dem Jodan zurück ins Chudan.\n2. Uchidachi schneidet kleines Kote; Shidachi lenkt mit kleinem halbkreisförmigem Suriage ab und schneidet Kote.\n3. Shidachi tritt diagonal ins Hidari-Jodan als Zanshin; beide kehren ins Chudan und zum Start zurück.",
+      "sectionTitle": "Partnerformen"
+    },
+    "it": {
+      "title": "Kendo Kata Tachi 6",
+      "description": "1. Uchidachi assume chudan e shidachi gedan; shidachi alza la punta e incalza uchidachi, che passa da jodan di nuovo a chudan.\n2. Uchidachi taglia un piccolo kote; shidachi devia con un piccolo suriage semicircolare e taglia kote.\n3. Shidachi si sposta in diagonale in hidari-jodan come zanshin; entrambi tornano in chudan e all’inizio.",
+      "sectionTitle": "Forme in coppia"
+    },
+    "zh-Hans": {
+      "title": "日本剑道形 太刀六本目",
+      "description": "1. 打太刀取中段，仕太刀取下段；仕太刀抬剑尖进逼，打太刀由上段退回中段。\n2. 打太刀小幅斩小手；仕太刀以小半圆擦上卸开并斩小手。\n3. 仕太刀斜步成左上段示残心；双方回到中段与起点。",
+      "sectionTitle": "对练形"
+    },
+    "ja": {
+      "title": "日本剣道形 太刀六本目",
+      "description": "1. 打太刀は中段、仕太刀は下段にとり、仕太刀が剣先を上げて攻め、打太刀は上段から中段に戻ります。\n2. 打太刀が小さく小手を打ち、仕太刀は小さく半円を描いてすり上げ、小手を打ちます。\n3. 仕太刀は左斜めに出て左上段にとり残心を示し、互いに中段に戻って元の位置へ帰ります。",
+      "sectionTitle": "日本剣道形"
+    },
+    "ko": {
+      "title": "일본검도형 태도 6본",
+      "description": "1. 우치다치는 중단, 시다치는 하단을 잡고, 시다치가 칼끝을 올려 압박하면 우치다치는 상단에서 다시 중단으로 돌아옵니다.\n2. 우치다치가 작게 손목을 베면 시다치는 작은 반원으로 밀어 올려 흘리고 손목을 벱니다.\n3. 시다치는 대각으로 나서며 왼쪽 상단으로 잔심을 보이고 둘 다 중단과 시작 위치로 돌아갑니다.",
+      "sectionTitle": "짝 형"
+    },
+    "th": {
+      "title": "เคนโดคาตะ ทาจิ 6",
+      "description": "1. อุจิดาจิตั้งชูดัง ชิดาจิตั้งเกดัน ชิดาจิยกปลายดาบกดดัน อุจิดาจิเปลี่ยนจากโจดันกลับเป็นชูดัง\n2. อุจิดาจิฟันโคเตะแบบเล็ก ชิดาจิปัดด้วยซูริอาเงะครึ่งวงกลมเล็กๆ แล้วฟันโคเตะ\n3. ชิดาจิก้าวเฉียงเป็นฮิดาริโจดันแสดงซันชิน ทั้งคู่กลับสู่ชูดังและจุดเริ่ม",
+      "sectionTitle": "ท่าร่างคู่"
+    },
+    "ru": {
+      "title": "Кэндо-ката, тати 6",
+      "description": "1. Утидати занимает тюдан, сидати — гэдан; сидати поднимает кончик и теснит утидати, который из дзёдан возвращается в тюдан.\n2. Утидати рубит маленький котэ; сидати отводит его небольшим полукруглым суриагэ и рубит котэ.\n3. Сидати смещается по диагонали в хидари-дзёдан как дзансин; оба возвращаются в тюдан и на исходную позицию.",
+      "sectionTitle": "Парные формы"
+    },
+    "uk": {
+      "title": "Кендо-ката, таті 6",
+      "description": "1. Утідаті займає тюдан, сідаті — ґедан; сідаті піднімає кінчик і тисне на утідаті, який із дзьодан повертається в тюдан.\n2. Утідаті рубає маленький коте; сідаті відводить його невеликим півколовим суріаґе й рубає коте.\n3. Сідаті зміщується по діагоналі в хідарі-дзьодан як дзансін; обоє повертаються в тюдан і на початкову позицію.",
+      "sectionTitle": "Парні форми"
+    }
+  }
+}

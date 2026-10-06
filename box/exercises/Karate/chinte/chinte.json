@@ -1,0 +1,87 @@
+{
+  "id": "40.45",
+  "key": "karate_chinte",
+  "title": "Chinte",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Use unusual hand weapons such as vertical knife-hand, palm-heel and one-knuckle strikes with circular blocks, alternating strong and slow passages, and end with three small hops backward.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Chinte",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Use unusual hand weapons such as vertical knife-hand, palm-heel and one-knuckle strikes with circular blocks, alternating strong and slow passages, and end with three small hops backward.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Chinte",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Usa armas de mano inusuales como shuto vertical, palma y golpes de un nudillo con bloqueos circulares, alternando pasajes fuertes y lentos, y termina con tres pequeños saltos hacia atrás.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Chinte",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Use armas de mão incomuns como shuto vertical, base da palma e golpes de um nó do dedo com bloqueios circulares, alternando passagens fortes e lentas, e termine com três pequenos saltos para trás.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Chinte",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Utilisez des armes de main inhabituelles comme le shuto vertical, la paume et les frappes à une phalange avec des blocages circulaires, en alternant passages forts et lents, et terminez par trois petits sauts en arrière.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Chinte",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Nutze ungewöhnliche Handwaffen wie senkrechten Shuto, Handballen- und Einknöchelschläge mit Kreisabwehren, wechsle starke und langsame Passagen und ende mit drei kleinen Hüpfern rückwärts.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Chinte",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Usa armi della mano insolite come shuto verticale, palmo e colpi con una nocca con parate circolari, alternando passaggi forti e lenti, e concludi con tre piccoli saltelli all’indietro.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "珍手",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 使用竖手刀、掌底、一本拳等少见手法配合弧形格挡，强弱快慢交替，最后向后小跳三次。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "珍手",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 縦手刀、底掌、一本拳など珍しい手技と円の受けを用い、強い動きとゆっくりした動きを交え、最後に後方へ小さく三回跳びます。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "친테",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 세운 손날, 바탕손, 한 마디 주먹 같은 독특한 손 기술과 원형 막기를 쓰며 강약과 완급을 번갈아 하고, 마지막에 뒤로 작게 세 번 뜁니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "ชินเตะ",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. ใช้อาวุธมือที่แปลกตา เช่น สันมือแนวตั้ง ฝ่ามือ และหมัดข้อนิ้วเดียว ร่วมกับการปัดวงกลม สลับช่วงหนักแน่นและช้า แล้วจบด้วยการกระโดดเล็ก ๆ ถอยหลังสามครั้ง\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Тинтэ",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Используйте необычные ударные поверхности — вертикальное сюто, основание ладони, удары одной фалангой — с круговыми блоками, чередуя мощные и медленные части, и завершите тремя небольшими прыжками назад.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Чінте",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Використовуйте незвичні ударні поверхні — вертикальне шуто, основу долоні, удари однією фалангою — з коловими блоками, чергуючи потужні й повільні частини, і завершіть трьома невеликими стрибками назад.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "1.47",
+  "key": "conditioned_sparring",
+  "title": "Conditioned Sparring",
+  "description": "1. Under a coach's supervision and in full protective equipment, set one or more conditions for each boxer before the round.\n2. Spar at realistic speed but low power within those conditions, for example one boxer throws only straight punches to the head while the other uses only hand defences.\n3. Swap roles after the agreed period and stop at once if either boxer breaks the condition or loses control.",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.8,
+    "moderate": 9.3,
+    "vigorous": 12.3,
+    "lightCode": "15110",
+    "moderateCode": "15125",
+    "vigorousCode": "15100"
+  },
+  "section": "4 Intermediate",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Conditioned Sparring",
+      "description": "1. Under a coach's supervision and in full protective equipment, set one or more conditions for each boxer before the round.\n2. Spar at realistic speed but low power within those conditions, for example one boxer throws only straight punches to the head while the other uses only hand defences.\n3. Swap roles after the agreed period and stop at once if either boxer breaks the condition or loses control.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Sparring condicionado",
+      "description": "1. Bajo supervisión del entrenador y con todo el equipo de protección, fija una o varias condiciones para cada boxeador antes del asalto.\n2. Haz sparring a velocidad realista pero con poca potencia dentro de esas condiciones; por ejemplo, uno solo lanza rectos a la cabeza y el otro solo usa defensas con las manos.\n3. Intercambia los papeles tras el tiempo acordado y detente en cuanto alguno rompa la condición o pierda el control.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Sparring condicionado",
+      "description": "1. Sob supervisão do treinador e com todo o equipamento de proteção, defina uma ou mais condições para cada boxeador antes do round.\n2. Faça sparring em velocidade realista mas com pouca potência dentro dessas condições; por exemplo, um só lança diretos na cabeça e o outro só usa defesas com as mãos.\n3. Troque os papéis após o tempo combinado e pare imediatamente se alguém quebrar a condição ou perder o controle.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Sparring à thème",
+      "description": "1. Sous la supervision de l’entraîneur et avec toutes les protections, fixez une ou plusieurs consignes pour chaque boxeur avant le round.\n2. Travaillez à vitesse réaliste mais à faible puissance dans ces consignes, par exemple l’un ne lance que des directs au visage et l’autre n’utilise que des défenses avec les mains.\n3. Inversez les rôles après le temps convenu et arrêtez aussitôt si l’un ne respecte plus la consigne ou perd le contrôle.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "Bedingungssparring",
+      "description": "1. Lege unter Aufsicht des Trainers und in voller Schutzausrüstung vor der Runde eine oder mehrere Bedingungen für jeden Boxer fest.\n2. Spare mit realistischem Tempo, aber geringer Wucht innerhalb dieser Bedingungen, etwa schlägt einer nur Geraden zum Kopf und der andere verteidigt nur mit den Händen.\n3. Tausche nach der vereinbarten Zeit die Rollen und brich sofort ab, wenn jemand die Bedingung verletzt oder die Kontrolle verliert.",
+      "sectionTitle": "Fortgeschritten"
+    },
+    "it": {
+      "title": "Sparring condizionato",
+      "description": "1. Sotto la supervisione dell’allenatore e con tutte le protezioni, stabilisci una o più condizioni per ciascun pugile prima della ripresa.\n2. Fai sparring a velocità realistica ma con poca potenza entro quelle condizioni, ad esempio uno lancia solo diretti al volto e l’altro usa solo difese con le mani.\n3. Scambia i ruoli dopo il tempo concordato e fermati subito se qualcuno viola la condizione o perde il controllo.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "条件实战",
+      "description": "1. 在教练监督下、穿戴全部护具，回合开始前为每名拳手设定一个或多个条件。\n2. 在条件范围内以接近实战的速度、较低的力量对练，例如一方只打头部直拳，另一方只用手部防守。\n3. 约定时间后交换角色；任何一方违反条件或失控时立即停止。",
+      "sectionTitle": "中级"
+    },
+    "ja": {
+      "title": "条件付きスパーリング",
+      "description": "1. コーチの監督下で防具をすべて着け、ラウンド前に各ボクサーへ一つ以上の条件を設定します。\n2. 条件の範囲内で実戦に近いスピード、低いパワーで行います。例として、一方は顔面へのストレートのみ、他方は手によるディフェンスのみを使います。\n3. 決めた時間で役割を交代し、どちらかが条件を破るか制御を失ったらすぐに止めます。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "조건 스파링",
+      "description": "1. 코치의 감독 아래 보호구를 모두 착용하고, 라운드 전에 각 선수에게 하나 이상의 조건을 정합니다.\n2. 조건 안에서 실전에 가까운 속도와 낮은 힘으로 스파링합니다. 예를 들어 한 명은 얼굴 스트레이트만, 다른 한 명은 손 방어만 사용합니다.\n3. 정한 시간 뒤 역할을 바꾸고, 누구든 조건을 어기거나 통제를 잃으면 즉시 멈춥니다.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "สปาร์ริงแบบมีเงื่อนไข",
+      "description": "1. ภายใต้การควบคุมของโค้ชและสวมอุปกรณ์ป้องกันครบ กำหนดเงื่อนไขหนึ่งข้อหรือมากกว่าให้นักมวยแต่ละคนก่อนเริ่มยก\n2. สปาร์ด้วยความเร็วใกล้เคียงจริงแต่ใช้แรงน้อยภายในเงื่อนไข เช่น ฝ่ายหนึ่งออกได้เฉพาะหมัดตรงเข้าหน้า อีกฝ่ายป้องกันด้วยมือเท่านั้น\n3. สลับบทบาทเมื่อครบเวลาที่ตกลง และหยุดทันทีหากฝ่ายใดทำผิดเงื่อนไขหรือเสียการควบคุม",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Условный спарринг",
+      "description": "1. Под контролем тренера и в полной защитной экипировке задайте каждому боксёру одно или несколько условий перед раундом.\n2. Проводите спарринг в реальном темпе, но с малой силой в рамках условий, например один бьёт только прямые в голову, а другой защищается только руками.\n3. Через оговорённое время поменяйтесь ролями и сразу остановитесь, если кто-то нарушит условие или потеряет контроль.",
+      "sectionTitle": "Средний"
+    },
+    "uk": {
+      "title": "Умовний спаринг",
+      "description": "1. Під контролем тренера й у повному захисному спорядженні задайте кожному боксерові одну чи кілька умов перед раундом.\n2. Проводьте спаринг у реальному темпі, але з малою силою в межах умов, наприклад один б’є лише прямі в голову, а інший захищається лише руками.\n3. Через обумовлений час поміняйтеся ролями й одразу зупиніться, якщо хтось порушить умову або втратить контроль.",
+      "sectionTitle": "Середній"
+    }
+  }
+}

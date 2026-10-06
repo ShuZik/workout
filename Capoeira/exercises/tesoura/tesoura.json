@@ -1,0 +1,90 @@
+{
+  "id": "49.17",
+  "key": "capoeira_tesoura",
+  "title": "Tesoura",
+  "description": "1. On thick mats with a partner trained in falling, drop to the floor beside the partner on both hands and place one leg in front of and one behind the partner's legs at knee height or lower.\n2. Close the legs slowly like scissors while turning the hips, so the partner's legs are guided backward rather than twisted.\n3. The partner sits into a controlled breakfall; open the legs at once, keep away from the knees, and switch roles; practise as a solo pattern until the timing is reliable.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tesoura",
+      "description": "1. On thick mats with a partner trained in falling, drop to the floor beside the partner on both hands and place one leg in front of and one behind the partner's legs at knee height or lower.\n2. Close the legs slowly like scissors while turning the hips, so the partner's legs are guided backward rather than twisted.\n3. The partner sits into a controlled breakfall; open the legs at once, keep away from the knees, and switch roles; practise as a solo pattern until the timing is reliable.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Tesoura",
+      "description": "1. Sobre colchonetas gruesas y con un compañero entrenado en caídas, baja al suelo junto a él sobre ambas manos y coloca una pierna delante y otra detrás de sus piernas, a la altura de la rodilla o más abajo.\n2. Cierra las piernas despacio como unas tijeras mientras giras la cadera, para guiar sus piernas hacia atrás sin torcerlas.\n3. El compañero se sienta en una caída técnica controlada; abre las piernas de inmediato, aléjate de sus rodillas y cambien de rol; practícalo en solitario hasta que el tiempo sea fiable.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Tesoura",
+      "description": "1. Em colchonetes grossos e com um parceiro treinado em quedas, desça ao chão ao lado dele sobre as duas mãos e coloque uma perna à frente e outra atrás das pernas dele, na altura do joelho ou abaixo.\n2. Feche as pernas devagar como uma tesoura enquanto gira o quadril, guiando as pernas dele para trás sem torcê-las.\n3. O parceiro senta em uma queda controlada; abra as pernas na hora, afaste-se dos joelhos dele e troquem de papel; treine sozinho o padrão até o tempo ficar confiável.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Tesoura",
+      "description": "1. Sur tapis épais et avec un partenaire formé aux chutes, descendez au sol à côté de lui sur les deux mains et placez une jambe devant et une derrière ses jambes, à hauteur du genou ou plus bas.\n2. Refermez lentement les jambes comme des ciseaux en tournant les hanches, pour guider ses jambes vers l’arrière sans les tordre.\n3. Le partenaire s’assoit dans un brise-chute contrôlé ; ouvrez aussitôt les jambes, éloignez-vous de ses genoux et changez de rôle ; travaillez le schéma seul tant que le timing n’est pas fiable.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Tesoura",
+      "description": "1. Gehe auf dicken Matten mit einem fallgeübten Partner neben ihm auf beide Hände zu Boden und lege ein Bein vor und eines hinter seine Beine, auf Kniehöhe oder tiefer.\n2. Schließe die Beine langsam wie eine Schere und drehe dabei die Hüfte, sodass seine Beine nach hinten geführt statt verdreht werden.\n3. Der Partner setzt sich in eine kontrollierte Fallschule; öffne die Beine sofort, halte Abstand zu seinen Knien und tauscht die Rollen; übe das Muster allein, bis das Timing zuverlässig ist.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Tesoura",
+      "description": "1. Su materassini spessi e con un partner esperto di cadute, scendi a terra accanto a lui sulle mani e metti una gamba davanti e una dietro le sue gambe, all’altezza del ginocchio o più in basso.\n2. Chiudi lentamente le gambe come una forbice ruotando le anche, così le sue gambe vengono guidate indietro e non torte.\n3. Il partner si siede in una caduta controllata; apri subito le gambe, stai lontano dalle sue ginocchia e scambiatevi i ruoli; allena lo schema da solo finché il tempismo è affidabile.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "剪刀腿（Tesoura）",
+      "description": "1. 在厚垫上与受过倒地训练的同伴练习，在其身旁双手撑地落下，一条腿放在同伴双腿前、一条放在后，高度在膝盖或以下。\n2. 转髋的同时像剪刀一样缓慢合腿，引导同伴的腿向后而不是扭转。\n3. 同伴坐下做可控受身；立即张开双腿，远离对方膝盖并交换角色；在时机可靠之前先单人练习动作模式。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "テゾウラ",
+      "description": "1. 厚いマットの上で受け身に慣れたパートナーと行い、パートナーの横で両手をついて床に下り、片脚をパートナーの脚の前、もう片脚を後ろに、膝の高さ以下で置きます。\n2. 腰をひねりながら脚をはさみのようにゆっくり閉じ、パートナーの脚をねじらずに後ろへ導きます。\n3. パートナーはコントロールされた受け身で座ります。すぐに脚を開き、膝から離れて役割を交代します。タイミングが安定するまでは一人で動きの型を練習します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "테조우라",
+      "description": "1. 두꺼운 매트에서 낙법에 익숙한 파트너 옆에 두 손을 짚고 내려가, 한 다리는 파트너 다리 앞에, 다른 다리는 뒤에 무릎 높이 이하로 둡니다.\n2. 엉덩이를 돌리며 가위처럼 다리를 천천히 오므려 파트너의 다리를 비틀지 않고 뒤로 이끕니다.\n3. 파트너는 통제된 낙법으로 앉습니다. 즉시 다리를 벌리고 무릎에서 떨어진 뒤 역할을 바꿉니다. 타이밍이 안정될 때까지 혼자 동작 패턴을 연습합니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "เตโซรา",
+      "description": "1. บนเบาะหนากับคู่ฝึกที่ฝึกการล้มมาแล้ว ลงพื้นข้างคู่ฝึกโดยใช้สองมือค้ำ วางขาข้างหนึ่งหน้าขาและอีกข้างหลังขาของคู่ฝึก ที่ระดับเข่าหรือต่ำกว่า\n2. หนีบขาเข้าช้า ๆ เหมือนกรรไกรพร้อมบิดสะโพก เพื่อนำขาของคู่ฝึกไปข้างหลังโดยไม่บิด\n3. คู่ฝึกนั่งลงรับการล้มอย่างควบคุม แยกขาออกทันที อยู่ห่างจากเข่าของเขา แล้วสลับบทบาท ฝึกรูปแบบคนเดียวจนจังหวะแม่นยำ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Тезоура",
+      "description": "1. На толстых матах с партнёром, умеющим падать, опуститесь на пол рядом с ним на обе руки и поставьте одну ногу перед его ногами, а другую позади, на уровне колен или ниже.\n2. Медленно сведите ноги, как ножницы, разворачивая таз, чтобы ноги партнёра уходили назад, а не скручивались.\n3. Партнёр садится в контролируемое падение; сразу разведите ноги, держитесь подальше от его колен и поменяйтесь ролями; отрабатывайте схему в одиночку, пока тайминг не станет надёжным.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Тезоура",
+      "description": "1. На товстих матах із партнером, який уміє падати, опустіться на підлогу поруч із ним на обидві руки й поставте одну ногу перед його ногами, а другу позаду, на рівні колін або нижче.\n2. Повільно зведіть ноги, як ножиці, розвертаючи таз, щоб ноги партнера йшли назад, а не скручувалися.\n3. Партнер сідає в контрольоване падіння; одразу розведіть ноги, тримайтеся подалі від його колін і поміняйтеся ролями; відпрацьовуйте схему самостійно, доки таймінг не стане надійним.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

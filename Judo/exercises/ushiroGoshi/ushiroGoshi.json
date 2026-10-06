@@ -1,0 +1,90 @@
+{
+  "id": "41.51",
+  "key": "judo_ushiro_goshi",
+  "title": "Ushiro Goshi",
+  "description": "1. As a trained partner turns in for a hip throw, lower the hips and wrap the partner's waist from behind.\n2. Lift the partner upward with the hips and arms while stepping slightly back to keep balance.\n3. Lower the partner straight down in front of you onto the back with control, without slamming.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Koshi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ushiro Goshi",
+      "description": "1. As a trained partner turns in for a hip throw, lower the hips and wrap the partner's waist from behind.\n2. Lift the partner upward with the hips and arms while stepping slightly back to keep balance.\n3. Lower the partner straight down in front of you onto the back with control, without slamming.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "es": {
+      "title": "Ushiro Goshi",
+      "description": "1. Cuando un compañero entrenado gire para una proyección de cadera, baja las caderas y rodea su cintura por detrás.\n2. Levanta al compañero hacia arriba con caderas y brazos mientras retrocedes un poco para mantener el equilibrio.\n3. Baja al compañero recto delante de ti sobre la espalda con control, sin golpearlo contra el suelo.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "pt": {
+      "title": "Ushiro Goshi",
+      "description": "1. Quando um parceiro treinado girar para uma projeção de quadril, baixe os quadris e envolva a cintura dele por trás.\n2. Levante o parceiro com quadris e braços enquanto recua um pouco para manter o equilíbrio.\n3. Baixe o parceiro reto à sua frente sobre as costas com controle, sem batê-lo contra o solo.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "fr": {
+      "title": "Ushiro Goshi",
+      "description": "1. Quand un partenaire entraîné pivote pour une projection de hanche, abaissez les hanches et entourez sa taille par l’arrière.\n2. Soulevez le partenaire avec hanches et bras en reculant légèrement pour garder l’équilibre.\n3. Redescendez le partenaire droit devant vous sur le dos avec contrôle, sans le plaquer violemment.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "de": {
+      "title": "Ushiro Goshi",
+      "description": "1. Wenn ein geübter Partner zu einem Hüftwurf eindreht, senke die Hüfte und umfasse seine Taille von hinten.\n2. Hebe den Partner mit Hüfte und Armen nach oben und tritt leicht zurück, um das Gleichgewicht zu halten.\n3. Senke den Partner kontrolliert gerade vor dir auf den Rücken, ohne ihn aufzuschlagen.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "it": {
+      "title": "Ushiro Goshi",
+      "description": "1. Quando un compagno esperto ruota per una proiezione d’anca, abbassa le anche e avvolgi la sua vita da dietro.\n2. Solleva il compagno con anche e braccia arretrando leggermente per mantenere l’equilibrio.\n3. Abbassa il compagno dritto davanti a te sulla schiena con controllo, senza sbatterlo.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "zh-Hans": {
+      "title": "后腰",
+      "description": "1. 训练有素的搭档转身做腰技时，降低髋部并从后方抱住其腰。\n2. 用髋和双臂向上抬起搭档，同时稍向后退保持平衡。\n3. 受控地把搭档直接放到你身前背部着地，不要摔砸。",
+      "sectionTitle": "腰技"
+    },
+    "ja": {
+      "title": "後腰",
+      "description": "1. 熟練した相手が腰技で回り込んできたら、腰を落として後ろから相手の腰を抱えます。\n2. 腰と腕で相手を上へ持ち上げ、少し下がってバランスを保ちます。\n3. 叩きつけずに、相手を自分の前へまっすぐ背中から制御して下ろします。",
+      "sectionTitle": "腰技"
+    },
+    "ko": {
+      "title": "우시로 고시",
+      "description": "1. 숙련된 파트너가 허리기술로 돌아 들어오면 골반을 낮추고 뒤에서 허리를 감쌉니다.\n2. 골반과 팔로 파트너를 위로 들어 올리며 균형을 위해 약간 뒤로 물러납니다.\n3. 내리꽂지 말고 파트너를 내 앞에 곧게 등으로 통제하여 내립니다.",
+      "sectionTitle": "허리기술"
+    },
+    "th": {
+      "title": "อุชิโรโกชิ",
+      "description": "1. เมื่อคู่ฝึกที่ฝึกมาแล้วหมุนตัวเข้าทุ่มสะโพก ให้ย่อสะโพกและโอบเอวคู่ฝึกจากด้านหลัง\n2. ยกคู่ฝึกขึ้นด้วยสะโพกและแขน พร้อมถอยหลังเล็กน้อยเพื่อทรงตัว\n3. วางคู่ฝึกลงตรงหน้าคุณให้หลังลงพื้นอย่างควบคุม ไม่กระแทก",
+      "sectionTitle": "โคชิวาซะ"
+    },
+    "ru": {
+      "title": "Усиро-госи",
+      "description": "1. Когда подготовленный партнёр разворачивается для броска через бедро, опустите таз и обхватите его талию сзади.\n2. Поднимите партнёра вверх тазом и руками, слегка отступая для сохранения равновесия.\n3. Опустите партнёра прямо перед собой на спину с контролем, не бросая с размаху.",
+      "sectionTitle": "Коси-вадза"
+    },
+    "uk": {
+      "title": "Усіро-госі",
+      "description": "1. Коли підготовлений партнер розвертається для кидка через стегно, опустіть таз і обхопіть його талію ззаду.\n2. Підніміть партнера вгору тазом і руками, трохи відступаючи для збереження рівноваги.\n3. Опустіть партнера прямо перед собою на спину з контролем, не кидаючи з розмаху.",
+      "sectionTitle": "Косі-вадза"
+    }
+  }
+}

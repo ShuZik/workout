@@ -1,0 +1,90 @@
+{
+  "id": "63.6",
+  "key": "iaido_kesagiri",
+  "title": "Kesagiri",
+  "description": "1. Walk forward toward the opponent and, as the right foot steps, draw with the edge turned up in a rising diagonal cut from the right hip toward the left shoulder line.\n2. Turn the blade over above the head and cut back down diagonally through the same line with both hands.\n3. Lower the sword to the side for chiburi, resheathe, and step back to the start with zanshin.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kesagiri",
+      "description": "1. Walk forward toward the opponent and, as the right foot steps, draw with the edge turned up in a rising diagonal cut from the right hip toward the left shoulder line.\n2. Turn the blade over above the head and cut back down diagonally through the same line with both hands.\n3. Lower the sword to the side for chiburi, resheathe, and step back to the start with zanshin.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Kesagiri",
+      "description": "1. Avanza hacia el oponente y, al dar el paso con el pie derecho, desenvaina con el filo hacia arriba en un corte diagonal ascendente desde la cadera derecha hacia la línea del hombro izquierdo.\n2. Gira la hoja por encima de la cabeza y corta de nuevo hacia abajo en diagonal por la misma línea con ambas manos.\n3. Baja la espada al costado para el chiburi, envaina y retrocede al inicio con zanshin.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Kesagiri",
+      "description": "1. Caminhe em direção ao oponente e, ao avançar o pé direito, saque com o fio para cima num corte diagonal ascendente do quadril direito para a linha do ombro esquerdo.\n2. Vire a lâmina acima da cabeça e corte novamente para baixo em diagonal pela mesma linha com as duas mãos.\n3. Baixe a espada ao lado para o chiburi, embainhe e recue ao início com zanshin.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Kesagiri",
+      "description": "1. Marchez vers l’adversaire et, au pas du pied droit, dégainez tranchant vers le haut en coupe diagonale montante de la hanche droite vers la ligne de l’épaule gauche.\n2. Retournez la lame au-dessus de la tête et recoupez en diagonale vers le bas sur la même ligne à deux mains.\n3. Abaissez le sabre sur le côté pour le chiburi, rengainez et reculez au départ avec zanshin.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Kesagiri",
+      "description": "1. Auf den Gegner zugehen und beim Schritt des rechten Fußes mit nach oben gedrehter Schneide in einem aufsteigenden Diagonalschnitt von der rechten Hüfte zur linken Schulterlinie ziehen.\n2. Die Klinge über dem Kopf wenden und beidhändig auf derselben Linie diagonal zurück nach unten schneiden.\n3. Das Schwert zur Seite senken für Chiburi, einstecken und mit Zanshin zum Start zurückgehen.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Kesagiri",
+      "description": "1. Cammina verso l’avversario e, al passo del piede destro, estrai con il filo verso l’alto in un taglio diagonale ascendente dall’anca destra verso la linea della spalla sinistra.\n2. Ruota la lama sopra la testa e taglia di nuovo in diagonale verso il basso sulla stessa linea a due mani.\n3. Abbassa la spada di lato per il chiburi, rinfodera e torna indietro all’inizio con zanshin.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "袈裟斩",
+      "description": "1. 向对手前行，右脚踏出时刃口朝上拔刀，从右腰向左肩方向斜上斩。\n2. 在头上翻转刀身，双手沿同一线路斜向斩下。\n3. 将刀放低至体侧振刀，纳刀，以残心后退回起点。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "袈裟切り",
+      "description": "1. 相手へ歩み寄り、右足を踏み出すと同時に刃を上に向けて右腰から左肩の線へ逆袈裟に抜き上げます。\n2. 頭上で刃を返し、両手で同じ線を袈裟に斬り下ろします。\n3. 刀を横に下ろして血振りし、納刀して残心をもって元の位置へ下がります。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "게사기리",
+      "description": "1. 상대에게 걸어가며 오른발을 내딛는 순간 칼날을 위로 하여 오른쪽 허리에서 왼쪽 어깨선으로 대각선 올려베기로 뽑습니다.\n2. 머리 위에서 칼날을 뒤집어 두 손으로 같은 선을 따라 대각선으로 내려 벱니다.\n3. 칼을 옆으로 내려 치부리하고 칼을 꽂은 뒤 잔심을 유지하며 시작 위치로 물러납니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "เคซากิริ",
+      "description": "1. เดินเข้าหาคู่ต่อสู้ เมื่อก้าวเท้าขวาให้ชักดาบโดยหันคมขึ้น ฟันเฉียงขึ้นจากสะโพกขวาไปยังแนวไหล่ซ้าย\n2. พลิกใบดาบเหนือศีรษะ แล้วฟันเฉียงลงตามแนวเดิมด้วยสองมือ\n3. ลดดาบลงด้านข้างเพื่อทำจิบุริ เก็บดาบ และถอยกลับจุดเริ่มพร้อมซันชิน",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Кэсагири",
+      "description": "1. Идите к противнику и на шаге правой ноги обнажите меч лезвием вверх восходящим диагональным разрезом от правого бедра к линии левого плеча.\n2. Переверните клинок над головой и двумя руками рубите обратно вниз по диагонали по той же линии.\n3. Опустите меч в сторону для тибури, вложите в ножны и отступите к началу с дзансином.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Кесагірі",
+      "description": "1. Ідіть до суперника й на кроці правої ноги оголіть меч лезом догори висхідним діагональним розрізом від правого стегна до лінії лівого плеча.\n2. Переверніть клинок над головою й двома руками рубайте назад униз по діагоналі тією самою лінією.\n3. Опустіть меч убік для тібурі, вкладіть у піхви й відступіть на початок із дзансіном.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

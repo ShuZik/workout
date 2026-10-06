@@ -1,0 +1,87 @@
+{
+  "id": "7.4",
+  "key": "wrestling_iron_cross",
+  "title": "Iron Cross",
+  "description": "1. The base partner sets a wide, stable stance on hands and knees or in a low crouch.\n2. The moving partner lies across the base partner's back and circles around the body using the arms and legs without touching the mat.\n3. Move slowly and keep the weight centered, then switch roles after each lap or round.",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Iron Cross",
+      "description": "1. The base partner sets a wide, stable stance on hands and knees or in a low crouch.\n2. The moving partner lies across the base partner's back and circles around the body using the arms and legs without touching the mat.\n3. Move slowly and keep the weight centered, then switch roles after each lap or round.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Cruz de hierro",
+      "description": "1. El compañero base adopta una posición amplia y estable a cuatro apoyos o en cuclillas bajas.\n2. El compañero en movimiento se tumba sobre la espalda de la base y la rodea usando brazos y piernas sin tocar la colchoneta.\n3. Muévete despacio con el peso centrado y cambiad de rol tras cada vuelta o asalto.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Cruz de ferro",
+      "description": "1. O parceiro base assume uma posição larga e estável em quatro apoios ou agachado baixo.\n2. O parceiro em movimento deita-se sobre as costas da base e circula ao redor dele usando braços e pernas sem tocar o tatame.\n3. Mova-se devagar com o peso centralizado e troquem de papel após cada volta ou rodada.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Croix de fer",
+      "description": "1. Le partenaire de base prend une position large et stable à quatre pattes ou accroupi bas.\n2. Le partenaire mobile s'allonge en travers du dos de la base et en fait le tour avec bras et jambes sans toucher le tapis.\n3. Bougez lentement en gardant le poids centré, puis inversez les rôles après chaque tour ou reprise.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Eisernes Kreuz",
+      "description": "1. Der Basispartner nimmt eine breite, stabile Position im Vierfüßlerstand oder in tiefer Hocke ein.\n2. Der bewegte Partner legt sich quer über den Rücken der Basis und umrundet sie mit Armen und Beinen, ohne die Matte zu berühren.\n3. Bewege dich langsam mit zentriertem Gewicht und tauscht nach jeder Runde die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Croce di ferro",
+      "description": "1. Il partner base assume una posizione ampia e stabile a quattro appoggi o in accosciata bassa.\n2. Il partner in movimento si stende di traverso sulla schiena della base e le gira intorno con braccia e gambe senza toccare il materassino.\n3. Muoviti lentamente con il peso centrato, poi scambiatevi i ruoli dopo ogni giro o round.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "铁十字",
+      "description": "1. 底座同伴以宽而稳的四点支撑或低蹲姿势就位。\n2. 移动的同伴横趴在底座同伴背上，用手臂和腿绕其身体一圈，不触碰垫子。\n3. 缓慢移动并保持重心居中，每绕一圈或每回合后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "アイアンクロス",
+      "description": "1. ベース役は四つ這いか低いしゃがみ姿勢で、広く安定した構えを取ります。\n2. 動く役はベース役の背中に横たわり、マットに触れずに腕と脚を使って体の周りを一周します。\n3. 体重を中心に保ってゆっくり動き、一周または1ラウンドごとに役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "아이언 크로스",
+      "description": "1. 베이스 파트너는 네발 자세나 낮게 웅크린 자세로 넓고 안정된 자세를 잡습니다.\n2. 움직이는 파트너는 베이스의 등 위에 엎드려 매트에 닿지 않고 팔과 다리로 몸 주위를 돕니다.\n3. 무게 중심을 유지하며 천천히 움직이고 한 바퀴 또는 한 라운드마다 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ไอรอนครอส",
+      "description": "1. คู่ฝึกฐานตั้งท่ากว้างและมั่นคงในท่าคลานสี่ขาหรือย่อตัวต่ำ\n2. คู่ฝึกที่เคลื่อนที่นอนพาดหลังของฐาน แล้วไต่รอบตัวด้วยแขนและขาโดยไม่แตะเบาะ\n3. เคลื่อนที่ช้าๆ รักษาน้ำหนักให้อยู่กึ่งกลาง แล้วสลับบทบาทหลังครบแต่ละรอบ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Железный крест",
+      "description": "1. Партнёр-опора занимает широкое устойчивое положение в упоре на руках и коленях или в низком приседе.\n2. Подвижный партнёр ложится поперёк спины опоры и обходит её вокруг на руках и ногах, не касаясь ковра.\n3. Двигайтесь медленно, держа вес по центру, и меняйтесь ролями после каждого круга или раунда.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Залізний хрест",
+      "description": "1. Партнер-опора займає широке стійке положення в упорі на руках і колінах або в низькому присіді.\n2. Рухомий партнер лягає поперек спини опори й обходить її довкола на руках і ногах, не торкаючись килима.\n3. Рухайтеся повільно, тримаючи вагу по центру, і мінятеся ролями після кожного кола чи раунду.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

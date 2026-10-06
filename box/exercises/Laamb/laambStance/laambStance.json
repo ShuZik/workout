@@ -1,0 +1,87 @@
+{
+  "id": "77.3",
+  "key": "laamb_stance",
+  "title": "Laamb Stance",
+  "description": "1. Set the feet wider than the shoulders, bend the knees, lower the hips, and bring the chest forward over the knees.\n2. Hold the hands in front at chest height with the elbows in, ready to meet the opponent's arms.\n3. Circle and shuffle on the sand without crossing the feet, keeping the stance low and balanced.",
+  "colorType": "orange",
+  "workoutType": "laamb",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Laamb Stance",
+      "description": "1. Set the feet wider than the shoulders, bend the knees, lower the hips, and bring the chest forward over the knees.\n2. Hold the hands in front at chest height with the elbows in, ready to meet the opponent's arms.\n3. Circle and shuffle on the sand without crossing the feet, keeping the stance low and balanced.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Guardia de laamb",
+      "description": "1. Separa los pies más que los hombros, flexiona las rodillas, baja la cadera y lleva el pecho adelante sobre las rodillas.\n2. Mantén las manos delante a la altura del pecho con los codos cerrados, listas para encontrar los brazos del rival.\n3. Desplázate en círculo sobre la arena sin cruzar los pies, con la guardia baja y equilibrada.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Base do laamb",
+      "description": "1. Afaste os pés além da largura dos ombros, flexione os joelhos, baixe o quadril e leve o peito à frente sobre os joelhos.\n2. Mantenha as mãos à frente na altura do peito com os cotovelos fechados, prontas para encontrar os braços do adversário.\n3. Circule e deslize na areia sem cruzar os pés, mantendo a base baixa e equilibrada.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Garde de lutte sénégalaise",
+      "description": "1. Écartez les pieds plus large que les épaules, fléchissez les genoux, baissez les hanches et avancez la poitrine au-dessus des genoux.\n2. Tenez les mains devant à hauteur de poitrine, coudes serrés, prêtes à rencontrer les bras de l'adversaire.\n3. Tournez et glissez sur le sable sans croiser les pieds, en gardant une position basse et équilibrée.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Laamb-Grundstellung",
+      "description": "1. Stelle die Füße weiter als schulterbreit, beuge die Knie, senke die Hüfte und bringe die Brust über die Knie nach vorn.\n2. Halte die Hände vorn auf Brusthöhe mit eng geführten Ellbogen, bereit, die Arme des Gegners abzufangen.\n3. Kreise und gleite über den Sand, ohne die Füße zu kreuzen, und bleibe tief und im Gleichgewicht.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Guardia del laamb",
+      "description": "1. Apri i piedi oltre la larghezza delle spalle, piega le ginocchia, abbassa le anche e porta il petto avanti sopra le ginocchia.\n2. Tieni le mani davanti all'altezza del petto con i gomiti stretti, pronte a incontrare le braccia dell'avversario.\n3. Gira e scivola sulla sabbia senza incrociare i piedi, mantenendo la guardia bassa ed equilibrata.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "塞内加尔摔跤站姿",
+      "description": "1. 双脚分开略宽于肩，屈膝沉髋，胸部前倾至膝盖上方。\n2. 双手置于胸前，肘部内收，随时准备迎接对手的手臂。\n3. 在沙地上绕圈滑步移动，双脚不交叉，保持重心低而稳。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ランブの構え",
+      "description": "1. 足を肩幅より広く開き、膝を曲げて腰を落とし、胸を膝の上まで前に出します。\n2. 両手を胸の高さで前に構え、肘を締めて相手の腕を迎える準備をします。\n3. 足を交差させずに砂の上を回り込みながらすり足で動き、低く安定した構えを保ちます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "람브 기본 자세",
+      "description": "1. 발을 어깨보다 넓게 벌리고 무릎을 굽혀 골반을 낮추며 가슴을 무릎 위로 내밉니다.\n2. 두 손을 가슴 높이 앞에 두고 팔꿈치를 붙여 상대의 팔을 맞이할 준비를 합니다.\n3. 발을 엇갈리지 않고 모래 위를 돌며 미끄러지듯 움직이고, 자세를 낮고 안정되게 유지합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ท่ายืนลามบ์",
+      "description": "1. ยืนแยกเท้ากว้างกว่าไหล่ งอเข่า ลดสะโพกลง และโน้มอกไปข้างหน้าเหนือหัวเข่า\n2. ยกมือไว้ด้านหน้าระดับอก หุบศอก พร้อมรับแขนของคู่ต่อสู้\n3. เคลื่อนที่วนและสไลด์บนทรายโดยไม่ไขว้เท้า รักษาท่าให้ต่ำและสมดุล",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Стойка ламб",
+      "description": "1. Поставьте стопы шире плеч, согните колени, опустите таз и подайте грудь вперёд над коленями.\n2. Держите руки перед собой на уровне груди, локти прижаты, готовые встретить руки соперника.\n3. Перемещайтесь по кругу и приставным шагом по песку, не скрещивая ноги и сохраняя низкую устойчивую стойку.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Стійка ламб",
+      "description": "1. Поставте стопи ширше за плечі, зігніть коліна, опустіть таз і подайте груди вперед над колінами.\n2. Тримайте руки перед собою на рівні грудей, лікті притиснуті, готові зустріти руки суперника.\n3. Пересувайтеся по колу приставним кроком по піску, не схрещуючи ноги й зберігаючи низьку стійку та рівновагу.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

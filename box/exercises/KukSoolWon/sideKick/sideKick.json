@@ -1,0 +1,87 @@
+{
+  "id": "72.6",
+  "key": "kuk_sool_won_side_kick",
+  "title": "Side Kick",
+  "description": "1. From a ready stance, chamber the kicking knee toward the chest with the foot flexed.\n2. Pivot on the supporting foot and thrust the heel straight out to the side, aligning heel, hip, and shoulder.\n3. Re-chamber before setting the foot down, alternate sides, and keep the hands in guard throughout.",
+  "colorType": "yellow",
+  "workoutType": "kukSoolWon",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Side Kick",
+      "description": "1. From a ready stance, chamber the kicking knee toward the chest with the foot flexed.\n2. Pivot on the supporting foot and thrust the heel straight out to the side, aligning heel, hip, and shoulder.\n3. Re-chamber before setting the foot down, alternate sides, and keep the hands in guard throughout.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Patada lateral",
+      "description": "1. Desde la posición de preparado, recoge la rodilla de la pierna que patea hacia el pecho con el pie flexionado.\n2. Pivota sobre el pie de apoyo y empuja el talón en línea recta hacia el lado, alineando talón, cadera y hombro.\n3. Vuelve a recoger la pierna antes de apoyar el pie, alterna los lados y mantén las manos en guardia en todo momento.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Chute lateral",
+      "description": "1. Da posição de prontidão, recolha o joelho da perna de chute em direção ao peito com o pé flexionado.\n2. Gire sobre o pé de apoio e empurre o calcanhar em linha reta para o lado, alinhando calcanhar, quadril e ombro.\n3. Recolha de novo a perna antes de apoiar o pé, alterne os lados e mantenha as mãos em guarda o tempo todo.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Coup de pied latéral",
+      "description": "1. Depuis la position prête, armez le genou de la jambe de frappe vers la poitrine, pied fléchi.\n2. Pivotez sur le pied d'appui et poussez le talon droit sur le côté, en alignant talon, hanche et épaule.\n3. Réarmez avant de reposer le pied, alternez les côtés et gardez les mains en garde en permanence.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Seitwärtstritt",
+      "description": "1. Ziehe aus der Bereitschaftsstellung das Knie des Trittbeins zur Brust, der Fuß angezogen.\n2. Drehe auf dem Standfuß und stoße die Ferse gerade zur Seite, sodass Ferse, Hüfte und Schulter eine Linie bilden.\n3. Ziehe das Bein vor dem Absetzen wieder an, wechsle die Seiten und halte die Hände ständig in Deckung.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Calcio laterale",
+      "description": "1. Dalla posizione di pronto carica il ginocchio della gamba che calcia verso il petto con il piede flesso.\n2. Ruota sul piede d'appoggio e spingi il tallone dritto di lato, allineando tallone, anca e spalla.\n3. Ricarica la gamba prima di appoggiare il piede, alterna i lati e tieni sempre le mani in guardia.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "侧踢",
+      "description": "1. 从预备姿势出发，踢击腿提膝收向胸前，脚掌勾起。\n2. 以支撑脚为轴转动，将脚跟笔直向侧方蹬出，使脚跟、髋部和肩部成一直线。\n3. 落脚前先收腿，左右交替，双手始终保持防守。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "横蹴り",
+      "description": "1. 準備の姿勢から、蹴り足の膝を胸の方へ引き上げ、足首を返します。\n2. 軸足で回転し、かかとを真横へまっすぐ突き出して、かかと・腰・肩を一直線にそろえます。\n3. 足を下ろす前に膝を引き戻し、左右交互に行い、常に手を構えておきます。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "옆차기",
+      "description": "1. 준비 자세에서 차는 다리의 무릎을 가슴 쪽으로 접어 올리고 발목을 당깁니다.\n2. 디딤발로 회전하며 뒤꿈치를 옆으로 곧게 밀어 차, 뒤꿈치와 엉덩이, 어깨를 일직선으로 맞춥니다.\n3. 발을 내리기 전에 다시 무릎을 접고, 좌우를 번갈아 하며 손은 내내 가드에 둡니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เตะข้าง",
+      "description": "1. จากท่าเตรียม ยกเข่าขาที่จะเตะขึ้นเข้าหาอก กระดกข้อเท้า\n2. หมุนบนเท้าที่ยืนแล้วถีบส้นเท้าตรงออกด้านข้าง ให้ส้นเท้า สะโพก และไหล่อยู่ในแนวเดียวกัน\n3. พับเข่ากลับก่อนวางเท้าลง สลับข้าง และยกมือตั้งการ์ดไว้ตลอด",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Боковой удар ногой",
+      "description": "1. Из стойки готовности подтяните колено бьющей ноги к груди, стопа на себя.\n2. Развернитесь на опорной стопе и вытолкните пятку прямо в сторону, выстроив пятку, бедро и плечо в одну линию.\n3. Перед тем как поставить ногу, снова подтяните колено, чередуйте стороны и всё время держите руки в защите.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Бічний удар ногою",
+      "description": "1. Зі стійки готовності підтягніть коліно ноги, що б'є, до грудей, стопа на себе.\n2. Розверніться на опорній стопі й виштовхніть п'яту прямо вбік, вибудувавши п'яту, стегно й плече в одну лінію.\n3. Перш ніж поставити ногу, знову підтягніть коліно, чергуйте сторони й увесь час тримайте руки в захисті.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

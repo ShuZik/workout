@@ -1,0 +1,87 @@
+{
+  "id": "49.13",
+  "key": "capoeira_queda_de_rins",
+  "title": "Queda de Rins",
+  "description": "1. On mats, crouch low and place both hands on the floor, then rest the side of the lower back and hip on one bent elbow.\n2. Lean the weight over the elbow and hands while the head stays off the floor and the feet stay down at first.\n3. Lift the feet only when the balance is steady, hold briefly, and lower the feet before rising back into the ginga.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Acrobatics",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Queda de Rins",
+      "description": "1. On mats, crouch low and place both hands on the floor, then rest the side of the lower back and hip on one bent elbow.\n2. Lean the weight over the elbow and hands while the head stays off the floor and the feet stay down at first.\n3. Lift the feet only when the balance is steady, hold briefly, and lower the feet before rising back into the ginga.",
+      "sectionTitle": "Acrobatics"
+    },
+    "es": {
+      "title": "Queda de Rins",
+      "description": "1. Sobre colchonetas, agáchate, apoya ambas manos en el suelo y descansa el costado de la zona lumbar y la cadera sobre un codo flexionado.\n2. Inclina el peso sobre el codo y las manos con la cabeza sin tocar el suelo y, al principio, los pies apoyados.\n3. Levanta los pies solo cuando el equilibrio sea estable, mantén un momento y bájalos antes de volver a la ginga.",
+      "sectionTitle": "Acrobacias"
+    },
+    "pt": {
+      "title": "Queda de Rins",
+      "description": "1. Em colchonetes, agache, apoie as duas mãos no chão e encoste a lateral da lombar e do quadril em um cotovelo flexionado.\n2. Incline o peso sobre o cotovelo e as mãos, com a cabeça fora do chão e, no início, os pés apoiados.\n3. Erga os pés só quando o equilíbrio estiver firme, segure um instante e abaixe-os antes de voltar à ginga.",
+      "sectionTitle": "Acrobacias"
+    },
+    "fr": {
+      "title": "Queda de Rins",
+      "description": "1. Sur tapis, accroupissez-vous, posez les deux mains au sol et appuyez le côté du bas du dos et de la hanche sur un coude fléchi.\n2. Basculez le poids sur le coude et les mains, la tête sans toucher le sol et, au début, les pieds au sol.\n3. Ne levez les pieds que lorsque l’équilibre est stable, tenez brièvement et reposez-les avant de revenir dans la ginga.",
+      "sectionTitle": "Acrobaties"
+    },
+    "de": {
+      "title": "Queda de Rins",
+      "description": "1. Gehe auf Matten in die Hocke, setze beide Hände auf und lege die Seite von unterem Rücken und Hüfte auf einen gebeugten Ellbogen.\n2. Verlagere das Gewicht über Ellbogen und Hände, der Kopf bleibt vom Boden weg und die Füße zunächst am Boden.\n3. Hebe die Füße erst bei stabilem Gleichgewicht, halte kurz und setze sie ab, bevor du dich in die Ginga aufrichtest.",
+      "sectionTitle": "Akrobatik"
+    },
+    "it": {
+      "title": "Queda de Rins",
+      "description": "1. Su materassini accovacciati, appoggia le mani a terra e posa il fianco della zona lombare e dell’anca su un gomito piegato.\n2. Sposta il peso su gomito e mani con la testa lontana dal pavimento e, all’inizio, i piedi a terra.\n3. Solleva i piedi solo quando l’equilibrio è stabile, mantieni brevemente e riappoggiali prima di tornare in ginga.",
+      "sectionTitle": "Acrobazie"
+    },
+    "zh-Hans": {
+      "title": "肘撑侧倒（Queda de Rins）",
+      "description": "1. 在垫子上低蹲，双手撑地，将下背部和髋部的侧面靠在一侧弯曲的肘上。\n2. 把重心移到肘和双手上，头部不触地，起初双脚保持着地。\n3. 只有在平衡稳定时才抬起双脚，短暂停留后先放下双脚，再起身回到金加步。",
+      "sectionTitle": "技巧动作"
+    },
+    "ja": {
+      "title": "ケーダ・ジ・ヒンス",
+      "description": "1. マットの上で低くしゃがみ両手を床につき、腰と骨盤の横を曲げた片肘に乗せます。\n2. 頭を床から離し、最初は足を床につけたまま、体重を肘と両手に移します。\n3. バランスが安定してから足を上げて少し保持し、足を下ろしてからジンガに戻ります。",
+      "sectionTitle": "アクロバット"
+    },
+    "ko": {
+      "title": "케다 지 힌스",
+      "description": "1. 매트 위에서 낮게 쪼그려 두 손을 짚고 허리와 엉덩이 옆면을 굽힌 한쪽 팔꿈치에 얹습니다.\n2. 머리는 바닥에서 떨어뜨리고 처음에는 발을 바닥에 둔 채 체중을 팔꿈치와 손으로 옮깁니다.\n3. 균형이 안정될 때만 발을 들어 잠시 유지하고, 발을 내린 뒤 징가로 일어납니다.",
+      "sectionTitle": "아크로바틱"
+    },
+    "th": {
+      "title": "เกดา จี ฮินส์",
+      "description": "1. บนเบาะ ย่อตัวต่ำ วางสองมือบนพื้น แล้วพิงด้านข้างของหลังส่วนล่างและสะโพกบนข้อศอกที่งอข้างหนึ่ง\n2. เอนน้ำหนักลงบนข้อศอกและมือ โดยศีรษะไม่แตะพื้นและช่วงแรกให้เท้าอยู่บนพื้น\n3. ยกเท้าขึ้นเมื่อสมดุลมั่นคงเท่านั้น ค้างสั้น ๆ แล้ววางเท้าลงก่อนลุกกลับสู่จิงกา",
+      "sectionTitle": "กายกรรม"
+    },
+    "ru": {
+      "title": "Кеда ди хинс",
+      "description": "1. На матах присядьте низко, поставьте обе руки на пол и упритесь боком поясницы и таза в согнутый локоть.\n2. Перенесите вес на локоть и кисти, не касаясь пола головой и сначала оставляя стопы на полу.\n3. Поднимайте стопы, только когда равновесие устойчиво, коротко удержите и опустите их, прежде чем вернуться в джингу.",
+      "sectionTitle": "Акробатика"
+    },
+    "uk": {
+      "title": "Кеда ді хінс",
+      "description": "1. На матах низько присядьте, поставте обидві руки на підлогу й обіпріться боком попереку й таза на зігнутий лікоть.\n2. Перенесіть вагу на лікоть і кисті, не торкаючись підлоги головою й спершу залишаючи стопи на підлозі.\n3. Піднімайте стопи, лише коли рівновага стійка, коротко втримайте й опустіть їх, перш ніж повернутися в джингу.",
+      "sectionTitle": "Акробатика"
+    }
+  }
+}

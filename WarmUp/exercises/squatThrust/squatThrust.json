@@ -1,0 +1,90 @@
+{
+  "id": "9.58",
+  "key": "conditioning_squat_thrust",
+  "title": "Squat Thrust",
+  "description": "1. Stand tall, then bend the knees into a squat and place both hands flat on the floor just in front of the feet.\n2. With the weight on the hands, jump both feet back into a straight push-up position with the hips level.\n3. Jump the feet forward again to the squat position with the hands still on the floor, then repeat without standing up between repetitions.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Cardio",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Squat Thrust",
+      "description": "1. Stand tall, then bend the knees into a squat and place both hands flat on the floor just in front of the feet.\n2. With the weight on the hands, jump both feet back into a straight push-up position with the hips level.\n3. Jump the feet forward again to the squat position with the hands still on the floor, then repeat without standing up between repetitions.",
+      "sectionTitle": "Cardio"
+    },
+    "es": {
+      "title": "Squat thrust",
+      "description": "1. Ponte de pie y flexiona las rodillas en sentadilla apoyando ambas manos en el suelo justo delante de los pies.\n2. Con el peso en las manos, salta con ambos pies hacia atrás hasta una posición de flexión recta con la cadera nivelada.\n3. Salta de nuevo con los pies hacia delante a la posición de sentadilla con las manos aún en el suelo y repite sin ponerte de pie entre repeticiones.",
+      "sectionTitle": "Cardio"
+    },
+    "pt": {
+      "title": "Squat thrust",
+      "description": "1. Fique em pé, depois flexione os joelhos num agachamento e apoie as duas mãos no chão logo à frente dos pés.\n2. Com o peso nas mãos, salte os dois pés para trás até a posição de flexão reta com o quadril nivelado.\n3. Salte os pés de volta à frente até o agachamento com as mãos ainda no chão e repita sem ficar em pé entre as repetições.",
+      "sectionTitle": "Cardio"
+    },
+    "fr": {
+      "title": "Squat thrust",
+      "description": "1. Debout, fléchissez les genoux en squat et posez les deux mains à plat au sol juste devant les pieds.\n2. Le poids sur les mains, sautez les deux pieds en arrière jusqu’à une position de pompe alignée, bassin horizontal.\n3. Ramenez les pieds d’un saut en position accroupie, mains toujours au sol, puis recommencez sans vous relever entre les répétitions.",
+      "sectionTitle": "Cardio"
+    },
+    "de": {
+      "title": "Squat Thrust",
+      "description": "1. Aufrecht stehen, dann in die Hocke gehen und beide Hände flach knapp vor den Füßen auf den Boden setzen.\n2. Mit dem Gewicht auf den Händen beide Füße nach hinten in eine gerade Liegestützposition springen, Hüfte in Linie.\n3. Die Füße wieder nach vorn in die Hocke springen, Hände bleiben am Boden, und ohne Aufstehen zwischen den Wiederholungen fortfahren.",
+      "sectionTitle": "Cardio"
+    },
+    "it": {
+      "title": "Squat thrust",
+      "description": "1. In piedi, piega le ginocchia in squat e appoggia entrambe le mani a terra appena davanti ai piedi.\n2. Con il peso sulle mani, salta con entrambi i piedi indietro in una posizione di piegamento dritta con il bacino in linea.\n3. Salta di nuovo con i piedi in avanti nella posizione di squat con le mani ancora a terra e ripeti senza alzarti tra le ripetizioni.",
+      "sectionTitle": "Cardio"
+    },
+    "zh-Hans": {
+      "title": "深蹲后踢腿",
+      "description": "1. 站直，屈膝下蹲，双手平放在双脚前方地面。\n2. 体重移到双手，双脚向后跳成直体俯卧撑姿势，髋部保持水平。\n3. 双脚再跳回下蹲姿势，双手仍在地面，重复时中间不站起。",
+      "sectionTitle": "有氧运动"
+    },
+    "ja": {
+      "title": "スクワットスラスト",
+      "description": "1. まっすぐ立ち、膝を曲げてしゃがみ、両手を足のすぐ前の床に平らに着きます。\n2. 体重を手に乗せ、両足を後ろへ跳ばして腰が水平なまっすぐの腕立て姿勢になります。\n3. 手を床に着いたまま足を前へ跳ばしてしゃがんだ姿勢に戻り、反復の間に立ち上がらずに繰り返します。",
+      "sectionTitle": "有酸素運動"
+    },
+    "ko": {
+      "title": "스쿼트 스러스트",
+      "description": "1. 바르게 선 뒤 무릎을 굽혀 쪼그려 앉고 두 손을 발 바로 앞 바닥에 평평하게 짚습니다.\n2. 체중을 손에 싣고 두 발을 뒤로 뛰어 엉덩이가 수평인 곧은 팔굽혀펴기 자세가 됩니다.\n3. 손을 바닥에 둔 채 발을 다시 앞으로 뛰어 쪼그린 자세로 돌아오고, 반복 사이에 일어서지 않고 계속합니다.",
+      "sectionTitle": "유산소 운동"
+    },
+    "th": {
+      "title": "สควอตทรัสต์",
+      "description": "1. ยืนตรง แล้วงอเข่าลงนั่งยองและวางมือทั้งสองราบกับพื้นหน้าเท้าเล็กน้อย\n2. ถ่ายน้ำหนักไปที่มือ แล้วกระโดดเท้าทั้งสองไปด้านหลังเป็นท่าวิดพื้นลำตัวตรง สะโพกอยู่ระดับเดียวกัน\n3. กระโดดเท้ากลับมาข้างหน้าสู่ท่านั่งยองโดยมือยังอยู่บนพื้น แล้วทำซ้ำโดยไม่ยืนขึ้นระหว่างครั้ง",
+      "sectionTitle": "คาร์ดิโอ"
+    },
+    "ru": {
+      "title": "Упор присев — упор лёжа",
+      "description": "1. Встаньте прямо, затем согните колени в присед и поставьте обе ладони на пол прямо перед стопами.\n2. Перенеся вес на руки, прыжком отведите обе ноги назад в прямой упор лёжа, таз на одной линии.\n3. Прыжком верните стопы вперёд в упор присев, руки остаются на полу, и повторяйте, не вставая между повторами.",
+      "sectionTitle": "Кардио"
+    },
+    "uk": {
+      "title": "Упор присівши — упор лежачи",
+      "description": "1. Станьте прямо, потім зігніть коліна в присід і поставте обидві долоні на підлогу просто перед стопами.\n2. Перенісши вагу на руки, стрибком відведіть обидві ноги назад у прямий упор лежачи, таз на одній лінії.\n3. Стрибком поверніть стопи вперед в упор присівши, руки залишаються на підлозі, і повторюйте, не встаючи між повторами.",
+      "sectionTitle": "Кардіо"
+    }
+  }
+}

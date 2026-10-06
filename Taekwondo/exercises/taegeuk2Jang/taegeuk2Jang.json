@@ -1,0 +1,90 @@
+{
+  "id": "8.41",
+  "key": "taekwondo_taegeuk_2_jang",
+  "title": "Taegeuk 2 Jang",
+  "description": "1. Start in basic ready stance and perform the second Taegeuk on the same three-line pattern, alternating walking stance and front stance.\n2. Link front kicks to front-stance punches, and combine low blocks, inside middle blocks and high blocks with smooth weight transfer.\n3. Finish with the closing front kicks and punches with a kihap, then return to basic ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Taegeuk 2 Jang",
+      "description": "1. Start in basic ready stance and perform the second Taegeuk on the same three-line pattern, alternating walking stance and front stance.\n2. Link front kicks to front-stance punches, and combine low blocks, inside middle blocks and high blocks with smooth weight transfer.\n3. Finish with the closing front kicks and punches with a kihap, then return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taegeuk 2 Jang",
+      "description": "1. Empieza en posición de preparación básica y realiza el segundo Taegeuk sobre el mismo patrón de tres líneas, alternando posición de caminar y posición adelantada.\n2. Enlaza patadas frontales con puñetazos en posición adelantada y combina bloqueos bajos, medios hacia dentro y altos con una transferencia de peso fluida.\n3. Termina con las patadas frontales y puñetazos finales con kihap y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taegeuk 2 Jang",
+      "description": "1. Comece na posição de preparação básica e execute o segundo Taegeuk no mesmo padrão de três linhas, alternando base de caminhada e base frontal.\n2. Ligue chutes frontais a socos em base frontal e combine bloqueios baixos, médios para dentro e altos com transferência de peso fluida.\n3. Termine com os chutes frontais e socos finais com kihap e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taegeuk 2 Jang",
+      "description": "1. Partez en position de préparation de base et exécutez le deuxième Taegeuk sur le même tracé à trois lignes, en alternant position de marche et position avancée.\n2. Enchaînez coups de pied directs et coups de poing en position avancée, et combinez blocages bas, moyens vers l’intérieur et hauts avec un transfert de poids fluide.\n3. Terminez par les derniers coups de pied directs et coups de poing avec kihap, puis revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taegeuk 2 Jang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe die zweite Taegeuk-Form auf demselben Dreilinienmuster im Wechsel von Gehstand und Vorwärtsstand.\n2. Verbinde Vorwärtstritte mit Fauststößen im Vorwärtsstand und kombiniere tiefe, mittlere Innen- und hohe Blocks mit fließender Gewichtsverlagerung.\n3. Schließe mit den letzten Vorwärtstritten und Fauststößen mit Kihap ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taegeuk 2 Jang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui il secondo Taegeuk sullo stesso schema a tre linee, alternando posizione di cammino e posizione avanzata.\n2. Collega i calci frontali ai pugni in posizione avanzata e combina parate basse, medie verso l’interno e alte con un trasferimento di peso fluido.\n3. Concludi con gli ultimi calci frontali e pugni con kihap, poi torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极二章",
+      "description": "1. 以基本预备式开始，沿同样的三线路线完成太极二章，交替使用前行步和前弓步。\n2. 将前踢与前弓步冲拳连接，并以流畅的重心转换结合下格挡、中段内格挡和上格挡。\n3. 以最后的前踢和冲拳并发声收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極2章（テグク・イジャン）",
+      "description": "1. 基本準備立ちから始め、同じ三本線の演武線上でウォーキングスタンスと前屈立ちを交互に使い太極2章を行います。\n2. 前蹴りから前屈立ちの突きへつなぎ、下段受け、中段内受け、上段受けを滑らかな重心移動で組み合わせます。\n3. 最後の前蹴りと突きを気合とともに行い、基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태극 2장",
+      "description": "1. 기본 준비서기에서 시작해 같은 세 줄 경로에서 앞서기와 앞굽이를 번갈아 태극 2장을 수행합니다.\n2. 앞차기를 앞굽이 지르기로 연결하고 아래막기, 몸통안막기, 얼굴막기를 부드러운 체중 이동과 함께 합니다.\n3. 마지막 앞차기와 지르기를 기합과 함께 하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทกึก 2 จัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทกึกชุดที่สองบนแบบสามเส้นเดิม สลับท่ายืนเดินกับท่ายืนหน้า\n2. เชื่อมการเตะตรงด้านหน้ากับหมัดในท่ายืนหน้า และผสมการปัดต่ำ การปัดระดับกลางเข้าด้านใน และการปัดสูงด้วยการถ่ายน้ำหนักที่ลื่นไหล\n3. จบด้วยการเตะตรงและหมัดชุดสุดท้ายพร้อมคีอัป แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэгык 2 джан",
+      "description": "1. Начните из базовой готовой стойки и выполните второй тхэгык по той же трёхлинейной схеме, чередуя шаговую и переднюю стойки.\n2. Связывайте прямые удары ногой с ударами рукой в передней стойке и сочетайте нижние, внутренние средние и верхние блоки с плавным переносом веса.\n3. Завершите последними прямыми ударами ногой и рукой с кихапом и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхегик 2 джан",
+      "description": "1. Почніть із базової готової стійки й виконайте другий тхегик за тією самою трилінійною схемою, чергуючи крокову та передню стійки.\n2. Пов’язуйте прямі удари ногою з ударами рукою в передній стійці й поєднуйте нижні, внутрішні середні та верхні блоки з плавним перенесенням ваги.\n3. Завершіть останніми прямими ударами ногою й рукою з кіхапом і поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

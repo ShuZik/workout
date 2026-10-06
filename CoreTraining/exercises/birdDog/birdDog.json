@@ -1,0 +1,90 @@
+{
+  "id": "14.8",
+  "key": "core_training_bird_dog",
+  "title": "Bird Dog",
+  "description": "1. Start on hands and knees with wrists under shoulders, knees under hips, and spine neutral.\n2. Extend one arm and the opposite leg until both align with the trunk without rotating the pelvis.\n3. Return the hand and knee under control, then repeat with the opposite pair.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bird Dog",
+      "description": "1. Start on hands and knees with wrists under shoulders, knees under hips, and spine neutral.\n2. Extend one arm and the opposite leg until both align with the trunk without rotating the pelvis.\n3. Return the hand and knee under control, then repeat with the opposite pair.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Bird dog",
+      "description": "1. Empieza sobre manos y rodillas, con las muñecas debajo de los hombros, las rodillas debajo de las caderas y la columna neutra.\n2. Extiende un brazo y la pierna contraria hasta alinearlos con el tronco, sin girar la pelvis.\n3. Vuelve a apoyar la mano y la rodilla con control y repite con el otro par.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Bird dog",
+      "description": "1. Comece sobre mãos e joelhos, com os punhos sob os ombros, os joelhos sob o quadril e a coluna neutra.\n2. Estenda um braço e a perna oposta até alinhá-los com o tronco, sem girar a pelve.\n3. Retorne a mão e o joelho com controle e repita com o par oposto.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Bird dog",
+      "description": "1. Commencez à quatre pattes, les poignets sous les épaules, les genoux sous les hanches et la colonne neutre.\n2. Étendez un bras et la jambe opposée jusqu’à les aligner avec le tronc sans tourner le bassin.\n3. Ramenez la main et le genou avec contrôle, puis répétez avec la paire opposée.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Bird Dog",
+      "description": "1. Beginne im Vierfüßlerstand mit den Handgelenken unter den Schultern, Knien unter den Hüften und neutraler Wirbelsäule.\n2. Strecke einen Arm und das gegenüberliegende Bein bis zur Linie des Rumpfes, ohne das Becken zu drehen.\n3. Führe Hand und Knie kontrolliert zurück und wiederhole mit dem anderen Paar.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Bird dog",
+      "description": "1. Inizia su mani e ginocchia, con i polsi sotto le spalle, le ginocchia sotto le anche e la colonna neutra.\n2. Estendi un braccio e la gamba opposta fino ad allinearli con il tronco senza ruotare il bacino.\n3. Riporta la mano e il ginocchio con controllo, poi ripeti con la coppia opposta.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "鸟狗式",
+      "description": "1. 从四足跪姿开始，手腕在肩膀下方，膝盖在髋部下方，脊柱保持中立。\n2. 伸出一侧手臂和另一侧腿，直到与躯干对齐，不要转动骨盆。\n3. 可控地收回手和膝盖，然后换另一组重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "バードドッグ",
+      "description": "1. 手首を肩の下、膝を腰の下に置き、背骨を中立に保って四つんばいになります。\n2. 骨盤を回さず、片腕と反対の脚を胴体と一直線になるまで伸ばします。\n3. 手と膝を制御しながら戻し、反対の組み合わせで繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "버드독",
+      "description": "1. 손목을 어깨 아래, 무릎을 골반 아래에 두고 척추를 중립으로 유지하며 네발기기 자세로 시작합니다.\n2. 골반을 돌리지 않고 한쪽 팔과 반대쪽 다리를 몸통과 일직선이 될 때까지 뻗습니다.\n3. 손과 무릎을 통제하며 되돌린 뒤 반대 조합으로 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ท่าเบิร์ดด็อก",
+      "description": "1. เริ่มด้วยมือและเข่าบนพื้น ให้ข้อมืออยู่ใต้ไหล่ เข่าอยู่ใต้สะโพก และกระดูกสันหลังอยู่ในแนวปกติ\n2. เหยียดแขนข้างหนึ่งและขาฝั่งตรงข้ามจนอยู่ในแนวเดียวกับลำตัวโดยไม่หมุนเชิงกราน\n3. นำมือและเข่ากลับอย่างควบคุม แล้วทำซ้ำด้วยอีกคู่",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Птица-собака",
+      "description": "1. Начните на руках и коленях, расположив запястья под плечами, колени под тазом и сохраняя позвоночник нейтральным.\n2. Вытяните одну руку и противоположную ногу до линии туловища, не поворачивая таз.\n3. Контролируемо верните кисть и колено, затем повторите с противоположной парой.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Птах-собака",
+      "description": "1. Почніть на руках і колінах, розташувавши зап’ястки під плечима, коліна під тазом і зберігаючи хребет нейтральним.\n2. Витягніть одну руку й протилежну ногу до лінії тулуба, не повертаючи таз.\n3. Контрольовано поверніть кисть і коліно, потім повторіть із протилежною парою.",
+      "sectionTitle": "База"
+    }
+  }
+}

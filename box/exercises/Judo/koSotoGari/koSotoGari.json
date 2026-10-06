@@ -1,0 +1,87 @@
+{
+  "id": "41.52",
+  "key": "judo_ko_soto_gari",
+  "title": "Ko Soto Gari",
+  "description": "1. Move the partner's weight onto the heel of one foot with a sleeve-and-lapel push toward the rear corner.\n2. Reap that heel from the outside with the sole of the foot in the direction of the partner's toes.\n3. Keep the hands driving to the rear corner until the partner sits into a back breakfall, holding the sleeve.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ko Soto Gari",
+      "description": "1. Move the partner's weight onto the heel of one foot with a sleeve-and-lapel push toward the rear corner.\n2. Reap that heel from the outside with the sole of the foot in the direction of the partner's toes.\n3. Keep the hands driving to the rear corner until the partner sits into a back breakfall, holding the sleeve.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Ko Soto Gari",
+      "description": "1. Lleva el peso del compañero al talón de un pie empujando con manga y solapa hacia la esquina trasera.\n2. Siega ese talón desde fuera con la planta del pie en la dirección de los dedos del compañero.\n3. Mantén las manos empujando hacia la esquina trasera hasta que el compañero se siente en una caída de espaldas, sujetando la manga.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Ko Soto Gari",
+      "description": "1. Leve o peso do parceiro ao calcanhar de um pé empurrando com manga e gola para o canto traseiro.\n2. Ceife esse calcanhar por fora com a sola do pé na direção dos dedos do parceiro.\n3. Mantenha as mãos empurrando para o canto traseiro até o parceiro sentar em uma queda de costas, segurando a manga.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Ko Soto Gari",
+      "description": "1. Amenez le poids du partenaire sur le talon d’un pied en poussant manche et revers vers le coin arrière.\n2. Fauchez ce talon par l’extérieur avec la plante du pied dans la direction de ses orteils.\n3. Gardez les mains en poussée vers le coin arrière jusqu’à ce que le partenaire s’asseye en chute arrière, en tenant la manche.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Ko Soto Gari",
+      "description": "1. Bringe das Gewicht des Partners mit Ärmel- und Reversdruck zur hinteren Ecke auf die Ferse eines Fußes.\n2. Sichle diese Ferse von außen mit der Fußsohle in Richtung seiner Zehen.\n3. Treibe die Hände weiter zur hinteren Ecke, bis der Partner sich in einen Rückwärtsfall setzt, und halte den Ärmel.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Ko Soto Gari",
+      "description": "1. Porta il peso del compagno sul tallone di un piede spingendo con manica e bavero verso l’angolo posteriore.\n2. Falcia quel tallone dall’esterno con la pianta del piede nella direzione delle sue dita.\n3. Continua a spingere con le mani verso l’angolo posteriore finché il compagno si siede in una caduta all’indietro, tenendo la manica.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "小外刈",
+      "description": "1. 用袖口和衣领向后角推，使搭档重心落在一只脚的脚跟上。\n2. 用脚掌从外侧向搭档脚尖方向刈这只脚跟。\n3. 双手持续推向后角，直到搭档坐下后倒，保持抓袖。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "小外刈",
+      "description": "1. 袖と襟で後隅へ押し、相手の体重を片足のかかとに乗せます。\n2. そのかかとを外側から足裏で相手のつま先の方向へ刈ります。\n3. 相手が座るように後ろ受身をとるまで手で後隅へ押し続け、袖を持ちます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "코 소토 가리",
+      "description": "1. 소매와 깃으로 뒤 모서리로 밀어 파트너 체중을 한 발 뒤꿈치에 싣게 합니다.\n2. 그 뒤꿈치를 바깥에서 발바닥으로 파트너 발끝 방향으로 걸어냅니다.\n3. 파트너가 앉듯이 뒤 낙법을 할 때까지 손으로 뒤 모서리로 계속 밀며 소매를 잡습니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "โคโซโตการิ",
+      "description": "1. ดันด้วยแขนเสื้อและปกเสื้อไปทางมุมด้านหลังให้น้ำหนักคู่ฝึกลงที่ส้นเท้าข้างหนึ่ง\n2. ใช้ฝ่าเท้าเกี่ยวส้นเท้านั้นจากด้านนอกไปทางปลายเท้าคู่ฝึก\n3. ดันมือไปทางมุมด้านหลังต่อจนคู่ฝึกนั่งลงล้มหงาย จับแขนเสื้อไว้",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Ко-сото-гари",
+      "description": "1. Толчком за рукав и отворот к заднему углу переведите вес партнёра на пятку одной стопы.\n2. Подсеките эту пятку снаружи подошвой в направлении его пальцев.\n3. Продолжайте толкать руками к заднему углу, пока партнёр не сядет в страховку на спину, удерживая рукав.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Ко-сото-гарі",
+      "description": "1. Поштовхом за рукав і відворот до заднього кута переведіть вагу партнера на п’яту однієї стопи.\n2. Підсічіть цю п’яту ззовні підошвою в напрямку його пальців.\n3. Продовжуйте штовхати руками до заднього кута, доки партнер не сяде у страховку на спину, утримуючи рукав.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

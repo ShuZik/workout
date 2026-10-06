@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#0A84FF",
+    "colorType": "blue",
+    "folder": "Savate",
+    "id": "89",
+    "icon": "Savate/Icon.png",
+    "symbolName": "figure.kickboxing",
+    "title": "Savate",
+    "workoutType": "savate",
+    "translations": {
+      "en": {
+        "title": "Savate"
+      },
+      "es": {
+        "title": "Savate"
+      },
+      "pt": {
+        "title": "Savate"
+      },
+      "fr": {
+        "title": "Savate"
+      },
+      "de": {
+        "title": "Savate"
+      },
+      "it": {
+        "title": "Savate"
+      },
+      "zh-Hans": {
+        "title": "法式踢拳"
+      },
+      "ja": {
+        "title": "サバット"
+      },
+      "ko": {
+        "title": "사바트"
+      },
+      "th": {
+        "title": "ซาวาต"
+      },
+      "ru": {
+        "title": "Сават"
+      },
+      "uk": {
+        "title": "Сават"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Savate/exercises/savate/Icon.png",
+      "json": "Savate/exercises/savate/savate.json"
+    },
+    {
+      "icon": "Savate/exercises/fouette/Icon.png",
+      "json": "Savate/exercises/fouette/fouette.json"
+    },
+    {
+      "icon": "Savate/exercises/coupDePiedBas/Icon.png",
+      "json": "Savate/exercises/coupDePiedBas/coupDePiedBas.json"
+    },
+    {
+      "icon": "Savate/exercises/fourKickChain/Icon.png",
+      "json": "Savate/exercises/fourKickChain/fourKickChain.json"
+    },
+    {
+      "icon": "Savate/exercises/fivePunchChain/Icon.png",
+      "json": "Savate/exercises/fivePunchChain/fivePunchChain.json"
+    },
+    {
+      "icon": "Savate/exercises/kickPunchKickChain/Icon.png",
+      "json": "Savate/exercises/kickPunchKickChain/kickPunchKickChain.json"
+    },
+    {
+      "icon": "Savate/exercises/punchKickPunchChain/Icon.png",
+      "json": "Savate/exercises/punchKickPunchChain/punchKickPunchChain.json"
+    },
+    {
+      "icon": "Savate/exercises/kickDefenseToPunchKickPunch/Icon.png",
+      "json": "Savate/exercises/kickDefenseToPunchKickPunch/kickDefenseToPunchKickPunch.json"
+    },
+    {
+      "icon": "Savate/exercises/punchStopHitAgainstKicks/Icon.png",
+      "json": "Savate/exercises/punchStopHitAgainstKicks/punchStopHitAgainstKicks.json"
+    },
+    {
+      "icon": "Savate/exercises/punchDefenseToKickPunchKick/Icon.png",
+      "json": "Savate/exercises/punchDefenseToKickPunchKick/punchDefenseToKickPunchKick.json"
+    },
+    {
+      "icon": "Savate/exercises/kickStopHitAgainstPunches/Icon.png",
+      "json": "Savate/exercises/kickStopHitAgainstPunches/kickStopHitAgainstPunches.json"
+    }
+  ]
+}

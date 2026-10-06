@@ -1,0 +1,87 @@
+{
+  "id": "7.5",
+  "key": "wrestling_clock",
+  "title": "Clock",
+  "description": "1. Start in a push-up position with the hands under the shoulders and the body straight.\n2. Walk the feet around the hands in a full circle, keeping the hands in place and the hips level.\n3. Complete one direction, pause in the push-up position, and circle back the other way.",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Clock",
+      "description": "1. Start in a push-up position with the hands under the shoulders and the body straight.\n2. Walk the feet around the hands in a full circle, keeping the hands in place and the hips level.\n3. Complete one direction, pause in the push-up position, and circle back the other way.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Reloj",
+      "description": "1. Empieza en posición de flexión con las manos bajo los hombros y el cuerpo recto.\n2. Camina con los pies alrededor de las manos en un círculo completo, manteniendo las manos fijas y la cadera nivelada.\n3. Completa un sentido, haz una pausa en posición de flexión y vuelve en el sentido contrario.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Relógio",
+      "description": "1. Comece em posição de flexão com as mãos sob os ombros e o corpo reto.\n2. Caminhe com os pés ao redor das mãos em um círculo completo, mantendo as mãos fixas e o quadril nivelado.\n3. Complete um sentido, pause na posição de flexão e volte no sentido contrário.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Horloge",
+      "description": "1. Commencez en position de pompe, mains sous les épaules et corps droit.\n2. Faites marcher les pieds autour des mains sur un cercle complet, mains fixes et hanches à niveau.\n3. Terminez un sens, marquez une pause en position de pompe, puis revenez dans l'autre sens.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Uhr",
+      "description": "1. Beginne in der Liegestützposition, Hände unter den Schultern, Körper gerade.\n2. Gehe mit den Füßen in einem vollen Kreis um die Hände, die Hände bleiben stehen, die Hüfte waagerecht.\n3. Beende eine Richtung, halte kurz im Liegestütz und kreise in die andere Richtung zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Orologio",
+      "description": "1. Parti in posizione di piegamento con le mani sotto le spalle e il corpo dritto.\n2. Cammina con i piedi intorno alle mani in un cerchio completo, mani ferme e anche in linea.\n3. Completa un senso, fermati in posizione di piegamento e torna nel senso opposto.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "时钟",
+      "description": "1. 以俯卧撑姿势开始，双手在肩下方，身体平直。\n2. 双手不动，双脚绕手走完整一圈，髋部保持水平。\n3. 完成一个方向后在俯卧撑姿势停顿，再向反方向绕回。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "クロック",
+      "description": "1. 腕立て伏せの姿勢で、手を肩の真下に置き体をまっすぐにして始めます。\n2. 手の位置を変えず腰を水平に保ったまま、足で手の周りを一周歩きます。\n3. 一方向を終えたら腕立ての姿勢で止まり、反対方向に回って戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "클락",
+      "description": "1. 손을 어깨 아래에 두고 몸을 곧게 한 팔굽혀��기 자세로 시작��니다.\n2. 손은 그대로 두고 엉덩이를 수평으로 유지하며 발로 손 주위를 한 바퀴 걷습니다.\n3. 한 방향을 마치면 팔굽혀펴기 자세에서 잠시 멈춘 뒤 반대 방향으로 돌아옵니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "นาฬิกา",
+      "description": "1. เริ่มในท่าวิดพื้น มืออยู่ใต้ไหล่ และลำตัวตรง\n2. เดินเท้าวนรอบมือให้ครบหนึ่งวง โดยมืออยู่กับที่และสะโพกอยู่ระดับเดียวกัน\n3. ครบหนึ่งทิศทางแล้วหยุดในท่าวิดพื้น จากนั้นวนกลับอีกทิศหนึ่ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Часы",
+      "description": "1. Начните в упоре лёжа, руки под плечами, тело прямое.\n2. Обойдите ногами вокруг рук по полному кругу, не сдвигая руки и держа таз ровно.\n3. Завершите круг в одну сторону, задержитесь в упоре лёжа и пройдите обратно в другую сторону.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Годинник",
+      "description": "1. Почніть в упорі лежачи, руки під плечима, тіло пряме.\n2. Обійдіть ногами довкола рук повне коло, не зсуваючи руки й тримаючи таз рівно.\n3. Завершіть коло в один бік, затримайтеся в упорі лежачи й пройдіть назад в інший бік.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

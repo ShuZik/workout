@@ -1,0 +1,87 @@
+{
+  "id": "41.71",
+  "key": "judo_ura_nage",
+  "title": "Ura Nage",
+  "description": "1. Step close behind the partner's side and wrap one arm around the waist while the other hand controls the front.\n2. Drop the hips below the partner and lift the partner's weight onto the chest and hips.\n3. Fall backward to the side and turn so the partner lands on the side or back beside you, never on the head.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ura Nage",
+      "description": "1. Step close behind the partner's side and wrap one arm around the waist while the other hand controls the front.\n2. Drop the hips below the partner and lift the partner's weight onto the chest and hips.\n3. Fall backward to the side and turn so the partner lands on the side or back beside you, never on the head.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Ura Nage",
+      "description": "1. Acércate por detrás del costado del compañero y rodea su cintura con un brazo mientras la otra mano controla la parte delantera.\n2. Baja las caderas por debajo del compañero y lleva su peso sobre el pecho y las caderas.\n3. Cae hacia atrás de lado y gira para que el compañero caiga de lado o de espaldas junto a ti, nunca sobre la cabeza.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Ura Nage",
+      "description": "1. Aproxime-se por trás do lado do parceiro e envolva a cintura com um braço enquanto a outra mão controla a frente.\n2. Baixe os quadris abaixo do parceiro e traga o peso dele para o peito e os quadris.\n3. Caia para trás de lado e gire para que o parceiro caia de lado ou de costas ao seu lado, nunca sobre a cabeça.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Ura Nage",
+      "description": "1. Approchez-vous derrière le côté du partenaire et entourez sa taille d’un bras pendant que l’autre main contrôle l’avant.\n2. Descendez les hanches sous le partenaire et amenez son poids sur votre poitrine et vos hanches.\n3. Tombez en arrière sur le côté et tournez pour qu’il tombe sur le côté ou le dos à côté de vous, jamais sur la tête.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Ura Nage",
+      "description": "1. Tritt dicht hinter die Seite des Partners, umfasse seine Taille mit einem Arm und kontrolliere mit der anderen Hand die Vorderseite.\n2. Senke die Hüfte unter den Partner und nimm sein Gewicht auf Brust und Hüfte.\n3. Falle seitlich rückwärts und drehe, sodass der Partner seitlich oder auf dem Rücken neben dir landet, niemals auf dem Kopf.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Ura Nage",
+      "description": "1. Avvicinati dietro il fianco del compagno e avvolgi la sua vita con un braccio mentre l’altra mano controlla la parte anteriore.\n2. Abbassa le anche sotto il compagno e porta il suo peso su petto e anche.\n3. Cadi all’indietro di lato e ruota perché il compagno atterri sul fianco o sulla schiena accanto a te, mai sulla testa.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "里投",
+      "description": "1. 贴近搭档侧后方，一臂环抱其腰，另一手控制其前方。\n2. 髋部降到搭档下方，把其重心承到胸和髋上。\n3. 向侧后方倒下并转动，使搭档侧身或背部落在你旁边，绝不能头部着地。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "裏投",
+      "description": "1. 相手の横後ろへ近づき、片腕で腰を抱え、もう一方の手で前を制します。\n2. 腰を相手より低く落とし、相手の体重を胸と腰に乗せます。\n3. 横後方へ倒れながら回り、相手を自分の横に横向きか背中から着地させ、決して頭から落としません。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "우라 나게",
+      "description": "1. 파트너 옆 뒤로 붙어 한 팔로 허리를 감고 다른 손으로 앞을 통제합니다.\n2. 골반을 파트너 아래로 낮추고 파트너 체중을 가슴과 골반에 싣습니다.\n3. 옆 뒤로 넘어지며 돌아 파트너가 내 옆에 옆이나 등으로 떨어지게 하고 절대 머리로 떨어지지 않게 합니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "อุระนาเกะ",
+      "description": "1. เข้าชิดด้านข้างค่อนหลังคู่ฝึก ใช้แขนข้างหนึ่งโอบเอว และมืออีกข้างควบคุมด้านหน้า\n2. ย่อสะโพกต่ำกว่าคู่ฝึก และรับน้ำหนักคู่ฝึกไว้บนอกและสะโพก\n3. ล้มไปด้านหลังเฉียงข้างและหมุนตัว ให้คู่ฝึกลงด้วยด้านข้างหรือหลังข้างคุณ ห้ามให้ศีรษะลงพื้น",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Ура-нагэ",
+      "description": "1. Сблизьтесь сбоку-сзади с партнёром, обхватите его талию одной рукой, другой контролируя переднюю сторону.\n2. Опустите таз ниже партнёра и примите его вес на грудь и таз.\n3. Падайте назад в сторону с разворотом, чтобы партнёр приземлился на бок или спину рядом с вами, никогда на голову.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Ура-наге",
+      "description": "1. Зблизьтеся збоку-ззаду з партнером, обхопіть його талію однією рукою, іншою контролюючи передній бік.\n2. Опустіть таз нижче партнера й прийміть його вагу на груди й таз.\n3. Падайте назад убік із розворотом, щоб партнер приземлився на бік або спину поруч із вами, ніколи на голову.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

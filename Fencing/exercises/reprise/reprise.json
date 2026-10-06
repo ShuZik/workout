@@ -1,0 +1,90 @@
+{
+  "id": "54.21",
+  "key": "fencing_reprise",
+  "title": "Reprise",
+  "description": "1. Make a simple attack with a lunge; the partner parries or retreats without riposting.\n2. Return to en garde, forward or backward, and immediately launch a new attack on the next opening.\n3. Recover after the touch and repeat, with the partner sometimes riposting so the reprise is timed rather than automatic.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Reprise",
+      "description": "1. Make a simple attack with a lunge; the partner parries or retreats without riposting.\n2. Return to en garde, forward or backward, and immediately launch a new attack on the next opening.\n3. Recover after the touch and repeat, with the partner sometimes riposting so the reprise is timed rather than automatic.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Reprise de ataque",
+      "description": "1. Haz un ataque simple con fondo; el compañero para o retrocede sin responder.\n2. Vuelve a la guardia, hacia delante o hacia atrás, e inicia de inmediato un nuevo ataque sobre la siguiente apertura.\n3. Recupera tras el toque y repite, con el compañero respondiendo a veces para que la reprise sea oportuna y no automática.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Retomada de ataque (reprise)",
+      "description": "1. Faça um ataque simples com afundo; o parceiro para ou recua sem responder.\n2. Volte à guarda, à frente ou atrás, e lance imediatamente um novo ataque na abertura seguinte.\n3. Recupere após o toque e repita, com o parceiro respondendo às vezes para a reprise ser oportuna e não automática.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Reprise d’attaque",
+      "description": "1. Portez une attaque simple en fente ; le partenaire pare ou rompt sans riposter.\n2. Revenez en garde, en avant ou en arrière, et relancez aussitôt une nouvelle attaque sur l’ouverture suivante.\n3. Revenez après la touche et répétez ; le partenaire riposte parfois pour que la reprise soit placée et non automatique.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Reprise",
+      "description": "1. Führe einen einfachen Angriff mit Ausfall aus; der Partner pariert oder weicht ohne Riposte.\n2. Kehre vorwärts oder rückwärts in die Fechtstellung zurück und starte sofort einen neuen Angriff auf die nächste Blöße.\n3. Kehre nach dem Treffer zurück und wiederhole; der Partner ripostiert manchmal, damit die Reprise getimt statt automatisch ist.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Ripresa d’attacco",
+      "description": "1. Esegui un attacco semplice in affondo; il compagno para o arretra senza rispondere.\n2. Torna in guardia, in avanti o indietro, e lancia subito un nuovo attacco sulla successiva apertura.\n3. Rientra dopo la stoccata e ripeti; il compagno a volte risponde perché la ripresa sia a tempo e non automatica.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "回位再攻（Reprise）",
+      "description": "1. 以弓步做简单进攻；同伴防守或后退但不还击。\n2. 向前或向后恢复实战姿势，立即对下一个空档发起新的进攻。\n3. 击中后恢复并重复，同伴有时还击，使再攻依据时机而非机械进行。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "ルプリーズ",
+      "description": "1. ファントで単純な攻撃をします。相手はパラードするか下がりますがリポストはしません。\n2. 前方または後方へアンガルドに戻り、次の空きへすぐ新しい攻撃を仕掛けます。\n3. 突いた後に戻って繰り返します。相手は時々リポストし、ルプリーズを機械的でなくタイミングで行えるようにします。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "르프리즈",
+      "description": "1. 런지로 간단한 공격을 합니다. 파트너는 패리하거나 물러나지만 리포스트는 하지 않습니다.\n2. 앞이나 뒤로 앙가르드로 돌아온 뒤 다음 빈틈으로 즉시 새 공격을 시작합니다.\n3. 찌른 뒤 돌아와 반복하며, 파트너가 가끔 리포스트하여 르프리즈를 기계적이 아닌 타이밍으로 하게 합니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เรอพรีซ",
+      "description": "1. โจมตีแบบง่ายด้วยการลันจ์ คู่ฝึกปัดป้องหรือถอยโดยไม่โต้กลับ\n2. กลับสู่อองการ์ดไปข้างหน้าหรือถอยหลัง แล้วเริ่มการโจมตีใหม่ทันทีไปยังช่องว่างถัดไป\n3. กลับท่าหลังแทงถึงแล้วทำซ้ำ โดยคู่ฝึกบางครั้งโต้กลับเพื่อให้การโจมตีใหม่อาศัยจังหวะ ไม่ใช่ทำโดยอัตโนมัติ",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Реприза",
+      "description": "1. Выполните простую атаку выпадом; партнёр берёт защиту или отступает без ответа.\n2. Вернитесь в стойку вперёд или назад и сразу начните новую атаку в следующее открытие.\n3. После укола вернитесь и повторите; партнёр иногда отвечает, чтобы реприза была своевременной, а не автоматической.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Реприза",
+      "description": "1. Виконайте просту атаку випадом; партнер бере захист або відступає без відповіді.\n2. Поверніться в стійку вперед або назад і одразу почніть нову атаку в наступне відкриття.\n3. Після уколу поверніться й повторіть; партнер іноді відповідає, щоб реприза була вчасною, а не автоматичною.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

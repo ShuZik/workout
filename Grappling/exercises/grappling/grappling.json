@@ -1,0 +1,90 @@
+{
+  "id": "58.1",
+  "key": "grappling",
+  "title": "Grappling",
+  "description": "1. Begin on mats with a trained partner, with or without a gi, from standing or an agreed restart position.\n2. Work takedowns, guard, passing, control positions, and permitted submissions at controlled pressure.\n3. Stabilize each position before advancing and stop immediately at a tap or verbal signal.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "grappling",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Grappling",
+      "description": "1. Begin on mats with a trained partner, with or without a gi, from standing or an agreed restart position.\n2. Work takedowns, guard, passing, control positions, and permitted submissions at controlled pressure.\n3. Stabilize each position before advancing and stop immediately at a tap or verbal signal.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Grappling",
+      "description": "1. Comienza sobre el tatami con un compañero entrenado, con o sin gi, desde de pie o desde una posición de reinicio acordada.\n2. Trabaja derribos, guardia, pases, posiciones de control y sumisiones permitidas con presión controlada.\n3. Estabiliza cada posición antes de avanzar y para de inmediato ante un golpe de rendición o una señal verbal.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Grappling",
+      "description": "1. Comece no tatame com um parceiro treinado, com ou sem kimono, em pé ou em uma posição de reinício combinada.\n2. Trabalhe quedas, guarda, passagens, posições de controle e finalizações permitidas com pressão controlada.\n3. Estabilize cada posição antes de avançar e pare imediatamente a uma batida ou sinal verbal.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Grappling",
+      "description": "1. Commencez sur le tapis avec un partenaire entraîné, avec ou sans gi, debout ou depuis une position de reprise convenue.\n2. Travaillez amenées au sol, garde, passages, positions de contrôle et soumissions autorisées avec une pression contrôlée.\n3. Stabilisez chaque position avant d'avancer et arrêtez immédiatement à la tape ou au signal verbal.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Grappling",
+      "description": "1. Beginne auf der Matte mit einem geübten Partner, mit oder ohne Gi, im Stand oder aus einer vereinbarten Startposition.\n2. Arbeite an Takedowns, Guard, Passieren, Kontrollpositionen und erlaubten Aufgabegriffen mit kontrolliertem Druck.\n3. Stabilisiere jede Position, bevor du weitergehst, und stoppe sofort beim Abklopfen oder einem verbalen Signal.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Grappling",
+      "description": "1. Inizia sul tatami con un partner allenato, con o senza gi, in piedi o da una posizione di ripartenza concordata.\n2. Lavora su atterramenti, guardia, passaggi, posizioni di controllo e sottomissioni consentite con pressione controllata.\n3. Stabilizza ogni posizione prima di avanzare e fermati subito al tap o a un segnale verbale.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "缠斗",
+      "description": "1. 与训练有素的同伴在垫上开始，可穿或不穿道服，从站立或约定的重新开始位置开始。\n2. 以可控压力练习抱摔、防守、过腿、控制位和允许的降服技。\n3. 推进前先稳住每个位置，同伴拍击或口头示意时立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "グラップリング",
+      "description": "1. 道着の有無を問わず、熟練のパートナーとマット上で、立ち姿勢か合意した再開ポジションから始めます。\n2. テイクダウン、ガード、パス、コントロールポジション、許可されたサブミッションを制御された圧力で行います。\n3. 前進する前に各ポジションを安定させ、タップや声の合図で直ちに止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "그래플링",
+      "description": "1. 도복 착용 여부와 관계없이 숙련된 파트너와 매트에서 선 자세나 합의한 재시작 포지션으로 시작합니다.\n2. 테이크다운, 가드, 패스, 컨트롤 포지션, 허용된 서브미션을 통제된 압력으로 연습합니다.\n3. 진행하기 전에 각 포지션을 안정시키고 탭이나 구두 신호가 있으면 즉시 멈춥니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "แกรปปลิ้ง",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึก จะสวมชุดกิหรือไม่ก็ได้ จากท่ายืนหรือตำแหน่งเริ่มใหม่ที่ตกลงกัน\n2. ฝึกการทุ่ม การ์ด การผ่านการ์ด ตำแหน่งควบคุม และท่าบังคับยอมแพ้ที่อนุญาตด้วยแรงกดที่ควบคุมได้\n3. ทรงตำแหน่งให้มั่นคงก่อนรุกต่อ และหยุดทันทีเมื่อคู่ฝึกตบหรือให้สัญญาณด้วยเสียง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Грэпплинг",
+      "description": "1. Начните на ковре с подготовленным партнёром, в ги или без, из стойки или из оговорённой стартовой позиции.\n2. Работайте над тейкдаунами, гардом, проходами, контролирующими позициями и разрешёнными болевыми и удушающими с контролируемым давлением.\n3. Закрепляйте каждую позицию перед продвижением и сразу останавливайтесь по хлопку или голосовому сигналу.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Грепплінг",
+      "description": "1. Почніть на килимі з підготовленим партнером, у гі або без, зі стійки чи з погодженої стартової позиції.\n2. Працюйте над тейкдаунами, гардом, проходами, контрольними позиціями й дозволеними больовими та задушливими з контрольованим тиском.\n3. Закріплюйте кожну позицію перед просуванням і одразу зупиняйтеся за пле��канням або голосовим сигналом.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

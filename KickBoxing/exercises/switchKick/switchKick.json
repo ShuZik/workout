@@ -1,0 +1,90 @@
+{
+  "id": "3.39",
+  "key": "kick_boxing_switch_kick",
+  "title": "Switch Kick",
+  "description": "1. From guard, make a small, quick hop that exchanges the positions of the feet without lifting the hands or straightening up.\n2. As the former lead foot lands behind, pivot the new lead foot and drive the new rear leg into a roundhouse kick with full hip rotation.\n3. Recoil the leg, land back in your original stance, and restore the guard before the next action.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Switch Kick",
+      "description": "1. From guard, make a small, quick hop that exchanges the positions of the feet without lifting the hands or straightening up.\n2. As the former lead foot lands behind, pivot the new lead foot and drive the new rear leg into a roundhouse kick with full hip rotation.\n3. Recoil the leg, land back in your original stance, and restore the guard before the next action.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Patada con cambio",
+      "description": "1. Desde la guardia, da un salto pequeño y rápido que intercambie la posición de los pies sin bajar las manos ni erguirte.\n2. Cuando el antiguo pie delantero aterrice atrás, pivota el nuevo pie delantero y lanza la nueva pierna trasera en patada circular con rotación completa de cadera.\n3. Recoge la pierna, vuelve a tu postura original y recupera la guardia antes de la siguiente acción.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Chute com troca de base",
+      "description": "1. Da guarda, faça um pequeno salto rápido trocando a posição dos pés sem baixar as mãos nem endireitar o corpo.\n2. Quando o antigo pé da frente cair atrás, gire o novo pé da frente e lance a nova perna de trás num chute circular com rotação total do quadril.\n3. Recolha a perna, volte à base original e recupere a guarda antes da próxima ação.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de pied avec changement de garde",
+      "description": "1. Depuis la garde, faites un petit saut rapide qui inverse la position des pieds sans baisser les mains ni vous redresser.\n2. Quand l’ancien pied avant se pose derrière, pivotez sur le nouveau pied avant et lancez la nouvelle jambe arrière en circulaire avec une rotation complète des hanches.\n3. Ramenez la jambe, reprenez votre garde initiale et la protection des mains avant l’action suivante.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Switch-Kick",
+      "description": "1. Mache aus der Deckung einen kleinen, schnellen Sprung, der die Fußpositionen tauscht, ohne die Hände zu senken oder dich aufzurichten.\n2. Wenn der bisherige vordere Fuß hinten landet, drehe auf dem neuen vorderen Fuß und schlage mit dem neuen hinteren Bein einen Halbkreistritt mit voller Hüftdrehung.\n3. Ziehe das Bein zurück, lande in deiner ursprünglichen Stellung und stelle die Deckung vor der nächsten Aktion wieder her.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Calcio con cambio guardia",
+      "description": "1. Dalla guardia, fai un piccolo salto rapido che scambia la posizione dei piedi senza abbassare le mani né raddrizzarti.\n2. Quando il vecchio piede anteriore atterra dietro, ruota sul nuovo piede anteriore e porta la nuova gamba posteriore in un calcio circolare con piena rotazione dell’anca.\n3. Richiama la gamba, torna nella posizione iniziale e ripristina la guardia prima dell’azione successiva.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "换步扫踢",
+      "description": "1. 从防守位轻快地小跳一下交换双脚位置，双手不下落、身体不直立。\n2. 原来的前脚落到后方时，以新的前脚为轴转动，用新的后腿充分转髋完成扫踢。\n3. 收腿，落回原来的站姿，并在下一动作前恢复防守。",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "スイッチキック",
+      "description": "1. ガードから手を下げず体も起こさずに、小さく素早く跳んで足の位置を入れ替えます。\n2. 元の前足が後ろに着地したら新しい前足を軸に回り、新しい後ろ足で腰を十分に回して回し蹴りを打ちます。\n3. 脚を引き戻して元の構えに着地し、次の動作の前にガードを戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "스위치 킥",
+      "description": "1. 가드에서 손을 내리거나 몸을 세우지 않고 작고 빠르게 뛰어 두 발의 위치를 바꿉니다.\n2. 원래 앞발이 뒤에 닿는 순간 새 앞발을 축으로 돌리고, 새 뒷다리로 엉덩이를 충분히 돌려 돌려차기를 합니다.\n3. 다리를 회수해 원래 자세로 내려오고 다음 동작 전에 가드를 회복합니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เตะเปลี่ยนขา",
+      "description": "1. จากการ์ด กระโดดเล็ก ๆ อย่างรวดเร็วเพื่อสลับตำแหน่งเท้า โดยไม่ลดมือหรือยืดตัวขึ้น\n2. เมื่อเท้าหน้าเดิมลงด้านหลัง ให้หมุนเท้าหน้าใหม่และเตะเหวี่ยงด้วยขาหลังใหม่พร้อมบิดสะโพกเต็มที่\n3. เก็บขากลับ ลงสู่ท่ายืนเดิม และยกการ์ดให้พร้อมก่อนท่าต่อไป",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Удар ногой со сменой стойки",
+      "description": "1. Из защиты сделайте небольшой быстрый подскок, меняя ноги местами, не опуская рук и не выпрямляясь.\n2. Когда бывшая передняя нога приземлится сзади, развернитесь на новой передней ноге и нанесите новой задней ногой круговой удар с полным поворотом таза.\n3. Верните ногу, приземлитесь в исходную стойку и восстановите защиту перед следующим действием.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Удар ногою зі зміною стійки",
+      "description": "1. Із захисту зробіть невеликий швидкий підскок, міняючи ноги місцями, не опускаючи рук і не випрямляючись.\n2. Коли колишня передня нога приземлиться позаду, розверніться на новій передній нозі й завдайте новою задньою ногою колового удару з повним поворотом таза.\n3. Поверніть ногу, приземліться у вихідну стійку й відновіть захист перед наступною дією.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

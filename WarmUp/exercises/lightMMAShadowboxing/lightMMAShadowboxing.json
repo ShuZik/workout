@@ -1,0 +1,90 @@
+{
+  "id": "9.47",
+  "key": "light_mma_shadowboxing",
+  "title": "Light MMA Shadowboxing",
+  "description": "1. Begin in an MMA stance with hands protecting the head and hips ready to move.\n2. Throw light single punches and kicks, then add controlled level changes or sprawls without impact.\n3. Reset the stance after every action and keep all movements smooth rather than powerful.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "8 MMA Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Light MMA Shadowboxing",
+      "description": "1. Begin in an MMA stance with hands protecting the head and hips ready to move.\n2. Throw light single punches and kicks, then add controlled level changes or sprawls without impact.\n3. Reset the stance after every action and keep all movements smooth rather than powerful.",
+      "sectionTitle": "MMA Prep"
+    },
+    "es": {
+      "title": "Boxeo de sombra MMA suave",
+      "description": "1. Empieza en una postura de MMA con las manos protegiendo la cabeza y las caderas listas para moverse.\n2. Lanza puñetazos y patadas suaves de uno en uno y después añade cambios de nivel o sprawls controlados sin impacto.\n3. Recupera la postura después de cada acción y mantén todos los movimientos suaves en lugar de potentes.",
+      "sectionTitle": "Preparación para MMA"
+    },
+    "pt": {
+      "title": "Sombra de MMA leve",
+      "description": "1. Comece em uma base de MMA com as mãos protegendo a cabeça e os quadris prontos para se mover.\n2. Lance socos e chutes leves de um em um e depois adicione mudanças de nível ou sprawls controlados sem impacto.\n3. Refaça a base após cada ação e mantenha todos os movimentos suaves, sem aplicar força.",
+      "sectionTitle": "Preparação para MMA"
+    },
+    "fr": {
+      "title": "Shadowboxing MMA léger",
+      "description": "1. Commencez en posture de MMA, mains protégeant la tête et hanches prêtes à bouger.\n2. Lancez des coups de poing et de pied légers isolés, puis ajoutez des changements de niveau ou des sprawls contrôlés sans impact.\n3. Reprenez la posture après chaque action et gardez tous les mouvements fluides plutôt que puissants.",
+      "sectionTitle": "Préparation MMA"
+    },
+    "de": {
+      "title": "Lockeres MMA-Schattenboxen",
+      "description": "1. Beginne in einer MMA-Stellung mit Händen zum Schutz des Kopfes und bewegungsbereiter Hüfte.\n2. Führe einzelne leichte Schläge und Tritte aus und ergänze kontrollierte Höhenwechsel oder Sprawls ohne Aufprall.\n3. Stelle nach jeder Aktion die Stellung wieder her und halte alle Bewegungen flüssig statt kraftvoll.",
+      "sectionTitle": "MMA-Vorbereitung"
+    },
+    "it": {
+      "title": "Shadowboxing MMA leggero",
+      "description": "1. Inizia in una posizione MMA con le mani a protezione della testa e le anche pronte a muoversi.\n2. Porta singoli pugni e calci leggeri, poi aggiungi cambi di livello o sprawl controllati senza impatto.\n3. Ripristina la posizione dopo ogni azione e mantieni tutti i movimenti fluidi anziché potenti.",
+      "sectionTitle": "Preparazione MMA"
+    },
+    "zh-Hans": {
+      "title": "轻柔综合格斗空击",
+      "description": "1. 从综合格斗站姿开始，双手保护头部，髋部随时准备移动。\n2. 轻柔地逐个打出拳和踢击，然后加入有控制的高度变化或无冲击的防抱摔后撤。\n3. 每次动作后重新调整站姿，保持动作流畅，不要发力猛打。",
+      "sectionTitle": "综合格斗准备"
+    },
+    "ja": {
+      "title": "軽いMMAシャドーボクシング",
+      "description": "1. 手で頭を守り、腰を動かせるMMAの構えから始めます。\n2. 軽いパンチと蹴りを一発ずつ出し、続いて衝撃を加えずに制御した高さの変化やスプロールを加えます。\n3. 毎回の動作後に構えを整え、力強さより滑らかさを保ちます。",
+      "sectionTitle": "MMA準備"
+    },
+    "ko": {
+      "title": "가벼운 MMA 섀도복싱",
+      "description": "1. 손으로 머리를 보호하고 골반을 움직일 준비를 한 MMA 자세에서 시작합니다.\n2. 가벼운 펀치와 킥을 하나씩 던진 다음 충격 없이 통제된 높이 변화나 스프롤을 더합니다.\n3. 각 동작 후 자세를 다시 잡고 강하게 움직이기보다 모든 움직임을 부드럽게 유지합니다.",
+      "sectionTitle": "MMA 준비"
+    },
+    "th": {
+      "title": "ชกลม MMA เบา ๆ",
+      "description": "1. เริ่มในท่า MMA โดยมือป้องกันศีรษะและสะโพกพร้อมเคลื่อน\n2. ออกหมัดและเตะเบา ๆ ทีละครั้ง จากนั้นเพิ่มการเปลี่ยนระดับหรือสปรอลที่ควบคุมได้โดยไม่มีแรงกระแทก\n3. จัดท่ายืนใหม่หลังทุกการกระทำและรักษาการเคลื่อนไหวให้ราบรื่นแทนการออกแรงเต็มที่",
+      "sectionTitle": "เตรียมพร้อม MMA"
+    },
+    "ru": {
+      "title": "Лёгкий бой с тенью MMA",
+      "description": "1. Начните в стойке MMA с руками, защищающими голову, и тазом, готовым к движению.\n2. Выполняйте лёгкие одиночные удары руками и ногами, затем добавляйте контролируемые смены уровня или спроллы без ударного контакта.\n3. Восстанавливайте стойку после каждого действия и делайте все движения плавными, а не силовыми.",
+      "sectionTitle": "Подготовка к MMA"
+    },
+    "uk": {
+      "title": "Легкий бій із тінню MMA",
+      "description": "1. Почніть у стійці MMA з руками, що захищають голову, і тазом, готовим до руху.\n2. Виконуйте легкі одиночні удари руками й ногами, потім додавайте контрольовані зміни рівня або спролли без ударного контакту.\n3. Відновлюйте стійку після кожної дії та робіть усі рухи плавними, а не силовими.",
+      "sectionTitle": "Підготовка до MMA"
+    }
+  }
+}

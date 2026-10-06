@@ -1,0 +1,87 @@
+{
+  "id": "68.4",
+  "key": "kempo_self_defense_kombat",
+  "title": "Kempo Self-Defense Kombat",
+  "description": "1. Agree four attack scenarios with a partner who plays the attacker while you defend, using training weapons only.\n2. The attacker launches each scenario at controlled speed; respond with an evasion or block, a counter, and a controlled takedown or lock.\n3. Release at a tap, reset between scenarios, keep the set within three minutes, then swap roles.",
+  "colorType": "yellow",
+  "workoutType": "kempo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kempo Self-Defense Kombat",
+      "description": "1. Agree four attack scenarios with a partner who plays the attacker while you defend, using training weapons only.\n2. The attacker launches each scenario at controlled speed; respond with an evasion or block, a counter, and a controlled takedown or lock.\n3. Release at a tap, reset between scenarios, keep the set within three minutes, then swap roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Defensa personal Kombat de kempo",
+      "description": "1. Acordad cuatro escenarios de ataque con un compañero que hace de atacante mientras tú defiendes, solo con armas de entrenamiento.\n2. El atacante lanza cada escenario a velocidad controlada; responde con esquiva o bloqueo, contraataque y derribo o luxación controlados.\n3. Suelta ante una palmada, reiniciad entre escenarios, mantened la serie en tres minutos e intercambiad roles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Defesa pessoal Kombat de kempo",
+      "description": "1. Combinem quatro cenários de ataque com um parceiro que faz o atacante enquanto você defende, apenas com armas de treino.\n2. O atacante lança cada cenário em velocidade controlada; responda com esquiva ou bloqueio, contra-ataque e queda ou chave controladas.\n3. Solte ao toque, reiniciem entre os cenários, mantenham a série em até três minutos e troquem os papéis.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Self-défense Kombat de kempo",
+      "description": "1. Convenez de quatre scénarios d’attaque avec un partenaire qui joue l’attaquant pendant que vous défendez, avec des armes d’entraînement uniquement.\n2. L’attaquant lance chaque scénario à vitesse contrôlée ; répondez par une esquive ou un blocage, une riposte et une amenée au sol ou une clé contrôlée.\n3. Lâchez à la frappe, recommencez entre les scénarios, restez sous trois minutes, puis inversez les rôles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kempo-Selbstverteidigung Kombat",
+      "description": "1. Vereinbart vier Angriffsszenarien; der Partner greift an, du verteidigst, nur mit Trainingswaffen.\n2. Der Angreifer startet jedes Szenario kontrolliert; antworte mit Ausweichen oder Block, Konter und kontrolliertem Takedown oder Hebel.\n3. Löse bei Abklopfen, setzt zwischen den Szenarien neu an, bleibt innerhalb von drei Minuten und tauscht dann die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Autodifesa Kombat di kempo",
+      "description": "1. Concordate quattro scenari d’attacco con un compagno che fa l’aggressore mentre tu difendi, solo con armi da allenamento.\n2. L’aggressore avvia ogni scenario a velocità controllata; rispondi con schivata o parata, contrattacco e atterramento o leva controllati.\n3. Lascia al battito, ripartite tra uno scenario e l’altro, restate entro tre minuti e poi scambiatevi i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "拳法自卫对抗（Kombat）",
+      "description": "1. 与同伴约定四个攻击情境，同伴扮演进攻者、你负责防守，只使用训练器械。\n2. 进攻者以可控速度发起每个情境；你以闪避或格挡、反击以及可控的摔倒或关节技回应。\n3. 对方拍垫即松开，情境之间重置，整组控制在三分钟内，然后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "拳法 護身術コンバット",
+      "description": "1. パートナーが攻撃役、あなたが防御役となる4つの攻撃場面を決め、練習用の武器だけを使います。\n2. 攻撃役は各場面をコントロールした速度で始め、あなたはかわしや受け、反撃、制御した倒しや関節技で対応します。\n3. タップで放し、場面ごとにリセットし、全体を3分以内に収めてから役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "켐포 호신술 컴뱃",
+      "description": "1. 파트너가 공격자, 내가 수비자가 되는 네 가지 공격 상황을 정하고 훈련용 무기만 사용합니다.\n2. 공격자는 각 상황을 통제된 속도로 시작하고, 나는 회피나 막기, 반격, 통제된 넘기기나 관절기로 대응합니다.\n3. 탭하면 풀고, 상황마다 다시 시작하며 전체를 3분 안에 마친 뒤 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ป้องกันตัวคอมแบตเคมโป",
+      "description": "1. ตกลงสถานการณ์การโจมตีสี่แบบกับคู่ฝึกที่รับบทผู้โจมตี ขณะคุณเป็นผู้ป้องกัน ใช้อาวุธฝึกเท่านั้น\n2. ผู้โจมตีเริ่มแต่ละสถานการณ์ด้วยความเร็วที่ควบคุม ตอบด้วยการหลบหรือปัด การสวน และการทุ่มหรือล็อกอย่างควบคุม\n3. ปล่อยเมื่อตบเบาะ เริ่มใหม่ระหว่างสถานการณ์ ทำทั้งชุดภายในสามนาที แล้วสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Самооборона Kombat в кэмпо",
+      "description": "1. Договоритесь с партнёром о четырёх сценариях атаки: он атакует, вы защищаетесь; используйте только тренировочное оружие.\n2. Атакующий начинает каждый сценарий на контролируемой скорости; отвечайте уходом или блоком, контратакой и контролируемым сваливанием или болевым.\n3. Отпускайте по хлопку, начинайте заново между сценариями, укладывайтесь в три минуты, затем поменяйтесь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Самозахист Kombat у кемпо",
+      "description": "1. Домовтеся з партнером про чотири сценарії атаки: він атакує, ви захищаєтеся; використовуйте лише тренувальну зброю.\n2. Атакувальник починає кожен сценарій на контрольованій швидкості; відповідайте ухилом або блоком, контратакою та контрольованим звалюванням або больовим.\n3. Відпускайте за поплескуванням, починайте знову між сценаріями, вкладайтеся в три хвилини, потім поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

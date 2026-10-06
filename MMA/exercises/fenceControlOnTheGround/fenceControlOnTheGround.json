@@ -1,0 +1,90 @@
+{
+  "id": "4.32",
+  "key": "mma_fence_control_ground",
+  "title": "Fence Control on the Ground",
+  "description": "1. With a trained partner seated or lying against a padded wall, kneel close with the chest low and one arm controlling the far hip or an underhook.\n2. Keep the partner's back and hips against the wall, block attempts to wall-walk or post a hand, and adjust the knees to follow every movement.\n3. Apply only steady positional pressure, release immediately at a tap or verbal signal, and let the partner stand before resetting.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Cage",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Fence Control on the Ground",
+      "description": "1. With a trained partner seated or lying against a padded wall, kneel close with the chest low and one arm controlling the far hip or an underhook.\n2. Keep the partner's back and hips against the wall, block attempts to wall-walk or post a hand, and adjust the knees to follow every movement.\n3. Apply only steady positional pressure, release immediately at a tap or verbal signal, and let the partner stand before resetting.",
+      "sectionTitle": "Cage"
+    },
+    "es": {
+      "title": "Control contra la reja en el suelo",
+      "description": "1. Con un compañero entrenado sentado o tumbado contra una pared acolchada, arrodíllate cerca con el pecho bajo y un brazo controlando la cadera lejana o con un underhook.\n2. Mantén la espalda y la cadera del compañero contra la pared, bloquea sus intentos de subir por ella o de apoyar una mano y ajusta las rodillas para seguir cada movimiento.\n3. Aplica solo una presión posicional constante, suelta de inmediato ante un golpe en el tatami o una señal verbal y deja que el compañero se levante antes de reiniciar.",
+      "sectionTitle": "Jaula"
+    },
+    "pt": {
+      "title": "Controle na grade no chão",
+      "description": "1. Com um parceiro treinado sentado ou deitado contra uma parede acolchoada, ajoelhe-se perto com o peito baixo e um braço controlando o quadril distante ou com underhook.\n2. Mantenha as costas e o quadril do parceiro contra a parede, bloqueie as tentativas de subir pela parede ou apoiar a mão e ajuste os joelhos para acompanhar cada movimento.\n3. Aplique apenas pressão posicional constante, solte imediatamente ao tapinha ou sinal verbal e deixe o parceiro se levantar antes de recomeçar.",
+      "sectionTitle": "Grade"
+    },
+    "fr": {
+      "title": "Contrôle contre la cage au sol",
+      "description": "1. Avec un partenaire entraîné assis ou allongé contre un mur rembourré, agenouillez-vous près de lui, poitrine basse, un bras contrôlant la hanche éloignée ou en sous-bras.\n2. Gardez son dos et ses hanches contre le mur, bloquez ses tentatives de remonter le long du mur ou de poser une main et ajustez les genoux à chacun de ses mouvements.\n3. N’appliquez qu’une pression positionnelle régulière, relâchez immédiatement à la frappe au sol ou au signal verbal et laissez le partenaire se relever avant de recommencer.",
+      "sectionTitle": "Cage"
+    },
+    "de": {
+      "title": "Käfigkontrolle am Boden",
+      "description": "1. Knie dich mit tiefer Brust nah an einen trainierten Partner, der an einer gepolsterten Wand sitzt oder liegt, und kontrolliere mit einem Arm die ferne Hüfte oder einen Unterhaken.\n2. Halte Rücken und Hüfte des Partners an der Wand, blockiere Versuche, an der Wand hochzulaufen oder eine Hand aufzustützen, und passe die Knie jeder Bewegung an.\n3. Übe nur gleichmäßigen Positionsdruck aus, löse sofort beim Abklopfen oder einem Wortsignal und lass den Partner aufstehen, bevor ihr neu beginnt.",
+      "sectionTitle": "Käfig"
+    },
+    "it": {
+      "title": "Controllo contro la gabbia a terra",
+      "description": "1. Con un compagno allenato seduto o sdraiato contro una parete imbottita, inginocchiati vicino con il petto basso e un braccio che controlla l’anca lontana o con un underhook.\n2. Mantieni schiena e anche del compagno contro la parete, blocca i tentativi di risalire lungo la parete o di appoggiare una mano e adatta le ginocchia a ogni movimento.\n3. Applica solo una pressione posizionale costante, lascia subito al tap o a un segnale verbale e fai rialzare il compagno prima di ripartire.",
+      "sectionTitle": "Gabbia"
+    },
+    "zh-Hans": {
+      "title": "地面笼边控制",
+      "description": "1. 受过训练的同伴坐或躺靠在软垫墙边，你贴近跪下，胸部压低，一只手臂控制对方远侧髋部或做下钩。\n2. 让同伴的背部和髋部保持贴墙，阻止其沿墙站起或撑手，并调整双膝跟随其每个动作。\n3. 只施加稳定的位置压力，对方拍垫或口头示意时立即放开，让同伴站起后再重新开始。",
+      "sectionTitle": "笼边"
+    },
+    "ja": {
+      "title": "グラウンドでのケージコントロール",
+      "description": "1. パッド付きの壁に座るか横たわる練習相手に近づいて膝をつき、胸を低くし、片腕で遠い側の腰を制するかアンダーフックを取ります。\n2. 相手の背中と腰を壁に付けたままにし、壁を使って立とうとする動きや手をつく動きを防ぎ、膝で相手の動きについていきます。\n3. 圧力は位置による一定のものに限り、タップや声の合図ですぐに離し、相手が立ってから再開します。",
+      "sectionTitle": "ケージ"
+    },
+    "ko": {
+      "title": "그라운드 케이지 컨트롤",
+      "description": "1. 패드 벽에 앉거나 누운 훈련된 파트너에게 가까이 무릎을 꿇고 가슴을 낮춘 채 한 팔로 먼 쪽 엉덩이를 제어하거나 언더훅을 잡습니다.\n2. 파트너의 등과 엉덩이를 벽에 붙여 두고, 벽을 타고 일어서거나 손을 짚으려는 시도를 막으며, 무릎을 조정해 모든 움직임을 따라갑니다.\n3. 꾸준한 포지션 압박만 주고, 탭이나 구두 신호에 즉시 풀어 주며, 파트너가 일어선 뒤 다시 시작합니다.",
+      "sectionTitle": "케이지"
+    },
+    "th": {
+      "title": "คุมชิดกรงบนพื้น",
+      "description": "1. ให้คู่ฝึกที่ผ่านการฝึกนั่งหรือนอนพิงผนังบุนวม คุกเข่าชิดตัว ลดหน้าอกต่ำ และใช้แขนข้างหนึ่งคุมสะโพกด้านไกลหรือสอดอันเดอร์ฮุก\n2. ให้หลังและสะโพกของคู่ชิดผนัง กันไม่ให้ไต่ผนังลุกขึ้นหรือยันมือ และปรับเข่าตามทุกการเคลื่อนไหว\n3. ใช้แรงกดตำแหน่งอย่างสม่ำเสมอเท่านั้น ปล่อยทันทีเมื่อตบพื้นหรือส่งสัญญาณด้วยเสียง และให้คู่ลุกขึ้นก่อนเริ่มใหม่",
+      "sectionTitle": "กรง"
+    },
+    "ru": {
+      "title": "Контроль у сетки в партере",
+      "description": "1. Когда подготовленный партнёр сидит или лежит у мягкой стены, встаньте рядом на колени, прижав грудь низко, и одной рукой контролируйте дальнее бедро или возьмите подхват.\n2. Удерживайте спину и таз партнёра у стены, блокируйте попытки подняться по стене или упереться рукой и подстраивайте колени под каждое его движение.\n3. Давите только позиционно и равномерно, сразу отпускайте при хлопке или голосовом сигнале и дайте партнёру встать перед повтором.",
+      "sectionTitle": "Клетка"
+    },
+    "uk": {
+      "title": "Контроль біля сітки в партері",
+      "description": "1. Коли підготовлений партнер сидить або лежить біля м’якої стіни, станьте поруч на коліна, тримаючи груди низько, і однією рукою контролюйте дальнє стегно або візьміть підхват.\n2. Утримуйте спину й таз партнера біля стіни, блокуйте спроби піднятися по стіні чи впертися рукою й підлаштовуйте коліна під кожен його рух.\n3. Тисніть лише позиційно й рівномірно, одразу відпускайте за плесканням чи голосовим сигналом і дайте партнерові підвестися перед повтором.",
+      "sectionTitle": "Клітка"
+    }
+  }
+}

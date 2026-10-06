@@ -1,0 +1,90 @@
+{
+  "id": "3.8",
+  "key": "kick_boxing_lead_front_kick",
+  "title": "Lead Front Kick",
+  "description": "1. From stance, shift weight to the rear leg and lift the lead knee directly in front of the body.\n2. Extend the lower leg and drive the ball or heel of the foot into the target while keeping the guard high.\n3. Recoil the foot to the chamber first, then place it down in the original stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Front Kick",
+      "description": "1. From stance, shift weight to the rear leg and lift the lead knee directly in front of the body.\n2. Extend the lower leg and drive the ball or heel of the foot into the target while keeping the guard high.\n3. Recoil the foot to the chamber first, then place it down in the original stance.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Patada frontal delantera",
+      "description": "1. Desde la postura, pasa el peso a la pierna trasera y eleva la rodilla delantera justo delante del cuerpo.\n2. Extiende la pierna y clava la planta o el talón en el objetivo manteniendo la guardia alta.\n3. Recoge primero el pie a la posición de carga y luego apóyalo en la postura original.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Chute frontal da frente",
+      "description": "1. Na base, passe o peso para a perna de trás e eleve o joelho da frente bem à frente do corpo.\n2. Estenda a perna e projete a planta ou o calcanhar no alvo mantendo a guarda alta.\n3. Recolha primeiro o pé à posição de carga e depois apoie-o na base original.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de pied de face avant",
+      "description": "1. En garde, transférez le poids sur la jambe arrière et montez le genou avant juste devant le corps.\n2. Dépliez la jambe et enfoncez la plante ou le talon dans la cible en gardant les mains hautes.\n3. Ramenez d’abord le pied en armé, puis reposez-le dans la position initiale.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Vorderer Fronttritt",
+      "description": "1. Verlagere aus der Stellung das Gewicht auf das hintere Bein und hebe das vordere Knie direkt vor den Körper.\n2. Strecke den Unterschenkel und stoße Fußballen oder Ferse ins Ziel, während die Deckung oben bleibt.\n3. Ziehe den Fuß zuerst in die Aufzugsposition zurück und setze ihn dann in die Ausgangsstellung.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Calcio frontale anteriore",
+      "description": "1. Dalla posizione, sposta il peso sulla gamba posteriore e solleva il ginocchio anteriore proprio davanti al corpo.\n2. Distendi la gamba e spingi l’avampiede o il tallone nel bersaglio mantenendo alta la guardia.\n3. Richiama prima il piede in caricamento, poi appoggialo nella posizione iniziale.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "前腿正蹬",
+      "description": "1. 从站姿开始，重心移到后腿，前膝在身体正前方抬起。\n2. 伸展小腿，用前脚掌或脚跟蹬向目标，同时保持高位防守。\n3. 先把脚收回提膝位置，再落回原来的站姿。",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "前足の前蹴り",
+      "description": "1. 構えから後ろ脚に体重を移し、前の膝を体の真正面に引き上げます。\n2. ガードを高く保ったまま下腿を伸ばし、母指球またはかかとで標的を突きます。\n3. まず足を抱え込みの位置に戻し、それから元の構えに下ろします。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "앞발 앞차기",
+      "description": "1. 자세에서 뒷다리로 체중을 옮기고 앞 무릎을 몸 바로 앞으로 들어 올립니다.\n2. 가드를 높게 유지한 채 정강이 아래를 펴며 앞꿈치나 발뒤꿈치로 목표를 밀어 찹니다.\n3. 먼저 발을 접은 자세로 회수한 다음 원래 자세로 내려놓습니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "ถีบขาหน้า",
+      "description": "1. จากท่ายืน ถ่ายน้ำหนักไปขาหลังและยกเข่าหน้าขึ้นตรงด้านหน้าลำตัว\n2. เหยียดขาท่อนล่างและดันจมูกเท้าหรือส้นเท้าเข้าเป้า โดยยังยกการ์ดสูง\n3. เก็บเท้ากลับมาที่ท่ายกเข่าก่อน แล้วจึงวางลงในท่ายืนเดิม",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Прямой удар передней ногой",
+      "description": "1. Из стойки перенесите вес на заднюю ногу и поднимите переднее колено прямо перед собой.\n2. Выпрямите голень и вбейте подушечку стопы или пятку в цель, держа защиту высоко.\n3. Сначала верните стопу в положение подъёма колена, затем поставьте её в исходную стойку.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Прямий удар передньою ногою",
+      "description": "1. Зі стійки перенесіть вагу на задню ногу й підніміть переднє коліно прямо перед собою.\n2. Випряміть гомілку й вбийте подушечку стопи або п’яту в ціль, тримаючи захист високо.\n3. Спочатку поверніть стопу в положення підйому коліна, потім поставте її у вихідну стійку.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

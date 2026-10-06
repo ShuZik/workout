@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#2BBF51",
+    "colorType": "green",
+    "folder": "PencakSilat",
+    "id": "86",
+    "icon": "PencakSilat/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Pencak Silat",
+    "workoutType": "pencakSilat",
+    "translations": {
+      "en": {
+        "title": "Pencak Silat"
+      },
+      "es": {
+        "title": "Pencak silat"
+      },
+      "pt": {
+        "title": "Pencak silat"
+      },
+      "fr": {
+        "title": "Pencak-silat"
+      },
+      "de": {
+        "title": "Pencak Silat"
+      },
+      "it": {
+        "title": "Pencak silat"
+      },
+      "zh-Hans": {
+        "title": "班卡西拉"
+      },
+      "ja": {
+        "title": "プンチャック・シラット"
+      },
+      "ko": {
+        "title": "펜칵 실랏"
+      },
+      "th": {
+        "title": "ปันจักสีลัต"
+      },
+      "ru": {
+        "title": "Пенчак-силат"
+      },
+      "uk": {
+        "title": "Пенчак-сілат"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "PencakSilat/exercises/pencakSilat/Icon.png",
+      "json": "PencakSilat/exercises/pencakSilat/pencakSilat.json"
+    },
+    {
+      "icon": "PencakSilat/exercises/langkah8Penjuru/Icon.png",
+      "json": "PencakSilat/exercises/langkah8Penjuru/langkah8Penjuru.json"
+    },
+    {
+      "icon": "PencakSilat/exercises/jurusTunggalBaku/Icon.png",
+      "json": "PencakSilat/exercises/jurusTunggalBaku/jurusTunggalBaku.json"
+    },
+    {
+      "icon": "PencakSilat/exercises/jurusTunggalBebas/Icon.png",
+      "json": "PencakSilat/exercises/jurusTunggalBebas/jurusTunggalBebas.json"
+    },
+    {
+      "icon": "PencakSilat/exercises/jurusGanda/Icon.png",
+      "json": "PencakSilat/exercises/jurusGanda/jurusGanda.json"
+    },
+    {
+      "icon": "PencakSilat/exercises/jurusRegu/Icon.png",
+      "json": "PencakSilat/exercises/jurusRegu/jurusRegu.json"
+    }
+  ]
+}

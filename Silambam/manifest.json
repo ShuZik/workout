@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "Silambam",
+    "id": "93",
+    "icon": "Silambam/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Silambam",
+    "workoutType": "silambam",
+    "translations": {
+      "en": {
+        "title": "Silambam"
+      },
+      "es": {
+        "title": "Silambam"
+      },
+      "pt": {
+        "title": "Silambam"
+      },
+      "fr": {
+        "title": "Silambam"
+      },
+      "de": {
+        "title": "Silambam"
+      },
+      "it": {
+        "title": "Silambam"
+      },
+      "zh-Hans": {
+        "title": "西拉巴姆棍术"
+      },
+      "ja": {
+        "title": "シランバム"
+      },
+      "ko": {
+        "title": "실람밤"
+      },
+      "th": {
+        "title": "สิลัมบัม"
+      },
+      "ru": {
+        "title": "Силамбам"
+      },
+      "uk": {
+        "title": "Сіламбам"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Silambam/exercises/silambam/Icon.png",
+      "json": "Silambam/exercises/silambam/silambam.json"
+    },
+    {
+      "icon": "Silambam/exercises/kadaikambuVeechu/Icon.png",
+      "json": "Silambam/exercises/kadaikambuVeechu/kadaikambuVeechu.json"
+    },
+    {
+      "icon": "Silambam/exercises/nadukambuSuttru/Icon.png",
+      "json": "Silambam/exercises/nadukambuSuttru/nadukambuSuttru.json"
+    },
+    {
+      "icon": "Silambam/exercises/irattaiKambuVeechu/Icon.png",
+      "json": "Silambam/exercises/irattaiKambuVeechu/irattaiKambuVeechu.json"
+    },
+    {
+      "icon": "Silambam/exercises/ottraiValVeechu/Icon.png",
+      "json": "Silambam/exercises/ottraiValVeechu/ottraiValVeechu.json"
+    },
+    {
+      "icon": "Silambam/exercises/irattaiValVeechu/Icon.png",
+      "json": "Silambam/exercises/irattaiValVeechu/irattaiValVeechu.json"
+    }
+  ]
+}

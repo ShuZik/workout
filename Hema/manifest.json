@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "Hema",
+    "id": "61",
+    "icon": "Hema/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "HEMA",
+    "workoutType": "hema",
+    "translations": {
+      "en": {
+        "title": "HEMA"
+      },
+      "es": {
+        "title": "Esgrima histórica (HEMA)"
+      },
+      "pt": {
+        "title": "Esgrima histórica (HEMA)"
+      },
+      "fr": {
+        "title": "AMHE (escrime ancienne)"
+      },
+      "de": {
+        "title": "Historisches Fechten (HEMA)"
+      },
+      "it": {
+        "title": "Scherma storica (HEMA)"
+      },
+      "zh-Hans": {
+        "title": "欧洲历史武术"
+      },
+      "ja": {
+        "title": "西洋剣術（HEMA）"
+      },
+      "ko": {
+        "title": "역사적 유럽 무술"
+      },
+      "th": {
+        "title": "ศิลปะการต่อสู้ยุโรปโบราณ"
+      },
+      "ru": {
+        "title": "Историческое фехтование (HEMA)"
+      },
+      "uk": {
+        "title": "Історичне фехтування (HEMA)"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Hema/exercises/hema/Icon.png",
+      "json": "Hema/exercises/hema/hema.json"
+    },
+    {
+      "icon": "Hema/exercises/angelosSoloSabreDrill/Icon.png",
+      "json": "Hema/exercises/angelosSoloSabreDrill/angelosSoloSabreDrill.json"
+    }
+  ]
+}

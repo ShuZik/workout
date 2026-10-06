@@ -1,0 +1,87 @@
+{
+  "id": "105.6",
+  "key": "unifight_horizontal_ladder",
+  "title": "Horizontal Ladder Traverse",
+  "description": "1. Grip the first rung of an overhead ladder with straight arms and the feet clear of the floor.\n2. Travel hand over hand along the rungs, keeping the body quiet and the shoulders engaged.\n3. Drop down at the end with bent knees, rest briefly, and repeat.",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Horizontal Ladder Traverse",
+      "description": "1. Grip the first rung of an overhead ladder with straight arms and the feet clear of the floor.\n2. Travel hand over hand along the rungs, keeping the body quiet and the shoulders engaged.\n3. Drop down at the end with bent knees, rest briefly, and repeat.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Escalera horizontal",
+      "description": "1. Agarra el primer peldaño de una escalera elevada con los brazos estirados y los pies sin tocar el suelo.\n2. Avanza mano sobre mano por los peldaños, con el cuerpo estable y los hombros activos.\n3. Déjate caer al final con rodillas flexionadas, descansa un momento y repite.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Escada horizontal",
+      "description": "1. Segure o primeiro degrau de uma escada suspensa com braços estendidos e pés fora do chão.\n2. Avance mão após mão pelos degraus, mantendo o corpo estável e os ombros ativos.\n3. Desça no fim com joelhos flexionados, descanse um pouco e repita.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Échelle horizontale",
+      "description": "1. Saisissez le premier barreau d’une échelle suspendue, bras tendus, pieds décollés du sol.\n2. Avancez main après main le long des barreaux, corps calme et épaules engagées.\n3. Lâchez au bout en amortissant avec les genoux, récupérez brièvement et recommencez.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Hangelleiter",
+      "description": "1. Greife die erste Sprosse einer Hangelleiter mit gestreckten Armen, die Füße frei vom Boden.\n2. Hangle Hand über Hand an den Sprossen entlang, mit ruhigem Körper und aktiven Schultern.\n3. Lass dich am Ende mit gebeugten Knien herab, pausiere kurz und wiederhole.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Scala orizzontale",
+      "description": "1. Afferra il primo piolo di una scala sospesa con le braccia tese e i piedi staccati da terra.\n2. Avanza mano dopo mano lungo i pioli, con il corpo fermo e le spalle attive.\n3. Scendi alla fine con le ginocchia piegate, recupera un attimo e ripeti.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "水平梯攀移",
+      "description": "1. 双臂伸直抓住水平梯第一根横杆，双脚离地。\n2. 双手交替沿横杆前移，身体保持稳定，肩部发力。\n3. 到尽头屈膝落地，短暂休息后重复。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "雲梯渡り",
+      "description": "1. 腕を伸ばして雲梯の最初の横木をつかみ、足を床から離します。\n2. 体を揺らさず肩を効かせて、手を交互に横木伝いに進みます。\n3. 端で膝を曲げて降り、少し休んで繰り返します。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "수평 사다리 건너기",
+      "description": "1. 팔을 편 채 수평 사다리의 첫 가로대를 잡고 발을 바닥에서 뗍니다.\n2. 몸을 흔들지 않고 어깨에 힘을 유지하며 손을 번갈아 가로대를 따라 이동합니다.\n3. 끝에서 무릎을 굽혀 내려오고 잠시 쉰 뒤 반복합니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "ห้อยโหนบันไดแนวนอน",
+      "description": "1. จับขั้นแรกของบันไดเหนือศีรษะด้วยแขนเหยียด เท้าพ้นพื้น\n2. โหนสลับมือไปตามขั้นบันได รักษาลำตัวนิ่งและไหล่ตึง\n3. ลงที่ปลายโดยงอเข่า พักสั้น ๆ แล้วทำซ้ำ",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Горизонтальная лестница",
+      "description": "1. Возьмитесь за первую перекладину рукохода прямыми руками, ноги не касаются пола.\n2. Перехватывайтесь по перекладинам, держа корпус спокойным, а плечи включёнными.\n3. В конце спрыгните на согнутые колени, кратко отдохните и повторите.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Горизонтальна драбина",
+      "description": "1. Візьміться за першу перекладину рукоходу прямими руками, ноги не торкаються підлоги.\n2. Перехоплюйтеся по перекладинах, тримаючи корпус спокійним, а плечі ввімкненими.\n3. Наприкінці зістрибніть на зігнуті коліна, коротко відпочиньте й повторіть.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

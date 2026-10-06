@@ -1,0 +1,90 @@
+{
+  "id": "40.17",
+  "key": "karate_yoko_geri",
+  "title": "Yoko Geri",
+  "description": "1. Shift weight to the supporting leg and chamber the kicking knee across the body with the heel drawn toward the hip.\n2. Pivot the supporting foot and drive the heel sideways along a straight line with the toes turned slightly down.\n3. Retract the heel to the same chamber before lowering the foot into stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Yoko Geri",
+      "description": "1. Shift weight to the supporting leg and chamber the kicking knee across the body with the heel drawn toward the hip.\n2. Pivot the supporting foot and drive the heel sideways along a straight line with the toes turned slightly down.\n3. Retract the heel to the same chamber before lowering the foot into stance.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Yoko Geri",
+      "description": "1. Pasa el peso a la pierna de apoyo y recoge la rodilla de la pierna que patea cruzando el cuerpo, con el talón hacia la cadera.\n2. Pivota el pie de apoyo e impulsa el talón lateralmente en línea recta con los dedos ligeramente hacia abajo.\n3. Retrae el talón a la misma posición recogida antes de bajar el pie a la postura.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Yoko Geri",
+      "description": "1. Transfira o peso para a perna de apoio e prepare o joelho da perna que chuta cruzando o corpo, com o calcanhar junto ao quadril.\n2. Gire o pé de apoio e projete o calcanhar lateralmente em linha reta, com os dedos levemente para baixo.\n3. Recolha o calcanhar à mesma preparação antes de baixar o pé para a base.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Yoko Geri",
+      "description": "1. Transférez le poids sur la jambe d’appui et armez le genou de la jambe de frappe devant le corps, talon ramené vers la hanche.\n2. Pivotez le pied d’appui et poussez le talon sur le côté en ligne droite, orteils légèrement tournés vers le bas.\n3. Ramenez le talon dans la même armée avant de reposer le pied en position.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Yoko Geri",
+      "description": "1. Verlagere das Gewicht auf das Standbein und ziehe das Knie des Trittbeins vor den Körper, die Ferse zur Hüfte.\n2. Drehe den Standfuß und stoße die Ferse auf gerader Linie seitwärts, die Zehen leicht nach unten gerichtet.\n3. Ziehe die Ferse in dieselbe Ausholposition zurück, bevor du den Fuß in den Stand absetzt.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Yoko Geri",
+      "description": "1. Sposta il peso sulla gamba d’appoggio e carica il ginocchio della gamba che calcia davanti al corpo, con il tallone verso l’anca.\n2. Ruota il piede d’appoggio e spingi il tallone lateralmente in linea retta, con le dita leggermente rivolte in basso.\n3. Richiama il tallone nella stessa posizione di carica prima di riportare il piede in posizione.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "横蹴",
+      "description": "1. 将重心移到支撑腿，踢击腿屈膝提至身前，脚跟收向髋部。\n2. 转动支撑脚，脚跟沿直线向侧面蹬出，脚尖略向下。\n3. 先将脚跟收回到同一提膝位置，再把脚放回站姿。",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "横蹴り",
+      "description": "1. 軸足に体重を移し、蹴り足の膝を体の前に抱え込み、踵を腰へ引き寄せます。\n2. 軸足を返し、つま先をやや下に向けて踵を一直線に横へ蹴り出します。\n3. 踵を同じ抱え込みの位置に引き戻してから、足を下ろして立ち方に戻ります。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "요코 게리",
+      "description": "1. 체중을 지지 다리로 옮기고 차는 다리의 무릎을 몸 앞으로 접어 올리며 뒤꿈치를 골반 쪽으로 당깁니다.\n2. 지지 발을 돌리고 발끝을 약간 아래로 향한 채 뒤꿈치를 옆으로 일직선으로 밀어 찹니다.\n3. 뒤꿈치를 같은 준비 위치로 거둔 뒤 발을 내려 자세로 돌아옵니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "โยโกะเกริ",
+      "description": "1. ถ่ายน้ำหนักไปที่ขารับน้ำหนักและยกเข่าขาที่เตะพับข้ามลำตัว โดยดึงส้นเท้าเข้าหาสะโพก\n2. หมุนเท้าที่รับน้ำหนักและถีบส้นเท้าออกด้านข้างเป็นเส้นตรง โดยให้ปลายเท้าชี้ลงเล็กน้อย\n3. ดึงส้นเท้ากลับสู่ตำแหน่งพับเดิมก่อนวางเท้าลงสู่ท่ายืน",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Ёко-гэри",
+      "description": "1. Перенесите вес на опорную ногу и поднимите согнутое колено бьющей ноги перед корпусом, подтянув пятку к бедру.\n2. Разверните опорную стопу и выбросьте пятку в сторону по прямой линии, слегка опустив носок вниз.\n3. Верните пятку в то же исходное положение, прежде чем опустить стопу в стойку.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Йоко-гері",
+      "description": "1. Перенесіть вагу на опорну ногу й підніміть зігнуте коліно ударної ноги перед корпусом, підтягнувши п’яту до стегна.\n2. Розверніть опорну стопу й викиньте п’яту вбік по прямій лінії, злегка опустивши носок униз.\n3. Поверніть п’яту в те саме вихідне положення, перш ніж опустити стопу в стійку.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

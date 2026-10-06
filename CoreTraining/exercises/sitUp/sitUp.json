@@ -1,0 +1,90 @@
+{
+  "id": "14.3",
+  "key": "core_sit_up",
+  "title": "Sit-Up",
+  "description": "1. Lie on the back with knees bent, feet planted, and arms crossed or hands beside the head.\n2. Brace the abdomen and curl the trunk up until the torso approaches the thighs without pulling on the neck.\n3. Lower the spine to the floor under control and reset the ribs before the next repetition.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sit-Up",
+      "description": "1. Lie on the back with knees bent, feet planted, and arms crossed or hands beside the head.\n2. Brace the abdomen and curl the trunk up until the torso approaches the thighs without pulling on the neck.\n3. Lower the spine to the floor under control and reset the ribs before the next repetition.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Elevación de tronco",
+      "description": "1. Túmbate boca arriba con las rodillas flexionadas, los pies apoyados y los brazos cruzados o las manos junto a la cabeza.\n2. Activa el abdomen y eleva el tronco hasta acercarlo a los muslos sin tirar del cuello.\n3. Baja la columna al suelo de forma controlada y recoloca las costillas antes de la siguiente repetición.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Abdominal completo",
+      "description": "1. Deite de costas com os joelhos dobrados, os pés apoiados e os braços cruzados ou as mãos ao lado da cabeça.\n2. Contraia o abdômen e eleve o tronco até aproximá-lo das coxas sem puxar o pescoço.\n3. Abaixe a coluna até o chão de forma controlada e reposicione as costelas antes da próxima repetição.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Redressement assis",
+      "description": "1. Allongez-vous sur le dos, genoux fléchis, pieds au sol et bras croisés ou mains près de la tête.\n2. Contractez les abdominaux et relevez le tronc jusqu’à rapprocher le torse des cuisses, sans tirer sur la nuque.\n3. Redescendez la colonne au sol avec contrôle et replacez les côtes avant la répétition suivante.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Rumpfheben",
+      "description": "1. Lege dich auf den Rücken, beuge die Knie, stelle die Füße auf und verschränke die Arme oder halte die Hände neben dem Kopf.\n2. Spanne den Bauch an und rolle den Rumpf auf, bis er sich den Oberschenkeln nähert, ohne am Nacken zu ziehen.\n3. Senke die Wirbelsäule kontrolliert zum Boden ab und richte die Rippen vor der nächsten Wiederholung wieder aus.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Sit-up",
+      "description": "1. Sdraiati sulla schiena con le ginocchia piegate, i piedi appoggiati e le braccia incrociate o le mani accanto alla testa.\n2. Contrai gli addominali e solleva il tronco finché si avvicina alle cosce, senza tirare il collo.\n3. Abbassa la colonna al pavimento in modo controllato e riposiziona le costole prima della ripetizione successiva.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "仰卧起坐",
+      "description": "1. 仰卧，屈膝，双脚踩地，双臂交叉或双手放在头部两侧。\n2. 收紧腹部，将躯干卷起至接近大腿，不要拉扯颈部。\n3. 有控制地将脊柱放回地面，在下一次重复前调整肋骨位置。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "シットアップ",
+      "description": "1. 仰向けになり、膝を曲げて足を床につけ、腕を胸の前で交差させるか手を頭の横に置きます。\n2. 腹部に力を入れ、首を引っ張らずに上体を太ももに近づくまで起こします。\n3. 背骨をゆっくり床に下ろし、次の反復の前に肋骨の位置を整えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "싯업",
+      "description": "1. 등을 대고 누워 무릎을 굽히고 발을 바닥에 붙인 뒤 팔을 교차하거나 손을 머리 옆에 둡니다.\n2. 복부에 힘을 주고 목을 잡아당기지 않으면서 몸통을 허벅지에 가까워질 때까지 말아 올립니다.\n3. 척추를 조절하며 바닥으로 내리고 다음 반복 전에 갈비뼈 위치를 다시 정돈합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ซิตอัป",
+      "description": "1. นอนหงาย งอเข่า วางเท้าบนพื้น และไขว้แขนหรือวางมือข้างศีรษะ\n2. เกร็งหน้าท้องและงอลำตัวขึ้นจนเข้าใกล้ต้นขา โดยไม่ดึงคอ\n3. ลดแนวกระดูกสันหลังลงสู่พื้นอย่างควบคุม และจัดชายโครงกลับเข้าที่ก่อนทำครั้งถัดไป",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Подъём корпуса",
+      "description": "1. Лягте на спину, согните колени, поставьте стопы на пол и скрестите руки или расположите ладони рядом с головой.\n2. Напрягите живот и поднимите корпус к бёдрам, не тяните шею руками.\n3. Подконтрольно опустите позвоночник на пол и восстановите положение рёбер перед следующим повторением.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Піднімання корпусу",
+      "description": "1. Ляжте на спину, зігніть коліна, поставте стопи на підлогу й схрестіть руки або розташуйте долоні поруч із головою.\n2. Напружте живіт і підніміть корпус до стегон, не тягніть шию руками.\n3. Контрольовано опустіть хребет на підлогу й відновіть положення ребер перед наступним повторенням.",
+      "sectionTitle": "База"
+    }
+  }
+}

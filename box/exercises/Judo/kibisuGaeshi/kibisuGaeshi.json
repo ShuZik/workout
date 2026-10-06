@@ -1,0 +1,87 @@
+{
+  "id": "41.41",
+  "key": "judo_kibisu_gaeshi",
+  "title": "Kibisu Gaeshi",
+  "description": "1. Drop the level and reach one hand to the back of the partner's heel on the advanced foot.\n2. Pull the heel forward while the other hand pushes the partner's upper body back over the heel.\n3. Keep the push and pull together until the partner sits back into a breakfall, then release the heel.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "4 Te-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kibisu Gaeshi",
+      "description": "1. Drop the level and reach one hand to the back of the partner's heel on the advanced foot.\n2. Pull the heel forward while the other hand pushes the partner's upper body back over the heel.\n3. Keep the push and pull together until the partner sits back into a breakfall, then release the heel.",
+      "sectionTitle": "Te-waza"
+    },
+    "es": {
+      "title": "Kibisu Gaeshi",
+      "description": "1. Baja el nivel y lleva una mano a la parte trasera del talón del pie adelantado del compañero.\n2. Tira del talón hacia delante mientras la otra mano empuja el tronco del compañero hacia atrás sobre el talón.\n3. Mantén el empuje y el tirón juntos hasta que el compañero se siente en una caída, y luego suelta el talón.",
+      "sectionTitle": "Te-waza"
+    },
+    "pt": {
+      "title": "Kibisu Gaeshi",
+      "description": "1. Baixe o nível e leve uma mão à parte de trás do calcanhar do pé avançado do parceiro.\n2. Puxe o calcanhar para a frente enquanto a outra mão empurra o tronco do parceiro para trás sobre o calcanhar.\n3. Mantenha o empurrão e a puxada juntos até o parceiro sentar em uma queda, depois solte o calcanhar.",
+      "sectionTitle": "Te-waza"
+    },
+    "fr": {
+      "title": "Kibisu Gaeshi",
+      "description": "1. Baissez le niveau et portez une main derrière le talon du pied avancé du partenaire.\n2. Tirez le talon vers l’avant pendant que l’autre main pousse le haut du corps en arrière par-dessus le talon.\n3. Gardez poussée et traction ensemble jusqu’à ce que le partenaire s’asseye en chute, puis lâchez le talon.",
+      "sectionTitle": "Te-waza"
+    },
+    "de": {
+      "title": "Kibisu Gaeshi",
+      "description": "1. Gehe tiefer und greife mit einer Hand hinter die Ferse des vorderen Fußes des Partners.\n2. Ziehe die Ferse nach vorn, während die andere Hand den Oberkörper des Partners rückwärts über die Ferse drückt.\n3. Halte Druck und Zug zusammen, bis der Partner sich in eine Fallschule setzt, und löse dann die Ferse.",
+      "sectionTitle": "Te-waza"
+    },
+    "it": {
+      "title": "Kibisu Gaeshi",
+      "description": "1. Abbassa il livello e porta una mano dietro il tallone del piede avanzato del compagno.\n2. Tira il tallone in avanti mentre l’altra mano spinge il busto del compagno all’indietro sopra il tallone.\n3. Mantieni insieme spinta e trazione finché il compagno si siede in una caduta, poi lascia il tallone.",
+      "sectionTitle": "Te-waza"
+    },
+    "zh-Hans": {
+      "title": "踵返",
+      "description": "1. 降低重心，一只手伸到搭档前脚的脚跟后方。\n2. 向前拉脚跟，另一只手把搭档上身向后推过脚跟。\n3. 推拉同时保持，直到搭档坐下完成倒地，再松开脚跟。",
+      "sectionTitle": "手技"
+    },
+    "ja": {
+      "title": "踵返",
+      "description": "1. 姿勢を低くし、片手を相手の前足のかかとの後ろへ伸ばします。\n2. かかとを前へ引きながら、もう一方の手で相手の上体をかかとの上へ後ろに押します。\n3. 押しと引きを同時に続け、相手が座るように受身をとったらかかとを放します。",
+      "sectionTitle": "手技"
+    },
+    "ko": {
+      "title": "키비스 가에시",
+      "description": "1. 자세를 낮추고 한 손을 파트너 앞발 뒤꿈치 뒤로 뻗습니다.\n2. 뒤꿈치를 앞으로 당기며 다른 손으로 파트너 상체를 뒤꿈치 위로 뒤로 밉니다.\n3. 밀기와 당기기를 함께 유지해 파트너가 앉듯이 낙법을 하면 뒤꿈치를 놓습니다.",
+      "sectionTitle": "손기술"
+    },
+    "th": {
+      "title": "คิบิสึกาเอชิ",
+      "description": "1. ลดระดับตัวลงและยื่นมือข้างหนึ่งไปที่ด้านหลังส้นเท้าของเท้าหน้าคู่ฝึก\n2. ดึงส้นเท้ามาข้างหน้าขณะที่มืออีกข้างดันลำตัวส่วนบนของคู่ฝึกไปด้านหลังข้ามส้นเท้า\n3. ดันและดึงไปพร้อมกันจนคู่ฝึกนั่งลงล้มอย่างปลอดภัย แล้วปล่อยส้นเท้า",
+      "sectionTitle": "เทวาซะ"
+    },
+    "ru": {
+      "title": "Кибису-гаэси",
+      "description": "1. Опуститесь ниже и заведите одну руку за пятку выставленной вперёд стопы партнёра.\n2. Тяните пятку вперёд, другой рукой толкая корпус партнёра назад через пятку.\n3. Сохраняйте толчок и тягу одновременно, пока партнёр не сядет в страховку, затем отпустите пятку.",
+      "sectionTitle": "Тэ-вадза"
+    },
+    "uk": {
+      "title": "Кібісу-гаесі",
+      "description": "1. Опустіться нижче й заведіть одну руку за п’яту виставленої вперед стопи партнера.\n2. Тягніть п’яту вперед, іншою рукою штовхаючи тулуб партнера назад через п’яту.\n3. Зберігайте поштовх і тягу одночасно, доки партнер не сяде у страховку, потім відпустіть п’яту.",
+      "sectionTitle": "Те-вадза"
+    }
+  }
+}

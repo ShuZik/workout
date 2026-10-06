@@ -1,0 +1,87 @@
+{
+  "id": "69.20",
+  "key": "kendo_kodachi_3",
+  "title": "Kendo Kata Kodachi 3",
+  "description": "1. Uchidachi takes chudan; shidachi holds the kodachi in gedan half-facing and advances.\n2. Uchidachi cuts men; shidachi slides the blade up and then down (suriage, suri-otoshi), enters, and controls uchidachi's right upper arm with the left hand.\n3. Shidachi keeps the kodachi ready at close range as zanshin, then both release and return to the start.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Partner Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kendo Kata Kodachi 3",
+      "description": "1. Uchidachi takes chudan; shidachi holds the kodachi in gedan half-facing and advances.\n2. Uchidachi cuts men; shidachi slides the blade up and then down (suriage, suri-otoshi), enters, and controls uchidachi's right upper arm with the left hand.\n3. Shidachi keeps the kodachi ready at close range as zanshin, then both release and return to the start.",
+      "sectionTitle": "Partner Forms"
+    },
+    "es": {
+      "title": "Kendo Kata Kodachi 3",
+      "description": "1. Uchidachi toma chudan; shidachi sostiene el kodachi en gedan de medio perfil y avanza.\n2. Uchidachi corta men; shidachi desliza la hoja hacia arriba y luego hacia abajo (suriage, suri-otoshi), entra y controla el brazo superior derecho de uchidachi con la mano izquierda.\n3. Shidachi mantiene el kodachi listo a corta distancia como zanshin; luego ambos sueltan y vuelven al inicio.",
+      "sectionTitle": "Formas en pareja"
+    },
+    "pt": {
+      "title": "Kendo Kata Kodachi 3",
+      "description": "1. Uchidachi assume chudan; shidachi segura o kodachi em gedan de meio perfil e avança.\n2. Uchidachi corta men; shidachi desliza a lâmina para cima e depois para baixo (suriage, suri-otoshi), entra e controla o braço direito de uchidachi com a mão esquerda.\n3. Shidachi mantém o kodachi pronto a curta distância como zanshin; depois ambos soltam e voltam ao início.",
+      "sectionTitle": "Formas em dupla"
+    },
+    "fr": {
+      "title": "Kendo Kata Kodachi 3",
+      "description": "1. Uchidachi prend chudan ; shidachi tient le kodachi en gedan de trois-quarts et avance.\n2. Uchidachi coupe men ; shidachi fait glisser la lame vers le haut puis vers le bas (suriage, suri-otoshi), entre et contrôle le haut du bras droit d’uchidachi de la main gauche.\n3. Shidachi garde le kodachi prêt à courte distance comme zanshin, puis tous deux relâchent et reviennent au départ.",
+      "sectionTitle": "Formes à deux"
+    },
+    "de": {
+      "title": "Kendo Kata Kodachi 3",
+      "description": "1. Uchidachi nimmt Chudan; Shidachi hält das Kodachi im halbseitlichen Gedan und geht vor.\n2. Uchidachi schneidet Men; Shidachi gleitet mit der Klinge nach oben und dann nach unten (Suriage, Suri-Otoshi), tritt ein und kontrolliert mit der linken Hand Uchidachis rechten Oberarm.\n3. Shidachi hält das Kodachi auf kurzer Distanz bereit als Zanshin, dann lösen beide und kehren zum Start zurück.",
+      "sectionTitle": "Partnerformen"
+    },
+    "it": {
+      "title": "Kendo Kata Kodachi 3",
+      "description": "1. Uchidachi assume chudan; shidachi tiene il kodachi in gedan di tre quarti e avanza.\n2. Uchidachi taglia men; shidachi fa scivolare la lama verso l’alto e poi verso il basso (suriage, suri-otoshi), entra e controlla il braccio destro di uchidachi con la mano sinistra.\n3. Shidachi tiene il kodachi pronto a corta distanza come zanshin, poi entrambi lasciano e tornano all’inizio.",
+      "sectionTitle": "Forme in coppia"
+    },
+    "zh-Hans": {
+      "title": "日本剑道形 小太刀三本目",
+      "description": "1. 打太刀取中段；仕太刀以半身下段持小太刀前进。\n2. 打太刀斩面；仕太刀先擦上再擦落，入身并以左手控制打太刀右上臂。\n3. 仕太刀在近距离保持小太刀待发以示残心，然后双方松开回到起点。",
+      "sectionTitle": "对练形"
+    },
+    "ja": {
+      "title": "日本剣道形 小太刀三本目",
+      "description": "1. 打太刀は中段、仕太刀は小太刀を半身の下段にとって進みます。\n2. 打太刀が面を打ち、仕太刀はすり上げ、すり落として入り身になり、左手で打太刀の右上腕を制します。\n3. 仕太刀は近間で小太刀を構えて残心を示し、互いに離れて元の位置へ帰ります。",
+      "sectionTitle": "日本剣道形"
+    },
+    "ko": {
+      "title": "일본검도형 소태도 3본",
+      "description": "1. 우치다치는 중단, 시다치는 소태도를 반신 하단으로 잡고 나아갑니다.\n2. 우치다치가 머리를 베면 시다치는 칼을 밀어 올렸다가 밀어 떨어뜨리고(스리아게, 스리오토시) 들어가 왼손으로 우치다치의 오른쪽 위팔을 제압합니다.\n3. 시다치는 가까운 거리에서 소태도를 겨눈 채 잔심을 보이고, 둘 다 풀고 시작 위치로 돌아갑니다.",
+      "sectionTitle": "짝 형"
+    },
+    "th": {
+      "title": "เคนโดคาตะ โคดาจิ 3",
+      "description": "1. อุจิดาจิตั้งท่าชูดัง ชิดาจิถือโคดาจิในท่าเกดันแบบหันข้างครึ่งตัวแล้วเดินหน้า\n2. อุจิดาจิฟันเมน ชิดาจิไถดาบขึ้นแล้วกดลง (ซูริอาเงะ ซูริโอโตชิ) เข้าประชิด และใช้มือซ้ายควบคุมต้นแขนขวาของอุจิดาจิ\n3. ชิดาจิถือโคดาจิพร้อมในระยะใกล้แสดงซันชิน แล้วทั้งคู่ปล่อยและกลับจุดเริ่ม",
+      "sectionTitle": "ท่าร่างคู่"
+    },
+    "ru": {
+      "title": "Кэндо-ката, кодати 3",
+      "description": "1. Утидати занимает тюдан; сидати держит кодати в гэдан вполоборота и продвигается.\n2. Утидати рубит мэн; сидати скользит клинком вверх, затем вниз (суриагэ, суриотоси), входит и левой рукой контролирует правое плечо утидати.\n3. Сидати держит кодати наготове на близкой дистанции как дзансин, затем оба отпускают и возвращаются на исходную позицию.",
+      "sectionTitle": "Парные формы"
+    },
+    "uk": {
+      "title": "Кендо-ката, кодаті 3",
+      "description": "1. Утідаті займає тюдан; сідаті тримає кодаті в ґедан упівоберта й просувається.\n2. Утідаті рубає мен; сідаті ковзає клинком угору, потім униз (суріаґе, суріотосі), входить і лівою рукою контролює праве плече утідаті.\n3. Сідаті тримає кодаті напоготові на близькій дистанції як дзансін, потім обоє відпускають і повертаються на початкову позицію.",
+      "sectionTitle": "Парні форми"
+    }
+  }
+}

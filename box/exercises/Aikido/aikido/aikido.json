@@ -1,0 +1,87 @@
+{
+  "id": "43.1",
+  "key": "aikido",
+  "title": "Aikido",
+  "description": "1. Begin on mats with a trained partner in a natural stance at a safe distance, hands relaxed and ready.\n2. Practice evasive footwork, balance breaking, and the basic striking, elbow, wrist, and floating techniques with controlled breakfalls.\n3. Apply joint techniques slowly, release at a tap, and reset to distance after every technique.",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Aikido",
+      "description": "1. Begin on mats with a trained partner in a natural stance at a safe distance, hands relaxed and ready.\n2. Practice evasive footwork, balance breaking, and the basic striking, elbow, wrist, and floating techniques with controlled breakfalls.\n3. Apply joint techniques slowly, release at a tap, and reset to distance after every technique.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Aikido",
+      "description": "1. Empieza sobre tatami con un compañero entrenado en postura natural a una distancia segura, manos relajadas y listas.\n2. Practica desplazamientos evasivos, desequilibrios y las técnicas básicas de golpe, codo, muñeca y flotantes con caídas controladas.\n3. Aplica las técnicas articulares despacio, suelta ante un toque y vuelve a la distancia tras cada técnica.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Aikidô",
+      "description": "1. Comece no tatame com um parceiro treinado em postura natural a uma distância segura, mãos relaxadas e prontas.\n2. Pratique deslocamentos evasivos, desequilíbrios e as técnicas básicas de golpe, cotovelo, punho e flutuantes com quedas controladas.\n3. Aplique as técnicas articulares devagar, solte ao toque e volte à distância após cada técnica.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Aïkido",
+      "description": "1. Commencez sur tatami avec un partenaire entraîné en posture naturelle à distance sûre, mains détendues et prêtes.\n2. Travaillez les déplacements d’esquive, les déséquilibres et les techniques de base de frappe, de coude, de poignet et flottantes avec des chutes contrôlées.\n3. Appliquez lentement les clés articulaires, relâchez à la tape et revenez à distance après chaque technique.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Aikido",
+      "description": "1. Beginne auf der Matte mit einem trainierten Partner in natürlicher Haltung auf sicherer Distanz, Hände locker und bereit.\n2. Übe ausweichende Fußarbeit, Gleichgewichtsbrechen und die Grundtechniken für Stoß, Ellbogen, Handgelenk und Schweben mit kontrollierten Fallübungen.\n3. Setze Gelenktechniken langsam an, löse beim Abklopfen und kehre nach jeder Technik zur Distanz zurück.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Aikido",
+      "description": "1. Inizia sul tatami con un partner allenato in posizione naturale a distanza sicura, mani rilassate e pronte.\n2. Pratica spostamenti evasivi, squilibri e le tecniche base di colpo, gomito, polso e fluttuanti con cadute controllate.\n3. Applica lentamente le leve articolari, lascia al tap e torna in distanza dopo ogni tecnica.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "合气道",
+      "description": "1. 与训练有素的同伴在垫上以自然体站在安全距离，双手放松并准备好。\n2. 练习闪避步法、破坏平衡，以及基本的当身、肘、腕和浮技技术，配合受控的倒地。\n3. 关节技缓慢施加，对方拍垫即松开，每个技术后回到原距离。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "合気道",
+      "description": "1. 訓練を積んだ相手と畳の上で自然体に立ち、安全な間合いで手をリラックスさせて構えます。\n2. 体捌き、崩し、当身技・肘技・手首技・浮技の基本技を、制御した受身とともに稽古します。\n3. 関節技はゆっくりかけ、タップで解放し、技ごとに間合いへ戻ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "아이키도",
+      "description": "1. 훈련된 파트너와 매트 위에서 자연체로 안전한 거리를 두고 손을 편안하게 준비합니다.\n2. 회피 발놀림, 균형 무너뜨리기, 그리고 기본 아테미·팔꿈치·손목·뜨기 기술을 통제된 낙법과 함께 연습합니다.\n3. 관절기는 천천히 걸고 탭하면 풀며, 기술마다 거리로 돌아갑니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "ไอคิโด",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึกในท่ายืนธรรมชาติ ระยะปลอดภัย มือผ่อนคลายและพร้อม\n2. ฝึกการเคลื่อนเท้าหลบ การทำลายสมดุล และเทคนิคพื้นฐานกลุ่มอาเตมิ ข้อศอก ข้อมือ และอุกิ พร้อมการล้มอย่างควบคุม\n3. ใช้เทคนิคข้อต่ออย่างช้า ๆ ปล่อยเมื่อคู่ฝึกตบ และกลับสู่ระยะหลังทุกเทคนิค",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Айкидо",
+      "description": "1. Начните на татами с подготовленным партнёром в естественной стойке на безопасной дистанции, руки расслаблены и готовы.\n2. Отрабатывайте уходы, выведение из равновесия и базовые техники атэми, на локоть, на запястье и уки-вадза с контролируемыми страховками.\n3. Выполняйте болевые медленно, отпускайте при хлопке и после каждой техники возвращайтесь на дистанцию.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Айкідо",
+      "description": "1. Почніть на татамі з підготовленим партнером у природній стійці на безпечній дистанції, руки розслаблені й готові.\n2. Відпрацьовуйте ухили, виведення з рівноваги та базові техніки атемі, на лікоть, на зап’ястя й укі-вадза з контрольованими страховками.\n3. Виконуйте больові повільно, відпускайте після плеску й після кожної техніки повертайтеся на дистанцію.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "YagliGures",
+    "id": "110",
+    "icon": "YagliGures/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Yagli Gures",
+    "workoutType": "yagliGures",
+    "translations": {
+      "en": {
+        "title": "Yagli Gures"
+      },
+      "es": {
+        "title": "Lucha turca en aceite"
+      },
+      "pt": {
+        "title": "Luta turca com óleo"
+      },
+      "fr": {
+        "title": "Lutte turque à l’huile"
+      },
+      "de": {
+        "title": "Türkisches Ölringen"
+      },
+      "it": {
+        "title": "Lotta turca con l’olio"
+      },
+      "zh-Hans": {
+        "title": "土耳其油摔跤"
+      },
+      "ja": {
+        "title": "トルコ・オイルレスリング"
+      },
+      "ko": {
+        "title": "튀르키예 오일 레슬링"
+      },
+      "th": {
+        "title": "มวยปล้ำน้ำมันตุรกี"
+      },
+      "ru": {
+        "title": "Турецкая масляная борьба"
+      },
+      "uk": {
+        "title": "Турецька масляна боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "YagliGures/exercises/yagliGures/Icon.png",
+      "json": "YagliGures/exercises/yagliGures/yagliGures.json"
+    },
+    {
+      "icon": "YagliGures/exercises/pesrev/Icon.png",
+      "json": "YagliGures/exercises/pesrev/pesrev.json"
+    }
+  ]
+}

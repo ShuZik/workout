@@ -1,0 +1,87 @@
+{
+  "id": "106.13",
+  "key": "vo_co_truyen_thanh_long_doc_kiem",
+  "title": "Thanh Long Doc Kiem",
+  "description": "1. Hold the training sword in the ready position at the starting point and perform the opening salute of Thanh Long Doc Kiem.\n2. Execute the single-sword cuts, thrusts, parries and leaping turns of the form in sequence, landing balanced and keeping the blade clear of the body.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+  "colorType": "indigo",
+  "workoutType": "voCoTruyen",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Hold the training sword in the ready position at the starting point and perform the opening salute of Thanh Long Doc Kiem.\n2. Execute the single-sword cuts, thrusts, parries and leaping turns of the form in sequence, landing balanced and keeping the blade clear of the body.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Sujeta la espada de entrenamiento en posición de preparado en el punto de inicio y realiza el saludo de apertura de Thanh Long Doc Kiem.\n2. Ejecuta en secuencia los cortes, estocadas, paradas y giros saltados con una espada de la forma, aterrizando equilibrado y manteniendo la hoja lejos del cuerpo.\n3. Termina de nuevo en el punto de inicio con el saludo de cierre, devuelve el arma a la posición de preparado y mantén despejada la zona de entrenamiento.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Segure a espada de treino em posição de prontidão no ponto de partida e faça a saudação de abertura de Thanh Long Doc Kiem.\n2. Execute em sequência os cortes, estocadas, aparos e giros saltados com uma espada da forma, aterrissando equilibrado e mantendo a lâmina afastada do corpo.\n3. Termine de volta ao ponto de partida com a saudação de encerramento, recoloque a arma na posição de prontidão e mantenha a área de treino livre.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Tenez l’épée d’entraînement en position prête au point de départ et effectuez le salut d’ouverture de Thanh Long Doc Kiem.\n2. Exécutez dans l’ordre les coupes, estocs, parades et pivots sautés à l’épée seule de la forme, en retombant équilibré et en gardant la lame éloignée du corps.\n3. Terminez au point de départ par le salut de clôture, ramenez l’arme en position prête et gardez la zone d’entraînement dégagée.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Halte das Trainingsschwert am Startpunkt in Bereitschaftsposition und führe den Eröffnungsgruß von Thanh Long Doc Kiem aus.\n2. Führe die Hiebe, Stiche, Paraden und Sprungdrehungen mit dem Einzelschwert der Reihe nach aus, lande im Gleichgewicht und halte die Klinge vom Körper weg.\n3. Beende die Form wieder am Startpunkt mit dem Schlussgruß, bringe die Waffe in die Bereitschaftsposition zurück und halte den Trainingsbereich frei.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Tieni la spada da allenamento in posizione di pronto nel punto di partenza ed esegui il saluto di apertura di Thanh Long Doc Kiem.\n2. Esegui in sequenza tagli, affondi, parate e giri saltati con la spada singola della forma, atterrando in equilibrio e tenendo la lama lontana dal corpo.\n3. Concludi di nuovo nel punto di partenza con il saluto di chiusura, riporta l’arma in posizione di pronto e mantieni libera l’area di allenamento.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "青龙独剑",
+      "description": "1. 在起点以预备姿势持训练用剑，完成青龙独剑的起势礼。\n2. 按顺序完成本套路的单剑劈、刺、格挡和跳转，落地平稳，剑身远离身体。\n3. 回到起点完成收势礼，将器械收回预备位置，并保持训练区域无人无物。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. 開始位置で練習用の剣を用意の位置に構え、Thanh Long Doc Kiemの始めの礼を行います。\n2. 型の単剣による斬り、突き、受け、跳躍しての転身を順に行い、バランスよく着地し、刃を体から離して保ちます。\n3. 開始位置に戻って終わりの礼を行い、武器を用意の位置に戻し、練習スペースに人や物がない状態を保ちます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. 시작 지점에서 연습용 검을 준비 위치로 잡고 Thanh Long Doc Kiem의 시작 인사를 합니다.\n2. 품새의 외검 베기, 찌르기, 막기, 뛰어 돌기를 순서대로 수행하며 균형 있게 착지하고 칼날을 몸에서 떨어뜨립니다.\n3. 시작 지점으로 돌아와 마무리 인사를 하고 무기를 준비 위치로 되돌리며 훈련 공간을 비워 둡니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. ถือดาบฝึกในท่าเตรียมที่จุดเริ่มต้น แล้วทำความเคารพเปิดของ Thanh Long Doc Kiem\n2. ทำการฟัน แทง ปัด และกระโดดหมุนตัวด้วยดาบเดี่ยวของท่ารำตามลำดับ ลงพื้นอย่างสมดุลและให้ใบดาบห่างจากลำตัว\n3. จบที่จุดเริ่มต้นด้วยการทำความเคารพปิด นำอาวุธกลับสู่ท่าเตรียม และรักษาพื้นที่ฝึกให้โล่ง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Держите учебный меч в готовой позиции в исходной точке и выполните начальное приветствие формы Thanh Long Doc Kiem.\n2. Выполняйте по порядку рубящие и колющие удары, парирования и повороты в прыжке с одиночным мечом, приземляясь устойчиво и держа клинок вдали от тела.\n3. Завершите в исходной точке заключительным приветствием, верните оружие в готовую позицию и следите, чтобы зона тренировки оставалась свободной.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Thanh Long Doc Kiem",
+      "description": "1. Тримайте навчальний меч у готовій позиції у вихідній точці й виконайте початкове привітання форми Thanh Long Doc Kiem.\n2. Виконуйте по черзі рублячі й колючі удари, парирування та повороти в стрибку з одиночним мечем, приземляючись стійко й тримаючи клинок подалі від тіла.\n3. Завершіть у вихідній точці заключним привітанням, поверніть зброю в готову позицію та стежте, щоб зона тренування залишалася вільною.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

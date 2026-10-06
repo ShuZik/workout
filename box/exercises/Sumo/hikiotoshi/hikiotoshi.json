@@ -1,0 +1,87 @@
+{
+  "id": "97.15",
+  "key": "sumo_hikiotoshi",
+  "title": "Hikiotoshi",
+  "description": "1. As the partner pushes forward, grip the partner's arm or shoulder and step back and to the side.\n2. Pull the partner forward and down in the direction of the charge while keeping your own balance.\n3. Let the partner fall forward onto the hands on padding and release before resetting.",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Hikiotoshi",
+      "description": "1. As the partner pushes forward, grip the partner's arm or shoulder and step back and to the side.\n2. Pull the partner forward and down in the direction of the charge while keeping your own balance.\n3. Let the partner fall forward onto the hands on padding and release before resetting.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Hikiotoshi",
+      "description": "1. Cuando el compañero empuje hacia delante, agarra su brazo u hombro y da un paso atrás y al lado.\n2. Tira del compañero hacia delante y abajo en la dirección de su carga sin perder tu equilibrio.\n3. Deja que caiga hacia delante sobre las manos en el acolchado y suelta antes de reiniciar.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Hikiotoshi",
+      "description": "1. Quando o parceiro empurrar para a frente, segure o braço ou o ombro dele e dê um passo para trás e para o lado.\n2. Puxe o parceiro para a frente e para baixo na direção da investida, mantendo seu equilíbrio.\n3. Deixe-o cair para a frente sobre as mãos no acolchoado e solte antes de recomeçar.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Hikiotoshi",
+      "description": "1. Quand le partenaire pousse vers l’avant, saisissez son bras ou son épaule et reculez en diagonale sur le côté.\n2. Tirez le partenaire vers l’avant et le bas dans le sens de sa charge en gardant votre équilibre.\n3. Laissez-le tomber vers l’avant sur les mains sur le rembourrage et lâchez avant de repartir.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Hikiotoshi",
+      "description": "1. Schiebt der Partner nach vorn, greife seinen Arm oder seine Schulter und tritt zurück und zur Seite.\n2. Ziehe den Partner in Richtung seines Ansturms nach vorn und unten, ohne dein Gleichgewicht zu verlieren.\n3. Lass ihn auf der weichen Unterlage nach vorn auf die Hände fallen und löse den Griff vor dem Neustart.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Hikiotoshi",
+      "description": "1. Quando il partner spinge in avanti, afferra il suo braccio o la spalla e fai un passo indietro e di lato.\n2. Tira il partner in avanti e in basso nella direzione della carica mantenendo il tuo equilibrio.\n3. Lascialo cadere in avanti sulle mani sull’imbottitura e lascia la presa prima di ripartire.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "引落",
+      "description": "1. 同伴向前推时，抓住其手臂或肩部，向后侧方撤步。\n2. 顺着对方冲击方向把同伴向前向下拉，同时保持自身平衡。\n3. 让对方向前倒在软垫上用手撑地，重新开始前先松手。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "引き落とし",
+      "description": "1. 相手が前へ押してきたら、腕か肩をつかんで後ろ横へ足を引きます。\n2. 自分のバランスを保ちながら、相手の出る方向へ前下方に引き落とします。\n3. 相手がマットに前から手をついたら、仕切り直す前に手を離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "히키오토시",
+      "description": "1. 파트너가 앞으로 밀면 팔이나 어깨를 잡고 뒤 옆으로 물러섭니다.\n2. 자신의 균형을 유지하며 상대가 밀고 오는 방향으로 앞아래로 당깁니다.\n3. 상대가 매트 위에 앞으로 손을 짚으며 넘어지게 하고, 다시 시작하기 전에 놓습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฮิกิโอโตชิ",
+      "description": "1. เมื่อคู่ฝึกดันมาข้างหน้า จับแขนหรือไหล่แล้วก้าวถอยไปด้านข้าง\n2. ดึงคู่ฝึกไปข้างหน้าและลงล่างตามทิศทางที่พุ่งมา โดยรักษาสมดุลของตัวเอง\n3. ให้คู่ฝึกล้มไปข้างหน้าเอามือยันบนพื้นบุนุ่ม และปล่อยก่อนเริ่มใหม่",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Хикиотоси",
+      "description": "1. Когда партнёр давит вперёд, возьмите его за руку или плечо и шагните назад и в сторону.\n2. Потяните партнёра вперёд и вниз по направлению его натиска, сохраняя своё равновесие.\n3. Дайте ему упасть вперёд на руки на мягкое покрытие и отпустите перед новым началом.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Хікіотосі",
+      "description": "1. Коли партнер тисне вперед, візьміть його за руку чи плече й ступіть назад і вбік.\n2. Потягніть партнера вперед і вниз у напрямку його натиску, зберігаючи власну рівновагу.\n3. Дайте йому впасти вперед на руки на м’яке покриття й відпустіть перед новим початком.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

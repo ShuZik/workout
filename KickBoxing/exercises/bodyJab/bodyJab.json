@@ -1,0 +1,90 @@
+{
+  "id": "3.31",
+  "key": "kick_boxing_body_jab",
+  "title": "Body Jab",
+  "description": "1. From guard, lower with the knees while keeping the back upright and rear hand at the cheek.\n2. Send the lead fist straight into the torso line with the head slightly outside the centerline.\n3. Retract the fist before rising and recover a kick-ready stance and guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Body Jab",
+      "description": "1. From guard, lower with the knees while keeping the back upright and rear hand at the cheek.\n2. Send the lead fist straight into the torso line with the head slightly outside the centerline.\n3. Retract the fist before rising and recover a kick-ready stance and guard.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Jab al cuerpo",
+      "description": "1. Desde la guardia, baja flexionando las rodillas con la espalda erguida y la mano trasera junto a la mejilla.\n2. Envía el puño delantero recto hacia el torso con la cabeza ligeramente fuera de la línea central.\n3. Retira el puño antes de subir y recupera la postura y la guardia preparadas para patear.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Jab no corpo",
+      "description": "1. Na guarda, abaixe flexionando os joelhos com as costas eretas e a mão de trás na bochecha.\n2. Envie o punho da frente reto à linha do tronco com a cabeça ligeiramente fora da linha central.\n3. Recolha o punho antes de subir e recupere a base e a guarda prontas para chutar.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Jab au corps",
+      "description": "1. En garde, abaissez-vous avec les genoux, dos droit et main arrière à la joue.\n2. Envoyez le poing avant droit vers le buste avec la tête légèrement hors de l’axe central.\n3. Ramenez le poing avant de vous relever et retrouvez une position et une garde prêtes à donner un coup de pied.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Jab zum Körper",
+      "description": "1. Senke dich aus der Deckung durch Beugen der Knie, mit aufrechtem Rücken und hinterer Hand an der Wange.\n2. Stoße die vordere Faust gerade zum Oberkörper, mit dem Kopf leicht außerhalb der Mittellinie.\n3. Ziehe die Faust vor dem Aufrichten zurück und stelle Stand und Deckung für einen Tritt wieder her.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Jab al corpo",
+      "description": "1. Dalla guardia, abbassati piegando le ginocchia con la schiena eretta e la mano posteriore alla guancia.\n2. Invia il pugno anteriore diritto verso il busto con la testa leggermente fuori dalla linea centrale.\n3. Ritira il pugno prima di risalire e recupera posizione e guardia pronte per calciare.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "击身刺拳",
+      "description": "1. 从防守姿势开始，屈膝降低身体，背部保持直立，后手位于脸颊旁。\n2. 前拳直线打向躯干线，头部略偏离中线。\n3. 起身前先收拳，再恢复随时可踢击的站姿和防守。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ボディジャブ",
+      "description": "1. ガードから膝で体を下げ、背中を起こし後ろ手を頬に保ちます。\n2. 頭を中心線から少し外し、前の拳を胴体のラインへまっすぐ出します。\n3. 起き上がる前に拳を戻し、蹴れる構えとガードを取り戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "보디 잽",
+      "description": "1. 가드에서 무릎을 굽혀 몸을 낮추고 등을 세우며 뒷손을 볼 옆에 둡니다.\n2. 머리를 중앙선에서 약간 벗어나게 하고 앞손 주먹을 몸통 선으로 곧게 보냅니다.\n3. 일어나기 전에 주먹을 거두고 발차기를 할 수 있는 자세와 가드를 회복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "แย็บลำตัว",
+      "description": "1. จากท่าการ์ด ย่อตัวด้วยเข่า โดยหลังตั้งตรงและมือหลังอยู่ข้างแก้ม\n2. ส่งหมัดหน้าตรงเข้าหาแนวลำตัว โดยศีรษะอยู่นอกเส้นกึ่งกลางเล็กน้อย\n3. ดึงหมัดกลับก่อนยกตัวขึ้น แล้วคืนท่ายืนและการ์ดที่พร้อมเตะ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Джеб в корпус",
+      "description": "1. Из защиты опуститесь за счёт коленей, сохраняя спину вертикальной и заднюю руку у щеки.\n2. Направьте передний кулак прямо в линию корпуса, слегка сместив голову с центральной линии.\n3. Уберите кулак до подъёма и восстановите стойку и защиту, готовые к удару ногой.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Джеб у корпус",
+      "description": "1. Із захисту опустіться за рахунок колін, зберігаючи спину вертикальною й задню руку біля щоки.\n2. Спрямуйте передній кулак прямо в лінію корпуса, злегка змістивши голову з центральної лінії.\n3. Приберіть кулак до підйому й відновіть стійку та захист, готові до удару ногою.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

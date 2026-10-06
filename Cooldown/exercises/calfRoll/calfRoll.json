@@ -1,0 +1,90 @@
+{
+  "id": "10.16",
+  "key": "foam_rolling_calf_roll",
+  "title": "Calf Roll",
+  "description": "1. Sit with a foam roller under one calf, hands behind the body, and the other foot on the floor for support.\n2. Lift the hips slightly and roll from above the ankle to below the knee.\n3. Turn the leg gently inward and outward to cover the calf, pausing on tender areas without pressing sharply.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Release Work",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Calf Roll",
+      "description": "1. Sit with a foam roller under one calf, hands behind the body, and the other foot on the floor for support.\n2. Lift the hips slightly and roll from above the ankle to below the knee.\n3. Turn the leg gently inward and outward to cover the calf, pausing on tender areas without pressing sharply.",
+      "sectionTitle": "Release Work"
+    },
+    "es": {
+      "title": "Rodaje de pantorrilla",
+      "description": "1. Siéntate con un rodillo de espuma bajo una pantorrilla, las manos detrás del cuerpo y el otro pie en el suelo como apoyo.\n2. Eleva ligeramente las caderas y rueda desde encima del tobillo hasta debajo de la rodilla.\n3. Gira suavemente la pierna hacia dentro y fuera para cubrir la pantorrilla, pausando en zonas sensibles sin presionar bruscamente.",
+      "sectionTitle": "Liberación muscular"
+    },
+    "pt": {
+      "title": "Rolamento da panturrilha",
+      "description": "1. Sente-se com um rolo de espuma sob uma panturrilha, as mãos atrás do corpo e o outro pé no chão para apoio.\n2. Eleve levemente o quadril e role desde acima do tornozelo até abaixo do joelho.\n3. Gire a perna suavemente para dentro e para fora para cobrir a panturrilha, pausando nas áreas sensíveis sem pressionar bruscamente.",
+      "sectionTitle": "Liberação muscular"
+    },
+    "fr": {
+      "title": "Automassage du mollet au rouleau",
+      "description": "1. Asseyez-vous avec un rouleau en mousse sous un mollet, les mains derrière le corps et l’autre pied au sol comme appui.\n2. Soulevez légèrement les hanches et roulez depuis le dessus de la cheville jusqu’en dessous du genou.\n3. Tournez doucement la jambe vers l’intérieur et l’extérieur pour couvrir le mollet, en faisant une pause sur les zones sensibles sans pression brusque.",
+      "sectionTitle": "Relâchement musculaire"
+    },
+    "de": {
+      "title": "Wadenrollen",
+      "description": "1. Sitze mit einer Schaumstoffrolle unter einer Wade, den Händen hinter dem Körper und dem anderen Fuß zur Unterstützung am Boden.\n2. Hebe die Hüfte leicht und rolle von oberhalb des Knöchels bis unterhalb des Knies.\n3. Drehe das Bein sanft nach innen und außen, um die Wade abzudecken, und pausiere an empfindlichen Stellen, ohne stark zu drücken.",
+      "sectionTitle": "Muskelentspannung"
+    },
+    "it": {
+      "title": "Massaggio del polpaccio con rullo",
+      "description": "1. Siediti con un rullo di schiuma sotto un polpaccio, le mani dietro il corpo e l’altro piede a terra come sostegno.\n2. Solleva leggermente il bacino e fai scorrere il polpaccio da sopra la caviglia a sotto il ginocchio.\n3. Ruota delicatamente la gamba verso l’interno e l’esterno per coprire il polpaccio, fermandoti sulle zone sensibili senza premere bruscamente.",
+      "sectionTitle": "Rilascio muscolare"
+    },
+    "zh-Hans": {
+      "title": "小腿滚压",
+      "description": "1. 坐下，将泡沫滚轴放在一侧小腿下方，双手放在身后，另一只脚踩地支撑。\n2. 稍抬髋部，从脚踝上方滚到膝盖下方。\n3. 轻轻将腿向内、向外转动以覆盖小腿，在敏感部位停顿，不要猛压。",
+      "sectionTitle": "肌肉放松"
+    },
+    "ja": {
+      "title": "ふくらはぎローリング",
+      "description": "1. 片方のふくらはぎの下にフォームローラーを置いて座り、手を体の後ろに置き、反対の足を床につけて支えます。\n2. 腰を少し持ち上げ、足首の上から膝の下まで転がします。\n3. 脚を優しく内外に回してふくらはぎ全体をほぐし、敏感な部位で止めても強く押し込まないようにします。",
+      "sectionTitle": "筋肉のリリース"
+    },
+    "ko": {
+      "title": "종아리 롤링",
+      "description": "1. 한쪽 종아리 아래에 폼롤러를 두고 앉아 손을 몸 뒤에 놓고 반대쪽 발을 바닥에 대어 지지합니다.\n2. 골반을 살짝 들고 발목 위부터 무릎 아래까지 굴립니다.\n3. 종아리 전체를 다루도록 다리를 안팎으로 부드럽게 돌리고 민감한 부위에서 잠시 멈추되 세게 누르지 않습니다.",
+      "sectionTitle": "근육 이완"
+    },
+    "th": {
+      "title": "การกลิ้งคลายกล้ามเนื้อน่อง",
+      "description": "1. นั่งวางลูกกลิ้งโฟมใต้น่องข้างหนึ่ง มืออยู่หลังลำตัว และเท้าอีกข้างวางบนพื้นเพื่อรองรับ\n2. ยกสะโพกเล็กน้อยแล้วกลิ้งจากเหนือข้อเท้าไปถึงใต้เข่า\n3. หมุนขาเข้าและออกเบา ๆ เพื่อครอบคลุมน่อง หยุดพักบนบริเวณที่ไวต่อแรงกดโดยไม่กดแรงฉับพลัน",
+      "sectionTitle": "การคลายกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Прокатывание икроножных мышц",
+      "description": "1. Сядьте с пенным роликом под одной икрой, поставьте руки позади тела, а другую стопу на пол для поддержки.\n2. Слегка поднимите таз и прокатывайте от участка выше лодыжки до участка ниже колена.\n3. Мягко поворачивайте ногу внутрь и наружу, охватывая икру, и задерживайтесь на чувствительных участках без резкого давления.",
+      "sectionTitle": "Расслабление мышц"
+    },
+    "uk": {
+      "title": "Прокочування литкових м’язів",
+      "description": "1. Сядьте з пінним роликом під однією литкою, поставте руки позаду тіла, а іншу стопу на підлогу для підтримки.\n2. Злегка підніміть таз і прокочуйте від ділянки вище щиколотки до ділянки нижче коліна.\n3. М’яко повертайте ногу всередину й назовні, охоплюючи литку, і затримуйтеся на чутливих ділянках без різкого тиску.",
+      "sectionTitle": "Розслаблення м’язів"
+    }
+  }
+}

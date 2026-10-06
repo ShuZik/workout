@@ -1,0 +1,90 @@
+{
+  "id": "9.11",
+  "key": "hip_circles",
+  "title": "Hip Circles",
+  "description": "1. Stand with feet wider than hip width, knees soft, and hands on the hips.\n2. Move the hips forward, to one side, back, and to the other side to trace a smooth circle.\n3. Complete equal circles in both directions while the feet remain planted.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.8,
+    "vigorous": 3.8,
+    "lightCode": "02101",
+    "moderateCode": "02024",
+    "vigorousCode": "02022"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hip Circles",
+      "description": "1. Stand with feet wider than hip width, knees soft, and hands on the hips.\n2. Move the hips forward, to one side, back, and to the other side to trace a smooth circle.\n3. Complete equal circles in both directions while the feet remain planted.",
+      "sectionTitle": "Joint Mobility"
+    },
+    "es": {
+      "title": "Círculos de caderas",
+      "description": "1. Ponte de pie con los pies más separados que la anchura de las caderas, las rodillas ligeramente flexionadas y las manos en las caderas.\n2. Mueve las caderas hacia delante, hacia un lado, hacia atrás y hacia el otro lado para trazar un círculo fluido.\n3. Haz el mismo número de círculos en ambas direcciones sin despegar los pies del suelo.",
+      "sectionTitle": "Movilidad articular"
+    },
+    "pt": {
+      "title": "Círculos dos quadris",
+      "description": "1. Fique em pé com os pés mais afastados que a largura dos quadris, os joelhos levemente flexionados e as mãos nos quadris.\n2. Mova os quadris para a frente, para um lado, para trás e para o outro lado, traçando um círculo suave.\n3. Faça a mesma quantidade de círculos nas duas direções, mantendo os pés apoiados.",
+      "sectionTitle": "Mobilidade articular"
+    },
+    "fr": {
+      "title": "Cercles des hanches",
+      "description": "1. Tenez-vous debout, les pieds plus écartés que la largeur des hanches, les genoux souples et les mains sur les hanches.\n2. Déplacez les hanches vers l’avant, d’un côté, vers l’arrière et de l’autre côté pour tracer un cercle fluide.\n3. Faites autant de cercles dans les deux sens en gardant les pieds au sol.",
+      "sectionTitle": "Mobilité articulaire"
+    },
+    "de": {
+      "title": "Hüftkreisen",
+      "description": "1. Stehe mit den Füßen weiter als hüftbreit auseinander, leicht gebeugten Knien und den Händen an den Hüften.\n2. Bewege die Hüften nach vorne, zur Seite, nach hinten und zur anderen Seite, um einen gleichmäßigen Kreis zu beschreiben.\n3. Führe in beide Richtungen gleich viele Kreise aus und lasse die Füße am Boden.",
+      "sectionTitle": "Gelenkbeweglichkeit"
+    },
+    "it": {
+      "title": "Circonduzioni del bacino",
+      "description": "1. Stai in piedi con i piedi più larghi delle anche, le ginocchia morbide e le mani sui fianchi.\n2. Muovi il bacino in avanti, da un lato, indietro e dall’altro lato per tracciare un cerchio fluido.\n3. Esegui lo stesso numero di cerchi in entrambe le direzioni mantenendo i piedi appoggiati.",
+      "sectionTitle": "Mobilità articolare"
+    },
+    "zh-Hans": {
+      "title": "髋部绕环",
+      "description": "1. 双脚站距宽于髋部，膝盖微屈，双手放在髋部。\n2. 髋部向前、向一侧、向后、向另一侧移动，画出平滑的圆圈。\n3. 两个方向做相同数量的绕环，双脚始终稳稳贴地。",
+      "sectionTitle": "关节活动"
+    },
+    "ja": {
+      "title": "腰回し",
+      "description": "1. 足を腰幅より広く開き、膝を軽く緩め、手を腰に当てて立ちます。\n2. 腰を前、片側、後ろ、反対側へ動かし、滑らかな円を描きます。\n3. 足を床につけたまま、両方向に同じ回数ずつ回します。",
+      "sectionTitle": "関節の可動性"
+    },
+    "ko": {
+      "title": "엉덩이 돌리기",
+      "description": "1. 발을 엉덩이 너비보다 넓게 벌리고 무릎을 부드럽게 굽힌 채 손을 엉덩이에 둡니다.\n2. 엉덩이를 앞으로, 한쪽 옆으로, 뒤로, 반대쪽 옆으로 움직이며 부드러운 원을 그립니다.\n3. 발을 바닥에 붙인 채 양방향으로 같은 횟수만큼 원을 그립니다.",
+      "sectionTitle": "관절 가동성"
+    },
+    "th": {
+      "title": "หมุนสะโพก",
+      "description": "1. ยืนแยกเท้ากว้างกว่าสะโพก งอเข่าเล็กน้อย และวางมือบนสะโพก\n2. เคลื่อนสะโพกไปด้านหน้า ด้านหนึ่ง ด้านหลัง และอีกด้าน เพื่อวาดวงกลมอย่างราบรื่น\n3. หมุนทั้งสองทิศทางเท่ากัน โดยให้เท้ายังคงติดพื้น",
+      "sectionTitle": "การเคลื่อนไหวข้อต่อ"
+    },
+    "ru": {
+      "title": "Круги тазом",
+      "description": "1. Встаньте, расставив стопы шире таза, слегка смягчив колени и положив руки на бёдра.\n2. Перемещайте таз вперёд, в одну сторону, назад и в другую сторону, описывая плавный круг.\n3. Выполняйте одинаковое количество кругов в обе стороны, не отрывая стопы от пола.",
+      "sectionTitle": "Подвижность суставов"
+    },
+    "uk": {
+      "title": "Колові рухи тазом",
+      "description": "1. Станьте, розставивши стопи ширше таза, злегка пом’якшивши коліна та поклавши руки на стегна.\n2. Переміщуйте таз уперед, в один бік, назад і в інший бік, описуючи плавне коло.\n3. Виконуйте однакову кількість кіл в обидва боки, не відриваючи стопи від підлоги.",
+      "sectionTitle": "Рухливість суглобів"
+    }
+  }
+}

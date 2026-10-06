@@ -1,0 +1,90 @@
+{
+  "id": "13.71",
+  "key": "functional_bodyweight_squat",
+  "title": "Bodyweight Squat",
+  "description": "1. Stand with the feet about shoulder-width apart, toes turned slightly out, and weight spread across each whole foot.\n2. Push the hips back and down while the knees track in the same direction as the toes and the chest stays lifted.\n3. Drive through the whole feet to extend the knees and hips, finishing upright without locking the knees backward.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bodyweight Squat",
+      "description": "1. Stand with the feet about shoulder-width apart, toes turned slightly out, and weight spread across each whole foot.\n2. Push the hips back and down while the knees track in the same direction as the toes and the chest stays lifted.\n3. Drive through the whole feet to extend the knees and hips, finishing upright without locking the knees backward.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Sentadilla con peso corporal",
+      "description": "1. Ponte de pie con los pies aproximadamente al ancho de los hombros, las puntas ligeramente hacia fuera y el peso repartido por todo el pie.\n2. Lleva las caderas atrás y abajo mientras las rodillas siguen la misma dirección que los dedos y el pecho se mantiene elevado.\n3. Empuja con todo el pie para extender rodillas y caderas y termina erguido sin bloquear las rodillas hacia atrás.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Agachamento com peso corporal",
+      "description": "1. Fique em pé com os pés aproximadamente na largura dos ombros, as pontas levemente para fora e o peso distribuído por todo o pé.\n2. Leve o quadril para trás e para baixo enquanto os joelhos seguem a mesma direção dos dedos e o peito permanece elevado.\n3. Empurre o chão com os pés inteiros para estender os joelhos e o quadril e termine em pé sem travar os joelhos para trás.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Squat au poids du corps",
+      "description": "1. Tenez-vous debout, pieds écartés environ à largeur d’épaules, pointes légèrement ouvertes et poids réparti sur tout le pied.\n2. Poussez les hanches vers l’arrière et le bas pendant que les genoux suivent la direction des orteils et que la poitrine reste haute.\n3. Poussez sur l’ensemble des pieds pour tendre genoux et hanches et terminez debout sans verrouiller les genoux en arrière.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Kniebeuge mit Körpergewicht",
+      "description": "1. Stelle dich mit etwa schulterbreiten Füßen hin, Zehen leicht nach außen und das Gewicht über den ganzen Fuß verteilt.\n2. Schiebe die Hüfte nach hinten unten, während die Knie in Richtung der Zehen zeigen und die Brust aufgerichtet bleibt.\n3. Drücke dich über die ganzen Füße hoch, strecke Knie und Hüfte und beende aufrecht, ohne die Knie nach hinten durchzudrücken.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Squat a corpo libero",
+      "description": "1. Resta in piedi con i piedi circa alla larghezza delle spalle, le punte leggermente in fuori e il peso distribuito su tutta la pianta.\n2. Porta le anche indietro e in basso mentre le ginocchia seguono la direzione delle dita e il petto resta alto.\n3. Spingi con tutta la pianta dei piedi per estendere ginocchia e anche e concludi in piedi senza bloccare le ginocchia all’indietro.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "徒手深蹲",
+      "description": "1. 站立，双脚约与肩同宽，脚尖略向外，体重均匀分布在整个脚掌。\n2. 髋部向后向下坐，膝盖与脚尖朝同一方向，胸部保持挺起。\n3. 全脚掌发力伸展膝盖和髋部，站直结束，膝盖不要向后锁死。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "自重スクワット",
+      "description": "1. 足を肩幅程度に開き、つま先をやや外に向け、足裏全体に体重を分散させて立ちます。\n2. 胸を張ったまま、膝をつま先と同じ方向に向けて腰を後ろ下方へ引きます。\n3. 足裏全体で押して膝と股関節を伸ばし、膝を後ろにロックせずにまっすぐ立ちます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "맨몸 스쿼트",
+      "description": "1. 발을 어깨너비 정도로 벌리고 발끝을 살짝 바깥으로 향하게 하며 체중을 발 전체에 고르게 둡니다.\n2. 무릎이 발가락과 같은 방향을 향하고 가슴을 든 채 엉덩이를 뒤아래로 보냅니다.\n3. 발 전체로 밀어 무릎과 엉덩이를 펴고 무릎을 뒤로 잠그지 않고 똑바로 서서 마칩니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "สควอตด้วยน้ำหนักตัว",
+      "description": "1. ยืนแยกเท้าประมาณความกว้างไหล่ ปลายเท้าชี้ออกเล็กน้อย และกระจายน้ำหนักทั่วทั้งฝ่าเท้า\n2. ดันสะโพกไปด้านหลังและลง ขณะที่เข่าชี้ไปทางเดียวกับนิ้วเท้าและยกอกไว้\n3. ดันผ่านเท้าทั้งฝ่าเพื่อเหยียดเข่าและสะโพก จบในท่ายืนตรงโดยไม่ล็อกเข่าไปด้านหลัง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Приседание с собственным весом",
+      "description": "1. Встаньте, стопы примерно на ширине плеч, носки слегка развёрнуты наружу, вес распределён по всей стопе.\n2. Отводите таз назад и вниз, направляя колени в ту же сторону, что и носки, и держа грудь поднятой.\n3. Оттолкнитесь всей стопой, разгибая колени и таз, и выпрямитесь, не переразгибая колени назад.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Присідання з власною вагою",
+      "description": "1. Станьте, стопи приблизно на ширині плечей, носки злегка розвернуті назовні, вага розподілена по всій стопі.\n2. Відводьте таз назад і вниз, спрямовуючи коліна в той самий бік, що й носки, і тримаючи груди піднятими.\n3. Відштовхніться всією стопою, розгинаючи коліна й таз, і випряміться, не перерозгинаючи коліна назад.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

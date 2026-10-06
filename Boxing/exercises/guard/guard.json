@@ -1,0 +1,91 @@
+{
+  "id": "1.43",
+  "key": "boxing_guard",
+  "title": "Guard",
+  "description": "1. Set a balanced boxing stance with the chin lowered and eyes looking forward beneath the brow.\n2. Hold the rear fist beside the cheek, the lead fist slightly forward, and both elbows close enough to protect the ribs.\n3. Move, punch, and defend without letting the hands drift down, returning each hand to its assigned position.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Guard",
+      "description": "1. Set a balanced boxing stance with the chin lowered and eyes looking forward beneath the brow.\n2. Hold the rear fist beside the cheek, the lead fist slightly forward, and both elbows close enough to protect the ribs.\n3. Move, punch, and defend without letting the hands drift down, returning each hand to its assigned position.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Guardia",
+      "description": "1. Adopta una postura de boxeo equilibrada, baja el mentón y mira al frente bajo las cejas.\n2. Mantén el puño trasero junto a la mejilla, el delantero algo adelantado y ambos codos lo bastante cerca para proteger las costillas.\n3. Muévete, golpea y defiende sin bajar las manos, devolviendo cada una a su posición.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Guarda",
+      "description": "1. Adote uma base de boxe equilibrada, baixe o queixo e olhe à frente por baixo das sobrancelhas.\n2. Mantenha o punho de trás junto à bochecha, o da frente um pouco adiante e os cotovelos próximos para proteger as costelas.\n3. Mova-se, golpeie e defenda sem deixar as mãos baixar, devolvendo cada uma à sua posição.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Garde",
+      "description": "1. Prenez une position de boxe équilibrée, menton baissé, et regardez devant vous sous les sourcils.\n2. Gardez le poing arrière près de la joue, le poing avant légèrement avancé et les coudes assez proches pour protéger les côtes.\n3. Déplacez-vous, frappez et défendez sans laisser descendre les mains, en ramenant chacune à sa place.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Deckung",
+      "description": "1. Nimm einen ausgewogenen Boxstand ein, senke das Kinn und schaue unter den Brauen nach vorn.\n2. Halte die hintere Faust neben der Wange, die vordere etwas weiter vorn und beide Ellbogen nah genug, um die Rippen zu schützen.\n3. Bewege dich, schlage und wehre ab, ohne die Hände sinken zu lassen; bringe jede Hand an ihre Position zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Guardia",
+      "description": "1. Assumi una posizione di pugilato equilibrata, abbassa il mento e guarda avanti sotto l’arcata sopracciliare.\n2. Tieni il pugno posteriore accanto alla guancia, l’anteriore un poco avanti e i gomiti abbastanza vicini da proteggere le costole.\n3. Muoviti, colpisci e difendi senza abbassare le mani, riportando ognuna nella sua posizione.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "防守姿势",
+      "description": "1. 保持平衡的拳击站姿，低头收下巴，从眉下向前看。\n2. 后拳置于脸颊旁，前拳略向前，双肘贴近身体以保护肋骨。\n3. 移动、出拳和防守时不要让手下落，每只手都回到各自的位置。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ガード",
+      "description": "1. バランスのよいボクシングの構えで顎を下げ、眉の下から前を見ます。\n2. 後ろの拳を頬の横、前の拳を少し前に置き、肋骨を守れるよう両肘を体に近づけます。\n3. 動き、打ち、防御する間も手を下げず、各手を所定の位置へ戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "가드",
+      "description": "1. 균형 잡힌 복싱 자세를 잡고 턱을 낮추어 눈썹 아래로 앞을 봅니다.\n2. 뒷주먹은 뺨 옆에, 앞주먹은 조금 앞으로 두고 양 팔꿈치를 가까이 모아 갈비뼈를 보호합니다.\n3. 이동, 펀치, 방어 중 손이 내려가지 않게 하며 각각 제자리로 되돌립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "การ์ด",
+      "description": "1. จัดท่ายืนมวยสากลให้สมดุล ลดคางและมองตรงไปใต้แนวคิ้ว\n2. วางหมัดหลังข้างแก้ม หมัดหน้ายื่นเล็กน้อย และเก็บศอกทั้งสองใกล้ตัวพอที่จะป้องกันซี่โครง\n3. เคลื่อนที่ ออกหมัด และป้องกันโดยไม่ปล่อยให้มือตก คืนมือแต่ละข้างสู่ตำแหน่งของมัน",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Защита",
+      "description": "1. Примите устойчивую боксёрскую стойку, опустите подбородок и смотрите вперёд из-под бровей.\n2. Держите задний кулак у щеки, передний чуть впереди, а оба локтя достаточно близко к телу для защиты рёбер.\n3. Двигайтесь, наносите удары и защищайтесь, не опуская руки и возвращая каждую на своё место.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Захист",
+      "description": "1. Прийміть стійку боксерську позицію, опустіть підборіддя й дивіться вперед з-під брів.\n2. Тримайте задній кулак біля щоки, передній трохи попереду, а обидва лікті досить близько до тіла для захисту ребер.\n3. Рухайтеся, завдавайте ударів і захищайтеся, не опускаючи руки та повертаючи кожну на своє місце.",
+      "sectionTitle": "База"
+    }
+  }
+}

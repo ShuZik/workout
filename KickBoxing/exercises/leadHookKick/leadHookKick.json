@@ -1,0 +1,90 @@
+{
+  "id": "3.26",
+  "key": "kick_boxing_lead_hook_kick",
+  "title": "Lead Hook Kick",
+  "description": "1. Shift weight to the rear leg and chamber the lead knee as for a side kick.\n2. Extend the lead foot slightly past the target, then bend the knee and whip the heel across the target line.\n3. Retract to the chamber and lower the lead foot into stance with the guard restored.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Advanced",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Hook Kick",
+      "description": "1. Shift weight to the rear leg and chamber the lead knee as for a side kick.\n2. Extend the lead foot slightly past the target, then bend the knee and whip the heel across the target line.\n3. Retract to the chamber and lower the lead foot into stance with the guard restored.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Patada de gancho delantera",
+      "description": "1. Pasa el peso a la pierna trasera y recoge la rodilla delantera como para una patada lateral.\n2. Extiende el pie delantero un poco más allá del objetivo y luego flexiona la rodilla y azota el talón a través de la línea del objetivo.\n3. Recoge a la posición de carga y baja el pie delantero a la postura con la guardia recuperada.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Chute de gancho da frente",
+      "description": "1. Passe o peso para a perna de trás e recolha o joelho da frente como num chute lateral.\n2. Estenda o pé da frente um pouco além do alvo, depois flexione o joelho e chicoteie o calcanhar através da linha do alvo.\n3. Recolha à posição de carga e baixe o pé da frente à base com a guarda recuperada.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Crochet de pied avant",
+      "description": "1. Transférez le poids sur la jambe arrière et armez le genou avant comme pour un coup de pied latéral.\n2. Dépliez le pied avant légèrement au-delà de la cible, puis fléchissez le genou et fouettez le talon à travers la ligne de la cible.\n3. Revenez en armé et reposez le pied avant en garde, mains replacées.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Vorderer Hakentritt",
+      "description": "1. Verlagere das Gewicht auf das hintere Bein und ziehe das vordere Knie wie für einen Seitwärtstritt auf.\n2. Strecke den vorderen Fuß etwas am Ziel vorbei, beuge dann das Knie und peitsche die Ferse quer durch die Ziellinie.\n3. Ziehe in die Aufzugsposition zurück und setze den vorderen Fuß mit wiederhergestellter Deckung in die Stellung.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Calcio a uncino anteriore",
+      "description": "1. Sposta il peso sulla gamba posteriore e carica il ginocchio anteriore come per un calcio laterale.\n2. Distendi il piede anteriore poco oltre il bersaglio, poi piega il ginocchio e frusta il tallone attraverso la linea del bersaglio.\n3. Torna in caricamento e appoggia il piede anteriore in posizione con la guardia ripristinata.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "前腿勾踢",
+      "description": "1. 重心移到后腿，像侧踹一样收起前膝。\n2. 前脚伸出略超过目标，然后屈膝，脚跟横向鞭打过目标线。\n3. 收回提膝位置，前脚落回站姿并恢复防守。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "前足のフックキック",
+      "description": "1. 後ろ脚に体重を移し、横蹴りと同じように前の膝を抱え込みます。\n2. 前足を標的の少し先まで伸ばし、膝を曲げてかかとで標的のラインを横切るように鞭のように振ります。\n3. 抱え込みの位置に戻し、ガードを戻して前足を構えに下ろします。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "앞발 훅킥",
+      "description": "1. 뒷다리로 체중을 옮기고 옆차기처럼 앞 무릎을 접어 올립니다.\n2. 앞발을 목표보다 조금 더 뻗은 뒤 무릎을 굽혀 발뒤꿈치로 목표선을 채찍처럼 가로지릅니다.\n3. 접은 자세로 회수하고 가드를 회복한 채 앞발을 자세로 내려놓습니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "เตะตวัดส้นขาหน้า",
+      "description": "1. ถ่ายน้ำหนักไปขาหลังและยกเข่าหน้าเหมือนจะถีบข้าง\n2. เหยียดเท้าหน้าให้เลยเป้าไปเล็กน้อย แล้วงอเข่าตวัดส้นเท้าผ่านแนวเป้า\n3. เก็บขากลับมาที่ท่ายกเข่าและวางเท้าหน้าลงในท่ายืนพร้อมยกการ์ด",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Хук передней ногой",
+      "description": "1. Перенесите вес на заднюю ногу и подтяните переднее колено, как для бокового удара.\n2. Выпрямите переднюю стопу чуть дальше цели, затем согните колено и хлёстко проведите пятку поперёк линии цели.\n3. Верните ногу в положение подъёма колена и опустите переднюю стопу в стойку с восстановленной защитой.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Хук передньою ногою",
+      "description": "1. Перенесіть вагу на задню ногу й підтягніть переднє коліно, як для бічного удару.\n2. Випряміть передню стопу трохи далі цілі, потім зігніть коліно й хльостко проведіть п’яту впоперек лінії цілі.\n3. Поверніть ногу в положення підйому коліна й опустіть передню стопу в стійку з відновленим захистом.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

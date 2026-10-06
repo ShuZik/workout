@@ -1,0 +1,90 @@
+{
+  "id": "22.16",
+  "key": "suspension_suspension_plank",
+  "title": "Suspension Plank",
+  "description": "1. Place both feet securely in the cradles and set the hands or forearms directly under the shoulders.\n2. Extend the legs and brace the abdomen and glutes to form a straight suspended plank.\n3. Keep equal strap tension and hold the pelvis level without sagging or drawing the knees forward.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Core",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Suspension Plank",
+      "description": "1. Place both feet securely in the cradles and set the hands or forearms directly under the shoulders.\n2. Extend the legs and brace the abdomen and glutes to form a straight suspended plank.\n3. Keep equal strap tension and hold the pelvis level without sagging or drawing the knees forward.",
+      "sectionTitle": "Core"
+    },
+    "es": {
+      "title": "Plancha en suspensión",
+      "description": "1. Coloca ambos pies firmemente en los apoyos y sitúa las manos o los antebrazos justo debajo de los hombros.\n2. Estira las piernas y contrae abdomen y glúteos para formar una plancha suspendida recta.\n3. Mantén la misma tensión en ambas cintas y la pelvis nivelada sin hundirte ni acercar las rodillas.",
+      "sectionTitle": "Zona media"
+    },
+    "pt": {
+      "title": "Prancha suspensa",
+      "description": "1. Encaixe bem os dois pés nos apoios e posicione as mãos ou os antebraços logo abaixo dos ombros.\n2. Estenda as pernas e contraia abdômen e glúteos para formar uma prancha suspensa reta.\n3. Mantenha a mesma tensão nas duas fitas e a pelve nivelada, sem ceder nem puxar os joelhos para a frente.",
+      "sectionTitle": "Core"
+    },
+    "fr": {
+      "title": "Planche en suspension",
+      "description": "1. Placez solidement les deux pieds dans les berceaux et positionnez les mains ou les avant-bras juste sous les épaules.\n2. Tendez les jambes et contractez abdominaux et fessiers pour former une planche suspendue bien droite.\n3. Gardez une tension égale dans les sangles et le bassin à niveau, sans vous affaisser ni ramener les genoux.",
+      "sectionTitle": "Sangle abdominale"
+    },
+    "de": {
+      "title": "Plank im Schlingentrainer",
+      "description": "1. Setz beide Füße sicher in die Schlaufen und platziere Hände oder Unterarme direkt unter den Schultern.\n2. Streck die Beine und spann Bauch und Po an, um eine gerade, hängende Plank zu bilden.\n3. Halte beide Gurte gleich gespannt und das Becken waagerecht, ohne durchzuhängen oder die Knie nach vorn zu ziehen.",
+      "sectionTitle": "Rumpf"
+    },
+    "it": {
+      "title": "Plank in sospensione",
+      "description": "1. Infila saldamente entrambi i piedi negli appoggi e posiziona mani o avambracci direttamente sotto le spalle.\n2. Distendi le gambe e contrai addominali e glutei per formare un plank sospeso dritto.\n3. Mantieni uguale la tensione delle cinghie e il bacino in piano, senza cedere né portare avanti le ginocchia.",
+      "sectionTitle": "Core"
+    },
+    "zh-Hans": {
+      "title": "悬挂平板支撑",
+      "description": "1. 双脚稳稳放入脚套，双手或前臂置于肩部正下方。\n2. 伸直双腿，收紧腹部和臀部，形成笔直的悬挂平板支撑。\n3. 保持两根悬挂带张力相等，骨盆水平，不要塌腰或把膝盖向前收。",
+      "sectionTitle": "核心训练"
+    },
+    "ja": {
+      "title": "サスペンション・プランク",
+      "description": "1. 両足をしっかりフットクレードルに入れ、手か前腕を肩の真下に置きます。\n2. 脚を伸ばし、腹筋とお尻を締めて、まっすぐな吊り下げプランクを作ります。\n3. 両ストラップの張りを均等に保ち、腰を落としたり膝を前に引いたりせずに骨盤を水平に保ちます。",
+      "sectionTitle": "体幹"
+    },
+    "ko": {
+      "title": "서스펜션 플랭크",
+      "description": "1. 두 발을 크래들에 단단히 넣고 손이나 전완을 어깨 바로 아래에 둡니다.\n2. 다리를 펴고 복부와 둔근을 조여 곧은 서스펜션 플랭크를 만듭니다.\n3. 두 스트랩의 장력을 같게 유지하고 처지거나 무릎을 앞으로 당기지 않은 채 골반을 수평으로 유지합니다.",
+      "sectionTitle": "코어"
+    },
+    "th": {
+      "title": "ซัสเพนชันแพลงก์",
+      "description": "1. สอดเท้าทั้งสองในที่คล้องเท้าให้แน่น และวางมือหรือแขนท่อนล่างไว้ใต้ไหล่พอดี\n2. เหยียดขาและเกร็งท้องกับก้นให้เป็นท่าแพลงก์แขวนที่ตรง\n3. รักษาความตึงของสายให้เท่ากันและเชิงกรานอยู่ระดับเดียว โดยไม่หย่อนตัวหรือดึงเข่าไปข้างหน้า",
+      "sectionTitle": "แกนกลางลำตัว"
+    },
+    "ru": {
+      "title": "Планка в петлях",
+      "description": "1. Надёжно поставьте обе стопы в петли, а ладони или предплечья расположите прямо под плечами.\n2. Выпрямите ноги и напрягите пресс и ягодицы, образуя прямую подвешенную планку.\n3. Сохраняйте одинаковое натяжение петель и ровный таз, не прогибаясь и не подтягивая колени вперёд.",
+      "sectionTitle": "Корпус"
+    },
+    "uk": {
+      "title": "Планка в петлях",
+      "description": "1. Надійно поставте обидві стопи в петлі, а долоні чи передпліччя розташуйте прямо під плечима.\n2. Випряміть ноги й напружте прес і сідниці, утворюючи пряму підвішену планку.\n3. Зберігайте однаковий натяг петель і рівний таз, не прогинаючись і не підтягуючи коліна вперед.",
+      "sectionTitle": "Корпус"
+    }
+  }
+}

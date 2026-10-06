@@ -1,0 +1,90 @@
+{
+  "id": "11.3",
+  "key": "treadmill_run",
+  "title": "Treadmill Run",
+  "description": "1. Attach the safety clip, start the belt slowly, and move to the center without holding the rails.\n2. Run tall with short natural strides landing under the body while the arms swing freely.\n3. Change speed or incline gradually and slow to a walk before stepping off the belt.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6.5,
+    "moderate": 9.3,
+    "vigorous": 12,
+    "lightCode": "12028",
+    "moderateCode": "12050",
+    "vigorousCode": "12090"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Treadmill Run",
+      "description": "1. Attach the safety clip, start the belt slowly, and move to the center without holding the rails.\n2. Run tall with short natural strides landing under the body while the arms swing freely.\n3. Change speed or incline gradually and slow to a walk before stepping off the belt.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "Carrera en cinta",
+      "description": "1. Coloca el clip de seguridad, inicia la cinta despacio y sitúate en el centro sin sujetar las barandillas.\n2. Corre erguido con zancadas cortas y naturales, aterrizando debajo del cuerpo mientras los brazos se balancean libremente.\n3. Cambia la velocidad o la inclinación gradualmente y reduce el ritmo hasta caminar antes de bajar de la cinta.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "Corrida na esteira",
+      "description": "1. Prenda o clipe de segurança, inicie a esteira devagar e vá para o centro sem segurar os apoios.\n2. Corra com a postura ereta e passadas curtas e naturais, aterrissando sob o corpo enquanto os braços balançam livremente.\n3. Altere a velocidade ou a inclinação gradualmente e reduza para uma caminhada antes de sair da esteira.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Course sur tapis",
+      "description": "1. Attachez le clip de sécurité, démarrez le tapis lentement et placez-vous au centre sans tenir les rampes.\n2. Courez droit avec des foulées courtes et naturelles qui se posent sous le corps, les bras se balançant librement.\n3. Changez progressivement la vitesse ou l’inclinaison et ralentissez jusqu’à marcher avant de descendre du tapis.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "Laufbandlauf",
+      "description": "1. Befestige den Sicherheitsclip, starte das Band langsam und gehe in die Mitte, ohne die Geländer festzuhalten.\n2. Laufe aufrecht mit kurzen, natürlichen Schritten, die unter dem Körper landen, während die Arme frei schwingen.\n3. Ändere Tempo oder Steigung allmählich und verlangsame zum Gehen, bevor du das Band verlässt.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "Corsa sul tapis roulant",
+      "description": "1. Aggancia la clip di sicurezza, avvia il nastro lentamente e portati al centro senza tenere i corrimano.\n2. Corri con il busto eretto e passi corti e naturali che atterrano sotto il corpo, lasciando oscillare liberamente le braccia.\n3. Cambia velocità o inclinazione gradualmente e rallenta fino a camminare prima di scendere dal nastro.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "跑步机跑步",
+      "description": "1. 夹好安全夹，缓慢启动跑带，不扶扶手地移到中央。\n2. 身体挺直，用短而自然的步幅跑步，落脚在身体下方，双臂自由摆动。\n3. 逐渐调整速度或坡度，离开跑带前先减速到步行。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "トレッドミルラン",
+      "description": "1. 安全クリップを付け、ベルトをゆっくり始動して、手すりを持たずに中央へ移ります。\n2. 上体を起こし、体の下に着地する短く自然な歩幅で走り、腕を自由に振ります。\n3. 速度や傾斜を徐々に変え、ベルトから降りる前に歩く速さまで減速します。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "트레드밀 달리기",
+      "description": "1. 안전 클립을 부착하고 벨트를 천천히 시작한 뒤 난간을 잡지 않고 중앙으로 이동합니다.\n2. 몸을 세워 짧고 자연스러운 보폭으로 몸 아래에 착지하며 팔을 자유롭게 흔들어 달립니다.\n3. 속도나 경사를 서서히 바꾸고 벨트에서 내리기 전에 걷는 속도로 줄입니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "การวิ่งบนลู่วิ่ง",
+      "description": "1. ติดคลิปนิรภัย เริ่มสายพานช้า ๆ แล้วขยับไปตรงกลางโดยไม่จับราว\n2. วิ่งตัวตรงด้วยก้าวสั้นตามธรรมชาติ ลงเท้าใต้ลำตัวและแกว่งแขนได้อย่างอิสระ\n3. เปลี่ยนความเร็วหรือความชันทีละน้อย และลดความเร็วเป็นเดินก่อนก้าวลงจากสายพาน",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "Бег на беговой дорожке",
+      "description": "1. Прикрепите страховочную клипсу, медленно запустите полотно и переместитесь в центр, не держась за поручни.\n2. Бегите прямо короткими естественными шагами, приземляясь под телом и свободно двигая руками.\n3. Постепенно меняйте скорость или наклон и перейдите на ходьбу, прежде чем сойти с полотна.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "Біг на біговій доріжці",
+      "description": "1. Прикріпіть страхувальну кліпсу, повільно запустіть полотно й перемістіться в центр, не тримаючись за поручні.\n2. Біжіть рівно короткими природними кроками, приземляючись під тілом і вільно рухаючи руками.\n3. Поступово змінюйте швидкість або нахил і перейдіть на ходьбу, перш ніж зійти з полотна.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
+}

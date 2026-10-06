@@ -1,0 +1,90 @@
+{
+  "id": "71.6",
+  "key": "kudo_yakusoku_kumite",
+  "title": "Yakusoku Kumite",
+  "description": "1. Agree with a partner on a short attack, its defence and the counter, both wearing headgear and gloves.\n2. The attacker delivers the agreed technique at moderate speed; the defender blocks or evades and answers with the agreed counter.\n3. Repeat at controlled power for a set number of times, then swap roles and change the sequence.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "kudo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Yakusoku Kumite",
+      "description": "1. Agree with a partner on a short attack, its defence and the counter, both wearing headgear and gloves.\n2. The attacker delivers the agreed technique at moderate speed; the defender blocks or evades and answers with the agreed counter.\n3. Repeat at controlled power for a set number of times, then swap roles and change the sequence.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Yakusoku kumite",
+      "description": "1. Acuerda con un compañero un ataque corto, su defensa y el contraataque, ambos con casco y guantes.\n2. El atacante ejecuta la técnica acordada a velocidad moderada; el defensor bloquea o esquiva y responde con el contraataque acordado.\n3. Repite con potencia controlada un número fijo de veces y luego intercambiad roles y cambiad la secuencia.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Yakusoku kumite",
+      "description": "1. Combine com um parceiro um ataque curto, sua defesa e o contra-ataque, ambos de capacete e luvas.\n2. O atacante aplica a técnica combinada em velocidade moderada; o defensor bloqueia ou esquiva e responde com o contra-ataque combinado.\n3. Repita com força controlada um número definido de vezes e depois troquem os papéis e mudem a sequência.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Yakusoku kumite",
+      "description": "1. Convenez avec un partenaire d’une courte attaque, de sa défense et de la riposte, tous deux casqués et gantés.\n2. L’attaquant exécute la technique convenue à vitesse modérée ; le défenseur bloque ou esquive et répond par la riposte convenue.\n3. Répétez à puissance contrôlée un nombre fixé de fois, puis inversez les rôles et changez la séquence.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Yakusoku Kumite",
+      "description": "1. Vereinbare mit einem Partner einen kurzen Angriff, seine Abwehr und den Konter, beide mit Helm und Handschuhen.\n2. Der Angreifer führt die vereinbarte Technik mit mittlerem Tempo aus; der Verteidiger blockt oder weicht aus und antwortet mit dem vereinbarten Konter.\n3. Wiederhole kontrolliert eine festgelegte Anzahl, dann tauscht die Rollen und ändert die Folge.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Yakusoku kumite",
+      "description": "1. Concorda con un compagno un breve attacco, la sua difesa e il contrattacco, entrambi con casco e guanti.\n2. L’attaccante esegue la tecnica concordata a velocità moderata; il difensore para o schiva e risponde con il contrattacco concordato.\n3. Ripeti con potenza controllata per un numero stabilito di volte, poi scambiatevi i ruoli e cambiate la sequenza.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "约束组手（Yakusoku Kumite）",
+      "description": "1. 与同伴约定一个简短的进攻、对应的防守和反击，双方戴头盔和拳套。\n2. 进攻方以中等速度做出约定技术；防守方格挡或闪避，并以约定反击回应。\n3. 以可控力度重复规定次数，然后交换角色并更换组合。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "約束組手",
+      "description": "1. パートナーと短い攻撃、その受け、反撃を決め、両者ともヘッドギアとグローブを着けます。\n2. 攻め手は決めた技を中程度の速さで出し、受け手は受けるかかわして、決めた反撃で返します。\n3. 力をコントロールして決めた回数繰り返し、役割を交代して組み合わせを変えます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "약속 대련",
+      "description": "1. 파트너와 짧은 공격, 그 방어, 반격을 정하고 둘 다 헤드기어와 글러브를 착용합니다.\n2. 공격자는 정한 기술을 중간 속도로 내고, 수비자는 막거나 피한 뒤 정한 반격으로 응수합니다.\n3. 통제된 힘으로 정해진 횟수만큼 반복하고, 역할을 바꾸며 순서를 변경합니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ยากุโซกุคุมิเตะ",
+      "description": "1. ตกลงกับคู่ฝึกเรื่องการโจมตีสั้น ๆ การป้องกัน และการสวนกลับ ทั้งคู่สวมหมวกและนวม\n2. ผู้โจมตีใช้ท่าที่ตกลงด้วยความเร็วปา��กลาง ผู้ป้องกันปัดหรือหลบแล้วสวนกลับตามที่ตกลง\n3. ทำซ้ำด้วยแรงที่ควบคุมตามจำนวนที่กำหนด แล้วสลับบทบาทและเปลี่ยนชุดท่า",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Якусоку кумитэ",
+      "description": "1. Договоритесь с партнёром о короткой атаке, защите от неё и контратаке; оба в шлемах и перчатках.\n2. Атакующий выполняет оговорённую технику на средней скорости; защищающийся блокирует или уходит и отвечает оговорённой контратакой.\n3. Повторите с контролируемой силой заданное число раз, затем поменяйтесь ролями и смените связку.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Якусоку куміте",
+      "description": "1. Домовтеся з партнером про коротку атаку, захист від неї та контратаку; обидва в шоломах і рукавицях.\n2. Атакувальник виконує узгоджену техніку на середній швидкості; той, хто захищається, блокує або ухиляється й відповідає узгодженою контратакою.\n3. Повторіть із контрольованою силою задану кількість разів, потім поміняйтеся ролями й змініть зв’язку.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

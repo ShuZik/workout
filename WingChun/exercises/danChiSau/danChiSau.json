@@ -1,0 +1,90 @@
+{
+  "id": "108.8",
+  "key": "wing_chun_dan_chi_sau",
+  "title": "Dan Chi Sau",
+  "description": "1. Face a partner at close range in the training stance; partner A places a palm-up tan sau under partner B's fook sau on the same side.\n2. Roll through the cycle at a slow, even pace: A turns over into a palm strike, B answers with a bong or tan block, then B's straight punch is met by A's jum sau.\n3. Keep forward pressure light and elbows down, swap arms and roles after a set number of cycles, and stop at once on either partner's signal.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dan Chi Sau",
+      "description": "1. Face a partner at close range in the training stance; partner A places a palm-up tan sau under partner B's fook sau on the same side.\n2. Roll through the cycle at a slow, even pace: A turns over into a palm strike, B answers with a bong or tan block, then B's straight punch is met by A's jum sau.\n3. Keep forward pressure light and elbows down, swap arms and roles after a set number of cycles, and stop at once on either partner's signal.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Dan Chi Sau",
+      "description": "1. Colócate frente a un compañero a corta distancia en la posición de entrenamiento; el compañero A pone un tan sau con la palma arriba bajo el fook sau del compañero B del mismo lado.\n2. Rodad el ciclo a un ritmo lento y uniforme: A gira y da un golpe de palma, B responde con un bloqueo bong o tan, y luego el puñetazo recto de B es recibido por el jum sau de A.\n3. Mantened una presión hacia delante ligera y los codos abajo, cambiad de brazo y de rol tras un número fijo de ciclos y deteneos al instante ante la señal de cualquiera.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Dan Chi Sau",
+      "description": "1. Fique de frente para um parceiro a curta distância na base de treino; o parceiro A coloca um tan sau com a palma para cima sob o fook sau do parceiro B do mesmo lado.\n2. Rodem o ciclo em ritmo lento e uniforme: A vira e aplica um golpe de palma, B responde com bloqueio bong ou tan, e então o soco reto de B é recebido pelo jum sau de A.\n3. Mantenham pressão à frente leve e cotovelos baixos, troquem de braço e de papel após um número fixo de ciclos e parem imediatamente ao sinal de qualquer um.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Dan Chi Sau",
+      "description": "1. Faites face à un partenaire à courte distance dans la position d’entraînement ; le partenaire A place un tan sau paume vers le haut sous le fook sau du partenaire B du même côté.\n2. Déroulez le cycle à un rythme lent et régulier : A retourne la main en frappe de paume, B répond par un blocage bong ou tan, puis le coup de poing droit de B est reçu par le jum sau de A.\n3. Gardez une pression avant légère et les coudes bas, changez de bras et de rôle après un nombre fixé de cycles et arrêtez immédiatement au signal de l’un ou l’autre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Dan Chi Sau",
+      "description": "1. Stehe einem Partner auf kurze Distanz im Trainingsstand gegenüber; Partner A legt ein Tan Sau mit Handfläche nach oben unter das gleichseitige Fook Sau von Partner B.\n2. Rollt den Zyklus in langsamem, gleichmäßigem Tempo: A dreht in einen Handflächenstoß, B antwortet mit Bong- oder Tan-Abwehr, dann wird Bs gerader Fauststoß von As Jum Sau aufgenommen.\n3. Haltet den Vorwärtsdruck leicht und die Ellbogen unten, wechselt Arm und Rolle nach einer festen Zahl von Zyklen und stoppt sofort auf das Signal eines Partners.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Dan Chi Sau",
+      "description": "1. Mettiti di fronte a un partner a distanza ravvicinata nella posizione di allenamento; il partner A pone un tan sau a palmo in su sotto il fook sau del partner B dallo stesso lato.\n2. Fate rotolare il ciclo a ritmo lento e uniforme: A ruota in un colpo di palmo, B risponde con una parata bong o tan, poi il pugno dritto di B viene ricevuto dal jum sau di A.\n3. Mantenete una pressione in avanti leggera e i gomiti bassi, cambiate braccio e ruolo dopo un numero fisso di cicli e fermatevi subito al segnale di uno dei due.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "单黐手",
+      "description": "1. 与同伴近距离相对站好马步；A 以掌心向上的摊手搭在 B 同侧伏手之下。\n2. 以缓慢均匀的节奏循环：A 翻手成掌击，B 以膀手或摊手化解，随后 B 的直拳被 A 的枕手接住。\n3. 向前的压力保持轻柔、沉肘，循环固定次数后换手换角色，任一方示意立即停止。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "単黐手（ダンチーサウ）",
+      "description": "1. 練習用の構えでパートナーと近い間合いで向かい合い、Aが掌を上にした攤手をBの同じ側の伏手の下に置きます��\n2. ゆっくり一定のリズムで循環します。Aが手を返して掌打を出し、Bが膀手か攤手で受け、続いてBのまっすぐな突きをAが枕手で受けます。\n3. 前への圧力は軽く肘を下げ、決めた回数ごとに腕と役割を替え、どちらかの合図ですぐに止めます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "단치사우",
+      "description": "1. 수련 자세로 파트너와 가까운 거리에서 마주 서고, A가 손바닥을 위로 한 탄사우를 B의 같은 쪽 폭사우 아래에 댑니다.\n2. 느리고 고른 속도로 순환합니다. A가 손을 뒤집어 장 치기를 하면 B가 방사우나 탄사우로 막고, 이어 B의 직선 주먹을 A가 점사우로 받습니다.\n3. 앞으로 미는 압력은 가볍게, 팔꿈치는 낮게 유지하고 정한 횟수마다 팔과 역할을 바꾸며 누구든 신호하면 즉시 멈춥니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ตานชี่ซาว (มือเหนียวเดี่ยว)",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ในระยะใกล้ในท่าฝึก คู่ A วางมือทานหงายไว้ใต้มือฟุกข้างเดียวกันของคู่ B\n2. หมุนวงจรด้วยจังหวะช้าสม่ำเสมอ A พลิกมือเป็นฝ่ามือตี B ตอบด้วยมือบ่งหรือมือทาน แล้วหมัดตรงของ B ถูกรับด้วยมือจ้มของ A\n3. ใช้แรงดันไปข้างหน้าเบา ๆ ศอกต่ำ สลับแขนและบทบาทเมื่อครบจำนวนรอบที่กำหนด และหยุดทันทีเมื่อฝ่ายใดให้สัญญาณ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Дан чи сау",
+      "description": "1. Встаньте лицом к партнёру на близкой дистанции в тренировочной стойке; партнёр A кладёт тан сау ладонью вверх под фук сау партнёра B с той же стороны.\n2. Прокатывайте цикл в медленном ровном темпе: A переворачивает руку в удар ладонью, B отвечает блоком бонг или тан, затем прямой удар B принимается чам сау партнёра A.\n3. Держите давление вперёд лёгким и локти опущенными, меняйте руку и роли после заданного числа циклов и сразу останавливайтесь по сигналу любого партнёра.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Дан чі сау",
+      "description": "1. Станьте обличчям до партнера на близькій дистанції в тренувальній стійці; партнер A кладе тан сау долонею вгору під фук сау партнера B з того самого боку.\n2. Прокочуйте цикл у повільному рівному темпі: A перевертає руку в удар долонею, B відповідає блоком бонг або тан, потім прямий удар B приймає чам сау партнера A.\n3. Тримайте тиск уперед легким і лікті опущеними, міняйте руку й ролі після заданої кількості циклів і одразу зупиняйтеся за сигналом будь-якого партнера.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

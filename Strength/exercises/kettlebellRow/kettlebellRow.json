@@ -1,0 +1,89 @@
+{
+  "id": "13.34",
+  "key": "kettlebell_kettlebell_row",
+  "title": "Kettlebell Row",
+  "description": "1. Take a staggered stance, hinge with a neutral spine, and support the free hand if needed.\n2. Pull the kettlebell toward the lower ribs while the elbow travels close to the body and the torso remains still.\n3. Lower the bell until the arm is straight, finish the repetitions, and switch sides.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "4 Kettlebell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kettlebell Row",
+      "description": "1. Take a staggered stance, hinge with a neutral spine, and support the free hand if needed.\n2. Pull the kettlebell toward the lower ribs while the elbow travels close to the body and the torso remains still.\n3. Lower the bell until the arm is straight, finish the repetitions, and switch sides.",
+      "sectionTitle": "Kettlebell"
+    },
+    "es": {
+      "title": "Remo con pesa rusa",
+      "description": "1. Adopta una postura escalonada, flexiona la cadera con la columna neutra y apoya la mano libre si es necesario.\n2. Tira de la pesa rusa hacia las costillas inferiores mientras el codo pasa cerca del cuerpo y el torso permanece quieto.\n3. Baja la pesa hasta estirar el brazo, completa las repeticiones y cambia de lado.",
+      "sectionTitle": "Pesa rusa"
+    },
+    "pt": {
+      "title": "Remada com kettlebell",
+      "description": "1. Assuma uma base com um pé à frente, flexione o quadril com a coluna neutra e apoie a mão livre se necessário.\n2. Puxe o kettlebell em direção às costelas inferiores enquanto o cotovelo passa perto do corpo e o tronco permanece imóvel.\n3. Abaixe o kettlebell até estender o braço, complete as repetições e troque de lado.",
+      "sectionTitle": "Kettlebell"
+    },
+    "fr": {
+      "title": "Rowing au kettlebell",
+      "description": "1. Prenez une posture décalée, basculez le bassin, colonne neutre, et prenez appui avec la main libre si nécessaire.\n2. Tirez le kettlebell vers le bas des côtes pendant que le coude passe près du corps et que le buste reste immobile.\n3. Redescendez le kettlebell jusqu’au bras tendu, terminez les répétitions et changez de côté.",
+      "sectionTitle": "Kettlebell"
+    },
+    "de": {
+      "title": "Rudern mit der Kugelhantel",
+      "description": "1. Nimm einen versetzten Stand ein, beuge dich mit neutraler Wirbelsäule in der Hüfte und stütze die freie Hand bei Bedarf ab.\n2. Ziehe die Kugelhantel zu den unteren Rippen, während der Ellbogen nah am Körper geführt wird und der Oberkörper ruhig bleibt.\n3. Senke die Kugelhantel, bis der Arm gestreckt ist, beende die Wiederholungen und wechsle die Seite.",
+      "sectionTitle": "Kugelhantel"
+    },
+    "it": {
+      "title": "Rematore con kettlebell",
+      "description": "1. Assumi una posizione sfalsata, piegati dalle anche con la colonna neutra e appoggia la mano libera se serve.\n2. Tira il kettlebell verso le costole basse mentre il gomito passa vicino al corpo e il busto resta fermo.\n3. Abbassa il kettlebell fino a distendere il braccio, completa le ripetizioni e cambia lato.",
+      "sectionTitle": "Kettlebell"
+    },
+    "zh-Hans": {
+      "title": "壶铃划船",
+      "description": "1. 双脚前后站立，脊柱中立屈髋，必要时用空闲的手支撑。\n2. 将壶铃拉向下肋，肘部贴近身体移动，躯干保持不动。\n3. 将壶铃放下至手臂伸直，完成次数后换另一侧。",
+      "sectionTitle": "壶铃"
+    },
+    "ja": {
+      "title": "ケトルベルロウ",
+      "description": "1. 足を前後に開き、背骨をニュートラルに保って股関節から前傾し、必要なら空いている手で体を支えます。\n2. 上体を動かさず、肘を体の近くに通しながらケトルベルを下部肋骨へ引きます。\n3. 腕がまっすぐになるまでケトルベルを下ろし、回数を終えたら反対側も行います。",
+      "sectionTitle": "ケトルベル"
+    },
+    "ko": {
+      "title": "케틀벨 로우",
+      "description": "1. 발을 앞뒤로 벌리고 척추를 중립으로 유지한 채 엉덩이를 접으며 필요하면 반대 손으로 지지합니다.\n2. 몸통을 고정하고 팔꿈치를 몸 가까이 지나가게 하며 케틀벨을 아래쪽 갈비뼈 쪽으로 당깁니다.\n3. 팔이 펴질 때까지 케틀벨을 내리고 반복을 마치면 반대쪽으로 바꿉니다.",
+      "sectionTitle": "케틀벨"
+    },
+    "th": {
+      "title": "โรว์ด้วยเคตเทิลเบล",
+      "description": "1. ยืนแยกเท้าหน้าหลัง พับสะโพกโดยให้กระดูกสันหลังอยู่ในแนวกลาง และใช้มือที่ว่างยันไว้หากจำเป็น\n2. ดึงเคตเทิลเบลเข้าหาซี่โครงล่าง ขณะที่ศอกเคลื่อนชิดลำตัวและลำตัวอยู่นิ่ง\n3. ลดเคตเทิลเบลลงจนแขนตรง ทำครบจำนวนครั้งแล้วสลับข้าง",
+      "sectionTitle": "เคตเทิลเบล"
+    },
+    "ru": {
+      "title": "Тяга гири в наклоне",
+      "description": "1. Встаньте в разножку, наклонитесь в тазобедренных суставах с нейтральной спиной и при необходимости обопритесь свободной рукой.\n2. Тяните гирю к нижним рёбрам, проводя локоть близко к телу и сохраняя корпус неподвижным.\n3. Опустите гирю до выпрямления руки, выполните повторения и смените сторону.",
+      "sectionTitle": "Гиря"
+    },
+    "uk": {
+      "title": "Тяга гирі в нахилі",
+      "description": "1. Станьте в розніжку, нахиліться в кульшових суглобах із нейтральною спиною й за потреби обіпріться вільною рукою.\n2. Тягніть гирю до нижніх ребер, проводячи лікоть близько до тіла й зберігаючи корпус нерухомим.\n3. Опустіть гирю до випрямлення руки, виконайте повторення й змініть бік.",
+      "sectionTitle": "Гиря"
+    }
+  }
+}

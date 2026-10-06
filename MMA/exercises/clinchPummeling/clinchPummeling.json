@@ -1,0 +1,90 @@
+{
+  "id": "4.6",
+  "key": "mma_clinch_pummeling",
+  "title": "Clinch Pummeling",
+  "description": "1. With a trained partner chest-to-chest, keep the forehead upright, elbows close, and one arm inside as an underhook.\n2. Swim the outside arm beneath the partner's arm to gain the next underhook while both partners take short balanced steps.\n3. Alternate sides without squeezing the neck or twisting the shoulders, then disengage and reset cleanly.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Wrestling",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Clinch Pummeling",
+      "description": "1. With a trained partner chest-to-chest, keep the forehead upright, elbows close, and one arm inside as an underhook.\n2. Swim the outside arm beneath the partner's arm to gain the next underhook while both partners take short balanced steps.\n3. Alternate sides without squeezing the neck or twisting the shoulders, then disengage and reset cleanly.",
+      "sectionTitle": "Wrestling"
+    },
+    "es": {
+      "title": "Pummeling en el clinch",
+      "description": "1. Con un compañero entrenado pecho contra pecho, mantén la frente erguida, los codos cerca y un brazo por dentro en underhook.\n2. Pasa el brazo exterior por debajo del brazo del compañero para ganar el siguiente underhook mientras ambos dan pasos cortos y equilibrados.\n3. Alterna los lados sin apretar el cuello ni torcer los hombros, luego separaos y reiniciad limpiamente.",
+      "sectionTitle": "Lucha"
+    },
+    "pt": {
+      "title": "Pummeling no clinch",
+      "description": "1. Com um parceiro treinado peito com peito, mantenha a testa erguida, os cotovelos próximos e um braço por dentro em underhook.\n2. Passe o braço de fora por baixo do braço do parceiro para ganhar o próximo underhook enquanto ambos dão passos curtos e equilibrados.\n3. Alterne os lados sem apertar o pescoço nem torcer os ombros, depois se afastem e recomecem com calma.",
+      "sectionTitle": "Luta agarrada"
+    },
+    "fr": {
+      "title": "Pummeling en clinch",
+      "description": "1. Avec un partenaire entraîné poitrine contre poitrine, gardez le front droit, les coudes serrés et un bras à l’intérieur en sous-bras.\n2. Glissez le bras extérieur sous le bras du partenaire pour prendre le sous-bras suivant, pendant que vous faites tous deux de petits pas équilibrés.\n3. Alternez les côtés sans serrer le cou ni tordre les épaules, puis séparez-vous et recommencez proprement.",
+      "sectionTitle": "Lutte"
+    },
+    "de": {
+      "title": "Pummeling im Clinch",
+      "description": "1. Steh Brust an Brust mit einem trainierten Partner, halte die Stirn aufrecht, die Ellenbogen nah und einen Arm innen als Unterhaken.\n2. Schiebe den äußeren Arm unter dem Arm des Partners durch, um den nächsten Unterhaken zu gewinnen, während ihr beide kurze, ausbalancierte Schritte macht.\n3. Wechselt die Seiten, ohne den Nacken zu quetschen oder die Schultern zu verdrehen, und löst euch dann sauber voneinander.",
+      "sectionTitle": "Ringen"
+    },
+    "it": {
+      "title": "Pummeling nel clinch",
+      "description": "1. Con un compagno allenato petto contro petto, tieni la fronte dritta, i gomiti vicini e un braccio all’interno in underhook.\n2. Fai passare il braccio esterno sotto quello del compagno per prendere l’underhook successivo mentre entrambi fate passi corti ed equilibrati.\n3. Alterna i lati senza stringere il collo né torcere le spalle, poi staccatevi e ripartite in modo pulito.",
+      "sectionTitle": "Lotta"
+    },
+    "zh-Hans": {
+      "title": "缠抱抢位",
+      "description": "1. 与受过训练的同伴胸贴胸，额头保持直立，双肘贴近，一只手臂在内侧做下钩。\n2. 将外侧手臂从同伴手臂下方穿过，争取下一个下钩，双方同时以小步保持平衡移动。\n3. 左右交替，不要挤压颈部或扭转肩膀，然后干净地分开重新开始。",
+      "sectionTitle": "摔跤"
+    },
+    "ja": {
+      "title": "クリンチでの差し合い",
+      "description": "1. 練習相手と胸を合わせ、額を起こし、肘を締め、片腕を内側に差してアンダーフックを取ります。\n2. 外側の腕を相手の腕の下にくぐらせて次のアンダーフックを取り、互いに小さくバランスの取れたステップを踏みます。\n3. 首を締めたり肩をねじったりせずに左右を交互に行い、終わったらきれいに離れてリセットします。",
+      "sectionTitle": "レスリング"
+    },
+    "ko": {
+      "title": "클린치 퍼멜링",
+      "description": "1. 훈련된 파트너와 가슴을 맞대고 이마를 세우며 팔꿈치를 붙이고 한 팔은 안쪽으로 넣어 언더훅을 잡습니다.\n2. 바깥 팔을 파트너의 팔 아래로 넣어 다음 언더훅을 차지하며 둘 다 짧고 균형 잡힌 스텝을 밟습니다.\n3. 목을 조이거나 어깨를 비틀지 않고 좌우를 번갈아 한 뒤 깔끔하게 떨어져 다시 시작합니다.",
+      "sectionTitle": "레슬링"
+    },
+    "th": {
+      "title": "แย่งท่าจับในคลินช์",
+      "description": "1. ยืนอกชนอกกับคู่ฝึกที่ผ่านการฝึก ตั้งหน้าผากตรง ข้อศอกแนบ และสอดแขนข้างหนึ่งเข้าด้านในเป็นอันเดอร์ฮุก\n2. สอดแขนด้านนอกลอดใต้แขนคู่เพื่อชิงอันเดอร์ฮุกถัดไป ขณะที่ทั้งคู่ก้าวสั้น ๆ อย่างสมดุล\n3. สลับข้างโดยไม่บีบคอหรือบิดไหล่ แล้วแยกตัวออกและเริ่มใหม่อย่างเรียบร้อย",
+      "sectionTitle": "มวยปล้ำ"
+    },
+    "ru": {
+      "title": "Борьба за подхваты в клинче",
+      "description": "1. Встаньте грудь в грудь с подготовленным партнёром, держите лоб ровно, локти прижаты, одна рука внутри в подхвате.\n2. Проведите внешнюю руку под рукой партнёра, чтобы взять следующий подхват, пока оба делаете короткие устойчивые шаги.\n3. Чередуйте стороны, не сдавливая шею и не выкручивая плечи, затем чисто разорвите контакт и начните заново.",
+      "sectionTitle": "Борьба"
+    },
+    "uk": {
+      "title": "Боротьба за підхвати в клінчі",
+      "description": "1. Станьте груди до грудей із підготовленим партнером, тримайте лоб рівно, лікті притиснуті, одна рука всередині в підхваті.\n2. Проведіть зовнішню руку під рукою партнера, щоб узяти наступний підхват, поки обидва робите короткі стійкі кроки.\n3. Чергуйте сторони, не здавлюючи шию й не викручуючи плечі, потім чисто розірвіть контакт і почніть знову.",
+      "sectionTitle": "Боротьба"
+    }
+  }
+}

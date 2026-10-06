@@ -1,0 +1,90 @@
+{
+  "id": "94.3",
+  "key": "sports_chanbara_men_uchi",
+  "title": "Men-uchi",
+  "description": "1. Receiver wears the face mask and stands in guard; striker faces them in guard at one-step distance.\n2. Striker steps in and strikes the top of the receiver's mask (men) with a quick, light snap of the kodachi.\n3. Striker recovers guard and steps back out of range; receiver calls stop if needed, and both switch roles after each set.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Men-uchi",
+      "description": "1. Receiver wears the face mask and stands in guard; striker faces them in guard at one-step distance.\n2. Striker steps in and strikes the top of the receiver's mask (men) with a quick, light snap of the kodachi.\n3. Striker recovers guard and steps back out of range; receiver calls stop if needed, and both switch roles after each set.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Men-uchi",
+      "description": "1. El receptor lleva la careta y está en guardia; el atacante se coloca frente a él en guardia a un paso de distancia.\n2. El atacante entra y golpea la parte superior de la careta del receptor (men) con un chasquido rápido y ligero del kodachi.\n3. El atacante recupera la guardia y sale de distancia; el receptor dice alto si hace falta, y ambos cambian de rol tras cada serie.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Men-uchi",
+      "description": "1. O receptor usa a máscara e fica em guarda; o atacante fica diante dele em guarda a um passo de distância.\n2. O atacante entra e golpeia o topo da máscara do receptor (men) com um estalo rápido e leve do kodachi.\n3. O atacante recupera a guarda e sai da distância; o receptor diz pare se necessário, e ambos trocam de papel após cada série.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Men-uchi",
+      "description": "1. Le receveur porte le masque et se tient en garde ; le frappeur lui fait face en garde à un pas de distance.\n2. Le frappeur entre et touche le sommet du masque du receveur (men) d'un petit coup sec et léger du kodachi.\n3. Le frappeur reprend la garde et ressort de distance ; le receveur annonce stop si besoin, et tous deux changent de rôle après chaque série.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Men-Uchi",
+      "description": "1. Der Empfänger trägt die Gesichtsmaske und steht in Deckung; der Schlagende steht ihm in Deckung auf einen Schritt Abstand gegenüber.\n2. Der Schlagende tritt ein und trifft mit einem schnellen, leichten Schnappen des Kodachi oben auf die Maske des Empfängers (Men).\n3. Der Schlagende geht zurück in Deckung und aus der Distanz; der Empfänger ruft bei Bedarf Stopp, nach jeder Serie wechseln beide die Rollen.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Men-uchi",
+      "description": "1. Chi riceve indossa la maschera ed è in guardia; chi colpisce gli sta di fronte in guardia a un passo di distanza.\n2. Chi colpisce entra e tocca la parte alta della maschera di chi riceve (men) con uno scatto rapido e leggero del kodachi.\n3. Chi colpisce torna in guardia ed esce di distanza; chi riceve chiama lo stop se serve, ed entrambi scambiano i ruoli dopo ogni serie.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "面击",
+      "description": "1. 受方戴好面罩并摆好架势；攻方在一步距离外以架势与其相对。\n2. 攻方上步，用小太刀快速轻弹击打受方面罩顶部（面）。\n3. 攻方恢复架势并退出攻击距离；受方必要时喊停，每组后双方交换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "面打ち",
+      "description": "1. 受け手は面を着けて構え、打ち手は一歩の間合いで構えて向き合います。\n2. 打ち手は踏み込み、小太刀を素早く軽く振って受け手の面の上部を打ちます。\n3. 打ち手は構えに戻って間合いの外へ下がり、受け手は必要なら止めの合図を出し、一組ごとに役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "머리 치기(멘우치)",
+      "description": "1. 받는 사람은 안면 마스크를 쓰고 가드를 잡으며, 치는 사람은 한 걸음 거리에서 가드를 잡고 마주 섭니다.\n2. 치는 사람은 들어가며 고다치를 빠르고 가볍게 튕겨 받는 사람의 마스크 윗부분(멘)을 칩니다.\n3. 치는 사람은 가드를 회복하고 거리 밖으로 물러나며, 받는 사람은 필요하면 정지를 외치고, 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เมงอุจิ",
+      "description": "1. ผู้รับสวมหน้ากากและตั้งการ์ด ผู้ตียืนตั้งการ์ดเผชิญหน้าในระยะหนึ่งก้าว\n2. ผู้ตีก้าวเข้าและตีด้านบนหน้ากากของผู้รับ (เมง) ด้วยการสะบัดโคดาจิอย่างเร็วและเบา\n3. ผู้ตีกลับสู่การ์ดและถอยออกนอกระยะ ผู้รับสั่งหยุดได้หากจำเป็น และสลับบทบาททุกชุด",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Мэн-ути",
+      "description": "1. Принимающий в защитной маске стоит в стойке; атакующий стоит напротив в стойке на расстоянии одного шага.\n2. Атакующий шагает и быстрым лёгким хлёстом кодати бьёт по верху маски принимающего (мэн).\n3. Атакующий возвращается в стойку и выходит из дистанции; принимающий при необходимости командует стоп, после каждой серии роли меняются.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Мен-учі",
+      "description": "1. Той, хто приймає, у захисній масці стоїть у стійці; атакувальник стоїть навпроти в стійці на відстані одного кроку.\n2. Атакувальник ступає й швидким легким хльостом кодачі б'є по верху маски того, хто приймає (мен).\n3. Атакувальник повертається в стійку й виходить із дистанції; той, хто приймає, за потреби командує стоп, після кожної серії ролі змінюються.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

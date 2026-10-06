@@ -1,0 +1,87 @@
+{
+  "id": "54.16",
+  "key": "fencing_bind",
+  "title": "Bind",
+  "description": "1. Engage the partner's extended blade in a high line, for example sixte, with your strong on the partner's weak.\n2. Carry the partner's blade diagonally across from the high line to the opposite low line, for example sixte to septime or octave, without losing contact.\n3. Extend and lunge to hit while the blade stays dominated, recover to en garde, and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Bind",
+      "description": "1. Engage the partner's extended blade in a high line, for example sixte, with your strong on the partner's weak.\n2. Carry the partner's blade diagonally across from the high line to the opposite low line, for example sixte to septime or octave, without losing contact.\n3. Extend and lunge to hit while the blade stays dominated, recover to en garde, and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Ligamento (bind)",
+      "description": "1. Engancha la hoja extendida del compañero en una línea alta, por ejemplo sexta, con tu fuerte sobre su débil.\n2. Lleva la hoja del compañero en diagonal de la línea alta a la baja opuesta, por ejemplo de sexta a séptima u octava, sin perder el contacto.\n3. Extiende y tira a fondo para tocar mientras dominas la hoja, vuelve a guardia e intercambia papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Ligamento",
+      "description": "1. Engaje a lâmina estendida do parceiro numa linha alta, por exemplo sexta, com seu forte sobre o fraco dele.\n2. Leve a lâmina do parceiro na diagonal da linha alta para a baixa oposta, por exemplo de sexta para sétima ou oitava, sem perder o contato.\n3. Estenda e afunde para tocar enquanto domina a lâmina, volte à guarda e troque papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Liement",
+      "description": "1. Engagez le fer allongé du partenaire en ligne haute, par exemple sixte, votre fort sur son faible.\n2. Transportez son fer en diagonale de la ligne haute vers la ligne basse opposée, par exemple de sixte en septime ou octave, sans perdre le contact.\n3. Allongez et fendez-vous pour toucher en dominant le fer, revenez en garde et inversez les rôles après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Bindung (Liement)",
+      "description": "1. Binde die gestreckte Partnerklinge in einer hohen Linie, etwa Sixt, deine Stärke auf seiner Schwäche.\n2. Führe die Partnerklinge diagonal aus der hohen in die gegenüberliegende tiefe Linie, etwa von Sixt nach Septime oder Oktav, ohne Kontaktverlust.\n3. Strecke und falle aus zum Treffer, solange die Klinge beherrscht bleibt, kehre zurück und tauscht nach der Serie die Rollen.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Legamento (liement)",
+      "description": "1. Lega la lama distesa del compagno in linea alta, per esempio sesta, con il tuo forte sul suo debole.\n2. Porta la sua lama in diagonale dalla linea alta a quella bassa opposta, per esempio da sesta a settima od ottava, senza perdere il contatto.\n3. Distendi e affonda per toccare mentre domini la lama, torna in guardia e scambiate i ruoli dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "斜压剑（Bind）",
+      "description": "1. 用你剑的强部压住同伴伸直之剑的弱部，在高线位（如第六位）接剑。\n2. 保持接触，将同伴的剑从高线斜带到对侧低线（如第六位到第七或第八位）。\n3. 在控制其剑的同时伸臂弓步刺中，恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "リエマン",
+      "description": "1. 自分の強部を相手の弱部に当て、伸ばされた相手の剣を高いライン（例：シクスト）でアンガージュします。\n2. 接触を失わずに相手の剣を高いラインから反対側の低いライン（例：シクストからセプティムまたはオクターブ）へ斜めに運びます。\n3. 剣を制したまま腕を伸ばしてファントで突き、アンガルドに戻り、セット後に交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "바인드",
+      "description": "1. 내 강부를 파트너 약부에 대고 뻗은 파트너 칼을 높은 라인(예: 식스트)에서 인게이지합니다.\n2. 접촉을 잃지 않고 파트너 칼을 높은 라인에서 반대쪽 낮은 라인(예: 식스트에서 셉팀이나 옥타브)으로 대각선으로 옮깁니다.\n3. 칼을 제압한 채 팔을 뻗어 런지로 찌르고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "ไบนด์",
+      "description": "1. แตะใบดาบที่เหยียดของคู่ฝึกในแนวสูง เช่น ซิกซ์ต์ โดยใช้ส่วนแข็งของคุณกดส่วนอ่อนของเขา\n2. พาใบดาบคู่ฝึกเฉียงจากแนวสูงไปยังแนวต่ำฝั่งตรงข้าม เช่น จากซิกซ์ต์ไปเซปตีมหรืออ็อกเทฟ โดยไม่เสียการสัมผัส\n3. เหยียดแขนแล้วลันจ์แทงขณะยังควบคุมดาบ กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Лиаман (захват по диагонали)",
+      "description": "1. Возьмите соединение с выпрямленным клинком партнёра в верхней линии, например шестой, сильной частью на его слабую.\n2. Переведите клинок партнёра по диагонали из верхней линии в противоположную нижнюю, например из шестой в седьмую или восьмую, не теряя контакта.\n3. Выпрямите руку и выпадом нанесите укол, удерживая клинок, вернитесь в стойку и поменяйтесь ролями после серии.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Ліаман (захоплення по діагоналі)",
+      "description": "1. Візьміть з’єднання з випрямленим клинком партнера у верхній лінії, наприклад шостій, сильною частиною на його слабку.\n2. Переведіть клинок партнера по діагоналі з верхньої лінії в протилежну нижню, наприклад із шостої в сьому чи восьму, не втрачаючи контакту.\n3. Випряміть руку й випадом завдайте уколу, утримуючи клинок, поверніться в стійку й поміняйтеся ролями після серії.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

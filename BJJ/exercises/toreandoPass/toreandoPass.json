@@ -1,0 +1,90 @@
+{
+  "id": "6.38",
+  "key": "bjj_toreando_pass",
+  "title": "Toreando Pass",
+  "description": "1. Stand in a low base in front of the partner's open guard and grip both pants at the knees or shins.\n2. Push the legs to one side toward the mat while stepping quickly around the opposite side of the feet.\n3. Drop the chest across the partner, block the hip, and stabilize side control before releasing the leg grips.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Passes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Toreando Pass",
+      "description": "1. Stand in a low base in front of the partner's open guard and grip both pants at the knees or shins.\n2. Push the legs to one side toward the mat while stepping quickly around the opposite side of the feet.\n3. Drop the chest across the partner, block the hip, and stabilize side control before releasing the leg grips.",
+      "sectionTitle": "Passes"
+    },
+    "es": {
+      "title": "Pase torero",
+      "description": "1. De pie en base baja frente a la guardia abierta del compañero, agarra ambos pantalones a la altura de las rodillas o espinillas.\n2. Empuja las piernas hacia un lado contra el tapiz mientras rodeas rápidamente los pies por el lado contrario.\n3. Deja caer el pecho sobre el compañero, bloquea la cadera y estabiliza el control lateral antes de soltar las piernas.",
+      "sectionTitle": "Pasajes de guardia"
+    },
+    "pt": {
+      "title": "Passagem toreando",
+      "description": "1. Em pé com base baixa diante da guarda aberta do parceiro, segure as duas calças na altura dos joelhos ou canelas.\n2. Empurre as pernas para um lado em direção ao tatame enquanto contorna rapidamente os pés pelo lado oposto.\n3. Deixe o peito cair sobre o parceiro, bloqueie o quadril e estabilize o cem-quilos antes de soltar as pernas.",
+      "sectionTitle": "Passagens de guarda"
+    },
+    "fr": {
+      "title": "Passage toreando",
+      "description": "1. Debout en base basse face à la garde ouverte du partenaire, saisissez les deux jambes du pantalon aux genoux ou aux tibias.\n2. Poussez les jambes d’un côté vers le tapis tout en contournant vite les pieds par le côté opposé.\n3. Posez la poitrine sur le partenaire, bloquez la hanche et stabilisez le contrôle latéral avant de lâcher les jambes.",
+      "sectionTitle": "Passages de garde"
+    },
+    "de": {
+      "title": "Toreando-Pass",
+      "description": "1. Stehe in tiefer Basis vor der offenen Guard des Partners und greife beide Hosenbeine an Knien oder Schienbeinen.\n2. Drücke die Beine zur Seite Richtung Matte, während du schnell auf der Gegenseite um die Füße herumgehst.\n3. Lege die Brust auf den Partner, blockiere die Hüfte und stabilisiere die Seitenkontrolle, bevor du die Beine loslässt.",
+      "sectionTitle": "Guard-Pässe"
+    },
+    "it": {
+      "title": "Passaggio toreando",
+      "description": "1. In piedi con base bassa davanti alla guardia aperta del partner, afferra entrambi i pantaloni a ginocchia o tibie.\n2. Spingi le gambe di lato verso il tappeto mentre giri rapidamente attorno ai piedi dal lato opposto.\n3. Lascia cadere il petto sul partner, blocca l’anca e stabilizza il controllo laterale prima di lasciare le gambe.",
+      "sectionTitle": "Passaggi di guardia"
+    },
+    "zh-Hans": {
+      "title": "斗牛士过腿",
+      "description": "1. 以低重心站在对方开放式防守前，双手抓住对方膝部或小腿处的裤腿。\n2. 把对方双腿推向一侧压向垫面，同时快速绕到对方脚的另一侧。\n3. 胸口压到对方身上，挡住髋部，先稳定侧压再松开腿部抓握。",
+      "sectionTitle": "过腿"
+    },
+    "ja": {
+      "title": "トレアンドパス",
+      "description": "1. 相手のオープンガードの前で低い姿勢に立ち、膝かすねの位置で両方のズボンを握ります。\n2. 両脚を片側のマットへ押しながら、反対側から素早く足の外を回り込みます。\n3. 胸を相手に落として腰をブロックし、サイドコントロールを安定させてから脚の握りを離します。",
+      "sectionTitle": "パスガード"
+    },
+    "ko": {
+      "title": "토레안도 패스",
+      "description": "1. 상대의 오픈 가드 앞에서 낮은 자세로 서서 무릎이나 정강이 높이에서 양쪽 바지를 잡습니다.\n2. 두 다리를 한쪽 매트 방향으로 밀면서 반대쪽으로 발 바깥을 빠르게 돌아 들어갑니다.\n3. 가슴을 상대 위로 내리고 엉덩이를 막아 사이드 컨트롤을 안정시킨 뒤 다리 그립을 놓습니다.",
+      "sectionTitle": "가드 패스"
+    },
+    "th": {
+      "title": "โทเรอันโดพาส",
+      "description": "1. ยืนฐานต่ำหน้าโอเพนการ์ดของคู่ฝึก จับกางเกงทั้งสองข้างที่ระดับเข่าหรือหน้าแข้ง\n2. ดันขาทั้งสองไปด้านหนึ่งลงหาเบาะ พร้อมก้าวอ้อมเท้าไปอีกด้านอย่างรวดเร็ว\n3. ทิ้งหน้าอกลงบนคู่ฝึก บล็อกสะโพก และตั้งไซด์คอนโทรลให้มั่นคงก่อนปล่อยขา",
+      "sectionTitle": "การผ่านการ์ด"
+    },
+    "ru": {
+      "title": "Проход тореадора",
+      "description": "1. Встаньте в низкую стойку перед открытым гардом партнёра и возьмитесь за обе штанины у коленей или голеней.\n2. Отведите ноги в сторону к ковру и быстро обойдите стопы с противоположной стороны.\n3. Опустите грудь на партнёра, заблокируйте бедро и закрепите боковой контроль, прежде чем отпустить ноги.",
+      "sectionTitle": "Проходы гарда"
+    },
+    "uk": {
+      "title": "Прохід тореадора",
+      "description": "1. Станьте в низьку стійку перед відкритим гардом партнера й візьміться за обидві холоші біля колін або гомілок.\n2. Відведіть ноги вбік до килима й швидко обійдіть стопи з протилежного боку.\n3. Опустіть груди на партнера, заблокуйте стегно й закріпіть бічний контроль, перш ніж відпустити ноги.",
+      "sectionTitle": "Проходи гарду"
+    }
+  }
+}

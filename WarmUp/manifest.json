@@ -1,0 +1,313 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#0A84FF",
+    "colorType": "blue",
+    "folder": "WarmUp",
+    "id": "9",
+    "icon": "WarmUp/Icon.png",
+    "symbolName": "figure.jumprope",
+    "title": "Warm-up",
+    "workoutType": "warmUp",
+    "translations": {
+      "en": {
+        "title": "Warm-up"
+      },
+      "es": {
+        "title": "Calentamiento"
+      },
+      "pt": {
+        "title": "Aquecimento"
+      },
+      "fr": {
+        "title": "Échauffement"
+      },
+      "de": {
+        "title": "Aufwärmen"
+      },
+      "it": {
+        "title": "Riscaldamento"
+      },
+      "zh-Hans": {
+        "title": "热身"
+      },
+      "ja": {
+        "title": "ウォームアップ"
+      },
+      "ko": {
+        "title": "준비 운동"
+      },
+      "th": {
+        "title": "อบอุ่นร่างกาย"
+      },
+      "ru": {
+        "title": "Разминка"
+      },
+      "uk": {
+        "title": "Розминка"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "WarmUp/exercises/warmUp/Icon.png",
+      "json": "WarmUp/exercises/warmUp/warmUp.json"
+    },
+    {
+      "icon": "WarmUp/exercises/armCircles/Icon.png",
+      "json": "WarmUp/exercises/armCircles/armCircles.json"
+    },
+    {
+      "icon": "WarmUp/exercises/elbowCircles/Icon.png",
+      "json": "WarmUp/exercises/elbowCircles/elbowCircles.json"
+    },
+    {
+      "icon": "WarmUp/exercises/neckMobility/Icon.png",
+      "json": "WarmUp/exercises/neckMobility/neckMobility.json"
+    },
+    {
+      "icon": "WarmUp/exercises/scapularSqueezes/Icon.png",
+      "json": "WarmUp/exercises/scapularSqueezes/scapularSqueezes.json"
+    },
+    {
+      "icon": "WarmUp/exercises/shoulderCircles/Icon.png",
+      "json": "WarmUp/exercises/shoulderCircles/shoulderCircles.json"
+    },
+    {
+      "icon": "WarmUp/exercises/handOpenClose/Icon.png",
+      "json": "WarmUp/exercises/handOpenClose/handOpenClose.json"
+    },
+    {
+      "icon": "WarmUp/exercises/ankleCircles/Icon.png",
+      "json": "WarmUp/exercises/ankleCircles/ankleCircles.json"
+    },
+    {
+      "icon": "WarmUp/exercises/hipCircles/Icon.png",
+      "json": "WarmUp/exercises/hipCircles/hipCircles.json"
+    },
+    {
+      "icon": "WarmUp/exercises/wristCircles/Icon.png",
+      "json": "WarmUp/exercises/wristCircles/wristCircles.json"
+    },
+    {
+      "icon": "WarmUp/exercises/thoracicRotations/Icon.png",
+      "json": "WarmUp/exercises/thoracicRotations/thoracicRotations.json"
+    },
+    {
+      "icon": "WarmUp/exercises/catCow/Icon.png",
+      "json": "WarmUp/exercises/catCow/catCow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/dynamicToeReaches/Icon.png",
+      "json": "WarmUp/exercises/dynamicToeReaches/dynamicToeReaches.json"
+    },
+    {
+      "icon": "WarmUp/exercises/armSwings/Icon.png",
+      "json": "WarmUp/exercises/armSwings/armSwings.json"
+    },
+    {
+      "icon": "WarmUp/exercises/hipOpeners/Icon.png",
+      "json": "WarmUp/exercises/hipOpeners/hipOpeners.json"
+    },
+    {
+      "icon": "WarmUp/exercises/legSwings/Icon.png",
+      "json": "WarmUp/exercises/legSwings/legSwings.json"
+    },
+    {
+      "icon": "WarmUp/exercises/torsoTwists/Icon.png",
+      "json": "WarmUp/exercises/torsoTwists/torsoTwists.json"
+    },
+    {
+      "icon": "WarmUp/exercises/jumpRope/Icon.png",
+      "json": "WarmUp/exercises/jumpRope/jumpRope.json"
+    },
+    {
+      "icon": "WarmUp/exercises/stationaryBike/Icon.png",
+      "json": "WarmUp/exercises/stationaryBike/stationaryBike.json"
+    },
+    {
+      "icon": "WarmUp/exercises/treadmill/Icon.png",
+      "json": "WarmUp/exercises/treadmill/treadmill.json"
+    },
+    {
+      "icon": "WarmUp/exercises/marchInPlace/Icon.png",
+      "json": "WarmUp/exercises/marchInPlace/marchInPlace.json"
+    },
+    {
+      "icon": "WarmUp/exercises/lightJog/Icon.png",
+      "json": "WarmUp/exercises/lightJog/lightJog.json"
+    },
+    {
+      "icon": "WarmUp/exercises/walkingLunges/Icon.png",
+      "json": "WarmUp/exercises/walkingLunges/walkingLunges.json"
+    },
+    {
+      "icon": "WarmUp/exercises/inchworms/Icon.png",
+      "json": "WarmUp/exercises/inchworms/inchworms.json"
+    },
+    {
+      "icon": "WarmUp/exercises/standingWindmills/Icon.png",
+      "json": "WarmUp/exercises/standingWindmills/standingWindmills.json"
+    },
+    {
+      "icon": "WarmUp/exercises/squatToStand/Icon.png",
+      "json": "WarmUp/exercises/squatToStand/squatToStand.json"
+    },
+    {
+      "icon": "WarmUp/exercises/lateralLunges/Icon.png",
+      "json": "WarmUp/exercises/lateralLunges/lateralLunges.json"
+    },
+    {
+      "icon": "WarmUp/exercises/kneeLifts/Icon.png",
+      "json": "WarmUp/exercises/kneeLifts/kneeLifts.json"
+    },
+    {
+      "icon": "WarmUp/exercises/heelDigs/Icon.png",
+      "json": "WarmUp/exercises/heelDigs/heelDigs.json"
+    },
+    {
+      "icon": "WarmUp/exercises/boxingStanceFootwork/Icon.png",
+      "json": "WarmUp/exercises/boxingStanceFootwork/boxingStanceFootwork.json"
+    },
+    {
+      "icon": "WarmUp/exercises/lightBoxingShadowboxing/Icon.png",
+      "json": "WarmUp/exercises/lightBoxingShadowboxing/lightBoxingShadowboxing.json"
+    },
+    {
+      "icon": "WarmUp/exercises/boxingSlipsAndRolls/Icon.png",
+      "json": "WarmUp/exercises/boxingSlipsAndRolls/boxingSlipsAndRolls.json"
+    },
+    {
+      "icon": "WarmUp/exercises/kickFightingStanceAndFootwork/Icon.png",
+      "json": "WarmUp/exercises/kickFightingStanceAndFootwork/kickFightingStanceAndFootwork.json"
+    },
+    {
+      "icon": "WarmUp/exercises/hipRotationFlow/Icon.png",
+      "json": "WarmUp/exercises/hipRotationFlow/hipRotationFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/kneeChamberFlow/Icon.png",
+      "json": "WarmUp/exercises/kneeChamberFlow/kneeChamberFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/lightFrontKickFlow/Icon.png",
+      "json": "WarmUp/exercises/lightFrontKickFlow/lightFrontKickFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/lightRoundhouseKickFlow/Icon.png",
+      "json": "WarmUp/exercises/lightRoundhouseKickFlow/lightRoundhouseKickFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/kickCheckFlow/Icon.png",
+      "json": "WarmUp/exercises/kickCheckFlow/kickCheckFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/grapplingStanceAndMotion/Icon.png",
+      "json": "WarmUp/exercises/grapplingStanceAndMotion/grapplingStanceAndMotion.json"
+    },
+    {
+      "icon": "WarmUp/exercises/levelChangeFlow/Icon.png",
+      "json": "WarmUp/exercises/levelChangeFlow/levelChangeFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/penetrationStepFlow/Icon.png",
+      "json": "WarmUp/exercises/penetrationStepFlow/penetrationStepFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/bridgeFlow/Icon.png",
+      "json": "WarmUp/exercises/bridgeFlow/bridgeFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/hipEscapeFlow/Icon.png",
+      "json": "WarmUp/exercises/hipEscapeFlow/hipEscapeFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/technicalStandUpFlow/Icon.png",
+      "json": "WarmUp/exercises/technicalStandUpFlow/technicalStandUpFlow.json"
+    },
+    {
+      "icon": "WarmUp/exercises/forwardAndBackwardRolls/Icon.png",
+      "json": "WarmUp/exercises/forwardAndBackwardRolls/forwardAndBackwardRolls.json"
+    },
+    {
+      "icon": "WarmUp/exercises/mmaStanceAndMovement/Icon.png",
+      "json": "WarmUp/exercises/mmaStanceAndMovement/mmaStanceAndMovement.json"
+    },
+    {
+      "icon": "WarmUp/exercises/lightMMAShadowboxing/Icon.png",
+      "json": "WarmUp/exercises/lightMMAShadowboxing/lightMMAShadowboxing.json"
+    },
+    {
+      "icon": "WarmUp/exercises/stanceSwitches/Icon.png",
+      "json": "WarmUp/exercises/stanceSwitches/stanceSwitches.json"
+    },
+    {
+      "icon": "WarmUp/exercises/lightClinchPummeling/Icon.png",
+      "json": "WarmUp/exercises/lightClinchPummeling/lightClinchPummeling.json"
+    },
+    {
+      "json": "WarmUp/exercises/jumpingJacks/jumpingJacks.json",
+      "icon": "WarmUp/exercises/jumpingJacks/Icon.png"
+    },
+    {
+      "json": "WarmUp/exercises/buttKicks/buttKicks.json",
+      "icon": "WarmUp/exercises/buttKicks/Icon.png"
+    },
+    {
+      "icon": "WarmUp/exercises/vSitUp/Icon.png",
+      "json": "WarmUp/exercises/vSitUp/vSitUp.json"
+    },
+    {
+      "icon": "WarmUp/exercises/tuckJump/Icon.png",
+      "json": "WarmUp/exercises/tuckJump/tuckJump.json"
+    },
+    {
+      "icon": "WarmUp/exercises/squatThrust/Icon.png",
+      "json": "WarmUp/exercises/squatThrust/squatThrust.json"
+    },
+    {
+      "icon": "WarmUp/exercises/sideSwing/Icon.png",
+      "json": "WarmUp/exercises/sideSwing/sideSwing.json"
+    },
+    {
+      "icon": "WarmUp/exercises/ropeTuckJump/Icon.png",
+      "json": "WarmUp/exercises/ropeTuckJump/ropeTuckJump.json"
+    },
+    {
+      "icon": "WarmUp/exercises/aliShuffle/Icon.png",
+      "json": "WarmUp/exercises/aliShuffle/aliShuffle.json"
+    },
+    {
+      "icon": "WarmUp/exercises/doubleUnders/Icon.png",
+      "json": "WarmUp/exercises/doubleUnders/doubleUnders.json"
+    },
+    {
+      "icon": "WarmUp/exercises/heelExchange/Icon.png",
+      "json": "WarmUp/exercises/heelExchange/heelExchange.json"
+    },
+    {
+      "icon": "WarmUp/exercises/toeExchange/Icon.png",
+      "json": "WarmUp/exercises/toeExchange/toeExchange.json"
+    },
+    {
+      "icon": "WarmUp/exercises/reverseSkipping/Icon.png",
+      "json": "WarmUp/exercises/reverseSkipping/reverseSkipping.json"
+    },
+    {
+      "icon": "WarmUp/exercises/frontCross/Icon.png",
+      "json": "WarmUp/exercises/frontCross/frontCross.json"
+    },
+    {
+      "icon": "WarmUp/exercises/behindTheBackCross/Icon.png",
+      "json": "WarmUp/exercises/behindTheBackCross/behindTheBackCross.json"
+    },
+    {
+      "icon": "WarmUp/exercises/stanceSkipping/Icon.png",
+      "json": "WarmUp/exercises/stanceSkipping/stanceSkipping.json"
+    },
+    {
+      "icon": "WarmUp/exercises/squatSkipping/Icon.png",
+      "json": "WarmUp/exercises/squatSkipping/squatSkipping.json"
+    }
+  ]
+}

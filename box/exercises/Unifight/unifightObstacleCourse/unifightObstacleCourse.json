@@ -1,0 +1,87 @@
+{
+  "id": "105.2",
+  "key": "unifight_obstacle_course",
+  "title": "Unifight Obstacle Course",
+  "description": "1. Set up a short lane with the obstacles available, such as a tyre maze, low beam, fence, horizontal ladder and tunnel, ending beside a mat.\n2. Run the lane continuously at race pace, clearing each obstacle cleanly and repeating any failed obstacle before moving on.\n3. Walk back to the start to recover and repeat, stopping before fatigue makes landings unsafe.",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 3.3,
+    "moderate": 4.8,
+    "vigorous": 7.5,
+    "lightCode": "12026",
+    "moderateCode": "12025",
+    "vigorousCode": "12020"
+  },
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Unifight Obstacle Course",
+      "description": "1. Set up a short lane with the obstacles available, such as a tyre maze, low beam, fence, horizontal ladder and tunnel, ending beside a mat.\n2. Run the lane continuously at race pace, clearing each obstacle cleanly and repeating any failed obstacle before moving on.\n3. Walk back to the start to recover and repeat, stopping before fatigue makes landings unsafe.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Recorrido de obstáculos de Unifight",
+      "description": "1. Prepara un recorrido corto con los obstáculos disponibles, como laberinto de neumáticos, viga baja, valla, escalera horizontal y túnel, terminando junto a un tatami.\n2. Recórrelo sin parar a ritmo de carrera, superando cada obstáculo limpiamente y repitiendo cualquier fallo antes de continuar.\n3. Vuelve caminando al inicio para recuperarte y repite, parando antes de que la fatiga haga inseguras las recepciones.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Pista de obstáculos de Unifight",
+      "description": "1. Monte uma pista curta com os obstáculos disponíveis, como labirinto de pneus, trave baixa, cerca, escada horizontal e túnel, terminando junto a um tatame.\n2. Percorra-a sem parar em ritmo de prova, vencendo cada obstáculo com limpeza e repetindo qualquer falha antes de seguir.\n3. Volte caminhando ao início para recuperar e repita, parando antes que o cansaço torne as aterrissagens inseguras.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Parcours d’obstacles d’Unifight",
+      "description": "1. Installez un court parcours avec les obstacles disponibles, labyrinthe de pneus, poutre basse, palissade, échelle horizontale et tunnel, arrivant près d’un tapis.\n2. Parcourez-le sans arrêt à allure de course, en franchissant proprement chaque obstacle et en recommençant tout obstacle manqué avant de continuer.\n3. Revenez en marchant au départ pour récupérer et recommencez, en arrêtant avant que la fatigue rende les réceptions dangereuses.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Unifight-Hindernisbahn",
+      "description": "1. Baue eine kurze Bahn mit vorhandenen Hindernissen auf, etwa Reifenlabyrinth, niedriger Balken, Zaun, Hangelleiter und Tunnel, mit Ziel neben einer Matte.\n2. Laufe sie durchgehend im Wettkampftempo, überwinde jedes Hindernis sauber und wiederhole ein misslungenes, bevor du weitergehst.\n3. Gehe zur Erholung zum Start zurück und wiederhole, und höre auf, bevor Müdigkeit die Landungen unsicher macht.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Percorso a ostacoli di Unifight",
+      "description": "1. Allestisci un breve percorso con gli ostacoli disponibili, come labirinto di pneumatici, trave bassa, palizzata, scala orizzontale e tunnel, con arrivo accanto a un tatami.\n2. Percorrilo senza fermarti a ritmo di gara, superando ogni ostacolo in modo pulito e ripetendo quelli falliti prima di proseguire.\n3. Torna camminando alla partenza per recuperare e ripeti, fermandoti prima che la fatica renda insicuri gli atterraggi.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "Unifight障碍跑",
+      "description": "1. 用现有障碍布置一条短跑道，如轮胎迷宫、低平衡木、围栏、水平梯和隧道，终点设在垫子旁。\n2. 以比赛速度不间断跑完，干净地通过每个障碍，失败的障碍重做后再继续。\n3. 走回起点恢复后重复，在疲劳导致落地不安全之前停止。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "ユニファイト障害物コース",
+      "description": "1. タイヤ迷路、低い平均台、フェンス、雲梯、トンネルなど使える障害物で短いコースを作り、ゴールをマットの横にします。\n2. 競技ペースで止まらず走り、各障害を確実に越え、失敗した障害はやり直してから進みます。\n3. スタートまで歩いて戻って回復し、疲労で着地が危なくなる前にやめます。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "유니파이트 장애물 코스",
+      "description": "1. 타이어 미로, 낮은 평균대, 담장, 수평 사다리, 터널 등 가능한 장애물로 짧은 코스를 만들고 매트 옆에서 끝나게 합니다.\n2. 경기 속도로 쉬지 않고 달리며 각 장애물을 깔끔하게 넘고, 실패한 장애물은 다시 한 뒤 진행합니다.\n3. 출발점까지 걸어 돌아와 회복하고 반복하며, 피로로 착지가 위험해지기 전에 멈춥니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "เส้นทางเครื่องกีดขวางยูนิไฟต์",
+      "description": "1. จัดเส้นทางสั้นด้วยเครื่องกีดขวางที่มี เช่น เขาวงกตยาง คานต่ำ รั้ว บันไดแนวนอน และอุโมงค์ โดยเส้นชัยอยู่ข้างเบาะ\n2. วิ่งต่อเนื่องด้วยความเร็วระดับแข่งขัน ผ่านแต่ละเครื่องกีดขวางอย่างเรียบร้อย และทำซ้ำจุดที่พลาดก่อนไปต่อ\n3. เดินกลับจุดเริ่มเพื่อพักแล้วทำซ้ำ หยุดก่อนที่ความเหนื่อยจะทำให้การลงพื้นไม่ปลอดภัย",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Полоса препятствий универсального боя",
+      "description": "1. Соберите короткую полосу из доступных препятствий — лабиринт из шин, низкое бревно, забор, горизонтальная лестница, туннель — с финишем у татами.\n2. Пройдите её без остановки в соревновательном темпе, чисто преодолевая каждое препятствие и повторяя неудачное, прежде чем двигаться дальше.\n3. Вернитесь шагом к старту для восстановления и повторите; остановитесь, пока усталость не сделала приземления небезопасными.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Смуга перешкод універсального бою",
+      "description": "1. Складіть коротку смугу з доступних перешкод — лабіринт із шин, низька колода, паркан, горизонтальна драбина, тунель — з фінішем біля татамі.\n2. Пройдіть її без зупинки в змагальному темпі, чисто долаючи кожну перешкоду й повторюючи невдалу, перш ніж рухатися далі.\n3. Поверніться кроком до старту для відновлення й повторіть; зупиніться, доки втома не зробила приземлення небезпечними.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

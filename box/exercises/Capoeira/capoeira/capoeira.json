@@ -1,0 +1,87 @@
+{
+  "id": "49.1",
+  "key": "capoeira",
+  "title": "Capoeira",
+  "description": "1. Start in the ginga with the feet wide, knees bent, one arm guarding the face, and the eyes on the space in front.\n2. Flow between ginga, esquivas, negativa, rolê, and low or circular kicks at a steady rhythm, keeping the hands ready to touch the floor.\n3. Return to the ginga after every movement, keep kicks controlled, and stop whenever balance or space is lost.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Capoeira",
+      "description": "1. Start in the ginga with the feet wide, knees bent, one arm guarding the face, and the eyes on the space in front.\n2. Flow between ginga, esquivas, negativa, rolê, and low or circular kicks at a steady rhythm, keeping the hands ready to touch the floor.\n3. Return to the ginga after every movement, keep kicks controlled, and stop whenever balance or space is lost.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Capoeira",
+      "description": "1. Empieza en la ginga con los pies separados, rodillas flexionadas, un brazo protegiendo la cara y la mirada al frente.\n2. Fluye entre ginga, esquivas, negativa, rolê y patadas bajas o circulares a ritmo constante, con las manos listas para tocar el suelo.\n3. Vuelve a la ginga tras cada movimiento, controla las patadas y detente si pierdes el equilibrio o el espacio.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Capoeira",
+      "description": "1. Comece na ginga com os pés afastados, joelhos flexionados, um braço protegendo o rosto e o olhar à frente.\n2. Flua entre ginga, esquivas, negativa, rolê e chutes baixos ou circulares em ritmo constante, com as mãos prontas para tocar o chão.\n3. Volte à ginga após cada movimento, controle os chutes e pare sempre que perder o equilíbrio ou o espaço.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Capoeira",
+      "description": "1. Commencez dans la ginga, pieds écartés, genoux fléchis, un bras protégeant le visage et le regard devant.\n2. Enchaînez ginga, esquivas, negativa, rolê et coups de pied bas ou circulaires à rythme régulier, mains prêtes à toucher le sol.\n3. Revenez à la ginga après chaque mouvement, contrôlez les coups de pied et arrêtez-vous dès que l’équilibre ou l’espace manque.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Capoeira",
+      "description": "1. Beginne in der Ginga mit weiten Füßen, gebeugten Knien, einem Arm schützend vor dem Gesicht und dem Blick nach vorn.\n2. Fließe in gleichmäßigem Rhythmus zwischen Ginga, Esquivas, Negativa, Rolê und tiefen oder kreisenden Tritten, die Hände bereit zum Bodenkontakt.\n3. Kehre nach jeder Bewegung in die Ginga zurück, kontrolliere die Tritte und stoppe, sobald Gleichgewicht oder Platz fehlen.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Capoeira",
+      "description": "1. Parti dalla ginga con piedi larghi, ginocchia piegate, un braccio a protezione del viso e lo sguardo avanti.\n2. Fluisci tra ginga, esquivas, negativa, rolê e calci bassi o circolari a ritmo costante, con le mani pronte a toccare terra.\n3. Torna alla ginga dopo ogni movimento, controlla i calci e fermati se perdi equilibrio o spazio.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "卡波耶拉",
+      "description": "1. 以金加步开始：双脚分开、屈膝，一只手臂护脸，目视前方。\n2. 以稳定节奏在金加、闪避、内加蒂瓦、翻滚移动以及低位或弧形踢之间流畅衔接，双手随时准备撑地。\n3. 每个动作后回到金加，踢腿保持控制，一旦失去平衡或空间立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "カポエイラ",
+      "description": "1. 足を広げ膝を曲げ、片腕で顔を守り、前方を見てジンガから始めます。\n2. 一定のリズムでジンガ、エスキーバ、ネガチーバ、ホレー、低い蹴りや円を描く蹴りをつなぎ、手はいつでも床につけるようにします。\n3. 動作のたびにジンガへ戻り、蹴りをコントロールし、バランスや空間を失ったらすぐに止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "카포에이라",
+      "description": "1. 발을 넓게 벌리고 무릎을 굽힌 채 한쪽 팔로 얼굴을 보호하고 앞을 보며 징가로 시작합니다.\n2. 일정한 리듬으로 징가, 에스키바, 네가치바, 홀레, 낮거나 원을 그리는 킥을 이어 가며 손은 언제든 바닥을 짚을 수 있게 합니다.\n3. 동작마다 징가로 돌아오고 킥을 통제하며, 균형이나 공간을 잃으면 즉시 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "คาโปเอรา",
+      "description": "1. เริ่มด้วยจิงกา เท้ากว้าง งอเข่า แขนข้างหนึ่งป้องกันใบหน้า และมองไปข้างหน้า\n2. เคลื่อนต่อเนื่องระหว่างจิงกา เอสกีวา เนกาติวา โฮเล และลูกเตะต่ำหรือเตะวงในจังหวะคงที่ โดยมือพร้อมแตะพื้นเสมอ\n3. กลับสู่จิงกาหลังทุกท่า ควบคุมลูกเตะ และหยุดทันทีเมื่อเสียสมดุลหรือพื้นที่ไม่พอ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Капоэйра",
+      "description": "1. Начните в джинге: стопы широко, колени согнуты, одна рука защищает лицо, взгляд вперёд.\n2. В ровном ритме переходите между джингой, эскивами, негативой, роле и низкими или круговыми ударами ногами, держа руки готовыми к опоре на пол.\n3. После каждого движения возвращайтесь в джингу, контролируйте удары и останавливайтесь при потере равновесия или места.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Капоейра",
+      "description": "1. Почніть у джинзі: стопи широко, коліна зігнуті, одна рука захищає обличчя, погляд уперед.\n2. У рівному ритмі переходьте між джингою, ескивами, негативою, роле та низькими або коловими ударами ногами, тримаючи руки готовими спертися на підлогу.\n3. Після кожного руху повертайтеся в джингу, контролюйте удари й зупиняйтеся, якщо втрачаєте рівновагу чи простір.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "95.1",
+  "key": "sqay_main",
+  "title": "Sqay",
+  "description": "1. Stand in guard with the training sword in the right hand and the small shield in the left, knees bent and the shield in front of the body.\n2. Practice basic cuts and guards with stepping footwork, covering with the shield each time the sword strikes.\n3. Return to guard after every sequence and keep the sword tip under control.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "sqay",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sqay",
+      "description": "1. Stand in guard with the training sword in the right hand and the small shield in the left, knees bent and the shield in front of the body.\n2. Practice basic cuts and guards with stepping footwork, covering with the shield each time the sword strikes.\n3. Return to guard after every sequence and keep the sword tip under control.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Sqay",
+      "description": "1. Ponte en guardia con la espada de entrenamiento en la mano derecha y el escudo pequeño en la izquierda, rodillas flexionadas y escudo delante del cuerpo.\n2. Practica cortes y guardias básicos con desplazamientos, cubriéndote con el escudo cada vez que golpea la espada.\n3. Vuelve a la guardia tras cada secuencia y mantén controlada la punta de la espada.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Sqay",
+      "description": "1. Fique em guarda com a espada de treino na mão direita e o escudo pequeno na esquerda, joelhos fletidos e escudo à frente do corpo.\n2. Pratique cortes e guardas básicos com deslocamentos, cobrindo-se com o escudo cada vez que a espada golpeia.\n3. Volte à guarda após cada sequência e mantenha a ponta da espada sob controle.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Sqay",
+      "description": "1. Mettez-vous en garde, épée d’entraînement en main droite et petit bouclier en main gauche, genoux fléchis et bouclier devant le corps.\n2. Travaillez les coupes et gardes de base avec des déplacements, en couvrant avec le bouclier à chaque frappe d’épée.\n3. Revenez en garde après chaque séquence et gardez la pointe sous contrôle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Sqay",
+      "description": "1. Gehe in Deckung, Trainingsschwert in der rechten, kleiner Schild in der linken Hand, Knie gebeugt, Schild vor dem Körper.\n2. Übe grundlegende Hiebe und Deckungen mit Schrittarbeit und decke bei jedem Schwerthieb mit dem Schild.\n3. Kehre nach jeder Folge in die Deckung zurück und halte die Schwertspitze unter Kontrolle.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Sqay",
+      "description": "1. Mettiti in guardia con la spada da allenamento nella mano destra e il piccolo scudo nella sinistra, ginocchia piegate e scudo davanti al corpo.\n2. Allena tagli e guardie di base con spostamenti, coprendoti con lo scudo a ogni colpo di spada.\n3. Torna in guardia dopo ogni sequenza e tieni sotto controllo la punta della spada.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "克什米尔剑盾术",
+      "description": "1. 右手持训练剑，左手持小盾，屈膝成戒备姿势，盾在身前。\n2. 配合步法练习基本劈砍和格挡，每次出剑时用盾掩护。\n3. 每组动作后回到戒备，控制好剑尖。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "スカイ",
+      "description": "1. 右手に練習用の剣、左手に小さな盾を持ち、膝を曲げて盾を体の前に構えます。\n2. 足運びとともに基本の斬りと構えを練習し、剣で打つたびに盾で身を守ります。\n3. 各連続動作の後は構えに戻り、剣先を制御し続けます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "스카이",
+      "description": "1. 오른손에 훈련용 검, 왼손에 작은 방패를 들고 무릎을 굽혀 방패를 몸 앞에 둔 가드를 잡습니다.\n2. 스텝과 함께 기본 베기와 막기 자세를 연습하며 검으로 칠 때마다 방패로 가립니다.\n3. 각 연속 동작 후 가드로 돌아오고 검 끝을 통제합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "สกาย",
+      "description": "1. ยืนการ์ดโดยถือดาบฝึกด้วยมือขวาและโล่เล็กด้วยมือซ้าย งอเข่าและโล่อยู่หน้าลำตัว\n2. ฝึกการฟันและท่าป้องกันพื้นฐานพร้อมการก้าว โดยใช้โล่บังทุกครั้งที่ฟันดาบ\n3. กลับสู่การ์ดหลังทุกชุดและควบคุมปลายดาบ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Скай",
+      "description": "1. Встаньте в стойку с тренировочным мечом в правой руке и малым щитом в левой, колени согнуты, щит перед корпусом.\n2. Отрабатывайте базовые рубящие удары и защитные позиции с передвижением, прикрываясь щитом при каждом ударе мечом.\n3. После каждой серии возвращайтесь в стойку и контролируйте острие меча.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Скай",
+      "description": "1. Станьте в стійку з тренувальним мечем у правій руці й малим щитом у лівій, коліна зігнуті, щит перед корпусом.\n2. Відпрацьовуйте базові рубальні удари й захисні позиції з пересуванням, прикриваючись щитом під час кожного удару мечем.\n3. Після кожної серії повертайтеся в стійку й контролюйте вістря меча.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

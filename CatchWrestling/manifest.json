@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#FD7C5D",
+    "colorType": "coral",
+    "folder": "CatchWrestling",
+    "id": "50",
+    "icon": "CatchWrestling/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Catch Wrestling",
+    "workoutType": "catchWrestling",
+    "translations": {
+      "en": {
+        "title": "Catch Wrestling"
+      },
+      "es": {
+        "title": "Lucha catch"
+      },
+      "pt": {
+        "title": "Luta catch"
+      },
+      "fr": {
+        "title": "Lutte catch"
+      },
+      "de": {
+        "title": "Catch-Ringen"
+      },
+      "it": {
+        "title": "Lotta catch"
+      },
+      "zh-Hans": {
+        "title": "卡奇摔跤"
+      },
+      "ja": {
+        "title": "キャッチレスリング"
+      },
+      "ko": {
+        "title": "캐치 레슬링"
+      },
+      "th": {
+        "title": "มวยปล้ำแคตช์"
+      },
+      "ru": {
+        "title": "Кэтч-рестлинг"
+      },
+      "uk": {
+        "title": "Кетч-реслінг"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "CatchWrestling/exercises/catchWrestling/Icon.png",
+      "json": "CatchWrestling/exercises/catchWrestling/catchWrestling.json"
+    },
+    {
+      "icon": "CatchWrestling/exercises/dArceChoke/Icon.png",
+      "json": "CatchWrestling/exercises/dArceChoke/dArceChoke.json"
+    },
+    {
+      "icon": "CatchWrestling/exercises/anacondaChoke/Icon.png",
+      "json": "CatchWrestling/exercises/anacondaChoke/anacondaChoke.json"
+    },
+    {
+      "icon": "CatchWrestling/exercises/frontFaceLock/Icon.png",
+      "json": "CatchWrestling/exercises/frontFaceLock/frontFaceLock.json"
+    },
+    {
+      "icon": "CatchWrestling/exercises/pin/Icon.png",
+      "json": "CatchWrestling/exercises/pin/pin.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "48.10",
+  "key": "canne_parade_verticale_exterieure",
+  "title": "Parade Verticale Exterieure",
+  "description": "1. Face a trained partner; the attacker delivers a slow strike toward your outside low line or flank.\n2. As defender, drop the cane to a vertical position on the outside, point down, so the shaft covers the leg and lower flank and meets the strike.\n3. Hold balance without bending forward, return to guard, and swap roles.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Partner Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Parade Verticale Exterieure",
+      "description": "1. Face a trained partner; the attacker delivers a slow strike toward your outside low line or flank.\n2. As defender, drop the cane to a vertical position on the outside, point down, so the shaft covers the leg and lower flank and meets the strike.\n3. Hold balance without bending forward, return to guard, and swap roles.",
+      "sectionTitle": "Partner Parries"
+    },
+    "es": {
+      "title": "Parade verticale extérieure",
+      "description": "1. Frente a un compañero entrenado, el atacante lanza un golpe lento hacia tu línea baja exterior o flanco.\n2. Como defensor, baja el bastón a una posición vertical en el exterior, punta abajo, para que el fuste cubra la pierna y el flanco bajo y reciba el golpe.\n3. Mantén el equilibrio sin inclinarte hacia delante, vuelve a la guardia y cambia de rol.",
+      "sectionTitle": "Paradas con compañero"
+    },
+    "pt": {
+      "title": "Parade verticale extérieure",
+      "description": "1. Diante de um parceiro treinado, o atacante desfere um golpe lento em direção à sua linha baixa exterior ou flanco.\n2. Como defensor, baixe a bengala a uma posição vertical por fora, ponta para baixo, para que a haste cubra a perna e o flanco baixo e receba o golpe.\n3. Mantenha o equilíbrio sem se inclinar à frente, volte à guarda e troque de papel.",
+      "sectionTitle": "Defesas com parceiro"
+    },
+    "fr": {
+      "title": "Parade verticale extérieure",
+      "description": "1. Face à un partenaire entraîné, l’attaquant porte lentement un coup vers votre ligne basse extérieure ou votre flanc.\n2. En défense, abaissez la canne en position verticale à l’extérieur, pointe en bas, pour que le fût couvre la jambe et le bas du flanc et reçoive le coup.\n3. Gardez l’équilibre sans vous pencher en avant, revenez en garde et changez de rôle.",
+      "sectionTitle": "Parades avec partenaire"
+    },
+    "de": {
+      "title": "Parade verticale extérieure",
+      "description": "1. Einem trainierten Partner gegenüber: Der Angreifer schlägt langsam zur äußeren tiefen Linie oder Flanke.\n2. Als Verteidiger den Stock außen in eine senkrechte Position senken, Spitze unten, sodass der Schaft Bein und untere Flanke deckt und den Schlag auffängt.\n3. Gleichgewicht halten, ohne sich vorzubeugen, in die Grundstellung zurück und Rollen tauschen.",
+      "sectionTitle": "Paraden mit Partner"
+    },
+    "it": {
+      "title": "Parade verticale extérieure",
+      "description": "1. Di fronte a un partner allenato, l’attaccante porta lentamente un colpo verso la tua linea bassa esterna o il fianco.\n2. Come difensore abbassa il bastone in posizione verticale all’esterno, punta in basso, così che il fusto copra la gamba e il fianco basso e riceva il colpo.\n3. Mantieni l’equilibrio senza piegarti in avanti, torna in guardia e scambia i ruoli.",
+      "sectionTitle": "Parate con partner"
+    },
+    "zh-Hans": {
+      "title": "外侧竖直格挡",
+      "description": "1. 面对受过训练的同伴；进攻方缓慢击向你外侧低线或侧身。\n2. 防守方将杖在外侧放成竖直、杖尖向下，使杖身护住腿和下侧身并接住击打。\n3. 保持平衡不前倾，回到戒备并交换角色。",
+      "sectionTitle": "双人格挡"
+    },
+    "ja": {
+      "title": "パラード・ヴェルティカル・エクステリユール",
+      "description": "1. 訓練を積んだ相手と向き合い、攻撃側が外側の下段または脇腹へゆっくり打ちます。\n2. 防御側はカンヌを外側で先端を下にした垂直位置へ下ろし、柄で脚と脇腹下部を覆って打撃を受けます。\n3. 前かがみにならずにバランスを保ち、構えに戻って役割を交代します。",
+      "sectionTitle": "相手とのパラード"
+    },
+    "ko": {
+      "title": "파라드 베르티칼 엑스테리외르",
+      "description": "1. 훈련된 파트너와 마주하고, 공격자는 바깥쪽 하단 선이나 옆구리를 향해 천천히 칩니다.\n2. 방어자는 지팡이를 바깥쪽에서 끝이 아래로 향하는 수직 자세로 내려 몸통이 다리와 아래 옆구리를 덮으며 타격을 받게 합니다.\n3. 앞으로 숙이지 않고 균형을 유지하며 가드로 돌아와 역할을 바꿉니다.",
+      "sectionTitle": "파트너 막기"
+    },
+    "th": {
+      "title": "ปาราด แวร์ติกาล เอ็กซ์เตรีเยอร์",
+      "description": "1. ยืนหันหน้าคู่ฝึก ฝ่ายโจมตีตีช้าๆ ไปที่แนวต่ำด้านนอกหรือสีข้าง\n2. ฝ่ายป้องกันลดไม้ลงเป็นแนวตั้งด้านนอก ปลายไม้ชี้ลง ให้ลำไม้คลุมขาและสีข้างช่วงล่างและรับการตี\n3. รักษาสมดุลโดยไม่โน้มตัวไปข้างหน้า กลับสู่การ์ด แล้วสลับบทบาท",
+      "sectionTitle": "การปัดป้องกับคู่ฝึก"
+    },
+    "ru": {
+      "title": "Парад вертикаль экстерьёр",
+      "description": "1. Встаньте напротив подготовленного партнёра; атакующий медленно бьёт во внешнюю нижнюю линию или корпус.\n2. Защитник опускает трость в вертикальное положение снаружи, острием вниз, чтобы древко закрыло ногу и нижнюю часть корпуса и приняло удар.\n3. Сохраните равновесие, не наклоняясь вперёд, вернитесь в стойку и поменяйтесь ролями.",
+      "sectionTitle": "Парады с партнёром"
+    },
+    "uk": {
+      "title": "Парад вертикаль екстер’єр",
+      "description": "1. Станьте навпроти підготовленого партнера; той, хто атакує, повільно б’є в зовнішню нижню лінію чи корпус.\n2. Захисник опускає тростину у вертикальне положення ззовні, вістрям униз, щоб древко закрило ногу й нижню частину корпусу та прийняло удар.\n3. Збережіть рівновагу, не нахиляючись уперед, поверніться в стійку й поміняйтеся ролями.",
+      "sectionTitle": "Паради з партнером"
+    }
+  }
+}

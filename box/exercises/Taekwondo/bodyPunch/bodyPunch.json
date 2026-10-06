@@ -21,5 +21,67 @@
   "section": "4 Strikes",
   "availableFrom": "1.1.2",
   "availableUntil": null,
-  "state": "active"
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Body Punch",
+      "description": "1. From a stable stance, chamber one fist at the hip or hold it at guard while the opposite shoulder remains relaxed.\n2. Drive the fist straight toward the center of a body pad, rotating it near extension and coordinating the hips.\n3. Stop before locking the elbow and retract along the same line to the chamber or guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Puñetazo al cuerpo",
+      "description": "1. Desde una postura estable, prepara un puño en la cadera o mantenlo en guardia mientras el hombro contrario permanece relajado.\n2. Impulsa el puño recto hacia el centro de un escudo corporal, girándolo cerca de la extensión y coordinando las caderas.\n3. Detente antes de bloquear el codo y retira el puño por la misma línea a la posición preparada o a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Soco no corpo",
+      "description": "1. Numa base estável, prepare um punho no quadril ou mantenha-o na guarda, com o ombro oposto relaxado.\n2. Impulsione o punho reto ao centro de um aparador corporal, girando-o perto da extensão e coordenando os quadris.\n3. Pare antes de travar o cotovelo e recolha pela mesma linha à posição preparada ou à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Coup de poing au corps",
+      "description": "1. Depuis une position stable, armez un poing à la hanche ou gardez-le en garde, l’épaule opposée détendue.\n2. Propulsez le poing droit vers le centre d’un bouclier de frappe, en le tournant près de l’extension et en coordonnant les hanches.\n3. Arrêtez avant de verrouiller le coude et ramenez le poing sur la même ligne à la position armée ou en garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Fauststoß zum Körper",
+      "description": "1. Führe aus einem stabilen Stand eine Faust zur Hüfte oder halte sie in der Deckung, während die andere Schulter entspannt bleibt.\n2. Stoße die Faust gerade zur Mitte eines Körperpolsters, drehe sie kurz vor der Streckung und koordiniere die Hüftbewegung.\n3. Stoppe vor dem Durchdrücken des Ellbogens und ziehe die Faust auf derselben Linie zur Hüfte oder Deckung zurück.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Pugno al corpo",
+      "description": "1. Da una posizione stabile, prepara un pugno all’anca o tienilo in guardia mantenendo rilassata la spalla opposta.\n2. Spingi il pugno diritto verso il centro di uno scudo da corpo, ruotandolo vicino all’estensione e coordinando le anche.\n3. Fermati prima di bloccare il gomito e ritira lungo la stessa linea alla posizione preparata o alla guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "躯干冲拳",
+      "description": "1. 从稳定站姿开始，将一拳预备在髋部或保持防守位置，对侧肩部保持放松。\n2. 拳直线打向护腹靶中央，接近伸展时转拳，并协调髋部动作。\n3. 肘关节锁死前停止，沿原路线收回至预备位置或防守位置。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "胴への突き",
+      "description": "1. 安定した構えから片方の拳を腰へ引くかガードに置き、反対の肩はリラックスさせます。\n2. 腰の動きと合わせて拳をボディミットの中央へまっすぐ出し、伸びきる直前に拳を回します。\n3. 肘をロックする前に止め、同じ軌道で引き手またはガードへ戻します。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "몸통지르기",
+      "description": "1. 안정된 자세에서 한 주먹을 골반에 준비하거나 가드에 두고 반대 어깨의 힘을 뺍니다.\n2. 골반 움직임과 맞춰 주먹을 보디 패드 중앙으로 곧게 내밀며 펴지는 지점 가까이에서 주먹을 돌립니다.\n3. 팔꿈치가 잠기기 전에 멈추고 같은 선을 따라 준비 위치나 가드로 되돌립니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ชกลำตัว",
+      "description": "1. จากท่ายืนมั่นคง เตรียมหมัดข้างหนึ่งที่สะโพกหรือไว้ในท่าการ์ด โดยผ่อนคลายไหล่อีกข้าง\n2. ส่งหมัดตรงเข้ากลางเป้าลำตัว หมุนหมัดใกล้จุดเหยียดสุดและประสานการเคลื่อนสะโพก\n3. หยุดก่อนล็อกศอกแล้วดึงหมัดกลับตามแนวเดิมสู่ตำแหน่งเตรียมหรือการ์ด",
+      "sectionTitle": "การโจมตี"
+    },
+    "ru": {
+      "title": "Удар рукой в корпус",
+      "description": "1. Из устойчивой стойки подготовьте один кулак у таза или держите его в защите, расслабив противоположное плечо.\n2. Направьте кулак прямо в центр щита для корпуса, повернув его ближе к разгибанию и согласуя движение таза.\n3. Остановитесь до блокировки локтя и верните кулак по той же линии в подготовительное положение или защиту.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Удар рукою в корпус",
+      "description": "1. Із стійкої позиції підготуйте один кулак біля таза або тримайте його в захисті, розслабивши протилежне плече.\n2. Спрямуйте кулак прямо в центр щита для корпуса, повернувши його ближче до розгинання й узгоджуючи рух таза.\n3. Зупиніться до блокування ліктя й поверніть кулак тією самою лінією в підготовче положення або захист.",
+      "sectionTitle": "Удари"
+    }
+  }
 }

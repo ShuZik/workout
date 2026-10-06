@@ -1,0 +1,90 @@
+{
+  "id": "54.27",
+  "key": "fencing_ceding_parry",
+  "title": "Ceding Parry",
+  "description": "1. Let the partner take your blade with a bind or coulé, for example a bind from sixte toward the low line.\n2. Instead of resisting, yield to the pressure and pivot your hand around the contact into the parry on the side of the attack, keeping your strong against the partner's blade.\n3. Riposte from the ceding position, recover to en garde, and swap roles; keep the partner's pressure moderate while learning.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ceding Parry",
+      "description": "1. Let the partner take your blade with a bind or coulé, for example a bind from sixte toward the low line.\n2. Instead of resisting, yield to the pressure and pivot your hand around the contact into the parry on the side of the attack, keeping your strong against the partner's blade.\n3. Riposte from the ceding position, recover to en garde, and swap roles; keep the partner's pressure moderate while learning.",
+      "sectionTitle": "Parries"
+    },
+    "es": {
+      "title": "Parada cediendo",
+      "description": "1. Deja que el compañero tome tu hoja con un ligamento o un coulé, por ejemplo un ligamento desde sexta hacia la línea baja.\n2. En lugar de resistir, cede a la presión y gira la mano alrededor del contacto hasta la parada del lado del ataque, manteniendo tu fuerte contra su hoja.\n3. Responde desde la posición cedida, vuelve a guardia y cambia papeles; que la presión del compañero sea moderada mientras aprendes.",
+      "sectionTitle": "Paradas"
+    },
+    "pt": {
+      "title": "Parada cedendo",
+      "description": "1. Deixe o parceiro tomar sua lâmina com ligamento ou coulé, por exemplo um ligamento de sexta para a linha baixa.\n2. Em vez de resistir, ceda à pressão e gire a mão em torno do contato até a parada do lado do ataque, mantendo seu forte contra a lâmina dele.\n3. Responda a partir da posição cedida, volte à guarda e troque papéis; mantenha a pressão do parceiro moderada enquanto aprende.",
+      "sectionTitle": "Paradas"
+    },
+    "fr": {
+      "title": "Parade cédante",
+      "description": "1. Laissez le partenaire prendre votre fer par un liement ou un coulé, par exemple un liement de sixte vers la ligne basse.\n2. Au lieu de résister, cédez à la pression et pivotez la main autour du contact jusqu’à la parade du côté de l’attaque, votre fort contre son fer.\n3. Ripostez depuis la position cédée, revenez en garde et inversez ; gardez une pression modérée pendant l’apprentissage.",
+      "sectionTitle": "Parades"
+    },
+    "de": {
+      "title": "Nachgebende Parade",
+      "description": "1. Lass den Partner deine Klinge mit Bindung oder Coulé nehmen, etwa eine Bindung aus Sixt in die tiefe Linie.\n2. Statt Widerstand zu leisten, gib dem Druck nach und drehe die Hand um den Kontakt in die Parade auf der Angriffsseite, deine Stärke an seiner Klinge.\n3. Ripostiere aus der nachgebenden Stellung, kehre zurück und tauscht; halte den Partnerdruck beim Lernen moderat.",
+      "sectionTitle": "Paraden"
+    },
+    "it": {
+      "title": "Parata di ceduta",
+      "description": "1. Lascia che il compagno prenda la tua lama con un legamento o un filo, per esempio un legamento da sesta verso la linea bassa.\n2. Invece di opporti, cedi alla pressione e ruota la mano attorno al contatto fino alla parata dal lato dell’attacco, col tuo forte contro la sua lama.\n3. Rispondi dalla posizione di ceduta, torna in guardia e scambiate; tieni moderata la pressione del compagno durante l’apprendimento.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "让步防守",
+      "description": "1. 让同伴用斜压剑或滑剑控制你的剑，例如从第六位向低线斜压。\n2. 不要硬顶，顺着压力让步，手绕接触点转到进攻一侧的防守位，强部始终贴住对方剑身。\n3. 从让步位置还击，恢复实战姿势后交换角色；学习阶段同伴的压力保持适中。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "セダン・パラード",
+      "description": "1. 相手にリエマンやクーレで自分の剣を取らせます（例：シクストから低いラインへのリエマン）。\n2. 抵抗せず圧力に譲り、接点を軸に手を回して攻撃側のパラードへ移り、強部を相手の剣に当て続けます。\n3. 譲った位置からリポストし、アンガルドに戻って交代します。習得中は相手の圧を中程度に保ちます。",
+      "sectionTitle": "パラード"
+    },
+    "ko": {
+      "title": "양보 패리",
+      "description": "1. 파트너가 바인드나 쿨레로 내 칼을 잡게 합니다(예: 식스트에서 낮은 라인으로 바인드).\n2. 버티지 말고 압력에 양보하며 접촉점을 축으로 손을 돌려 공격 쪽 패리로 옮기고, 강부를 상대 칼에 계속 댑니다.\n3. 양보한 자세에서 리포스트하고 앙가르드로 돌아와 역할을 바꾸며, 배우는 동안 파트너 압력은 적당히 유지합니다.",
+      "sectionTitle": "패리"
+    },
+    "th": {
+      "title": "การปัดแบบยอม",
+      "description": "1. ให้คู่ฝึกจับดาบของคุณด้วยไบนด์หรือคูเล เช่น ไบนด์จากซิกซ์ต์ลงสู่แนวต่ำ\n2. แทนที่จะต้าน ให้ยอมตามแรงกดและหมุนมือรอบจุดสัมผัสเข้าสู่ท่าปัดด้านที่ถูกโจมตี โดยส่วนแข็งยังแนบดาบคู่ฝึก\n3. โต้กลับจากตำแหน่งที่ยอม กลับสู่อองการ์ดแล้วสลับบทบาท ให้คู่ฝึกกดแรงปานกลางระหว่างฝึก",
+      "sectionTitle": "การปัดป้อง"
+    },
+    "ru": {
+      "title": "Уступающая защита",
+      "description": "1. Позвольте партнёру взять ваш клинок лиаманом или скольжением, например лиаманом из шестой в нижнюю линию.\n2. Вместо сопротивления уступите давлению и поверните кисть вокруг точки контакта в защиту на стороне атаки, держа сильную часть у клинка партнёра.\n3. Ответьте из уступающего положения, вернитесь в стойку и поменяйтесь ролями; при обучении давление партнёра умеренное.",
+      "sectionTitle": "Защиты"
+    },
+    "uk": {
+      "title": "Поступливий захист",
+      "description": "1. Дозвольте партнерові взяти ваш клинок ліаманом або ковзанням, наприклад ліаманом із шостої в нижню лінію.\n2. Замість опору поступіться тиску й поверніть кисть навколо точки контакту в захист на боці атаки, тримаючи сильну частину біля клинка партнера.\n3. Відповідайте з поступливого положення, поверніться в стійку й поміняйтеся ролями; під час навчання тиск партнера помірний.",
+      "sectionTitle": "Захисти"
+    }
+  }
+}

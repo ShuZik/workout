@@ -1,0 +1,90 @@
+{
+  "id": "3.1",
+  "key": "kick_boxing",
+  "title": "Kickboxing",
+  "description": "1. Take a staggered kickboxing stance with knees soft, chin tucked, hands high, and enough space to kick on either side.\n2. Move through range and combine straight punches, hooks, uppercuts, knees, and kicks with coordinated hip rotation.\n3. Recoil every kick and return every hand to guard before changing direction or beginning the next combination.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "section": "1 Main",
+  "durationSeconds": 30,
+  "durationUnit": "seconds",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kickboxing",
+      "description": "1. Take a staggered kickboxing stance with knees soft, chin tucked, hands high, and enough space to kick on either side.\n2. Move through range and combine straight punches, hooks, uppercuts, knees, and kicks with coordinated hip rotation.\n3. Recoil every kick and return every hand to guard before changing direction or beginning the next combination.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kickboxing",
+      "description": "1. Adopta una postura de kickboxing escalonada con las rodillas flexionadas, el mentón recogido, las manos altas y espacio suficiente para patear a ambos lados.\n2. Muévete entre distancias y combina golpes rectos, ganchos, uppercuts, rodillazos y patadas con una rotación de cadera coordinada.\n3. Recoge cada patada y devuelve cada mano a la guardia antes de cambiar de dirección o iniciar la siguiente combinación.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kickboxing",
+      "description": "1. Assuma uma base de kickboxing escalonada com os joelhos levemente flexionados, o queixo recolhido, as mãos altas e espaço suficiente para chutar dos dois lados.\n2. Movimente-se entre as distâncias e combine socos retos, ganchos, uppercuts, joelhadas e chutes com rotação coordenada do quadril.\n3. Recolha cada chute e leve cada mão de volta à guarda antes de mudar de direção ou iniciar a próxima combinação.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kick-boxing",
+      "description": "1. Prenez une garde de kick-boxing décalée, genoux souples, menton rentré, mains hautes, avec assez d’espace pour frapper du pied des deux côtés.\n2. Déplacez-vous entre les distances et enchaînez directs, crochets, uppercuts, coups de genou et coups de pied avec une rotation coordonnée des hanches.\n3. Ramenez chaque coup de pied et replacez chaque main en garde avant de changer de direction ou de lancer l’enchaînement suivant.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kickboxen",
+      "description": "1. Nimm eine versetzte Kickbox-Stellung ein: Knie locker, Kinn eingezogen, Hände hoch und genug Platz für Tritte zu beiden Seiten.\n2. Bewege dich durch die Distanzen und kombiniere Geraden, Haken, Aufwärtshaken, Kniestöße und Tritte mit koordinierter Hüftdrehung.\n3. Ziehe jeden Tritt zurück und bringe jede Hand in die Deckung, bevor du die Richtung wechselst oder die nächste Kombination beginnst.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Kickboxing",
+      "description": "1. Assumi una posizione da kickboxing sfalsata con le ginocchia morbide, il mento raccolto, le mani alte e spazio sufficiente per calciare su entrambi i lati.\n2. Muoviti tra le distanze e combina diretti, ganci, montanti, ginocchiate e calci con una rotazione coordinata delle anche.\n3. Richiama ogni calcio e riporta ogni mano in guardia prima di cambiare direzione o iniziare la combinazione successiva.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "自由搏击",
+      "description": "1. 采用前后错开的自由搏击站姿，膝盖微屈，下巴内收，双手抬高，并确保两侧都有足够的踢腿空间。\n2. 在不同距离间移动，配合协调的转髋组合直拳、摆拳、上勾拳、膝撞和踢腿。\n3. 每次踢腿后都要收腿，双手都回到防守位，再改变方向或开始下一组组合。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "キックボクシング",
+      "description": "1. 膝を軽く曲げ、顎を引き、手を高く上げて前後に足をずらしたキックボクシングの構えを取り、左右どちらにも蹴れるスペースを確保します。\n2. 距離を出入りしながら、腰の回転を連動させてストレート、フック、アッパーカット、膝蹴り、蹴りを組み合わせます。\n3. 方向を変えたり次のコンビネーションを始めたりする前に、蹴った脚は必ず引き戻し、両手をガードに戻します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "킥복싱",
+      "description": "1. 무릎을 살짝 굽히고 턱을 당기고 손을 높이 든 채 앞뒤로 엇갈린 킥복싱 자세를 잡고, 양쪽으로 찰 수 있는 공간을 확보합니다.\n2. 거리를 오가며 골반 회전을 맞춰 스트레이트, 훅, 어퍼컷, 니킥, 발차기를 조합합니다.\n3. 방향을 바꾸거나 다음 콤비네이션을 시작하기 전에 모든 발차기를 회수하고 두 손을 가드로 되돌립니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "คิกบ็อกซิ่ง",
+      "description": "1. ยืนท่าคิกบ็อกซิ่งแบบเท้าหน้าหลัง งอเข่าเล็กน้อย เก็บคาง ยกมือสูง และเว้นพื้นที่ให้พอเตะได้ทั้งสองข้าง\n2. เคลื่อนที่เข้าออกระยะ และผสมหมัดตรง ฮุก อัปเปอร์คัต เข่า และเตะ โดยบิดสะโพกให้สัมพันธ์กัน\n3. เก็บขากลับทุกครั้งหลังเตะและยกมือกลับสู่การ์ดทุกครั้ง ก่อนเปลี่ยนทิศทางหรือเริ่มชุดต่อไป",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кикбоксинг",
+      "description": "1. Займите кикбоксёрскую стойку с ногами на разных линиях: колени мягкие, подбородок опущен, руки высоко, а по сторонам достаточно места для ударов ногами.\n2. Перемещайтесь по дистанциям и сочетайте прямые и боковые удары, апперкоты, удары коленями и ногами с согласованным поворотом таза.\n3. Возвращайте ногу после каждого удара и каждую руку в защиту, прежде чем сменить направление или начать следующую комбинацию.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кікбоксинг",
+      "description": "1. Станьте в кікбоксерську стійку з ногами на різних лініях: коліна м’які, підборіддя опущене, руки високо, а з боків достатньо місця для ударів ногами.\n2. Переміщуйтеся між дистанціями й поєднуйте прямі та бокові удари, аперкоти, удари колінами й ногами з узгодженим поворотом таза.\n3. Повертайте ногу після кожного удару й кожну руку в захист, перш ніж змінити напрямок або почати наступну комбінацію.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "91.4",
+  "key": "shorinji_kempo_tanen",
+  "title": "Tanen Solo Practice",
+  "description": "1. Take kamae and choose a set of goho techniques such as blocks, punches, and kicks.\n2. Perform each technique alone against an imagined attacker, linking footwork, hip rotation, and breathing with full focus.\n3. Repeat on both sides at a steady rhythm, pausing in kamae with zanshin after each sequence.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tanen Solo Practice",
+      "description": "1. Take kamae and choose a set of goho techniques such as blocks, punches, and kicks.\n2. Perform each technique alone against an imagined attacker, linking footwork, hip rotation, and breathing with full focus.\n3. Repeat on both sides at a steady rhythm, pausing in kamae with zanshin after each sequence.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Práctica individual tanen",
+      "description": "1. Adopta kamae y elige una serie de técnicas de goho, como bloqueos, golpes de puño y patadas.\n2. Ejecuta cada técnica en solitario contra un atacante imaginario, coordinando desplazamiento, giro de cadera y respiración con plena concentración.\n3. Repite por ambos lados a un ritmo constante, deteniéndote en kamae con zanshin tras cada secuencia.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Prática individual tanen",
+      "description": "1. Assuma o kamae e escolha um conjunto de técnicas de goho, como defesas, socos e chutes.\n2. Execute cada técnica sozinho contra um atacante imaginário, integrando deslocamento, giro do quadril e respiração com total concentração.\n3. Repita dos dois lados em ritmo constante, parando em kamae com zanshin após cada sequência.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Pratique solo tanen",
+      "description": "1. Prenez kamae et choisissez une série de techniques de goho : blocages, coups de poing et coups de pied.\n2. Exécutez chaque technique seul face à un attaquant imaginaire, en liant déplacement, rotation des hanches et respiration avec une concentration totale.\n3. Répétez des deux côtés à un rythme régulier, en marquant un temps en kamae avec zanshin après chaque enchaînement.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Tanen-Einzelübung",
+      "description": "1. Nimm Kamae ein und wähle eine Reihe von Goho-Techniken wie Abwehren, Fauststöße und Tritte.\n2. Führe jede Technik allein gegen einen gedachten Angreifer aus und verbinde Schrittarbeit, Hüftdrehung und Atmung mit voller Konzentration.\n3. Wiederhole beidseitig in gleichmäßigem Rhythmus und halte nach jeder Folge mit Zanshin im Kamae inne.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Pratica individuale tanen",
+      "description": "1. Assumi il kamae e scegli una serie di tecniche di goho come parate, pugni e calci.\n2. Esegui ogni tecnica da solo contro un attaccante immaginario, collegando spostamenti, rotazione delle anche e respirazione con piena concentrazione.\n3. Ripeti su entrambi i lati a ritmo costante, fermandoti in kamae con zanshin dopo ogni sequenza.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "单演",
+      "description": "1. 摆好构式，选定一组刚法技术，如格挡、冲拳和踢法。\n2. 面对假想的攻击者独自完成每个技术，全神贯注地配合步法、转腰与呼吸。\n3. 左右两侧以稳定的节奏重复，每组结束后以残心停在构式。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "単演",
+      "description": "1. 構えを取り、受け・突き・蹴りなど剛法の技を一組選びます。\n2. 想定した攻者に対して一人で各技を行い、運歩・腰の回転・呼吸を集中して連動させます。\n3. 左右とも一定のリズムで繰り返し、一連の動作ごとに残心をもって構えで止まります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "단연 단독 수련",
+      "description": "1. 카마에를 잡고 막기, 지르기, 차기 등 강법 기술을 한 묶음 고릅니다.\n2. 가상의 공격자를 상대로 혼자 각 기술을 수행하며, 보법과 허리 회전, 호흡을 온전히 집중해 연결합니다.\n3. 좌우 모두 일정한 리듬으로 반복하고, 한 묶음이 끝날 때마다 잔심을 유지하며 카마에로 멈춥니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ฝึกเดี่ยวทันเอ็น",
+      "description": "1. ตั้งคามาเอะและเลือกชุดเทคนิคโกโฮ เช่น การปัดป้อง การชก และการเตะ\n2. ทำแต่ละเทคนิคคนเดียวกับผู้โจมตีสมมติ ประสานการก้าว การหมุนสะโพก และการหายใจอย่างมีสมาธิเต็มที่\n3. ทำซ้ำทั้งสองข้างด้วยจังหวะสม่ำเสมอ และหยุดในคามาเอะพร้อมซันชินหลังจบแต่ละชุด",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Танэн — одиночная практика",
+      "description": "1. Займите камаэ и выберите набор техник гохо: блоки, удары руками и ногами.\n2. Выполняйте каждую технику в одиночку против воображаемого противника, полностью сосредоточившись и связывая перемещение, поворот бёдер и дыхание.\n3. Повторяйте в обе стороны в ровном ритме, после каждой связки задерживаясь в камаэ с дзансином.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Танен — одиночна практика",
+      "description": "1. Займіть камае й оберіть набір технік ґохо: блоки, удари руками та ногами.\n2. Виконуйте кожну техніку самостійно проти уявного нападника, повністю зосередившись і поєднуючи пересування, поворот стегон і дихання.\n3. Повторюйте в обидва боки в рівному ритмі, після кожної зв'язки затримуючись у камае з дзансіном.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

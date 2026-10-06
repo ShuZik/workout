@@ -1,0 +1,87 @@
+{
+  "id": "41.32",
+  "key": "judo_tai_otoshi",
+  "title": "Tai Otoshi",
+  "description": "1. Draw the partner forward to a front corner with sleeve and lapel while turning the back toward the partner.\n2. Step the leg across the partner's front so the shin blocks below the knee without the hips loading the partner.\n3. Continue the hand pull and body turn so the partner rotates over the blocking leg, keeping the sleeve for the landing.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "4 Te-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tai Otoshi",
+      "description": "1. Draw the partner forward to a front corner with sleeve and lapel while turning the back toward the partner.\n2. Step the leg across the partner's front so the shin blocks below the knee without the hips loading the partner.\n3. Continue the hand pull and body turn so the partner rotates over the blocking leg, keeping the sleeve for the landing.",
+      "sectionTitle": "Te-waza"
+    },
+    "es": {
+      "title": "Tai Otoshi",
+      "description": "1. Lleva al compañero hacia una esquina delantera con manga y solapa mientras giras la espalda hacia él.\n2. Cruza la pierna por delante del compañero para que la espinilla bloquee por debajo de la rodilla sin cargarlo con las caderas.\n3. Continúa el tirón de manos y el giro del cuerpo para que el compañero rote sobre la pierna que bloquea, conservando la manga para la caída.",
+      "sectionTitle": "Te-waza"
+    },
+    "pt": {
+      "title": "Tai Otoshi",
+      "description": "1. Leve o parceiro a um canto frontal com manga e gola enquanto vira as costas para ele.\n2. Passe a perna à frente do parceiro para que a canela bloqueie abaixo do joelho sem carregá-lo com os quadris.\n3. Continue a puxada das mãos e o giro do corpo para que o parceiro gire sobre a perna de bloqueio, mantendo a manga para a queda.",
+      "sectionTitle": "Te-waza"
+    },
+    "fr": {
+      "title": "Tai Otoshi",
+      "description": "1. Amenez le partenaire vers un coin avant avec manche et revers en tournant le dos vers lui.\n2. Passez la jambe devant le partenaire pour que le tibia bloque sous le genou sans le charger sur les hanches.\n3. Poursuivez la traction des mains et la rotation du corps pour que le partenaire tourne par-dessus la jambe de blocage, en gardant la manche pour la chute.",
+      "sectionTitle": "Te-waza"
+    },
+    "de": {
+      "title": "Tai Otoshi",
+      "description": "1. Ziehe den Partner mit Ärmel und Revers zu einer vorderen Ecke, während du ihm den Rücken zudrehst.\n2. Setze das Bein vor den Partner, sodass das Schienbein unterhalb des Knies blockiert, ohne ihn auf die Hüfte zu laden.\n3. Setze Handzug und Körperdrehung fort, damit der Partner über das blockierende Bein rotiert, und halte den Ärmel für den Fall.",
+      "sectionTitle": "Te-waza"
+    },
+    "it": {
+      "title": "Tai Otoshi",
+      "description": "1. Porta il compagno verso un angolo anteriore con manica e bavero mentre giri la schiena verso di lui.\n2. Porta la gamba davanti al compagno così che lo stinco blocchi sotto il ginocchio senza caricarlo sulle anche.\n3. Continua la trazione delle mani e la rotazione del corpo perché il compagno ruoti sopra la gamba che blocca, mantenendo la manica per la caduta.",
+      "sectionTitle": "Te-waza"
+    },
+    "zh-Hans": {
+      "title": "体落",
+      "description": "1. 用袖口和衣领将搭档拉向前角，同时背转向搭档。\n2. 腿横跨到搭档身前，用小腿挡在膝下，不用髋部承载搭档。\n3. 继续拉手和转体，使搭档绕挡腿旋转，保持袖口抓握完成倒地。",
+      "sectionTitle": "手技"
+    },
+    "ja": {
+      "title": "体落",
+      "description": "1. 袖と襟で相手を前隅へ引き出しながら、背中を相手に向けて回ります。\n2. 脚を相手の前へ踏み出し、腰に乗せずにすねで膝下を止めます。\n3. 手の引きと体の回転を続けて相手を止めた脚の上で回転させ、袖を持って受身をとらせます。",
+      "sectionTitle": "手技"
+    },
+    "ko": {
+      "title": "타이 오토시",
+      "description": "1. 소매와 깃으로 파트너를 앞 모서리로 끌면서 등을 파트너 쪽으로 돌립니다.\n2. 다리를 파트너 앞으로 뻗어 골반에 싣지 않고 정강이로 무릎 아래를 막습니다.\n3. 손으로 당기기와 몸 회전을 계속해 파트너가 막는 다리 위로 돌게 하고 소매를 유지해 낙법을 돕습니다.",
+      "sectionTitle": "손기술"
+    },
+    "th": {
+      "title": "ไทโอโตชิ",
+      "description": "1. ใช้แขนเสื้อและปกเสื้อดึงคู่ฝึกไปทางมุมด้านหน้า ขณะหันหลังเข้าหาคู่ฝึก\n2. ก้าวขาไปขวางด้านหน้าคู่ฝึกให้หน้าแข้งขวางใต้เข่า โดยไม่ใช้สะโพกแบกคู่ฝึก\n3. ดึงมือและหมุนตัวต่อให้คู่ฝึกหมุนข้ามขาที่ขวาง จับแขนเสื้อไว้เพื่อการล้ม",
+      "sectionTitle": "เทวาซะ"
+    },
+    "ru": {
+      "title": "Тай-отоси",
+      "description": "1. Выведите партнёра к переднему углу захватом за рукав и отворот, поворачиваясь к нему спиной.\n2. Выставьте ногу перед партнёром так, чтобы голень блокировала ниже колена, не нагружая его на таз.\n3. Продолжайте тянуть руками и разворачивать корпус, чтобы партнёр перевернулся через блокирующую ногу, удерживая рукав для страховки.",
+      "sectionTitle": "Тэ-вадза"
+    },
+    "uk": {
+      "title": "Тай-отосі",
+      "description": "1. Виведіть партнера до переднього кута захватом за рукав і відворот, повертаючись до нього спиною.\n2. Виставте ногу перед партнером так, щоб гомілка блокувала нижче коліна, не навантажуючи його на таз.\n3. Продовжуйте тягнути руками й розвертати тулуб, щоб партнер перекинувся через блокувальну ногу, утримуючи рукав для страховки.",
+      "sectionTitle": "Те-вадза"
+    }
+  }
+}

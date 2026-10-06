@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#E6BF00",
+    "colorType": "yellow",
+    "folder": "KukSoolWon",
+    "id": "72",
+    "icon": "KukSoolWon/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Kuk Sool Won",
+    "workoutType": "kukSoolWon",
+    "translations": {
+      "en": {
+        "title": "Kuk Sool Won"
+      },
+      "es": {
+        "title": "Kuk Sool Won"
+      },
+      "pt": {
+        "title": "Kuk Sool Won"
+      },
+      "fr": {
+        "title": "Kuk Sool Won"
+      },
+      "de": {
+        "title": "Kuk Sool Won"
+      },
+      "it": {
+        "title": "Kuk Sool Won"
+      },
+      "zh-Hans": {
+        "title": "国术院"
+      },
+      "ja": {
+        "title": "ククスルウォン"
+      },
+      "ko": {
+        "title": "국술원"
+      },
+      "th": {
+        "title": "กุกซุลวอน"
+      },
+      "ru": {
+        "title": "Куксульвон"
+      },
+      "uk": {
+        "title": "Куксульвон"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "KukSoolWon/exercises/kukSoolWon/Icon.png",
+      "json": "KukSoolWon/exercises/kukSoolWon/kukSoolWon.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/danjeonKiBreathing/Icon.png",
+      "json": "KukSoolWon/exercises/danjeonKiBreathing/danjeonKiBreathing.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/nakBupBreakfalls/Icon.png",
+      "json": "KukSoolWon/exercises/nakBupBreakfalls/nakBupBreakfalls.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/frontStretchKick/Icon.png",
+      "json": "KukSoolWon/exercises/frontStretchKick/frontStretchKick.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/insideAndOutsideCrescentKicks/Icon.png",
+      "json": "KukSoolWon/exercises/insideAndOutsideCrescentKicks/insideAndOutsideCrescentKicks.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/sideKick/Icon.png",
+      "json": "KukSoolWon/exercises/sideKick/sideKick.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/basicHandStrikeDrill/Icon.png",
+      "json": "KukSoolWon/exercises/basicHandStrikeDrill/basicHandStrikeDrill.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/wristGrabRelease/Icon.png",
+      "json": "KukSoolWon/exercises/wristGrabRelease/wristGrabRelease.json"
+    },
+    {
+      "icon": "KukSoolWon/exercises/outwardWristLockTakedown/Icon.png",
+      "json": "KukSoolWon/exercises/outwardWristLockTakedown/outwardWristLockTakedown.json"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "Alysh",
+    "id": "44",
+    "icon": "Alysh/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Alysh",
+    "workoutType": "alysh",
+    "translations": {
+      "en": {
+        "title": "Alysh"
+      },
+      "es": {
+        "title": "Alysh"
+      },
+      "pt": {
+        "title": "Alysh"
+      },
+      "fr": {
+        "title": "Alych"
+      },
+      "de": {
+        "title": "Alysch"
+      },
+      "it": {
+        "title": "Alysh"
+      },
+      "zh-Hans": {
+        "title": "阿雷什摔跤"
+      },
+      "ja": {
+        "title": "アルィシュ"
+      },
+      "ko": {
+        "title": "알리시"
+      },
+      "th": {
+        "title": "อาลึช"
+      },
+      "ru": {
+        "title": "Алыш"
+      },
+      "uk": {
+        "title": "Аліш"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Alysh/exercises/alysh/Icon.png",
+      "json": "Alysh/exercises/alysh/alysh.json"
+    },
+    {
+      "icon": "Alysh/exercises/kaytarma/Icon.png",
+      "json": "Alysh/exercises/kaytarma/kaytarma.json"
+    }
+  ]
+}

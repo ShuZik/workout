@@ -1,0 +1,87 @@
+{
+  "id": "64.8",
+  "key": "jodo_kuri_tsuke",
+  "title": "Kuri-tsuke",
+  "description": "1. From natural posture, raise the jo to meet the imagined swordsman's wrists as they come forward.\n2. Reel the jo back toward your hip with a sliding hand action, pressing the opponent's wrists down and pinning them against their own body line.\n3. Hold the pin briefly with the jo horizontal and controlled, then release and return to the start.",
+  "colorType": "tan",
+  "workoutType": "jodo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Solo Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kuri-tsuke",
+      "description": "1. From natural posture, raise the jo to meet the imagined swordsman's wrists as they come forward.\n2. Reel the jo back toward your hip with a sliding hand action, pressing the opponent's wrists down and pinning them against their own body line.\n3. Hold the pin briefly with the jo horizontal and controlled, then release and return to the start.",
+      "sectionTitle": "Solo Kihon"
+    },
+    "es": {
+      "title": "Kuri-tsuke",
+      "description": "1. Desde postura natural, eleva el jo al encuentro de las muñecas del espadachín imaginario cuando avanzan.\n2. Recoge el jo hacia tu cadera deslizando las manos, presionando las muñecas del oponente hacia abajo y fijándolas contra su propia línea corporal.\n3. Mantén la fijación un instante con el jo horizontal y controlado, luego suelta y vuelve al inicio.",
+      "sectionTitle": "Kihon individual"
+    },
+    "pt": {
+      "title": "Kuri-tsuke",
+      "description": "1. Da postura natural, eleve o jo ao encontro dos pulsos do espadachim imaginário quando avançam.\n2. Recolha o jo em direção ao quadril deslizando as mãos, pressionando os pulsos do oponente para baixo e fixando-os contra a própria linha do corpo dele.\n3. Mantenha a fixação um instante com o jo horizontal e controlado, depois solte e volte ao início.",
+      "sectionTitle": "Kihon individual"
+    },
+    "fr": {
+      "title": "Kuri-tsuke",
+      "description": "1. Depuis la posture naturelle, levez le jo à la rencontre des poignets du sabreur imaginaire qui avancent.\n2. Ramenez le jo vers votre hanche en faisant glisser les mains, en pressant ses poignets vers le bas et en les plaquant contre sa propre ligne de corps.\n3. Maintenez brièvement le contrôle, jo horizontal, puis relâchez et revenez au départ.",
+      "sectionTitle": "Kihon en solo"
+    },
+    "de": {
+      "title": "Kuri-tsuke",
+      "description": "1. Aus natürlicher Haltung den Jo den vorkommenden Handgelenken des gedachten Schwertkämpfers entgegenheben.\n2. Den Jo mit gleitenden Händen zur Hüfte zurückspulen, die Handgelenke des Gegners nach unten drücken und gegen seine eigene Körperlinie fixieren.\n3. Die Fixierung kurz mit waagerechtem, kontrolliertem Jo halten, dann lösen und zum Start zurückkehren.",
+      "sectionTitle": "Kihon allein"
+    },
+    "it": {
+      "title": "Kuri-tsuke",
+      "description": "1. Dalla postura naturale, alza il jo incontro ai polsi dello spadaccino immaginario che avanzano.\n2. Riavvolgi il jo verso l’anca facendo scorrere le mani, premendo i polsi dell’avversario verso il basso e bloccandoli contro la sua linea corporea.\n3. Mantieni brevemente il blocco con il jo orizzontale e controllato, poi rilascia e torna all’inizio.",
+      "sectionTitle": "Kihon individuale"
+    },
+    "zh-Hans": {
+      "title": "缲付",
+      "description": "1. 自然体，举杖迎向假想持刀者前出的手腕。\n2. 双手滑动将杖向自己腰部收回，把对手手腕向下压并压制在其身体线上。\n3. 杖保持水平受控，短暂压制后放开并回到起始位置。",
+      "sectionTitle": "单人基本"
+    },
+    "ja": {
+      "title": "繰り付け",
+      "description": "1. 自然体から、前に出てくる仮想の相手の両小手に杖を合わせます。\n2. 手を滑らせて杖を腰へ繰り込み、相手の小手を押し下げて相手自身の体に付けて制します。\n3. 杖を水平に保って一瞬制し、放して元に戻ります。",
+      "sectionTitle": "単独動作"
+    },
+    "ko": {
+      "title": "구리쓰케",
+      "description": "1. 자연체에서 앞으로 나오는 가상 검사의 손목에 조를 맞춰 들어 올립니다.\n2. 손을 미끄러뜨리며 조를 허리 쪽으로 감아 당겨 상대의 손목을 아래로 눌러 상대 몸에 붙여 제압합니다.\n3. 조를 수평으로 통제하며 잠시 제압한 뒤 풀고 처음으로 돌아갑니다.",
+      "sectionTitle": "단독 기본"
+    },
+    "th": {
+      "title": "คุริสึเกะ",
+      "description": "1. จากท่าธรรมชาติ ยกไม้โจขึ้นรับข้อมือของนักดาบสมมติที่ยื่นเข้ามา\n2. ม้วนไม้โจกลับมาที่สะโพกพร้อมเลื่อนมือ กดข้อมือคู่ต่อสู้ลงและตรึงไว้กับแนวลำตัวของเขาเอง\n3. ค้างการตรึงครู่หนึ่งโดยไม้อยู่แนวนอนและควบคุมได้ แล้วปล่อยและกลับจุดเริ่ม",
+      "sectionTitle": "คิฮงเดี่ยว"
+    },
+    "ru": {
+      "title": "Кури-цукэ",
+      "description": "1. Из естественной стойки поднимите дзё навстречу выдвигающимся запястьям воображаемого мечника.\n2. Сматывайте дзё к своему бедру скользящим движением рук, прижимая запястья противника вниз и фиксируя их у его собственного корпуса.\n3. Кратко удержите фиксацию горизонтальным контролируемым дзё, затем отпустите и вернитесь в начало.",
+      "sectionTitle": "Одиночные кихон"
+    },
+    "uk": {
+      "title": "Курі-цуке",
+      "description": "1. З природної стійки підніміть дзьо назустріч зап’ястям уявного мечника, що висуваються.\n2. Змотуйте дзьо до свого стегна ковзним рухом рук, притискаючи зап’ястя суперника вниз і фіксуючи їх біля його власного корпусу.\n3. Коротко втримайте фіксацію горизонтальним контрольованим дзьо, потім відпустіть і поверніться на початок.",
+      "sectionTitle": "Одиночні кіхон"
+    }
+  }
+}

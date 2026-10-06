@@ -1,0 +1,90 @@
+{
+  "id": "99.4",
+  "key": "taekkyeon_maju_daegi",
+  "title": "Maju-daegi",
+  "description": "1. Face a partner at kicking distance, both stepping pum-balgi; agree who attacks and which technique is practiced.\n2. The attacker delivers the agreed kick, push, or trip at controlled speed while the defender evades, deflects with hwal-gaet-jit, or counters as agreed.\n3. Stop on the agreed outcome without forcing a fall, reset distance together, and switch roles after each set.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekkyeon",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Maju-daegi",
+      "description": "1. Face a partner at kicking distance, both stepping pum-balgi; agree who attacks and which technique is practiced.\n2. The attacker delivers the agreed kick, push, or trip at controlled speed while the defender evades, deflects with hwal-gaet-jit, or counters as agreed.\n3. Stop on the agreed outcome without forcing a fall, reset distance together, and switch roles after each set.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Maju-daegi",
+      "description": "1. Ponte frente a un compañero a distancia de patada, ambos con paso pum-balgi; acordad quién ataca y qué técnica se practica.\n2. El atacante ejecuta la patada, el empuje o la zancadilla acordados a velocidad controlada mientras el defensor esquiva, desvía con hwal-gaet-jit o contraataca según lo pactado.\n3. Deteneos en el resultado acordado sin forzar una caída, recuperad la distancia juntos e intercambiad los papeles tras cada serie.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Maju-daegi",
+      "description": "1. Fique de frente para um parceiro à distância de chute, ambos no passo pum-balgi; combinem quem ataca e qual técnica será treinada.\n2. O atacante executa o chute, empurrão ou rasteira combinados em velocidade controlada enquanto o defensor esquiva, desvia com hwal-gaet-jit ou contra-ataca conforme combinado.\n3. Parem no resultado combinado sem forçar uma queda, retomem a distância juntos e troquem os papéis após cada série.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Maju-daegi",
+      "description": "1. Face à un partenaire à distance de jambe, tous deux en pas pum-balgi ; convenez de l’attaquant et de la technique travaillée.\n2. L’attaquant porte le coup de pied, la poussée ou le crochet convenu à vitesse contrôlée ; le défenseur esquive, dévie en hwal-gaet-jit ou riposte comme prévu.\n3. Arrêtez-vous sur l’issue convenue sans forcer la chute, reprenez la distance ensemble et inversez les rôles après chaque série.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Maju-daegi",
+      "description": "1. Einem Partner auf Trittdistanz gegenüber, beide im Pum-Balgi; festlegen, wer angreift und welche Technik geübt wird.\n2. Der Angreifer führt den vereinbarten Tritt, Stoß oder Fußfeger kontrolliert aus; der Verteidiger weicht aus, lenkt mit Hwal-gaet-jit ab oder kontert wie vereinbart.\n3. Beim vereinbarten Ergebnis stoppen, ohne einen Sturz zu erzwingen, gemeinsam Distanz herstellen und nach jedem Satz die Rollen tauschen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Maju-daegi",
+      "description": "1. Di fronte a un partner alla distanza di calcio, entrambi in pum-balgi; stabilite chi attacca e quale tecnica si allena.\n2. L’attaccante esegue il calcio, la spinta o lo sgambetto concordato a velocità controllata mentre il difensore schiva, devia con hwal-gaet-jit o contrattacca come stabilito.\n3. Fermatevi al risultato concordato senza forzare la caduta, ripristinate la distanza insieme e scambiate i ruoli dopo ogni serie.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "对练（마주대기）",
+      "description": "1. 与同伴在踢击距离相对，双方踩品步；约定谁进攻以及练习哪项技术。\n2. 进攻方以受控速度做出约定的踢、推或绊，防守方按约定闪避、用挥臂拨开或反击。\n3. 达到约定结果即停，不强行摔倒，一起恢复距离，每组后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "マジュデギ（対練）",
+      "description": "1. 蹴りの間合いで相手と向き合い、互いにプムバルギを踏み、攻め手と練習する技を決めます。\n2. 攻め手は決めた蹴り・押し・足掛けを制御した速さで出し、受け手は決めた通りにかわす、腕振りでそらす、または返します。\n3. 決めた結果で止め、無理に倒さず、二人で間合いを戻し、各セットごとに役割を交代します。",
+      "sectionTitle": "対人練習"
+    },
+    "ko": {
+      "title": "마주대기",
+      "description": "1. 발질 거리에서 짝과 마주 서서 둘 다 품밟기를 하며, 누가 공격하고 어떤 기술을 연습할지 정합니다.\n2. 공격자는 약속한 발질, 밀기, 걸이를 통제된 속도로 하고, 수비자는 약속대로 피하거나 활갯짓으로 흘리거나 받아칩니다.\n3. 약속한 결과에서 멈추고 억지로 넘어뜨리지 않으며, 함께 거리를 되찾고 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "짝 훈련"
+    },
+    "th": {
+      "title": "มาจูแดกี",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ในระยะเตะ ทั้งคู่ก้าวพุมบัลกี ตกลงว่าใครโจมตีและฝึกท่าใด\n2. ฝ่ายโจมตีเตะ ดัน หรือขัดขาตามที่ตกลงด้วยความเร็วที่ควบคุม ฝ่ายรับหลบ ปัดด้วยการแกว่งแขน หรือสวนกลับตามที่ตกลง\n3. หยุดเมื่อได้ผลตามที่ตกลงโดยไม่ฝืนให้ล้ม ปรับระยะพร้อมกัน และสลับบทบาทหลังแต่ละเซต",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Маджу-дэги",
+      "description": "1. Встаньте лицом к партнёру на дистанции удара ногой, оба в шагах пум-бальги; договоритесь, кто атакует и какую технику отрабатываете.\n2. Атакующий с контролируемой скоростью выполняет оговорённый удар ногой, толчок или подсечку, защищающийся уходит, отводит махом руки или контратакует, как договорились.\n3. Остановитесь на оговорённом результате, не форсируя падение, вместе восстановите дистанцию и меняйтесь ролями после каждой серии.",
+      "sectionTitle": "Упражнения в паре"
+    },
+    "uk": {
+      "title": "Маджу-дегі",
+      "description": "1. Станьте обличчям до партнера на дистанції удару ногою, обидва в кроках пум-бальгі; домовтеся, хто атакує і яку техніку відпрацьовуєте.\n2. Атакувальник із контрольованою швидкістю виконує обумовлений удар ногою, поштовх або підсічку, захисник ухиляється, відводить махом руки чи контратакує, як домовилися.\n3. Зупиніться на обумовленому результаті, не форсуючи падіння, разом відновіть дистанцію й міняйтеся ролями після кожної серії.",
+      "sectionTitle": "Вправи в парі"
+    }
+  }
+}

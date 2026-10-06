@@ -1,0 +1,90 @@
+{
+  "id": "20.5",
+  "key": "tabata_mountain_climbers",
+  "title": "Mountain Climbers",
+  "description": "1. Start in a high plank with hands under shoulders, legs extended, and hips level.\n2. Drive one knee toward the chest without rounding the back or shifting the shoulders behind the hands.\n3. Return that foot to plank and alternate legs while keeping the pelvis steady.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "tabata",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "intermediate",
+  "section": "2 Full Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Mountain Climbers",
+      "description": "1. Start in a high plank with hands under shoulders, legs extended, and hips level.\n2. Drive one knee toward the chest without rounding the back or shifting the shoulders behind the hands.\n3. Return that foot to plank and alternate legs while keeping the pelvis steady.",
+      "sectionTitle": "Full Body"
+    },
+    "es": {
+      "title": "Escaladores",
+      "description": "1. Empieza en plancha alta con las manos bajo los hombros, las piernas extendidas y las caderas niveladas.\n2. Lleva una rodilla hacia el pecho sin redondear la espalda ni desplazar los hombros por detrás de las manos.\n3. Devuelve ese pie a la plancha y alterna las piernas manteniendo la pelvis estable.",
+      "sectionTitle": "Cuerpo completo"
+    },
+    "pt": {
+      "title": "Escalador",
+      "description": "1. Comece em prancha alta com as mãos sob os ombros, as pernas estendidas e o quadril nivelado.\n2. Leve um joelho em direção ao peito sem arredondar as costas nem deslocar os ombros para trás das mãos.\n3. Volte esse pé à prancha e alterne as pernas mantendo a pelve estável.",
+      "sectionTitle": "Corpo inteiro"
+    },
+    "fr": {
+      "title": "Grimpeurs",
+      "description": "1. Commencez en planche haute, mains sous les épaules, jambes tendues et hanches à niveau.\n2. Amenez un genou vers la poitrine sans arrondir le dos ni reculer les épaules derrière les mains.\n3. Ramenez ce pied en planche et alternez les jambes en gardant le bassin stable.",
+      "sectionTitle": "Corps entier"
+    },
+    "de": {
+      "title": "Bergsteiger",
+      "description": "1. Beginne im hohen Stütz mit den Händen unter den Schultern, gestreckten Beinen und waagerechter Hüfte.\n2. Ziehe ein Knie zur Brust, ohne den Rücken zu runden oder die Schultern hinter die Hände zu verschieben.\n3. Bringe den Fuß zurück in den Stütz und wechsle die Beine, während das Becken ruhig bleibt.",
+      "sectionTitle": "Ganzkörper"
+    },
+    "it": {
+      "title": "Mountain climber",
+      "description": "1. Parti in plank alto con le mani sotto le spalle, le gambe distese e le anche allineate.\n2. Porta un ginocchio verso il petto senza arrotondare la schiena né spostare le spalle dietro le mani.\n3. Riporta quel piede in plank e alterna le gambe mantenendo il bacino stabile.",
+      "sectionTitle": "Corpo completo"
+    },
+    "zh-Hans": {
+      "title": "登山跑",
+      "description": "1. 以高位平板支撑开始，双手在肩膀下方，双腿伸直，髋部保持水平。\n2. 一侧膝盖向胸部收，不要弓背，也不要让肩膀移到双手后方。\n3. 该脚回到平板位置，双腿交替进行，骨盆保持稳定。",
+      "sectionTitle": "全身"
+    },
+    "ja": {
+      "title": "マウンテンクライマー",
+      "description": "1. 手を肩の真下に置き、脚を伸ばし、腰を水平にしたハイプランクから始めます。\n2. 背中を丸めず、肩が手より後ろにずれないようにして片膝を胸へ引き寄せます。\n3. その足をプランクの位置に戻し、骨盤を安定させたまま左右交互に行います。",
+      "sectionTitle": "全身"
+    },
+    "ko": {
+      "title": "마운틴 클라이머",
+      "description": "1. 손을 어깨 아래에 두고 다리를 뻗으며 골반을 수평으로 한 하이 플랭크에서 시작합니다.\n2. 등을 둥글게 말거나 어깨가 손 뒤로 밀리지 않게 한쪽 무릎을 가슴 쪽으로 당깁니다.\n3. 그 발을 플랭크 자세로 되돌리고 골반을 안정되게 유지하며 다리를 번갈아 합니다.",
+      "sectionTitle": "전신"
+    },
+    "th": {
+      "title": "เมาน์เทนไคลม์เบอร์",
+      "description": "1. เริ่มในท่าแพลงก์แขนตรง มืออยู่ใต้ไหล่ เหยียดขา และสะโพกอยู่ระดับเดียวกัน\n2. ดึงเข่าข้างหนึ่งเข้าหาอก โดยไม่งอหลังหรือเลื่อนไหล่ไปอยู่หลังมือ\n3. วางเท้านั้นกลับสู่ท่าแพลงก์และสลับขา โดยรักษาเชิงกรานให้นิ่ง",
+      "sectionTitle": "ทั้งร่างกาย"
+    },
+    "ru": {
+      "title": "Скалолаз",
+      "description": "1. Начните в высокой планке: ладони под плечами, ноги выпрямлены, таз ровно.\n2. Подтяните одно колено к груди, не округляя спину и не смещая плечи за ладони.\n3. Верните эту стопу в планку и чередуйте ноги, удерживая таз неподвижным.",
+      "sectionTitle": "Всё тело"
+    },
+    "uk": {
+      "title": "Скелелаз",
+      "description": "1. Почніть у високій планці: долоні під плечима, ноги випрямлені, таз рівно.\n2. Підтягніть одне коліно до грудей, не округлюючи спину й не зміщуючи плечі за долоні.\n3. Поверніть цю стопу в планку й чергуйте ноги, утримуючи таз нерухомим.",
+      "sectionTitle": "Усе тіло"
+    }
+  }
+}

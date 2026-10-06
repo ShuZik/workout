@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "Lethwei",
+    "id": "78",
+    "icon": "Lethwei/Icon.png",
+    "symbolName": "figure.kickboxing",
+    "title": "Lethwei",
+    "workoutType": "lethwei",
+    "translations": {
+      "en": {
+        "title": "Lethwei"
+      },
+      "es": {
+        "title": "Lethwei"
+      },
+      "pt": {
+        "title": "Lethwei"
+      },
+      "fr": {
+        "title": "Lethwei"
+      },
+      "de": {
+        "title": "Lethwei"
+      },
+      "it": {
+        "title": "Lethwei"
+      },
+      "zh-Hans": {
+        "title": "缅甸拳"
+      },
+      "ja": {
+        "title": "ラウェイ"
+      },
+      "ko": {
+        "title": "라웨이"
+      },
+      "th": {
+        "title": "เลธเว่ย"
+      },
+      "ru": {
+        "title": "Летвей"
+      },
+      "uk": {
+        "title": "Летвей"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Lethwei/exercises/lethwei/Icon.png",
+      "json": "Lethwei/exercises/lethwei/lethwei.json"
+    },
+    {
+      "icon": "Lethwei/exercises/spinningBackfist/Icon.png",
+      "json": "Lethwei/exercises/spinningBackfist/spinningBackfist.json"
+    },
+    {
+      "icon": "Lethwei/exercises/spinningElbow/Icon.png",
+      "json": "Lethwei/exercises/spinningElbow/spinningElbow.json"
+    },
+    {
+      "icon": "Lethwei/exercises/diagonalKnee/Icon.png",
+      "json": "Lethwei/exercises/diagonalKnee/diagonalKnee.json"
+    },
+    {
+      "icon": "Lethwei/exercises/jumpingKnee/Icon.png",
+      "json": "Lethwei/exercises/jumpingKnee/jumpingKnee.json"
+    },
+    {
+      "icon": "Lethwei/exercises/switchKnee/Icon.png",
+      "json": "Lethwei/exercises/switchKnee/switchKnee.json"
+    },
+    {
+      "icon": "Lethwei/exercises/lekkhaMoun/Icon.png",
+      "json": "Lethwei/exercises/lekkhaMoun/lekkhaMoun.json"
+    }
+  ]
+}

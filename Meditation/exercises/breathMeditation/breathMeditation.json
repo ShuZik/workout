@@ -1,0 +1,90 @@
+{
+  "id": "19.2",
+  "key": "meditation_breath",
+  "title": "Breath Meditation",
+  "description": "1. Sit comfortably with the spine supported and allow breathing to continue at its natural pace.\n2. Feel one clear breath sensation at the nostrils, chest, or abdomen from the start of each inhale to the end of each exhale.\n3. When thoughts take attention away, label the distraction briefly and return to the next breath.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "meditation",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1,
+    "vigorous": 1,
+    "lightCode": "07075",
+    "moderateCode": "07075",
+    "vigorousCode": "07075"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Themes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Breath Meditation",
+      "description": "1. Sit comfortably with the spine supported and allow breathing to continue at its natural pace.\n2. Feel one clear breath sensation at the nostrils, chest, or abdomen from the start of each inhale to the end of each exhale.\n3. When thoughts take attention away, label the distraction briefly and return to the next breath.",
+      "sectionTitle": "Themes"
+    },
+    "es": {
+      "title": "Meditación en la respiración",
+      "description": "1. Siéntate cómodamente con la columna apoyada y deja que la respiración continúe a su ritmo natural.\n2. Percibe una sensación clara de la respiración en las fosas nasales, el pecho o el abdomen desde el inicio de cada inhalación hasta el final de cada exhalación.\n3. Cuando los pensamientos desvíen tu atención, identifica brevemente la distracción y vuelve a la siguiente respiración.",
+      "sectionTitle": "Temas"
+    },
+    "pt": {
+      "title": "Meditação na respiração",
+      "description": "1. Sente-se confortavelmente com a coluna apoiada e deixe a respiração continuar no ritmo natural.\n2. Sinta uma sensação clara da respiração nas narinas, no peito ou no abdômen, do início de cada inspiração ao fim de cada expiração.\n3. Quando os pensamentos desviarem a atenção, identifique brevemente a distração e volte à próxima respiração.",
+      "sectionTitle": "Temas"
+    },
+    "fr": {
+      "title": "Méditation sur la respiration",
+      "description": "1. Asseyez-vous confortablement avec la colonne soutenue et laissez la respiration suivre son rythme naturel.\n2. Ressentez une sensation respiratoire nette aux narines, à la poitrine ou au ventre, du début de chaque inspiration à la fin de chaque expiration.\n3. Lorsque les pensées détournent votre attention, identifiez brièvement la distraction et revenez au souffle suivant.",
+      "sectionTitle": "Thèmes"
+    },
+    "de": {
+      "title": "Atemmeditation",
+      "description": "1. Sitze bequem mit abgestützter Wirbelsäule und lasse die Atmung in ihrem natürlichen Tempo weitergehen.\n2. Spüre eine klare Atemempfindung an den Nasenlöchern, in der Brust oder im Bauch vom Beginn jeder Einatmung bis zum Ende jeder Ausatmung.\n3. Wenn Gedanken deine Aufmerksamkeit ablenken, benenne die Ablenkung kurz und kehre zum nächsten Atemzug zurück.",
+      "sectionTitle": "Themen"
+    },
+    "it": {
+      "title": "Meditazione sul respiro",
+      "description": "1. Siediti comodamente con la colonna sostenuta e lascia che il respiro continui al suo ritmo naturale.\n2. Percepisci una sensazione chiara del respiro alle narici, nel petto o nell’addome dall’inizio di ogni inspirazione alla fine di ogni espirazione.\n3. Quando i pensieri distolgono l’attenzione, riconosci brevemente la distrazione e torna al respiro successivo.",
+      "sectionTitle": "Temi"
+    },
+    "zh-Hans": {
+      "title": "呼吸冥想",
+      "description": "1. 舒适地坐好，让脊柱得到支撑，保持自然的呼吸节奏。\n2. 从每次吸气开始到呼气结束，在鼻孔、胸部或腹部感受一种清晰的呼吸感觉。\n3. 当想法带走注意力时，简短地标记这次分心，再回到下一次呼吸。",
+      "sectionTitle": "主题"
+    },
+    "ja": {
+      "title": "呼吸瞑想",
+      "description": "1. 背骨を支えた楽な姿勢で座り、自然なペースで呼吸を続けます。\n2. 鼻孔、胸、お腹のいずれかで、吸い始めから吐き終わりまで一つの明確な呼吸の感覚を感じます。\n3. 思考に注意を奪われたら、その気の散りを短く認識し、次の呼吸に戻ります。",
+      "sectionTitle": "テーマ"
+    },
+    "ko": {
+      "title": "호흡 명상",
+      "description": "1. 척추를 받친 편안한 자세로 앉아 자연스러운 속도로 호흡을 이어갑니다.\n2. 매번 들숨의 시작부터 날숨의 끝까지 콧구멍, 가슴 또는 배에서 하나의 뚜렷한 호흡 감각을 느낍니다.\n3. 생각이 주의를 빼앗으면 그 방해를 짧게 알아차리고 다음 호흡으로 돌아갑니다.",
+      "sectionTitle": "주제"
+    },
+    "th": {
+      "title": "การทำสมาธิกับลมหายใจ",
+      "description": "1. นั่งในท่าที่สบายโดยมีสิ่งรองรับกระดูกสันหลัง และปล่อยให้หายใจตามจังหวะธรรมชาติ\n2. รับรู้ความรู้สึกของลมหายใจที่ชัดเจนหนึ่งอย่างบริเวณรูจมูก หน้าอก หรือหน้าท้อง ตั้งแต่เริ่มหายใจเข้าจนสิ้นสุดการหายใจออกแต่ละครั้ง\n3. เมื่อความคิดดึงความสนใจไป ให้รับรู้สิ่งที่ทำให้วอกแวกสั้น ๆ แล้วกลับมาที่ลมหายใจถัดไป",
+      "sectionTitle": "หัวข้อ"
+    },
+    "ru": {
+      "title": "Медитация на дыхании",
+      "description": "1. Удобно сядьте с поддержкой позвоночника и позвольте дыханию продолжаться в естественном темпе.\n2. Чувствуйте одно отчётливое ощущение дыхания у ноздрей, в груди или животе от начала каждого вдоха до конца каждого выдоха.\n3. Когда мысли отвлекают внимание, кратко обозначьте отвлечение и вернитесь к следующему дыхательному циклу.",
+      "sectionTitle": "Темы"
+    },
+    "uk": {
+      "title": "Медитація на диханні",
+      "description": "1. Зручно сядьте з підтримкою хребта й дозвольте диханню тривати в природному темпі.\n2. Відчувайте одне виразне відчуття дихання біля ніздрів, у грудях або животі від початку кожного вдиху до кінця кожного видиху.\n3. Коли думки відволікають увагу, коротко позначте відволікання й поверніться до наступного дихального циклу.",
+      "sectionTitle": "Теми"
+    }
+  }
+}

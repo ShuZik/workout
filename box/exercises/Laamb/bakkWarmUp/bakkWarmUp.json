@@ -1,0 +1,87 @@
+{
+  "id": "77.2",
+  "key": "laamb_bakk_warm_up",
+  "title": "Bakk Warm-Up",
+  "description": "1. Move around the circle with rhythmic steps to drumming or clapping, as wrestlers do during the bakk entrance.\n2. Swing the arms, roll the shoulders and hips, and add light squats and lunges in time with the beat.\n3. Raise the pace gradually until fully warm, then finish with a few deep breaths before grappling.",
+  "colorType": "orange",
+  "workoutType": "laamb",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Bakk Warm-Up",
+      "description": "1. Move around the circle with rhythmic steps to drumming or clapping, as wrestlers do during the bakk entrance.\n2. Swing the arms, roll the shoulders and hips, and add light squats and lunges in time with the beat.\n3. Raise the pace gradually until fully warm, then finish with a few deep breaths before grappling.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Calentamiento bakk",
+      "description": "1. Recorre el círculo con pasos rítmicos al son del tambor o de las palmas, como hacen los luchadores en la entrada del bakk.\n2. Balancea los brazos, gira hombros y caderas y añade sentadillas y zancadas suaves al ritmo.\n3. Sube el ritmo poco a poco hasta entrar en calor y termina con unas respiraciones profundas antes de luchar.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Aquecimento bakk",
+      "description": "1. Circule pela arena com passos rítmicos ao som de tambores ou palmas, como os lutadores fazem na entrada do bakk.\n2. Balance os braços, gire ombros e quadris e acrescente agachamentos e avanços leves no ritmo.\n3. Aumente o ritmo aos poucos até aquecer bem e termine com algumas respirações profundas antes de lutar.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Échauffement bakk",
+      "description": "1. Faites le tour de l'arène à pas rythmés au son des tambours ou des claquements de mains, comme les lutteurs lors du bakk.\n2. Balancez les bras, faites rouler épaules et hanches, et ajoutez des squats et fentes légers en rythme.\n3. Augmentez progressivement l'allure jusqu'à être bien chaud, puis terminez par quelques respirations profondes avant la lutte.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Bakk-Aufwärmen",
+      "description": "1. Bewege dich mit rhythmischen Schritten zu Trommeln oder Klatschen im Kreis, wie Ringer beim Bakk-Einzug.\n2. Schwinge die Arme, kreise Schultern und Hüften und füge im Takt leichte Kniebeugen und Ausfallschritte hinzu.\n3. Steigere das Tempo allmählich, bis du ganz warm bist, und schließe mit einigen tiefen Atemzügen vor dem Ringen ab.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Riscaldamento bakk",
+      "description": "1. Muoviti intorno al cerchio con passi ritmici al suono di tamburi o battiti di mani, come fanno i lottatori durante il bakk.\n2. Fai oscillare le braccia, ruota spalle e anche e aggiungi squat e affondi leggeri a tempo.\n3. Aumenta gradualmente il ritmo fino a scaldarti bene, poi chiudi con alcuni respiri profondi prima della lotta.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "巴克热身",
+      "description": "1. 随着鼓点或掌声，以有节奏的步伐绕场移动，如同摔跤手入场表演巴克时那样。\n2. 摆动双臂，转动肩部和髋部，并随节拍加入轻松的深蹲和弓步。\n3. 逐渐加快节奏直到身体充分热起来，然后做几次深呼吸再开始摔跤。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "バック（入場の舞）ウォームアップ",
+      "description": "1. 力士がバックの入場で行うように、太鼓や手拍子に合わせてリズミカルなステップで輪の中を回ります。\n2. 腕を振り、肩と腰を回し、拍子に合わせて軽いスクワットやランジを加えます。\n3. 十分に温まるまで徐々にペースを上げ、組み合う前に数回深呼吸して終えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "바크 워밍업",
+      "description": "1. 레슬러들이 바크 입장 의식에서 하듯 북소리나 박수에 맞춰 리드미컬한 스텝으로 원을 돕니다.\n2. 팔을 흔들고 어깨와 골반을 돌리며 박자에 맞춰 가벼운 스쿼트와 런지를 더합니다.\n3. 몸이 충분히 데워질 때까지 점차 속도를 올리고, 맞붙기 전에 깊은 호흡 몇 번으로 마무리합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "อบอุ่นร่างกายแบบบักก์",
+      "description": "1. เดินวนรอบสนามด้วยจังหวะเท้าตามเสียงกลองหรือเสียงปรบมือ เหมือนนักมวยปล้ำตอนเข้าสนามในพิธีบักก์\n2. แกว่งแขน หมุนไหล่และสะโพก แล้วเพิ่มการย่อเข่าและก้าวย่อเบา ๆ ให้เข้าจังหวะ\n3. ค่อย ๆ เพิ่มความเร็วจนร่างกายอบอุ่นเต็มที่ แล้วหายใจลึก ๆ สักครู่ก่อนเริ่มปล้ำ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Разминка бакк",
+      "description": "1. Двигайтесь по кругу ритмичными шагами под барабаны или хлопки, как борцы во время выхода с бакком.\n2. Раскачивайте руки, вращайте плечами и бёдрами, добавляйте в такт лёгкие приседания и выпады.\n3. Постепенно повышайте темп до полного разогрева и завершите несколькими глубокими вдохами перед борьбой.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Розминка бакк",
+      "description": "1. Рухайтеся по колу ритмічними кроками під барабани чи оплески, як борці під час виходу з бакком.\n2. Розгойдуйте руки, обертайте плечима й стегнами, додавайте в такт легкі присідання та випади.\n3. Поступово підвищуйте темп до повного розігріву й завершіть кількома глибокими вдихами перед боротьбою.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

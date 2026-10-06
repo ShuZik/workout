@@ -1,0 +1,90 @@
+{
+  "id": "9.27",
+  "key": "standing_windmills",
+  "title": "Standing Windmills",
+  "description": "1. Stand with feet wide and extend both arms to the sides.\n2. Hinge and rotate to reach one hand toward the opposite foot while the other arm points upward.\n3. Return through center and alternate sides with knees soft and the back long.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Standing Windmills",
+      "description": "1. Stand with feet wide and extend both arms to the sides.\n2. Hinge and rotate to reach one hand toward the opposite foot while the other arm points upward.\n3. Return through center and alternate sides with knees soft and the back long.",
+      "sectionTitle": "Dynamic Movement"
+    },
+    "es": {
+      "title": "Molinos de pie",
+      "description": "1. Coloca los pies separados y extiende ambos brazos a los lados.\n2. Inclínate desde las caderas y gira para acercar una mano al pie opuesto mientras el otro brazo apunta hacia arriba.\n3. Pasa por el centro y alterna lados con las rodillas ligeramente flexionadas y la espalda alargada.",
+      "sectionTitle": "Movimiento dinámico"
+    },
+    "pt": {
+      "title": "Moinhos em pé",
+      "description": "1. Fique com os pés afastados e estenda ambos os braços para os lados.\n2. Incline pelos quadris e gire para levar uma mão ao pé oposto enquanto o outro braço aponta para cima.\n3. Passe pelo centro e alterne os lados com joelhos flexíveis e costas alongadas.",
+      "sectionTitle": "Movimento dinâmico"
+    },
+    "fr": {
+      "title": "Moulins debout",
+      "description": "1. Écartez les pieds et tendez les deux bras sur les côtés.\n2. Basculez aux hanches et tournez pour rapprocher une main du pied opposé tandis que l’autre bras pointe vers le haut.\n3. Repassez au centre et alternez les côtés, genoux souples et dos allongé.",
+      "sectionTitle": "Mouvement dynamique"
+    },
+    "de": {
+      "title": "Windmühlen im Stand",
+      "description": "1. Stehe breit und strecke beide Arme zur Seite aus.\n2. Beuge dich aus der Hüfte und drehe, um eine Hand zum gegenüberliegenden Fuß zu führen, während der andere Arm nach oben zeigt.\n3. Kehre durch die Mitte zurück und wechsle die Seiten mit lockeren Knien und langem Rücken.",
+      "sectionTitle": "Dynamische Bewegung"
+    },
+    "it": {
+      "title": "Mulini in piedi",
+      "description": "1. Stai con i piedi larghi e distendi entrambe le braccia ai lati.\n2. Inclina il busto dalle anche e ruota per avvicinare una mano al piede opposto mentre l’altro braccio punta verso l’alto.\n3. Passa dal centro e alterna i lati con ginocchia morbide e schiena allungata.",
+      "sectionTitle": "Movimento dinamico"
+    },
+    "zh-Hans": {
+      "title": "站姿风车式",
+      "description": "1. 双脚宽站，双臂向两侧伸展。\n2. 从髋部折叠并转体，一只手伸向对侧脚，另一只手臂指向上方。\n3. 经中间位置交替换侧，保持膝盖微屈、背部伸长。",
+      "sectionTitle": "动态动作"
+    },
+    "ja": {
+      "title": "立位ウィンドミル",
+      "description": "1. 足を広く開き、両腕を横に伸ばします。\n2. 股関節から折り曲げて回旋し、片手を反対側の足へ伸ばし、もう一方の腕を上に向けます。\n3. 膝を軽く曲げて背筋を伸ばし、中央を通って左右を交互に行います。",
+      "sectionTitle": "ダイナミックな動作"
+    },
+    "ko": {
+      "title": "스탠딩 윈드밀",
+      "description": "1. 발을 넓게 벌리고 양팔을 옆으로 뻗습니다.\n2. 엉덩이를 접고 몸을 돌려 한 손을 반대쪽 발로 뻗으며 다른 팔은 위로 향합니다.\n3. 무릎을 부드럽게 유지하고 등을 길게 편 채 중앙을 지나 좌우를 번갈아 반복합니다.",
+      "sectionTitle": "동적 움직임"
+    },
+    "th": {
+      "title": "ท่ากังหันลมยืน",
+      "description": "1. ยืนแยกเท้ากว้างและเหยียดแขนทั้งสองออกด้านข้าง\n2. พับตัวจากสะโพกและหมุนตัวเพื่อเอื้อมมือข้างหนึ่งไปหาเท้าฝั่งตรงข้าม ขณะที่แขนอีกข้างชี้ขึ้น\n3. กลับผ่านตรงกลางและสลับข้าง โดยผ่อนเข่าและรักษาหลังให้ยาว",
+      "sectionTitle": "การเคลื่อนไหวแบบไดนามิก"
+    },
+    "ru": {
+      "title": "Мельница стоя",
+      "description": "1. Встаньте, широко расставив стопы, и вытяните обе руки в стороны.\n2. Наклонитесь от таза и повернитесь, направляя одну руку к противоположной стопе, а другую вверх.\n3. Возвращайтесь через центр и чередуйте стороны, сохраняя колени мягкими, а спину вытянутой.",
+      "sectionTitle": "Динамические движения"
+    },
+    "uk": {
+      "title": "Млин стоячи",
+      "description": "1. Станьте, широко розставивши стопи, та витягніть обидві руки вбік.\n2. Нахиліться від таза й поверніться, спрямовуючи одну руку до протилежної стопи, а іншу вгору.\n3. Повертайтеся через центр і чергуйте боки, зберігаючи коліна м’якими, а спину витягнутою.",
+      "sectionTitle": "Динамічні рухи"
+    }
+  }
+}

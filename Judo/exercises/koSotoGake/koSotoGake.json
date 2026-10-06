@@ -1,0 +1,90 @@
+{
+  "id": "41.55",
+  "key": "judo_ko_soto_gake",
+  "title": "Ko Soto Gake",
+  "description": "1. Push the partner's weight back onto one heel with a sleeve-and-lapel grip.\n2. Hook the back of that heel from outside with the sole and hold it in place rather than sweeping.\n3. Drive the upper body back and down over the hooked heel, guiding the partner into a back breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ko Soto Gake",
+      "description": "1. Push the partner's weight back onto one heel with a sleeve-and-lapel grip.\n2. Hook the back of that heel from outside with the sole and hold it in place rather than sweeping.\n3. Drive the upper body back and down over the hooked heel, guiding the partner into a back breakfall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Ko Soto Gake",
+      "description": "1. Empuja el peso del compañero hacia atrás sobre un talón con agarre de manga y solapa.\n2. Engancha la parte trasera de ese talón desde fuera con la planta y mantenlo en su sitio en lugar de barrer.\n3. Lleva el tronco hacia atrás y abajo sobre el talón enganchado, guiando al compañero a una caída de espaldas.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Ko Soto Gake",
+      "description": "1. Empurre o peso do parceiro para trás sobre um calcanhar com pegada na manga e na gola.\n2. Enganche a parte de trás desse calcanhar por fora com a sola e mantenha-o no lugar em vez de varrer.\n3. Leve o tronco para trás e para baixo sobre o calcanhar enganchado, guiando o parceiro a uma queda de costas.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Ko Soto Gake",
+      "description": "1. Repoussez le poids du partenaire sur un talon avec une saisie de manche et de revers.\n2. Crochetez l’arrière de ce talon par l’extérieur avec la plante et maintenez-le au lieu de balayer.\n3. Poussez le haut du corps en arrière et vers le bas par-dessus le talon crocheté, en guidant une chute arrière.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Ko Soto Gake",
+      "description": "1. Schiebe das Gewicht des Partners mit Ärmel- und Reversgriff nach hinten auf eine Ferse.\n2. Hake die Rückseite dieser Ferse von außen mit der Sohle ein und halte sie, statt zu fegen.\n3. Treibe den Oberkörper nach hinten unten über die eingehakte Ferse und führe den Partner in einen Rückwärtsfall.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Ko Soto Gake",
+      "description": "1. Spingi il peso del compagno all’indietro su un tallone con presa di manica e bavero.\n2. Aggancia il retro di quel tallone dall’esterno con la pianta e tienilo fermo invece di spazzare.\n3. Spingi il busto indietro e in basso sopra il tallone agganciato, guidando il compagno in una caduta all’indietro.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "小外挂",
+      "description": "1. 抓袖抓领将搭档重心向后推到一只脚跟上。\n2. 用脚掌从外侧勾住该脚跟后方并固定，不要扫。\n3. 把上身向后下方推过被勾住的脚跟，引导搭档后倒。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "小外掛",
+      "description": "1. 袖と襟の組み手で相手の体重を後ろの片かかとへ押します。\n2. そのかかとの後ろを外側から足裏で掛け、払わずにその場で止めます。\n3. 掛けたかかとの上へ上体を後下方へ押し、相手を後ろ受身へ導きます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "코 소토 가케",
+      "description": "1. 소매와 깃 잡기로 파트너 체중을 한쪽 뒤꿈치로 밀어 보냅니다.\n2. 그 뒤꿈치 뒤를 바깥에서 발바닥으로 걸고 쓸지 않고 고정합니다.\n3. 걸린 뒤꿈치 위로 상체를 뒤아래로 밀어 파트너를 뒤 낙법으로 이끕니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "โคโซโตกาเกะ",
+      "description": "1. ใช้การจับแขนเสื้อและปกเสื้อดันน้ำหนักคู่ฝึกไปด้านหลังลงที่ส้นเท้าข้างหนึ่ง\n2. ใช้ฝ่าเท้าเกี่ยวด้านหลังส้นเท้านั้นจากด้านนอกและยึดไว้ แทนการกวาด\n3. ดันลำตัวไปด้านหลังและลงข้ามส้นเท้าที่ถูกเกี่ยว นำคู่ฝึกให้ล้มหงาย",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Ко-сото-гакэ",
+      "description": "1. Захватом за рукав и отворот переведите вес партнёра назад на одну пятку.\n2. Зацепите подошвой эту пятку сзади снаружи и удерживайте её на месте, не подметая.\n3. Толкайте корпус назад-вниз через зацепленную пятку, направляя партнёра в страховку на спину.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Ко-сото-гаке",
+      "description": "1. Захопленням за рукав і відворот переведіть вагу партнера назад на одну п’яту.\n2. Зачепіть підошвою цю п’яту ззаду ззовні й утримуйте її на місці, не підмітаючи.\n3. Штовхайте тулуб назад-униз через зачеплену п’яту, спрямовуючи партнера у страховку на спину.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

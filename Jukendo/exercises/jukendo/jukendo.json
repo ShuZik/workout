@@ -1,0 +1,90 @@
+{
+  "id": "66.1",
+  "key": "jukendo_main",
+  "title": "Jukendo",
+  "description": "1. Wear bogu and take kamae with the mokuju: left foot forward, left hand on the forestock, right hand at the grip beside the right hip, tip at throat height.\n2. Move with short sliding steps and thrust at the valid targets with both arms extending together as the front foot steps in, calling the target with kiai.\n3. Withdraw the mokuju straight back to kamae after every thrust and keep distance and zanshin before the next attack.",
+  "color": "#90A994",
+  "colorType": "sage",
+  "workoutType": "jukendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jukendo",
+      "description": "1. Wear bogu and take kamae with the mokuju: left foot forward, left hand on the forestock, right hand at the grip beside the right hip, tip at throat height.\n2. Move with short sliding steps and thrust at the valid targets with both arms extending together as the front foot steps in, calling the target with kiai.\n3. Withdraw the mokuju straight back to kamae after every thrust and keep distance and zanshin before the next attack.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Jukendo",
+      "description": "1. Con bogu, toma kamae con el mokuju: pie izquierdo adelante, mano izquierda en el guardamanos, mano derecha en la empuñadura junto a la cadera derecha, punta a la altura de la garganta.\n2. Desplázate con pasos cortos deslizados y estoca a los objetivos válidos extendiendo ambos brazos a la vez mientras el pie delantero entra, anunciando el objetivo con kiai.\n3. Retira el mokuju recto a kamae tras cada estocada y mantén distancia y zanshin antes del siguiente ataque.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Jukendo",
+      "description": "1. Com bogu, assuma kamae com o mokuju: pé esquerdo à frente, mão esquerda no guarda-mão, mão direita na empunhadura junto ao quadril direito, ponta à altura da garganta.\n2. Desloque-se com passos curtos deslizados e estoque os alvos válidos estendendo os dois braços juntos enquanto o pé da frente entra, anunciando o alvo com kiai.\n3. Recolha o mokuju reto a kamae após cada estocada e mantenha distância e zanshin antes do próximo ataque.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Jukendo",
+      "description": "1. En bogu, prenez kamae avec le mokuju : pied gauche devant, main gauche sur le fût, main droite à la poignée près de la hanche droite, pointe à hauteur de gorge.\n2. Déplacez-vous à petits pas glissés et piquez les cibles valables en tendant les deux bras ensemble pendant que le pied avant entre, en annonçant la cible par le kiai.\n3. Ramenez le mokuju droit en kamae après chaque pique et gardez distance et zanshin avant l’attaque suivante.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Jukendo",
+      "description": "1. Mit Bogu Kamae mit dem Mokuju einnehmen: linker Fuß vorn, linke Hand am Vorderschaft, rechte Hand am Griff neben der rechten Hüfte, Spitze auf Kehlhöhe.\n2. Mit kurzen Gleitschritten bewegen und gültige Ziele stoßen, wobei beide Arme gemeinsam strecken, während der vordere Fuß eintritt, und das Ziel mit Kiai ansagen.\n3. Das Mokuju nach jedem Stoß gerade ins Kamae zurückziehen und vor dem nächsten Angriff Distanz und Zanshin halten.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Jukendo",
+      "description": "1. Con il bogu, assumi kamae con il mokuju: piede sinistro avanti, mano sinistra sull’astina, mano destra sull’impugnatura accanto all’anca destra, punta all’altezza della gola.\n2. Muoviti con brevi passi scivolati e affonda sui bersagli validi estendendo insieme le braccia mentre il piede anteriore entra, chiamando il bersaglio con il kiai.\n3. Riporta il mokuju dritto in kamae dopo ogni affondo e mantieni distanza e zanshin prima dell’attacco successivo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "铳剑道",
+      "description": "1. 穿戴护具，持木铳成构：左脚在前，左手握护木，右手握于右腰旁的握把，剑尖与咽喉同高。\n2. 以短滑步移动，前脚踏入时双臂同时伸出刺向有效部位，以气合喊出部位。\n3. 每次刺后将木铳笔直收回成构，在下一次进攻前保持间合与残心。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "銃剣道",
+      "description": "1. 防具を着け、木銃で構えます。左足を前に、左手で被筒部、右手で右腰の横の銃把を握り、剣先を喉の高さにします。\n2. 小さなすり足で動き、前足の踏み込みと同時に両腕をそろえて伸ばし、有効部位を突き、気合で部位を発声します。\n3. 突いたら木銃を真っ直ぐ構えに戻し、次の攻めの前に間合いと残心を保ちます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "주켄도",
+      "description": "1. 호구를 착용하고 목총으로 자세를 잡습니다. 왼발을 앞에, 왼손은 총몸 앞부분, 오른손은 오른 허리 옆 손잡이를 잡고 칼끝을 목 높이에 둡니다.\n2. 짧게 미끄러지는 걸음으로 움직이며 앞발을 내딛는 동시에 두 팔을 함께 뻗어 유효 부위를 찌르고 기합으로 부위를 외칩니다.\n3. 찌른 뒤마다 목총을 곧게 자세로 되돌리고 다음 공격 전에 거리와 잔심을 유지합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "จูเคนโด",
+      "description": "1. สวมโบงุและตั้งท่าด้วยโมคุจู เท้าซ้ายอยู่หน้า มือซ้ายจับด้ามหน้า มือขวาจับด้ามจับข้างสะโพกขวา ปลายอยู่ระดับคอ\n2. เคลื่อนที่ด้วยก้าวไถสั้นๆ และแทงเป้าที่ถูกต้องโดยเหยียดแขนทั้งสองพร้อมกันขณะเท้าหน้าก้าวเข้า พร้อมเปล่งคิไอบอกเป้า\n3. ดึงโมคุจูกลับตรงสู่ท่าหลังการแทงทุกครั้ง และรักษาระยะกับซันชินก่อนการโจมตีครั้งถัดไป",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Дзюкэндо",
+      "description": "1. В защитном снаряжении займите камаэ с мокудзю: левая нога впереди, левая рука на цевье, правая на рукояти у правого бедра, кончик на уровне горла.\n2. Перемещайтесь короткими скользящими шагами и наносите уколы в разрешённые цели, вытягивая обе руки одновременно с шагом передней ноги и называя цель киай.\n3. После каждого укола возвращайте мокудзю прямо в камаэ и сохраняйте дистанцию и дзансин перед следующей атакой.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Дзюкендо",
+      "description": "1. У захисному спорядженні займіть камае з мокудзю: ліва нога попереду, ліва рука на цівці, права на руків’ї біля правого стегна, кінчик на рівні горла.\n2. Пересувайтеся короткими ковзними кроками й завдавайте уколів у дозволені цілі, витягуючи обидві руки одночасно з кроком передньої ноги й називаючи ціль кіай.\n3. Після кожного уколу повертайте мокудзю прямо в камае й зберігайте дистанцію та дзансін перед наступною атакою.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

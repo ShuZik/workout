@@ -1,0 +1,90 @@
+{
+  "id": "41.30",
+  "key": "judo_ippon_seoi_nage",
+  "title": "Ippon Seoi Nage",
+  "description": "1. From a sleeve grip, step in and turn while the free arm slides under the partner's armpit to hook the upper arm in the elbow crook.\n2. Bend the knees deeply so the hips sit below the partner's center and pull the partner tight across the back.\n3. Extend the legs and turn the shoulders to project forward, keeping the sleeve so the partner lands in a side breakfall.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Te-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ippon Seoi Nage",
+      "description": "1. From a sleeve grip, step in and turn while the free arm slides under the partner's armpit to hook the upper arm in the elbow crook.\n2. Bend the knees deeply so the hips sit below the partner's center and pull the partner tight across the back.\n3. Extend the legs and turn the shoulders to project forward, keeping the sleeve so the partner lands in a side breakfall.",
+      "sectionTitle": "Te-waza"
+    },
+    "es": {
+      "title": "Ippon Seoi Nage",
+      "description": "1. Desde un agarre de manga, entra y gira mientras el brazo libre se desliza bajo la axila del compañero para enganchar la parte superior del brazo con el pliegue del codo.\n2. Flexiona mucho las rodillas para que las caderas queden por debajo del centro del compañero y pégalo firmemente a tu espalda.\n3. Extiende las piernas y gira los hombros para proyectar hacia delante, conservando la manga para que el compañero caiga con una caída lateral.",
+      "sectionTitle": "Te-waza"
+    },
+    "pt": {
+      "title": "Ippon Seoi Nage",
+      "description": "1. A partir de uma pegada na manga, entre e gire enquanto o braço livre desliza sob a axila do parceiro para enganchar o braço na dobra do cotovelo.\n2. Flexione bem os joelhos para que os quadris fiquem abaixo do centro do parceiro e puxe-o firme contra as costas.\n3. Estenda as pernas e gire os ombros para projetar para a frente, mantendo a manga para que o parceiro caia em uma queda lateral.",
+      "sectionTitle": "Te-waza"
+    },
+    "fr": {
+      "title": "Ippon Seoi Nage",
+      "description": "1. Depuis une saisie de manche, entrez et pivotez pendant que le bras libre glisse sous l’aisselle du partenaire pour crocheter le haut du bras dans le pli du coude.\n2. Fléchissez profondément les genoux pour placer les hanches sous le centre du partenaire et plaquez-le contre votre dos.\n3. Tendez les jambes et tournez les épaules pour projeter vers l’avant, en gardant la manche pour que le partenaire chute en ukemi latéral.",
+      "sectionTitle": "Te-waza"
+    },
+    "de": {
+      "title": "Ippon Seoi Nage",
+      "description": "1. Tritt aus einem Ärmelgriff ein und drehe dich, während der freie Arm unter die Achsel des Partners gleitet und den Oberarm in der Ellenbeuge einhakt.\n2. Beuge die Knie tief, damit die Hüfte unter dem Schwerpunkt des Partners liegt, und ziehe ihn eng über den Rücken.\n3. Strecke die Beine und drehe die Schultern, um nach vorn zu werfen, und halte den Ärmel, damit der Partner seitlich fällt.",
+      "sectionTitle": "Te-waza"
+    },
+    "it": {
+      "title": "Ippon Seoi Nage",
+      "description": "1. Da una presa alla manica, entra e ruota mentre il braccio libero scivola sotto l’ascella del compagno per agganciare il braccio nella piega del gomito.\n2. Piega molto le ginocchia così che le anche stiano sotto il centro del compagno e tiralo stretto sulla schiena.\n3. Estendi le gambe e ruota le spalle per proiettare in avanti, mantenendo la manica perché il compagno cada con una caduta laterale.",
+      "sectionTitle": "Te-waza"
+    },
+    "zh-Hans": {
+      "title": "一本背负投",
+      "description": "1. 从抓袖开始上步转身，空出的手臂从搭档腋下穿过，用肘弯勾住其上臂。\n2. 深屈膝使髋部低于搭档重心，将其紧贴背部。\n3. 伸腿转肩向前投出，保持袖口抓握，让搭档以侧倒法落地。",
+      "sectionTitle": "手技"
+    },
+    "ja": {
+      "title": "一本背負投",
+      "description": "1. 袖を持った状態から踏み込んで回り、空いた腕を相手の脇の下に入れて肘の内側で上腕を抱えます。\n2. 膝を深く曲げて腰を相手の重心より下に入れ、相手を背中に密着させます。\n3. 脚を伸ばし肩を回して前方へ投げ、袖を持ち続けて相手を横受身で着地させます。",
+      "sectionTitle": "手技"
+    },
+    "ko": {
+      "title": "이폰 세오이 나게",
+      "description": "1. 소매를 잡은 상태에서 들어가 돌며 빈 팔을 파트너 겨드랑이 아래로 넣어 팔꿈치 안쪽으로 상완을 겁니다.\n2. 무릎을 깊게 굽혀 골반을 파트너 중심보다 낮추고 파트너를 등에 단단히 붙입니다.\n3. 다리를 펴고 어깨를 돌려 앞으로 던지며 소매를 유지해 파트너가 옆 낙법으로 떨어지게 합니다.",
+      "sectionTitle": "손기술"
+    },
+    "th": {
+      "title": "อิปปงเซโอนาเกะ",
+      "description": "1. จากการจับแขนเสื้อ ก้าวเข้าและหมุนตัว ขณะที่แขนอีกข้างสอดใต้รักแร้คู่ฝึกเพื่อเกี่ยวต้นแขนไว้ที่ข้อพับศอก\n2. งอเข่าลึกให้สะโพกต่ำกว่าจุดศูนย์ถ่วงของคู่ฝึก และดึงคู่ฝึกให้แนบหลัง\n3. เหยียดขาและหมุนไหล่ทุ่มไปข้างหน้า จับแขนเสื้อไว้ให้คู่ฝึกล้มแบบตบด้านข้าง",
+      "sectionTitle": "เทวาซะ"
+    },
+    "ru": {
+      "title": "Иппон-сэой-нагэ",
+      "description": "1. Из захвата за рукав войдите и развернитесь, проводя свободную руку под подмышку партнёра и захватывая его плечо локтевым сгибом.\n2. Глубоко согните колени, чтобы таз оказался ниже центра тяжести партнёра, и плотно прижмите его к спине.\n3. Выпрямите ноги и разверните плечи, бросая вперёд, удерживая рукав, чтобы партнёр приземлился со страховкой на бок.",
+      "sectionTitle": "Тэ-вадза"
+    },
+    "uk": {
+      "title": "Іппон-сеой-наге",
+      "description": "1. Із захоплення за рукав увійдіть і розверніться, проводячи вільну руку під пахву партнера й захоплюючи його плече ліктьовим згином.\n2. Глибоко зігніть коліна, щоб таз опинився нижче центру ваги партнера, і щільно притисніть його до спини.\n3. Випряміть ноги й розверніть плечі, кидаючи вперед, утримуючи рукав, щоб партнер приземлився зі страховкою на бік.",
+      "sectionTitle": "Те-вадза"
+    }
+  }
+}

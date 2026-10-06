@@ -1,0 +1,89 @@
+{
+  "id": "13.59",
+  "key": "strength_barbell_bent_over_row",
+  "title": "Barbell Bent-Over Row",
+  "description": "1. Hold the bar with hands outside the legs, hinge the hips, soften the knees, and keep the spine neutral.\n2. Pull the bar toward the lower ribs while the elbows travel back and the torso angle remains fixed.\n3. Lower the bar to straight arms without rounding the shoulders or standing up between repetitions.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Barbell Bent-Over Row",
+      "description": "1. Hold the bar with hands outside the legs, hinge the hips, soften the knees, and keep the spine neutral.\n2. Pull the bar toward the lower ribs while the elbows travel back and the torso angle remains fixed.\n3. Lower the bar to straight arms without rounding the shoulders or standing up between repetitions.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Remo inclinado con barra",
+      "description": "1. Sujeta la barra con las manos por fuera de las piernas, flexiona la cadera, desbloquea las rodillas y mantén la columna neutra.\n2. Tira de la barra hacia las costillas inferiores mientras los codos van hacia atrás y el ángulo del torso se mantiene fijo.\n3. Baja la barra hasta estirar los brazos sin redondear los hombros ni incorporarte entre repeticiones.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Remada curvada com barra",
+      "description": "1. Segure a barra com as mãos por fora das pernas, flexione o quadril, destrave os joelhos e mantenha a coluna neutra.\n2. Puxe a barra em direção às costelas inferiores enquanto os cotovelos vão para trás e o ângulo do tronco permanece fixo.\n3. Abaixe a barra até estender os braços sem arredondar os ombros nem levantar o tronco entre as repetições.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Rowing buste penché à la barre",
+      "description": "1. Tenez la barre, mains à l’extérieur des jambes, basculez le bassin, déverrouillez les genoux et gardez la colonne neutre.\n2. Tirez la barre vers le bas des côtes pendant que les coudes reculent et que l’angle du buste reste fixe.\n3. Redescendez la barre jusqu’aux bras tendus sans arrondir les épaules ni vous redresser entre les répétitions.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Vorgebeugtes Rudern mit der Langhantel",
+      "description": "1. Greife die Stange außerhalb der Beine, beuge dich in der Hüfte, entsperre die Knie und halte die Wirbelsäule neutral.\n2. Ziehe die Stange zu den unteren Rippen, während die Ellbogen nach hinten wandern und der Oberkörperwinkel gleich bleibt.\n3. Senke die Stange bis zu gestreckten Armen, ohne die Schultern zu runden oder dich zwischen den Wiederholungen aufzurichten.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Rematore con bilanciere",
+      "description": "1. Afferra il bilanciere con le mani all’esterno delle gambe, piegati dalle anche, sblocca le ginocchia e mantieni la colonna neutra.\n2. Tira il bilanciere verso le costole basse mentre i gomiti vanno indietro e l’inclinazione del busto resta fissa.\n3. Abbassa il bilanciere fino a braccia tese senza arrotondare le spalle né raddrizzarti tra una ripetizione e l’altra.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "杠铃俯身划船",
+      "description": "1. 双手在双腿外侧握住杠铃，屈髋，膝盖微屈，脊柱保持中立。\n2. 将杠铃拉向下肋，肘部向后移动，躯干角度保持不变。\n3. 将杠铃放下至手臂伸直，不要圆肩，也不要在两次之间站起。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "バーベルベントオーバーロウ",
+      "description": "1. 脚の外側でバーを握り、股関節から前傾し、膝を軽く緩めて背骨をニュートラルに保ちます。\n2. 上体の角度を固定したまま、肘を後ろに引いてバーを下部肋骨へ引き寄せます。\n3. 肩を丸めたりレップ間に起き上がったりせずに、腕が伸びるまでバーを下ろします。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "바벨 벤트오버 로우",
+      "description": "1. 다리 바깥쪽에서 바를 잡고 엉덩이를 접으며 무릎을 살짝 풀고 척추를 중립으로 유지합니다.\n2. 몸통 각도를 고정한 채 팔꿈치를 뒤로 보내며 바를 아래쪽 갈비뼈 쪽으로 당깁니다.\n3. 어깨를 말거나 반복 사이에 일어서지 않고 팔이 펴질 때까지 바를 내립니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "เบนต์โอเวอร์โรว์ด้วยบาร์เบล",
+      "description": "1. จับบาร์โดยให้มืออยู่นอกขา พับสะโพก งอเข่าเล็กน้อย และรักษากระดูกสันหลังให้อยู่ในแนวกลาง\n2. ดึงบาร์เข้าหาซี่โครงล่าง ขณะที่ศอกเคลื่อนไปด้านหลังและมุมลำตัวคงที่\n3. ลดบาร์ลงจนแขนตรงโดยไม่ห่อไหล่หรือยืดตัวขึ้นระหว่างแต่ละครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Тяга штанги в наклоне",
+      "description": "1. Возьмите штангу хватом снаружи от ног, наклонитесь в тазобедренных суставах, слегка согните колени и сохраняйте спину нейтральной.\n2. Тяните штангу к нижним рёбрам, отводя локти назад и сохраняя угол наклона корпуса.\n3. Опустите штангу до прямых рук, не округляя плечи и не выпрямляясь между повторениями.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Тяга штанги в нахилі",
+      "description": "1. Візьміть штангу хватом зовні від ніг, нахиліться в кульшових суглобах, злегка зігніть коліна й зберігайте спину нейтральною.\n2. Тягніть штангу до нижніх ребер, відводячи лікті назад і зберігаючи кут нахилу корпусу.\n3. Опустіть штангу до прямих рук, не округлюючи плечей і не випрямляючись між повтореннями.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

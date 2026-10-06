@@ -1,0 +1,90 @@
+{
+  "id": "11.17",
+  "key": "outdoor_rowing",
+  "title": "Outdoor Rowing",
+  "description": "1. Sit balanced with feet secured, arms straight, knees bent, and oar blades placed for the catch.\n2. Drive with the legs first, swing the torso slightly back, then draw the handles toward the lower ribs.\n3. Extend the arms, hinge forward, and bend the knees in that order to return smoothly for the next stroke.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5.8,
+    "vigorous": 12.5,
+    "lightCode": "18070",
+    "moderateCode": "18050",
+    "vigorousCode": "18060"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Outdoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Outdoor Rowing",
+      "description": "1. Sit balanced with feet secured, arms straight, knees bent, and oar blades placed for the catch.\n2. Drive with the legs first, swing the torso slightly back, then draw the handles toward the lower ribs.\n3. Extend the arms, hinge forward, and bend the knees in that order to return smoothly for the next stroke.",
+      "sectionTitle": "Outdoor"
+    },
+    "es": {
+      "title": "Remo al aire libre",
+      "description": "1. Siéntate en equilibrio con los pies sujetos, los brazos estirados, las rodillas flexionadas y las palas colocadas para iniciar la remada.\n2. Impúlsate primero con las piernas, inclina el torso ligeramente hacia atrás y después lleva los mangos hacia las costillas inferiores.\n3. Extiende los brazos, inclínate hacia delante desde las caderas y flexiona las rodillas, en ese orden, para volver suavemente a la siguiente remada.",
+      "sectionTitle": "Al aire libre"
+    },
+    "pt": {
+      "title": "Remo ao ar livre",
+      "description": "1. Sente-se equilibrado com os pés presos, os braços estendidos, os joelhos flexionados e as pás posicionadas para iniciar a remada.\n2. Impulsione primeiro com as pernas, incline o tronco ligeiramente para trás e depois puxe as alças em direção às costelas inferiores.\n3. Estenda os braços, incline-se à frente a partir do quadril e flexione os joelhos, nessa ordem, para retornar suavemente à próxima remada.",
+      "sectionTitle": "Ao ar livre"
+    },
+    "fr": {
+      "title": "Aviron en extérieur",
+      "description": "1. Asseyez-vous en équilibre, les pieds fixés, les bras tendus, les genoux pliés et les palettes placées pour la prise d’eau.\n2. Poussez d’abord avec les jambes, basculez légèrement le torse en arrière, puis tirez les poignées vers les côtes inférieures.\n3. Tendez les bras, penchez-vous vers l’avant depuis les hanches et pliez les genoux, dans cet ordre, pour revenir fluidement au coup suivant.",
+      "sectionTitle": "En plein air"
+    },
+    "de": {
+      "title": "Rudern im Freien",
+      "description": "1. Sitze ausbalanciert mit gesicherten Füßen, gestreckten Armen, gebeugten Knien und für den Wassergriff positionierten Ruderblättern.\n2. Drücke zuerst mit den Beinen, neige den Oberkörper leicht zurück und ziehe dann die Griffe zu den unteren Rippen.\n3. Strecke die Arme, beuge dich aus der Hüfte nach vorn und beuge die Knie in dieser Reihenfolge, um fließend zum nächsten Schlag zurückzukehren.",
+      "sectionTitle": "Im Freien"
+    },
+    "it": {
+      "title": "Canottaggio all’aperto",
+      "description": "1. Siediti in equilibrio con i piedi fissati, le braccia distese, le ginocchia piegate e le pale posizionate per la presa in acqua.\n2. Spingi prima con le gambe, inclina il busto leggermente indietro, poi tira le impugnature verso le costole inferiori.\n3. Distendi le braccia, piegati in avanti dalle anche e fletti le ginocchia, in quest’ordine, per tornare fluidamente alla vogata successiva.",
+      "sectionTitle": "All’aperto"
+    },
+    "zh-Hans": {
+      "title": "户外划船",
+      "description": "1. 平衡坐稳，固定双脚，手臂伸直，膝盖弯曲，将桨叶置于准备入水的位置。\n2. 先用腿蹬推，躯干稍向后摆，再将手柄拉向下肋部。\n3. 依次伸直手臂、从髋部前倾、弯曲膝盖，平稳回到下一次划桨的准备位置。",
+      "sectionTitle": "户外"
+    },
+    "ja": {
+      "title": "屋外ローイング",
+      "description": "1. 足を固定し、腕を伸ばし、膝を曲げ、オールのブレードをキャッチ位置に置いてバランスよく座ります。\n2. まず脚で押し、上体を少し後ろへ倒してから、グリップを下部の肋骨へ引きます。\n3. 腕を伸ばし、股関節から前へ倒れ、膝を曲げる順番で、次のストロークへ滑らかに戻ります。",
+      "sectionTitle": "屋外"
+    },
+    "ko": {
+      "title": "야외 조정",
+      "description": "1. 발을 고정하고 팔을 펴며 무릎을 굽힌 상태에서 노 날을 캐치 위치에 놓고 균형 있게 앉습니다.\n2. 먼저 다리로 밀고 몸통을 살짝 뒤로 기울인 뒤 손잡이를 아래쪽 갈비뼈로 당깁니다.\n3. 팔을 펴고, 고관절에서 앞으로 접고, 무릎을 굽히는 순서로 다음 스트로크를 위해 부드럽게 돌아옵니다.",
+      "sectionTitle": "야외"
+    },
+    "th": {
+      "title": "การพายเรือกลางแจ้ง",
+      "description": "1. นั่งให้สมดุล ยึดเท้า เหยียดแขน งอเข่า และวางใบพายในตำแหน่งเริ่มจับน้ำ\n2. ดันด้วยขาก่อน เอนลำตัวไปด้านหลังเล็กน้อย แล้วดึงด้ามเข้าหาซี่โครงส่วนล่าง\n3. เหยียดแขน พับตัวไปข้างหน้าจากสะโพก แล้วงอเข่าตามลำดับ เพื่อกลับไปเริ่มพายครั้งถัดไปอย่างราบรื่น",
+      "sectionTitle": "กลางแจ้ง"
+    },
+    "ru": {
+      "title": "Гребля на открытой воде",
+      "description": "1. Сядьте устойчиво, закрепив стопы, выпрямив руки, согнув колени и расположив лопасти вёсел для захвата воды.\n2. Сначала оттолкнитесь ногами, слегка отклоните туловище назад, затем подтяните рукоятки к нижним рёбрам.\n3. Выпрямите руки, наклонитесь вперёд от тазобедренных суставов и согните колени в этом порядке, плавно возвращаясь для следующего гребка.",
+      "sectionTitle": "На открытом воздухе"
+    },
+    "uk": {
+      "title": "Веслування на відкритій воді",
+      "description": "1. Сядьте стійко, закріпивши стопи, випрямивши руки, зігнувши коліна й розташувавши лопаті весел для захоплення води.\n2. Спочатку відштовхніться ногами, злегка відхиліть тулуб назад, потім підтягніть руків’я до нижніх ребер.\n3. Випряміть руки, нахиліться вперед від кульшових суглобів і зігніть коліна в цьому порядку, плавно повертаючись для наступного гребка.",
+      "sectionTitle": "Надворі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "89.7",
+  "key": "savate_punch_kick_punch_chain",
+  "title": "Punch-Kick-Punch Chain",
+  "description": "1. Start at punching distance facing a partner in guard with mitts or agreed light assaut contact.\n2. Open with punches, create room with a kick, then close the distance again and finish with punches.\n3. Control the contact, exit in guard, and swap roles after each sequence.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Punch-Kick-Punch Chain",
+      "description": "1. Start at punching distance facing a partner in guard with mitts or agreed light assaut contact.\n2. Open with punches, create room with a kick, then close the distance again and finish with punches.\n3. Control the contact, exit in guard, and swap roles after each sequence.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Cadena puño-pie-puño",
+      "description": "1. Empieza a distancia de puño frente a un compañero en guardia con manoplas o contacto ligero acordado.\n2. Abre con golpes de puño, crea espacio con una patada y vuelve a acortar la distancia para terminar con puños.\n3. Controla el contacto, sal en guardia e intercambiad roles tras cada secuencia.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Cadeia punho-pé-punho",
+      "description": "1. Comece na distância de soco diante de um parceiro em guarda com manoplas ou contato leve combinado.\n2. Abra com socos, crie espaço com um chute e volte a encurtar a distância para finalizar com socos.\n3. Controle o contato, saia em guarda e troquem os papéis após cada sequência.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Enchaînement poings-pieds-poings",
+      "description": "1. Commencez à distance de poing face à un partenaire en garde avec pattes d’ours ou contact léger convenu.\n2. Ouvrez avec les poings, créez de l’espace avec un coup de pied, puis revenez à distance pour finir aux poings.\n3. Contrôlez le contact, sortez en garde et inversez les rôles après chaque séquence.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Kette Faust-Fuß-Faust",
+      "description": "1. Beginne auf Schlagdistanz gegenüber einem Partner in Deckung mit Pratzen oder vereinbartem leichtem Kontakt.\n2. Eröffne mit Schlägen, schaffe mit einem Tritt Raum und schließe dann erneut die Distanz, um mit Schlägen abzuschließen.\n3. Kontrolliere den Kontakt, verlasse die Linie in Deckung und tauscht nach jeder Sequenz die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Catena pugno-piede-pugno",
+      "description": "1. Inizia a distanza di pugno di fronte a un compagno in guardia con colpitori o contatto leggero concordato.\n2. Apri con i pugni, crea spazio con un calcio, poi riaccorcia la distanza e chiudi con i pugni.\n3. Controlla il contatto, esci in guardia e scambiatevi i ruoli dopo ogni sequenza.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "拳-腿-拳连击",
+      "description": "1. 在拳法距离与持手靶或约定轻接触的同伴相对，保持防守势。\n2. 以拳法开始，用一记腿法拉开空间，再次拉近距离以拳法收尾。\n3. 控制接触，以防守势退出，每组后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "突き・蹴り・突きのコンビネーション",
+      "description": "1. ミットまたは合意したライトな接触で、パンチの間合いで構えたパートナーと向き合って始めます。\n2. パンチで始め、蹴りでスペースを作り、再び間合いを詰めてパンチで締めます。\n3. 接触をコントロールし、構えたまま抜けて、1セットごとに役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "펀치-킥-펀치 연결",
+      "description": "1. 미트 또는 합의된 가벼운 접촉으로 펀치 거리에서 가드 자세의 파트너와 마주 서서 시작합니다.\n2. 펀치로 시작하고 킥으로 공간을 만든 뒤 다시 거리를 좁혀 펀치로 마무리합니다.\n3. 접촉을 통제하고 가드로 빠져나오며 한 세트마다 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ชุดหมัด-เท้า-หมัด",
+      "description": "1. เริ่มที่ระยะหมัด เผชิญคู่ฝึกในการ์ดที่ใช้เป้ามือหรือการสัมผัสเบาตามที่ตกลง\n2. เปิดด้วยหมัด สร้างระยะด้วยลูกเตะ แล้วลดระยะอีกครั้งเพื่อปิดด้วยหมัด\n3. ควบคุมการสัมผัส ออกในการ์ด และสลับบทบาทหลังแต่ละชุด",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Связка рука-нога-рука",
+      "description": "1. Начните на дистанции удара рукой напротив партнёра в стойке с лапами или с оговорённым лёгким контактом.\n2. Откройте ударами рук, создайте пространство ударом ногой, затем снова сократите дистанцию и завершите руками.\n3. Контролируйте контакт, выходите в стойке и меняйтесь ролями после каждой серии.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Зв’язка рука-нога-рука",
+      "description": "1. Почніть на дистанції удару рукою навпроти партнера в стійці з лапами або з узгодженим легким контактом.\n2. Відкрийте ударами рук, створіть простір ударом ногою, потім знову скоротіть дистанцію й завершіть руками.\n3. Контролюйте контакт, виходьте в стійці й міняйтеся ролями після кожної серії.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "9.6",
+  "key": "shoulder_circles",
+  "title": "Shoulder Circles",
+  "description": "1. Stand tall with both arms relaxed by the sides.\n2. Lift the shoulders toward the ears, roll them back, then draw them down and forward.\n3. Repeat several circles, then reverse the direction without moving the head.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.8,
+    "vigorous": 3.8,
+    "lightCode": "02101",
+    "moderateCode": "02024",
+    "vigorousCode": "02022"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Shoulder Circles",
+      "description": "1. Stand tall with both arms relaxed by the sides.\n2. Lift the shoulders toward the ears, roll them back, then draw them down and forward.\n3. Repeat several circles, then reverse the direction without moving the head.",
+      "sectionTitle": "Joint Mobility"
+    },
+    "es": {
+      "title": "Círculos de hombros",
+      "description": "1. Ponte erguido con ambos brazos relajados a los lados.\n2. Eleva los hombros hacia las orejas, llévalos hacia atrás y después bájalos y llévalos hacia delante.\n3. Repite varios círculos e invierte la dirección sin mover la cabeza.",
+      "sectionTitle": "Movilidad articular"
+    },
+    "pt": {
+      "title": "Círculos dos ombros",
+      "description": "1. Fique ereto com os dois braços relaxados ao lado do corpo.\n2. Eleve os ombros em direção às orelhas, gire-os para trás e depois leve-os para baixo e para a frente.\n3. Repita vários círculos e inverta a direção sem mover a cabeça.",
+      "sectionTitle": "Mobilidade articular"
+    },
+    "fr": {
+      "title": "Cercles des épaules",
+      "description": "1. Tenez-vous droit, les deux bras détendus le long du corps.\n2. Montez les épaules vers les oreilles, roulez-les vers l’arrière, puis abaissez-les et avancez-les.\n3. Faites plusieurs cercles, puis inversez le sens sans bouger la tête.",
+      "sectionTitle": "Mobilité articulaire"
+    },
+    "de": {
+      "title": "Schulterkreisen",
+      "description": "1. Stehe aufrecht und lasse beide Arme entspannt seitlich hängen.\n2. Hebe die Schultern zu den Ohren, rolle sie nach hinten und führe sie anschließend nach unten und vorne.\n3. Wiederhole mehrere Kreise und wechsle dann die Richtung, ohne den Kopf zu bewegen.",
+      "sectionTitle": "Gelenkbeweglichkeit"
+    },
+    "it": {
+      "title": "Circonduzioni delle spalle",
+      "description": "1. Stai in piedi ben eretto con entrambe le braccia rilassate lungo i fianchi.\n2. Solleva le spalle verso le orecchie, ruotale indietro, quindi portale in basso e in avanti.\n3. Ripeti diversi cerchi, poi inverti la direzione senza muovere la testa.",
+      "sectionTitle": "Mobilità articolare"
+    },
+    "zh-Hans": {
+      "title": "肩部绕环",
+      "description": "1. 站直，双臂在身体两侧放松。\n2. 将肩膀抬向耳朵，向后绕动，再向下、向前移动。\n3. 重复绕环数次，然后反向进行，头部保持不动。",
+      "sectionTitle": "关节活动"
+    },
+    "ja": {
+      "title": "肩回し",
+      "description": "1. 背筋を伸ばして立ち、両腕を体の横でリラックスさせます。\n2. 肩を耳に近づけるように上げ、後ろへ回してから下げ、前へ動かします。\n3. 数回繰り返した後、頭を動かさずに反対方向へ回します。",
+      "sectionTitle": "関節の可動性"
+    },
+    "ko": {
+      "title": "어깨 돌리기",
+      "description": "1. 똑바로 서서 양팔을 몸 옆에 편안하게 둡니다.\n2. 어깨를 귀 쪽으로 올리고 뒤로 돌린 다음 아래로, 앞으로 움직입니다.\n3. 여러 번 원을 그린 뒤 머리를 움직이지 않고 방향을 바꿉니다.",
+      "sectionTitle": "관절 가동성"
+    },
+    "th": {
+      "title": "หมุนไหล่",
+      "description": "1. ยืนตัวตรงและผ่อนคลายแขนทั้งสองข้างลำตัว\n2. ยกไหล่เข้าหาหู หมุนไปด้านหลัง แล้วเคลื่อนลงและไปด้านหน้า\n3. หมุนหลายรอบ จากนั้นเปลี่ยนทิศทางโดยไม่ขยับศีรษะ",
+      "sectionTitle": "การเคลื่อนไหวข้อต่อ"
+    },
+    "ru": {
+      "title": "Круги плечами",
+      "description": "1. Встаньте прямо, расслабив обе руки вдоль тела.\n2. Поднимите плечи к ушам, отведите их назад, затем опустите и направьте вперёд.\n3. Повторите несколько кругов, затем смените направление, не двигая головой.",
+      "sectionTitle": "Подвижность суставов"
+    },
+    "uk": {
+      "title": "Колові рухи плечима",
+      "description": "1. Станьте прямо, розслабивши обидві руки вздовж тіла.\n2. Підніміть плечі до вух, відведіть їх назад, потім опустіть і спрямуйте вперед.\n3. Повторіть кілька кіл, а потім змініть напрямок, не рухаючи головою.",
+      "sectionTitle": "Рухливість суглобів"
+    }
+  }
+}

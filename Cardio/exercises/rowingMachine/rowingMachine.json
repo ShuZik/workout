@@ -1,0 +1,90 @@
+{
+  "id": "11.8",
+  "key": "rowing_machine",
+  "title": "Rowing Machine",
+  "description": "1. Strap the feet, sit at the catch with shins near vertical, arms straight, and torso slightly forward.\n2. Drive the legs, open the hips, then pull the handle to the lower ribs without lifting the shoulders.\n3. Extend the arms, hinge forward, then bend the knees to slide back to the catch.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5,
+    "moderate": 7.5,
+    "vigorous": 11,
+    "lightCode": "02071",
+    "moderateCode": "02072",
+    "vigorousCode": "02073"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rowing Machine",
+      "description": "1. Strap the feet, sit at the catch with shins near vertical, arms straight, and torso slightly forward.\n2. Drive the legs, open the hips, then pull the handle to the lower ribs without lifting the shoulders.\n3. Extend the arms, hinge forward, then bend the knees to slide back to the catch.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "Máquina de remo",
+      "description": "1. Sujeta los pies con las correas y siéntate en la posición inicial con las espinillas casi verticales, los brazos estirados y el torso ligeramente hacia delante.\n2. Empuja con las piernas, extiende las caderas y tira del mango hacia las costillas inferiores sin levantar los hombros.\n3. Extiende los brazos, inclínate hacia delante desde las caderas y flexiona las rodillas para deslizarte a la posición inicial.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "Máquina de remo",
+      "description": "1. Prenda os pés nas correias e sente-se na posição inicial com as canelas quase verticais, os braços estendidos e o tronco ligeiramente à frente.\n2. Empurre com as pernas, estenda o quadril e puxe a alça até as costelas inferiores sem levantar os ombros.\n3. Estenda os braços, incline-se à frente a partir do quadril e flexione os joelhos para deslizar de volta à posição inicial.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Rameur",
+      "description": "1. Sanglez les pieds et prenez la position de départ, les tibias presque verticaux, les bras tendus et le torse légèrement en avant.\n2. Poussez avec les jambes, ouvrez les hanches, puis tirez la poignée vers les côtes inférieures sans lever les épaules.\n3. Tendez les bras, penchez-vous depuis les hanches, puis pliez les genoux pour glisser vers la position de départ.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "Rudergerät",
+      "description": "1. Befestige die Füße und sitze in der Auslage mit nahezu senkrechten Schienbeinen, gestreckten Armen und leicht nach vorn geneigtem Oberkörper.\n2. Drücke mit den Beinen, strecke die Hüfte und ziehe dann den Griff zu den unteren Rippen, ohne die Schultern anzuheben.\n3. Strecke die Arme, beuge dich aus der Hüfte nach vorn und beuge dann die Knie, um zurück in die Auslage zu gleiten.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "Vogatore",
+      "description": "1. Fissa i piedi con le cinghie e siediti nella posizione iniziale con le tibie quasi verticali, le braccia distese e il busto leggermente avanti.\n2. Spingi con le gambe, estendi le anche, poi tira l’impugnatura verso le costole inferiori senza sollevare le spalle.\n3. Distendi le braccia, piegati in avanti dalle anche, poi fletti le ginocchia per scivolare alla posizione iniziale.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "划船机",
+      "description": "1. 系好脚带，坐在起始位置，小腿接近竖直，手臂伸直，躯干微微前倾。\n2. 蹬腿、伸髋，然后将手柄拉向下肋部，不要抬肩。\n3. 伸直手臂，从髋部前倾，再弯曲膝盖滑回起始位置。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "ローイングマシン",
+      "description": "1. 足をストラップで固定し、すねをほぼ垂直に、腕を伸ばし、上体を少し前へ倒してキャッチ位置に座ります。\n2. 脚で押し、股関節を伸ばしてから、肩を上げずにハンドルを下部の肋骨へ引きます。\n3. 腕を伸ばし、股関節から前へ倒れ、膝を曲げてキャッチ位置へ滑り戻ります。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "로잉 머신",
+      "description": "1. 발을 스트랩으로 고정하고 정강이를 거의 수직으로, 팔을 곧게, 몸통을 살짝 앞으로 둔 캐치 자세로 앉습니다.\n2. 다리로 밀고 고관절을 편 뒤 어깨를 올리지 않고 손잡이를 아래쪽 갈비뼈로 당깁니다.\n3. 팔을 펴고 고관절에서 앞으로 접은 뒤 무릎을 굽혀 캐치 자세로 미끄러져 돌아갑니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "เครื่องกรรเชียงบก",
+      "description": "1. รัดเท้าด้วยสาย นั่งในท่าเริ่มโดยให้หน้าแข้งเกือบตั้งฉาก แขนเหยียด และลำตัวเอนไปข้างหน้าเล็กน้อย\n2. ดันด้วยขา เหยียดสะโพก แล้วดึงด้ามเข้าหาซี่โครงส่วนล่างโดยไม่ยกไหล่\n3. เหยียดแขน พับตัวไปข้างหน้าจากสะโพก แล้วงอเข่าเพื่อเลื่อนกลับสู่ท่าเริ่ม",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "Гребной тренажёр",
+      "description": "1. Закрепите стопы ремнями и сядьте в исходное положение с почти вертикальными голенями, прямыми руками и слегка наклонённым вперёд туловищем.\n2. Оттолкнитесь ногами, разогните тазобедренные суставы, затем подтяните рукоятку к нижним рёбрам, не поднимая плечи.\n3. Выпрямите руки, наклонитесь вперёд от тазобедренных суставов, затем согните колени, скользя обратно в исходное положение.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "Веслувальний тренажер",
+      "description": "1. Закріпіть стопи ременями й сядьте в початкове положення з майже вертикальними гомілками, прямими руками та злегка нахиленим уперед тулубом.\n2. Відштовхніться ногами, розігніть кульшові суглоби, потім підтягніть руків’я до нижніх ребер, не піднімаючи плечі.\n3. Випряміть руки, нахиліться вперед від кульшових суглобів, потім зігніть коліна, ковзаючи назад у початкове положення.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
+}

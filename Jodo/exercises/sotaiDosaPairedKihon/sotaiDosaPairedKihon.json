@@ -1,0 +1,90 @@
+{
+  "id": "64.14",
+  "key": "jodo_sotai_dosa",
+  "title": "Sotai Dosa (Paired Kihon)",
+  "description": "1. Shidachi holds the jo and uchidachi the bokuto; bow, take the prescribed distance, and agree on one of the 12 kihon.\n2. Uchidachi delivers the matching cut or thrust at controlled speed; shidachi applies the kihon to the sword or wrists, stopping strikes short of contact to the body.\n3. Shidachi finishes with the jo tip controlling uchidachi's centerline, both reset to distance, swap roles, and stop at once if control is lost.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "jodo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Partner Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sotai Dosa (Paired Kihon)",
+      "description": "1. Shidachi holds the jo and uchidachi the bokuto; bow, take the prescribed distance, and agree on one of the 12 kihon.\n2. Uchidachi delivers the matching cut or thrust at controlled speed; shidachi applies the kihon to the sword or wrists, stopping strikes short of contact to the body.\n3. Shidachi finishes with the jo tip controlling uchidachi's centerline, both reset to distance, swap roles, and stop at once if control is lost.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Sotai Dosa (kihon en pareja)",
+      "description": "1. Shidachi sostiene el jo y uchidachi el bokuto; saludad, tomad la distancia prescrita y acordad uno de los 12 kihon.\n2. Uchidachi ejecuta el corte o la estocada correspondiente a velocidad controlada; shidachi aplica el kihon a la espada o las muñecas, deteniendo los golpes antes del contacto con el cuerpo.\n3. Shidachi termina con la punta del jo controlando la línea central de uchidachi; ambos vuelven a la distancia, intercambian roles y se detienen en cuanto se pierde el control.",
+      "sectionTitle": "Kihon con compañero"
+    },
+    "pt": {
+      "title": "Sotai Dosa (kihon em dupla)",
+      "description": "1. Shidachi segura o jo e uchidachi o bokuto; cumprimentem, tomem a distância prescrita e combinem um dos 12 kihon.\n2. Uchidachi executa o corte ou a estocada correspondente em velocidade controlada; shidachi aplica o kihon à espada ou aos pulsos, parando os golpes antes do contato com o corpo.\n3. Shidachi termina com a ponta do jo controlando a linha central de uchidachi; ambos voltam à distância, trocam de papel e param assim que o controle se perder.",
+      "sectionTitle": "Kihon com parceiro"
+    },
+    "fr": {
+      "title": "Sotai Dosa (kihon à deux)",
+      "description": "1. Shidachi tient le jo et uchidachi le bokuto ; saluez, prenez la distance prescrite et choisissez l’un des 12 kihon.\n2. Uchidachi porte la coupe ou l’estoc correspondant à vitesse contrôlée ; shidachi applique le kihon sur le sabre ou les poignets en arrêtant les frappes avant tout contact avec le corps.\n3. Shidachi termine pointe du jo sur la ligne centrale d’uchidachi ; reprenez la distance, inversez les rôles et arrêtez immédiatement en cas de perte de contrôle.",
+      "sectionTitle": "Kihon avec partenaire"
+    },
+    "de": {
+      "title": "Sotai Dosa (Partner-Kihon)",
+      "description": "1. Shidachi hält den Jo, Uchidachi das Bokuto; verbeugt euch, nehmt die vorgeschriebene Distanz ein und wählt eines der 12 Kihon.\n2. Uchidachi führt den passenden Schnitt oder Stich mit kontrolliertem Tempo aus; Shidachi wendet das Kihon auf Schwert oder Handgelenke an und stoppt Schläge vor Körperkontakt.\n3. Shidachi schließt mit der Jo-Spitze auf Uchidachis Mittellinie ab; beide nehmen wieder Distanz, tauschen die Rollen und brechen sofort ab, wenn die Kontrolle verloren geht.",
+      "sectionTitle": "Kihon mit Partner"
+    },
+    "it": {
+      "title": "Sotai Dosa (kihon in coppia)",
+      "description": "1. Shidachi impugna il jo e uchidachi il bokuto; salutatevi, prendete la distanza prescritta e concordate uno dei 12 kihon.\n2. Uchidachi esegue il taglio o l’affondo corrispondente a velocità controllata; shidachi applica il kihon alla spada o ai polsi, fermando i colpi prima del contatto con il corpo.\n3. Shidachi conclude con la punta del jo sulla linea centrale di uchidachi; riprendete la distanza, scambiate i ruoli e fermatevi subito se si perde il controllo.",
+      "sectionTitle": "Kihon con partner"
+    },
+    "zh-Hans": {
+      "title": "相对动作（双人基本）",
+      "description": "1. 仕杖持杖，打太刀持木刀；行礼，取规定间合，并约定12个基本动作之一。\n2. 打太刀以受控速度做出相应的斩或刺；仕杖对刀或手腕施以该基本动作，击打在接触身体前停住。\n3. 仕杖以杖尖控制打太刀中线收势；双方回到间合、交换角色，一旦失去控制立即停止。",
+      "sectionTitle": "双人基本"
+    },
+    "ja": {
+      "title": "相対動作",
+      "description": "1. 仕杖は杖、打太刀は木刀を持ち、礼をして所定の間合を取り、12本の基本のうち一つを決めます。\n2. 打太刀は対応する斬りまたは突きを制御した速さで行い、仕杖は刀または小手に基本を施し、体への打突は寸前で止めます。\n3. 仕杖は杖先で打太刀の正中線を制して終え、互いに間合に戻って役割を交代します。制御を失ったら直ちに止めます。",
+      "sectionTitle": "相対動作"
+    },
+    "ko": {
+      "title": "소타이 도사(상대 기본)",
+      "description": "1. 시조는 조를, 우치다치는 목검을 들고 인사한 뒤 정해진 거리를 잡고 12가지 기본 중 하나를 정합니다.\n2. 우치다치가 그에 맞는 베기나 찌르기를 통제된 속도로 하면 시조는 칼이나 손목에 기본 동작을 적용하고 몸에 대한 타격은 닿기 전에 멈춥니다.\n3. 시조가 조 끝으로 우치다치의 중심선을 제압하며 마치고, 둘이 거리로 돌아가 역할을 바꾸며, 통제를 잃으면 즉시 멈춥니다.",
+      "sectionTitle": "상대 기본"
+    },
+    "th": {
+      "title": "โซไตโดสะ (คิฮงคู่)",
+      "description": "1. ชิโจถือไม้โจ อุจิดาจิถือดาบไม้ ทำความเคารพ ยืนระยะที่กำหนด และตกลงเลือกหนึ่งใน 12 คิฮง\n2. อุจิดาจิฟันหรือแทงตามท่าด้วยความเร็วที่ควบคุมได้ ชิโจใช้คิฮงกับดาบหรือข้อมือ โดยหยุดการตีก่อนสัมผัสลำตัว\n3. ชิโจจบโดยปลายไม้ควบคุมแนวกึ่งกลางของอุจิดาจิ ทั้งคู่กลับสู่ระยะ สลับบทบาท และหยุดทันทีหากเสียการควบคุม",
+      "sectionTitle": "คิฮงกับคู่"
+    },
+    "ru": {
+      "title": "Сотай-доса (кихон в паре)",
+      "description": "1. Сидзё держит дзё, утидати — боккэн; поклонитесь, займите установленную дистанцию и выберите один из 12 кихон.\n2. Утидати наносит соответствующий разрез или укол с контролируемой скоростью; сидзё применяет кихон к мечу или запястьям, останавливая удары до контакта с телом.\n3. Сидзё завершает, контролируя концом дзё центральную линию утидати; оба возвращаются на дистанцию, меняются ролями и сразу останавливаются при потере контроля.",
+      "sectionTitle": "Кихон с партнёром"
+    },
+    "uk": {
+      "title": "Сотай-доса (кіхон у парі)",
+      "description": "1. Сідзьо тримає дзьо, утідаті — боккен; вклоніться, займіть установлену дистанцію й оберіть один із 12 кіхон.\n2. Утідаті завдає відповідного розрізу чи уколу з контрольованою швидкістю; сідзьо застосовує кіхон до меча або зап’ясть, зупиняючи удари до контакту з тілом.\n3. Сідзьо завершує, контролюючи кінцем дзьо центральну лінію утідаті; обидва повертаються на дистанцію, міняються ролями й одразу зупиняються в разі втрати контролю.",
+      "sectionTitle": "Кіхон із партнером"
+    }
+  }
+}

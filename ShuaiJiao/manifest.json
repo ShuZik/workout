@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "ShuaiJiao",
+    "id": "92",
+    "icon": "ShuaiJiao/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Shuai Jiao",
+    "workoutType": "shuaiJiao",
+    "translations": {
+      "en": {
+        "title": "Shuai Jiao"
+      },
+      "es": {
+        "title": "Shuai jiao"
+      },
+      "pt": {
+        "title": "Shuai jiao"
+      },
+      "fr": {
+        "title": "Shuai jiao"
+      },
+      "de": {
+        "title": "Shuai Jiao"
+      },
+      "it": {
+        "title": "Shuai jiao"
+      },
+      "zh-Hans": {
+        "title": "中国式摔跤"
+      },
+      "ja": {
+        "title": "シュアイジャオ"
+      },
+      "ko": {
+        "title": "솨이자오"
+      },
+      "th": {
+        "title": "ชวยเจียว"
+      },
+      "ru": {
+        "title": "Шуайцзяо"
+      },
+      "uk": {
+        "title": "Шуайцзяо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "ShuaiJiao/exercises/shuaiJiao/Icon.png",
+      "json": "ShuaiJiao/exercises/shuaiJiao/shuaiJiao.json"
+    },
+    {
+      "icon": "ShuaiJiao/exercises/banziKong/Icon.png",
+      "json": "ShuaiJiao/exercises/banziKong/banziKong.json"
+    },
+    {
+      "icon": "ShuaiJiao/exercises/xiaoBangzi/Icon.png",
+      "json": "ShuaiJiao/exercises/xiaoBangzi/xiaoBangzi.json"
+    },
+    {
+      "icon": "ShuaiJiao/exercises/chuai/Icon.png",
+      "json": "ShuaiJiao/exercises/chuai/chuai.json"
+    },
+    {
+      "icon": "ShuaiJiao/exercises/biezi/Icon.png",
+      "json": "ShuaiJiao/exercises/biezi/biezi.json"
+    },
+    {
+      "icon": "ShuaiJiao/exercises/gouzi/Icon.png",
+      "json": "ShuaiJiao/exercises/gouzi/gouzi.json"
+    },
+    {
+      "icon": "ShuaiJiao/exercises/ti/Icon.png",
+      "json": "ShuaiJiao/exercises/ti/ti.json"
+    }
+  ]
+}

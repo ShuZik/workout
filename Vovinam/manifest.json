@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#0A84FF",
+    "colorType": "blue",
+    "folder": "Vovinam",
+    "id": "107",
+    "icon": "Vovinam/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Vovinam",
+    "workoutType": "vovinam",
+    "translations": {
+      "en": {
+        "title": "Vovinam"
+      },
+      "es": {
+        "title": "Vovinam"
+      },
+      "pt": {
+        "title": "Vovinam"
+      },
+      "fr": {
+        "title": "Vovinam"
+      },
+      "de": {
+        "title": "Vovinam"
+      },
+      "it": {
+        "title": "Vovinam"
+      },
+      "zh-Hans": {
+        "title": "越武道"
+      },
+      "ja": {
+        "title": "ボビナム"
+      },
+      "ko": {
+        "title": "보비남"
+      },
+      "th": {
+        "title": "โววีนัม"
+      },
+      "ru": {
+        "title": "Вовинам"
+      },
+      "uk": {
+        "title": "Вовінам"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Vovinam/exercises/vovinam/Icon.png",
+      "json": "Vovinam/exercises/vovinam/vovinam.json"
+    },
+    {
+      "icon": "Vovinam/exercises/khaiMonQuyen/Icon.png",
+      "json": "Vovinam/exercises/khaiMonQuyen/khaiMonQuyen.json"
+    },
+    {
+      "icon": "Vovinam/exercises/thapTuQuyen/Icon.png",
+      "json": "Vovinam/exercises/thapTuQuyen/thapTuQuyen.json"
+    },
+    {
+      "icon": "Vovinam/exercises/longHoQuyen/Icon.png",
+      "json": "Vovinam/exercises/longHoQuyen/longHoQuyen.json"
+    },
+    {
+      "icon": "Vovinam/exercises/laoMaiQuyen/Icon.png",
+      "json": "Vovinam/exercises/laoMaiQuyen/laoMaiQuyen.json"
+    },
+    {
+      "icon": "Vovinam/exercises/luongNghiKiemPhap/Icon.png",
+      "json": "Vovinam/exercises/luongNghiKiemPhap/luongNghiKiemPhap.json"
+    },
+    {
+      "icon": "Vovinam/exercises/tuTuongBongPhap/Icon.png",
+      "json": "Vovinam/exercises/tuTuongBongPhap/tuTuongBongPhap.json"
+    },
+    {
+      "icon": "Vovinam/exercises/daiDaoQuyenPhap/Icon.png",
+      "json": "Vovinam/exercises/daiDaoQuyenPhap/daiDaoQuyenPhap.json"
+    },
+    {
+      "icon": "Vovinam/exercises/songLuyen1/Icon.png",
+      "json": "Vovinam/exercises/songLuyen1/songLuyen1.json"
+    },
+    {
+      "icon": "Vovinam/exercises/songLuyen3/Icon.png",
+      "json": "Vovinam/exercises/songLuyen3/songLuyen3.json"
+    },
+    {
+      "icon": "Vovinam/exercises/songLuyenDao/Icon.png",
+      "json": "Vovinam/exercises/songLuyenDao/songLuyenDao.json"
+    },
+    {
+      "icon": "Vovinam/exercises/songLuyenKiem/Icon.png",
+      "json": "Vovinam/exercises/songLuyenKiem/songLuyenKiem.json"
+    }
+  ]
+}

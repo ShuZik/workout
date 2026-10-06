@@ -1,0 +1,90 @@
+{
+  "id": "4.10",
+  "key": "mma_sprawl",
+  "title": "Sprawl",
+  "description": "1. From a low stance, react to the shot by placing the hands or forearms on the attacker's shoulders as the legs move back.\n2. Drop the hips toward the upper back, extend both legs, and keep the chest and head upright rather than falling to the knees.\n3. Widen the base, control the head or near arm, and circle to an angle before standing or resetting.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Wrestling",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sprawl",
+      "description": "1. From a low stance, react to the shot by placing the hands or forearms on the attacker's shoulders as the legs move back.\n2. Drop the hips toward the upper back, extend both legs, and keep the chest and head upright rather than falling to the knees.\n3. Widen the base, control the head or near arm, and circle to an angle before standing or resetting.",
+      "sectionTitle": "Wrestling"
+    },
+    "es": {
+      "title": "Sprawl",
+      "description": "1. Desde una guardia baja, reacciona a la entrada apoyando las manos o los antebrazos en los hombros del atacante mientras llevas las piernas atrás.\n2. Deja caer la cadera hacia su espalda alta, extiende ambas piernas y mantén el pecho y la cabeza erguidos en lugar de caer de rodillas.\n3. Amplía la base, controla la cabeza o el brazo cercano y gira hacia un ángulo antes de levantarte o reiniciar.",
+      "sectionTitle": "Lucha"
+    },
+    "pt": {
+      "title": "Sprawl",
+      "description": "1. De uma base baixa, reaja à entrada apoiando as mãos ou os antebraços nos ombros do atacante enquanto as pernas vão para trás.\n2. Jogue o quadril em direção às costas altas dele, estenda as duas pernas e mantenha o peito e a cabeça erguidos em vez de cair de joelhos.\n3. Alargue a base, controle a cabeça ou o braço próximo e circule para um ângulo antes de levantar ou recomeçar.",
+      "sectionTitle": "Luta agarrada"
+    },
+    "fr": {
+      "title": "Sprawl",
+      "description": "1. Depuis une garde basse, réagissez à l’entrée en posant les mains ou les avant-bras sur les épaules de l’attaquant pendant que les jambes partent en arrière.\n2. Descendez les hanches vers le haut de son dos, tendez les deux jambes et gardez la poitrine et la tête hautes au lieu de tomber à genoux.\n3. Élargissez les appuis, contrôlez la tête ou le bras proche et tournez vers un angle avant de vous relever ou de recommencer.",
+      "sectionTitle": "Lutte"
+    },
+    "de": {
+      "title": "Sprawl",
+      "description": "1. Reagiere aus einer tiefen Stellung auf den Einschuss, indem du Hände oder Unterarme auf die Schultern des Angreifers legst, während die Beine nach hinten gehen.\n2. Senke die Hüfte Richtung oberen Rücken des Angreifers, streck beide Beine und halte Brust und Kopf aufrecht, statt auf die Knie zu fallen.\n3. Verbreitere die Basis, kontrolliere Kopf oder nahen Arm und kreise in einen Winkel, bevor du aufstehst oder neu beginnst.",
+      "sectionTitle": "Ringen"
+    },
+    "it": {
+      "title": "Sprawl",
+      "description": "1. Da una guardia bassa, reagisci all’entrata appoggiando mani o avambracci sulle spalle dell’attaccante mentre le gambe vanno indietro.\n2. Fai scendere le anche verso la parte alta della sua schiena, distendi entrambe le gambe e tieni petto e testa alti invece di cadere sulle ginocchia.\n3. Allarga la base, controlla la testa o il braccio vicino e gira su un angolo prima di rialzarti o ripartire.",
+      "sectionTitle": "Lotta"
+    },
+    "zh-Hans": {
+      "title": "防摔压制",
+      "description": "1. 从低位站架出发，对方下潜时双手或前臂压在其肩上，同时双腿向后撤。\n2. 髋部下沉压向对方上背，双腿伸直，胸部和头部保持抬起，不要跪倒。\n3. 加宽支撑，控制对方头部或近侧手臂，绕到侧面角度后再站起或重新开始。",
+      "sectionTitle": "摔跤"
+    },
+    "ja": {
+      "title": "スプロール",
+      "description": "1. 低い構えから、相手のタックルに反応して両手か前腕を相手の肩に置きつつ脚を後ろへ引きます。\n2. 腰を相手の背中上部へ落とし、両脚を伸ばし、膝をつかずに胸と頭を起こしておきます。\n3. 土台を広げ、頭か近い側の腕をコントロールし、角度を取ってから立つかリセットします。",
+      "sectionTitle": "レスリング"
+    },
+    "ko": {
+      "title": "스프롤",
+      "description": "1. 낮은 스탠스에서 상대의 태클에 반응해 두 손이나 전완을 상대의 어깨에 대고 다리를 뒤로 뺍니다.\n2. 엉덩이를 상대의 등 위쪽으로 떨어뜨리고 두 다리를 뻗으며, 무릎을 꿇지 말고 가슴과 머리를 세웁니다.\n3. 받침을 넓히고 머리나 가까운 팔을 제어하며 각도를 잡아 돈 뒤 일어서거나 다시 시작합니다.",
+      "sectionTitle": "레슬링"
+    },
+    "th": {
+      "title": "สปรอว์ล",
+      "description": "1. จากท่ายืนต่ำ ตอบสนองการพุ่งเข้าโดยวางมือหรือแขนท่อนล่างบนไหล่ผู้จู่โจม ขณะถีบขาไปด้านหลัง\n2. ทิ้งสะโพกลงทับหลังส่วนบนของคู่ เหยียดขาทั้งสอง และตั้งอกกับศีรษะไว้แทนการล้มลงบนเข่า\n3. ขยายฐานให้กว้าง คุมศีรษะหรือแขนข้างใกล้ แล้ววนไปทำมุมก่อนลุกขึ้นหรือเริ่มใหม่",
+      "sectionTitle": "มวยปล้ำ"
+    },
+    "ru": {
+      "title": "Спрол",
+      "description": "1. Из низкой стойки отреагируйте на проход: положите кисти или предплечья на плечи атакующего и отбросьте ноги назад.\n2. Опустите таз на верх его спины, выпрямите обе ноги и держите грудь и голову поднятыми, не падая на колени.\n3. Расширьте опору, проконтролируйте голову или ближнюю руку и уйдите на угол, прежде чем встать или начать заново.",
+      "sectionTitle": "Борьба"
+    },
+    "uk": {
+      "title": "Спрол",
+      "description": "1. З низької стійки відреагуйте на прохід: покладіть кисті чи передпліччя на плечі атакувальника й відкиньте ноги назад.\n2. Опустіть таз на верх його спини, випряміть обидві ноги й тримайте груди та голову піднятими, не падаючи на коліна.\n3. Розширте опору, проконтролюйте голову або ближню руку й вийдіть на кут, перш ніж підвестися чи почати знову.",
+      "sectionTitle": "Боротьба"
+    }
+  }
+}

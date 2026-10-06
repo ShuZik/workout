@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#E6BF00",
+    "colorType": "yellow",
+    "folder": "ShorinjiKempo",
+    "id": "91",
+    "icon": "ShorinjiKempo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Shorinji Kempo",
+    "workoutType": "shorinjiKempo",
+    "translations": {
+      "en": {
+        "title": "Shorinji Kempo"
+      },
+      "es": {
+        "title": "Shorinji Kempo"
+      },
+      "pt": {
+        "title": "Shorinji Kempô"
+      },
+      "fr": {
+        "title": "Shorinji Kempo"
+      },
+      "de": {
+        "title": "Shōrinji Kempō"
+      },
+      "it": {
+        "title": "Shorinji Kempo"
+      },
+      "zh-Hans": {
+        "title": "少林寺拳法"
+      },
+      "ja": {
+        "title": "少林寺拳法"
+      },
+      "ko": {
+        "title": "소림사 권법"
+      },
+      "th": {
+        "title": "โชรินจิเคมโป"
+      },
+      "ru": {
+        "title": "Сёриндзи кэмпо"
+      },
+      "uk": {
+        "title": "Сьоріндзі кемпо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "ShorinjiKempo/exercises/shorinjiKempo/Icon.png",
+      "json": "ShorinjiKempo/exercises/shorinjiKempo/shorinjiKempo.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/kaikoNoKamae/Icon.png",
+      "json": "ShorinjiKempo/exercises/kaikoNoKamae/kaikoNoKamae.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/ukemiBreakfalls/Icon.png",
+      "json": "ShorinjiKempo/exercises/ukemiBreakfalls/ukemiBreakfalls.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/tanenSoloPractice/Icon.png",
+      "json": "ShorinjiKempo/exercises/tanenSoloPractice/tanenSoloPractice.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/uchiUkeZuki/Icon.png",
+      "json": "ShorinjiKempo/exercises/uchiUkeZuki/uchiUkeZuki.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/uwaUkeGeri/Icon.png",
+      "json": "ShorinjiKempo/exercises/uwaUkeGeri/uwaUkeGeri.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/koteNukiWristRelease/Icon.png",
+      "json": "ShorinjiKempo/exercises/koteNukiWristRelease/koteNukiWristRelease.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/gyakuGoteWristThrow/Icon.png",
+      "json": "ShorinjiKempo/exercises/gyakuGoteWristThrow/gyakuGoteWristThrow.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/okuriGoteWristLock/Icon.png",
+      "json": "ShorinjiKempo/exercises/okuriGoteWristLock/okuriGoteWristLock.json"
+    },
+    {
+      "icon": "ShorinjiKempo/exercises/embuPairDemonstration/Icon.png",
+      "json": "ShorinjiKempo/exercises/embuPairDemonstration/embuPairDemonstration.json"
+    }
+  ]
+}

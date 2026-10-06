@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "HandToHandCombat",
+    "id": "59",
+    "icon": "HandToHandCombat/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Hand-to-Hand Combat",
+    "workoutType": "handToHandCombat",
+    "translations": {
+      "en": {
+        "title": "Hand-to-Hand Combat"
+      },
+      "es": {
+        "title": "Combate cuerpo a cuerpo"
+      },
+      "pt": {
+        "title": "Combate corpo a corpo"
+      },
+      "fr": {
+        "title": "Combat au corps à corps"
+      },
+      "de": {
+        "title": "Nahkampf"
+      },
+      "it": {
+        "title": "Combattimento corpo a corpo"
+      },
+      "zh-Hans": {
+        "title": "徒手格斗"
+      },
+      "ja": {
+        "title": "白兵格闘"
+      },
+      "ko": {
+        "title": "맨손 격투"
+      },
+      "th": {
+        "title": "การต่อสู้มือเปล่า"
+      },
+      "ru": {
+        "title": "Рукопашный бой"
+      },
+      "uk": {
+        "title": "Рукопашний бій"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "HandToHandCombat/exercises/handToHandCombat/Icon.png",
+      "json": "HandToHandCombat/exercises/handToHandCombat/handToHandCombat.json"
+    },
+    {
+      "icon": "HandToHandCombat/exercises/punchAndKickSeries/Icon.png",
+      "json": "HandToHandCombat/exercises/punchAndKickSeries/punchAndKickSeries.json"
+    },
+    {
+      "icon": "HandToHandCombat/exercises/standingThrowDrill/Icon.png",
+      "json": "HandToHandCombat/exercises/standingThrowDrill/standingThrowDrill.json"
+    },
+    {
+      "icon": "HandToHandCombat/exercises/fallingThrowDrill/Icon.png",
+      "json": "HandToHandCombat/exercises/fallingThrowDrill/fallingThrowDrill.json"
+    },
+    {
+      "icon": "HandToHandCombat/exercises/submissionPhaseDrill/Icon.png",
+      "json": "HandToHandCombat/exercises/submissionPhaseDrill/submissionPhaseDrill.json"
+    }
+  ]
+}

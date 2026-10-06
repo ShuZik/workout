@@ -1,0 +1,90 @@
+{
+  "id": "41.75",
+  "key": "judo_soto_makikomi",
+  "title": "Soto Makikomi",
+  "description": "1. Grip the partner's sleeve and turn in so the partner's arm is wrapped tightly against your side.\n2. Release the other hand, swing that arm over and across your body, and step across the partner's front.\n3. Roll forward and wind the partner over your hip to the mat, landing on your side next to the partner.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Soto Makikomi",
+      "description": "1. Grip the partner's sleeve and turn in so the partner's arm is wrapped tightly against your side.\n2. Release the other hand, swing that arm over and across your body, and step across the partner's front.\n3. Roll forward and wind the partner over your hip to the mat, landing on your side next to the partner.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Soto Makikomi",
+      "description": "1. Agarra la manga del compañero y gira para que su brazo quede enrollado contra tu costado.\n2. Suelta la otra mano, pasa ese brazo por encima y a través de tu cuerpo y da un paso por delante del compañero.\n3. Rueda hacia delante y enrolla al compañero sobre tu cadera hasta el tatami, cayendo de lado junto a él.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Soto Makikomi",
+      "description": "1. Agarre a manga do parceiro e gire para que o braço dele fique enrolado contra seu lado.\n2. Solte a outra mão, passe esse braço por cima e através do seu corpo e pise à frente do parceiro.\n3. Role para a frente e enrole o parceiro sobre o quadril até o tatame, caindo de lado ao lado dele.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Soto Makikomi",
+      "description": "1. Saisissez la manche du partenaire et pivotez pour que son bras soit serré contre votre flanc.\n2. Lâchez l’autre main, passez ce bras par-dessus et en travers de votre corps et avancez devant le partenaire.\n3. Roulez vers l’avant et enroulez le partenaire par-dessus votre hanche jusqu’au tatami, en tombant sur le côté près de lui.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Soto Makikomi",
+      "description": "1. Fasse den Ärmel des Partners und drehe ein, sodass sein Arm eng an deine Seite gewickelt ist.\n2. Löse die andere Hand, schwinge den Arm über und quer vor deinen Körper und tritt vor den Partner.\n3. Rolle nach vorn und wickle den Partner über deine Hüfte auf die Matte, seitlich neben ihm landend.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Soto Makikomi",
+      "description": "1. Afferra la manica del compagno e ruota così che il suo braccio sia avvolto contro il tuo fianco.\n2. Lascia l’altra mano, porta quel braccio sopra e attraverso il corpo e fai un passo davanti al compagno.\n3. Rotola in avanti e avvolgi il compagno sopra l’anca fino al tatami, cadendo di lato accanto a lui.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "外卷込",
+      "description": "1. 抓住搭档袖口转身，使其手臂紧贴你的体侧。\n2. 松开另一只手，手臂从上方横过身体，并上步到搭档身前。\n3. 向前滚动，把搭档卷过你的髋部摔到垫上，侧身倒在其身旁。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "外巻込",
+      "description": "1. 相手の袖を持って回り、相手の腕を自分の脇腹にしっかり巻き付けます。\n2. もう一方の手を離し、その腕を体の上から前へ回して相手の前へ踏み出します。\n3. 前へ転がりながら相手を腰に巻き込んで畳へ投げ、相手の横に横向きに着地します。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "소토 마키코미",
+      "description": "1. 파트너 소매를 잡고 돌아 파트너 팔이 내 옆구리에 감기게 합니다.\n2. 다른 손을 놓고 그 팔을 몸 위로 가로질러 돌리며 파트너 앞으로 내딛습니다.\n3. 앞으로 구르며 파트너를 골반 위로 감아 매트로 던지고 파트너 옆에 옆으로 떨어집니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "โซโตมากิโกมิ",
+      "description": "1. จับแขนเสื้อคู่ฝึกและหมุนตัวให้แขนคู่ฝึกพันแนบสีข้างคุณ\n2. ปล่อยมืออีกข้าง เหวี่ยงแขนนั้นข้ามและพาดด้านหน้าลำตัว และก้าวไปด้านหน้าคู่ฝึก\n3. ม้วนตัวไปข้างหน้าและพันคู่ฝึกข้ามสะโพกลงเสื่อ ล้มตะแคงข้างคู่ฝึก",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Сото-макикоми",
+      "description": "1. Захватите рукав партнёра и развернитесь так, чтобы его рука плотно прилегала к вашему боку.\n2. Отпустите другую руку, проведите её сверху поперёк корпуса и шагните перед партнёром.\n3. Перекатитесь вперёд, накручивая партнёра через бедро на татами, и упадите на бок рядом с ним.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Сото-макікомі",
+      "description": "1. Захопіть рукав партнера й розверніться так, щоб його рука щільно прилягала до вашого боку.\n2. Відпустіть іншу руку, проведіть її згори поперек тулуба й ступіть перед партнером.\n3. Перекотіться вперед, накручуючи партнера через стегно на татамі, і впадіть на бік поруч із ним.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

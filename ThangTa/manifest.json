@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#FD7C5D",
+    "colorType": "coral",
+    "folder": "ThangTa",
+    "id": "103",
+    "icon": "ThangTa/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Thang-Ta",
+    "workoutType": "thangTa",
+    "translations": {
+      "en": {
+        "title": "Thang-Ta"
+      },
+      "es": {
+        "title": "Thang-ta"
+      },
+      "pt": {
+        "title": "Thang-ta"
+      },
+      "fr": {
+        "title": "Thang-ta"
+      },
+      "de": {
+        "title": "Thang-Ta"
+      },
+      "it": {
+        "title": "Thang-ta"
+      },
+      "zh-Hans": {
+        "title": "曼尼普尔刀矛术"
+      },
+      "ja": {
+        "title": "タンタ"
+      },
+      "ko": {
+        "title": "탕타"
+      },
+      "th": {
+        "title": "ทังตา"
+      },
+      "ru": {
+        "title": "Тханг-та"
+      },
+      "uk": {
+        "title": "Тханг-та"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "ThangTa/exercises/thangTa/Icon.png",
+      "json": "ThangTa/exercises/thangTa/thangTa.json"
+    },
+    {
+      "icon": "ThangTa/exercises/lionPosture/Icon.png",
+      "json": "ThangTa/exercises/lionPosture/lionPosture.json"
+    }
+  ]
+}

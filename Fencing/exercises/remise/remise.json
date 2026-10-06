@@ -1,0 +1,90 @@
+{
+  "id": "54.19",
+  "key": "fencing_remise",
+  "title": "Remise",
+  "description": "1. Lunge with a simple attack; the partner parries but deliberately delays or withdraws the riposte.\n2. Stay in the lunge and replace the point in the same line immediately, without withdrawing the arm or adding a new blade action.\n3. Recover to en garde after the touch, and have the partner vary the riposte timing so you learn when the remise is safe.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Remise",
+      "description": "1. Lunge with a simple attack; the partner parries but deliberately delays or withdraws the riposte.\n2. Stay in the lunge and replace the point in the same line immediately, without withdrawing the arm or adding a new blade action.\n3. Recover to en garde after the touch, and have the partner vary the riposte timing so you learn when the remise is safe.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Remise",
+      "description": "1. Tira a fondo con un ataque simple; el compañero para pero retrasa o retira a propósito la respuesta.\n2. Quédate en el fondo y vuelve a colocar la punta en la misma línea de inmediato, sin retirar el brazo ni añadir otra acción de hoja.\n3. Vuelve a guardia tras el toque y pide al compañero que varíe el tiempo de respuesta para aprender cuándo la remise es segura.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Remise",
+      "description": "1. Afunde com um ataque simples; o parceiro para mas atrasa ou retira de propósito a resposta.\n2. Fique no afundo e recoloque a ponta na mesma linha de imediato, sem recuar o braço nem acrescentar outra ação de lâmina.\n3. Volte à guarda após o toque e peça ao parceiro para variar o tempo da resposta, para aprender quando a remise é segura.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Remise",
+      "description": "1. Fendez-vous sur une attaque simple ; le partenaire pare mais retarde ou retient volontairement la riposte.\n2. Restez en fente et replacez immédiatement la pointe dans la même ligne, sans retirer le bras ni ajouter une nouvelle action de fer.\n3. Revenez en garde après la touche et faites varier le moment de la riposte pour apprendre quand la remise est sûre.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Remise",
+      "description": "1. Falle mit einem einfachen Angriff aus; der Partner pariert, verzögert die Riposte aber bewusst oder lässt sie weg.\n2. Bleibe im Ausfall und setze die Spitze sofort in derselben Linie erneut, ohne den Arm zurückzuziehen oder eine neue Klingenaktion hinzuzufügen.\n3. Kehre nach dem Treffer zurück und lass den Partner das Riposte-Timing variieren, damit du lernst, wann die Remise sicher ist.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Rimessa",
+      "description": "1. Affonda con un attacco semplice; il compagno para ma ritarda o trattiene di proposito la risposta.\n2. Resta in affondo e rimetti subito la punta nella stessa linea, senza ritirare il braccio né aggiungere un’altra azione di lama.\n3. Torna in guardia dopo la stoccata e fai variare al compagno il tempo della risposta per capire quando la rimessa è sicura.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "原线再刺（Remise）",
+      "description": "1. 以简单进攻弓步；同伴防守但故意延迟或不做还击。\n2. 保持弓步，手臂不收回、不加新的剑上动作，立即在同一线位再次刺出。\n3. 击中后恢复实战姿势，让同伴变换还击时机，以学会何时再刺是安全的。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "ルミーズ",
+      "description": "1. 単純な攻撃でファントします。相手はパラードしますが、リポストをわざと遅らせるか出しません。\n2. ファントの姿勢のまま、腕を引かず新たな剣の動作も加えずに、同じラインへすぐ剣先を入れ直します。\n3. 突いた後アンガルドに戻り、相手にリポストのタイミングを変えてもらい、ルミーズが安全な時を学びます。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "르미즈",
+      "description": "1. 간단한 공격으로 런지합니다. 파트너는 패리하지만 리포스트를 일부러 늦추거나 하지 않습니다.\n2. 런지 자세를 유지하며 팔을 당기거나 새 칼 동작을 더하지 않고 같은 라인에 즉시 칼끝을 다시 넣습니다.\n3. 찌른 뒤 앙가르드로 돌아오고, 파트너가 리포스트 타이밍을 바꾸게 해 르미즈가 안전한 때를 익힙니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เรอมีซ",
+      "description": "1. ลันจ์ด้วยการโจมตีแบบง่าย คู่ฝึกปัดป้องแต่จงใจหน่วงหรือไม่โต้กลับ\n2. คงท่าลันจ์แล้ววางปลายดาบกลับเข้าแนวเดิมทันที โดยไม่ดึงแขนกลับหรือเพิ่มการใช้ใบดาบใหม่\n3. กลับสู่อองการ์ดหลังแทงถึง ให้คู่ฝึกเปลี่ยนจังหวะโต้กลับเพื่อเรียนรู้ว่าเมื่อใดเรอมีซปลอดภัย",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Ремиз",
+      "description": "1. Выполните выпад с простой атакой; партнёр берёт защиту, но намеренно задерживает или не наносит ответ.\n2. Оставаясь в выпаде, сразу повторите укол в той же линии, не отводя руку и не добавляя нового действия клинком.\n3. После укола вернитесь в стойку; партнёр меняет время ответа, чтобы вы поняли, когда ремиз безопасен.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Реміз",
+      "description": "1. Виконайте випад із простою атакою; партнер бере захист, але навмисно затримує або не завдає відповіді.\n2. Лишаючись у випаді, одразу повторіть укол у тій самій лінії, не відводячи руку й не додаючи нової дії клинком.\n3. Після уколу поверніться в стійку; партнер змінює час відповіді, щоб ви зрозуміли, коли реміз безпечний.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

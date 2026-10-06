@@ -1,0 +1,92 @@
+{
+  "id": "1.4",
+  "key": "jab",
+  "title": "Jab",
+  "description": "1. From guard, push lightly from the rear foot and send the lead fist straight toward the target.\n2. Turn the fist near extension, lift the lead shoulder toward the chin, and keep the rear hand at the cheek.\n3. Retract along the same line before stepping or throwing the next punch, restoring the lead hand to guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "2 Base",
+  "target": "head",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jab",
+      "description": "1. From guard, push lightly from the rear foot and send the lead fist straight toward the target.\n2. Turn the fist near extension, lift the lead shoulder toward the chin, and keep the rear hand at the cheek.\n3. Retract along the same line before stepping or throwing the next punch, restoring the lead hand to guard.",
+      "sectionTitle": "Base"
+    },
+    "ru": {
+      "title": "Джеб",
+      "description": "1. Из стойки слегка оттолкнитесь задней стопой и направьте кулак передней руки прямо к цели.\n2. Ближе к полному выпрямлению поверните кулак, поднимите переднее плечо к подбородку и держите заднюю руку у щеки.\n3. Верните кулак по той же линии в защитную стойку перед шагом или следующим ударом.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Джеб",
+      "description": "1. Із захисної стійки злегка відштовхніться задньою стопою та спрямуйте кулак передньої руки прямо до цілі.\n2. Ближче до повного випрямлення поверніть кулак, підніміть переднє плече до підборіддя та тримайте задню руку біля щоки.\n3. Поверніть кулак тією самою лінією в захисну стійку перед кроком або наступним ударом.",
+      "sectionTitle": "База"
+    },
+    "th": {
+      "title": "หมัดแย็บ",
+      "description": "1. จากท่าการ์ด ให้ถีบส่งเบา ๆ ด้วยเท้าหลัง แล้วส่งหมัดหน้าตรงไปยังเป้าหมาย\n2. หมุนหมัดเมื่อใกล้เหยียดสุด ยกไหล่หน้าขึ้นใกล้คาง และคงมือหลังไว้ข้างแก้ม\n3. ดึงหมัดกลับตามแนวเดิมให้มือหน้ากลับสู่ท่าการ์ด ก่อนก้าวเท้าหรือออกหมัดถัดไป",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "es": {
+      "title": "Jab",
+      "description": "1. Desde la guardia, impúlsate ligeramente con el pie trasero y lanza el puño delantero en línea recta hacia el objetivo.\n2. Gira el puño cerca de la extensión completa, eleva el hombro delantero hacia la barbilla y mantén la mano trasera junto a la mejilla.\n3. Retira el puño por la misma línea y devuelve la mano delantera a la guardia antes de dar un paso o lanzar el siguiente golpe.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Jab",
+      "description": "1. A partir da guarda, impulsione-se levemente com o pé de trás e envie o punho da frente em linha reta para o alvo.\n2. Gire o punho perto da extensão completa, eleve o ombro da frente em direção ao queixo e mantenha a mão de trás junto à bochecha.\n3. Recolha o punho pela mesma linha, devolvendo a mão da frente à guarda antes de dar um passo ou lançar o próximo golpe.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Jab",
+      "description": "1. Depuis la garde, poussez légèrement sur le pied arrière et envoyez le poing avant en ligne droite vers la cible.\n2. Tournez le poing près de son extension complète, montez l’épaule avant vers le menton et gardez la main arrière contre la joue.\n3. Ramenez le poing sur la même ligne et replacez la main avant en garde avant de faire un pas ou de lancer le coup suivant.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Jab",
+      "description": "1. Stoße dich aus der Deckung leicht mit dem hinteren Fuß ab und führe die vordere Faust gerade zum Ziel.\n2. Drehe die Faust kurz vor der vollständigen Streckung, hebe die vordere Schulter zum Kinn und halte die hintere Hand an der Wange.\n3. Ziehe die Faust auf derselben Linie zurück in die Deckung, bevor du einen Schritt machst oder den nächsten Schlag ausführst.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Jab",
+      "description": "1. Dalla guardia, spingi leggermente con il piede posteriore e porta il pugno della mano avanzata in linea retta verso il bersaglio.\n2. Ruota il pugno vicino alla completa estensione, alza la spalla avanzata verso il mento e tieni la mano posteriore vicino alla guancia.\n3. Ritira il pugno lungo la stessa linea e riporta la mano avanzata in guardia prima di fare un passo o sferrare il colpo successivo.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "刺拳",
+      "description": "1. 从防守姿势开始，用后脚轻轻蹬地，将前手拳沿直线打向目标。\n2. 在手臂接近伸直时转动拳头，将前侧肩膀抬向下巴，并将后手保持在脸颊旁。\n3. 沿原路收拳，让前手恢复防守姿势，再移动脚步或打出下一拳。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ジャブ",
+      "description": "1. ガードの姿勢から後ろ足で軽く地面を押し、前の手の拳を目標へまっすぐ打ち出します。\n2. 腕が伸び切る直前に拳を回し、前の肩を顎へ近づけ、後ろの手は頬の横に保ちます。\n3. 同じ軌道で拳を引き戻して前の手をガードへ戻してから、足を動かすか次のパンチを打ちます。",
+      "sectionTitle": "基本"
+    },
+    "ko": {
+      "title": "잽",
+      "description": "1. 가드 자세에서 뒷발로 가볍게 밀어 앞손 주먹을 목표를 향해 곧게 뻗습니다.\n2. 팔이 거의 펴질 때 주먹을 돌리고 앞쪽 어깨를 턱 쪽으로 올리며 뒷손은 볼 옆에 유지합니다.\n3. 같은 경로로 주먹을 회수해 앞손을 가드로 되돌린 뒤 발을 움직이거나 다음 펀치를 던집니다.",
+      "sectionTitle": "기본"
+    }
+  }
+}

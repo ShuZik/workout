@@ -1,0 +1,87 @@
+{
+  "id": "54.15",
+  "key": "fencing_coule",
+  "title": "Coulé",
+  "description": "1. Engage the partner's blade in one line at lunging distance, both fencers masked.\n2. Keep contact and slide your blade forward along the partner's blade toward the target while extending the arm, maintaining slight opposition so the line stays closed.\n3. Lunge to finish the hit along the blade, recover to en garde, and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Coulé",
+      "description": "1. Engage the partner's blade in one line at lunging distance, both fencers masked.\n2. Keep contact and slide your blade forward along the partner's blade toward the target while extending the arm, maintaining slight opposition so the line stays closed.\n3. Lunge to finish the hit along the blade, recover to en garde, and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Coulé (filo)",
+      "description": "1. Engancha la hoja del compañero en una línea a distancia de fondo, ambos con careta.\n2. Mantén el contacto y desliza tu hoja hacia delante a lo largo de la del compañero hacia el blanco mientras extiendes el brazo, con ligera oposición para que la línea siga cerrada.\n3. Tira a fondo para terminar el toque a lo largo de la hoja, vuelve a guardia e intercambia papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Coulé",
+      "description": "1. Engaje a lâmina do parceiro numa linha à distância de afundo, ambos com máscara.\n2. Mantenha o contato e deslize sua lâmina à frente ao longo da do parceiro em direção ao alvo enquanto estende o braço, com ligeira oposição para a linha ficar fechada.\n3. Afunde para concluir o toque ao longo da lâmina, volte à guarda e troque papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Coulé",
+      "description": "1. Engagez le fer du partenaire dans une ligne à distance de fente, tous deux masqués.\n2. Gardez le contact et glissez votre lame le long du fer adverse vers la cible en allongeant le bras, avec une légère opposition pour garder la ligne fermée.\n3. Fendez-vous pour finir la touche le long du fer, revenez en garde et inversez les rôles après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Coulé (Gleitstoß)",
+      "description": "1. Binde die Partnerklinge in einer Linie auf Ausfalldistanz, beide mit Maske.\n2. Halte den Kontakt und gleite mit deiner Klinge an der Partnerklinge entlang zum Ziel, während du den Arm streckst und leichte Opposition hältst.\n3. Falle aus, um den Treffer entlang der Klinge abzuschließen, kehre zurück und tauscht nach der Serie die Rollen.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Filo (coulé)",
+      "description": "1. Lega la lama del compagno in una linea a distanza d’affondo, entrambi con maschera.\n2. Mantieni il contatto e fai scorrere la tua lama lungo quella del compagno verso il bersaglio distendendo il braccio, con lieve opposizione per tenere chiusa la linea.\n3. Affonda per concludere il colpo lungo la lama, torna in guardia e scambiate i ruoli dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "滑剑（Coulé）",
+      "description": "1. 双方戴面罩，在弓步距离于某一线位接住同伴的剑。\n2. 保持接触，伸臂时沿同伴剑身向目标滑进，并保持轻微对抗使线位封闭。\n3. 弓步沿剑身完成击中，恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "クーレ",
+      "description": "1. 双方マスクを着け、ファントの間合いで相手の剣と一つのラインでアンガージュします。\n2. 接触を保ったまま腕を伸ばし、相手の剣に沿って自分の剣を標的へ滑らせ、軽いオポジションでラインを閉じておきます。\n3. ファントで剣に沿って突きを完成させ、アンガルドに戻り、セット後に交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "쿨레",
+      "description": "1. 둘 다 마스크를 쓰고 런지 거리에서 한 라인으로 파트너 칼과 인게이지합니다.\n2. 접촉을 유지한 채 팔을 뻗으며 파트너 칼을 따라 표적 쪽으로 미끄러지듯 나아가고, 약한 오포지션으로 라인을 닫아 둡니다.\n3. 런지로 칼을 따라 찌르기를 마무리하고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "คูเล",
+      "description": "1. ทั้งคู่สวมหน้ากาก แตะใบดาบคู่ฝึกในแนวหนึ่งในระยะลันจ์\n2. คงการสัมผัสแล้วเลื่อนใบดาบไปตามใบดาบคู่ฝึกสู่เป้าขณะเหยียดแขน พร้อมกดต้านเล็กน้อยให้แนวปิดอยู่\n3. ลันจ์เพื่อแทงให้ถึงตามแนวใบดาบ กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Скольжение (кюле)",
+      "description": "1. Возьмите соединение с клинком партнёра в одной линии на дистанции выпада, оба в масках.\n2. Сохраняя контакт, скользите клинком вдоль клинка партнёра к цели, выпрямляя руку и держа лёгкую оппозицию, чтобы линия оставалась закрытой.\n3. Выпадом завершите укол вдоль клинка, вернитесь в стойку и поменяйтесь ролями после серии.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Ковзання (кюле)",
+      "description": "1. Візьміть з’єднання з клинком партнера в одній лінії на дистанції випаду, обидва в масках.\n2. Зберігаючи контакт, ковзайте клинком уздовж клинка партнера до цілі, випрямляючи руку й тримаючи легку опозицію, щоб лінія лишалася закритою.\n3. Випадом завершіть укол уздовж клинка, поверніться в стійку й поміняйтеся ролями після серії.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

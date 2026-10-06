@@ -1,0 +1,90 @@
+{
+  "id": "49.18",
+  "key": "capoeira_banda",
+  "title": "Banda",
+  "description": "1. On mats, the partner trained in falling stands in a slow ginga; step in close at an angle beside the partner's front leg with your hands at their shoulder or chest.\n2. Hook or block the outside of the partner's front ankle with your foot while your hands push the upper body gently in the opposite direction.\n3. Guide the partner into a controlled side or back breakfall, release the push as they go down, and switch roles.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Banda",
+      "description": "1. On mats, the partner trained in falling stands in a slow ginga; step in close at an angle beside the partner's front leg with your hands at their shoulder or chest.\n2. Hook or block the outside of the partner's front ankle with your foot while your hands push the upper body gently in the opposite direction.\n3. Guide the partner into a controlled side or back breakfall, release the push as they go down, and switch roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Banda",
+      "description": "1. Sobre colchonetas, el compañero entrenado en caídas está en una ginga lenta; entra cerca en ángulo junto a su pierna delantera con las manos en su hombro o pecho.\n2. Engancha o bloquea con tu pie el exterior del tobillo delantero del compañero mientras tus manos empujan suavemente el torso en sentido contrario.\n3. Guía al compañero a una caída lateral o hacia atrás controlada, deja de empujar cuando baja y cambien de rol.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Banda",
+      "description": "1. Em colchonetes, o parceiro treinado em quedas está em uma ginga lenta; entre perto em ângulo ao lado da perna da frente dele com as mãos no ombro ou no peito.\n2. Encaixe ou bloqueie com o pé o lado de fora do tornozelo da frente do parceiro enquanto as mãos empurram o tronco suavemente no sentido oposto.\n3. Conduza o parceiro a uma queda lateral ou para trás controlada, pare de empurrar quando ele descer e troquem de papel.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Banda",
+      "description": "1. Sur tapis, le partenaire formé aux chutes fait une ginga lente ; entrez près en angle à côté de sa jambe avant, mains sur son épaule ou sa poitrine.\n2. Accrochez ou bloquez avec le pied l’extérieur de sa cheville avant pendant que les mains poussent doucement le buste dans la direction opposée.\n3. Guidez le partenaire dans un brise-chute latéral ou arrière contrôlé, relâchez la poussée pendant qu’il descend et changez de rôle.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Banda",
+      "description": "1. Auf Matten steht der fallgeübte Partner in einer langsamen Ginga; tritt schräg dicht neben sein vorderes Bein, die Hände an seiner Schulter oder Brust.\n2. Hake oder blockiere mit dem Fuß die Außenseite seines vorderen Knöchels, während deine Hände den Oberkörper sanft in die Gegenrichtung schieben.\n3. Führe den Partner in eine kontrollierte seitliche oder rückwärtige Fallschule, lass beim Absinken den Druck los und tauscht die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Banda",
+      "description": "1. Su materassini il partner esperto di cadute è in una ginga lenta; entra vicino in diagonale accanto alla sua gamba anteriore con le mani sulla spalla o sul petto.\n2. Aggancia o blocca con il piede l’esterno della sua caviglia anteriore mentre le mani spingono dolcemente il busto nella direzione opposta.\n3. Guida il partner in una caduta laterale o all’indietro controllata, smetti di spingere mentre scende e scambiatevi i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "绊摔（Banda）",
+      "description": "1. 在垫子上，受过倒地训练的同伴做慢速金加步；你以斜角贴近其前腿旁，双手放在对方肩部或胸前。\n2. 用脚勾住或挡住同伴前脚踝外侧，同时双手向相反方向轻推其上身。\n3. 引导同伴做可控的侧倒或后倒受身，对方倒下时停止推动，然后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "バンダ",
+      "description": "1. マットの上で、受け身に慣れたパートナーがゆっくりジンガします。パートナーの前脚の横へ角度をつけて近づき、両手を肩か胸に置きます。\n2. 足でパートナーの前足首の外側を掛けるかブロックし、同時に両手で上体を反対方向へやさしく押します。\n3. パートナーをコントロールされた横または後ろ受け身へ導き、倒れる間は押すのをやめ、役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "반다",
+      "description": "1. 매트 위에서 낙법에 익숙한 파트너가 천천히 징가를 합니다. 파트너의 앞다리 옆으로 비스듬히 가까이 들어가 두 손을 어깨나 가슴에 둡니다.\n2. 발로 파트너의 앞 발목 바깥쪽을 걸거나 막으면서 두 손으로 상체를 반대 방향으로 부드럽게 밉니다.\n3. 파트너를 통제된 옆이나 뒤 낙법으로 이끌고, 넘어가는 동안 미는 힘을 풀고 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "บันดา",
+      "description": "1. บนเบาะ คู่ฝึกที่ฝึกการล้มมาแล้วทำจิงกาช้า ๆ ก้าวเข้าใกล้ทำมุมข้างขาหน้าของคู่ฝึก โดยวางมือที่ไหล่หรืออก\n2. ใช้เท้าเกี่ยวหรือขวางด้านนอกข้อเท้าหน้าของคู่ฝึก ขณะที่มือดันลำตัวส่วนบนเบา ๆ ไปทางตรงข้าม\n3. นำคู่ฝึกลงสู่การล้มด้านข้างหรือด้านหลังอย่างควบคุม หยุดดันเมื่อเขาลง แล้วสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Банда",
+      "description": "1. На матах партнёр, умеющий падать, медленно играет джингу; войдите близко под углом рядом с его передней ногой, руки на его плече или груди.\n2. Зацепите или заблокируйте стопой внешнюю сторону его передней лодыжки, пока руки мягко толкают корпус в противоположную сторону.\n3. Направьте партнёра в контролируемое падение на бок или назад, прекратите толчок, пока он опускается, и поменяйтесь ролями.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Банда",
+      "description": "1. На матах партнер, який уміє падати, повільно грає джингу; увійдіть близько під кутом поруч із його передньою ногою, руки на його плечі чи грудях.\n2. Зачепіть або заблокуйте стопою зовнішній бік його передньої щиколотки, поки руки м’яко штовхають корпус у протилежний бік.\n3. Спрямуйте партнера в контрольоване падіння на бік або назад, припиніть поштовх, поки він опускається, і поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

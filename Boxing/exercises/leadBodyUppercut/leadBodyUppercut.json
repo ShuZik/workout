@@ -1,0 +1,92 @@
+{
+  "id": "1.14",
+  "key": "lead_body_uppercut",
+  "title": "Lead Body Uppercut",
+  "description": "1. From guard, bend the knees and load the lead leg while keeping the rear hand at the cheek.\n2. Drive the lead fist upward on a compact line into the center or near side of the torso.\n3. Retract the fist before rising and restore both hands, posture, and stance width.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "target": "body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Body Uppercut",
+      "description": "1. From guard, bend the knees and load the lead leg while keeping the rear hand at the cheek.\n2. Drive the lead fist upward on a compact line into the center or near side of the torso.\n3. Retract the fist before rising and restore both hands, posture, and stance width.",
+      "sectionTitle": "Beginner"
+    },
+    "es": {
+      "title": "Uppercut delantero al cuerpo",
+      "description": "1. Desde la guardia, flexiona las rodillas y carga la pierna adelantada, manteniendo la mano trasera junto a la mejilla.\n2. Impulsa el puño delantero hacia arriba por una trayectoria compacta al centro o al lado cercano del torso.\n3. Retira el puño antes de subir y restablece ambas manos, la postura y la anchura de la posición.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Uppercut da mão da frente no corpo",
+      "description": "1. Na guarda, flexione os joelhos e carregue a perna da frente, mantendo a mão de trás na bochecha.\n2. Impulsione o punho da frente para cima numa trajetória curta até o centro ou o lado próximo do tronco.\n3. Recolha o punho antes de subir e restabeleça as duas mãos, a postura e a largura da base.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Uppercut avant au corps",
+      "description": "1. En garde, fléchissez les genoux et chargez la jambe avant en gardant la main arrière à la joue.\n2. Propulsez le poing avant vers le haut sur une trajectoire compacte vers le centre ou le côté proche du buste.\n3. Ramenez le poing avant de vous relever et rétablissez les deux mains, la posture et l’écartement des pieds.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Vorderer Aufwärtshaken zum Körper",
+      "description": "1. Beuge aus der Deckung die Knie und belaste das vordere Bein, während die hintere Hand an der Wange bleibt.\n2. Führe die vordere Faust auf einer kurzen Bahn nach oben zur Mitte oder nahen Seite des Oberkörpers.\n3. Ziehe die Faust vor dem Aufrichten zurück und stelle Handpositionen, Haltung und Standbreite wieder her.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Montante anteriore al corpo",
+      "description": "1. Dalla guardia, piega le ginocchia e carica la gamba anteriore mantenendo la mano posteriore alla guancia.\n2. Spingi il pugno anteriore verso l’alto lungo una traiettoria compatta al centro o al lato vicino del busto.\n3. Ritira il pugno prima di risalire e ripristina entrambe le mani, la postura e l’ampiezza della posizione.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "前手上勾拳击身",
+      "description": "1. 从防守姿势开始，屈膝并将重心压向前腿，后手保持在脸颊旁。\n2. 前拳沿紧凑路线向上打向躯干中央或近侧。\n3. 起身前先收拳，再恢复双手位置、姿态和站距。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前手のボディアッパー",
+      "description": "1. ガードから膝を曲げて前脚に重心を乗せ、後ろ手は頬に保ちます。\n2. 前手の拳をコンパクトな軌道で胴体の中央または近い側へ突き上げます。\n3. 起き上がる前に拳を戻し、両手の位置、姿勢、足幅を整えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "앞손 보디 어퍼컷",
+      "description": "1. 가드 자세에서 무릎을 굽혀 앞다리에 체중을 싣고 뒷손은 볼 옆에 유지합니다.\n2. 앞손 주먹을 짧은 궤도로 위로 올려 몸통 중앙이나 가까운 쪽을 타격합니다.\n3. 일어나기 전에 주먹을 거두고 두 손의 위치, 자세, 발 간격을 회복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "หมัดอัปเปอร์คัตมือหน้าเข้าลำตัว",
+      "description": "1. จากท่าการ์ด งอเข่าและลงน้ำหนักที่ขาหน้า โดยให้มือหลังอยู่ข้างแก้ม\n2. ส่งหมัดหน้าขึ้นตามแนวสั้นกระชับเข้ากลางหรือด้านใกล้ของลำตัว\n3. ดึงหมัดกลับก่อนยกตัวขึ้น แล้วคืนตำแหน่งมือทั้งสอง ท่าทาง และระยะห่างเท้า",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Передний апперкот в корпус",
+      "description": "1. Из защитной стойки согните колени и загрузите переднюю ногу, удерживая заднюю руку у щеки.\n2. Направьте передний кулак вверх по короткой траектории в центр или ближнюю сторону корпуса.\n3. Уберите кулак до подъёма и восстановите положение обеих рук, осанку и ширину стойки.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Передній аперкот у корпус",
+      "description": "1. Із захисної стійки зігніть коліна й завантажте передню ногу, тримаючи задню руку біля щоки.\n2. Спрямуйте передній кулак угору короткою траєкторією в центр або ближній бік корпуса.\n3. Приберіть кулак до підйому й відновіть положення обох рук, поставу та ширину стійки.",
+      "sectionTitle": "База"
+    }
+  }
+}

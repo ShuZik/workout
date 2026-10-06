@@ -1,0 +1,90 @@
+{
+  "id": "10.25",
+  "key": "foam_rolling_lat_roll",
+  "title": "Lat Roll",
+  "description": "1. Lie on one side with the roller just below the armpit and extend the lower arm overhead.\n2. Use the legs to move the body so the roller travels along the outer upper back toward the mid-rib area.\n3. Rotate the chest slightly forward and back to cover the lat, then switch sides.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Release Work",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lat Roll",
+      "description": "1. Lie on one side with the roller just below the armpit and extend the lower arm overhead.\n2. Use the legs to move the body so the roller travels along the outer upper back toward the mid-rib area.\n3. Rotate the chest slightly forward and back to cover the lat, then switch sides.",
+      "sectionTitle": "Release Work"
+    },
+    "es": {
+      "title": "Rodaje de dorsales",
+      "description": "1. Túmbate de lado con el rodillo justo debajo de la axila y extiende el brazo inferior por encima de la cabeza.\n2. Usa las piernas para mover el cuerpo y que el rodillo recorra la parte externa de la espalda superior hacia la zona media de las costillas.\n3. Gira ligeramente el pecho hacia delante y atrás para abarcar el dorsal y después cambia de lado.",
+      "sectionTitle": "Liberación muscular"
+    },
+    "pt": {
+      "title": "Rolamento dos dorsais",
+      "description": "1. Deite-se de lado com o rolo logo abaixo da axila e estenda o braço inferior acima da cabeça.\n2. Use as pernas para mover o corpo, levando o rolo pela parte externa das costas superiores até a região média das costelas.\n3. Gire o peito levemente para a frente e para trás para cobrir o dorsal e depois troque de lado.",
+      "sectionTitle": "Liberação muscular"
+    },
+    "fr": {
+      "title": "Automassage des grands dorsaux au rouleau",
+      "description": "1. Allongez-vous sur le côté, le rouleau juste sous l’aisselle, et étendez le bras du dessous au-dessus de la tête.\n2. Déplacez le corps avec les jambes pour faire passer le rouleau le long du côté du haut du dos vers le milieu des côtes.\n3. Tournez légèrement la poitrine vers l’avant et l’arrière pour couvrir le grand dorsal, puis changez de côté.",
+      "sectionTitle": "Relâchement musculaire"
+    },
+    "de": {
+      "title": "Latissimusrollen",
+      "description": "1. Lege dich auf eine Seite mit der Rolle direkt unter der Achsel und strecke den unteren Arm über den Kopf.\n2. Bewege den Körper mit den Beinen, sodass die Rolle entlang der äußeren oberen Rückenpartie zum mittleren Rippenbereich läuft.\n3. Drehe die Brust leicht nach vorn und hinten, um den Latissimus abzudecken, und wechsle dann die Seite.",
+      "sectionTitle": "Muskelentspannung"
+    },
+    "it": {
+      "title": "Massaggio dei dorsali con rullo",
+      "description": "1. Sdraiati su un fianco con il rullo appena sotto l’ascella e distendi il braccio inferiore sopra la testa.\n2. Usa le gambe per muovere il corpo, facendo passare il rullo lungo la parte esterna della schiena alta verso la zona centrale delle costole.\n3. Ruota leggermente il petto avanti e indietro per coprire il dorsale, poi cambia lato.",
+      "sectionTitle": "Rilascio muscolare"
+    },
+    "zh-Hans": {
+      "title": "背阔肌滚压",
+      "description": "1. 侧卧，将滚轴放在腋下稍下方，下侧手臂举过头顶。\n2. 用双腿移动身体，使滚轴沿上背部外侧移向肋骨中部区域。\n3. 将胸部稍向前、向后转动以覆盖背阔肌，然后换侧。",
+      "sectionTitle": "肌肉放松"
+    },
+    "ja": {
+      "title": "広背筋ローリング",
+      "description": "1. 横向きに寝て脇のすぐ下にローラーを置き、下側の腕を頭上へ伸ばします。\n2. 脚で体を動かし、ローラーを背中上部の外側から肋骨の中央付近へ移します。\n3. 胸を少し前後に回して広背筋をほぐし、反対側に替えます。",
+      "sectionTitle": "筋肉のリリース"
+    },
+    "ko": {
+      "title": "광배근 롤링",
+      "description": "1. 옆으로 누워 겨드랑이 바로 아래에 롤러를 놓고 아래쪽 팔을 머리 위로 뻗습니다.\n2. 다리로 몸을 움직여 롤러가 등 위쪽 바깥부분에서 갈비뼈 중간 부위로 이동하도록 합니다.\n3. 가슴을 살짝 앞뒤로 돌려 광배근을 다룬 뒤 반대쪽도 합니다.",
+      "sectionTitle": "근육 이완"
+    },
+    "th": {
+      "title": "การกลิ้งคลายกล้ามเนื้อหลังด้านข้าง",
+      "description": "1. นอนตะแคง วางลูกกลิ้งใต้รักแร้เล็กน้อย และเหยียดแขนด้านล่างเหนือศีรษะ\n2. ใช้ขาเคลื่อนลำตัวให้ลูกกลิ้งเลื่อนไปตามด้านนอกของหลังส่วนบนไปยังบริเวณซี่โครงช่วงกลาง\n3. หมุนหน้าอกไปหน้าและหลังเล็กน้อยเพื่อครอบคลุมกล้ามเนื้อหลังด้านข้าง แล้วสลับข้าง",
+      "sectionTitle": "การคลายกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Прокатывание широчайших мышц спины",
+      "description": "1. Лягте на бок с роликом чуть ниже подмышки и вытяните нижнюю руку над головой.\n2. Двигайте тело ногами, чтобы ролик проходил вдоль наружной части верхней спины к средней области рёбер.\n3. Слегка поворачивайте грудь вперёд и назад, охватывая широчайшую мышцу, затем смените сторону.",
+      "sectionTitle": "Расслабление мышц"
+    },
+    "uk": {
+      "title": "Прокочування найширших м’язів спини",
+      "description": "1. Ляжте на бік із роликом трохи нижче пахви й витягніть нижню руку над головою.\n2. Рухайте тіло ногами, щоб ролик проходив уздовж зовнішньої частини верхньої спини до середньої ділянки ребер.\n3. Злегка повертайте груди вперед і назад, охоплюючи найширший м’яз, потім змініть бік.",
+      "sectionTitle": "Розслаблення м’язів"
+    }
+  }
+}

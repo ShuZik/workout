@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#90A994",
+    "colorType": "sage",
+    "folder": "Backhold",
+    "id": "46",
+    "icon": "Backhold/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Backhold",
+    "workoutType": "backhold",
+    "translations": {
+      "en": {
+        "title": "Backhold"
+      },
+      "es": {
+        "title": "Lucha backhold"
+      },
+      "pt": {
+        "title": "Luta backhold"
+      },
+      "fr": {
+        "title": "Lutte backhold"
+      },
+      "de": {
+        "title": "Backhold-Ringen"
+      },
+      "it": {
+        "title": "Lotta backhold"
+      },
+      "zh-Hans": {
+        "title": "背抱式摔跤"
+      },
+      "ja": {
+        "title": "バックホールド"
+      },
+      "ko": {
+        "title": "백홀드 레슬링"
+      },
+      "th": {
+        "title": "มวยปล้ำแบ็กโฮลด์"
+      },
+      "ru": {
+        "title": "Бэкхолд"
+      },
+      "uk": {
+        "title": "Бекголд"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Backhold/exercises/backhold/Icon.png",
+      "json": "Backhold/exercises/backhold/backhold.json"
+    },
+    {
+      "icon": "Backhold/exercises/hipe/Icon.png",
+      "json": "Backhold/exercises/hipe/hipe.json"
+    },
+    {
+      "icon": "Backhold/exercises/crossButtock/Icon.png",
+      "json": "Backhold/exercises/crossButtock/crossButtock.json"
+    },
+    {
+      "icon": "Backhold/exercises/backHeel/Icon.png",
+      "json": "Backhold/exercises/backHeel/backHeel.json"
+    },
+    {
+      "icon": "Backhold/exercises/outsideStroke/Icon.png",
+      "json": "Backhold/exercises/outsideStroke/outsideStroke.json"
+    },
+    {
+      "icon": "Backhold/exercises/insideClick/Icon.png",
+      "json": "Backhold/exercises/insideClick/insideClick.json"
+    },
+    {
+      "icon": "Backhold/exercises/hank/Icon.png",
+      "json": "Backhold/exercises/hank/hank.json"
+    },
+    {
+      "icon": "Backhold/exercises/bestOfThreeFalls/Icon.png",
+      "json": "Backhold/exercises/bestOfThreeFalls/bestOfThreeFalls.json"
+    }
+  ]
+}

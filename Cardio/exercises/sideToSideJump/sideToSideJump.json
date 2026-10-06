@@ -1,0 +1,90 @@
+{
+  "id": "11.30",
+  "key": "jump_rope_side_to_side_jump",
+  "title": "Side-to-Side Jump",
+  "description": "1. Start with feet together and establish a low basic bounce.\n2. On the next turn, move both feet a few inches to one side without twisting the knees.\n3. Jump across the center to the other side on the following turn while the rope cadence stays even.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 8.3,
+    "moderate": 11.8,
+    "vigorous": 12.3,
+    "lightCode": "15552",
+    "moderateCode": "15551",
+    "vigorousCode": "15550"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Jump Rope",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Side-to-Side Jump",
+      "description": "1. Start with feet together and establish a low basic bounce.\n2. On the next turn, move both feet a few inches to one side without twisting the knees.\n3. Jump across the center to the other side on the following turn while the rope cadence stays even.",
+      "sectionTitle": "Jump Rope"
+    },
+    "es": {
+      "title": "Salto de lado a lado",
+      "description": "1. Empieza con los pies juntos y establece un salto básico bajo.\n2. En la siguiente vuelta, desplaza ambos pies unos centímetros hacia un lado sin torcer las rodillas.\n3. En la vuelta posterior, salta pasando por el centro hacia el otro lado, manteniendo uniforme el ritmo de la cuerda.",
+      "sectionTitle": "Saltar a la comba"
+    },
+    "pt": {
+      "title": "Salto lateral alternado",
+      "description": "1. Comece com os pés juntos e estabeleça um salto básico baixo.\n2. Na próxima volta, mova os dois pés alguns centímetros para um lado sem torcer os joelhos.\n3. Na volta seguinte, salte atravessando o centro para o outro lado, mantendo o ritmo da corda uniforme.",
+      "sectionTitle": "Pular corda"
+    },
+    "fr": {
+      "title": "Saut latéral alterné",
+      "description": "1. Commencez les pieds joints et installez un saut de base bas.\n2. Au tour suivant, déplacez les deux pieds de quelques centimètres sur un côté sans tordre les genoux.\n3. Au tour d’après, sautez de l’autre côté en passant par le centre, tout en gardant une cadence de corde régulière.",
+      "sectionTitle": "Corde à sauter"
+    },
+    "de": {
+      "title": "Seitlicher Wechselsprung",
+      "description": "1. Beginne mit geschlossenen Füßen und finde einen niedrigen Grundsprung.\n2. Bewege bei der nächsten Umdrehung beide Füße einige Zentimeter zu einer Seite, ohne die Knie zu verdrehen.\n3. Springe bei der folgenden Umdrehung über die Mitte zur anderen Seite, während der Seilrhythmus gleichmäßig bleibt.",
+      "sectionTitle": "Seilspringen"
+    },
+    "it": {
+      "title": "Salto da un lato all’altro",
+      "description": "1. Inizia con i piedi uniti e stabilisci un salto base basso.\n2. Al giro successivo, sposta entrambi i piedi qualche centimetro da un lato senza torcere le ginocchia.\n3. Al giro seguente, salta oltre il centro verso l’altro lato mantenendo regolare la cadenza della corda.",
+      "sectionTitle": "Salto con la corda"
+    },
+    "zh-Hans": {
+      "title": "左右跳",
+      "description": "1. 双脚并拢，建立低幅度基础跳的节奏。\n2. 下一圈时双脚向一侧移动几厘米，不要扭转膝盖。\n3. 再下一圈时越过中线跳向另一侧，同时保持转绳节奏均匀。",
+      "sectionTitle": "跳绳"
+    },
+    "ja": {
+      "title": "左右跳び",
+      "description": "1. 足を揃え、低い基本跳びのリズムを作ります。\n2. 次の回転で、膝をねじらずに両足を数センチ片側へ移します。\n3. その次の回転で中央を越えて反対側へ跳び、ロープの回転ペースを一定に保ちます。",
+      "sectionTitle": "縄跳び"
+    },
+    "ko": {
+      "title": "좌우 뛰기",
+      "description": "1. 발을 모으고 낮은 기본 뛰기 리듬을 만듭니다.\n2. 다음 회전에서 무릎을 비틀지 않고 두 발을 한쪽으로 몇 센티미터 옮깁니다.\n3. 그다음 회전에서 중앙을 넘어 반대쪽으로 뛰며 줄의 회전 속도를 일정하게 유지합니다.",
+      "sectionTitle": "줄넘기"
+    },
+    "th": {
+      "title": "การกระโดดสลับด้านข้าง",
+      "description": "1. เริ่มด้วยเท้าชิดกันและสร้างจังหวะกระโดดพื้นฐานต่ำ ๆ\n2. ในรอบถัดไป เลื่อนเท้าทั้งสองไปด้านหนึ่งเล็กน้อยโดยไม่บิดเข่า\n3. ในรอบต่อมา กระโดดข้ามแนวกลางไปอีกด้าน โดยรักษาจังหวะเชือกให้สม่ำเสมอ",
+      "sectionTitle": "กระโดดเชือก"
+    },
+    "ru": {
+      "title": "Прыжок из стороны в сторону",
+      "description": "1. Начните со стопами вместе и установите ритм низкого базового прыжка.\n2. На следующем обороте переместите обе стопы на несколько сантиметров в одну сторону, не скручивая колени.\n3. На последующем обороте перепрыгните через центр на другую сторону, сохраняя ровный ритм скакалки.",
+      "sectionTitle": "Скакалка"
+    },
+    "uk": {
+      "title": "Стрибок із боку в бік",
+      "description": "1. Почніть зі стопами разом і встановіть ритм низького базового стрибка.\n2. На наступному оберті перемістіть обидві стопи на кілька сантиметрів в один бік, не скручуючи коліна.\n3. На подальшому оберті перестрибніть через центр на інший бік, зберігаючи рівний ритм скакалки.",
+      "sectionTitle": "Скакалка"
+    }
+  }
+}

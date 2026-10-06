@@ -1,0 +1,90 @@
+{
+  "id": "49.6",
+  "key": "capoeira_queda_de_quatro",
+  "title": "Queda de Quatro",
+  "description": "1. From the ginga, sit the hips backward toward the floor as if avoiding a high kick, keeping the chin tucked.\n2. Reach both hands behind you and place them on the floor with the fingers pointing back and the elbows soft, feet flat in front.\n3. Keep the hips just off the floor and the eyes forward, then press through the hands and feet to return to the ginga.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Queda de Quatro",
+      "description": "1. From the ginga, sit the hips backward toward the floor as if avoiding a high kick, keeping the chin tucked.\n2. Reach both hands behind you and place them on the floor with the fingers pointing back and the elbows soft, feet flat in front.\n3. Keep the hips just off the floor and the eyes forward, then press through the hands and feet to return to the ginga.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Queda de Quatro",
+      "description": "1. Desde la ginga, lleva la cadera hacia atrás y abajo como si esquivaras una patada alta, con la barbilla recogida.\n2. Lleva ambas manos atrás y apóyalas en el suelo con los dedos hacia atrás y los codos suaves, pies planos delante.\n3. Mantén la cadera justo sobre el suelo y la mirada al frente; empuja con manos y pies para volver a la ginga.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Queda de Quatro",
+      "description": "1. Da ginga, leve o quadril para trás e para baixo como se evitasse um chute alto, com o queixo recolhido.\n2. Leve as duas mãos para trás e apoie-as no chão com os dedos para trás e cotovelos soltos, pés apoiados à frente.\n3. Mantenha o quadril pouco acima do chão e o olhar à frente; empurre com mãos e pés para voltar à ginga.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Queda de Quatro",
+      "description": "1. Depuis la ginga, descendez les hanches en arrière comme pour éviter un coup de pied haut, menton rentré.\n2. Portez les deux mains derrière vous au sol, doigts vers l’arrière et coudes souples, pieds à plat devant.\n3. Gardez les hanches juste au-dessus du sol et le regard devant, puis poussez sur mains et pieds pour revenir à la ginga.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Queda de Quatro",
+      "description": "1. Senke aus der Ginga die Hüfte nach hinten zum Boden, als würdest du einem hohen Tritt ausweichen, Kinn eingezogen.\n2. Setze beide Hände hinter dir mit nach hinten zeigenden Fingern und weichen Ellbogen auf, die Füße flach vorn.\n3. Halte die Hüfte knapp über dem Boden und den Blick nach vorn, drücke dich dann über Hände und Füße in die Ginga zurück.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Queda de Quatro",
+      "description": "1. Dalla ginga porta le anche indietro verso terra come per evitare un calcio alto, mento raccolto.\n2. Porta entrambe le mani dietro di te a terra con le dita rivolte indietro e i gomiti morbidi, piedi a terra davanti.\n3. Tieni le anche appena sopra il pavimento e lo sguardo avanti, poi spingi con mani e piedi per tornare in ginga.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "四点后倒（Queda de Quatro）",
+      "description": "1. 从金加步向后下方坐髋，如同躲避高踢，下巴内收。\n2. 双手向后撑地，手指朝后、肘部放松，双脚在前方平放。\n3. 髋部略离地面，目视前方，然后手脚同时发力回到金加步。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ケーダ・ジ・クアトロ",
+      "description": "1. ジンガから、高い蹴りを避けるように腰を後ろ下へ落とし、あごを引きます。\n2. 両手を後ろの床につき、指は後ろ向き、肘は柔らかく、足は前で床につけます。\n3. 腰を床からわずかに浮かせ前を見たまま、手と足で押してジンガへ戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "케다 지 콰트루",
+      "description": "1. 징가에서 높은 킥을 피하듯 엉덩이를 뒤아래로 내리고 턱을 당깁니다.\n2. 두 손을 뒤 바닥에 짚되 손가락은 뒤를 향하고 팔꿈치는 부드럽게, 발은 앞에 평평하게 둡니다.\n3. 엉덩이를 바닥 바로 위에 두고 앞을 본 채 손과 발로 밀어 징가로 돌아옵니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เกดา จี ควาตรู",
+      "description": "1. จากจิงกา ทิ้งสะโพกไปข้างหลังลงหาพื้นเหมือนหลบลูกเตะสูง และเก็บคาง\n2. เอื้อมสองมือไปวางบนพื้นด้านหลัง นิ้วชี้ไปข้างหลัง ข้อศอกไม่ล็อก เท้าวางราบด้านหน้า\n3. ให้สะโพกลอยเหนือพื้นเล็กน้อยและมองไปข้างหน้า แล้วดันมือและเท้ากลับสู่จิงกา",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Кеда ди куатру",
+      "description": "1. Из джинги уведите таз назад к полу, будто уходя от высокого удара, подбородок прижат.\n2. Поставьте обе руки на пол позади себя пальцами назад, локти мягкие, стопы плоско впереди.\n3. Держите таз чуть над полом и взгляд вперёд, затем оттолкнитесь руками и ногами и вернитесь в джингу.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Кеда ді куатру",
+      "description": "1. Із джинги відведіть таз назад до підлоги, ніби ухиляючись від високого удару, підборіддя притиснуте.\n2. Поставте обидві руки на підлогу позаду себе пальцями назад, лікті м’які, стопи пласко попереду.\n3. Тримайте таз трохи над підлогою й погляд уперед, потім відштовхніться руками й ногами та поверніться в джингу.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

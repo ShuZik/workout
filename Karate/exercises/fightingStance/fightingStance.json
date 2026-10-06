@@ -1,0 +1,90 @@
+{
+  "id": "40.2",
+  "key": "karate_fighting_stance",
+  "title": "Fighting Stance",
+  "description": "1. Place one foot forward and the other back with enough width to keep the hips balanced rather than standing on one line.\n2. Bend the knees lightly, keep the torso upright, tuck the chin, and hold both hands where they can strike or block.\n3. Slide and pivot without crossing the feet, returning to the same stance length and guard after each movement.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Fighting Stance",
+      "description": "1. Place one foot forward and the other back with enough width to keep the hips balanced rather than standing on one line.\n2. Bend the knees lightly, keep the torso upright, tuck the chin, and hold both hands where they can strike or block.\n3. Slide and pivot without crossing the feet, returning to the same stance length and guard after each movement.",
+      "sectionTitle": "Stances"
+    },
+    "es": {
+      "title": "Postura de combate",
+      "description": "1. Coloca un pie delante y otro detrás con suficiente anchura para mantener las caderas equilibradas, sin quedarte sobre una sola línea.\n2. Flexiona ligeramente las rodillas, mantén el torso erguido, mete la barbilla y coloca ambas manos donde puedan golpear o bloquear.\n3. Deslízate y pivota sin cruzar los pies, recuperando la misma longitud de postura y la guardia tras cada movimiento.",
+      "sectionTitle": "Posturas"
+    },
+    "pt": {
+      "title": "Base de combate",
+      "description": "1. Coloque um pé à frente e o outro atrás, com largura suficiente para manter os quadris equilibrados em vez de ficar sobre uma única linha.\n2. Flexione levemente os joelhos, mantenha o tronco ereto, recolha o queixo e posicione as duas mãos onde possam golpear ou bloquear.\n3. Deslize e gire sem cruzar os pés, voltando ao mesmo comprimento de base e à guarda após cada movimento.",
+      "sectionTitle": "Bases"
+    },
+    "fr": {
+      "title": "Position de combat",
+      "description": "1. Placez un pied devant et l’autre derrière avec assez de largeur pour garder les hanches équilibrées, sans vous tenir sur une seule ligne.\n2. Fléchissez légèrement les genoux, gardez le torse droit, rentrez le menton et placez les deux mains là où elles peuvent frapper ou bloquer.\n3. Glissez et pivotez sans croiser les pieds, en retrouvant la même longueur de position et la garde après chaque mouvement.",
+      "sectionTitle": "Positions"
+    },
+    "de": {
+      "title": "Kampfstand",
+      "description": "1. Setze einen Fuß nach vorn und den anderen nach hinten, breit genug, damit die Hüften im Gleichgewicht bleiben, statt auf einer Linie zu stehen.\n2. Beuge die Knie leicht, halte den Rumpf aufrecht, ziehe das Kinn an und halte beide Hände dort, wo sie schlagen oder blocken können.\n3. Gleite und drehe dich, ohne die Füße zu kreuzen, und kehre nach jeder Bewegung zur gleichen Standlänge und Deckung zurück.",
+      "sectionTitle": "Stände"
+    },
+    "it": {
+      "title": "Posizione di combattimento",
+      "description": "1. Porta un piede avanti e l’altro dietro con ampiezza sufficiente a mantenere le anche in equilibrio, senza stare su un’unica linea.\n2. Piega leggermente le ginocchia, mantieni il busto eretto, abbassa il mento e tieni entrambe le mani dove possano colpire o parare.\n3. Scivola e ruota senza incrociare i piedi, tornando alla stessa lunghezza di posizione e alla guardia dopo ogni movimento.",
+      "sectionTitle": "Posizioni"
+    },
+    "zh-Hans": {
+      "title": "格斗站姿",
+      "description": "1. 一脚在前、一脚在后，留出足够宽度使髋部保持平衡，不要站在同一条线上。\n2. 膝盖微屈，躯干直立，收下巴，双手置于可随时出击或格挡的位置。\n3. 滑步和转身时不要交叉双脚，每次移动后恢复相同的站距和护卫姿势。",
+      "sectionTitle": "站姿"
+    },
+    "ja": {
+      "title": "組手の構え",
+      "description": "1. 一方の足を前、もう一方を後ろに置き、一直線上に立たず腰のバランスが保てる幅をとります。\n2. 膝を軽く曲げ、胴を立て、顎を引き、両手を突きや受けができる位置に構えます。\n3. 足を交差させずに滑り足や転身を行い、動くたびに同じ歩幅と構えに戻ります。",
+      "sectionTitle": "立ち方"
+    },
+    "ko": {
+      "title": "겨루기 자세",
+      "description": "1. 한 발은 앞, 다른 발은 뒤에 두고 한 줄로 서지 않도록 골반이 균형을 유지할 만큼 폭을 둡니다.\n2. 무릎을 가볍게 굽히고 상체를 세우며 턱을 당기고 두 손을 공격이나 막기가 가능한 위치에 둡니다.\n3. 발을 교차하지 않고 미끄러지듯 이동하거나 회전하며 매 동작 후 같은 보폭과 가드로 돌아옵니다.",
+      "sectionTitle": "서기"
+    },
+    "th": {
+      "title": "ท่าต่อสู้",
+      "description": "1. วางเท้าข้างหนึ่งไว้ด้านหน้าและอีกข้างไว้ด้านหลัง โดยเว้นความกว้างพอให้สะโพกสมดุล ไม่ยืนอยู่บนเส้นเดียวกัน\n2. งอเข่าเล็กน้อย ลำตัวตั้งตรง เก็บคาง และยกมือทั้งสองไว้ในตำแหน่งที่พร้อมโจมตีหรือป้องกัน\n3. สไลด์และหมุนตัวโดยไม่ไขว้เท้า แล้วกลับสู่ความยาวท่ายืนและการ์ดเดิมหลังทุกการเคลื่อนไหว",
+      "sectionTitle": "ท่ายืน"
+    },
+    "ru": {
+      "title": "Боевая стойка",
+      "description": "1. Поставьте одну стопу вперёд, другую назад с такой шириной, чтобы таз был устойчив, а не на одной линии.\n2. Слегка согните колени, держите корпус прямо, подберите подбородок и держите обе руки там, откуда можно ударить или блокировать.\n3. Скользите и разворачивайтесь, не скрещивая стопы, и после каждого движения возвращайтесь к той же длине стойки и защите.",
+      "sectionTitle": "Стойки"
+    },
+    "uk": {
+      "title": "Бойова стійка",
+      "description": "1. Поставте одну стопу вперед, іншу назад із такою шириною, щоб таз був стійким, а не на одній лінії.\n2. Злегка зігніть коліна, тримайте корпус прямо, підберіть підборіддя й тримайте обидві руки там, звідки можна вдарити або блокувати.\n3. Ковзайте й розвертайтеся, не схрещуючи стопи, і після кожного руху повертайтеся до тієї ж довжини стійки та захисту.",
+      "sectionTitle": "Стійки"
+    }
+  }
+}

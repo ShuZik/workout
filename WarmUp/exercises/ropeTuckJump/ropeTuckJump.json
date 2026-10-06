@@ -1,0 +1,90 @@
+{
+  "id": "9.60",
+  "key": "jump_rope_tuck_jump",
+  "title": "Rope Tuck Jump",
+  "description": "1. Establish a steady basic bounce with the elbows close and the wrists turning the rope.\n2. Jump higher than usual, pull both knees toward the chest, and turn the rope quickly so it passes beneath the feet while the knees are tucked.\n3. Extend the legs, land softly on the balls of the feet with bent knees, and take a few basic bounces before the next tuck.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 8.3,
+    "moderate": 11.8,
+    "vigorous": 12.3,
+    "lightCode": "15552",
+    "moderateCode": "15551",
+    "vigorousCode": "15550"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Cardio",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rope Tuck Jump",
+      "description": "1. Establish a steady basic bounce with the elbows close and the wrists turning the rope.\n2. Jump higher than usual, pull both knees toward the chest, and turn the rope quickly so it passes beneath the feet while the knees are tucked.\n3. Extend the legs, land softly on the balls of the feet with bent knees, and take a few basic bounces before the next tuck.",
+      "sectionTitle": "Cardio"
+    },
+    "es": {
+      "title": "Salto agrupado con cuerda",
+      "description": "1. Establece un rebote básico constante con los codos cerca y las muñecas girando la cuerda.\n2. Salta más alto de lo habitual, lleva ambas rodillas hacia el pecho y gira la cuerda rápido para que pase bajo los pies con las rodillas recogidas.\n3. Extiende las piernas, aterriza suave sobre la parte delantera de los pies con las rodillas flexionadas y haz algunos rebotes básicos antes del siguiente salto.",
+      "sectionTitle": "Cardio"
+    },
+    "pt": {
+      "title": "Salto grupado com corda",
+      "description": "1. Estabeleça um quique básico constante com os cotovelos próximos e os punhos girando a corda.\n2. Salte mais alto que o normal, puxe os dois joelhos ao peito e gire a corda rápido para passar sob os pés com os joelhos recolhidos.\n3. Estenda as pernas, aterrisse suave na ponta dos pés com os joelhos flexionados e faça alguns quiques básicos antes do próximo salto.",
+      "sectionTitle": "Cardio"
+    },
+    "fr": {
+      "title": "Saut groupé à la corde",
+      "description": "1. Installez un rebond de base régulier, coudes près du corps, les poignets faisant tourner la corde.\n2. Sautez plus haut que d’habitude, ramenez les deux genoux vers la poitrine et tournez vite la corde pour qu’elle passe sous les pieds genoux groupés.\n3. Tendez les jambes, réceptionnez-vous en douceur sur l’avant des pieds genoux fléchis et faites quelques rebonds de base avant le saut suivant.",
+      "sectionTitle": "Cardio"
+    },
+    "de": {
+      "title": "Hocksprung mit Seil",
+      "description": "1. Einen gleichmäßigen Grundsprung aufbauen, Ellbogen nah am Körper, das Seil aus den Handgelenken drehen.\n2. Höher als üblich springen, beide Knie zur Brust ziehen und das Seil schnell drehen, damit es bei gehockten Knien unter den Füßen durchläuft.\n3. Die Beine strecken, weich auf den Fußballen mit gebeugten Knien landen und vor dem nächsten Hocksprung einige Grundsprünge machen.",
+      "sectionTitle": "Cardio"
+    },
+    "it": {
+      "title": "Salto raccolto con la corda",
+      "description": "1. Stabilisci un rimbalzo base costante con i gomiti vicini e i polsi che girano la corda.\n2. Salta più in alto del solito, porta entrambe le ginocchia verso il petto e gira la corda velocemente perché passi sotto i piedi a ginocchia raccolte.\n3. Distendi le gambe, atterra morbido sugli avampiedi con le ginocchia piegate e fai qualche rimbalzo base prima del salto successivo.",
+      "sectionTitle": "Cardio"
+    },
+    "zh-Hans": {
+      "title": "跳绳收腹跳",
+      "description": "1. 保持稳定的基础跳，肘部贴近，用手腕摇绳。\n2. 跳得比平时更高，双膝收向胸部，快速摇绳，使绳在收膝时从脚下通过。\n3. 伸直双腿，屈膝以前脚掌轻柔落地，做几次基础跳后再进行下一次收腹跳。",
+      "sectionTitle": "有氧运动"
+    },
+    "ja": {
+      "title": "縄跳びタックジャンプ",
+      "description": "1. 肘を体に近づけ、手首でロープを回して安定した基本跳びを続けます。\n2. いつもより高く跳び、両膝を胸へ引き寄せ、膝を抱えている間にロープが足の下を通るよう素早く回します。\n3. 脚を伸ばし、膝を曲げて母指球で柔らかく着地し、数回基本跳びをしてから次のタックジャンプを行います。",
+      "sectionTitle": "有酸素運動"
+    },
+    "ko": {
+      "title": "줄넘기 턱 점프",
+      "description": "1. 팔꿈치를 몸에 붙이고 손목으로 줄을 돌리며 안정된 기본 뛰기를 이어갑니다.\n2. 평소보다 높이 뛰어 두 무릎을 가슴 쪽으로 당기고, 무릎을 당긴 동안 줄이 발밑을 지나도록 빠르게 돌립니다.\n3. 다리를 펴고 무릎을 굽혀 앞꿈치로 부드럽게 착지한 뒤 기본 뛰기를 몇 번 하고 다음 턱 점프를 합니다.",
+      "sectionTitle": "유산소 운동"
+    },
+    "th": {
+      "title": "กระโดดเชือกยกเข่าชิดอก",
+      "description": "1. กระโดดพื้นฐานอย่างสม่ำเสมอ ศอกชิดลำตัว และใช้ข้อมือหมุนเชือก\n2. กระโดดสูงกว่าปกติ ดึงเข่าทั้งสองขึ้นหาอก และหมุนเชือกเร็วให้ผ่านใต้เท้าขณะเข่ายกอยู่\n3. เหยียดขา ลงพื้นเบาๆ ด้วยปลายเท้าและเข่างอ แล้วกระโดดพื้นฐานสองสามครั้งก่อนครั้งถัดไป",
+      "sectionTitle": "คาร์ดิโอ"
+    },
+    "ru": {
+      "title": "Прыжок с подтягиванием коленей со скакалкой",
+      "description": "1. Наладьте ровные базовые прыжки, локти у корпуса, скакалку вращают кисти.\n2. Прыгните выше обычного, подтяните оба колена к груди и быстро прокрутите скакалку, чтобы она прошла под стопами при подтянутых коленях.\n3. Выпрямите ноги, мягко приземлитесь на переднюю часть стоп с согнутыми коленями и сделайте несколько базовых прыжков перед следующим.",
+      "sectionTitle": "Кардио"
+    },
+    "uk": {
+      "title": "Стрибок із підтягуванням колін зі скакалкою",
+      "description": "1. Налагодьте рівні базові стрибки, лікті біля корпусу, скакалку обертають кисті.\n2. Стрибніть вище звичайного, підтягніть обидва коліна до грудей і швидко прокрутіть скакалку, щоб вона пройшла під стопами при підтягнутих колінах.\n3. Випряміть ноги, м’яко приземліться на передню частину стоп зі зігнутими колінами й зробіть кілька базових стрибків перед наступним.",
+      "sectionTitle": "Кардіо"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "43.21",
+  "key": "aikido_hikitate_geiko",
+  "title": "Hikitate Geiko",
+  "description": "1. Pair with a trained partner and agree on light, cooperative resistance.\n2. Tori attempts techniques while uke falls only when balance is truly broken and otherwise stays upright.\n3. Adjust resistance to the partner's level, reset after each attempt, and switch roles regularly.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "aikido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Practice Modes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hikitate Geiko",
+      "description": "1. Pair with a trained partner and agree on light, cooperative resistance.\n2. Tori attempts techniques while uke falls only when balance is truly broken and otherwise stays upright.\n3. Adjust resistance to the partner's level, reset after each attempt, and switch roles regularly.",
+      "sectionTitle": "Practice Modes"
+    },
+    "es": {
+      "title": "Hikitate Geiko",
+      "description": "1. Forma pareja con un compañero entrenado y acuerden una resistencia ligera y cooperativa.\n2. Tori intenta técnicas mientras uke cae solo cuando su equilibrio se rompe de verdad y, si no, se mantiene de pie.\n3. Ajusta la resistencia al nivel del compañero, reinicia tras cada intento y cambien de papel con regularidad.",
+      "sectionTitle": "Modos de práctica"
+    },
+    "pt": {
+      "title": "Hikitate Geiko",
+      "description": "1. Forme dupla com um parceiro treinado e combinem uma resistência leve e cooperativa.\n2. Tori tenta técnicas enquanto uke só cai quando o equilíbrio é realmente quebrado e, caso contrário, permanece de pé.\n3. Ajuste a resistência ao nível do parceiro, recomece após cada tentativa e troquem de papel regularmente.",
+      "sectionTitle": "Modos de prática"
+    },
+    "fr": {
+      "title": "Hikitate Geiko",
+      "description": "1. Travaillez avec un partenaire entraîné et convenez d’une résistance légère et coopérative.\n2. Tori tente des techniques tandis que uke ne chute que si son équilibre est vraiment rompu et reste debout sinon.\n3. Adaptez la résistance au niveau du partenaire, repartez après chaque tentative et inversez régulièrement les rôles.",
+      "sectionTitle": "Modes de pratique"
+    },
+    "de": {
+      "title": "Hikitate Geiko",
+      "description": "1. Übe mit einem trainierten Partner und vereinbart leichten, kooperativen Widerstand.\n2. Tori versucht Techniken, während Uke nur fällt, wenn sein Gleichgewicht wirklich gebrochen ist, und sonst stehen bleibt.\n3. Passt den Widerstand an das Niveau des Partners an, setzt nach jedem Versuch neu an und tauscht regelmäßig die Rollen.",
+      "sectionTitle": "Übungsformen"
+    },
+    "it": {
+      "title": "Hikitate Geiko",
+      "description": "1. Fai coppia con un partner allenato e concordate una resistenza leggera e collaborativa.\n2. Tori prova le tecniche mentre uke cade solo quando il suo equilibrio è davvero rotto, altrimenti resta in piedi.\n3. Adatta la resistenza al livello del partner, ripartite dopo ogni tentativo e scambiatevi spesso i ruoli.",
+      "sectionTitle": "Modalità di pratica"
+    },
+    "zh-Hans": {
+      "title": "引立稽古",
+      "description": "1. 与训练有素的同伴配对，约定轻度、合作式的抵抗。\n2. 取方尝试技术，受方只有在平衡真正被破坏时才倒下，否则保持站立。\n3. 根据同伴水平调整抵抗程度，每次尝试后重新开始，并定期交换角色。",
+      "sectionTitle": "练习模式"
+    },
+    "ja": {
+      "title": "引立稽古",
+      "description": "1. 訓練を積んだ相手と組み、軽く協力的な抵抗の程度を決めます。\n2. 取りは技を試み、受けは本当にバランスが崩れたときだけ倒れ、そうでなければ立ったままでいます。\n3. 相手のレベルに合わせて抵抗を調整し、試みごとに仕切り直し、定期的に役割を交代します。",
+      "sectionTitle": "稽古法"
+    },
+    "ko": {
+      "title": "히키타테 게이코",
+      "description": "1. 훈련된 파트너와 짝을 이루고 가볍고 협조적인 저항 정도를 정합니다.\n2. 토리가 기술을 시도하고, 우케는 균형이 정말 무너졌을 때만 넘어지며 그렇지 않으면 서 있습니다.\n3. 파트너의 수준에 맞춰 저항을 조절하고 시도마다 다시 시작하며 정기적으로 역할을 바꿉니다.",
+      "sectionTitle": "수련 방식"
+    },
+    "th": {
+      "title": "ฮิกิทาเตะเคโกะ",
+      "description": "1. จับคู่กับคู่ฝึกที่ผ่านการฝึก และตกลงระดับการต้านทานแบบเบาและร่วมมือกัน\n2. โทริลองใช้เทคนิค ขณะที่อุเกะจะล้มเฉพาะเมื่อเสียสมดุลจริง ไม่เช่นนั้นให้ยืนอยู่\n3. ปรับการต้านทานให้เหมาะกับระดับคู่ฝึก เริ่มใหม่หลังแต่ละครั้ง และสลับบทบาทสม่ำเสมอ",
+      "sectionTitle": "รูปแบบการฝึก"
+    },
+    "ru": {
+      "title": "Хикитатэ-гэйко",
+      "description": "1. Работайте в паре с подготовленным партнёром и договоритесь о лёгком, партнёрском сопротивлении.\n2. Тори пробует техники, а уке падает, только когда его равновесие действительно нарушено, иначе остаётся на ногах.\n3. Подстраивайте сопротивление под уровень партнёра, начинайте заново после каждой попытки и регулярно меняйтесь ролями.",
+      "sectionTitle": "Режимы практики"
+    },
+    "uk": {
+      "title": "Хікітате-гейко",
+      "description": "1. Працюйте в парі з підготовленим партнером і домовтеся про легкий, партнерський опір.\n2. Торі пробує техніки, а уке падає, лише коли його рівновагу справді порушено, інакше лишається на ногах.\n3. Підлаштовуйте опір під рівень партнера, починайте знову після кожної спроби й регулярно міняйтеся ролями.",
+      "sectionTitle": "Режими практики"
+    }
+  }
+}

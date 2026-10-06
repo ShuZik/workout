@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#67C4ED",
+    "colorType": "cyan",
+    "folder": "SportsChanbara",
+    "id": "94",
+    "icon": "SportsChanbara/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Sports Chanbara",
+    "workoutType": "sportsChanbara",
+    "translations": {
+      "en": {
+        "title": "Sports Chanbara"
+      },
+      "es": {
+        "title": "Chanbara deportivo"
+      },
+      "pt": {
+        "title": "Chanbara esportivo"
+      },
+      "fr": {
+        "title": "Chanbara sportif"
+      },
+      "de": {
+        "title": "Sport-Chanbara"
+      },
+      "it": {
+        "title": "Chanbara sportivo"
+      },
+      "zh-Hans": {
+        "title": "运动刀剑格斗"
+      },
+      "ja": {
+        "title": "スポーツチャンバラ"
+      },
+      "ko": {
+        "title": "스포츠 찬바라"
+      },
+      "th": {
+        "title": "สปอร์ตจันบาระ"
+      },
+      "ru": {
+        "title": "Спортивная чанбара"
+      },
+      "uk": {
+        "title": "Спортивна чанбара"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "SportsChanbara/exercises/sportsChanbara/Icon.png",
+      "json": "SportsChanbara/exercises/sportsChanbara/sportsChanbara.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/basicGuardAndFootwork/Icon.png",
+      "json": "SportsChanbara/exercises/basicGuardAndFootwork/basicGuardAndFootwork.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/menUchi/Icon.png",
+      "json": "SportsChanbara/exercises/menUchi/menUchi.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/koteUchi/Icon.png",
+      "json": "SportsChanbara/exercises/koteUchi/koteUchi.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/doUchi/Icon.png",
+      "json": "SportsChanbara/exercises/doUchi/doUchi.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/ashiUchi/Icon.png",
+      "json": "SportsChanbara/exercises/ashiUchi/ashiUchi.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/chokenStrikes/Icon.png",
+      "json": "SportsChanbara/exercises/chokenStrikes/chokenStrikes.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/kihonDosaPractice/Icon.png",
+      "json": "SportsChanbara/exercises/kihonDosaPractice/kihonDosaPractice.json"
+    },
+    {
+      "icon": "SportsChanbara/exercises/shiaiBout/Icon.png",
+      "json": "SportsChanbara/exercises/shiaiBout/shiaiBout.json"
+    }
+  ]
+}

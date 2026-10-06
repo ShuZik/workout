@@ -1,0 +1,90 @@
+{
+  "id": "54.26",
+  "key": "fencing_diagonal_parry",
+  "title": "Diagonal Parry",
+  "description": "1. Stand en garde in one line; the partner attacks slowly to the opposite low or high line, for example a sabre cut to the flank or chest.\n2. Carry the blade diagonally across the body from one line to the opposite one, for example quarte to seconde, meeting the attack with the strong of the blade.\n3. Riposte from the parry, recover to en garde, and swap roles; practice both diagonal directions.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Diagonal Parry",
+      "description": "1. Stand en garde in one line; the partner attacks slowly to the opposite low or high line, for example a sabre cut to the flank or chest.\n2. Carry the blade diagonally across the body from one line to the opposite one, for example quarte to seconde, meeting the attack with the strong of the blade.\n3. Riposte from the parry, recover to en garde, and swap roles; practice both diagonal directions.",
+      "sectionTitle": "Parries"
+    },
+    "es": {
+      "title": "Parada diagonal",
+      "description": "1. En guardia en una línea; el compañero ataca despacio a la línea baja o alta opuesta, por ejemplo un corte de sable al flanco o al pecho.\n2. Lleva la hoja en diagonal a través del cuerpo de una línea a la opuesta, por ejemplo de cuarta a segunda, recibiendo el ataque con el fuerte.\n3. Responde desde la parada, vuelve a guardia y cambia papeles; practica ambas direcciones diagonales.",
+      "sectionTitle": "Paradas"
+    },
+    "pt": {
+      "title": "Parada diagonal",
+      "description": "1. Em guarda numa linha; o parceiro ataca devagar a linha baixa ou alta oposta, por exemplo um corte de sabre ao flanco ou ao peito.\n2. Leve a lâmina na diagonal através do corpo de uma linha à oposta, por exemplo de quarta para segunda, recebendo o ataque com o forte.\n3. Responda a partir da parada, volte à guarda e troque papéis; pratique as duas direções diagonais.",
+      "sectionTitle": "Paradas"
+    },
+    "fr": {
+      "title": "Parade diagonale",
+      "description": "1. En garde dans une ligne ; le partenaire attaque lentement la ligne basse ou haute opposée, par exemple un coup de sabre au flanc ou à la poitrine.\n2. Portez la lame en diagonale devant le corps d’une ligne à l’opposée, par exemple de quarte en seconde, en recevant l’attaque avec le fort.\n3. Ripostez depuis la parade, revenez en garde et inversez ; travaillez les deux diagonales.",
+      "sectionTitle": "Parades"
+    },
+    "de": {
+      "title": "Diagonalparade",
+      "description": "1. Fechtstellung in einer Linie; der Partner greift langsam die gegenüberliegende tiefe oder hohe Linie an, etwa ein Säbelhieb zur Flanke oder Brust.\n2. Führe die Klinge diagonal vor dem Körper von einer Linie in die gegenüberliegende, etwa von Quart nach Second, und nimm den Angriff mit der Stärke auf.\n3. Ripostiere aus der Parade, kehre zurück und tauscht; übe beide Diagonalrichtungen.",
+      "sectionTitle": "Paraden"
+    },
+    "it": {
+      "title": "Parata diagonale",
+      "description": "1. In guardia in una linea; il compagno attacca lentamente la linea bassa o alta opposta, per esempio un fendente di sciabola al fianco o al petto.\n2. Porta la lama in diagonale davanti al corpo da una linea all’opposta, per esempio da quarta a seconda, ricevendo l’attacco col forte.\n3. Rispondi dalla parata, torna in guardia e scambiate; esercita entrambe le diagonali.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "斜向防守",
+      "description": "1. 以某一线位成实战姿势；同伴缓慢攻击对侧低线或高线，例如佩剑劈侧腹或胸部。\n2. 将剑斜向穿过身体前方，从一个线位移到对侧线位（如第四到第二位），用剑的强部接住进攻。\n3. 从防守位置还击，恢复实战姿势后交换角色；两个斜向方向都要练习。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "ダイアゴナル・パラード",
+      "description": "1. 一つのラインでアンガルドを取り、相手は反対側の低い/高いライン（例：サーブルで脇腹や胸への斬り）へゆっくり攻撃します。\n2. 剣を体の前で斜めに運び、一つのラインから反対側のライン（例：カルトからスゴンド）へ移して強部で攻撃を受けます。\n3. パラードからリポストし、アンガルドに戻って交代します。両方の斜め方向を練習します。",
+      "sectionTitle": "パラード"
+    },
+    "ko": {
+      "title": "대각 패리",
+      "description": "1. 한 라인으로 앙가르드를 취하고, 파트너는 반대쪽 낮거나 높은 라인(예: 사브르 옆구리나 가슴 베기)으로 천천히 공격합니다.\n2. 칼을 몸 앞에서 대각선으로 옮겨 한 라인에서 반대 라인(예: 카르트에서 스공드)으로 이동하며 강부로 공격을 받습니다.\n3. 패리에서 리포스트하고 앙가르드로 돌아와 역할을 바꾸며, 두 대각 방향을 모두 연습합니다.",
+      "sectionTitle": "패리"
+    },
+    "th": {
+      "title": "การปัดแนวทแยง",
+      "description": "1. ตั้งอองการ์ดในแนวหนึ่ง คู่ฝึกโจมตีช้าๆ ไปยังแนวต่ำหรือสูงฝั่งตรงข้าม เช่น ฟันดาบเซเบอร์ที่สีข้างหรือหน้าอก\n2. พาใบดาบทแยงผ่านหน้าลำตัวจากแนวหนึ่งไปแนวตรงข้าม เช่น จากการ์ตไปเซกงด์ รับการโจมตีด้วยส่วนแข็ง\n3. โต้กลับจากท่าปัด กลับสู่อองการ์ดแล้วสลับบทบาท ฝึกทั้งสองทิศทแยง",
+      "sectionTitle": "การปัดป้อง"
+    },
+    "ru": {
+      "title": "Диагональная защита",
+      "description": "1. Стойка в одной линии; партнёр медленно атакует противоположную нижнюю или верхнюю линию, например сабельный удар во фланг или грудь.\n2. Проведите клинок по диагонали перед корпусом из одной линии в противоположную, например из четвёртой во вторую, встречая атаку сильной частью.\n3. Ответьте из защиты, вернитесь в стойку и поменяйтесь ролями; отрабатывайте оба диагональных направления.",
+      "sectionTitle": "Защиты"
+    },
+    "uk": {
+      "title": "Діагональний захист",
+      "description": "1. Стійка в одній лінії; партнер повільно атакує протилежну нижню чи верхню лінію, наприклад шабельний удар у фланг або груди.\n2. Проведіть клинок по діагоналі перед корпусом з однієї лінії в протилежну, наприклад із четвертої в другу, зустрічаючи атаку сильною частиною.\n3. Відповідайте із захисту, поверніться в стійку й поміняйтеся ролями; відпрацьовуйте обидва діагональні напрямки.",
+      "sectionTitle": "Захисти"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "9.2",
+  "key": "arm_circles",
+  "title": "Arm Circles",
+  "description": "1. Stand tall and extend both arms to the sides at shoulder height.\n2. Make small forward circles from the shoulder joints and gradually increase their diameter.\n3. Reduce the circles, reverse direction, and keep the ribs and neck still.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.8,
+    "vigorous": 3.8,
+    "lightCode": "02101",
+    "moderateCode": "02024",
+    "vigorousCode": "02022"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Arm Circles",
+      "description": "1. Stand tall and extend both arms to the sides at shoulder height.\n2. Make small forward circles from the shoulder joints and gradually increase their diameter.\n3. Reduce the circles, reverse direction, and keep the ribs and neck still.",
+      "sectionTitle": "Joint Mobility"
+    },
+    "es": {
+      "title": "Círculos de brazos",
+      "description": "1. Ponte erguido y extiende ambos brazos hacia los lados a la altura de los hombros.\n2. Haz pequeños círculos hacia delante desde las articulaciones de los hombros y aumenta gradualmente su diámetro.\n3. Reduce los círculos, invierte la dirección y mantén las costillas y el cuello inmóviles.",
+      "sectionTitle": "Movilidad articular"
+    },
+    "pt": {
+      "title": "Círculos dos braços",
+      "description": "1. Fique ereto e estenda os dois braços para os lados na altura dos ombros.\n2. Faça pequenos círculos para a frente a partir das articulações dos ombros e aumente gradualmente o diâmetro.\n3. Diminua os círculos, inverta a direção e mantenha as costelas e o pescoço imóveis.",
+      "sectionTitle": "Mobilidade articular"
+    },
+    "fr": {
+      "title": "Cercles des bras",
+      "description": "1. Tenez-vous droit et étendez les deux bras sur les côtés à hauteur des épaules.\n2. Faites de petits cercles vers l’avant à partir des articulations des épaules, puis augmentez progressivement leur diamètre.\n3. Réduisez les cercles, inversez le sens et gardez les côtes et le cou immobiles.",
+      "sectionTitle": "Mobilité articulaire"
+    },
+    "de": {
+      "title": "Armkreisen",
+      "description": "1. Stehe aufrecht und strecke beide Arme auf Schulterhöhe seitlich aus.\n2. Führe kleine Vorwärtskreise aus den Schultergelenken aus und vergrößere ihren Durchmesser allmählich.\n3. Verkleinere die Kreise, wechsle die Richtung und halte Rippen und Nacken ruhig.",
+      "sectionTitle": "Gelenkbeweglichkeit"
+    },
+    "it": {
+      "title": "Circonduzioni delle braccia",
+      "description": "1. Stai in piedi ben eretto ed estendi entrambe le braccia lateralmente all’altezza delle spalle.\n2. Esegui piccoli cerchi in avanti dalle articolazioni delle spalle e aumentane gradualmente il diametro.\n3. Riduci i cerchi, inverti la direzione e mantieni ferme le costole e il collo.",
+      "sectionTitle": "Mobilità articolare"
+    },
+    "zh-Hans": {
+      "title": "手臂绕环",
+      "description": "1. 站直，将双臂向两侧伸展至肩高。\n2. 以肩关节为中心向前做小幅绕环，逐渐增大圆圈的直径。\n3. 缩小圆圈并反向绕环，保持肋骨和颈部不动。",
+      "sectionTitle": "关节活动"
+    },
+    "ja": {
+      "title": "腕回し",
+      "description": "1. 背筋を伸ばして立ち、両腕を肩の高さで左右に伸ばします。\n2. 肩関節から前向きに小さな円を描き、少しずつ円の直径を大きくします。\n3. 円を小さくしてから方向を逆にし、肋骨と首は動かさずに保ちます。",
+      "sectionTitle": "関節の可動性"
+    },
+    "ko": {
+      "title": "팔 돌리기",
+      "description": "1. 똑바로 서서 양팔을 어깨 높이로 옆으로 뻗습니다.\n2. 어깨관절을 중심으로 앞으로 작은 원을 그리며 지름을 점차 키웁니다.\n3. 원을 작게 만든 뒤 방향을 바꾸고, 갈비뼈와 목은 움직이지 않게 유지합니다.",
+      "sectionTitle": "관절 가동성"
+    },
+    "th": {
+      "title": "หมุนแขน",
+      "description": "1. ยืนตัวตรงและเหยียดแขนทั้งสองออกด้านข้างในระดับไหล่\n2. หมุนแขนเป็นวงเล็กไปด้านหน้าจากข้อไหล่ แล้วค่อย ๆ เพิ่มขนาดวง\n3. ลดขนาดวง เปลี่ยนทิศทาง และรักษาซี่โครงกับคอให้นิ่ง",
+      "sectionTitle": "การเคลื่อนไหวข้อต่อ"
+    },
+    "ru": {
+      "title": "Круги руками",
+      "description": "1. Встаньте прямо и вытяните обе руки в стороны на уровне плеч.\n2. Делайте небольшие круги вперёд в плечевых суставах и постепенно увеличивайте их диаметр.\n3. Уменьшите круги, смените направление и сохраняйте рёбра и шею неподвижными.",
+      "sectionTitle": "Подвижность суставов"
+    },
+    "uk": {
+      "title": "Колові рухи руками",
+      "description": "1. Станьте прямо та витягніть обидві руки в сторони на рівні плечей.\n2. Робіть невеликі кола вперед у плечових суглобах і поступово збільшуйте їхній діаметр.\n3. Зменште кола, змініть напрямок і зберігайте ребра та шию нерухомими.",
+      "sectionTitle": "Рухливість суглобів"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "49.8",
+  "key": "capoeira_queixada",
+  "title": "Queixada",
+  "description": "1. From the ginga, step the front foot across on a diagonal and turn the shoulders slightly away, guarding the face.\n2. Swing the straight rear leg up from inside to outside in an outward arc, leading with the outer edge of the foot.\n3. Let the leg descend on the outside line under control, then reset into the ginga facing the target.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Queixada",
+      "description": "1. From the ginga, step the front foot across on a diagonal and turn the shoulders slightly away, guarding the face.\n2. Swing the straight rear leg up from inside to outside in an outward arc, leading with the outer edge of the foot.\n3. Let the leg descend on the outside line under control, then reset into the ginga facing the target.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Queixada",
+      "description": "1. Desde la ginga, cruza el pie delantero en diagonal y gira un poco los hombros, protegiendo la cara.\n2. Balancea la pierna trasera estirada de dentro hacia fuera en un arco abierto, guiando con el borde externo del pie.\n3. Deja bajar la pierna por la línea exterior con control y vuelve a la ginga de frente al objetivo.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Queixada",
+      "description": "1. Da ginga, cruze o pé da frente na diagonal e gire um pouco os ombros, protegendo o rosto.\n2. Balance a perna de trás estendida de dentro para fora em um arco aberto, conduzindo com a borda externa do pé.\n3. Deixe a perna descer pela linha externa com controle e volte à ginga de frente para o alvo.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Queixada",
+      "description": "1. Depuis la ginga, croisez le pied avant en diagonale et tournez légèrement les épaules, en protégeant le visage.\n2. Lancez la jambe arrière tendue de l’intérieur vers l’extérieur en arc ouvert, en menant avec le bord externe du pied.\n3. Laissez la jambe redescendre sur la ligne extérieure avec contrôle, puis revenez dans la ginga face à la cible.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Queixada",
+      "description": "1. Setze aus der Ginga den vorderen Fuß diagonal über und drehe die Schultern leicht ab, das Gesicht geschützt.\n2. Schwinge das gestreckte hintere Bein von innen nach außen in einem offenen Bogen, geführt von der Außenkante des Fußes.\n3. Lass das Bein kontrolliert auf der Außenlinie sinken und kehre zur Ginga mit Blick zum Ziel zurück.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Queixada",
+      "description": "1. Dalla ginga incrocia il piede anteriore in diagonale e ruota leggermente le spalle, proteggendo il viso.\n2. Fai oscillare la gamba posteriore tesa da dentro a fuori in un arco aperto, guidando con il bordo esterno del piede.\n3. Lascia scendere la gamba sulla linea esterna con controllo, poi torna in ginga rivolto al bersaglio.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "外摆踢（Queixada）",
+      "description": "1. 从金加步，前脚斜向交叉上步，肩部略微转开，同时护脸。\n2. 后腿伸直由内向外划出外摆弧线，以脚外侧引领。\n3. 让腿沿外侧线控制下落，然后面向目标回到金加步。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "ケイシャーダ",
+      "description": "1. ジンガから前足を斜めに踏み込み、肩を少し開き、顔を守ります。\n2. 伸ばした後ろ脚を内から外へ開く弧で振り上げ、足の外側から導きます。\n3. 脚を外側のラインへコントロールして下ろし、目標に向いてジンガに戻ります。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "케이샤다",
+      "description": "1. 징가에서 앞발을 대각선으로 교차해 딛고 어깨를 약간 돌리며 얼굴을 보호합니다.\n2. 편 뒷다리를 안에서 바깥으로 열리는 호를 그리며 발 바깥날이 앞서도록 차올립니다.\n3. 다리를 바깥 선으로 통제하며 내리고 목표를 향해 징가로 돌아옵니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เกชาดา",
+      "description": "1. จากจิงกา ก้าวเท้าหน้าไขว้ทแยง และบิดไหล่ออกเล็กน้อยพร้อมป้องกันใบหน้า\n2. เหวี่ยงขาหลังที่เหยียดตรงจากด้านในออกด้านนอกเป็นวงเปิด โดยนำด้วยสันเท้าด้านนอก\n3. ปล่อยขาลงตามแนวด้านนอกอย่างควบคุม แล้วกลับสู่จิงกาหันหน้าเข้าเป้า",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Кейшада",
+      "description": "1. Из джинги поставьте переднюю ногу накрест по диагонали и слегка разверните плечи, защищая лицо.\n2. Махните прямой задней ногой изнутри наружу по раскрывающейся дуге, ведя внешним краем стопы.\n3. Опустите ногу по внешней линии с контролем и вернитесь в джингу лицом к цели.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Кейшада",
+      "description": "1. Із джинги поставте передню ногу навхрест по діагоналі й злегка розверніть плечі, захищаючи обличчя.\n2. Махніть прямою задньою ногою зсередини назовні по дузі, що розкривається, ведучи зовнішнім краєм стопи.\n3. Опустіть ногу по зовнішній лінії з контролем і поверніться в джингу обличчям до цілі.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "4.19",
+  "key": "mma_rear_roundhouse_kick",
+  "title": "Rear Roundhouse Kick",
+  "description": "1. Plant the lead foot and begin pivoting it away while keeping the hands high.\n2. Rotate the rear hip and swing the shin through a body pad rather than snapping only the lower leg.\n3. Recoil or continue the rotation safely, then return the rear foot and hips to a balanced stance.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "mma",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Striking",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Roundhouse Kick",
+      "description": "1. Plant the lead foot and begin pivoting it away while keeping the hands high.\n2. Rotate the rear hip and swing the shin through a body pad rather than snapping only the lower leg.\n3. Recoil or continue the rotation safely, then return the rear foot and hips to a balanced stance.",
+      "sectionTitle": "Striking"
+    },
+    "es": {
+      "title": "Patada circular trasera",
+      "description": "1. Apoya el pie adelantado y empieza a pivotarlo hacia fuera manteniendo las manos altas.\n2. Gira la cadera trasera y lleva la espinilla a través de un protector de cuerpo en lugar de chasquear solo la parte baja de la pierna.\n3. Recoge o continúa el giro con seguridad y devuelve el pie trasero y la cadera a una guardia equilibrada.",
+      "sectionTitle": "Golpeo"
+    },
+    "pt": {
+      "title": "Chute circular de trás",
+      "description": "1. Apoie o pé da frente e comece a girá-lo para fora mantendo as mãos altas.\n2. Gire o quadril de trás e passe a canela por um aparador de corpo, em vez de estalar só a parte de baixo da perna.\n3. Recolha ou continue a rotação com segurança e volte o pé de trás e o quadril a uma base equilibrada.",
+      "sectionTitle": "Trocação"
+    },
+    "fr": {
+      "title": "Coup de pied circulaire arrière",
+      "description": "1. Posez le pied avant et commencez à le pivoter vers l’extérieur en gardant les mains hautes.\n2. Tournez la hanche arrière et faites traverser un bouclier de corps par le tibia plutôt que de fouetter seulement le bas de la jambe.\n3. Ramenez la jambe ou poursuivez la rotation en sécurité, puis replacez le pied arrière et les hanches dans une garde équilibrée.",
+      "sectionTitle": "Frappe"
+    },
+    "de": {
+      "title": "Hinterer Rundtritt",
+      "description": "1. Setze den vorderen Fuß auf und beginne, ihn nach außen zu drehen, während die Hände oben bleiben.\n2. Dreh die hintere Hüfte und schwinge das Schienbein durch ein Körperpolster, statt nur den Unterschenkel zu schnappen.\n3. Zieh das Bein zurück oder führe die Drehung sicher weiter und bring dann hinteren Fuß und Hüfte in eine ausbalancierte Stellung.",
+      "sectionTitle": "Schlagtechnik"
+    },
+    "it": {
+      "title": "Calcio circolare posteriore",
+      "description": "1. Appoggia il piede anteriore e inizia a ruotarlo verso l’esterno tenendo le mani alte.\n2. Ruota l’anca posteriore e porta la tibia attraverso un colpitore per il busto invece di frustare solo la parte bassa della gamba.\n3. Ritrai o prosegui la rotazione in sicurezza, poi riporta piede posteriore e anche in una guardia equilibrata.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "后腿横踢",
+      "description": "1. 前脚踩稳并开始向外转动，双手保持高位。\n2. 转动后侧髋部，用小腿扫过躯干护垫，而不是只弹出小腿下段。\n3. 安全地收腿或顺势转完，然后让后脚和髋部回到平衡站架。",
+      "sectionTitle": "打击"
+    },
+    "ja": {
+      "title": "奥足の回し蹴り",
+      "description": "1. 前足を踏みしめ、手を高く保ったまま外側へピボットし始めます。\n2. 後ろ側の腰を回し、膝から下だけで弾くのではなく、すねでボディミットを振り抜きます。\n3. 安全に引き戻すか回転を続け、後ろ足と腰をバランスの取れた構えに戻します。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "뒷발 돌려차기",
+      "description": "1. 앞발을 딛고 손을 높이 유지한 채 바깥쪽으로 피벗하기 시작합니다.\n2. 뒤쪽 엉덩이를 회전하고 정강이 아래만 튕기지 말고 정강이로 몸통 패드를 휘둘러 지나갑니다.\n3. 안전하게 회수하거나 회전을 이어 간 뒤 뒷발과 엉덩이를 균형 잡힌 스탠스로 되돌립니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "เตะเหวี่ยงขาหลัง",
+      "description": "1. วางเท้าหน้าให้มั่นและเริ่มหมุนออกด้านนอก โดยยกมือสูงไว้\n2. หมุนสะโพกหลังและเหวี่ยงหน้าแข้งผ่านเป้าล่อลำตัว แทนการสะบัดเฉพาะขาท่อนล่าง\n3. ดึงขากลับหรือหมุนต่ออย่างปลอดภัย แล้วจัดเท้าหลังและสะโพกกลับสู่ท่ายืนที่สมดุล",
+      "sectionTitle": "การโจมตี"
+    },
+    "ru": {
+      "title": "Задний круговой удар ногой",
+      "description": "1. Поставьте переднюю стопу и начните разворачивать её наружу, держа руки высоко.\n2. Разверните заднее бедро и проведите голень через макивару для корпуса, а не хлёстко выбрасывайте только нижнюю часть ноги.\n3. Верните ногу или безопасно завершите вращение, затем поставьте заднюю стопу и таз в устойчивую стойку.",
+      "sectionTitle": "Ударная техника"
+    },
+    "uk": {
+      "title": "Задній круговий удар ногою",
+      "description": "1. Поставте передню стопу й почніть розвертати її назовні, тримаючи руки високо.\n2. Розверніть заднє стегно й проведіть гомілку крізь маківару для корпусу, а не хльостко викидайте лише нижню частину ноги.\n3. Поверніть ногу або безпечно завершіть обертання, потім поставте задню стопу й таз у врівноважену стійку.",
+      "sectionTitle": "Ударна техніка"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "49.4",
+  "key": "capoeira_role",
+  "title": "Rolê",
+  "description": "1. From negativa, place both hands on the floor on the side you want to travel toward, keeping the hips low.\n2. Turn the hips and step the trailing leg around behind you so the body rotates low across the hands without the head dropping.\n3. Finish facing the original direction in a low crouch or negativa, then rise into the ginga with the guard up.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Rolê",
+      "description": "1. From negativa, place both hands on the floor on the side you want to travel toward, keeping the hips low.\n2. Turn the hips and step the trailing leg around behind you so the body rotates low across the hands without the head dropping.\n3. Finish facing the original direction in a low crouch or negativa, then rise into the ginga with the guard up.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Rolê",
+      "description": "1. Desde la negativa, apoya ambas manos en el suelo hacia el lado al que quieres desplazarte, con la cadera baja.\n2. Gira la cadera y pasa la pierna de atrás alrededor por detrás para que el cuerpo rote bajo sobre las manos sin bajar la cabeza.\n3. Termina mirando a la dirección inicial en cuclillas o en negativa y sube a la ginga con la guardia alta.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Rolê",
+      "description": "1. Da negativa, apoie as duas mãos no chão para o lado ao qual quer se deslocar, com o quadril baixo.\n2. Gire o quadril e passe a perna de trás por trás de você para que o corpo gire baixo sobre as mãos sem abaixar a cabeça.\n3. Termine voltado para a direção inicial agachado ou em negativa e suba para a ginga com a guarda alta.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Rolê",
+      "description": "1. Depuis la negativa, posez les deux mains au sol du côté où vous voulez vous déplacer, hanches basses.\n2. Tournez les hanches et faites passer la jambe arrière derrière vous pour pivoter bas au-dessus des mains sans laisser tomber la tête.\n3. Terminez face à la direction initiale, accroupi ou en negativa, puis remontez dans la ginga, garde haute.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Rolê",
+      "description": "1. Setze aus der Negativa beide Hände auf der Seite auf, zu der du dich bewegen willst, und halte die Hüfte tief.\n2. Drehe die Hüfte und führe das hintere Bein hinter dir herum, sodass sich der Körper tief über die Hände dreht, ohne dass der Kopf absinkt.\n3. Ende zur Ausgangsrichtung in tiefer Hocke oder Negativa und richte dich mit erhobener Deckung in die Ginga auf.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Rolê",
+      "description": "1. Dalla negativa appoggia entrambe le mani a terra verso il lato in cui vuoi spostarti, con le anche basse.\n2. Ruota le anche e porta la gamba posteriore attorno dietro di te, così il corpo gira basso sopra le mani senza far cadere la testa.\n3. Concludi rivolto alla direzione iniziale, accovacciato o in negativa, poi risali in ginga con la guardia alta.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "罗勒（Rolê）",
+      "description": "1. 从内加蒂瓦开始，双手撑在想要移动方向一侧的地面上，髋部保持低位。\n2. 转髋，后腿从身后绕过，使身体在双手上方低位转动，头部不要下沉。\n3. 以低蹲或内加蒂瓦面向原方向结束，然后举起防守起身回到金加步。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ホレー",
+      "description": "1. ネガチーバから、移動したい側の床に両手をつき、腰を低く保ちます。\n2. 腰をひねり後ろの脚を背後へ回して、頭を落とさずに両手の上で低く回転します。\n3. 元の方向を向いた低いしゃがみ姿勢かネガチーバで終え、ガードを上げてジンガに戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "홀레",
+      "description": "1. 네가치바에서 이동하려는 쪽 바닥에 두 손을 짚고 엉덩이를 낮게 유지합니다.\n2. 엉덩이를 돌리며 뒤쪽 다리를 몸 뒤로 돌려, 머리를 떨어뜨리지 않고 손 위에서 낮게 회전합니다.\n3. 원래 방향을 보며 낮은 웅크림이나 네가치바로 마무리하고 가드를 올려 징가로 일어납니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "โฮเล",
+      "description": "1. จากเนกาติวา วางสองมือบนพื้นด้านที่ต้องการเคลื่อนไป และให้สะโพกอยู่ต่ำ\n2. บิดสะโพกและก้าวขาหลังอ้อมไปข้างหลัง ให้ลำตัวหมุนต่ำเหนือมือโดยศีรษะไม่ตกลง\n3. จบโดยหันไปทางเดิมในท่าย่อต่ำหรือเนกาติวา แล้วลุกขึ้นสู่จิงกาโดยยกการ์ด",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Роле",
+      "description": "1. Из негативы поставьте обе руки на пол в сторону движения, держа таз низко.\n2. Разверните таз и проведите заднюю ногу по кругу за собой, чтобы тело низко повернулось над руками, не опуская голову.\n3. Закончите лицом в исходном направлении в низком приседе или негативе и поднимитесь в джингу с защитой.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Роле",
+      "description": "1. Із негативи поставте обидві руки на підлогу в бік руху, тримаючи таз низько.\n2. Розверніть таз і проведіть задню ногу по колу позаду себе, щоб тіло низько повернулося над руками, не опускаючи голову.\n3. Завершіть обличчям у початковому напрямку в низькому присіді чи негативі й підведіться в джингу із захистом.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

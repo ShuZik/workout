@@ -1,0 +1,90 @@
+{
+  "id": "86.6",
+  "key": "pencak_silat_jurus_regu",
+  "title": "Jurus Regu",
+  "description": "1. Line up a team of three with enough space that no arm or leg can touch, all facing the same direction in the ready stance.\n2. Perform the standard team routine together, matching timing, stance depth, and direction changes to a shared count.\n3. Hold the final salute together, then identify where the synchrony broke and repeat that segment.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "pencakSilat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "7 Group Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jurus Regu",
+      "description": "1. Line up a team of three with enough space that no arm or leg can touch, all facing the same direction in the ready stance.\n2. Perform the standard team routine together, matching timing, stance depth, and direction changes to a shared count.\n3. Hold the final salute together, then identify where the synchrony broke and repeat that segment.",
+      "sectionTitle": "Group Drills"
+    },
+    "es": {
+      "title": "Jurus Regu",
+      "description": "1. Alinead un equipo de tres con espacio suficiente para que ningún brazo o pierna se toque, todos mirando en la misma dirección en postura de preparación.\n2. Ejecutad juntos la rutina de equipo estándar, igualando el tiempo, la profundidad de las posturas y los cambios de dirección con un conteo común.\n3. Mantened juntos el saludo final, identificad dónde se rompió la sincronía y repetid ese segmento.",
+      "sectionTitle": "Ejercicios en grupo"
+    },
+    "pt": {
+      "title": "Jurus Regu",
+      "description": "1. Alinhem uma equipe de três com espaço suficiente para que nenhum braço ou perna se toque, todos voltados para a mesma direção na base de prontidão.\n2. Executem juntos a rotina de equipe padrão, igualando o tempo, a profundidade das bases e as mudanças de direção numa contagem comum.\n3. Mantenham juntos a saudação final, identifiquem onde a sincronia se perdeu e repitam esse trecho.",
+      "sectionTitle": "Exercícios em grupo"
+    },
+    "fr": {
+      "title": "Jurus Regu",
+      "description": "1. Alignez une équipe de trois avec assez d’espace pour qu’aucun bras ni aucune jambe ne se touche, tous tournés dans la même direction en position prête.\n2. Exécutez ensemble l’enchaînement d’équipe standard en accordant le timing, la hauteur des positions et les changements de direction sur un compte commun.\n3. Tenez ensemble le salut final, repérez où la synchronisation s’est rompue et reprenez ce segment.",
+      "sectionTitle": "Exercices en groupe"
+    },
+    "de": {
+      "title": "Jurus Regu",
+      "description": "1. Stellt ein Team aus drei Personen mit so viel Abstand auf, dass sich keine Arme oder Beine berühren können, alle in Bereitschaftsstellung in dieselbe Richtung.\n2. Führt die Standard-Teamform gemeinsam aus und stimmt Timing, Stellungstiefe und Richtungswechsel auf einen gemeinsamen Zählrhythmus ab.\n3. Haltet den Abschlussgruß gemeinsam, findet die Stelle, an der die Synchronität brach, und wiederholt diesen Abschnitt.",
+      "sectionTitle": "Gruppenübungen"
+    },
+    "it": {
+      "title": "Jurus Regu",
+      "description": "1. Allineate una squadra di tre con spazio sufficiente perché braccia e gambe non si tocchino, tutti rivolti nella stessa direzione in posizione di pronto.\n2. Eseguite insieme la forma di squadra standard, accordando tempi, profondità delle posizioni e cambi di direzione su un conteggio comune.\n3. Tenete insieme il saluto finale, individuate dove si è persa la sincronia e ripetete quel segmento.",
+      "sectionTitle": "Esercizi di gruppo"
+    },
+    "zh-Hans": {
+      "title": "三人集体套路（Jurus Regu）",
+      "description": "1. 三人一组排开，间距足够大以免手脚相碰，全体面向同一方向成预备势。\n2. 一起完成标准团体套路，按统一口令对齐节奏、姿势高低和转向。\n3. 共同保持收势礼，然后找出失去同步的地方并重复该段。",
+      "sectionTitle": "集体练习"
+    },
+    "ja": {
+      "title": "ジュルス・レグ",
+      "description": "1. 腕や脚が触れない十分な間隔をとって三人で並び、全員同じ方向を向いて用意の構えをとります。\n2. 標準団体型を一緒に行い、共通のカウントでタイミング、構えの深さ、方向転換をそろえます。\n3. 終わりの礼をそろって保ち、同調が崩れた箇所を確認してその部分を繰り返します。",
+      "sectionTitle": "グループドリル"
+    },
+    "ko": {
+      "title": "주루스 레구",
+      "description": "1. 팔다리가 닿지 않을 만큼 충분한 간격으로 세 명이 정렬하고 모두 같은 방향을 향해 준비 자세를 취합니다.\n2. 표준 단체 품새를 함께 수행하며 공통 구령에 맞춰 타이밍, 자세 깊이, 방향 전���을 맞춥니다.\n3. 마무리 인사를 함께 유지한 뒤 동작이 어긋난 지점을 찾아 그 구간을 반복합니다.",
+      "sectionTitle": "그룹 드릴"
+    },
+    "th": {
+      "title": "จูรุส เรกู",
+      "description": "1. จัดทีมสามคนเรียงกันโดยเว้นระยะพอที่แขนขาจะไม่ชนกัน ทุกคนหันทิศเดียวกันในท่าเตรียม\n2. รำท่ารำทีมมาตรฐานพร้อมกัน ให้จังหวะ ความต่ำของท่า และการเปลี่ยนทิศตรงกันตามการนับร่วม\n3. คำนับปิดพร้อมกัน แล้วหาจุดที่ความพร้อมเพรียงหลุดและฝึกช่วงนั้นซ้ำ",
+      "sectionTitle": "ฝึกกลุ่ม"
+    },
+    "ru": {
+      "title": "Джурус регу",
+      "description": "1. Постройте команду из трёх человек на таком расстоянии, чтобы руки и ноги не могли соприкоснуться; все стоят в готовой стойке лицом в одну сторону.\n2. Выполните стандартный командный комплекс вместе, совмещая темп, глубину стоек и смены направления под общий счёт.\n3. Вместе удержите заключительное приветствие, затем найдите место, где нарушилась синхронность, и повторите этот отрезок.",
+      "sectionTitle": "Групповая работа"
+    },
+    "uk": {
+      "title": "Джурус регу",
+      "description": "1. Вишикуйте команду з трьох осіб на такій відстані, щоб руки й ноги не могли торкнутися; усі стоять у готовій стійці обличчям в один бік.\n2. Виконайте стандартний командний комплекс разом, узгоджуючи темп, глибину стійок і зміни напрямку під спільний рахунок.\n3. Разом утримайте заключне привітання, потім знайдіть місце, де порушилася синхронність, і повторіть цей відрізок.",
+      "sectionTitle": "Групова робота"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "64.5",
+  "key": "jodo_kaeshi_zuki",
+  "title": "Kaeshi-zuki",
+  "description": "1. From natural posture, turn the jo over so that the rear end swings forward and the hands change position along the staff.\n2. Step in and thrust the newly leading end straight at the imagined opponent's solar plexus with both hands driving from the hips.\n3. Hold the thrust briefly with the tip on target, withdraw along the same line, and return to natural posture.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "jodo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Solo Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kaeshi-zuki",
+      "description": "1. From natural posture, turn the jo over so that the rear end swings forward and the hands change position along the staff.\n2. Step in and thrust the newly leading end straight at the imagined opponent's solar plexus with both hands driving from the hips.\n3. Hold the thrust briefly with the tip on target, withdraw along the same line, and return to natural posture.",
+      "sectionTitle": "Solo Kihon"
+    },
+    "es": {
+      "title": "Kaeshi-zuki",
+      "description": "1. Desde postura natural, voltea el jo para que el extremo trasero pase adelante y las manos cambien de posición a lo largo del bastón.\n2. Entra y estoca con el nuevo extremo delantero recto al plexo solar del oponente imaginario, impulsando con ambas manos desde la cadera.\n3. Mantén la estocada un instante con la punta en el objetivo, retira por la misma línea y vuelve a la postura natural.",
+      "sectionTitle": "Kihon individual"
+    },
+    "pt": {
+      "title": "Kaeshi-zuki",
+      "description": "1. Da postura natural, vire o jo para que a ponta de trás venha à frente e as mãos mudem de posição ao longo do bastão.\n2. Entre e estoque com a nova ponta da frente reto no plexo solar do oponente imaginário, impulsionando com as duas mãos a partir do quadril.\n3. Mantenha a estocada um instante com a ponta no alvo, retire pela mesma linha e volte à postura natural.",
+      "sectionTitle": "Kihon individual"
+    },
+    "fr": {
+      "title": "Kaeshi-zuki",
+      "description": "1. Depuis la posture naturelle, retournez le jo pour que l’extrémité arrière passe devant, les mains changeant de place le long du bâton.\n2. Entrez et piquez avec la nouvelle extrémité avant droit au plexus solaire de l’adversaire imaginaire, en poussant des deux mains depuis les hanches.\n3. Maintenez brièvement l’estoc sur la cible, retirez sur la même ligne et revenez en posture naturelle.",
+      "sectionTitle": "Kihon en solo"
+    },
+    "de": {
+      "title": "Kaeshi-zuki",
+      "description": "1. Aus natürlicher Haltung den Jo umdrehen, sodass das hintere Ende nach vorn schwingt und die Hände am Stab umgreifen.\n2. Eintreten und mit dem neuen vorderen Ende gerade zum Solarplexus des gedachten Gegners stoßen, beide Hände aus der Hüfte treibend.\n3. Den Stoß kurz mit der Spitze am Ziel halten, auf derselben Linie zurückziehen und in die natürliche Haltung zurückkehren.",
+      "sectionTitle": "Kihon allein"
+    },
+    "it": {
+      "title": "Kaeshi-zuki",
+      "description": "1. Dalla postura naturale, gira il jo in modo che l’estremità posteriore passi avanti e le mani cambino posizione lungo il bastone.\n2. Entra e affonda con la nuova estremità anteriore dritto al plesso solare dell’avversario immaginario, spingendo con entrambe le mani dai fianchi.\n3. Mantieni brevemente l’affondo sul bersaglio, ritira sulla stessa linea e torna in postura naturale.",
+      "sectionTitle": "Kihon individuale"
+    },
+    "zh-Hans": {
+      "title": "返突",
+      "description": "1. 自然体，翻转杖身，使后端转到前方，双手沿杖换位。\n2. 上步以新的前端直刺假想对手的心窝，双手由腰部发力。\n3. 杖尖停在目标上片刻，沿原线收回，回到自然体。",
+      "sectionTitle": "单人基本"
+    },
+    "ja": {
+      "title": "返し突き",
+      "description": "1. 自然体から杖を返して後端を前へ回し、両手の位置を杖に沿って持ち替えます。\n2. 踏み込み、新たに前になった端で仮想の相手の水月を真っ直ぐ突き、腰から両手で押し出します。\n3. 杖先を的に一瞬留め、同じ線で引き、自然体に戻ります。",
+      "sectionTitle": "単独動作"
+    },
+    "ko": {
+      "title": "가에시즈키",
+      "description": "1. 자연체에서 조를 뒤집어 뒤끝이 앞으로 오게 하고 손의 위치를 조를 따라 바꿉니다.\n2. 들어가며 새로 앞이 된 끝으로 가상 상대의 명치를 곧게 찌르고 허리에서 두 손으로 밀어냅니다.\n3. 조 끝을 목표에 잠시 두었다가 같은 선으로 거두고 자연체로 돌아옵니다.",
+      "sectionTitle": "단독 기본"
+    },
+    "th": {
+      "title": "คาเอะชิซึกิ",
+      "description": "1. จากท่าธรรมชาติ พลิกไม้โจให้ปลายด้านหลังหมุนมาด้านหน้าและเปลี่ยนตำแหน่งมือไปตามไม้\n2. ก้าวเข้าแล้วแทงด้วยปลายด้านหน้าใหม่ตรงไปที่ลิ้นปี่ของคู่ต่อสู้สมมติ ส่งแรงสองมือจากสะโพก\n3. ค้างการแทงครู่หนึ่งโดยปลายไม้อยู่ที่เป้า ดึงกลับตามแนวเดิม แล้วกลับสู่ท่าธรรมชาติ",
+      "sectionTitle": "คิฮงเดี่ยว"
+    },
+    "ru": {
+      "title": "Каэси-дзуки",
+      "description": "1. Из естественной стойки переверните дзё так, чтобы задний конец вышел вперёд, а руки переместились вдоль шеста.\n2. Войдите и уколите новым передним концом прямо в солнечное сплетение воображаемого противника, толкая обеими руками от бёдер.\n3. Задержите укол с концом на цели, уведите по той же линии и вернитесь в естественную стойку.",
+      "sectionTitle": "Одиночные кихон"
+    },
+    "uk": {
+      "title": "Каесі-дзукі",
+      "description": "1. З природної стійки переверніть дзьо так, щоб задній кінець вийшов уперед, а руки перемістилися вздовж жердини.\n2. Увійдіть і вколіть новим переднім кінцем прямо в сонячне сплетіння уявного суперника, штовхаючи обома руками від стегон.\n3. Затримайте укол із кінцем на цілі, відведіть тією самою лінією й поверніться в природну стійку.",
+      "sectionTitle": "Одиночні кіхон"
+    }
+  }
+}

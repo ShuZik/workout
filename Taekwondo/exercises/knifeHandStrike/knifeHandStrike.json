@@ -1,0 +1,90 @@
+{
+  "id": "8.27",
+  "key": "taekwondo_knife_hand_strike",
+  "title": "Knife-Hand Strike",
+  "description": "1. Open the striking hand with the fingers together, thumb tucked, and wrist aligned, then chamber it beside the shoulder.\n2. Rotate the hips and deliver the outer edge of the hand into a pad while the opposite hand protects or retracts.\n3. Stop the strike under control without bending the wrist and return the hand immediately to guard.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Strikes",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Knife-Hand Strike",
+      "description": "1. Open the striking hand with the fingers together, thumb tucked, and wrist aligned, then chamber it beside the shoulder.\n2. Rotate the hips and deliver the outer edge of the hand into a pad while the opposite hand protects or retracts.\n3. Stop the strike under control without bending the wrist and return the hand immediately to guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Golpe de canto de mano",
+      "description": "1. Abre la mano de golpeo con los dedos juntos, el pulgar recogido y la muñeca alineada, y prepárala junto al hombro.\n2. Gira las caderas y golpea un pao con el borde exterior de la mano mientras la otra protege o vuelve atrás.\n3. Detén el golpe con control sin doblar la muñeca y devuelve la mano inmediatamente a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Golpe com a borda da mão",
+      "description": "1. Abra a mão que golpeia com os dedos juntos, o polegar recolhido e o punho alinhado, e prepare-a ao lado do ombro.\n2. Gire os quadris e golpeie um aparador com a borda externa da mão enquanto a outra protege ou recolhe.\n3. Pare o golpe com controle sem dobrar o punho e retorne a mão imediatamente à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Frappe du tranchant de la main",
+      "description": "1. Ouvrez la main qui frappe, doigts joints, pouce rentré et poignet aligné, puis armez-la près de l’épaule.\n2. Tournez les hanches et frappez un pao avec le bord extérieur de la main tandis que l’autre protège ou revient.\n3. Arrêtez la frappe avec contrôle sans plier le poignet et ramenez immédiatement la main en garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Handkantenschlag",
+      "description": "1. Öffne die Schlaghand mit geschlossenen Fingern, angelegtem Daumen und geradem Handgelenk und führe sie neben die Schulter.\n2. Drehe die Hüfte und schlage mit der äußeren Handkante auf ein Polster, während die andere Hand schützt oder zurückgezogen wird.\n3. Stoppe den Schlag kontrolliert, ohne das Handgelenk zu beugen, und bringe die Hand sofort zur Deckung zurück.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Colpo con il taglio della mano",
+      "description": "1. Apri la mano che colpisce con le dita unite, il pollice raccolto e il polso allineato, quindi preparala accanto alla spalla.\n2. Ruota le anche e colpisci un pao con il bordo esterno della mano, mentre l’altra protegge o si ritrae.\n3. Arresta il colpo con controllo senza piegare il polso e riporta subito la mano in guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "手刀击打",
+      "description": "1. 打开击打手，手指并拢、拇指内收、手腕对齐，再将手预备在肩旁。\n2. 转髋，用手掌外缘击打拳靶，另一只手负责保护或收回。\n3. 控制停止击打，不要弯曲手腕，并立即将手收回防守位置。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "手刀打ち",
+      "description": "1. 打つ手を開き、指を揃え、親指を畳み、手首をまっすぐにして肩の横へ引きます。\n2. 腰を回し、手の外側の縁でミットを打ち、反対の手は防御するか引き戻します。\n3. 手首を曲げずに打撃を制御して止め、手をすぐガードへ戻します。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "손날치기",
+      "description": "1. 치는 손을 펴서 손가락을 모으고 엄지를 접으며 손목을 정렬한 뒤 어깨 옆에 준비합니다.\n2. 골반을 돌려 손 바깥날로 패드를 치고 반대 손은 보호하거나 거둡니다.\n3. 손목을 굽히지 않고 타격을 제어해 멈춘 뒤 즉시 손을 가드로 되돌립니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ฟันสันมือ",
+      "description": "1. เปิดมือที่ตีโดยรวบนิ้ว เก็บนิ้วโป้ง และจัดข้อมือตรง แล้วเตรียมมือไว้ข้างไหล่\n2. หมุนสะโพกและใช้สันมือด้านนอกตีเป้า ขณะที่มืออีกข้างป้องกันหรือดึงกลับ\n3. หยุดการตีอย่างควบคุมโดยไม่งอข้อมือ แล้วนำมือกลับสู่การ์ดทันที",
+      "sectionTitle": "การโจมตี"
+    },
+    "ru": {
+      "title": "Удар ребром ладони",
+      "description": "1. Раскройте ударную ладонь, сомкните пальцы, подберите большой палец и выпрямите запястье, затем подготовьте руку у плеча.\n2. Поверните таз и ударьте внешним ребром ладони в лапу, пока другая рука защищает или отводится назад.\n3. Подконтрольно остановите удар, не сгибая запястье, и немедленно верните руку в защиту.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Удар ребром долоні",
+      "description": "1. Розкрийте ударну долоню, зімкніть пальці, підігніть великий палець і випряміть зап’ясток, потім підготуйте руку біля плеча.\n2. Поверніть таз і вдарте зовнішнім ребром долоні в лапу, поки інша рука захищає або відводиться назад.\n3. Контрольовано зупиніть удар, не згинаючи зап’ясток, і негайно поверніть руку в захист.",
+      "sectionTitle": "Удари"
+    }
+  }
+}

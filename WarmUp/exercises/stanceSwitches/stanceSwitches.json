@@ -1,0 +1,90 @@
+{
+  "id": "9.48",
+  "key": "stance_switches",
+  "title": "Stance Switches",
+  "description": "1. Begin in a guarded stance with one foot leading and weight centered.\n2. Make a short hop or step that brings the rear foot forward as the lead foot moves back.\n3. Finish with the opposite side leading, rebuild stance width, and keep the hands in guard.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "8 MMA Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Stance Switches",
+      "description": "1. Begin in a guarded stance with one foot leading and weight centered.\n2. Make a short hop or step that brings the rear foot forward as the lead foot moves back.\n3. Finish with the opposite side leading, rebuild stance width, and keep the hands in guard.",
+      "sectionTitle": "MMA Prep"
+    },
+    "es": {
+      "title": "Cambios de guardia",
+      "description": "1. Empieza en una postura con guardia, un pie adelantado y el peso centrado.\n2. Haz un salto corto o un paso que lleve el pie trasero hacia delante mientras el delantero retrocede.\n3. Termina con el lado contrario adelantado, recupera el ancho de la postura y mantén las manos en guardia.",
+      "sectionTitle": "Preparación para MMA"
+    },
+    "pt": {
+      "title": "Trocas de base",
+      "description": "1. Comece em uma postura com guarda, um pé à frente e o peso centralizado.\n2. Faça um salto curto ou passo que leve o pé de trás à frente enquanto o pé da frente recua.\n3. Termine com o lado oposto à frente, recupere a largura da base e mantenha as mãos na guarda.",
+      "sectionTitle": "Preparação para MMA"
+    },
+    "fr": {
+      "title": "Changements de garde",
+      "description": "1. Commencez en garde avec un pied devant et le poids centré.\n2. Faites un petit saut ou un pas qui amène le pied arrière devant tandis que le pied avant recule.\n3. Finissez avec l’autre côté devant, rétablissez la largeur de la posture et gardez les mains en garde.",
+      "sectionTitle": "Préparation MMA"
+    },
+    "de": {
+      "title": "Stellungswechsel",
+      "description": "1. Beginne in einer Stellung mit Deckung, einem Fuß vorne und mittig verteiltem Gewicht.\n2. Mache einen kurzen Sprung oder Schritt, der den hinteren Fuß nach vorne bringt, während der vordere zurückgeht.\n3. Ende mit der anderen Seite vorne, stelle die Standbreite wieder her und halte die Hände in Deckung.",
+      "sectionTitle": "MMA-Vorbereitung"
+    },
+    "it": {
+      "title": "Cambi di guardia",
+      "description": "1. Inizia in guardia con un piede avanti e il peso centrato.\n2. Esegui un piccolo salto o passo che porti il piede posteriore avanti mentre quello anteriore arretra.\n3. Termina con il lato opposto avanti, ripristina la larghezza della posizione e tieni le mani in guardia.",
+      "sectionTitle": "Preparazione MMA"
+    },
+    "zh-Hans": {
+      "title": "换架",
+      "description": "1. 从防守站姿开始，一只脚在前，重心居中。\n2. 做小跳或迈步，让后脚向前、前脚向后。\n3. 以另一侧在前结束，恢复站姿宽度，双手保持防守。",
+      "sectionTitle": "综合格斗准备"
+    },
+    "ja": {
+      "title": "構えの切り替え",
+      "description": "1. 片足を前に出してガードを構え、重心を中央に置きます。\n2. 小さく跳ぶか踏み替え、後ろ足を前に、前足を後ろに動かします。\n3. 反対側を前にして構えの幅を整え、手はガードに保ちます。",
+      "sectionTitle": "MMA準備"
+    },
+    "ko": {
+      "title": "스탠스 전환",
+      "description": "1. 한 발을 앞에 둔 가드 자세에서 체중을 가운데에 둡니다.\n2. 짧게 뛰거나 내딛어 뒷발은 앞으로, 앞발은 뒤로 움직입니다.\n3. 반대쪽이 앞에 오도록 마무리하고 자세 너비를 회복하며 손은 가드를 유지합니다.",
+      "sectionTitle": "MMA 준비"
+    },
+    "th": {
+      "title": "สลับท่ายืน",
+      "description": "1. เริ่มในท่ายกมือป้องกันโดยมีเท้าหนึ่งข้างนำและน้ำหนักอยู่ตรงกลาง\n2. กระโดดสั้น ๆ หรือก้าวให้เท้าหลังมาด้านหน้าขณะที่เท้าหน้าไปด้านหลัง\n3. จบโดยให้อีกข้างนำ จัดความกว้างของท่ายืนใหม่และรักษามือป้องกัน",
+      "sectionTitle": "เตรียมพร้อม MMA"
+    },
+    "ru": {
+      "title": "Смена стойки",
+      "description": "1. Начните в стойке с руками в защите, одной стопой впереди и весом по центру.\n2. Сделайте короткий подскок или шаг, выводя заднюю стопу вперёд, а переднюю назад.\n3. Завершите с другой стороной впереди, восстановите ширину стойки и держите руки в защите.",
+      "sectionTitle": "Подготовка к MMA"
+    },
+    "uk": {
+      "title": "Зміна стійки",
+      "description": "1. Почніть у стійці з руками в захисті, однією стопою попереду й вагою по центру.\n2. Зробіть короткий підскок або крок, виводячи задню стопу вперед, а передню назад.\n3. Завершіть з іншою стороною попереду, відновіть ширину стійки та тримайте руки в захисті.",
+      "sectionTitle": "Підготовка до MMA"
+    }
+  }
+}

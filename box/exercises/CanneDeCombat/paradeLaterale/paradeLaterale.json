@@ -1,0 +1,87 @@
+{
+  "id": "48.8",
+  "key": "canne_parade_laterale",
+  "title": "Parade Laterale",
+  "description": "1. Face a trained partner at measured distance; the attacker delivers a slow, armed lateral strike from the outside toward your head or flank.\n2. As defender, carry the cane upright to the outside line, point up and hand away from the contact point, and meet the strike on the shaft with a firm arm.\n3. Absorb the contact, step back to distance, and swap roles; speed up only while both partners stay controlled.",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Partner Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Parade Laterale",
+      "description": "1. Face a trained partner at measured distance; the attacker delivers a slow, armed lateral strike from the outside toward your head or flank.\n2. As defender, carry the cane upright to the outside line, point up and hand away from the contact point, and meet the strike on the shaft with a firm arm.\n3. Absorb the contact, step back to distance, and swap roles; speed up only while both partners stay controlled.",
+      "sectionTitle": "Partner Parries"
+    },
+    "es": {
+      "title": "Parade latérale",
+      "description": "1. Frente a un compañero entrenado a distancia medida, el atacante lanza un golpe lateral armado y lento desde el exterior hacia tu cabeza o flanco.\n2. Como defensor, lleva el bastón vertical a la línea exterior, punta arriba y mano lejos del punto de contacto, y recibe el golpe en el fuste con el brazo firme.\n3. Absorbe el contacto, recupera la distancia y cambia de rol; aumenta la velocidad solo si ambos mantienen el control.",
+      "sectionTitle": "Paradas con compañero"
+    },
+    "pt": {
+      "title": "Parade latérale",
+      "description": "1. Diante de um parceiro treinado a distância medida, o atacante desfere um golpe lateral armado e lento de fora em direção à sua cabeça ou flanco.\n2. Como defensor, leve a bengala vertical à linha exterior, ponta para cima e mão longe do ponto de contato, e receba o golpe na haste com o braço firme.\n3. Absorva o contato, recupere a distância e troque de papel; aumente a velocidade só se ambos mantiverem o controle.",
+      "sectionTitle": "Defesas com parceiro"
+    },
+    "fr": {
+      "title": "Parade latérale",
+      "description": "1. Face à un partenaire entraîné à distance mesurée, l’attaquant porte lentement un latéral armé de l’extérieur vers votre tête ou votre flanc.\n2. En défense, portez la canne verticale sur la ligne extérieure, pointe en haut et main éloignée du point d’impact, et recevez le coup sur le fût, bras ferme.\n3. Absorbez le contact, reprenez la distance et changez de rôle ; n’accélérez que si les deux partenaires restent contrôlés.",
+      "sectionTitle": "Parades avec partenaire"
+    },
+    "de": {
+      "title": "Parade latérale",
+      "description": "1. Einem trainierten Partner auf Distanz gegenüber: Der Angreifer führt langsam einen ausgeholten Latéral von außen zu Kopf oder Flanke.\n2. Als Verteidiger den Stock senkrecht auf die Außenlinie bringen, Spitze oben, Hand weg vom Treffpunkt, und den Schlag mit festem Arm am Schaft auffangen.\n3. Den Kontakt abfangen, Distanz herstellen und Rollen tauschen; nur schneller werden, solange beide kontrolliert bleiben.",
+      "sectionTitle": "Paraden mit Partner"
+    },
+    "it": {
+      "title": "Parade latérale",
+      "description": "1. Di fronte a un partner allenato a distanza misurata, l’attaccante porta lentamente un laterale armato dall’esterno verso la tua testa o il fianco.\n2. Come difensore porta il bastone verticale sulla linea esterna, punta in alto e mano lontana dal punto di contatto, e ricevi il colpo sul fusto con il braccio fermo.\n3. Assorbi il contatto, recupera la distanza e scambia i ruoli; aumenta la velocità solo se entrambi restano controllati.",
+      "sectionTitle": "Parate con partner"
+    },
+    "zh-Hans": {
+      "title": "侧向格挡",
+      "description": "1. 与受过训练的同伴保持适当距离；进攻方从外侧向你的头部或侧身缓慢做带蓄势的侧击。\n2. 防守方将杖竖直移到外侧线，杖尖向上，手远离接触点，手臂稳固地用杖身接住击打。\n3. 吸收接触，退回距离并交换角色；只有双方都保持控制时才加快速度。",
+      "sectionTitle": "双人格挡"
+    },
+    "ja": {
+      "title": "パラード・ラテラル",
+      "description": "1. 訓練を積んだ相手と適切な距離で向き合い、攻撃側が外側から頭や脇腹へゆっくりとアルメ付きのラテラルを打ちます。\n2. 防御側はカンヌを外側の線へ立てて先端を上にし、手を接触点から離して、腕を固めて柄で打撃を受けます。\n3. 接触を吸収して距離を取り直し、役割を交代します。双方が制御できている場合のみ速度を上げます。",
+      "sectionTitle": "相手とのパラード"
+    },
+    "ko": {
+      "title": "파라드 라테랄",
+      "description": "1. 훈련된 파트너와 적정 거리에서 마주하고, 공격자는 바깥쪽에서 머리나 옆구리를 향해 천천히 준비 동작이 있는 라테랄을 칩니다.\n2. 방어자는 지팡이를 바깥 선으로 세워 끝을 위로 하고 손을 접촉점에서 멀리 두며, 팔을 단단히 하여 몸통으로 타격을 받습니다.\n3. 접촉을 흡수하고 거리를 되찾은 뒤 역할을 바꿉니다. 둘 다 통제될 때만 속도를 올립니다.",
+      "sectionTitle": "파트너 막기"
+    },
+    "th": {
+      "title": "ปาราด ลาเตราล",
+      "description": "1. ยืนหันหน้าคู่ฝึกที่ผ่านการฝึกในระยะที่เหมาะสม ฝ่ายโจมตีตีลาเตราลแบบง้างอย่างช้าๆ จากด้านนอกมาที่ศีรษะหรือสีข้าง\n2. ฝ่ายป้องกันยกไม้ตั้งตรงไปแนวนอก ปลายไม้ขึ้นและมือห่างจากจุดปะทะ รับการตีด้วยลำไม้โดยแขนมั่นคง\n3. ซับแรงปะทะ ถอยกลับระยะ แล้วสลับบทบาท เพิ่มความเร็วเมื่อทั้งคู่ยังควบคุมได้เท่านั้น",
+      "sectionTitle": "การปัดป้องกับคู่ฝึก"
+    },
+    "ru": {
+      "title": "Парад латераль",
+      "description": "1. Встаньте напротив подготовленного партнёра на выверенной дистанции; атакующий медленно наносит латераль с замахом снаружи в голову или корпус.\n2. Защитник выводит трость вертикально на внешнюю линию, острием вверх, рука вдали от точки контакта, и принимает удар на древко твёрдой рукой.\n3. Погасите контакт, восстановите дистанцию и поменяйтесь ролями; ускоряйтесь, только пока оба контролируют действия.",
+      "sectionTitle": "Парады с партнёром"
+    },
+    "uk": {
+      "title": "Парад латераль",
+      "description": "1. Станьте навпроти підготовленого партнера на вивіреній дистанції; той, хто атакує, повільно завдає латераль із замахом ззовні в голову чи корпус.\n2. Захисник виводить тростину вертикально на зовнішню лінію, вістрям угору, рука далеко від точки контакту, і приймає удар на древко твердою рукою.\n3. Погасіть контакт, відновіть дистанцію й поміняйтеся ролями; прискорюйтеся, лише поки обидва контролюють дії.",
+      "sectionTitle": "Паради з партнером"
+    }
+  }
+}

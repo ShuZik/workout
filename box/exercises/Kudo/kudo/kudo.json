@@ -1,0 +1,87 @@
+{
+  "id": "71.1",
+  "key": "kudo",
+  "title": "Kudo",
+  "description": "1. Wear Kudo headgear with a face shield and light gloves, and take a guarded fighting stance on mats.\n2. Combine punches, kicks and knees with short clinch entries, throws and a brief controlled ground phase at the agreed intensity.\n3. Return to stance after each exchange and stop at once whenever either partner taps or calls stop.",
+  "colorType": "coral",
+  "workoutType": "kudo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kudo",
+      "description": "1. Wear Kudo headgear with a face shield and light gloves, and take a guarded fighting stance on mats.\n2. Combine punches, kicks and knees with short clinch entries, throws and a brief controlled ground phase at the agreed intensity.\n3. Return to stance after each exchange and stop at once whenever either partner taps or calls stop.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kudo",
+      "description": "1. Ponte el casco de kudo con protector facial y guantes ligeros y adopta una guardia de combate sobre el tatami.\n2. Combina puñetazos, patadas y rodillazos con entradas breves al clinch, proyecciones y una fase corta y controlada en el suelo a la intensidad acordada.\n3. Vuelve a la guardia tras cada intercambio y para de inmediato si cualquiera de los dos golpea el tatami o pide alto.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kudo",
+      "description": "1. Use o capacete de kudo com viseira e luvas leves e assuma uma guarda de combate sobre o tatame.\n2. Combine socos, chutes e joelhadas com entradas curtas no clinch, projeções e uma fase breve e controlada no chão na intensidade combinada.\n3. Volte à guarda após cada troca e pare imediatamente quando qualquer um bater ou pedir para parar.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kudo",
+      "description": "1. Portez le casque de kudo à visière et des gants légers, et prenez une garde de combat sur le tatami.\n2. Combinez coups de poing, de pied et de genou avec de courtes entrées en saisie, des projections et une brève phase au sol contrôlée, à l’intensité convenue.\n3. Revenez en garde après chaque échange et arrêtez aussitôt dès qu’un partenaire tape ou demande l’arrêt.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kudo",
+      "description": "1. Trage den Kudo-Helm mit Gesichtsschutz und leichte Handschuhe und nimm auf der Matte eine Kampfstellung mit Deckung ein.\n2. Kombiniere Schläge, Tritte und Knie mit kurzen Clinch-Eingängen, Würfen und einer kurzen, kontrollierten Bodenphase in der vereinbarten Intensität.\n3. Kehre nach jedem Austausch in die Stellung zurück und stoppe sofort, wenn ein Partner abklopft oder Stopp ruft.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Kudo",
+      "description": "1. Indossa il casco da kudo con visiera e guanti leggeri e assumi una guardia di combattimento sul tatami.\n2. Combina pugni, calci e ginocchiate con brevi entrate in clinch, proiezioni e una breve fase a terra controllata all’intensità concordata.\n3. Torna in guardia dopo ogni scambio e fermati subito quando uno dei due batte o chiede stop.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "空道（Kudo）",
+      "description": "1. 戴上带面罩的空道头盔和轻型拳套，在垫子上站成防守实战姿势。\n2. 按约定强度，将拳、腿、膝击与短暂的缠抱切入、摔法以及简短可控的地面阶段结合起来。\n3. 每次交手后回到实战姿势，任何一方拍垫或喊停时立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "空道",
+      "description": "1. フェイスガード付きの空道ヘッドギアと薄手のグローブを着け、マット上で構えをとります。\n2. 合意した強度で、突き・蹴り・膝蹴りに短い組み付き、投げ、短くコントロールされた寝技を組み合わせます。\n3. 攻防ごとに構えに戻り、どちらかがタップするか止めの合図をしたらすぐに止めます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "쿠도",
+      "description": "1. 안면 보호대가 달린 쿠도 헤드기어와 가벼운 글러브를 착용하고 매트 위에서 가드를 갖춘 대련 자세를 잡습니다.\n2. 합의한 강도로 펀치, 킥, 무릎 공격을 짧은 클린치 진입, 던지기, 짧고 통제된 그라운드 단계와 조합합니다.\n3. 교환이 끝날 때마다 자세로 돌아오고, 누구든 탭하거나 정지를 외치면 즉시 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "คูโด",
+      "description": "1. สวมหมวกคูโดที่มีหน้ากากและนวมเบา แล้วยืนในท่าต่อสู้พร้อมการ์ดบนเบาะ\n2. ผสมหมัด เตะ และเข่า กับการเข้าคลินช์สั้น ๆ การทุ่ม และช่วงบนพื้นสั้น ๆ ที่ควบคุมได้ ตามความหนักที่ตกลงกัน\n3. กลับสู่ท่าหลังการแลกแต่ละครั้ง และหยุดทันทีเมื่อฝ่ายใดตบเบาะหรือสั่งหยุด",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Кудо",
+      "description": "1. Наденьте шлем для кудо с защитным забралом и лёгкие перчатки, встаньте в боевую стойку на татами.\n2. Сочетайте удары руками, ногами и коленями с короткими входами в захват, бросками и краткой контролируемой борьбой в партере в оговорённой интенсивности.\n3. После каждого обмена возвращайтесь в стойку и сразу останавливайтесь, если любой из партнёров хлопает или говорит «стоп».",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Кудо",
+      "description": "1. Одягніть шолом для кудо із захисним забралом і легкі рукавиці, станьте в бойову стійку на татамі.\n2. Поєднуйте удари руками, ногами й колінами з короткими входами в захоплення, кидками та короткою контрольованою боротьбою в партері в узгодженій інтенсивності.\n3. Після кожного обміну повертайтеся в стійку й одразу зупиняйтеся, якщо будь-хто з партнерів плескає або каже «стоп».",
+      "sectionTitle": "Основне"
+    }
+  }
+}

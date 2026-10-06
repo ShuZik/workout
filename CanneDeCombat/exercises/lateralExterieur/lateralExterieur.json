@@ -1,0 +1,90 @@
+{
+  "id": "48.2",
+  "key": "canne_lateral_exterieur",
+  "title": "Lateral Exterieur",
+  "description": "1. With the cane in the right hand and the point forward, turn the upper body slightly right and draw the hand back past the spine while lifting the rear heel.\n2. Flip the point out behind you so arm and cane form one extended line, then bring them around horizontally from the rear to the front with the arm straight toward head, flank, or low target.\n3. Let the point finish the 180-degree arc under control and return to guard.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "canneDeCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Strikes",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lateral Exterieur",
+      "description": "1. With the cane in the right hand and the point forward, turn the upper body slightly right and draw the hand back past the spine while lifting the rear heel.\n2. Flip the point out behind you so arm and cane form one extended line, then bring them around horizontally from the rear to the front with the arm straight toward head, flank, or low target.\n3. Let the point finish the 180-degree arc under control and return to guard.",
+      "sectionTitle": "Strikes"
+    },
+    "es": {
+      "title": "Latéral extérieur",
+      "description": "1. Con el bastón en la mano derecha y la punta al frente, gira ligeramente el tronco a la derecha y lleva la mano atrás más allá de la columna mientras elevas el talón trasero.\n2. Lanza la punta hacia atrás para que brazo y bastón formen una línea extendida y luego llévalos en horizontal de atrás hacia delante, brazo recto, a la cabeza, el flanco o abajo.\n3. Deja que la punta termine el arco de 180 grados con control y vuelve a la guardia.",
+      "sectionTitle": "Golpes"
+    },
+    "pt": {
+      "title": "Latéral extérieur",
+      "description": "1. Com a bengala na mão direita e a ponta à frente, gire levemente o tronco à direita e leve a mão para trás além da coluna, elevando o calcanhar de trás.\n2. Lance a ponta para trás para que braço e bengala formem uma linha estendida e traga-os na horizontal de trás para a frente, braço reto, à cabeça, ao flanco ou baixo.\n3. Deixe a ponta terminar o arco de 180 graus com controle e volte à guarda.",
+      "sectionTitle": "Golpes"
+    },
+    "fr": {
+      "title": "Latéral extérieur",
+      "description": "1. Canne en main droite, pointe devant, tournez légèrement le buste à droite et ramenez la main en arrière au-delà de la colonne en levant le talon arrière.\n2. Basculez la pointe derrière vous pour que bras et canne forment une seule ligne tendue, puis ramenez-les à l’horizontale de l’arrière vers l’avant, bras tendu, vers la tête, le flanc ou le bas.\n3. Laissez la pointe finir l’arc de 180 degrés sous contrôle et revenez en garde.",
+      "sectionTitle": "Frappes"
+    },
+    "de": {
+      "title": "Latéral extérieur",
+      "description": "1. Stock in der rechten Hand, Spitze vorn: Oberkörper leicht nach rechts drehen und die Hand hinter die Wirbelsäulenlinie zurückführen, dabei die hintere Ferse anheben.\n2. Die Spitze nach hinten klappen, sodass Arm und Stock eine gestreckte Linie bilden, dann beides waagerecht von hinten nach vorn mit gestrecktem Arm zu Kopf, Flanke oder tief führen.\n3. Die Spitze den 180-Grad-Bogen kontrolliert beenden lassen und in die Grundstellung zurückkehren.",
+      "sectionTitle": "Schläge"
+    },
+    "it": {
+      "title": "Latéral extérieur",
+      "description": "1. Con il bastone nella mano destra e la punta avanti, ruota leggermente il busto a destra e porta la mano indietro oltre la colonna sollevando il tallone posteriore.\n2. Ribalta la punta dietro di te così che braccio e bastone formino un’unica linea tesa, poi portali in orizzontale da dietro in avanti, braccio teso, verso testa, fianco o basso.\n3. Lascia che la punta completi l’arco di 180 gradi con controllo e torna in guardia.",
+      "sectionTitle": "Colpi"
+    },
+    "zh-Hans": {
+      "title": "外侧横击",
+      "description": "1. 右手持杖，杖尖向前，上身略向右转，手向后拉过脊柱线，同时抬起后脚跟。\n2. 将杖尖翻向身后，使手臂与杖成一条伸直的线，然后手臂伸直从后向前水平挥击头部、侧身或下段。\n3. 让杖尖受控地走完180度弧线，回到戒备姿势。",
+      "sectionTitle": "击打"
+    },
+    "ja": {
+      "title": "ラテラル・エクステリユール",
+      "description": "1. 右手にカンヌを持ち先端を前に向けたまま、上体をやや右へ回し、後ろ足のかかとを上げながら手を背骨の線より後ろへ引きます。\n2. 先端を背後へ返して腕とカンヌを一直線に伸ばし、腕を伸ばしたまま後ろから前へ水平に回して頭・脇腹・下段を打ちます。\n3. 先端に180度の弧を制御して描き切らせ、構えに戻ります。",
+      "sectionTitle": "打撃"
+    },
+    "ko": {
+      "title": "라테랄 엑스테리외르",
+      "description": "1. 오른손에 지팡이를 들고 끝을 앞으로 둔 채 상체를 약간 오른쪽으로 돌리고 뒷발 뒤꿈치를 들며 손을 척추선 뒤로 당깁니다.\n2. 끝을 뒤로 젖혀 팔과 지팡이가 하나의 곧은 선이 되게 한 뒤, 팔을 편 채 뒤에서 앞으로 수평으로 돌려 머리, 옆구리 또는 하단을 칩니다.\n3. 끝이 180도 호를 통제된 상태로 마치게 하고 가드로 돌아옵니다.",
+      "sectionTitle": "타격"
+    },
+    "th": {
+      "title": "ลาเตราล เอ็กซ์เตรีเยอร์",
+      "description": "1. ถือไม้ด้วยมือขวา ปลายไม้ชี้หน้า หมุนลำตัวไปทางขวาเล็กน้อยและดึงมือไปด้านหลังเลยแนวกระดูกสันหลัง พร้อมยกส้นเท้าหลัง\n2. พลิกปลายไม้ไปด้านหลังให้แขนกับไม้เป็นเส้นตรงเดียว แล้วเหวี่ยงในแนวนอนจากหลังมาหน้าโดยแขนเหยียดตรง ไปที่ศีรษะ สีข้าง หรือช่วงล่าง\n3. ให้ปลายไม้จบส่วนโค้ง 180 องศาอย่างควบคุม แล้วกลับสู่การ์ด",
+      "sectionTitle": "การตี"
+    },
+    "ru": {
+      "title": "Латераль экстерьёр",
+      "description": "1. Держа трость в правой руке острием вперёд, слегка поверните корпус вправо и отведите руку назад за линию позвоночника, приподнимая заднюю пятку.\n2. Откиньте острие назад, чтобы рука и трость образовали одну вытянутую линию, затем проведите их горизонтально сзади вперёд прямой рукой в голову, корпус или низ.\n3. Дайте острию подконтрольно завершить дугу в 180 градусов и вернитесь в стойку.",
+      "sectionTitle": "Удары"
+    },
+    "uk": {
+      "title": "Латераль екстер’єр",
+      "description": "1. Тримаючи тростину в правій руці вістрям уперед, трохи поверніть корпус праворуч і відведіть руку назад за лінію хребта, піднімаючи задню п’яту.\n2. Відкиньте вістря назад, щоб рука й тростина утворили одну витягнуту лінію, потім проведіть їх горизонтально ззаду наперед прямою рукою в голову, корпус або низ.\n3. Дайте вістрю підконтрольно завершити дугу 180 градусів і поверніться в стійку.",
+      "sectionTitle": "Удари"
+    }
+  }
+}

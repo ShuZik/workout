@@ -1,0 +1,90 @@
+{
+  "id": "2.9",
+  "key": "muay_thai_rear_teep",
+  "title": "Rear Teep",
+  "description": "1. From stance, transfer weight to the lead leg and chamber the rear knee toward the chest.\n2. Drive the rear hip forward and extend the ball of the foot into a body pad without leaning back excessively.\n3. Pull the foot back to the chamber and return it behind the lead leg under control.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Teep",
+      "description": "1. From stance, transfer weight to the lead leg and chamber the rear knee toward the chest.\n2. Drive the rear hip forward and extend the ball of the foot into a body pad without leaning back excessively.\n3. Pull the foot back to the chamber and return it behind the lead leg under control.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Teep trasero",
+      "description": "1. Desde la postura, pasa el peso a la pierna delantera y lleva la rodilla trasera hacia el pecho.\n2. Impulsa la cadera trasera hacia delante y extiende la planta del pie contra un escudo de cuerpo sin inclinarte demasiado hacia atrás.\n3. Recoge el pie a la posición de carga y devuélvelo detrás de la pierna delantera con control.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Teep de trás",
+      "description": "1. Na base, passe o peso para a perna da frente e traga o joelho de trás em direção ao peito.\n2. Projete o quadril de trás à frente e estenda a planta do pé contra um escudo de corpo sem se inclinar demais para trás.\n3. Recolha o pé à posição de carga e leve-o de volta atrás da perna da frente com controle.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Teep jambe arrière",
+      "description": "1. En garde, transférez le poids sur la jambe avant et armez le genou arrière vers la poitrine.\n2. Poussez la hanche arrière vers l’avant et projetez la plante du pied dans un bouclier sans trop vous pencher en arrière.\n3. Ramenez le pied en armé et replacez-le derrière la jambe avant avec contrôle.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Hinterer Teep",
+      "description": "1. Verlagere aus der Stellung das Gewicht auf das vordere Bein und ziehe das hintere Knie zur Brust.\n2. Schiebe die hintere Hüfte nach vorn und stoße den Fußballen in ein Schlagpolster, ohne dich übermäßig zurückzulehnen.\n3. Ziehe den Fuß in den Aufzug zurück und setze ihn kontrolliert hinter das vordere Bein.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Teep posteriore",
+      "description": "1. Dalla posizione, sposta il peso sulla gamba anteriore e carica il ginocchio posteriore verso il petto.\n2. Spingi l’anca posteriore in avanti e distendi l’avampiede contro un colpitore senza inclinarti troppo all’indietro.\n3. Richiama il piede in caricamento e riportalo dietro la gamba anteriore con controllo.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "后腿正蹬",
+      "description": "1. 从站姿开始，重心移到前腿，后膝向胸前提起。\n2. 后髋向前送，用前脚掌蹬向躯干靶，身体不要过度后仰。\n3. 脚收回提膝位置，再有控制地落回前腿后方。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "後ろ足のティープ",
+      "description": "1. 構えから前脚に体重を移し、後ろの膝を胸に向けて抱え込みます。\n2. 後ろの腰を前に押し出し、上体を反らしすぎずに母指球でミットを突き放します。\n3. 足を抱え込みの位置に戻し、コントロールしながら前脚の後ろへ戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "뒷발 팁",
+      "description": "1. 자세에서 앞다리로 체중을 옮기고 뒷무릎을 가슴 쪽으로 접어 올립니다.\n2. 뒤 골반을 앞으로 밀며 과하게 뒤로 젖히지 않고 앞꿈치로 바디 미트를 밀어 찹니다.\n3. 발을 접은 자세로 회수하고 통제하며 앞다리 뒤로 되돌립니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ถีบขาหลัง",
+      "description": "1. จากท่ายืน ถ่ายน้ำหนักไปขาหน้าและยกเข่าหลังขึ้นหาอก\n2. ดันสะโพกหลังไปข้างหน้าและถีบจมูกเท้าเข้าเป้าลำตัว โดยไม่เอนตัวไปด้านหลังมากเกินไป\n3. ดึงเท้ากลับมาที่ท่ายกเข่าและวางกลับไว้หลังขาหน้าอย่างควบคุม",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Тип задней ногой",
+      "description": "1. Из стойки перенесите вес на переднюю ногу и подтяните заднее колено к груди.\n2. Подайте заднюю сторону таза вперёд и вытолкните подушечку стопы в макивару, не отклоняясь слишком назад.\n3. Верните стопу в положение подъёма колена и подконтрольно поставьте её за переднюю ногу.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Тип задньою ногою",
+      "description": "1. Зі стійки перенесіть вагу на передню ногу й підтягніть заднє коліно до грудей.\n2. Подайте задній бік таза вперед і виштовхніть подушечку стопи в маківару, не відхиляючись надто назад.\n3. Поверніть стопу в положення підйому коліна й контрольовано поставте її за передню ногу.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

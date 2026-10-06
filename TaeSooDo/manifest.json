@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#EA7CC7",
+    "colorType": "pink",
+    "folder": "TaeSooDo",
+    "id": "98",
+    "icon": "TaeSooDo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Tae Soo Do",
+    "workoutType": "taeSooDo",
+    "translations": {
+      "en": {
+        "title": "Tae Soo Do"
+      },
+      "es": {
+        "title": "Tae Soo Do"
+      },
+      "pt": {
+        "title": "Tae Soo Do"
+      },
+      "fr": {
+        "title": "Tae Soo Do"
+      },
+      "de": {
+        "title": "Tae Soo Do"
+      },
+      "it": {
+        "title": "Tae Soo Do"
+      },
+      "zh-Hans": {
+        "title": "跆手道"
+      },
+      "ja": {
+        "title": "テスド"
+      },
+      "ko": {
+        "title": "태수도"
+      },
+      "th": {
+        "title": "แทซูโด"
+      },
+      "ru": {
+        "title": "Тхэсудо"
+      },
+      "uk": {
+        "title": "Тхесудо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "TaeSooDo/exercises/taeSooDo/Icon.png",
+      "json": "TaeSooDo/exercises/taeSooDo/taeSooDo.json"
+    },
+    {
+      "icon": "TaeSooDo/exercises/ilBoDaeRyun/Icon.png",
+      "json": "TaeSooDo/exercises/ilBoDaeRyun/ilBoDaeRyun.json"
+    },
+    {
+      "icon": "TaeSooDo/exercises/daeRyun/Icon.png",
+      "json": "TaeSooDo/exercises/daeRyun/daeRyun.json"
+    }
+  ]
+}

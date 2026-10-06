@@ -1,0 +1,90 @@
+{
+  "id": "40.27",
+  "key": "karate_shotei_uchi",
+  "title": "Shotei Uchi",
+  "description": "1. Open the hand with fingers together, thumb tucked, and the wrist aligned behind the heel of the palm.\n2. Drive the palm heel straight into a pad using the stance and hip rotation while the opposite hand retracts or guards.\n3. Stop before hyperextending the wrist and bring the hand immediately back to guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Punches",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Shotei Uchi",
+      "description": "1. Open the hand with fingers together, thumb tucked, and the wrist aligned behind the heel of the palm.\n2. Drive the palm heel straight into a pad using the stance and hip rotation while the opposite hand retracts or guards.\n3. Stop before hyperextending the wrist and bring the hand immediately back to guard.",
+      "sectionTitle": "Punches"
+    },
+    "es": {
+      "title": "Shotei Uchi",
+      "description": "1. Abre la mano con los dedos juntos, el pulgar recogido y la muñeca alineada detrás de la base de la palma.\n2. Impulsa la base de la palma en línea recta contra una almohadilla usando la postura y el giro de cadera, mientras la mano contraria se retrae o protege.\n3. Detente antes de hiperextender la muñeca y lleva la mano de inmediato a la guardia.",
+      "sectionTitle": "Puñetazos"
+    },
+    "pt": {
+      "title": "Shotei Uchi",
+      "description": "1. Abra a mão com os dedos juntos, o polegar recolhido e o punho alinhado atrás da base da palma.\n2. Projete a base da palma em linha reta contra um aparador usando a base e a rotação do quadril, enquanto a mão oposta recua ou protege.\n3. Pare antes de hiperestender o punho e leve a mão imediatamente de volta à guarda.",
+      "sectionTitle": "Socos"
+    },
+    "fr": {
+      "title": "Shotei Uchi",
+      "description": "1. Ouvrez la main, doigts serrés, pouce replié et poignet aligné derrière la base de la paume.\n2. Poussez la base de la paume droit dans une cible en utilisant la position et la rotation de hanche, pendant que la main opposée se retire ou protège.\n3. Arrêtez avant d’hyperétendre le poignet et ramenez aussitôt la main en garde.",
+      "sectionTitle": "Coups de poing"
+    },
+    "de": {
+      "title": "Shotei Uchi",
+      "description": "1. Öffne die Hand mit geschlossenen Fingern, angelegtem Daumen und dem Handgelenk gerade hinter dem Handballen.\n2. Stoße den Handballen mit Stand und Hüftdrehung gerade in ein Pad, während die Gegenhand zurückzieht oder deckt.\n3. Stoppe, bevor das Handgelenk überstreckt, und bringe die Hand sofort in die Deckung zurück.",
+      "sectionTitle": "Faustschläge"
+    },
+    "it": {
+      "title": "Shotei Uchi",
+      "description": "1. Apri la mano con le dita unite, il pollice raccolto e il polso allineato dietro la base del palmo.\n2. Spingi la base del palmo diritta su un colpitore sfruttando la posizione e la rotazione dell’anca, mentre la mano opposta si ritrae o protegge.\n3. Fermati prima di iperestendere il polso e riporta subito la mano in guardia.",
+      "sectionTitle": "Pugni"
+    },
+    "zh-Hans": {
+      "title": "掌底打",
+      "description": "1. 张开手掌，手指并拢，拇指收紧，手腕与掌根后方对齐。\n2. 借助站姿和髋部转动，用掌根直线击打手靶，另一只手回收或护卫。\n3. 在手腕过度后伸前停住，立即将手收回护卫姿势。",
+      "sectionTitle": "拳击"
+    },
+    "ja": {
+      "title": "掌底打ち",
+      "description": "1. 指をそろえて手を開き、親指を締め、手首を掌底の真後ろにそろえます。\n2. 立ち方と腰の回転を使い、反対の手を引くかガードしながら、掌底をまっすぐミットへ打ち込みます。\n3. 手首を反らしすぎる前に止め、すぐに手をガードへ戻します。",
+      "sectionTitle": "突き"
+    },
+    "ko": {
+      "title": "쇼테이 우치",
+      "description": "1. 손가락을 모으고 엄지를 붙인 채 손을 펴며 손목을 손바닥 아래쪽 뒤에 정렬합니다.\n2. 서기와 골반 회전을 이용해 손바닥 아래쪽을 미트에 곧게 밀어 치고 반대 손은 당기거나 가드합니다.\n3. 손목이 과하게 젖혀지기 전에 멈추고 즉시 손을 가드로 되돌립니다.",
+      "sectionTitle": "지르기"
+    },
+    "th": {
+      "title": "โชเทอิอุจิ",
+      "description": "1. แบมือโดยให้นิ้วชิดกัน พับนิ้วโป้งเก็บ และจัดข้อมือให้ตรงอยู่หลังสันฝ่ามือ\n2. ส่งสันฝ่ามือตรงเข้าเป้าซ้อมโดยใช้ท่ายืนและการหมุนสะโพก ขณะมืออีกข้างดึงกลับหรือป้องกัน\n3. หยุดก่อนข้อมือแอ่นเกิน แล้วนำมือกลับสู่การ์ดทันที",
+      "sectionTitle": "หมัด"
+    },
+    "ru": {
+      "title": "Сётэй-ути",
+      "description": "1. Раскройте ладонь, сомкнув пальцы и прижав большой палец, запястье выровняйте за основанием ладони.\n2. Нанесите удар основанием ладони прямо в лапу за счёт стойки и поворота таза, противоположная рука отводится назад или защищает.\n3. Остановитесь до переразгибания запястья и сразу верните руку в защиту.",
+      "sectionTitle": "Удары руками"
+    },
+    "uk": {
+      "title": "Шотей-учі",
+      "description": "1. Розкрийте долоню, зімкнувши пальці й притиснувши великий палець, зап’ястя вирівняйте за основою долоні.\n2. Нанесіть удар основою долоні прямо в лапу за рахунок стійки й повороту таза, протилежна рука відводиться назад або захищає.\n3. Зупиніться до перерозгинання зап’ястя й одразу поверніть руку в захист.",
+      "sectionTitle": "Удари руками"
+    }
+  }
+}

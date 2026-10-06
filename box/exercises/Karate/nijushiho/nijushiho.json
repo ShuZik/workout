@@ -1,0 +1,87 @@
+{
+  "id": "40.50",
+  "key": "karate_nijushiho",
+  "title": "Nijushiho",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Change rhythm between slow and sudden techniques, using flowing elbow strikes, palm-heel blocks, and rising wave-like movements in back and horse stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Nijushiho",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Change rhythm between slow and sudden techniques, using flowing elbow strikes, palm-heel blocks, and rising wave-like movements in back and horse stance.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Nijushiho",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Cambia el ritmo entre técnicas lentas y súbitas, con codazos fluidos, bloqueos de palma y movimientos ascendentes ondulantes en posición atrasada y kiba-dachi.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Nijushiho",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Mude o ritmo entre técnicas lentas e súbitas, com cotoveladas fluidas, bloqueios com a base da palma e movimentos ascendentes ondulantes na base recuada e em kiba-dachi.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Nijushiho",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Alternez le rythme entre techniques lentes et soudaines, avec des coups de coude fluides, des blocages de paume et des mouvements montants ondulants en position arrière et en kiba-dachi.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Nijushiho",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Wechsle den Rhythmus zwischen langsamen und plötzlichen Techniken mit fließenden Ellbogenschlägen, Handballenabwehren und aufsteigenden wellenartigen Bewegungen im Rückwärtsstand und Kiba-dachi.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Nijushiho",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Alterna il ritmo tra tecniche lente e improvvise, con gomitate fluide, parate di palmo e movimenti ascendenti ondulati in posizione arretrata e in kiba-dachi.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "二十四步",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 在缓慢与突然的技术之间转换节奏，于后屈立和骑马立中使用流畅的肘击、掌底格挡和如波浪般上升的动作。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "二十四歩",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. ゆっくりした技と急な技の間でリズムを変え、後屈立ちと騎馬立ちで流れるような猿臂、底掌受け、波のように伸び上がる動きを行います。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "니주시호",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 느린 기술과 갑작스러운 기술 사이로 리듬을 바꾸며 뒷굽이와 기마서기에서 흐르는 팔꿈치 치기, 바탕손 막기, 파도처럼 솟는 동작을 합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "นิจูชิโฮ",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. เปลี่ยนจังหวะระหว่างเทคนิคช้าและฉับพลัน ใช้ศอกที่ลื่นไหล การปัดด้วยฝ่ามือ และการเคลื่อนขึ้นเหมือนคลื่นในท่ายืนหลังและคิบะดาจิ\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Нидзюсихо",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Меняйте ритм между медленными и внезапными техниками, используя плавные удары локтем, блоки основанием ладони и поднимающиеся волнообразные движения в задней стойке и киба-дати.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Ніджюшихо",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Змінюйте ритм між повільними та раптовими техніками, використовуючи плавні удари ліктем, блоки основою долоні та висхідні хвилеподібні рухи в задній стійці й кіба-дачі.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

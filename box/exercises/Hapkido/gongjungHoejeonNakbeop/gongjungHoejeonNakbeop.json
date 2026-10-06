@@ -1,0 +1,87 @@
+{
+  "id": "60.2",
+  "key": "hapkido_gongjung_hoejeon_nakbeop",
+  "title": "Gongjung Hoejeon Nakbeop",
+  "description": "1. Only on thick crash mats with a qualified coach spotting, take two or three running steps toward the landing zone.\n2. Jump forward and rotate through the air in a forward flip with the chin tucked and the arms ready to slap.\n3. Land on the back and side with both arms slapping the mat and the knees bent, then roll to standing; go back to the forward roll breakfall if rotation is incomplete.",
+  "colorType": "teal",
+  "workoutType": "hapkido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "2 Breakfalls",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Gongjung Hoejeon Nakbeop",
+      "description": "1. Only on thick crash mats with a qualified coach spotting, take two or three running steps toward the landing zone.\n2. Jump forward and rotate through the air in a forward flip with the chin tucked and the arms ready to slap.\n3. Land on the back and side with both arms slapping the mat and the knees bent, then roll to standing; go back to the forward roll breakfall if rotation is incomplete.",
+      "sectionTitle": "Breakfalls"
+    },
+    "es": {
+      "title": "Gongjung Hoejeon Nakbeop",
+      "description": "1. Solo sobre colchonetas gruesas de caída y con un entrenador cualificado vigilando, da dos o tres pasos de carrera hacia la zona de aterrizaje.\n2. Salta hacia delante y gira en el aire con una voltereta frontal, la barbilla recogida y los brazos listos para golpear la colchoneta.\n3. Aterriza sobre la espalda y el costado golpeando la colchoneta con ambos brazos y las rodillas flexionadas, luego rueda hasta ponerte de pie; vuelve a la caída rodando hacia delante si el giro es incompleto.",
+      "sectionTitle": "Caídas"
+    },
+    "pt": {
+      "title": "Gongjung Hoejeon Nakbeop",
+      "description": "1. Somente sobre colchões grossos de queda e com um treinador qualificado assistindo, dê dois ou três passos de corrida em direção à zona de aterrissagem.\n2. Salte à frente e gire no ar num mortal para a frente, com o queixo recolhido e os braços prontos para bater no colchão.\n3. Aterrisse nas costas e na lateral batendo com ambos os braços no colchão e os joelhos dobrados, depois role até ficar em pé; volte à queda rolando para a frente se a rotação ficar incompleta.",
+      "sectionTitle": "Quedas"
+    },
+    "fr": {
+      "title": "Gongjung Hoejeon Nakbeop",
+      "description": "1. Uniquement sur d’épais tapis de réception avec un entraîneur qualifié en parade, prenez deux ou trois pas d’élan vers la zone de réception.\n2. Sautez vers l’avant et tournez en l’air en salto avant, menton rentré, bras prêts à frapper le tapis.\n3. Réceptionnez-vous sur le dos et le côté en frappant le tapis des deux bras, genoux fléchis, puis roulez pour vous relever ; revenez à la chute roulée avant si la rotation est incomplète.",
+      "sectionTitle": "Chutes"
+    },
+    "de": {
+      "title": "Gongjung Hoejeon Nakbeop",
+      "description": "1. Nur auf dicken Weichbodenmatten und mit Hilfestellung eines qualifizierten Trainers zwei oder drei Anlaufschritte zur Landezone nehmen.\n2. Nach vorn abspringen und mit eingezogenem Kinn in einem Vorwärtssalto durch die Luft drehen, Arme bereit zum Abschlagen.\n3. Auf Rücken und Seite landen, beide Arme schlagen ab, Knie gebeugt, dann zum Stand abrollen; bei unvollständiger Drehung zur Rolle vorwärts zurückgehen.",
+      "sectionTitle": "Fallschule"
+    },
+    "it": {
+      "title": "Gongjung Hoejeon Nakbeop",
+      "description": "1. Solo su materassi spessi da caduta e con un allenatore qualificato in assistenza, fai due o tre passi di rincorsa verso la zona di atterraggio.\n2. Salta in avanti e ruota in aria con un salto mortale in avanti, mento raccolto e braccia pronte a battere.\n3. Atterra su schiena e fianco battendo il materasso con entrambe le braccia e le ginocchia piegate, poi rotola in piedi; torna alla caduta rotolata in avanti se la rotazione è incompleta.",
+      "sectionTitle": "Cadute"
+    },
+    "zh-Hans": {
+      "title": "空中回转倒法",
+      "description": "1. 仅在厚保护垫上并有合格教练保护时，向落地区助跑两三步。\n2. 向前跳起，在空中前空翻，下巴内收，双臂准备拍垫。\n3. 以背部和体侧着地，双臂拍垫，膝盖弯曲，然后滚动站起；若旋转不完整则退回前滚翻倒法练习。",
+      "sectionTitle": "倒法"
+    },
+    "ja": {
+      "title": "空中回転受け身",
+      "description": "1. 厚いマットの上で、資格のある指導者の補助がある場合に限り、着地地点へ二、三歩助走します。\n2. 前へ跳び、顎を引き腕で叩く準備をして空中で前方に回転します。\n3. 背中と体側で着地し、両腕でマットを叩き膝を曲げ、転がって立ちます。回転が不十分なら前回り受け身に戻ります。",
+      "sectionTitle": "受け身"
+    },
+    "ko": {
+      "title": "공중회전낙법",
+      "description": "1. 두꺼운 안전 매트 위에서 자격 있는 지도자의 보조가 있을 때만 착지 지점으로 두세 걸음 도움닫기합니다.\n2. 앞으로 뛰어 턱을 당기고 팔로 칠 준비를 하며 공중에서 앞으로 회전합니다.\n3. 등과 옆으로 착지하며 두 팔로 매트를 치고 무릎을 굽힌 뒤 굴러 일어섭니다. 회전이 부족하면 전방회전낙법으로 돌아갑니다.",
+      "sectionTitle": "낙법"
+    },
+    "th": {
+      "title": "กงจุงฮเวจอนนักบ็อบ",
+      "description": "1. ทำบนเบาะรองรับหนาและมีโค้ชที่มีคุณสมบัติคอยประคองเท่านั้น วิ่งสองสามก้าวไปยังจุดลงพื้น\n2. กระโดดไปข้างหน้าและหมุนตีลังกาหน้าในอากาศ ก้มคางและเตรียมแขนตบเบาะ\n3. ลงพื้นด้วยหลังและด้านข้าง ตบเบาะด้วยแขนทั้งสองและงอเข่า แล้วกลิ้งลุกยืน หากหมุนไม่ครบให้กลับไปฝึกการล้มม้วนหน้า",
+      "sectionTitle": "การล้ม"
+    },
+    "ru": {
+      "title": "Гонджун хведжон накпоп",
+      "description": "1. Только на толстых страховочных матах и при страховке квалифицированного тренера сделайте два-три шага разбега к зоне приземления.\n2. Прыгните вперёд и выполните в воздухе переднее сальто, прижав подбородок и подготовив руки к хлопку.\n3. Приземлитесь на спину и бок с хлопком обеими руками и согнутыми коленями, затем перекатитесь в стойку; при неполном вращении вернитесь к страховке кувырком вперёд.",
+      "sectionTitle": "Страховка"
+    },
+    "uk": {
+      "title": "Гонджун хведжон накпоп",
+      "description": "1. Лише на товстих страхувальних матах і під страхуванням кваліфікованого тренера зробіть два-три кроки розбігу до зони приземлення.\n2. Стрибніть уперед і виконайте в повітрі переднє сальто, притиснувши підборіддя й підготувавши руки до плескання.\n3. Приземліться на спину й бік із плесканням обома руками та зігнутими колінами, потім перекотіться в стійку; за неповного обертання поверніться до страхування перекидом уперед.",
+      "sectionTitle": "Страхування"
+    }
+  }
+}

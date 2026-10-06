@@ -1,0 +1,90 @@
+{
+  "id": "13.88",
+  "key": "calisthenics_inverted_row",
+  "title": "Inverted Row",
+  "description": "1. Set a secure bar at waist height, grip it with straight arms, and place the body in one line beneath it.\n2. Pull the chest toward the bar by driving the elbows back and squeezing the shoulder blades.\n3. Lower under control to straight arms without dropping the hips or craning the neck.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Inverted Row",
+      "description": "1. Set a secure bar at waist height, grip it with straight arms, and place the body in one line beneath it.\n2. Pull the chest toward the bar by driving the elbows back and squeezing the shoulder blades.\n3. Lower under control to straight arms without dropping the hips or craning the neck.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Remo invertido",
+      "description": "1. Coloca una barra segura a la altura de la cintura, agárrala con los brazos estirados y sitúa el cuerpo en una línea debajo de ella.\n2. Tira del pecho hacia la barra llevando los codos atrás y juntando las escápulas.\n3. Baja con control hasta estirar los brazos sin dejar caer las caderas ni estirar el cuello.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Remada invertida",
+      "description": "1. Posicione uma barra segura na altura da cintura, segure-a com os braços estendidos e alinhe o corpo embaixo dela.\n2. Puxe o peito em direção à barra levando os cotovelos para trás e contraindo as escápulas.\n3. Desça com controle até estender os braços sem deixar o quadril cair nem esticar o pescoço.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Rowing inversé",
+      "description": "1. Réglez une barre sûre à hauteur de taille, saisissez-la bras tendus et placez le corps en ligne en dessous.\n2. Tirez la poitrine vers la barre en reculant les coudes et en serrant les omoplates.\n3. Redescendez avec contrôle jusqu’aux bras tendus sans laisser tomber les hanches ni tendre le cou.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Umgekehrtes Rudern",
+      "description": "1. Stelle eine sichere Stange auf Hüfthöhe ein, greife sie mit gestreckten Armen und bringe den Körper darunter in eine Linie.\n2. Ziehe die Brust zur Stange, indem du die Ellbogen nach hinten führst und die Schulterblätter zusammenziehst.\n3. Senke dich kontrolliert bis zu gestreckten Armen ab, ohne die Hüfte fallen zu lassen oder den Hals zu strecken.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Rematore inverso",
+      "description": "1. Posiziona una sbarra sicura all’altezza della vita, afferrala a braccia tese e allinea il corpo sotto di essa.\n2. Tira il petto verso la sbarra portando i gomiti indietro e stringendo le scapole.\n3. Scendi con controllo fino a braccia tese senza far cadere le anche né allungare il collo.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "反向划船",
+      "description": "1. 将牢固的横杆调至腰部高度，双臂伸直握住横杆，身体在杆下保持一条直线。\n2. 肘部向后拉、收紧肩胛骨，将胸部拉向横杆。\n3. 有控制地下放至手臂伸直，不要让髋部下坠或伸长脖子。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "インバーテッドロウ",
+      "description": "1. 安定したバーを腰の高さにセットし、腕を伸ばして握り、バーの下で体を一直線にします。\n2. 肘を後ろに引き肩甲骨を寄せて、胸をバーへ引き寄せます。\n3. 腰を落としたり首を伸ばしたりせずに、腕が伸びるまでコントロールして下ります。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "인버티드 로우",
+      "description": "1. 단단한 바를 허리 높이에 설치하고 팔을 편 채 잡은 뒤 바 아래에서 몸을 일직선으로 만듭니다.\n2. 팔꿈치를 뒤로 보내고 견갑골을 조이며 가슴을 바 쪽으로 당깁니다.\n3. 엉덩이를 떨어뜨리거나 목을 빼지 않고 팔이 펴질 때까지 통제하며 내려옵니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "อินเวิร์เต็ดโรว์",
+      "description": "1. ตั้งบาร์ที่มั่นคงไว้ระดับเอว จับบาร์ด้วยแขนตรง และจัดลำตัวให้เป็นแนวเดียวใต้บาร์\n2. ดึงหน้าอกเข้าหาบาร์โดยดึงศอกไปด้านหลังและบีบสะบัก\n3. ลดตัวลงอย่างควบคุมจนแขนตรงโดยไม่ปล่อยสะโพกตกหรือยืดคอ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Австралийские подтягивания",
+      "description": "1. Установите надёжную перекладину на уровне пояса, возьмитесь за неё прямыми руками и вытяните тело в одну линию под ней.\n2. Подтягивайте грудь к перекладине, отводя локти назад и сводя лопатки.\n3. Контролируемо опуститесь до прямых рук, не роняя таз и не вытягивая шею.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Австралійські підтягування",
+      "description": "1. Установіть надійну перекладину на рівні пояса, візьміться за неї прямими руками й витягніть тіло в одну лінію під нею.\n2. Підтягуйте груди до перекладини, відводячи лікті назад і зводячи лопатки.\n3. Контрольовано опустіться до прямих рук, не опускаючи таз і не витягуючи шию.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "91.3",
+  "key": "shorinji_kempo_ukemi",
+  "title": "Ukemi Breakfalls",
+  "description": "1. Start from a low squat and fall backward, tucking the chin and slapping the mat with both arms to spread the impact.\n2. Practice side and forward falls, then forward rolls over the shoulder, keeping the body rounded and breathing out on landing.\n3. Rise immediately into kamae facing the imagined opponent after every fall.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ukemi Breakfalls",
+      "description": "1. Start from a low squat and fall backward, tucking the chin and slapping the mat with both arms to spread the impact.\n2. Practice side and forward falls, then forward rolls over the shoulder, keeping the body rounded and breathing out on landing.\n3. Rise immediately into kamae facing the imagined opponent after every fall.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Caídas ukemi",
+      "description": "1. Parte de una sentadilla baja y cae hacia atrás, metiendo la barbilla y golpeando el tatami con ambos brazos para repartir el impacto.\n2. Practica caídas laterales y hacia delante, y después volteretas por encima del hombro, con el cuerpo redondeado y exhalando al aterrizar.\n3. Tras cada caída, levántate de inmediato en kamae mirando al oponente imaginario.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Quedas ukemi",
+      "description": "1. Comece agachado e caia para trás, encolhendo o queixo e batendo no tatame com os dois braços para distribuir o impacto.\n2. Pratique quedas laterais e para a frente, depois rolamentos sobre o ombro, mantendo o corpo arredondado e expirando ao tocar o chão.\n3. Após cada queda, levante-se imediatamente em kamae de frente para o oponente imaginário.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Chutes ukemi",
+      "description": "1. Partez d'un accroupi bas et chutez en arrière, menton rentré, en frappant le tapis des deux bras pour répartir l'impact.\n2. Travaillez les chutes latérales et avant, puis les roulades par-dessus l'épaule, corps arrondi, en expirant à la réception.\n3. Après chaque chute, relevez-vous aussitôt en kamae face à l'adversaire imaginaire.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Ukemi-Fallübungen",
+      "description": "1. Beginne aus der tiefen Hocke und falle rückwärts, das Kinn eingezogen, und schlage mit beiden Armen auf die Matte, um den Aufprall zu verteilen.\n2. Übe Seit- und Vorwärtsfallen, dann Vorwärtsrollen über die Schulter, den Körper rund, und atme bei der Landung aus.\n3. Komme nach jedem Fall sofort ins Kamae hoch, dem gedachten Gegner zugewandt.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Cadute ukemi",
+      "description": "1. Parti da un accosciata bassa e cadi all'indietro, mento rientrato, battendo il tatami con entrambe le braccia per distribuire l'impatto.\n2. Esegui cadute laterali e in avanti, poi capovolte sopra la spalla, con il corpo arrotondato ed espirando all'atterraggio.\n3. Dopo ogni caduta rialzati subito in kamae di fronte all'avversario immaginario.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "受身倒法",
+      "description": "1. 从低蹲开始向后倒，收下颌，用双臂拍垫以分散冲击。\n2. 练习侧倒和前倒，再练从肩部滚过的前滚翻，身体保持圆弧，着地时呼气。\n3. 每次倒地后立即起身，面向假想对手摆好构式。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "受身",
+      "description": "1. 低くしゃがんだ姿勢から後ろへ倒れ、顎を引き、両腕で畳を打って衝撃を分散させます。\n2. 横受身と前受身、さらに肩から転がる前転受身を練習し、体を丸めて着地の瞬間に息を吐きます。\n3. 受身のたびにすぐ立ち上がり、想定した相手に向かって構えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "우케미 낙법",
+      "description": "1. 낮게 쪼그려 앉은 자세에서 뒤로 넘어지며 턱을 당기고 두 팔로 매트를 쳐 충격을 분산합니다.\n2. 옆낙법과 앞낙법을 연습한 뒤 어깨를 넘어 구르는 앞구르기를 하며, 몸을 둥글게 하고 착지할 때 숨을 내쉽니다.\n3. 넘어질 때마다 곧바로 일어나 가상의 상대를 향해 카마에를 잡습니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "การล้มอุเคมิ",
+      "description": "1. เริ่มจากท่านั่งยองต่ำแล้วล้มไปข้างหลัง ก้มคางและตบเบาะด้วยแขนทั้งสองข้างเพื่อกระจายแรงกระแทก\n2. ฝึกล้มด้านข้างและล้มไปข้างหน้า แล้วม้วนตัวข้ามไหล่ รักษาลำตัวให้โค้งกลมและหายใจออกตอนลงพื้น\n3. ลุกขึ้นทันทีหลังล้มทุกครั้งและตั้งคามาเอะหันหน้าเข้าหาคู่ต่อสู้สมมติ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Укэми — страховка",
+      "description": "1. Из низкого приседа падайте назад, прижав подбородок и ударяя обеими руками по татами, чтобы погасить удар.\n2. Отработайте падения на бок и вперёд, затем кувырки через плечо, сохраняя тело округлым и выдыхая при приземлении.\n3. После каждого падения сразу поднимайтесь в камаэ лицом к воображаемому противнику.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Укемі — страхування",
+      "description": "1. З низького присіду падайте назад, притиснувши підборіддя й ударяючи обома руками по татамі, щоб погасити удар.\n2. Відпрацюйте падіння на бік і вперед, потім перекиди через плече, тримаючи тіло заокругленим і видихаючи під час приземлення.\n3. Після кожного падіння одразу підводьтеся в камае обличчям до уявного суперника.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

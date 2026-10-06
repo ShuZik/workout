@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#FD7C5D",
+    "colorType": "coral",
+    "folder": "CanneDeCombat",
+    "id": "48",
+    "icon": "CanneDeCombat/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Canne de Combat",
+    "workoutType": "canneDeCombat",
+    "translations": {
+      "en": {
+        "title": "Canne de Combat"
+      },
+      "es": {
+        "title": "Canne de combate"
+      },
+      "pt": {
+        "title": "Canne de combate"
+      },
+      "fr": {
+        "title": "Canne de combat"
+      },
+      "de": {
+        "title": "Stockkampf (Canne de combat)"
+      },
+      "it": {
+        "title": "Canne da combattimento"
+      },
+      "zh-Hans": {
+        "title": "法式手杖格斗"
+      },
+      "ja": {
+        "title": "カンヌ・ド・コンバ"
+      },
+      "ko": {
+        "title": "칸 드 콩바"
+      },
+      "th": {
+        "title": "ก็องเดอก็องบา"
+      },
+      "ru": {
+        "title": "Канн де комба"
+      },
+      "uk": {
+        "title": "Канн де комба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "CanneDeCombat/exercises/canneDeCombat/Icon.png",
+      "json": "CanneDeCombat/exercises/canneDeCombat/canneDeCombat.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/lateralExterieur/Icon.png",
+      "json": "CanneDeCombat/exercises/lateralExterieur/lateralExterieur.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/lateralCroise/Icon.png",
+      "json": "CanneDeCombat/exercises/lateralCroise/lateralCroise.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/brise/Icon.png",
+      "json": "CanneDeCombat/exercises/brise/brise.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/croiseTete/Icon.png",
+      "json": "CanneDeCombat/exercises/croiseTete/croiseTete.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/enleve/Icon.png",
+      "json": "CanneDeCombat/exercises/enleve/enleve.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/croiseBas/Icon.png",
+      "json": "CanneDeCombat/exercises/croiseBas/croiseBas.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/paradeLaterale/Icon.png",
+      "json": "CanneDeCombat/exercises/paradeLaterale/paradeLaterale.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/paradeCroiseeLaterale/Icon.png",
+      "json": "CanneDeCombat/exercises/paradeCroiseeLaterale/paradeCroiseeLaterale.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/paradeVerticaleExterieure/Icon.png",
+      "json": "CanneDeCombat/exercises/paradeVerticaleExterieure/paradeVerticaleExterieure.json"
+    },
+    {
+      "icon": "CanneDeCombat/exercises/paradeVerticaleCroisee/Icon.png",
+      "json": "CanneDeCombat/exercises/paradeVerticaleCroisee/paradeVerticaleCroisee.json"
+    }
+  ]
+}

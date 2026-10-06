@@ -1,0 +1,89 @@
+{
+  "id": "13.27",
+  "key": "kettlebell_kettlebell_reverse_lunge",
+  "title": "Kettlebell Reverse Lunge",
+  "description": "1. Hold the kettlebell securely at the chest, in one rack, or beside the body and stand tall.\n2. Step one leg back and lower both knees while the front foot remains fully grounded.\n3. Drive through the front foot to stand, return the rear leg, and repeat on the other side.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "4 Kettlebell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kettlebell Reverse Lunge",
+      "description": "1. Hold the kettlebell securely at the chest, in one rack, or beside the body and stand tall.\n2. Step one leg back and lower both knees while the front foot remains fully grounded.\n3. Drive through the front foot to stand, return the rear leg, and repeat on the other side.",
+      "sectionTitle": "Kettlebell"
+    },
+    "es": {
+      "title": "Zancada inversa con pesa rusa",
+      "description": "1. Sujeta firmemente la pesa rusa junto al pecho, en posición de rack o al costado y ponte erguido.\n2. Da un paso atrás con una pierna y baja ambas rodillas mientras el pie delantero permanece totalmente apoyado.\n3. Empuja con el pie delantero para subir, recupera la pierna trasera y repite con el otro lado.",
+      "sectionTitle": "Pesa rusa"
+    },
+    "pt": {
+      "title": "Afundo reverso com kettlebell",
+      "description": "1. Segure o kettlebell com firmeza junto ao peito, em posição de rack ou ao lado do corpo e fique em pé, ereto.\n2. Dê um passo para trás com uma perna e abaixe os dois joelhos enquanto o pé da frente permanece totalmente apoiado.\n3. Empurre pelo pé da frente para subir, traga a perna de trás de volta e repita do outro lado.",
+      "sectionTitle": "Kettlebell"
+    },
+    "fr": {
+      "title": "Fente arrière au kettlebell",
+      "description": "1. Tenez fermement le kettlebell contre la poitrine, en position rack ou le long du corps, et tenez-vous droit.\n2. Reculez une jambe et descendez les deux genoux pendant que le pied avant reste entièrement au sol.\n3. Poussez sur le pied avant pour vous relever, ramenez la jambe arrière et répétez de l’autre côté.",
+      "sectionTitle": "Kettlebell"
+    },
+    "de": {
+      "title": "Ausfallschritt rückwärts mit der Kugelhantel",
+      "description": "1. Halte die Kugelhantel sicher vor der Brust, in der Rack-Position oder seitlich am Körper und stehe aufrecht.\n2. Setze ein Bein nach hinten und senke beide Knie, während der vordere Fuß vollständig am Boden bleibt.\n3. Drücke dich über den vorderen Fuß hoch, führe das hintere Bein zurück und wiederhole auf der anderen Seite.",
+      "sectionTitle": "Kugelhantel"
+    },
+    "it": {
+      "title": "Affondo inverso con kettlebell",
+      "description": "1. Tieni saldamente il kettlebell al petto, in posizione rack o lungo il fianco e resta ben eretto.\n2. Porta una gamba indietro e abbassa entrambe le ginocchia mentre il piede anteriore resta completamente a terra.\n3. Spingi con il piede anteriore per rialzarti, riporta la gamba posteriore e ripeti dall’altro lato.",
+      "sectionTitle": "Kettlebell"
+    },
+    "zh-Hans": {
+      "title": "壶铃反向弓步",
+      "description": "1. 将壶铃稳稳抱在胸前、置于单侧架式位或垂于体侧，身体站直。\n2. 一条腿向后迈步，双膝下降，前脚始终全脚掌着地。\n3. 前脚发力站起，收回后腿，然后换另一侧重复。",
+      "sectionTitle": "壶铃"
+    },
+    "ja": {
+      "title": "ケトルベルリバースランジ",
+      "description": "1. ケトルベルを胸の前、片側のラックポジション、または体の横でしっかり持ち、まっすぐ立ちます。\n2. 片脚を後ろに引き、前足の裏全体を床につけたまま両膝を下ろします。\n3. 前足で押して立ち上がり、後ろ脚を戻して反対側も行います。",
+      "sectionTitle": "ケトルベル"
+    },
+    "ko": {
+      "title": "케틀벨 리버스 런지",
+      "description": "1. 케틀벨을 가슴 앞, 한쪽 랙 자세 또는 몸 옆에 단단히 들고 똑바로 섭니다.\n2. 한쪽 다리를 뒤로 내딛고 앞발 전체를 바닥에 붙인 채 두 무릎을 내립니다.\n3. 앞발로 밀어 일어서며 뒷다리를 되돌리고 반대쪽으로 반복합니다.",
+      "sectionTitle": "케틀벨"
+    },
+    "th": {
+      "title": "รีเวิร์สลันจ์ด้วยเคตเทิลเบล",
+      "description": "1. ถือเคตเทิลเบลให้มั่นคงไว้ที่หน้าอก ในท่าแร็กข้างเดียว หรือข้างลำตัว แล้วยืนตัวตรง\n2. ก้าวขาข้างหนึ่งไปด้านหลังและลดเข่าทั้งสองลง ขณะที่เท้าหน้าวางราบเต็มฝ่า\n3. ดันผ่านเท้าหน้าเพื่อยืนขึ้น ดึงขาหลังกลับ แล้วทำซ้ำอีกข้าง",
+      "sectionTitle": "เคตเทิลเบล"
+    },
+    "ru": {
+      "title": "Обратный выпад с гирей",
+      "description": "1. Надёжно держите гирю у груди, в положении «на груди» одной рукой или сбоку от тела и встаньте прямо.\n2. Шагните одной ногой назад и опустите оба колена, сохраняя переднюю стопу полностью на полу.\n3. Оттолкнитесь передней стопой и встаньте, верните заднюю ногу и повторите на другую сторону.",
+      "sectionTitle": "Гиря"
+    },
+    "uk": {
+      "title": "Зворотний випад із гирею",
+      "description": "1. Надійно тримайте гирю біля грудей, у положенні «на грудях» однією рукою або збоку від тіла й станьте рівно.\n2. Ступіть однією ногою назад і опустіть обидва коліна, тримаючи передню стопу повністю на підлозі.\n3. Відштовхніться передньою стопою й встаньте, поверніть задню ногу та повторіть на інший бік.",
+      "sectionTitle": "Гиря"
+    }
+  }
+}

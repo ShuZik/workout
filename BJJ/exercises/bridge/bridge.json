@@ -1,0 +1,90 @@
+{
+  "id": "6.4",
+  "key": "bjj_bridge",
+  "title": "Bridge",
+  "description": "1. Lie on the back with the feet close to the hips, knees bent, chin tucked, and arms protecting the neck.\n2. Drive through both feet and shoulders to lift the hips, then turn one hip upward without rolling onto the neck.\n3. Lower the hips under control or follow the turn to one side while keeping the knees aligned.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Positions",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bridge",
+      "description": "1. Lie on the back with the feet close to the hips, knees bent, chin tucked, and arms protecting the neck.\n2. Drive through both feet and shoulders to lift the hips, then turn one hip upward without rolling onto the neck.\n3. Lower the hips under control or follow the turn to one side while keeping the knees aligned.",
+      "sectionTitle": "Positions"
+    },
+    "es": {
+      "title": "Puente",
+      "description": "1. Túmbate boca arriba con los pies cerca de la cadera, rodillas flexionadas, barbilla recogida y brazos protegiendo el cuello.\n2. Empuja con ambos pies y hombros para elevar la cadera y luego gira una cadera hacia arriba sin rodar sobre el cuello.\n3. Baja la cadera con control o sigue el giro hacia un lado manteniendo las rodillas alineadas.",
+      "sectionTitle": "Posiciones"
+    },
+    "pt": {
+      "title": "Ponte",
+      "description": "1. Deite de costas com os pés perto do quadril, joelhos flexionados, queixo recolhido e braços protegendo o pescoço.\n2. Empurre com os dois pés e os ombros para elevar o quadril e depois gire um lado do quadril para cima sem rolar sobre o pescoço.\n3. Abaixe o quadril com controle ou acompanhe o giro para um lado mantendo os joelhos alinhados.",
+      "sectionTitle": "Posições"
+    },
+    "fr": {
+      "title": "Pont",
+      "description": "1. Allongez-vous sur le dos, pieds près des hanches, genoux fléchis, menton rentré et bras protégeant le cou.\n2. Poussez sur les deux pieds et les épaules pour lever les hanches, puis tournez une hanche vers le haut sans rouler sur le cou.\n3. Redescendez les hanches avec contrôle ou suivez la rotation d’un côté en gardant les genoux alignés.",
+      "sectionTitle": "Positions"
+    },
+    "de": {
+      "title": "Brücke",
+      "description": "1. Lege dich auf den Rücken, Füße nah an der Hüfte, Knie gebeugt, Kinn eingezogen und die Arme schützen den Nacken.\n2. Drücke über beide Füße und Schultern die Hüfte hoch und drehe dann eine Hüftseite nach oben, ohne auf den Nacken zu rollen.\n3. Senke die Hüfte kontrolliert ab oder folge der Drehung zur Seite, wobei die Knie ausgerichtet bleiben.",
+      "sectionTitle": "Positionen"
+    },
+    "it": {
+      "title": "Ponte",
+      "description": "1. Sdraiati sulla schiena con i piedi vicini alle anche, ginocchia piegate, mento retratto e braccia a protezione del collo.\n2. Spingi con entrambi i piedi e le spalle per sollevare le anche, poi ruota un’anca verso l’alto senza rotolare sul collo.\n3. Abbassa le anche con controllo o segui la rotazione su un lato mantenendo le ginocchia allineate.",
+      "sectionTitle": "Posizioni"
+    },
+    "zh-Hans": {
+      "title": "挺桥",
+      "description": "1. 仰卧，双脚靠近髋部，屈膝，收下巴，双臂护住颈部。\n2. 双脚和双肩发力抬起髋部，然后将一侧髋部向上转，不要滚压到颈部。\n3. 有控制地放下髋部，或顺势转向一侧，同时保持膝盖对齐。",
+      "sectionTitle": "位置"
+    },
+    "ja": {
+      "title": "ブリッジ",
+      "description": "1. 仰向けで足を腰の近くに置き、膝を曲げ、顎を引き、腕で首を守ります。\n2. 両足と両肩で押して腰を持ち上げ、首の上に転がらないように片側の腰を上へひねります。\n3. 腰をコントロールして下ろすか、膝をそろえたまま片側へのひねりに沿って動きます。",
+      "sectionTitle": "ポジション"
+    },
+    "ko": {
+      "title": "브릿지",
+      "description": "1. 등을 대고 누워 발을 엉덩이 가까이 두고 무릎을 굽히며, 턱을 당기고 팔로 목을 보호합니다.\n2. 두 발과 어깨로 밀어 엉덩이를 들어 올린 뒤, 목 위로 구르지 않도록 한쪽 엉덩이를 위로 돌립니다.\n3. 엉덩이를 통제하며 내리거나 무릎 정렬을 유지한 채 한쪽으로 회전을 이어갑니다.",
+      "sectionTitle": "포지션"
+    },
+    "th": {
+      "title": "บริดจ์",
+      "description": "1. นอนหงาย วางเท้าใกล้สะโพก งอเข่า เก็บคาง และใช้แขนป้องกันคอ\n2. ดันเท้าทั้งสองและไหล่เพื่อยกสะโพกขึ้น แล้วบิดสะโพกข้างหนึ่งขึ้นโดยไม่กลิ้งลงบนคอ\n3. ลดสะโพกลงอย่างควบคุม หรือตามการบิดไปด้านข้างโดยรักษาแนวเข่าให้ตรง",
+      "sectionTitle": "ตำแหน่ง"
+    },
+    "ru": {
+      "title": "Мост",
+      "description": "1. Лягте на спину, стопы близко к тазу, колени согнуты, подбородок прижат, руки защищают шею.\n2. Оттолкнитесь обеими стопами и плечами, поднимая таз, затем разверните одно бедро вверх, не перекатываясь на шею.\n3. Опустите таз под контролем или продолжите разворот в сторону, удерживая колени на одной линии.",
+      "sectionTitle": "Позиции"
+    },
+    "uk": {
+      "title": "Міст",
+      "description": "1. Ляжте на спину, стопи близько до таза, коліна зігнуті, підборіддя притиснуте, руки захищають шию.\n2. Відштовхніться обома стопами й плечима, піднімаючи таз, потім розверніть одне стегно вгору, не перекочуючись на шию.\n3. Опустіть таз під контролем або продовжте розворот убік, утримуючи коліна на одній лінії.",
+      "sectionTitle": "Позиції"
+    }
+  }
+}

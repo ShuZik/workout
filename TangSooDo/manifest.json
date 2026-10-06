@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "TangSooDo",
+    "id": "101",
+    "icon": "TangSooDo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Tang Soo Do",
+    "workoutType": "tangSooDo",
+    "translations": {
+      "en": {
+        "title": "Tang Soo Do"
+      },
+      "es": {
+        "title": "Tang Soo Do"
+      },
+      "pt": {
+        "title": "Tang Soo Do"
+      },
+      "fr": {
+        "title": "Tang Soo Do"
+      },
+      "de": {
+        "title": "Tang Soo Do"
+      },
+      "it": {
+        "title": "Tang Soo Do"
+      },
+      "zh-Hans": {
+        "title": "唐手道"
+      },
+      "ja": {
+        "title": "タンスド"
+      },
+      "ko": {
+        "title": "당수도"
+      },
+      "th": {
+        "title": "ทังซูโด"
+      },
+      "ru": {
+        "title": "Тансудо"
+      },
+      "uk": {
+        "title": "Тансудо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "TangSooDo/exercises/tangSooDo/Icon.png",
+      "json": "TangSooDo/exercises/tangSooDo/tangSooDo.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/gichoHyungIlBu/Icon.png",
+      "json": "TangSooDo/exercises/gichoHyungIlBu/gichoHyungIlBu.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/gichoHyungYiBu/Icon.png",
+      "json": "TangSooDo/exercises/gichoHyungYiBu/gichoHyungYiBu.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/gichoHyungSahmBu/Icon.png",
+      "json": "TangSooDo/exercises/gichoHyungSahmBu/gichoHyungSahmBu.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/pyongAnChoDan/Icon.png",
+      "json": "TangSooDo/exercises/pyongAnChoDan/pyongAnChoDan.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/pyongAnYiDan/Icon.png",
+      "json": "TangSooDo/exercises/pyongAnYiDan/pyongAnYiDan.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/pyongAnSahmDan/Icon.png",
+      "json": "TangSooDo/exercises/pyongAnSahmDan/pyongAnSahmDan.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/pyongAnSaDan/Icon.png",
+      "json": "TangSooDo/exercises/pyongAnSaDan/pyongAnSaDan.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/pyongAnOhDan/Icon.png",
+      "json": "TangSooDo/exercises/pyongAnOhDan/pyongAnOhDan.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/nianchiChoDan/Icon.png",
+      "json": "TangSooDo/exercises/nianchiChoDan/nianchiChoDan.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/bassai/Icon.png",
+      "json": "TangSooDo/exercises/bassai/bassai.json"
+    },
+    {
+      "icon": "TangSooDo/exercises/koonSanGoon/Icon.png",
+      "json": "TangSooDo/exercises/koonSanGoon/koonSanGoon.json"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "40.29",
+  "key": "karate_heian_nidan",
+  "title": "Heian Nidan",
+  "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Open with double high guards in back stance, then add side snap kicks with back-fist, a shuto-uke series, front kick with reverse punch, and reinforced middle blocks.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "6 Practice",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Heian Nidan",
+      "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Open with double high guards in back stance, then add side snap kicks with back-fist, a shuto-uke series, front kick with reverse punch, and reinforced middle blocks.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
+      "sectionTitle": "Practice"
+    },
+    "es": {
+      "title": "Heian Nidan",
+      "description": "1. Haz el saludo, anuncia el nombre del kata y adopta la posición de preparación yoi con los pies separados, los puños delante de los muslos y la mirada al frente.\n2. Abre con dobles guardias altas en posición atrasada y añade patadas laterales con golpe de revés, una serie de shuto-uke, mae-geri con gyaku-zuki y bloqueos medios reforzados.\n3. Termina en el punto de partida o cerca de él, vuelve a yoi al oír yame, mantén el zanshin un momento y saluda.",
+      "sectionTitle": "Práctica"
+    },
+    "pt": {
+      "title": "Heian Nidan",
+      "description": "1. Faça a saudação, anuncie o nome do kata e assuma a posição de preparação yoi com os pés afastados, os punhos à frente das coxas e o olhar à frente.\n2. Abra com guardas altas duplas na base recuada e acrescente chutes laterais com golpe de costas de punho, uma série de shuto-uke, mae-geri com gyaku-zuki e bloqueios médios reforçados.\n3. Termine no ponto de partida ou perto dele, volte a yoi ao comando yame, mantenha o zanshin por um momento e faça a saudação.",
+      "sectionTitle": "Prática"
+    },
+    "fr": {
+      "title": "Heian Nidan",
+      "description": "1. Saluez, annoncez le nom du kata et prenez la position de préparation yoi, pieds écartés, poings devant les cuisses et regard droit devant.\n2. Ouvrez par des doubles gardes hautes en position arrière, puis ajoutez des coups de pied latéraux avec revers du poing, une série de shuto-uke, mae-geri avec gyaku-zuki et des blocages moyens renforcés.\n3. Terminez au point de départ ou à proximité, revenez en yoi au commandement yame, gardez le zanshin un instant et saluez.",
+      "sectionTitle": "Pratique"
+    },
+    "de": {
+      "title": "Heian Nidan",
+      "description": "1. Verbeuge dich, nenne den Namen der Kata und nimm die Bereitschaftsstellung Yoi ein, Füße auseinander, Fäuste vor den Oberschenkeln, Blick nach vorn.\n2. Beginne mit doppelten hohen Abwehren im Rückwärtsstand, dann folgen seitliche Schnapptritte mit Rückfaust, eine Shuto-uke-Serie, Mae-geri mit Gyaku-zuki und verstärkte mittlere Abwehren.\n3. Beende die Kata am oder nahe dem Startpunkt, kehre bei Yame in Yoi zurück, halte kurz Zanshin und verbeuge dich.",
+      "sectionTitle": "Übung"
+    },
+    "it": {
+      "title": "Heian Nidan",
+      "description": "1. Saluta, annuncia il nome del kata e assumi la posizione di pronti yoi con i piedi divaricati, i pugni davanti alle cosce e lo sguardo in avanti.\n2. Apri con doppie guardie alte in posizione arretrata, poi aggiungi calci laterali con pugno a rovescio, una serie di shuto-uke, mae-geri con gyaku-zuki e parate medie rinforzate.\n3. Concludi sul punto di partenza o vicino a esso, torna in yoi al comando yame, mantieni lo zanshin per un attimo e saluta.",
+      "sectionTitle": "Pratica"
+    },
+    "zh-Hans": {
+      "title": "平安二段",
+      "description": "1. 行礼，报出型的名称，进入预备姿势（yoi）：双脚分开，双拳置于大腿前方，目视前方。\n2. 以后屈立双手上段防守开始，接侧踢配合里拳、连续手刀格挡、前踢接逆冲拳，以及加强式中段格挡。\n3. 在起点或其附近结束，听到“停”（yame）后回到预备姿势，保持片刻残心，然后行礼。",
+      "sectionTitle": "练习"
+    },
+    "ja": {
+      "title": "平安二段",
+      "description": "1. 礼をして型の名前を述べ、足を開き拳を太ももの前に置いた用意の姿勢をとり、前方を見ます。\n2. 後屈立ちの両腕上段受けで始め、横蹴上げと裏拳、手刀受けの連続、前蹴りと逆突き、諸手中段受けを行います。\n3. 演武線の始点またはその近くで終わり、「やめ」で用意に戻り、少し残心を保ってから礼をします。",
+      "sectionTitle": "練習"
+    },
+    "ko": {
+      "title": "헤이안 니단",
+      "description": "1. 인사하고 카타 이름을 말한 뒤, 발을 벌리고 주먹을 허벅지 앞에 둔 요이 준비 자세를 취하고 정면을 봅니다.\n2. 뒷굽이 양팔 상단 방어로 시작해 옆차기와 등주먹, 연속 손날 막기, 앞차기 후 역지르기, 보강 중단 막기를 합니다.\n3. 시작 지점이나 그 근처에서 마치고, 야메 구령에 요이로 돌아와 잠시 잔심을 유지한 뒤 인사합니다.",
+      "sectionTitle": "연습"
+    },
+    "th": {
+      "title": "เฮอัน นิดัน",
+      "description": "1. ทำความเคารพ ประกาศชื่อคาตะ แล้วเข้าสู่ท่าเตรียมโยอิ โดยแยกเท้า กำหมัดไว้หน้าต้นขา และมองตรงไปข้างหน้า\n2. เริ่มด้วยการป้องกันสูงสองแขนในท่ายืนหลัง ตามด้วยเตะข้างพร้อมหมัดหลังมือ ชูโตอุเกะต่อเนื่อง เตะหน้าตามด้วยหมัดสวน และการปัดกลางแบบเสริมแรง\n3. จบที่จุดเริ่มต้นหรือใกล้จุดนั้น กลับสู่โยอิเมื่อได้ยินคำว่ายาเมะ คงซันชินไว้ครู่หนึ่ง แล้วทำความเคารพ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Хэйан нидан",
+      "description": "1. Поклонитесь, назовите ката и займите готовую позицию ёи: стопы врозь, кулаки перед бёдрами, взгляд вперёд.\n2. Начните с двойных верхних защит в задней стойке, затем боковые хлёсткие удары ногой с уракэном, серия сюто-укэ, маэ-гэри с гяку-цуки и усиленные средние блоки.\n3. Завершите в исходной точке или рядом с ней, по команде ямэ вернитесь в ёи, на мгновение сохраните дзансин и поклонитесь.",
+      "sectionTitle": "Практика"
+    },
+    "uk": {
+      "title": "Хейан нідан",
+      "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Почніть із подвійних верхніх захистів у задній стійці, далі бічні хльосткі удари ногою з уракеном, серія шуто-уке, мае-ґері з ґяку-цукі та посилені середні блоки.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
+      "sectionTitle": "Практика"
+    }
+  }
+}

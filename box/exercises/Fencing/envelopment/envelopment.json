@@ -1,0 +1,87 @@
+{
+  "id": "54.18",
+  "key": "fencing_envelopment",
+  "title": "Envelopment",
+  "description": "1. Engage the partner's extended blade with your strong on the partner's weak.\n2. Take the partner's blade through a full circle with continuous contact so it returns to the line of engagement, keeping your point aimed at the target.\n3. Extend and lunge to hit at the end of the circle, recover to en garde, and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Envelopment",
+      "description": "1. Engage the partner's extended blade with your strong on the partner's weak.\n2. Take the partner's blade through a full circle with continuous contact so it returns to the line of engagement, keeping your point aimed at the target.\n3. Extend and lunge to hit at the end of the circle, recover to en garde, and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Envolvimiento",
+      "description": "1. Engancha la hoja extendida del compañero con tu fuerte sobre su débil.\n2. Lleva su hoja en un círculo completo con contacto continuo para que vuelva a la línea de enganche, con tu punta apuntando al blanco.\n3. Extiende y tira a fondo para tocar al final del círculo, vuelve a guardia e intercambia papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Envolvimento",
+      "description": "1. Engaje a lâmina estendida do parceiro com seu forte sobre o fraco dele.\n2. Leve a lâmina dele num círculo completo com contato contínuo para voltar à linha de engajamento, com sua ponta apontada ao alvo.\n3. Estenda e afunde para tocar ao fim do círculo, volte à guarda e troque papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Enveloppement",
+      "description": "1. Engagez le fer allongé du partenaire, votre fort sur son faible.\n2. Faites-lui décrire un cercle complet avec contact continu pour revenir dans la ligne d’engagement, votre pointe dirigée vers la cible.\n3. Allongez et fendez-vous pour toucher en fin de cercle, revenez en garde et inversez après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Kreisbindung (Enveloppement)",
+      "description": "1. Binde die gestreckte Partnerklinge, deine Stärke auf seiner Schwäche.\n2. Führe die Partnerklinge mit durchgehendem Kontakt durch einen vollen Kreis zurück in die Bindungslinie, deine Spitze bleibt aufs Ziel gerichtet.\n3. Strecke und falle am Ende des Kreises zum Treffer aus, kehre zurück und tauscht nach der Serie.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Circolata (enveloppement)",
+      "description": "1. Lega la lama distesa del compagno con il tuo forte sul suo debole.\n2. Portala in un cerchio completo con contatto continuo finché torna nella linea di legamento, con la punta rivolta al bersaglio.\n3. Distendi e affonda per toccare alla fine del cerchio, torna in guardia e scambiate dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "缠剑（Envelopment）",
+      "description": "1. 用你剑的强部压住同伴伸直之剑的弱部接剑。\n2. 保持连续接触，带同伴的剑画一个完整圆圈回到接剑线位，剑尖始终指向目标。\n3. 画圆结束时伸臂弓步刺中，恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "アンヴロップマン",
+      "description": "1. 自分の強部を相手の弱部に当て、伸ばされた相手の剣とアンガージュします。\n2. 接触を保ったまま相手の剣に完全な円を描かせて元のラインに戻し、剣先は標的に向け続けます。\n3. 円の終わりで腕を伸ばしてファントで突き、アンガルドに戻り、セット後に交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "앙블로프망",
+      "description": "1. 내 강부를 파트너 약부에 대고 뻗은 파트너 칼과 인게이지합니다.\n2. 접촉을 계속 유지하며 파트너 칼을 한 바퀴 원으로 돌려 원래 라인으로 되돌리고, 칼끝은 표적을 향하게 합니다.\n3. 원이 끝날 때 팔을 뻗어 런지로 찌르고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "อ็องเวลอปเปอม็อง",
+      "description": "1. แตะใบดาบที่เหยียดของคู่ฝึก ใช้ส่วนแข็งของคุณกดส่วนอ่อนของเขา\n2. พาใบดาบคู่ฝึกหมุนครบวงโดยสัมผัสต่อเนื่องจนกลับสู่แนวที่แตะ ปลายดาบของคุณยังชี้ไปที่เป้า\n3. เหยียดแขนแล้วลันจ์แทงเมื่อจบวง กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Охват (анвелопман)",
+      "description": "1. Возьмите соединение с выпрямленным клинком партнёра, сильной частью на его слабую.\n2. Проведите клинок партнёра по полному кругу с непрерывным контактом обратно в линию соединения, держа остриё направленным в цель.\n3. В конце круга выпрямите руку и выпадом нанесите укол, вернитесь в стойку и поменяйтесь ролями после серии.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Охоплення (анвелопман)",
+      "description": "1. Візьміть з’єднання з випрямленим клинком партнера, сильною частиною на його слабку.\n2. Проведіть клинок партнера повним колом із безперервним контактом назад у лінію з’єднання, тримаючи вістря спрямованим у ціль.\n3. Наприкінці кола випряміть руку й випадом завдайте уколу, поверніться в стійку й поміняйтеся ролями після серії.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

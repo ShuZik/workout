@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#808A94",
+    "colorType": "gray",
+    "folder": "Other",
+    "id": "0",
+    "icon": "Other/Icon.png",
+    "symbolName": "list.bullet",
+    "title": "Other",
+    "workoutType": "other",
+    "translations": {
+      "en": {
+        "title": "Other"
+      },
+      "es": {
+        "title": "Otros"
+      },
+      "pt": {
+        "title": "Outros"
+      },
+      "fr": {
+        "title": "Autres"
+      },
+      "de": {
+        "title": "Sonstige"
+      },
+      "it": {
+        "title": "Altro"
+      },
+      "zh-Hans": {
+        "title": "其他"
+      },
+      "ja": {
+        "title": "その他"
+      },
+      "ko": {
+        "title": "기타"
+      },
+      "th": {
+        "title": "อื่น ๆ"
+      },
+      "ru": {
+        "title": "Другое"
+      },
+      "uk": {
+        "title": "Інше"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Other/exercises/rest/Icon.png",
+      "json": "Other/exercises/rest/rest.json"
+    },
+    {
+      "icon": "Other/exercises/repeat/Icon.png",
+      "json": "Other/exercises/repeat/repeat.json"
+    },
+    {
+      "icon": "Other/exercises/preparation/Icon.png",
+      "json": "Other/exercises/preparation/preparation.json"
+    },
+    {
+      "icon": "Other/exercises/endRepeat/Icon.png",
+      "json": "Other/exercises/endRepeat/endRepeat.json"
+    },
+    {
+      "icon": "Other/exercises/note/Icon.png",
+      "json": "Other/exercises/note/note.json"
+    },
+    {
+      "icon": "Other/exercises/work/Icon.png",
+      "json": "Other/exercises/work/work.json"
+    }
+  ]
+}

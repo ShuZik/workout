@@ -1,0 +1,90 @@
+{
+  "id": "40.15",
+  "key": "karate_mae_geri",
+  "title": "Mae Geri",
+  "description": "1. Shift weight to the supporting leg and lift the kicking knee straight ahead into a compact chamber.\n2. Extend the lower leg and drive the ball of the foot toward the target while keeping the supporting knee soft.\n3. Recoil the foot to the knee chamber before placing it back into a stable stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Mae Geri",
+      "description": "1. Shift weight to the supporting leg and lift the kicking knee straight ahead into a compact chamber.\n2. Extend the lower leg and drive the ball of the foot toward the target while keeping the supporting knee soft.\n3. Recoil the foot to the knee chamber before placing it back into a stable stance.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Mae Geri",
+      "description": "1. Transfiere el peso a la pierna de apoyo y eleva la rodilla que patea directamente al frente en una preparación compacta.\n2. Extiende la parte inferior de la pierna y lleva la almohadilla del pie hacia el objetivo, manteniendo flexible la rodilla de apoyo.\n3. Recoge el pie hasta la posición de rodilla elevada antes de volver a una postura estable.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Mae Geri",
+      "description": "1. Transfira o peso à perna de apoio e eleve o joelho que chuta diretamente à frente, em uma preparação compacta.\n2. Estenda a parte inferior da perna e leve a parte anterior da sola ao alvo, mantendo flexível o joelho de apoio.\n3. Recolha o pé à posição de joelho elevado antes de colocá-lo novamente em uma base estável.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Mae Geri",
+      "description": "1. Transférez le poids sur la jambe d’appui et levez le genou de frappe droit devant en position armée compacte.\n2. Tendez le bas de la jambe et dirigez l’avant de la plante du pied vers la cible, genou d’appui souple.\n3. Ramenez le pied en position armée sous le genou avant de le reposer dans une position stable.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Mae Geri",
+      "description": "1. Verlage das Gewicht auf das Standbein und hebe das tretende Knie gerade nach vorn in eine kompakte Ausgangsposition.\n2. Strecke den Unterschenkel und führe den Fußballen zum Ziel, das Standknie bleibt locker.\n3. Ziehe den Fuß zur angehobenen Knieposition zurück, bevor du ihn wieder in einen stabilen Stand setzt.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Mae Geri",
+      "description": "1. Trasferisci il peso sulla gamba d’appoggio e alza il ginocchio che calcia diritto avanti in una preparazione compatta.\n2. Distendi la parte inferiore della gamba e porta l’avampiede verso il bersaglio mantenendo morbido il ginocchio d’appoggio.\n3. Richiama il piede alla posizione con ginocchio sollevato prima di posarlo in una posizione stabile.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "前踢",
+      "description": "1. 将重心转移到支撑腿，踢击侧膝盖向正前方抬起，紧凑地收腿准备。\n2. 伸展小腿，以前脚掌朝目标踢出，支撑膝保持放松。\n3. 先将脚收回抬膝准备位置，再落回稳定站姿。",
+      "sectionTitle": "踢击"
+    },
+    "ja": {
+      "title": "前蹴り",
+      "description": "1. 支持脚に体重を移し、蹴る膝をまっすぐ前へ上げ、コンパクトに構えます。\n2. 下腿を伸ばして足の付け根の膨らみを目標へ向け、支持脚の膝を柔らかく保ちます。\n3. 足を膝を上げた構えへ引き戻してから、安定した立ち方に戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "마에 게리",
+      "description": "1. 지지 다리로 체중을 옮기고 차는 무릎을 곧게 앞으로 올려 작게 접어 준비합니다.\n2. 종아리를 펴서 앞꿈치로 목표를 향해 차고 지지 무릎은 부드럽게 유지합니다.\n3. 발을 든 무릎 아래 준비 위치로 거둔 뒤 안정적인 자세에 내려놓습니다.",
+      "sectionTitle": "차기"
+    },
+    "th": {
+      "title": "มาเอะเกริ",
+      "description": "1. ถ่ายน้ำหนักสู่ขาที่รองรับและยกเข่าข้างที่เตะตรงไปข้างหน้าในท่าเตรียมที่กระชับ\n2. เหยียดขาส่วนล่างและส่งเนินปลายฝ่าเท้าเข้าหาเป้าหมาย โดยผ่อนเข่าที่รองรับ\n3. ดึงเท้ากลับสู่ท่าเตรียมยกเข่าก่อนวางลงในท่ายืนที่มั่นคง",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Май-гери",
+      "description": "1. Перенесите вес на опорную ногу и поднимите ударное колено прямо вперёд в компактное подготовительное положение.\n2. Разогните голень и направьте подушечку стопы к цели, сохраняя опорное колено мягким.\n3. Верните стопу к поднятому колену перед тем, как поставить её обратно в устойчивую стойку.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Мае-гері",
+      "description": "1. Перенесіть вагу на опорну ногу й підніміть ударне коліно прямо вперед у компактне підготовче положення.\n2. Розігніть гомілку та спрямуйте подушечку стопи до цілі, зберігаючи опорне коліно м’яким.\n3. Поверніть стопу до піднятого коліна перед тим, як поставити її назад у стійку позицію.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

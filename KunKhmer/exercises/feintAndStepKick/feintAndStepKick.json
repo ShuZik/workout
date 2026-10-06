@@ -1,0 +1,90 @@
+{
+  "id": "74.6",
+  "key": "kun_khmer_feint_and_step_kick",
+  "title": "Feint and Step Kick",
+  "description": "1. From guard, show a short feint such as a lead-hand flick or a half-lift of the lead knee.\n2. As the imagined reaction comes, step the lead foot out and throw a full rear roundhouse kick into the opening.\n3. Recoil to guard and reset the distance before repeating with a different feint.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "kunKhmer",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Feint and Step Kick",
+      "description": "1. From guard, show a short feint such as a lead-hand flick or a half-lift of the lead knee.\n2. As the imagined reaction comes, step the lead foot out and throw a full rear roundhouse kick into the opening.\n3. Recoil to guard and reset the distance before repeating with a different feint.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Finta y patada con paso",
+      "description": "1. Desde la guardia, muestra una finta corta, como un amago con la mano adelantada o medio levantamiento de la rodilla adelantada.\n2. Cuando llegue la reacción imaginada, saca el pie adelantado y lanza una patada circular trasera completa al hueco.\n3. Recoge a la guardia y reajusta la distancia antes de repetir con otra finta.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Finta e chute com passo",
+      "description": "1. Da guarda, mostre uma finta curta, como um toque da mão da frente ou meio levantar do joelho da frente.\n2. Quando vier a reação imaginada, abra o pé da frente e solte um chute circular de trás completo na abertura.\n3. Recolha à guarda e reajuste a distância antes de repetir com outra finta.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Feinte et coup de pied avec pas",
+      "description": "1. Depuis la garde, montrez une feinte courte, comme un petit geste de la main avant ou une demi-levée du genou avant.\n2. À la réaction imaginée, sortez le pied avant et lancez un coup de pied circulaire arrière complet dans l’ouverture.\n3. Revenez en garde et réglez la distance avant de répéter avec une autre feinte.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Finte und Schritttritt",
+      "description": "1. Zeige aus der Deckung eine kurze Finte, etwa ein Zucken der Führhand oder ein halbes Anheben des vorderen Knies.\n2. Wenn die gedachte Reaktion kommt, setze den vorderen Fuß aus und schlage einen vollen hinteren Rundtritt in die Lücke.\n3. Ziehe in die Deckung zurück und ordne die Distanz, bevor du mit einer anderen Finte wiederholst.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Finta e calcio con passo",
+      "description": "1. Dalla guardia, mostra una finta breve, come un accenno con la mano anteriore o mezzo sollevamento del ginocchio anteriore.\n2. Alla reazione immaginata, apri il piede anteriore e tira un calcio circolare posteriore completo nel varco.\n3. Torna in guardia e ristabilisci la distanza prima di ripetere con un’altra finta.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "假动作上���踢",
+      "description": "1. 从防守位做一个短促的假动作，如前手轻晃或前膝半提。\n2. 设想对手反应时，前脚向外上步，后腿全力扫踢空当。\n3. 收回防守位并调整距离，再换一种假动作重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "フェイントからのステップキック",
+      "description": "1. ガードから前の手の小さなフェイントや前膝の半上げなど、短いフェイントを見せます。\n2. 想定した反応に合わせて前足を外へ踏み出し、空いた所へ後ろ足の回し蹴りを打ち切ります。\n3. ガードへ引き戻して距離を整え、別のフェイントで繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "페인트 후 스텝 킥",
+      "description": "1. 가드에서 앞손을 살짝 튕기거나 앞무릎을 반쯤 드는 짧은 페인트를 보여 줍니다.\n2. 상상한 반응이 오면 앞발을 바깥으로 내딛고 빈틈에 뒷발 라운드킥을 끝까지 찹니다.\n3. 가드로 회수하고 거리를 맞춘 뒤 다른 페인트로 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "หลอกแล้วก้าวเตะ",
+      "description": "1. จากการ์ด ทำท่าหลอกสั้น ๆ เช่น สะบัดมือหน้าหรือยกเข่าหน้าครึ่งหนึ่ง\n2. เมื่อคู่ต่อสู้ในจินตนาการตอบสนอง ก้าวเท้าหน้าออกแล้วเตะเหวี่ยงขาหลังเต็มแรงเข้าช่องว่าง\n3. ดึงกลับสู่การ์ดและปรับระยะ ก่อนทำซ้ำด้วยท่าหลอกแบบอื่น",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Финт и удар ногой с шагом",
+      "description": "1. Из защиты покажите короткий финт — движение передней рукой или полуподъём переднего колена.\n2. На воображаемую реакцию шагните передней ногой в сторону и нанесите полный круговой удар задней ногой в открытое место.\n3. Вернитесь в защиту и восстановите дистанцию, затем повторите с другим финтом.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Фінт і удар ногою з кроком",
+      "description": "1. Із захисту покажіть короткий фінт — рух передньою рукою або напівпідйом переднього коліна.\n2. На уявну реакцію ступіть передньою ногою вбік і завдайте повного кругового удару задньою ногою у відкрите місце.\n3. Поверніться в захист і відновіть дистанцію, потім повторіть з іншим фінтом.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

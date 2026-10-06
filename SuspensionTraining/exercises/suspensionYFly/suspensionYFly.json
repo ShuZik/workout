@@ -1,0 +1,90 @@
+{
+  "id": "22.23",
+  "key": "suspension_y_fly",
+  "title": "Suspension Y-Fly",
+  "description": "1. Hold the suspension handles with straight arms and lean back into a stable plank.\n2. Raise the arms diagonally overhead into a Y while keeping the ribs down and the shoulders away from the ears.\n3. Return slowly to the starting angle without bending the elbows or losing body alignment.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Upper Body",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Suspension Y-Fly",
+      "description": "1. Hold the suspension handles with straight arms and lean back into a stable plank.\n2. Raise the arms diagonally overhead into a Y while keeping the ribs down and the shoulders away from the ears.\n3. Return slowly to the starting angle without bending the elbows or losing body alignment.",
+      "sectionTitle": "Upper Body"
+    },
+    "es": {
+      "title": "Apertura en Y en suspensión",
+      "description": "1. Sujeta las asas con los brazos rectos e inclínate hacia atrás en una plancha estable.\n2. Eleva los brazos en diagonal por encima de la cabeza formando una Y, con las costillas abajo y los hombros lejos de las orejas.\n3. Vuelve despacio al ángulo inicial sin flexionar los codos ni perder la alineación del cuerpo.",
+      "sectionTitle": "Tren superior"
+    },
+    "pt": {
+      "title": "Abertura em Y suspensa",
+      "description": "1. Segure as alças com os braços estendidos e incline-se para trás em uma prancha estável.\n2. Eleve os braços na diagonal acima da cabeça formando um Y, com as costelas para baixo e os ombros longe das orelhas.\n3. Volte devagar ao ângulo inicial sem flexionar os cotovelos nem perder o alinhamento do corpo.",
+      "sectionTitle": "Membros superiores"
+    },
+    "fr": {
+      "title": "Écarté en Y en suspension",
+      "description": "1. Tenez les poignées bras tendus et penchez-vous en arrière en planche stable.\n2. Montez les bras en diagonale au-dessus de la tête pour former un Y, côtes basses et épaules loin des oreilles.\n3. Revenez lentement à l’angle de départ sans plier les coudes ni perdre l’alignement du corps.",
+      "sectionTitle": "Haut du corps"
+    },
+    "de": {
+      "title": "Y-Heben im Schlingentrainer",
+      "description": "1. Halte die Griffe mit gestreckten Armen und lehn dich in einer stabilen Plank nach hinten.\n2. Heb die Arme diagonal über den Kopf zu einem Y, halte die Rippen unten und die Schultern weg von den Ohren.\n3. Kehr langsam in den Ausgangswinkel zurück, ohne die Ellenbogen zu beugen oder die Körperlinie zu verlieren.",
+      "sectionTitle": "Oberkörper"
+    },
+    "it": {
+      "title": "Apertura a Y in sospensione",
+      "description": "1. Impugna le maniglie con le braccia tese e inclinati indietro in un plank stabile.\n2. Solleva le braccia in diagonale sopra la testa formando una Y, con le costole basse e le spalle lontane dalle orecchie.\n3. Torna lentamente all’inclinazione iniziale senza piegare i gomiti né perdere l’allineamento del corpo.",
+      "sectionTitle": "Parte superiore"
+    },
+    "zh-Hans": {
+      "title": "悬挂Y字飞鸟",
+      "description": "1. 手臂伸直握住悬挂手柄，向后倾成稳定的平板姿势。\n2. 双臂斜向举过头顶成Y字形，肋骨下沉，肩膀远离耳朵。\n3. 缓慢回到起始角度，不要弯曲肘部或失去身体对齐。",
+      "sectionTitle": "上肢"
+    },
+    "ja": {
+      "title": "サスペンション・Yフライ",
+      "description": "1. 腕を伸ばしてサスペンションのハンドルを持ち、安定したプランクの姿勢で後ろに傾きます。\n2. 肋骨を下げ、肩を耳から離したまま、腕を斜め上に上げてYの字を作ります。\n3. 肘を曲げたり体のラインを崩したりせずに、ゆっくり開始時の角度に戻ります。",
+      "sectionTitle": "上半身"
+    },
+    "ko": {
+      "title": "서스펜션 Y 플라이",
+      "description": "1. 팔을 편 채 서스펜션 손잡이를 잡고 안정적인 플랭크 자세로 뒤로 기댑니다.\n2. 갈비뼈를 내리고 어깨를 귀에서 멀리한 채 팔을 대각선으로 머리 위로 들어 Y자를 만듭니다.\n3. 팔꿈치를 굽히거나 몸 정렬을 잃지 않고 천천히 시작 각도로 돌아옵니다.",
+      "sectionTitle": "상체"
+    },
+    "th": {
+      "title": "ซัสเพนชันวายฟลาย",
+      "description": "1. จับที่จับโดยเหยียดแขนตรง แล้วเอนตัวไปด้านหลังในท่าแพลงก์ที่มั่นคง\n2. ยกแขนเฉียงขึ้นเหนือศีรษะเป็นรูปตัว Y โดยกดซี่โครงลงและให้ไหล่ห่างจากหู\n3. กลับสู่มุมเริ่มต้นช้า ๆ โดยไม่งอศอกหรือเสียแนวลำตัว",
+      "sectionTitle": "ร่างกายส่วนบน"
+    },
+    "ru": {
+      "title": "Разведение рук буквой Y в петлях",
+      "description": "1. Держите рукоятки прямыми руками и отклонитесь назад в устойчивой планке.\n2. Поднимите руки по диагонали над головой буквой Y, удерживая рёбра опущенными, а плечи подальше от ушей.\n3. Медленно вернитесь в исходный угол, не сгибая локти и не теряя линии тела.",
+      "sectionTitle": "Верхняя часть тела"
+    },
+    "uk": {
+      "title": "Розведення рук літерою Y у петлях",
+      "description": "1. Тримайте руків’я прямими руками й відхиліться назад у стійкій планці.\n2. Підніміть руки по діагоналі над головою літерою Y, утримуючи ребра опущеними, а плечі подалі від вух.\n3. Повільно поверніться у вихідний кут, не згинаючи лікті й не втрачаючи лінії тіла.",
+      "sectionTitle": "Верхня частина тіла"
+    }
+  }
+}

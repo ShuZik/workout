@@ -1,0 +1,90 @@
+{
+  "id": "11.29",
+  "key": "jump_rope_running_step",
+  "title": "Running Step",
+  "description": "1. Turn the rope at an easy rhythm and lift one foot as it passes underneath.\n2. Land on the opposite foot and immediately lift the other leg as if running in place.\n3. Keep one rope pass per foot strike and make the steps quick, low, and quiet.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 8.3,
+    "moderate": 11.8,
+    "vigorous": 12.3,
+    "lightCode": "15552",
+    "moderateCode": "15551",
+    "vigorousCode": "15550"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Jump Rope",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Running Step",
+      "description": "1. Turn the rope at an easy rhythm and lift one foot as it passes underneath.\n2. Land on the opposite foot and immediately lift the other leg as if running in place.\n3. Keep one rope pass per foot strike and make the steps quick, low, and quiet.",
+      "sectionTitle": "Jump Rope"
+    },
+    "es": {
+      "title": "Paso de carrera",
+      "description": "1. Gira la cuerda a un ritmo cómodo y levanta un pie cuando pase por debajo.\n2. Aterriza sobre el pie contrario y levanta inmediatamente la otra pierna como si corrieras en el sitio.\n3. Mantén una pasada de cuerda por cada apoyo y haz pasos rápidos, bajos y silenciosos.",
+      "sectionTitle": "Saltar a la comba"
+    },
+    "pt": {
+      "title": "Passo de corrida",
+      "description": "1. Gire a corda em um ritmo confortável e levante um pé quando ela passar por baixo.\n2. Aterrisse no pé oposto e levante imediatamente a outra perna como se estivesse correndo no lugar.\n3. Mantenha uma passagem da corda por apoio do pé e faça passos rápidos, baixos e silenciosos.",
+      "sectionTitle": "Pular corda"
+    },
+    "fr": {
+      "title": "Pas de course",
+      "description": "1. Faites tourner la corde à un rythme confortable et levez un pied lorsqu’elle passe dessous.\n2. Réceptionnez-vous sur le pied opposé et levez immédiatement l’autre jambe comme si vous couriez sur place.\n3. Gardez un passage de corde par appui du pied et faites des pas rapides, bas et silencieux.",
+      "sectionTitle": "Corde à sauter"
+    },
+    "de": {
+      "title": "Laufschritt",
+      "description": "1. Drehe das Seil in einem lockeren Rhythmus und hebe einen Fuß, wenn es darunter durchläuft.\n2. Lande auf dem gegenüberliegenden Fuß und hebe sofort das andere Bein, als würdest du auf der Stelle laufen.\n3. Halte einen Seildurchlauf pro Fußkontakt ein und mache die Schritte schnell, niedrig und leise.",
+      "sectionTitle": "Seilspringen"
+    },
+    "it": {
+      "title": "Passo di corsa",
+      "description": "1. Gira la corda a un ritmo comodo e solleva un piede quando passa sotto.\n2. Atterra sul piede opposto e solleva subito l’altra gamba come se corressi sul posto.\n3. Mantieni un passaggio di corda per ogni appoggio e fai passi rapidi, bassi e silenziosi.",
+      "sectionTitle": "Salto con la corda"
+    },
+    "zh-Hans": {
+      "title": "跑步跳",
+      "description": "1. 以轻松节奏转动跳绳，绳子从下方通过时抬起一只脚。\n2. 用另一只脚落地，立即抬起另一条腿，像原地跑步一样。\n3. 每次落脚对应一次绳子通过，步伐快速、低幅度且轻声。",
+      "sectionTitle": "跳绳"
+    },
+    "ja": {
+      "title": "駆け足跳び",
+      "description": "1. 楽なリズムでロープを回し、下を通るときに片足を上げます。\n2. 反対の足で着地してすぐもう一方の脚を上げ、その場で走るように動きます。\n3. 足の着地ごとにロープを1回通し、速く低く静かなステップを保ちます。",
+      "sectionTitle": "縄跳び"
+    },
+    "ko": {
+      "title": "달리기 스텝",
+      "description": "1. 편안한 리듬으로 줄을 돌리고 줄이 아래로 지나갈 때 한 발을 듭니다.\n2. 반대쪽 발로 착지하고 제자리 달리기처럼 즉시 다른 다리를 듭니다.\n3. 발이 닿을 때마다 줄이 한 번 지나가게 하고 빠르고 낮고 조용하게 발을 움직입니다.",
+      "sectionTitle": "줄넘기"
+    },
+    "th": {
+      "title": "การกระโดดแบบวิ่ง",
+      "description": "1. หมุนเชือกด้วยจังหวะสบาย ๆ และยกเท้าข้างหนึ่งเมื่อเชือกผ่านด้านล่าง\n2. ลงบนเท้าอีกข้างแล้วทันทีที่ลงให้ยกขาอีกข้างเหมือนวิ่งอยู่กับที่\n3. ให้เชือกผ่านหนึ่งครั้งต่อการลงเท้าหนึ่งครั้ง และก้าวให้เร็ว ต่ำ และเงียบ",
+      "sectionTitle": "กระโดดเชือก"
+    },
+    "ru": {
+      "title": "Беговой шаг",
+      "description": "1. Вращайте скакалку в лёгком ритме и поднимайте одну стопу, когда она проходит снизу.\n2. Приземлитесь на противоположную стопу и сразу поднимите другую ногу, словно бежите на месте.\n3. Сохраняйте один проход скакалки на каждое касание стопы и делайте шаги быстрыми, низкими и тихими.",
+      "sectionTitle": "Скакалка"
+    },
+    "uk": {
+      "title": "Біговий крок",
+      "description": "1. Обертайте скакалку в легкому ритмі й піднімайте одну стопу, коли вона проходить знизу.\n2. Приземліться на протилежну стопу й одразу підніміть іншу ногу, ніби біжите на місці.\n3. Зберігайте один прохід скакалки на кожен дотик стопи й робіть кроки швидкими, низькими та тихими.",
+      "sectionTitle": "Скакалка"
+    }
+  }
+}

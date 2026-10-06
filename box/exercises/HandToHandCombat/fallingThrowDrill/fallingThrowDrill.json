@@ -1,0 +1,87 @@
+{
+  "id": "59.4",
+  "key": "hand_to_hand_falling_throw",
+  "title": "Falling Throw Drill",
+  "description": "1. With a trained partner on a thick mat, take a secure grip from fighting stance.\n2. Break the partner's balance and throw them as you go down with them, landing in control beside or on top.\n3. Release after landing, rise into stance quickly, and swap roles after several repetitions.",
+  "colorType": "tan",
+  "workoutType": "handToHandCombat",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Falling Throw Drill",
+      "description": "1. With a trained partner on a thick mat, take a secure grip from fighting stance.\n2. Break the partner's balance and throw them as you go down with them, landing in control beside or on top.\n3. Release after landing, rise into stance quickly, and swap roles after several repetitions.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Proyección con caída",
+      "description": "1. Con un compañero entrenado sobre un tatami grueso, toma un agarre firme desde la guardia.\n2. Desequilibra al compañero y proyéctalo cayendo con él, aterrizando con control a su lado o encima.\n3. Suelta tras la caída, levántate rápido en guardia e intercambiad roles tras varias repeticiones.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Projeção com queda",
+      "description": "1. Com um parceiro treinado sobre um tatame grosso, faça uma pegada firme a partir da guarda.\n2. Desequilibre o parceiro e projete-o caindo junto, aterrissando com controle ao lado ou por cima.\n3. Solte após a queda, levante-se rápido em guarda e troquem os papéis após várias repetições.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Projection avec chute",
+      "description": "1. Avec un partenaire entraîné sur un tapis épais, prenez une saisie solide depuis la garde.\n2. Déséquilibrez le partenaire et projetez-le en chutant avec lui, pour atterrir en contrôle à côté ou au-dessus.\n3. Lâchez après la chute, relevez-vous vite en garde et inversez les rôles après plusieurs répétitions.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Wurf mit eigenem Fall",
+      "description": "1. Fasse mit einem geübten Partner auf einer dicken Matte aus der Kampfstellung sicher.\n2. Bringe den Partner aus dem Gleichgewicht und wirf ihn, indem du mit ihm fällst und kontrolliert neben oder auf ihm landest.\n3. Löse nach der Landung, steh schnell in die Stellung auf und tauscht nach einigen Wiederholungen die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Proiezione con caduta",
+      "description": "1. Con un compagno allenato su un tatami spesso, prendi una presa salda dalla guardia.\n2. Sbilancia il compagno e proiettalo cadendo con lui, atterrando con controllo al suo fianco o sopra.\n3. Lascia dopo l’atterraggio, rialzati in fretta in guardia e scambiatevi i ruoli dopo alcune ripetizioni.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "倒地摔练习",
+      "description": "1. 与受过训练的同伴在厚垫上，从实战姿势抓牢。\n2. 破坏同伴平衡，随其一同倒地将其摔出，以受控姿势落在其旁边或上方。\n3. 落地后松开，迅速起身成实战姿势，重复数次后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "自分も倒れる投げドリル",
+      "description": "1. 厚いマット上で訓練されたパートナーと、構えからしっかり組みます。\n2. 相手を崩し、自分も一緒に倒れながら投げ、相手の横か上にコントロールして着地します。\n3. 着地後は放し、素早く立って構え、数回ごとに役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "함께 넘어지는 던지기 드릴",
+      "description": "1. 훈련된 파트너와 두꺼운 매트 위에서 대련 자세로부터 단단히 잡습니다.\n2. 파트너의 균형을 무너뜨리고 함께 넘어지며 던져, 옆이나 위로 통제하며 착지합니다.\n3. 착지 후 놓고 재빨리 일어나 자세를 잡으며 여러 번 반복 후 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ฝึกทุ่มแบบล้มตาม",
+      "description": "1. กับคู่ฝึกที่ผ่านการฝึกบนเบาะหนา จับให้มั่นจากท่าต่อสู้\n2. ทำลายสมดุลคู่ฝึกแล้วทุ่มโดยล้มลงไปด้วย ลงพื้นอย่างควบคุมข้าง ๆ หรือด้านบน\n3. ปล่อยหลังลงพื้น ลุกขึ้นสู่ท่าอย่างรวดเร็ว และสลับบทบาทหลังทำซ้ำหลายครั้ง",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Бросок с падением",
+      "description": "1. С подготовленным партнёром на толстом мате возьмите надёжный захват из боевой стойки.\n2. Выведите партнёра из равновесия и бросьте его, падая вместе с ним и приземляясь под контролем сбоку или сверху.\n3. После приземления отпустите, быстро встаньте в стойку и поменяйтесь ролями после нескольких повторов.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Кидок із падінням",
+      "description": "1. З підготовленим партнером на товстому маті візьміть надійне захоплення з бойової стійки.\n2. Виведіть партнера з рівноваги й киньте його, падаючи разом із ним і приземляючись під контролем збоку або зверху.\n3. Після приземлення відпустіть, швидко встаньте в стійку й поміняйтеся ролями після кількох повторень.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

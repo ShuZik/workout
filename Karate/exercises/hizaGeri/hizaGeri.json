@@ -1,0 +1,90 @@
+{
+  "id": "40.20",
+  "key": "karate_hiza_geri",
+  "title": "Hiza Geri",
+  "description": "1. From close guard, shift weight to the supporting leg and chamber the other knee beneath the torso.\n2. Drive the hip forward and the knee upward into a body pad while keeping the torso upright and toes pulled down.\n3. Withdraw the knee and place the foot back into stance with both hands ready.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Kicks",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hiza Geri",
+      "description": "1. From close guard, shift weight to the supporting leg and chamber the other knee beneath the torso.\n2. Drive the hip forward and the knee upward into a body pad while keeping the torso upright and toes pulled down.\n3. Withdraw the knee and place the foot back into stance with both hands ready.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Hiza Geri",
+      "description": "1. Desde una guardia cercana, transfiere el peso a la pierna de apoyo y prepara la otra rodilla bajo el torso.\n2. Impulsa la cadera hacia delante y la rodilla hacia arriba contra un protector corporal, con torso erguido y dedos del pie hacia abajo.\n3. Retira la rodilla y devuelve el pie a la postura con ambas manos listas.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Hiza Geri",
+      "description": "1. Em guarda próxima, transfira o peso à perna de apoio e prepare o outro joelho sob o tronco.\n2. Leve o quadril à frente e o joelho para cima contra um aparador corporal, com tronco erguido e pontas do pé para baixo.\n3. Recolha o joelho e devolva o pé à base, com ambas as mãos prontas.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Hiza Geri",
+      "description": "1. En garde rapprochée, transférez le poids sur la jambe d’appui et armez l’autre genou sous le torse.\n2. Poussez la hanche vers l’avant et le genou vers le haut dans un bouclier de frappe, torse droit et orteils vers le bas.\n3. Retirez le genou et reposez le pied en position avec les deux mains prêtes.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Hiza Geri",
+      "description": "1. Verlage in enger Deckung das Gewicht auf das Standbein und positioniere das andere Knie unter dem Rumpf.\n2. Schiebe die Hüfte vor und das Knie nach oben in ein Körperpolster, der Rumpf bleibt aufrecht und die Zehen zeigen nach unten.\n3. Ziehe das Knie zurück und stelle den Fuß wieder in den Stand, beide Hände bleiben bereit.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Hiza Geri",
+      "description": "1. Da una guardia ravvicinata, trasferisci il peso sulla gamba d’appoggio e prepara l’altro ginocchio sotto il busto.\n2. Porta l’anca avanti e il ginocchio in alto contro un colpitore per il corpo, con busto eretto e dita del piede verso il basso.\n3. Richiama il ginocchio e riporta il piede in posizione con entrambe le mani pronte.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "膝击",
+      "description": "1. 从近距离护卫姿势开始，将重心转移到支撑腿，另一侧膝盖收在躯干下方。\n2. 髋部向前推动，膝盖向上撞击身体靶，躯干直立，脚尖向下。\n3. 收回膝盖，将脚放回站姿，双手保持准备状态。",
+      "sectionTitle": "踢击"
+    },
+    "ja": {
+      "title": "膝蹴り",
+      "description": "1. 近距離の構えから支持脚に体重を移し、もう一方の膝を胴の下に構えます。\n2. 腰を前へ押し、膝を上へボディミットに当て、胴を起こし、つま先を下に向けます。\n3. 膝を引き戻し、両手を準備したまま足を元の立ち方に戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "히자 게리",
+      "description": "1. 가까운 가드에서 체중을 지지 다리로 옮기고 다른 무릎을 몸통 아래에 준비합니다.\n2. 골반을 앞으로 밀고 무릎을 위로 올려 몸통 미트를 치며 몸통은 세우고 발끝은 아래로 향합니다.\n3. 무릎을 거두고 두 손을 준비한 채 발을 원래 자세에 놓습니다.",
+      "sectionTitle": "차기"
+    },
+    "th": {
+      "title": "ฮิซะเกริ",
+      "description": "1. จากการ์ดระยะประชิด ถ่ายน้ำหนักสู่ขาที่รองรับและเตรียมเข่าอีกข้างไว้ใต้ลำตัว\n2. ส่งสะโพกไปข้างหน้าและเข่าขึ้นกระแทกเป้าลำตัว โดยรักษาลำตัวตั้งตรงและชี้ปลายเท้าลง\n3. ดึงเข่ากลับและวางเท้าสู่ท่ายืน โดยมือทั้งสองพร้อม",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Хидза-гери",
+      "description": "1. Из ближней защитной стойки перенесите вес на опорную ногу и подведите другое колено под корпус.\n2. Подайте таз вперёд и колено вверх в корпусную подушку, удерживая корпус вертикально и направив носок вниз.\n3. Отведите колено и верните стопу в стойку, сохраняя обе руки готовыми.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Хідза-гері",
+      "description": "1. Із ближньої захисної стійки перенесіть вагу на опорну ногу та підведіть інше коліно під тулуб.\n2. Подайте таз уперед і коліно вгору в корпусну подушку, тримаючи тулуб вертикально та спрямувавши носок униз.\n3. Відведіть коліно й поверніть стопу в стійку, зберігаючи обидві руки готовими.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

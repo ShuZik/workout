@@ -1,0 +1,87 @@
+{
+  "id": "53.6",
+  "key": "dambe_spear_punch_pad_drill",
+  "title": "Spear Punch Pad Drill",
+  "description": "1. Holder wears a body shield or holds a focus mitt at chest height, well away from the face; striker takes the dambe stance.\n2. Striker steps in and fires straight spear punches into the pad on the holder's call; holder braces and gives slightly on impact.\n3. Strike the pad only, never the head, keep power controlled, and swap roles when the holder calls stop.",
+  "colorType": "tan",
+  "workoutType": "dambe",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 9.3,
+    "vigorous": 12.3,
+    "lightCode": "15110",
+    "moderateCode": "15125",
+    "vigorousCode": "15100"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Spear Punch Pad Drill",
+      "description": "1. Holder wears a body shield or holds a focus mitt at chest height, well away from the face; striker takes the dambe stance.\n2. Striker steps in and fires straight spear punches into the pad on the holder's call; holder braces and gives slightly on impact.\n3. Strike the pad only, never the head, keep power controlled, and swap roles when the holder calls stop.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Golpe de lanza a las manoplas",
+      "description": "1. El sujetador lleva un protector de cuerpo o una manopla a la altura del pecho, lejos de la cara; el golpeador adopta la guardia de dambe.\n2. El golpeador entra y lanza golpes rectos de lanza a la manopla a la orden del sujetador; este se afianza y cede un poco al impacto.\n3. Golpea solo la manopla, nunca la cabeza, con potencia controlada, y cambiad de rol cuando el sujetador diga alto.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Soco de lança na manopla",
+      "description": "1. O segurador usa um protetor de tronco ou segura uma manopla na altura do peito, longe do rosto; o golpeador assume a base do dambe.\n2. O golpeador entra e dispara socos retos de lança na manopla ao comando do segurador; este se firma e cede um pouco no impacto.\n3. Golpeie só a manopla, nunca a cabeça, com força controlada, e troquem de papel quando o segurador disser pare.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Coup de lance aux pattes d'ours",
+      "description": "1. Le teneur porte un plastron ou tient une patte d'ours à hauteur de poitrine, loin du visage ; le frappeur prend la garde de dambe.\n2. Le frappeur entre et lance des coups droits de la lance dans la cible au signal du teneur ; celui-ci se cale et cède un peu à l'impact.\n3. Ne frappez que la cible, jamais la tête, avec une puissance contrôlée, et inversez les rôles quand le teneur annonce stop.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Speerschlag an die Pratze",
+      "description": "1. Der Halter trägt einen Körperschutz oder hält eine Pratze auf Brusthöhe, weit weg vom Gesicht; der Schlagende geht in die Dambe-Stellung.\n2. Der Schlagende tritt ein und schlägt auf Kommando des Halters gerade Speerschläge in die Pratze; der Halter stemmt sich und gibt beim Treffer leicht nach.\n3. Schlage nur die Pratze, nie den Kopf, mit kontrollierter Kraft, und wechselt die Rollen, wenn der Halter Stopp ruft.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Pugno di lancia ai colpitori",
+      "description": "1. Chi tiene indossa un paracolpi da corpo o tiene un colpitore all'altezza del petto, lontano dal viso; chi colpisce assume la guardia di dambe.\n2. Chi colpisce entra e tira pugni dritti di lancia nel colpitore al comando di chi tiene; questi si irrigidisce e cede un poco all'impatto.\n3. Colpisci solo il colpitore, mai la testa, con potenza controllata, e scambiatevi i ruoli quando chi tiene chiama lo stop.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "矛手打手靶练习",
+      "description": "1. 持靶者穿护身或把手靶举在胸部高度，远离面部；击打者摆出丹贝站姿。\n2. 击打者按持靶者口令上步，用矛手直拳打入手靶；持靶者稳住并在受击时略微缓冲。\n3. 只打手靶，绝不打头部，控制力量，持靶者喊停时交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "槍の手のミット打ち",
+      "description": "1. 持ち手はボディシールドを着けるか、顔から十分離して胸の高さでミットを構え、打ち手はダンベの構えをとります。\n2. 打ち手は持ち手の合図で踏み込み、槍の手のストレートをミットに打ち込み、持ち手は踏ん張って衝撃を少し吸収します。\n3. ミットだけを打ち、頭は決して打たず、力を制御し、持ち手が止めの合図を出したら役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "창 손 미트 드릴",
+      "description": "1. 홀더는 바디 실드를 착용하거나 얼굴에서 멀리 가슴 높이로 미트를 들고, 타격자는 담베 자세를 잡습니다.\n2. 타격자는 홀더의 신호에 맞춰 들어가 창 손 스트레이트를 미트에 꽂고, 홀더는 버티며 충격 시 살짝 흡수합니다.\n3. 미트만 치고 머리는 절대 치지 않으며 힘을 제어하고, 홀더가 정지를 외치면 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฝึกหมัดหอกกับเป้ามือ",
+      "description": "1. ผู้ถือเป้าสวมเป้าลำตัวหรือถือเป้ามือไว้ระดับอก ห่างจากใบหน้า ผู้ชกตั้งท่าดัมเบ\n2. ผู้ชกก้าวเข้าและปล่อยหมัดตรงมือหอกเข้าเป้าตามสัญญาณของผู้ถือเป้า ผู้ถือเป้ายืนมั่นและผ่อนแรงเล็กน้อยเมื่อรับหมัด\n3. ชกเฉพาะเป้า ห้ามชกศีรษะเด็ดขาด ควบคุมแรง และสลับบทบาทเมื่อผู้ถือเป้าสั่งหยุด",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Удар копьём по лапам",
+      "description": "1. Держатель надевает защитный щит на корпус или держит лапу на уровне груди, подальше от лица; бьющий встаёт в стойку дамбе.\n2. По команде держателя бьющий шагает вперёд и наносит прямые удары рукой-копьём в лапу; держатель упирается и слегка амортизирует удар.\n3. Бейте только в лапу, никогда в голову, контролируйте силу и меняйтесь ролями, когда держатель скажет стоп.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Удар списом по лапах",
+      "description": "1. Тримач одягає захисний щит на корпус або тримає лапу на рівні грудей, подалі від обличчя; той, хто б'є, стає в стійку дамбе.\n2. За командою тримача той, хто б'є, ступає вперед і завдає прямих ударів рукою-списом у лапу; тримач упирається й трохи амортизує удар.\n3. Бийте лише в лапу, ніколи в голову, контролюйте силу й міняйтеся ролями, коли тримач скаже стоп.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

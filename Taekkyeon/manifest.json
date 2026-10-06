@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#2BBF51",
+    "colorType": "green",
+    "folder": "Taekkyeon",
+    "id": "99",
+    "icon": "Taekkyeon/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Taekkyeon",
+    "workoutType": "taekkyeon",
+    "translations": {
+      "en": {
+        "title": "Taekkyeon"
+      },
+      "es": {
+        "title": "Taekkyeon"
+      },
+      "pt": {
+        "title": "Taekkyeon"
+      },
+      "fr": {
+        "title": "Taekkyeon"
+      },
+      "de": {
+        "title": "Taekkyeon"
+      },
+      "it": {
+        "title": "Taekkyeon"
+      },
+      "zh-Hans": {
+        "title": "跆跟"
+      },
+      "ja": {
+        "title": "テッキョン"
+      },
+      "ko": {
+        "title": "택견"
+      },
+      "th": {
+        "title": "แทกย็อน"
+      },
+      "ru": {
+        "title": "Тхэккён"
+      },
+      "uk": {
+        "title": "Теккьон"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Taekkyeon/exercises/taekkyeon/Icon.png",
+      "json": "Taekkyeon/exercises/taekkyeon/taekkyeon.json"
+    },
+    {
+      "icon": "Taekkyeon/exercises/pumBalgi/Icon.png",
+      "json": "Taekkyeon/exercises/pumBalgi/pumBalgi.json"
+    },
+    {
+      "icon": "Taekkyeon/exercises/hwalGaetJit/Icon.png",
+      "json": "Taekkyeon/exercises/hwalGaetJit/hwalGaetJit.json"
+    },
+    {
+      "icon": "Taekkyeon/exercises/majuDaegi/Icon.png",
+      "json": "Taekkyeon/exercises/majuDaegi/majuDaegi.json"
+    },
+    {
+      "icon": "Taekkyeon/exercises/gyeoruGi/Icon.png",
+      "json": "Taekkyeon/exercises/gyeoruGi/gyeoruGi.json"
+    }
+  ]
+}

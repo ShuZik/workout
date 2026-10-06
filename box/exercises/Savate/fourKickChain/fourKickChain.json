@@ -1,0 +1,87 @@
+{
+  "id": "89.4",
+  "key": "savate_four_kick_chain",
+  "title": "Four-Kick Chain",
+  "description": "1. Face a partner holding a kick shield or working light assaut, both in guard at kicking distance.\n2. Link at least four savate kicks in one flowing attack, changing height or side, for example fouetté, chassé, revers and coup de pied bas.\n3. Touch with control, finish in guard out of range, then swap roles; either partner can call stop at any moment.",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Four-Kick Chain",
+      "description": "1. Face a partner holding a kick shield or working light assaut, both in guard at kicking distance.\n2. Link at least four savate kicks in one flowing attack, changing height or side, for example fouetté, chassé, revers and coup de pied bas.\n3. Touch with control, finish in guard out of range, then swap roles; either partner can call stop at any moment.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Cadena de cuatro patadas",
+      "description": "1. Colócate frente a un compañero con escudo de patadas o en asalto ligero, ambos en guardia a distancia de pierna.\n2. Encadena al menos cuatro patadas de savate en un ataque fluido, cambiando altura o lado, por ejemplo fouetté, chassé, revers y coup de pied bas.\n3. Toca con control, termina en guardia fuera de alcance y luego intercambiad roles; cualquiera puede pedir alto en todo momento.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Cadeia de quatro chutes",
+      "description": "1. Fique de frente para um parceiro com escudo de chutes ou em assalto leve, ambos em guarda na distância de chute.\n2. Encadeie pelo menos quatro chutes de savate num ataque fluido, mudando altura ou lado, por exemplo fouetté, chassé, revers e coup de pied bas.\n3. Toque com controle, termine em guarda fora de alcance e troquem os papéis; qualquer um pode pedir para parar a qualquer momento.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Enchaînement de quatre coups de pied",
+      "description": "1. Face à un partenaire tenant un bouclier ou en assaut léger, tous deux en garde à distance de jambe.\n2. Enchaînez au moins quatre coups de pied de savate en une attaque fluide, en variant hauteur ou côté, par exemple fouetté, chassé, revers et coup de pied bas.\n3. Touchez avec contrôle, finissez en garde hors de portée, puis inversez les rôles ; chacun peut demander l’arrêt à tout moment.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Vierer-Trittkette",
+      "description": "1. Stelle dich einem Partner mit Trittpolster oder im leichten Assaut gegenüber, beide in Deckung auf Trittdistanz.\n2. Verbinde mindestens vier Savate-Tritte zu einem fließenden Angriff mit Höhen- oder Seitenwechsel, etwa Fouetté, Chassé, Revers und Coup de pied bas.\n3. Triff kontrolliert, ende in Deckung außer Reichweite und tauscht dann die Rollen; jeder darf jederzeit Stopp rufen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Catena di quattro calci",
+      "description": "1. Mettiti di fronte a un compagno con scudo da calci o in assalto leggero, entrambi in guardia a distanza di calcio.\n2. Collega almeno quattro calci di savate in un attacco fluido, cambiando altezza o lato, per esempio fouetté, chassé, revers e coup de pied bas.\n3. Tocca con controllo, chiudi in guardia fuori portata e poi scambiatevi i ruoli; chiunque può chiedere lo stop in qualsiasi momento.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "四腿连击",
+      "description": "1. 与持踢靶或进行轻接触对练（assaut）的同伴相对，双方在腿法距离保持防守势。\n2. 在一次流畅进攻中连接至少四个法式踢拳腿法，变换高度或方向，例如鞭腿、蹬踢、反勾踢和低踢。\n3. 控制接触力度，结束时以防守势退出攻击范围，然后交换角色；任何一方都可随时喊停。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "4連続キック",
+      "description": "1. キックシールドを持つパートナー、またはライトなアソーで動くパートナーと、蹴りの間合いで構えて向き合います。\n2. 高さや左右を変えながら、少なくとも4つのサバットキックを一連の攻撃でつなぎます（例：フェッテ、シャッセ、ルヴェール、クー・ド・ピエ・バ）。\n3. コントロールして当て、間合いの外で構えて終わり、役割を交代します。どちらもいつでも中止を求められます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "4연속 킥",
+      "description": "1. 킥 실드를 든 파트너 또는 가벼운 아소를 하는 파트너와 킥 거리에서 가드를 잡고 마주 섭니다.\n2. 높이나 방향을 바꾸며 사바트 킥 최소 4개를 하나의 흐르는 공격으로 연결합니다. 예: 푸에테, 샤세, 르베르, 쿠 드 피에 바.\n3. 통제된 접촉으로 마무리하고 사거리 밖에서 가드로 끝낸 뒤 역할을 바꿉니다. 누구든 언제든 정지를 외칠 수 있습니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ชุดเตะสี่ครั้ง",
+      "description": "1. ยืนเผชิญคู่ฝึกที่ถือเป้าเตะหรือซ้อมอัสโซเบา ๆ ทั้งคู่อยู่ในการ์ดที่ระยะเตะ\n2. ต่อลูกเตะซาวาตอย่างน้อยสี่ครั้งในการโจมตีต่อเนื่อง สลับระดับหรือด้าน เช่น ฟูเอ็ตเต ชาสเซ เรอแวร์ และคูเดอปีเยบา\n3. สัมผัสอย่างควบคุม จบในการ์ดนอกระยะ แล้วสลับบทบาท ใครก็สั่งหยุดได้ทุกเมื่อ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Серия из четырёх ударов ногами",
+      "description": "1. Встаньте напротив партнёра с макиверой для ног или в лёгком ассо, оба в стойке на дистанции удара ногой.\n2. Свяжите не менее четырёх ударов ногами савата в одну слитную атаку, меняя уровень или сторону, например фуэте, шассе, ревер и ку-де-пье-ба.\n3. Касайтесь с контролем, закончите в стойке вне досягаемости и поменяйтесь ролями; любой может остановить упражнение в любой момент.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Серія з чотирьох ударів ногами",
+      "description": "1. Станьте навпроти партнера з маківарою для ніг або в легкому асо, обидва в стійці на дистанції удару ногою.\n2. Зв’яжіть щонайменше чотири удари ногами савату в одну злиту атаку, змінюючи рівень або бік, наприклад фуете, шасе, ревер і ку-де-п’є-ба.\n3. Торкайтеся з контролем, завершіть у стійці поза досяжністю й поміняйтеся ролями; будь-хто може зупинити вправу будь-якої миті.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

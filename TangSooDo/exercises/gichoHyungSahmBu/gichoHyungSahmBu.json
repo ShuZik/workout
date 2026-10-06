@@ -1,0 +1,90 @@
+{
+  "id": "101.4",
+  "key": "tang_soo_do_gicho_hyung_sahm_bu",
+  "title": "Gicho Hyung Sahm Bu",
+  "description": "1. Start in ready stance on the I-shaped floor line.\n2. Turn into back stance with a middle block, then step forward into front stance with a middle punch, repeating through each turn and along the center line.\n3. Change cleanly between back and front stances, shout kihap where prescribed, and finish in ready stance at the start point.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "tangSooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Gicho Hyung Sahm Bu",
+      "description": "1. Start in ready stance on the I-shaped floor line.\n2. Turn into back stance with a middle block, then step forward into front stance with a middle punch, repeating through each turn and along the center line.\n3. Change cleanly between back and front stances, shout kihap where prescribed, and finish in ready stance at the start point.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Gicho Hyung Sahm Bu",
+      "description": "1. Empieza en posición de preparación sobre la línea en forma de I.\n2. Gira a posición retrasada con bloqueo medio y luego avanza a posición adelantada con puñetazo medio, repitiendo en cada giro y en la línea central.\n3. Cambia con limpieza entre posición retrasada y adelantada, haz kihap donde corresponda y termina en posición de preparación en el inicio.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Gicho Hyung Sahm Bu",
+      "description": "1. Comece em prontidão na linha em forma de I.\n2. Vire para base recuada com bloqueio médio e depois avance para base frontal com soco médio, repetindo a cada giro e na linha central.\n3. Troque com precisão entre base recuada e frontal, dê kihap onde indicado e termine em prontidão no início.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Gicho Hyung Sahm Bu",
+      "description": "1. Commencez en position prête sur la ligne en I.\n2. Tournez en position arrière avec blocage moyen, puis avancez en position avant avec coup de poing moyen, à chaque virage et sur la ligne centrale.\n3. Passez nettement de la position arrière à la position avant, kihap aux endroits prévus, et finissez en position prête au départ.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Gicho Hyung Sahm Bu",
+      "description": "1. In Bereitschaftsstellung auf der I-förmigen Linie beginnen.\n2. In Rückwärtsstellung mit mittlerem Block drehen, dann in Vorwärtsstellung mit mittlerem Fauststoß vorgehen, bei jeder Wendung und auf der Mittellinie.\n3. Sauber zwischen Rückwärts- und Vorwärtsstellung wechseln, Kihap an den vorgesehenen Stellen und in Bereitschaftsstellung am Start enden.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Gicho Hyung Sahm Bu",
+      "description": "1. Inizia in posizione di attesa sulla linea a I.\n2. Gira in posizione arretrata con parata media, poi avanza in posizione frontale con pugno medio, a ogni giro e sulla linea centrale.\n3. Passa in modo pulito tra posizione arretrata e frontale, kihap dove previsto e termina in posizione di attesa all’inizio.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "基础形三部",
+      "description": "1. 在工字形路线上以准备式开始。\n2. 转身成后屈站姿中段格挡，再上步成前屈站姿中段冲拳，每次转身及沿中线重复。\n3. 后屈与前屈之间转换干净利落，在规定处发声，最后在起点回到准备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "基礎形三部（キチョ・ヒョン・サムブ）",
+      "description": "1. I字形の演武線で準備の姿勢から始めます。\n2. 後屈立ちで中段受けに転身し、前屈立ちへ踏み出して中段突き。転身ごとと中央の列で繰り返します。\n3. 後屈立ちと前屈立ちを明確に切り替え、決められた所で気合を入れ、開始位置で準備の姿勢に戻ります。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "기초형 삼부",
+      "description": "1. I자 연무선에서 준비 자세로 시작합니다.\n2. 후굴 자세로 돌며 중단 막기, 이어 전굴 자세로 나아가며 중단 지르기, 돌 때마다와 가운데 줄에서 반복합니다.\n3. 후굴과 전굴을 깔끔하게 바꾸고 정해진 곳에서 기합을 넣은 뒤 시작점에서 준비 자세로 끝냅니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "กีโชฮยองซัมบู",
+      "description": "1. เริ่มในท่าเตรียมบนเส้นรูปตัว I\n2. หมุนเข้าท่ายืนหลังพร้อมปัดกลาง แล้วก้าวเข้าท่ายืนหน้าพร้อมต่อยกลาง ทำซ้ำทุกครั้งที่หมุนและบนแนวกลาง\n3. เปลี่ยนระหว่างท่ายืนหลังและยืนหน้าอย่างชัดเจน เปล่งเสียงคีฮับตามที่กำหนด และจบในท่าเตรียมที่จุดเริ่ม",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Гичо хён сам бу",
+      "description": "1. Начните в стойке готовности на I-образной линии.\n2. Повернитесь в заднюю стойку со средним блоком, затем шагните в переднюю стойку с ударом в средний уровень, повторяя на каждом повороте и по центральной линии.\n3. Чётко меняйте заднюю и переднюю стойки, выполните кихап в положенных местах и закончите в стойке готовности в начале.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Гічо хйон сам бу",
+      "description": "1. Почніть у стійці готовності на I-подібній лінії.\n2. Поверніться в задню стійку із середнім блоком, потім ступіть у передню стійку з ударом у середній рівень, повторюючи на кожному повороті й по центральній лінії.\n3. Чітко змінюйте задню й передню стійки, виконайте кіхап у належних місцях і закінчіть у стійці готовності на початку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

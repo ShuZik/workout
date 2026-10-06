@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#808A94",
+    "colorType": "gray",
+    "folder": "Iaido",
+    "id": "63",
+    "icon": "Iaido/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Iaido",
+    "workoutType": "iaido",
+    "translations": {
+      "en": {
+        "title": "Iaido"
+      },
+      "es": {
+        "title": "Iaido"
+      },
+      "pt": {
+        "title": "Iaidô"
+      },
+      "fr": {
+        "title": "Iaïdo"
+      },
+      "de": {
+        "title": "Iaidō"
+      },
+      "it": {
+        "title": "Iaido"
+      },
+      "zh-Hans": {
+        "title": "居合道"
+      },
+      "ja": {
+        "title": "居合道"
+      },
+      "ko": {
+        "title": "이아이도"
+      },
+      "th": {
+        "title": "อิไอโด"
+      },
+      "ru": {
+        "title": "Иайдо"
+      },
+      "uk": {
+        "title": "Іайдо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Iaido/exercises/iaido/Icon.png",
+      "json": "Iaido/exercises/iaido/iaido.json"
+    },
+    {
+      "icon": "Iaido/exercises/mae/Icon.png",
+      "json": "Iaido/exercises/mae/mae.json"
+    },
+    {
+      "icon": "Iaido/exercises/ushiro/Icon.png",
+      "json": "Iaido/exercises/ushiro/ushiro.json"
+    },
+    {
+      "icon": "Iaido/exercises/ukenagashi/Icon.png",
+      "json": "Iaido/exercises/ukenagashi/ukenagashi.json"
+    },
+    {
+      "icon": "Iaido/exercises/tsukaAte/Icon.png",
+      "json": "Iaido/exercises/tsukaAte/tsukaAte.json"
+    },
+    {
+      "icon": "Iaido/exercises/kesagiri/Icon.png",
+      "json": "Iaido/exercises/kesagiri/kesagiri.json"
+    },
+    {
+      "icon": "Iaido/exercises/moroteZuki/Icon.png",
+      "json": "Iaido/exercises/moroteZuki/moroteZuki.json"
+    },
+    {
+      "icon": "Iaido/exercises/sanpogiri/Icon.png",
+      "json": "Iaido/exercises/sanpogiri/sanpogiri.json"
+    },
+    {
+      "icon": "Iaido/exercises/ganmenAte/Icon.png",
+      "json": "Iaido/exercises/ganmenAte/ganmenAte.json"
+    },
+    {
+      "icon": "Iaido/exercises/soeteZuki/Icon.png",
+      "json": "Iaido/exercises/soeteZuki/soeteZuki.json"
+    },
+    {
+      "icon": "Iaido/exercises/shihogiri/Icon.png",
+      "json": "Iaido/exercises/shihogiri/shihogiri.json"
+    },
+    {
+      "icon": "Iaido/exercises/sogiri/Icon.png",
+      "json": "Iaido/exercises/sogiri/sogiri.json"
+    },
+    {
+      "icon": "Iaido/exercises/nukiuchi/Icon.png",
+      "json": "Iaido/exercises/nukiuchi/nukiuchi.json"
+    }
+  ]
+}

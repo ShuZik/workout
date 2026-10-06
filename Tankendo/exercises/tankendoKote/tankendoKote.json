@@ -1,0 +1,91 @@
+{
+  "id": "102.3",
+  "key": "tankendo_kote",
+  "title": "Tankendo Kote",
+  "description": "1. Both partners wear bogu; the attacker holds the short sword in the right hand facing the partner's forward hand at close distance.\n2. With a small quick step, cut down onto the partner's gauntleted wrist with a short snap of the right arm, calling the target with kiai.\n3. Withdraw at once to kamae or step out; the receiver resets and roles alternate.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "tankendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Partner Techniques",
+  "target": "wrist",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tankendo Kote",
+      "description": "1. Both partners wear bogu; the attacker holds the short sword in the right hand facing the partner's forward hand at close distance.\n2. With a small quick step, cut down onto the partner's gauntleted wrist with a short snap of the right arm, calling the target with kiai.\n3. Withdraw at once to kamae or step out; the receiver resets and roles alternate.",
+      "sectionTitle": "Partner Techniques"
+    },
+    "es": {
+      "title": "Kote",
+      "description": "1. Ambos llevan bogu; el atacante sostiene la espada corta en la mano derecha frente a la mano adelantada del compañero a corta distancia.\n2. Con un paso pequeño y rápido, corta sobre la muñeca enguantada del compañero con un golpe corto del brazo derecho, anunciando el objetivo con kiai.\n3. Retírate de inmediato a kamae o sal; el receptor se reinicia y se alternan los roles.",
+      "sectionTitle": "Técnicas en pareja"
+    },
+    "pt": {
+      "title": "Kote",
+      "description": "1. Ambos usam bogu; o atacante segura a espada curta na mão direita diante da mão da frente do parceiro a curta distância.\n2. Com um passo pequeno e rápido, corte sobre o punho enluvado do parceiro com um golpe curto do braço direito, anunciando o alvo com kiai.\n3. Recue imediatamente a kamae ou saia; o receptor recomeça e os papéis alternam.",
+      "sectionTitle": "Técnicas em dupla"
+    },
+    "fr": {
+      "title": "Kote",
+      "description": "1. Les deux portent le bogu ; l’attaquant tient le sabre court main droite face à la main avant du partenaire, à courte distance.\n2. D’un petit pas rapide, coupez sur le poignet ganté du partenaire par un claquement court du bras droit, en annonçant la cible par le kiai.\n3. Revenez aussitôt en kamae ou sortez ; le receveur se replace et les rôles alternent.",
+      "sectionTitle": "Techniques à deux"
+    },
+    "de": {
+      "title": "Kote",
+      "description": "1. Beide tragen Bogu; der Angreifer hält das Kurzschwert rechts gegenüber der vorderen Hand des Partners auf kurzer Distanz.\n2. Mit kleinem schnellem Schritt mit kurzem Schnappen des rechten Arms auf das behandschuhte Handgelenk schneiden, Ziel mit Kiai ansagen.\n3. Sofort ins Kamae zurück oder heraustreten; der Partner setzt neu an, die Rollen wechseln.",
+      "sectionTitle": "Partnertechniken"
+    },
+    "it": {
+      "title": "Kote",
+      "description": "1. Entrambi indossano il bogu; l’attaccante tiene la spada corta nella mano destra di fronte alla mano avanzata del compagno a distanza ravvicinata.\n2. Con un passo piccolo e rapido, taglia sul polso guantato del compagno con uno scatto breve del braccio destro, chiamando il bersaglio con il kiai.\n3. Torna subito in kamae o esci; il ricevente si riposiziona e i ruoli si alternano.",
+      "sectionTitle": "Tecniche in coppia"
+    },
+    "zh-Hans": {
+      "title": "小手击",
+      "description": "1. 双方穿戴护具；进攻者右手持短剑，近距离面对对方前手。\n2. 以小而快的步伐，用右臂短促一击斩向对方戴护手的手腕，以气合喊出部位。\n3. 立即恢复构势或退出；接受者重新准备，角色轮换。",
+      "sectionTitle": "对练技术"
+    },
+    "ja": {
+      "title": "小手打ち",
+      "description": "1. 互いに防具を着け、打つ側は右手に短剣を持ち、近い間合いで相手の前の手に向かいます。\n2. 小さく素早い踏み込みで、右腕を短く鋭く使って相手の小手を打ち、気合で部位を発声します。\n3. すぐに構えに戻るか間合いを切り、受け側は構え直し、役割を交代します。",
+      "sectionTitle": "対人技"
+    },
+    "ko": {
+      "title": "손목치기",
+      "description": "1. 둘 다 호구를 착용하고, 공격자는 오른손에 짧은 칼을 들고 가까운 거리에서 상대의 앞손을 마주합니다.\n2. 작고 빠른 걸음으로 오른팔을 짧게 튕겨 상대의 장갑 낀 손목을 베고 기합으로 부위를 외칩니다.\n3. 즉시 자세로 돌아오거나 빠져나오고, 받는 사람은 다시 준비하며 역할을 바꿉니다.",
+      "sectionTitle": "짝 기술"
+    },
+    "th": {
+      "title": "โคเตะ",
+      "description": "1. ทั้งคู่สวมโบงุ ผู้โจมตีถือดาบสั้นมือขวาหันหน้าเข้าหามือหน้าของคู่ฝึกในระยะใกล้\n2. ก้าวสั้นเร็วแล้วฟันลงที่ข้อมือที่สวมถุงมือของคู่ฝึกด้วยการสะบัดแขนขวาสั้นๆ พร้อมเปล่งคิไอบอกเป้า\n3. ถอยกลับสู่ท่าหรือออกจากระยะทันที ผู้รับตั้งใหม่และสลับบทบาท",
+      "sectionTitle": "เทคนิคคู่"
+    },
+    "ru": {
+      "title": "Котэ",
+      "description": "1. Оба в защитном снаряжении; атакующий держит короткий меч в правой руке напротив передней руки партнёра на близкой дистанции.\n2. Небольшим быстрым шагом рубите по защищённому запястью партнёра коротким хлёстким движением правой руки, называя цель киай.\n3. Сразу вернитесь в камаэ или выйдите; партнёр перестраивается, роли меняются.",
+      "sectionTitle": "Парные техники"
+    },
+    "uk": {
+      "title": "Коте",
+      "description": "1. Обоє в захисному спорядженні; атакувальник тримає короткий меч у правій руці навпроти передньої руки партнера на близькій дистанції.\n2. Невеликим швидким кроком рубайте по захищеному зап’ястю партнера коротким хльостким рухом правої руки, називаючи ціль кіай.\n3. Одразу поверніться в камае або вийдіть; партнер перешиковується, ролі змінюються.",
+      "sectionTitle": "Парні техніки"
+    }
+  }
+}

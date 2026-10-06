@@ -1,0 +1,90 @@
+{
+  "id": "100.3",
+  "key": "taido_jissen",
+  "title": "Jissen",
+  "description": "1. Two partners in protective equipment face off in taido stance; agree that only the torso is a target and the head is excluded.\n2. Exchange controlled kicks and strikes from proper taido movement, using constant footwork, angle changes, and twisting or turning techniques.\n3. Retract each scoring technique and return to stance; strikes indicate the opening without knockout power, and both stop at once on the referee's or partner's call.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "taido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Sparring",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jissen",
+      "description": "1. Two partners in protective equipment face off in taido stance; agree that only the torso is a target and the head is excluded.\n2. Exchange controlled kicks and strikes from proper taido movement, using constant footwork, angle changes, and twisting or turning techniques.\n3. Retract each scoring technique and return to stance; strikes indicate the opening without knockout power, and both stop at once on the referee's or partner's call.",
+      "sectionTitle": "Sparring"
+    },
+    "es": {
+      "title": "Jissen",
+      "description": "1. Dos compañeros con protecciones se enfrentan en guardia de taido; acordad que solo el tronco es objetivo y la cabeza queda excluida.\n2. Intercambiad patadas y golpes controlados desde el movimiento correcto de taido, con desplazamiento constante, cambios de ángulo y técnicas de giro o torsión.\n3. Recoge cada técnica puntuable y vuelve a la guardia; los golpes marcan la apertura sin potencia de nocaut y ambos se detienen al aviso del árbitro o del compañero.",
+      "sectionTitle": "Combate"
+    },
+    "pt": {
+      "title": "Jissen",
+      "description": "1. Dois parceiros com proteções se enfrentam na base de taido; combinem que só o tronco é alvo e a cabeça fica excluída.\n2. Troquem chutes e golpes controlados a partir do movimento correto de taido, com deslocamento constante, mudanças de ângulo e técnicas de giro ou torção.\n3. Recolha cada técnica pontuável e volte à base; os golpes marcam a abertura sem força de nocaute e ambos param ao sinal do árbitro ou do parceiro.",
+      "sectionTitle": "Combate"
+    },
+    "fr": {
+      "title": "Jissen",
+      "description": "1. Deux partenaires protégés se font face en garde de taido ; seul le tronc est une cible, la tête est exclue.\n2. Échangez coups de pied et frappes contrôlés issus d’un mouvement de taido correct, avec déplacements constants, changements d’angle et techniques de rotation ou de torsion.\n3. Ramenez chaque technique marquante et revenez en garde ; les frappes signalent l’ouverture sans puissance de K.-O. et tous deux s’arrêtent au signal de l’arbitre ou du partenaire.",
+      "sectionTitle": "Combat"
+    },
+    "de": {
+      "title": "Jissen",
+      "description": "1. Zwei Partner mit Schutzausrüstung stehen sich in Taido-Stellung gegenüber; nur der Rumpf ist Ziel, der Kopf ist ausgeschlossen.\n2. Kontrollierte Tritte und Schläge aus korrekter Taido-Bewegung austauschen, mit ständiger Fußarbeit, Winkelwechseln und Dreh- oder Verwindungstechniken.\n3. Jede Wertungstechnik zurückziehen und in die Stellung zurück; Treffer zeigen die Lücke ohne K.-o.-Wucht, beide stoppen sofort auf Ruf von Kampfrichter oder Partner.",
+      "sectionTitle": "Sparring"
+    },
+    "it": {
+      "title": "Jissen",
+      "description": "1. Due partner con protezioni si fronteggiano in guardia di taido; solo il tronco è bersaglio, la testa è esclusa.\n2. Scambiate calci e colpi controllati da un corretto movimento di taido, con spostamenti costanti, cambi d’angolo e tecniche di rotazione o torsione.\n3. Ritira ogni tecnica valida e torna in guardia; i colpi indicano l’apertura senza potenza da KO ed entrambi si fermano al segnale dell’arbitro o del partner.",
+      "sectionTitle": "Combattimento"
+    },
+    "zh-Hans": {
+      "title": "实战",
+      "description": "1. 两名佩戴护具的同伴以躰道架势相对；约定只以躯干为目标，头部不得攻击。\n2. 以正确的躰道动作交换受控的踢击和打击，配合持续步法、角度变化以及旋转或扭转技术。\n3. 每个得分技术都要收回并回到架势；击打只为点到破绽而非击倒，裁判或同伴一喊停双方立即停止。",
+      "sectionTitle": "实战"
+    },
+    "ja": {
+      "title": "実戦",
+      "description": "1. 防具を着けた二人が躰道の構えで向き合い、有効部位は胴のみで頭部は対象外と確認します。\n2. 正しい躰道の動きから制御した蹴りと突きを交わし、絶えず運足し、角度を変え、旋や捻の技を用います。\n3. 有効技は必ず引いて構えに戻り、打撃は隙を示す程度で倒す威力は用いず、審判や相手の合図で直ちに止めます。",
+      "sectionTitle": "実戦"
+    },
+    "ko": {
+      "title": "짓센",
+      "description": "1. 보호구를 착용한 두 사람이 다이도 자세로 마주하고, 몸통만 목표이며 머리는 제외한다고 약속합니다.\n2. 올바른 다이도 동작에서 통제된 차기와 치기를 주고받으며 끊임없는 발놀림, 각도 변화, 회전이나 비틀기 기술을 사용합니다.\n3. 득점 기술은 반드시 거두고 자세로 돌아오며, 타격은 빈틈을 보여 줄 정도로만 하고 심판이나 상대의 신호에 즉시 멈춥니다.",
+      "sectionTitle": "대련"
+    },
+    "th": {
+      "title": "จิสเซ็น",
+      "description": "1. คู่ฝึกสองคนสวมอุปกรณ์ป้องกันยืนประจันในท่าไทโด ตกลงว่าเป้าคือลำตัวเท่านั้น ห้ามศีรษะ\n2. แลกการเตะและการตีที่ควบคุมได้จากการเคลื่อนไหวไทโดที่ถูกต้อง ใช้การเคลื่อนเท้าต่อเนื่อง เปลี่ยนมุม และเทคนิคหมุนหรือบิดตัว\n3. ดึงเทคนิคที่ได้คะแนนกลับและกลับสู่ท่า การตีเพียงชี้ช่องโหว่โดยไม่ใช้แรงน็อก และทั้งคู่หยุดทันทีเมื่อกรรมการหรือคู่สั่ง",
+      "sectionTitle": "การต่อสู้"
+    },
+    "ru": {
+      "title": "Дзиссэн",
+      "description": "1. Два партнёра в защите стоят друг против друга в стойке тайдо; договоритесь, что цель — только корпус, голова исключена.\n2. Обменивайтесь контролируемыми ударами ногами и руками из правильного движения тайдо, с постоянной работой ног, сменой угла и вращательными или скручивающими техниками.\n3. Возвращайте каждую результативную технику и стойку; удары лишь отмечают брешь без нокаутирующей силы, оба сразу останавливаются по команде судьи или партнёра.",
+      "sectionTitle": "Спарринг"
+    },
+    "uk": {
+      "title": "Дзіссен",
+      "description": "1. Двоє партнерів у захисті стоять один проти одного в стійці тайдо; домовтеся, що ціль — лише корпус, голова виключена.\n2. Обмінюйтеся контрольованими ударами ногами й руками з правильного руху тайдо, з постійною роботою ніг, зміною кута й обертальними чи скручувальними техніками.\n3. Повертайте кожну результативну техніку й стійку; удари лише позначають шпарину без нокаутувальної сили, обидва одразу зупиняються за командою судді чи партнера.",
+      "sectionTitle": "Спаринг"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "101.11",
+  "key": "tang_soo_do_bassai",
+  "title": "Bassai",
+  "description": "1. From ready stance, drive forward into a crossed stance with a reinforced middle block.\n2. Alternate inside and outside middle blocks with turns, add scooping blocks, knife-hand blocks, a stamping kick with a double low block, and double punches with strong hip shifts.\n3. Finish with knife-hand blocks in back stance on the diagonals, shout kihap where prescribed, and return to ready stance.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "tangSooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Bassai",
+      "description": "1. From ready stance, drive forward into a crossed stance with a reinforced middle block.\n2. Alternate inside and outside middle blocks with turns, add scooping blocks, knife-hand blocks, a stamping kick with a double low block, and double punches with strong hip shifts.\n3. Finish with knife-hand blocks in back stance on the diagonals, shout kihap where prescribed, and return to ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Bassai",
+      "description": "1. Desde la preparación, impúlsate hacia delante a una posición cruzada con un bloqueo medio reforzado.\n2. Alterna bloqueos medios interiores y exteriores con giros, añade bloqueos de cuchara, bloqueos de mano de cuchillo, una patada de pisotón con doble bloqueo bajo y dobles puñetazos con fuertes cambios de cadera.\n3. Termina con bloqueos de mano de cuchillo en posición retrasada en las diagonales, haz kihap donde corresponda y vuelve a la preparación.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Bassai",
+      "description": "1. Da prontidão, lance-se à frente para uma base cruzada com bloqueio médio reforçado.\n2. Alterne bloqueios médios internos e externos com giros, acrescente bloqueios em concha, bloqueios de mão em faca, um chute pisando com bloqueio baixo duplo e socos duplos com fortes trocas de quadril.\n3. Termine com bloqueios de mão em faca em base recuada nas diagonais, dê kihap onde indicado e volte à prontidão.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Bassai",
+      "description": "1. Depuis la position prête, projetez-vous vers l’avant en position croisée avec un blocage moyen renforcé.\n2. Alternez blocages moyens intérieurs et extérieurs avec rotations, ajoutez blocages en cuillère, blocages sabre de main, un coup de pied écrasant avec double blocage bas et doubles coups de poing avec de forts transferts de hanches.\n3. Terminez par des blocages sabre de main en position arrière sur les diagonales, kihap aux endroits prévus, puis revenez en position prête.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Bassai",
+      "description": "1. Aus der Bereitschaft nach vorn in einen gekreuzten Stand mit verstärktem mittlerem Block schnellen.\n2. Innere und äußere mittlere Blocks mit Drehungen abwechseln, Schöpfblocks, Handkantenblocks, einen Stampftritt mit doppeltem tiefem Block und Doppelfauststöße mit kräftiger Hüftverlagerung hinzufügen.\n3. Mit Handkantenblocks in Rückwärtsstellung auf den Diagonalen abschließen, Kihap an den vorgesehenen Stellen und in Bereitschaft zurückkehren.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Bassai",
+      "description": "1. Dalla posizione di attesa, slanciati in avanti in posizione incrociata con parata media rinforzata.\n2. Alterna parate medie interne ed esterne con rotazioni, aggiungi parate a cucchiaio, parate a mano a coltello, un calcio pestato con doppia parata bassa e doppi pugni con forti spostamenti d’anca.\n3. Concludi con parate a mano a coltello in posizione arretrata sulle diagonali, kihap dove previsto e torna in posizione di attesa.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "拔塞",
+      "description": "1. 从准备式向前冲成交叉步并做加强中段格挡。\n2. 转身交替做内、外中段格挡，加入捞格挡、手刀格挡、踩踢配双下格挡，以及配合强力转髋的双冲拳。\n3. 在斜线上以后屈站姿手刀格挡结束，在规定处发声，回到准备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "抜塞（バッサイ）",
+      "description": "1. 準備の姿勢から前へ跳び込み、交差立ちで諸手の中段受けを行います。\n2. 転身しながら中段内受けと外受けを交互に行い、すくい受け、手刀受け、踏み込み蹴りと下段の両手受け、腰の切り替えを伴う双手突きを加えます。\n3. 斜めの列で後屈立ちの手刀受けを行って締め、決められた所で気合を入れ、準備の姿勢に戻ります。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "바사이",
+      "description": "1. 준비 자세에서 앞으로 뛰어들어 꼬아서기로 보조 중단 막기를 합니다.\n2. 돌면서 안쪽·바깥쪽 중단 막기를 번갈아 하고, 퍼올려 막기, 손날 막기, 하단 양손 막기와 함께 짓밟기, 강한 허리 전환과 함께 두 주먹 지르기를 더합니다.\n3. 대각선에서 후굴 손날 막기로 마무리하고 정해진 곳에서 기합을 넣은 뒤 준비 자세로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "บัสไซ",
+      "description": "1. จากท่าเตรียม พุ่งไปข้างหน้าเข้าท่ายืนไขว้พร้อมปัดกลางแบบเสริม\n2. สลับปัดกลางด้านในและด้านนอกพร้อมหมุนตัว เพิ่มการปัดแบบตัก ปัดสันมือ เตะกระทืบพร้อมปัดล่างคู่ และต่อยคู่พร้อมการถ่ายสะโพกอย่างแรง\n3. จบด้วยการปัดสันมือในท่ายืนหลังบนแนวทแยง เปล่งเสียงคีฮับตามที่กำหนด และกลับสู่ท่าเตรียม",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Бассай",
+      "description": "1. Из стойки готовности рывком продвиньтесь вперёд в скрещённую стойку с усиленным средним блоком.\n2. Чередуйте внутренние и внешние средние блоки с поворотами, добавьте черпающие блоки, блоки ребром ладони, топчущий удар ногой с двойным нижним блоком и двойные удары кулаками с мощным переносом бёдер.\n3. Завершите блоками ребром ладони в задней стойке по диагоналям, выполните кихап в положенных местах и вернитесь в стойку готовности.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Бассай",
+      "description": "1. Зі стійки готовності ривком просуньтеся вперед у схрещену стійку з посиленим середнім блоком.\n2. Чергуйте внутрішні й зовнішні середні блоки з поворотами, додайте черпальні блоки, блоки ребром долоні, топчучий удар ногою з подвійним нижнім блоком і подвійні удари кулаками з потужним перенесенням стегон.\n3. Завершіть блоками ребром долоні в задній стійці по діагоналях, виконайте кіхап у належних місцях і поверніться в стійку готовності.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

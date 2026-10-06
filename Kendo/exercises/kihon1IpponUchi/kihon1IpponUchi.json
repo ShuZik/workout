@@ -1,0 +1,90 @@
+{
+  "id": "69.2",
+  "key": "kendo_kihon_1",
+  "title": "Kihon 1 Ippon-uchi",
+  "description": "1. Motodachi and kakarite face each other in chudan with bokuto at striking distance.\n2. As motodachi opens men, then kote, then do, and finally offers tsuki, kakarite steps in and strikes or thrusts each target with one action and kiai.\n3. Stop each strike just short of contact, show zanshin by returning the tip to center, and both reset to chudan.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kihon 1 Ippon-uchi",
+      "description": "1. Motodachi and kakarite face each other in chudan with bokuto at striking distance.\n2. As motodachi opens men, then kote, then do, and finally offers tsuki, kakarite steps in and strikes or thrusts each target with one action and kiai.\n3. Stop each strike just short of contact, show zanshin by returning the tip to center, and both reset to chudan.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Kihon 1 Ippon-uchi",
+      "description": "1. Motodachi y kakarite se enfrentan en chudan con bokuto a distancia de golpe.\n2. Cuando motodachi abre men, luego kote, luego do y finalmente ofrece tsuki, kakarite entra y golpea o estoca cada objetivo con una sola acción y kiai.\n3. Detén cada golpe justo antes del contacto, muestra zanshin devolviendo la punta al centro y ambos vuelven a chudan.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Kihon 1 Ippon-uchi",
+      "description": "1. Motodachi e kakarite se enfrentam em chudan com bokuto à distância de golpe.\n2. Quando motodachi abre men, depois kote, depois do e por fim oferece tsuki, kakarite entra e golpeia ou estoca cada alvo com uma só ação e kiai.\n3. Pare cada golpe pouco antes do contato, mostre zanshin voltando a ponta ao centro e ambos retornam a chudan.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Kihon 1 Ippon-uchi",
+      "description": "1. Motodachi et kakarite se font face en chudan, bokuto à distance de frappe.\n2. Quand motodachi ouvre men, puis kote, puis do et enfin offre tsuki, kakarite entre et frappe ou pique chaque cible d’une seule action avec kiai.\n3. Arrêtez chaque frappe juste avant le contact, montrez le zanshin en ramenant la pointe au centre, puis revenez tous deux en chudan.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Kihon 1 Ippon-uchi",
+      "description": "1. Motodachi und Kakarite stehen sich im Chudan mit Bokuto auf Schlagdistanz gegenüber.\n2. Öffnet Motodachi nacheinander Men, Kote, Do und bietet zuletzt Tsuki an, tritt Kakarite ein und trifft jedes Ziel mit einer Aktion und Kiai.\n3. Jeden Schlag kurz vor dem Kontakt stoppen, Zanshin durch Rückführen der Spitze zur Mitte zeigen und beide ins Chudan zurück.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Kihon 1 Ippon-uchi",
+      "description": "1. Motodachi e kakarite si fronteggiano in chudan con bokuto a distanza di colpo.\n2. Quando motodachi apre men, poi kote, poi do e infine offre tsuki, kakarite entra e colpisce o affonda ogni bersaglio con un’unica azione e kiai.\n3. Ferma ogni colpo appena prima del contatto, mostra zanshin riportando la punta al centro ed entrambi tornano in chudan.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "基本1 一本打",
+      "description": "1. 元立与挂手以木刀中段构在打击间合相对。\n2. 元立依次露出面、小手、胴，最后让出刺，挂手上步以单一动作配合气合击打或刺击每个部位。\n3. 每次在接触前停住，以剑尖回到中心示残心，双方回到中段。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "基本1 一本打ちの技",
+      "description": "1. 元立ちと掛り手が木刀を中段に構え、打ち間で向かい合います。\n2. 元立ちが面、小手、胴の順に打突部位を空け、最後に突きを許したところへ、掛り手は踏み込んで一拍子で気合とともに打突します。\n3. 打突は寸前で止め、剣先を中心に戻して残心を示し、互いに中段に戻ります。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "기본 1 일본치기",
+      "description": "1. 원립과 괘수가 목검 중단세로 타격 거리에서 마주섭니다.\n2. 원립이 머리, 손목, 허리를 차례로 열고 마지막에 찌름을 허용하면 괘수가 들어가 한 동작과 기합으로 각 부위를 치거나 찌릅니다.\n3. 타격은 접촉 직전에 멈추고 칼끝을 중심으로 되돌려 잔심을 보인 뒤 둘 다 중단으로 돌아갑니다.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "คิฮง 1 อิปปงอุจิ",
+      "description": "1. โมโตดาจิและคาคาริเตะยืนประจันหน้าในท่าชูดังด้วยโบคุโตะในระยะตี\n2. เมื่อโมโตดาจิเปิดเมน แล้วโคเตะ แล้วโด และสุดท้ายเปิดให้สึกิ คาคาริเตะก้าวเข้าตีหรือแทงแต่ละเป้าในจังหวะเดียวพร้อมคิไอ\n3. หยุดทุกครั้งก่อนสัมผัส แสดงซันชินด้วยการนำปลายดาบกลับกึ่งกลาง แล้วทั้งคู่กลับสู่ชูดัง",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Кихон 1 Иппон-ути",
+      "description": "1. Мотодати и какаритэ стоят друг против друга в тюдан с боккэнами на дистанции удара.\n2. Когда мотодати открывает мэн, затем котэ, затем до и в конце предлагает цуки, какаритэ входит и поражает каждую цель одним действием с киай.\n3. Останавливайте каждый удар перед контактом, показывайте дзансин, возвращая кончик в центр, и оба возвращаются в тюдан.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Кіхон 1 Іппон-уті",
+      "description": "1. Мотодаті й какарите стоять одне проти одного в тюдан із бокенами на дистанції удару.\n2. Коли мотодаті відкриває мен, потім коте, потім до й наприкінці пропонує цукі, какарите входить і вражає кожну ціль однією дією з кіай.\n3. Зупиняйте кожен удар перед контактом, показуйте дзансін, повертаючи кінчик у центр, і обоє повертаються в тюдан.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

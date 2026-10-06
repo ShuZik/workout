@@ -1,0 +1,87 @@
+{
+  "id": "7.2",
+  "key": "wrestling_mirror_drill",
+  "title": "Mirror Drill",
+  "description": "1. Face a partner in wrestling stance at arm's length with the hands ready and the hips low.\n2. The leader moves forward, back, sideways, and changes level while the follower copies each move immediately.\n3. Keep the stance and spacing without contact, then switch leader on a signal.",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Mirror Drill",
+      "description": "1. Face a partner in wrestling stance at arm's length with the hands ready and the hips low.\n2. The leader moves forward, back, sideways, and changes level while the follower copies each move immediately.\n3. Keep the stance and spacing without contact, then switch leader on a signal.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Ejercicio de espejo",
+      "description": "1. Ponte frente a un compañero en guardia de lucha a un brazo de distancia, con las manos listas y la cadera baja.\n2. El líder avanza, retrocede, se desplaza lateralmente y cambia de nivel mientras el seguidor copia cada movimiento al instante.\n3. Mantén la guardia y la distancia sin contacto y cambia de líder a una señal.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Exercício do espelho",
+      "description": "1. Fique de frente para um parceiro na base de luta, à distância de um braço, com as mãos prontas e o quadril baixo.\n2. O líder avança, recua, desloca-se lateralmente e muda de nível enquanto o seguidor copia cada movimento imediatamente.\n3. Mantenha a base e a distância sem contato e troque de líder a um sinal.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Exercice du miroir",
+      "description": "1. Faites face à un partenaire en garde de lutte à une longueur de bras, mains prêtes et hanches basses.\n2. Le meneur avance, recule, se déplace latéralement et change de niveau pendant que le suiveur copie chaque mouvement aussitôt.\n3. Gardez la garde et la distance sans contact, puis changez de meneur au signal.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Spiegelübung",
+      "description": "1. Stehe einem Partner in Ringerstellung auf Armlänge gegenüber, Hände bereit, Hüfte tief.\n2. Der Führende bewegt sich vor, zurück, seitlich und wechselt die Höhe, während der Folgende jede Bewegung sofort nachmacht.\n3. Halte Stellung und Abstand ohne Kontakt und wechsle auf ein Signal die Führung.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Esercizio dello specchio",
+      "description": "1. Mettiti di fronte a un partner in guardia da lotta a un braccio di distanza, mani pronte e anche basse.\n2. Il leader avanza, arretra, si sposta di lato e cambia livello mentre chi segue copia subito ogni movimento.\n3. Mantieni guardia e distanza senza contatto, poi cambia leader a un segnale.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "镜像练习",
+      "description": "1. 与同伴以摔跤站姿相对，保持一臂距离，双手就绪，髋部放低。\n2. 领做者前进、后退、横移并改变高度，跟随者立即模仿每个动作。\n3. 保持站姿和距离且不接触，听信号交换领做者。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "ミラードリル",
+      "description": "1. レスリングの構えでパートナーと腕一本の距離で向かい合い、手を構え腰を低くします。\n2. リーダーが前後左右に動き高さを変え、フォロワーは各動作をすぐにまねします。\n3. 接触せずに構えと間合いを保ち、合図でリーダーを交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "미러 드릴",
+      "description": "1. 레슬링 자세로 파트너와 팔 길이 거리에서 마주 서고 손을 준비하며 엉덩이를 낮춥니다.\n2. 리더가 앞뒤, 옆으로 움직이고 높이를 바꾸면 따라 하는 사람은 각 동작을 즉시 따라 합니다.\n3. 접촉 없이 자세와 간격을 유지하고 신호에 맞춰 리더를 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฝึกกระจกเงา",
+      "description": "1. ยืนหันหน้าเข้าหาคู่ฝึกในท่ามวยปล้ำ ห่างหนึ่งช่วงแขน มือพร้อม สะโพกต่ำ\n2. ผู้นำเคลื่อนไปหน้า ถอยหลัง ไปด้านข้าง และเปลี่ยนระดับ ส่วนผู้ตามเลียนแบบทุกการเคลื่อนไหวทันที\n3. รักษาท่าทางและระยะโดยไม่สัมผัสกัน แล้วสลับผู้นำเมื่อได้รับสัญญาณ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Зеркало",
+      "description": "1. Встаньте лицом к партнёру в борцовской стойке на расстоянии вытянутой руки, руки наготове, таз низко.\n2. Ведущий двигается вперёд, назад, в стороны и меняет уровень, а ведомый сразу повторяет каждое движение.\n3. Сохраняйте стойку и дистанцию без контакта и по сигналу меняйте ведущего.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Дзеркало",
+      "description": "1. Станьте обличчям до партнера в борцівській стійці на відстані витягнутої руки, руки напоготові, таз низько.\n2. Ведучий рухається вперед, назад, убік і змінює рівень, а ведений одразу повторює кожен рух.\n3. Зберігайте стійку й дистанцію без контакту та за сигналом змінюйте ведучого.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

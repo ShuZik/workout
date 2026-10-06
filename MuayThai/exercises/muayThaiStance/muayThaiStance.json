@@ -1,0 +1,90 @@
+{
+  "id": "2.22",
+  "key": "muay_thai_muay_thai_stance",
+  "title": "Muay Thai Stance",
+  "description": "1. Place one foot forward and one back with the hips more square than in boxing and both heels ready to lift.\n2. Soften the knees, tuck the chin, hold the forearms high, and keep the elbows close enough to protect the body.\n3. Test short steps, knee chambers, and checks without crossing the feet or shifting all weight onto one leg.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Muay Thai Stance",
+      "description": "1. Place one foot forward and one back with the hips more square than in boxing and both heels ready to lift.\n2. Soften the knees, tuck the chin, hold the forearms high, and keep the elbows close enough to protect the body.\n3. Test short steps, knee chambers, and checks without crossing the feet or shifting all weight onto one leg.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Postura de Muay Thai",
+      "description": "1. Coloca un pie delante y otro detrás con las caderas más de frente que en el boxeo y ambos talones listos para elevarse.\n2. Flexiona las rodillas, recoge el mentón, mantén los antebrazos altos y los codos lo bastante cerca para proteger el cuerpo.\n3. Prueba pasos cortos, elevaciones de rodilla y bloqueos con la espinilla sin cruzar los pies ni cargar todo el peso en una pierna.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Base de Muay Thai",
+      "description": "1. Coloque um pé à frente e outro atrás, com o quadril mais de frente que no boxe e os dois calcanhares prontos para subir.\n2. Flexione levemente os joelhos, recolha o queixo, mantenha os antebraços altos e os cotovelos próximos o suficiente para proteger o corpo.\n3. Teste passos curtos, elevações de joelho e bloqueios com a canela sem cruzar os pés nem passar todo o peso para uma perna.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Garde de muay thaï",
+      "description": "1. Placez un pied devant et l’autre derrière, hanches plus de face qu’en boxe et les deux talons prêts à se lever.\n2. Assouplissez les genoux, rentrez le menton, tenez les avant-bras hauts et les coudes assez près pour protéger le corps.\n3. Testez de petits pas, des armés de genou et des blocages du tibia sans croiser les pieds ni mettre tout le poids sur une jambe.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Muay-Thai-Stellung",
+      "description": "1. Setze einen Fuß nach vorn und einen nach hinten, die Hüfte frontaler als beim Boxen, beide Fersen bereit zum Anheben.\n2. Lockere die Knie, ziehe das Kinn ein, halte die Unterarme hoch und die Ellbogen nah genug, um den Körper zu schützen.\n3. Teste kurze Schritte, Knieaufzüge und Schienbeinblocks, ohne die Füße zu kreuzen oder das ganze Gewicht auf ein Bein zu verlagern.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Posizione di Muay Thai",
+      "description": "1. Metti un piede avanti e uno indietro con le anche più frontali che nel pugilato ed entrambi i talloni pronti a sollevarsi.\n2. Ammorbidisci le ginocchia, raccogli il mento, tieni gli avambracci alti e i gomiti abbastanza vicini da proteggere il corpo.\n3. Prova passi corti, caricamenti del ginocchio e parate con la tibia senza incrociare i piedi né spostare tutto il peso su una gamba.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "泰拳站姿",
+      "description": "1. 一脚在前一脚在后，髋部比拳击站姿更正对前方，双脚脚跟随时准备抬起。\n2. 膝盖放松微屈，下巴内收，前臂抬高，手肘靠近以保护躯干。\n3. 尝试小步移动、提膝和提膝格挡，双脚不要交叉，也不要把全部重心压在一条腿上。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ムエタイの構え",
+      "description": "1. 片足を前、片足を後ろに置き、ボクシングより腰を正面に向け、両かかとはいつでも上げられるようにします。\n2. 膝を緩め、顎を引き、前腕を高く上げ、肘は体を守れる程度に締めます。\n3. 足を交差させたり片脚に全体重を乗せたりせずに、小さなステップ、膝の抱え込み、カットを試します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "무에타이 자세",
+      "description": "1. 한 발은 앞, 한 발은 뒤에 두고 복싱보다 골반을 정면으로 향하며 두 발뒤꿈치는 언제든 들 수 있게 합니다.\n2. 무릎을 부드럽게 하고 턱을 당기며 전완을 높이 들고 팔꿈치를 몸을 보호할 만큼 가까이 둡니다.\n3. 발을 교차하거나 한쪽 다리에 체중을 모두 싣지 않고 짧은 스텝, 무릎 들기, 킥 체크를 시험합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ท่าจดมวยไทย",
+      "description": "1. วางเท้าหน้าหนึ่งข้างและเท้าหลังหนึ่งข้าง ให้สะโพกหันตรงมากกว่ามวยสากล และส้นเท้าทั้งสองพร้อมยก\n2. ผ่อนเข่า เก็บคาง ยกแขนท่อนล่างสูง และให้ศอกชิดพอจะป้องกันลำตัว\n3. ลองก้าวสั้น ๆ ยกเข่า และยกแข้งรับ โดยไม่ไขว้เท้าหรือทิ้งน้ำหนักทั้งหมดไว้ที่ขาข้างเดียว",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Стойка муай-тай",
+      "description": "1. Поставьте одну ногу впереди, другую сзади, развернув таз фронтальнее, чем в боксе, с пятками, готовыми подняться.\n2. Смягчите колени, опустите подбородок, держите предплечья высоко, а локти достаточно близко, чтобы защищать корпус.\n3. Попробуйте короткие шаги, подъёмы колена и блоки голенью, не перекрещивая ноги и не перенося весь вес на одну ногу.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Стійка муай-тай",
+      "description": "1. Поставте одну ногу попереду, іншу позаду, розвернувши таз фронтальніше, ніж у боксі, з п’ятами, готовими піднятися.\n2. Пом’якшіть коліна, опустіть підборіддя, тримайте передпліччя високо, а лікті досить близько, щоб захищати корпус.\n3. Спробуйте короткі кроки, підйоми коліна й блоки гомілкою, не перехрещуючи ноги й не переносячи всю вагу на одну ногу.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

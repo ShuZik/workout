@@ -1,0 +1,87 @@
+{
+  "id": "63.12",
+  "key": "iaido_sogiri",
+  "title": "Sogiri",
+  "description": "1. Advance on a single opponent and draw upward over the head, deflecting while turning into a cut toward the head.\n2. Continue with successive cuts: diagonal from the right, diagonal from the left, a horizontal cut through the trunk, and a final vertical cut, stepping forward with each.\n3. Perform chiburi, resheathe, and step back to the start with zanshin.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Standing Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Sogiri",
+      "description": "1. Advance on a single opponent and draw upward over the head, deflecting while turning into a cut toward the head.\n2. Continue with successive cuts: diagonal from the right, diagonal from the left, a horizontal cut through the trunk, and a final vertical cut, stepping forward with each.\n3. Perform chiburi, resheathe, and step back to the start with zanshin.",
+      "sectionTitle": "Standing Forms"
+    },
+    "es": {
+      "title": "Sogiri",
+      "description": "1. Avanza hacia un solo oponente y desenvaina hacia arriba sobre la cabeza, desviando mientras giras hacia un corte a la cabeza.\n2. Continúa con cortes sucesivos: diagonal desde la derecha, diagonal desde la izquierda, horizontal por el tronco y un corte vertical final, avanzando en cada uno.\n3. Realiza chiburi, envaina y retrocede al inicio con zanshin.",
+      "sectionTitle": "Formas de pie"
+    },
+    "pt": {
+      "title": "Sogiri",
+      "description": "1. Avance sobre um único oponente e saque para cima acima da cabeça, desviando enquanto gira para um corte à cabeça.\n2. Continue com cortes sucessivos: diagonal da direita, diagonal da esquerda, horizontal pelo tronco e um corte vertical final, avançando a cada um.\n3. Faça chiburi, embainhe e recue ao início com zanshin.",
+      "sectionTitle": "Formas em pé"
+    },
+    "fr": {
+      "title": "Sogiri",
+      "description": "1. Avancez sur un seul adversaire et dégainez vers le haut au-dessus de la tête, en déviant tout en tournant vers une coupe à la tête.\n2. Enchaînez les coupes : diagonale depuis la droite, diagonale depuis la gauche, horizontale au tronc et verticale finale, en avançant à chaque coupe.\n3. Effectuez le chiburi, rengainez et reculez au départ avec zanshin.",
+      "sectionTitle": "Formes debout"
+    },
+    "de": {
+      "title": "Sogiri",
+      "description": "1. Auf einen einzelnen Gegner vorgehen und nach oben über den Kopf ziehen, dabei ableiten und in einen Schnitt zum Kopf drehen.\n2. Mit aufeinanderfolgenden Schnitten fortfahren: diagonal von rechts, diagonal von links, waagerecht durch den Rumpf und ein letzter senkrechter Schnitt, jeweils mit einem Schritt.\n3. Chiburi ausführen, einstecken und mit Zanshin zum Start zurückgehen.",
+      "sectionTitle": "Formen im Stand"
+    },
+    "it": {
+      "title": "Sogiri",
+      "description": "1. Avanza su un solo avversario ed estrai verso l’alto sopra la testa, deviando mentre ruoti in un taglio alla testa.\n2. Prosegui con tagli successivi: diagonale da destra, diagonale da sinistra, orizzontale al tronco e un taglio verticale finale, avanzando a ogni taglio.\n3. Esegui chiburi, rinfodera e torna indietro all’inizio con zanshin.",
+      "sectionTitle": "Forme in piedi"
+    },
+    "zh-Hans": {
+      "title": "总斩",
+      "description": "1. 向单一对手前进，将刀向上拔过头顶，边卸开边转为斩向头部。\n2. 继续连续斩击：右斜斩、左斜斩、横斩躯干，最后竖直斩落，每斩一步向前。\n3. 振刀、纳刀，以残心后退回起点。",
+      "sectionTitle": "立姿形"
+    },
+    "ja": {
+      "title": "総切り（そうぎり）",
+      "description": "1. 一人の相手へ進み、頭上へ抜き上げて受け流しつつ面へ斬り付けます。\n2. 続けて右袈裟、左袈裟、胴への横一文字、最後に真っ向と、一刀ごとに踏み込んで連続して斬ります。\n3. 血振り・納刀を行い、残心をもって元の位置へ下がります。",
+      "sectionTitle": "立ち技の形"
+    },
+    "ko": {
+      "title": "소기리",
+      "description": "1. 한 명의 상대에게 나아가 칼을 머리 위로 뽑아 올려 흘리면서 머리를 향한 베기로 돕니다.\n2. 이어서 오른쪽 대각, 왼쪽 대각, 몸통 수평 베기, 마지막 수직 베기를 매번 한 걸음씩 들어가며 연속으로 합니다.\n3. 치부리하고 칼을 꽂은 뒤 잔심을 유지하며 시작 위치로 물러납니다.",
+      "sectionTitle": "선 자세 형"
+    },
+    "th": {
+      "title": "โซกิริ",
+      "description": "1. เดินเข้าหาคู่ต่อสู้คนเดียว ชักดาบขึ้นเหนือศีรษะ ปัดป้องพร้อมหมุนเป็นการฟันไปที่ศีรษะ\n2. ฟันต่อเนื่อง: เฉียงจากขวา เฉียงจากซ้าย ฟันแนวนอนผ่านลำตัว และฟันแนวดิ่งปิดท้าย โดยก้าวไปข้างหน้าทุกครั้ง\n3. ทำจิบุริ เก็บดาบ และถอยกลับจุดเริ่มพร้อมซันชิน",
+      "sectionTitle": "ท่าร่างแบบยืน"
+    },
+    "ru": {
+      "title": "Согири",
+      "description": "1. Двигайтесь на одного противника и обнажите меч вверх над головой, отводя удар и переходя в разрез в голову.\n2. Продолжите серией разрезов: диагональ справа, диагональ слева, горизонтальный по корпусу и завершающий вертикальный, с шагом вперёд на каждом.\n3. Выполните тибури, вложите меч и отступите к началу с дзансином.",
+      "sectionTitle": "Формы из положения стоя"
+    },
+    "uk": {
+      "title": "Согірі",
+      "description": "1. Рухайтеся на одного суперника й оголіть меч угору над головою, відводячи удар і переходячи в розріз у голову.\n2. Продовжте серією розрізів: діагональ справа, діагональ зліва, горизонтальний по корпусу й завершальний вертикальний, із кроком уперед на кожному.\n3. Виконайте тібурі, вкладіть меч і відступіть на початок із дзансіном.",
+      "sectionTitle": "Форми з положення стоячи"
+    }
+  }
+}

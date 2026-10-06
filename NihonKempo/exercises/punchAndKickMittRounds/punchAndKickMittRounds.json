@@ -1,0 +1,90 @@
+{
+  "id": "84.7",
+  "key": "nihon_kempo_mitt_rounds",
+  "title": "Punch and Kick Mitt Rounds",
+  "description": "1. Holder wears focus mitts and calls out combinations; striker waits in kamae.\n2. Striker throws straight punches, hooks, and kicks at full pace for the round, moving in and out of range between combinations.\n3. Holder absorbs the strikes and pulls the mitts away if form breaks down; rest briefly and switch roles.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "nihonKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Punch and Kick Mitt Rounds",
+      "description": "1. Holder wears focus mitts and calls out combinations; striker waits in kamae.\n2. Striker throws straight punches, hooks, and kicks at full pace for the round, moving in and out of range between combinations.\n3. Holder absorbs the strikes and pulls the mitts away if form breaks down; rest briefly and switch roles.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Asaltos de manoplas con puños y patadas",
+      "description": "1. El receptor lleva manoplas y canta las combinaciones; el golpeador espera en kamae.\n2. El golpeador lanza rectos, ganchos y patadas a máximo ritmo durante el asalto, entrando y saliendo de distancia entre combinaciones.\n3. El receptor absorbe los golpes y retira las manoplas si la técnica se deteriora; descansad un momento e intercambiad los papeles.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Rounds de manopla com socos e chutes",
+      "description": "1. O parceiro de apoio usa manoplas e anuncia as combinações; o atacante aguarda em kamae.\n2. O atacante lança diretos, ganchos e chutes em ritmo máximo durante o round, entrando e saindo da distância entre as combinações.\n3. O parceiro de apoio absorve os golpes e retira as manoplas se a técnica se perder; descansem um pouco e troquem de papel.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Rounds aux pattes d'ours poings et pieds",
+      "description": "1. Le partenaire porte des pattes d'ours et annonce les combinaisons ; le frappeur attend en kamae.\n2. Le frappeur enchaîne directs, crochets et coups de pied à pleine cadence pendant le round, en entrant et sortant de la distance entre les combinaisons.\n3. Le partenaire encaisse les frappes et retire les pattes si la technique se dégrade ; récupérez brièvement puis inversez les rôles.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Pratzenrunden mit Schlägen und Tritten",
+      "description": "1. Der Halter trägt Pratzen und ruft Kombinationen an; der Schlagende wartet im Kamae.\n2. Der Schlagende setzt die ganze Runde gerade Schläge, Haken und Tritte in vollem Tempo und bewegt sich zwischen den Kombinationen in und aus der Distanz.\n3. Der Halter fängt die Schläge ab und zieht die Pratzen weg, wenn die Technik zerfällt; kurz pausieren und die Rollen tauschen.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Round ai colpitori con pugni e calci",
+      "description": "1. Il compagno indossa i colpitori e chiama le combinazioni; chi colpisce attende in kamae.\n2. Chi colpisce porta diretti, ganci e calci a pieno ritmo per tutto il round, entrando e uscendo dalla distanza tra una combinazione e l'altra.\n3. Il compagno assorbe i colpi e ritira i colpitori se la tecnica peggiora; recuperate brevemente e scambiatevi i ruoli.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "拳脚手靶回合",
+      "description": "1. 持靶者戴手靶并喊出组合；击打者以构式等待。\n2. 击打者在整个回合中全速打出直拳、勾拳和踢击，组合之间进出攻击距离。\n3. 持靶者吸收击打，若动作变形就撤开手靶；短暂休息后互换角色。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "ミット打ちラウンド（突き・蹴り）",
+      "description": "1. 受け手はミットを着けて連打の組み合わせを指示し、打ち手は構えて待ちます。\n2. 打ち手はラウンドの間、直突き・鉤突き・蹴りを全力のペースで出し、組み合わせの合間に間合いを出入りします。\n3. 受け手は打撃を受け止め、フォームが崩れたらミットを引きます。短く休んで役割を交代します。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "주먹·발차기 미트 라운드",
+      "description": "1. 받는 사람은 미트를 끼고 연타 조합을 불러 주며, 치는 사람은 카마에로 기다립니다.\n2. 치는 사람은 라운드 동안 전력 페이스로 곧은 지르기, 훅, 발차기를 하며 조합 사이에 거리 안팎으로 드나듭니다.\n3. 받는 사람은 타격을 받아 주고 자세가 무너지면 미트를 뺍니다. 잠시 쉬고 역할을 바꿉니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "ยกเป้าล่อหมัดและเตะ",
+      "description": "1. ผู้ถือสวมเป้าล่อและเรียกชุดหมัด ผู้ตีรอในท่าคามาเอะ\n2. ผู้ตีปล่อยหมัดตรง หมัดฮุก และลูกเตะเต็มจังหวะตลอดยก เคลื่อนเข้าออกระยะระหว่างแต่ละชุด\n3. ผู้ถือรับแรงตีและดึงเป้าออกหากท่าเสีย พักสั้นๆ แล้วสลับบทบาท",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Раунды на лапах: руки и ноги",
+      "description": "1. Держатель надевает лапы и называет комбинации; бьющий ждёт в камаэ.\n2. Бьющий весь раунд в полном темпе наносит прямые, боковые удары и удары ногами, между комбинациями входя в дистанцию и выходя из неё.\n3. Держатель принимает удары и убирает лапы, если техника разваливается; коротко отдохните и поменяйтесь ролями.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Раунди на лапах: руки й ноги",
+      "description": "1. Тримач одягає лапи й називає комбінації; той, хто б'є, чекає в камае.\n2. Той, хто б'є, увесь раунд у повному темпі завдає прямих, бічних ударів і ударів ногами, між комбінаціями входячи в дистанцію та виходячи з неї.\n3. Тримач приймає удари й прибирає лапи, якщо техніка розвалюється; коротко відпочиньте й поміняйтеся ролями.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

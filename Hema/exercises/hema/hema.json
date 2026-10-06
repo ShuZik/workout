@@ -1,0 +1,90 @@
+{
+  "id": "61.1",
+  "key": "hema_main",
+  "title": "HEMA",
+  "description": "1. Take a guard with a blunt training sword or sabre and suitable protective kit, feet in a balanced stance and the point toward the opponent's line.\n2. Move in and out of distance and practise historical cuts, thrusts and parries from the chosen source tradition at a controlled pace.\n3. Return to guard after each action and stop immediately at the instructor's or partner's halt call during any partner work.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "hema",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "HEMA",
+      "description": "1. Take a guard with a blunt training sword or sabre and suitable protective kit, feet in a balanced stance and the point toward the opponent's line.\n2. Move in and out of distance and practise historical cuts, thrusts and parries from the chosen source tradition at a controlled pace.\n3. Return to guard after each action and stop immediately at the instructor's or partner's halt call during any partner work.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "HEMA",
+      "description": "1. Adopta una guardia con una espada o sable de entrenamiento romo y protección adecuada, pies en una postura equilibrada y la punta hacia la línea del oponente.\n2. Entra y sal de distancia y practica cortes, estocadas y paradas históricas de la tradición elegida a ritmo controlado.\n3. Vuelve a la guardia tras cada acción y detente de inmediato a la voz de alto del instructor o del compañero en el trabajo en pareja.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "HEMA",
+      "description": "1. Adote uma guarda com espada ou sabre de treino sem fio e proteção adequada, pés numa base equilibrada e a ponta para a linha do oponente.\n2. Entre e saia da distância e pratique cortes, estocadas e paradas históricas da tradição escolhida em ritmo controlado.\n3. Volte à guarda após cada ação e pare imediatamente ao sinal do instrutor ou do parceiro no trabalho em dupla.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "AMHE (HEMA)",
+      "description": "1. Prenez une garde avec une épée ou un sabre d’entraînement émoussé et une protection adaptée, pieds en appui équilibré, pointe vers la ligne adverse.\n2. Entrez et sortez de la distance en travaillant coupes, estocades et parades historiques de la tradition choisie à rythme contrôlé.\n3. Revenez en garde après chaque action et arrêtez-vous immédiatement au « halte » de l’instructeur ou du partenaire en travail à deux.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "HEMA",
+      "description": "1. Gehe mit einem stumpfen Übungsschwert oder -säbel und passender Schutzausrüstung in eine Hut, Füße ausbalanciert, Spitze zur Linie des Gegners.\n2. Bewege dich in und aus der Mensur und übe historische Hiebe, Stiche und Paraden der gewählten Quellentradition in kontrolliertem Tempo.\n3. Kehre nach jeder Aktion in die Hut zurück und stoppe bei Partnerarbeit sofort beim Halt von Trainer oder Partner.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "HEMA",
+      "description": "1. Mettiti in guardia con una spada o sciabola da allenamento smussata e protezioni adeguate, piedi in posizione equilibrata e punta verso la linea dell’avversario.\n2. Entra ed esci dalla misura praticando tagli, affondi e parate storiche della tradizione scelta a ritmo controllato.\n3. Torna in guardia dopo ogni azione e fermati subito all’alt dell’istruttore o del compagno nel lavoro in coppia.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "欧洲历史武术（HEMA）",
+      "description": "1. 持钝头训练剑或军刀并穿戴合适护具，双脚站稳，剑尖指向对手线路，成防守姿势。\n2. 进出距离，以可控节奏练习所选历史流派的劈、刺和格挡。\n3. 每个动作后回到防守姿势；双人练习时听到教练或同伴喊停立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "HEMA（西洋古流剣術）",
+      "description": "1. 刃引きの練習用剣またはサーベルと適切な防具で構え、足はバランスよく、剣先を相手のラインへ向けます。\n2. 間合いを出入りしながら、選んだ流派の歴史的な斬り、突き、受けを制御したテンポで練習します。\n3. 各動作の後に構えへ戻り、対人練習では指導者や相手の止めの合図ですぐ止まります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "HEMA(유럽 역사 무술)",
+      "description": "1. 무딘 연습용 검이나 사브르와 알맞은 보호구를 갖추고, 균형 잡힌 자세로 칼끝을 상대 라인에 향한 가드를 취합니다.\n2. 거리를 드나들며 선택한 전통의 역사적 베기, 찌르기, 막기를 통제된 속도로 연습합니다.\n3. 매 동작 후 가드로 돌아오고, 파트너 연습 중에는 지도자나 파트너의 정지 신호에 즉시 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "HEMA (ศิลปะการต่อสู้ยุโรปโบราณ)",
+      "description": "1. ตั้งการ์ดด้วยดาบหรือเซเบอร์ฝึกที่ไม่มีคมพร้อมอุปกรณ์ป้องกันที่เหมาะสม เท้ายืนสมดุล ปลายดาบชี้แนวคู่ต่อสู้\n2. เคลื่อนเข้าออกระยะและฝึกการฟัน แทง และปัดป้องตามตำราที่เลือกด้วยจังหวะที่ควบคุมได้\n3. กลับสู่การ์ดหลังทุกการกระทำ และหยุดทันทีเมื่อผู้สอนหรือคู่ฝึกสั่งหยุดในการฝึกคู่",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "ИЕБИ (HEMA)",
+      "description": "1. Встаньте в позицию с тупым тренировочным мечом или саблей и подходящей защитой, ноги в устойчивой стойке, остриё в линию противника.\n2. Входите в дистанцию и выходите из неё, отрабатывая исторические удары, уколы и защиты выбранной традиции в контролируемом темпе.\n3. После каждого действия возвращайтесь в позицию и при парной работе сразу останавливайтесь по команде «стоп» инструктора или партнёра.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "ІЄБМ (HEMA)",
+      "description": "1. Станьте в позицію з тупим тренувальним мечем чи шаблею й відповідним захистом, ноги в стійкій стійці, вістря в лінію суперника.\n2. Входьте в дистанцію й виходьте з неї, відпрацьовуючи історичні удари, уколи й захисти обраної традиції в контрольованому темпі.\n3. Після кожної дії повертайтеся в позицію, а в парній роботі одразу зупиняйтеся за командою «стоп» інструктора чи партнера.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

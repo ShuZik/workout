@@ -1,0 +1,90 @@
+{
+  "id": "54.25",
+  "key": "fencing_semi_circular_parry",
+  "title": "Semi-Circular Parry",
+  "description": "1. Stand en garde in a high line; the partner attacks slowly to the low line on the same side.\n2. Drop the point in a half circle from the high to the low line, for example sixte to octave or quarte to septime, collecting the blade with your strong.\n3. Riposte into the low or high line, recover to en garde, and swap roles; reverse the drill from low to high lines.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "4 Parries",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Semi-Circular Parry",
+      "description": "1. Stand en garde in a high line; the partner attacks slowly to the low line on the same side.\n2. Drop the point in a half circle from the high to the low line, for example sixte to octave or quarte to septime, collecting the blade with your strong.\n3. Riposte into the low or high line, recover to en garde, and swap roles; reverse the drill from low to high lines.",
+      "sectionTitle": "Parries"
+    },
+    "es": {
+      "title": "Parada semicircular",
+      "description": "1. En guardia en una línea alta; el compañero ataca despacio a la línea baja del mismo lado.\n2. Baja la punta en medio círculo de la línea alta a la baja, por ejemplo de sexta a octava o de cuarta a séptima, recogiendo la hoja con tu fuerte.\n3. Responde a la línea baja o alta, vuelve a guardia y cambia papeles; invierte el ejercicio de líneas bajas a altas.",
+      "sectionTitle": "Paradas"
+    },
+    "pt": {
+      "title": "Parada semicircular",
+      "description": "1. Em guarda numa linha alta; o parceiro ataca devagar a linha baixa do mesmo lado.\n2. Baixe a ponta em meio círculo da linha alta à baixa, por exemplo de sexta para oitava ou de quarta para sétima, recolhendo a lâmina com seu forte.\n3. Responda na linha baixa ou alta, volte à guarda e troque papéis; inverta o exercício das linhas baixas para as altas.",
+      "sectionTitle": "Paradas"
+    },
+    "fr": {
+      "title": "Parade semi-circulaire",
+      "description": "1. En garde en ligne haute ; le partenaire attaque lentement la ligne basse du même côté.\n2. Abaissez la pointe en demi-cercle de la ligne haute à la ligne basse, par exemple sixte-octave ou quarte-septime, en cueillant le fer avec votre fort.\n3. Ripostez en ligne basse ou haute, revenez en garde et inversez ; faites aussi l’exercice des lignes basses vers les hautes.",
+      "sectionTitle": "Parades"
+    },
+    "de": {
+      "title": "Halbkreisparade",
+      "description": "1. Fechtstellung in einer hohen Linie; der Partner greift langsam die tiefe Linie derselben Seite an.\n2. Senke die Spitze im Halbkreis von der hohen in die tiefe Linie, etwa Sixt nach Oktav oder Quart nach Septime, und nimm die Klinge mit deiner Stärke auf.\n3. Ripostiere in die tiefe oder hohe Linie, kehre zurück und tauscht; übe auch umgekehrt von tiefen zu hohen Linien.",
+      "sectionTitle": "Paraden"
+    },
+    "it": {
+      "title": "Parata di mezzo cerchio",
+      "description": "1. In guardia in linea alta; il compagno attacca lentamente la linea bassa dello stesso lato.\n2. Abbassa la punta in mezzo cerchio dalla linea alta alla bassa, per esempio da sesta a ottava o da quarta a settima, raccogliendo la lama col tuo forte.\n3. Rispondi in linea bassa o alta, torna in guardia e scambiate; inverti l’esercizio dalle linee basse alle alte.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "半圆防守",
+      "description": "1. 以高线位成实战姿势；同伴缓慢攻击同侧低线。\n2. 剑尖由高线向低线画半圆下落（如第六到第八位或第四到第七位），用强部收住来剑。\n3. 向低线或高线还击，恢复实战姿势后交换角色；再反向从低线练到高线。",
+      "sectionTitle": "防守"
+    },
+    "ja": {
+      "title": "セミサーキュラー・パラード",
+      "description": "1. 高いラインでアンガルドを取り、相手は同じ側の低いラインへゆっくり攻撃します。\n2. 剣先を高いラインから低いラインへ半円を描いて下ろし（例：シクストからオクターブ、カルトからセプティム）、強部で剣を受け取ります。\n3. 低いラインか高いラインへリポストし、アンガルドに戻って交代します。低いラインから高いラインへの逆も練習します。",
+      "sectionTitle": "パラード"
+    },
+    "ko": {
+      "title": "반원 패리",
+      "description": "1. 높은 라인으로 앙가르드를 취하고, 파트너는 같은 쪽 낮은 라인으로 천천히 공격합니다.\n2. 칼끝을 높은 라인에서 낮은 라인으로 반원을 그리며 내려(예: 식스트에서 옥타브, 카르트에서 셉팀) 강부로 칼을 받습니다.\n3. 낮은 라인이나 높은 라인으로 리포스트하고 앙가르드로 돌아와 역할을 바꾸며, 낮은 라인에서 높은 라인으로도 반대로 연습합니다.",
+      "sectionTitle": "패리"
+    },
+    "th": {
+      "title": "การปัดครึ่งวงกลม",
+      "description": "1. ตั้งอองการ์ดในแนวสูง คู่ฝึกโจมตีช้าๆ ไปยังแนวต่ำด้านเดียวกัน\n2. ลดปลายดาบเป็นครึ่งวงจากแนวสูงสู่แนวต่ำ เช่น ซิกซ์ต์ไปอ็อกเทฟหรือการ์ตไปเซปตีม เก็บดาบด้วยส่วนแข็ง\n3. โต้กลับเข้าแนวต่ำหรือสูง กลับสู่อองการ์ดแล้วสลับบทบาท และฝึกกลับด้านจากแนวต่ำสู่แนวสูง",
+      "sectionTitle": "การปัดป้อง"
+    },
+    "ru": {
+      "title": "Полукруговая защита",
+      "description": "1. Стойка в верхней линии; партнёр медленно атакует в нижнюю линию той же стороны.\n2. Опустите остриё полукругом из верхней линии в нижнюю, например из шестой в восьмую или из четвёртой в седьмую, принимая клинок сильной частью.\n3. Ответьте в нижнюю или верхнюю линию, вернитесь в стойку и поменяйтесь ролями; выполните и обратный вариант снизу вверх.",
+      "sectionTitle": "Защиты"
+    },
+    "uk": {
+      "title": "Півколовий захист",
+      "description": "1. Стійка у верхній лінії; партнер повільно атакує в нижню лінію того самого боку.\n2. Опустіть вістря півколом із верхньої лінії в нижню, наприклад із шостої у восьму чи з четвертої в сьому, приймаючи клинок сильною частиною.\n3. Відповідайте в нижню чи верхню лінію, поверніться в стійку й поміняйтеся ролями; виконайте й зворотний варіант знизу вгору.",
+      "sectionTitle": "Захисти"
+    }
+  }
+}

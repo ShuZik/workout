@@ -1,0 +1,90 @@
+{
+  "id": "78.6",
+  "key": "lethwei_switch_knee",
+  "title": "Switch Knee",
+  "description": "1. From stance, make a quick small hop to swap the lead and rear feet while keeping the hands high.\n2. As the new rear foot lands behind, drive that knee forward into a body pad with the hips pushed through.\n3. Return the foot behind, restore the original stance, and repeat the switch only once balance is set.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "lethwei",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Switch Knee",
+      "description": "1. From stance, make a quick small hop to swap the lead and rear feet while keeping the hands high.\n2. As the new rear foot lands behind, drive that knee forward into a body pad with the hips pushed through.\n3. Return the foot behind, restore the original stance, and repeat the switch only once balance is set.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Rodilla con cambio",
+      "description": "1. Desde la guardia, da un pequeño salto rápido para intercambiar los pies, manteniendo las manos altas.\n2. Cuando el nuevo pie trasero aterrice detrás, lleva esa rodilla hacia delante contra un pao empujando la cadera.\n3. Devuelve el pie atrás, recupera la guardia original y repite el cambio solo cuando tengas equilibrio.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Joelhada com troca",
+      "description": "1. Da base, dê um pequeno salto rápido para trocar os pés, mantendo as mãos altas.\n2. Quando o novo pé de trás tocar o chão, leve esse joelho para frente contra um aparador projetando o quadril.\n3. Volte o pé para trás, recupere a base original e repita a troca só com equilíbrio estabelecido.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Genou sauté-changé",
+      "description": "1. Depuis la garde, faites un petit saut rapide pour inverser les pieds, mains hautes.\n2. Dès que le nouveau pied arrière se pose, projetez ce genou vers l’avant dans un bouclier en poussant les hanches.\n3. Ramenez le pied derrière, reprenez la garde initiale et ne répétez le changement qu’une fois l’équilibre retrouvé.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Wechselknie",
+      "description": "1. Wechsle aus der Stellung mit einem schnellen kleinen Hüpfer vorderen und hinteren Fuß und halte die Hände oben.\n2. Sobald der neue hintere Fuß aufsetzt, treibe dieses Knie mit vorgeschobener Hüfte nach vorn in ein Polster.\n3. Setze den Fuß zurück, stelle die ursprüngliche Stellung her und wiederhole den Wechsel erst mit sicherem Gleichgewicht.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Ginocchiata con cambio",
+      "description": "1. Dalla posizione, fai un piccolo saltello rapido per scambiare i piedi tenendo le mani alte.\n2. Quando il nuovo piede posteriore atterra dietro, porta quel ginocchio in avanti contro un colpitore spingendo le anche.\n3. Riporta il piede dietro, ripristina la posizione iniziale e ripeti il cambio solo con l’equilibrio stabile.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "换步膝击",
+      "description": "1. 从站姿快速小跳，交换前后脚，双手保持高位。\n2. 新的后脚在后方落地时，送髋将该膝盖向前顶入护靶。\n3. 脚收回后方，恢复原站姿，平衡稳定后再重复换步。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "スイッチニー",
+      "description": "1. 構えから素早く小さく跳んで前後の足を入れ替え、両手は高く保ちます。\n2. 新しい後ろ足が着地したら、腰を押し出してその膝を前方のミットへ突き刺します。\n3. 足を後ろへ戻して元の構えに戻り、バランスが整ってから次のスイッチを行います。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "스위치 니",
+      "description": "1. 스탠스에서 빠르게 작은 점프로 앞뒤 발을 바꾸고 손은 높이 유지합니다.\n2. 새 뒷발이 뒤에 착지하면 골반을 밀어 넣으며 그 무릎으로 앞의 패드를 찹니다.\n3. 발을 뒤로 되돌려 원래 스탠스를 회복하고 균형이 잡힌 뒤에만 다시 스위치합니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "เข่าสลับเท้า",
+      "description": "1. จากท่ายืน กระโดดเล็ก ๆ อย่างรวดเร็วเพื่อสลับเท้าหน้าและเท้าหลัง โดยยกมือสูง\n2. เมื่อเท้าหลังใหม่ลงพื้น ส่งเข่าข้างนั้นไปข้างหน้าใส่เป้าพร้อมดันสะโพก\n3. วางเท้ากลับด้านหลัง คืนท่ายืนเดิม และสลับใหม่เมื่อทรงตัวได้แล้วเท่านั้น",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Колено со сменой ног",
+      "description": "1. Из стойки сделайте быстрый маленький подскок, меняя переднюю и заднюю ноги, руки держите высоко.\n2. Когда новая задняя нога приземлится, направьте это колено вперёд в лапу, подавая таз.\n3. Верните стопу назад, восстановите исходную стойку и повторяйте смену только после восстановления равновесия.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Коліно зі зміною ніг",
+      "description": "1. Зі стійки зробіть швидкий маленький підскок, змінюючи передню й задню ноги, руки тримайте високо.\n2. Коли нова задня нога приземлиться, спрямуйте це коліно вперед у лапу, подаючи таз.\n3. Поверніть стопу назад, відновіть початкову стійку й повторюйте зміну лише після відновлення рівноваги.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

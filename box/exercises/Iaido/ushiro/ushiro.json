@@ -1,0 +1,87 @@
+{
+  "id": "63.3",
+  "key": "iaido_ushiro",
+  "title": "Ushiro",
+  "description": "1. Sit in seiza facing away from the opponent, then rise onto the toes and pivot 180 degrees to the left on the knees while drawing.\n2. Finish the turn with the left foot forward in a horizontal nukitsuke at temple height, then raise the sword and cut straight down with kirioroshi.\n3. Shake off the blade with o-chiburi, resheathe while lowering the knee, and return to seiza keeping zanshin toward the new front.",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Seated Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Ushiro",
+      "description": "1. Sit in seiza facing away from the opponent, then rise onto the toes and pivot 180 degrees to the left on the knees while drawing.\n2. Finish the turn with the left foot forward in a horizontal nukitsuke at temple height, then raise the sword and cut straight down with kirioroshi.\n3. Shake off the blade with o-chiburi, resheathe while lowering the knee, and return to seiza keeping zanshin toward the new front.",
+      "sectionTitle": "Seated Forms"
+    },
+    "es": {
+      "title": "Ushiro",
+      "description": "1. Siéntate en seiza de espaldas al oponente, sube sobre los dedos de los pies y gira 180 grados a la izquierda sobre las rodillas mientras desenvainas.\n2. Termina el giro con el pie izquierdo adelante en un nukitsuke horizontal a la altura de la sien, eleva la espada y corta recto hacia abajo con kirioroshi.\n3. Sacude la hoja con o-chiburi, envaina mientras bajas la rodilla y vuelve a seiza manteniendo zanshin hacia el nuevo frente.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "pt": {
+      "title": "Ushiro",
+      "description": "1. Sente em seiza de costas para o oponente, suba nas pontas dos pés e gire 180 graus para a esquerda sobre os joelhos enquanto saca.\n2. Conclua o giro com o pé esquerdo à frente num nukitsuke horizontal à altura da têmpora, eleve a espada e corte reto para baixo com kirioroshi.\n3. Sacuda a lâmina com o-chiburi, embainhe enquanto baixa o joelho e volte a seiza mantendo zanshin para a nova frente.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "fr": {
+      "title": "Ushiro",
+      "description": "1. Asseyez-vous en seiza dos à l’adversaire, montez sur les orteils et pivotez de 180 degrés vers la gauche sur les genoux en dégainant.\n2. Terminez la rotation pied gauche devant par un nukitsuke horizontal à hauteur de tempe, puis levez le sabre et coupez droit vers le bas en kirioroshi.\n3. Secouez la lame en o-chiburi, rengainez en abaissant le genou et revenez en seiza en gardant le zanshin vers le nouvel avant.",
+      "sectionTitle": "Formes assises"
+    },
+    "de": {
+      "title": "Ushiro",
+      "description": "1. Im Seiza mit dem Rücken zum Gegner sitzen, auf die Zehen kommen und beim Ziehen auf den Knien um 180 Grad nach links drehen.\n2. Die Drehung mit dem linken Fuß vorn in einem waagerechten Nukitsuke auf Schläfenhöhe beenden, dann das Schwert heben und mit Kirioroshi gerade nach unten schneiden.\n3. Mit O-Chiburi abschütteln, beim Absenken des Knies einstecken und mit Zanshin zur neuen Front ins Seiza zurückkehren.",
+      "sectionTitle": "Formen im Sitzen"
+    },
+    "it": {
+      "title": "Ushiro",
+      "description": "1. Siediti in seiza dando le spalle all’avversario, sali sulle punte e ruota di 180 gradi a sinistra sulle ginocchia mentre estrai.\n2. Concludi la rotazione con il piede sinistro avanti in un nukitsuke orizzontale all’altezza della tempia, poi alza la spada e taglia dritto in basso con kirioroshi.\n3. Scuoti la lama con o-chiburi, rinfodera abbassando il ginocchio e torna in seiza mantenendo lo zanshin verso il nuovo fronte.",
+      "sectionTitle": "Forme da seduti"
+    },
+    "zh-Hans": {
+      "title": "后",
+      "description": "1. 背对对手正坐，踮起脚尖，拔刀时以双膝为轴向左转身180度。\n2. 转身完成时左脚在前，以太阳穴高度横斩，然后举刀竖直斩落。\n3. 以大血振振刀，放下膝盖时纳刀，面向新方向保持残心回到正坐。",
+      "sectionTitle": "坐姿形"
+    },
+    "ja": {
+      "title": "後ろ（うしろ）",
+      "description": "1. 相手に背を向けた正座から爪先を立て、抜きながら両膝を軸に左へ180度回ります。\n2. 左足を前にして回り終えると同時にこめかみの高さへ横一文字に抜き付け、振りかぶって真っ直ぐ斬り下ろします。\n3. 大血振りを行い、膝を下ろしながら納刀し、新しい正面へ残心を保って正座に戻ります。",
+      "sectionTitle": "座り技の形"
+    },
+    "ko": {
+      "title": "우시로",
+      "description": "1. 상대를 등진 정좌에서 발끝을 세우고 칼을 뽑으며 무릎을 축으로 왼쪽으로 180도 돕니다.\n2. 왼발을 앞에 두고 회전을 마치며 관자놀이 높이로 수평 누키쓰케를 하고, 칼을 들어 기리오로시로 곧게 내려 벱니다.\n3. 오치부리로 칼날을 털고 무릎을 내리며 칼을 꽂은 뒤 새 정면을 향해 잔심을 유지하며 정좌로 돌아옵니다.",
+      "sectionTitle": "앉은 자세 형"
+    },
+    "th": {
+      "title": "อุชิโระ",
+      "description": "1. นั่งเซซะหันหลังให้คู่ต่อสู้ ยกตัวขึ้นบนปลายเท้าแล้วหมุนตัว 180 องศาไปทางซ้ายบนเข่าขณะชักดาบ\n2. จบการหมุนโดยเท้าซ้ายอยู่หน้าพร้อมฟันแนวนอนระดับขมับ แล้วยกดาบขึ้นและฟันตรงลง (คิริโอโรชิ)\n3. สะบัดดาบด้วยโอจิบุริ เก็บดาบขณะลดเข่าลง และกลับสู่เซซะโดยคงซันชินไปยังด้านหน้าใหม่",
+      "sectionTitle": "ท่าร่างแบบนั่ง"
+    },
+    "ru": {
+      "title": "Усиро",
+      "description": "1. Сядьте в сэйдза спиной к противнику, поднимитесь на носки и развернитесь на коленях на 180 градусов влево, обнажая меч.\n2. Завершите разворот с левой ногой впереди горизонтальным нукицукэ на уровне виска, затем поднимите меч и рубите прямо вниз кириороси.\n3. Стряхните клинок о-тибури, вложите меч, опуская колено, и вернитесь в сэйдза, сохраняя дзансин к новому фронту.",
+      "sectionTitle": "Формы из положения сидя"
+    },
+    "uk": {
+      "title": "Усіро",
+      "description": "1. Сядьте в сейдза спиною до суперника, підніміться на пальці й розверніться на колінах на 180 градусів ліворуч, оголюючи меч.\n2. Завершіть розворот із лівою ногою попереду горизонтальним нукіцуке на рівні скроні, потім підніміть меч і рубайте прямо вниз кіріоросі.\n3. Струсіть клинок о-тібурі, вкладіть меч, опускаючи коліно, і поверніться в сейдза, зберігаючи дзансін до нового фронту.",
+      "sectionTitle": "Форми з положення сидячи"
+    }
+  }
+}

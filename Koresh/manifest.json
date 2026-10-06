@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#2BBF51",
+    "colorType": "green",
+    "folder": "Koresh",
+    "id": "70",
+    "icon": "Koresh/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Koresh",
+    "workoutType": "koresh",
+    "translations": {
+      "en": {
+        "title": "Koresh"
+      },
+      "es": {
+        "title": "Koresh"
+      },
+      "pt": {
+        "title": "Koresh"
+      },
+      "fr": {
+        "title": "Korech"
+      },
+      "de": {
+        "title": "Koresch"
+      },
+      "it": {
+        "title": "Koresh"
+      },
+      "zh-Hans": {
+        "title": "科列什摔跤"
+      },
+      "ja": {
+        "title": "コレシュ"
+      },
+      "ko": {
+        "title": "코레시"
+      },
+      "th": {
+        "title": "โคเรช"
+      },
+      "ru": {
+        "title": "Корэш"
+      },
+      "uk": {
+        "title": "Кореш"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Koresh/exercises/koresh/Icon.png",
+      "json": "Koresh/exercises/koresh/koresh.json"
+    },
+    {
+      "icon": "Koresh/exercises/archThrowOverTheChest/Icon.png",
+      "json": "Koresh/exercises/archThrowOverTheChest/archThrowOverTheChest.json"
+    },
+    {
+      "icon": "Koresh/exercises/archThrowWithStepBehind/Icon.png",
+      "json": "Koresh/exercises/archThrowWithStepBehind/archThrowWithStepBehind.json"
+    }
+  ]
+}

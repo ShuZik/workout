@@ -1,0 +1,90 @@
+{
+  "id": "11.5",
+  "key": "stationary_cycling",
+  "title": "Stationary Bike",
+  "description": "1. Adjust the saddle so the knee stays slightly bent at the bottom and place both feet securely on the pedals.\n2. Pedal smoothly with the knees tracking forward and the hips staying level on the saddle.\n3. Add resistance until the pedals remain controlled through the full circle without rocking the torso.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 6,
+    "vigorous": 10.3,
+    "lightCode": "01210",
+    "moderateCode": "01220",
+    "vigorousCode": "01232"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Stationary Bike",
+      "description": "1. Adjust the saddle so the knee stays slightly bent at the bottom and place both feet securely on the pedals.\n2. Pedal smoothly with the knees tracking forward and the hips staying level on the saddle.\n3. Add resistance until the pedals remain controlled through the full circle without rocking the torso.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "Bicicleta estática",
+      "description": "1. Ajusta el sillín para que la rodilla quede ligeramente flexionada en el punto más bajo y coloca ambos pies firmemente en los pedales.\n2. Pedalea suavemente con las rodillas orientadas hacia delante y las caderas niveladas sobre el sillín.\n3. Añade resistencia hasta mantener los pedales controlados durante toda la vuelta sin balancear el torso.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "Bicicleta ergométrica",
+      "description": "1. Ajuste o selim para que o joelho fique levemente flexionado no ponto mais baixo e coloque os dois pés firmemente nos pedais.\n2. Pedale suavemente com os joelhos seguindo para a frente e o quadril nivelado no selim.\n3. Adicione resistência até manter os pedais controlados durante toda a volta sem balançar o tronco.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Vélo d’appartement",
+      "description": "1. Réglez la selle pour que le genou reste légèrement fléchi en bas et placez les deux pieds solidement sur les pédales.\n2. Pédalez fluidement avec les genoux dirigés vers l’avant et les hanches à niveau sur la selle.\n3. Ajoutez de la résistance jusqu’à garder le contrôle des pédales sur tout le tour sans balancer le torse.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "Heimtrainer",
+      "description": "1. Stelle den Sattel so ein, dass das Knie am tiefsten Punkt leicht gebeugt bleibt, und setze beide Füße sicher auf die Pedale.\n2. Tritt gleichmäßig, mit nach vorn gerichteten Knien und waagerecht bleibenden Hüften auf dem Sattel.\n3. Erhöhe den Widerstand, bis die Pedale über den ganzen Kreis kontrolliert bleiben, ohne den Oberkörper zu wiegen.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "Cyclette",
+      "description": "1. Regola la sella affinché il ginocchio resti leggermente piegato nel punto più basso e posiziona entrambi i piedi saldamente sui pedali.\n2. Pedala fluidamente con le ginocchia dirette avanti e le anche allo stesso livello sulla sella.\n3. Aggiungi resistenza fino a mantenere il controllo dei pedali per tutto il giro senza oscillare con il busto.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "固定自行车",
+      "description": "1. 调整车座，使膝盖在最低点仍微屈，双脚稳稳放在踏板上。\n2. 平滑踩踏，膝盖朝前运动，髋部在车座上保持水平。\n3. 增加阻力，直到整个转圈过程中都能控制踏板，同时不摇晃躯干。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "エアロバイク",
+      "description": "1. 最も低い位置でも膝が少し曲がるようサドルを調整し、両足をペダルにしっかり置きます。\n2. 膝を前に向け、サドル上で腰を水平に保ちながら滑らかにペダルを回します。\n3. 上体を揺らさず、1回転全体でペダルを制御できるように負荷を加えます。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "실내 자전거",
+      "description": "1. 가장 낮은 지점에서도 무릎이 살짝 굽혀지도록 안장을 조정하고 두 발을 페달에 안정적으로 놓습니다.\n2. 무릎을 앞으로 움직이고 안장 위 골반을 수평으로 유지하며 부드럽게 페달을 밟습니다.\n3. 몸통을 흔들지 않고 한 바퀴 전체에서 페달을 통제할 수 있도록 저항을 추가합니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "จักรยานอยู่กับที่",
+      "description": "1. ปรับอานให้เข่ายังงอเล็กน้อยที่จุดต่ำสุด และวางเท้าทั้งสองบนบันไดอย่างมั่นคง\n2. ปั่นอย่างราบรื่น ให้เข่าเคลื่อนไปข้างหน้าและสะโพกอยู่เสมอกันบนอาน\n3. เพิ่มแรงต้านจนควบคุมบันไดได้ตลอดวงโดยไม่โยกลำตัว",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "Велотренажёр",
+      "description": "1. Настройте седло так, чтобы колено оставалось слегка согнутым в нижней точке, и надёжно поставьте обе стопы на педали.\n2. Педалируйте плавно, направляя колени вперёд и удерживая таз ровно на седле.\n3. Добавьте сопротивление, чтобы контролировать педали на всём круге без раскачивания туловища.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "Велотренажер",
+      "description": "1. Налаштуйте сідло так, щоб коліно залишалося злегка зігнутим у нижній точці, і надійно поставте обидві стопи на педалі.\n2. Педалюйте плавно, спрямовуючи коліна вперед і тримаючи таз рівно на сідлі.\n3. Додайте опір, щоб контролювати педалі на всьому колі без розгойдування тулуба.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
+}

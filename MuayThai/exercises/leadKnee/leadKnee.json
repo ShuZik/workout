@@ -1,0 +1,90 @@
+{
+  "id": "2.14",
+  "key": "muay_thai_lead_knee",
+  "title": "Lead Knee",
+  "description": "1. From guard or light clinch control, shift weight to the rear leg and chamber the lead knee.\n2. Drive the lead hip forward and knee upward into a body pad while pulling the toes down.\n3. Withdraw the knee and place the lead foot back into stance before releasing the guard or clinch.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Knee",
+      "description": "1. From guard or light clinch control, shift weight to the rear leg and chamber the lead knee.\n2. Drive the lead hip forward and knee upward into a body pad while pulling the toes down.\n3. Withdraw the knee and place the lead foot back into stance before releasing the guard or clinch.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Rodillazo delantero",
+      "description": "1. Desde la guardia o un control ligero en el clinch, pasa el peso a la pierna trasera y recoge la rodilla delantera.\n2. Impulsa la cadera delantera hacia delante y la rodilla hacia arriba contra un escudo de cuerpo mientras bajas los dedos del pie.\n3. Retira la rodilla y apoya el pie delantero en la postura antes de soltar la guardia o el clinch.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Joelhada da frente",
+      "description": "1. Na guarda ou num controle leve de clinch, passe o peso para a perna de trás e recolha o joelho da frente.\n2. Projete o quadril da frente à frente e o joelho para cima contra um escudo de corpo, apontando os dedos do pé para baixo.\n3. Recolha o joelho e apoie o pé da frente na base antes de soltar a guarda ou o clinch.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Coup de genou avant",
+      "description": "1. En garde ou en léger contrôle de corps-à-corps, transférez le poids sur la jambe arrière et armez le genou avant.\n2. Poussez la hanche avant vers l’avant et le genou vers le haut dans un bouclier, orteils tirés vers le bas.\n3. Retirez le genou et reposez le pied avant en garde avant de relâcher la protection ou la saisie.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Vorderer Kniestoß",
+      "description": "1. Verlagere aus der Deckung oder leichter Clinch-Kontrolle das Gewicht auf das hintere Bein und ziehe das vordere Knie auf.\n2. Schiebe die vordere Hüfte nach vorn und das Knie nach oben in ein Schlagpolster, die Zehen nach unten gezogen.\n3. Ziehe das Knie zurück und setze den vorderen Fuß in die Stellung, bevor du Deckung oder Clinch löst.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Ginocchiata anteriore",
+      "description": "1. Dalla guardia o da un leggero controllo in clinch, sposta il peso sulla gamba posteriore e carica il ginocchio anteriore.\n2. Spingi l’anca anteriore in avanti e il ginocchio verso l’alto contro un colpitore, puntando le dita del piede in basso.\n3. Ritira il ginocchio e appoggia il piede anteriore in posizione prima di lasciare guardia o clinch.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "前腿膝撞",
+      "description": "1. 从防守位或轻度缠抱控制开始，重心移到后腿，前膝收起蓄力。\n2. 前髋向前送，膝盖向上撞击躯干靶，脚尖向下压。\n3. 收回膝盖，前脚落回站姿后再松开防守或缠抱。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前足の膝蹴り",
+      "description": "1. ガードまたは軽い首相撲の状態から後ろ脚に体重を移し、前の膝を抱え込みます。\n2. つま先を下に向け、前の腰を前へ押し出して膝をミットへ突き上げます。\n3. 膝を引き、前足を構えに下ろしてからガードや首相撲を解きます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "앞발 니킥",
+      "description": "1. 가드나 가벼운 클린치 상태에서 뒷다리로 체중을 옮기고 앞 무릎을 접어 올립니다.\n2. 발끝을 아래로 당기며 앞 골반을 앞으로 밀고 무릎을 바디 미트 위쪽으로 찔러 올립니다.\n3. 무릎을 거두고 앞발을 자세로 내려놓은 뒤 가드나 클린치를 풉니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เข่าตรงขาหน้า",
+      "description": "1. จากการ์ดหรือการจับปล้ำเบา ๆ ถ่ายน้ำหนักไปขาหลังและยกเข่าหน้าขึ้น\n2. ดันสะโพกหน้าไปข้างหน้าและส่งเข่าขึ้นเข้าเป้าลำตัว พร้อมกดปลายเท้าลง\n3. ดึงเข่ากลับและวางเท้าหน้าลงในท่ายืนก่อนคลายการ์ดหรือการปล้ำ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Удар передним коленом",
+      "description": "1. Из защиты или лёгкого контроля в клинче перенесите вес на заднюю ногу и подтяните переднее колено.\n2. Подайте переднюю сторону таза вперёд, а колено вверх в макивару, оттягивая носок вниз.\n3. Уберите колено и поставьте переднюю стопу в стойку, прежде чем ослабить защиту или клинч.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Удар переднім коліном",
+      "description": "1. Із захисту або легкого контролю в клінчі перенесіть вагу на задню ногу й підтягніть переднє коліно.\n2. Подайте передній бік таза вперед, а коліно вгору в маківару, відтягуючи носок донизу.\n3. Приберіть коліно й поставте передню стопу в стійку, перш ніж послабити захист або клінч.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

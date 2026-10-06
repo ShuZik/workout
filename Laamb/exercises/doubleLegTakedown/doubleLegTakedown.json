@@ -1,0 +1,90 @@
+{
+  "id": "77.5",
+  "key": "laamb_double_leg_takedown",
+  "title": "Double-Leg Takedown",
+  "description": "1. Attacker lowers the level, steps deep between the partner's feet, and wraps both thighs with the head to the side.\n2. Drive forward with the legs and turn the corner so the partner goes down onto the sand.\n3. Partner tucks the chin and breaks the fall; attacker controls the descent and releases at once after touchdown.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "laamb",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Double-Leg Takedown",
+      "description": "1. Attacker lowers the level, steps deep between the partner's feet, and wraps both thighs with the head to the side.\n2. Drive forward with the legs and turn the corner so the partner goes down onto the sand.\n3. Partner tucks the chin and breaks the fall; attacker controls the descent and releases at once after touchdown.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Derribo a dos piernas",
+      "description": "1. El atacante baja el nivel, entra profundo entre los pies del compañero y abraza ambos muslos con la cabeza a un lado.\n2. Empuja con las piernas y gira en diagonal para llevar al compañero a la arena.\n3. El compañero mete la barbilla y amortigua la caída; el atacante controla el descenso y suelta en cuanto toca el suelo.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Queda de duas pernas",
+      "description": "1. O atacante baixa o nível, entra fundo entre os pés do parceiro e envolve as duas coxas com a cabeça de lado.\n2. Empurre com as pernas e gire em diagonal para levar o parceiro à areia.\n3. O parceiro encolhe o queixo e amortece a queda; o atacante controla a descida e solta logo após o toque no chão.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Double jambe",
+      "description": "1. L'attaquant baisse son niveau, entre profondément entre les pieds du partenaire et ceinture les deux cuisses, la tête sur le côté.\n2. Poussez avec les jambes et pivotez en diagonale pour amener le partenaire au sol sur le sable.\n3. Le partenaire rentre le menton et amortit la chute ; l'attaquant accompagne la descente et lâche dès le contact au sol.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Beinangriff beidbeinig",
+      "description": "1. Der Angreifer geht tief, tritt weit zwischen die Füße des Partners und umfasst beide Oberschenkel, den Kopf seitlich.\n2. Schiebe mit den Beinen vorwärts und drehe diagonal ab, sodass der Partner in den Sand geht.\n3. Der Partner zieht das Kinn an und fällt sicher; der Angreifer kontrolliert den Fall und lässt nach dem Bodenkontakt sofort los.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Atterramento a due gambe",
+      "description": "1. L'attaccante abbassa il livello, entra a fondo tra i piedi del partner e cinge entrambe le cosce con la testa di lato.\n2. Spingi con le gambe e gira in diagonale per portare il partner a terra sulla sabbia.\n3. Il partner abbassa il mento e attutisce la caduta; l'attaccante controlla la discesa e lascia subito dopo il contatto a terra.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "抱双腿摔",
+      "description": "1. 进攻方降低重心，深入同伴两脚之间，头偏向一侧，双臂抱住对方两条大腿。\n2. 用双腿向前推进并斜向转身，将同伴摔倒在沙地上。\n3. 同伴收下巴并做好倒地保护；进攻方控制下落过程，着地后立即松手。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "両足タックル",
+      "description": "1. 攻め手は姿勢を低くし、相手の両足の間に深く踏み込み、頭を横につけて両腿を抱えます。\n2. 脚で前に押し込み、斜めに回り込んで相手を砂の上に倒します。\n3. 受け手はあごを引いて受け身をとり、攻め手は倒れる勢いを制御して着地後すぐに離します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "양다리 태클",
+      "description": "1. 공격자는 자세를 낮추고 파트너의 두 발 사이로 깊게 들어가 머리를 옆에 붙인 채 양 허벅지를 감쌉니다.\n2. 다리로 앞으로 밀며 대각선으로 돌아 파트너를 모래 위로 넘어뜨립니다.\n3. 파트너는 턱을 당기고 낙법을 하며, 공격자는 떨어지는 속도를 제어하고 착지 후 즉시 놓습니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "ทุ่มด้วยการรวบสองขา",
+      "description": "1. ฝ่ายรุกลดระดับตัว ก้าวลึกเข้าระหว่างเท้าคู่ฝึก แล้วโอบต้นขาทั้งสองข้างโดยเอาศีรษะไว้ด้านข้าง\n2. ดันไปข้างหน้าด้วยขาและหมุนเฉียงเพื่อพาคู่ฝึกลงสู่พื้นทราย\n3. คู่ฝึกก้มคางและล้มอย่างปลอดภัย ฝ่ายรุกควบคุมการล้มและปล่อยทันทีเมื่อถึงพื้น",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Проход в две ноги",
+      "description": "1. Атакующий снижает уровень, глубоко шагает между стоп партнёра и обхватывает оба бедра, голова сбоку.\n2. Толкайтесь ногами вперёд и разворачивайтесь по диагонали, чтобы партнёр опустился на песок.\n3. Партнёр прижимает подбородок и страхуется; атакующий контролирует падение и сразу отпускает после касания земли.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Прохід у дві ноги",
+      "description": "1. Атакувальник знижує рівень, глибоко ступає між стопами партнера й обхоплює обидва стегна, голова збоку.\n2. Штовхайтеся ногами вперед і розвертайтеся по діагоналі, щоб партнер опустився на пісок.\n3. Партнер притискає підборіддя й страхується; атакувальник контролює падіння й одразу відпускає після торкання землі.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "54.22",
+  "key": "fencing_derobement",
+  "title": "Dérobement",
+  "description": "1. Hold your arm extended in line at lunging distance; the partner attempts to beat or take your blade.\n2. Evade the contact with a small finger action of the point, under or over the partner's blade, keeping the arm extended and the point threatening.\n3. Hit or lunge as the partner's blade misses, recover to en garde, and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Dérobement",
+      "description": "1. Hold your arm extended in line at lunging distance; the partner attempts to beat or take your blade.\n2. Evade the contact with a small finger action of the point, under or over the partner's blade, keeping the arm extended and the point threatening.\n3. Hit or lunge as the partner's blade misses, recover to en garde, and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Derobement (esquive de hoja)",
+      "description": "1. Mantén el brazo extendido en línea a distancia de fondo; el compañero intenta batir o tomar tu hoja.\n2. Esquiva el contacto con una pequeña acción de dedos de la punta, por debajo o por encima de la hoja del compañero, con el brazo extendido y la punta amenazando.\n3. Toca o tira a fondo cuando la hoja del compañero falla, vuelve a guardia e intercambia papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Dérobement",
+      "description": "1. Mantenha o braço estendido em linha à distância de afundo; o parceiro tenta bater ou tomar sua lâmina.\n2. Evite o contato com uma pequena ação dos dedos na ponta, por baixo ou por cima da lâmina do parceiro, com o braço estendido e a ponta ameaçando.\n3. Toque ou afunde quando a lâmina do parceiro falhar, volte à guarda e troque papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Dérobement",
+      "description": "1. Gardez le bras allongé en ligne à distance de fente ; le partenaire tente de battre ou de prendre votre fer.\n2. Évitez le contact par une petite action des doigts sur la pointe, sous ou par-dessus le fer adverse, bras allongé et pointe menaçante.\n3. Touchez ou fendez-vous quand son fer manque, revenez en garde et inversez les rôles après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Dérobement",
+      "description": "1. Halte den Arm auf Ausfalldistanz gestreckt in Linie; der Partner versucht, deine Klinge zu schlagen oder zu binden.\n2. Weiche dem Kontakt mit einer kleinen Fingeraktion der Spitze unter oder über der Partnerklinge aus, Arm gestreckt, Spitze drohend.\n3. Triff oder falle aus, wenn die Partnerklinge ins Leere geht, kehre zurück und tauscht nach der Serie die Rollen.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Uscita in tempo (dérobement)",
+      "description": "1. Tieni il braccio disteso in linea a distanza d’affondo; il compagno tenta di battere o legare la tua lama.\n2. Elude il contatto con una piccola azione delle dita sulla punta, sotto o sopra la lama del compagno, braccio disteso e punta minacciosa.\n3. Tocca o affonda quando la lama del compagno va a vuoto, torna in guardia e scambiate i ruoli dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "躲剑（Dérobement）",
+      "description": "1. 在弓步距离保持手臂伸直成直线；同伴试图击打或压你的剑。\n2. 用手指使剑尖做小动作，从同伴剑下或剑上避开接触，手臂保持伸直，剑尖持续威胁。\n3. 同伴的剑落空时刺中或弓步，恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "デロブマン",
+      "description": "1. ファントの間合いで腕をラインに伸ばしておき、相手があなたの剣を打つか取ろうとします。\n2. 腕を伸ばして剣先で脅かしたまま、指の小さな動きで相手の剣の下か上へ剣先を外し、接触をかわします。\n3. 相手の剣が空を切ったところで突くかファントし、アンガルドに戻り、セット後に交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "데로브망",
+      "description": "1. 런지 거리에서 팔을 라인으로 뻗어 두고, 파트너가 내 칼을 치거나 잡으려 합니다.\n2. 팔을 뻗고 칼끝으로 위협을 유지한 채 손가락의 작은 동작으로 파트너 칼 아래나 위로 칼끝을 빼 접촉을 피합니다.\n3. 파트너 칼이 빗나가는 순간 찌르거나 런지하고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เดโรเบอม็อง",
+      "description": "1. เหยียดแขนไว้ในแนวในระยะลันจ์ คู่ฝึกพยายามตีหรือจับดาบของคุณ\n2. หลบการสัมผัสด้วยการขยับนิ้วเล็กน้อยที่ปลายดาบ ลอดใต้หรือข้ามเหนือดาบคู่ฝึก โดยแขนยังเหยียดและปลายดาบคุกคาม\n3. แทงหรือลันจ์เมื่อดาบคู่ฝึกพลาด กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Уклонение от захвата (деробеман)",
+      "description": "1. Держите руку выпрямленной в линии на дистанции выпада; партнёр пытается нанести батман или взять ваш клинок.\n2. Уклонитесь от контакта небольшим движением пальцев остриём под или над клинком партнёра, сохраняя руку выпрямленной и остриё угрожающим.\n3. Нанесите укол или выпад, когда клинок партнёра промахнётся, вернитесь в стойку и поменяйтесь ролями.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Ухилення від захоплення (деробеман)",
+      "description": "1. Тримайте руку випрямленою в лінії на дистанції випаду; партнер намагається завдати батману або взяти ваш клинок.\n2. Ухиліться від контакту невеликим рухом пальців вістрям під або над клинком партнера, зберігаючи руку випрямленою й вістря загрозливим.\n3. Завдайте уколу чи випаду, коли клинок партнера схибить, поверніться в стійку й поміняйтеся ролями.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

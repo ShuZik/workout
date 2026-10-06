@@ -10,5 +10,67 @@
   "energyProfile": null,
   "section": "2 Structure",
   "availableFrom": "1.1.2",
-  "availableUntil": null
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "End Repeat",
+      "description": "1. Place End Repeat immediately after the final step that belongs in a repeated block.\n2. Keep it paired with the preceding Repeat marker so the block boundaries are unambiguous.\n3. Review the enclosed steps before starting the workout to confirm that the intended sequence will loop.",
+      "sectionTitle": "Structure"
+    },
+    "es": {
+      "title": "Fin de repetición",
+      "description": "1. Coloca Fin de repetición inmediatamente después del último paso que pertenezca al bloque repetido.\n2. Mantén su correspondencia con el marcador Repetir anterior para que los límites del bloque sean claros.\n3. Revisa los pasos incluidos antes de iniciar la sesión para confirmar que se repetirá la secuencia prevista.",
+      "sectionTitle": "Estructura"
+    },
+    "pt": {
+      "title": "Fim da repetição",
+      "description": "1. Coloque Fim da repetição imediatamente após o último passo do bloco que será repetido.\n2. Mantenha sua correspondência com o marcador Repetir anterior para que os limites do bloco sejam claros.\n3. Revise os passos incluídos antes de iniciar o treino para confirmar que a sequência desejada será repetida.",
+      "sectionTitle": "Estrutura"
+    },
+    "fr": {
+      "title": "Fin de répétition",
+      "description": "1. Placez Fin de répétition immédiatement après la dernière étape du bloc à répéter.\n2. Associez-le au marqueur Répéter précédent afin que les limites du bloc soient sans ambiguïté.\n3. Vérifiez les étapes incluses avant de commencer l’entraînement pour confirmer que la séquence prévue sera répétée.",
+      "sectionTitle": "Structure"
+    },
+    "de": {
+      "title": "Wiederholungsende",
+      "description": "1. Setze Wiederholungsende direkt nach dem letzten Schritt des zu wiederholenden Blocks.\n2. Ordne es dem vorhergehenden Marker Wiederholen zu, damit die Blockgrenzen eindeutig sind.\n3. Prüfe die eingeschlossenen Schritte vor Trainingsbeginn, um sicherzustellen, dass die gewünschte Reihenfolge wiederholt wird.",
+      "sectionTitle": "Struktur"
+    },
+    "it": {
+      "title": "Fine ripetizione",
+      "description": "1. Posiziona Fine ripetizione subito dopo l’ultimo passaggio del blocco da ripetere.\n2. Abbinalo al precedente indicatore Ripeti in modo che i confini del blocco siano chiari.\n3. Controlla i passaggi inclusi prima di avviare l’allenamento per confermare che verrà ripetuta la sequenza prevista.",
+      "sectionTitle": "Struttura"
+    },
+    "zh-Hans": {
+      "title": "结束重复",
+      "description": "1. 将“结束重复”紧接在重复区块的最后一个步骤之后。\n2. 将它与前面的“重复”标记配对，确保区块边界明确。\n3. 开始训练前检查区块内的步骤，确认将循环执行预期的顺序。",
+      "sectionTitle": "结构"
+    },
+    "ja": {
+      "title": "繰り返し終了",
+      "description": "1. 繰り返すブロックの最後のステップの直後に「繰り返し終了」を置きます。\n2. 前の「繰り返し」マーカーと対応させ、ブロックの範囲を明確にします。\n3. ワークアウト開始前に範囲内のステップを確認し、意図した順序が繰り返されることを確かめます。",
+      "sectionTitle": "構成"
+    },
+    "ko": {
+      "title": "반복 끝",
+      "description": "1. 반복할 블록의 마지막 단계 바로 뒤에 반복 끝을 배치합니다.\n2. 앞의 반복 표시와 짝을 이루게 하여 블록 경계가 명확하도록 합니다.\n3. 운동 시작 전에 포함된 단계를 검토해 의도한 순서가 반복되는지 확인합니다.",
+      "sectionTitle": "구조"
+    },
+    "th": {
+      "title": "สิ้นสุดการทำซ้ำ",
+      "description": "1. วางสิ้นสุดการทำซ้ำทันทีหลังขั้นตอนสุดท้ายที่อยู่ในบล็อกที่จะทำซ้ำ\n2. จับคู่กับเครื่องหมายทำซ้ำที่อยู่ก่อนหน้า เพื่อให้ขอบเขตของบล็อกชัดเจน\n3. ตรวจสอบขั้นตอนภายในก่อนเริ่มการฝึก เพื่อยืนยันว่าจะวนซ้ำตามลำดับที่ตั้งใจไว้",
+      "sectionTitle": "โครงสร้าง"
+    },
+    "ru": {
+      "title": "Конец повтора",
+      "description": "1. Поместите «Конец повтора» сразу после последнего шага повторяемого блока.\n2. Сопоставьте его с предшествующим маркером «Повтор», чтобы границы блока были однозначными.\n3. Перед началом тренировки проверьте шаги внутри блока, чтобы убедиться, что будет повторяться нужная последовательность.",
+      "sectionTitle": "Структура"
+    },
+    "uk": {
+      "title": "Кінець повтору",
+      "description": "1. Розмістіть «Кінець повтору» відразу після останнього кроку повторюваного блоку.\n2. Поєднайте його з попереднім маркером «Повтор», щоб межі блоку були однозначними.\n3. Перед початком тренування перевірте кроки всередині блоку, щоб переконатися, що повторюватиметься потрібна послідовність.",
+      "sectionTitle": "Структура"
+    }
+  }
 }

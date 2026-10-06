@@ -1,0 +1,87 @@
+{
+  "id": "8.46",
+  "key": "taekwondo_taegeuk_7_jang",
+  "title": "Taegeuk 7 Jang",
+  "description": "1. Start in basic ready stance and perform the seventh Taegeuk, opening with tiger-stance palm blocks and front kicks.\n2. Include the scissor blocks, the knee strike while pulling both hands down, the crossed-fist low block and the target kick into the palm followed by an elbow strike in horse-riding stance.\n3. Finish with the closing side punch in horse-riding stance with a kihap, then return to basic ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taegeuk 7 Jang",
+      "description": "1. Start in basic ready stance and perform the seventh Taegeuk, opening with tiger-stance palm blocks and front kicks.\n2. Include the scissor blocks, the knee strike while pulling both hands down, the crossed-fist low block and the target kick into the palm followed by an elbow strike in horse-riding stance.\n3. Finish with the closing side punch in horse-riding stance with a kihap, then return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taegeuk 7 Jang",
+      "description": "1. Empieza en posición de preparación básica y realiza el séptimo Taegeuk, abriendo con bloqueos de palma en posición de tigre y patadas frontales.\n2. Incluye los bloqueos de tijera, el rodillazo tirando de ambas manos hacia abajo, el bloqueo bajo con puños cruzados y la patada a la palma seguida de codazo en posición de jinete.\n3. Termina con el puñetazo lateral final en posición de jinete con kihap y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taegeuk 7 Jang",
+      "description": "1. Comece na posição de preparação básica e execute o sétimo Taegeuk, abrindo com bloqueios de palma em base de tigre e chutes frontais.\n2. Inclua os bloqueios em tesoura, a joelhada puxando as duas mãos para baixo, o bloqueio baixo com punhos cruzados e o chute na palma seguido de cotovelada em base de cavaleiro.\n3. Termine com o soco lateral final em base de cavaleiro com kihap e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taegeuk 7 Jang",
+      "description": "1. Partez en position de préparation de base et exécutez le septième Taegeuk, en ouvrant par des blocages paume en position du tigre et des coups de pied directs.\n2. Intégrez les blocages en ciseaux, le coup de genou en tirant les deux mains vers le bas, le blocage bas poings croisés et le coup de pied cible dans la paume suivi d’un coup de coude en position du cavalier.\n3. Terminez par le coup de poing latéral final en position du cavalier avec kihap, puis revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taegeuk 7 Jang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe die siebte Taegeuk-Form, eröffnet mit Handflächenblocks im Tigerstand und Vorwärtstritten.\n2. Baue Scherenblocks, den Kniestoß mit beidhändigem Herabziehen, den gekreuzten Faust-Tiefblock und den Zieltritt in die Handfläche mit folgendem Ellbogenschlag im Reiterstand ein.\n3. Schließe mit dem letzten Seitfauststoß im Reiterstand mit Kihap ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taegeuk 7 Jang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui il settimo Taegeuk, aprendo con parate di palmo in posizione della tigre e calci frontali.\n2. Inserisci le parate a forbice, la ginocchiata tirando entrambe le mani verso il basso, la parata bassa a pugni incrociati e il calcio al palmo seguito da gomitata in posizione del cavaliere.\n3. Concludi con il pugno laterale finale in posizione del cavaliere con kihap, poi torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极七章",
+      "description": "1. 以基本预备式开始，太极七章以虎步掌挡和前踢开头。\n2. 包括剪刀格挡、双手下拉同时膝撞、交叉拳下格挡，���及踢掌后接骑马步肘击。\n3. 以骑马步侧冲拳并发声收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極7章（テグク・チルチャン）",
+      "description": "1. 基本準備立ちから始め、虎足立ちの掌受���と前蹴りで太極7章を開始します。\n2. はさみ受け、両手で引き下ろしながらの膝蹴り、交差拳下段受け、掌への標的蹴りから騎馬立ちでの肘打ちを含めます。\n3. 騎馬立ちでの最後の横突きを気合とともに行い、基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태극 7장",
+      "description": "1. 기본 준비서기에서 시작해 범서기 바탕손 막기와 앞차기로 태극 7장을 엽니다.\n2. 가위막기, 두 손으로 끌어내리며 무릎치기, 엇걸어 아래막기, 손바닥에 표적차기 후 주춤서기 팔굽치기를 포함합니다.\n3. 주춤서기 마지막 옆지르기를 기합과 함께 하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทกึก 7 จัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทกึกชุดที่เจ็ด โดยเปิดด้วยการปัดด้วยฝ่ามือในท่ายืนเสือและการเตะตรงด้านหน้า\n2. รวมการปัดแบบกรรไกร การตีเข่าขณะดึงสองมือลง การปัดต่ำด้วยกำปั้นไขว้ และการเตะเป้าที่ฝ่ามือตามด้วยศอกในท่ายืนม้า\n3. จบด้วยหมัดด้านข้างในท่ายืนม้าพร้อมคีอัป แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэгык 7 джан",
+      "description": "1. Начните из базовой готовой стойки и выполните седьмой тхэгык, открыв его блоками ладонью в стойке тигра и прямыми ударами ногой.\n2. Включите блоки-ножницы, удар коленом с притягиванием обеих рук вниз, нижний блок скрещёнными кулаками и удар ногой в ладонь-мишень с последующим ударом локтем в стойке всадника.\n3. Завершите последним боковым ударом в стойке всадника с кихапом и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхегик 7 джан",
+      "description": "1. Почніть із базової готової стійки й виконайте сьомий тхегик, відкривши його блоками долонею в стійці тигра та прямими ударами ногою.\n2. Додайте блоки-ножиці, удар коліном із притягуванням обох рук униз, нижній блок схрещеними кулаками та удар ногою в долоню-мішень із подальшим ударом ліктем у стійці вершника.\n3. Завершіть останнім бічним ударом у стійці вершника з кіхапом і поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

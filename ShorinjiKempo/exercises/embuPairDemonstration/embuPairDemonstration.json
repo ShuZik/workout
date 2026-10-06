@@ -1,0 +1,90 @@
+{
+  "id": "91.10",
+  "key": "shorinji_kempo_embu",
+  "title": "Embu Pair Demonstration",
+  "description": "1. Partners agree on a set of linked attack-and-defense sequences that combine goho and juho, opening and closing with gassho-rei.\n2. Perform the sequences at realistic speed, alternating attacker and defender roles, with strong spirit, clear kiai, and accurate distance.\n3. Stop every strike short and release joint techniques at once on a tap or slip, then finish in kamae with zanshin and bow together.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "shorinjiKempo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Embu Pair Demonstration",
+      "description": "1. Partners agree on a set of linked attack-and-defense sequences that combine goho and juho, opening and closing with gassho-rei.\n2. Perform the sequences at realistic speed, alternating attacker and defender roles, with strong spirit, clear kiai, and accurate distance.\n3. Stop every strike short and release joint techniques at once on a tap or slip, then finish in kamae with zanshin and bow together.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Demostración en pareja embu",
+      "description": "1. Los compañeros acuerdan una serie de secuencias enlazadas de ataque y defensa que combinan goho y juho, abriendo y cerrando con gassho-rei.\n2. Ejecutad las secuencias a velocidad realista, alternando los papeles de atacante y defensor, con espíritu firme, kiai claro y distancia precisa.\n3. Detened cada golpe antes del contacto y soltad las luxaciones de inmediato ante un golpe de aviso o un resbalón; terminad en kamae con zanshin y saludad juntos.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Demonstração em dupla embu",
+      "description": "1. Os parceiros combinam um conjunto de sequências encadeadas de ataque e defesa que unem goho e juho, abrindo e fechando com gassho-rei.\n2. Executem as sequências em velocidade realista, alternando os papéis de atacante e defensor, com espírito forte, kiai claro e distância precisa.\n3. Parem cada golpe antes do contato e soltem as chaves imediatamente diante de uma batida ou escorregão; terminem em kamae com zanshin e cumprimentem juntos.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Démonstration à deux embu",
+      "description": "1. Les partenaires conviennent d'une série d'enchaînements d'attaque et de défense mêlant goho et juho, en ouvrant et en terminant par gassho-rei.\n2. Exécutez les enchaînements à vitesse réaliste en alternant les rôles d'attaquant et de défenseur, avec un esprit fort, un kiai net et une distance juste.\n3. Arrêtez chaque frappe avant le contact et relâchez aussitôt les clés au moindre tapé ou glissement, puis terminez en kamae avec zanshin et saluez ensemble.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Embu – Paarvorführung",
+      "description": "1. Die Partner legen eine Reihe verbundener Angriffs- und Abwehrfolgen aus Goho und Juho fest und beginnen und enden mit Gassho-Rei.\n2. Führt die Folgen in realistischem Tempo aus, wechselt die Rollen von Angreifer und Verteidiger, mit starkem Geist, klarem Kiai und genauer Distanz.\n3. Stoppt jeden Schlag vor dem Kontakt und löst Hebel sofort bei Abklopfen oder Ausrutschen, endet dann mit Zanshin im Kamae und verbeugt euch gemeinsam.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Dimostrazione in coppia embu",
+      "description": "1. I partner concordano una serie di sequenze concatenate di attacco e difesa che uniscono goho e juho, aprendo e chiudendo con gassho-rei.\n2. Eseguite le sequenze a velocità realistica alternando i ruoli di attaccante e difensore, con spirito forte, kiai chiaro e distanza precisa.\n3. Fermate ogni colpo prima del contatto e rilasciate subito le leve a un battito o a una scivolata, poi terminate in kamae con zanshin e salutate insieme.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "演武",
+      "description": "1. 双方商定一组结合刚法与柔法的连贯攻防组合，以合掌礼开始和结束。\n2. 以接近实战的速度演练，攻守角色轮换，气势饱满、气合清晰、间距准确。\n3. 每次击打都在接触前停住，一有拍击示意或滑倒立即松开关节技，最后以残心收于构式并一同行礼。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "演武",
+      "description": "1. 二人で剛法と柔法を組み合わせた攻防の組み合わせを決め、合掌礼で始めて合掌礼で終えます。\n2. 攻者と守者を入れ替えながら、気迫・はっきりした気合・正確な間合いで実戦に近い速さで演じます。\n3. 突き蹴りはすべて寸止めにし、合図や滑りがあれば関節技を直ちに放し、残心をもって構えで終えて共に礼をします。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "엔부 짝 시범",
+      "description": "1. 두 사람은 강법과 유법을 결합한 연결 공방 동작을 정하고, 합장례로 시작하고 마칩니다.\n2. 공격자와 방어자 역할을 번갈아 하며 강한 기세, 분명한 기합, 정확한 거리로 실전에 가까운 속도로 시연합니다.\n3. 모든 타격은 닿기 직전에 멈추고, 탭이나 미끄러짐이 있으면 관절기를 즉시 풀며, 잔심을 유지한 카마에로 마친 뒤 함께 인사합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "เอ็มบุ การสาธิตคู่",
+      "description": "1. คู่ฝึกตกลงชุดท่าโจมตีและป้องกันต่อเนื่องที่ผสมโกโฮและจูโฮ เริ่มและจบด้วยกัสโชเร\n2. แสดงชุดท่าด้วยความเร็วใกล้เคียงสถานการณ์จริง สลับบทบาทผู้โจมตีและผู้ป้องกัน ด้วยจิตใจแน่วแน่ เสียงคิไอชัดเจน และระยะที่แม่นยำ\n3. หยุดทุกการโจมตีก่อนถึงตัว และปล่อยการล็อกข้อต่อทันทีเมื่อมีการตบสัญญาณหรือลื่น จากนั้นจบในคามาเอะพร้อมซันชินและโค้งคำนับพร้อมกัน",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Эмбу — парная демонстрация",
+      "description": "1. Партнёры согласуют набор связанных комбинаций атаки и защиты, сочетающих гохо и дзюхо, начиная и заканчивая гассё-рэй.\n2. Выполняйте комбинации в реалистичном темпе, чередуя роли атакующего и защищающегося, с сильным духом, чётким киаем и точной дистанцией.\n3. Останавливайте каждый удар до касания и сразу отпускайте болевые при хлопке или срыве, затем завершите в камаэ с дзансином и поклонитесь вместе.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Ембу — парна демонстрація",
+      "description": "1. Партнери узгоджують набір пов'язаних комбінацій атаки й захисту, що поєднують ґохо та дзюхо, починаючи й закінчуючи ґассьо-рей.\n2. Виконуйте комбінації в реалістичному темпі, чергуючи ролі нападника й захисника, з сильним духом, чітким кіаєм і точною дистанцією.\n3. Зупиняйте кожен удар до дотику й одразу відпускайте больові при плесканні чи зриві, потім завершіть у камае з дзансіном і вклоніться разом.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

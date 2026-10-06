@@ -1,0 +1,90 @@
+{
+  "id": "9.7",
+  "key": "dynamic_stretching",
+  "title": "Dynamic Toe Reaches",
+  "description": "1. Stand with feet wide, knees soft, and arms extended to the sides.\n2. Hinge at the hips and reach toward the right foot, return through center, then reach toward the left foot.\n3. Continue right, center, and left without bouncing or holding the end positions.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dynamic Toe Reaches",
+      "description": "1. Stand with feet wide, knees soft, and arms extended to the sides.\n2. Hinge at the hips and reach toward the right foot, return through center, then reach toward the left foot.\n3. Continue right, center, and left without bouncing or holding the end positions.",
+      "sectionTitle": "Dynamic Movement"
+    },
+    "es": {
+      "title": "Alcances dinámicos a los pies",
+      "description": "1. Ponte de pie con los pies separados, las rodillas ligeramente flexionadas y los brazos extendidos a los lados.\n2. Inclínate desde las caderas y alcanza el pie derecho, vuelve al centro y alcanza el pie izquierdo.\n3. Continúa hacia la derecha, el centro y la izquierda sin rebotes ni mantener las posiciones finales.",
+      "sectionTitle": "Movimiento dinámico"
+    },
+    "pt": {
+      "title": "Alcances dinâmicos aos pés",
+      "description": "1. Fique em pé com os pés afastados, os joelhos levemente flexionados e os braços estendidos para os lados.\n2. Incline-se a partir dos quadris e alcance o pé direito, volte pelo centro e alcance o pé esquerdo.\n3. Continue à direita, ao centro e à esquerda sem impulsos nem sustentar as posições finais.",
+      "sectionTitle": "Movimento dinâmico"
+    },
+    "fr": {
+      "title": "Touchers de pieds dynamiques",
+      "description": "1. Tenez-vous debout, les pieds écartés, les genoux souples et les bras étendus sur les côtés.\n2. Penchez-vous depuis les hanches vers le pied droit, revenez au centre, puis allez vers le pied gauche.\n3. Continuez à droite, au centre et à gauche sans rebondir ni maintenir les positions finales.",
+      "sectionTitle": "Mouvement dynamique"
+    },
+    "de": {
+      "title": "Dynamisches Fußberühren",
+      "description": "1. Stehe mit weit auseinanderstehenden Füßen, leicht gebeugten Knien und seitlich ausgestreckten Armen.\n2. Beuge dich aus den Hüften zum rechten Fuß, kehre über die Mitte zurück und beuge dich dann zum linken Fuß.\n3. Bewege dich weiter nach rechts, zur Mitte und nach links, ohne zu federn oder die Endpositionen zu halten.",
+      "sectionTitle": "Dynamische Bewegung"
+    },
+    "it": {
+      "title": "Tocchi dinamici dei piedi",
+      "description": "1. Stai in piedi con i piedi divaricati, le ginocchia morbide e le braccia estese ai lati.\n2. Piegati dalle anche verso il piede destro, torna al centro e raggiungi il piede sinistro.\n3. Continua a destra, al centro e a sinistra senza rimbalzi né soste nelle posizioni finali.",
+      "sectionTitle": "Movimento dinamico"
+    },
+    "zh-Hans": {
+      "title": "动态触脚",
+      "description": "1. 双脚分开站立，膝盖微屈，双臂向两侧伸展。\n2. 从髋部折叠身体，伸手向右脚，经过中间返回，再伸手向左脚。\n3. 持续向右、中间、向左移动，不要弹振或停留在末端位置。",
+      "sectionTitle": "动态动作"
+    },
+    "ja": {
+      "title": "動的な足へのリーチ",
+      "description": "1. 足を広く開き、膝を軽く緩め、腕を左右に伸ばして立ちます。\n2. 股関節から体を折り、右足へ手を伸ばし、中央に戻してから左足へ伸ばします。\n3. 右、中央、左へと続け、反動を使ったり端の位置で止まったりしないようにします。",
+      "sectionTitle": "動的な動き"
+    },
+    "ko": {
+      "title": "동적 발끝 터치",
+      "description": "1. 발을 넓게 벌리고 무릎을 부드럽게 굽힌 채 팔을 옆으로 뻗고 섭니다.\n2. 엉덩관절에서 몸을 접어 오른발 쪽으로 손을 뻗고 중앙으로 돌아온 뒤 왼발 쪽으로 뻗습니다.\n3. 반동을 주거나 끝 자세를 유지하지 않고 오른쪽, 중앙, 왼쪽으로 계속 움직입니다.",
+      "sectionTitle": "동적 움직임"
+    },
+    "th": {
+      "title": "เอื้อมแตะเท้าแบบไดนามิก",
+      "description": "1. ยืนแยกเท้ากว้าง งอเข่าเล็กน้อย และเหยียดแขนออกด้านข้าง\n2. พับตัวจากสะโพกเอื้อมไปหาเท้าขวา กลับผ่านตรงกลาง แล้วเอื้อมไปหาเท้าซ้าย\n3. เคลื่อนต่อไปทางขวา ตรงกลาง และซ้าย โดยไม่เด้งหรือค้างในตำแหน่งสุดท้าย",
+      "sectionTitle": "การเคลื่อนไหวแบบไดนามิก"
+    },
+    "ru": {
+      "title": "Динамические наклоны к стопам",
+      "description": "1. Встаньте, широко расставив стопы, слегка смягчив колени и вытянув руки в стороны.\n2. Наклонитесь от тазобедренных суставов к правой стопе, вернитесь через центр, затем потянитесь к левой стопе.\n3. Продолжайте движения вправо, через центр и влево без пружинящих движений и задержек в крайних положениях.",
+      "sectionTitle": "Динамические движения"
+    },
+    "uk": {
+      "title": "Динамічні нахили до стоп",
+      "description": "1. Станьте, широко розставивши стопи, злегка пом’якшивши коліна та витягнувши руки в сторони.\n2. Нахиліться від кульшових суглобів до правої стопи, поверніться через центр, потім потягніться до лівої стопи.\n3. Продовжуйте рухи вправо, через центр і вліво без пружних рухів та затримок у крайніх положеннях.",
+      "sectionTitle": "Динамічні рухи"
+    }
+  }
+}

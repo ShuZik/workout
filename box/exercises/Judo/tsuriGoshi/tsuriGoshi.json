@@ -1,0 +1,87 @@
+{
+  "id": "41.48",
+  "key": "judo_tsuri_goshi",
+  "title": "Tsuri Goshi",
+  "description": "1. Reach over or under the partner's arm to grip the back of the belt while the other hand controls the sleeve.\n2. Turn in with the hips below the partner and lift with the belt grip so the partner is loaded onto the hips.\n3. Rotate and project the partner over the hips while keeping the sleeve to guide the breakfall.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Koshi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tsuri Goshi",
+      "description": "1. Reach over or under the partner's arm to grip the back of the belt while the other hand controls the sleeve.\n2. Turn in with the hips below the partner and lift with the belt grip so the partner is loaded onto the hips.\n3. Rotate and project the partner over the hips while keeping the sleeve to guide the breakfall.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "es": {
+      "title": "Tsuri Goshi",
+      "description": "1. Pasa por encima o por debajo del brazo del compañero para agarrar la parte trasera del cinturón mientras la otra mano controla la manga.\n2. Entra girando con las caderas por debajo del compañero y levanta con el agarre del cinturón para cargarlo sobre las caderas.\n3. Gira y proyecta al compañero sobre las caderas manteniendo la manga para guiar la caída.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "pt": {
+      "title": "Tsuri Goshi",
+      "description": "1. Passe por cima ou por baixo do braço do parceiro para agarrar a parte de trás da faixa enquanto a outra mão controla a manga.\n2. Entre girando com os quadris abaixo do parceiro e levante com a pegada na faixa para carregá-lo sobre os quadris.\n3. Gire e projete o parceiro sobre os quadris mantendo a manga para guiar a queda.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "fr": {
+      "title": "Tsuri Goshi",
+      "description": "1. Passez par-dessus ou par-dessous le bras du partenaire pour saisir l’arrière de la ceinture pendant que l’autre main contrôle la manche.\n2. Entrez en pivotant, hanches sous le partenaire, et soulevez avec la prise de ceinture pour le charger sur les hanches.\n3. Tournez et projetez le partenaire par-dessus les hanches en gardant la manche pour guider la chute.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "de": {
+      "title": "Tsuri Goshi",
+      "description": "1. Greife über oder unter dem Arm des Partners hinten an den Gürtel, während die andere Hand den Ärmel kontrolliert.\n2. Drehe mit der Hüfte unter dem Partner ein und hebe mit dem Gürtelgriff, sodass er auf die Hüfte geladen wird.\n3. Drehe und wirf den Partner über die Hüfte, den Ärmel haltend, um den Fall zu führen.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "it": {
+      "title": "Tsuri Goshi",
+      "description": "1. Passa sopra o sotto il braccio del compagno per afferrare il retro della cintura mentre l’altra mano controlla la manica.\n2. Entra ruotando con le anche sotto il compagno e solleva con la presa alla cintura per caricarlo sulle anche.\n3. Ruota e proietta il compagno sopra le anche mantenendo la manica per guidare la caduta.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "zh-Hans": {
+      "title": "钓腰",
+      "description": "1. 从搭档手臂上方或下方伸手抓住其后腰带，另一手控制袖口。\n2. 转身进入，髋部低于搭档，用抓带上提把其承载到髋上。\n3. 转体将搭档从髋上投出，保持袖口引导倒地。",
+      "sectionTitle": "腰技"
+    },
+    "ja": {
+      "title": "釣腰",
+      "description": "1. 相手の腕の上または下から手を回して後ろ帯を握り、もう一方の手で袖を制します。\n2. 腰を相手より低くして回り込み、帯の握りで釣り上げて相手を腰に乗せます。\n3. 回転して相手を腰越しに投げ、袖を持って受身を導きます。",
+      "sectionTitle": "腰技"
+    },
+    "ko": {
+      "title": "츠리 고시",
+      "description": "1. 파트너 팔 위나 아래로 손을 넣어 뒤쪽 띠를 잡고 다른 손으로 소매를 통제합니다.\n2. 골반을 파트너보다 낮게 하여 돌아 들어가며 띠 잡은 손으로 들어 올려 파트너를 골반에 싣습니다.\n3. 돌며 파트너를 골반 너머로 던지고 소매를 유지해 낙법을 이끕니다.",
+      "sectionTitle": "허리기술"
+    },
+    "th": {
+      "title": "สึริโกชิ",
+      "description": "1. ยื่นมือข้ามหรือลอดใต้แขนคู่ฝึกไปจับเข็มขัดด้านหลัง ขณะที่มืออีกข้างควบคุมแขนเสื้อ\n2. หมุนตัวเข้าให้สะโพกต่ำกว่าคู่ฝึก และใช้มือที่จับเข็มขัดยกคู่ฝึกขึ้นบนสะโพก\n3. หมุนและทุ่มคู่ฝึกข้ามสะโพก จับแขนเสื้อไว้เพื่อนำการล้ม",
+      "sectionTitle": "โคชิวาซะ"
+    },
+    "ru": {
+      "title": "Цури-госи",
+      "description": "1. Проведите руку над или под рукой партнёра и захватите пояс сзади, другой рукой контролируя рукав.\n2. Войдите с разворотом, таз ниже партнёра, и поднимите его захватом за пояс, нагружая на таз.\n3. Развернитесь и бросьте партнёра через таз, удерживая рукав для направления страховки.",
+      "sectionTitle": "Коси-вадза"
+    },
+    "uk": {
+      "title": "Цурі-госі",
+      "description": "1. Проведіть руку над або під рукою партнера й захопіть пояс ззаду, іншою рукою контролюючи рукав.\n2. Увійдіть із розворотом, таз нижче партнера, і підніміть його захопленням за пояс, навантажуючи на таз.\n3. Розверніться й киньте партнера через таз, утримуючи рукав для спрямування страховки.",
+      "sectionTitle": "Косі-вадза"
+    }
+  }
+}

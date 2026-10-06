@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#F3A044",
+    "colorType": "orange",
+    "folder": "KunKhmer",
+    "id": "74",
+    "icon": "KunKhmer/Icon.png",
+    "symbolName": "figure.kickboxing",
+    "title": "Kun Khmer",
+    "workoutType": "kunKhmer",
+    "translations": {
+      "en": {
+        "title": "Kun Khmer"
+      },
+      "es": {
+        "title": "Kun Khmer"
+      },
+      "pt": {
+        "title": "Kun Khmer"
+      },
+      "fr": {
+        "title": "Kun Khmer"
+      },
+      "de": {
+        "title": "Kun Khmer"
+      },
+      "it": {
+        "title": "Kun Khmer"
+      },
+      "zh-Hans": {
+        "title": "高棉拳"
+      },
+      "ja": {
+        "title": "クン・クメール"
+      },
+      "ko": {
+        "title": "쿤 크메르"
+      },
+      "th": {
+        "title": "กุนแขมร์"
+      },
+      "ru": {
+        "title": "Кун кхмер"
+      },
+      "uk": {
+        "title": "Кун кхмер"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "KunKhmer/exercises/kunKhmer/Icon.png",
+      "json": "KunKhmer/exercises/kunKhmer/kunKhmer.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/angleExit/Icon.png",
+      "json": "KunKhmer/exercises/angleExit/angleExit.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/jabAndExit/Icon.png",
+      "json": "KunKhmer/exercises/jabAndExit/jabAndExit.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/kickAndCheck/Icon.png",
+      "json": "KunKhmer/exercises/kickAndCheck/kickAndCheck.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/doubleKick/Icon.png",
+      "json": "KunKhmer/exercises/doubleKick/doubleKick.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/feintAndStepKick/Icon.png",
+      "json": "KunKhmer/exercises/feintAndStepKick/feintAndStepKick.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/checkCrossPivot/Icon.png",
+      "json": "KunKhmer/exercises/checkCrossPivot/checkCrossPivot.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/blockJabExit/Icon.png",
+      "json": "KunKhmer/exercises/blockJabExit/blockJabExit.json"
+    },
+    {
+      "icon": "KunKhmer/exercises/slipHookReset/Icon.png",
+      "json": "KunKhmer/exercises/slipHookReset/slipHookReset.json"
+    }
+  ]
+}

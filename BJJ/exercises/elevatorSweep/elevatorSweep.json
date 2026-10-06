@@ -1,0 +1,90 @@
+{
+  "id": "6.12",
+  "key": "bjj_elevator_sweep",
+  "title": "Elevator Sweep",
+  "description": "1. From open or half guard, control the partner's upper body and place an instep beneath the far or trapped thigh.\n2. Pull the partner's weight forward, turn onto one shoulder, and lift with the instep while steering the torso across the empty side.\n3. Follow the rotation to the top and establish mount, half guard top, or side control before releasing the grips.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Sweeps",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Elevator Sweep",
+      "description": "1. From open or half guard, control the partner's upper body and place an instep beneath the far or trapped thigh.\n2. Pull the partner's weight forward, turn onto one shoulder, and lift with the instep while steering the torso across the empty side.\n3. Follow the rotation to the top and establish mount, half guard top, or side control before releasing the grips.",
+      "sectionTitle": "Sweeps"
+    },
+    "es": {
+      "title": "Barrida elevadora",
+      "description": "1. Desde guardia abierta o media guardia, controla el tren superior del compañero y coloca un empeine bajo el muslo lejano o atrapado.\n2. Tira de su peso hacia delante, gira sobre un hombro y eleva con el empeine mientras diriges su torso hacia el lado libre.\n3. Sigue la rotación hasta quedar arriba y establece la montada, la media guardia por arriba o el control lateral antes de soltar los agarres.",
+      "sectionTitle": "Barridos"
+    },
+    "pt": {
+      "title": "Raspagem elevador",
+      "description": "1. Da guarda aberta ou meia-guarda, controle a parte superior do corpo do parceiro e coloque um peito do pé sob a coxa oposta ou presa.\n2. Puxe o peso do parceiro para a frente, vire sobre um ombro e eleve com o peito do pé enquanto direciona o tronco dele para o lado livre.\n3. Acompanhe a rotação até ficar por cima e estabeleça a montada, a meia-guarda por cima ou o cem-quilos antes de soltar as pegadas.",
+      "sectionTitle": "Raspagens"
+    },
+    "fr": {
+      "title": "Renversement élévateur",
+      "description": "1. En garde ouverte ou demi-garde, contrôlez le haut du corps du partenaire et placez un cou-de-pied sous la cuisse éloignée ou bloquée.\n2. Attirez son poids vers l’avant, tournez sur une épaule et soulevez avec le cou-de-pied en dirigeant son buste vers le côté libre.\n3. Suivez la rotation jusqu’au-dessus et établissez la montée, la demi-garde au-dessus ou le contrôle latéral avant de relâcher les saisies.",
+      "sectionTitle": "Renversements"
+    },
+    "de": {
+      "title": "Elevator-Sweep",
+      "description": "1. Kontrolliere aus offener oder halber Guard den Oberkörper des Partners und setze einen Spann unter den fernen oder eingeklemmten Oberschenkel.\n2. Ziehe sein Gewicht nach vorn, drehe dich auf eine Schulter und hebe mit dem Spann, während du seinen Oberkörper zur freien Seite lenkst.\n3. Folge der Rotation nach oben und stabilisiere Mount, obere Halbguard oder Seitenkontrolle, bevor du die Griffe löst.",
+      "sectionTitle": "Umkehrtechniken"
+    },
+    "it": {
+      "title": "Ribaltamento elevatore",
+      "description": "1. Da guardia aperta o mezza guardia, controlla la parte superiore del corpo del partner e posiziona un collo del piede sotto la coscia lontana o bloccata.\n2. Tira il suo peso in avanti, ruota su una spalla e solleva con il collo del piede mentre guidi il busto verso il lato libero.\n3. Segui la rotazione fino a finire sopra e stabilizza monta, mezza guardia sopra o controllo laterale prima di lasciare le prese.",
+      "sectionTitle": "Ribaltamenti"
+    },
+    "zh-Hans": {
+      "title": "抬腿扫技",
+      "description": "1. 从开放式防守或半防守开始，控制搭档上半身，将一只脚背垫在对方远侧或被锁的大腿下方。\n2. 把对方重心向前拉，转向一侧肩膀，用脚背上抬，同时把对方躯干引向空出的一侧。\n3. 顺着翻转来到上位，建立骑乘、半防守上位或侧压后再松开抓握。",
+      "sectionTitle": "扫技"
+    },
+    "ja": {
+      "title": "エレベータースイープ",
+      "description": "1. オープンガードかハーフガードから相手の上体をコントロールし、片足の甲を奥側または固定した太ももの下に入れます。\n2. 相手の体重を前に引き出し、片方の肩へ体を向け、足の甲で持ち上げながら上体を空いている側へ導きます。\n3. 回転に合わせて上になり、マウント、ハーフガードトップ、またはサイドコントロールを確立してからグリップを離します。",
+      "sectionTitle": "スイープ"
+    },
+    "ko": {
+      "title": "엘리베이터 스윕",
+      "description": "1. 오픈 가드나 하프 가드에서 파트너의 상체를 제어하고, 한쪽 발등을 먼 쪽 또는 잡아 둔 허벅지 아래에 넣습니다.\n2. 상대 체중을 앞으로 끌어당기고 한쪽 어깨로 돌아누우며, 발등으로 들어 올리면서 상체를 빈 쪽으로 넘깁니다.\n3. 회전을 따라 상위로 올라가 마운트, 하프 가드 상위 또는 사이드 컨트롤을 잡은 뒤 그립을 놓습니다.",
+      "sectionTitle": "스윕"
+    },
+    "th": {
+      "title": "เอลิเวเตอร์สวีป",
+      "description": "1. จากโอเพนการ์ดหรือฮาล์ฟการ์ด ควบคุมลำตัวท่อนบนของคู่ฝึก แล้ววางหลังเท้าไว้ใต้ต้นขาฝั่งไกลหรือข้างที่ล็อกไว้\n2. ดึงน้ำหนักคู่ฝึกมาข้างหน้า ตะแคงลงบนไหล่ข้างหนึ่ง แล้วงัดขึ้นด้วยหลังเท้าพร้อมพาลำตัวคู่ฝึกไปทางฝั่งที่ว่าง\n3. ตามการหมุนขึ้นมาด้านบน แล้วตั้งเมาท์ ฮาล์ฟการ์ดด้านบน หรือไซด์คอนโทรลก่อนปล่อยการจับ",
+      "sectionTitle": "การสวีป"
+    },
+    "ru": {
+      "title": "Свип «лифт»",
+      "description": "1. Из открытого гарда или полугарда контролируйте верх корпуса партнёра и подведите подъём стопы под дальнее или захваченное бедро.\n2. Потяните вес партнёра вперёд, повернитесь на плечо и поднимите его подъёмом стопы, направляя корпус в свободную сторону.\n3. Следуйте за вращением наверх и закрепите маунт, верхний полугард или боковой контроль, прежде чем отпустить захваты.",
+      "sectionTitle": "Свипы"
+    },
+    "uk": {
+      "title": "Свіп «ліфт»",
+      "description": "1. З відкритого гарду або напівгарду контролюйте верх тулуба партнера й підведіть підйом стопи під дальнє або захоплене стегно.\n2. Потягніть вагу партнера вперед, поверніться на плече й підніміть його підйомом стопи, спрямовуючи тулуб у вільний бік.\n3. Слідуйте за обертанням нагору й закріпіть маунт, верхній напівгард або бічний контроль, перш ніж відпустити захвати.",
+      "sectionTitle": "Свіпи"
+    }
+  }
+}

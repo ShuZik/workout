@@ -1,0 +1,90 @@
+{
+  "id": "10.31",
+  "key": "cooldown_it_band_stretch",
+  "title": "IT Band Stretch",
+  "description": "1. Lie on the back with both legs long and arms extended to the sides.\n2. Lift one straight leg and guide it across the body while both shoulders remain on the floor.\n3. Hold the outer-hip and thigh stretch without bouncing, return to center, and switch legs.",
+  "color": "#0A84FF",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "IT Band Stretch",
+      "description": "1. Lie on the back with both legs long and arms extended to the sides.\n2. Lift one straight leg and guide it across the body while both shoulders remain on the floor.\n3. Hold the outer-hip and thigh stretch without bouncing, return to center, and switch legs.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento de la banda iliotibial",
+      "description": "1. Túmbate boca arriba con ambas piernas extendidas y los brazos abiertos a los lados.\n2. Eleva una pierna estirada y llévala al otro lado del cuerpo, manteniendo ambos hombros en el suelo.\n3. Mantén el estiramiento de la parte externa de la cadera y el muslo sin rebotes, vuelve al centro y cambia de pierna.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento da banda iliotibial",
+      "description": "1. Deite-se de costas com as duas pernas estendidas e os braços abertos para os lados.\n2. Eleve uma perna estendida e leve-a para o outro lado do corpo, mantendo os dois ombros no chão.\n3. Mantenha o alongamento na parte externa do quadril e da coxa sem balanços, volte ao centro e troque de perna.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement de la bandelette ilio-tibiale",
+      "description": "1. Allongez-vous sur le dos, les deux jambes tendues et les bras ouverts sur les côtés.\n2. Levez une jambe tendue et amenez-la de l’autre côté du corps en gardant les deux épaules au sol.\n3. Maintenez l’étirement à l’extérieur de la hanche et de la cuisse sans à-coups, revenez au centre et changez de jambe.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Dehnung des Tractus iliotibialis",
+      "description": "1. Lege dich auf den Rücken, strecke beide Beine aus und breite die Arme seitlich aus.\n2. Hebe ein gestrecktes Bein und führe es über den Körper zur anderen Seite, während beide Schultern am Boden bleiben.\n3. Halte die Dehnung an der Außenseite von Hüfte und Oberschenkel ohne Federn, kehre zur Mitte zurück und wechsle die Beine.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento della bandelletta ileotibiale",
+      "description": "1. Sdraiati sulla schiena con entrambe le gambe distese e le braccia aperte ai lati.\n2. Solleva una gamba distesa e portala dall’altra parte del corpo, mantenendo entrambe le spalle a terra.\n3. Mantieni l’allungamento sul lato esterno dell’anca e della coscia senza molleggiare, torna al centro e cambia gamba.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "髂胫束拉伸",
+      "description": "1. 仰卧，双腿伸直，双臂向两侧展开。\n2. 抬起一条伸直的腿，将其引向身体另一侧，同时双肩保持贴地。\n3. 不弹振地保持髋部和大腿外侧的拉伸，回到中间，再换腿。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "腸脛靭帯ストレッチ",
+      "description": "1. 仰向けになり、両脚を伸ばして両腕を横に広げます。\n2. 片脚を伸ばしたまま上げ、両肩を床につけたまま体の反対側へ導きます。\n3. 股関節と太ももの外側のストレッチを反動をつけずに保ち、中央に戻って脚を替えます。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "장경인대 스트레칭",
+      "description": "1. 등을 대고 누워 두 다리를 길게 펴고 팔을 양옆으로 뻗습니다.\n2. 한쪽 다리를 곧게 편 채 들어 몸의 반대쪽으로 넘기며 두 어깨는 바닥에 붙입니다.\n3. 고관절과 허벅지 바깥쪽이 늘어나는 자세를 반동 없이 유지한 뒤 중앙으로 돌아와 다리를 바꿉니다.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "การยืดแถบเอ็นด้านข้างต้นขา",
+      "description": "1. นอนหงาย เหยียดขาทั้งสองและกางแขนออกด้านข้าง\n2. ยกขาข้างหนึ่งที่เหยียดตรงแล้วพาข้ามไปอีกด้านของลำตัว โดยให้ไหล่ทั้งสองยังอยู่บนพื้น\n3. ค้างท่าเพื่อยืดด้านนอกสะโพกและต้นขาโดยไม่เด้ง กลับมาตรงกลาง แล้วสลับขา",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Растяжка подвздошно-большеберцового тракта",
+      "description": "1. Лягте на спину, вытяните обе ноги и разведите руки в стороны.\n2. Поднимите одну прямую ногу и переведите её через тело на другую сторону, оставляя оба плеча на полу.\n3. Удерживайте растяжку снаружи тазобедренного сустава и бедра без пружинящих движений, вернитесь в центр и смените ноги.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Розтягування клубово-великогомілкового тракту",
+      "description": "1. Ляжте на спину, витягніть обидві ноги й розведіть руки в боки.\n2. Підніміть одну пряму ногу й переведіть її через тіло на інший бік, залишаючи обидва плеча на підлозі.\n3. Утримуйте розтягування із зовнішнього боку кульшового суглоба та стегна без пружних рухів, поверніться в центр і змініть ноги.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  }
+}

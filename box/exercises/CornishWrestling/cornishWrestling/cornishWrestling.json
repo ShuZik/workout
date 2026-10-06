@@ -1,0 +1,87 @@
+{
+  "id": "52.1",
+  "key": "cornish_wrestling",
+  "title": "Cornish Wrestling",
+  "description": "1. Begin standing on grass or mats with a trained partner, both in canvas jackets, gripping only the jackets.\n2. Work heaves, hips, crooks, and trips to throw the partner toward the back without gripping below the waist.\n3. Control every fall, avoid the cross-collar and crowbar fouls, and reset to the jacket grip.",
+  "colorType": "gray",
+  "workoutType": "cornishWrestling",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Cornish Wrestling",
+      "description": "1. Begin standing on grass or mats with a trained partner, both in canvas jackets, gripping only the jackets.\n2. Work heaves, hips, crooks, and trips to throw the partner toward the back without gripping below the waist.\n3. Control every fall, avoid the cross-collar and crowbar fouls, and reset to the jacket grip.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Lucha de Cornualles",
+      "description": "1. Comienza de pie sobre hierba o tatami con un compañero entrenado, ambos con chaqueta de lona, agarrando solo las chaquetas.\n2. Trabaja levantamientos, caderas, ganchos y zancadillas para proyectar al compañero de espaldas sin agarrar por debajo de la cintura.\n3. Controla cada caída, evita las faltas de cruce de cuello y palanca, y vuelve al agarre de chaqueta.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Luta da Cornualha",
+      "description": "1. Comece de pé na grama ou no tatame com um parceiro treinado, ambos com jaqueta de lona, segurando apenas as jaquetas.\n2. Trabalhe levantamentos, quadris, ganchos e rasteiras para projetar o parceiro de costas sem segurar abaixo da cintura.\n3. Controle cada queda, evite as faltas de cruzamento de gola e alavanca e volte à pegada na jaqueta.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Lutte cornique",
+      "description": "1. Commencez debout sur l'herbe ou le tapis avec un partenaire entraîné, tous deux en veste de toile, en ne saisissant que les vestes.\n2. Travaillez soulevés, hanches, crochets et crocs-en-jambe pour projeter le partenaire sur le dos sans saisir sous la taille.\n3. Contrôlez chaque chute, évitez les fautes du col croisé et du levier, et revenez à la saisie de veste.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Cornisches Ringen",
+      "description": "1. Beginne stehend auf Gras oder Matte mit einem geübten Partner, beide in Segeltuchjacken, und greife nur die Jacken.\n2. Arbeite mit Hebewürfen, Hüftwürfen, Haken und Beinstellen, um den Partner auf den Rücken zu werfen, ohne unterhalb der Taille zu greifen.\n3. Kontrolliere jeden Fall, vermeide die Fouls Kreuzkragen und Brechstangengriff und kehre zum Jackengriff zurück.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Lotta della Cornovaglia",
+      "description": "1. Inizia in piedi sull'erba o sul tatami con un partner allenato, entrambi in giacca di tela, afferrando solo le giacche.\n2. Lavora con sollevamenti, anche, agganci e sgambetti per proiettare il partner sulla schiena senza afferrare sotto la vita.\n3. Controlla ogni caduta, evita i falli di bavero incrociato e leva, e torna alla presa alla giacca.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "康沃尔摔跤",
+      "description": "1. 与训练有素的同伴站在草地或垫上开始，双方穿帆布上衣，只抓上衣。\n2. 运用抱举、髋摔、勾腿和绊摔使同伴背部着地，不抓腰部以下。\n3. 控制每次倒地，避免交叉衣领和撬棍式握法犯规，回到上衣握持。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "コーンウォール・レスリング",
+      "description": "1. 帆布の上着を着た熟練のパートナーと草地かマット上に立ち、上着だけを持って始めます。\n2. 持ち上げ、腰技、足掛け、足払いで、腰より下を持たずに相手を背中へ投げます。\n3. すべての落下を制御し、クロスカラーとクローバーの反則を避け、上着の組み手に戻ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "콘월 레슬링",
+      "description": "1. 캔버스 상의를 입은 숙련된 파트너와 잔디나 매트에 서서 상의만 잡고 시작합니다.\n2. 들기, 허리기술, 걸기, 다리 걸기로 허리 아래를 잡지 않고 파트너를 등으로 메칩니다.\n3. 모든 낙하를 통제하고 크로스 칼라와 크로바 반칙을 피하며 상의 그립으로 돌아갑니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "มวยปล้ำคอร์นวอลล์",
+      "description": "1. เริ่มยืนบนหญ้าหรือเบาะกับคู่ฝึกที่ผ่านการฝึก ทั้งคู่สวมเสื้อผ้าใบ และจับเฉพาะเสื้อ\n2. ฝึกการยก การทุ่มสะโพก การเกี่ยว และการขัดขา เพื่อทุ่มคู่ฝึกให้หงายหลังโดยไม่จับต่ำกว่าเอว\n3. ควบคุมทุกการล้ม หลีกเลี่ยงฟาวล์ไขว้ปกเสื้อและงัดคานงัด แล้วกลับสู่การจับเสื้อ",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Корнуоллская борьба",
+      "description": "1. Начните стоя на траве или ковре с подготовленным партнёром, оба в брезентовых куртках, захваты только за куртки.\n2. Работайте подъёмами, бросками через бедро, зацепами и подножками, чтобы бросить партнёра на спину, не захватывая ниже пояса.\n3. Контролируйте каждое падение, избегайте запрещённых захватов крест-накрест за воротник и «ломом» и возвращайтесь к захвату за куртку.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Корнуольська боротьба",
+      "description": "1. Почніть стоячи на траві або килимі з підготовленим партнером, обидва в брезентових куртках, захвати лише за куртки.\n2. Працюйте підйомами, кидками через стегно, зачепами й підніжками, щоб кинути партнера на спину, не захоплюючи нижче пояса.\n3. Контролюйте кожне падіння, уникайте заборонених захватів навхрест за комір і «ломом» та повертайтеся до захвату за куртку.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

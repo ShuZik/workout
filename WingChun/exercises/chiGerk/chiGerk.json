@@ -1,0 +1,90 @@
+{
+  "id": "108.10",
+  "key": "wing_chun_chi_gerk",
+  "title": "Chi Gerk",
+  "description": "1. Stand close to a partner with the hands on guard; each partner lifts one leg so the shins meet with light contact while the supporting knee stays soft.\n2. Circle and press the legs against each other, checking, intercepting, and redirecting the partner's leg while both keep the centreline facing.\n3. Use only light pressure, put the foot down whenever balance is lost, and switch legs and roles after each round.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Chi Gerk",
+      "description": "1. Stand close to a partner with the hands on guard; each partner lifts one leg so the shins meet with light contact while the supporting knee stays soft.\n2. Circle and press the legs against each other, checking, intercepting, and redirecting the partner's leg while both keep the centreline facing.\n3. Use only light pressure, put the foot down whenever balance is lost, and switch legs and roles after each round.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Chi Gerk",
+      "description": "1. Colócate cerca de un compañero con las manos en guardia; cada uno levanta una pierna para que las espinillas se toquen con contacto ligero, con la rodilla de apoyo flexible.\n2. Circulad y presionad las piernas una contra otra, controlando, interceptando y redirigiendo la pierna del compañero mientras ambos mantenéis la línea central de frente.\n3. Usad solo presión ligera, apoyad el pie cuando se pierda el equilibrio y cambiad de pierna y de rol tras cada asalto.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Chi Gerk",
+      "description": "1. Fique perto de um parceiro com as mãos em guarda; cada um levanta uma perna para que as canelas se toquem com contato leve, joelho de apoio flexionado.\n2. Circulem e pressionem as pernas uma contra a outra, controlando, interceptando e redirecionando a perna do parceiro enquanto ambos mantêm a linha central de frente.\n3. Usem apenas pressão leve, apoiem o pé sempre que o equilíbrio se perder e troquem de perna e de papel após cada rodada.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Chi Gerk",
+      "description": "1. Placez-vous près d’un partenaire, mains en garde ; chacun lève une jambe pour que les tibias se touchent légèrement, genou d’appui souple.\n2. Faites tourner et pressez les jambes l’une contre l’autre, en contrôlant, interceptant et redirigeant la jambe du partenaire, tous deux face à la ligne centrale.\n3. N’utilisez qu’une pression légère, reposez le pied dès que l’équilibre se perd et changez de jambe et de rôle après chaque reprise.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Chi Gerk",
+      "description": "1. Stehe nah bei einem Partner mit den Händen in Deckung; jeder hebt ein Bein, sodass sich die Schienbeine leicht berühren, das Standknie bleibt weich.\n2. Kreist und drückt die Beine gegeneinander, kontrolliert, fangt ab und lenkt das Bein des Partners um, während beide die Mittellinie ausgerichtet halten.\n3. Nutzt nur leichten Druck, setzt den Fuß ab, sobald das Gleichgewicht verloren geht, und wechselt Bein und Rolle nach jeder Runde.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Chi Gerk",
+      "description": "1. Mettiti vicino a un partner con le mani in guardia; ognuno solleva una gamba in modo che le tibie si tocchino con contatto leggero, ginocchio d’appoggio morbido.\n2. Fate ruotare e premete le gambe l’una contro l’altra, controllando, intercettando e deviando la gamba del partner mentre entrambi mantenete la linea centrale frontale.\n3. Usate solo una pressione leggera, appoggiate il piede quando perdete l’equilibrio e cambiate gamba e ruolo dopo ogni round.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "黐脚",
+      "description": "1. 与同伴近距离站立，双手护守；各自提起一条腿，使小腿轻轻相贴，支撑腿膝盖微屈。\n2. 两腿相互盘转、相压，截、拦并引导对方的腿，双方始终正对中线。\n3. 只用轻柔的力量，一旦失去平衡就落脚，每轮结束后换腿换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "黐脚（チーゲッ）",
+      "description": "1. 両手を構えてパートナーの近くに立ち、互いに片脚を上げてすねを軽く触れ合わせ、軸脚の膝は柔らかく保ちます。\n2. 脚を回しながら押し合い、相手の脚を止め、遮り、そらし、二人とも中心線を正対させたまま行います。\n3. 軽い圧力だけを使い、バランスを崩したらすぐ足を下ろし、各ラウンド後に脚と役割を替えます。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "치각",
+      "description": "1. 두 손을 가드에 두고 파트너 가까이 서서, 각자 한쪽 다리를 들어 정강이가 가볍게 닿게 하고 지지 무릎은 부드럽게 유지합니다.\n2. 다리를 서로 돌리고 누르며 상대의 다리를 막고 가로채고 흘려보내되, 둘 다 중심선을 정면으로 유지합니다.\n3. 가벼운 압력만 사용하고 균형을 잃으면 바로 발을 내리며, 라운드마다 다리와 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ชี่เกิ๊ก (ขาเหนียว)",
+      "description": "1. ยืนใกล้คู่โดยมือการ์ดไว้ แต่ละคนยกขาข้างหนึ่งให้หน้าแข้งสัมผัสกันเบา ๆ และเข่าขาที่ยืนงอนุ่ม\n2. วนและกดขาเข้าหากัน สกัด ขวาง และเบี่ยงขาของคู่ โดยทั้งสองหันแนวกึ่งกลางเข้าหากันตลอด\n3. ใช้แรงกดเบา ๆ เท่านั้น วางเท้าลงทันทีเมื่อเสียสมดุล และสลับขาและบทบาทหลังแต่ละยก",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Чи гёк",
+      "description": "1. Встаньте близко к партнёру, руки в защите; каждый поднимает одну ногу, чтобы голени соприкоснулись с лёгким контактом, колено опорной ноги мягкое.\n2. Вращайте и прижимайте ноги друг к другу, контролируя, перехватывая и перенаправляя ногу партнёра, оба сохраняют разворот к центральной линии.\n3. Используйте только лёгкое давление, ставьте стопу на пол при потере равновесия и меняйте ногу и роли после каждого раунда.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Чі ґек",
+      "description": "1. Станьте близько до партнера, руки в захисті; кожен піднімає одну ногу, щоб гомілки торкнулися з легким к��нтактом, коліно опорної ноги м’яке.\n2. Обертайте й притискайте ноги одна до одної, контролюючи, перехоплюючи й перенаправляючи ногу партнера, обидва зберігають розворот до центральної лінії.\n3. Використовуйте лише легкий тиск, ставте стопу на підлогу в разі втрати рівноваги й міняйте ногу та ролі після кожного раунду.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "41.23",
+  "key": "judo_kata_gatame",
+  "title": "Kata Gatame",
+  "description": "1. From the side, press one of the partner's arms across the neck and connect head-and-arm control.\n2. Set the head close, extend the legs into a stable base, and lower the chest without twisting the cervical spine.\n3. Apply pressure gradually, monitor breathing, and release immediately at a tap or verbal signal.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "7 Groundwork",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kata Gatame",
+      "description": "1. From the side, press one of the partner's arms across the neck and connect head-and-arm control.\n2. Set the head close, extend the legs into a stable base, and lower the chest without twisting the cervical spine.\n3. Apply pressure gradually, monitor breathing, and release immediately at a tap or verbal signal.",
+      "sectionTitle": "Groundwork"
+    },
+    "es": {
+      "title": "Kata Gatame",
+      "description": "1. Desde el lado, presiona un brazo del compañero cruzándolo sobre su cuello y conecta el control de cabeza y brazo.\n2. Coloca la cabeza cerca, extiende las piernas para formar una base estable y baja el pecho sin torcer la columna cervical.\n3. Aplica presión gradualmente, vigila la respiración y suelta inmediatamente ante un golpe de rendición o señal verbal.",
+      "sectionTitle": "Trabajo en suelo"
+    },
+    "pt": {
+      "title": "Kata Gatame",
+      "description": "1. Pelo lado, pressione um braço do parceiro cruzando-o sobre o pescoço e conecte o controle de cabeça e braço.\n2. Coloque a cabeça próxima, estenda as pernas em uma base estável e abaixe o peito sem torcer a coluna cervical.\n3. Aplique pressão gradualmente, observe a respiração e solte imediatamente ao receber um toque de desistência ou sinal verbal.",
+      "sectionTitle": "Trabalho de solo"
+    },
+    "fr": {
+      "title": "Kata Gatame",
+      "description": "1. Depuis le côté, pressez un bras du partenaire en travers de son cou et reliez le contrôle de la tête et du bras.\n2. Placez la tête près, étendez les jambes en une base stable et abaissez la poitrine sans tordre la colonne cervicale.\n3. Appliquez la pression progressivement, surveillez la respiration et relâchez immédiatement au tapotement d’abandon ou au signal verbal.",
+      "sectionTitle": "Travail au sol"
+    },
+    "de": {
+      "title": "Kata Gatame",
+      "description": "1. Drücke von der Seite einen Arm des Partners quer über seinen Hals und verbinde die Kopf-Arm-Kontrolle.\n2. Setze den Kopf nah, strecke die Beine zu einer stabilen Basis und senke die Brust, ohne die Halswirbelsäule zu verdrehen.\n3. Erhöhe den Druck allmählich, beobachte die Atmung und löse sofort bei Abklopfen oder einem verbalen Signal.",
+      "sectionTitle": "Bodentechniken"
+    },
+    "it": {
+      "title": "Kata Gatame",
+      "description": "1. Dal lato, premi un braccio del compagno attraverso il collo e collega il controllo di testa e braccio.\n2. Porta la testa vicino, distendi le gambe in una base stabile e abbassa il petto senza torcere la colonna cervicale.\n3. Applica pressione gradualmente, controlla la respirazione e rilascia subito a un tap o segnale verbale.",
+      "sectionTitle": "Lavoro a terra"
+    },
+    "zh-Hans": {
+      "title": "肩固",
+      "description": "1. 从侧面将搭档一条手臂压过其颈部，建立头臂控制。\n2. 头部贴近，伸腿形成稳定支撑，降低胸部，不要扭转颈椎。\n3. 缓慢施压，观察呼吸，搭档拍击认输或发出口头信号时立即松开。",
+      "sectionTitle": "寝技"
+    },
+    "ja": {
+      "title": "肩固",
+      "description": "1. 横から相手の片腕を首に押し付け、頭と腕の制御をつなぎます。\n2. 頭を近づけ、脚を伸ばして安定した土台を作り、頸椎をねじらず胸を下げます。\n3. 徐々に圧力を加え、呼吸を確認し、タップや声の合図があれば直ちに解きます。",
+      "sectionTitle": "寝技"
+    },
+    "ko": {
+      "title": "카타 가타메",
+      "description": "1. 옆에서 파트너의 한 팔을 목을 가로질러 누르고 머리와 팔 통제를 연결합니다.\n2. 머리를 가까이 두고 다리를 펴 안정적인 지지면을 만들며 목뼈를 비틀지 않고 가슴을 낮춥니다.\n3. 압력을 천천히 가하고 호흡을 살피며 탭이나 말로 신호를 보내면 즉시 놓습니다.",
+      "sectionTitle": "굳히기"
+    },
+    "th": {
+      "title": "คาตะกาตาเมะ",
+      "description": "1. จากด้านข้าง กดแขนข้างหนึ่งของคู่ฝึกพาดผ่านคอและเชื่อมการควบคุมศีรษะกับแขน\n2. วางศีรษะใกล้ เหยียดขาเป็นฐานที่มั่นคง และลดหน้าอกโดยไม่บิดกระดูกสันหลังส่วนคอ\n3. เพิ่มแรงกดทีละน้อย ตรวจดูการหายใจ และปล่อยทันทีเมื่อคู่ฝึกตบยอมแพ้หรือส่งสัญญาณเสียง",
+      "sectionTitle": "การต่อสู้บนพื้น"
+    },
+    "ru": {
+      "title": "Ката-гатамэ",
+      "description": "1. Сбоку прижмите одну руку партнёра поперёк его шеи и соедините контроль головы и руки.\n2. Расположите голову близко, вытяните ноги в устойчивую опору и опустите грудь, не скручивая шейный отдел позвоночника.\n3. Усиливайте давление постепенно, следите за дыханием и немедленно отпускайте при постукивании или словесном сигнале.",
+      "sectionTitle": "Партер"
+    },
+    "uk": {
+      "title": "Ката-гатаме",
+      "description": "1. Збоку притисніть одну руку партнера поперек його шиї й з’єднайте контроль голови та руки.\n2. Розташуйте голову близько, витягніть ноги у стійку опору й опустіть груди, не скручуючи шийний відділ хребта.\n3. Посилюйте тиск поступово, стежте за диханням і негайно відпускайте при постукуванні або словесному сигналі.",
+      "sectionTitle": "Партер"
+    }
+  }
+}

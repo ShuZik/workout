@@ -1,0 +1,90 @@
+{
+  "id": "49.14",
+  "key": "capoeira_macaco",
+  "title": "Macaco",
+  "description": "1. On mats with a trained spotter, crouch low and reach one hand back to the floor behind you, fingers pointing away from the body.\n2. Push off both feet and swing the hips and legs up and over the supporting hand, looking back at the floor and keeping the arm firm.\n3. Land on the feet one after the other facing the original direction and rise into the ginga; repeat the low tuck version until the arc is controlled.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "4 Acrobatics",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Macaco",
+      "description": "1. On mats with a trained spotter, crouch low and reach one hand back to the floor behind you, fingers pointing away from the body.\n2. Push off both feet and swing the hips and legs up and over the supporting hand, looking back at the floor and keeping the arm firm.\n3. Land on the feet one after the other facing the original direction and rise into the ginga; repeat the low tuck version until the arc is controlled.",
+      "sectionTitle": "Acrobatics"
+    },
+    "es": {
+      "title": "Macaco",
+      "description": "1. Sobre colchonetas y con un ayudante entrenado, agáchate y lleva una mano atrás al suelo, con los dedos apuntando lejos del cuerpo.\n2. Impúlsate con ambos pies y lleva cadera y piernas arriba y por encima de la mano de apoyo, mirando el suelo detrás y con el brazo firme.\n3. Aterriza con un pie tras otro mirando a la dirección inicial y sube a la ginga; repite la versión baja recogida hasta controlar el arco.",
+      "sectionTitle": "Acrobacias"
+    },
+    "pt": {
+      "title": "Macaco",
+      "description": "1. Em colchonetes e com um ajudante treinado, agache e leve uma mão para trás no chão, com os dedos apontando para longe do corpo.\n2. Impulsione com os dois pés e leve quadril e pernas para cima e por cima da mão de apoio, olhando o chão atrás e com o braço firme.\n3. Aterrisse um pé após o outro voltado para a direção inicial e suba para a ginga; repita a versão baixa grupada até controlar o arco.",
+      "sectionTitle": "Acrobacias"
+    },
+    "fr": {
+      "title": "Macaco",
+      "description": "1. Sur tapis et avec un pareur formé, accroupissez-vous et posez une main au sol derrière vous, doigts orientés loin du corps.\n2. Poussez sur les deux pieds et faites passer hanches et jambes par-dessus la main d’appui, en regardant le sol derrière, bras ferme.\n3. Réceptionnez-vous un pied après l’autre face à la direction initiale et revenez dans la ginga ; répétez la version basse groupée jusqu’à maîtriser l’arc.",
+      "sectionTitle": "Acrobaties"
+    },
+    "de": {
+      "title": "Macaco",
+      "description": "1. Gehe auf Matten mit geschulter Hilfestellung in die Hocke und setze eine Hand hinter dir auf, die Finger vom Körper weg.\n2. Drücke dich mit beiden Füßen ab und schwinge Hüfte und Beine über die Stützhand, blicke nach hinten zum Boden und halte den Arm fest.\n3. Lande nacheinander auf den Füßen mit Blick in die Ausgangsrichtung und richte dich in die Ginga auf; übe die tiefe, gehockte Variante, bis der Bogen kontrolliert ist.",
+      "sectionTitle": "Akrobatik"
+    },
+    "it": {
+      "title": "Macaco",
+      "description": "1. Su materassini e con un assistente esperto, accovacciati e porta una mano a terra dietro di te, dita rivolte lontano dal corpo.\n2. Spingi con entrambi i piedi e porta anche e gambe in alto oltre la mano d’appoggio, guardando il pavimento dietro e con il braccio saldo.\n3. Atterra con un piede dopo l’altro rivolto alla direzione iniziale e risali in ginga; ripeti la versione bassa raccolta finché l’arco è controllato.",
+      "sectionTitle": "Acrobazie"
+    },
+    "zh-Hans": {
+      "title": "猴子翻（Macaco）",
+      "description": "1. 在垫子上并有受过训练的保护者，低蹲，一只手向身后撑地，手指朝向远离身体的方向。\n2. 双脚蹬地，使髋部和双腿向上越过支撑手，眼睛看身后地面，手臂保持稳固。\n3. 双脚依次落地并面向原方向，起身回到金加步；在弧线可控之前先重复低位团身版本。",
+      "sectionTitle": "技巧动作"
+    },
+    "ja": {
+      "title": "マカコ",
+      "description": "1. マットの上で訓練を受けた補助者をつけ、低くしゃがんで片手を背後の床につき、指は体から外向きにします。\n2. 両足で床を蹴り、腰と脚を支持手の上を越えるように振り上げ、後ろの床を見て腕をしっかり保ちます。\n3. 元の方向を向いて片足ずつ着地しジンガに戻ります。弧をコントロールできるまで低く丸めたバージョンを繰り返します。",
+      "sectionTitle": "アクロバット"
+    },
+    "ko": {
+      "title": "마카쿠",
+      "description": "1. 매트 위에서 숙련된 보조자와 함께 낮게 쪼그려 한 손을 몸 뒤 바닥에 짚고 손가락은 몸 바깥을 향하게 합니다.\n2. 두 발로 밀어 엉덩이와 다리를 지지하는 손 위로 넘기며 뒤쪽 바닥을 보고 팔을 단단히 유지합니다.\n3. 원래 방향을 보며 발을 하나씩 착지하고 징가로 일어납니다. 호를 통제할 수 있을 때까지 낮게 웅크린 버전을 반복합니다.",
+      "sectionTitle": "아크로바틱"
+    },
+    "th": {
+      "title": "มาคาคู",
+      "description": "1. บนเบาะและมีผู้ช่วยที่ผ่านการฝึก ย่อตัวต่ำแล้วเอื้อมมือข้างหนึ่งไปวางบนพื้นด้านหลัง นิ้วชี้ออกจากลำตัว\n2. ถีบด้วยเท้าทั้งสองแล้วเหวี่ยงสะโพกและขาขึ้นข้ามมือที่ค้ำ มองพื้นด้านหลังและแขนมั่นคง\n3. ลงเท้าทีละข้างโดยหันไปทางเดิมแล้วลุกขึ้นสู่จิงกา ฝึกแบบต่ำม้วนตัวซ้ำจนควบคุมวงโค้งได้",
+      "sectionTitle": "กายกรรม"
+    },
+    "ru": {
+      "title": "Макаку",
+      "description": "1. На матах с подготовленным страхующим низко присядьте и поставьте одну руку на пол позади себя пальцами от тела.\n2. Оттолкнитесь обеими ногами и проведите таз и ноги вверх и через опорную руку, глядя на пол сзади и держа руку твёрдо.\n3. Приземлитесь поочерёдно на стопы лицом в исходном направлении и поднимитесь в джингу; повторяйте низкий группированный вариант, пока дуга не станет контролируемой.",
+      "sectionTitle": "Акробатика"
+    },
+    "uk": {
+      "title": "Макаку",
+      "description": "1. На матах із підготовленим страхувальником низько присядьте й поставте одну руку на підлогу позаду себе пальцями від тіла.\n2. Відштовхніться обома ногами й проведіть таз і ноги вгору та через опорну руку, дивлячись на підлогу позаду й тримаючи руку твердо.\n3. Приземліться по черзі на стопи обличчям у початковому напрямку й підведіться в джингу; повторюйте низький згрупований варіант, доки дуга не стане контрольованою.",
+      "sectionTitle": "Акробатика"
+    }
+  }
+}

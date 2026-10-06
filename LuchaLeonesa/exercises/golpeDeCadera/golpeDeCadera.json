@@ -1,0 +1,90 @@
+{
+  "id": "80.8",
+  "key": "lucha_leonesa_golpe_de_cadera",
+  "title": "Golpe de Cadera",
+  "description": "1. From the belt grip, pull the partner forward and turn your hips in front of the partner's hips.\n2. Bend the knees under the partner's weight while keeping both hands on the belt.\n3. Straighten and rotate to throw the partner over the hip, guide the fall with the belt, then release and stand.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "luchaLeonesa",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Golpe de Cadera",
+      "description": "1. From the belt grip, pull the partner forward and turn your hips in front of the partner's hips.\n2. Bend the knees under the partner's weight while keeping both hands on the belt.\n3. Straighten and rotate to throw the partner over the hip, guide the fall with the belt, then release and stand.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Golpe de cadera",
+      "description": "1. Desde el agarre al cinto, tira del compañero hacia delante y gira tus caderas delante de las suyas.\n2. Flexiona las rodillas bajo su peso sin soltar el cinto con ninguna mano.\n3. Estírate y gira para proyectarlo por encima de la cadera, guía la caída con el cinto, luego suelta y levántate.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Golpe de cadera",
+      "description": "1. A partir da pegada no cinto, puxe o parceiro para a frente e gire o quadril à frente do quadril dele.\n2. Flexione os joelhos sob o peso dele mantendo as duas mãos no cinto.\n3. Estenda-se e gire para projetá-lo sobre o quadril, guie a queda com o cinto, depois solte e levante-se.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Golpe de cadera",
+      "description": "1. Depuis la prise à la ceinture, tirez le partenaire vers l'avant et tournez vos hanches devant les siennes.\n2. Fléchissez les genoux sous son poids en gardant les deux mains sur la ceinture.\n3. Redressez-vous et tournez pour le projeter par-dessus la hanche, guidez la chute avec la ceinture, puis lâchez et relevez-vous.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Golpe de cadera",
+      "description": "1. Zieh den Partner aus dem Gürtelgriff nach vorn und dreh deine Hüfte vor seine Hüfte.\n2. Beuge die Knie unter seinem Gewicht, beide Hände bleiben am Gürtel.\n3. Streck dich und dreh dich, um ihn über die Hüfte zu werfen, führe den Fall mit dem Gürtel, dann lass los und steh auf.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Golpe de cadera",
+      "description": "1. Dalla presa alla cintura, tira il partner in avanti e ruota le anche davanti alle sue.\n2. Piega le ginocchia sotto il suo peso mantenendo entrambe le mani sulla cintura.\n3. Distenditi e ruota per proiettarlo sopra l'anca, guida la caduta con la cintura, poi lascia e rialzati.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "髋部摔（Golpe de cadera）",
+      "description": "1. 从抓腰带把位开始，将同伴向前拉，转髋到对方髋部前方。\n2. 在对方体重下屈膝，双手始终抓住腰带。\n3. 蹬直并转体，将同伴从髋上摔过，用腰带引导下落，然后松手站起。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "ゴルペ・デ・カデラ",
+      "description": "1. ベルトの組み手から相手を前に引き、自分の腰を相手の腰の前へ回し入れます。\n2. 両手でベルトを握ったまま、相手の体重の下で膝を曲げます。\n3. 伸び上がりながら回って相手を腰越しに投げ、ベルトで落下を導いてから離して立ちます。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "골페 데 카데라",
+      "description": "1. 벨트 그립에서 파트너를 앞으로 당기고 내 엉덩이를 상대 엉덩이 앞으로 돌려 넣습니다.\n2. 두 손으로 벨트를 잡은 채 상대의 무게 아래에서 무릎을 굽힙니다.\n3. 몸을 펴고 회전해 파트너를 엉덩이 너머로 던지고, 벨트로 낙하를 이끈 뒤 놓고 일어섭니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "กอลเป เด กาเดรา",
+      "description": "1. จากท่าจับเข็มขัด ดึงคู่ฝึกมาข้างหน้าแล้วหมุนสะโพกของคุณเข้าไปอยู่หน้าสะโพกคู่ฝึก\n2. งอเข่ารับน้ำหนักคู่ฝึก โดยยังจับเข็มขัดไว้ทั้งสองมือ\n3. เหยียดตัวและหมุนเพื่อทุ่มคู่ฝึกข้ามสะโพก ใช้เข็มขัดนำการล้ม แล้วปล่อยและลุกขึ้น",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Гольпе де кадера (бросок через бедро)",
+      "description": "1. Из захвата за пояс потяните партнёра вперёд и доверните свои бёдра перед его бёдрами.\n2. Согните колени под его весом, не отпуская пояс ни одной рукой.\n3. Выпрямитесь и повернитесь, бросая партнёра через бедро, направляйте падение поясом, затем отпустите и встаньте.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Гольпе де кадера (кидок через стегно)",
+      "description": "1. Із захоплення за пояс потягніть партнера вперед і доверніть свої стегна перед його стегнами.\n2. Зігніть коліна під його вагою, не відпускаючи пояс жодною рукою.\n3. Випряміться й поверніться, кидаючи партнера через стегно, спрямовуйте падіння поясом, потім відпустіть і встаньте.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "58.3",
+  "key": "grappling_open_guard_restart",
+  "title": "Open Guard Restart",
+  "description": "1. Start with the bottom partner seated or supine using feet and hands to control the standing or kneeling top partner.\n2. On a signal, the top partner works to pass while the bottom partner retains guard, sweeps, or stands up.\n3. Stop at a secured pass, sweep, or tap, reset to open guard, and switch roles.",
+  "color": "#AF6ED7",
+  "colorType": "violet",
+  "workoutType": "grappling",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Open Guard Restart",
+      "description": "1. Start with the bottom partner seated or supine using feet and hands to control the standing or kneeling top partner.\n2. On a signal, the top partner works to pass while the bottom partner retains guard, sweeps, or stands up.\n3. Stop at a secured pass, sweep, or tap, reset to open guard, and switch roles.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Reinicio en guardia abierta",
+      "description": "1. Empieza con el compañero de abajo sentado o tumbado, usando pies y manos para controlar al de arriba, de pie o de rodillas.\n2. A la señal, el de arriba busca pasar mientras el de abajo retiene la guardia, barre o se levanta.\n3. Para ante un pase asegurado, un barrido o un golpe de rendición, vuelve a la guardia abierta y cambiad de rol.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Reinício na guarda aberta",
+      "description": "1. Comece com o parceiro de baixo sentado ou deitado, usando pés e mãos para controlar o de cima, em pé ou de joelhos.\n2. Ao sinal, o de cima busca passar enquanto o de baixo retém a guarda, raspa ou se levanta.\n3. Pare em uma passagem garantida, raspagem ou batida, volte à guarda aberta e troquem de papel.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Reprise en garde ouverte",
+      "description": "1. Commencez avec le partenaire du dessous assis ou allongé, contrôlant avec pieds et mains celui du dessus, debout ou à genoux.\n2. Au signal, celui du dessus cherche à passer pendant que celui du dessous garde, renverse ou se relève.\n3. Arrêtez sur un passage acquis, un renversement ou une tape, revenez en garde ouverte et inversez les rôles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Neustart aus der offenen Guard",
+      "description": "1. Der untere Partner sitzt oder liegt und kontrolliert den stehenden oder knienden oberen mit Füßen und Händen.\n2. Auf ein Signal versucht der obere zu passieren, während der untere die Guard hält, sweept oder aufsteht.\n3. Stoppt bei gesichertem Pass, Sweep oder Abklopfen, startet erneut aus der offenen Guard und tauscht die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Ripartenza da guardia aperta",
+      "description": "1. Inizia con il partner sotto seduto o supino che controlla con piedi e mani quello sopra, in piedi o in ginocchio.\n2. Al segnale, chi è sopra cerca di passare mentre chi è sotto mantiene la guardia, ribalta o si rialza.\n3. Fermatevi su un passaggio assicurato, un ribaltamento o un tap, ripartite da guardia aperta e scambiate i ruoli.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "开放式防守重新开始",
+      "description": "1. 下位同伴坐着或仰卧，用脚和手控制站立或跪姿的上位同伴。\n2. 听到信号后，上位努力过腿，下位保持防守、扫翻或站起。\n3. 完成稳定过腿、扫翻或出现拍击时停止，回到开放式防守并��换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "オープンガード再開",
+      "description": "1. 下の人が座るか仰向けになり、足と手で立っているか膝立ちの上の人を制した状態から始めます。\n2. 合図で上はパスを狙い、下はガー���の維持、スイープ、立ち上がりを狙います。\n3. パスの確保、スイープ、タップで止め、オープンガードに戻して役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "오픈 가드 재시작",
+      "description": "1. 아래 파트너가 앉거나 누운 채 발과 손으로 서 있거나 무릎 꿇은 위 파트너를 제어하며 시작합니다.\n2. 신호에 맞춰 위는 패스를 시도하고 아래는 가드 유지, 스윕 또는 일어서기를 시도합니다.\n3. 패스 확보, 스윕 또는 탭에서 멈추고 오픈 가드로 돌아가 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "เริ่มใหม่จากโอเพนการ์ด",
+      "description": "1. เริ่มโดยคู่ฝึกด้านล่างนั่งหรือนอนหงาย ใช้เท้าและมือควบคุมคู่ฝึกด้านบนที่ยืนหรือคุกเข่า\n2. เมื่อได้สัญญาณ ด้านบนพยายามผ่านการ์ด ส่วนด้านล่างรักษาการ์ด สวีป หรือลุกขึ้นยืน\n3. หยุดเมื่อผ่านการ์ดได้มั่นคง สวีปได้ หรือมีการตบ แล้วกลับสู่โอเพนการ์ดและสลับบทบาท",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Старт из открытого гарда",
+      "description": "1. Нижний партнёр сидит или лежит на спине, контролируя стопами и руками стоящего или стоящего на коленях верхнего.\n2. По сигналу верхний стремится пройти гард, а нижний удерживает гард, делает свип или встаёт.\n3. Остановитесь при закреплённом проходе, свипе или хлопке, вернитесь в открытый гард и смените роли.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Старт із відкритого гарду",
+      "description": "1. Нижній партнер сидить або лежить на спині, контролюючи стопами й руками верхнього, що стоїть або стоїть на колінах.\n2. За сигналом верхній прагне пройти гард, а нижній утримує гард, робить свіп або встає.\n3. Зупиніться після закріпленого проходу, свіпу чи плескання, поверніться у відкритий гард і поміняйтеся ролями.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#7D4DB3",
+    "colorType": "purple",
+    "folder": "MMA",
+    "id": "4",
+    "icon": "MMA/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "MMA",
+    "workoutType": "mma",
+    "translations": {
+      "en": {
+        "title": "MMA"
+      },
+      "es": {
+        "title": "MMA"
+      },
+      "pt": {
+        "title": "MMA"
+      },
+      "fr": {
+        "title": "MMA"
+      },
+      "de": {
+        "title": "MMA"
+      },
+      "it": {
+        "title": "MMA"
+      },
+      "zh-Hans": {
+        "title": "综合格斗"
+      },
+      "ja": {
+        "title": "総合格闘技"
+      },
+      "ko": {
+        "title": "종합격투기"
+      },
+      "th": {
+        "title": "ศิลปะการต่อสู้แบบผสมผสาน"
+      },
+      "ru": {
+        "title": "MMA"
+      },
+      "uk": {
+        "title": "MMA"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "MMA/exercises/mma/Icon.png",
+      "json": "MMA/exercises/mma/mma.json"
+    },
+    {
+      "icon": "MMA/exercises/mmaStanceAndMovement/Icon.png",
+      "json": "MMA/exercises/mmaStanceAndMovement/mmaStanceAndMovement.json"
+    },
+    {
+      "icon": "MMA/exercises/jab/Icon.png",
+      "json": "MMA/exercises/jab/jab.json"
+    },
+    {
+      "icon": "MMA/exercises/cross/Icon.png",
+      "json": "MMA/exercises/cross/cross.json"
+    },
+    {
+      "json": "MMA/exercises/leadHook/leadHook.json",
+      "icon": "MMA/exercises/leadHook/Icon.png"
+    },
+    {
+      "json": "MMA/exercises/rearHook/rearHook.json",
+      "icon": "MMA/exercises/rearHook/Icon.png"
+    },
+    {
+      "json": "MMA/exercises/leadUppercut/leadUppercut.json",
+      "icon": "MMA/exercises/leadUppercut/Icon.png"
+    },
+    {
+      "json": "MMA/exercises/rearUppercut/rearUppercut.json",
+      "icon": "MMA/exercises/rearUppercut/Icon.png"
+    },
+    {
+      "icon": "MMA/exercises/rearLowKick/Icon.png",
+      "json": "MMA/exercises/rearLowKick/rearLowKick.json"
+    },
+    {
+      "icon": "MMA/exercises/clinchPummeling/Icon.png",
+      "json": "MMA/exercises/clinchPummeling/clinchPummeling.json"
+    },
+    {
+      "icon": "MMA/exercises/doubleLegTakedown/Icon.png",
+      "json": "MMA/exercises/doubleLegTakedown/doubleLegTakedown.json"
+    },
+    {
+      "icon": "MMA/exercises/singleLegTakedown/Icon.png",
+      "json": "MMA/exercises/singleLegTakedown/singleLegTakedown.json"
+    },
+    {
+      "icon": "MMA/exercises/bodyLockTakedown/Icon.png",
+      "json": "MMA/exercises/bodyLockTakedown/bodyLockTakedown.json"
+    },
+    {
+      "icon": "MMA/exercises/sprawl/Icon.png",
+      "json": "MMA/exercises/sprawl/sprawl.json"
+    },
+    {
+      "icon": "MMA/exercises/wallGetUp/Icon.png",
+      "json": "MMA/exercises/wallGetUp/wallGetUp.json"
+    },
+    {
+      "icon": "MMA/exercises/technicalStandUp/Icon.png",
+      "json": "MMA/exercises/technicalStandUp/technicalStandUp.json"
+    },
+    {
+      "icon": "MMA/exercises/hipEscape/Icon.png",
+      "json": "MMA/exercises/hipEscape/hipEscape.json"
+    },
+    {
+      "icon": "MMA/exercises/guardPass/Icon.png",
+      "json": "MMA/exercises/guardPass/guardPass.json"
+    },
+    {
+      "icon": "MMA/exercises/groundAndPound/Icon.png",
+      "json": "MMA/exercises/groundAndPound/groundAndPound.json"
+    },
+    {
+      "icon": "MMA/exercises/rearNakedChoke/Icon.png",
+      "json": "MMA/exercises/rearNakedChoke/rearNakedChoke.json"
+    },
+    {
+      "json": "MMA/exercises/guillotineChoke/guillotineChoke.json",
+      "icon": "MMA/exercises/guillotineChoke/Icon.png"
+    },
+    {
+      "icon": "MMA/exercises/leadLowKick/Icon.png",
+      "json": "MMA/exercises/leadLowKick/leadLowKick.json"
+    },
+    {
+      "icon": "MMA/exercises/leadRoundhouseKick/Icon.png",
+      "json": "MMA/exercises/leadRoundhouseKick/leadRoundhouseKick.json"
+    },
+    {
+      "icon": "MMA/exercises/rearRoundhouseKick/Icon.png",
+      "json": "MMA/exercises/rearRoundhouseKick/rearRoundhouseKick.json"
+    },
+    {
+      "icon": "MMA/exercises/strikingDefense/Icon.png",
+      "json": "MMA/exercises/strikingDefense/strikingDefense.json"
+    },
+    {
+      "icon": "MMA/exercises/kickDefense/Icon.png",
+      "json": "MMA/exercises/kickDefense/kickDefense.json"
+    },
+    {
+      "icon": "MMA/exercises/fenceControl/Icon.png",
+      "json": "MMA/exercises/fenceControl/fenceControl.json"
+    },
+    {
+      "icon": "MMA/exercises/fenceEscape/Icon.png",
+      "json": "MMA/exercises/fenceEscape/fenceEscape.json"
+    },
+    {
+      "icon": "MMA/exercises/submissionDefense/Icon.png",
+      "json": "MMA/exercises/submissionDefense/submissionDefense.json"
+    },
+    {
+      "icon": "MMA/exercises/groundReversal/Icon.png",
+      "json": "MMA/exercises/groundReversal/groundReversal.json"
+    },
+    {
+      "icon": "MMA/exercises/strikingCombinations/Icon.png",
+      "json": "MMA/exercises/strikingCombinations/strikingCombinations.json"
+    },
+    {
+      "icon": "MMA/exercises/fenceControlOnTheGround/Icon.png",
+      "json": "MMA/exercises/fenceControlOnTheGround/fenceControlOnTheGround.json"
+    }
+  ]
+}

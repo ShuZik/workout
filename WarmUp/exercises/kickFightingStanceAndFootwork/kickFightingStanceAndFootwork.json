@@ -1,0 +1,90 @@
+{
+  "id": "9.32",
+  "key": "kick_fighting_stance_and_footwork",
+  "title": "Kick-Fighting Stance & Footwork",
+  "description": "1. Take a guarded stance with knees soft and enough width to check or kick from either side.\n2. Move forward, backward, and laterally with short steps while the feet never cross.\n3. Pivot on the balls of the feet and return to a stance that remains ready to punch, kick, or defend.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Kicking Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kick-Fighting Stance & Footwork",
+      "description": "1. Take a guarded stance with knees soft and enough width to check or kick from either side.\n2. Move forward, backward, and laterally with short steps while the feet never cross.\n3. Pivot on the balls of the feet and return to a stance that remains ready to punch, kick, or defend.",
+      "sectionTitle": "Kicking Prep"
+    },
+    "es": {
+      "title": "Postura y juego de pies para combate con patadas",
+      "description": "1. Adopta una postura con guardia, rodillas flexibles y suficiente anchura para bloquear o patear con cualquiera de los lados.\n2. Muévete hacia delante, atrás y a los lados con pasos cortos sin cruzar nunca los pies.\n3. Gira sobre la parte delantera de los pies y vuelve a una postura lista para golpear con puños, patear o defender.",
+      "sectionTitle": "Preparación para patadas"
+    },
+    "pt": {
+      "title": "Base e movimentação para luta com chutes",
+      "description": "1. Assuma uma base com guarda, joelhos flexíveis e largura suficiente para bloquear ou chutar de qualquer lado.\n2. Mova-se para a frente, para trás e lateralmente com passos curtos sem nunca cruzar os pés.\n3. Gire sobre a parte da frente dos pés e volte a uma base pronta para socar, chutar ou defender.",
+      "sectionTitle": "Preparação para chutes"
+    },
+    "fr": {
+      "title": "Posture et jeu de jambes pour les coups de pied",
+      "description": "1. Prenez une posture en garde, genoux souples et assez large pour bloquer ou donner un coup de pied de chaque côté.\n2. Avancez, reculez et déplacez-vous latéralement avec de petits pas sans jamais croiser les pieds.\n3. Pivotez sur l’avant des pieds et reprenez une posture prête à frapper du poing, du pied ou à défendre.",
+      "sectionTitle": "Préparation aux coups de pied"
+    },
+    "de": {
+      "title": "Stellung und Beinarbeit für den Kickkampf",
+      "description": "1. Nimm eine Stellung mit Deckung, weichen Knien und genügend Breite ein, um auf beiden Seiten Kicks abzuwehren oder zu treten.\n2. Bewege dich mit kurzen Schritten vorwärts, rückwärts und seitlich, ohne die Füße zu kreuzen.\n3. Drehe auf den Fußballen und kehre in eine Stellung zurück, aus der du schlagen, treten oder verteidigen kannst.",
+      "sectionTitle": "Kickvorbereitung"
+    },
+    "it": {
+      "title": "Posizione e gioco di gambe per combattimento con calci",
+      "description": "1. Assumi una posizione in guardia con ginocchia morbide e larghezza sufficiente per bloccare o calciare da entrambi i lati.\n2. Muoviti avanti, indietro e lateralmente con passi corti senza mai incrociare i piedi.\n3. Ruota sugli avampiedi e torna in una posizione pronta a colpire con pugni, calciare o difendere.",
+      "sectionTitle": "Preparazione ai calci"
+    },
+    "zh-Hans": {
+      "title": "踢击格斗站姿与步法",
+      "description": "1. 采取防守站姿，膝盖放松，站距足够宽，以便两侧都能提膝格挡或踢击。\n2. 用小步向前、向后和向侧面移动，双脚始终不要交叉。\n3. 用前脚掌转动，回到随时可出拳、踢击或防守的站姿。",
+      "sectionTitle": "踢击准备"
+    },
+    "ja": {
+      "title": "蹴りの構えとフットワーク",
+      "description": "1. ガードを構え、膝を柔らかく保ち、左右どちらでも蹴りのブロックや蹴りができる足幅を取ります。\n2. 足を交差させず、小さなステップで前後左右に動きます。\n3. 前足部で回転し、パンチ、蹴り、防御ができる構えに戻ります。",
+      "sectionTitle": "キックの準備"
+    },
+    "ko": {
+      "title": "킥 격투 자세와 풋워크",
+      "description": "1. 무릎을 부드럽게 유지하고 어느 쪽으로도 킥을 막거나 찰 수 있는 충분한 너비의 가드 자세를 취합니다.\n2. 발을 교차하지 않고 짧은 걸음으로 앞뒤와 옆으로 이동합니다.\n3. 앞꿈치로 회전하고 펀치, 킥 또는 방어를 할 준비가 된 자세로 돌아옵니다.",
+      "sectionTitle": "킥 준비"
+    },
+    "th": {
+      "title": "ท่ายืนและฟุตเวิร์กสำหรับการเตะ",
+      "description": "1. ตั้งท่ายกมือป้องกัน ผ่อนเข่าและยืนกว้างพอที่จะยกแข้งบล็อกหรือเตะได้ทั้งสองข้าง\n2. เคลื่อนหน้า หลังและด้านข้างด้วยก้าวสั้น ๆ โดยไม่ไขว้เท้า\n3. หมุนบนจมูกเท้าและกลับสู่ท่าที่พร้อมชก เตะหรือป้องกัน",
+      "sectionTitle": "เตรียมพร้อมสำหรับการเตะ"
+    },
+    "ru": {
+      "title": "Стойка и работа ног для ударов ногами",
+      "description": "1. Примите стойку с руками в защите, мягкими коленями и достаточной шириной для блока ногой или удара с любой стороны.\n2. Двигайтесь вперёд, назад и в стороны короткими шагами, никогда не скрещивая стопы.\n3. Разворачивайтесь на передней части стоп и возвращайтесь в стойку, готовую для удара рукой, ногой или защиты.",
+      "sectionTitle": "Подготовка к ударам ногами"
+    },
+    "uk": {
+      "title": "Стійка та робота ніг для ударів ногами",
+      "description": "1. Прийміть стійку з руками в захисті, м’якими колінами та достатньою шириною для блока ногою або удару з будь-якого боку.\n2. Рухайтеся вперед, назад і в сторони короткими кроками, ніколи не схрещуючи стопи.\n3. Розвертайтеся на передній частині стоп і повертайтеся у стійку, готову для удару рукою, ногою або захисту.",
+      "sectionTitle": "Підготовка до ударів ногами"
+    }
+  }
+}

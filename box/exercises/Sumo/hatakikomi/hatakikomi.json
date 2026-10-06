@@ -1,0 +1,87 @@
+{
+  "id": "97.14",
+  "key": "sumo_hatakikomi",
+  "title": "Hatakikomi",
+  "description": "1. As a trained partner charges forward low, step diagonally back and to the side.\n2. Slap down lightly on the partner's back or shoulder with the open hand as the partner passes.\n3. Let the partner fall forward to the hands on a padded surface and reset; never strike the head or neck.",
+  "colorType": "tan",
+  "workoutType": "sumo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Hatakikomi",
+      "description": "1. As a trained partner charges forward low, step diagonally back and to the side.\n2. Slap down lightly on the partner's back or shoulder with the open hand as the partner passes.\n3. Let the partner fall forward to the hands on a padded surface and reset; never strike the head or neck.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Hatakikomi",
+      "description": "1. Cuando un compañero entrenado cargue bajo hacia delante, da un paso diagonal atrás y al lado.\n2. Palmea suavemente hacia abajo su espalda u hombro con la mano abierta cuando pase.\n3. Deja que caiga hacia delante sobre las manos en superficie acolchada y reinicia; nunca golpees la cabeza ni el cuello.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Hatakikomi",
+      "description": "1. Quando um parceiro treinado avançar baixo, dê um passo diagonal para trás e para o lado.\n2. Bata levemente para baixo nas costas ou no ombro dele com a mão aberta quando ele passar.\n3. Deixe-o cair para a frente sobre as mãos em superfície acolchoada e recomece; nunca bata na cabeça ou no pescoço.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Hatakikomi",
+      "description": "1. Quand un partenaire entraîné charge bas vers l’avant, faites un pas en diagonale vers l’arrière et le côté.\n2. Tapez légèrement vers le bas sur son dos ou son épaule avec la main ouverte quand il passe.\n3. Laissez-le tomber vers l’avant sur les mains sur une surface rembourrée et repartez ; ne frappez jamais la tête ni le cou.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Hatakikomi",
+      "description": "1. Stürmt ein trainierter Partner tief nach vorn, tritt diagonal nach hinten und zur Seite.\n2. Klopfe beim Vorbeigehen mit offener Hand leicht nach unten auf seinen Rücken oder seine Schulter.\n3. Lass ihn auf weicher Unterlage nach vorn auf die Hände fallen und starte neu; schlage nie Kopf oder Nacken.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Hatakikomi",
+      "description": "1. Quando un partner allenato carica basso in avanti, fai un passo in diagonale indietro e di lato.\n2. Dai una leggera pacca verso il basso sulla schiena o sulla spalla con la mano aperta mentre passa.\n3. Lascialo cadere in avanti sulle mani su superficie imbottita e riparti; non colpire mai testa o collo.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "叩入",
+      "description": "1. 当训练有素的同伴低身向前冲时，向斜后方侧步闪开。\n2. 在对方经过时用张开的手掌轻轻向下拍其背部或肩部。\n3. 让对方向前倒在软垫上用手撑地，然后重新开始；绝不要击打头部或颈部。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "叩き込み",
+      "description": "1. 訓練を積んだ相手が低く突っ込んできたら、斜め後ろ横へ踏み出します。\n2. 相手が通り過ぎる時、開いた手で背中か肩を軽く下へはたきます。\n3. 相手をマットの上で前方へ手をついて落とし、仕切り直します。頭や首は決して叩きません。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "하타키코미",
+      "description": "1. 훈련된 파트너가 낮게 돌진해 오면 대각선 뒤 옆으로 비켜 섭니다.\n2. 상대가 지나갈 때 편 손으로 등이나 어깨를 가볍게 아래로 칩니다.\n3. 상대가 매트 위에서 앞으로 넘어져 손을 짚게 한 뒤 다시 시작하며, 머리나 목은 절대 치지 않습니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฮาตากิโคมิ",
+      "description": "1. เมื่อคู่ฝึกที่ผ่านการฝึกพุ่งต่ำมาข้างหน้า ให้ก้าวทแยงถอยไปด้านข้าง\n2. ตบลงเบา ๆ ที่หลังหรือไหล่คู่ฝึกด้วยฝ่ามือเปิดขณะผ่าน\n3. ให้คู่ฝึกล้มไปข้างหน้าเอามือยันบนพื้นบุนุ่มแล้วเริ่มใหม่ ห้ามตีศีรษะหรือคอเด็ดขาด",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Хатакикоми",
+      "description": "1. Когда подготовленный партнёр низко атакует вперёд, шагните по диагонали назад и в сторону.\n2. Легко прихлопните открытой ладонью вниз по его спине или плечу, когда он проходит мимо.\n3. Дайте ему упасть вперёд на руки на мягком покрытии и начните заново; никогда не бейте по голове или шее.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Хатакікомі",
+      "description": "1. Коли підготовлений партнер низько атакує вперед, ступіть по діагоналі назад і вбік.\n2. Легко приплесніть відкритою долонею вниз по його спині чи плечу, коли він проходить повз.\n3. Дайте йому впасти вперед на руки на м’якому покритті й почніть знову; ніколи не бийте по голові чи шиї.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

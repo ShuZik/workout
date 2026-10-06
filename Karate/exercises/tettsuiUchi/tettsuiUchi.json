@@ -1,0 +1,90 @@
+{
+  "id": "40.26",
+  "key": "karate_tettsui_uchi",
+  "title": "Tettsui Uchi",
+  "description": "1. Close the fist firmly, align the wrist, and chamber the hand beside or above the body according to the strike line.\n2. Rotate the body and deliver the little-finger side of the fist like a hammer along a controlled arc into a pad.\n3. Stop without bending the wrist and retract the fist directly to chamber or guard.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "karate",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Punches",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tettsui Uchi",
+      "description": "1. Close the fist firmly, align the wrist, and chamber the hand beside or above the body according to the strike line.\n2. Rotate the body and deliver the little-finger side of the fist like a hammer along a controlled arc into a pad.\n3. Stop without bending the wrist and retract the fist directly to chamber or guard.",
+      "sectionTitle": "Punches"
+    },
+    "es": {
+      "title": "Tettsui Uchi",
+      "description": "1. Cierra el puño con firmeza, alinea la muñeca y prepara la mano al lado o por encima del cuerpo según la línea de golpe.\n2. Gira el cuerpo y descarga el lado del meñique del puño como un martillo en un arco controlado contra una almohadilla.\n3. Detente sin doblar la muñeca y retrae el puño directamente a la preparación o a la guardia.",
+      "sectionTitle": "Puñetazos"
+    },
+    "pt": {
+      "title": "Tettsui Uchi",
+      "description": "1. Feche o punho com firmeza, alinhe o punho e prepare a mão ao lado ou acima do corpo, conforme a linha do golpe.\n2. Gire o corpo e aplique o lado do dedo mínimo do punho como um martelo, em um arco controlado contra um aparador.\n3. Pare sem dobrar o punho e recolha a mão diretamente à preparação ou à guarda.",
+      "sectionTitle": "Socos"
+    },
+    "fr": {
+      "title": "Tettsui Uchi",
+      "description": "1. Serrez fermement le poing, alignez le poignet et armez la main à côté ou au-dessus du corps selon la ligne de frappe.\n2. Tournez le corps et frappez avec le tranchant côté auriculaire du poing comme un marteau, sur un arc contrôlé, dans une cible.\n3. Arrêtez sans plier le poignet et ramenez le poing directement en armée ou en garde.",
+      "sectionTitle": "Coups de poing"
+    },
+    "de": {
+      "title": "Tettsui Uchi",
+      "description": "1. Schließe die Faust fest, richte das Handgelenk aus und hole die Hand je nach Schlaglinie neben oder über dem Körper aus.\n2. Drehe den Körper und schlage mit der Kleinfingerseite der Faust wie mit einem Hammer in kontrolliertem Bogen auf ein Pad.\n3. Stoppe, ohne das Handgelenk abzuknicken, und ziehe die Faust direkt in die Ausholposition oder Deckung zurück.",
+      "sectionTitle": "Faustschläge"
+    },
+    "it": {
+      "title": "Tettsui Uchi",
+      "description": "1. Chiudi saldamente il pugno, allinea il polso e carica la mano accanto o sopra il corpo secondo la linea del colpo.\n2. Ruota il corpo e colpisci con il lato del mignolo del pugno come un martello, lungo un arco controllato, su un colpitore.\n3. Fermati senza piegare il polso e richiama il pugno direttamente in carica o in guardia.",
+      "sectionTitle": "Pugni"
+    },
+    "zh-Hans": {
+      "title": "铁槌打",
+      "description": "1. 握紧拳头，手腕对齐，根据击打路线将手收于身体侧面或上方。\n2. 转动身体，以拳头小指一侧像锤子一样沿受控弧线击打手靶。\n3. 停住时手腕不要弯曲，拳头直接收回至预备位置或护卫姿势。",
+      "sectionTitle": "拳击"
+    },
+    "ja": {
+      "title": "鉄槌打ち",
+      "description": "1. 拳をしっかり握り、手首をまっすぐにして、打つラインに応じて体の横または上に構えます。\n2. 体を回し、拳の小指側を鉄槌のようにミットへコントロールした弧で打ち込みます。\n3. 手首を曲げずに止め、拳をそのまま構えまたはガードへ引き戻します。",
+      "sectionTitle": "突き"
+    },
+    "ko": {
+      "title": "테츠이 우치",
+      "description": "1. 주먹을 단단히 쥐고 손목을 정렬하며 타격선에 따라 손을 몸 옆이나 위에 준비합니다.\n2. 몸을 회전하며 주먹의 새끼손가락 쪽을 망치처럼 통제된 호를 그리며 미트에 내리칩니다.\n3. 손목을 꺾지 않고 멈춘 뒤 주먹을 바로 준비 위치나 가드로 거둡니다.",
+      "sectionTitle": "지르기"
+    },
+    "th": {
+      "title": "เท็ตสึอิอุจิ",
+      "description": "1. กำหมัดให้แน่น จัดข้อมือให้ตรง และเตรียมมือไว้ข้างหรือเหนือลำตัวตามแนวการตี\n2. หมุนลำตัวและตีด้วยสันหมัดด้านนิ้วก้อยเหมือนค้อน เป็นแนวโค้งที่ควบคุมได้ลงบนเป้าซ้อม\n3. หยุดโดยไม่งอข้อมือ แล้วดึงหมัดกลับสู่ตำแหน่งเตรียมหรือการ์ดโดยตรง",
+      "sectionTitle": "หมัด"
+    },
+    "ru": {
+      "title": "Тэцуй-ути",
+      "description": "1. Плотно сожмите кулак, выровняйте запястье и подготовьте руку сбоку или над корпусом в зависимости от линии удара.\n2. Повернув корпус, нанесите удар ребром кулака со стороны мизинца, как молотом, по контролируемой дуге в лапу.\n3. Остановитесь, не сгибая запястье, и сразу верните кулак в подготовку или защиту.",
+      "sectionTitle": "Удары руками"
+    },
+    "uk": {
+      "title": "Тецуй-учі",
+      "description": "1. Щільно стисніть кулак, вирівняйте зап’ястя й підготуйте руку збоку або над корпусом залежно від лінії удару.\n2. Повернувши корпус, нанесіть удар ребром кулака з боку мізинця, як молотом, по контрольованій дузі в лапу.\n3. Зупиніться, не згинаючи зап’ястя, і одразу поверніть кулак у підготовку або захист.",
+      "sectionTitle": "Удари руками"
+    }
+  }
+}

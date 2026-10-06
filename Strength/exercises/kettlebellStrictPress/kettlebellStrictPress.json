@@ -1,0 +1,89 @@
+{
+  "id": "13.32",
+  "key": "kettlebell_kettlebell_strict_press",
+  "title": "Kettlebell Strict Press",
+  "description": "1. Hold the kettlebell in the rack position with wrist straight, forearm vertical, and trunk braced.\n2. Press the bell overhead without leg drive or leaning away from the working arm.\n3. Finish with the arm straight beside the head, then lower the bell back to the rack under control.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "4 Kettlebell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kettlebell Strict Press",
+      "description": "1. Hold the kettlebell in the rack position with wrist straight, forearm vertical, and trunk braced.\n2. Press the bell overhead without leg drive or leaning away from the working arm.\n3. Finish with the arm straight beside the head, then lower the bell back to the rack under control.",
+      "sectionTitle": "Kettlebell"
+    },
+    "es": {
+      "title": "Press estricto con pesa rusa",
+      "description": "1. Sujeta la pesa rusa en posición de rack con la muñeca recta, el antebrazo vertical y el tronco activado.\n2. Empuja la pesa por encima de la cabeza sin impulso de piernas ni inclinarte lejos del brazo que trabaja.\n3. Termina con el brazo estirado junto a la cabeza y luego baja la pesa al rack con control.",
+      "sectionTitle": "Pesa rusa"
+    },
+    "pt": {
+      "title": "Desenvolvimento estrito com kettlebell",
+      "description": "1. Segure o kettlebell na posição de rack com o punho reto, o antebraço vertical e o tronco contraído.\n2. Empurre o kettlebell acima da cabeça sem impulso das pernas e sem inclinar o corpo para longe do braço de trabalho.\n3. Termine com o braço estendido ao lado da cabeça e depois abaixe o kettlebell de volta ao rack com controle.",
+      "sectionTitle": "Kettlebell"
+    },
+    "fr": {
+      "title": "Développé strict au kettlebell",
+      "description": "1. Tenez le kettlebell en position rack, poignet droit, avant-bras vertical et tronc gainé.\n2. Poussez le kettlebell au-dessus de la tête sans impulsion des jambes ni inclinaison à l’opposé du bras de travail.\n3. Terminez bras tendu à côté de la tête, puis redescendez le kettlebell en position rack avec contrôle.",
+      "sectionTitle": "Kettlebell"
+    },
+    "de": {
+      "title": "Strenges Drücken mit der Kugelhantel",
+      "description": "1. Halte die Kugelhantel in der Rack-Position, Handgelenk gerade, Unterarm senkrecht und Rumpf angespannt.\n2. Drücke die Kugelhantel über den Kopf, ohne Schwung aus den Beinen und ohne dich vom Arbeitsarm wegzulehnen.\n3. Beende mit gestrecktem Arm neben dem Kopf und senke die Kugelhantel dann kontrolliert zurück in die Rack-Position.",
+      "sectionTitle": "Kugelhantel"
+    },
+    "it": {
+      "title": "Lento rigoroso con kettlebell",
+      "description": "1. Tieni il kettlebell in posizione rack con il polso dritto, l’avambraccio verticale e il tronco contratto.\n2. Spingi il kettlebell sopra la testa senza slancio delle gambe e senza inclinarti lontano dal braccio che lavora.\n3. Concludi con il braccio disteso accanto alla testa, poi riporta il kettlebell in rack con controllo.",
+      "sectionTitle": "Kettlebell"
+    },
+    "zh-Hans": {
+      "title": "壶铃严格推举",
+      "description": "1. 将壶铃置于架式位，手腕伸直，前臂垂直，收紧躯干。\n2. 将壶铃推过头顶，不借助腿部发力，身体也不要向远离训练手臂的一侧倾斜。\n3. 手臂在头部旁伸直后，有控制地将壶铃放回架式位。",
+      "sectionTitle": "壶铃"
+    },
+    "ja": {
+      "title": "ケトルベルストリクトプレス",
+      "description": "1. ケトルベルをラックポジションで持ち、手首をまっすぐ、前腕を垂直にして体幹を固めます。\n2. 脚の反動を使わず、動かす腕と反対側に体を傾けずにケトルベルを頭上へ押し上げます。\n3. 腕を頭の横でまっすぐ伸ばしたら、ケトルベルをコントロールしながらラックポジションへ戻します。",
+      "sectionTitle": "ケトルベル"
+    },
+    "ko": {
+      "title": "케틀벨 스트릭트 프레스",
+      "description": "1. 케틀벨을 랙 자세로 들고 손목은 곧게, 전완은 수직으로 두며 몸통에 힘을 줍니다.\n2. 다리 반동 없이, 운동하는 팔 반대쪽으로 몸을 기울이지 않고 케틀벨을 머리 위로 밀어 올립니다.\n3. 팔을 머리 옆에서 곧게 편 뒤 케틀벨을 통제하며 랙 자세로 내립니다.",
+      "sectionTitle": "케틀벨"
+    },
+    "th": {
+      "title": "สตริกต์เพรสด้วยเคตเทิลเบล",
+      "description": "1. ถือเคตเทิลเบลในท่าแร็ก ข้อมือตรง ปลายแขนตั้งฉาก และเกร็งลำตัว\n2. ดันเคตเทิลเบลขึ้นเหนือศีรษะโดยไม่ใช้แรงส่งจากขาหรือเอนตัวหนีแขนข้างที่ฝึก\n3. จบโดยเหยียดแขนตรงข้างศีรษะ แล้วลดเคตเทิลเบลกลับสู่ท่าแร็กอย่างควบคุม",
+      "sectionTitle": "เคตเทิลเบล"
+    },
+    "ru": {
+      "title": "Строгий жим гири",
+      "description": "1. Держите гирю на груди, запястье прямое, предплечье вертикально, корпус напряжён.\n2. Выжмите гирю над головой без помощи ног и не отклоняясь от рабочей руки.\n3. Завершите с прямой рукой рядом с головой, затем контролируемо опустите гирю обратно на грудь.",
+      "sectionTitle": "Гиря"
+    },
+    "uk": {
+      "title": "Строгий жим гирі",
+      "description": "1. Тримайте гирю на грудях, зап’ястя пряме, передпліччя вертикально, корпус напружений.\n2. Вижміть гирю над головою без допомоги ніг і не відхиляючись від робочої руки.\n3. Завершіть із прямою рукою біля голови, потім контрольовано опустіть гирю назад на груди.",
+      "sectionTitle": "Гиря"
+    }
+  }
+}

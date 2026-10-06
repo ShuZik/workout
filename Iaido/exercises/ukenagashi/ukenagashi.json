@@ -1,0 +1,90 @@
+{
+  "id": "63.4",
+  "key": "iaido_ukenagashi",
+  "title": "Ukenagashi",
+  "description": "1. From seiza with the opponent attacking from the left, rise and step while drawing the sword up over the head with the blade angled to deflect the descending cut.\n2. Turn toward the opponent, bring the right foot in, and finish with a two-handed diagonal kesa-giri down through the shoulder line.\n3. Lower the blade to the side for chiburi, resheathe while kneeling, and stand or sit with zanshin.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "iaido",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Seated Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ukenagashi",
+      "description": "1. From seiza with the opponent attacking from the left, rise and step while drawing the sword up over the head with the blade angled to deflect the descending cut.\n2. Turn toward the opponent, bring the right foot in, and finish with a two-handed diagonal kesa-giri down through the shoulder line.\n3. Lower the blade to the side for chiburi, resheathe while kneeling, and stand or sit with zanshin.",
+      "sectionTitle": "Seated Forms"
+    },
+    "es": {
+      "title": "Ukenagashi",
+      "description": "1. Desde seiza con el oponente atacando por la izquierda, levántate y da un paso mientras desenvainas la espada por encima de la cabeza con la hoja inclinada para desviar el corte descendente.\n2. Gira hacia el oponente, recoge el pie derecho y termina con un corte diagonal kesa-giri a dos manos a través de la línea del hombro.\n3. Baja la hoja al costado para el chiburi, envaina de rodillas y levántate o siéntate con zanshin.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "pt": {
+      "title": "Ukenagashi",
+      "description": "1. Em seiza com o oponente atacando pela esquerda, levante e dê um passo enquanto saca a espada acima da cabeça com a lâmina inclinada para desviar o corte descendente.\n2. Vire para o oponente, recolha o pé direito e termine com um corte diagonal kesa-giri a duas mãos através da linha do ombro.\n3. Baixe a lâmina ao lado para o chiburi, embainhe ajoelhado e levante ou sente com zanshin.",
+      "sectionTitle": "Formas sentadas"
+    },
+    "fr": {
+      "title": "Ukenagashi",
+      "description": "1. Depuis seiza, l’adversaire attaquant par la gauche, levez-vous et avancez en dégainant le sabre au-dessus de la tête, lame inclinée pour dévier la coupe descendante.\n2. Tournez-vous vers l’adversaire, ramenez le pied droit et terminez par une coupe diagonale kesa-giri à deux mains à travers la ligne de l’épaule.\n3. Abaissez la lame sur le côté pour le chiburi, rengainez à genou et relevez-vous ou asseyez-vous avec zanshin.",
+      "sectionTitle": "Formes assises"
+    },
+    "de": {
+      "title": "Ukenagashi",
+      "description": "1. Aus dem Seiza, der Gegner greift von links an, aufstehen und schreiten, dabei das Schwert über den Kopf ziehen, die Klinge schräg, um den absteigenden Schnitt abzuleiten.\n2. Zum Gegner drehen, den rechten Fuß heranziehen und mit einem beidhändigen diagonalen Kesa-Giri durch die Schulterlinie abschließen.\n3. Die Klinge zur Seite senken für Chiburi, kniend einstecken und mit Zanshin aufstehen oder sitzen.",
+      "sectionTitle": "Formen im Sitzen"
+    },
+    "it": {
+      "title": "Ukenagashi",
+      "description": "1. Da seiza con l’avversario che attacca da sinistra, alzati e avanza estraendo la spada sopra la testa con la lama inclinata per deviare il taglio discendente.\n2. Ruota verso l’avversario, raccogli il piede destro e concludi con un taglio diagonale kesa-giri a due mani attraverso la linea della spalla.\n3. Abbassa la lama di lato per il chiburi, rinfodera in ginocchio e alzati o siediti con zanshin.",
+      "sectionTitle": "Forme da seduti"
+    },
+    "zh-Hans": {
+      "title": "受流",
+      "description": "1. 正坐，对手从左侧攻击，起身迈步，将刀拔至头上方，刀身倾斜以卸开下劈之刀。\n2. 转向对手，收回右脚，以双手沿肩线斜斩（袈裟斩）完成。\n3. 将刀放低至体侧振刀，跪姿纳刀，以残心起立或坐下。",
+      "sectionTitle": "坐姿形"
+    },
+    "ja": {
+      "title": "受け流し",
+      "description": "1. 左から斬りかかられる想定の正座から、立ち上がって踏み出しつつ刀を頭上へ抜き上げ、刃を斜めにして斬り下ろしを受け流します。\n2. 相手に向き直り、右足を引き寄せて両手で肩口から袈裟に斬り下ろします。\n3. 刀を横に下ろして血振りし、膝をついて納刀し、残心をもって立つか座ります。",
+      "sectionTitle": "座り技の形"
+    },
+    "ko": {
+      "title": "우케나가시",
+      "description": "1. 왼쪽에서 상대가 공격하는 정좌에서 일어나 걸으며 칼을 머리 위로 뽑아 올리고 칼날을 비스듬히 하여 내려오는 베기를 흘립니다.\n2. 상대 쪽으로 돌아 오른발을 당기고 두 손으로 어깨선을 따라 게사기리 대각선 베기로 마무리합니다.\n3. 칼을 옆으로 내려 치부리하고 무릎을 꿇어 칼을 꽂은 뒤 잔심을 유지하며 서거나 앉습니다.",
+      "sectionTitle": "앉은 자세 형"
+    },
+    "th": {
+      "title": "อุเคะนางาชิ",
+      "description": "1. จากท่าเซซะ โดยคู่ต่อสู้โจมตีจากด้านซ้าย ลุกขึ้นและก้าวพร้อมชักดาบขึ้นเหนือศีรษะ ใบดาบเอียงเพื่อปัดการฟันที่ลงมา\n2. หันเข้าหาคู่ต่อสู้ ดึงเท้าขวาเข้ามา และจบด้วยการฟันเฉียงเคซากิริด้วยสองมือผ่านแนวไหล่\n3. ลดดาบลงด้านข้างเพื่อทำจิบุริ เก็บดาบในท่าคุกเข่า แล้วลุกขึ้นหรือนั่งพร้อมซันชิน",
+      "sectionTitle": "ท่าร่างแบบนั่ง"
+    },
+    "ru": {
+      "title": "Укэнагаси",
+      "description": "1. Из сэйдза при атаке противника слева встаньте и шагните, вытягивая меч над головой с наклонённым клинком, чтобы отвести нисходящий удар.\n2. Повернитесь к противнику, подтяните правую ногу и завершите диагональным ударом кэса-гири двумя руками через линию плеча.\n3. Опустите клинок в сторону для тибури, вложите меч, стоя на колене, и поднимитесь или сядьте с дзансином.",
+      "sectionTitle": "Формы из положения сидя"
+    },
+    "uk": {
+      "title": "Укенагасі",
+      "description": "1. Із сейдза за атаки суперника зліва встаньте й ступіть, виводячи меч над головою з нахиленим клинком, щоб відвести низхідний удар.\n2. Поверніться до суперника, підтягніть праву ногу й завершіть діагональним ударом кеса-ґірі двома руками через лінію плеча.\n3. Опустіть клинок убік для тібурі, вкладіть меч, стоячи на коліні, і підведіться або сядьте з дзансіном.",
+      "sectionTitle": "Форми з положення сидячи"
+    }
+  }
+}

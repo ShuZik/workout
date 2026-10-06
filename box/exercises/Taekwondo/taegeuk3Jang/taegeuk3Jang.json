@@ -1,0 +1,87 @@
+{
+  "id": "8.42",
+  "key": "taekwondo_taegeuk_3_jang",
+  "title": "Taegeuk 3 Jang",
+  "description": "1. Start in basic ready stance and perform the third Taegeuk, mixing walking stance, front stance and back stance.\n2. Include the knife-hand neck strikes, back-stance single knife-hand blocks and front kicks followed by double punches.\n3. Finish with the closing kicks and punches with a kihap, then return to basic ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taegeuk 3 Jang",
+      "description": "1. Start in basic ready stance and perform the third Taegeuk, mixing walking stance, front stance and back stance.\n2. Include the knife-hand neck strikes, back-stance single knife-hand blocks and front kicks followed by double punches.\n3. Finish with the closing kicks and punches with a kihap, then return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taegeuk 3 Jang",
+      "description": "1. Empieza en posición de preparación básica y realiza el tercer Taegeuk, combinando posición de caminar, adelantada y atrasada.\n2. Incluye los golpes de mano de cuchillo al cuello, los bloqueos simples de mano de cuchillo en posición atrasada y las patadas frontales seguidas de dobles puñetazos.\n3. Termina con las patadas y puñetazos finales con kihap y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taegeuk 3 Jang",
+      "description": "1. Comece na posição de preparação básica e execute o terceiro Taegeuk, combinando base de caminhada, frontal e recuada.\n2. Inclua os golpes de mão em faca ao pescoço, os bloqueios simples com mão em faca em base recuada e os chutes frontais seguidos de socos duplos.\n3. Termine com os chutes e socos finais com kihap e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taegeuk 3 Jang",
+      "description": "1. Partez en position de préparation de base et exécutez le troisième Taegeuk, en mêlant position de marche, position avancée et position reculée.\n2. Intégrez les frappes main en sabre au cou, les blocages simples main en sabre en position reculée et les coups de pied directs suivis de doubles coups de poing.\n3. Terminez par les derniers coups de pied et coups de poing avec kihap, puis revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taegeuk 3 Jang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe die dritte Taegeuk-Form mit Gehstand, Vorwärtsstand und Rückwärtsstand.\n2. Baue Handkantenschläge zum Hals, einfache Handkantenblocks im Rückwärtsstand und Vorwärtstritte mit anschließendem Doppelfauststoß ein.\n3. Schließe mit den letzten Tritten und Fauststößen mit Kihap ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taegeuk 3 Jang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui il terzo Taegeuk, alternando posizione di cammino, avanzata e arretrata.\n2. Inserisci i colpi a mano a coltello al collo, le parate singole a mano a coltello in posizione arretrata e i calci frontali seguiti da doppi pugni.\n3. Concludi con gli ultimi calci e pugni con kihap, poi torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极三章",
+      "description": "1. 以基本预备式开始，结合前行步、前弓步和后弓步完成太极三章。\n2. 包括手刀击颈、后弓步单手刀格挡，以及��踢接双冲拳。\n3. 以最后的踢腿和冲拳并发声收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極3章（テグク・サムジャン）",
+      "description": "1. 基本準備立ちから始め、ウォーキングスタンス、前屈立ち、後屈立ちを組み合わせて太極3章を行います。\n2. 手刀首打ち、後屈立ちの片手刀受け、前蹴りからの二連突きを含めます。\n3. 最後の蹴りと突きを気合とともに行い、基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태극 3장",
+      "description": "1. 기본 준비서기에서 시작해 앞서기, 앞굽이, 뒷굽이를 섞어 태극 3장을 수행합니다.\n2. 손날목치기, 뒷굽이 한손날막기, 앞차기 후 두 번 지르기를 포함합니다.\n3. 마지막 차기와 지르기를 기합과 함께 하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทกึก 3 จัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทกึกชุดที่สาม ผสมท่ายืนเดิน ท่ายืนหน้า และท่ายืนหลัง\n2. รวมการฟันสันมือที่คอ การปัดด้วยสันมือเดียวในท่ายืนหลัง และการเตะตรงด้านหน้าตามด้วยหมัดคู่\n3. จบด้วยการเตะและหมัดชุดสุดท้ายพร้อมคีอัป แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэгык 3 джан",
+      "description": "1. Начните из базовой готовой стойки и выполните третий тхэгык, сочетая шаговую, переднюю и заднюю стойки.\n2. Включите удары ребром ладони в шею, одиночные блоки ребром ладони в задней стойке и прямые удары ногой с последующим двойным ударом рукой.\n3. Завершите последними ударами ногой и рукой с кихапом и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхегик 3 джан",
+      "description": "1. Почніть із базової готової стійки й виконайте третій тхегик, поєднуючи крокову, передню та задню стійки.\n2. Додайте удари ребром долоні в шию, одиночні блоки ребром долоні в задній стійці й прямі удари ногою з подальшим подвійним ударом рукою.\n3. Завершіть останніми ударами ногою й рукою з кіхапом і поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

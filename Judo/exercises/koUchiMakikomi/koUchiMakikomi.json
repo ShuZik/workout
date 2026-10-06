@@ -1,0 +1,90 @@
+{
+  "id": "41.85",
+  "key": "judo_ko_uchi_makikomi",
+  "title": "Ko Uchi Makikomi",
+  "description": "1. Grip the partner's sleeve and pull the arm tight under your armpit while stepping in.\n2. Reap the inside of the partner's heel with your foot as you drive forward.\n3. Fall forward with the partner onto the back, landing with control on top rather than crashing down.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "8 Sutemi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Ko Uchi Makikomi",
+      "description": "1. Grip the partner's sleeve and pull the arm tight under your armpit while stepping in.\n2. Reap the inside of the partner's heel with your foot as you drive forward.\n3. Fall forward with the partner onto the back, landing with control on top rather than crashing down.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "es": {
+      "title": "Ko Uchi Makikomi",
+      "description": "1. Agarra la manga del compañero y tira del brazo apretándolo bajo tu axila mientras entras.\n2. Siega el interior del talón del compañero con tu pie al avanzar.\n3. Cae hacia delante con el compañero sobre su espalda, aterrizando arriba con control en lugar de desplomarte.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "pt": {
+      "title": "Ko Uchi Makikomi",
+      "description": "1. Agarre a manga do parceiro e puxe o braço apertado sob a axila enquanto entra.\n2. Ceife a parte interna do calcanhar do parceiro com seu pé ao avançar.\n3. Caia para a frente com o parceiro de costas, aterrissando por cima com controle em vez de desabar.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "fr": {
+      "title": "Ko Uchi Makikomi",
+      "description": "1. Saisissez la manche du partenaire et serrez son bras sous votre aisselle en entrant.\n2. Fauchez l’intérieur de son talon avec votre pied en avançant.\n3. Tombez vers l’avant avec le partenaire sur le dos, en atterrissant dessus avec contrôle plutôt qu’en vous écrasant.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "de": {
+      "title": "Ko Uchi Makikomi",
+      "description": "1. Fasse den Ärmel des Partners und ziehe den Arm beim Eintreten fest unter deine Achsel.\n2. Sichle beim Vorwärtsdrängen mit deinem Fuß die Innenseite seiner Ferse.\n3. Falle mit dem Partner nach vorn auf seinen Rücken und lande kontrolliert oben, statt aufzuprallen.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "it": {
+      "title": "Ko Uchi Makikomi",
+      "description": "1. Afferra la manica del compagno e tira il braccio stretto sotto l’ascella mentre entri.\n2. Falcia l’interno del suo tallone con il piede mentre spingi avanti.\n3. Cadi in avanti con il compagno sulla schiena, atterrando sopra con controllo invece di crollare.",
+      "sectionTitle": "Sutemi-waza"
+    },
+    "zh-Hans": {
+      "title": "小内卷込",
+      "description": "1. 抓住搭档袖口，进入时把其手臂紧夹在腋下。\n2. 向前推进时，用脚刈搭档脚跟内侧。\n3. 与搭档一起向前倒，使其背部着地，你受控地落在上方而不是砸下。",
+      "sectionTitle": "舍身技"
+    },
+    "ja": {
+      "title": "小内巻込",
+      "description": "1. 相手の袖を持ち、入りながら相手の腕を脇の下に引き締めます。\n2. 前へ押し込みながら、自分の足で相手のかかとの内側を刈ります。\n3. 相手と一緒に前へ倒れて相手を仰向けにし、叩きつけずに制御して上に着地します。",
+      "sectionTitle": "捨身技"
+    },
+    "ko": {
+      "title": "코 우치 마키코미",
+      "description": "1. 파트너 소매를 잡고 들어가며 팔을 겨드랑이 아래로 꽉 당깁니다.\n2. 앞으로 밀며 내 발로 파트너 뒤꿈치 안쪽을 걸어냅니다.\n3. 파트너와 함께 앞으로 넘어져 파트너를 등으로 눕히고 내리꽂지 않고 통제하여 위에 착지합니다.",
+      "sectionTitle": "누우면서메치기"
+    },
+    "th": {
+      "title": "โคอุจิมากิโกมิ",
+      "description": "1. จับแขนเสื้อคู่ฝึกและดึงแขนหนีบแน่นใต้รักแร้ขณะเข้า\n2. ใช้เท้าเกี่ยวด้านในส้นเท้าคู่ฝึกขณะดันไปข้างหน้า\n3. ล้มไปข้างหน้าพร้อมคู่ฝึกให้คู่ฝึกนอนหงาย และลงด้านบนอย่างควบคุมแทนการกระแทก",
+      "sectionTitle": "สุเทมิวาซะ"
+    },
+    "ru": {
+      "title": "Ко-ути-макикоми",
+      "description": "1. Захватите рукав партнёра и при входе плотно прижмите его руку под мышкой.\n2. Продвигаясь вперёд, подсеките стопой внутреннюю сторону его пятки.\n3. Упадите вперёд вместе с партнёром на его спину, приземляясь сверху с контролем, а не обрушиваясь.",
+      "sectionTitle": "Сутэми-вадза"
+    },
+    "uk": {
+      "title": "Ко-учі-макікомі",
+      "description": "1. Захопіть рукав партнера й під час входу щільно притисніть його руку під пахвою.\n2. Просуваючись уперед, підсічіть стопою внутрішній бік його п’яти.\n3. Упадіть уперед разом із партнером на його спину, приземляючись зверху з контролем, а не обвалюючись.",
+      "sectionTitle": "Сутемі-вадза"
+    }
+  }
+}

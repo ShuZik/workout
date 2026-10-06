@@ -7,10 +7,85 @@
   "difficulty": "basic",
   "availableFrom": "1.1.5",
   "segments": [
-    { "id": "prepare", "exerciseID": "0.3", "kind": "timed", "durationSeconds": 5 },
-    { "id": "guided-breath", "exerciseID": "18.1", "kind": "timed", "durationSeconds": 120 },
-    { "id": "alternate-nostril", "exerciseID": "18.7", "kind": "timed", "durationSeconds": 120 },
-    { "id": "focus", "exerciseID": "19.7", "kind": "timed", "durationSeconds": 180 },
-    { "id": "seated", "exerciseID": "19.42", "kind": "timed", "durationSeconds": 180 }
-  ]
+    {
+      "id": "prepare",
+      "exerciseID": "0.3",
+      "kind": "timed",
+      "durationSeconds": 5
+    },
+    {
+      "id": "guided-breath",
+      "exerciseID": "18.1",
+      "kind": "timed",
+      "durationSeconds": 120
+    },
+    {
+      "id": "alternate-nostril",
+      "exerciseID": "18.7",
+      "kind": "timed",
+      "durationSeconds": 120
+    },
+    {
+      "id": "focus",
+      "exerciseID": "19.7",
+      "kind": "timed",
+      "durationSeconds": 180
+    },
+    {
+      "id": "seated",
+      "exerciseID": "19.42",
+      "kind": "timed",
+      "durationSeconds": 180
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "Breath & Focus",
+      "description": "A short pranayama and meditation practice to steady attention."
+    },
+    "es": {
+      "title": "Respiración y concentración",
+      "description": "Una práctica breve de pranayama y meditación para estabilizar la atención."
+    },
+    "pt": {
+      "title": "Respiração e foco",
+      "description": "Uma prática curta de pranayama e meditação para estabilizar a atenção."
+    },
+    "fr": {
+      "title": "Respiration et concentration",
+      "description": "Une courte pratique de pranayama et de méditation pour stabiliser l’attention."
+    },
+    "de": {
+      "title": "Atmung und Konzentration",
+      "description": "Eine kurze Pranayama- und Meditationspraxis zur Stabilisierung der Aufmerksamkeit."
+    },
+    "it": {
+      "title": "Respiro e concentrazione",
+      "description": "Una breve pratica di pranayama e meditazione per stabilizzare l’attenzione."
+    },
+    "zh-Hans": {
+      "title": "呼吸与专注",
+      "description": "简短的调息与冥想练习，帮助稳定注意力。"
+    },
+    "ja": {
+      "title": "呼吸と集中",
+      "description": "注意を安定させるための短いプラーナーヤーマと瞑想の実践。"
+    },
+    "ko": {
+      "title": "호흡과 집중",
+      "description": "주의력을 안정시키는 짧은 프라나야마와 명상 수련."
+    },
+    "th": {
+      "title": "ลมหายใจและสมาธิ",
+      "description": "ฝึกปราณายามะและสมาธิสั้น ๆ เพื่อให้ความใส่ใจมั่นคง"
+    },
+    "ru": {
+      "title": "Дыхание и концентрация",
+      "description": "Короткая практика пранаямы и медитации для устойчивого внимания."
+    },
+    "uk": {
+      "title": "Дихання та концентрація",
+      "description": "Коротка практика пранаями та медитації для стійкої уваги."
+    }
+  }
 }

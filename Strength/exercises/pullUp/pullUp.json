@@ -1,0 +1,90 @@
+{
+  "id": "13.83",
+  "key": "calisthenics_pull_up",
+  "title": "Pull-Up",
+  "description": "1. Hang from a secure bar with an overhand grip slightly wider than shoulder width and the shoulders active.\n2. Drive the elbows down and pull the chest toward the bar without kicking, swinging, or craning the neck.\n3. Clear the bar with the chin, then lower under control to straight arms and an active hang.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pull-Up",
+      "description": "1. Hang from a secure bar with an overhand grip slightly wider than shoulder width and the shoulders active.\n2. Drive the elbows down and pull the chest toward the bar without kicking, swinging, or craning the neck.\n3. Clear the bar with the chin, then lower under control to straight arms and an active hang.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Dominada",
+      "description": "1. Cuélgate de una barra segura con agarre prono algo más ancho que los hombros y los hombros activos.\n2. Lleva los codos hacia abajo y tira del pecho hacia la barra sin patadas, balanceos ni estirar el cuello.\n3. Supera la barra con la barbilla y luego baja con control hasta estirar los brazos en un colgado activo.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Barra fixa",
+      "description": "1. Pendure-se em uma barra segura com pegada pronada um pouco mais larga que os ombros e os ombros ativos.\n2. Leve os cotovelos para baixo e puxe o peito em direção à barra sem chutar, balançar ou esticar o pescoço.\n3. Passe o queixo acima da barra e depois desça com controle até os braços estendidos em suspensão ativa.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Traction en pronation",
+      "description": "1. Suspendez-vous à une barre sûre en prise pronation un peu plus large que les épaules, épaules actives.\n2. Tirez les coudes vers le bas et amenez la poitrine vers la barre sans donner de coups de jambes, vous balancer ni tendre le cou.\n3. Passez le menton au-dessus de la barre, puis redescendez avec contrôle jusqu’aux bras tendus en suspension active.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Klimmzug",
+      "description": "1. Hänge dich im Obergriff, etwas breiter als schulterbreit, an eine sichere Stange und halte die Schultern aktiv.\n2. Ziehe die Ellbogen nach unten und die Brust zur Stange, ohne zu treten, zu schwingen oder den Hals zu strecken.\n3. Bringe das Kinn über die Stange und senke dich dann kontrolliert bis zu gestreckten Armen in einen aktiven Hang ab.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Trazione alla sbarra",
+      "description": "1. Appenditi a una sbarra sicura con presa prona poco più larga delle spalle e le spalle attive.\n2. Spingi i gomiti verso il basso e tira il petto verso la sbarra senza calciare, oscillare o allungare il collo.\n3. Porta il mento sopra la sbarra, poi scendi con controllo fino a braccia tese in sospensione attiva.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "引体向上",
+      "description": "1. 双手正握牢固的单杠，握距略宽于肩，悬垂时肩部保持主动发力。\n2. 肘部向下拉，将胸部拉向单杠，不要蹬腿、摆荡或伸长脖子。\n3. 下巴越过单杠后，有控制地下放至手臂伸直并保持主动悬垂。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "懸垂",
+      "description": "1. 安定したバーに肩幅よりやや広い順手でぶら下がり、肩をアクティブに保ちます。\n2. 脚を振ったり体を揺らしたり首を伸ばしたりせずに、肘を下に引いて胸をバーへ引き寄せます。\n3. あごがバーを越えたら、腕が伸びたアクティブハングの姿勢までコントロールして下ります。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "풀업",
+      "description": "1. 단단한 바에 어깨너비보다 약간 넓은 오버핸드 그립으로 매달리고 어깨를 활성화합니다.\n2. 다리를 차거나 몸을 흔들거나 목을 빼지 않고 팔꿈치를 아래로 당겨 가슴을 바 쪽으로 끌어올립니다.\n3. 턱이 바를 넘으면 팔이 펴진 액티브 행 자세까지 통제하며 내려옵니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ดึงข้อ",
+      "description": "1. ห้อยตัวจากบาร์ที่มั่นคงด้วยการจับคว่ำมือกว้างกว่าไหล่เล็กน้อย และเกร็งไหล่ไว้\n2. ดึงศอกลงและดึงหน้าอกเข้าหาบาร์โดยไม่เตะขา แกว่งตัว หรือยืดคอ\n3. ยกคางให้พ้นบาร์ แล้วลดตัวลงอย่างควบคุมจนแขนตรงในท่าห้อยแบบเกร็งไหล่",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Подтягивание",
+      "description": "1. Повисните на надёжной перекладине прямым хватом чуть шире плеч, удерживая плечи активными.\n2. Тяните локти вниз и подтягивайте грудь к перекладине без рывков ногами, раскачивания и вытягивания шеи.\n3. Поднимите подбородок выше перекладины, затем контролируемо опуститесь до прямых рук в активный вис.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Підтягування",
+      "description": "1. Повисніть на надійній перекладині прямим хватом трохи ширше за плечі, тримаючи плечі активними.\n2. Тягніть лікті вниз і підтягуйте груди до перекладини без ривків ногами, розгойдування й витягування шиї.\n3. Підніміть підборіддя вище перекладини, потім контрольовано опустіться до прямих рук в активний вис.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

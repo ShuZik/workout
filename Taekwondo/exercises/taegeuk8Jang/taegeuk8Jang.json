@@ -1,0 +1,90 @@
+{
+  "id": "8.47",
+  "key": "taekwondo_taegeuk_8_jang",
+  "title": "Taegeuk 8 Jang",
+  "description": "1. Start in basic ready stance and perform the eighth Taegeuk, opening with an assisted middle outward block and a front-stance punch.\n2. Include the jumping double front kick, the single mountain-shaped block, the turning elbow strike and the back-stance palm and knife-hand blocks.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Taegeuk 8 Jang",
+      "description": "1. Start in basic ready stance and perform the eighth Taegeuk, opening with an assisted middle outward block and a front-stance punch.\n2. Include the jumping double front kick, the single mountain-shaped block, the turning elbow strike and the back-stance palm and knife-hand blocks.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taegeuk 8 Jang",
+      "description": "1. Empieza en posición de preparación básica y realiza el octavo Taegeuk, abriendo con bloqueo medio hacia fuera asistido y puñetazo en posición adelantada.\n2. Incluye la doble patada frontal en salto, el bloqueo simple en forma de montaña, el codazo circular y los bloqueos de palma y mano de cuchillo en posición atrasada.\n3. Termina con los bloqueos y puñetazos finales con kihap y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taegeuk 8 Jang",
+      "description": "1. Comece na posição de preparação básica e execute o oitavo Taegeuk, abrindo com bloqueio médio para fora assistido e soco em base frontal.\n2. Inclua o chute frontal duplo em salto, o bloqueio simples em forma de montanha, a cotovelada circular e os bloqueios de palma e mão em faca em base recuada.\n3. Termine com os bloqueios e socos finais com kihap e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taegeuk 8 Jang",
+      "description": "1. Partez en position de préparation de base et exécutez le huitième Taegeuk, en ouvrant par un blocage moyen vers l’extérieur renforcé et un coup de poing en position avancée.\n2. Intégrez le double coup de pied direct sauté, le blocage simple en forme de montagne, le coup de coude circulaire et les blocages paume et main en sabre en position reculée.\n3. Terminez par les derniers blocages et coups de poing avec kihap, puis revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taegeuk 8 Jang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe die achte Taegeuk-Form, eröffnet mit unterstütztem mittlerem Außenblock und Fauststoß im Vorwärtsstand.\n2. Baue den gesprungenen Doppel-Vorwärtstritt, den einfachen Bergblock, den Drehellbogenschlag sowie Handflächen- und Handkantenblocks im Rückwärtsstand ein.\n3. Schließe mit den letzten Blocks und Fauststößen mit Kihap ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taegeuk 8 Jang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui l’ottavo Taegeuk, aprendo con parata media verso l’esterno rinforzata e pugno in posizione avanzata.\n2. Inserisci il doppio calcio frontale in salto, la parata singola a forma di montagna, la gomitata circolare e le parate di palmo e a mano a coltello in posizione arretrata.\n3. Concludi con le ultime parate e pugni con kihap, poi torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极八章",
+      "description": "1. 以基本预备式开始，太极八章以辅助中段外格挡和前弓步冲拳开头。\n2. 包括腾空双前踢、单山形格挡、转身肘击，以及后弓步掌挡和手刀格挡。\n3. 以最后的格挡和冲拳并发声收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極8章（テグク・パルチャン）",
+      "description": "1. 基本準備立ちから始め、添え手中段外受けと前屈立ちの突きで太極8章を開始します。\n2. 二段跳び前蹴り、片山形受け、回し肘打ち、後屈立ちの掌受けと手刀受けを含めます。\n3. 最後の受けと突きを気合とともに行い、基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태극 8장",
+      "description": "1. 기본 준비서기에서 시작해 거들어 몸통바깥막기와 앞굽이 지르기로 태극 8장을 엽니다.\n2. 두발당성 앞차기, 외산틀막기, 팔굽 돌려치기, 뒷굽이 바탕손막기와 손날막기를 포함합니다.\n3. 마지막 막기와 지르기를 기합과 함께 하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทกึก 8 จัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทกึกชุดที่แปด โดยเปิดด้วยการปัดระดับกลางออกด้านนอกแบบมีมือช่วยและหมัดในท่ายืนหน้า\n2. รวมการกระโดดเตะตรงคู่ การปัดรูปภูเขาข้างเดียว การเหวี่ยงศอก และการปัดด้วยฝ่ามือและสันมือในท่ายืนหลัง\n3. จบด้วยการปัดและหม���ดชุดสุดท้ายพร้อมคีอัป แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэгык 8 джан",
+      "description": "1. Начните из базо��ой готовой стойки и выполните восьмой тхэгык, открыв его средним внешним блоком с поддержкой и ударом в передней стойке.\n2. Включите двойной прямой удар ногой в прыжке, одиночный блок «гора», круговой удар локтем и блоки ладонью и ребром ладони в задней стойке.\n3. Завершите последними блоками и ударами с кихапом и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхегик 8 джан",
+      "description": "1. Почніть із базової готової стійки й виконайте восьмий тхегик, відкривши його середнім зовнішнім блоком із підтримкою та ударом у передній стійці.\n2. Додайте подвійний прямий удар ногою в стрибку, одиночний блок «гора», круговий удар ліктем і блоки долонею та ребром долоні в задній стійці.\n3. Завершіть останніми блоками й ударами з кіхапом і поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

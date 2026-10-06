@@ -1,0 +1,90 @@
+{
+  "id": "80.9",
+  "key": "lucha_leonesa_corro",
+  "title": "Corro",
+  "description": "1. Form a circle of wrestlers around the ring with two in the center taking the belt grip.\n2. Wrestle a short bout using only mañas from the belt grip; the winner stays in and the next challenger steps forward.\n3. Stop each bout on any fall, help the fallen partner up, and keep rotating until the round ends.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "luchaLeonesa",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Corro",
+      "description": "1. Form a circle of wrestlers around the ring with two in the center taking the belt grip.\n2. Wrestle a short bout using only mañas from the belt grip; the winner stays in and the next challenger steps forward.\n3. Stop each bout on any fall, help the fallen partner up, and keep rotating until the round ends.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Corro",
+      "description": "1. Formad un círculo de luchadores alrededor del corro con dos en el centro tomando el agarre al cinto.\n2. Luchad un combate corto usando solo mañas desde el agarre al cinto; el ganador se queda y sale el siguiente aspirante.\n3. Detened cada combate en cuanto haya una caída, ayudad a levantarse al caído y seguid rotando hasta que termine el asalto.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Corro",
+      "description": "1. Formem um círculo de lutadores ao redor da área com dois no centro fazendo a pegada no cinto.\n2. Lutem um combate curto usando apenas mañas a partir da pegada no cinto; o vencedor fica e o próximo desafiante entra.\n3. Parem cada combate a qualquer queda, ajudem o caído a levantar e continuem o rodízio até o fim do round.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Corro",
+      "description": "1. Formez un cercle de lutteurs autour de l'aire avec deux au centre en prise à la ceinture.\n2. Luttez un combat court uniquement avec des mañas depuis la prise à la ceinture ; le vainqueur reste et le prochain challenger entre.\n3. Arrêtez chaque combat à la moindre chute, aidez le partenaire tombé à se relever et continuez la rotation jusqu'à la fin du round.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Corro",
+      "description": "1. Bildet einen Kreis aus Ringern um den Kampfplatz, zwei stehen in der Mitte im Gürtelgriff.\n2. Ringt einen kurzen Kampf nur mit Mañas aus dem Gürtelgriff; der Sieger bleibt, der nächste Herausforderer tritt vor.\n3. Brecht jeden Kampf bei jedem Fall ab, helft dem Gefallenen auf und rotiert weiter, bis die Runde endet.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Corro",
+      "description": "1. Formate un cerchio di lottatori attorno all'area con due al centro in presa alla cintura.\n2. Lottate un breve incontro usando solo mañas dalla presa alla cintura; il vincitore resta e il prossimo sfidante entra.\n3. Fermate ogni incontro a qualsiasi caduta, aiutate il caduto a rialzarsi e continuate a ruotare fino alla fine del round.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "擂圈轮换（Corro）",
+      "description": "1. 摔跤手围成一圈站在场地周围，两人在中央抓好腰带把位。\n2. 只用抓腰带的技法进行一场短时对抗；胜者留下，下一位挑战者上场。\n3. 任何一方倒地即停止该场，扶起倒地的同伴，持续轮换直到本轮结束。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "コロ",
+      "description": "1. 選手が場の周りに輪をつくり、中央の二人がベルトの組み手を取ります。\n2. ベルトの組み手からのマーニャだけで短い勝負を行い、勝者は残り、次の挑戦者が前に出ます。\n3. 倒れたらその勝負を止め、倒れた相手を起こし、ラウンド終了まで交代を続けます。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "코로",
+      "description": "1. 선수들이 경기장 둘레에 원을 만들고 가운데 두 사람이 벨트 그립을 잡습니다.\n2. 벨트 그립에서의 마냐만 사용해 짧은 승부를 겨루고, 승자는 남고 다음 도전자가 나옵니다.\n3. 넘어지면 바로 그 승부를 멈추고 넘어진 파트너를 일으켜 주며, 라운드가 끝날 때까지 교대를 계속합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "กอร์โร",
+      "description": "1. นักมวยปล้ำยืนล้อมเป็นวงรอบลานปล้ำ โดยมีสองคนอยู่ตรงกลางจับเข็มขัดกันไว้\n2. ปล้ำสั้น ๆ โดยใช้เฉพาะท่ามาญาจากการจับเข็มขัด ผู้ชนะอยู่ต่อและผู้ท้าชิงคนถัดไปก้าวเข้ามา\n3. หยุดการปล้ำทุกครั้งที่มีคนล้ม ช่วยพยุงคู่ที่ล้มขึ้น และหมุนเวียนต่อไปจนจบยก",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Корро",
+      "description": "1. Борцы встают в круг вокруг площадки, двое в центре берут захват за пояс.\n2. Проведите короткую схватку, используя только маньяс из захвата за пояс; победитель остаётся, выходит следующий претендент.\n3. Останавливайте схватку при любом падении, помогайте упавшему подняться и продолжайте ротацию до конца раунда.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Корро",
+      "description": "1. Борці стають у коло навколо майданчика, двоє в центрі беруть захоплення за пояс.\n2. Проведіть коротку сутичку, використовуючи лише маньяс із захоплення за пояс; переможець залишається, виходить наступний претендент.\n3. Зупиняйте сутичку за будь-якого падіння, допомагайте тому, хто впав, підвестися й продовжуйте ротацію до кінця раунду.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

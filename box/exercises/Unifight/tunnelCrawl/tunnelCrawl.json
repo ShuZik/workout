@@ -1,0 +1,87 @@
+{
+  "id": "105.7",
+  "key": "unifight_tunnel_crawl",
+  "title": "Tunnel Crawl",
+  "description": "1. Kneel at the entrance of a horizontal tube or tunnel with the head low.\n2. Crawl through quickly on hands and knees or forearms, keeping the back low and the elbows close.\n3. Come out onto the feet in a ready stance and return to repeat.",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tunnel Crawl",
+      "description": "1. Kneel at the entrance of a horizontal tube or tunnel with the head low.\n2. Crawl through quickly on hands and knees or forearms, keeping the back low and the elbows close.\n3. Come out onto the feet in a ready stance and return to repeat.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Paso por el túnel",
+      "description": "1. Arrodíllate en la entrada de un tubo o túnel horizontal con la cabeza baja.\n2. Gatea rápido sobre manos y rodillas o antebrazos, con la espalda baja y los codos pegados.\n3. Sal poniéndote de pie en guardia y vuelve para repetir.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Rastejo no túnel",
+      "description": "1. Ajoelhe-se na entrada de um tubo ou túnel horizontal com a cabeça baixa.\n2. Rasteje rápido sobre mãos e joelhos ou antebraços, costas baixas e cotovelos junto ao corpo.\n3. Saia ficando de pé em base de prontidão e volte para repetir.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Passage du tunnel",
+      "description": "1. Agenouillez-vous à l’entrée d’un tube ou tunnel horizontal, tête basse.\n2. Traversez vite à quatre pattes ou sur les avant-bras, dos bas et coudes serrés.\n3. Ressortez debout en garde et revenez recommencer.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Tunnelkriechen",
+      "description": "1. Knie dich mit gesenktem Kopf an den Eingang eines waagerechten Rohrs oder Tunnels.\n2. Krieche zügig auf Händen und Knien oder Unterarmen hindurch, Rücken tief, Ellbogen nah am Körper.\n3. Komm am Ausgang in eine Bereitschaftsstellung auf die Füße und kehre zur Wiederholung zurück.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Passaggio nel tunnel",
+      "description": "1. Inginocchiati all’ingresso di un tubo o tunnel orizzontale con la testa bassa.\n2. Striscia veloce su mani e ginocchia o avambracci, con la schiena bassa e i gomiti vicini.\n3. Esci rialzandoti in posizione pronta e torna a ripetere.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "钻隧道",
+      "description": "1. 低头跪在水平管道或隧道入口处。\n2. 用手和膝盖或前臂快速爬过，背部放低，肘部贴近身体。\n3. 出口处起身成预备姿势，返回重复。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "トンネルくぐり",
+      "description": "1. 頭を低くして水平の筒やトンネルの入口にひざまずきます。\n2. 背中を低く、肘を体に寄せて、四つん這いか前腕で素早く這い抜けます。\n3. 出口で立ち上がって構え、戻って繰り返します。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "터널 기어가기",
+      "description": "1. 머리를 낮추고 수평 관이나 터널 입구에 무릎을 꿇습니다.\n2. 등을 낮추고 팔꿈치를 붙인 채 손과 무릎 또는 팔뚝으로 빠르게 기어 통과합니다.\n3. 출구에서 일어나 준비 자세를 잡고 돌아가 반복합니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "คลานลอดอุโมงค์",
+      "description": "1. คุกเข่าที่ปากท่อหรืออุโมงค์แนวนอน ก้มศีรษะต่ำ\n2. คลานผ่านอย่างรวดเร็วด้วยมือกับเข่าหรือแขนท่อนล่าง หลังต่ำ ศอกแนบลำตัว\n3. ออกมายืนในท่าเตรียม แล้วกลับไปทำซ้ำ",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Проползание туннеля",
+      "description": "1. Встаньте на колени у входа в горизонтальную трубу или туннель, голова опущена.\n2. Быстро проползите на руках и коленях или предплечьях, держа спину низко и локти прижатыми.\n3. На выходе встаньте в готовую стойку и вернитесь для повтора.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Проповзання тунелю",
+      "description": "1. Станьте на коліна біля входу в горизонтальну трубу чи тунель, голова опущена.\n2. Швидко проповзіть на руках і колінах або передпліччях, тримаючи спину низько, а лікті притиснутими.\n3. На виході встаньте в готову стійку й поверніться для повтору.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

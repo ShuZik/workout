@@ -1,0 +1,90 @@
+{
+  "id": "13.87",
+  "key": "calisthenics_wall_handstand",
+  "title": "Wall Handstand",
+  "description": "1. Place the hands shoulder-width apart about one foot from a clear wall and spread the fingers for support.\n2. Walk the feet up the wall while pressing through straight arms until the hips stack over the shoulders.\n3. Hold with the ribs braced, then walk the feet down one at a time instead of dropping from the wall.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wall Handstand",
+      "description": "1. Place the hands shoulder-width apart about one foot from a clear wall and spread the fingers for support.\n2. Walk the feet up the wall while pressing through straight arms until the hips stack over the shoulders.\n3. Hold with the ribs braced, then walk the feet down one at a time instead of dropping from the wall.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Pino contra la pared",
+      "description": "1. Coloca las manos al ancho de los hombros a unos 30 cm de una pared despejada y separa los dedos para apoyarte.\n2. Sube los pies caminando por la pared mientras empujas con los brazos estirados hasta que las caderas queden sobre los hombros.\n3. Mantén la posición con las costillas firmes y luego baja los pies de uno en uno en lugar de dejarte caer de la pared.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Parada de mão na parede",
+      "description": "1. Apoie as mãos na largura dos ombros a cerca de 30 cm de uma parede livre e afaste os dedos para dar apoio.\n2. Suba os pés pela parede pressionando com os braços estendidos até o quadril ficar alinhado sobre os ombros.\n3. Sustente com as costelas firmes e depois desça os pés um de cada vez em vez de cair da parede.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Équilibre sur les mains contre le mur",
+      "description": "1. Placez les mains à largeur d’épaules à environ 30 cm d’un mur dégagé et écartez les doigts pour l’appui.\n2. Montez les pieds le long du mur en poussant sur les bras tendus jusqu’à ce que les hanches soient alignées au-dessus des épaules.\n3. Maintenez en gainant les côtes, puis redescendez les pieds un à un au lieu de vous laisser tomber du mur.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Handstand an der Wand",
+      "description": "1. Setze die Hände schulterbreit etwa 30 cm vor eine freie Wand und spreize die Finger zur Abstützung.\n2. Gehe mit den Füßen die Wand hinauf und drücke dich über gestreckte Arme, bis die Hüfte über den Schultern steht.\n3. Halte die Position mit angespannten Rippen und gehe dann Fuß für Fuß hinunter, statt dich von der Wand fallen zu lassen.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Verticale al muro",
+      "description": "1. Appoggia le mani alla larghezza delle spalle a circa 30 cm da un muro libero e allarga le dita per sostenerti.\n2. Sali con i piedi lungo il muro spingendo a braccia tese finché le anche sono allineate sopra le spalle.\n3. Mantieni la posizione con le costole contratte, poi scendi con i piedi uno alla volta invece di lasciarti cadere dal muro.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "靠墙倒立",
+      "description": "1. 双手与肩同宽撑地，距离空旷的墙面约 30 厘米，手指张开支撑。\n2. 双脚沿墙向上走，双臂伸直推地，直到髋部叠在肩部正上方。\n3. 收紧肋骨保持姿势，然后双脚逐一沿墙走下，不要直接从墙上落下。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "壁倒立",
+      "description": "1. 何もない壁から約30cm離して両手を肩幅につき、指を広げて支えます。\n2. 腕をまっすぐ伸ばして床を押しながら、腰が肩の真上に来るまで足で壁を歩いて上がります。\n3. 肋骨を締めて姿勢を保ち、壁から落ちるのではなく片足ずつ歩いて下ります。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "벽 물구나무서기",
+      "description": "1. 비어 있는 벽에서 약 30cm 떨어진 곳에 손을 어깨너비로 짚고 손가락을 벌려 지지합니다.\n2. 팔을 곧게 편 채 바닥을 밀며 엉덩이가 어깨 위에 올 때까지 발로 벽을 걸어 올라갑니다.\n3. 갈비뼈를 조인 채 유지한 뒤 벽에서 떨어지지 말고 한 발씩 걸어 내려옵니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ตั้งมือพิงกำแพง",
+      "description": "1. วางมือกว้างเท่าไหล่ห่างจากกำแพงที่โล่งประมาณ 30 ซม. และกางนิ้วเพื่อช่วยรับน้ำหนัก\n2. เดินเท้าขึ้นกำแพงพร้อมดันแขนให้ตรงจนสะโพกอยู่เหนือไหล่\n3. ค้างไว้โดยเกร็งซี่โครง แล้วเดินเท้าลงทีละข้างแทนการปล่อยตัวตกจากกำแพง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Стойка на руках у стены",
+      "description": "1. Поставьте руки на ширине плеч примерно в 30 см от свободной стены и расставьте пальцы для опоры.\n2. Поднимайтесь стопами по стене, отталкиваясь прямыми руками, пока таз не окажется над плечами.\n3. Удерживайте положение с напряжёнными рёбрами, затем спускайте стопы по одной, а не падайте со стены.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Стійка на руках біля стіни",
+      "description": "1. Поставте руки на ширині плечей приблизно за 30 см від вільної стіни й розставте пальці для опори.\n2. Піднімайтеся стопами по стіні, відштовхуючись прямими руками, доки таз не опиниться над плечима.\n3. Утримуйте положення з напруженими ребрами, потім спускайте стопи по одній, а не падайте зі стіни.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

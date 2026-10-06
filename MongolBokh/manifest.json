@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#0A84FF",
+    "colorType": "blue",
+    "folder": "MongolBokh",
+    "id": "82",
+    "icon": "MongolBokh/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Mongol Bokh",
+    "workoutType": "mongolBokh",
+    "translations": {
+      "en": {
+        "title": "Mongol Bokh"
+      },
+      "es": {
+        "title": "Lucha mongola"
+      },
+      "pt": {
+        "title": "Luta mongol"
+      },
+      "fr": {
+        "title": "Lutte mongole"
+      },
+      "de": {
+        "title": "Mongolisches Ringen"
+      },
+      "it": {
+        "title": "Lotta mongola"
+      },
+      "zh-Hans": {
+        "title": "蒙古式摔跤"
+      },
+      "ja": {
+        "title": "モンゴル相撲"
+      },
+      "ko": {
+        "title": "몽골 씨름"
+      },
+      "th": {
+        "title": "มวยปล้ำมองโกล"
+      },
+      "ru": {
+        "title": "Монгольская борьба"
+      },
+      "uk": {
+        "title": "Монгольська боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "MongolBokh/exercises/mongolBokh/Icon.png",
+      "json": "MongolBokh/exercises/mongolBokh/mongolBokh.json"
+    },
+    {
+      "icon": "MongolBokh/exercises/devee/Icon.png",
+      "json": "MongolBokh/exercises/devee/devee.json"
+    }
+  ]
+}

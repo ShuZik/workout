@@ -1,0 +1,90 @@
+{
+  "id": "9.53",
+  "key": "heel_digs",
+  "title": "Heel Digs",
+  "description": "1. Stand tall with knees soft and arms relaxed.\n2. Place one heel forward with toes lifted while shifting weight onto the supporting leg.\n3. Bring the foot back under the body and alternate heels at an easy rhythm.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "4 Cardio",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Heel Digs",
+      "description": "1. Stand tall with knees soft and arms relaxed.\n2. Place one heel forward with toes lifted while shifting weight onto the supporting leg.\n3. Bring the foot back under the body and alternate heels at an easy rhythm.",
+      "sectionTitle": "Cardio"
+    },
+    "es": {
+      "title": "Apoyos de talón",
+      "description": "1. Ponte de pie erguido con las rodillas ligeramente flexionadas y los brazos relajados.\n2. Apoya un talón delante con los dedos elevados mientras pasas el peso a la pierna de apoyo.\n3. Vuelve a colocar el pie bajo el cuerpo y alterna los talones a un ritmo suave.",
+      "sectionTitle": "Cardio"
+    },
+    "pt": {
+      "title": "Toques de calcanhar",
+      "description": "1. Fique ereto com os joelhos levemente flexionados e os braços relaxados.\n2. Coloque um calcanhar à frente com os dedos elevados, transferindo o peso para a perna de apoio.\n3. Traga o pé de volta para baixo do corpo e alterne os calcanhares em um ritmo tranquilo.",
+      "sectionTitle": "Cardio"
+    },
+    "fr": {
+      "title": "Talons devant",
+      "description": "1. Tenez-vous droit, les genoux légèrement fléchis et les bras détendus.\n2. Posez un talon devant vous, les orteils relevés, en transférant le poids sur la jambe d’appui.\n3. Ramenez le pied sous le corps et alternez les talons à un rythme tranquille.",
+      "sectionTitle": "Cardio"
+    },
+    "de": {
+      "title": "Fersen aufsetzen",
+      "description": "1. Stehe aufrecht mit leicht gebeugten Knien und entspannten Armen.\n2. Setze eine Ferse vor dir auf, hebe die Zehen an und verlagere das Gewicht auf das Standbein.\n3. Stelle den Fuß wieder unter den Körper und wechsle die Fersen in einem lockeren Rhythmus.",
+      "sectionTitle": "Cardio"
+    },
+    "it": {
+      "title": "Appoggi sui talloni",
+      "description": "1. Stai in piedi con il busto eretto, le ginocchia leggermente piegate e le braccia rilassate.\n2. Appoggia un tallone davanti con le dita sollevate mentre sposti il peso sulla gamba di sostegno.\n3. Riporta il piede sotto il corpo e alterna i talloni a un ritmo tranquillo.",
+      "sectionTitle": "Cardio"
+    },
+    "zh-Hans": {
+      "title": "前伸脚跟点地",
+      "description": "1. 直立站好，膝盖微屈，双臂放松。\n2. 将一侧脚跟放到前方，脚尖抬起，同时把重心转移到支撑腿。\n3. 将脚收回身体下方，以轻松的节奏交替伸出脚跟。",
+      "sectionTitle": "有氧运动"
+    },
+    "ja": {
+      "title": "かかとタッチ",
+      "description": "1. 膝を軽く曲げ、腕をリラックスさせてまっすぐ立ちます。\n2. 体重を支持脚に移しながら、つま先を上げて片方のかかとを前に置きます。\n3. 足を体の下に戻し、ゆったりしたリズムで左右のかかとを交互に出します。",
+      "sectionTitle": "有酸素運動"
+    },
+    "ko": {
+      "title": "뒤꿈치 앞으로 찍기",
+      "description": "1. 무릎을 살짝 굽히고 팔에 힘을 뺀 채 똑바로 섭니다.\n2. 지지하는 다리로 체중을 옮기면서 발끝을 든 한쪽 뒤꿈치를 앞으로 내밉니다.\n3. 발을 몸 아래로 되돌리고 편안한 리듬으로 양쪽 뒤꿈치를 번갈아 내밉니다.",
+      "sectionTitle": "유산소 운동"
+    },
+    "th": {
+      "title": "แตะส้นเท้าไปข้างหน้า",
+      "description": "1. ยืนตัวตรง งอเข่าเล็กน้อยและผ่อนคลายแขน\n2. วางส้นเท้าข้างหนึ่งไปด้านหน้าโดยยกปลายเท้าขึ้น พร้อมถ่ายน้ำหนักไปยังขาที่รับน้ำหนัก\n3. นำเท้ากลับมาใต้ลำตัวแล้วสลับส้นเท้าด้วยจังหวะสบาย ๆ",
+      "sectionTitle": "คาร์ดิโอ"
+    },
+    "ru": {
+      "title": "Выставление пятки вперёд",
+      "description": "1. Встаньте прямо, слегка согните колени и расслабьте руки.\n2. Выставьте одну пятку вперёд, подняв носок, и перенесите вес на опорную ногу.\n3. Верните стопу под корпус и чередуйте пятки в спокойном ритме.",
+      "sectionTitle": "Кардио"
+    },
+    "uk": {
+      "title": "Виставляння п’яти вперед",
+      "description": "1. Станьте прямо, трохи зігніть коліна та розслабте руки.\n2. Виставте одну п’яту вперед, піднявши носок, і перенесіть вагу на опорну ногу.\n3. Поверніть стопу під тулуб і чергуйте п’яти у спокійному ритмі.",
+      "sectionTitle": "Кардіо"
+    }
+  }
+}

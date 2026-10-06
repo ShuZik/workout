@@ -1,0 +1,90 @@
+{
+  "id": "11.20",
+  "key": "hand_cycling",
+  "title": "Hand Cycling",
+  "description": "1. Adjust the seat and crank so the elbows remain slightly bent at the farthest point and secure the hands.\n2. Push one handle away as the other pulls toward the body to turn the crank continuously.\n3. Keep the shoulders down and use an even cadence without locking the elbows.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "wheelchairCompendium2024",
+    "unit": "METWC",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.6,
+    "vigorous": 7.5,
+    "lightCode": "90120",
+    "moderateCode": "90122",
+    "vigorousCode": "90121"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Adaptive Cardio",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hand Cycling",
+      "description": "1. Adjust the seat and crank so the elbows remain slightly bent at the farthest point and secure the hands.\n2. Push one handle away as the other pulls toward the body to turn the crank continuously.\n3. Keep the shoulders down and use an even cadence without locking the elbows.",
+      "sectionTitle": "Adaptive Cardio"
+    },
+    "es": {
+      "title": "Ciclismo de manos",
+      "description": "1. Ajusta el asiento y la manivela para que los codos queden ligeramente flexionados en el punto más lejano y asegura las manos.\n2. Empuja un mango alejándolo mientras tiras del otro hacia el cuerpo para girar la manivela de forma continua.\n3. Mantén los hombros bajos y una cadencia uniforme sin bloquear los codos.",
+      "sectionTitle": "Cardio adaptado"
+    },
+    "pt": {
+      "title": "Ciclismo com as mãos",
+      "description": "1. Ajuste o assento e a manivela para que os cotovelos permaneçam levemente flexionados no ponto mais distante e fixe as mãos.\n2. Empurre uma alça para longe enquanto puxa a outra em direção ao corpo para girar a manivela continuamente.\n3. Mantenha os ombros baixos e uma cadência uniforme sem travar os cotovelos.",
+      "sectionTitle": "Cardio adaptado"
+    },
+    "fr": {
+      "title": "Vélo à bras",
+      "description": "1. Réglez le siège et le pédalier pour que les coudes restent légèrement fléchis au point le plus éloigné et sécurisez les mains.\n2. Poussez une poignée vers l’avant tandis que l’autre est tirée vers le corps pour faire tourner le pédalier en continu.\n3. Gardez les épaules abaissées et une cadence régulière sans verrouiller les coudes.",
+      "sectionTitle": "Cardio adapté"
+    },
+    "de": {
+      "title": "Handcycling",
+      "description": "1. Stelle Sitz und Kurbel so ein, dass die Ellenbogen am entferntesten Punkt leicht gebeugt bleiben, und sichere die Hände.\n2. Drücke einen Griff weg, während du den anderen zum Körper ziehst, um die Kurbel durchgehend zu drehen.\n3. Halte die Schultern unten und ein gleichmäßiges Tempo, ohne die Ellenbogen durchzustrecken.",
+      "sectionTitle": "Adaptives Cardio"
+    },
+    "it": {
+      "title": "Ciclismo a braccia",
+      "description": "1. Regola il sedile e la manovella in modo che i gomiti restino leggermente piegati nel punto più lontano e assicura le mani.\n2. Spingi una maniglia lontano mentre tiri l’altra verso il corpo per far girare la manovella continuamente.\n3. Mantieni le spalle abbassate e una cadenza regolare senza bloccare i gomiti.",
+      "sectionTitle": "Cardio adattato"
+    },
+    "zh-Hans": {
+      "title": "手摇骑行",
+      "description": "1. 调整座椅和曲柄，使肘部在最远位置仍保持微屈，并固定双手。\n2. 推开一侧手柄，同时将另一侧拉向身体，让曲柄持续转动。\n3. 保持肩部下沉，以均匀节奏运动，不要锁死肘关节。",
+      "sectionTitle": "适应性有氧运动"
+    },
+    "ja": {
+      "title": "ハンドサイクリング",
+      "description": "1. 最も遠い位置でも肘が少し曲がるよう座席とクランクを調整し、手を固定します。\n2. 一方のハンドルを押し出しながらもう一方を体へ引き、クランクを連続して回します。\n3. 肩を下げ、肘を伸ばし切らずに一定の回転ペースを保ちます。",
+      "sectionTitle": "適応型有酸素運動"
+    },
+    "ko": {
+      "title": "핸드 사이클링",
+      "description": "1. 가장 먼 지점에서도 팔꿈치가 살짝 굽혀지도록 좌석과 크랭크를 조정하고 손을 고정합니다.\n2. 한쪽 손잡이를 밀고 다른 쪽을 몸 쪽으로 당겨 크랭크를 계속 돌립니다.\n3. 어깨를 내리고 팔꿈치를 잠그지 않으며 일정한 회전 속도를 유지합니다.",
+      "sectionTitle": "적응형 유산소 운동"
+    },
+    "th": {
+      "title": "การปั่นจักรยานด้วยมือ",
+      "description": "1. ปรับที่นั่งและข้อเหวี่ยงให้ข้อศอกยังงอเล็กน้อยที่จุดไกลที่สุด แล้วจัดมือให้มั่นคง\n2. ดันด้ามข้างหนึ่งออกขณะดึงอีกข้างเข้าหาลำตัว เพื่อหมุนข้อเหวี่ยงอย่างต่อเนื่อง\n3. ลดไหล่ลงและรักษาจังหวะสม่ำเสมอโดยไม่ล็อกข้อศอก",
+      "sectionTitle": "คาร์ดิโอแบบปรับให้เหมาะสม"
+    },
+    "ru": {
+      "title": "Ручной велотренажёр",
+      "description": "1. Отрегулируйте сиденье и кривошип так, чтобы в самой дальней точке локти оставались слегка согнутыми, и закрепите кисти.\n2. Толкайте одну рукоятку от себя, одновременно подтягивая другую к телу, чтобы непрерывно вращать кривошип.\n3. Держите плечи опущенными и поддерживайте ровный ритм, не блокируя локти.",
+      "sectionTitle": "Адаптивное кардио"
+    },
+    "uk": {
+      "title": "Ручний велотренажер",
+      "description": "1. Відрегулюйте сидіння й кривошип так, щоб у найдальшій точці лікті залишалися злегка зігнутими, і закріпіть кисті.\n2. Штовхайте одне руків’я від себе, одночасно підтягуючи інше до тіла, щоб безперервно обертати кривошип.\n3. Тримайте плечі опущеними й підтримуйте рівний ритм, не блокуючи лікті.",
+      "sectionTitle": "Адаптивне кардіо"
+    }
+  }
+}

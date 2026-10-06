@@ -1,0 +1,89 @@
+{
+  "id": "13.76",
+  "key": "functional_dumbbell_step_up",
+  "title": "Dumbbell Step-Up",
+  "description": "1. Hold dumbbells beside the body and place the whole lead foot on a stable step.\n2. Drive through the lead foot to stand on the step without jumping from the trailing leg.\n3. Lower the trailing foot and then the lead foot under control, then repeat or switch sides.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dumbbell Step-Up",
+      "description": "1. Hold dumbbells beside the body and place the whole lead foot on a stable step.\n2. Drive through the lead foot to stand on the step without jumping from the trailing leg.\n3. Lower the trailing foot and then the lead foot under control, then repeat or switch sides.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Subida al escalón con mancuernas",
+      "description": "1. Sujeta las mancuernas a los lados del cuerpo y apoya todo el pie adelantado sobre un escalón estable.\n2. Empuja con el pie adelantado para ponerte de pie sobre el escalón sin saltar desde la pierna trasera.\n3. Baja con control el pie trasero y después el adelantado, y luego repite o cambia de lado.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Subida no step com halteres",
+      "description": "1. Segure os halteres ao lado do corpo e apoie o pé da frente inteiro sobre um step estável.\n2. Empurre pelo pé da frente para ficar em pé no step sem saltar com a perna de trás.\n3. Desça com controle o pé de trás e depois o da frente e então repita ou troque de lado.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Montée sur marche avec haltères",
+      "description": "1. Tenez les haltères le long du corps et posez entièrement le pied avant sur une marche stable.\n2. Poussez sur le pied avant pour vous redresser sur la marche sans sauter avec la jambe arrière.\n3. Redescendez le pied arrière puis le pied avant avec contrôle, puis répétez ou changez de côté.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Step-up mit Kurzhanteln",
+      "description": "1. Halte die Kurzhanteln seitlich am Körper und setze den ganzen führenden Fuß auf eine stabile Stufe.\n2. Drücke dich über den führenden Fuß auf die Stufe, ohne mit dem hinteren Bein abzuspringen.\n3. Senke kontrolliert erst den hinteren und dann den führenden Fuß ab und wiederhole oder wechsle die Seite.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Salita sul gradino con manubri",
+      "description": "1. Tieni i manubri lungo i fianchi e appoggia tutto il piede avanzato su un gradino stabile.\n2. Spingi con il piede avanzato per salire in piedi sul gradino senza saltare con la gamba dietro.\n3. Scendi con controllo prima con il piede dietro e poi con quello avanzato, quindi ripeti o cambia lato.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃踏步上台",
+      "description": "1. 双手持哑铃垂于体侧，将前脚整个踩在稳固的台阶上。\n2. 用前脚发力站上台阶，后腿不要蹬地跳起。\n3. 有控制地先放下后脚、再放下前脚，然后重复或换另一侧。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ダンベルステップアップ",
+      "description": "1. ダンベルを体の横で持ち、前足の裏全体を安定した台に乗せます。\n2. 後ろ脚で跳ばずに、前足で押して台の上に立ちます。\n3. 後ろ足、前足の順にコントロールして下ろし、繰り返すか左右を替えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "덤벨 스텝업",
+      "description": "1. 덤벨을 몸 옆에 들고 앞발 전체를 안정된 단 위에 올립니다.\n2. 뒷다리로 뛰지 않고 앞발로 밀어 단 위에 섭니다.\n3. 뒷발, 앞발 순서로 통제하며 내려온 뒤 반복하거나 반대쪽으로 바꿉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ก้าวขึ้นสเต็ปด้วยดัมเบล",
+      "description": "1. ถือดัมเบลไว้ข้างลำตัวและวางเท้านำทั้งฝ่าบนสเต็ปที่มั่นคง\n2. ดันผ่านเท้านำเพื่อยืนขึ้นบนสเต็ปโดยไม่กระโดดจากขาหลัง\n3. ลดเท้าหลังแล้วตามด้วยเท้านำลงอย่างควบคุม จากนั้นทำซ้ำหรือสลับข้าง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Зашагивание на платформу с гантелями",
+      "description": "1. Держите гантели по бокам и поставьте всю переднюю стопу на устойчивую платформу.\n2. Оттолкнитесь передней стопой и встаньте на платформу, не подпрыгивая задней ногой.\n3. Контролируемо опустите сначала заднюю, затем переднюю стопу, после чего повторите или смените сторону.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Заходження на платформу з гантелями",
+      "description": "1. Тримайте гантелі по боках і поставте всю передню стопу на стійку платформу.\n2. Відштовхніться передньою стопою й встаньте на платформу, не підстрибуючи задньою ногою.\n3. Контрольовано опустіть спочатку задню, а тоді передню стопу, після чого повторіть або змініть бік.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "64.10",
+  "key": "jodo_tai_atari",
+  "title": "Tai-atari",
+  "description": "1. From natural posture, raise the jo to receive the imagined downward cut near the middle of the staff.\n2. Step in strongly and drive the jo, held across the body, into the opponent's arms and chest to break balance with your whole body.\n3. Follow with a short strike or thrust as the opponent falls back, then recover to a guarded position and return to the start.",
+  "colorType": "tan",
+  "workoutType": "jodo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Solo Kihon",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Tai-atari",
+      "description": "1. From natural posture, raise the jo to receive the imagined downward cut near the middle of the staff.\n2. Step in strongly and drive the jo, held across the body, into the opponent's arms and chest to break balance with your whole body.\n3. Follow with a short strike or thrust as the opponent falls back, then recover to a guarded position and return to the start.",
+      "sectionTitle": "Solo Kihon"
+    },
+    "es": {
+      "title": "Tai-atari",
+      "description": "1. Desde postura natural, eleva el jo para recibir el corte descendente imaginario cerca del centro del bastón.\n2. Entra con fuerza e impulsa el jo, cruzado ante el cuerpo, contra los brazos y el pecho del oponente para romper su equilibrio con todo el cuerpo.\n3. Sigue con un golpe o estocada corta mientras el oponente retrocede, recupera una posición de guardia y vuelve al inicio.",
+      "sectionTitle": "Kihon individual"
+    },
+    "pt": {
+      "title": "Tai-atari",
+      "description": "1. Da postura natural, eleve o jo para receber o corte descendente imaginário perto do meio do bastão.\n2. Entre com força e impulsione o jo, cruzado diante do corpo, contra os braços e o peito do oponente para quebrar seu equilíbrio com todo o corpo.\n3. Siga com um golpe ou estocada curta enquanto o oponente recua, recupere uma posição de guarda e volte ao início.",
+      "sectionTitle": "Kihon individual"
+    },
+    "fr": {
+      "title": "Tai-atari",
+      "description": "1. Depuis la posture naturelle, levez le jo pour recevoir la coupe descendante imaginaire près du milieu du bâton.\n2. Entrez fortement et poussez le jo, tenu en travers du corps, contre les bras et la poitrine de l’adversaire pour le déséquilibrer de tout le corps.\n3. Enchaînez une frappe ou un estoc court pendant qu’il recule, retrouvez une garde puis revenez au départ.",
+      "sectionTitle": "Kihon en solo"
+    },
+    "de": {
+      "title": "Tai-atari",
+      "description": "1. Aus natürlicher Haltung den Jo heben, um den gedachten Abwärtsschnitt nahe der Stabmitte aufzunehmen.\n2. Kräftig eintreten und den quer gehaltenen Jo mit dem ganzen Körper in Arme und Brust des Gegners treiben, um sein Gleichgewicht zu brechen.\n3. Mit einem kurzen Schlag oder Stoß nachsetzen, während der Gegner zurückweicht, dann in eine Deckung gehen und zum Start zurückkehren.",
+      "sectionTitle": "Kihon allein"
+    },
+    "it": {
+      "title": "Tai-atari",
+      "description": "1. Dalla postura naturale, alza il jo per ricevere il taglio discendente immaginario vicino al centro del bastone.\n2. Entra con decisione e spingi il jo, tenuto di traverso davanti al corpo, contro braccia e petto dell’avversario per rompere l’equilibrio con tutto il corpo.\n3. Prosegui con un colpo o affondo breve mentre l’avversario arretra, recupera una guardia e torna all’inizio.",
+      "sectionTitle": "Kihon individuale"
+    },
+    "zh-Hans": {
+      "title": "体当",
+      "description": "1. 自然体，举杖以杖身中部接住假想的下劈。\n2. 有力地上步，将横持于身前的杖以全身之力撞向对手的双臂与胸部，破坏其平衡。\n3. 对手后退时接一记短打或短刺，然后恢复戒备姿势并回到起始位置。",
+      "sectionTitle": "单人基本"
+    },
+    "ja": {
+      "title": "体当たり",
+      "description": "1. 自然体から杖を上げ、仮想の斬り下ろしを杖の中ほどで受けます。\n2. 強く踏み込み、体の前に横たえた杖を全身で相手の両腕と胸に当て、体勢を崩します。\n3. 相手が下がるところへ短く打つか突き、構えを取り直して元に戻ります。",
+      "sectionTitle": "単独動作"
+    },
+    "ko": {
+      "title": "다이아타리",
+      "description": "1. 자연체에서 조를 들어 가상의 내려베기를 조의 가운데 부분으로 받습니다.\n2. 힘차게 들어가며 몸 앞에 가로로 든 조를 온몸으로 상대의 팔과 가슴에 부딪쳐 균형을 무너뜨립니다.\n3. 상대가 물러날 때 짧게 치거나 찌른 뒤 경계 자세로 돌아와 처음 위치로 갑니다.",
+      "sectionTitle": "단독 기본"
+    },
+    "th": {
+      "title": "ไทอาตาริ",
+      "description": "1. จากท่าธรรมชาติ ยกไม้โจขึ้นรับการฟันลงสมมติด้วยส่วนกลางของไม้\n2. ก้าวเข้าอย่างแรงแล้วดันไม้โจที่ถือขวางลำตัวเข้าใส่แขนและอกของคู่ต่อสู้ด้วยทั้งตัวเพื่อทำลายสมดุล\n3. ตามด้วยการตีหรือแทงสั้นขณะคู่ต่อสู้ถอย จากนั้นกลับสู่ท่าระวังและจุดเริ่ม",
+      "sectionTitle": "คิฮงเดี่ยว"
+    },
+    "ru": {
+      "title": "Тай-атари",
+      "description": "1. Из естественной стойки поднимите дзё, принимая воображаемый нисходящий удар серединой шеста.\n2. Мощно войдите и всем телом вдавите дзё, удерживаемый поперёк корпуса, в руки и грудь противника, нарушая его равновесие.\n3. Добавьте короткий удар или укол, пока противник отступает, затем займите защитное положение и вернитесь в начало.",
+      "sectionTitle": "Одиночные кихон"
+    },
+    "uk": {
+      "title": "Тай-атарі",
+      "description": "1. З природної стійки підніміть дзьо, приймаючи уявний низхідний удар серединою жердини.\n2. Потужно увійдіть і всім тілом утисніть дзьо, утримуване поперек корпусу, у руки й груди суперника, порушуючи його рівновагу.\n3. Додайте короткий удар або укол, поки суперник відступає, потім займіть захисне положення й поверніться на початок.",
+      "sectionTitle": "Одиночні кіхон"
+    }
+  }
+}

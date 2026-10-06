@@ -1,0 +1,90 @@
+{
+  "id": "8.21",
+  "key": "taekwondo_low_block",
+  "title": "Low Block",
+  "description": "1. Take a stable stance and chamber the blocking fist near the opposite shoulder with the other arm extended low.\n2. Rotate the forearm diagonally down and outward while pulling the opposite fist to the hip.\n3. Finish just outside the thigh with the wrist straight and elbow slightly bent.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Blocks",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Low Block",
+      "description": "1. Take a stable stance and chamber the blocking fist near the opposite shoulder with the other arm extended low.\n2. Rotate the forearm diagonally down and outward while pulling the opposite fist to the hip.\n3. Finish just outside the thigh with the wrist straight and elbow slightly bent.",
+      "sectionTitle": "Blocks"
+    },
+    "es": {
+      "title": "Bloqueo bajo",
+      "description": "1. Adopta una postura estable y prepara el puño de bloqueo cerca del hombro contrario, con el otro brazo extendido hacia abajo.\n2. Gira el antebrazo en diagonal hacia abajo y afuera mientras llevas el puño contrario a la cadera.\n3. Termina justo por fuera del muslo, con la muñeca recta y el codo ligeramente flexionado.",
+      "sectionTitle": "Bloqueos"
+    },
+    "pt": {
+      "title": "Bloqueio baixo",
+      "description": "1. Assuma uma base estável e prepare o punho que bloqueia junto ao ombro oposto, com o outro braço estendido para baixo.\n2. Gire o antebraço diagonalmente para baixo e para fora enquanto recolhe o punho oposto ao quadril.\n3. Termine logo por fora da coxa, com o punho alinhado e o cotovelo levemente flexionado.",
+      "sectionTitle": "Bloqueios"
+    },
+    "fr": {
+      "title": "Blocage bas",
+      "description": "1. Prenez une position stable et armez le poing qui bloque près de l’épaule opposée, l’autre bras tendu vers le bas.\n2. Tournez l’avant-bras en diagonale vers le bas et l’extérieur tout en ramenant l’autre poing à la hanche.\n3. Terminez juste à l’extérieur de la cuisse, poignet droit et coude légèrement fléchi.",
+      "sectionTitle": "Blocages"
+    },
+    "de": {
+      "title": "Tiefer Block",
+      "description": "1. Nimm einen stabilen Stand ein und führe die blockende Faust zur gegenüberliegenden Schulter, während der andere Arm tief ausgestreckt ist.\n2. Drehe den Unterarm diagonal nach unten und außen und ziehe dabei die andere Faust zur Hüfte.\n3. Beende die Bewegung knapp außerhalb des Oberschenkels mit geradem Handgelenk und leicht gebeugtem Ellbogen.",
+      "sectionTitle": "Blöcke"
+    },
+    "it": {
+      "title": "Parata bassa",
+      "description": "1. Assumi una posizione stabile e prepara il pugno che para vicino alla spalla opposta, con l’altro braccio disteso in basso.\n2. Ruota l’avambraccio diagonalmente verso il basso e l’esterno, richiamando il pugno opposto all’anca.\n3. Termina appena fuori dalla coscia con il polso dritto e il gomito leggermente piegato.",
+      "sectionTitle": "Parate"
+    },
+    "zh-Hans": {
+      "title": "下段格挡",
+      "description": "1. 采取稳定站姿，将格挡拳预备在对侧肩部附近，另一手臂向下伸出。\n2. 前臂向斜下外侧转动，同时将对侧拳收回髋部。\n3. 在大腿外侧稍外处结束，手腕保持笔直，肘部微屈。",
+      "sectionTitle": "格挡"
+    },
+    "ja": {
+      "title": "下段受け",
+      "description": "1. 安定した構えを取り、受ける拳を反対の肩の近くに引き、もう一方の腕を低く伸ばします。\n2. 反対の拳を腰へ引きながら、前腕を斜め下の外側へ回します。\n3. 太もものすぐ外側で止め、手首をまっすぐ、肘を軽く曲げて保ちます。",
+      "sectionTitle": "受け"
+    },
+    "ko": {
+      "title": "아래막기",
+      "description": "1. 안정된 자세를 취하고 막는 주먹을 반대 어깨 가까이 준비하며 다른 팔은 아래로 뻗습니다.\n2. 반대 주먹을 골반으로 당기면서 아래팔을 대각선 아래 바깥쪽으로 돌립니다.\n3. 허벅지 바로 바깥에서 멈추고 손목은 곧게, 팔꿈치는 약간 굽혀 둡니다.",
+      "sectionTitle": "막기"
+    },
+    "th": {
+      "title": "บล็อกต่ำ",
+      "description": "1. ยืนให้มั่นคง เตรียมหมัดที่บล็อกใกล้ไหล่ฝั่งตรงข้าม โดยเหยียดแขนอีกข้างลงต่ำ\n2. หมุนท่อนแขนเฉียงลงและออกด้านนอก พร้อมดึงหมัดตรงข้ามกลับสะโพก\n3. จบแนวแขนเลยด้านนอกต้นขาเล็กน้อย โดยข้อมือตรงและศอกงอเล็กน้อย",
+      "sectionTitle": "การบล็อก"
+    },
+    "ru": {
+      "title": "Нижний блок",
+      "description": "1. Примите устойчивую стойку и подготовьте блокирующий кулак у противоположного плеча, вытянув другую руку вниз.\n2. Поверните предплечье по диагонали вниз и наружу, одновременно отводя противоположный кулак к тазу.\n3. Завершите движение чуть снаружи бедра, сохраняя прямое запястье и слегка согнутый локоть.",
+      "sectionTitle": "Блоки"
+    },
+    "uk": {
+      "title": "Нижній блок",
+      "description": "1. Прийміть стійку позицію й підготуйте кулак для блока біля протилежного плеча, витягнувши іншу руку вниз.\n2. Поверніть передпліччя по діагоналі вниз і назовні, одночасно відводячи протилежний кулак до таза.\n3. Завершіть рух трохи зовні стегна, зберігаючи прямий зап’ясток і злегка зігнутий лікоть.",
+      "sectionTitle": "Блоки"
+    }
+  }
+}

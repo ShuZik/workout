@@ -1,0 +1,90 @@
+{
+  "id": "14.11",
+  "key": "core_training_crunch",
+  "title": "Crunch",
+  "description": "1. Lie on the back with the knees bent, feet planted, and fingertips supporting the head lightly.\n2. Brace the abdomen and curl the shoulder blades off the floor while keeping the low back grounded.\n3. Pause briefly, lower under control, and repeat without pulling on the neck.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Crunch",
+      "description": "1. Lie on the back with the knees bent, feet planted, and fingertips supporting the head lightly.\n2. Brace the abdomen and curl the shoulder blades off the floor while keeping the low back grounded.\n3. Pause briefly, lower under control, and repeat without pulling on the neck.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Encogimiento abdominal",
+      "description": "1. Túmbate boca arriba con las rodillas flexionadas, los pies apoyados y las puntas de los dedos sosteniendo ligeramente la cabeza.\n2. Activa el abdomen y eleva los omóplatos del suelo, manteniendo la zona lumbar apoyada.\n3. Haz una breve pausa, baja de forma controlada y repite sin tirar del cuello.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Abdominal curto",
+      "description": "1. Deite de costas com os joelhos dobrados, os pés apoiados e as pontas dos dedos sustentando levemente a cabeça.\n2. Contraia o abdômen e eleve as escápulas do chão, mantendo a lombar apoiada.\n3. Faça uma breve pausa, desça de forma controlada e repita sem puxar o pescoço.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Crunch abdominal",
+      "description": "1. Allongez-vous sur le dos, genoux fléchis, pieds au sol et bouts des doigts soutenant légèrement la tête.\n2. Contractez les abdominaux et décollez les omoplates du sol en gardant le bas du dos au sol.\n3. Marquez une courte pause, redescendez avec contrôle et répétez sans tirer sur la nuque.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Bauchpressen",
+      "description": "1. Lege dich auf den Rücken, beuge die Knie und stelle die Füße auf. Stütze den Kopf leicht mit den Fingerspitzen.\n2. Spanne den Bauch an und hebe die Schulterblätter vom Boden, während der untere Rücken aufliegt.\n3. Halte kurz inne, senke dich kontrolliert ab und wiederhole, ohne am Nacken zu ziehen.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Crunch",
+      "description": "1. Sdraiati sulla schiena con le ginocchia piegate, i piedi appoggiati e la testa sostenuta leggermente dalle punte delle dita.\n2. Contrai gli addominali e solleva le scapole dal pavimento, mantenendo la zona lombare a terra.\n3. Fai una breve pausa, scendi in modo controllato e ripeti senza tirare il collo.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "卷腹",
+      "description": "1. 仰卧，屈膝，双脚踩地，用指尖轻轻托住头部。\n2. 收紧腹部，将肩胛骨卷起离地，同时保持下背部贴地。\n3. 稍作停顿，有控制地放下，然后重复，不要拉扯颈部。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "クランチ",
+      "description": "1. 仰向けになり、膝を曲げて足を床につけ、指先で頭を軽く支えます。\n2. 腹部に力を入れ、腰を床につけたまま肩甲骨を床から浮かせます。\n3. 短く止めてからゆっくり下ろし、首を引っ張らずに繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "크런치",
+      "description": "1. 등을 대고 누워 무릎을 굽히고 발을 바닥에 붙인 뒤 손끝으로 머리를 가볍게 받칩니다.\n2. 복부에 힘을 주고 허리를 바닥에 붙인 상태로 견갑골을 바닥에서 들어 올립니다.\n3. 잠시 멈춘 뒤 조절하며 내려오고, 목을 잡아당기지 않고 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ครันช์",
+      "description": "1. นอนหงาย งอเข่า วางเท้าบนพื้น และใช้ปลายนิ้วประคองศีรษะเบา ๆ\n2. เกร็งหน้าท้องและงอลำตัวเพื่อยกสะบักพ้นพื้น โดยให้หลังส่วนล่างแนบพื้น\n3. หยุดค้างสั้น ๆ ลดตัวลงอย่างควบคุม แล้วทำซ้ำโดยไม่ดึงคอ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Скручивания",
+      "description": "1. Лягте на спину, согните колени, поставьте стопы на пол и слегка поддерживайте голову кончиками пальцев.\n2. Напрягите живот и скрутите корпус, приподнимая лопатки над полом и сохраняя поясницу прижатой к полу.\n3. Ненадолго задержитесь, подконтрольно опуститесь и повторите, не тяните шею руками.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Скручування",
+      "description": "1. Ляжте на спину, зігніть коліна, поставте стопи на підлогу й злегка підтримуйте голову кінчиками пальців.\n2. Напружте живіт і скрутіть корпус, піднімаючи лопатки над підлогою та тримаючи поперек притиснутим до підлоги.\n3. Ненадовго затримайтеся, контрольовано опустіться й повторіть, не тягніть шию руками.",
+      "sectionTitle": "База"
+    }
+  }
+}

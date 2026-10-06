@@ -1,0 +1,90 @@
+{
+  "id": "14.4",
+  "key": "core_leg_raise",
+  "title": "Leg Raise",
+  "description": "1. Lie on the back with legs together and place the hands beside the body or under the pelvis for support.\n2. Brace the abdomen and raise the knees or straight legs without lifting the lower back away from the floor.\n3. Lower the legs slowly only as far as the lower back remains controlled, then repeat.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Leg Raise",
+      "description": "1. Lie on the back with legs together and place the hands beside the body or under the pelvis for support.\n2. Brace the abdomen and raise the knees or straight legs without lifting the lower back away from the floor.\n3. Lower the legs slowly only as far as the lower back remains controlled, then repeat.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Elevación de piernas",
+      "description": "1. Túmbate boca arriba con las piernas juntas y coloca las manos junto al cuerpo o debajo de la pelvis como apoyo.\n2. Activa el abdomen y eleva las rodillas o las piernas rectas sin separar la zona lumbar del suelo.\n3. Baja las piernas lentamente solo hasta donde mantengas el control de la zona lumbar y repite.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Elevação de pernas",
+      "description": "1. Deite de costas com as pernas juntas e coloque as mãos ao lado do corpo ou sob a pelve para apoio.\n2. Contraia o abdômen e eleve os joelhos ou as pernas estendidas sem tirar a lombar do chão.\n3. Abaixe as pernas lentamente apenas até onde mantenha o controle da lombar e repita.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Relevé de jambes",
+      "description": "1. Allongez-vous sur le dos, jambes jointes, et placez les mains près du corps ou sous le bassin pour vous soutenir.\n2. Contractez les abdominaux et relevez les genoux ou les jambes tendues sans décoller le bas du dos du sol.\n3. Abaissez lentement les jambes seulement tant que le bas du dos reste contrôlé, puis répétez.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Beinheben",
+      "description": "1. Lege dich auf den Rücken, halte die Beine zusammen und lege die Hände neben den Körper oder zur Unterstützung unter das Becken.\n2. Spanne den Bauch an und hebe die Knie oder gestreckten Beine, ohne den unteren Rücken vom Boden abzuheben.\n3. Senke die Beine langsam nur so weit ab, wie du den unteren Rücken kontrollieren kannst, und wiederhole.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Sollevamento delle gambe",
+      "description": "1. Sdraiati sulla schiena con le gambe unite e metti le mani accanto al corpo o sotto il bacino come sostegno.\n2. Contrai gli addominali e solleva le ginocchia o le gambe tese senza staccare la zona lombare dal pavimento.\n3. Abbassa lentamente le gambe solo finché mantieni il controllo della zona lombare, poi ripeti.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "仰卧举腿",
+      "description": "1. 仰卧，双腿并拢，双手放在身体两侧或骨盆下方提供支撑。\n2. 收紧腹部，抬起膝盖或伸直的双腿，不要让下背部离开地面。\n3. 缓慢放下双腿，幅度以仍能控制下背部为限，然后重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "レッグレイズ",
+      "description": "1. 仰向けになって両脚をそろえ、手を体の横か骨盤の下に置いて支えます。\n2. 腹部に力を入れ、腰を床から浮かせずに膝または伸ばした脚を上げます。\n3. 腰をコントロールできる範囲まで脚をゆっくり下ろし、繰り返します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "레그 레이즈",
+      "description": "1. 등을 대고 누워 다리를 모으고 손을 몸 옆이나 골반 아래에 두어 받칩니다.\n2. 복부에 힘을 주고 허리가 바닥에서 떨어지지 않도록 무릎이나 곧게 편 다리를 들어 올립니다.\n3. 허리를 조절할 수 있는 범위까지만 다리를 천천히 내린 뒤 반복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ยกขา",
+      "description": "1. นอนหงาย ให้ขาชิดกัน และวางมือข้างลำตัวหรือใต้เชิงกรานเพื่อช่วยพยุง\n2. เกร็งหน้าท้องและยกเข่าหรือขาที่เหยียดตรง โดยไม่ให้หลังส่วนล่างลอยจากพื้น\n3. ลดขาลงช้า ๆ เท่าที่หลังส่วนล่างยังอยู่ในการควบคุม แล้วทำซ้ำ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Подъём ног",
+      "description": "1. Лягте на спину, соедините ноги и положите руки вдоль тела или под таз для поддержки.\n2. Напрягите живот и поднимайте колени или прямые ноги, не отрывая поясницу от пола.\n3. Медленно опускайте ноги лишь настолько, насколько сохраняется контроль поясницы, затем повторите.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Піднімання ніг",
+      "description": "1. Ляжте на спину, з’єднайте ноги й покладіть руки вздовж тіла або під таз для підтримки.\n2. Напружте живіт і піднімайте коліна або прямі ноги, не відриваючи поперек від підлоги.\n3. Повільно опускайте ноги лише настільки, наскільки зберігається контроль попереку, потім повторіть.",
+      "sectionTitle": "База"
+    }
+  }
+}

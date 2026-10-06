@@ -1,0 +1,90 @@
+{
+  "id": "59.2",
+  "key": "hand_to_hand_punch_kick_series",
+  "title": "Punch and Kick Series",
+  "description": "1. A partner holds focus mitts and a kick shield while both of you move in fighting stance.\n2. Deliver one continuous series that mixes punches and kicks, landing several clean strikes in a row before the holder moves away.\n3. Return to guard after the series, let the holder reset, and swap roles when the interval ends.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "handToHandCombat",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Punch and Kick Series",
+      "description": "1. A partner holds focus mitts and a kick shield while both of you move in fighting stance.\n2. Deliver one continuous series that mixes punches and kicks, landing several clean strikes in a row before the holder moves away.\n3. Return to guard after the series, let the holder reset, and swap roles when the interval ends.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Serie de golpes y patadas",
+      "description": "1. Un compañero sostiene manoplas y un escudo de patadas mientras ambos os movéis en guardia.\n2. Lanza una serie continua que mezcle golpes de puño y patadas, conectando varios impactos limpios seguidos antes de que el compañero se aparte.\n3. Vuelve a la guardia tras la serie, deja que el compañero se recoloque e intercambiad roles al terminar el intervalo.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Série de socos e chutes",
+      "description": "1. Um parceiro segura manoplas e um escudo de chutes enquanto ambos se movem em guarda.\n2. Aplique uma série contínua misturando socos e chutes, acertando vários golpes limpos seguidos antes de o parceiro se afastar.\n3. Volte à guarda após a série, deixe o parceiro se reposicionar e troquem os papéis ao fim do intervalo.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Série poings-pieds",
+      "description": "1. Un partenaire tient des pattes d’ours et un bouclier pendant que vous vous déplacez tous deux en garde.\n2. Envoyez une série continue mêlant coups de poing et de pied, avec plusieurs touches nettes d’affilée avant que le partenaire ne se dégage.\n3. Revenez en garde après la série, laissez le partenaire se replacer et inversez les rôles à la fin de l’intervalle.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Schlag- und Trittserie",
+      "description": "1. Ein Partner hält Pratzen und ein Trittpolster, während ihr euch beide in Kampfstellung bewegt.\n2. Schlage eine durchgehende Serie aus Schlägen und Tritten mit mehreren sauberen Treffern hintereinander, bevor der Halter ausweicht.\n3. Kehre nach der Serie in die Deckung zurück, lass den Halter neu ansetzen und tauscht am Intervallende die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Serie di pugni e calci",
+      "description": "1. Un compagno tiene colpitori e uno scudo da calci mentre vi muovete entrambi in guardia.\n2. Tira una serie continua che mescoli pugni e calci, mettendo a segno più colpi puliti di fila prima che il compagno si sposti.\n3. Torna in guardia dopo la serie, lascia che il compagno si riposizioni e scambiatevi i ruoli a fine intervallo.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "拳腿连击",
+      "description": "1. 同伴持手靶和踢靶，双方以实战姿势移动。\n2. 打出一组连续的拳腿混合进攻，在同伴移开前连续命中数次干净的打击。\n3. 连击后回到防守势，让持靶者重新站好，时段结束时交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "突きと蹴りの連打",
+      "description": "1. パートナーがミットとキックシールドを持ち、互いに構えて動きます。\n2. パンチとキックを混ぜた一続きの連打を出し、相手が離れる前にきれいな打撃を何発も続けて当てます。\n3. 連打の後は構えに戻り、持ち手が構え直すのを待ち、時間が終わったら役割を交代します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "펀치·킥 연타",
+      "description": "1. 파트너가 미트와 킥 실드를 들고 둘 다 대련 자세로 움직입니다.\n2. 펀치와 킥을 섞은 한 번의 연속 공격으로, 파트너가 빠지기 전에 깨끗한 타격을 여러 번 연달아 넣습니다.\n3. 연타 후 가드로 돌아오고, 홀더가 다시 자세를 잡게 한 뒤 시간이 끝나면 역할을 바꿉니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ชุดหมัดและเตะ",
+      "description": "1. คู่ฝึกถือเป้��มือและเป้าเตะ ขณะทั้งคู่เคลื่อนที่ในท่าต่อสู้\n2. ปล่อยชุดโจมตีต่อเนื่องผสมหมัดและเตะ ให้เข้าเป้าชัดเจนหลายครั้งติดกันก่อนคู่ฝึกจะถอย\n3. กลับสู่การ์ดหลังจบชุด ให้คนถือเป้าตั้งตัวใหม่ และสลับบทบาทเมื่อหมดช่วงเวลา",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Серия ударов руками и ногами",
+      "description": "1. Партнёр держит лапы и макивару, вы оба перемещаетесь в боевой стойке.\n2. Нанесите одну непрерывную серию из ударов руками и ногами, попав несколько раз подряд чисто, прежде чем партнёр уйдёт.\n3. После серии вернитесь в защиту, дайте держащему перестроиться и поменяйтесь ролями в конце интервала.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Серія ударів руками й ногами",
+      "description": "1. Партнер тримає лапи й маківару, ви обидва пересуваєтеся в бойовій стійці.\n2. Нанесіть одну безперервну серію з ударів руками й ногами, влучивши кілька разів поспіль чисто, перш ніж партнер відійде.\n3. Після серії поверніться в захист, дайте тримачеві перешикуватися й поміняйтеся ролями наприкінці інтервалу.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

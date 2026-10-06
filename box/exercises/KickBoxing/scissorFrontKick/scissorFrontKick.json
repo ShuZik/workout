@@ -1,0 +1,87 @@
+{
+  "id": "3.42",
+  "key": "kick_boxing_scissor_front_kick",
+  "title": "Scissor Front Kick",
+  "description": "1. From stance, drive one knee up sharply as a feint and use it to spring off the supporting foot.\n2. Switch the legs in the air and snap the other leg into a front kick at the top of the jump, keeping the hands high.\n3. Recoil the kicking foot and land softly on both feet in a balanced stance before moving again.",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Advanced",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Scissor Front Kick",
+      "description": "1. From stance, drive one knee up sharply as a feint and use it to spring off the supporting foot.\n2. Switch the legs in the air and snap the other leg into a front kick at the top of the jump, keeping the hands high.\n3. Recoil the kicking foot and land softly on both feet in a balanced stance before moving again.",
+      "sectionTitle": "Advanced"
+    },
+    "es": {
+      "title": "Patada frontal en tijera",
+      "description": "1. Desde la guardia, sube con fuerza una rodilla como finta y úsala para saltar desde el pie de apoyo.\n2. Cambia las piernas en el aire y lanza la otra pierna en patada frontal en lo alto del salto, con las manos altas.\n3. Recoge el pie y aterriza suavemente sobre ambos pies en una postura equilibrada antes de moverte de nuevo.",
+      "sectionTitle": "Avanzado"
+    },
+    "pt": {
+      "title": "Chute frontal em tesoura",
+      "description": "1. Da base, suba um joelho com força como finta e use-o para saltar do pé de apoio.\n2. Troque as pernas no ar e lance a outra perna num chute frontal no alto do salto, com as mãos altas.\n3. Recolha o pé e aterrisse suavemente sobre os dois pés em base equilibrada antes de se mover de novo.",
+      "sectionTitle": "Avançado"
+    },
+    "fr": {
+      "title": "Coup de pied de face sauté en ciseau",
+      "description": "1. Depuis la garde, montez vivement un genou en feinte et servez-vous-en pour sauter depuis le pied d’appui.\n2. Croisez les jambes en l’air et lancez l’autre jambe en coup de pied de face au sommet du saut, mains hautes.\n3. Ramenez le pied et retombez souplement sur les deux pieds en garde équilibrée avant de repartir.",
+      "sectionTitle": "Avancé"
+    },
+    "de": {
+      "title": "Gesprungener Scherentritt nach vorn",
+      "description": "1. Reiße aus der Stellung ein Knie als Finte hoch und nutze den Schwung, um vom Standfuß abzuspringen.\n2. Wechsle die Beine in der Luft und schnelle das andere Bein am höchsten Punkt in einen Fronttritt, die Hände oben.\n3. Ziehe den Fuß zurück und lande weich auf beiden Füßen in einer stabilen Stellung, bevor du dich weiterbewegst.",
+      "sectionTitle": "Fortgeschrittene Techniken"
+    },
+    "it": {
+      "title": "Calcio frontale saltato a forbice",
+      "description": "1. Dalla posizione, solleva con decisione un ginocchio come finta e usalo per saltare dal piede d’appoggio.\n2. Scambia le gambe in aria e calcia frontalmente con l’altra gamba al culmine del salto, mani alte.\n3. Richiama il piede e atterra morbido su entrambi i piedi in posizione equilibrata prima di muoverti di nuovo.",
+      "sectionTitle": "Avanzato"
+    },
+    "zh-Hans": {
+      "title": "剪刀式腾空前踢",
+      "description": "1. 从站姿迅速提起一侧膝盖作假动作，并借力从支撑脚起跳。\n2. 在空中交换双腿，于最高点用另一条腿弹出前踢，双手保持高位。\n3. 收回踢腿，双脚轻落成稳定站姿后再继续移动。",
+      "sectionTitle": "高级"
+    },
+    "ja": {
+      "title": "シザース前蹴り",
+      "description": "1. 構えから片膝を鋭く上げてフェイントにし、その勢いで軸足から跳びます。\n2. 空中で脚を入れ替え、跳躍の頂点でもう一方の脚で前蹴りを放ち、両手は高く保ちます。\n3. 蹴り足を引き、両足で柔らかく着地して安定した構えを取ってから動きます。",
+      "sectionTitle": "上級"
+    },
+    "ko": {
+      "title": "가위 앞차기",
+      "description": "1. 자세에서 한쪽 무릎을 날카롭게 들어 페인트로 쓰고, 그 힘으로 지지 발에서 뛰어오릅니다.\n2. 공중에서 다리를 바꾸고 점프의 최고점에서 다른 다리로 앞차기를 차며 두 손은 높게 유지합니다.\n3. 찬 발을 회수하고 두 발로 부드럽게 착지해 균형 잡힌 자세를 만든 뒤 움직입니다.",
+      "sectionTitle": "고급"
+    },
+    "th": {
+      "title": "ถีบกระโดดสลับขา",
+      "description": "1. จากท่ายืน ยกเข่าข้างหนึ่งขึ้นเร็วเป็นการหลอก และใช้แรงนั้นกระโดดจากเท้ายืน\n2. สลับขากลางอากาศแล้วดีดขาอีกข้างเตะตรงไปข้างหน้าที่จุดสูงสุด โดยยกมือสูง\n3. เก็บเท้ากลับและลงพื้นเบา ๆ ด้วยสองเท้าในท่าที่สมดุลก่อนเคลื่อนที่ต่อ",
+      "sectionTitle": "ขั้นสูง"
+    },
+    "ru": {
+      "title": "Прямой удар ногой в прыжке «ножницы»",
+      "description": "1. Из стойки резко поднимите одно колено как обманное движение и оттолкнитесь опорной ногой.\n2. Смените ноги в воздухе и в верхней точке прыжка выбросите другую ногу прямым ударом, держа руки высоко.\n3. Верните ударную ногу и мягко приземлитесь на обе ноги в устойчивую стойку, прежде чем двигаться дальше.",
+      "sectionTitle": "Продвинутый"
+    },
+    "uk": {
+      "title": "Прямий удар ногою в стрибку «ножиці»",
+      "description": "1. Зі стійки різко підніміть одне коліно як обманний рух і відштовхніться опорною ногою.\n2. Змініть ноги в повітрі й у верхній точці стрибка викиньте іншу ногу прямим ударом, тримаючи руки високо.\n3. Поверніть ударну ногу й м’яко приземліться на обидві ноги в стійку, перш ніж рухатися далі.",
+      "sectionTitle": "Просунутий"
+    }
+  }
+}

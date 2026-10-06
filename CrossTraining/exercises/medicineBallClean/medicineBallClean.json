@@ -1,0 +1,89 @@
+{
+  "id": "23.24",
+  "key": "cross_training_medicine_ball_clean",
+  "title": "Medicine Ball Clean",
+  "description": "1. Stand over the medicine ball with feet shoulder-width apart, hinge and squat to grip its sides, and lift the chest.\n2. Drive through the feet and extend the hips, then shrug and rotate the hands around the rising ball.\n3. Pull under and receive the ball at the chest in a squat, then stand before lowering it.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "5 Mixed Load",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Medicine Ball Clean",
+      "description": "1. Stand over the medicine ball with feet shoulder-width apart, hinge and squat to grip its sides, and lift the chest.\n2. Drive through the feet and extend the hips, then shrug and rotate the hands around the rising ball.\n3. Pull under and receive the ball at the chest in a squat, then stand before lowering it.",
+      "sectionTitle": "Mixed Load"
+    },
+    "es": {
+      "title": "Clean con balón medicinal",
+      "description": "1. Colócate sobre el balón medicinal con los pies al ancho de los hombros, flexiona cadera y rodillas para agarrarlo por los lados y eleva el pecho.\n2. Empuja con los pies y extiende la cadera, luego encoge los hombros y gira las manos alrededor del balón que sube.\n3. Métete debajo y recibe el balón en el pecho en sentadilla, luego ponte de pie antes de bajarlo.",
+      "sectionTitle": "Carga mixta"
+    },
+    "pt": {
+      "title": "Clean com medicine ball",
+      "description": "1. Fique sobre a medicine ball com os pés na largura dos ombros, flexione quadril e joelhos para segurá-la pelas laterais e eleve o peito.\n2. Empurre com os pés e estenda o quadril, depois encolha os ombros e gire as mãos ao redor da bola que sobe.\n3. Entre embaixo e receba a bola no peito em agachamento, depois fique em pé antes de baixá-la.",
+      "sectionTitle": "Carga mista"
+    },
+    "fr": {
+      "title": "Épaulé au medecine-ball",
+      "description": "1. Placez-vous au-dessus du medecine-ball, pieds à largeur d’épaules, fléchissez hanches et genoux pour le saisir par les côtés et levez la poitrine.\n2. Poussez sur les pieds et tendez les hanches, puis haussez les épaules et tournez les mains autour du ballon qui monte.\n3. Passez dessous et recevez le ballon à la poitrine en squat, puis redressez-vous avant de le reposer.",
+      "sectionTitle": "Charge mixte"
+    },
+    "de": {
+      "title": "Medizinball-Clean",
+      "description": "1. Stell dich schulterbreit über den Medizinball, beuge Hüfte und Knie, greif ihn seitlich und heb die Brust.\n2. Drück dich über die Füße ab und streck die Hüfte, zieh dann die Schultern hoch und dreh die Hände um den steigenden Ball.\n3. Tauch darunter, fang den Ball in der Hocke vor der Brust und richte dich auf, bevor du ihn absetzt.",
+      "sectionTitle": "Gemischte Lasten"
+    },
+    "it": {
+      "title": "Clean con palla medica",
+      "description": "1. Posizionati sopra la palla medica con i piedi alla larghezza delle spalle, piegati su anche e ginocchia per afferrarla ai lati e solleva il petto.\n2. Spingi con i piedi ed estendi le anche, poi fai uno shrug e ruota le mani attorno alla palla che sale.\n3. Scendi sotto e ricevi la palla al petto in squat, poi alzati prima di riappoggiarla.",
+      "sectionTitle": "Carico misto"
+    },
+    "zh-Hans": {
+      "title": "药球高翻",
+      "description": "1. 站在药球上方，双脚与肩同宽，屈髋屈膝从两侧抓住药球，挺起胸部。\n2. 双脚蹬地伸髋，随后耸肩并让双手绕着上升的药球翻转。\n3. 钻到下方以深蹲姿势在胸前接球，站直后再放下。",
+      "sectionTitle": "混合负重"
+    },
+    "ja": {
+      "title": "メディシンボール・クリーン",
+      "description": "1. 足を肩幅に開いてメディシンボールの上に立ち、股関節と膝を曲げてボールの側面をつかみ、胸を起こします。\n2. 足で押して股関節を伸ばし、肩をすくめながら上昇するボールの周りで手を返します。\n3. ボールの下に潜り込んでスクワット姿勢で胸の前で受け、立ち上がってから下ろします。",
+      "sectionTitle": "ミックス負荷"
+    },
+    "ko": {
+      "title": "메디신볼 클린",
+      "description": "1. 발을 어깨너비로 벌리고 메디신볼 위에 서서 엉덩이와 무릎을 굽혀 공의 양옆을 잡고 가슴을 듭니다.\n2. 발로 밀며 엉덩이를 펴고, 어깨를 으쓱하며 올라오는 공 둘레로 손을 돌립니다.\n3. 공 아래로 들어가 스쿼트 자세로 가슴에서 받은 뒤 일어서고 나서 내려놓습니다.",
+      "sectionTitle": "혼합 부하"
+    },
+    "th": {
+      "title": "เมดิซินบอลคลีน",
+      "description": "1. ยืนคร่อมเมดิซินบอล แยกเท้ากว้างเท่าไหล่ พับสะโพกและย่อเข่าลงจับด้านข้างลูกบอล แล้วยกอกขึ้น\n2. ดันผ่านเท้าและเหยียดสะโพก จากนั้นยักไหล่และหมุนมือรอบลูกบอลที่กำลังลอยขึ้น\n3. มุดลงใต้ลูกบอลและรับไว้ที่อกในท่าสควอต แล้วยืนขึ้นก่อนวางลง",
+      "sectionTitle": "น้ำหนักผสม"
+    },
+    "ru": {
+      "title": "Взятие медбола на грудь",
+      "description": "1. Встаньте над медболом, стопы на ширине плеч, согните таз и колени, возьмите мяч по бокам и поднимите грудь.\n2. Оттолкнитесь стопами и разогните таз, затем пожмите плечами и проверните кисти вокруг поднимающегося мяча.\n3. Уйдите под мяч и примите его на грудь в приседе, затем встаньте, прежде чем опустить его.",
+      "sectionTitle": "Смешанная нагрузка"
+    },
+    "uk": {
+      "title": "Взяття медболу на груди",
+      "description": "1. Станьте над медболом, стопи на ширині плечей, зігніть таз і коліна, візьміть м’яч з боків і підніміть груди.\n2. Відштовхніться стопами й розігніть таз, потім знизайте плечима й проверніть кисті навколо м’яча, що піднімається.\n3. Піддіть під м’яч і прийміть його на груди в присіді, потім підведіться, перш ніж опустити його.",
+      "sectionTitle": "Змішане навантаження"
+    }
+  }
+}

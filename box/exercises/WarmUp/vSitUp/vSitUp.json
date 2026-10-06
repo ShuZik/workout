@@ -1,0 +1,87 @@
+{
+  "id": "9.56",
+  "key": "conditioning_v_sit_up",
+  "title": "V Sit-Up",
+  "description": "1. Lie on the back with the legs long and the arms extended overhead, lower back gently pressed to the floor.\n2. Brace the abdomen and lift the straight legs and the trunk together, reaching the hands toward the shins so the body forms a V balanced on the hips.\n3. Lower the trunk and legs together under control to the floor without letting the lower back arch, then repeat.",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "V Sit-Up",
+      "description": "1. Lie on the back with the legs long and the arms extended overhead, lower back gently pressed to the floor.\n2. Brace the abdomen and lift the straight legs and the trunk together, reaching the hands toward the shins so the body forms a V balanced on the hips.\n3. Lower the trunk and legs together under control to the floor without letting the lower back arch, then repeat.",
+      "sectionTitle": "Dynamic Movement"
+    },
+    "es": {
+      "title": "Abdominal en V",
+      "description": "1. Túmbate boca arriba con las piernas extendidas y los brazos estirados por encima de la cabeza, la zona lumbar apoyada suavemente en el suelo.\n2. Activa el abdomen y eleva a la vez las piernas rectas y el tronco, llevando las manos hacia las espinillas para formar una V equilibrada sobre la cadera.\n3. Baja juntos el tronco y las piernas con control hasta el suelo sin arquear la zona lumbar y repite.",
+      "sectionTitle": "Movimiento dinámico"
+    },
+    "pt": {
+      "title": "Abdominal em V",
+      "description": "1. Deite de costas com as pernas estendidas e os braços acima da cabeça, a lombar levemente apoiada no chão.\n2. Contraia o abdômen e eleve juntos as pernas retas e o tronco, levando as mãos às canelas para formar um V equilibrado sobre o quadril.\n3. Desça tronco e pernas juntos com controle até o chão sem arquear a lombar e repita.",
+      "sectionTitle": "Movimento dinâmico"
+    },
+    "fr": {
+      "title": "Relevé en V",
+      "description": "1. Allongez-vous sur le dos, jambes tendues et bras au-dessus de la tête, le bas du dos doucement plaqué au sol.\n2. Gainez l’abdomen et levez ensemble les jambes tendues et le buste en tendant les mains vers les tibias pour former un V en équilibre sur les hanches.\n3. Redescendez ensemble buste et jambes au sol avec contrôle sans cambrer le bas du dos, puis recommencez.",
+      "sectionTitle": "Mouvement dynamique"
+    },
+    "de": {
+      "title": "V-Sit-up",
+      "description": "1. Auf dem Rücken liegen, Beine lang, Arme über den Kopf gestreckt, die Lendenwirbelsäule sanft am Boden.\n2. Den Bauch anspannen und gestreckte Beine und Oberkörper gleichzeitig anheben, die Hände Richtung Schienbeine führen, sodass der Körper ein V auf der Hüfte bildet.\n3. Oberkörper und Beine gemeinsam kontrolliert zum Boden senken, ohne ins Hohlkreuz zu gehen, dann wiederholen.",
+      "sectionTitle": "Dynamische Bewegung"
+    },
+    "it": {
+      "title": "Sit-up a V",
+      "description": "1. Sdraiati supino con le gambe distese e le braccia sopra la testa, la zona lombare appoggiata delicatamente a terra.\n2. Contrai l’addome e solleva insieme le gambe tese e il busto, portando le mani verso gli stinchi così che il corpo formi una V in equilibrio sui glutei.\n3. Abbassa insieme busto e gambe con controllo fino a terra senza inarcare la zona lombare, poi ripeti.",
+      "sectionTitle": "Movimento dinamico"
+    },
+    "zh-Hans": {
+      "title": "V字仰卧起坐",
+      "description": "1. 仰卧，双腿伸直，双臂伸过头顶，下背轻贴地面。\n2. 收紧腹部，同时抬起伸直的双腿和躯干，双手伸向小腿，使身体以臀部为支点形成V字。\n3. 控制地同时放下躯干和双腿至地面，不让下背拱起，然后重复。",
+      "sectionTitle": "动态动作"
+    },
+    "ja": {
+      "title": "Vシットアップ",
+      "description": "1. 仰向けに寝て脚を伸ばし、腕を頭上に伸ばし、腰を床に軽く押し付けます。\n2. 腹部を締め、伸ばした脚と上体を同時に持ち上げ、手をすねへ伸ばして腰で支えるV字を作ります。\n3. 腰を反らせずに上体と脚を一緒にコントロールして床へ下ろし、繰り返します。",
+      "sectionTitle": "ダイナミックな動作"
+    },
+    "ko": {
+      "title": "V 싯업",
+      "description": "1. 다리를 길게 펴고 팔을 머리 위로 뻗은 채 등을 대고 누워 허리를 바닥에 가볍게 붙입니다.\n2. 복부에 힘을 주고 편 다리와 상체를 동시에 들어 손을 정강이 쪽으로 뻗어 엉덩이로 균형 잡은 V자를 만듭니다.\n3. 허리가 뜨지 않게 상체와 다리를 함께 천천히 바닥으로 내리고 반복합니다.",
+      "sectionTitle": "동적 움직임"
+    },
+    "th": {
+      "title": "วีซิทอัพ",
+      "description": "1. นอนหงาย ขาเหยียดตรง แขนเหยียดเหนือศีรษะ หลังส่วนล่างแนบพื้นเบาๆ\n2. เกร็งหน้าท้องแล้วยกขาที่เหยียดตรงและลำตัวขึ้นพร้อมกัน ยื่นมือไปทางหน้าแข้งให้ร่างกายเป็นรูปตัววีทรงตัวบนสะโพก\n3. ลดลำตัวและขาลงพร้อมกันอย่างควบคุมจนถึงพื้นโดยไม่ให้หลังส่วนล่างแอ่น แล้วทำซ้ำ",
+      "sectionTitle": "การเคลื่อนไหวแบบไดนามิก"
+    },
+    "ru": {
+      "title": "V-образные подъёмы корпуса",
+      "description": "1. Лягте на спину, ноги прямые, руки вытянуты за голову, поясница мягко прижата к полу.\n2. Напрягите пресс и одновременно поднимите прямые ноги и корпус, тянясь руками к голеням, чтобы тело образовало букву V с опорой на таз.\n3. Подконтрольно опустите корпус и ноги вместе на пол, не прогибая поясницу, и повторите.",
+      "sectionTitle": "Динамические движения"
+    },
+    "uk": {
+      "title": "V-подібні підйоми корпусу",
+      "description": "1. Ляжте на спину, ноги прямі, руки витягнуті за голову, поперек м’яко притиснутий до підлоги.\n2. Напружте прес і одночасно підніміть прямі ноги й корпус, тягнучись руками до гомілок, щоб тіло утворило літеру V з опорою на таз.\n3. Підконтрольно опустіть корпус і ноги разом на підлогу, не прогинаючи поперек, і повторіть.",
+      "sectionTitle": "Динамічні рухи"
+    }
+  }
+}

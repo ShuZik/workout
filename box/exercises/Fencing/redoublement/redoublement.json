@@ -1,0 +1,87 @@
+{
+  "id": "54.20",
+  "key": "fencing_redoublement",
+  "title": "Redoublement",
+  "description": "1. Lunge with a simple attack; the partner parries and holds the blade without riposting, or retreats out of reach.\n2. Still in the lunge, renew the attack with a new blade or arm action, for example a disengage or beat, into a different opening.\n3. Recover to en garde after the touch and let the partner alternate between holding the parry and riposting to sharpen the decision.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Redoublement",
+      "description": "1. Lunge with a simple attack; the partner parries and holds the blade without riposting, or retreats out of reach.\n2. Still in the lunge, renew the attack with a new blade or arm action, for example a disengage or beat, into a different opening.\n3. Recover to en garde after the touch and let the partner alternate between holding the parry and riposting to sharpen the decision.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Redoble",
+      "description": "1. Tira a fondo con un ataque simple; el compañero para y retiene la hoja sin responder, o retrocede fuera de alcance.\n2. Aún en el fondo, renueva el ataque con una nueva acción de hoja o de brazo, por ejemplo un desenganche o un batimiento, hacia otra apertura.\n3. Vuelve a guardia tras el toque y deja que el compañero alterne entre mantener la parada y responder para afinar la decisión.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Redobramento",
+      "description": "1. Afunde com um ataque simples; o parceiro para e segura a lâmina sem responder, ou recua para fora de alcance.\n2. Ainda no afundo, renove o ataque com nova ação de lâmina ou de braço, por exemplo desengajamento ou batida, noutra abertura.\n3. Volte à guarda após o toque e deixe o parceiro alternar entre manter a parada e responder, para afinar a decisão.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Redoublement",
+      "description": "1. Fendez-vous sur une attaque simple ; le partenaire pare et tient le fer sans riposter, ou rompt hors de portée.\n2. Toujours en fente, renouvelez l’attaque avec une nouvelle action de fer ou de bras, par exemple dégagement ou battement, dans une autre ouverture.\n3. Revenez en garde après la touche et laissez le partenaire alterner parade tenue et riposte pour affiner la décision.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Redoublement",
+      "description": "1. Falle mit einem einfachen Angriff aus; der Partner pariert und hält die Klinge ohne Riposte oder weicht außer Reichweite.\n2. Erneuere noch im Ausfall den Angriff mit einer neuen Klingen- oder Armaktion, etwa Umgehung oder Battuta, in eine andere Blöße.\n3. Kehre nach dem Treffer zurück und lass den Partner zwischen gehaltener Parade und Riposte wechseln, um die Entscheidung zu schärfen.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Raddoppio",
+      "description": "1. Affonda con un attacco semplice; il compagno para e tiene la lama senza rispondere, oppure arretra fuori misura.\n2. Ancora in affondo, rinnova l’attacco con una nuova azione di lama o di braccio, per esempio una cavazione o una battuta, in un’altra apertura.\n3. Torna in guardia dopo la stoccata e lascia alternare al compagno parata tenuta e risposta per affinare la decisione.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "变线再攻（Redoublement）",
+      "description": "1. 以简单进攻弓步；同伴防守后压住剑不还击，或后退出距离。\n2. 仍在弓步中，以新的剑上或手臂动作（如转移或击打）攻向另一空档。\n3. 击中后恢复实战姿势，让同伴交替保持防守或还击，以提高判断。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "ルドゥブルマン",
+      "description": "1. 単純な攻撃でファントします。相手はパラードして剣を押さえたままリポストしないか、間合いの外へ下がります。\n2. ファントのまま、デガジェやバットマンなど新たな剣または腕の動作で別の空きへ攻撃を新たにします。\n3. 突いた後アンガルドに戻り、相手にパラードの保持とリポストを交互に行ってもらい判断を磨きます。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "르두블르망",
+      "description": "1. 간단한 공격으로 런지합니다. 파트너는 패리 후 리포스트 없이 칼을 잡고 있거나 거리 밖으로 물러납니다.\n2. 런지 상태에서 디스인게이지나 비트 같은 새로운 칼 또는 팔 동작으로 다른 빈틈을 다시 공격합니다.\n3. 찌른 뒤 앙가르드로 돌아오고, 파트너가 패리 유지와 리포스트를 번갈아 하게 해 판단력을 기릅니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "เรอดูเบลอม็อง",
+      "description": "1. ลันจ์ด้วยการโจมตีแบบง่าย คู่ฝึกปัดป้องแล้วค้างดาบไว้โดยไม่โต้กลับ หรือถอยออกนอกระยะ\n2. ขณะยังอยู่ในท่าลันจ์ โจมตีใหม่ด้วยการใช้ใบดาบหรือแขนแบบใหม่ เช่น ดิสเอนเกจหรือบีต ไปยังช่องว่างอื่น\n3. กลับสู่อองการ์ดหลังแทงถึง ให้คู่ฝึกสลับระหว่างค้างการปัดกับโต้กลับเพื่อฝึกการตัดสินใจ",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Редубль",
+      "description": "1. Выполните выпад с простой атакой; партнёр берёт защиту и держит клинок без ответа или отступает из досягаемости.\n2. Оставаясь в выпаде, возобновите атаку новым действием клинком или рукой, например переводом или батманом, в другое открытие.\n3. После укола вернитесь в стойку; партнёр чередует удержание защиты и ответ, чтобы оттачивать решение.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Редубль",
+      "description": "1. Виконайте випад із простою атакою; партнер бере захист і тримає клинок без відповіді або відступає з досяжності.\n2. Лишаючись у випаді, відновіть атаку новою дією клинком чи рукою, наприклад переведенням або батманом, в інше відкриття.\n3. Після уколу поверніться в стійку; партнер чергує утримання захисту й відповідь, щоб відточувати рішення.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

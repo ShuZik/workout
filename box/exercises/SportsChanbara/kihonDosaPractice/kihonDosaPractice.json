@@ -1,0 +1,87 @@
+{
+  "id": "94.8",
+  "key": "sports_chanbara_kihon_dosa_practice",
+  "title": "Kihon Dosa Practice",
+  "description": "1. Stand in guard with the kodachi and perform the basic strikes in place: men, kote, do, and ashi.\n2. Repeat each strike while moving forward and back with footwork, making every motion crisp and identical.\n3. Finish each movement in guard with the tip on the centre line, holding good posture as if being graded.",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kihon Dosa Practice",
+      "description": "1. Stand in guard with the kodachi and perform the basic strikes in place: men, kote, do, and ashi.\n2. Repeat each strike while moving forward and back with footwork, making every motion crisp and identical.\n3. Finish each movement in guard with the tip on the centre line, holding good posture as if being graded.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Práctica de kihon dosa",
+      "description": "1. Ponte en guardia con el kodachi y ejecuta en el sitio los golpes básicos: men, kote, do y ashi.\n2. Repite cada golpe avanzando y retrocediendo con desplazamientos, con cada movimiento nítido e idéntico.\n3. Termina cada movimiento en guardia con la punta en la línea central, manteniendo la postura como en un examen.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Prática de kihon dosa",
+      "description": "1. Fique em guarda com o kodachi e execute no lugar os golpes básicos: men, kote, do e ashi.\n2. Repita cada golpe avançando e recuando com deslocamentos, deixando cada movimento preciso e idêntico.\n3. Termine cada movimento em guarda com a ponta na linha central, mantendo a postura como num exame de graduação.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Pratique du kihon dosa",
+      "description": "1. Mettez-vous en garde avec le kodachi et exécutez sur place les frappes de base : men, kote, do et ashi.\n2. Répétez chaque frappe en avançant et en reculant, chaque mouvement net et identique.\n3. Terminez chaque mouvement en garde, pointe sur la ligne centrale, avec une posture soignée comme lors d'un passage de grade.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Kihon-Dosa-Übung",
+      "description": "1. Stehe mit dem Kodachi in Deckung und führe die Grundschläge am Platz aus: Men, Kote, Do und Ashi.\n2. Wiederhole jeden Schlag in Vorwärts- und Rückwärtsbewegung, jede Bewegung präzise und gleich.\n3. Beende jede Bewegung in Deckung mit der Spitze auf der Mittellinie und halte eine saubere Haltung wie bei einer Prüfung.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Pratica del kihon dosa",
+      "description": "1. Mettiti in guardia con il kodachi ed esegui sul posto i colpi di base: men, kote, do e ashi.\n2. Ripeti ogni colpo avanzando e arretrando con gli spostamenti, con ogni movimento netto e identico.\n3. Concludi ogni movimento in guardia con la punta sulla linea centrale, mantenendo una postura curata come a un esame.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "基本动作练习",
+      "description": "1. 持小太刀摆好架势，原地完成基本击打：面、小手、胴、足。\n2. 配合步法前进后退，重复每一种击打，每个动作都干净利落且一致。\n3. 每个动作都以剑尖在中线的架势结束，像接受考核一样保持良好姿态。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "基本動作の稽古",
+      "description": "1. 小太刀で構え、その場で面・小手・胴・足の基本打ちを行います。\n2. 前進と後退のフットワークをつけて各打ちを繰り返し、一つ一つの動きを鋭く同じ形にそろえます。\n3. 各動作は剣先を正中線につけた構えで終え、審査を受けるつもりで良い姿勢を保ちます。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "기본 동작 연습",
+      "description": "1. 고다치로 가드를 잡고 제자리에서 기본 타격 멘, 고테, 도, 아시를 합니다.\n2. 풋워크로 전진·후퇴하며 각 타격을 반복하고, 모든 동작을 간결하고 똑같이 합니다.\n3. 각 동작은 칼끝을 중심선에 둔 가드로 마치며, 심사를 받는 것처럼 좋은 자세를 유지합니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ฝึกคิฮงโดสะ",
+      "description": "1. ตั้งการ์ดด้วยโคดาจิและตีท่าพื้นฐานอยู่กับที่ ได้แก่ เมง โคเตะ โด และอาชิ\n2. ทำซ้ำแต่ละท่าขณะเคลื่อนไปหน้าและถอยหลังด้วยฟุตเวิร์ก ให้ทุกการเคลื่อนไหวคมชัดและเหมือนกัน\n3. จบทุกท่าในการ์ดโดยให้ปลายดาบอยู่แนวกึ่งกลาง รักษาท่าทางให้ดีเหมือนกำลังสอบเลื่อนระดับ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Отработка кихон-доса",
+      "description": "1. Встаньте в стойку с кодати и выполните на месте базовые удары: мэн, котэ, до и аси.\n2. Повторяйте каждый удар с передвижением вперёд и назад, делая каждое движение чётким и одинаковым.\n3. Заканчивайте каждое движение в стойке с остриём на центральной линии, сохраняя осанку, как на аттестации.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Відпрацювання кіхон-доса",
+      "description": "1. Станьте в стійку з кодачі й виконайте на місці базові удари: мен, коте, до та аші.\n2. Повторюйте кожен удар із пересуванням уперед і назад, роблячи кожен рух чітким і однаковим.\n3. Завершуйте кожен рух у стійці з вістрям на центральній лінії, зберігаючи поставу, як на атестації.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

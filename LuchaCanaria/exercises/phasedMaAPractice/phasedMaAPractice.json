@@ -1,0 +1,90 @@
+{
+  "id": "79.2",
+  "key": "lucha_canaria_phased_practice",
+  "title": "Phased Maña Practice",
+  "description": "1. Take the starting grip of lucha canaria with a partner who offers only passive opposition.\n2. Practise the chosen maña in phases: grip and unbalance, entry, then the controlled finish to the sand, pausing between phases.\n3. Swap roles after each set and increase the partner's resistance only when every phase is clean.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "luchaCanaria",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Phased Maña Practice",
+      "description": "1. Take the starting grip of lucha canaria with a partner who offers only passive opposition.\n2. Practise the chosen maña in phases: grip and unbalance, entry, then the controlled finish to the sand, pausing between phases.\n3. Swap roles after each set and increase the partner's resistance only when every phase is clean.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Práctica de maña por fases",
+      "description": "1. Toma el agarre inicial de lucha canaria con un compañero que solo ofrece oposición pasiva.\n2. Practica la maña elegida por fases: agarre y desequilibrio, entrada y luego el final controlado a la arena, con pausas entre fases.\n3. Cambiad de rol tras cada serie y aumenta la resistencia del compañero solo cuando todas las fases salgan limpias.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Prática de maña por fases",
+      "description": "1. Faça a pegada inicial da luta canária com um parceiro que oferece apenas oposição passiva.\n2. Pratique a maña escolhida por fases: pegada e desequilíbrio, entrada e depois a finalização controlada na areia, com pausas entre as fases.\n3. Troquem de papel após cada série e aumente a resistência do parceiro somente quando todas as fases estiverem limpas.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Pratique de maña par phases",
+      "description": "1. Prenez la saisie de départ de la lutte canarienne avec un partenaire qui n'offre qu'une opposition passive.\n2. Travaillez la maña choisie par phases : saisie et déséquilibre, entrée, puis finale contrôlée dans le sable, avec une pause entre chaque phase.\n3. Inversez les rôles après chaque série et n'augmentez la résistance du partenaire que lorsque chaque phase est propre.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Maña-Übung in Phasen",
+      "description": "1. Nimm den Startgriff der Lucha Canaria mit einem Partner, der nur passiven Widerstand leistet.\n2. Übe die gewählte Maña in Phasen: Griff und Gleichgewichtsbruch, Eingang, dann der kontrollierte Abschluss in den Sand, mit Pausen dazwischen.\n3. Tauscht nach jedem Satz die Rollen und erhöhe den Widerstand des Partners erst, wenn jede Phase sauber ist.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Pratica della maña per fasi",
+      "description": "1. Prendi la presa iniziale della lotta canaria con un partner che offre solo opposizione passiva.\n2. Pratica la maña scelta per fasi: presa e squilibrio, entrata, poi la conclusione controllata nella sabbia, con pause tra le fasi.\n3. Scambiatevi i ruoli dopo ogni serie e aumenta la resistenza del partner solo quando ogni fase è pulita.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "分阶段技法练习",
+      "description": "1. 与只做被动对抗的同伴取加那利摔跤的起始握法。\n2. 分阶段练习所选技法：握持与破坏平衡、切入，然后可控地摔落沙地，各阶段间停顿。\n3. 每组后交换角色，只有每个阶段都干净时才增加同伴的阻力。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "段階的なマーニャ練習",
+      "description": "1. 受動的な抵抗だけをするパートナーと、カナリア相撲の開始の組み手を取ります。\n2. 選んだマーニャを段階ごとに練習します。組みと崩し、入り、そして砂への制御された決めで、段階ごとに区切ります。\n3. 1セットごとに役割を交代し、すべての段階がきれいにできたときだけ相手の抵抗を強めます。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "단계별 마냐 연습",
+      "description": "1. 수동적으로만 저항하는 파트너와 카나리아 레슬링의 시작 그립을 잡습니다.\n2. 선택한 마냐를 단계별로 연습합니다. 그립과 균형 무너뜨리기, 진입, 그리고 모래 위로의 통제된 마무리를 단계 사이에 멈추며 합니다.\n3. 세트마다 역할을 바꾸고 모든 단계가 깔끔할 때만 파트너의 저항을 높입니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฝึกมาญาเป็นขั้นตอน",
+      "description": "1. จับท่าเริ่มต้นของมวยปล้ำคานาเรียกับคู่ฝึกที่ต้านแบบเฉื่อยเท่านั้น\n2. ฝึกมาญาที่เลือกเป็นขั้นตอน: จับและทำลายสมดุล เข้าท่า แล้วจบลงทรายอย่างควบคุม โดยหยุดพักระหว่างขั้นตอน\n3. สลับบทบาทหลังแต่ละเซต และเพิ่มแรงต้านของคู่ฝึกเมื่อทุกขั้นตอนทำได้เรียบร้อยแล้วเท่านั้น",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Поэтапная отработка маньи",
+      "description": "1. Возьмите стартовый захват канарской борьбы с партнёром, который оказывает только пассивное сопротивление.\n2. Отрабатывайте выбранную манью по этапам: захват и выведение из равновесия, вход, затем контролируемое завершение на песок, с паузами между этапами.\n3. Меняйтесь ролями после каждой серии и увеличивайте сопротивление партнёра, только когда каждый этап выполняется чисто.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Поетапне відпрацювання маньї",
+      "description": "1. Візьміть стартовий захват канарської боротьби з партнером, який чинить лише пасивний опір.\n2. Відпрацьовуйте обрану манью поетапно: захват і виведення з рівноваги, вхід, потім контрольоване завершення на пісок, з паузами між етапами.\n3. Міняйтеся ролями після кожної серії й збільшуйте опір партнера, лише коли кожен етап виконується чисто.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

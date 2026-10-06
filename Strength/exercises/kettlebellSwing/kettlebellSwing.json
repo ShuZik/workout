@@ -1,0 +1,89 @@
+{
+  "id": "13.28",
+  "key": "kettlebell_kettlebell_swing",
+  "title": "Kettlebell Swing",
+  "description": "1. Place the kettlebell ahead of the feet, hinge with a neutral spine, and grip the handle with both hands.\n2. Hike the bell between the thighs, then extend the hips forcefully so the bell floats without an arm pull.\n3. Let the bell fall and guide it back into the next hinge while the feet stay planted.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5,
+    "moderate": 7.5,
+    "vigorous": 9.8,
+    "lightCode": "02052",
+    "moderateCode": "02040",
+    "vigorousCode": "02058"
+  },
+  "difficulty": "basic",
+  "section": "4 Kettlebell",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kettlebell Swing",
+      "description": "1. Place the kettlebell ahead of the feet, hinge with a neutral spine, and grip the handle with both hands.\n2. Hike the bell between the thighs, then extend the hips forcefully so the bell floats without an arm pull.\n3. Let the bell fall and guide it back into the next hinge while the feet stay planted.",
+      "sectionTitle": "Kettlebell"
+    },
+    "es": {
+      "title": "Swing con pesa rusa",
+      "description": "1. Coloca la pesa rusa delante de los pies, flexiona la cadera con la columna neutra y agarra el asa con ambas manos.\n2. Lleva la pesa hacia atrás entre los muslos y luego extiende las caderas con fuerza para que flote sin tirar con los brazos.\n3. Deja caer la pesa y guíala hacia la siguiente flexión de cadera mientras los pies permanecen fijos.",
+      "sectionTitle": "Pesa rusa"
+    },
+    "pt": {
+      "title": "Swing com kettlebell",
+      "description": "1. Coloque o kettlebell à frente dos pés, flexione o quadril com a coluna neutra e segure a alça com as duas mãos.\n2. Leve o kettlebell para trás entre as coxas e depois estenda o quadril com força para que ele flutue sem puxar com os braços.\n3. Deixe o kettlebell descer e conduza-o para a próxima flexão de quadril com os pés firmes no chão.",
+      "sectionTitle": "Kettlebell"
+    },
+    "fr": {
+      "title": "Swing au kettlebell",
+      "description": "1. Placez le kettlebell devant les pieds, basculez le bassin, colonne neutre, et saisissez la poignée à deux mains.\n2. Faites passer le kettlebell entre les cuisses, puis tendez vigoureusement les hanches pour qu’il flotte sans tirer avec les bras.\n3. Laissez-le redescendre et guidez-le dans la bascule suivante, pieds bien ancrés au sol.",
+      "sectionTitle": "Kettlebell"
+    },
+    "de": {
+      "title": "Kettlebell-Swing",
+      "description": "1. Platziere die Kugelhantel vor den Füßen, beuge dich mit neutraler Wirbelsäule in der Hüfte und greife den Griff mit beiden Händen.\n2. Schwinge die Kugelhantel zwischen die Oberschenkel und strecke dann kraftvoll die Hüfte, sodass sie ohne Armzug nach vorne schwebt.\n3. Lass sie zurückfallen und führe sie in die nächste Hüftbeugung, während die Füße fest am Boden bleiben.",
+      "sectionTitle": "Kugelhantel"
+    },
+    "it": {
+      "title": "Swing con kettlebell",
+      "description": "1. Posiziona il kettlebell davanti ai piedi, piegati dalle anche con la colonna neutra e afferra la maniglia con entrambe le mani.\n2. Porta il kettlebell indietro tra le cosce, poi estendi le anche con forza perché fluttui senza tirare con le braccia.\n3. Lascialo ricadere e guidalo nella successiva flessione d’anca mantenendo i piedi ben piantati.",
+      "sectionTitle": "Kettlebell"
+    },
+    "zh-Hans": {
+      "title": "壶铃摆荡",
+      "description": "1. 将壶铃放在双脚前方，脊柱中立屈髋，双手握住把手。\n2. 将壶铃向后摆至两腿之间，然后有力地伸髋，让壶铃自然上浮，手臂不要发力上拉。\n3. 让壶铃回落，并顺势引导进入下一次屈髋，双脚始终稳稳踩地。",
+      "sectionTitle": "壶铃"
+    },
+    "ja": {
+      "title": "ケトルベルスイング",
+      "description": "1. ケトルベルを足の前に置き、背骨をニュートラルに保って股関節から前傾し、両手でハンドルを握ります。\n2. ケトルベルを太ももの間に振り込み、股関節を力強く伸ばして腕で引かずに浮き上がらせます。\n3. 足を床につけたまま、落ちてくるケトルベルを次のヒップヒンジへ導きます。",
+      "sectionTitle": "ケトルベル"
+    },
+    "ko": {
+      "title": "케틀벨 스윙",
+      "description": "1. 케틀벨을 발 앞에 두고 척추를 중립으로 유지한 채 엉덩이를 접어 두 손으로 손잡이를 잡습니다.\n2. 케틀벨을 허벅지 사이로 넘긴 뒤 엉덩이를 힘차게 펴서 팔로 당기지 않고 떠오르게 합니다.\n3. 발을 바닥에 고정한 채 케틀벨이 떨어지도록 두고 다음 힙 힌지로 이끕니다.",
+      "sectionTitle": "케틀벨"
+    },
+    "th": {
+      "title": "เคตเทิลเบลสวิง",
+      "description": "1. วางเคตเทิลเบลไว้หน้าเท้า พับสะโพกโดยให้กระดูกสันหลังอยู่ในแนวกลาง แล้วจับหูจับด้วยมือทั้งสอง\n2. เหวี่ยงเคตเทิลเบลไปด้านหลังระหว่างต้นขา แล้วเหยียดสะโพกอย่างแรงให้ลูกลอยขึ้นโดยไม่ใช้แขนดึง\n3. ปล่อยให้เคตเทิลเบลตกลงและนำเข้าสู่การพับสะโพกครั้งถัดไป ขณะที่เท้ายึดพื้นไว้",
+      "sectionTitle": "เคตเทิลเบล"
+    },
+    "ru": {
+      "title": "Махи гирей",
+      "description": "1. Поставьте гирю перед стопами, наклонитесь в тазобедренных суставах с нейтральной спиной и возьмитесь за рукоять двумя руками.\n2. Заведите гирю назад между бёдер, затем мощно разогните таз, чтобы она взлетела без тяги руками.\n3. Позвольте гире опуститься и направьте её в следующий наклон, не отрывая стоп от пола.",
+      "sectionTitle": "Гиря"
+    },
+    "uk": {
+      "title": "Махи гирею",
+      "description": "1. Поставте гирю перед стопами, нахиліться в кульшових суглобах із нейтральною спиною й візьміться за дужку двома руками.\n2. Заведіть гирю назад між стегон, потім потужно розігніть таз, щоб вона злетіла без тяги руками.\n3. Дозвольте гирі опуститися й спрямуйте її в наступний нахил, не відриваючи стоп від підлоги.",
+      "sectionTitle": "Гиря"
+    }
+  }
+}

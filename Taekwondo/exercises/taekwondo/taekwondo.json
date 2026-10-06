@@ -1,0 +1,90 @@
+{
+  "id": "8.1",
+  "key": "taekwondo",
+  "title": "Taekwondo",
+  "description": "1. Take a light taekwondo fighting stance with one foot forward, knees soft, torso upright, and both hands guarding.\n2. Move through distance and drill front, roundhouse, side, and back kicks together with straight punches and basic blocks.\n3. Rechamber every kick before lowering the foot and restore stance and guard before changing direction.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "section": "1 Main",
+  "durationSeconds": 30,
+  "durationUnit": "seconds",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Taekwondo",
+      "description": "1. Take a light taekwondo fighting stance with one foot forward, knees soft, torso upright, and both hands guarding.\n2. Move through distance and drill front, roundhouse, side, and back kicks together with straight punches and basic blocks.\n3. Rechamber every kick before lowering the foot and restore stance and guard before changing direction.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Taekwondo",
+      "description": "1. Adopta una postura de combate ligera de taekwondo con un pie delante, rodillas flexibles, torso erguido y ambas manos en guardia.\n2. Desplázate variando la distancia y practica patadas frontales, circulares, laterales y hacia atrás junto con puñetazos rectos y bloqueos básicos.\n3. Recoge cada patada antes de bajar el pie y restablece la postura y la guardia antes de cambiar de dirección.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Taekwondo",
+      "description": "1. Assuma uma base leve de combate de taekwondo com um pé à frente, joelhos flexíveis, tronco ereto e ambas as mãos na guarda.\n2. Movimente-se variando a distância e pratique chutes frontais, circulares, laterais e para trás junto com socos retos e bloqueios básicos.\n3. Recolha cada chute antes de baixar o pé e restabeleça a base e a guarda antes de mudar de direção.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Taekwondo",
+      "description": "1. Prenez une position de combat légère de taekwondo avec un pied devant, genoux souples, buste droit et les deux mains en garde.\n2. Déplacez-vous en variant la distance et travaillez les coups de pied frontaux, circulaires, latéraux et arrière avec des directs et des blocages de base.\n3. Réarmez chaque coup de pied avant de reposer le pied et retrouvez position et garde avant de changer de direction.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Taekwondo",
+      "description": "1. Nimm eine leichte Taekwondo-Kampfstellung mit einem Fuß vorn, lockeren Knien, aufrechtem Oberkörper und beiden Händen in Deckung ein.\n2. Bewege dich durch verschiedene Distanzen und übe Front-, Rund-, Seit- und Rückwärtstritte zusammen mit geraden Fauststößen und Grundblöcken.\n3. Ziehe jeden Tritt zurück, bevor du den Fuß senkst, und stelle Stand und Deckung vor einem Richtungswechsel wieder her.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Taekwondo",
+      "description": "1. Assumi una posizione di combattimento leggera di taekwondo con un piede avanti, ginocchia morbide, busto eretto e entrambe le mani in guardia.\n2. Muoviti variando la distanza e pratica calci frontali, circolari, laterali e all’indietro insieme a pugni diretti e parate di base.\n3. Richiama ogni calcio prima di abbassare il piede e ripristina posizione e guardia prima di cambiare direzione.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "跆拳道",
+      "description": "1. 采取轻灵的跆拳道格斗站姿，一脚在前，双膝微屈，躯干直立，双手防守。\n2. 移动调整距离，练习前踢、横踢、侧踢和后踢，同时配合直拳与基本格挡。\n3. 每次踢击先收回预备位置再落脚，改变方向前恢复站姿和防守。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "テコンドー",
+      "description": "1. 片足を前に出し、膝を柔らかく、胴体を起こし、両手をガードに置いて軽快なテコンドーの戦闘の構えを取ります。\n2. 距離を変えて動き、前蹴り、回し蹴り、横蹴り、後ろ蹴りを、まっすぐな突きと基本の受けとともに練習します。\n3. 蹴りは足を下ろす前に引き戻し、方向を変える前に構えとガードを整えます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "태권도",
+      "description": "1. 한 발을 앞에 두고 무릎을 부드럽게 하며 몸통을 세우고 두 손으로 가드하는 가벼운 태권도 겨루기 자세를 취합니다.\n2. 거리를 조절하며 움직이고 앞차기, 돌려차기, 옆차기, 뒤차기를 곧은 지르기와 기본 막기와 함께 연습합니다.\n3. 발을 내리기 전에 매번 발차기를 회수하고 방향을 바꾸기 전에 자세와 가드를 회복합니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "เทควันโด",
+      "description": "1. ยืนต่อสู้เทควันโดอย่างคล่องตัว โดยเท้าหนึ่งอยู่หน้า เข่าผ่อน ลำตัวตั้งตรง และมือทั้งสองป้องกัน\n2. เคลื่อนปรับระยะและฝึกเตะตรง เตะราวด์เฮาส์ เตะข้าง และเตะหลัง ร่วมกับหมัดตรงและบล็อกพื้นฐาน\n3. ดึงทุกลูกเตะกลับตำแหน่งเตรียมก่อนลดเท้า และคืนท่ายืนกับการ์ดก่อนเปลี่ยนทิศทาง",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Тхэквондо",
+      "description": "1. Примите лёгкую боевую стойку тхэквондо: одна стопа впереди, колени мягкие, корпус вертикальный, обе руки в защите.\n2. Двигайтесь на разных дистанциях и отрабатывайте прямые, круговые, боковые удары ногами и удары назад вместе с прямыми ударами рук и основными блоками.\n3. Возвращайте каждую ударную ногу в подготовительное положение перед опусканием стопы и восстанавливайте стойку и защиту до смены направления.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Тхеквондо",
+      "description": "1. Прийміть легку бойову стійку тхеквондо: одна стопа попереду, коліна м’які, корпус вертикальний, обидві руки в захисті.\n2. Рухайтеся на різних дистанціях і відпрацьовуйте прямі, кругові, бокові удари ногами та удари назад разом із прямими ударами рук і основними блоками.\n3. Повертайте кожну ударну ногу в підготовче положення перед опусканням стопи й відновлюйте стійку та захист до зміни напрямку.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#FD7C5D",
+    "colorType": "coral",
+    "folder": "Kudo",
+    "id": "71",
+    "icon": "Kudo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Kudo",
+    "workoutType": "kudo",
+    "translations": {
+      "en": {
+        "title": "Kudo"
+      },
+      "es": {
+        "title": "Kudo"
+      },
+      "pt": {
+        "title": "Kudô"
+      },
+      "fr": {
+        "title": "Kudo"
+      },
+      "de": {
+        "title": "Kūdō"
+      },
+      "it": {
+        "title": "Kudo"
+      },
+      "zh-Hans": {
+        "title": "空道"
+      },
+      "ja": {
+        "title": "空道"
+      },
+      "ko": {
+        "title": "쿠도"
+      },
+      "th": {
+        "title": "คูโด"
+      },
+      "ru": {
+        "title": "Кудо"
+      },
+      "uk": {
+        "title": "Кудо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Kudo/exercises/kudo/Icon.png",
+      "json": "Kudo/exercises/kudo/kudo.json"
+    },
+    {
+      "icon": "Kudo/exercises/kudoKihon/Icon.png",
+      "json": "Kudo/exercises/kudoKihon/kudoKihon.json"
+    },
+    {
+      "icon": "Kudo/exercises/kudoIdou/Icon.png",
+      "json": "Kudo/exercises/kudoIdou/kudoIdou.json"
+    },
+    {
+      "icon": "Kudo/exercises/kudoNageWazaDrills/Icon.png",
+      "json": "Kudo/exercises/kudoNageWazaDrills/kudoNageWazaDrills.json"
+    },
+    {
+      "icon": "Kudo/exercises/kudoNeWazaRounds/Icon.png",
+      "json": "Kudo/exercises/kudoNeWazaRounds/kudoNeWazaRounds.json"
+    },
+    {
+      "icon": "Kudo/exercises/yakusokuKumite/Icon.png",
+      "json": "Kudo/exercises/yakusokuKumite/yakusokuKumite.json"
+    },
+    {
+      "icon": "Kudo/exercises/kudoKumite/Icon.png",
+      "json": "Kudo/exercises/kudoKumite/kudoKumite.json"
+    }
+  ]
+}

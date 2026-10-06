@@ -1,0 +1,87 @@
+{
+  "id": "8.37",
+  "key": "taekwondo_kwang_gae",
+  "title": "Kwang-Gae",
+  "description": "1. Start in parallel ready stance with heaven hand and perform the 39-movement first-degree pattern.\n2. Work through its slow-motion movements and sliding steps, mixing palm and forearm blocks with punches and kicks at controlled tempo.\n3. Finish with the closing strikes, then lower the hands and return to parallel ready stance with heaven hand.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kwang-Gae",
+      "description": "1. Start in parallel ready stance with heaven hand and perform the 39-movement first-degree pattern.\n2. Work through its slow-motion movements and sliding steps, mixing palm and forearm blocks with punches and kicks at controlled tempo.\n3. Finish with the closing strikes, then lower the hands and return to parallel ready stance with heaven hand.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Kwang-Gae",
+      "description": "1. Empieza en posición de preparación paralela con mano celestial y realiza el patrón de primer dan de 39 movimientos.\n2. Recorre sus movimientos en cámara lenta y pasos deslizados, mezclando bloqueos de palma y antebrazo con puñetazos y patadas a ritmo controlado.\n3. Termina con los golpes finales, baja las manos y vuelve a la posición de preparación paralela con mano celestial.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Kwang-Gae",
+      "description": "1. Comece na posição de preparação paralela com mão celestial e execute o padrão de primeiro dan de 39 movimentos.\n2. Percorra os movimentos em câmera lenta e os passos deslizados, misturando bloqueios de palma e antebraço com socos e chutes em ritmo controlado.\n3. Termine com os golpes finais, baixe as mãos e volte à posição de preparação paralela com mão celestial.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Kwang-Gae",
+      "description": "1. Partez en position de préparation parallèle main céleste et exécutez l’enchaînement de premier dan de 39 mouvements.\n2. Enchaînez ses mouvements au ralenti et ses pas glissés, en mêlant blocages paume et avant-bras, coups de poing et coups de pied à tempo contrôlé.\n3. Terminez par les frappes finales, abaissez les mains et revenez en position de préparation parallèle main céleste.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Kwang-Gae",
+      "description": "1. Beginne im parallelen Bereitschaftsstand mit Himmelshand und laufe die 39 Bewegungen der Form zum 1. Dan.\n2. Arbeite die Zeitlupenbewegungen und Gleitschritte durch und verbinde Handflächen- und Unterarmblocks mit Fauststößen und Tritten in kontrolliertem Tempo.\n3. Schließe mit den Abschlussschlägen ab, senke die Hände und kehre in den parallelen Bereitschaftsstand mit Himmelshand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Kwang-Gae",
+      "description": "1. Parti dalla posizione di pronti parallela con mano celeste ed esegui la forma di primo dan di 39 movimenti.\n2. Esegui i movimenti al rallentatore e i passi scivolati, alternando parate di palmo e d’avambraccio a pugni e calci a ritmo controllato.\n3. Concludi con i colpi finali, abbassa le mani e torna alla posizione di pronti parallela con mano celeste.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "广开型（Kwang-Gae）",
+      "description": "1. 以平行天手预备式开始，完成39个动作的一段型。\n2. 完成其中的慢动作与滑步，将掌挡、前臂格挡与冲拳和踢腿以受控节奏结合。\n3. 以收尾击打结束，放下双手回到平行天手预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "クァンゲ（広開）",
+      "description": "1. 天手の平行準備立ちから始め、初段の39動作の型を行います。\n2. スローモーションの動作と滑り足を通し、掌受けや腕受けを突きや蹴りと抑えたテンポで組み合わせます。\n3. 締めの打ちで終え、手を下ろして天手の平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "광개",
+      "description": "1. 하늘손 나란히 준비서기에서 시작해 1단 39동작 틀을 수행합니다.\n2. 느린 동작과 미끄러지는 발놀림을 거치며 손바닥 막기와 팔목 막기를 지르기와 차기와 함께 조절된 속도로 합니다.\n3. 마무리 치기로 끝내고 손을 내려 하늘손 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "ควังแก",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนานพร้อมมือฟ้าและทำรูปแบบระดับดั้ง 1 จำนวน 39 จังหวะ\n2. ทำท่าเคลื่อนไหวช้าและก้าวไถล ผสมการปัดด้วยฝ่ามือและแขนกับหมัดและเตะในจังหวะที่ควบคุม\n3. จบด้วยการโจมตีปิดท้าย ลดมือลงและกลับสู่ท่ายืนเตรียมแบบขนานพร้อมมือฟ้า",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Кванге",
+      "description": "1. Начните из параллельной готовой стойки с «небесной рукой» и выполните туль первого дана из 39 движений.\n2. Пройдите его замедленные движения и скользящие шаги, сочетая блоки ладонью и предплечьем с ударами руками и ногами в контролируемом темпе.\n3. Завершите заключительными ударами, опустите руки и вернитесь в параллельную готовую стойку с «небесной рукой».",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Кванге",
+      "description": "1. Почніть із паралельної готової стійки з «небесною рукою» й виконайте туль першого дану з 39 рухів.\n2. Пройдіть його уповільнені рухи та ковзні кроки, поєднуючи блоки долонею й передпліччям з ударами руками й ногами в контрольованому темпі.\n3. Завершіть завершальними ударами, опустіть руки й поверніться в паралельну готову стійку з «небесною рукою».",
+      "sectionTitle": "Форми"
+    }
+  }
+}

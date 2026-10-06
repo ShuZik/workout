@@ -1,0 +1,87 @@
+{
+  "id": "100.1",
+  "key": "taido_main",
+  "title": "Taido",
+  "description": "1. Stand in a light taido stance with the hands guarding and the knees ready to change level or angle.\n2. Move with unsoku footwork and combine strikes and kicks with the five body actions: spinning (sen), wave (un), axis change (hen), twisting (nen), and rolling (ten), within your ability.\n3. Return to stance after every technique, keep the head off the floor during rolls, and work on mats for any acrobatic movement.",
+  "colorType": "orange",
+  "workoutType": "taido",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taido",
+      "description": "1. Stand in a light taido stance with the hands guarding and the knees ready to change level or angle.\n2. Move with unsoku footwork and combine strikes and kicks with the five body actions: spinning (sen), wave (un), axis change (hen), twisting (nen), and rolling (ten), within your ability.\n3. Return to stance after every technique, keep the head off the floor during rolls, and work on mats for any acrobatic movement.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Taido",
+      "description": "1. Ponte en una guardia ligera de taido con las manos protegiendo y las rodillas listas para cambiar de nivel o ángulo.\n2. Desplázate con unsoku y combina golpes y patadas con las cinco acciones corporales: giro (sen), onda (un), cambio de eje (hen), torsión (nen) y rodada (ten), según tu nivel.\n3. Vuelve a la guardia tras cada técnica, no apoyes la cabeza al rodar y trabaja sobre tatami cualquier movimiento acrobático.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Taido",
+      "description": "1. Fique numa base leve de taido com as mãos em guarda e os joelhos prontos para mudar de nível ou ângulo.\n2. Desloque-se com unsoku e combine golpes e chutes com as cinco ações corporais: giro (sen), onda (un), troca de eixo (hen), torção (nen) e rolamento (ten), conforme seu nível.\n3. Volte à base após cada técnica, não apoie a cabeça nos rolamentos e faça movimentos acrobáticos sobre tatame.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Taido",
+      "description": "1. Placez-vous dans une garde légère de taido, mains en protection, genoux prêts à changer de niveau ou d’angle.\n2. Déplacez-vous en unsoku et combinez frappes et coups de pied avec les cinq actions du corps : rotation (sen), vague (un), changement d’axe (hen), torsion (nen) et roulade (ten), selon votre niveau.\n3. Revenez en garde après chaque technique, gardez la tête hors du sol pendant les roulades et travaillez sur tatami tout mouvement acrobatique.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Taido",
+      "description": "1. Stehe in einer leichten Taido-Stellung, Hände in Deckung, Knie bereit für Höhen- oder Winkelwechsel.\n2. Bewege dich mit Unsoku-Schritten und kombiniere Schläge und Tritte mit den fünf Körperaktionen: Drehung (Sen), Welle (Un), Achswechsel (Hen), Verwindung (Nen) und Rollen (Ten), je nach Können.\n3. Nach jeder Technik in die Stellung zurück, beim Rollen den Kopf vom Boden halten und akrobatische Bewegungen nur auf Matten üben.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Taido",
+      "description": "1. Mettiti in una guardia leggera di taido con le mani a protezione e le ginocchia pronte a cambiare livello o angolo.\n2. Muoviti con unsoku e combina colpi e calci con le cinque azioni del corpo: rotazione (sen), onda (un), cambio d’asse (hen), torsione (nen) e rotolamento (ten), secondo il tuo livello.\n3. Torna in guardia dopo ogni tecnica, tieni la testa lontana dal suolo nei rotolamenti e fai i movimenti acrobatici sui tatami.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "躰道",
+      "description": "1. 以轻快的躰道架势站立，双手护体，双膝随时准备改变高度或角度。\n2. 以运足移动，按自身水平将拳脚与五种身体动作结合：旋（纵旋）、运（波动）、变（变轴）、捻（横旋）、转（翻滚）。\n3. 每个技术后回到架势，翻滚时头部不着地，任何技巧性动作都在垫上练习。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "躰道",
+      "description": "1. 手で守り、膝を高さや角度の変化に備えた軽い躰道の構えで立ちます。\n2. 運足で動き、突き・蹴りを旋・運・変・捻・転の五つの体の動きと、自分の力量の範囲で組み合わせます。\n3. 技ごとに構えに戻り、転の動きでは頭を床に付けず、アクロバット的な動きはマットの上で行います。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "다이도",
+      "description": "1. 손으로 방어하고 무릎은 높이나 각도를 바꿀 준비를 한 가벼운 다이도 자세로 섭니다.\n2. 운소쿠 발놀림으로 움직이며 치기와 차기를 다섯 가지 몸동작, 즉 선(세로 회전), 운(물결), 변(축 변화), 념(가로 비틀기), 전(구르기)과 실력 범위 안에서 결합합니다.\n3. 기술마다 자세로 돌아오고 구를 때 머리가 바닥에 닿지 않게 하며 곡예 동작은 매트 위에서만 합니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ไทโด",
+      "description": "1. ยืนในท่าไทโดเบาๆ มือป้องกัน เข่าพร้อมเปลี่ยนระดับหรือมุม\n2. เคลื่อนที่ด้วยอุนโซคุ และผสมหมัดกับเตะเข้ากับการเคลื่อนไหวห้าแบบ: หมุนแนวตั้ง (เซ็น) คลื่น (อุน) เปลี่ยนแกน (เฮ็น) บิดแนวนอน (เน็น) และกลิ้ง (เท็น) ตามความสามารถ\n3. กลับสู่ท่าหลังทุกเทคนิค ไม่ให้ศีรษะแตะพื้นขณะกลิ้ง และฝึกท่ากายกรรมบนเบาะเท่านั้น",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Тайдо",
+      "description": "1. Встаньте в лёгкую стойку тайдо, руки защищают, колени готовы менять уровень или угол.\n2. Перемещайтесь шагами унсоку и сочетайте удары руками и ногами с пятью движениями тела: вращение (сэн), волна (ун), смена оси (хэн), скручивание (нэн) и перекат (тэн) в пределах своих возможностей.\n3. Возвращайтесь в стойку после каждой техники, не касайтесь головой пола при перекатах и выполняйте акробатику только на матах.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Тайдо",
+      "description": "1. Станьте в легку стійку тайдо, руки захищають, коліна готові змінювати рівень або кут.\n2. Пересувайтеся кроками унсоку й поєднуйте удари руками й ногами з п’ятьма рухами тіла: обертання (сен), хвиля (ун), зміна осі (хен), скручування (нен) і перекид (тен) у межах своїх можливостей.\n3. Повертайтеся в стійку після кожної техніки, не торкайтеся головою підлоги під час перекидів і виконуйте акробатику лише на матах.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

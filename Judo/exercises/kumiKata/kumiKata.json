@@ -1,0 +1,90 @@
+{
+  "id": "41.8",
+  "key": "judo_kumi_kata",
+  "title": "Kumi Kata",
+  "description": "1. Face a trained partner in natural posture and take a relaxed sleeve grip with one hand and lapel grip with the other.\n2. Use small steps and forearm position to improve the grips without stiffening both arms or bending at the waist.\n3. Release and regrip without twisting fingers, keeping the head upright and both athletes balanced.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Movement",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Kumi Kata",
+      "description": "1. Face a trained partner in natural posture and take a relaxed sleeve grip with one hand and lapel grip with the other.\n2. Use small steps and forearm position to improve the grips without stiffening both arms or bending at the waist.\n3. Release and regrip without twisting fingers, keeping the head upright and both athletes balanced.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Kumi Kata",
+      "description": "1. Mira a un compañero entrenado en postura natural y toma un agarre relajado de la manga con una mano y de la solapa con la otra.\n2. Usa pasos pequeños y la posición de los antebrazos para mejorar los agarres sin tensar ambos brazos ni doblarte por la cintura.\n3. Suelta y vuelve a agarrar sin torcer los dedos, manteniendo la cabeza erguida y el equilibrio de ambos.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Kumi Kata",
+      "description": "1. Encare um parceiro treinado em postura natural e segure a manga de forma relaxada com uma mão e a lapela com a outra.\n2. Use passos pequenos e a posição dos antebraços para melhorar as pegadas sem endurecer os dois braços nem dobrar a cintura.\n3. Solte e refaça a pegada sem torcer os dedos, mantendo a cabeça erguida e ambos equilibrados.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Kumi Kata",
+      "description": "1. Faites face à un partenaire entraîné en posture naturelle et prenez une prise détendue sur la manche d’une main et sur le revers de l’autre.\n2. Utilisez de petits pas et la position des avant-bras pour améliorer les prises sans raidir les deux bras ni vous plier à la taille.\n3. Relâchez et reprenez les prises sans tordre les doigts, en gardant la tête droite et les deux athlètes équilibrés.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Kumi Kata",
+      "description": "1. Stehe einem geschulten Partner in natürlicher Haltung gegenüber und greife entspannt mit einer Hand den Ärmel und mit der anderen das Revers.\n2. Verbessere die Griffe mit kleinen Schritten und der Unterarmposition, ohne beide Arme zu versteifen oder dich in der Taille zu beugen.\n3. Löse und erneuere die Griffe ohne Verdrehen der Finger; halte den Kopf aufrecht und beide Athleten im Gleichgewicht.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Kumi Kata",
+      "description": "1. Rivolgiti a un compagno allenato in postura naturale e afferra senza tensione la manica con una mano e il bavero con l’altra.\n2. Usa piccoli passi e la posizione degli avambracci per migliorare le prese senza irrigidire entrambe le braccia né piegarti alla vita.\n3. Rilascia e riprendi le prese senza torcere le dita, mantenendo la testa eretta e l’equilibrio di entrambi.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "组手",
+      "description": "1. 以自然姿势面对受过训练的搭档，一手轻握袖口，另一手握衣领。\n2. 用小步移动和前臂位置改善抓握，不要绷直双臂或弯腰。\n3. 松开并重新抓握，不要扭拧手指，保持头部直立和双方平衡。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "組み方",
+      "description": "1. 訓練を受けた相手と自然体で向き合い、片手で袖、もう一方で襟を力まずに握ります。\n2. 小さな歩みと前腕の位置で組み手を改善し、両腕を硬くしたり腰からかがんだりしません。\n3. 指をひねらずに放して握り直し、頭を上げて双方のバランスを保ちます。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "쿠미 카타",
+      "description": "1. 숙련된 파트너와 자연스러운 자세로 마주 보고 한 손으로 소매를, 다른 손으로 옷깃을 편안하게 잡습니다.\n2. 작은 걸음과 전완 위치로 잡기를 개선하되 두 팔을 뻣뻣하게 하거나 허리를 굽히지 않습니다.\n3. 손가락을 비틀지 않고 놓았다 다시 잡으며 머리를 세우고 두 사람의 균형을 유지합니다.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "คุมิคาตะ",
+      "description": "1. ยืนในท่าธรรมชาติหันหน้าเข้าหาคู่ฝึกที่ผ่านการฝึก ใช้มือหนึ่งจับแขนเสื้อและอีกมือจับปกเสื้ออย่างผ่อนคลาย\n2. ใช้ก้าวสั้นและตำแหน่งท่อนแขนปรับการจับ โดยไม่เกร็งแขนทั้งสองหรือก้มจากเอว\n3. ปล่อยและจับใหม่โดยไม่บิดนิ้ว รักษาศีรษะให้ตั้งตรงและให้ทั้งสองคนทรงตัวได้",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Куми-ката",
+      "description": "1. Встаньте лицом к подготовленному партнёру в естественной стойке и расслабленно захватите рукав одной рукой, а отворот другой.\n2. Улучшайте захваты небольшими шагами и положением предплечий, не напрягая обе руки и не сгибаясь в пояснице.\n3. Отпускайте и перехватывайте без выкручивания пальцев, держа голову прямо и сохраняя равновесие обоих спортсменов.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Кумі-ката",
+      "description": "1. Станьте обличчям до підготовленого партнера в природній стійці й розслаблено захопіть рукав однією рукою, а відворот іншою.\n2. Поліпшуйте захвати невеликими кроками й положенням передпліч, не напружуючи обидві руки й не згинаючись у попереку.\n3. Відпускайте й перехоплюйте без викручування пальців, тримаючи голову прямо та зберігаючи рівновагу обох спортсменів.",
+      "sectionTitle": "Пересування"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "3.41",
+  "key": "kick_boxing_side_knee_kick",
+  "title": "Side Knee Kick",
+  "description": "1. From close guard, shift weight onto the supporting leg and lift the striking knee out to the side with the foot pulled back.\n2. Pivot the supporting foot and rotate the hip so the knee travels on a horizontal arc into the side of a body pad.\n3. Withdraw the knee along the same arc and place the foot back into stance with the hands still guarding.",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Kicks",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Side Knee Kick",
+      "description": "1. From close guard, shift weight onto the supporting leg and lift the striking knee out to the side with the foot pulled back.\n2. Pivot the supporting foot and rotate the hip so the knee travels on a horizontal arc into the side of a body pad.\n3. Withdraw the knee along the same arc and place the foot back into stance with the hands still guarding.",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Rodillazo lateral",
+      "description": "1. Desde la guardia corta, pasa el peso a la pierna de apoyo y eleva la rodilla de golpeo hacia un lado con el pie recogido.\n2. Pivota el pie de apoyo y gira la cadera para que la rodilla recorra un arco horizontal hasta el lateral de un escudo.\n3. Retira la rodilla por el mismo arco y devuelve el pie a la postura con las manos en guardia.",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Joelhada lateral",
+      "description": "1. Da guarda curta, passe o peso para a perna de apoio e eleve o joelho de ataque para o lado com o pé recolhido.\n2. Gire o pé de apoio e o quadril para que o joelho descreva um arco horizontal até a lateral de um aparador.\n3. Recolha o joelho pelo mesmo arco e devolva o pé à base com as mãos na guarda.",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de genou latéral",
+      "description": "1. Depuis la garde rapprochée, transférez le poids sur la jambe d’appui et levez le genou de frappe sur le côté, pied ramené.\n2. Pivotez sur le pied d’appui et tournez la hanche pour que le genou décrive un arc horizontal jusqu’au flanc d’un bouclier.\n3. Retirez le genou par le même arc et reposez le pied en garde, mains toujours hautes.",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Seitliches Knie",
+      "description": "1. Verlagere aus enger Deckung das Gewicht auf das Standbein und hebe das Schlagknie seitlich an, den Fuß zurückgezogen.\n2. Drehe den Standfuß und die Hüfte, sodass das Knie auf einem waagerechten Bogen seitlich in ein Schlagpolster trifft.\n3. Ziehe das Knie auf demselben Bogen zurück und setze den Fuß mit erhobener Deckung in die Stellung.",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Ginocchiata laterale",
+      "description": "1. Dalla guardia ravvicinata, sposta il peso sulla gamba d’appoggio e solleva lateralmente il ginocchio che colpisce, piede richiamato.\n2. Ruota il piede d’appoggio e l’anca così che il ginocchio descriva un arco orizzontale sul fianco di un colpitore.\n3. Ritira il ginocchio sullo stesso arco e rimetti il piede in posizione con le mani in guardia.",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "侧膝撞",
+      "description": "1. 近距离防守位，把重心移到支撑腿，攻击腿膝盖向侧面抬起，脚向后收。\n2. 转动支撑脚并转髋，使膝盖沿水平弧线撞向脚靶侧面。\n3. 膝盖沿同一弧线收回，脚落回站姿，双手保持防守。",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "サイドニー",
+      "description": "1. 接近したガードから軸足に体重を移し、攻撃側の膝を横に上げて足を後ろに引きます。\n2. 軸足を回して腰をひねり、膝を水平の弧でミットの側面に当てます。\n3. 同じ弧で膝を戻し、ガードを保ったまま足を構えに戻します。",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "사이드 니킥",
+      "description": "1. 가까운 가드에서 지지 다리로 체중을 옮기고 공격할 무릎을 옆으로 들어 발을 뒤로 당깁니다.\n2. 지지 발을 돌리고 엉덩이를 회전해 무릎이 수평 호를 그리며 미트 옆면을 치게 합니다.\n3. 같은 호로 무릎을 거두고 가드를 유지한 채 발을 자세로 되돌립니다.",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เข่าโค้งด้านข้าง",
+      "description": "1. จากการ์ดระยะใกล้ ย้ายน้ำหนักไปขายืนและยกเข่าที่จะตีออกด้านข้าง ดึงเท้าไปด้านหลัง\n2. หมุนเท้ายืนและบิดสะโพกให้เข่าโค้งเป็นแนวนอนเข้าด้านข้างของเป้า\n3. ดึงเข่ากลับตามแนวโค้งเดิมและวางเท้าลงท่ายืนโดยมือยังการ์ด",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Боковой удар коленом",
+      "description": "1. Из ближней защиты перенесите вес на опорную ногу и поднимите ударное колено в сторону, отведя стопу назад.\n2. Развернитесь на опорной стопе и поверните таз так, чтобы колено по горизонтальной дуге вошло в бок лапы.\n3. Верните колено по той же дуге и поставьте ногу в стойку, не опуская защиту.",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Бічний удар коліном",
+      "description": "1. Із ближнього захисту перенесіть вагу на опорну ногу й підніміть ударне коліно вбік, відвівши стопу назад.\n2. Розверніться на опорній стопі й поверніть таз так, щоб коліно горизонтальною дугою ввійшло в бік лапи.\n3. Поверніть коліно тією самою дугою й поставте ногу в стійку, не опускаючи захист.",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "54.17",
+  "key": "fencing_croise",
+  "title": "Croisé",
+  "description": "1. Engage the partner's extended blade in a high line with your strong on the partner's weak.\n2. Carry the partner's blade straight down to the low line on the same side, for example sixte to octave, keeping firm contact and your hand slightly higher.\n3. Extend and lunge to hit in the low line while controlling the blade, recover to en garde, and swap roles after the set.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "3 Blade Actions",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Croisé",
+      "description": "1. Engage the partner's extended blade in a high line with your strong on the partner's weak.\n2. Carry the partner's blade straight down to the low line on the same side, for example sixte to octave, keeping firm contact and your hand slightly higher.\n3. Extend and lunge to hit in the low line while controlling the blade, recover to en garde, and swap roles after the set.",
+      "sectionTitle": "Blade Actions"
+    },
+    "es": {
+      "title": "Croisé",
+      "description": "1. Engancha la hoja extendida del compañero en una línea alta con tu fuerte sobre su débil.\n2. Lleva su hoja recta hacia abajo a la línea baja del mismo lado, por ejemplo de sexta a octava, con contacto firme y tu mano algo más alta.\n3. Extiende y tira a fondo para tocar en la línea baja controlando la hoja, vuelve a guardia e intercambia papeles tras la serie.",
+      "sectionTitle": "Acciones de hoja"
+    },
+    "pt": {
+      "title": "Croisé",
+      "description": "1. Engaje a lâmina estendida do parceiro numa linha alta com seu forte sobre o fraco dele.\n2. Leve a lâmina dele reta para baixo à linha baixa do mesmo lado, por exemplo de sexta para oitava, com contato firme e sua mão um pouco mais alta.\n3. Estenda e afunde para tocar na linha baixa controlando a lâmina, volte à guarda e troque papéis após a série.",
+      "sectionTitle": "Ações de lâmina"
+    },
+    "fr": {
+      "title": "Croisé",
+      "description": "1. Engagez le fer allongé du partenaire en ligne haute, votre fort sur son faible.\n2. Amenez son fer droit vers la ligne basse du même côté, par exemple de sixte en octave, contact ferme et main légèrement plus haute.\n3. Allongez et fendez-vous pour toucher en ligne basse en contrôlant le fer, revenez en garde et inversez après la série.",
+      "sectionTitle": "Actions de fer"
+    },
+    "de": {
+      "title": "Croisé",
+      "description": "1. Binde die gestreckte Partnerklinge in einer hohen Linie, deine Stärke auf seiner Schwäche.\n2. Führe die Partnerklinge gerade nach unten in die tiefe Linie derselben Seite, etwa von Sixt nach Oktav, mit festem Kontakt und etwas höherer Hand.\n3. Strecke und falle aus zum Treffer in der tiefen Linie bei kontrollierter Klinge, kehre zurück und tauscht nach der Serie.",
+      "sectionTitle": "Klingenaktionen"
+    },
+    "it": {
+      "title": "Croisé (copertino basso)",
+      "description": "1. Lega la lama distesa del compagno in linea alta con il tuo forte sul suo debole.\n2. Porta la sua lama dritta verso il basso nella linea bassa dello stesso lato, per esempio da sesta a ottava, con contatto fermo e mano un po’ più alta.\n3. Distendi e affonda per toccare in linea bassa controllando la lama, torna in guardia e scambiate dopo la serie.",
+      "sectionTitle": "Azioni di lama"
+    },
+    "zh-Hans": {
+      "title": "同侧压剑（Croisé）",
+      "description": "1. 用你剑的强部压住同伴伸直之剑的弱部，在高线位接剑。\n2. 保持牢固接触、手略高，将同伴的剑直接带到同侧低线（如第六位到第八位）。\n3. 控制其剑的同时伸臂弓步刺中低线，恢复实战姿势，一组后交换角色。",
+      "sectionTitle": "剑上动作"
+    },
+    "ja": {
+      "title": "クロワゼ",
+      "description": "1. 自分の強部を相手の弱部に当て、伸ばされた相手の剣を高いラインでアンガージュします。\n2. しっかり接触を保ち手をやや高くして、相手の剣を同じ側の低いライン（例：シクストからオクターブ）へまっすぐ運びます。\n3. 剣を制しながら腕を伸ばして低いラインへファントで突き、アンガルドに戻り、セット後に交代します。",
+      "sectionTitle": "ブレードアクション"
+    },
+    "ko": {
+      "title": "크루아제",
+      "description": "1. 내 강부를 파트너 약부에 대고 뻗은 파트너 칼을 높은 라인에서 인게이지합니다.\n2. 단단한 접촉을 유지하고 손을 약간 높게 하여 파트너 칼을 같은 쪽 낮은 라인(예: 식스트에서 옥타브)으로 곧게 내립니다.\n3. 칼을 제어하며 팔을 뻗어 낮은 라인으로 런지해 찌르고 앙가르드로 돌아와 세트 후 역할을 바꿉니다.",
+      "sectionTitle": "블레이드 액션"
+    },
+    "th": {
+      "title": "ครัวเซ",
+      "description": "1. แตะใบดาบที่เหยียดของคู่ฝึกในแนวสูง ใช้ส่วนแข็งของคุณกดส่วนอ่อนของเขา\n2. พาใบดาบคู่ฝึกลงตรงไปยังแนวต่ำด้านเดียวกัน เช่น จากซิกซ์ต์ไปอ็อกเทฟ โดยสัมผัสแน่นและมือสูงกว่าเล็กน้อย\n3. เหยียดแขนแล้วลันจ์แทงในแนวต่ำขณะควบคุมดาบ กลับสู่อองการ์ด และสลับบทบาทหลังจบชุด",
+      "sectionTitle": "การใช้ใบดาบ"
+    },
+    "ru": {
+      "title": "Круазе",
+      "description": "1. Возьмите соединение с выпрямленным клинком партнёра в верхней линии, сильной частью на его слабую.\n2. Переведите клинок партнёра прямо вниз в нижнюю линию той же стороны, например из шестой в восьмую, с плотным контактом и чуть более высокой кистью.\n3. Выпрямите руку и выпадом нанесите укол в нижнюю линию, контролируя клинок, вернитесь в стойку и поменяйтесь ролями.",
+      "sectionTitle": "Действия клинком"
+    },
+    "uk": {
+      "title": "Круазе",
+      "description": "1. Візьміть з’єднання з випрямленим клинком партнера у верхній лінії, сильною частиною на його слабку.\n2. Переведіть клинок партнера прямо вниз у нижню лінію того самого боку, наприклад із шостої у восьму, із щільним контактом і трохи вищою кистю.\n3. Випряміть руку й випадом завдайте уколу в нижню лінію, контролюючи клинок, поверніться в стійку й поміняйтеся ролями.",
+      "sectionTitle": "Дії клинком"
+    }
+  }
+}

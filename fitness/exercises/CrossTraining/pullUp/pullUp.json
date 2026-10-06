@@ -21,5 +21,67 @@
   "section": "2 Bodyweight",
   "availableFrom": "1.1.2",
   "availableUntil": null,
-  "state": "intense"
+  "state": "intense",
+  "translations": {
+    "en": {
+      "title": "Pull-Up",
+      "description": "1. Hang from a secure bar with an overhand grip slightly wider than shoulder width and the shoulders active.\n2. Drive the elbows down and pull the chest toward the bar without kicking, swinging, or craning the neck.\n3. Clear the bar with the chin, then lower under control to straight arms and an active hang.",
+      "sectionTitle": "Bodyweight"
+    },
+    "es": {
+      "title": "Dominada",
+      "description": "1. Cuélgate de una barra segura con agarre prono algo más abierto que los hombros y los hombros activos.\n2. Lleva los codos hacia abajo y tira del pecho hacia la barra sin patalear, balancearte ni estirar el cuello.\n3. Pasa la barbilla por encima de la barra y baja con control hasta estirar los brazos en un colgado activo.",
+      "sectionTitle": "Peso corporal"
+    },
+    "pt": {
+      "title": "Barra fixa",
+      "description": "1. Pendure-se em uma barra segura com pegada pronada um pouco mais aberta que os ombros e os ombros ativos.\n2. Leve os cotovelos para baixo e puxe o peito em direção à barra sem chutar, balançar ou esticar o pescoço.\n3. Passe o queixo acima da barra e desça com controle até os braços estendidos em suspensão ativa.",
+      "sectionTitle": "Peso corporal"
+    },
+    "fr": {
+      "title": "Traction",
+      "description": "1. Suspendez-vous à une barre sûre en pronation, mains un peu plus larges que les épaules, épaules actives.\n2. Tirez les coudes vers le bas et amenez la poitrine vers la barre sans battre des jambes, vous balancer ni tendre le cou.\n3. Passez le menton au-dessus de la barre, puis redescendez avec contrôle jusqu’aux bras tendus en suspension active.",
+      "sectionTitle": "Poids du corps"
+    },
+    "de": {
+      "title": "Klimmzug",
+      "description": "1. Häng dich im Obergriff, etwas breiter als schulterbreit, an eine sichere Stange und halte die Schultern aktiv.\n2. Zieh die Ellenbogen nach unten und die Brust zur Stange, ohne zu strampeln, zu schwingen oder den Hals zu recken.\n3. Bring das Kinn über die Stange und senke dich dann kontrolliert bis zu gestreckten Armen in einen aktiven Hang ab.",
+      "sectionTitle": "Körpergewicht"
+    },
+    "it": {
+      "title": "Trazione alla sbarra",
+      "description": "1. Appenditi a una sbarra sicura con presa prona poco più larga delle spalle e spalle attive.\n2. Porta i gomiti in basso e tira il petto verso la sbarra senza scalciare, oscillare o allungare il collo.\n3. Supera la sbarra con il mento, poi scendi con controllo fino alle braccia tese in sospensione attiva.",
+      "sectionTitle": "Corpo libero"
+    },
+    "zh-Hans": {
+      "title": "引体向上",
+      "description": "1. 正握稳固的单杠，握距略宽于肩，肩部保持主动发力。\n2. 肘部向下拉，把胸部拉向单杠，不要蹬腿、摆动或伸长脖子。\n3. 下巴越过单杠，然后有控制地下放至手臂伸直的主动悬垂。",
+      "sectionTitle": "自重"
+    },
+    "ja": {
+      "title": "懸垂",
+      "description": "1. しっかり固定されたバーに肩幅よりやや広い順手でぶら下がり、肩を働かせます。\n2. 肘を下へ引き、脚を蹴ったり反動を使ったり首を伸ばしたりせずに胸をバーへ引き寄せます。\n3. 顎をバーの上まで上げ、コントロールしながら腕が伸びたアクティブなぶら下がりまで下ろします。",
+      "sectionTitle": "自重"
+    },
+    "ko": {
+      "title": "풀업",
+      "description": "1. 고정된 철봉에 어깨보다 약간 넓은 오버핸드 그립으로 매달리고 어깨를 활성화합니다.\n2. 다리를 차거나 반동을 주거나 목을 빼지 않고 팔꿈치를 아래로 당기며 가슴을 철봉 쪽으로 끌어올립니다.\n3. 턱이 철봉을 넘으면 팔이 펴진 액티브 행까지 통제하며 내려옵니다.",
+      "sectionTitle": "맨몸"
+    },
+    "th": {
+      "title": "ดึงข้อ",
+      "description": "1. ห้อยตัวจากบาร์ที่มั่นคงด้วยการจับคว่ำมือกว้างกว่าไหล่เล็กน้อย และเกร็งไหล่ให้ทำงาน\n2. ดึงข้อศอกลงและดึงอกเข้าหาบาร์ โดยไม่เตะขา แกว่งตัว หรือยืดคอ\n3. ยกคางให้พ้นบาร์ แล้วลดตัวลงอย่างควบคุมจนแขนเหยียดในท่าห้อยแบบเกร็งไหล่",
+      "sectionTitle": "น้ำหนักตัว"
+    },
+    "ru": {
+      "title": "Подтягивание",
+      "description": "1. Повисните на надёжной перекладине прямым хватом чуть шире плеч, плечи активны.\n2. Тяните локти вниз и подтягивайте грудь к перекладине, не дрыгая ногами, не раскачиваясь и не вытягивая шею.\n3. Поднимите подбородок выше перекладины, затем подконтрольно опуститесь до прямых рук в активный вис.",
+      "sectionTitle": "Собственный вес"
+    },
+    "uk": {
+      "title": "Підтягування",
+      "description": "1. Повисніть на надійній поперечині прямим хватом трохи ширше за плечі, плечі активні.\n2. Тягніть лікті вниз і підтягуйте груди до поперечини, не смикаючи ногами, не розгойдуючись і не витягуючи шию.\n3. Підніміть підборіддя вище поперечини, потім підконтрольно опустіться до прямих рук в активний вис.",
+      "sectionTitle": "Власна вага"
+    }
+  }
 }

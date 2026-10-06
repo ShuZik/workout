@@ -1,0 +1,90 @@
+{
+  "id": "12.19",
+  "key": "bootcamp_burpee",
+  "title": "Burpee",
+  "description": "1. Stand with the feet about hip-width apart, then squat and place both hands on the floor.\n2. Step or jump the feet back to a stable plank, then bring them forward outside or behind the hands.\n3. Stand tall or jump vertically, land softly, and bend the knees before starting the next repetition.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "hiit",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 5,
+    "moderate": 7,
+    "vigorous": 11,
+    "lightCode": "02008",
+    "moderateCode": "02210",
+    "vigorousCode": "02214"
+  },
+  "timerRole": "intense",
+  "difficulty": "basic",
+  "section": "3 Bootcamp",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Burpee",
+      "description": "1. Stand with the feet about hip-width apart, then squat and place both hands on the floor.\n2. Step or jump the feet back to a stable plank, then bring them forward outside or behind the hands.\n3. Stand tall or jump vertically, land softly, and bend the knees before starting the next repetition.",
+      "sectionTitle": "Bootcamp"
+    },
+    "es": {
+      "title": "Burpee",
+      "description": "1. Ponte de pie con los pies separados aproximadamente al ancho de las caderas; luego agáchate y apoya ambas manos en el suelo.\n2. Lleva los pies hacia atrás, dando un paso o saltando, hasta una plancha estable; después tráelos hacia delante, por fuera o detrás de las manos.\n3. Ponte de pie erguido o salta en vertical, aterriza con suavidad y flexiona las rodillas antes de empezar la siguiente repetición.",
+      "sectionTitle": "Bootcamp"
+    },
+    "pt": {
+      "title": "Burpee",
+      "description": "1. Fique em pé com os pés afastados mais ou menos na largura dos quadris; depois agache e apoie as duas mãos no chão.\n2. Leve os pés para trás, com um passo ou um salto, até uma prancha estável; em seguida traga-os para a frente, por fora ou atrás das mãos.\n3. Fique em pé com o corpo ereto ou salte na vertical, aterrisse com suavidade e flexione os joelhos antes de começar a próxima repetição.",
+      "sectionTitle": "Bootcamp"
+    },
+    "fr": {
+      "title": "Burpee",
+      "description": "1. Tenez-vous debout, pieds écartés environ à la largeur des hanches, puis accroupissez-vous et posez les deux mains au sol.\n2. Reculez les pieds en marchant ou en sautant jusqu'à une planche stable, puis ramenez-les vers l'avant, à l'extérieur ou derrière les mains.\n3. Redressez-vous ou sautez verticalement, réceptionnez-vous en douceur et fléchissez les genoux avant la répétition suivante.",
+      "sectionTitle": "Bootcamp"
+    },
+    "de": {
+      "title": "Burpee",
+      "description": "1. Stelle dich mit etwa hüftbreit geöffneten Füßen hin, gehe dann in die Hocke und setze beide Hände auf den Boden.\n2. Setze oder springe die Füße zurück in eine stabile Planke und bringe sie anschließend nach vorn, außen neben oder hinter die Hände.\n3. Richte dich auf oder springe senkrecht nach oben, lande weich und beuge die Knie, bevor du die nächste Wiederholung beginnst.",
+      "sectionTitle": "Bootcamp"
+    },
+    "it": {
+      "title": "Burpee",
+      "description": "1. Mettiti in piedi con i piedi distanti circa quanto le anche, poi accovacciati e appoggia entrambe le mani a terra.\n2. Porta i piedi indietro con un passo o un salto fino a un plank stabile, poi riportali in avanti, all'esterno o dietro le mani.\n3. Alzati in posizione eretta o salta in verticale, atterra morbidamente e piega le ginocchia prima di iniziare la ripetizione successiva.",
+      "sectionTitle": "Bootcamp"
+    },
+    "zh-Hans": {
+      "title": "波比跳",
+      "description": "1. 站立，双脚约与髋同宽，然后下蹲，双手撑在地面上。\n2. 双脚向后迈步或跳成稳定的平板支撑，然后将双脚收回到双手外侧或后方。\n3. 站直或垂直跳起，轻柔落地，屈膝后再开始下一次重复。",
+      "sectionTitle": "训练营"
+    },
+    "ja": {
+      "title": "バーピー",
+      "description": "1. 足を腰幅程度に開いて立ち、しゃがんで両手を床につきます。\n2. 足を後ろへ踏み出すかジャンプして安定したプランクになり、その後足を手の外側または後ろへ引き戻します。\n3. まっすぐ立ち上がるか真上にジャンプし、柔らかく着地して膝を曲げてから次の回を始めます。",
+      "sectionTitle": "ブートキャンプ"
+    },
+    "ko": {
+      "title": "버피",
+      "description": "1. 발을 골반 너비 정도로 벌리고 선 다음 쪼그려 앉아 양손을 바닥에 짚습니다.\n2. 발을 뒤로 걸어가거나 점프해 안정적인 플랭크 자세를 만든 뒤, 손 바깥쪽이나 뒤쪽으로 다시 가져옵니다.\n3. 똑바로 일어서거나 수직으로 점프하고, 부드럽게 착지하며 무릎을 굽힌 뒤 다음 반복을 시작합니다.",
+      "sectionTitle": "부트캠프"
+    },
+    "th": {
+      "title": "เบอร์พี",
+      "description": "1. ยืนโดยแยกเท้าประมาณความกว้างสะโพก จากนั้นย่อตัวลงและวางมือทั้งสองข้างบนพื้น\n2. ก้าวหรือกระโดดเท้าไปด้านหลังสู่ท่าแพลงก์ที่มั่นคง แล้วนำเท้ากลับมาด้านหน้า ไว้ด้านนอกหรือด้านหลังมือ\n3. ยืนตัวตรงหรือกระโดดขึ้นในแนวดิ่ง ลงพื้นอย่างนุ่มนวล และงอเข่าก่อนเริ่มครั้งถัดไป",
+      "sectionTitle": "บูตแคมป์"
+    },
+    "ru": {
+      "title": "Бёрпи",
+      "description": "1. Встаньте, поставив стопы примерно на ширине таза, затем присядьте и поставьте обе ладони на пол.\n2. Шагом или прыжком отведите ноги назад в устойчивую планку, затем верните их вперёд — снаружи от ладоней или позади них.\n3. Выпрямитесь или подпрыгните вертикально вверх, мягко приземлитесь и согните колени, прежде чем начать следующее повторение.",
+      "sectionTitle": "Буткемп"
+    },
+    "uk": {
+      "title": "Берпі",
+      "description": "1. Станьте, поставивши стопи приблизно на ширині таза, потім присядьте й поставте обидві долоні на підлогу.\n2. Кроком або стрибком відведіть ноги назад у стійку планку, потім поверніть їх уперед — назовні від долонь або позаду них.\n3. Випряміться або підстрибніть вертикально вгору, м'яко приземліться й зігніть коліна, перш ніж почати наступне повторення.",
+      "sectionTitle": "Буткемп"
+    }
+  }
+}

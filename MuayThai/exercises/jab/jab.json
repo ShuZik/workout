@@ -1,0 +1,90 @@
+{
+  "id": "2.2",
+  "key": "muay_thai_jab",
+  "title": "Jab",
+  "description": "1. From a high Muay Thai guard, push lightly from the rear foot and extend the lead fist straight.\n2. Turn the fist near extension, raise the lead shoulder, and keep the rear glove beside the cheek.\n3. Retract the hand along the same line and restore the more square stance before kicking or punching again.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Jab",
+      "description": "1. From a high Muay Thai guard, push lightly from the rear foot and extend the lead fist straight.\n2. Turn the fist near extension, raise the lead shoulder, and keep the rear glove beside the cheek.\n3. Retract the hand along the same line and restore the more square stance before kicking or punching again.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Jab",
+      "description": "1. Desde una guardia alta de Muay Thai, empuja suavemente con el pie trasero y extiende el puño delantero recto.\n2. Gira el puño cerca de la extensión, eleva el hombro delantero y conserva el guante trasero junto a la mejilla.\n3. Retira la mano por la misma línea y recupera la postura más frontal antes de volver a patear o golpear.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Jab",
+      "description": "1. Na guarda alta de Muay Thai, empurre levemente com o pé de trás e estenda o punho da frente reto.\n2. Gire o punho perto da extensão, eleve o ombro da frente e mantenha a luva de trás junto à bochecha.\n3. Recolha a mão pela mesma linha e recupere a base mais frontal antes de chutar ou socar novamente.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Jab",
+      "description": "1. Depuis une garde haute de muay thaï, poussez légèrement sur le pied arrière et étendez le poing avant droit.\n2. Tournez le poing près de l’extension, levez l’épaule avant et gardez le gant arrière près de la joue.\n3. Ramenez la main sur la même ligne et retrouvez une position plus de face avant de frapper à nouveau du pied ou du poing.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Jab",
+      "description": "1. Drücke aus einer hohen Muay-Thai-Deckung leicht über den hinteren Fuß und strecke die vordere Faust gerade aus.\n2. Drehe die Faust kurz vor der Streckung, hebe die vordere Schulter und halte den hinteren Handschuh an der Wange.\n3. Ziehe die Hand auf derselben Linie zurück und stelle die frontalere Stellung vor dem nächsten Tritt oder Schlag wieder her.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Jab",
+      "description": "1. Da una guardia alta di Muay Thai, spingi leggermente sul piede posteriore ed estendi il pugno anteriore diritto.\n2. Ruota il pugno vicino all’estensione, solleva la spalla anteriore e mantieni il guantone posteriore accanto alla guancia.\n3. Ritira la mano lungo la stessa linea e ripristina la posizione più frontale prima di calciare o colpire ancora.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "刺拳",
+      "description": "1. 从高位泰拳防守开始，后脚轻蹬，前拳直线伸出。\n2. 接近伸展时转拳，抬起前肩，后拳套保持在脸颊旁。\n3. 手沿同一路线收回，再次踢击或出拳前恢复更正面的站姿。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ジャブ",
+      "description": "1. ムエタイの高いガードから後足で軽く押し、前の拳をまっすぐ伸ばします。\n2. 伸びきる直前に拳を回し、前の肩を上げ、後ろのグローブを頬の横に保ちます。\n3. 手を同じ線で引き戻し、次の蹴りやパンチの前により正面向きの構えを整えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "잽",
+      "description": "1. 높은 무에타이 가드에서 뒷발로 가볍게 밀고 앞손 주먹을 곧게 뻗습니다。\n2. 펴지는 지점 가까이에서 주먹을 돌리고 앞어깨를 올리며 뒷글러브는 볼 옆에 둡니다.\n3. 같은 선으로 손을 거두고 다시 차거나 치기 전에 몸을 더 정면으로 둔 자세를 회복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "แย็บ",
+      "description": "1. จากการ์ดมวยไทยสูง ดันด้วยเท้าหลังเบา ๆ และเหยียดหมัดหน้าตรง\n2. หมุนหมัดใกล้จุดเหยียดสุด ยกไหล่หน้า และให้นวมหลังอยู่ข้างแก้ม\n3. ดึงมือกลับตามแนวเดิม และคืนท่ายืนที่หันตรงมากขึ้นก่อนเตะหรือชกอีกครั้ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Джеб",
+      "description": "1. Из высокой защиты муай-тай слегка оттолкнитесь задней стопой и вытяните передний кулак прямо.\n2. Поверните кулак ближе к разгибанию, поднимите переднее плечо и держите заднюю перчатку рядом со щекой.\n3. Уберите руку по той же линии и восстановите более фронтальную стойку перед следующим ударом ногой или рукой.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Джеб",
+      "description": "1. Із високого захисту муай-тай злегка відштовхніться задньою стопою й витягніть передній кулак прямо.\n2. Поверніть кулак ближче до розгинання, підніміть переднє плече й тримайте задню рукавичку поруч зі щокою.\n3. Приберіть руку тією самою лінією й відновіть більш фронтальну стійку перед наступним ударом ногою або рукою.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

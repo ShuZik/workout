@@ -1,0 +1,87 @@
+{
+  "id": "72.1",
+  "key": "kuk_sool_won_main",
+  "title": "Kuk Sool Won",
+  "description": "1. Begin in a ready stance on mats with the knees soft, the back upright, and the hands in front of the body.\n2. Practice basic stances, hand strikes, kicks, and falls, then cooperative wrist-release and joint-control techniques with a trained partner.\n3. Apply every lock slowly, release at the first tap or signal, and finish each set back in ready stance.",
+  "colorType": "yellow",
+  "workoutType": "kukSoolWon",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Kuk Sool Won",
+      "description": "1. Begin in a ready stance on mats with the knees soft, the back upright, and the hands in front of the body.\n2. Practice basic stances, hand strikes, kicks, and falls, then cooperative wrist-release and joint-control techniques with a trained partner.\n3. Apply every lock slowly, release at the first tap or signal, and finish each set back in ready stance.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Kuk Sool Won",
+      "description": "1. Comienza en posición de preparación sobre colchonetas con rodillas blandas, espalda erguida y manos delante del cuerpo.\n2. Practica posiciones básicas, golpes de mano, patadas y caídas, y luego liberaciones de muñeca y controles articulares cooperativos con un compañero entrenado.\n3. Aplica cada luxación despacio, suelta a la primera palmada o señal y termina cada serie en posición de preparación.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Kuk Sool Won",
+      "description": "1. Comece em prontidão sobre tatames com joelhos soltos, costas eretas e mãos à frente do corpo.\n2. Pratique bases, golpes de mão, chutes e quedas, e depois liberações de punho e controles articulares cooperativos com um parceiro treinado.\n3. Aplique cada chave devagar, solte ao primeiro toque ou sinal e termine cada série em prontidão.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Kuk Sool Won",
+      "description": "1. Commencez en position prête sur tapis, genoux souples, dos droit, mains devant le corps.\n2. Travaillez positions de base, frappes de main, coups de pied et chutes, puis dégagements de poignet et contrôles articulaires coopératifs avec un partenaire entraîné.\n3. Appliquez chaque clé lentement, relâchez à la première tape ou au premier signal et terminez chaque série en position prête.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Kuk Sool Won",
+      "description": "1. Auf Matten in Bereitschaftsstellung beginnen, Knie weich, Rücken aufrecht, Hände vor dem Körper.\n2. Grundstellungen, Handschläge, Tritte und Fallübungen üben, dann kooperative Handgelenkbefreiungen und Gelenkkontrollen mit einem geübten Partner.\n3. Jeden Hebel langsam ansetzen, beim ersten Abklopfen oder Signal lösen und jeden Satz in Bereitschaftsstellung beenden.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Kuk Sool Won",
+      "description": "1. Inizia in posizione di attesa sul tatami con ginocchia morbide, schiena eretta e mani davanti al corpo.\n2. Pratica posizioni di base, colpi di mano, calci e cadute, poi liberazioni del polso e controlli articolari cooperativi con un partner allenato.\n3. Applica ogni leva lentamente, rilascia al primo battito o segnale e termina ogni serie in posizione di attesa.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "国术院",
+      "description": "1. 在垫子上以准备式开始，膝盖微屈，背部挺直，双手置于身前。\n2. 练习基本站姿、手击、踢法和倒法，然后与训练有素的同伴合作练习解腕和关节控制技术。\n3. 每个关节技都缓慢施加，对方一拍或示意立即松开，每组结束回到准备式。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "クッスルウォン（国術院）",
+      "description": "1. マットの上で膝を柔らかく、背筋を伸ばし、手を体の前に置いた準備の姿勢から始めます。\n2. 基本の立ち方、手技、蹴り、受け身を練習し、続いて訓練を積んだ相手と協力して手首外しと関節技を練習します。\n3. 関節技はすべてゆっくりかけ、最初のタップや合図で放し、各セットを準備の姿勢で終えます。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "국술원",
+      "description": "1. 매트 위에서 무릎을 부드럽게, 등을 곧게 하고 손을 몸 앞에 둔 준비 자세로 시작합니다.\n2. 기본 자세, 손 기술, 발차기, 낙법을 연습한 뒤 숙련된 짝과 협력하여 손목 풀기와 관절 꺾기 기술을 연습합니다.\n3. 모든 꺾기는 천천히 걸고 첫 탭이나 신호에 즉시 풀며 각 세트를 준비 자세로 마칩니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "กุกซุลวอน",
+      "description": "1. เริ่มในท่าเตรียมบนเบาะ เข่างอเล็กน้อย หลังตรง และมืออยู่หน้าลำตัว\n2. ฝึกท่ายืนพื้นฐาน การตีด้วยมือ การเตะ และการล้ม แล้วฝึกการแกะข้อมือและควบคุมข้อต่อแบบร่วมมือกับคู่ที่ฝึกมาแล้ว\n3. ล็อกทุกครั้งอย่างช้าๆ ปล่อยทันทีเมื่อคู่ตบหรือส่งสัญญาณ และจบแต่ละเซตในท่าเตรียม",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Куксульвон",
+      "description": "1. Начните в стойке готовности на татами, колени мягкие, спина прямая, руки перед корпусом.\n2. Отрабатывайте базовые стойки, удары руками и ногами, падения, затем кооперативные освобождения запястья и болевые контроли с подготовленным партнёром.\n3. Каждый залом проводите медленно, отпускайте при первом хлопке или сигнале и заканчивайте каждую серию в стойке готовности.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Куксульвон",
+      "description": "1. Почніть у стійці готовності на татамі, коліна м’які, спина пряма, руки перед корпусом.\n2. Відпрацьовуйте базові стійки, удари руками й ногами, падіння, потім кооперативні звільнення зап’ястка й больові контролі з підготовленим партнером.\n3. Кожен залом проводьте повільно, відпускайте при першому плесканні чи сигналі й закінчуйте кожну серію в стійці готовності.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

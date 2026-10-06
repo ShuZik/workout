@@ -1,0 +1,90 @@
+{
+  "id": "13.72",
+  "key": "functional_step_up",
+  "title": "Step-Up",
+  "description": "1. Face a stable step and place the whole lead foot on top with the knee aligned over the toes.\n2. Drive through the lead foot to raise the body without pushing off strongly from the trailing leg.\n3. Stand tall on the step, then lower the trailing foot and lead foot under control before switching sides.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Step-Up",
+      "description": "1. Face a stable step and place the whole lead foot on top with the knee aligned over the toes.\n2. Drive through the lead foot to raise the body without pushing off strongly from the trailing leg.\n3. Stand tall on the step, then lower the trailing foot and lead foot under control before switching sides.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Subida al escalón",
+      "description": "1. Colócate frente a un escalón estable y apoya todo el pie adelantado encima con la rodilla alineada sobre los dedos.\n2. Empuja con el pie adelantado para elevar el cuerpo sin impulsarte con fuerza desde la pierna trasera.\n3. Ponte erguido sobre el escalón y luego baja con control el pie trasero y después el adelantado antes de cambiar de lado.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Subida no step",
+      "description": "1. Fique de frente para um step estável e apoie o pé da frente inteiro em cima com o joelho alinhado sobre os dedos.\n2. Empurre pelo pé da frente para elevar o corpo sem dar impulso forte com a perna de trás.\n3. Fique ereto no step e depois desça com controle o pé de trás e em seguida o da frente antes de trocar de lado.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Montée sur marche",
+      "description": "1. Placez-vous face à une marche stable et posez entièrement le pied avant dessus, genou aligné au-dessus des orteils.\n2. Poussez sur le pied avant pour élever le corps sans vous propulser fortement avec la jambe arrière.\n3. Redressez-vous sur la marche, puis redescendez le pied arrière puis le pied avant avec contrôle avant de changer de côté.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Step-up",
+      "description": "1. Stelle dich vor eine stabile Stufe und setze den ganzen führenden Fuß darauf, das Knie über den Zehen ausgerichtet.\n2. Drücke dich über den führenden Fuß nach oben, ohne dich kräftig mit dem hinteren Bein abzustoßen.\n3. Richte dich auf der Stufe auf, senke dann kontrolliert erst den hinteren und dann den führenden Fuß ab und wechsle die Seite.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Salita sul gradino",
+      "description": "1. Mettiti di fronte a un gradino stabile e appoggia sopra tutto il piede avanzato con il ginocchio allineato sopra le dita.\n2. Spingi con il piede avanzato per sollevare il corpo senza darti una forte spinta con la gamba dietro.\n3. Resta eretto sul gradino, poi scendi con controllo prima con il piede dietro e poi con quello avanzato prima di cambiare lato.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "踏步上台",
+      "description": "1. 面对稳固的台阶，将前脚整个踩在台阶上，膝盖对准脚尖。\n2. 用前脚发力抬起身体，后腿不要用力蹬地借力。\n3. 在台阶上站直，然后有控制地先放下后脚、再放下前脚，之后换另一侧。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ステップアップ",
+      "description": "1. 安定した台に向かって立ち、前足の裏全体を台に乗せて膝をつま先の上にそろえます。\n2. 後ろ脚で強く蹴らずに、前足で押して体を持ち上げます。\n3. 台の上でまっすぐ立ち、後ろ足、前足の順にコントロールして下ろしてから左右を替えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "스텝업",
+      "description": "1. 안정된 단을 마주 보고 앞발 전체를 단 위에 올리며 무릎을 발가락 위에 정렬합니다.\n2. 뒷다리로 세게 차지 않고 앞발로 밀어 몸을 들어 올립니다.\n3. 단 위에서 똑바로 선 뒤 뒷발, 앞발 순서로 통제하며 내려오고 반대쪽으로 바꿉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ก้าวขึ้นสเต็ป",
+      "description": "1. ยืนหันหน้าเข้าหาสเต็ปที่มั่นคง วางเท้านำทั้งฝ่าบนสเต็ปโดยให้เข่าอยู่ในแนวเดียวกับนิ้วเท้า\n2. ดันผ่านเท้านำเพื่อยกตัวขึ้นโดยไม่ถีบส่งแรงจากขาหลัง\n3. ยืนตรงบนสเต็ป แล้วลดเท้าหลังและเท้านำลงอย่างควบคุมก่อนสลับข้าง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Зашагивание на платформу",
+      "description": "1. Встаньте лицом к устойчивой платформе и поставьте на неё всю переднюю стопу, колено над носком.\n2. Оттолкнитесь передней стопой и поднимите тело, не отталкиваясь сильно задней ногой.\n3. Выпрямитесь на платформе, затем контролируемо опустите сначала заднюю, потом переднюю стопу и смените сторону.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Заходження на платформу",
+      "description": "1. Станьте обличчям до стійкої платформи й поставте на неї всю передню стопу, коліно над носком.\n2. Відштовхніться передньою стопою й підніміть тіло, не відштовхуючись сильно задньою ногою.\n3. Випряміться на платформі, потім контрольовано опустіть спочатку задню, а тоді передню стопу й змініть бік.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

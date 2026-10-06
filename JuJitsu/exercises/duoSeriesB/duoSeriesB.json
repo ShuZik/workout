@@ -1,0 +1,90 @@
+{
+  "id": "65.3",
+  "key": "jujitsu_duo_series_b",
+  "title": "Duo Series B",
+  "description": "1. The attacker delivers a controlled straight punch, hook, front kick, or round kick at an agreed speed and target.\n2. The defender evades or blocks, closes distance, and finishes with a controlled throw, takedown, or lock.\n3. Release immediately at a tap, let the attacker recover, and alternate roles after each attack.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "juJitsu",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Duo Series B",
+      "description": "1. The attacker delivers a controlled straight punch, hook, front kick, or round kick at an agreed speed and target.\n2. The defender evades or blocks, closes distance, and finishes with a controlled throw, takedown, or lock.\n3. Release immediately at a tap, let the attacker recover, and alternate roles after each attack.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Duo serie B",
+      "description": "1. El atacante lanza un golpe recto, un gancho, una patada frontal o una patada circular controlados a la velocidad y el objetivo acordados.\n2. El defensor esquiva o bloquea, acorta la distancia y finaliza con una proyección, un derribo o una luxación controlados.\n3. Suelta de inmediato ante un golpe de rendición, deja que el atacante se recupere y alternad los roles tras cada ataque.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Duo série B",
+      "description": "1. O atacante aplica um soco reto, um gancho, um chute frontal ou um chute circular controlados na velocidade e no alvo combinados.\n2. O defensor esquiva ou bloqueia, encurta a distância e finaliza com uma projeção, queda ou chave controlada.\n3. Solte imediatamente a uma batida, deixe o atacante se recuperar e alternem os papéis após cada ataque.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Duo série B",
+      "description": "1. L'attaquant porte un direct, un crochet, un coup de pied de face ou circulaire contrôlé, à la vitesse et sur la cible convenues.\n2. Le défenseur esquive ou bloque, réduit la distance et conclut par une projection, une amenée au sol ou une clé contrôlée.\n3. Relâchez immédiatement à la tape, laissez l'attaquant récupérer et alternez les rôles après chaque attaque.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Duo Serie B",
+      "description": "1. Der Angreifer führt einen kontrollierten geraden Schlag, Haken, Front- oder Halbkreistritt mit vereinbarter Geschwindigkeit und Zielhöhe aus.\n2. Der Verteidiger weicht aus oder blockt, schließt die Distanz und beendet mit einem kontrollierten Wurf, Takedown oder Hebel.\n3. Löse sofort beim Abklopfen, lass den Angreifer sich erholen und wechselt nach jedem Angriff die Rollen.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Duo serie B",
+      "description": "1. L'attaccante porta un diretto, un gancio, un calcio frontale o circolare controllati alla velocità e sul bersaglio concordati.\n2. Il difensore schiva o para, accorcia la distanza e conclude con una proiezione, un atterramento o una leva controllati.\n3. Rilascia subito al tap, lascia recuperare l'attaccante e alternate i ruoli dopo ogni attacco.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "双人演练B组",
+      "description": "1. 攻击方以约定的速度和目标打出可控的直拳、摆拳、前踢或横踢。\n2. 防守方闪避或格挡，拉近距离，并以可控的摔投、抱摔或关节技结束。\n3. 拍击时立即松开，让攻击方恢复，每次攻击后交换角色。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "デュオ シリーズB",
+      "description": "1. 攻撃者は取り決めた速さと目標に、制御された突き、フック、前蹴り、回し蹴りを出します。\n2. 防御者はかわすか受け、間合いを詰めて、制��された投げ、テイクダウン、関節技で極めます。\n3. タップで直ちに離し、攻撃者の回復を待って、攻撃ごとに役割を交代します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "듀오 시리즈 B",
+      "description": "1. 공격자는 합의한 속도와 목표로 통제된 스트레이트, 훅, 앞차기 또는 돌려차기를 합니다.\n2. 방어자는 피하거나 막고 거리를 좁힌 뒤 통제된 메치기, 테이크다운 또는 관절기로 마무리합니다.\n3. 탭이 나오면 즉시 풀고 공격자가 회복하게 한 뒤 공격마다 역할을 바꿉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ดูโอ ชุด B",
+      "description": "1. ผู้โจมตีออกหมัดตรง หมัดฮุก เตะตรง หรือเตะเหวี่ยงอย่างควบคุมตามความเร็วและเป้าที่ตกลงกัน\n2. ผู้ป้องกันหลบหรือปัด ปิดระยะ และจบด้วยการทุ่ม การล้ม หรือการล็อกอย่างควบคุม\n3. ปล่อยทันทีเมื่อมีการตบ ให้ผู้โจมตีพักฟื้น และสลับบทบาทหลังแต่ละการโจมตี",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Дуо, серия B",
+      "description": "1. Атакующий наносит контролируемый прямой удар, боковой удар, прямой или круговой удар ногой с оговорённой скоростью и в оговорённую цель.\n2. Защитник уходит или блокирует, сокращает дистанцию и завершает контролируемым броском, сваливанием или болевым.\n3. Сразу отпускайте по хлопку, дайте атакующему восстановиться и меняйтесь ролями после каждой атаки.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Дуо, серія B",
+      "description": "1. Атакувальник завдає контрольованого прямого удару, бокового удару, прямого чи кругового удару ногою з погодженою швидкістю та в погоджену ціль.\n2. Захисник ухиляється або блокує, скорочує дистанцію й завершує контрольованим кидком, звалюванням чи больовим.\n3. Одразу відпускайте за плесканням, дайте атакувальнику відновитися й міняйтеся ролями після кожної атаки.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

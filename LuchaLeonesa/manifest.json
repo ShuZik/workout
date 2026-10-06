@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#ED5C63",
+    "colorType": "red",
+    "folder": "LuchaLeonesa",
+    "id": "80",
+    "icon": "LuchaLeonesa/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Lucha Leonesa",
+    "workoutType": "luchaLeonesa",
+    "translations": {
+      "en": {
+        "title": "Lucha Leonesa"
+      },
+      "es": {
+        "title": "Lucha leonesa"
+      },
+      "pt": {
+        "title": "Luta leonesa"
+      },
+      "fr": {
+        "title": "Lutte léonaise"
+      },
+      "de": {
+        "title": "Leonesisches Ringen"
+      },
+      "it": {
+        "title": "Lotta leonese"
+      },
+      "zh-Hans": {
+        "title": "莱昂摔跤"
+      },
+      "ja": {
+        "title": "レオン・レスリング"
+      },
+      "ko": {
+        "title": "레온 레슬링"
+      },
+      "th": {
+        "title": "มวยปล้ำเลออน"
+      },
+      "ru": {
+        "title": "Леонская борьба"
+      },
+      "uk": {
+        "title": "Леонська боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "LuchaLeonesa/exercises/luchaLeonesa/Icon.png",
+      "json": "LuchaLeonesa/exercises/luchaLeonesa/luchaLeonesa.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/agarreAlCintoBeltGrip/Icon.png",
+      "json": "LuchaLeonesa/exercises/agarreAlCintoBeltGrip/agarreAlCintoBeltGrip.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/zancajo/Icon.png",
+      "json": "LuchaLeonesa/exercises/zancajo/zancajo.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/garabito/Icon.png",
+      "json": "LuchaLeonesa/exercises/garabito/garabito.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/dedilla/Icon.png",
+      "json": "LuchaLeonesa/exercises/dedilla/dedilla.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/mediana/Icon.png",
+      "json": "LuchaLeonesa/exercises/mediana/mediana.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/cadrilada/Icon.png",
+      "json": "LuchaLeonesa/exercises/cadrilada/cadrilada.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/golpeDeCadera/Icon.png",
+      "json": "LuchaLeonesa/exercises/golpeDeCadera/golpeDeCadera.json"
+    },
+    {
+      "icon": "LuchaLeonesa/exercises/corro/Icon.png",
+      "json": "LuchaLeonesa/exercises/corro/corro.json"
+    }
+  ]
+}

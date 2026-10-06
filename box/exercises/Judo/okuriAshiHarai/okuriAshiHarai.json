@@ -1,0 +1,87 @@
+{
+  "id": "41.53",
+  "key": "judo_okuri_ashi_harai",
+  "title": "Okuri Ashi Harai",
+  "description": "1. Move sideways with the partner, matching steps with sleeve-and-lapel control.\n2. As the partner's feet come together, sweep the trailing foot into the leading foot with the sole of the foot.\n3. Lift the upper body upward and sideways with the hands so the partner falls to the side, retaining the sleeve.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "6 Ashi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Okuri Ashi Harai",
+      "description": "1. Move sideways with the partner, matching steps with sleeve-and-lapel control.\n2. As the partner's feet come together, sweep the trailing foot into the leading foot with the sole of the foot.\n3. Lift the upper body upward and sideways with the hands so the partner falls to the side, retaining the sleeve.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "es": {
+      "title": "Okuri Ashi Harai",
+      "description": "1. Desplázate lateralmente con el compañero, acompasando los pasos con control de manga y solapa.\n2. Cuando los pies del compañero se junten, barre el pie que va detrás contra el que va delante con la planta del pie.\n3. Levanta el tronco hacia arriba y hacia un lado con las manos para que el compañero caiga de lado, conservando la manga.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "pt": {
+      "title": "Okuri Ashi Harai",
+      "description": "1. Desloque-se lateralmente com o parceiro, acompanhando os passos com controle de manga e gola.\n2. Quando os pés do parceiro se juntarem, varra o pé de trás contra o da frente com a sola do pé.\n3. Levante o tronco para cima e para o lado com as mãos para que o parceiro caia de lado, mantendo a manga.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "fr": {
+      "title": "Okuri Ashi Harai",
+      "description": "1. Déplacez-vous latéralement avec le partenaire en accordant vos pas, manche et revers contrôlés.\n2. Quand ses pieds se rapprochent, balayez le pied arrière contre le pied avant avec la plante du pied.\n3. Soulevez le haut du corps vers le haut et sur le côté avec les mains pour qu’il tombe sur le côté, en gardant la manche.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "de": {
+      "title": "Okuri Ashi Harai",
+      "description": "1. Bewege dich seitlich mit dem Partner und passe die Schritte mit Ärmel- und Reverskontrolle an.\n2. Wenn seine Füße zusammenkommen, fege den nachfolgenden Fuß mit der Sohle in den führenden Fuß.\n3. Hebe den Oberkörper mit den Händen nach oben und zur Seite, damit der Partner seitlich fällt, und halte den Ärmel.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "it": {
+      "title": "Okuri Ashi Harai",
+      "description": "1. Spostati lateralmente con il compagno, accordando i passi con il controllo di manica e bavero.\n2. Quando i piedi del compagno si avvicinano, spazza il piede che segue contro quello che guida con la pianta del piede.\n3. Solleva il busto verso l’alto e di lato con le mani perché il compagno cada di lato, mantenendo la manica.",
+      "sectionTitle": "Ashi-waza"
+    },
+    "zh-Hans": {
+      "title": "送足扫",
+      "description": "1. 与搭档同步横向移动，用抓袖和抓领控制。\n2. 当搭档双脚靠拢时，用脚掌把后跟进的脚扫向前导脚。\n3. 双手将其上身向上并向侧面提，使搭档侧倒，保持抓袖。",
+      "sectionTitle": "足技"
+    },
+    "ja": {
+      "title": "送足払",
+      "description": "1. 袖と襟を制しながら、相手と歩調を合わせて横へ移動します。\n2. 相手の両足が寄った瞬間、後から来る足を足裏で前の足の方へ払います。\n3. 手で上体を上横へ持ち上げ、相手を横へ倒し、袖を持ちます。",
+      "sectionTitle": "足技"
+    },
+    "ko": {
+      "title": "오쿠리 아시 하라이",
+      "description": "1. 소매와 깃을 통제하며 파트너와 발을 맞춰 옆으로 이동합니다.\n2. 파트너의 두 발이 모일 때 뒤따르는 발을 발바닥으로 앞선 발 쪽으로 쓸어냅니다.\n3. 손으로 상체를 위옆으로 들어 파트너가 옆으로 넘어지게 하고 소매를 유지합니다.",
+      "sectionTitle": "발기술"
+    },
+    "th": {
+      "title": "โอกุริอาชิฮาราอิ",
+      "description": "1. เคลื่อนที่ไปด้านข้างพร้อมคู่ฝึก จังหวะก้าวตรงกัน โดยควบคุมแขนเสื้อและปกเสื้อ\n2. เมื่อเท้าคู่ฝึกเข้ามาชิดกัน ใช้ฝ่าเท้ากวาดเท้าที่ตามมาเข้าหาเท้าที่นำ\n3. ใช้มือยกลำตัวขึ้นและไปด้านข้างให้คู่ฝึกล้มตะแคง จับแขนเสื้อไว้",
+      "sectionTitle": "อาชิวาซะ"
+    },
+    "ru": {
+      "title": "Окури-аси-харай",
+      "description": "1. Перемещайтесь боком вместе с партнёром, согласуя шаги и контролируя рукав и отворот.\n2. Когда стопы партнёра сближаются, подметите подошвой отстающую стопу к ведущей.\n3. Поднимите корпус руками вверх и в сторону, чтобы партнёр упал на бок, удерживая рукав.",
+      "sectionTitle": "Аси-вадза"
+    },
+    "uk": {
+      "title": "Окурі-асі-харай",
+      "description": "1. Переміщуйтеся боком разом із партнером, узгоджуючи кроки й контролюючи рукав і відворот.\n2. Коли стопи партнера зближуються, підметіть підошвою відстаючу стопу до провідної.\n3. Підніміть тулуб руками вгору й убік, щоб партнер упав на бік, утримуючи рукав.",
+      "sectionTitle": "Асі-вадза"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#01C5A5",
+    "colorType": "teal",
+    "folder": "Wrestling",
+    "id": "7",
+    "icon": "Wrestling/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Wrestling",
+    "workoutType": "wrestling",
+    "translations": {
+      "en": {
+        "title": "Wrestling"
+      },
+      "es": {
+        "title": "Lucha olímpica"
+      },
+      "pt": {
+        "title": "Luta olímpica"
+      },
+      "fr": {
+        "title": "Lutte"
+      },
+      "de": {
+        "title": "Ringen"
+      },
+      "it": {
+        "title": "Lotta"
+      },
+      "zh-Hans": {
+        "title": "摔跤"
+      },
+      "ja": {
+        "title": "レスリング"
+      },
+      "ko": {
+        "title": "레슬링"
+      },
+      "th": {
+        "title": "มวยปล้ำ"
+      },
+      "ru": {
+        "title": "Борьба"
+      },
+      "uk": {
+        "title": "Боротьба"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Wrestling/exercises/wrestling/Icon.png",
+      "json": "Wrestling/exercises/wrestling/wrestling.json"
+    },
+    {
+      "icon": "Wrestling/exercises/mirrorDrill/Icon.png",
+      "json": "Wrestling/exercises/mirrorDrill/mirrorDrill.json"
+    },
+    {
+      "icon": "Wrestling/exercises/tipUp/Icon.png",
+      "json": "Wrestling/exercises/tipUp/tipUp.json"
+    },
+    {
+      "icon": "Wrestling/exercises/ironCross/Icon.png",
+      "json": "Wrestling/exercises/ironCross/ironCross.json"
+    },
+    {
+      "icon": "Wrestling/exercises/clock/Icon.png",
+      "json": "Wrestling/exercises/clock/clock.json"
+    },
+    {
+      "icon": "Wrestling/exercises/duckUnder/Icon.png",
+      "json": "Wrestling/exercises/duckUnder/duckUnder.json"
+    },
+    {
+      "icon": "Wrestling/exercises/firemanSCarry/Icon.png",
+      "json": "Wrestling/exercises/firemanSCarry/firemanSCarry.json"
+    },
+    {
+      "icon": "Wrestling/exercises/snapdown/Icon.png",
+      "json": "Wrestling/exercises/snapdown/snapdown.json"
+    },
+    {
+      "icon": "Wrestling/exercises/legLace/Icon.png",
+      "json": "Wrestling/exercises/legLace/legLace.json"
+    }
+  ]
+}

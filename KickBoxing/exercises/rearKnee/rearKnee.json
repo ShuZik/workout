@@ -1,0 +1,103 @@
+{
+  "id": "3.22",
+  "key": "kick_boxing_rear_knee",
+  "title": "Rear Knee",
+  "description": "1. From guard, transfer weight to the lead leg and draw the rear knee forward under the hip.\n2. Extend the rear hip and drive the knee upward into a pad while keeping the torso tall and hands protecting the head.\n3. Retract the knee and return the rear foot behind the lead foot without stepping across.",
+  "subtitle": "K-1",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "kickBoxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Kicks",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Knee",
+      "description": "1. From guard, transfer weight to the lead leg and draw the rear knee forward under the hip.\n2. Extend the rear hip and drive the knee upward into a pad while keeping the torso tall and hands protecting the head.\n3. Retract the knee and return the rear foot behind the lead foot without stepping across.",
+      "subtitle": "K-1",
+      "sectionTitle": "Kicks"
+    },
+    "es": {
+      "title": "Rodillazo trasero",
+      "description": "1. Desde la guardia, pasa el peso a la pierna delantera y lleva la rodilla trasera hacia delante bajo la cadera.\n2. Extiende la cadera trasera e impulsa la rodilla hacia arriba contra un escudo con el torso erguido y las manos protegiendo la cabeza.\n3. Retira la rodilla y devuelve el pie trasero detrás del delantero sin cruzarlo.",
+      "subtitle": "K-1",
+      "sectionTitle": "Patadas"
+    },
+    "pt": {
+      "title": "Joelhada de trás",
+      "description": "1. Na guarda, passe o peso para a perna da frente e traga o joelho de trás à frente, sob o quadril.\n2. Estenda o quadril de trás e projete o joelho para cima contra um aparador, com o tronco ereto e as mãos protegendo a cabeça.\n3. Recolha o joelho e leve o pé de trás de volta atrás do pé da frente sem cruzar.",
+      "subtitle": "K-1",
+      "sectionTitle": "Chutes"
+    },
+    "fr": {
+      "title": "Coup de genou arrière",
+      "description": "1. En garde, transférez le poids sur la jambe avant et amenez le genou arrière vers l’avant sous la hanche.\n2. Ouvrez la hanche arrière et propulsez le genou vers le haut dans un bouclier, buste droit et mains protégeant la tête.\n3. Ramenez le genou et replacez le pied arrière derrière le pied avant sans croiser.",
+      "subtitle": "K-1",
+      "sectionTitle": "Coups de pied"
+    },
+    "de": {
+      "title": "Hinterer Kniestoß",
+      "description": "1. Verlagere aus der Deckung das Gewicht auf das vordere Bein und bringe das hintere Knie unter der Hüfte nach vorn.\n2. Strecke die hintere Hüfte und stoße das Knie nach oben in ein Polster; Oberkörper aufrecht, Hände schützen den Kopf.\n3. Ziehe das Knie zurück und setze den hinteren Fuß hinter den vorderen, ohne überzukreuzen.",
+      "subtitle": "K-1",
+      "sectionTitle": "Tritte"
+    },
+    "it": {
+      "title": "Ginocchiata posteriore",
+      "description": "1. Dalla guardia, sposta il peso sulla gamba anteriore e porta il ginocchio posteriore in avanti sotto l’anca.\n2. Estendi l’anca posteriore e spingi il ginocchio verso l’alto contro un colpitore, con il busto eretto e le mani a protezione della testa.\n3. Ritira il ginocchio e riporta il piede posteriore dietro quello anteriore senza incrociare.",
+      "subtitle": "K-1",
+      "sectionTitle": "Calci"
+    },
+    "zh-Hans": {
+      "title": "后腿膝撞",
+      "description": "1. 从防守位开始，重心移到前腿，后膝从髋下向前提起。\n2. 后髋前送伸展，膝盖向上撞击脚靶，躯干保持挺直，双手护头。\n3. 收回膝盖，后脚回到前脚后方，不要交叉步。",
+      "subtitle": "K-1",
+      "sectionTitle": "腿法"
+    },
+    "ja": {
+      "title": "後ろ足の膝蹴り",
+      "description": "1. ガードから前脚に体重を移し、後ろの膝を腰の下から前へ引き上げます。\n2. 上体をまっすぐ保ち両手で頭を守りながら、後ろの腰を伸ばして膝をミットへ突き上げます。\n3. 膝を引き、足を交差させずに後ろ足を前足の後ろへ戻します。",
+      "subtitle": "K-1",
+      "sectionTitle": "蹴り"
+    },
+    "ko": {
+      "title": "뒷발 니킥",
+      "description": "1. 가드에서 앞다리로 체중을 옮기고 뒷무릎을 엉덩이 아래로 앞으로 끌어옵니다.\n2. 상체를 곧게 세우고 두 손으로 머리를 보호한 채 뒤 골반을 펴며 무릎을 미트 위쪽으로 찔러 올립니다.\n3. 무릎을 거두고 발을 교차하지 않은 채 뒷발을 앞발 뒤로 되돌립니다.",
+      "subtitle": "K-1",
+      "sectionTitle": "발차기"
+    },
+    "th": {
+      "title": "เข่าขาหลัง",
+      "description": "1. จากการ์ด ถ่ายน้ำหนักไปขาหน้าและดึงเข่าหลังมาข้างหน้าใต้สะโพก\n2. ดันสะโพกหลังและส่งเข่าขึ้นเข้าเป้า โดยลำตัวตั้งตรงและมือป้องกันศีรษะ\n3. ดึงเข่ากลับและวางเท้าหลังกลับไว้หลังเท้าหน้าโดยไม่ไขว้ขา",
+      "subtitle": "K-1",
+      "sectionTitle": "การเตะ"
+    },
+    "ru": {
+      "title": "Удар задним коленом",
+      "description": "1. Из защиты перенесите вес на переднюю ногу и выведите заднее колено вперёд под таз.\n2. Разогните заднюю сторону таза и направьте колено вверх в макивару, держа корпус прямо, а руки у головы.\n3. Уберите колено и верните заднюю стопу за переднюю, не перекрещивая ноги.",
+      "subtitle": "K-1",
+      "sectionTitle": "Удары ногами"
+    },
+    "uk": {
+      "title": "Удар заднім коліном",
+      "description": "1. Із захисту перенесіть вагу на передню ногу й виведіть заднє коліно вперед під таз.\n2. Розігніть задній бік таза й спрямуйте коліно вгору в маківару, тримаючи корпус прямо, а руки біля голови.\n3. Приберіть коліно й поверніть задню стопу за передню, не перехрещуючи ноги.",
+      "subtitle": "K-1",
+      "sectionTitle": "Удари ногами"
+    }
+  }
+}

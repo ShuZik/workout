@@ -1,0 +1,89 @@
+{
+  "id": "13.63",
+  "key": "strength_dumbbell_shoulder_press",
+  "title": "Dumbbell Shoulder Press",
+  "description": "1. Sit or stand tall with dumbbells at shoulder height, wrists over elbows, and trunk braced.\n2. Press both dumbbells overhead without leaning backward or driving with the legs.\n3. Finish with arms straight beside the head, then lower the weights to the shoulders under control.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dumbbell Shoulder Press",
+      "description": "1. Sit or stand tall with dumbbells at shoulder height, wrists over elbows, and trunk braced.\n2. Press both dumbbells overhead without leaning backward or driving with the legs.\n3. Finish with arms straight beside the head, then lower the weights to the shoulders under control.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Press de hombros con mancuernas",
+      "description": "1. Siéntate o ponte de pie erguido con las mancuernas a la altura de los hombros, las muñecas sobre los codos y el tronco activado.\n2. Empuja ambas mancuernas por encima de la cabeza sin inclinarte hacia atrás ni impulsarte con las piernas.\n3. Termina con los brazos estirados junto a la cabeza y luego baja las pesas a los hombros con control.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Desenvolvimento com halteres",
+      "description": "1. Sente-se ou fique em pé, ereto, com os halteres na altura dos ombros, os punhos sobre os cotovelos e o tronco contraído.\n2. Empurre os dois halteres acima da cabeça sem inclinar o corpo para trás nem dar impulso com as pernas.\n3. Termine com os braços estendidos ao lado da cabeça e depois abaixe os pesos até os ombros com controle.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Développé épaules avec haltères",
+      "description": "1. Asseyez-vous ou tenez-vous droit, haltères à hauteur d’épaules, poignets au-dessus des coudes et tronc gainé.\n2. Poussez les deux haltères au-dessus de la tête sans vous pencher en arrière ni prendre d’élan avec les jambes.\n3. Terminez bras tendus à côté de la tête, puis redescendez les haltères aux épaules avec contrôle.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Schulterdrücken mit Kurzhanteln",
+      "description": "1. Sitze oder stehe aufrecht mit den Kurzhanteln auf Schulterhöhe, Handgelenke über den Ellbogen und Rumpf angespannt.\n2. Drücke beide Kurzhanteln über den Kopf, ohne dich nach hinten zu lehnen oder mit den Beinen Schwung zu holen.\n3. Beende mit gestreckten Armen neben dem Kopf und senke die Gewichte dann kontrolliert auf die Schultern.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Lento con manubri",
+      "description": "1. Siediti o resta in piedi ben eretto con i manubri all’altezza delle spalle, i polsi sopra i gomiti e il tronco contratto.\n2. Spingi entrambi i manubri sopra la testa senza inclinarti all’indietro né darti slancio con le gambe.\n3. Concludi a braccia tese accanto alla testa, poi abbassa i pesi alle spalle con controllo.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃肩上推举",
+      "description": "1. 坐直或站直，将哑铃置于肩部高度，手腕位于肘部上方，收紧躯干。\n2. 将两只哑铃推过头顶，身体不要后仰，也不要借助腿部发力。\n3. 双臂在头部两侧伸直后，有控制地将哑铃放回肩部。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ダンベルショルダープレス",
+      "description": "1. 座るか立って背筋を伸ばし、手首を肘の真上にしてダンベルを肩の高さで持ち、体幹を固めます。\n2. 上体を反らしたり脚の反動を使ったりせずに、両方のダンベルを頭上へ押し上げます。\n3. 腕を頭の横でまっすぐ伸ばしたら、コントロールしながらダンベルを肩まで下ろします。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "덤벨 숄더 프레스",
+      "description": "1. 앉거나 똑바로 서서 덤벨을 어깨 높이에 두고 손목은 팔꿈치 위에, 몸통에는 힘을 줍니다.\n2. 몸을 뒤로 젖히거나 다리 반동을 쓰지 않고 두 덤벨을 머리 위로 밀어 올립니다.\n3. 팔을 머리 옆에서 곧게 편 뒤 덤벨을 통제하며 어깨까지 내립니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ดันไหล่ด้วยดัมเบล",
+      "description": "1. นั่งหรือยืนตัวตรง ถือดัมเบลไว้ระดับไหล่ ข้อมืออยู่เหนือศอก และเกร็งลำตัว\n2. ดันดัมเบลทั้งสองขึ้นเหนือศีรษะโดยไม่เอนตัวไปด้านหลังหรือใช้แรงส่งจากขา\n3. จบโดยเหยียดแขนตรงข้างศีรษะ แล้วลดดัมเบลลงสู่ไหล่อย่างควบคุม",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Жим гантелей над головой",
+      "description": "1. Сядьте или встаньте прямо, держа гантели на уровне плеч, запястья над локтями, корпус напряжён.\n2. Выжмите обе гантели над головой, не отклоняясь назад и не помогая себе ногами.\n3. Завершите с прямыми руками рядом с головой, затем контролируемо опустите гантели к плечам.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Жим гантелей над головою",
+      "description": "1. Сядьте або станьте рівно, тримаючи гантелі на рівні плечей, зап’ястя над ліктями, корпус напружений.\n2. Вижміть обидві гантелі над головою, не відхиляючись назад і не допомагаючи собі ногами.\n3. Завершіть із прямими руками біля голови, потім контрольовано опустіть гантелі до плечей.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "54.3",
+  "key": "fencing_balestra",
+  "title": "Balestra",
+  "description": "1. From en garde, push off the rear leg into a short, low jump forward, keeping the guard height and the weapon arm in line.\n2. Land on both feet almost together in time, with the front foot landing heel first and the knees bent.\n3. Launch the lunge immediately from the landing or recover to a balanced guard, without bouncing upward between actions.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Footwork",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Balestra",
+      "description": "1. From en garde, push off the rear leg into a short, low jump forward, keeping the guard height and the weapon arm in line.\n2. Land on both feet almost together in time, with the front foot landing heel first and the knees bent.\n3. Launch the lunge immediately from the landing or recover to a balanced guard, without bouncing upward between actions.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Balestra",
+      "description": "1. Desde la guardia, impúlsate con la pierna trasera en un salto corto y bajo hacia delante, manteniendo la altura de guardia y el brazo en línea.\n2. Aterriza con ambos pies casi a la vez, el pie delantero entrando de talón y las rodillas flexionadas.\n3. Lanza el fondo inmediatamente desde el aterrizaje o vuelve a una guardia equilibrada, sin rebotar hacia arriba entre acciones.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Balestra",
+      "description": "1. Da guarda, impulsione com a perna de trás num salto curto e baixo para a frente, mantendo a altura da guarda e o braço em linha.\n2. Aterrisse com os dois pés quase ao mesmo tempo, o pé da frente pousando de calcanhar e os joelhos fletidos.\n3. Lance o afundo logo após a aterrissagem ou volte a uma guarda equilibrada, sem subir entre as ações.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Balestra",
+      "description": "1. Depuis la garde, poussez sur la jambe arrière en un bond court et rasant vers l’avant, en gardant la hauteur de garde et le bras dans la ligne.\n2. Retombez sur les deux pieds presque en même temps, le pied avant par le talon, genoux fléchis.\n3. Déclenchez la fente dès la réception ou revenez en garde équilibrée, sans remonter entre les actions.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Balestra",
+      "description": "1. Stoße dich aus der Fechtstellung mit dem hinteren Bein zu einem kurzen, flachen Sprung nach vorn ab, Stellungshöhe und Waffenarm bleiben in Linie.\n2. Lande mit beiden Füßen nahezu gleichzeitig, den vorderen Fuß zuerst mit der Ferse, die Knie gebeugt.\n3. Starte den Ausfall direkt aus der Landung oder kehre in eine stabile Stellung zurück, ohne zwischen den Aktionen hochzufedern.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Balestra",
+      "description": "1. Dalla guardia, spingi con la gamba posteriore in un salto corto e radente in avanti, mantenendo l’altezza della guardia e il braccio in linea.\n2. Atterra con i due piedi quasi insieme, il piede anteriore di tallone e le ginocchia piegate.\n3. Parti in affondo subito dall’atterraggio o torna in una guardia equilibrata, senza rimbalzare in alto tra le azioni.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "跳步（Balestra）",
+      "description": "1. 从实战姿势用后腿蹬地向前做一个短而低的跳跃，保持姿势高度，持剑臂在线。\n2. 双脚几乎同时落地，前脚脚跟先着地，膝盖弯曲。\n3. 落地后立即弓步出击，或回到平衡的实战姿势，动作之间不要向上弹起。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "バレストラ",
+      "description": "1. アンガルドから後ろ脚で蹴り出し、構えの高さと剣腕のラインを保って前へ低く短く跳びます。\n2. 両足ほぼ同時に着地し、前足はかかとから着き、膝を曲げます。\n3. 着地からすぐにファントへ移るか、バランスのよい構えに戻ります。動作の間で上に跳ね上がりません。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "발레스트라",
+      "description": "1. 앙가르드에서 뒷다리로 밀어 낮고 짧게 앞으로 뛰며, 자세 높이와 칼 든 팔의 라인을 유지합니다.\n2. 두 발이 거의 동시에 착지하게 하고 앞발은 뒤꿈치부터 닿으며 무릎은 굽힙니다.\n3. 착지와 동시에 런지로 이어 가거나 균형 잡힌 자세로 돌아오며, 동작 사이에 위로 튀지 않습니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "บาเลสตรา",
+      "description": "1. จากอองการ์ด ถีบขาหลังกระโดดไปข้างหน้าแบบสั้นและต่ำ รักษาความสูงของท่าและแขนถือดาบไว้ในแนว\n2. ลงพื้นด้วยสองเท้าเกือบพร้อมกัน เท้าหน้าลงส้นก่อนและงอเข่า\n3. ลันจ์ทันทีจากจังหวะลงพื้น หรือกลับสู่ท่าที่สมดุล โดยไม่เด้งตัวขึ้นระหว่างการกระทำ",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Балестра",
+      "description": "1. Из стойки оттолкнитесь задней ногой в короткий низкий прыжок вперёд, сохраняя высоту стойки и руку в линии.\n2. Приземлитесь на обе ноги почти одновременно, передняя ставится с пятки, колени согнуты.\n3. Сразу из приземления выполните выпад или вернитесь в устойчивую стойку, не подпрыгивая вверх между действиями.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Балестра",
+      "description": "1. Зі стійки відштовхніться задньою ногою в короткий низький стрибок уперед, зберігаючи висоту стійки й руку в лінії.\n2. Приземліться на обидві ноги майже одночасно, передня ставиться з п’яти, коліна зігнуті.\n3. Одразу з приземлення виконайте випад або поверніться в стійку рівновагу, не підстрибуючи вгору між діями.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

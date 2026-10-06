@@ -1,0 +1,90 @@
+{
+  "id": "50.5",
+  "key": "catch_pin",
+  "title": "Pin",
+  "description": "1. From top control, turn the partner onto the back using a half nelson, cradle, or chest pressure.\n2. Keep both of the partner's shoulders on the mat with chest-to-chest weight and a wide base.\n3. Hold the pin while the partner bridges and turns, adjust to stay square, and release on the signal.",
+  "color": "#FD7C5D",
+  "colorType": "coral",
+  "workoutType": "catchWrestling",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pin",
+      "description": "1. From top control, turn the partner onto the back using a half nelson, cradle, or chest pressure.\n2. Keep both of the partner's shoulders on the mat with chest-to-chest weight and a wide base.\n3. Hold the pin while the partner bridges and turns, adjust to stay square, and release on the signal.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Tocado",
+      "description": "1. Desde el control superior, pon al compañero de espaldas con un medio nelson, una cuna o presión de pecho.\n2. Mantén ambos hombros del compañero sobre la colchoneta con el peso pecho contra pecho y una base amplia.\n3. Sostén el tocado mientras el compañero hace puentes y giros, ajústate para seguir encuadrado y suelta a la señal.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Encostamento",
+      "description": "1. Do controle por cima, vire o parceiro de costas com um meio-nelson, um berço ou pressão do peito.\n2. Mantenha os dois ombros do parceiro no tatame com o peso peito com peito e uma base larga.\n3. Segure o encostamento enquanto o parceiro faz pontes e giros, ajuste-se para ficar alinhado e solte ao sinal.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Tombé",
+      "description": "1. Depuis le contrôle au-dessus, mettez le partenaire sur le dos avec un demi-nelson, un berceau ou une pression de poitrine.\n2. Maintenez ses deux épaules au tapis avec le poids poitrine contre poitrine et une base large.\n3. Tenez le tombé pendant qu'il fait des ponts et se tourne, réajustez-vous pour rester en face et relâchez au signal.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Schultersieg",
+      "description": "1. Drehe den Partner aus der oberen Kontrolle mit Halbnelson, Wiege oder Brustdruck auf den Rücken.\n2. Halte beide Schultern des Partners mit Brust-an-Brust-Gewicht und breiter Basis auf der Matte.\n3. Halte, während der Partner brückt und dreht, korrigiere dich, um quer zu bleiben, und löse auf das Signal.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Schienamento",
+      "description": "1. Dal controllo superiore, porta il partner sulla schiena con un mezzo nelson, una culla o pressione del petto.\n2. Tieni entrambe le spalle del partner sul materassino con peso petto contro petto e base ampia.\n3. Mantieni lo schienamento mentre il partner fa ponti e si gira, adattati per restare in linea e rilascia al segnale.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "压肩",
+      "description": "1. 从上位控制，用半纳尔逊、摇篮抱或胸部压力把同伴翻成仰卧。\n2. 以胸贴胸的重量和宽底盘使同伴双肩贴住垫子。\n3. 同伴挺桥和扭转时保持压制，调整以保持正对，听信号松开。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "フォール",
+      "description": "1. 上からのコントロールで、ハーフネルソン、クレードル、胸の圧力を使って相手を仰向けにします。\n2. 胸と胸を合わせた体重と広い土台で、相手の両肩をマットにつけ続けます。\n3. 相手がブリッジや回転をしても押さえ続け、正対を保つよう調整し、合図で離します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "폴",
+      "description": "1. 상위 제어에서 하프 넬슨, 크레이들 또는 가슴 압박으로 파트너를 등으로 뒤집습니다.\n2. 가슴을 맞댄 체중과 넓은 베이스로 파트너의 양어깨를 매트에 붙입니다.\n3. 파트너가 브리지하고 돌아도 유지하며 정면을 지키도록 조정하고 신호에 풉니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "กดไหล่ติดพื้น",
+      "description": "1. จากการควบคุมด้านบน พลิกคู่ฝึกให้หงายด้วยฮาล์ฟเนลสัน การอุ้มแบบเปล หรือแรงกดจากอก\n2. กดไหล่ทั้งสองข้างของคู่ฝึกให้ติดเบาะด้วยน้ำหนักอกชนอกและฐานที่กว้าง\n3. ค้างไว้ขณะคู่ฝึกยกสะพานและบิดตัว ปรับตัวให้ตรงกับเขา แล้วปล่อยเมื่อได้สัญญาณ",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Туше",
+      "description": "1. Из контроля сверху переверните партнёра на спину полунельсоном, «люлькой» или давлением грудью.\n2. Удерживайте обе лопатки партнёра на ковре, прижимаясь грудью к груди на широкой опоре.\n3. Удерживайте, пока партнёр встаёт на мост и выкручивается, подстраивайтесь, оставаясь поперёк, и отпустите по сигналу.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Туше",
+      "description": "1. Із контролю згори переверніть партнера на спину напівнельсоном, «колискою» або тиском грудьми.\n2. Утримуйте обидві лопатки партнера на килимі, притискаючись грудьми до грудей на широкій опорі.\n3. Утримуйте, поки партнер стає на міст і викручується, підлаштовуйтеся, залишаючись поперек, і відпустіть за сигналом.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "88.1",
+  "key": "sambo",
+  "title": "Sambo",
+  "description": "1. Begin on mats with a trained partner in jackets, taking sleeve, lapel, or belt grips from a balanced stance.\n2. Drill throws to a controlled landing, then transition to holds and slow leg or arm locks with clear tap signals.\n3. Release every lock at the first tap, reset standing, and keep chokes out of sport sambo practice.",
+  "colorType": "red",
+  "workoutType": "sambo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Sambo",
+      "description": "1. Begin on mats with a trained partner in jackets, taking sleeve, lapel, or belt grips from a balanced stance.\n2. Drill throws to a controlled landing, then transition to holds and slow leg or arm locks with clear tap signals.\n3. Release every lock at the first tap, reset standing, and keep chokes out of sport sambo practice.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Sambo",
+      "description": "1. Comienza sobre el tatami con un compañero entrenado con chaqueta, tomando agarres de manga, solapa o cinturón desde una postura equilibrada.\n2. Practica proyecciones hasta una caída controlada y luego pasa a inmovilizaciones y llaves lentas de pierna o brazo con señales claras de rendición.\n3. Suelta cada llave al primer golpe de rendición, vuelve a empezar de pie y no uses estrangulaciones en el sambo deportivo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Sambo",
+      "description": "1. Comece no tatame com um parceiro treinado de jaqueta, pegando na manga, na lapela ou na faixa a partir de uma base equilibrada.\n2. Treine projeções até uma queda controlada e depois passe para imobilizações e chaves lentas de perna ou braço com sinais claros de batida.\n3. Solte cada chave na primeira batida, recomece de pé e deixe estrangulamentos fora do sambo esportivo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Sambo",
+      "description": "1. Commencez sur le tapis avec un partenaire entraîné en veste, en saisissant manche, revers ou ceinture depuis une posture équilibrée.\n2. Travaillez les projections jusqu'à une chute contrôlée, puis enchaînez immobilisations et clés de jambe ou de bras lentes avec des signaux de tape clairs.\n3. Relâchez chaque clé à la première tape, repartez debout et excluez les étranglements de la pratique du sambo sportif.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Sambo",
+      "description": "1. Beginne auf der Matte mit einem geübten Partner in Jacken und greife Ärmel, Revers oder Gürtel aus einem stabilen Stand.\n2. Übe Würfe bis zur kontrollierten Landung und gehe dann zu Haltegriffen und langsamen Bein- oder Armhebeln mit klaren Abklopfsignalen über.\n3. Löse jeden Hebel beim ersten Abklopfen, beginne stehend neu und lasse Würgegriffe im Sportsambo weg.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "Sambo",
+      "description": "1. Inizia sul tatami con un partner allenato in giacca, prendendo manica, bavero o cintura da una posizione equilibrata.\n2. Allena le proiezioni fino a una caduta controllata, poi passa a immobilizzazioni e leve lente a gambe o braccia con chiari segnali di tap.\n3. Rilascia ogni leva al primo tap, riparti in piedi e lascia fuori gli strangolamenti dal sambo sportivo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "桑搏",
+      "description": "1. 与穿上衣的训练有素的同伴在垫上开始，从平衡站姿抓握袖子、衣领或腰带。\n2. 练习摔投至平稳落地，再过渡到压制及缓慢的腿部或手臂关节技，拍击信号要清晰。\n3. 第一次拍击即松开所有关节技，站立重新开始，运动桑搏练习中不使用绞技。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "サンボ",
+      "description": "1. 上着を着た熟練のパートナーとマット上で始め、安定した構えから袖、襟、帯を持ちます。\n2. 制御された着地まで投げを練習し、その後抑え込みと、明確なタップの合図を伴うゆっくりした脚・腕の関節技に移ります。\n3. 最初のタップですべての関節技を離し、立って再開し、スポーツサンボの練習では絞め技を使いません。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "삼보",
+      "description": "1. 상의를 입은 숙련된 파트너와 매트에서 시작하며 안정된 자세에서 소매, 깃 또는 띠를 잡습니다.\n2. 통제된 착지까지 메치기를 연습한 뒤 누르기와 명확한 탭 신호를 동반한 느린 다리·팔 관절기로 넘어갑니다.\n3. 첫 탭에 모든 관절기를 풀고 선 자세로 다시 시작하며 스포츠 삼보 연습에서는 조르기를 하지 않습니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "แซมโบ",
+      "description": "1. เริ่มบนเบาะกับคู่ฝึกที่ผ่านการฝึกซึ่งสวมเสื้อ จับแขนเสื้อ ปกเสื้อ หรือเข็มขัดจากท่ายืนที่สมดุล\n2. ฝึกทุ่มให้ลงพื้นอย่างควบคุม แล้วต่อด้วยการกดตรึงและล็อกขาหรือแขนอย่างช้าๆ พร้อมสัญญาณตบที่ชัดเจน\n3. ปล่อยทุกการล็อกเมื่อตบครั้งแรก เริ่มใหม่ในท่ายืน และไม่ใช้การรัดคอในการฝึกแซมโบกีฬา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Самбо",
+      "description": "1. Начните на ковре с подготовленным партнёром в куртках, беря захваты за рукав, отворот или пояс из устойчивой стойки.\n2. Отрабатывайте броски до контролируемого приземления, затем переходите к удержаниям и медленным болевым на ноги или руки с чёткими сигналами хлопка.\n3. Отпускайте каждый болевой при первом хлопке, начинайте снова в стойке и не применяйте удушающие в спортивном самбо.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Самбо",
+      "description": "1. Почніть на килимі з підготовленим партнером у куртках, беручи захвати за рукав, відворот або пояс зі стійкої стійки.\n2. Відпрацьовуйте кидки до контрольованого приземлення, потім переходьте до утримань і повільних больових на ноги чи руки з чіткими сигналами плескання.\n3. Відпускайте кожен больовий за першого плескання, починайте знову в стійці й не застосовуйте задушливі в спортивному самбо.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

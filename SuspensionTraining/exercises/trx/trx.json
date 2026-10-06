@@ -1,0 +1,90 @@
+{
+  "id": "22.1",
+  "key": "suspension_training",
+  "title": "TRX",
+  "description": "1. Check the anchor, equalize the strap lengths, and choose a body angle that allows full control.\n2. Keep tension in both straps while performing the selected pull, press, squat, hinge, or plank movement.\n3. Move the feet closer to the anchor to increase resistance or farther away to reduce it without losing body alignment.",
+  "color": "#01C5A5",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "TRX",
+      "description": "1. Check the anchor, equalize the strap lengths, and choose a body angle that allows full control.\n2. Keep tension in both straps while performing the selected pull, press, squat, hinge, or plank movement.\n3. Move the feet closer to the anchor to increase resistance or farther away to reduce it without losing body alignment.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "TRX",
+      "description": "1. Revisa el anclaje, iguala la longitud de las cintas y elige un ángulo corporal que permita un control total.\n2. Mantén tensión en ambas cintas mientras realizas el movimiento elegido de tirón, empuje, sentadilla, bisagra de cadera o plancha.\n3. Acerca los pies al anclaje para aumentar la resistencia o aléjalos para reducirla sin perder la alineación del cuerpo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "TRX",
+      "description": "1. Verifique a ancoragem, iguale o comprimento das fitas e escolha um ângulo do corpo que permita controle total.\n2. Mantenha tensão nas duas fitas enquanto executa o movimento escolhido de puxada, empurrada, agachamento, flexão de quadril ou prancha.\n3. Aproxime os pés da ancoragem para aumentar a resistência ou afaste-os para reduzi-la sem perder o alinhamento do corpo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "TRX",
+      "description": "1. Vérifiez l’ancrage, égalisez la longueur des sangles et choisissez un angle du corps qui permet un contrôle total.\n2. Gardez les deux sangles tendues pendant le mouvement choisi : tirage, poussée, squat, flexion de hanches ou planche.\n3. Rapprochez les pieds de l’ancrage pour augmenter la résistance ou éloignez-les pour la réduire, sans perdre l’alignement du corps.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "TRX",
+      "description": "1. Prüfe den Ankerpunkt, stell beide Gurte gleich lang ein und wähle einen Körperwinkel, den du voll kontrollierst.\n2. Halte beide Gurte gespannt, während du die gewählte Zug-, Drück-, Kniebeuge-, Hüftbeuge- oder Plank-Bewegung ausführst.\n3. Stell die Füße näher an den Anker, um den Widerstand zu erhöhen, oder weiter weg, um ihn zu verringern, ohne die Körperlinie zu verlieren.",
+      "sectionTitle": "Hauptbereich"
+    },
+    "it": {
+      "title": "TRX",
+      "description": "1. Controlla l’ancoraggio, regola le cinghie alla stessa lunghezza e scegli un’inclinazione del corpo che consenta pieno controllo.\n2. Mantieni entrambe le cinghie in tensione mentre esegui il movimento scelto di tirata, spinta, squat, piegamento sulle anche o plank.\n3. Avvicina i piedi all’ancoraggio per aumentare la resistenza o allontanali per ridurla senza perdere l’allineamento del corpo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "TRX",
+      "description": "1. 检查锚点，调整两根悬挂带等长，选择能完全控制的身体角度。\n2. 在进行所选的拉、推、深蹲、髋铰链或平板支撑动作时，保持两根悬挂带始终紧绷。\n3. 双脚靠近锚点可增加阻力，远离锚点可减小阻力，同时保持身体对齐。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "TRX",
+      "description": "1. アンカーを確認し、ストラップの長さを左右そろえ、完全にコントロールできる体の角度を選びます。\n2. 選んだプル、プレス、スクワット、ヒップヒンジ、プランクの動作中は両方のストラップに張りを保ちます。\n3. 体のラインを崩さずに、足をアンカーに近づけると負荷が増し、遠ざけると負荷が減ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "TRX",
+      "description": "1. 앵커를 점검하고 스트랩 길이를 똑같이 맞춘 뒤 완전히 통제할 수 있는 몸 각도를 고릅니다.\n2. 선택한 당기기, 밀기, 스쿼트, 힙 힌지 또는 플랭크 동작을 하는 동안 두 스트랩의 장력을 유지합니다.\n3. 몸 정렬을 잃지 않으면서 발을 앵커 쪽으로 옮기면 저항이 커지고 멀리 두면 줄어듭니다.",
+      "sectionTitle": "주요"
+    },
+    "th": {
+      "title": "TRX",
+      "description": "1. ตรวจจุดยึด ปรับสายทั้งสองให้ยาวเท่ากัน และเลือกมุมลำตัวที่ควบคุมได้เต็มที่\n2. รักษาความตึงของสายทั้งสองขณะทำท่าดึง ดัน สควอต พับสะโพก หรือแพลงก์ที่เลือก\n3. ขยับเท้าเข้าใกล้จุดยึดเพื่อเพิ่มแรงต้าน หรือถอยห่างเพื่อลดแรงต้าน โดยไม่เสียแนวลำตัว",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "TRX",
+      "description": "1. Проверьте крепление, выровняйте длину петель и выберите угол наклона тела, при котором сохраняется полный контроль.\n2. Держите обе петли натянутыми во время выбранного движения: тяги, жима, приседа, наклона или планки.\n3. Ставьте стопы ближе к креплению, чтобы увеличить нагрузку, или дальше, чтобы уменьшить её, не теряя линии тела.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "TRX",
+      "description": "1. Перевірте кріплення, вирівняйте довжину петель і оберіть кут нахилу тіла, за якого зберігається повний контроль.\n2. Тримайте обидві петлі натягнутими під час обраного руху: тяги, жиму, присідання, нахилу чи планки.\n3. Ставте стопи ближче до кріплення, щоб збільшити навантаження, або далі, щоб зменшити його, не втрачаючи лінії тіла.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "1.48",
+  "key": "open_sparring",
+  "title": "Open Sparring",
+  "description": "1. Spar only under a qualified coach, in full protective equipment, with a medical card where required and a partner matched for age, experience and weight.\n2. Use the full range of punches, defences and footwork at full speed while keeping the power reduced, treating the round as learning rather than a contest.\n3. Take the coach's feedback on the move, and stop immediately at the coach's call, at signs of fatigue, or at any loss of control.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.8,
+    "moderate": 9.3,
+    "vigorous": 12.3,
+    "lightCode": "15110",
+    "moderateCode": "15125",
+    "vigorousCode": "15100"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "level": 3,
+  "section": "4 Intermediate",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Open Sparring",
+      "description": "1. Spar only under a qualified coach, in full protective equipment, with a medical card where required and a partner matched for age, experience and weight.\n2. Use the full range of punches, defences and footwork at full speed while keeping the power reduced, treating the round as learning rather than a contest.\n3. Take the coach's feedback on the move, and stop immediately at the coach's call, at signs of fatigue, or at any loss of control.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Sparring libre",
+      "description": "1. Haz sparring solo con un entrenador cualificado, con todo el equipo de protección, ficha médica cuando se exija y un compañero de edad, experiencia y peso similares.\n2. Usa todo el repertorio de golpes, defensas y desplazamientos a velocidad plena pero con potencia reducida, tratando el asalto como aprendizaje y no como combate.\n3. Recibe las correcciones del entrenador en movimiento y detente de inmediato a su señal, ante la fatiga o ante cualquier pérdida de control.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Sparring livre",
+      "description": "1. Faça sparring apenas com um treinador qualificado, com todo o equipamento de proteção, ficha médica quando exigida e um parceiro de idade, experiência e peso compatíveis.\n2. Use todo o repertório de golpes, defesas e movimentação em velocidade total, mas com potência reduzida, tratando o round como aprendizado e não como luta.\n3. Receba as correções do treinador em movimento e pare imediatamente ao sinal dele, ao sinal de fadiga ou a qualquer perda de controle.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Sparring libre",
+      "description": "1. Ne faites du sparring qu’avec un entraîneur qualifié, toutes protections portées, avec un certificat médical si exigé et un partenaire d’âge, d’expérience et de poids comparables.\n2. Utilisez tout le répertoire de coups, de défenses et de déplacements à pleine vitesse mais avec une puissance réduite, en considérant le round comme un apprentissage et non un combat.\n3. Intégrez les consignes de l’entraîneur en mouvement et arrêtez immédiatement à son signal, au premier signe de fatigue ou à toute perte de contrôle.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "Freies Sparring",
+      "description": "1. Spare nur unter einem qualifizierten Trainer, in voller Schutzausrüstung, mit ärztlicher Freigabe wo verlangt und mit einem nach Alter, Erfahrung und Gewicht passenden Partner.\n2. Setze alle Schläge, Verteidigungen und die Beinarbeit in vollem Tempo, aber mit reduzierter Wucht ein und betrachte die Runde als Lernen, nicht als Wettkampf.\n3. Nimm Trainerhinweise in der Bewegung auf und brich sofort ab, wenn der Trainer ruft, Ermüdung auftritt oder die Kontrolle verloren geht.",
+      "sectionTitle": "Fortgeschritten"
+    },
+    "it": {
+      "title": "Sparring libero",
+      "description": "1. Fai sparring solo con un allenatore qualificato, con tutte le protezioni, certificato medico se richiesto e un compagno di età, esperienza e peso simili.\n2. Usa tutto il repertorio di colpi, difese e spostamenti a piena velocità ma con potenza ridotta, considerando la ripresa un apprendimento e non un incontro.\n3. Accogli le correzioni dell’allenatore in movimento e fermati subito al suo richiamo, ai segni di fatica o a qualsiasi perdita di controllo.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "自由实战",
+      "description": "1. 只在合格教练在场时进行实战，穿戴全部护具，按要求持有医疗证明，并与年龄、经验和体重相当的同伴配对。\n2. 以全速运用全部拳法、防守和步法，但降低力量，把这一回合当作学习而不是比赛。\n3. 在移动中接受教练指导；教练叫停、出现疲劳或任何失控时立即停止。",
+      "sectionTitle": "中级"
+    },
+    "ja": {
+      "title": "オープンスパーリング",
+      "description": "1. 資格のあるコーチの下でのみ行い、防具をすべて着け、必要な場合はメディカルカードを持ち、年齢・経験・体重の釣り合う相手と組みます。\n2. すべてのパンチ、ディフェンス、フットワークをフルスピードで使いますが、パワーは抑え、試合ではなく学びのラウンドとして行います。\n3. 動きながらコーチの指示を受け、コーチの合図、疲労の兆候、制御の乱れがあればすぐに止めます。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "오픈 스파링",
+      "description": "1. 자격 있는 코치 아래에서만, 보호구를 모두 착용하고, 필요한 경우 메디컬 카드를 갖추고, 나이·경험·체중이 맞는 상대와 스파링합니다.\n2. 모든 펀치, 방어, 풋워크를 최고 속도로 쓰되 힘은 줄이고, 라운드를 시합이 아닌 배움의 과정으로 여깁니다.\n3. 움직이면서 코치의 피드백을 받고, 코치의 신호나 피로 징후, 통제 상실 시 즉시 멈춥니다.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "สปาร์ริงอิสระ",
+      "description": "1. สปาร์เฉพาะเมื่อมีโค้ชที่มีคุณสมบัติ สวมอุปกรณ์ป้องกันครบ มีบัตรแพทย์เมื่อจำเป็น และจับคู่กับคนที่อายุ ประสบการณ์ และน้ำหนักใกล้เคียงกัน\n2. ใช้หมัด การป้องกัน และฟุตเวิร์กได้ทั้งหมดด้วยความเร็วเต็มที่ แต่ลดแรงลง และถือว่ายกนี้เป็นการเรียนรู้ ไม่ใช่การแข่งขัน\n3. รับคำแนะนำของโค้ชระหว่างเคลื่อนที่ และหยุดทันทีเมื่อโค้ชสั่ง มีอาการล้า หรือเสียการควบคุม",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Вольный спарринг",
+      "description": "1. Проводите спарринг только под руководством квалифицированного тренера, в полной экипировке, с медицинским допуском при необходимости и с партнёром близкого возраста, опыта и веса.\n2. Используйте весь арсенал ударов, защит и передвижений в полном темпе, но со сниженной силой, относясь к раунду как к обучению, а не к бою.\n3. Принимайте подсказки тренера в движении и сразу останавливайтесь по его команде, при признаках усталости или потере контроля.",
+      "sectionTitle": "Средний"
+    },
+    "uk": {
+      "title": "Вільний спаринг",
+      "description": "1. Проводьте спаринг лише під керівництвом кваліфікованого тренера, у повному спорядженні, з медичним допуском за потреби та з партнером близького віку, досвіду й ваги.\n2. Використовуйте весь арсенал ударів, захистів і пересувань у повному темпі, але зі зниженою силою, сприймаючи раунд як навчання, а не бій.\n3. Приймайте підказки тренера в русі й одразу зупиняйтеся за його командою, за ознак утоми або в разі втрати контролю.",
+      "sectionTitle": "Середній"
+    }
+  }
+}

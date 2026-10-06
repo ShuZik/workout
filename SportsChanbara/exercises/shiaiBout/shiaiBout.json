@@ -1,0 +1,90 @@
+{
+  "id": "94.9",
+  "key": "sports_chanbara_shiai_bout",
+  "title": "Shiai Bout",
+  "description": "1. Both fighters wear face masks and start in guard at the start lines; a referee or partner calls the start.\n2. Fight ippon shobu: the first clean strike to a valid target wins, and simultaneous hits (aiuchi) score for neither.\n3. Stop at once on the call, return to the start lines, and bow before the next bout.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "sportsChanbara",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Shiai Bout",
+      "description": "1. Both fighters wear face masks and start in guard at the start lines; a referee or partner calls the start.\n2. Fight ippon shobu: the first clean strike to a valid target wins, and simultaneous hits (aiuchi) score for neither.\n3. Stop at once on the call, return to the start lines, and bow before the next bout.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Combate shiai",
+      "description": "1. Ambos luchadores llevan careta y empiezan en guardia en las líneas de salida; un árbitro o compañero da la señal.\n2. Combatid a ippon shobu: el primer golpe limpio a un objetivo válido gana, y los golpes simultáneos (aiuchi) no puntúan para nadie.\n3. Deteneos al instante a la voz, volved a las líneas de salida y saludad antes del siguiente combate.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Luta shiai",
+      "description": "1. Os dois lutadores usam máscara e começam em guarda nas linhas de partida; um árbitro ou parceiro dá o início.\n2. Lutem em ippon shobu: o primeiro golpe limpo em alvo válido vence, e golpes simultâneos (aiuchi) não pontuam para ninguém.\n3. Parem na hora ao comando, voltem às linhas de partida e cumprimentem antes da próxima luta.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Combat shiai",
+      "description": "1. Les deux combattants portent le masque et commencent en garde sur les lignes de départ ; un arbitre ou un partenaire donne le départ.\n2. Combattez en ippon shobu : la première frappe nette sur une cible valide l'emporte, et les touches simultanées (aiuchi) ne comptent pour personne.\n3. Arrêtez-vous aussitôt à l'annonce, revenez sur les lignes de départ et saluez avant le combat suivant.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Shiai-Kampf",
+      "description": "1. Beide Kämpfer tragen Gesichtsmasken und beginnen in Deckung an den Startlinien; ein Kampfrichter oder Partner gibt das Startkommando.\n2. Kämpft Ippon Shobu: Der erste saubere Treffer auf ein gültiges Ziel gewinnt, gleichzeitige Treffer (Aiuchi) zählen für keinen.\n3. Hört auf Kommando sofort auf, kehrt zu den Startlinien zurück und verbeugt euch vor dem nächsten Kampf.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Incontro shiai",
+      "description": "1. Entrambi i contendenti indossano la maschera e partono in guardia sulle linee di partenza; un arbitro o un partner dà il via.\n2. Combattete a ippon shobu: vince il primo colpo pulito su un bersaglio valido, e i colpi simultanei (aiuchi) non valgono per nessuno.\n3. Fermatevi subito al comando, tornate sulle linee di partenza e salutatevi prima del prossimo incontro.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "试合对战",
+      "description": "1. 双方戴好面罩，在起始线上以架势准备；由裁判或同伴发出开始口令。\n2. 采用一本胜负：首先干净击中有效部位者获胜，同时击中（相打）双方都不得分。\n3. 听到口令立即停止，回到起始线，行礼后再开始下一场。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "試合",
+      "description": "1. 両者とも面を着け、開始線で構えて立ち、審判または相手が始めの合図をかけます。\n2. 一本勝負で戦い、有効部位を最初に正確に打った方が勝ち、相打ちはどちらの得点にもなりません。\n3. 合図があればすぐに止め、開始線に戻って礼をしてから次の試合に移ります。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "시합 겨루기",
+      "description": "1. 두 선수 모두 안면 마스크를 쓰고 시작선에서 가드를 잡으며, 심판이나 파트너가 시작을 외칩니다.\n2. 잇폰 쇼부로 겨루며 유효 부위를 먼저 깨끗하게 친 사람이 이기고, 동시 타격(아이우치)은 누구의 득점도 아닙니다.\n3. 신호가 나오면 즉시 멈추고 시작선으로 돌아가 인사한 뒤 다음 겨루기를 합니다.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "การแข่งขันชิไอ",
+      "description": "1. ผู้แข่งทั้งสองสวมหน้ากากและเริ่มในท่าการ์ดที่เส้นเริ่ม กรรมการหรือคู่ฝึกให้สัญญาณเริ่ม\n2. แข่งแบบอิปปงโชบุ ผู้ที่ตีถูกเป้าที่ถูกต้องอย่างชัดเจนก่อนเป็นฝ่ายชนะ และการตีพร้อมกัน (ไอยูจิ) ไม่นับคะแนนให้ใคร\n3. หยุดทันทีเมื่อได้ยินสัญญาณ กลับไปที่เส้นเริ่ม และโค้งคำนับก่อนการแข่งครั้งถัดไป",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Поединок сиай",
+      "description": "1. Оба бойца в защитных масках начинают в стойке на стартовых линиях; судья или партнёр даёт команду к началу.\n2. Деритесь до одного очка (иппон сёбу): побеждает первый чистый удар в разрешённую цель, одновременные попадания (аиути) не засчитываются никому.\n3. По команде сразу остановитесь, вернитесь на стартовые линии и поклонитесь перед следующим поединком.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Двобій шіай",
+      "description": "1. Обидва бійці в захисних масках починають у стійці на стартових лініях; суддя чи партнер дає команду до початку.\n2. Бийтеся до одного очка (іппон шьобу): перемагає перший чистий удар у дозволену ціль, одночасні влучання (аіучі) не зараховуються нікому.\n3. За командою одразу зупиніться, поверніться на стартові лінії й вклоніться перед наступним двобоєм.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

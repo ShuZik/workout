@@ -1,0 +1,90 @@
+{
+  "id": "89.5",
+  "key": "savate_five_punch_chain",
+  "title": "Five-Punch Chain",
+  "description": "1. Face a partner in guard at punching distance, using focus mitts or agreed light assaut contact.\n2. Throw a chain of at least five punches that mixes straights, hooks and uppercuts while the feet keep moving.\n3. Exit on an angle in guard after the last punch, then swap roles and reset the distance.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "savate",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Five-Punch Chain",
+      "description": "1. Face a partner in guard at punching distance, using focus mitts or agreed light assaut contact.\n2. Throw a chain of at least five punches that mixes straights, hooks and uppercuts while the feet keep moving.\n3. Exit on an angle in guard after the last punch, then swap roles and reset the distance.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Cadena de cinco golpes",
+      "description": "1. Colócate frente a un compañero en guardia a distancia de puño, con manoplas o contacto ligero de asalto acordado.\n2. Lanza una cadena de al menos cinco golpes que mezcle rectos, ganchos y uppercuts mientras los pies siguen moviéndose.\n3. Sal en ángulo y en guardia tras el último golpe; luego intercambiad roles y restableced la distancia.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Cadeia de cinco socos",
+      "description": "1. Fique de frente para um parceiro em guarda na distância de soco, com manoplas ou contato leve de assalto combinado.\n2. Lance uma cadeia de pelo menos cinco socos misturando diretos, ganchos e uppercuts enquanto os pés continuam se movendo.\n3. Saia em ângulo e em guarda após o último soco; depois troquem os papéis e reajustem a distância.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Enchaînement de cinq coups de poing",
+      "description": "1. Face à un partenaire en garde à distance de poing, avec pattes d’ours ou contact d’assaut léger convenu.\n2. Enchaînez au moins cinq coups de poing mêlant directs, crochets et uppercuts tout en gardant les appuis mobiles.\n3. Sortez en angle et en garde après le dernier coup, puis inversez les rôles et replacez la distance.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Fünfer-Schlagkette",
+      "description": "1. Stelle dich einem Partner in Deckung auf Schlagdistanz gegenüber, mit Pratzen oder vereinbartem leichtem Assaut-Kontakt.\n2. Schlage eine Kette aus mindestens fünf Schlägen mit Geraden, Haken und Aufwärtshaken, während die Füße in Bewegung bleiben.\n3. Verlasse nach dem letzten Schlag in Deckung schräg die Linie, tauscht dann die Rollen und stellt die Distanz neu ein.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Catena di cinque pugni",
+      "description": "1. Mettiti di fronte a un compagno in guardia a distanza di pugno, con colpitori o contatto leggero d’assalto concordato.\n2. Tira una catena di almeno cinque pugni che mescoli diretti, ganci e montanti mentre i piedi restano in movimento.\n3. Esci in angolo in guardia dopo l’ultimo pugno, poi scambiatevi i ruoli e ristabilite la distanza.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "五拳连击",
+      "description": "1. 与同伴在拳法距离相对站成防守势，使用手靶或约定的轻接触对练。\n2. 打出至少五拳的连击，混合直拳、勾拳和上勾拳，同时双脚保持移动。\n3. 最后一拳后以防守势斜向退出，然后交换角色并重新调整距离。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "5連続パンチ",
+      "description": "1. ミットまたは合意したライトなアソーの接触で、パンチの間合いで構えたパートナーと向き合います。\n2. 足を動かし続けながら、ストレート、フック、アッパーを混ぜた少なくとも5発の連打を出します。\n3. 最後のパンチの後は構えたまま角度をつけて抜け、役割を交代して間合いを戻します。",
+      "sectionTitle": "パートナードリル"
+    },
+    "ko": {
+      "title": "5연속 펀치",
+      "description": "1. 미트 또는 합의된 가벼운 아소 접촉으로 펀치 거리에서 가드를 잡은 파트너와 마주 섭니다.\n2. 발을 계속 움직이며 스트레이트, 훅, 어퍼컷을 섞어 최소 5개 펀치를 연결합니다.\n3. 마지막 펀치 후 가드를 유지한 채 각도를 틀어 빠지고, 역할을 바꿔 거리를 다시 맞춥니다.",
+      "sectionTitle": "파트너 드릴"
+    },
+    "th": {
+      "title": "ชุดหมัดห้าครั้ง",
+      "description": "1. ยืนเผชิญคู่ฝึกในการ์ดที่ระยะหมัด ใช้เป้ามือหรือการสัมผัสอัสโซเบาตามที่ตกลง\n2. ปล่อ��หมัดต่อเนื่องอย่างน้อยห้าครั้ง ผสมหมัดตรง ฮุก และอัปเปอร์คัต โดยเท้ายังเคลื่อนที่ตลอด\n3. หลังหมัดสุดท้ายให้ออกเป็นมุมในการ์ด แล้วสลับบทบาทและตั้งระยะใหม่",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Серия из пяти ударов руками",
+      "description": "1. Встаньте напротив партнёра в стойке на дистанции удара рукой, с лапами или с оговорённым лёгким контактом ассо.\n2. Нанесите серию не менее чем из пяти ударов, сочетая прямые, боковые и апперкоты, не прекращая работы ног.\n3. После последнего удара уйдите под углом в стойке, затем поменяйтесь ролями и восстановите дистанцию.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Серія з п’яти ударів руками",
+      "description": "1. Станьте навпроти партнера в стійці на дистанції удару рукою, з лапами або з узгодженим легким контактом асо.\n2. Нанесіть серію щонайменше з п’яти ударів, поєднуючи прямі, бокові й аперкоти, не припиняючи роботи ніг.\n3. Після останнього удару вийдіть під кутом у стійці, потім поміняйтеся ролями й відновіть дистанцію.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

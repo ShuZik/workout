@@ -1,0 +1,90 @@
+{
+  "id": "108.7",
+  "key": "wing_chun_baat_jaam_do",
+  "title": "Baat Jaam Do",
+  "description": "1. Hold a pair of blunt training butterfly knives reversed along the forearms and stand in the training stance with clear space around you.\n2. Perform the knife form with cutting, chopping, and deflecting actions coordinated with advancing, retreating, and turning footwork.\n3. Keep both blades on controlled paths away from your own body, then return them along the forearms and close.",
+  "color": "#E6BF00",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "pro",
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Baat Jaam Do",
+      "description": "1. Hold a pair of blunt training butterfly knives reversed along the forearms and stand in the training stance with clear space around you.\n2. Perform the knife form with cutting, chopping, and deflecting actions coordinated with advancing, retreating, and turning footwork.\n3. Keep both blades on controlled paths away from your own body, then return them along the forearms and close.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Baat Jaam Do",
+      "description": "1. Sujeta un par de cuchillos mariposa de entrenamiento sin filo invertidos a lo largo de los antebrazos y colócate en la posición de entrenamiento con espacio libre alrededor.\n2. Ejecuta la forma de cuchillos con cortes, tajos y desvíos coordinados con juego de pies de avance, retroceso y giro.\n3. Mantén ambas hojas en trayectorias controladas lejos de tu propio cuerpo, luego devuélvelas a lo largo de los antebrazos y cierra.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Baat Jaam Do",
+      "description": "1. Segure um par de facas-borboleta de treino sem fio invertidas ao longo dos antebraços e fique na base de treino com espaço livre ao redor.\n2. Execute a forma das facas com cortes, golpes e desvios coordenados com movimentação de avanço, recuo e giro.\n3. Mantenha as duas lâminas em trajetórias controladas longe do próprio corpo, depois devolva-as ao longo dos antebraços e feche.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Baat Jaam Do",
+      "description": "1. Tenez une paire de couteaux papillon d’entraînement émoussés, inversés le long des avant-bras, dans la position d’entraînement avec de l’espace autour.\n2. Exécutez la forme des couteaux avec coupes, frappes de taille et déviations coordonnées à un jeu de jambes en avancée, recul et pivot.\n3. Gardez les deux lames sur des trajectoires contrôlées loin de votre corps, puis ramenez-les le long des avant-bras et fermez.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Baat Jaam Do",
+      "description": "1. Halte ein Paar stumpfe Trainings-Schmetterlingsmesser umgekehrt an den Unterarmen und stehe im Trainingsstand mit freiem Raum um dich.\n2. Laufe die Messerform mit Schnitt-, Hieb- und Ablenkaktionen, abgestimmt auf vorwärts, rückwärts und drehend ausgeführte Schrittarbeit.\n3. Führe beide Klingen kontrolliert und fern vom eigenen Körper, lege sie dann wieder an die Unterarme und schließe.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Baat Jaam Do",
+      "description": "1. Tieni un paio di coltelli a farfalla da allenamento senza filo rovesciati lungo gli avambracci e mettiti nella posizione di allenamento con spazio libero intorno.\n2. Esegui la forma dei coltelli con tagli, fendenti e deviazioni coordinati con spostamenti in avanzamento, arretramento e rotazione.\n3. Mantieni entrambe le lame su traiettorie controllate lontane dal tuo corpo, poi riportale lungo gli avambracci e chiudi.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "八斩刀",
+      "description": "1. 双手反握一对无刃训练用八斩刀，刀身贴于前臂，以马步站立，周围空间开阔。\n2. 演练八斩刀法，以斩、劈、拨等刀法配合进、退、转的步法。\n3. 两刀的运行路线始终受控并远离自身，最后将刀收回贴于前臂收势。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "八斬刀",
+      "description": "1. 刃のない練習用胡蝶刀を一対、前腕に沿わせて逆手に持ち、周囲を空けた練習用の構えで立ちます。\n2. 前進・後退・転身の歩法に合わせて、斬り・打ち下ろし・払いの動作で刀の型を行います。\n3. 両刃を自分の体から離した制御された軌道に保ち、前腕に沿わせて戻して収めます。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "팔참도",
+      "description": "1. 날이 없는 훈련용 나비칼 한 쌍을 팔뚝을 따라 거꾸로 쥐고 주변을 비운 수련 자세로 섭니다.\n2. 전진, 후퇴, 회전 스텝에 맞춰 베기, 내려베기, 쳐내기 동작으로 칼 품을 수행합니다.\n3. 두 칼날을 자기 몸에서 떨어진 통제된 궤도로 유지하고 팔뚝을 따라 되돌려 마칩니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "มีดผีเสื้อแปดฟัน",
+      "description": "1. ถือมีดผีเสื้อฝึกแบบไม่มีคมหนึ่งคู่ในลักษณะกลับด้านแนบแขน แล้วยืนในท่าฝึกโดยรอบตัวโล่ง\n2. รำชุดมีดด้วยการตัด ฟัน และปัด ประสานกับการก้าวเข้า ถอย และหมุนตัว\n3. รักษาใบมีดทั้งสองให้อยู่ในแนวที่ควบคุมได้และห่างจากร่างกายตนเอง แล้วเก็บกลับแนบแขนและปิดท่ารำ",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Баат Чжам До (ножи-бабочки)",
+      "description": "1. Держите пару тупых тренировочных ножей-бабочек обратным хватом вдоль предплечий и встаньте в тренировочную стойку со свободным пространством вокруг.\n2. Выполните форму с ножами: режущие, рубящие и отводящие действия, согласованные с шагами вперёд, назад и поворотами.\n3. Ведите оба клинка по контролируемым траекториям вдали от собственного тела, затем верните их вдоль предплечий и завершите.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Баат Чжам До (ножі-метелики)",
+      "description": "1. Тримайте пару тупих тренувальних ножів-метеликів зворотним хватом уздовж передпліч і станьте в тренувальну стійку з вільним простором довкола.\n2. Виконайте форму з ножами: різальні, рубальні й відвідні дії, узгоджені з кроками вперед, назад і поворотами.\n3. Ведіть обидва клинки контрольованими траєкторіями далеко від власного тіла, потім поверніть їх уздовж передпліч і завершіть.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

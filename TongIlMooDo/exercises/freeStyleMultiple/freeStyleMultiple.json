@@ -1,0 +1,90 @@
+{
+  "id": "104.5",
+  "key": "tong_il_moo_do_free_style_multiple",
+  "title": "Free Style Multiple",
+  "description": "1. Place one defender in the center of a padded area with several attackers spaced around, all agreeing on controlled speed and contact.\n2. Attackers come in one at a time on the coach's signal with a single attack; the defender deals with each using blocks, evasions, throws, or controlled counters and repositions for the next.\n3. Stop at the coach's call or any loss of control, let fallen partners clear the area, and rotate the defender role.",
+  "color": "#67C4ED",
+  "colorType": "cyan",
+  "workoutType": "tongIlMooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "pro",
+  "section": "3 Group Sparring",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Free Style Multiple",
+      "description": "1. Place one defender in the center of a padded area with several attackers spaced around, all agreeing on controlled speed and contact.\n2. Attackers come in one at a time on the coach's signal with a single attack; the defender deals with each using blocks, evasions, throws, or controlled counters and repositions for the next.\n3. Stop at the coach's call or any loss of control, let fallen partners clear the area, and rotate the defender role.",
+      "sectionTitle": "Group Sparring"
+    },
+    "es": {
+      "title": "Estilo libre múltiple",
+      "description": "1. Coloca a un defensor en el centro de una zona acolchada con varios atacantes alrededor, todos de acuerdo en velocidad y contacto controlados.\n2. Los atacantes entran de uno en uno a la señal del entrenador con un único ataque; el defensor responde a cada uno con bloqueos, esquivas, proyecciones o contraataques controlados y se recoloca para el siguiente.\n3. Deteneos a la orden del entrenador o ante cualquier pérdida de control, dejad que los compañeros caídos salgan de la zona y rotad el papel de defensor.",
+      "sectionTitle": "Combate en grupo"
+    },
+    "pt": {
+      "title": "Estilo livre múltiplo",
+      "description": "1. Coloque um defensor no centro de uma área acolchoada com vários atacantes ao redor, todos de acordo com velocidade e contato controlados.\n2. Os atacantes entram um de cada vez ao sinal do treinador com um único ataque; o defensor responde a cada um com bloqueios, esquivas, projeções ou contra-ataques controlados e se reposiciona para o próximo.\n3. Parem ao comando do treinador ou a qualquer perda de controle, deixem os parceiros caídos saírem da área e revezem o papel de defensor.",
+      "sectionTitle": "Combate em grupo"
+    },
+    "fr": {
+      "title": "Style libre multiple",
+      "description": "1. Placez un défenseur au centre d’une zone matelassée avec plusieurs attaquants autour, tous d’accord sur une vitesse et un contact contrôlés.\n2. Les attaquants entrent un par un au signal de l’entraîneur avec une attaque unique ; le défenseur traite chacun par blocages, esquives, projections ou ripostes contrôlées et se replace pour le suivant.\n3. Arrêtez au signal de l’entraîneur ou à toute perte de contrôle, laissez les partenaires tombés dégager la zone et faites tourner le rôle de défenseur.",
+      "sectionTitle": "Combat en groupe"
+    },
+    "de": {
+      "title": "Freier Stil gegen mehrere",
+      "description": "1. Einen Verteidiger in die Mitte einer gepolsterten Fläche stellen, mehrere Angreifer verteilt drumherum, alle mit kontrolliertem Tempo und Kontakt einverstanden.\n2. Die Angreifer kommen auf Trainersignal einzeln mit einem Angriff; der Verteidiger begegnet jedem mit Blocks, Ausweichen, Würfen oder kontrollierten Kontern und positioniert sich für den nächsten neu.\n3. Beim Trainerkommando oder Kontrollverlust stoppen, gestürzte Partner die Fläche verlassen lassen und die Verteidigerrolle wechseln.",
+      "sectionTitle": "Gruppensparring"
+    },
+    "it": {
+      "title": "Stile libero multiplo",
+      "description": "1. Posiziona un difensore al centro di un’area imbottita con diversi attaccanti intorno, tutti d’accordo su velocità e contatto controllati.\n2. Gli attaccanti entrano uno alla volta al segnale dell’allenatore con un solo attacco; il difensore affronta ciascuno con parate, schivate, proiezioni o contrattacchi controllati e si riposiziona per il successivo.\n3. Fermatevi al comando dell’allenatore o a qualsiasi perdita di controllo, lasciate uscire i partner caduti e ruotate il ruolo di difensore.",
+      "sectionTitle": "Combattimento di gruppo"
+    },
+    "zh-Hans": {
+      "title": "多人自由对练",
+      "description": "1. 一名防守者站在有护垫区域的中央，几名进攻者分散在周围，全体约定受控的速度和接触。\n2. 进攻者按教练信号逐一上前做单一攻击；防守者以格挡、闪避、摔法或受控反击应对每人，并为下一人重新站位。\n3. 教练喊停或出现失控即停，让倒地的同伴离开区域，轮换防守者角色。",
+      "sectionTitle": "多人实战"
+    },
+    "ja": {
+      "title": "多人数自由組手",
+      "description": "1. マットを敷いた場所の中央に受け手一人、周囲に複数の攻め手を配置し、全員が制御した速さと接触に合意します。\n2. 攻め手は指導者の合図で一人ずつ一つの攻撃で入り、受け手はそれぞれを受け、かわし、投げ、制御した反撃で処理し、次に備えて位置を直します。\n3. 指導者の合図や制御を失ったときは止め、倒れた相手を場外へ出し、受け手を交代します。",
+      "sectionTitle": "多人数組手"
+    },
+    "ko": {
+      "title": "다수 자유 대련",
+      "description": "1. 매트를 깐 구역 가운데에 수비자 한 명, 주변에 여러 공격자를 두고 모두 통제된 속도와 접촉에 합의합니다.\n2. 공격자는 지도자의 신호에 한 명씩 한 가지 공격으로 들어오고, 수비자는 막기, 피하기, 던지기, 통제된 반격으로 각각 대응하며 다음 공격에 맞춰 위치를 잡습니다.\n3. 지도자의 신호나 통제가 무너지면 멈추고 넘어진 짝은 구역 밖으로 나가게 하며 수비자 역할을 교대합니다.",
+      "sectionTitle": "다수 겨루기"
+    },
+    "th": {
+      "title": "ฟรีสไตล์หลายคน",
+      "description": "1. ให้ผู้ป้องกันหนึ่งคนอยู่กลางพื้นที่ปูเบาะ มีผู้โจมตีหลายคนกระจายรอบ ทุกคนตกลงความเร็วและการสัมผัสที่ควบคุม\n2. ผู้โจมตีเข้ามาทีละคนตามสัญญาณโค้ชด้วยการโจมตีเดียว ผู้ป้องกันรับมือแต่ละคนด้วยการปัด หลบ ทุ่ม หรือสวนอย่างควบคุม แล้วจัดตำแหน่งรับคนถัดไป\n3. หยุดเมื่อโค้ชสั่งหรือเมื่อเสียการควบคุม ให้คู่ที่ล้มออกจากพื้นที่ และหมุนเวียนบทบาทผู้ป้องกัน",
+      "sectionTitle": "การต่อสู้แบบกลุ่ม"
+    },
+    "ru": {
+      "title": "Свободный стиль против нескольких",
+      "description": "1. Поставьте одного защищающегося в центр застеленной зоны, вокруг несколько атакующих, все договорились о контролируемой скорости и контакте.\n2. Атакующие по сигналу тренера входят по одному с одной атакой; защищающийся справляется с каждым блоками, уходами, бросками или контролируемыми контратаками и перестраивается к следующему.\n3. Останавливайтесь по команде тренера или при любой потере контроля, дайте упавшим партнёрам покинуть зону и меняйте роль защищающегося.",
+      "sectionTitle": "Групповой спарринг"
+    },
+    "uk": {
+      "title": "Вільний стиль проти кількох",
+      "description": "1. Поставте одного захисника в центр застеленої зони, довкола кілька атакувальників, усі домовилися про контрольовану швидкість і контакт.\n2. Атакувальники за сигналом тренера входять по одному з однією атакою; захисник справляється з кожним блоками, відходами, кидками чи контрольованими контратаками й перешиковується до наступного.\n3. Зупиняйтеся за командою тренера або за будь-якої втрати контролю, дайте партнерам, що впали, залишити зону, і міняйте роль захисника.",
+      "sectionTitle": "Груповий спаринг"
+    }
+  }
+}

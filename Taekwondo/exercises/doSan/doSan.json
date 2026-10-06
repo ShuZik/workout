@@ -1,0 +1,90 @@
+{
+  "id": "8.30",
+  "key": "taekwondo_do_san",
+  "title": "Do-San",
+  "description": "1. Start in parallel ready stance and perform the 24-movement pattern, opening with a high outer forearm side block and reverse punch in walking stance.\n2. Include the straight fingertip thrust with the spin-out release, high back-fist strikes, wedging blocks and front snap kicks.\n3. Finish with the rising blocks and sitting-stance knife-hand strikes, then return to parallel ready stance.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Do-San",
+      "description": "1. Start in parallel ready stance and perform the 24-movement pattern, opening with a high outer forearm side block and reverse punch in walking stance.\n2. Include the straight fingertip thrust with the spin-out release, high back-fist strikes, wedging blocks and front snap kicks.\n3. Finish with the rising blocks and sitting-stance knife-hand strikes, then return to parallel ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Do-San",
+      "description": "1. Empieza en posición de preparación paralela y realiza el patrón de 24 movimientos, abriendo con un bloqueo lateral alto de antebrazo exterior y puñetazo inverso en posición de caminar.\n2. Incluye la estocada recta con la punta de los dedos con liberación girando, golpes altos con dorso del puño, bloqueos en cuña y patadas frontales rápidas.\n3. Termina con los bloqueos ascendentes y los golpes de mano de cuchillo en posición sentada y vuelve a la posición de preparación paralela.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Do-San",
+      "description": "1. Comece na posição de preparação paralela e execute o padrão de 24 movimentos, abrindo com bloqueio lateral alto de antebraço externo e soco inverso em base de caminhada.\n2. Inclua a estocada reta com a ponta dos dedos com libertação girando, golpes altos com o dorso do punho, bloqueios em cunha e chutes frontais rápidos.\n3. Termine com os bloqueios ascendentes e golpes de mão em faca em base sentada e volte à posição de preparação paralela.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Do-San",
+      "description": "1. Partez en position de préparation parallèle et exécutez l’enchaînement de 24 mouvements, en ouvrant par un blocage latéral haut avant-bras extérieur et un coup de poing inversé en position de marche.\n2. Intégrez le pique direct du bout des doigts avec dégagement en pivot, les revers du poing hauts, les blocages en coin et les coups de pied directs fouettés.\n3. Terminez par les blocages montants et les frappes main en sabre en position assise, puis revenez en position de préparation parallèle.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Do-San",
+      "description": "1. Beginne im parallelen Bereitschaftsstand und laufe die 24 Bewegungen, eröffnet mit hohem Außenunterarm-Seitblock und Gegenfauststoß im Gehstand.\n2. Baue den geraden Fingerspitzenstich mit Drehbefreiung, hohe Rückfaustschläge, Keilblocks und schnelle Vorwärtstritte ein.\n3. Schließe mit den Aufwärtsblocks und Handkantenschlägen im Sitzstand ab und kehre in den parallelen Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Do-San",
+      "description": "1. Parti dalla posizione di pronti parallela ed esegui la forma di 24 movimenti, aprendo con una parata laterale alta d’avambraccio esterno e pugno inverso in posizione di cammino.\n2. Inserisci la stoccata diritta con la punta delle dita con liberazione in rotazione, colpi alti di dorso del pugno, parate a cuneo e calci frontali rapidi.\n3. Concludi con le parate in alto e i colpi a mano a coltello in posizione seduta, poi torna alla posizione di pronti parallela.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "岛山型（Do-San）",
+      "description": "1. 以平行预备式开始，完成24个动作，开头为行步上段外腕侧挡接反手冲拳���\n2. 包括直指尖刺击后转身解脱、上段背拳击打、楔形格挡和前踢。\n3. 以上挡和坐马步手刀击打收尾，然后回到平行预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "トサン（島山）",
+      "description": "1. 平行準備立ちから始め、ウォーキングスタンスでの上段外腕横受けと逆突きで24動作の型を開始します。\n2. 貫手と回転による手首の外し、上段裏拳打ち、くさび受け、前蹴りを含めます。\n3. 上げ受けと騎馬立ちの手刀打ちで締めくくり、平行準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "도산",
+      "description": "1. 나란히 준비서기에서 시작해 걷는서기 상단 바깥팔목 옆막기와 반대지르기로 24동작 틀을 엽니다.\n2. 곧은 손끝 찌르기와 돌며 빼기, 상단 등주먹 치기, 헤쳐막기, 앞차기를 포함합니다.\n3. 올려막기와 앉은서기 손칼 치기로 마무리하고 나란히 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "โดซาน",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบขนานและทำรูปแบบ 24 จังหวะ โดยเปิดด้วยการปัดข้างระดับสูงด้วยแขนด้านนอกและหมัดสวนในท่ายืนเดิน\n2. รวมการแทงด้วยปลายนิ้วตรงพร้อมการหมุนตัวสะบัดหลุด การตีด้วยหลังกำปั้นระดับสูง การปัดแบบลิ่ม และการเตะตรงด้านหน้า\n3. จบด้วยการปัดขึ้นและการฟันด้วยสันมือในท่ายืนนั่ง แล้วกลับสู่ท่ายืนเตรียมแบบขนาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тосан",
+      "description": "1. Начните из параллельной готовой стойки и выполните туль из 24 движений, открыв его верхним боковым блоком внешней стороной предплечья и обратным ударом в шаговой стойке.\n2. Включите прямой тычок кончиками пальцев с освобождением разворотом, удары тыльной стороной кулака на верхний уровень, клиновые блоки и прямые удары ногой.\n3. Завершите верхними блоками и ударами ребром ладони в стойке всадника и вернитесь в параллельную готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тосан",
+      "description": "1. Почніть із паралельної готової стійки й виконайте туль із 24 рухів, відкривши його верхнім бічним блоком зовнішнім боком передпліччя та зворотним ударом у кроковій стійці.\n2. Додайте прямий тичок кінчиками пальців зі звільненням розворотом, удари тильним боком кулака на верхній рівень, клинові блоки й прямі удари ногою.\n3. Завершіть верхніми блоками й ударами ребром долоні в стійці вершника та поверніться в паралельну готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "53.1",
+  "key": "dambe",
+  "title": "Dambe",
+  "description": "1. Stand side-on with the strong-side fist cocked back as the spear hand and the other hand extended open, palm toward the opponent, as the shield.\n2. Step in and strike with the spear hand while the shield hand measures distance, covers, or parries, adding occasional lead-leg kicks.\n3. Return the shield hand forward after every strike and keep to wrapped hands, pads, and controlled contact throughout the interval.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "dambe",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.8,
+    "moderate": 9.3,
+    "vigorous": 12.3,
+    "lightCode": "15110",
+    "moderateCode": "15125",
+    "vigorousCode": "15100"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dambe",
+      "description": "1. Stand side-on with the strong-side fist cocked back as the spear hand and the other hand extended open, palm toward the opponent, as the shield.\n2. Step in and strike with the spear hand while the shield hand measures distance, covers, or parries, adding occasional lead-leg kicks.\n3. Return the shield hand forward after every strike and keep to wrapped hands, pads, and controlled contact throughout the interval.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Dambe",
+      "description": "1. Colócate de perfil con el puño fuerte armado atrás como mano lanza y la otra mano abierta y extendida, palma hacia el rival, como escudo.\n2. Entra y golpea con la mano lanza mientras la mano escudo mide la distancia, cubre o desvía, añadiendo alguna patada con la pierna adelantada.\n3. Devuelve la mano escudo al frente tras cada golpe y trabaja siempre con vendas, paos y contacto controlado durante el intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Dambe",
+      "description": "1. Fique de lado com o punho forte armado atrás como mão lança e a outra mão aberta e estendida, palma para o adversário, como escudo.\n2. Entre e golpeie com a mão lança enquanto a mão escudo mede a distância, cobre ou desvia, acrescentando alguns chutes com a perna da frente.\n3. Leve a mão escudo de volta à frente após cada golpe e use sempre bandagens, aparadores e contato controlado durante o intervalo.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Dambe",
+      "description": "1. Placez-vous de profil, poing fort armé en arrière comme main lance et l’autre main ouverte et tendue, paume vers l’adversaire, comme bouclier.\n2. Entrez et frappez avec la main lance pendant que la main bouclier mesure la distance, couvre ou dévie, en ajoutant parfois un coup de pied de la jambe avant.\n3. Ramenez la main bouclier devant après chaque frappe et gardez mains bandées, pattes et contact contrôlé pendant tout l’intervalle.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Dambe",
+      "description": "1. Stehe seitlich, die starke Faust als Speerhand zurückgezogen, die andere Hand offen ausgestreckt mit der Handfläche zum Gegner als Schild.\n2. Tritt ein und schlage mit der Speerhand, während die Schildhand Distanz misst, deckt oder ablenkt; füge gelegentlich Tritte mit dem vorderen Bein hinzu.\n3. Bringe die Schildhand nach jedem Schlag wieder nach vorn und arbeite das ganze Intervall mit Bandagen, Pratzen und kontrolliertem Kontakt.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Dambe",
+      "description": "1. Mettiti di profilo con il pugno forte caricato indietro come mano lancia e l’altra mano aperta e tesa, palmo verso l’avversario, come scudo.\n2. Entra e colpisci con la mano lancia mentre la mano scudo misura la distanza, copre o devia, aggiungendo qualche calcio con la gamba anteriore.\n3. Riporta avanti la mano scudo dopo ogni colpo e lavora sempre con bende, colpitori e contatto controllato per tutto l’intervallo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "丹贝拳（Dambe）",
+      "description": "1. 侧身站立，强侧拳向后蓄力作为“矛手”，另一只手张开前伸、掌心朝向对手作为“盾手”。\n2. 上步用矛手击打，盾手负责测距、遮挡或拨挡，偶尔加入前腿踢击。\n3. 每次击打后把盾手送回前方，整个时段内使用缠手、手靶并控制接触力度。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "ダンベ",
+      "description": "1. 半身に構え、利き側の拳を「槍の手」として後ろに引き、もう一方の手を開いて前に伸ばし手のひらを相手に向けて「盾」にします。\n2. 踏み込んで槍の手で打ち、盾の手で距離を測り、覆い、払います。ときどき前足の蹴りも加えます。\n3. 打つたびに盾の手を前に戻し、インターバル中はバンデージ、ミット、コントロールした接触を守ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "담베",
+      "description": "1. 옆으로 서서 강한 쪽 주먹을 '창 손'으로 뒤로 당기고, 다른 손은 펴서 앞으로 뻗어 손바닥을 상대에게 향한 '방패'로 둡니다.\n2. 들어가며 창 손으로 치고 방패 손으로 거리를 재고 막거나 쳐 내며, 가끔 앞발 킥을 더합니다.\n3. 매 타격 후 방패 손을 앞으로 되돌리고 인터벌 내내 붕대, 미트, 통제된 접촉을 지킵니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ดัมเบ",
+      "description": "1. ยืนเอียงข้าง ง้างหมัดข้างถนัดไว้��้านหลังเป็น \"มือหอก\" อีกมือแบเหยียดไปข้างหน้า หันฝ่ามือเข้าหาคู่ต่อสู้เป็น \"โล่\"\n2. ก้าวเข้าและโจมตีด้วยมือหอก ขณะที่มือโล่กะระยะ ปิดป้อง หรือปัด และเสริมการเตะด้วยขาหน้าเป็นครั้งคราว\n3. ส่งมือโล่กลับไปข้างหน้าหลังทุกการโจมตี และใช้ผ้าพันมือ เป้า และการสัมผัสที่ควบคุมได้ตลอดช่วงเวลา",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Дамбе",
+      "description": "1. Встаньте боком: сильный кулак отведён назад как «копьё», другая рука раскрыта и вытянута вперёд ладонью к сопернику как «щит».\n2. Входите и бейте рукой-копьём, а рукой-щитом держите дистанцию, прикрывайтесь или отводите удары, иногда добавляя удары передней ногой.\n3. После каждого удара возвращайте руку-щит вперёд; весь интервал работайте в бинтах, по лапам и с контролируемым контактом.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Дамбе",
+      "description": "1. Станьте боком: сильний кулак відведений назад як «спис», друга рука розкрита й витягнута вперед долонею до суперника як «щит».\n2. Заходьте й бийте рукою-списом, а рукою-щитом тримайте дистанцію, прикривайтеся або відводьте удари, іноді додаючи удари передньою ногою.\n3. Після кожного удару повертайте руку-щит уперед; увесь інтервал працюйте в бинтах, на лапах і з контрольованим контактом.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

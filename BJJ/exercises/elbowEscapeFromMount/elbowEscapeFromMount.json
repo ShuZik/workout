@@ -1,0 +1,90 @@
+{
+  "id": "6.10",
+  "key": "bjj_elbow_escape_from_mount",
+  "title": "Elbow Escape from Mount",
+  "description": "1. From bottom mount, frame both forearms across the partner's hips and turn slightly onto one side.\n2. Push the near knee away, shrimp the hips back, and slide the lower knee between the bodies using the elbow-knee connection.\n3. Thread the second leg through to recover half or full guard, then square the hips to the partner.",
+  "color": "#4766C1",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "3 Escapes",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Elbow Escape from Mount",
+      "description": "1. From bottom mount, frame both forearms across the partner's hips and turn slightly onto one side.\n2. Push the near knee away, shrimp the hips back, and slide the lower knee between the bodies using the elbow-knee connection.\n3. Thread the second leg through to recover half or full guard, then square the hips to the partner.",
+      "sectionTitle": "Escapes"
+    },
+    "es": {
+      "title": "Escape de codo desde la montada",
+      "description": "1. Desde abajo en la montada, haz marco con ambos antebrazos sobre la cadera del compañero y gira ligeramente de lado.\n2. Empuja la rodilla cercana, haz el camarón con la cadera hacia atrás y desliza la rodilla de abajo entre ambos cuerpos usando la conexión codo-rodilla.\n3. Pasa la segunda pierna para recuperar la media guardia o la guardia completa y luego alinea la cadera frente al compañero.",
+      "sectionTitle": "Escapes"
+    },
+    "pt": {
+      "title": "Fuga de cotovelo da montada",
+      "description": "1. Por baixo da montada, enquadre os dois antebraços no quadril do parceiro e vire levemente de lado.\n2. Empurre o joelho próximo, faça a fuga de quadril para trás e deslize o joelho de baixo entre os corpos usando a conexão cotovelo-joelho.\n3. Passe a segunda perna para recuperar a meia-guarda ou a guarda completa e alinhe o quadril de frente para o parceiro.",
+      "sectionTitle": "Saídas"
+    },
+    "fr": {
+      "title": "Sortie coude-genou sous la montée",
+      "description": "1. Sous la montée, faites un cadre avec les deux avant-bras sur les hanches du partenaire et tournez-vous légèrement sur le côté.\n2. Repoussez le genou proche, faites une crevette en reculant les hanches et glissez le genou du bas entre vos corps grâce à la connexion coude-genou.\n3. Passez la deuxième jambe pour récupérer la demi-garde ou la garde complète, puis replacez les hanches face au partenaire.",
+      "sectionTitle": "Sorties"
+    },
+    "de": {
+      "title": "Ellbogenflucht aus dem Mount",
+      "description": "1. Bilde unten im Mount mit beiden Unterarmen einen Frame an der Hüfte des Partners und drehe dich leicht auf eine Seite.\n2. Drücke das nahe Knie weg, schiebe die Hüfte per Shrimp zurück und bringe das untere Knie über die Ellbogen-Knie-Verbindung zwischen eure Körper.\n3. Fädle das zweite Bein durch, um die halbe oder volle Guard zurückzugewinnen, und richte die Hüfte frontal zum Partner aus.",
+      "sectionTitle": "Befreiungen"
+    },
+    "it": {
+      "title": "Fuga di gomito dalla monta",
+      "description": "1. Da sotto in monta, fai un frame con entrambi gli avambracci sulle anche del partner e ruota leggermente su un fianco.\n2. Spingi via il ginocchio vicino, fai lo shrimp portando indietro le anche e infila il ginocchio inferiore tra i corpi usando la connessione gomito-ginocchio.\n3. Fai passare la seconda gamba per recuperare mezza guardia o guardia completa, poi riallinea le anche di fronte al partner.",
+      "sectionTitle": "Uscite"
+    },
+    "zh-Hans": {
+      "title": "骑乘下肘膝逃脱",
+      "description": "1. 在骑乘下位，双前臂架在搭档髋部，身体略微侧转。\n2. 推开近侧膝盖，虾行将髋部后移，利用肘膝连接把下方膝盖滑入两人身体之间。\n3. 再穿入第二条腿，恢复半防守或完全防守，然后将髋部正对搭档。",
+      "sectionTitle": "逃脱"
+    },
+    "ja": {
+      "title": "マウントからのエルボーエスケープ",
+      "description": "1. マウントの下から両前腕で相手の腰にフレームを作り、少し横向きになります。\n2. 手前の膝を押しのけ、エビで腰を後ろへ引き、肘と膝をつなげて下の膝を体の間に差し込みます。\n3. もう一方の脚も通してハーフガードかフルガードに戻し、腰を相手の正面に向けます。",
+      "sectionTitle": "エスケープ"
+    },
+    "ko": {
+      "title": "마운트 엘보 이스케이프",
+      "description": "1. 마운트 하위에서 두 전완으로 파트너의 엉덩이에 프레임을 만들고 살짝 옆으로 돕니다.\n2. 가까운 무릎을 밀어내고 새우빼기로 엉덩이를 뒤로 빼며, 팔꿈치와 무릎을 연결해 아래쪽 무릎을 두 몸 사이로 넣습니다.\n3. 두 번째 다리도 넣어 하프 가드나 풀 가드를 회복한 뒤 엉덩이를 파트너 정면으로 맞춥니다.",
+      "sectionTitle": "이스케이프"
+    },
+    "th": {
+      "title": "เอลโบว์เอสเคปจากเมาท์",
+      "description": "1. จากใต้เมาท์ ใช้ท่อนแขนทั้งสองยันสะโพกคู่ฝึก แล้วตะแคงตัวเล็กน้อย\n2. ดันเข่าฝั่งใกล้ออก ทำชริมป์ถอยสะโพกไปด้านหลัง และสอดเข่าล่างเข้าระหว่างลำตัวโดยใช้การเชื่อมศอกกับเข่า\n3. สอดขาข้างที่สองผ่านเข้ามาเพื่อกลับสู่ฮาล์ฟการ์ดหรือฟูลการ์ด แล้วจัดสะโพกให้หันตรงหาคู่ฝึก",
+      "sectionTitle": "การหนี"
+    },
+    "ru": {
+      "title": "Выход локтем из маунта",
+      "description": "1. Снизу из маунта упритесь обоими предплечьями в таз партнёра и слегка повернитесь на бок.\n2. Оттолкните ближнее колено, сделайте «креветку», отводя таз назад, и заведите нижнее колено между корпусами за счёт связки локоть–колено.\n3. Проведите вторую ногу, чтобы вернуть полугард или полный гард, затем разверните таз к партнёру.",
+      "sectionTitle": "Выходы"
+    },
+    "uk": {
+      "title": "Вихід ліктем із маунту",
+      "description": "1. Знизу з маунту впріться обома передпліччями в таз партнера й злегка поверніться на бік.\n2. Відштовхніть ближнє коліно, зробіть «креветку», відводячи таз назад, і заведіть нижнє коліно між тулубами завдяки зв’язці лікоть–коліно.\n3. Проведіть другу ногу, щоб повернути напівгард або повний гард, потім розверніть таз до партнера.",
+      "sectionTitle": "Виходи"
+    }
+  }
+}

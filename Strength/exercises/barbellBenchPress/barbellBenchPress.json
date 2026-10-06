@@ -1,0 +1,89 @@
+{
+  "id": "13.57",
+  "key": "strength_barbell_bench_press",
+  "title": "Barbell Bench Press",
+  "description": "1. Lie with eyes under the racked bar, feet planted, shoulder blades set, and hands evenly spaced.\n2. Unrack to straight arms, lower the bar toward the mid-chest with forearms near vertical, and keep the shoulders stable.\n3. Press the bar up and slightly back to straight arms, then secure it in the rack after the set.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Barbell Bench Press",
+      "description": "1. Lie with eyes under the racked bar, feet planted, shoulder blades set, and hands evenly spaced.\n2. Unrack to straight arms, lower the bar toward the mid-chest with forearms near vertical, and keep the shoulders stable.\n3. Press the bar up and slightly back to straight arms, then secure it in the rack after the set.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Press de banca con barra",
+      "description": "1. Túmbate con los ojos bajo la barra apoyada, los pies firmes, las escápulas colocadas y las manos a la misma distancia.\n2. Saca la barra con los brazos estirados, bájala hacia la mitad del pecho con los antebrazos casi verticales y mantén los hombros estables.\n3. Empuja la barra hacia arriba y ligeramente atrás hasta estirar los brazos y déjala asegurada en el soporte al terminar la serie.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Supino reto com barra",
+      "description": "1. Deite-se com os olhos sob a barra no suporte, os pés firmes, as escápulas posicionadas e as mãos com espaçamento uniforme.\n2. Retire a barra com os braços estendidos, abaixe-a em direção ao meio do peito com os antebraços quase verticais e mantenha os ombros estáveis.\n3. Empurre a barra para cima e levemente para trás até estender os braços e recoloque-a com segurança no suporte após a série.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Développé couché à la barre",
+      "description": "1. Allongez-vous, yeux sous la barre posée sur le rack, pieds ancrés, omoplates placées et mains à égale distance.\n2. Décrochez la barre bras tendus, descendez-la vers le milieu de la poitrine, avant-bras presque verticaux, en gardant les épaules stables.\n3. Poussez la barre vers le haut et légèrement vers l’arrière jusqu’aux bras tendus, puis replacez-la dans le rack en sécurité après la série.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Bankdrücken mit der Langhantel",
+      "description": "1. Lege dich so hin, dass die Augen unter der abgelegten Stange sind, Füße fest am Boden, Schulterblätter fixiert und Hände gleichmäßig verteilt.\n2. Hebe die Stange mit gestreckten Armen aus, senke sie mit fast senkrechten Unterarmen zur Brustmitte und halte die Schultern stabil.\n3. Drücke die Stange nach oben und leicht zurück bis zu gestreckten Armen und lege sie nach dem Satz sicher in die Ablage.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Panca piana con bilanciere",
+      "description": "1. Sdraiati con gli occhi sotto il bilanciere sul supporto, i piedi ben piantati, le scapole addotte e le mani equidistanti.\n2. Stacca il bilanciere a braccia tese, abbassalo verso il centro del petto con gli avambracci quasi verticali e mantieni le spalle stabili.\n3. Spingi il bilanciere in alto e leggermente indietro fino a braccia tese, poi riponilo in sicurezza sul supporto dopo la serie.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "杠铃卧推",
+      "description": "1. 仰卧，双眼位于架上杠铃正下方，双脚踩稳，肩胛骨收紧就位，双手握距对称。\n2. 手臂伸直将杠铃从架上取下，前臂接近垂直，将杠铃下放至胸部中段，肩部保持稳定。\n3. 将杠铃向上并略向后推至手臂伸直，完成一组后将其稳妥放回架上。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "バーベルベンチプレス",
+      "description": "1. ラックに掛けたバーの真下に目が来るように仰向けになり、足を床につけ、肩甲骨を寄せて、両手を均等な幅で握ります。\n2. 腕を伸ばしてバーをラックから外し、前腕をほぼ垂直にして胸の中央へ下ろし、肩を安定させます。\n3. バーを上方やや後ろへ押し上げて腕を伸ばし、セット後はラックに確実に戻します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "바벨 벤치 프레스",
+      "description": "1. 랙에 걸린 바 아래에 눈이 오도록 누워 발을 바닥에 고정하고 견갑골을 자리 잡은 뒤 손 간격을 균등하게 잡습니다.\n2. 팔을 펴 바를 랙에서 빼고 전완을 거의 수직으로 유지하며 가슴 중앙으로 내리고 어깨를 안정시킵니다.\n3. 바를 위쪽으로, 살짝 뒤로 밀어 팔을 펴고 세트를 마치면 랙에 안전하게 겁니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "เบนช์เพรสด้วยบาร์เบล",
+      "description": "1. นอนให้ตาอยู่ใต้บาร์ที่วางบนแร็ก วางเท้ามั่นคง จัดสะบักให้เข้าที่ และจับบาร์โดยให้มือห่างเท่ากัน\n2. ยกบาร์ออกจากแร็กด้วยแขนตรง ลดบาร์ลงหากลางอกโดยให้ปลายแขนเกือบตั้งฉากและไหล่มั่นคง\n3. ดันบาร์ขึ้นและไปด้านหลังเล็กน้อยจนแขนตรง แล้ววางบาร์กลับบนแร็กให้มั่นคงเมื่อจบเซต",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Жим штанги лёжа",
+      "description": "1. Лягте так, чтобы глаза были под штангой на стойках, стопы упёрты в пол, лопатки сведены, руки расставлены симметрично.\n2. Снимите штангу на прямые руки, опустите её к середине груди с почти вертикальными предплечьями, сохраняя плечи стабильными.\n3. Выжмите штангу вверх и немного назад до прямых рук и после подхода надёжно верните её на стойки.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Жим штанги лежачи",
+      "description": "1. Ляжте так, щоб очі були під штангою на стійках, стопи впираються в підлогу, лопатки зведені, руки розставлені симетрично.\n2. Зніміть штангу на прямі руки, опустіть її до середини грудей із майже вертикальними передпліччями, зберігаючи плечі стабільними.\n3. Вижміть штангу вгору й трохи назад до прямих рук і після підходу надійно поверніть її на стійки.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

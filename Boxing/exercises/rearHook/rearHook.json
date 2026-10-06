@@ -1,0 +1,92 @@
+{
+  "id": "1.8",
+  "key": "rear_hook",
+  "title": "Rear Hook",
+  "description": "1. From guard, keep the rear elbow bent and transfer pressure from the rear foot toward the lead side.\n2. Pivot the rear foot and rotate the hips and torso so the rear fist crosses the target on a compact arc.\n3. Reverse the rotation and return the rear fist to the cheek without letting the stance collapse.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "level": 1,
+  "section": "2 Base",
+  "target": "head",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rear Hook",
+      "description": "1. From guard, keep the rear elbow bent and transfer pressure from the rear foot toward the lead side.\n2. Pivot the rear foot and rotate the hips and torso so the rear fist crosses the target on a compact arc.\n3. Reverse the rotation and return the rear fist to the cheek without letting the stance collapse.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Gancho trasero",
+      "description": "1. Desde la guardia, mantén el codo trasero flexionado y transfiere la presión del pie trasero hacia el lado delantero.\n2. Pivota el pie trasero y gira caderas y torso para que el puño trasero cruce el objetivo por un arco compacto.\n3. Invierte el giro y devuelve el puño trasero a la mejilla sin perder la estructura de la postura.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Gancho de trás",
+      "description": "1. Da guarda, mantenha o cotovelo de trás dobrado e transfira a pressão do pé de trás para o lado da frente.\n2. Pivote o pé de trás e gire quadris e tronco para o punho de trás cruzar o alvo por um arco compacto.\n3. Inverta a rotação e volte o punho de trás à bochecha sem deixar a base desmoronar.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Crochet arrière",
+      "description": "1. Depuis la garde, gardez le coude arrière fléchi et transférez la pression du pied arrière vers le côté avant.\n2. Pivotez le pied arrière et tournez les hanches et le torse pour que le poing arrière traverse la cible sur un arc compact.\n3. Inversez la rotation et ramenez le poing arrière à la joue sans déstructurer la position.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Hinterer Haken",
+      "description": "1. Halte aus der Deckung den hinteren Ellbogen gebeugt und verlagere den Druck vom hinteren Fuß nach vorn.\n2. Drehe den hinteren Fuß sowie Hüften und Rumpf, sodass die hintere Faust das Ziel auf einem kompakten Bogen kreuzt.\n3. Drehe zurück und bringe die hintere Faust zur Wange, ohne den Stand zusammenfallen zu lassen.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Gancio posteriore",
+      "description": "1. Dalla guardia, tieni il gomito posteriore piegato e trasferisci la pressione dal piede posteriore verso il lato anteriore.\n2. Fai perno sul piede posteriore e ruota anche e busto affinché il pugno posteriore attraversi il bersaglio su un arco compatto.\n3. Inverti la rotazione e riporta il pugno posteriore alla guancia senza perdere la struttura della posizione.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "后手摆拳",
+      "description": "1. 从防守位保持后肘弯曲，将压力从后脚转向前侧。\n2. 以后脚转动，带动髋部和躯干旋转，使后拳沿紧凑弧线横穿目标。\n3. 反向旋转，后拳回到脸颊，不要让站姿塌陷。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "後ろ手のフック",
+      "description": "1. ガードから後肘を曲げたまま、後ろ足の圧力を前側へ移します。\n2. 後ろ足を軸に腰と胴体を回し、後ろの拳を小さな弧で目標に通します。\n3. 回転を逆にして後ろの拳を頬へ戻し、構えを崩さないようにします。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "뒷손 훅",
+      "description": "1. 가드에서 뒤쪽 팔꿈치를 굽힌 채 뒷발의 압력을 앞쪽으로 옮깁니다.\n2. 뒷발을 축으로 골반과 몸통을 돌려 뒷주먹이 작은 호로 목표를 가로지르게 합니다.\n3. 반대로 회전해 뒷주먹을 뺨으로 되돌리고 자세가 무너지지 않게 합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ฮุกหลัง",
+      "description": "1. จากการ์ด งอศอกหลังและถ่ายแรงกดจากเท้าหลังไปทางด้านหน้า\n2. หมุนเท้าหลัง สะโพก และลำตัว ให้หมัดหลังผ่านเป้าหมายเป็นส่วนโค้งกระชับ\n3. หมุนกลับและคืนหมัดหลังข้างแก้มโดยไม่ให้ท่ายืนเสียรูป",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Задний боковой удар",
+      "description": "1. Из защиты сохраняйте задний локоть согнутым и переносите давление с задней стопы к передней стороне.\n2. Поверните заднюю стопу, таз и корпус, проводя задний кулак через цель по компактной дуге.\n3. Развернитесь обратно и верните задний кулак к щеке, не позволяя стойке развалиться.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Задній боковий удар",
+      "description": "1. Із захисту зберігайте задній лікоть зігнутим і переносіть тиск із задньої стопи до переднього боку.\n2. Поверніть задню стопу, таз і корпус, проводячи задній кулак через ціль компактною дугою.\n3. Розверніться назад і поверніть задній кулак до щоки, не дозволяючи стійці розвалитися.",
+      "sectionTitle": "База"
+    }
+  }
+}

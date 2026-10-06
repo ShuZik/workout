@@ -1,0 +1,90 @@
+{
+  "id": "53.5",
+  "key": "dambe_lead_leg_kick_pad_drill",
+  "title": "Lead-Leg Kick Pad Drill",
+  "description": "1. Holder braces a kick shield at thigh or midsection height; kicker stands in the dambe stance with the shield hand forward.\n2. Kicker lifts the lead knee and drives the foot into the pad, then lands back in stance with the spear hand cocked.\n3. Kick only the pad with controlled force; holder calls stop to end each set, then swap roles.",
+  "color": "#B79E80",
+  "colorType": "tan",
+  "workoutType": "dambe",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 9.3,
+    "vigorous": 12.3,
+    "lightCode": "15110",
+    "moderateCode": "15125",
+    "vigorousCode": "15100"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "section": "3 Techniques",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead-Leg Kick Pad Drill",
+      "description": "1. Holder braces a kick shield at thigh or midsection height; kicker stands in the dambe stance with the shield hand forward.\n2. Kicker lifts the lead knee and drives the foot into the pad, then lands back in stance with the spear hand cocked.\n3. Kick only the pad with controlled force; holder calls stop to end each set, then swap roles.",
+      "sectionTitle": "Techniques"
+    },
+    "es": {
+      "title": "Patada con pierna adelantada al escudo",
+      "description": "1. El sujetador afianza un escudo de patadas a la altura del muslo o del tronco; el pateador adopta la guardia de dambe con la mano escudo delante.\n2. El pateador eleva la rodilla adelantada, clava el pie en el escudo y vuelve a la guardia con la mano lanza cargada.\n3. Patea solo el escudo con fuerza controlada; el sujetador dice alto al final de cada serie y luego cambiáis de rol.",
+      "sectionTitle": "Técnicas"
+    },
+    "pt": {
+      "title": "Chute de perna da frente no aparador",
+      "description": "1. O segurador firma um escudo de chute na altura da coxa ou do tronco; o chutador fica na base do dambe com a mão escudo à frente.\n2. O chutador eleva o joelho da frente, crava o pé no aparador e volta à base com a mão lança armada.\n3. Chute apenas o aparador com força controlada; o segurador diz pare ao fim de cada série e depois trocam de papel.",
+      "sectionTitle": "Técnicas"
+    },
+    "fr": {
+      "title": "Coup de pied jambe avant au bouclier",
+      "description": "1. Le teneur cale un bouclier de frappe à hauteur de cuisse ou de buste ; le frappeur est en garde de dambe, main bouclier devant.\n2. Le frappeur monte le genou avant, enfonce le pied dans le bouclier puis retombe en garde, main lance armée.\n3. Ne frappez que le bouclier avec une force contrôlée ; le teneur annonce stop à la fin de chaque série, puis inversez les rôles.",
+      "sectionTitle": "Techniques"
+    },
+    "de": {
+      "title": "Tritt mit dem vorderen Bein ans Pad",
+      "description": "1. Der Halter stützt ein Trittpolster auf Oberschenkel- oder Rumpfhöhe ab; der Tretende steht in Dambe-Stellung, die Schildhand vorn.\n2. Der Tretende hebt das vordere Knie, stößt den Fuß ins Polster und landet zurück in der Stellung, die Speerhand zurückgezogen.\n3. Tritt nur das Polster mit kontrollierter Kraft; der Halter ruft Stopp am Ende jeder Serie, dann tauscht ihr die Rollen.",
+      "sectionTitle": "Techniken"
+    },
+    "it": {
+      "title": "Calcio di gamba avanzata al colpitore",
+      "description": "1. Chi tiene blocca uno scudo da calci all'altezza della coscia o del busto; chi calcia è in guardia di dambe con la mano scudo avanti.\n2. Chi calcia alza il ginocchio avanzato, spinge il piede nello scudo e ricade in guardia con la mano lancia caricata.\n3. Calcia solo lo scudo con forza controllata; chi tiene chiama lo stop a fine serie, poi scambiatevi i ruoli.",
+      "sectionTitle": "Tecniche"
+    },
+    "zh-Hans": {
+      "title": "前腿踢脚靶练习",
+      "description": "1. 持靶者将踢靶稳住在大腿或躯干高度；踢击者以丹贝站姿站立，盾手在前。\n2. 踢击者提起前膝，把脚蹬入脚靶，随后落回站姿，矛手保持蓄力。\n3. 只踢脚靶并控制力度；持靶者在每组结束时喊停，然后交换角色。",
+      "sectionTitle": "技术"
+    },
+    "ja": {
+      "title": "前足蹴りのミット打ち",
+      "description": "1. 持ち手はキックミットを腿か胴の高さで構えて固定し、蹴り手は盾の手を前にしてダンベの構えに立ちます。\n2. 蹴り手は前膝を引き上げて足をミットに突き込み、槍の手を引いたまま構えに着地します。\n3. ミットだけを制御した力で蹴り、持ち手が各セットの終わりに止めの合図を出したら役割を交代します。",
+      "sectionTitle": "技術"
+    },
+    "ko": {
+      "title": "앞다리 킥 미트 드릴",
+      "description": "1. 홀더는 킥 미트를 허벅지나 몸통 높이에서 단단히 받치고, 키커는 방패 손을 앞에 둔 담베 자세로 섭니다.\n2. 키커는 앞 무릎을 들어 발을 미트에 밀어 차고, 창 손을 당긴 채 자세로 착지합니다.\n3. 미트만 제어된 힘으로 차고, 홀더가 세트마다 정지를 외치면 역할을 바꿉니다.",
+      "sectionTitle": "기술"
+    },
+    "th": {
+      "title": "ฝึกเตะขาหน้ากับเป้า",
+      "description": "1. ผู้ถือเป้าจับเป้าเตะให้มั่นที่ระดับต้นขาหรือลำตัว ผู้เตะยืนท่าดัมเบโดยยื่นมือโล่ไว้ด้านหน้า\n2. ผู้เตะยกเข่าหน้าแล้วถีบเท้าเข้าเป้า จากนั้นลงกลับสู่ท่าโดยง้างมือหอกไว้\n3. เตะเฉพาะเป้าด้วยแรงที่ควบคุมได้ ผู้ถือเป้าสั่งหยุดเมื่อจบแต่ละชุด แล้วสลับบทบาท",
+      "sectionTitle": "เทคนิค"
+    },
+    "ru": {
+      "title": "Удар передней ногой по макиваре",
+      "description": "1. Держатель фиксирует ударную макивару на уровне бедра или корпуса; бьющий стоит в стойке дамбе, рука-щит впереди.\n2. Бьющий поднимает переднее колено, вталкивает стопу в макивару и приземляется обратно в стойку с взведённой рукой-копьём.\n3. Бейте только по макиваре с контролируемой силой; держатель командует стоп в конце каждого подхода, затем смените роли.",
+      "sectionTitle": "Техники"
+    },
+    "uk": {
+      "title": "Удар передньою ногою по маківарі",
+      "description": "1. Тримач фіксує ударну маківару на рівні стегна чи корпусу; той, хто б'є, стоїть у стійці дамбе, рука-щит попереду.\n2. Той, хто б'є, піднімає переднє коліно, вштовхує стопу в маківару й приземляється назад у стійку зі зведеною рукою-списом.\n3. Бийте лише по маківарі з контрольованою силою; тримач командує стоп наприкінці кожного підходу, потім поміняйтеся ролями.",
+      "sectionTitle": "Техніки"
+    }
+  }
+}

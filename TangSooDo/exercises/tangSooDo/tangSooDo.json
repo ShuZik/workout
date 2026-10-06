@@ -1,0 +1,90 @@
+{
+  "id": "101.1",
+  "key": "tang_soo_do_main",
+  "title": "Tang Soo Do",
+  "description": "1. Begin in ready stance with the fists in front of the belt, then step into a front or back stance with a guard.\n2. Drill basic blocks, punches, and kicks along a line, coordinating hip rotation, the opposite-hand pull, and a sharp finish.\n3. Turn at the end of each line, keep the stances low and stable, and return to ready stance after the set.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "tangSooDo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Tang Soo Do",
+      "description": "1. Begin in ready stance with the fists in front of the belt, then step into a front or back stance with a guard.\n2. Drill basic blocks, punches, and kicks along a line, coordinating hip rotation, the opposite-hand pull, and a sharp finish.\n3. Turn at the end of each line, keep the stances low and stable, and return to ready stance after the set.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Tang Soo Do",
+      "description": "1. Comienza en posición de preparación con los puños delante del cinturón y avanza a una posición adelantada o retrasada con guardia.\n2. Practica bloqueos, puñetazos y patadas básicos en línea, coordinando la rotación de cadera, el retroceso de la mano contraria y un final firme.\n3. Gira al final de cada línea, mantén las posiciones bajas y estables y vuelve a la posición de preparación al terminar.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Tang Soo Do",
+      "description": "1. Comece na posição de prontidão com os punhos à frente da faixa e avance para uma base frontal ou recuada com guarda.\n2. Treine bloqueios, socos e chutes básicos em linha, coordenando a rotação do quadril, o recuo da mão oposta e uma finalização firme.\n3. Vire ao fim de cada linha, mantenha as bases baixas e estáveis e volte à prontidão ao terminar.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Tang Soo Do",
+      "description": "1. Commencez en position prête, poings devant la ceinture, puis avancez en position avant ou arrière avec garde.\n2. Enchaînez blocages, coups de poing et coups de pied de base en ligne, en coordonnant rotation des hanches, retrait de la main opposée et finale nette.\n3. Tournez en bout de ligne, gardez des positions basses et stables et revenez en position prête à la fin.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Tang Soo Do",
+      "description": "1. In Bereitschaftsstellung mit den Fäusten vor dem Gürtel beginnen, dann mit Deckung in Vorwärts- oder Rückwärtsstellung schreiten.\n2. Grundblocks, Fauststöße und Tritte auf einer Linie üben, Hüftdrehung, Rückzug der Gegenhand und klaren Abschluss koordinieren.\n3. Am Ende jeder Linie wenden, Stellungen tief und stabil halten und nach dem Satz in die Bereitschaftsstellung zurückkehren.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Tang Soo Do",
+      "description": "1. Inizia in posizione di attesa con i pugni davanti alla cintura, poi avanza in posizione frontale o arretrata con guardia.\n2. Allena parate, pugni e calci di base in linea, coordinando rotazione dell’anca, ritorno della mano opposta e finale netto.\n3. Gira alla fine di ogni linea, mantieni posizioni basse e stabili e torna in posizione di attesa alla fine.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "唐手道",
+      "description": "1. 以准备式开始，双拳置于腰带前，然后上步成前屈或后屈站姿并保持防守。\n2. 沿直线练习基本格挡、冲拳和踢法，协调转髋、另一手回拉和干脆的收势。\n3. 每条线末端转身，保持站姿低而稳，整组结束后回到准备式。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "タンスド（唐手道）",
+      "description": "1. 帯の前に拳を置いた準備の姿勢から、構えをとって前屈立ちまたは後屈立ちへ踏み出します。\n2. 基本の受け・突き・蹴りを一直線上で稽古し、腰の回転、引き手、鋭い極めを連動させます。\n3. 各列の端で転身し、立ち方を低く安定させ、セットの後は準備の姿勢に戻ります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "당수도",
+      "description": "1. 주먹을 띠 앞에 둔 준비 자세에서 겨룸 손을 하고 전굴 또는 후굴 자세로 나아갑니다.\n2. 기본 막기, 지르기, 차기를 한 줄로 연습하며 허리 회전, 반대 손 당기기, 절도 있는 마무리를 맞춥니다.\n3. 줄 끝마다 돌고 자세를 낮고 안정적으로 유지하며 세트가 끝나면 준비 자세로 돌아옵니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ทังซูโด",
+      "description": "1. เริ่มในท่าเตรียมโดยกำปั้นอยู่หน้าเข็มขัด แล้วก้าวเข้าสู่ท่ายืนหน้าหรือยืนหลังพร้อมการ์ด\n2. ฝึกการปัดป้อง หมัด และเตะพื้นฐานตามแนวเส้น ประสานการหมุนสะโพก การดึงมืออีกข้างกลับ และการจบที่คมชัด\n3. หมุนตัวที่ปลายแต่ละแนว รักษาท่ายืนให้ต่ำและมั่นคง และกลับสู่ท่าเตรียมเมื่อจบชุด",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Тансудо",
+      "description": "1. Начните в стойке готовности, кулаки перед поясом, затем шагните в переднюю или заднюю стойку с защитой.\n2. Отрабатывайте базовые блоки, удары руками и ногами по линии, согласуя поворот бёдер, отвод противоположной руки и чёткую фиксацию.\n3. Разворачивайтесь в конце каждой линии, держите стойки низкими и устойчивыми и вернитесь в стойку готовности после серии.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Тансудо",
+      "description": "1. Почніть у стійці готовності, кулаки перед поясом, потім ступіть у передню або задню стійку із захистом.\n2. Відпрацьовуйте базові блоки, удари руками й ногами по лінії, узгоджуючи поворот стегон, відведення протилежної руки й чітку фіксацію.\n3. Розвертайтеся в кінці кожної лінії, тримайте стійки низькими й стійкими та поверніться в стійку готовності після серії.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

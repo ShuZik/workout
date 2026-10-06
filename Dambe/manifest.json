@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#B79E80",
+    "colorType": "tan",
+    "folder": "Dambe",
+    "id": "53",
+    "icon": "Dambe/Icon.png",
+    "symbolName": "figure.boxing",
+    "title": "Dambe",
+    "workoutType": "dambe",
+    "translations": {
+      "en": {
+        "title": "Dambe"
+      },
+      "es": {
+        "title": "Dambe"
+      },
+      "pt": {
+        "title": "Dambe"
+      },
+      "fr": {
+        "title": "Dambé"
+      },
+      "de": {
+        "title": "Dambe"
+      },
+      "it": {
+        "title": "Dambe"
+      },
+      "zh-Hans": {
+        "title": "丹贝拳"
+      },
+      "ja": {
+        "title": "ダンベ"
+      },
+      "ko": {
+        "title": "담베"
+      },
+      "th": {
+        "title": "ดัมเบ"
+      },
+      "ru": {
+        "title": "Дамбе"
+      },
+      "uk": {
+        "title": "Дамбе"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Dambe/exercises/dambe/Icon.png",
+      "json": "Dambe/exercises/dambe/dambe.json"
+    },
+    {
+      "icon": "Dambe/exercises/dambeFootwork/Icon.png",
+      "json": "Dambe/exercises/dambeFootwork/dambeFootwork.json"
+    },
+    {
+      "icon": "Dambe/exercises/shadowDambe/Icon.png",
+      "json": "Dambe/exercises/shadowDambe/shadowDambe.json"
+    },
+    {
+      "icon": "Dambe/exercises/spearPunchBagDrill/Icon.png",
+      "json": "Dambe/exercises/spearPunchBagDrill/spearPunchBagDrill.json"
+    },
+    {
+      "icon": "Dambe/exercises/leadLegKickPadDrill/Icon.png",
+      "json": "Dambe/exercises/leadLegKickPadDrill/leadLegKickPadDrill.json"
+    },
+    {
+      "icon": "Dambe/exercises/spearPunchPadDrill/Icon.png",
+      "json": "Dambe/exercises/spearPunchPadDrill/spearPunchPadDrill.json"
+    },
+    {
+      "icon": "Dambe/exercises/shieldHandParryDrill/Icon.png",
+      "json": "Dambe/exercises/shieldHandParryDrill/shieldHandParryDrill.json"
+    },
+    {
+      "icon": "Dambe/exercises/dambeBagRounds/Icon.png",
+      "json": "Dambe/exercises/dambeBagRounds/dambeBagRounds.json"
+    }
+  ]
+}

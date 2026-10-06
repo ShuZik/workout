@@ -1,0 +1,87 @@
+{
+  "id": "41.50",
+  "key": "judo_utsuri_goshi",
+  "title": "Utsuri Goshi",
+  "description": "1. As a trained partner attempts a hip throw, block with the hips and wrap the partner's waist from behind.\n2. Lift the partner off the mat with the hips and arms, then shift the hips across in front of the partner while the partner is airborne.\n3. Lower the partner over the new hip position into a controlled breakfall rather than dropping from height.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "section": "5 Koshi-waza",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Utsuri Goshi",
+      "description": "1. As a trained partner attempts a hip throw, block with the hips and wrap the partner's waist from behind.\n2. Lift the partner off the mat with the hips and arms, then shift the hips across in front of the partner while the partner is airborne.\n3. Lower the partner over the new hip position into a controlled breakfall rather than dropping from height.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "es": {
+      "title": "Utsuri Goshi",
+      "description": "1. Cuando un compañero entrenado intente una proyección de cadera, bloquea con las caderas y rodea su cintura por detrás.\n2. Levanta al compañero del tatami con caderas y brazos y desplaza las caderas por delante de él mientras está en el aire.\n3. Baja al compañero sobre la nueva posición de cadera hasta una caída controlada en lugar de dejarlo caer desde altura.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "pt": {
+      "title": "Utsuri Goshi",
+      "description": "1. Quando um parceiro treinado tentar uma projeção de quadril, bloqueie com os quadris e envolva a cintura dele por trás.\n2. Levante o parceiro do tatame com quadris e braços e desloque os quadris à frente dele enquanto está no ar.\n3. Baixe o parceiro sobre a nova posição do quadril até uma queda controlada em vez de deixá-lo cair do alto.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "fr": {
+      "title": "Utsuri Goshi",
+      "description": "1. Quand un partenaire entraîné tente une projection de hanche, bloquez avec les hanches et entourez sa taille par l’arrière.\n2. Soulevez le partenaire du tatami avec hanches et bras, puis déplacez les hanches devant lui pendant qu’il est en l’air.\n3. Redescendez le partenaire par-dessus la nouvelle position de hanche en chute contrôlée plutôt que de le lâcher de haut.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "de": {
+      "title": "Utsuri Goshi",
+      "description": "1. Wenn ein geübter Partner einen Hüftwurf versucht, blocke mit der Hüfte und umfasse seine Taille von hinten.\n2. Hebe den Partner mit Hüfte und Armen von der Matte und verlagere die Hüfte vor ihn, solange er in der Luft ist.\n3. Senke den Partner über die neue Hüftposition in einen kontrollierten Fall, statt ihn aus der Höhe fallen zu lassen.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "it": {
+      "title": "Utsuri Goshi",
+      "description": "1. Quando un compagno esperto tenta una proiezione d’anca, blocca con le anche e avvolgi la sua vita da dietro.\n2. Solleva il compagno dal tatami con anche e braccia e sposta le anche davanti a lui mentre è in aria.\n3. Abbassa il compagno sopra la nuova posizione dell’anca in una caduta controllata invece di lasciarlo cadere dall’alto.",
+      "sectionTitle": "Koshi-waza"
+    },
+    "zh-Hans": {
+      "title": "移腰",
+      "description": "1. 训练有素的搭档尝试腰技时，用髋部阻挡并从后方抱住其腰。\n2. 用髋和双臂把搭档抬离垫面，趁其在空中时把髋移到其身前。\n3. 让搭档越过新的髋位置受控落下，不要从高处摔下。",
+      "sectionTitle": "腰技"
+    },
+    "ja": {
+      "title": "移腰",
+      "description": "1. 熟練した相手が腰技をかけてきたら、腰で止めて後ろから相手の腰を抱えます。\n2. 腰と腕で相手を畳から持ち上げ、相手が空中にある間に腰を相手の前へ移します。\n3. 高い位置から落とさず、新しい腰の位置越しに相手を制御された受身へ下ろします。",
+      "sectionTitle": "腰技"
+    },
+    "ko": {
+      "title": "우츠리 고시",
+      "description": "1. 숙련된 파트너가 허리기술을 시도하면 골반으로 막고 뒤에서 허리를 감쌉니다.\n2. 골반과 팔로 파트너를 매트에서 들어 올리고 공중에 있는 동안 골반을 파트너 앞으로 옮깁니다.\n3. 높이서 떨어뜨리지 말고 새 골반 위치 너머로 파트너를 통제된 낙법으로 내립니다.",
+      "sectionTitle": "허리기술"
+    },
+    "th": {
+      "title": "อุสึริโกชิ",
+      "description": "1. เมื่อคู่ฝึกที่ฝึกมาแล้วพยายามทุ่มสะโพก ให้ใช้สะโพกกันและโอบเอวคู่ฝึกจากด้านหลัง\n2. ยกคู่ฝึกขึ้นจากเสื่อด้วยสะโพกและแขน แล้วย้ายสะโพกไปไว้หน้าคู่ฝึกขณะที่ลอยอยู่\n3. วางคู่ฝึกลงข้ามตำแหน่งสะโพกใหม่อย่างควบคุมได้ แทนการปล่อยตกจากที่สูง",
+      "sectionTitle": "โคชิวาซะ"
+    },
+    "ru": {
+      "title": "Уцури-госи",
+      "description": "1. Когда подготовленный партнёр пытается бросок через бедро, заблокируйте тазом и обхватите его талию сзади.\n2. Поднимите партнёра с татами тазом и руками и, пока он в воздухе, переместите таз перед ним.\n3. Опустите партнёра через новое положение бедра в контролируемую страховку, не роняя с высоты.",
+      "sectionTitle": "Коси-вадза"
+    },
+    "uk": {
+      "title": "Уцурі-госі",
+      "description": "1. Коли підготовлений партнер намагається кидок через стегно, заблокуйте тазом і обхопіть його талію ззаду.\n2. Підніміть партнера з татамі тазом і руками й, поки він у повітрі, перемістіть таз перед ним.\n3. Опустіть партнера через нове положення стегна в контрольовану страховку, не впускаючи з висоти.",
+      "sectionTitle": "Косі-вадза"
+    }
+  }
+}

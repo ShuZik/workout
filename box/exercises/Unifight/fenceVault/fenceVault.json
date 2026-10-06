@@ -1,0 +1,87 @@
+{
+  "id": "105.5",
+  "key": "unifight_fence_vault",
+  "title": "Fence Vault",
+  "description": "1. Approach a padded fence or wall of manageable height at a controlled run.\n2. Plant a foot, grip the top with both hands, and pull and push the body over while swinging one leg across.\n3. Land on the far side on both feet with bent knees, then turn back to repeat.",
+  "colorType": "sage",
+  "workoutType": "unifight",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "section": "6 Conditioning",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Fence Vault",
+      "description": "1. Approach a padded fence or wall of manageable height at a controlled run.\n2. Plant a foot, grip the top with both hands, and pull and push the body over while swinging one leg across.\n3. Land on the far side on both feet with bent knees, then turn back to repeat.",
+      "sectionTitle": "Conditioning"
+    },
+    "es": {
+      "title": "Paso de valla",
+      "description": "1. Acércate corriendo con control a una valla o muro acolchado de altura asumible.\n2. Apoya un pie, agarra el borde con ambas manos y tira y empuja el cuerpo por encima pasando una pierna.\n3. Aterriza al otro lado sobre ambos pies con rodillas flexionadas y vuelve para repetir.",
+      "sectionTitle": "Preparación física"
+    },
+    "pt": {
+      "title": "Transposição de cerca",
+      "description": "1. Aproxime-se correndo com controle de uma cerca ou muro acolchoado de altura viável.\n2. Apoie um pé, segure o topo com as duas mãos e puxe e empurre o corpo por cima passando uma perna.\n3. Aterrisse do outro lado sobre os dois pés com joelhos flexionados e volte para repetir.",
+      "sectionTitle": "Condicionamento"
+    },
+    "fr": {
+      "title": "Franchissement de palissade",
+      "description": "1. Approchez en course contrôlée une palissade ou un mur rembourré de hauteur raisonnable.\n2. Posez un pied, saisissez le haut à deux mains, tirez et poussez le corps par-dessus en basculant une jambe.\n3. Réceptionnez-vous de l’autre côté sur les deux pieds, genoux fléchis, puis revenez recommencer.",
+      "sectionTitle": "Préparation physique"
+    },
+    "de": {
+      "title": "Zaunüberwindung",
+      "description": "1. Laufe kontrolliert auf einen gepolsterten Zaun oder eine Wand machbarer Höhe zu.\n2. Setze einen Fuß an, greife die Oberkante mit beiden Händen und zieh und drück dich hinüber, ein Bein schwingt mit.\n3. Lande auf der anderen Seite beidbeinig mit gebeugten Knien und kehre zur Wiederholung zurück.",
+      "sectionTitle": "Kondition"
+    },
+    "it": {
+      "title": "Superamento della palizzata",
+      "description": "1. Avvicinati di corsa controllata a una palizzata o muro imbottito di altezza gestibile.\n2. Appoggia un piede, afferra il bordo con entrambe le mani, tira e spingi il corpo oltre portando una gamba dall’altra parte.\n3. Atterra dall’altro lato su entrambi i piedi con le ginocchia piegate e torna a ripetere.",
+      "sectionTitle": "Preparazione atletica"
+    },
+    "zh-Hans": {
+      "title": "翻越围栏",
+      "description": "1. 以可控的跑速接近一道高度适中、带护垫的围栏或墙。\n2. 踏上一只脚，双手抓住顶端，拉撑身体翻过，同时一条腿摆过。\n3. 在另一侧双脚屈膝落地，然后返回重复。",
+      "sectionTitle": "体能"
+    },
+    "ja": {
+      "title": "フェンス越え",
+      "description": "1. 無理のない高さのパッド付きフェンスや壁にコントロールした走りで近づきます。\n2. 片足をかけ、両手で上端をつかみ、片脚を振り上げながら体を引き上げて押し越えます。\n3. 反対側に膝を曲げて両足で着地し、戻って繰り返します。",
+      "sectionTitle": "コンディショニング"
+    },
+    "ko": {
+      "title": "담장 넘기",
+      "description": "1. 감당할 수 있는 높이의 패드 담장이나 벽으로 통제된 달리기로 접근합니다.\n2. 한 발을 딛고 두 손으로 윗부분을 잡아 한 다리를 넘기며 몸을 당기고 밀어 넘어갑니다.\n3. 반대편에 무릎을 굽혀 두 발로 착지하고 돌아가 반복합니다.",
+      "sectionTitle": "컨디셔닝"
+    },
+    "th": {
+      "title": "ข้ามรั้ว",
+      "description": "1. วิ่งเข้าหารั้วหรือกำแพงที่มีเบาะและความสูงพอเหมาะอย่างควบคุม\n2. วางเท้าหนึ่งข้าง จับขอบบนด้วยสองมือ ดึงและดันตัวข้ามพร้อมเหวี่ยงขาข้างหนึ่งข้าม\n3. ลงอีกฝั่งด้วยสองเท้าและงอเข่า แล้วกลับไปทำซ้ำ",
+      "sectionTitle": "เสริมสมรรถภาพ"
+    },
+    "ru": {
+      "title": "Преодоление забора",
+      "description": "1. Подбегите с контролем к забору или стене с мягким покрытием посильной высоты.\n2. Упритесь стопой, возьмитесь за верх обеими руками, подтянитесь и перебросьте тело, перенося одну ногу.\n3. Приземлитесь на другой стороне на обе стопы с согнутыми коленями и вернитесь для повтора.",
+      "sectionTitle": "Физподготовка"
+    },
+    "uk": {
+      "title": "Подолання паркану",
+      "description": "1. Підбіжіть із контролем до паркану або стіни з м’яким покриттям посильної висоти.\n2. Упріться стопою, візьміться за верх обома руками, підтягніться й перекиньте тіло, переносячи одну ногу.\n3. Приземліться з іншого боку на обидві стопи із зігнутими колінами й поверніться для повтору.",
+      "sectionTitle": "Фізпідготовка"
+    }
+  }
+}

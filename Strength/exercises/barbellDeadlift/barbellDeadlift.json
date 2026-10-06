@@ -1,0 +1,89 @@
+{
+  "id": "13.56",
+  "key": "strength_barbell_deadlift",
+  "title": "Barbell Deadlift",
+  "description": "1. Stand with midfoot under the bar, hinge to grip it outside the legs, and brace with shoulders slightly in front of the bar.\n2. Push the floor away and extend the knees and hips together while the bar travels close to the legs.\n3. Finish upright, then hinge and bend the knees to return the bar to the floor.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Barbell Deadlift",
+      "description": "1. Stand with midfoot under the bar, hinge to grip it outside the legs, and brace with shoulders slightly in front of the bar.\n2. Push the floor away and extend the knees and hips together while the bar travels close to the legs.\n3. Finish upright, then hinge and bend the knees to return the bar to the floor.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Peso muerto con barra",
+      "description": "1. Colócate con el centro del pie bajo la barra, flexiona la cadera para agarrarla por fuera de las piernas y activa el tronco con los hombros ligeramente por delante de la barra.\n2. Empuja el suelo y extiende rodillas y caderas a la vez mientras la barra sube cerca de las piernas.\n3. Termina erguido y luego flexiona cadera y rodillas para devolver la barra al suelo.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Levantamento terra com barra",
+      "description": "1. Fique com o meio do pé sob a barra, flexione o quadril para segurá-la por fora das pernas e contraia o tronco com os ombros levemente à frente da barra.\n2. Empurre o chão e estenda os joelhos e o quadril juntos enquanto a barra sobe perto das pernas.\n3. Termine em pé e depois flexione o quadril e dobre os joelhos para devolver a barra ao chão.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Soulevé de terre à la barre",
+      "description": "1. Placez le milieu du pied sous la barre, basculez le bassin pour la saisir à l’extérieur des jambes et gainez-vous, épaules légèrement devant la barre.\n2. Repoussez le sol et tendez genoux et hanches ensemble pendant que la barre monte près des jambes.\n3. Terminez debout, puis basculez le bassin et fléchissez les genoux pour reposer la barre au sol.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Kreuzheben mit der Langhantel",
+      "description": "1. Stelle dich mit der Fußmitte unter die Stange, beuge dich in der Hüfte, greife sie außerhalb der Beine und spanne den Rumpf an, die Schultern leicht vor der Stange.\n2. Drücke den Boden weg und strecke Knie und Hüfte gleichzeitig, während die Stange nah an den Beinen nach oben läuft.\n3. Beende aufrecht, beuge dann Hüfte und Knie und setze die Stange am Boden ab.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Stacco con bilanciere",
+      "description": "1. Mettiti con il centro del piede sotto il bilanciere, piegati dalle anche per afferrarlo all’esterno delle gambe e contrai il tronco con le spalle leggermente davanti al bilanciere.\n2. Spingi il pavimento ed estendi insieme ginocchia e anche mentre il bilanciere sale vicino alle gambe.\n3. Concludi in piedi, poi piegati dalle anche e flettendo le ginocchia riporta il bilanciere a terra.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "杠铃硬拉",
+      "description": "1. 站立时足中部位于杠铃正下方，屈髋在双腿外侧握住杠铃，收紧躯干，双肩略在杠铃前方。\n2. 双脚蹬地，膝盖和髋部同时伸展，杠铃贴近双腿上升。\n3. 站直后，屈髋屈膝将杠铃放回地面。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "バーベルデッドリフト",
+      "description": "1. 足の中央がバーの真下に来るように立ち、股関節から前傾して脚の外側でバーを握り、肩をバーよりやや前にして体幹を固めます。\n2. 床を押し、膝と股関節を同時に伸ばしながらバーを脚の近くで引き上げます。\n3. まっすぐ立ったら、股関節と膝を曲げてバーを床に戻します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "바벨 데드리프트",
+      "description": "1. 발 중앙이 바 아래에 오도록 서서 엉덩이를 접어 다리 바깥쪽에서 바를 잡고 어깨를 바보다 살짝 앞에 둔 채 몸통에 힘을 줍니다.\n2. 바닥을 밀어내며 무릎과 엉덩이를 함께 펴고 바가 다리 가까이로 올라오게 합니다.\n3. 똑바로 선 뒤 엉덩이를 접고 무릎을 굽혀 바를 바닥에 내려놓습니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "เดดลิฟต์ด้วยบาร์เบล",
+      "description": "1. ยืนให้กลางเท้าอยู่ใต้บาร์ พับสะโพกลงจับบาร์ด้านนอกขา และเกร็งลำตัวโดยให้ไหล่อยู่หน้าบาร์เล็กน้อย\n2. ดันพื้นออกและเหยียดเข่ากับสะโพกพร้อมกัน ขณะที่บาร์เคลื่อนขึ้นชิดขา\n3. ยืนตรงให้สุด แล้วพับสะโพกและงอเข่าเพื่อวางบาร์กลับลงพื้น",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Становая тяга со штангой",
+      "description": "1. Встаньте так, чтобы середина стопы была под грифом, наклонитесь и возьмите гриф снаружи от ног, напрягите корпус, держа плечи чуть впереди грифа.\n2. Оттолкните пол и одновременно разгибайте колени и таз, проводя штангу близко к ногам.\n3. Выпрямитесь полностью, затем наклонитесь и согните колени, опуская штангу на пол.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Станова тяга зі штангою",
+      "description": "1. Станьте так, щоб середина стопи була під грифом, нахиліться й візьміть гриф зовні від ніг, напружте корпус, тримаючи плечі трохи попереду грифа.\n2. Відштовхніть підлогу й одночасно розгинайте коліна та таз, проводячи штангу близько до ніг.\n3. Повністю випряміться, потім нахиліться й зігніть коліна, опускаючи штангу на підлогу.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

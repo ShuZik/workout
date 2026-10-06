@@ -1,0 +1,87 @@
+{
+  "id": "108.5",
+  "key": "wing_chun_muk_yan_jong",
+  "title": "Muk Yan Jong",
+  "description": "1. Stand facing a securely mounted wooden dummy at forearm distance in the training stance, hands on the centreline.\n2. Work through the dummy form section by section, contacting the arms and leg with tan, bong, pak, and palm actions, angled steps, and low kicks.\n3. Use light to moderate contact with aligned wrists, and reset to the centreline-facing position after each section.",
+  "colorType": "yellow",
+  "workoutType": "wingChun",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "4 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Muk Yan Jong",
+      "description": "1. Stand facing a securely mounted wooden dummy at forearm distance in the training stance, hands on the centreline.\n2. Work through the dummy form section by section, contacting the arms and leg with tan, bong, pak, and palm actions, angled steps, and low kicks.\n3. Use light to moderate contact with aligned wrists, and reset to the centreline-facing position after each section.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Muk Yan Jong",
+      "description": "1. Colócate frente a un muñeco de madera bien fijado, a distancia de antebrazo, en la posición de entrenamiento con las manos en la línea central.\n2. Recorre la forma del muñeco sección por sección, contactando los brazos y la pierna con acciones tan, bong, pak y de palma, pasos en ángulo y patadas bajas.\n3. Usa contacto ligero a moderado con las muñecas alineadas y vuelve a la posición de frente a la línea central tras cada sección.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Muk Yan Jong",
+      "description": "1. Fique de frente para um boneco de madeira bem fixado, à distância de um antebraço, na base de treino com as mãos na linha central.\n2. Percorra a forma do boneco seção por seção, tocando os braços e a perna com ações tan, bong, pak e de palma, passos em ângulo e chutes baixos.\n3. Use contato leve a moderado com punhos alinhados e volte à posição de frente para a linha central após cada seção.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Muk Yan Jong",
+      "description": "1. Placez-vous face à un mannequin de bois solidement fixé, à distance d’avant-bras, dans la position d’entraînement, mains sur la ligne centrale.\n2. Enchaînez la forme du mannequin section par section, en touchant les bras et la jambe avec des actions tan, bong, pak et de paume, des pas en angle et des coups de pied bas.\n3. Gardez un contact léger à modéré, poignets alignés, et revenez face à la ligne centrale après chaque section.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Muk Yan Jong",
+      "description": "1. Stelle dich in Unterarmdistanz vor eine sicher montierte Holzpuppe in den Trainingsstand, die Hände auf der Mittellinie.\n2. Arbeite die Holzpuppenform abschnittsweise ab und triff Arme und Bein mit Tan-, Bong-, Pak- und Handflächenaktionen, gewinkelten Schritten und tiefen Tritten.\n3. Nutze leichten bis mäßigen Kontakt mit geraden Handgelenken und kehre nach jedem Abschnitt in die Position zur Mittellinie zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Muk Yan Jong",
+      "description": "1. Mettiti davanti a un manichino di legno ben fissato, a distanza di avambraccio, nella posizione di allenamento con le mani sulla linea centrale.\n2. Esegui la forma del manichino sezione per sezione, toccando braccia e gamba con azioni tan, bong, pak e di palmo, passi angolati e calci bassi.\n3. Usa un contatto da leggero a moderato con i polsi allineati e torna di fronte alla linea centrale dopo ogni sezione.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "木人桩",
+      "description": "1. 面对固定牢靠的木人桩，相距约一前臂，站好马步，双手守中线。\n2. 按段演练木人桩法，以摊手、膀手、拍手和掌法接触桩手与桩脚，配合斜步和低踢。\n3. 接触力度轻到中等，手腕保持平直，每段结束后回到正对中线的位置。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "木人樁（ムクヤンジョン）",
+      "description": "1. しっかり固定した木人の前に前腕一本分の距離で立ち、両手を中心線に置いた練習用の構えをとります。\n2. 攤手・膀手・拍手・掌の動作、角度のある歩法、低い蹴りで木人の腕と脚に触れながら、型を一段ずつ行います。\n3. 手首をまっすぐにして軽〜中程度の接触にとどめ、各段の後は中心線を正対させた位置に戻ります。",
+      "sectionTitle": "型"
+    },
+    "ko": {
+      "title": "목인장",
+      "description": "1. 단단히 고정된 목인장을 팔뚝 거리에서 마주하고 두 손을 중심선에 둔 수련 자세로 섭니다.\n2. 탄·방·박·장 동작, 각도 있는 스텝, 낮은 발차기로 목인의 팔과 다리를 접촉하며 목인장 품을 구간별로 수행합니다.\n3. 손목을 곧게 유지한 채 가볍거나 중간 정도의 접촉만 하고, 구간마다 중심선을 마주하는 위치로 돌아옵니다.",
+      "sectionTitle": "품새·틀"
+    },
+    "th": {
+      "title": "หุ่นไม้มุกหยั่นจง",
+      "description": "1. ยืนหันหน้าเข้าหาหุ่นไม้ที่ยึดแน่น ห่างประมาณหนึ่งช่วงแขนท่อนล่าง ในท่าฝึก โดยมืออยู่ที่แนวกึ่งกลาง\n2. รำชุดหุ่นไม้ทีละช่วง สัมผัสแขนและขาหุ่นด้วยมือทาน มือบ่ง มือปัก และฝ่ามือ ก้าวเฉียง และเตะต่ำ\n3. ใช้แรงสัมผัสเบาถึงปานกลาง ข้อมือตรง และกลับสู่ตำแหน่งหันแนวกึ่งกลางหลังแต่ละช่วง",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Мук Ян Чжон (деревянный манекен)",
+      "description": "1. Встаньте перед надёжно закреплённым деревянным манекеном на расстоянии предплечья в тренировочной стойке, руки на центральной линии.\n2. Пройдите форму на манекене по разделам, касаясь его рук и ноги действиями тан, бонг, пак и ладонью, шагами под углом и низкими ударами ногой.\n3. Используйте лёгкий или умеренный контакт с выровненными запястьями и после каждого раздела возвращайтесь в положение лицом к центральной линии.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Мук Ян Чжон (дерев’яний манекен)",
+      "description": "1. Станьте перед надійно закріпленим дерев’яним манекеном на відстані передпліччя в тренувальній стійці, руки на центральній лінії.\n2. Пройдіть форму на манекені за розділами, торкаючись його рук і ноги діями тан, бонг, пак і долонею, кроками під кутом і низькими ударами ногою.\n3. Використовуйте легкий або помірний контакт із вирівняними зап’ястками й після кожного розділу повертайтеся в положення обличчям до центральної лінії.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

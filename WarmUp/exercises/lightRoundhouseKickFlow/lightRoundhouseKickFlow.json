@@ -1,0 +1,90 @@
+{
+  "id": "9.36",
+  "key": "light_roundhouse_kick_flow",
+  "title": "Light Roundhouse Kick Flow",
+  "description": "1. Take a guarded stance, lift one knee to the side, and pivot the supporting foot.\n2. Turn the hip through a relaxed roundhouse path without striking at full power.\n3. Recoil the lower leg, rotate the hip back, return to stance, and alternate sides.",
+  "color": "#0A84FF",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "6 Kicking Prep",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Light Roundhouse Kick Flow",
+      "description": "1. Take a guarded stance, lift one knee to the side, and pivot the supporting foot.\n2. Turn the hip through a relaxed roundhouse path without striking at full power.\n3. Recoil the lower leg, rotate the hip back, return to stance, and alternate sides.",
+      "sectionTitle": "Kicking Prep"
+    },
+    "es": {
+      "title": "Secuencia suave de patadas circulares",
+      "description": "1. Adopta una postura con guardia, eleva una rodilla hacia un lado y gira sobre el pie de apoyo.\n2. Gira la cadera siguiendo una trayectoria circular relajada sin golpear a máxima potencia.\n3. Recoge la pierna desde la rodilla, gira la cadera hacia atrás, vuelve a la postura y alterna los lados.",
+      "sectionTitle": "Preparación para patadas"
+    },
+    "pt": {
+      "title": "Sequência leve de chutes circulares",
+      "description": "1. Assuma uma postura com guarda, levante um joelho para o lado e gire sobre o pé de apoio.\n2. Gire o quadril em uma trajetória circular relaxada sem chutar com força máxima.\n3. Recolha a perna abaixo do joelho, gire o quadril de volta, retorne à postura e alterne os lados.",
+      "sectionTitle": "Preparação para chutes"
+    },
+    "fr": {
+      "title": "Enchaînement léger de coups de pied circulaires",
+      "description": "1. Prenez une posture en garde, levez un genou sur le côté et pivotez sur le pied d’appui.\n2. Tournez la hanche suivant une trajectoire circulaire détendue sans frapper à pleine puissance.\n3. Repliez la jambe sous le genou, ramenez la hanche, reprenez la posture et alternez les côtés.",
+      "sectionTitle": "Préparation aux coups de pied"
+    },
+    "de": {
+      "title": "Lockere Rundkick-Abfolge",
+      "description": "1. Nimm eine Stellung mit Deckung ein, hebe ein Knie zur Seite und drehe den Standfuß.\n2. Drehe die Hüfte durch eine lockere Rundkick-Bahn, ohne mit voller Kraft zu treten.\n3. Ziehe den Unterschenkel zurück, drehe die Hüfte zurück, kehre in die Stellung zurück und wechsle die Seiten.",
+      "sectionTitle": "Kickvorbereitung"
+    },
+    "it": {
+      "title": "Sequenza leggera di calci circolari",
+      "description": "1. Assumi una posizione in guardia, solleva un ginocchio di lato e ruota sul piede di appoggio.\n2. Ruota l’anca lungo una traiettoria circolare rilassata senza colpire alla massima potenza.\n3. Richiama la parte inferiore della gamba, ruota l’anca indietro, torna in posizione e alterna i lati.",
+      "sectionTitle": "Preparazione ai calci"
+    },
+    "zh-Hans": {
+      "title": "轻柔鞭腿连贯练习",
+      "description": "1. 采取防守站姿，将一侧膝盖向侧面抬起，并转动支撑脚。\n2. 转动髋部，沿放松的鞭腿轨迹运动，不要全力踢击。\n3. 收回小腿，将髋部转回，恢复站姿并左右交替。",
+      "sectionTitle": "踢击准备"
+    },
+    "ja": {
+      "title": "軽い回し蹴りの連続動作",
+      "description": "1. ガードを構え、片方の膝を横に上げて軸足を回します。\n2. 全力で蹴らず、力を抜いた回し蹴りの軌道に沿って腰を回します。\n3. 膝から下を引き戻し、腰を戻して構えに戻り、左右交互に行います。",
+      "sectionTitle": "キックの準備"
+    },
+    "ko": {
+      "title": "가벼운 돌려차기 흐름",
+      "description": "1. 가드 자세를 취하고 한쪽 무릎을 옆으로 들어 지지하는 발을 회전합니다.\n2. 최대 힘으로 차지 않고 편안한 돌려차기 궤적을 따라 골반을 돌립니다.\n3. 무릎 아래를 접어 되돌리고 골반을 다시 돌려 자세로 돌아온 뒤 양쪽을 번갈아 실시합니다.",
+      "sectionTitle": "킥 준비"
+    },
+    "th": {
+      "title": "เตะตัดเบาต่อเนื่อง",
+      "description": "1. ตั้งท่ายกมือป้องกัน ยกเข่าข้างหนึ่งไปด้านข้างและหมุนเท้าที่รับน้ำหนัก\n2. หมุนสะโพกตามแนวเตะตัดอย่างผ่อนคลายโดยไม่เตะเต็มแรง\n3. หดขาส่วนล่างกลับ หมุนสะโพกกลับ คืนสู่ท่ายืนและสลับข้าง",
+      "sectionTitle": "เตรียมพร้อมสำหรับการเตะ"
+    },
+    "ru": {
+      "title": "Плавные лёгкие круговые удары ногой",
+      "description": "1. Примите стойку с руками в защите, поднимите одно колено в сторону и разверните опорную стопу.\n2. Поверните таз по расслабленной траектории кругового удара, не нанося удар в полную силу.\n3. Уберите голень, поверните таз обратно, вернитесь в стойку и чередуйте стороны.",
+      "sectionTitle": "Подготовка к ударам ногами"
+    },
+    "uk": {
+      "title": "Плавні легкі кругові удари ногою",
+      "description": "1. Прийміть стійку з руками в захисті, підніміть одне коліно вбік і розверніть опорну стопу.\n2. Поверніть таз за розслабленою траєкторією кругового удару, не завдаючи удару на повну силу.\n3. Відведіть гомілку назад, поверніть таз назад, поверніться у стійку та чергуйте сторони.",
+      "sectionTitle": "Підготовка до ударів ногами"
+    }
+  }
+}

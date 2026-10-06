@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "tag": {
+    "color": "#AF6ED7",
+    "colorType": "violet",
+    "folder": "Aikido",
+    "id": "43",
+    "icon": "Aikido/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Aikido",
+    "workoutType": "aikido",
+    "translations": {
+      "en": {
+        "title": "Aikido"
+      },
+      "es": {
+        "title": "Aikido"
+      },
+      "pt": {
+        "title": "Aikidô"
+      },
+      "fr": {
+        "title": "Aïkido"
+      },
+      "de": {
+        "title": "Aikido"
+      },
+      "it": {
+        "title": "Aikido"
+      },
+      "zh-Hans": {
+        "title": "合气道"
+      },
+      "ja": {
+        "title": "合気道"
+      },
+      "ko": {
+        "title": "아이키도"
+      },
+      "th": {
+        "title": "ไอคิโด"
+      },
+      "ru": {
+        "title": "Айкидо"
+      },
+      "uk": {
+        "title": "Айкідо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Aikido/exercises/aikido/Icon.png",
+      "json": "Aikido/exercises/aikido/aikido.json"
+    },
+    {
+      "icon": "Aikido/exercises/shomenAte/Icon.png",
+      "json": "Aikido/exercises/shomenAte/shomenAte.json"
+    },
+    {
+      "icon": "Aikido/exercises/aigamaeAte/Icon.png",
+      "json": "Aikido/exercises/aigamaeAte/aigamaeAte.json"
+    },
+    {
+      "icon": "Aikido/exercises/gyakuGamaeAte/Icon.png",
+      "json": "Aikido/exercises/gyakuGamaeAte/gyakuGamaeAte.json"
+    },
+    {
+      "icon": "Aikido/exercises/gedanAte/Icon.png",
+      "json": "Aikido/exercises/gedanAte/gedanAte.json"
+    },
+    {
+      "icon": "Aikido/exercises/ushiroAte/Icon.png",
+      "json": "Aikido/exercises/ushiroAte/ushiroAte.json"
+    },
+    {
+      "icon": "Aikido/exercises/oshiTaoshi/Icon.png",
+      "json": "Aikido/exercises/oshiTaoshi/oshiTaoshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/udeGaeshi/Icon.png",
+      "json": "Aikido/exercises/udeGaeshi/udeGaeshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/hikiTaoshi/Icon.png",
+      "json": "Aikido/exercises/hikiTaoshi/hikiTaoshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/udeHineri/Icon.png",
+      "json": "Aikido/exercises/udeHineri/udeHineri.json"
+    },
+    {
+      "icon": "Aikido/exercises/wakiGatame/Icon.png",
+      "json": "Aikido/exercises/wakiGatame/wakiGatame.json"
+    },
+    {
+      "icon": "Aikido/exercises/koteHineri/Icon.png",
+      "json": "Aikido/exercises/koteHineri/koteHineri.json"
+    },
+    {
+      "icon": "Aikido/exercises/koteGaeshi/Icon.png",
+      "json": "Aikido/exercises/koteGaeshi/koteGaeshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/tenkaiKoteHineri/Icon.png",
+      "json": "Aikido/exercises/tenkaiKoteHineri/tenkaiKoteHineri.json"
+    },
+    {
+      "icon": "Aikido/exercises/tenkaiKoteGaeshi/Icon.png",
+      "json": "Aikido/exercises/tenkaiKoteGaeshi/tenkaiKoteGaeshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/maeOtoshi/Icon.png",
+      "json": "Aikido/exercises/maeOtoshi/maeOtoshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/sumiOtoshi/Icon.png",
+      "json": "Aikido/exercises/sumiOtoshi/sumiOtoshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/hikiOtoshi/Icon.png",
+      "json": "Aikido/exercises/hikiOtoshi/hikiOtoshi.json"
+    },
+    {
+      "icon": "Aikido/exercises/randoriNoKata/Icon.png",
+      "json": "Aikido/exercises/randoriNoKata/randoriNoKata.json"
+    },
+    {
+      "icon": "Aikido/exercises/kakariGeiko/Icon.png",
+      "json": "Aikido/exercises/kakariGeiko/kakariGeiko.json"
+    },
+    {
+      "icon": "Aikido/exercises/hikitateGeiko/Icon.png",
+      "json": "Aikido/exercises/hikitateGeiko/hikitateGeiko.json"
+    },
+    {
+      "icon": "Aikido/exercises/randoriGeiko/Icon.png",
+      "json": "Aikido/exercises/randoriGeiko/randoriGeiko.json"
+    }
+  ]
+}

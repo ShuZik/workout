@@ -1,0 +1,89 @@
+{
+  "id": "13.69",
+  "key": "strength_dumbbell_fly",
+  "title": "Dumbbell Fly",
+  "description": "1. Lie on a stable bench with dumbbells held above the chest and a small bend in both elbows.\n2. Open the arms in a wide arc until the chest stretches through a comfortable range while the shoulder blades stay set.\n3. Squeeze the chest to return the dumbbells above the chest without locking the elbows or dropping the shoulders forward.",
+  "color": "#7D4DB3",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "default": 10,
+  "default2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.4",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dumbbell Fly",
+      "description": "1. Lie on a stable bench with dumbbells held above the chest and a small bend in both elbows.\n2. Open the arms in a wide arc until the chest stretches through a comfortable range while the shoulder blades stay set.\n3. Squeeze the chest to return the dumbbells above the chest without locking the elbows or dropping the shoulders forward.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Aperturas con mancuernas",
+      "description": "1. Túmbate en un banco estable con las mancuernas sobre el pecho y una ligera flexión en ambos codos.\n2. Abre los brazos en un arco amplio hasta que el pecho se estire en un rango cómodo mientras las escápulas siguen colocadas.\n3. Aprieta el pecho para devolver las mancuernas sobre el pecho sin bloquear los codos ni adelantar los hombros.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Crucifixo com halteres",
+      "description": "1. Deite-se em um banco estável com os halteres acima do peito e uma leve flexão nos dois cotovelos.\n2. Abra os braços em um arco amplo até o peito alongar em uma amplitude confortável, mantendo as escápulas posicionadas.\n3. Contraia o peito para trazer os halteres de volta acima do peito sem travar os cotovelos nem projetar os ombros para a frente.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Écarté avec haltères",
+      "description": "1. Allongez-vous sur un banc stable, haltères au-dessus de la poitrine et coudes légèrement fléchis.\n2. Ouvrez les bras en un large arc jusqu’à étirer la poitrine dans une amplitude confortable, omoplates toujours placées.\n3. Contractez la poitrine pour ramener les haltères au-dessus d’elle sans verrouiller les coudes ni laisser les épaules partir vers l’avant.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Fliegende mit Kurzhanteln",
+      "description": "1. Lege dich auf eine stabile Bank, halte die Kurzhanteln über der Brust und beuge beide Ellbogen leicht.\n2. Öffne die Arme in einem weiten Bogen, bis die Brust in einem angenehmen Bereich gedehnt ist, während die Schulterblätter fixiert bleiben.\n3. Spanne die Brust an, um die Kurzhanteln wieder über die Brust zu führen, ohne die Ellbogen durchzustrecken oder die Schultern nach vorne fallen zu lassen.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Croci con manubri",
+      "description": "1. Sdraiati su una panca stabile con i manubri sopra il petto e una leggera flessione in entrambi i gomiti.\n2. Apri le braccia con un ampio arco finché il petto si allunga in un’escursione comoda, mantenendo le scapole addotte.\n3. Contrai il petto per riportare i manubri sopra di esso senza bloccare i gomiti né far cadere le spalle in avanti.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃飞鸟",
+      "description": "1. 仰卧在稳固的凳上，将哑铃举在胸部上方，双肘微屈。\n2. 双臂沿大弧线向两侧打开，直到胸部在舒适范围内得到拉伸，肩胛骨保持就位。\n3. 收缩胸部将哑铃合回胸部上方，不要锁死肘部，也不要让肩部前倾。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ダンベルフライ",
+      "description": "1. 安定したベンチに仰向けになり、両肘を軽く曲げてダンベルを胸の上で持ちます。\n2. 肩甲骨を寄せたまま、胸が無理なく伸びるところまで大きな弧を描いて腕を開きます。\n3. 肘をロックせず肩を前に出さずに、胸を締めてダンベルを胸の上へ戻します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "덤벨 플라이",
+      "description": "1. 안정된 벤치에 누워 덤벨을 가슴 위로 들고 두 팔꿈치를 살짝 굽힙니다.\n2. 견갑골을 고정한 채 가슴이 편안한 범위에서 늘어날 때까지 팔을 넓은 호를 그리며 벌립니다.\n3. 팔꿈치를 잠그거나 어깨를 앞으로 떨어뜨리지 않고 가슴을 조여 덤벨을 가슴 위로 되돌립니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ฟลายด้วยดัมเบล",
+      "description": "1. นอนบนม้านั่งที่มั่นคง ถือดัมเบลไว้เหนือหน้าอก และงอศอกทั้งสองเล็กน้อย\n2. กางแขนออกเป็นวงกว้างจนรู้สึกยืดหน้าอกในช่วงที่สบาย ขณะที่สะบักยังอยู่ในตำแหน่ง\n3. บีบหน้าอกเพื่อนำดัมเบลกลับขึ้นเหนือหน้าอกโดยไม่ล็อกศอกหรือปล่อยไหล่ห่อไปด้านหน้า",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Разведение гантелей лёжа",
+      "description": "1. Лягте на устойчивую скамью, держа гантели над грудью и слегка согнув оба локтя.\n2. Разведите руки по широкой дуге до комфортного растяжения груди, сохраняя лопатки сведёнными.\n3. Напрягите грудные мышцы и сведите гантели над грудью, не выпрямляя локти до упора и не выводя плечи вперёд.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Розведення гантелей лежачи",
+      "description": "1. Ляжте на стійку лаву, тримаючи гантелі над грудьми й злегка зігнувши обидва лікті.\n2. Розведіть руки широкою дугою до комфортного розтягнення грудей, зберігаючи лопатки зведеними.\n3. Напружте грудні м’язи й зведіть гантелі над грудьми, не випрямляючи лікті до упору й не виводячи плечі вперед.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

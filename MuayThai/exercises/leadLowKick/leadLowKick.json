@@ -1,0 +1,90 @@
+{
+  "id": "2.10",
+  "key": "muay_thai_lead_low_kick",
+  "title": "Lead Low Kick",
+  "description": "1. From stance, load the rear leg and step or angle the support foot to open the lead hip.\n2. Turn the hip over and swing the lower lead shin through the thigh while the support foot pivots.\n3. Recoil the leg immediately and recover the lead foot, guard, and balance.",
+  "color": "#F3A044",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lead Low Kick",
+      "description": "1. From stance, load the rear leg and step or angle the support foot to open the lead hip.\n2. Turn the hip over and swing the lower lead shin through the thigh while the support foot pivots.\n3. Recoil the leg immediately and recover the lead foot, guard, and balance.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Patada baja delantera",
+      "description": "1. Desde la postura, carga la pierna trasera y da un paso o angula el pie de apoyo para abrir la cadera delantera.\n2. Gira la cadera por encima y haz pasar la parte baja de la espinilla delantera a través del muslo mientras pivota el pie de apoyo.\n3. Recoge la pierna de inmediato y recupera el pie delantero, la guardia y el equilibrio.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Chute baixo da frente",
+      "description": "1. Na base, carregue a perna de trás e dê um passo ou angule o pé de apoio para abrir o quadril da frente.\n2. Vire o quadril por cima e passe a parte baixa da canela da frente através da coxa enquanto o pé de apoio gira.\n3. Recolha a perna imediatamente e recupere o pé da frente, a guarda e o equilíbrio.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Low-kick avant",
+      "description": "1. En garde, chargez la jambe arrière et avancez ou orientez le pied d’appui pour ouvrir la hanche avant.\n2. Basculez la hanche et faites traverser la cuisse par le bas du tibia avant pendant que le pied d’appui pivote.\n3. Ramenez la jambe immédiatement et retrouvez le pied avant, la garde et l’équilibre.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Vorderer Lowkick",
+      "description": "1. Belaste aus der Stellung das hintere Bein und setze oder winkle den Standfuß so, dass sich die vordere Hüfte öffnet.\n2. Drehe die Hüfte ein und schwinge das untere vordere Schienbein durch den Oberschenkel, während der Standfuß dreht.\n3. Ziehe das Bein sofort zurück und stelle vorderen Fuß, Deckung und Gleichgewicht wieder her.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Calcio basso anteriore",
+      "description": "1. Dalla posizione, carica la gamba posteriore e fai un passo o angola il piede d’appoggio per aprire l’anca anteriore.\n2. Gira l’anca sopra e fai passare la parte bassa della tibia anteriore attraverso la coscia mentre il piede d’appoggio ruota.\n3. Richiama subito la gamba e recupera piede anteriore, guardia ed equilibrio.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "前腿低扫",
+      "description": "1. 从站姿开始，后腿蓄力，支撑脚上步或调整角度以打开前髋。\n2. 翻髋，同时支撑脚转动，用前腿小腿下段扫过大腿。\n3. 立即收腿，恢复前脚位置、防守和平衡。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "前足のローキック",
+      "description": "1. 構えから後ろ脚に体重を乗せ、軸足を踏み出すか角度をつけて前の腰を開きます。\n2. 軸足を回しながら腰を返し、前脚のすねの下部で太ももを振り抜きます。\n3. すぐに脚を引き戻し、前足、ガード、バランスを立て直します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "앞발 로킥",
+      "description": "1. 자세에서 뒷다리에 체중을 싣고 지지발을 내딛거나 각도를 틀어 앞 골반을 엽니다.\n2. 지지발을 돌리며 골반을 덮어 돌리고 앞 정강이 아랫부분으로 허벅지를 관통하듯 찹니다.\n3. 즉시 다리를 회수하고 앞발, 가드, 균형을 회복합니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เตะล่างขาหน้า",
+      "description": "1. จากท่ายืน ลงน้ำหนักที่ขาหลังและก้าวหรือเปิดมุมเท้ายืนเพื่อเปิดสะโพกหน้า\n2. บิดสะโพกและเหวี่ยงหน้าแข้งหน้าช่วงล่างผ่านต้นขา ขณะหมุนเท้ายืน\n3. เก็บขากลับทันทีและคืนเท้าหน้า การ์ด และการทรงตัว",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Лоу-кик передней ногой",
+      "description": "1. Из стойки загрузите заднюю ногу и шагните или разверните опорную стопу, чтобы открыть переднюю сторону таза.\n2. Доверните таз и проведите нижнюю часть передней голени сквозь бедро, разворачивая опорную стопу.\n3. Сразу верните ногу и восстановите положение передней стопы, защиту и равновесие.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Лоу-кік передньою ногою",
+      "description": "1. Зі стійки завантажте задню ногу й ступніть або розверніть опорну стопу, щоб відкрити передній бік таза.\n2. Доверніть таз і проведіть нижню частину передньої гомілки крізь стегно, розвертаючи опорну стопу.\n3. Одразу поверніть ногу й відновіть положення передньої стопи, захист і рівновагу.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "54.1",
+  "key": "fencing_main",
+  "title": "Fencing",
+  "description": "1. Take en garde with the front foot pointing at the partner or target, knees bent, rear arm raised, and the weapon arm relaxed in line.\n2. Move with advances and retreats, extend the arm and lunge at the target, and add simple parries and ripostes at a controlled pace.\n3. Recover to en garde after every action, keep the distance, and stop the action immediately at the trainer's or partner's halt call.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "1 Main",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Fencing",
+      "description": "1. Take en garde with the front foot pointing at the partner or target, knees bent, rear arm raised, and the weapon arm relaxed in line.\n2. Move with advances and retreats, extend the arm and lunge at the target, and add simple parries and ripostes at a controlled pace.\n3. Recover to en garde after every action, keep the distance, and stop the action immediately at the trainer's or partner's halt call.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Esgrima",
+      "description": "1. Ponte en guardia con el pie delantero hacia el compañero o el blanco, rodillas flexionadas, brazo trasero elevado y brazo armado relajado en línea.\n2. Desplázate con avances y retrocesos, extiende el brazo y tira a fondo al blanco, y añade paradas y respuestas simples a ritmo controlado.\n3. Vuelve a la guardia tras cada acción, mantén la distancia y detente de inmediato a la voz de alto del entrenador o del compañero.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Esgrima",
+      "description": "1. Fique em guarda com o pé da frente apontado ao parceiro ou alvo, joelhos fletidos, braço de trás elevado e braço armado relaxado em linha.\n2. Desloque-se com avanços e recuos, estenda o braço e afunde ao alvo, e acrescente paradas e respostas simples em ritmo controlado.\n3. Volte à guarda após cada ação, mantenha a distância e pare imediatamente ao sinal de parada do treinador ou do parceiro.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Escrime",
+      "description": "1. Mettez-vous en garde, pied avant vers le partenaire ou la cible, genoux fléchis, bras arrière levé et bras armé détendu dans la ligne.\n2. Déplacez-vous en marches et retraites, allongez le bras et fendez-vous sur la cible, puis ajoutez des parades-ripostes simples à rythme contrôlé.\n3. Revenez en garde après chaque action, gardez la distance et arrêtez-vous immédiatement au « halte » de l’entraîneur ou du partenaire.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Fechten",
+      "description": "1. Gehe in die Fechtstellung, vorderer Fuß zum Partner oder Ziel, Knie gebeugt, hinterer Arm erhoben und Waffenarm locker in Linie.\n2. Bewege dich mit Schritten vor und zurück, strecke den Arm, falle aus und ergänze einfache Paraden und Riposten in kontrolliertem Tempo.\n3. Kehre nach jeder Aktion in die Fechtstellung zurück, halte die Distanz und stoppe sofort beim Halt-Kommando von Trainer oder Partner.",
+      "sectionTitle": "Haupt"
+    },
+    "it": {
+      "title": "Scherma",
+      "description": "1. Mettiti in guardia con il piede anteriore verso il compagno o il bersaglio, ginocchia piegate, braccio arretrato alzato e braccio armato rilassato in linea.\n2. Muoviti con passi avanti e indietro, distendi il braccio e vai in affondo sul bersaglio, aggiungendo parate e risposte semplici a ritmo controllato.\n3. Torna in guardia dopo ogni azione, mantieni la distanza e fermati subito all’alt dell’istruttore o del compagno.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "击剑",
+      "description": "1. 成实战姿势，前脚指向同伴或目标，屈膝，后臂抬起，持剑臂放松成直线。\n2. 用前进和后退移动，伸臂并弓步刺向目标，以可控节奏加入简单的防守和还击。\n3. 每个动作后恢复实战姿势，保持距离，听到教练或同伴喊停时立即停止。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "フェンシング",
+      "description": "1. 前足を相手または標的に向けてアンガルドを取り、膝を曲げ、後ろ腕を上げ、剣を持つ腕は力を抜いてラインに置きます。\n2. マルシェとロンペで移動し、腕を伸ばして標的へファントし、簡単なパラードとリポストを制御したテンポで加えます。\n3. 各動作の後にアンガルドへ戻り、間合いを保ち、指導者や相手の「止め」の合図ですぐに止まります。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "펜싱",
+      "description": "1. 앞발을 파트너나 표적으로 향하게 하고 무릎을 굽힌 앙가르드를 취하며, 뒷팔은 들고 칼을 든 팔은 힘을 빼고 라인에 둡니다.\n2. 전진과 후퇴로 움직이고 팔을 뻗어 표적에 런지하며, 통제된 속도로 간단한 패리와 리포스트를 더합니다.\n3. 매 동작 후 앙가르드로 돌아와 거리를 유지하고, 코치나 파트너의 정지 신호에 즉시 멈춥니다.",
+      "sectionTitle": "메인"
+    },
+    "th": {
+      "title": "ฟันดาบสากล",
+      "description": "1. ตั้งท่าอองการ์ด เท้าหน้าชี้ไปที่คู่ฝึกหรือเป้า งอเข่า ยกแขนหลัง และแขนถือดาบผ่อนคลายอยู่ในแนว\n2. เคลื่อนที่ด้วยการก้าวหน้าและถอยหลัง เหยียดแขนแล้วลันจ์ไปที่เป้า และเพิ่มการปัดป้องและโต้กลับแบบง่ายด้วยจังหวะที่ควบคุมได้\n3. กลับสู่อองการ์ดหลังทุกการกระทำ รักษาระยะ และหยุดทันทีเมื่อผู้ฝึกสอนหรือคู่ฝึกสั่งหยุด",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Фехтование",
+      "description": "1. Займите боевую стойку: передняя стопа направлена на партнёра или мишень, колени согнуты, задняя рука поднята, вооружённая рука расслаблена в линии.\n2. Передвигайтесь шагами вперёд и назад, выпрямляйте руку и делайте выпад в мишень, добавляя простые защиты и ответы в контролируемом темпе.\n3. После каждого действия возвращайтесь в стойку, держите дистанцию и сразу останавливайтесь по команде «стоп» тренера или партнёра.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Фехтування",
+      "description": "1. Займіть бойову стійку: передня стопа спрямована на партнера чи мішень, коліна зігнуті, задня рука піднята, озброєна рука розслаблена в лінії.\n2. Пересувайтеся кроками вперед і назад, випрямляйте руку й робіть випад у мішень, додаючи прості захисти й відповіді в контрольованому темпі.\n3. Після кожної дії повертайтеся в стійку, тримайте дистанцію й одразу зупиняйтеся за командою «стоп» тренера чи партнера.",
+      "sectionTitle": "Основне"
+    }
+  }
+}

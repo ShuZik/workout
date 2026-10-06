@@ -1,0 +1,87 @@
+{
+  "id": "8.48",
+  "key": "taekwondo_koryo",
+  "title": "Koryo",
+  "description": "1. Start in pushing-hands ready stance and perform Koryo, the first black-belt poomsae, on its scholar-character line of movement.\n2. Include the double side kick (low then high), knife-hand outward strikes, arc-hand throat strikes, the knee-breaking action and the low pressing and spread blocks.\n3. Finish with the closing knife-hand and palm movements, then return to pushing-hands ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Koryo",
+      "description": "1. Start in pushing-hands ready stance and perform Koryo, the first black-belt poomsae, on its scholar-character line of movement.\n2. Include the double side kick (low then high), knife-hand outward strikes, arc-hand throat strikes, the knee-breaking action and the low pressing and spread blocks.\n3. Finish with the closing knife-hand and palm movements, then return to pushing-hands ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Koryo",
+      "description": "1. Empieza en posición de preparación con manos empujando y realiza Koryo, el primer poomsae de cinturón negro, sobre su línea en forma del carácter de erudito.\n2. Incluye la doble patada lateral (baja y luego alta), los golpes hacia fuera con mano de cuchillo, los golpes en arco a la garganta, la acción de romper la rodilla y los bloqueos bajos de presión y abiertos.\n3. Termina con los movimientos finales de mano de cuchillo y palma y vuelve a la posición de preparación con manos empujando.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Koryo",
+      "description": "1. Comece na posição de preparação com mãos empurrando e execute Koryo, o primeiro poomsae de faixa preta, sobre a sua linha em forma do caractere de erudito.\n2. Inclua o chute lateral duplo (baixo e depois alto), os golpes para fora com mão em faca, os golpes em arco na garganta, a ação de quebrar o joelho e os bloqueios baixos de pressão e abertos.\n3. Termine com os movimentos finais de mão em faca e palma e volte à posição de preparação com mãos empurrando.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Koryo",
+      "description": "1. Partez en position de préparation mains poussantes et exécutez Koryo, le premier poomsae de ceinture noire, sur son tracé en forme du caractère « lettré ».\n2. Intégrez le double coup de pied latéral (bas puis haut), les frappes vers l’extérieur main en sabre, les frappes en arc à la gorge, l’action de briser le genou et les blocages bas pressants et écartés.\n3. Terminez par les derniers mouvements main en sabre et paume, puis revenez en position de préparation mains poussantes.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Koryo",
+      "description": "1. Beginne im Bereitschaftsstand mit schiebenden Händen und laufe Koryo, die erste Schwarzgurt-Poomsae, auf ihrer Linie in Form des Gelehrten-Schriftzeichens.\n2. Baue den Doppelseittritt (tief, dann hoch), äußere Handkantenschläge, Bogenhandschläge zur Kehle, die Kniebrechaktion sowie tiefe Druck- und Spreizblocks ein.\n3. Schließe mit den letzten Handkanten- und Handflächenbewegungen ab und kehre in den Bereitschaftsstand mit schiebenden Händen zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Koryo",
+      "description": "1. Parti dalla posizione di pronti a mani che spingono ed esegui Koryo, il primo poomsae di cintura nera, sulla sua linea a forma del carattere «studioso».\n2. Inserisci il doppio calcio laterale (basso e poi alto), i colpi verso l’esterno a mano a coltello, i colpi ad arco alla gola, l’azione di rottura del ginocchio e le parate basse a pressione e aperte.\n3. Concludi con gli ultimi movimenti a mano a coltello e di palmo, poi torna alla posizione di pronti a mani che spingono.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "高丽品势（Koryo）",
+      "description": "1. 以推掌预备式开始，沿“士”字形路线完成第一个黑带品势高丽。\n2. 包括低高双侧踢、手刀外击、弧形手击喉、折膝动作，以及下压与下分格挡。\n3. 以最后的手刀和掌部动作收尾，回到推掌预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "コリョ（高麗）",
+      "description": "1. 押し手準備立ちから始め、「士」字形の演武線で黒帯最初のプムセ、高麗を行います。\n2. 低い横蹴りから高い横蹴りへの二段横蹴り、手刀外打ち、弧拳による喉打ち、膝折り、下段押さえ受けと下段開き受けを含めます。\n3. 最後の手刀と掌の動作で締めくくり、押し手準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "고려",
+      "description": "1. 통밀기 준비서기에서 시작해 선비 사(士)자 선을 따라 첫 유단자 품새 고려를 수행합니다.\n2. 낮은 옆차기 후 높은 옆차기, 손날 바깥치기, 칼재비, 무릎꺾기, 아래 눌러막기와 아래 헤쳐막기를 포함합니다.\n3. 마지막 손날과 바탕손 동작으로 마무리하고 통밀기 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "โครยอ",
+      "description": "1. เริ่มจากท่ายืนเตรียมแบบมือผลักและทำโครยอ พุมเซสายดำชุดแรก บนเส้นการเคลื่อนไหวรูปอักษร “บัณฑิต”\n2. รวมการเตะข้างคู่ (ต่ำแล้วสูง) การฟันสันมือออกด้านนอก การตีลำคอด้วยมือโค้ง การหักเข่า และการปัดกดและปัดแยกระดับต่ำ\n3. จบด้วยการเคลื่อนไหวสันมือและฝ่ามือชุดสุดท้าย แล้วกลับสู่ท่ายืนเตรียมแบบมือผลัก",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Корё",
+      "description": "1. Начните из готовой стойки с толкающими ладонями и выполните Корё, первое пхумсэ чёрного пояса, по линии в форме иероглифа «учёный».\n2. Включите двойной боковой удар ногой (низкий, затем высокий), внешние удары ребром ладони, удары дугой ладони в горло, ломающее действие по колену и нижние прижимающие и разводящие блоки.\n3. Завершите последними движениями ребром ладони и ладонью и вернитесь в готовую стойку с толкающими ладонями.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Корьо",
+      "description": "1. Почніть із готової стійки зі штовхальними долонями й виконайте Корьо, перше пхумсе чорного пояса, лінією у формі ієрогліфа «учений».\n2. Додайте подвійний бічний удар ногою (низький, потім високий), зовнішні удари ребром долоні, удари дугою долоні в горло, ламальну дію по коліну та нижні притискні й розвідні блоки.\n3. Завершіть останніми рухами ребром долоні й долонею та поверніться в готову стійку зі штовхальними долонями.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

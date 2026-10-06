@@ -1,0 +1,87 @@
+{
+  "id": "8.43",
+  "key": "taekwondo_taegeuk_4_jang",
+  "title": "Taegeuk 4 Jang",
+  "description": "1. Start in basic ready stance and perform the fourth Taegeuk, opening with back-stance knife-hand guarding blocks.\n2. Include the vertical spear-hand thrusts, swallow-form knife-hand strikes, side kicks, front back-fist strikes and front kicks.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "section": "6 Forms",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Taegeuk 4 Jang",
+      "description": "1. Start in basic ready stance and perform the fourth Taegeuk, opening with back-stance knife-hand guarding blocks.\n2. Include the vertical spear-hand thrusts, swallow-form knife-hand strikes, side kicks, front back-fist strikes and front kicks.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
+      "sectionTitle": "Forms"
+    },
+    "es": {
+      "title": "Taegeuk 4 Jang",
+      "description": "1. Empieza en posición de preparación básica y realiza el cuarto Taegeuk, abriendo con bloqueos de guardia de mano de cuchillo en posición atrasada.\n2. Incluye las estocadas verticales con mano de lanza, los golpes de mano de cuchillo en forma de golondrina, las patadas laterales, los golpes frontales con dorso del puño y las patadas frontales.\n3. Termina con los bloqueos y puñetazos finales con kihap y vuelve a la posición de preparación básica.",
+      "sectionTitle": "Formas"
+    },
+    "pt": {
+      "title": "Taegeuk 4 Jang",
+      "description": "1. Comece na posição de preparação básica e execute o quarto Taegeuk, abrindo com bloqueios de guarda com mão em faca em base recuada.\n2. Inclua as estocadas verticais com mão em lança, os golpes de mão em faca em forma de andorinha, os chutes laterais, os golpes frontais com dorso do punho e os chutes frontais.\n3. Termine com os bloqueios e socos finais com kihap e volte à posição de preparação básica.",
+      "sectionTitle": "Formas"
+    },
+    "fr": {
+      "title": "Taegeuk 4 Jang",
+      "description": "1. Partez en position de préparation de base et exécutez le quatrième Taegeuk, en ouvrant par des blocages de garde main en sabre en position reculée.\n2. Intégrez les piques verticales main en lance, les frappes main en sabre en forme d’hirondelle, les coups de pied latéraux, les revers du poing vers l’avant et les coups de pied directs.\n3. Terminez par les derniers blocages et coups de poing avec kihap, puis revenez en position de préparation de base.",
+      "sectionTitle": "Formes"
+    },
+    "de": {
+      "title": "Taegeuk 4 Jang",
+      "description": "1. Beginne im Grund-Bereitschaftsstand und laufe die vierte Taegeuk-Form, eröffnet mit Handkanten-Schutzblocks im Rückwärtsstand.\n2. Baue senkrechte Speerhandstiche, Schwalben-Handkantenschläge, Seittritte, Rückfaustschläge nach vorn und Vorwärtstritte ein.\n3. Schließe mit den letzten Blocks und Fauststößen mit Kihap ab und kehre in den Grund-Bereitschaftsstand zurück.",
+      "sectionTitle": "Formen"
+    },
+    "it": {
+      "title": "Taegeuk 4 Jang",
+      "description": "1. Parti dalla posizione di pronti di base ed esegui il quarto Taegeuk, aprendo con parate di guardia a mano a coltello in posizione arretrata.\n2. Inserisci le stoccate verticali a mano a lancia, i colpi a mano a coltello a rondine, i calci laterali, i colpi frontali di dorso del pugno e i calci frontali.\n3. Concludi con le ultime parate e pugni con kihap, poi torna alla posizione di pronti di base.",
+      "sectionTitle": "Forme"
+    },
+    "zh-Hans": {
+      "title": "太极四章",
+      "description": "1. 以基本预备式开始，太极四章以后弓步手刀护挡开头。\n2. 包括立掌贯手刺、燕式手刀击颈、侧踢、前背拳和前踢。\n3. 以最后的格挡和冲拳并发声收尾，回到基本预备式。",
+      "sectionTitle": "套路"
+    },
+    "ja": {
+      "title": "太極4章（テグク・サジャン）",
+      "description": "1. 基本準備立ちから始め、後屈立ちの手刀構え受けで太極4章を開始します。\n2. 縦貫手、燕形手刀打ち、横蹴り、前方への裏拳打ち、前蹴りを含めます。\n3. 最後の受けと突きを気合とともに行い、基本準備立ちに戻ります。",
+      "sectionTitle": "形"
+    },
+    "ko": {
+      "title": "태극 4장",
+      "description": "1. 기본 준비서기에서 시작해 뒷굽이 손날몸통막기로 태극 4장을 엽니다.\n2. 편손끝 세워찌르기, 제비품 목치기, 옆차기, 등주먹 앞치기, 앞차기를 포함합니다.\n3. 마지막 막기와 지르기를 기합과 함께 하고 기본 준비서기로 돌아옵니다.",
+      "sectionTitle": "형"
+    },
+    "th": {
+      "title": "แทกึก 4 จัง",
+      "description": "1. เริ่มจากท่ายืนเตรียมพื้นฐานและทำแทกึกชุดที่สี่ โดยเปิดด้วยการปัดคุ้มกันด้วยสันมือในท่ายืนหลัง\n2. รวมการแทงด้วยปลายนิ้วแนวตั้ง การฟันสันมือท่านกนางแอ่น การเตะข้าง การตีหลังกำปั้นด้านหน้า และการเตะตรงด้านหน้า\n3. จบด้วยการปัดและหมัดชุดสุดท้ายพร้อมคีอัป แล้วกลับสู่ท่ายืนเตรียมพื้นฐาน",
+      "sectionTitle": "ท่ารำ"
+    },
+    "ru": {
+      "title": "Тхэгык 4 джан",
+      "description": "1. Начните из базовой готовой стойки и выполните четвёртый тхэгык, открыв его защитными блоками ребром ладони в задней стойке.\n2. Включите вертикальные тычки копьём руки, удары ребром лад��ни в форме ласточки, боковые удары ногой, удары тыльной стороной кулака вперёд и прямые удары ногой.\n3. Завершите последними блоками и ударами с кихапом и вернитесь в базовую готовую стойку.",
+      "sectionTitle": "Формы"
+    },
+    "uk": {
+      "title": "Тхегик 4 джан",
+      "description": "1. Почніть із базової готової стійки й виконайте четвертий тхегик, відкривши його захисними блоками ребром долоні в задній стійці.\n2. Додайте вертикальні тички списом руки, удари ребром долоні у формі ластівки, бічні удари ногою, удари тильним боком кулака вперед і прямі удари ногою.\n3. Завершіть останніми блоками й ударами з кіхапом і поверніться в базову готову стійку.",
+      "sectionTitle": "Форми"
+    }
+  }
+}

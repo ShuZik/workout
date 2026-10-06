@@ -1,0 +1,87 @@
+{
+  "id": "49.5",
+  "key": "capoeira_cocorinha",
+  "title": "Cocorinha",
+  "description": "1. From the ginga, drop straight down into a deep squat with both feet flat and the knees tracking over the toes.\n2. Raise one forearm over the head to protect it and place the other hand lightly on the floor for balance.\n3. Hold briefly below the imagined kick, then rise smoothly back into the ginga without bouncing.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "default": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "section": "2 Foundations",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "state": "active",
+  "translations": {
+    "en": {
+      "title": "Cocorinha",
+      "description": "1. From the ginga, drop straight down into a deep squat with both feet flat and the knees tracking over the toes.\n2. Raise one forearm over the head to protect it and place the other hand lightly on the floor for balance.\n3. Hold briefly below the imagined kick, then rise smoothly back into the ginga without bouncing.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Cocorinha",
+      "description": "1. Desde la ginga, baja recto a una sentadilla profunda con ambos pies planos y las rodillas alineadas con los dedos.\n2. Sube un antebrazo sobre la cabeza para protegerla y apoya la otra mano suavemente en el suelo para equilibrarte.\n3. Mantén un instante por debajo de la patada imaginaria y sube con suavidad a la ginga sin rebotar.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Cocorinha",
+      "description": "1. Da ginga, desça reto para um agachamento profundo com os dois pés apoiados e os joelhos alinhados com os dedos.\n2. Erga um antebraço sobre a cabeça para protegê-la e apoie a outra mão de leve no chão para equilibrar.\n3. Segure um instante abaixo do chute imaginário e suba suavemente para a ginga sem quicar.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Cocorinha",
+      "description": "1. Depuis la ginga, descendez droit en squat profond, pieds à plat et genoux dans l’axe des orteils.\n2. Levez un avant-bras au-dessus de la tête pour la protéger et posez légèrement l’autre main au sol pour l’équilibre.\n3. Restez un instant sous le coup de pied imaginaire, puis remontez souplement dans la ginga sans rebondir.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Cocorinha",
+      "description": "1. Gehe aus der Ginga gerade in eine tiefe Hocke, beide Füße flach und die Knie über den Zehen.\n2. Hebe einen Unterarm schützend über den Kopf und setze die andere Hand leicht zur Balance auf den Boden.\n3. Halte kurz unter dem gedachten Tritt und richte dich ohne Federn weich in die Ginga auf.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Cocorinha",
+      "description": "1. Dalla ginga scendi dritto in uno squat profondo con entrambi i piedi a terra e le ginocchia in linea con le punte.\n2. Alza un avambraccio sopra la testa per proteggerla e appoggia leggermente l’altra mano a terra per l’equilibrio.\n3. Resta un istante sotto il calcio immaginario, poi risali morbidamente in ginga senza rimbalzare.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "蹲闪（Cocorinha）",
+      "description": "1. 从金加步直接下沉成深蹲，双脚全脚掌着地，膝盖与脚尖方向一致。\n2. 一侧前臂举过头顶保护头部，另一只手轻撑地面保持平衡。\n3. 在假想踢腿下方短暂停留，然后平稳起身回到金加步，不要弹跳。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ココリーニャ",
+      "description": "1. ジンガからまっすぐ深くしゃがみ、両足を床につけ膝をつま先の方向にそろえます。\n2. 片方の前腕を頭の上に上げて守り、もう一方の手を軽く床についてバランスをとります。\n3. 想定した蹴りの下で一瞬止まり、弾まずに滑らかにジンガへ戻ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "코코리냐",
+      "description": "1. 징가에서 곧장 깊게 쪼그려 앉아 두 발을 바닥에 붙이고 무릎은 발끝 방향을 따르게 합니다.\n2. 한쪽 팔뚝을 머리 위로 올려 보호하고 다른 손은 바닥을 가볍게 짚어 균형을 잡습니다.\n3. 상상의 킥 아래에서 잠시 머문 뒤 반동 없이 부드럽게 징가로 일어납니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "โคโครินญา",
+      "description": "1. จากจิงกา ย่อตัวลงตรง ๆ เป็นท่านั่งยองลึก เท้าทั้งสองวางราบและเข่าชี้ตามปลายเท้า\n2. ยกแขนท่อนล่างข้างหนึ่งเหนือศีรษะเพื่อป้องกัน และวางมืออีกข้างแตะพื้นเบา ๆ เพื่อทรงตัว\n3. ค้างสั้น ๆ ใต้ลูกเตะสมมติ แล้วลุกขึ้นกลับสู่จิงกาอย่างนุ่มนวลโดยไม่เด้ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Кокоринья",
+      "description": "1. Из джинги опуститесь прямо вниз в глубокий присед, стопы полностью на полу, колени по направлению носков.\n2. Поднимите одно предплечье над головой для защиты и слегка обопритесь другой рукой о пол для равновесия.\n3. Задержитесь на мгновение под воображаемым ударом и плавно поднимитесь в джингу без пружинения.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Кокоринья",
+      "description": "1. Із джинги опустіться прямо вниз у глибокий присід, стопи повністю на підлозі, коліна за напрямком носків.\n2. Підніміть одне передпліччя над головою для захисту й злегка обіпріться іншою рукою об підлогу для рівноваги.\n3. Затримайтеся на мить під уявним ударом і плавно підведіться в джингу без пружинення.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

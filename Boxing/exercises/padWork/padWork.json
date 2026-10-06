@@ -1,0 +1,91 @@
+{
+  "id": "1.45",
+  "key": "pad_work",
+  "title": "Pad Work",
+  "description": "1. The holder takes an on-guard stance and presents the pads at realistic targets: nose height for straight head shots and solar-plexus height for body shots.\n2. The boxer punches on the holder's verbal or physical cue while the holder moves like an opponent and may offer light counters from the pads.\n3. Let every punch travel its full distance without the holder pushing the pads into it, and reset whenever balance or technique breaks down.",
+  "color": "#ED5C63",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "timerRole": "active",
+  "difficulty": "intermediate",
+  "level": 2,
+  "section": "3 Beginner",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Pad Work",
+      "description": "1. The holder takes an on-guard stance and presents the pads at realistic targets: nose height for straight head shots and solar-plexus height for body shots.\n2. The boxer punches on the holder's verbal or physical cue while the holder moves like an opponent and may offer light counters from the pads.\n3. Let every punch travel its full distance without the holder pushing the pads into it, and reset whenever balance or technique breaks down.",
+      "sectionTitle": "Beginner"
+    },
+    "es": {
+      "title": "Trabajo con manoplas",
+      "description": "1. El que sostiene adopta la guardia y presenta las manoplas en objetivos realistas: a la altura de la nariz para rectos a la cabeza y del plexo solar para golpes al cuerpo.\n2. El boxeador golpea a la señal verbal o física del compañero, que se mueve como un rival y puede contraatacar suavemente con las manoplas.\n3. Deja que cada golpe recorra toda su distancia sin que el compañero empuje la manopla contra él, y reinicia en cuanto se pierda el equilibrio o la técnica.",
+      "sectionTitle": "Principiante"
+    },
+    "pt": {
+      "title": "Trabalho de manopla",
+      "description": "1. Quem segura assume a guarda e apresenta as manoplas em alvos realistas: altura do nariz para diretos na cabeça e do plexo solar para golpes no corpo.\n2. O boxeador golpeia ao sinal verbal ou físico do parceiro, que se move como um adversário e pode contra-atacar levemente com as manoplas.\n3. Deixe cada golpe percorrer toda a distância sem que o parceiro empurre a manopla contra ele, e recomece sempre que o equilíbrio ou a técnica falhar.",
+      "sectionTitle": "Iniciante"
+    },
+    "fr": {
+      "title": "Travail aux pattes d’ours",
+      "description": "1. Le partenaire se met en garde et présente les pattes sur des cibles réalistes : hauteur du nez pour les directs au visage, plexus solaire pour les coups au corps.\n2. Le boxeur frappe au signal verbal ou visuel du partenaire, qui se déplace comme un adversaire et peut contrer légèrement avec les pattes.\n3. Laissez chaque coup aller au bout de sa trajectoire sans que le partenaire pousse la patte vers lui, et recommencez dès que l’équilibre ou la technique se dégrade.",
+      "sectionTitle": "Débutant"
+    },
+    "de": {
+      "title": "Pratzenarbeit",
+      "description": "1. Der Halter geht in Kampfstellung und hält die Pratzen an realistische Ziele: Nasenhöhe für gerade Kopftreffer, Höhe des Solarplexus für Körpertreffer.\n2. Der Boxer schlägt auf das verbale oder sichtbare Signal des Halters, der sich wie ein Gegner bewegt und mit den Pratzen leicht kontern darf.\n3. Lass jeden Schlag seine volle Strecke gehen, ohne dass der Halter die Pratze entgegenstößt, und setze neu an, sobald Gleichgewicht oder Technik nachlassen.",
+      "sectionTitle": "Anfänger"
+    },
+    "it": {
+      "title": "Lavoro ai colpitori",
+      "description": "1. Chi tiene i colpitori si mette in guardia e li presenta su bersagli realistici: altezza del naso per i diretti al volto, plesso solare per i colpi al corpo.\n2. Il pugile colpisce al segnale verbale o fisico del compagno, che si muove come un avversario e può contrattaccare leggermente con i colpitori.\n3. Lascia che ogni colpo percorra tutta la sua distanza senza che il compagno spinga il colpitore contro di esso, e riparti quando equilibrio o tecnica cedono.",
+      "sectionTitle": "Principiante"
+    },
+    "zh-Hans": {
+      "title": "手靶训练",
+      "description": "1. 持靶者摆出防守站姿，把手靶放在真实目标位置：头部直拳在鼻子高度，躯干击打在心窝高度。\n2. 拳手按持靶者的口令或动作信号出拳，持靶者像对手一样移动，并可用手靶轻轻反击。\n3. 让每一拳打完整个距离，持靶者不要把手靶迎向拳头；一旦失去平衡或技术变形就重新开始。",
+      "sectionTitle": "初级"
+    },
+    "ja": {
+      "title": "ミット打ち",
+      "description": "1. ミットを持つ人は構えを取り、現実的な位置にミットを出します。顔面へのストレートは鼻の高さ、ボディはみぞおちの高さです。\n2. ボクサーは持ち手の声やミットの合図で打ち、持ち手は相手のように動きながらミットで軽く打ち返すこともできます。\n3. 持ち手はミットを拳に当てにいかず、各パンチを最後まで伸ばさせます。バランスや技術が崩れたらやり直します。",
+      "sectionTitle": "初級"
+    },
+    "ko": {
+      "title": "미트 훈련",
+      "description": "1. 미트를 잡는 사람은 가드 자세를 잡고 실제와 같은 위치에 미트를 댑니다. 얼굴 스트레이트는 코 높이, 몸통 공격은 명치 높이입니다.\n2. 복서는 잡는 사람의 구두 또는 동작 신호에 맞춰 치고, 잡는 사람은 상대처럼 움직이며 미트로 가볍게 반격할 수 있습니다.\n3. 잡는 사람이 미트를 주먹 쪽으로 밀지 않아 펀치가 끝까지 뻗게 하고, 균형이나 기술이 무너지면 다시 시작합니다.",
+      "sectionTitle": "초급"
+    },
+    "th": {
+      "title": "ฝึกเป้ามือ",
+      "description": "1. ผู้ถือเป้ายืนท่าการ์ดและยื่นเป้าในตำแหน่งที่สมจริง ระดับจมูกสำหรับหมัดตรงเข้าหน้า และระดับลิ้นปี่สำหรับหมัดเข้าลำตัว\n2. นักมวยออกหมัดตามสัญญาณเสียงหรือท่าทางของผู้ถือเป้า ซึ่งเคลื่อนที่เหมือนคู่ต่อสู้และอาจสวนเบา ๆ ด้วยเป้า\n3. ให้ทุกหมัดพุ่งจนสุดระยะโดยผู้ถือเป้าไม่ดันเป้าเข้าหาหมัด และเริ่มใหม่เมื่อเสียสมดุลหรือท่าผิด",
+      "sectionTitle": "ระดับเริ่มต้น"
+    },
+    "ru": {
+      "title": "Рабо��а на лапах",
+      "description": "1. Держащий встаёт в стойку и подставляет лапы на реальные цели: на уровне носа для прямых в голову и на уровне солнечного сплетения для ударов в корпус.\n2. Боксёр бьёт по голосовому или физическому сигналу партнёра, который двигается как соперник и может легко контратаковать лапами.\n3. Каждый удар должен проходить полную дистанцию, держащий не толкает лапу навстречу; при потере равновесия или техники начинайте заново.",
+      "sectionTitle": "Начальный"
+    },
+    "uk": {
+      "title": "Робота на лапах",
+      "description": "1. Той, хто тримає, стає в стійку й підставляє лапи на реальні цілі: на рівні носа для прямих у голову та на рівні сонячного сплетіння для ударів у корпус.\n2. Боксер б’є за голосовим чи фізичним сигналом партнера, який рухається як суперник і може легко контратакувати лапами.\n3. Кожен удар має проходити повну дистанцію, той, хто тримає, не штовхає лапу назустріч; у разі втрати рівноваги чи техніки починайте заново.",
+      "sectionTitle": "Початковий"
+    }
+  }
+}

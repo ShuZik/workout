@@ -1,0 +1,90 @@
+{
+  "id": "8.2",
+  "key": "taekwondo_stance_and_footwork",
+  "title": "Taekwondo Stance and Footwork",
+  "description": "1. Place one foot forward with the body slightly side-on, knees soft, heels light, and hands protecting the head and torso.\n2. Slide forward, backward, and laterally by moving the nearest foot first without bringing the feet together.\n3. Add small pivots and stance switches while keeping the hips balanced and ready to chamber either leg.",
+  "color": "#2BBF51",
+  "colorType": "green",
+  "workoutType": "taekwondo",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 14.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15432"
+  },
+  "timerRole": "active",
+  "difficulty": "basic",
+  "section": "2 Stances",
+  "availableFrom": "1.1.2",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Taekwondo Stance and Footwork",
+      "description": "1. Place one foot forward with the body slightly side-on, knees soft, heels light, and hands protecting the head and torso.\n2. Slide forward, backward, and laterally by moving the nearest foot first without bringing the feet together.\n3. Add small pivots and stance switches while keeping the hips balanced and ready to chamber either leg.",
+      "sectionTitle": "Stances"
+    },
+    "es": {
+      "title": "Postura y desplazamientos de taekwondo",
+      "description": "1. Coloca un pie delante, con el cuerpo ligeramente de lado, rodillas flexibles, talones ligeros y manos protegiendo cabeza y torso.\n2. Deslízate adelante, atrás y lateralmente, moviendo primero el pie más cercano sin juntar los pies.\n3. Añade pequeños pivotes y cambios de postura manteniendo las caderas equilibradas y listas para preparar cualquiera de las piernas.",
+      "sectionTitle": "Posturas"
+    },
+    "pt": {
+      "title": "Base e movimentação do taekwondo",
+      "description": "1. Coloque um pé à frente, com o corpo levemente de lado, joelhos flexíveis, calcanhares leves e mãos protegendo cabeça e tronco.\n2. Deslize à frente, atrás e lateralmente movendo primeiro o pé mais próximo, sem juntar os pés.\n3. Acrescente pequenos giros e trocas de base, mantendo os quadris equilibrados e prontos para preparar qualquer perna.",
+      "sectionTitle": "Bases"
+    },
+    "fr": {
+      "title": "Position et déplacements de taekwondo",
+      "description": "1. Placez un pied devant, corps légèrement de profil, genoux souples, talons légers et mains protégeant tête et buste.\n2. Glissez vers l’avant, l’arrière et latéralement en déplaçant d’abord le pied le plus proche, sans joindre les pieds.\n3. Ajoutez de petits pivots et changements de position en gardant les hanches équilibrées et prêtes à armer chaque jambe.",
+      "sectionTitle": "Positions"
+    },
+    "de": {
+      "title": "Taekwondo-Stellung und Beinarbeit",
+      "description": "1. Stelle einen Fuß vor, mit leicht seitlichem Körper, lockeren Knien, leicht belasteten Fersen und Händen zum Schutz von Kopf und Oberkörper.\n2. Gleite vorwärts, rückwärts und seitlich, indem du den jeweils näheren Fuß zuerst bewegst, ohne die Füße zusammenzuführen.\n3. Ergänze kleine Drehungen und Stellungswechsel und halte die Hüfte ausbalanciert und bereit, jedes Bein anzuheben.",
+      "sectionTitle": "Stellungen"
+    },
+    "it": {
+      "title": "Posizione e spostamenti del taekwondo",
+      "description": "1. Posiziona un piede avanti, con il corpo leggermente di lato, ginocchia morbide, talloni leggeri e mani a protezione di testa e busto.\n2. Scivola avanti, indietro e lateralmente muovendo prima il piede più vicino senza unire i piedi.\n3. Aggiungi piccoli pivot e cambi di posizione mantenendo le anche equilibrate e pronte a caricare entrambe le gambe.",
+      "sectionTitle": "Posizioni"
+    },
+    "zh-Hans": {
+      "title": "跆拳道站姿与步法",
+      "description": "1. 一脚在前，身体略侧向，双膝微屈、脚跟轻承重，双手保护头部和躯干。\n2. 向前、向后和侧向滑步，先移动更靠近行进方向的脚，不要并拢双脚。\n3. 加入小幅转动和换架，髋部保持平衡，随时准备提起任一腿。",
+      "sectionTitle": "站姿"
+    },
+    "ja": {
+      "title": "テコンドーの構えと足運び",
+      "description": "1. 片足を前に出し、体を少し横向きにして、膝を柔らかく、かかとを軽くし、両手で頭と胴体を守ります。\n2. 両足を揃えず、進む方向に近い足を先に動かし、前後と横へ滑るように移動します。\n3. 小さな回転や構えの切り替えを加え、腰のバランスを保ち、どちらの脚も引き上げられるよう備えます。",
+      "sectionTitle": "構え"
+    },
+    "ko": {
+      "title": "태권도 자세와 발놀림",
+      "description": "1. 한 발을 앞에 두고 몸을 약간 옆으로 향하게 하며 무릎을 부드럽게, 뒤꿈치를 가볍게 두고 손으로 머리와 몸통을 보호합니다.\n2. 발을 모으지 않고 이동 방향에 가까운 발을 먼저 움직여 앞뒤와 옆으로 미끄러지듯 이동합니다.\n3. 작은 회전과 자세 전환을 더하면서 골반 균형을 유지하고 어느 다리든 들어 준비할 수 있게 합니다.",
+      "sectionTitle": "서기"
+    },
+    "th": {
+      "title": "ท่ายืนและฟุตเวิร์กเทควันโด",
+      "description": "1. วางเท้าหนึ่งด้านหน้า ลำตัวหันข้างเล็กน้อย เข่าผ่อน ส้นเท้าเบา และมือป้องกันศีรษะกับลำตัว\n2. เลื่อนเท้าไปหน้า หลัง และด้านข้าง โดยขยับเท้าที่ใกล้ทิศทางก่อนและไม่รวบเท้าเข้าหากัน\n3. เพิ่มการหมุนเล็กน้อยและสลับท่ายืน โดยรักษาสะโพกให้สมดุลและพร้อมยกขาข้างใดก็ได้",
+      "sectionTitle": "ท่ายืน"
+    },
+    "ru": {
+      "title": "Стойка и работа ног в тхэквондо",
+      "description": "1. Поставьте одну стопу впереди, слегка поверните тело боком, смягчите колени, облегчите пятки и защищайте руками голову и корпус.\n2. Скользите вперёд, назад и вбок, первой двигая ближайшую к направлению стопу, не сводя ноги вместе.\n3. Добавьте небольшие развороты и смены стойки, сохраняя таз сбалансированным и готовым к подъёму любой ноги.",
+      "sectionTitle": "Стойки"
+    },
+    "uk": {
+      "title": "Стійка й робота ніг у тхеквондо",
+      "description": "1. Поставте одну стопу попереду, злегка поверніть тіло боком, пом’якшіть коліна, полегшіть п’яти й захищайте руками голову та корпус.\n2. Ковзайте вперед, назад і вбік, першою рухаючи найближчу до напрямку стопу, не зводячи ноги разом.\n3. Додайте невеликі розвороти й зміни стійки, зберігаючи таз збалансованим і готовим до підйому будь-якої ноги.",
+      "sectionTitle": "Стійки"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "54.34",
+  "key": "fencing_sabre_stop_cut_parry_riposte",
+  "title": "Sabre: Stop-Cut, Parry, Riposte",
+  "description": "1. With sabres and full kit, the partner prepares an attack with an advance and then continues it to the head.\n2. Make a short stop-cut to the partner's advancing forearm, then immediately parry the continuing head attack with quinte.\n3. Riposte from quinte, recover to en garde, and swap roles; keep the stop-cut light and the arm close to the body.",
+  "color": "#808A94",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "valueType": "time",
+  "default": 30,
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "timerRole": "active",
+  "difficulty": "advanced",
+  "section": "5 Partner Sequences",
+  "availableFrom": "1.1.0",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sabre: Stop-Cut, Parry, Riposte",
+      "description": "1. With sabres and full kit, the partner prepares an attack with an advance and then continues it to the head.\n2. Make a short stop-cut to the partner's advancing forearm, then immediately parry the continuing head attack with quinte.\n3. Riposte from quinte, recover to en garde, and swap roles; keep the stop-cut light and the arm close to the body.",
+      "sectionTitle": "Partner Sequences"
+    },
+    "es": {
+      "title": "Sable: contratiempo, parada y respuesta",
+      "description": "1. Con sable y equipo completo, el compañero prepara un ataque con un avance y lo continúa a la cabeza.\n2. Haz un corte de detención corto al antebrazo que avanza y para de inmediato el ataque a la cabeza con quinta.\n3. Responde desde quinta, vuelve a guardia y cambia papeles; que el corte de detención sea ligero y el brazo cerca del cuerpo.",
+      "sectionTitle": "Secuencias en pareja"
+    },
+    "pt": {
+      "title": "Sabre: corte de parada, parada e resposta",
+      "description": "1. Com sabre e equipamento completo, o parceiro prepara um ataque com avanço e o continua à cabeça.\n2. Faça um corte de parada curto no antebraço que avança e pare de imediato o ataque à cabeça em quinta.\n3. Responda de quinta, volte à guarda e troque papéis; corte de parada leve e braço próximo ao corpo.",
+      "sectionTitle": "Sequências em dupla"
+    },
+    "fr": {
+      "title": "Sabre : coup d’arrêt, parade, riposte",
+      "description": "1. Au sabre, équipés, le partenaire prépare une attaque en marchant puis la poursuit à la tête.\n2. Placez un coup d’arrêt court sur l’avant-bras qui avance, puis parez aussitôt l’attaque à la tête en quinte.\n3. Ripostez de quinte, revenez en garde et inversez ; coup d’arrêt léger, bras près du corps.",
+      "sectionTitle": "Enchaînements à deux"
+    },
+    "de": {
+      "title": "Säbel: Stopphieb, Parade, Riposte",
+      "description": "1. Mit Säbel und voller Ausrüstung bereitet der Partner einen Angriff mit einem Schritt vor und setzt ihn zum Kopf fort.\n2. Setze einen kurzen Stopphieb auf den vorkommenden Unterarm und pariere den fortgesetzten Kopfangriff sofort mit Quinte.\n3. Ripostiere aus Quinte, kehre zurück und tauscht; Stopphieb leicht, Arm nah am Körper.",
+      "sectionTitle": "Partnerfolgen"
+    },
+    "it": {
+      "title": "Sciabola: colpo d’arresto, parata, risposta",
+      "description": "1. Con sciabola e attrezzatura completa, il compagno prepara un attacco con un passo avanti e lo prosegue alla testa.\n2. Esegui un breve colpo d’arresto all’avambraccio che avanza, poi para subito l’attacco alla testa di quinta.\n3. Rispondi di quinta, torna in guardia e scambiate; colpo d’arresto leggero e braccio vicino al corpo.",
+      "sectionTitle": "Sequenze in coppia"
+    },
+    "zh-Hans": {
+      "title": "佩剑：阻劈、防守、还击",
+      "description": "1. 使用佩剑并穿戴全套护具，同伴以前进准备进攻，随后继续劈头。\n2. 对同伴前伸的前臂做短促阻劈，随即以第五位防守其继续的头部进攻。\n3. 从第五位还击，恢复实战姿势后交换角色；阻劈要轻，手臂靠近身体。",
+      "sectionTitle": "双人组合"
+    },
+    "ja": {
+      "title": "サーブル：ストップカット、パラード、リポスト",
+      "description": "1. サーブルと全装備で、相手はマルシェで攻撃を準備し、そのまま頭へ続けます。\n2. 前に出てくる相手の前腕へ短いストップカットを入れ、続く頭への攻撃をすぐカントでパラードします。\n3. カントからリポストし、アンガルドに戻って交代します。ストップカットは軽く、腕は体の近くに保ちます。",
+      "sectionTitle": "ペアシークエンス"
+    },
+    "ko": {
+      "title": "사브르: 스톱컷, 패리, 리포스트",
+      "description": "1. 사브르와 전체 장비로, 파트너가 전진으로 공격을 준비한 뒤 머리로 이어 갑니다.\n2. 앞으로 나오는 파트너 전완에 짧은 스톱컷을 하고, 이어지는 머리 공격을 즉시 캥트로 패리합니다.\n3. 캥트에서 리포스트하고 앙가르드로 돌아와 역할을 바꾸며, 스톱컷은 가볍게, 팔은 몸 가까이 둡니다.",
+      "sectionTitle": "파트너 시퀀스"
+    },
+    "th": {
+      "title": "เซเบอร์: ฟันสกัด ปัด โต้กลับ",
+      "description": "1. ใช้ดาบเซเบอร์และชุดป้องกันครบ คู่ฝึกเตรียมโจมตีด้วยการก้าวแล้วต่อไปที่ศีรษะ\n2. ฟันสกัดสั้นๆ ที่ปลายแขนของคู่ฝึกที่ยื่นเข้ามา แล้วปัดแก็งต์รับการโจมตีศีรษะที่ตามมาทันที\n3. โต้กลับจากแก็งต์ กลับสู่อองการ์ดแล้วสลับบทบาท ฟันสกัดเบาๆ และแขนชิดลำตัว",
+      "sectionTitle": "ลำดับท่าคู่"
+    },
+    "ru": {
+      "title": "Сабля: останавливающий удар, защита, ответ",
+      "description": "1. С саблей в полной экипировке партнёр готовит атаку шагом вперёд и продолжает её в голову.\n2. Нанесите короткий останавливающий удар по выдвигающемуся предплечью партнёра и сразу возьмите пятую защиту от удара в голову.\n3. Ответьте из пятой, вернитесь в стойку и поменяйтесь ролями; останавливающий удар лёгкий, рука близко к телу.",
+      "sectionTitle": "Связки в паре"
+    },
+    "uk": {
+      "title": "Шабля: зупинний удар, захист, відповідь",
+      "description": "1. Із шаблею в повному спорядженні партнер готує атаку кроком уперед і продовжує її в голову.\n2. Завдайте короткого зупинного удару по висуненому передпліччю партнера й одразу візьміть п’ятий захист від удару в голову.\n3. Відповідайте з п’ятого, поверніться в стійку й поміняйтеся ролями; зупинний удар легкий, рука близько до тіла.",
+      "sectionTitle": "Зв'язки в парі"
+    }
+  }
+}
