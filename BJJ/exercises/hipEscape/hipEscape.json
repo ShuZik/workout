@@ -3,11 +3,9 @@
   "key": "bjj_hip_escape",
   "title": "Hip Escape",
   "description": "1. Lie on the back with both feet planted, elbows close, and the shoulders flat rather than loading the neck.\n2. Turn onto one shoulder and push through the feet to slide the hips away from the pressure line.\n3. Bring the knees back between the body and partner, square the hips, and repeat to the other side.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Escapes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, обидві стопи на підлозі, лікті притиснуті, плечі лежать на килимі, не навантажуючи шию.\n2. Поверніться на одне плече й відштовхніться стопами, відводячи таз від лінії тиску.\n3. Поверніть коліна між собою й партнером, вирівняйте таз і повторіть в інший бік.",
       "sectionTitle": "Виходи"
     }
-  }
+  },
+  "state": "active"
 }

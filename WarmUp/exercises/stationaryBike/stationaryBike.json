@@ -3,11 +3,9 @@
   "key": "stationary_bike",
   "title": "Stationary Bike",
   "description": "1. Adjust the saddle so the knee remains slightly bent at the bottom of the pedal stroke.\n2. Begin with low resistance and pedal smoothly while the knees track forward.\n3. Increase cadence gradually until the body feels warm without creating leg fatigue.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "01220",
     "vigorousCode": "01232"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Cardio",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Відрегулюйте сідло так, щоб у нижній точці ходу педалі коліно залишалося трохи зігнутим.\n2. Почніть із невеликого опору та плавно крутіть педалі, спрямовуючи коліна вперед.\n3. Поступово підвищуйте частоту педалювання, доки тіло не розігріється, не спричиняючи втоми ніг.",
       "sectionTitle": "Кардіо"
     }
-  }
+  },
+  "state": "active"
 }

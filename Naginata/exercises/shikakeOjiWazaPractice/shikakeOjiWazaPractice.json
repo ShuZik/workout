@@ -3,11 +3,9 @@
   "key": "naginata_shikake_oji_waza",
   "title": "Shikake-Oji Waza Practice",
   "description": "1. Face the partner in chudan at striking distance; shikake (attacker) and oji (responder) agree on the target and response.\n2. Shikake strikes the target at controlled speed; oji parries, evades, or deflects with the shaft and answers with a counter-strike.\n3. Both stop the blade short or touch lightly, return to kamae with zanshin, and switch roles after each set.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "naginata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в чюдан навпроти партнера на дистанції удару; шікаке (атакувальник) і оджі (той, хто відповідає) домовляються про ціль і відповідь.\n2. Шікаке б'є в ціль із контрольованою швидкістю; оджі відбиває, ухиляється або відводить удар держаком і відповідає контрударом.\n3. Обидва зупиняють клинок до торкання або торкаються злегка, повертаються в камае з дзаншіном і міняються ролями після кожної серії.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

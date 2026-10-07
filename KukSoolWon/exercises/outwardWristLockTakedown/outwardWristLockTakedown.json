@@ -3,11 +3,9 @@
   "key": "kuk_sool_won_outward_wrist_lock_takedown",
   "title": "Outward Wrist Lock Takedown",
   "description": "1. Attacker grabs the defender's wrist or lapel; defender secures the attacker's hand with both hands, thumbs on its back.\n2. Defender turns the attacker's wrist outward and steps back in a circle, leading the attacker down into a breakfall.\n3. Defender applies the lock slowly and releases at the first tap; attacker rolls out safely before roles switch.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kukSoolWon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нападник хапає захисника за зап'ястя або відворот; захисник обома руками фіксує кисть нападника, великі пальці на її тильному боці.\n2. Захисник вивертає зап'ястя нападника назовні й відступає по колу, виводячи нападника в падіння.\n3. Захисник проводить больовий повільно й відпускає при першому плесканні; нападник безпечно викочується, після чого партнери міняються ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

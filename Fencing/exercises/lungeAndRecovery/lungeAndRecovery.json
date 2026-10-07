@@ -3,11 +3,9 @@
   "key": "fencing_lunge_recovery",
   "title": "Lunge and Recovery",
   "description": "1. From en garde, extend the weapon arm toward the target first, then lift the front toe and kick the front foot forward low over the floor.\n2. Drive from the rear leg until it straightens, land on the front heel with the front knee over the ankle, and throw the rear arm back.\n3. Recover by bending the rear knee and pushing back from the front heel, returning the rear arm up and finishing in the same en garde.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Footwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки спершу випряміть озброєну руку до мішені, потім підніміть носок передньої ноги й винесіть її вперед низько над підлогою.\n2. Відштовхніться задньою ногою до її випрямлення, приземліться на п’яту передньої, коліно над гомілкостопом, задня рука йде назад.\n3. Поверніться, згинаючи заднє коліно й відштовхуючись п’ятою передньої ноги, підніміть задню руку й завершіть у тій самій стійці.",
       "sectionTitle": "Робота ніг"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "kyudo_main",
   "title": "Kyudo",
   "description": "1. Enter the shooting line calmly, set the feet and posture, and hold the bow and arrows in the ready position.\n2. Shoot a set of arrows through the eight stages, raising, drawing apart, holding the full draw, and letting the release happen.\n3. Remain in zanshin after each shot, lower the bow under control, and breathe steadily before the next arrow.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "kyudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Спокійно вийдіть на лінію стрільби, установіть стопи й поставу та тримайте лук і стріли в готовому положенні.\n2. Випустіть серію стріл через вісім етапів: підйом, розтягування, утримання повного натягу й природний випуск.\n3. Після кожного пострілу зберігайте дзансін, опускайте лук під контролем і вирівняйте дихання перед наступною стрілою.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

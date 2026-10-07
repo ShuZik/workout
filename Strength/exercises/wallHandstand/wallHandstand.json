@@ -3,11 +3,9 @@
   "key": "calisthenics_wall_handstand",
   "title": "Wall Handstand",
   "description": "1. Place the hands shoulder-width apart about one foot from a clear wall and spread the fingers for support.\n2. Walk the feet up the wall while pressing through straight arms until the hips stack over the shoulders.\n3. Hold with the ribs braced, then walk the feet down one at a time instead of dropping from the wall.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте руки на ширині плечей приблизно за 30 см від вільної стіни й розставте пальці для опори.\n2. Піднімайтеся стопами по стіні, відштовхуючись прямими руками, доки таз не опиниться над плечима.\n3. Утримуйте положення з напруженими ребрами, потім спускайте стопи по одній, а не падайте зі стіни.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

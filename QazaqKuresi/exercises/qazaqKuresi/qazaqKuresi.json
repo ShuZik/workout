@@ -3,11 +3,9 @@
   "key": "qazaq_kuresi",
   "title": "Qazaq Kuresi",
   "description": "1. Begin standing on mats with a trained partner, greeting with a hand on the chest and a short hug.\n2. Grip above the belt and work for throws and trips without attacking the legs.\n3. Control each throw so the partner lands on the side or back, then release and reset standing.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "qazaqKuresi",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть стоячи на килимі з підготовленим партнером, привітавши його рукою на грудях і коротким обіймом.\n2. Захоплюйте вище пояса й працюйте на кидки та підсічки, не атакуючи ноги.\n3. Контролюйте кожен кидок так, щоб партнер приземлився на бік або спину, потім відпустіть і почніть знову в стійці.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

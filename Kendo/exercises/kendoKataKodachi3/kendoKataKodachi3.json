@@ -3,11 +3,9 @@
   "key": "kendo_kodachi_3",
   "title": "Kendo Kata Kodachi 3",
   "description": "1. Uchidachi takes chudan; shidachi holds the kodachi in gedan half-facing and advances.\n2. Uchidachi cuts men; shidachi slides the blade up and then down (suriage, suri-otoshi), enters, and controls uchidachi's right upper arm with the left hand.\n3. Shidachi keeps the kodachi ready at close range as zanshin, then both release and return to the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Утідаті займає тюдан; сідаті тримає кодаті в ґедан упівоберта й просувається.\n2. Утідаті рубає мен; сідаті ковзає клинком угору, потім униз (суріаґе, суріотосі), входить і лівою рукою контролює праве плече утідаті.\n3. Сідаті тримає кодаті напоготові на близькій дистанції як дзансін, потім обоє відпускають і повертаються на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

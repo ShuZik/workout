@@ -3,11 +3,9 @@
   "key": "laamb_double_leg_takedown",
   "title": "Double-Leg Takedown",
   "description": "1. Attacker lowers the level, steps deep between the partner's feet, and wraps both thighs with the head to the side.\n2. Drive forward with the legs and turn the corner so the partner goes down onto the sand.\n3. Partner tucks the chin and breaks the fall; attacker controls the descent and releases at once after touchdown.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "laamb",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Атакувальник знижує рівень, глибоко ступає між стопами партнера й обхоплює обидва стегна, голова збоку.\n2. Штовхайтеся ногами вперед і розвертайтеся по діагоналі, щоб партнер опустився на пісок.\n3. Партнер притискає підборіддя й страхується; атакувальник контролює падіння й одразу відпускає після торкання землі.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

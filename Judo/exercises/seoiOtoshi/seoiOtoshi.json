@@ -3,11 +3,9 @@
   "key": "judo_seoi_otoshi",
   "title": "Seoi Otoshi",
   "description": "1. Enter as for a shoulder throw, turning under the controlled arm with the partner loaded onto the back.\n2. Drop one or both knees close to the partner's feet while the leg blocks the partner's shin and the pull continues forward.\n3. Rotate the shoulders down and around to drop the partner over, guiding the sleeve to a controlled breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Te-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Увійдіть як для кидка через спину, розвертаючись під контрольованою рукою й навантажуючи партнера на спину.\n2. Опустіться на одне або обидва коліна біля стоп партнера, блокуючи ногою його гомілку й продовжуючи тягнути вперед.\n3. Поверніть плечі вниз і вбік, перекидаючи партнера, і спрямовуйте рукав до контрольованої страховки.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

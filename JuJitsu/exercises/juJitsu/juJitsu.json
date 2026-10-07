@@ -3,11 +3,9 @@
   "key": "ju_jitsu",
   "title": "Ju-Jitsu",
   "description": "1. Begin on mats with a trained partner in a guarded stance at striking distance.\n2. Practice controlled attacks and defences combining evasion, blocks, throws, takedowns, and locks.\n3. Keep strikes controlled, release every lock at a tap, and alternate attacker and defender roles.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "juJitsu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на килимі з підготовленим партнером у стійці на ударній дистанції.\n2. Відпрацьовуйте контрольовані атаки й захисти, поєднуючи ухили, блоки, кидки, звалювання та больові.\n3. Контролюйте удари, відпускайте кожен больовий за плесканням і міняйтеся ролями атакувальника й захисника.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

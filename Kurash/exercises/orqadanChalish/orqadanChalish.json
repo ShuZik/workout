@@ -3,11 +3,9 @@
   "key": "kurash_orqadan_chalish",
   "title": "Orqadan Chalish",
   "description": "1. Grip the collar and sleeve and push the partner's weight back onto the heels as you step beside the partner's near leg.\n2. Swing the attacking leg behind the partner's leg and reap it backward while the hands drive the upper body back.\n3. Keep the sleeve grip and guide the partner onto the back; the partner tucks the chin and slaps the mat.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "kurash",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть захват за комір і рукав та переведіть вагу партнера на п'яти, ступивши поруч із його ближньою ногою.\n2. Заведіть атакувальну ногу за ногу партнера й підсічіть її назад, водночас штовхаючи руками його тулуб назад.\n3. Утримуйте рукав і спрямовуйте партнера на спину; партнер притискає підборіддя й б'є рукою по килиму.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

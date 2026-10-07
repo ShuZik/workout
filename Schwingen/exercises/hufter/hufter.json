@@ -3,11 +3,9 @@
   "key": "schwingen_huefter",
   "title": "Hüfter",
   "description": "1. From the attack position, regrip the left hand over the top of the partner's belt or breeches cuff and take the partner's left upper arm with the right hand.\n2. Jump the left hip deep under the partner and straighten the legs to lift the partner off the ground.\n3. Bend forward and roll the partner over the hip onto the back, keep the breeches grip to steer the landing, then release.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "schwingen",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із атакувальної стійки перехопіть лівою рукою пояс або холошу партнера згори, а правою візьміть його ліве плече.\n2. Стрибком глибоко підведіть ліве стегно під партнера й випряміть ноги, відриваючи його від землі.\n3. Нахиліться вперед і перекотіть партнера через стегно на спину, тримайте захоплення за штани, спрямовуючи падіння, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

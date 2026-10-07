@@ -3,11 +3,9 @@
   "key": "fencing_bind",
   "title": "Bind",
   "description": "1. Engage the partner's extended blade in a high line, for example sixte, with your strong on the partner's weak.\n2. Carry the partner's blade diagonally across from the high line to the opposite low line, for example sixte to septime or octave, without losing contact.\n3. Extend and lunge to hit while the blade stays dominated, recover to en garde, and swap roles after the set.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть з’єднання з випрямленим клинком партнера у верхній лінії, наприклад шостій, сильною частиною на його слабку.\n2. Переведіть клинок партнера по діагоналі з верхньої лінії в протилежну нижню, наприклад із шостої в сьому чи восьму, не втрачаючи контакту.\n3. Випряміть руку й випадом завдайте уколу, утримуючи клинок, поверніться в стійку й поміняйтеся ролями після серії.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "arnis_block_on_reaction",
   "title": "Block on Reaction",
   "description": "1. Partner A attacks with slow strikes from the standard angles in random order; partner B stands in guard with a stick.\n2. Partner B reads each attack and answers with the matching stick block, meeting the incoming stick and moving off the line of attack.\n3. Partner A keeps power low and increases speed only as B stays accurate; swap roles after each round.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Партнер A повільно атакує зі стандартних кутів у випадковому порядку; партнер B стоїть у захисті з палицею.\n2. B зчитує кожну атаку й відповідає відповідним блоком палицею, зустрічаючи палицю й виходячи з лінії атаки.\n3. A тримає силу низькою й прискорюється, лише поки B точний; після кожного раунду міняйтеся ролями.",
       "sectionTitle": "Вправи з партнером"
     }
-  }
+  },
+  "state": "active"
 }

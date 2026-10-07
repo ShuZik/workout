@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_sumo_deadlift",
   "title": "Kettlebell Sumo Deadlift",
   "description": "1. Take a wide stance with toes slightly out and place the kettlebell between the feet.\n2. Hinge and bend the knees to grip the handle while the knees track over the toes and the spine stays neutral.\n3. Drive through the feet to stand, then lower the bell along the same vertical path.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте широко, злегка розвернувши носки назовні, і поставте гирю між стоп.\n2. Нахиліться в кульшових суглобах і зігніть коліна, візьміться за дужку, спрямовуючи коліна за лінією носків і зберігаючи спину нейтральною.\n3. Відштовхніться стопами й встаньте, потім опустіть гирю тією самою вертикальною траєкторією.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

@@ -3,12 +3,9 @@
   "key": "functional_dumbbell_step_up",
   "title": "Dumbbell Step-Up",
   "description": "1. Hold dumbbells beside the body and place the whole lead foot on a stable step.\n2. Drive through the lead foot to stand on the step without jumping from the trailing leg.\n3. Lower the trailing foot and then the lead foot under control, then repeat or switch sides.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте гантелі по боках і поставте всю передню стопу на стійку платформу.\n2. Відштовхніться передньою стопою й встаньте на платформу, не підстрибуючи задньою ногою.\n3. Контрольовано опустіть спочатку задню, а тоді передню стопу, після чого повторіть або змініть бік.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

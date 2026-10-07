@@ -3,11 +3,9 @@
   "key": "buhurt_weapon_grabbing",
   "title": "Weapon Grabbing",
   "description": "1. Both partners wear full armor; the attacker holds a blunt weapon in guard or makes a slow, controlled strike while the defender closes distance behind the shield.\n2. As defender, seize the haft of the attacker's weapon with the free hand, pin it to the side away from your head, and keep your own weapon ready.\n3. Hold the control briefly, release on the coach's call or the partner's signal, then reset and swap roles.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "buhurt",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Partner Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обидва партнери в повному обладунку; той, хто атакує, тримає затуплену зброю в стійці або завдає повільного контрольованого удару, поки захисник скорочує дистанцію за щитом.\n2. Захисник вільною рукою захоплює держак зброї нападника, притискає його вбік від своєї голови й тримає власну зброю напоготові.\n3. Утримайте контроль недовго, відпустіть за командою тренера або сигналом партнера, потім почніть знову й поміняйтеся ролями.",
       "sectionTitle": "Техніки з партнером"
     }
-  }
+  },
+  "state": "active"
 }

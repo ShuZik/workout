@@ -3,11 +3,9 @@
   "key": "judo_tani_otoshi",
   "title": "Tani Otoshi",
   "description": "1. Push the partner's weight back onto the heels at a rear corner.\n2. Slide your leg behind both of the partner's heels and drop to your side next to the partner.\n3. Pull the partner backward into the space behind the heels, guiding a back breakfall without landing on the partner.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Переведіть вагу партнера назад на п’яти до заднього кута.\n2. Прослизніть ногою за обидві п’яти партнера й упадіть на бік поруч із ним.\n3. Потягніть партнера назад у простір за п’ятами, спрямовуючи страховку на спину й не падаючи на нього.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

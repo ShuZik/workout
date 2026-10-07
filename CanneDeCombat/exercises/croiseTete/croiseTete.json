@@ -3,11 +3,9 @@
   "key": "canne_croise_tete",
   "title": "Croise Tete",
   "description": "1. From guard, wind the cane up over the opposite shoulder with the hand high and the point extended behind you.\n2. Strike downward on a diagonal from the cross side toward the head, turning the shoulders through the line and keeping the arm extended.\n3. Control the end of the arc so the cane does not swing past the body, then return to guard.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Strikes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки зробіть замах тростиною через протилежне плече, рука високо, вістря витягнуте позаду.\n2. Ударте вниз по діагоналі з перехресного боку в голову, провертаючи плечі через лінію й тримаючи руку витягнутою.\n3. Проконтролюйте кінець дуги, щоб тростина не пішла за корпус, і поверніться в стійку.",
       "sectionTitle": "Удари"
     }
-  }
+  },
+  "state": "active"
 }

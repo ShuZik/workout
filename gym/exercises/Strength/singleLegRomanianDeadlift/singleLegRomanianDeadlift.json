@@ -1,0 +1,88 @@
+{
+  "id": "13.94",
+  "key": "strength_single_leg_romanian_deadlift",
+  "title": "Single-Leg Romanian Deadlift",
+  "description": "Stand on one leg with a soft knee and hinge forward from your hips as the other leg moves back. Keep your hips level and back neutral, then return upright; switch sides.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Single-Leg Romanian Deadlift",
+      "description": "Stand on one leg with a soft knee and hinge forward from your hips as the other leg moves back. Keep your hips level and back neutral, then return upright; switch sides.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Peso muerto rumano a una pierna",
+      "description": "Apóyate en una pierna con la rodilla ligeramente flexionada e inclínate desde las caderas mientras llevas la otra pierna atrás. Mantén las caderas niveladas y la espalda neutra, vuelve a erguirte y cambia de lado.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Levantamento romeno unilateral",
+      "description": "Fique sobre uma perna com o joelho levemente dobrado e incline o tronco pelo quadril enquanto a outra perna vai para trás. Mantenha o quadril alinhado e as costas neutras, volte e troque o lado.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Soulevé de terre roumain sur une jambe",
+      "description": "Tenez-vous sur une jambe, genou souple, et basculez depuis les hanches en reculant l’autre jambe. Gardez le bassin horizontal et le dos neutre, redressez-vous puis changez de côté.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Einbeiniges rumänisches Kreuzheben",
+      "description": "Stehe auf einem Bein mit leicht gebeugtem Knie und beuge dich aus der Hüfte vor, während das andere Bein nach hinten geht. Halte das Becken waagerecht und den Rücken neutral, richte dich auf und wechsle die Seite.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Stacco rumeno su una gamba",
+      "description": "Stai su una gamba con il ginocchio morbido e inclina il busto dalle anche portando l’altra gamba indietro. Mantieni il bacino allineato e la schiena neutra, torna eretto e cambia lato.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "单腿罗马尼亚硬拉",
+      "description": "单腿站立，支撑膝微屈，从髋部向前折叠，同时另一腿向后伸。保持骨盆水平、背部中立，再站直并换侧。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "片脚ルーマニアンデッドリフト",
+      "description": "片脚で立って膝を軽く曲げ、反対の脚を後ろへ伸ばしながら股関節から前傾します。骨盤を水平に、背中を自然に保って起き上がり、反対側も行います。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "싱글 레그 루마니안 데드리프트",
+      "description": "한쪽 무릎을 살짝 굽혀 서고 반대 다리를 뒤로 보내며 엉덩이 관절에서 상체를 숙이세요. 골반을 수평으로, 허리를 중립으로 유지한 뒤 일어서고 반대쪽도 하세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โรมาเนียนเดดลิฟต์ขาเดียว",
+      "description": "ยืนขาเดียวโดยงอเข่าเล็กน้อย พับสะโพกโน้มตัวไปข้างหน้าพร้อมเหยียดขาอีกข้างไปด้านหลัง รักษาสะโพกให้เสมอกันและหลังเป็นกลาง กลับมายืนตรงแล้วสลับข้าง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Румынская тяга на одной ноге",
+      "description": "Стойте на одной ноге со слегка согнутым коленом и наклонитесь от таза, отводя вторую ногу назад. Держите таз ровно и спину нейтрально, выпрямитесь и смените сторону.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Румунська тяга на одній нозі",
+      "description": "Стійте на одній нозі зі злегка зігнутим коліном і нахиліться від таза, відводячи другу ногу назад. Тримайте таз рівно та спину нейтрально, випряміться й змініть бік.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "state": "active"
+}

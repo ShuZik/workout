@@ -3,11 +3,9 @@
   "key": "lucha_leonesa_agarre_al_cinto",
   "title": "Agarre al Cinto (Belt Grip)",
   "description": "1. Stand upright barefoot facing a partner with your bellies 10 to 15 centimeters apart.\n2. Take the partner's leather belt with one hand at the front and the other at mid-back while the partner does the same.\n3. Shift weight, step, and turn together for the round without ever releasing the belt, then let go on the signal and switch hand positions.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте рівно босоніж обличчям до партнера так, щоб між животами було 10–15 сантиметрів.\n2. Візьміть шкіряний пояс партнера однією рукою спереду, а другою посередині спини, партнер робить те саме.\n3. Протягом раунду разом переносьте вагу, крокуйте й повертайтеся, жодного разу не відпускаючи пояс, потім за сигналом відпустіть і поміняйте положення рук.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

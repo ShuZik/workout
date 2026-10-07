@@ -3,11 +3,9 @@
   "key": "iaido_morote_zuki",
   "title": "Morote-zuki",
   "description": "1. Step forward and draw with a horizontal cut toward the front opponent's face, then grip with both hands and step in with a two-handed thrust to the solar plexus.\n2. Withdraw the blade, turn to the rear, and cut down the rear opponent; then turn back to the front and cut down again.\n3. Finish with chiburi and resheathing, holding zanshin toward the last opponent.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Standing Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ступіть уперед і оголіть меч горизонтальним розрізом до обличчя переднього суперника, потім візьміть меч двома руками й увійдіть уколом двома руками в сонячне сплетіння.\n2. Вийміть клинок, розверніться назад і розрубайте заднього суперника, потім знову поверніться вперед і рубайте ще раз.\n3. Завершіть тібурі й вкладанням меча, зберігаючи дзансін до останнього суперника.",
       "sectionTitle": "Форми з положення стоячи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "wing_chun_luk_dim_boon_kwun",
   "title": "Luk Dim Boon Kwun",
   "description": "1. Hold a long training pole with both hands near the thick end in a low, stable stance, with a long clear area in front and to the sides.\n2. Perform the pole form with thrusts, deflections, circling, and downward cutting actions, driving the pole from the waist and rear hand in long stances.\n3. Stop each thrust under control and keep the tip away from people and walls, then return the pole to the rest position and close.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "wingChun",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте довгу тренувальну жердину обома руками біля товстого кінця в низькій стійкій стійці, з довгим вільним простором попереду й з боків.\n2. Виконайте форму з жердиною: уколи, відведення, колові рухи та рубальні дії вниз, посилаючи жердину від попереку й задньої руки в довгих стійках.\n3. Зупиняйте кожен укол під контролем, тримайте кінець жердини подалі від людей і стін, потім поверніть жердину у вихідне положення й завершіть.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

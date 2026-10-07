@@ -3,11 +3,9 @@
   "key": "fencing_diagonal_parry",
   "title": "Diagonal Parry",
   "description": "1. Stand en garde in one line; the partner attacks slowly to the opposite low or high line, for example a sabre cut to the flank or chest.\n2. Carry the blade diagonally across the body from one line to the opposite one, for example quarte to seconde, meeting the attack with the strong of the blade.\n3. Riposte from the parry, recover to en garde, and swap roles; practice both diagonal directions.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Parries",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Стійка в одній лінії; партнер повільно атакує протилежну нижню чи верхню лінію, наприклад шабельний удар у фланг або груди.\n2. Проведіть клинок по діагоналі перед корпусом з однієї лінії в протилежну, наприклад із четвертої в другу, зустрічаючи атаку сильною частиною.\n3. Відповідайте із захисту, поверніться в стійку й поміняйтеся ролями; відпрацьовуйте обидва діагональні напрямки.",
       "sectionTitle": "Захисти"
     }
-  }
+  },
+  "state": "active"
 }

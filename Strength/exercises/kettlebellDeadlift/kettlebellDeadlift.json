@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_deadlift",
   "title": "Kettlebell Deadlift",
   "description": "1. Stand with the kettlebell between the feet, hinge and bend the knees to grip the handle, and brace the trunk.\n2. Push the floor away and extend the knees and hips while the bell rises close to the body.\n3. Finish upright, then hinge and bend the knees to place the bell between the feet under control.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте так, щоб гиря була між стопами, нахиліться в кульшових суглобах і зігніть коліна, візьміться за дужку й напружте корпус.\n2. Відштовхніть підлогу й розігніть коліна та таз, піднімаючи гирю близько до тіла.\n3. Повністю випряміться, потім нахиліться й зігніть коліна, контрольовано поставивши гирю між стоп.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

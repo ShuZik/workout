@@ -3,11 +3,9 @@
   "key": "sports_chanbara_ashi_uchi",
   "title": "Ashi-uchi",
   "description": "1. Receiver wears the face mask and stands in guard; striker faces them at one-step distance.\n2. Striker lowers the stance slightly and strikes the receiver's leg (ashi) with a quick snap, keeping the head up and the back straight.\n3. Striker recovers guard at once and steps back out of range; receiver calls stop if needed, and both switch roles after each set.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Той, хто приймає, у захисній масці стоїть у стійці; атакувальник стоїть навпроти на відстані кроку.\n2. Атакувальник трохи знижує стійку й швидким хльостом б'є по нозі того, хто приймає (аші), тримаючи голову піднятою й спину прямою.\n3. Атакувальник одразу повертається в стійку й виходить із дистанції; той, хто приймає, за потреби командує стоп, після кожної серії ролі змінюються.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "preparation",
   "title": "Preparation",
   "description": "1. Use the Preparation interval to move into the starting area and arrange any required equipment.\n2. Take the exercise stance, check the available space, and focus on the first movement.\n3. Begin the workout when the Preparation countdown ends.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "other",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "17151",
     "vigorousCode": "17170"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Structure",
   "durationSeconds": 30,
@@ -87,5 +84,6 @@
       "description": "1. Використайте інтервал підготовки, щоб перейти до стартової зони й розставити необхідне обладнання.\n2. Займіть початкову стійку вправи, перевірте вільний простір і зосередьтеся на першому русі.\n3. Почніть тренування, коли завершиться зворотний відлік підготовки.",
       "sectionTitle": "Структура"
     }
-  }
+  },
+  "state": "active"
 }

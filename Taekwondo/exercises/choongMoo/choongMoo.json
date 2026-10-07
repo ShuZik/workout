@@ -3,11 +3,9 @@
   "key": "taekwondo_choong_moo",
   "title": "Choong-Moo",
   "description": "1. Start in parallel ready stance and perform the 30-movement pattern, opening with the double knife-hand block and high knife-hand strike.\n2. Include the flying side piercing kick, the back piercing kick, twin palm upward blocks and the turning kick combinations.\n3. Land every jump balanced, finish with the closing forearm blocks, and return to parallel ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки й виконайте туль із 30 рухів, відкривши його подвійним блоком ребром долоні та ударом ребром долоні на верхній рівень.\n2. Додайте проникний бічний удар ногою в стрибку, проникний удар ногою назад, подвійні верхні блоки долонями та зв’язки з круговим ударом ногою.\n3. Приземляйтеся після кожного стрибка в рівновазі, завершіть останніми блоками передпліччями та поверніться в паралельну готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Станьте рівно з гантеллю в кожній руці, руки опущені, лікті біля ребер.\n2. Згинайте руки, піднімаючи гантелі до плечей, не розгойдуючи корпус і не виводячи лікті вперед.\n3. Повільно опустіть обидві гантелі до прямих рук, зберігаючи зап’ястя в нейтральному положенні.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

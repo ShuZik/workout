@@ -3,11 +3,9 @@
   "key": "taekwondo_back_kick",
   "title": "Back Kick",
   "description": "1. Turn the head to locate the target, pivot on the lead foot, and chamber the rear knee beneath the hips.\n2. Drive the rear heel straight backward with the toes pointing down, avoiding a wide circular swing.\n3. Pull the heel back to chamber, complete the turn, and recover the original guard and stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поверніть голову до цілі, розверніться на передній стопі й підготуйте заднє коліно під тазом.\n2. Спрямуйте задню п’яту прямо назад, опустивши пальці вниз та уникаючи широкого кругового маху.\n3. Поверніть п’яту в підготовче положення, завершіть поворот і відновіть початкові захист і стійку.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

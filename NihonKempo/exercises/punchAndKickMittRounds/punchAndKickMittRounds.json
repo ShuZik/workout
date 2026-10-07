@@ -3,11 +3,9 @@
   "key": "nihon_kempo_mitt_rounds",
   "title": "Punch and Kick Mitt Rounds",
   "description": "1. Holder wears focus mitts and calls out combinations; striker waits in kamae.\n2. Striker throws straight punches, hooks, and kicks at full pace for the round, moving in and out of range between combinations.\n3. Holder absorbs the strikes and pulls the mitts away if form breaks down; rest briefly and switch roles.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "nihonKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Conditioning",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримач одягає лапи й називає комбінації; той, хто б'є, чекає в камае.\n2. Той, хто б'є, увесь раунд у повному темпі завдає прямих, бічних ударів і ударів ногами, між комбінаціями входячи в дистанцію та виходячи з неї.\n3. Тримач приймає удари й прибирає лапи, якщо техніка розвалюється; коротко відпочиньте й поміняйтеся ролями.",
       "sectionTitle": "Фізпідготовка"
     }
-  }
+  },
+  "state": "active"
 }

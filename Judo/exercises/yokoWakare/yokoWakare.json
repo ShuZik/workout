@@ -3,11 +3,9 @@
   "key": "judo_yoko_wakare",
   "title": "Yoko Wakare",
   "description": "1. As the partner leans or pushes forward, draw the upper body forward with both hands.\n2. Throw your body down sideways in front of the partner with both legs extended across the partner's front.\n3. Pull the partner over your body to roll into a forward breakfall, then turn to stabilize.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли партнер нахиляється або тисне вперед, потягніть його тулуб уперед обома руками.\n2. Киньтеся на бік перед партнером, витягнувши обидві ноги поперек перед ним.\n3. Перетягніть партнера через себе, щоб він перекотився у страховку вперед, потім розверніться й закріпіться.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

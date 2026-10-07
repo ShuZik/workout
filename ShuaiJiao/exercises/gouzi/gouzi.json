@@ -3,11 +3,9 @@
   "key": "shuai_jiao_gouzi",
   "title": "Gouzi",
   "description": "1. Take a jacket grip and step close, driving the partner's weight back onto the heels.\n2. Hook the partner's heel from the outside with your foot and draw it forward while the hands push the upper body back.\n3. Guide the partner down onto the back under control, release the hook, and keep your own balance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "shuaiJiao",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть захват за куртку й зблизьтеся, переводячи вагу партнера на п'яти.\n2. Зачепіть стопою п'яту партнера ззовні й потягніть її вперед, водночас штовхаючи руками його тулуб назад.\n3. Контрольовано покладіть партнера на спину, зніміть зачіп і збережіть власну рівновагу.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "capoeira_macaco",
   "title": "Macaco",
   "description": "1. On mats with a trained spotter, crouch low and reach one hand back to the floor behind you, fingers pointing away from the body.\n2. Push off both feet and swing the hips and legs up and over the supporting hand, looking back at the floor and keeping the arm firm.\n3. Land on the feet one after the other facing the original direction and rise into the ginga; repeat the low tuck version until the arc is controlled.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Acrobatics",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На матах із підготовленим страхувальником низько присядьте й поставте одну руку на підлогу позаду себе пальцями від тіла.\n2. Відштовхніться обома ногами й проведіть таз і ноги вгору та через опорну руку, дивлячись на підлогу позаду й тримаючи руку твердо.\n3. Приземліться по черзі на стопи обличчям у початковому напрямку й підведіться в джингу; повторюйте низький згрупований варіант, доки дуга не стане контрольованою.",
       "sectionTitle": "Акробатика"
     }
-  }
+  },
+  "state": "active"
 }

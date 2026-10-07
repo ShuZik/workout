@@ -3,11 +3,9 @@
   "key": "agility_cone_weave",
   "title": "Cone Weave",
   "description": "1. Arrange cones in a line and begin in an athletic stance before the first cone.\n2. Run or shuffle around each cone with short steps and lower the hips before changing direction.\n3. Plant the outside foot beside the cone, push toward the next gap, and keep the torso facing the travel path.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Agility",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Розставте фішки в лінію та станьте в атлетичну стійку перед першою.\n2. Оббігайте або обходьте приставним кроком кожну фішку короткими кроками, опускаючи таз перед зміною напрямку.\n3. Ставте зовнішню стопу поруч із фішкою, відштовхуйтеся до наступного проміжку й тримайте корпус розгорнутим за напрямком руху.",
       "sectionTitle": "Спритність"
     }
-  }
+  },
+  "state": "active"
 }

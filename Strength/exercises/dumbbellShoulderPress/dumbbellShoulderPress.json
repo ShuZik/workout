@@ -3,12 +3,9 @@
   "key": "strength_dumbbell_shoulder_press",
   "title": "Dumbbell Shoulder Press",
   "description": "1. Sit or stand tall with dumbbells at shoulder height, wrists over elbows, and trunk braced.\n2. Press both dumbbells overhead without leaning backward or driving with the legs.\n3. Finish with arms straight beside the head, then lower the weights to the shoulders under control.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Сядьте або станьте рівно, тримаючи гантелі на рівні плечей, зап’ястя над ліктями, корпус напружений.\n2. Вижміть обидві гантелі над головою, не відхиляючись назад і не допомагаючи собі ногами.\n3. Завершіть із прямими руками біля голови, потім контрольовано опустіть гантелі до плечей.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

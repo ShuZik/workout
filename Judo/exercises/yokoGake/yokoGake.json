@@ -3,11 +3,9 @@
   "key": "judo_yoko_gake",
   "title": "Yoko Gake",
   "description": "1. Draw the partner sideways so the weight rests on the outer edge of one foot.\n2. Sweep that foot out from under the partner with your sole while dropping onto your side.\n3. Pull the upper body down with you so the partner falls on the side, holding the sleeve for the landing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виведіть партнера вбік, щоб його вага лягла на зовнішній край однієї стопи.\n2. Підметіть підошвою цю стопу з-під партнера, падаючи на бік.\n3. Тягніть тулуб униз разом із собою, щоб партнер упав на бік, утримуючи рукав для приземлення.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

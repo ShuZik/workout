@@ -3,11 +3,9 @@
   "key": "taekwondo_do_san",
   "title": "Do-San",
   "description": "1. Start in parallel ready stance and perform the 24-movement pattern, opening with a high outer forearm side block and reverse punch in walking stance.\n2. Include the straight fingertip thrust with the spin-out release, high back-fist strikes, wedging blocks and front snap kicks.\n3. Finish with the rising blocks and sitting-stance knife-hand strikes, then return to parallel ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки й виконайте туль із 24 рухів, відкривши його верхнім бічним блоком зовнішнім боком передпліччя та зворотним ударом у кроковій стійці.\n2. Додайте прямий тичок кінчиками пальців зі звільненням розворотом, удари тильним боком кулака на верхній рівень, клинові блоки й прямі удари ногою.\n3. Завершіть верхніми блоками й ударами ребром долоні в стійці вершника та поверніться в паралельну готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

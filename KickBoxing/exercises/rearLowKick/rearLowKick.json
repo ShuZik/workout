@@ -4,11 +4,9 @@
   "title": "Rear Low Kick",
   "description": "1. From stance, plant the lead foot near the outside line and begin pivoting it away from the target.\n2. Rotate the rear hip through and swing the lower shin into the thigh with the knee slightly bent.\n3. Recoil or carry the leg through under control, then regain the original stance and guard.",
   "subtitle": "Low Kick / K-1",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -21,7 +19,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Kicks",
   "availableFrom": "1.1.0",
@@ -99,5 +96,6 @@
       "subtitle": "Лоу-кік / K-1",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

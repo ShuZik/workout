@@ -3,11 +3,9 @@
   "key": "lethwei_spinning_elbow",
   "title": "Spinning Elbow",
   "description": "1. From close guard, step the lead foot across the centerline and turn the head to keep the target in sight.\n2. Spin on the lead foot and drive the point of the rear elbow horizontally through an elbow pad with the forearm folded tight.\n3. Stop the rotation once the elbow passes the pad and return both forearms to a high guard facing the target.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "lethwei",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із ближнього захисту заведіть передню ногу за центральну лінію й поверніть голову, щоб бачити ціль.\n2. Розверніться на передній нозі й проведіть кінчик заднього ліктя горизонтально через ліктьову лапу, щільно склавши передпліччя.\n3. Зупиніть обертання, щойно лікоть пройде лапу, і поверніть обидва передпліччя у високий захист обличчям до цілі.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "tang_soo_do_pyong_an_sahm_dan",
   "title": "Pyong An Sahm Dan",
   "description": "1. From ready stance, turn into back stance with an inside middle block, then perform simultaneous double blocks with the feet together.\n2. Thrust a spear hand, twist free from an imagined wrist grab with a turn, and step forward in horse stance with elbow blocks and back-fist strikes, stamping as you advance.\n3. Finish with the punch and rear elbow strike in horse stance, shout kihap where prescribed, and return to ready stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки готовності поверніться в задню стійку з внутрішнім середнім блоком, потім виконайте одночасні подвійні блоки, ноги разом.\n2. Завдайте тичка пальцями, звільніться поворотом від уявного захоплення зап’ястка й просувайтеся в стійці вершника з блоками ліктем і ударами тильним боком кулака, притупуючи на кроці.\n3. Завершіть ударом кулаком і ударом ліктем назад у стійці вершника, виконайте кіхап у належних місцях і поверніться в стійку готовності.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

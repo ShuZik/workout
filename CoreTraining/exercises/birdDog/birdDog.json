@@ -3,11 +3,9 @@
   "key": "core_training_bird_dog",
   "title": "Bird Dog",
   "description": "1. Start on hands and knees with wrists under shoulders, knees under hips, and spine neutral.\n2. Extend one arm and the opposite leg until both align with the trunk without rotating the pelvis.\n3. Return the hand and knee under control, then repeat with the opposite pair.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Почніть на руках і колінах, розташувавши зап’ястки під плечима, коліна під тазом і зберігаючи хребет нейтральним.\n2. Витягніть одну руку й протилежну ногу до лінії тулуба, не повертаючи таз.\n3. Контрольовано поверніть кисть і коліно, потім повторіть із протилежною парою.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

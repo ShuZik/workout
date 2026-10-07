@@ -3,11 +3,9 @@
   "key": "judo_forward_roll_breakfall",
   "title": "Forward Roll Breakfall",
   "description": "1. Begin in a staggered crouch, place the lead hand inward, tuck the chin, and round the back.\n2. Roll diagonally from the lead shoulder across the back toward the opposite hip rather than over the head.\n3. Finish in a side breakfall with an arm slap or continue smoothly to the feet while maintaining balance.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Ukemi",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у присіді з однією ногою попереду, поставте передню руку всередину, притисніть підборіддя й округліть спину.\n2. Перекотіться по діагоналі з переднього плеча через спину до протилежного стегна, не перекочуючись через голову.\n3. Завершіть боковим страхуванням із плеском рукою або плавно продовжте до положення стоячи, зберігаючи рівновагу.",
       "sectionTitle": "Укемі"
     }
-  }
+  },
+  "state": "active"
 }

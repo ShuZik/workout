@@ -3,11 +3,9 @@
   "key": "sports_chanbara_men_uchi",
   "title": "Men-uchi",
   "description": "1. Receiver wears the face mask and stands in guard; striker faces them in guard at one-step distance.\n2. Striker steps in and strikes the top of the receiver's mask (men) with a quick, light snap of the kodachi.\n3. Striker recovers guard and steps back out of range; receiver calls stop if needed, and both switch roles after each set.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Той, хто приймає, у захисній масці стоїть у стійці; атакувальник стоїть навпроти в стійці на відстані одного кроку.\n2. Атакувальник ступає й швидким легким хльостом кодачі б'є по верху маски того, хто приймає (мен).\n3. Атакувальник повертається в стійку й виходить із дистанції; той, хто приймає, за потреби командує стоп, після кожної серії ролі змінюються.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

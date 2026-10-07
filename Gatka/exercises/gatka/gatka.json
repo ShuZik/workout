@@ -3,11 +3,9 @@
   "key": "gatka_main",
   "title": "Gatka",
   "description": "1. Stand with the soti (training stick) in the right hand and the farri (small shield) in the left, feet apart and knees soft.\n2. Step and turn while striking with the soti and covering the body with the farri, keeping the stick moving in controlled arcs.\n3. Return to the ready stance after each sequence with the shield in front and the stick under control.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "gatka",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте із соті (тренувальною палицею) в правій руці й фаррі (малим щитом) у лівій, ноги нарізно, коліна м’які.\n2. Крокуйте й повертайтеся, завдаючи ударів соті й прикриваючи корпус фаррі, ведучи палицю контрольованими дугами.\n3. Після кожної серії повертайтеся в готову позицію, щит попереду, палиця під контролем.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

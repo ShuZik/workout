@@ -3,11 +3,9 @@
   "key": "taekwondo_back_stance",
   "title": "Back Stance",
   "description": "1. Place the rear foot across the line of travel and the front foot ahead to form a stable L-shaped base.\n2. Bend both knees and shift most of the weight onto the rear leg while keeping the front heel light.\n3. Hold the torso upright, align each knee with its foot, and maintain a ready guard.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Stances",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Поставте задню стопу поперек напрямку руху, а передню попереду, утворюючи стійку L-подібну опору.\n2. Зігніть обидва коліна й перенесіть більшу частину ваги на задню ногу, злегка навантажуючи передню п’яту.\n3. Тримайте корпус вертикально, спрямуйте кожне коліно вздовж його стопи й зберігайте готовий захист.",
       "sectionTitle": "Стійки"
     }
-  }
+  },
+  "state": "active"
 }

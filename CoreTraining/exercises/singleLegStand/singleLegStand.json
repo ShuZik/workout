@@ -3,11 +3,9 @@
   "key": "balance_single_leg_stand",
   "title": "Single-Leg Stand",
   "description": "1. Stand beside a stable support and shift weight fully onto one foot with that knee softly bent.\n2. Lift the opposite foot clear of the floor while the pelvis stays level and the trunk remains upright.\n3. Fix the gaze on one point, lower the foot under control, and repeat on the other leg.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02225",
     "vigorousCode": "02225"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте поруч зі стійкою опорою й повністю перенесіть вагу на одну стопу, злегка зігнувши коліно цієї ноги.\n2. Підніміть протилежну стопу над підлогою, тримаючи таз рівним, а корпус вертикальним.\n3. Дивіться в одну точку, контрольовано опустіть стопу й повторіть на іншій нозі.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

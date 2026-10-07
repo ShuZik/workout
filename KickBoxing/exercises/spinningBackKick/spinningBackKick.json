@@ -3,11 +3,9 @@
   "key": "kick_boxing_spinning_back_kick",
   "title": "Spinning Back Kick",
   "description": "1. From stance, turn the head first to locate the target and pivot on the lead foot until the back faces it.\n2. Chamber the rear knee under the body and drive the heel straight backward without swinging it sideways.\n3. Retract the heel to the chamber, complete the turn, and recover the guard before moving again.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки спочатку поверніть голову, щоб побачити ціль, і розверніться на передній стопі спиною до неї.\n2. Підтягніть заднє коліно під корпус і виштовхніть п’яту прямо назад, не відводячи її вбік.\n3. Поверніть п’яту в положення підйому коліна, завершіть розворот і відновіть захист, перш ніж рухатися далі.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

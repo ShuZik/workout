@@ -3,11 +3,9 @@
   "key": "lucha_leonesa",
   "title": "Lucha Leonesa",
   "description": "1. Begin barefoot on grass or mats with a trained partner, each gripping the other's leather belt.\n2. Keep the belt grips and attempt mañas that unbalance and trip the partner to the ground.\n3. Guide the fall, stop on any touch of the ground, and retake the belt grips to restart.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть босоніж на траві або килимі з підготовленим партнером, кожен тримає шкіряний пояс іншого.\n2. Зберігайте захвати за пояс і пробуйте маньяс, що виводять партнера з рівноваги й валять його на землю.\n3. Скеровуйте падіння, зупиняйтеся за будь-якого торкання землі й знову беріть захвати за пояс.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

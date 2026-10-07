@@ -3,11 +3,9 @@
   "key": "kyudo_shaho_hassetsu",
   "title": "Shaho Hassetsu",
   "description": "1. Ashibumi and dozukuri: set the feet about one arrow length apart in a V on the line to the target and stack the pelvis, spine, and shoulders.\n2. Yugamae, uchiokoshi, and hikiwake: ready the bow, raise it above the head, then draw apart evenly by pushing the bow and pulling the string.\n3. Kai, hanare, and zanshin: hold the full draw with the arrow at mouth level, let the release happen, and stay in the finishing posture.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "kyudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Асібумі й додзукурі: поставте стопи літерою V приблизно на довжину стріли по лінії до мішені й вибудуйте таз, хребет і плечі.\n2. Юґамае, утіокосі й хіківаке: підготуйте лук, підніміть його над головою, потім рівномірно розтягніть, штовхаючи лук і натягуючи тятиву.\n3. Кай, ханаре й дзансін: утримуйте повний натяг зі стрілою на рівні рота, дозвольте випуску статися й залишайтеся в кінцевій позі.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

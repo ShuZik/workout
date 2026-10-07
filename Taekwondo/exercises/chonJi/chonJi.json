@@ -3,11 +3,9 @@
   "key": "taekwondo_chon_ji",
   "title": "Chon-Ji",
   "description": "1. Start in parallel ready stance, then perform the 19-movement pattern along a cross-shaped line, stepping into walking stance and L-stance.\n2. Alternate low forearm blocks and middle inner forearm blocks with middle obverse punches, turning precisely at each end of the line.\n3. Finish with the forward and backward punching sequence, then bring the foot back to parallel ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки й виконайте туль із 19 рухів хрестоподібною лінією в кроковій та L-подібній стійках.\n2. Чергуйте нижні блоки й середні блоки внутрішнім боком передпліччя з прямими ударами на середній рівень, точно розвертаючись на кінцях лінії.\n3. Завершіть серією ударів уперед і назад, потім поверніть ногу в паралельну готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

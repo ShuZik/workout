@@ -3,11 +3,9 @@
   "key": "fencing_counter_disengage",
   "title": "Counter-disengage",
   "description": "1. At lunging distance, the partner attempts to change the engagement or make a circular action around your blade.\n2. Follow the partner's circle with your own point in the same direction, deceiving the change so your blade ends in the line the partner just left open.\n3. Extend and lunge to hit, recover to en garde, and let the partner vary the timing before swapping roles.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На дистанції випаду партнер намагається змінити з’єднання або виконати колову дію навколо вашого клинка.\n2. Ідіть вістрям за колом партнера в той самий бік, обманюючи зміну, щоб клинок опинився в лінії, яку партнер щойно відкрив.\n3. Випряміть руку й випадом завдайте уколу, поверніться в стійку й дайте партнерові змінювати момент, потім поміняйтеся ролями.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

@@ -6,7 +6,6 @@
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +82,6 @@
       "description": "1. Почніть на руках і колінах, розташувавши кисті під плечима, а коліна під тазом.\n2. Підніміть коліна на кілька сантиметрів, напружуючи живіт і зберігаючи спину рівною.\n3. Утримуйте положення без зміщення таза, блокування ліктів або затримки дихання.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "durationSeconds": 30
 }

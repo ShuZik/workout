@@ -3,11 +3,9 @@
   "key": "sports_chanbara_shiai_bout",
   "title": "Shiai Bout",
   "description": "1. Both fighters wear face masks and start in guard at the start lines; a referee or partner calls the start.\n2. Fight ippon shobu: the first clean strike to a valid target wins, and simultaneous hits (aiuchi) score for neither.\n3. Stop at once on the call, return to the start lines, and bow before the next bout.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обидва бійці в захисних масках починають у стійці на стартових лініях; суддя чи партнер дає команду до початку.\n2. Бийтеся до одного очка (іппон шьобу): перемагає перший чистий удар у дозволену ціль, одночасні влучання (аіучі) не зараховуються нікому.\n3. За командою одразу зупиніться, поверніться на стартові лінії й вклоніться перед наступним двобоєм.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "laamb_body_lock_lift",
   "title": "Body-Lock Lift",
   "description": "1. Attacker locks both arms around the partner's waist, chest to chest, with the hips close.\n2. Squat, drive the hips forward, lift the partner's feet clear, and turn to set them down on the side or back.\n3. Partner tucks the chin and slaps out; attacker lowers under control, never drops the partner, and releases at once.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "laamb",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Атакувальник замикає обидві руки на поясі партнера, груди до грудей, стегна впритул.\n2. Присядьте, подайте таз уперед, відірвіть ноги партнера від землі й розверніться, укладаючи його на бік чи спину.\n3. Партнер притискає підборіддя й б'є рукою об землю; атакувальник опускає під контролем, ніколи не впускає й одразу відпускає.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

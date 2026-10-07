@@ -3,11 +3,9 @@
   "key": "fencing_beat",
   "title": "Beat",
   "description": "1. Stand at lunging distance with the partner's blade in line or engaged.\n2. Strike the middle or weak part of the partner's blade sharply with the strong-to-middle part of yours, using the fingers and wrist rather than a wide arm swing.\n3. Extend immediately into the line opened by the beat and lunge to hit, then recover to en garde and swap roles after the set.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на дистанції випаду, клинок партнера в лінії або в з’єднанні.\n2. Різко вдарте сильною-середньою частиною свого клинка по середній чи слабкій частині клинка партнера пальцями й кистю, без широкого замаху руки.\n3. Одразу випряміть руку у відкриту батманом лінію й випадом завдайте уколу, потім поверніться в стійку й поміняйтеся ролями після серії.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

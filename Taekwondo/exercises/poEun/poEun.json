@@ -3,11 +3,9 @@
   "key": "taekwondo_po_eun",
   "title": "Po-Eun",
   "description": "1. Start in parallel ready stance with heaven hand and perform the 36-movement first-degree pattern along a single line.\n2. Travel sideways in sitting stance with W-shape blocks, side punches, pulling and pressing actions, keeping the stance low and the line straight.\n3. Finish with the closing punches on the line, then return to parallel ready stance with heaven hand.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки з «небесною рукою» й виконайте туль першого дану з 36 рухів по одній лінії.\n2. Переміщуйтеся вбік у стійці вершника з W-подібними блоками, бічними ударами, притягувальними й притискними діями, зберігаючи низьку стійку та пряму лінію.\n3. Завершіть завершальними ударами на лінії та поверніться в паралельну готову стійку з «небесною рукою».",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

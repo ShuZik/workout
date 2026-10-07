@@ -3,11 +3,9 @@
   "key": "unifight_obstacle_course",
   "title": "Unifight Obstacle Course",
   "description": "1. Set up a short lane with the obstacles available, such as a tyre maze, low beam, fence, horizontal ladder and tunnel, ending beside a mat.\n2. Run the lane continuously at race pace, clearing each obstacle cleanly and repeating any failed obstacle before moving on.\n3. Walk back to the start to recover and repeat, stopping before fatigue makes landings unsafe.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "unifight",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "12025",
     "vigorousCode": "12020"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Conditioning",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Складіть коротку смугу з доступних перешкод — лабіринт із шин, низька колода, паркан, горизонтальна драбина, тунель — з фінішем біля татамі.\n2. Пройдіть її без зупинки в змагальному темпі, чисто долаючи кожну перешкоду й повторюючи невдалу, перш ніж рухатися далі.\n3. Поверніться кроком до старту для відновлення й повторіть; зупиніться, доки втома не зробила приземлення небезпечними.",
       "sectionTitle": "Фізпідготовка"
     }
-  }
+  },
+  "state": "active"
 }

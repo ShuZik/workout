@@ -3,11 +3,9 @@
   "key": "fencing_foil_feint_disengage",
   "title": "Foil: Feint Direct, Disengage",
   "description": "1. With foils and full kit, stand at lunging distance; the partner waits in guard ready to parry.\n2. Feint a straight thrust with the arm extending so the partner reacts with a lateral parry, then disengage around the parry into the opened line.\n3. Lunge to hit, recover to en garde, and swap roles; the partner varies which parry is offered.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Sequences",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із рапірою в повному спорядженні станьте на дистанції випаду; партнер чекає в стійці, готовий до захисту.\n2. Зробіть фінт прямим уколом, випрямляючи руку, щоб викликати простий захист, і переведенням обійдіть його у відкриту лінію.\n3. Випадом завдайте уколу, поверніться в стійку й поміняйтеся ролями; партнер змінює запропонований захист.",
       "sectionTitle": "Зв'язки в парі"
     }
-  }
+  },
+  "state": "active"
 }

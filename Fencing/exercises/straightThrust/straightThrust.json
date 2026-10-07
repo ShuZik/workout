@@ -3,11 +3,9 @@
   "key": "fencing_straight_thrust",
   "title": "Straight Thrust",
   "description": "1. Face a masked partner at lunging distance; the partner holds an open line without blade contact.\n2. Extend the weapon arm smoothly so the point travels straight to the open target, then lunge with the arm already extended.\n3. Touch lightly with a slight bend of the blade, recover to en garde, and swap roles after the set.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте перед партнером у масці на дистанції випаду; партнер відкриває лінію без контакту клинків.\n2. Плавно випряміть озброєну руку, щоб вістря йшло прямо у відкриту ціль, і виконайте випад із уже випрямленою рукою.\n3. Торкніться легко, з невеликим вигином клинка, поверніться в стійку й поміняйтеся ролями після серії.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

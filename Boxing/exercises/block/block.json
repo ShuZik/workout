@@ -3,11 +3,9 @@
   "key": "block",
   "title": "Block",
   "description": "1. From guard, identify the incoming punch and brace the trunk without closing the eyes or turning away.\n2. Catch a straight punch on the gloves or forearms and cover a hook by bringing the glove and elbow tight to the side of the head.\n3. Absorb the contact with bent knees, then reopen the guard and regain sight of the target.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15110",
     "vigorousCode": "15113"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 3,
   "section": "4 Intermediate",
@@ -87,5 +84,6 @@
       "description": "1. Із захисту визначте удар, що наближається, і напружте корпус, не заплющуючи очей і не відвертаючись.\n2. Приймайте прямий удар на рукавички або передпліччя, а боковий прикривайте, щільно притискаючи рукавичку й лікоть до бічної частини голови.\n3. Пом’якшіть контакт зігнутими колінами, потім знову розкрийте захист і відновіть огляд цілі.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

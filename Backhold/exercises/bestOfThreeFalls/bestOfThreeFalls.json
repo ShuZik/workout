@@ -3,11 +3,9 @@
   "key": "backhold_best_of_three_falls",
   "title": "Best of Three Falls",
   "description": "1. Take the backhold with a trained partner and wait for the referee or partner to call hold.\n2. Wrestle until someone touches the mat with anything but the feet or breaks the hold, and award that fall to the opponent.\n3. Retake the hold after each fall and continue until one wrestler wins two falls, controlling every landing.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "backhold",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть бекхолд із підготовленим партнером і дочекайтеся команди судді або партнера.\n2. Боріться, доки хтось не торкнеться килима чимось, окрім стоп, або не розірве захоплення, і зарахуйте це падіння суперникові.\n3. Після кожного падіння знову беріть захоплення й продовжуйте, доки один борець не виграє два падіння, контролюючи кожне приземлення.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

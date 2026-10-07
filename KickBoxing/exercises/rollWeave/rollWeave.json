@@ -3,11 +3,9 @@
   "key": "kick_boxing_roll_weave",
   "title": "Roll/Weave",
   "description": "1. From guard, bend the knees as an imagined hook approaches while keeping the torso upright.\n2. Move the head beneath the punch in a shallow U by shifting between the legs and rotating the hips.\n3. Rise on the opposite side into the same stance with both hands high and the chin tucked.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Defense",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із захисної стійки зігніть коліна при наближенні уявного бокового удару, зберігаючи спину вертикальною та погляд уперед.\n2. Проведіть головою неглибоку U-подібну траєкторію під ударом, переносячи вагу з однієї ноги на іншу й повертаючи корпус.\n3. Підніміться з іншого боку, зберігаючи ширину стійки, обидві руки біля щік і підборіддя опущеним.",
       "sectionTitle": "Захист"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "tang_soo_do_gicho_hyung_sahm_bu",
   "title": "Gicho Hyung Sahm Bu",
   "description": "1. Start in ready stance on the I-shaped floor line.\n2. Turn into back stance with a middle block, then step forward into front stance with a middle punch, repeating through each turn and along the center line.\n3. Change cleanly between back and front stances, shout kihap where prescribed, and finish in ready stance at the start point.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці готовності на I-подібній лінії.\n2. Поверніться в задню стійку із середнім блоком, потім ступіть у передню стійку з ударом у середній рівень, повторюючи на кожному повороті й по центральній лінії.\n3. Чітко змінюйте задню й передню стійки, виконайте кіхап у належних місцях і закінчіть у стійці готовності на початку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "lucha_canaria",
   "title": "Lucha Canaria",
   "description": "1. Begin in a sand circle or on mats with a trained partner, taking the starting grip low on the partner's rolled trouser leg and back.\n2. Use grasping, blocking, and deflecting mañas to make the partner touch the ground with anything but the feet.\n3. Guide each fall, stop at the first touch, and restart from the central grip; no strikes or strangles.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "luchaCanaria",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у піщаному колі або на килимі з підготовленим партнером, узявши стартовий захват низько за підкочену холошу й спину.\n2. Використовуйте маньяс захоплення, блоку й відхилення, щоб партнер торкнувся землі будь-чим, крім стоп.\n3. Скеровуйте кожне падіння, зупиняйтеся за першого торкання й починайте знову з центрального захвату; без ударів і задушень.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

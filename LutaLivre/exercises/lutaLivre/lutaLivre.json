@@ -3,11 +3,9 @@
   "key": "luta_livre",
   "title": "Luta Livre",
   "description": "1. Begin on mats with a trained partner without a gi, from standing or kneeling.\n2. Work takedowns, guard passing, sweeps, mount and back positions, and controlled submissions.\n3. Stabilize each position, release every submission at a tap, and reset after each exchange.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "lutaLivre",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на килимі з підготовленим партнером без гі, зі стійки або з колін.\n2. Працюйте над тейкдаунами, проходами гарду, свіпами, позиціями маунту й спини та контрольованими больовими й задушливими.\n3. Закріплюйте кожну позицію, відпускайте кожен прийом за плесканням і починайте знову після кожного епізоду.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

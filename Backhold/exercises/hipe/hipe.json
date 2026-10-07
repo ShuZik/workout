@@ -3,11 +3,9 @@
   "key": "backhold_hipe",
   "title": "Hipe",
   "description": "1. Take the backhold: chin on the partner's right shoulder, right arm under, left arm over, hands locked behind the partner's back.\n2. Lift the partner toward you with the hold and drive your right knee inside the partner's left thigh to raise the leg.\n3. Swing the partner across the knee and down to the side, keep the hold locked to control the landing, then reset.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "backhold",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть бекхолд: підборіддя на правому плечі партнера, права рука знизу, ліва згори, кисті зчеплені в нього за спиною.\n2. Захопленням підніміть партнера на себе й уведіть праве коліно під його ліве стегно зсередини, піднімаючи ногу.\n3. Хитніть партнера через коліно й опустіть убік, тримаючи замок, щоб контролювати падіння, потім почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

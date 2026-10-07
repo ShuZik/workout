@@ -3,11 +3,9 @@
   "key": "sumo_teppo",
   "title": "Teppo",
   "description": "1. Stand an arm's length from a padded post in a low stance with the feet apart and the elbows bent.\n2. Thrust one open palm into the post while sliding the same-side foot forward and pushing from the legs.\n3. Alternate hands and feet in a steady rhythm, keeping the hips low and the wrists aligned.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "sumo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в низьку стійку на відстані витягнутої руки від м’якого стовпа, стопи нарізно, лікті зігнуті.\n2. Штовхніть стовп відкритою долонею, водночас ковзаючи однойменною стопою вперед і відштовхуючись ногами.\n3. Чергуйте руки й ноги в рівному ритмі, тримаючи таз низько, а зап’ястя рівно.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

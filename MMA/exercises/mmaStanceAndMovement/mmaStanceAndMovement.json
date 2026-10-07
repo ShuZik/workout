@@ -3,11 +3,9 @@
   "key": "mma_stance_and_movement",
   "title": "MMA Stance and Movement",
   "description": "1. Place one foot forward in a slightly lower and wider stance than boxing, with the chin tucked and hands near the temples.\n2. Advance, retreat, circle, and pivot with short steps while keeping the feet apart and the hips ready to drop for a sprawl.\n3. Change range without crossing the legs, then settle both feet beneath the body before striking or shooting.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Striking",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте одну ногу вперед у трохи нижчу й ширшу стійку, ніж у боксі, підборіддя притиснуте, руки біля скронь.\n2. Рухайтеся вперед, назад, по колу й розвертайтеся короткими кроками, зберігаючи ширину стійки й готовність опустити таз у спрол.\n3. Змінюйте дистанцію, не схрещуючи ноги, і повертайте обидві стопи під корпус перед ударом чи проходом.",
       "sectionTitle": "Ударна техніка"
     }
-  }
+  },
+  "state": "active"
 }

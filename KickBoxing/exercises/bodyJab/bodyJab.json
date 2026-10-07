@@ -3,11 +3,9 @@
   "key": "kick_boxing_body_jab",
   "title": "Body Jab",
   "description": "1. From guard, lower with the knees while keeping the back upright and rear hand at the cheek.\n2. Send the lead fist straight into the torso line with the head slightly outside the centerline.\n3. Retract the fist before rising and recover a kick-ready stance and guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із захисту опустіться за рахунок колін, зберігаючи спину вертикальною й задню руку біля щоки.\n2. Спрямуйте передній кулак прямо в лінію корпуса, злегка змістивши голову з центральної лінії.\n3. Приберіть кулак до підйому й відновіть стійку та захист, готові до удару ногою.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

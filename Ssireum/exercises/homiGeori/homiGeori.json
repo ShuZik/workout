@@ -3,11 +3,9 @@
   "key": "ssireum_homi_geori",
   "title": "Homi-geori",
   "description": "1. As the partner lifts you with a waist lift, let your feet settle with the partner's right ankle between your legs.\n2. Shift your weight to the left and hook the partner's right ankle with your right heel.\n3. Pull the ankle while pushing through the satba to topple the partner, guide the fall, and release once the partner touches down.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "ssireum",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли партнер піднімає вас за пояс, опустіться на ноги так, щоб його права кісточка опинилася між вашими ногами.\n2. Перенесіть вагу вліво й зачепіть праву кісточку партнера своєю правою п'ятою.\n3. Тягніть кісточку, водночас штовхаючи через сатбу, щоб перекинути партнера, супроводьте падіння й відпустіть, коли він торкнеться землі.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "suspension_push_up",
   "title": "Suspension Push-Up",
   "description": "1. Set both handles to the same length and assume a straight plank with hands on the handles.\n2. Bend the elbows to lower the chest between the hands while keeping the straps stable and the body aligned.\n3. Press through both handles to return to plank without letting the hips sag or the shoulders shrug.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "suspensionTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Upper Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Встановіть обидва руків’я на однакову довжину й прийміть пряму планку, тримаючись руками за руків’я.\n2. Зігніть лікті, опускаючи груди між кистями, зберігаючи петлі стійкими, а тіло рівним.\n3. Вижміть себе обома руків’ями назад у планку, не провалюючи таз і не піднімаючи плечі.",
       "sectionTitle": "Верхня частина тіла"
     }
-  }
+  },
+  "state": "active"
 }

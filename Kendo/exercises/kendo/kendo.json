@@ -3,11 +3,9 @@
   "key": "kendo_main",
   "title": "Kendo",
   "description": "1. Stand in chudan-no-kamae with a shinai or bokuto, left heel slightly raised and the tip pointing at the partner's throat.\n2. Move with suri-ashi and strike men, kote, or do with a stamping step, a clear kiai, and sword, body, and spirit together.\n3. Pass through or recover distance, keep zanshin, and rebuild kamae before the next attack.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в тюдан-но-камае з сінаєм або бокеном, ліва п’ята трохи піднята, кінчик спрямований у горло партнера.\n2. Пересувайтеся суріасі й завдавайте ударів мен, коте або до з притупом, чітким кіай і єдністю меча, тіла й духу.\n3. Пройдіть наскрізь або відновіть дистанцію, збережіть дзансін і відновіть камае перед наступною атакою.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

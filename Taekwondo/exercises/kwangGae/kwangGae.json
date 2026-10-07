@@ -3,11 +3,9 @@
   "key": "taekwondo_kwang_gae",
   "title": "Kwang-Gae",
   "description": "1. Start in parallel ready stance with heaven hand and perform the 39-movement first-degree pattern.\n2. Work through its slow-motion movements and sliding steps, mixing palm and forearm blocks with punches and kicks at controlled tempo.\n3. Finish with the closing strikes, then lower the hands and return to parallel ready stance with heaven hand.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки з «небесною рукою» й виконайте туль першого дану з 39 рухів.\n2. Пройдіть його уповільнені рухи та ковзні кроки, поєднуючи блоки долонею й передпліччям з ударами руками й ногами в контрольованому темпі.\n3. Завершіть завершальними ударами, опустіть руки й поверніться в паралельну готову стійку з «небесною рукою».",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

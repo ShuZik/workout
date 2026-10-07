@@ -3,11 +3,9 @@
   "key": "shorinji_kempo_uwa_uke_geri",
   "title": "Uwa Uke Geri",
   "description": "1. Attacker steps in with a straight punch to the face; defender stands in kamae at kicking distance.\n2. Defender raises the front forearm to deflect the punch upward and simultaneously delivers a front kick to the groin or midsection.\n3. Defender controls the kick to touch lightly or stop short, recovers the leg to kamae, and attacker and defender switch roles.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "shorinjiKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нападник робить крок уперед із прямим ударом в обличчя; захисник стоїть у камае на дистанції удару ногою.\n2. Захисник піднімає переднє передпліччя, відводячи удар угору, і водночас завдає прямого удару ногою в пах або корпус.\n3. Захисник контролює удар ногою — лише торкається або зупиняє його заздалегідь, повертає ногу в камае, потім нападник і захисник міняються ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

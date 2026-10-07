@@ -3,11 +3,9 @@
   "key": "iaido_tsuka_ate",
   "title": "Tsuka-ate",
   "description": "1. Sit in tate-hiza with opponents in front and behind; rise and drive the end of the hilt, still sheathed, into the front opponent's solar plexus.\n2. Draw the blade free, look back, and thrust behind into the rear opponent's solar plexus, then turn to the front, raise the sword, and cut down with kirioroshi.\n3. Perform chiburi, resheathe while lowering into tate-hiza, and keep zanshin toward both opponents.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Seated Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте в тате-хідза, суперники спереду й ззаду; підведіться й ударте торцем руків’я, ще в піхвах, у сонячне сплетіння переднього суперника.\n2. Звільніть клинок, подивіться назад і вколіть назад у сонячне сплетіння заднього суперника, потім поверніться вперед, підніміть меч і рубайте вниз кіріоросі.\n3. Виконайте тібурі, вкладіть меч, опускаючись у тате-хідза, і збережіть дзансін до обох суперників.",
       "sectionTitle": "Форми з положення сидячи"
     }
-  }
+  },
+  "state": "active"
 }

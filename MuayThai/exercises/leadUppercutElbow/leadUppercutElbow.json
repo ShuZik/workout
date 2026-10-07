@@ -3,11 +3,9 @@
   "key": "muay_thai_lead_uppercut_elbow",
   "title": "Lead Uppercut Elbow",
   "description": "1. From close guard, bend the knees slightly and load the lead side with the forearm tight to the body.\n2. Drive upward and rotate the lead hip so the point of the elbow rises vertically into an elbow pad.\n3. Stop below full shoulder elevation and return the forearm directly to the head guard.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Elbows",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Зі щільного захисту трохи зігніть коліна й завантажте передній бік, притиснувши передпліччя до корпусу.\n2. Відштовхніться вгору й поверніть передній бік таза, щоб кінчик ліктя піднявся вертикально в лапу.\n3. Зупиніться до повного підйому плеча й одразу поверніть передпліччя в захист голови.",
       "sectionTitle": "Удари ліктями"
     }
-  }
+  },
+  "state": "active"
 }

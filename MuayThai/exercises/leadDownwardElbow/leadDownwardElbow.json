@@ -3,11 +3,9 @@
   "key": "muay_thai_lead_downward_elbow",
   "title": "Lead Downward Elbow",
   "description": "1. From close guard, raise the bent lead elbow above the target without flaring the opposite hand away.\n2. Step or rotate forward and drive the point of the elbow down on a diagonal into an elbow pad.\n3. Stop the descent under control and bring the forearm back to the brow and cheek.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Elbows",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Зі щільного захисту підніміть зігнутий передній лікоть над ціллю, не відводячи другу руку.\n2. Ступніть або розверніться вперед і спрямуйте кінчик ліктя вниз по діагоналі в лапу.\n3. Контрольовано зупиніть рух униз і поверніть передпліччя до брови та щоки.",
       "sectionTitle": "Удари ліктями"
     }
-  }
+  },
+  "state": "active"
 }

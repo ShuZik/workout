@@ -3,11 +3,9 @@
   "key": "mma_single_leg_takedown",
   "title": "Single-Leg Takedown",
   "description": "1. With a trained partner on mats, change level and step close enough to capture one leg above or behind the knee.\n2. Keep the head tight to the torso, connect the hands, and stand with the trapped leg held close rather than pulling with the back.\n3. Turn the corner or run the pipe to remove the base, then guide the partner down and release the leg safely.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Wrestling",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. З підготовленим партнером на татамі змініть рівень і підійдіть достатньо близько, щоб захопити одну ногу вище або позаду коліна.\n2. Щільно притисніть голову до його корпусу, зчепіть руки й підведіться, утримуючи захоплену ногу біля себе, а не тягніть спиною.\n3. Поверніть за кут або протягніть ногу назад, щоб вибити опору, потім опустіть партнера й безпечно відпустіть ногу.",
       "sectionTitle": "Боротьба"
     }
-  }
+  },
+  "state": "active"
 }

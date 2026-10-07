@@ -3,12 +3,9 @@
   "key": "sandbag_sandbag_reverse_lunge",
   "title": "Sandbag Reverse Lunge",
   "description": "1. Hold the sandbag securely against the chest or across the shoulders and stand tall.\n2. Step one leg backward and lower both knees while the front foot stays fully grounded.\n3. Drive through the front foot to return to standing and alternate legs without letting the bag shift.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Надійно тримайте мішок біля грудей або на плечах і станьте рівно.\n2. Ступіть однією ногою назад і опустіть обидва коліна, тримаючи передню стопу повністю на підлозі.\n3. Відштовхніться передньою стопою, поверніться в стійку й чергуйте ноги, не даючи мішку зміщуватися.",
       "sectionTitle": "Мішок із піском"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

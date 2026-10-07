@@ -3,11 +3,9 @@
   "key": "wushu",
   "title": "Wushu",
   "description": "1. Begin in a ready stance with the feet together, fists at the waist, and a clear practice area around you.\n2. Practise basic wushu stances, punches, palms, and kicks, then link them into short taolu sections with full extension and sharp finishing postures.\n3. Hold each posture briefly, land any jump on soft knees, and close with the wushu salute.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці готовності: стопи разом, кулаки біля пояса, довкола вільний простір.\n2. Відпрацьовуйте базові стійки, удари кулаком і долонею, удари ногами ушу, потім поєднуйте їх у короткі фрагменти таолу з повним випрямленням і чіткими фінальними позами.\n3. Коротко фіксуйте кожну позу, приземляйтеся після стрибків на м’які коліна й завершіть привітанням ушу.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

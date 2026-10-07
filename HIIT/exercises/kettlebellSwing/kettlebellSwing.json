@@ -3,12 +3,9 @@
   "key": "bootcamp_kettlebell_swing",
   "title": "Kettlebell Swing",
   "description": "1. Place the kettlebell ahead of the feet, hinge with a neutral spine, and grip the handle with both hands.\n2. Hike the bell between the thighs, then drive the feet down and snap the hips forward so the bell floats.\n3. Let the bell fall, guide it back into the hinge, and keep the arms relaxed instead of lifting with the shoulders.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Поставте гирю перед стопами, нахиліться за рахунок таза з нейтральною спиною й візьміться за ручку обома руками.\n2. Заведіть гирю назад між стегнами, потім упріться стопами в підлогу й різко виведіть таз уперед, щоб гиря злетіла.\n3. Дозвольте гирі опуститися, спрямуйте її назад у нахил від таза й тримайте руки розслабленими, не піднімаючи гирю плечима.",
       "sectionTitle": "Буткемп"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

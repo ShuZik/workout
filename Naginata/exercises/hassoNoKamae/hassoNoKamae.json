@@ -3,11 +3,9 @@
   "key": "naginata_hasso_no_kamae",
   "title": "Hasso-no-Kamae",
   "description": "1. From chudan, raise the naginata so the hands come up beside the shoulder and the blade points upward at an angle.\n2. Keep the elbows relaxed, the shoulders down, and the body facing the partner with the weight balanced.\n3. Hold briefly, return to chudan, and repeat on both sides, switching the forward hand smoothly.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "naginata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із чюдану підніміть нагінату так, щоб руки опинилися біля плеча, а клинок дивився вгору під кутом.\n2. Лікті розслаблені, плечі опущені, корпус звернений до партнера, вага розподілена рівно.\n3. Затримайтеся, поверніться в чюдан і повторіть на обидва боки, плавно змінюючи передню руку.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

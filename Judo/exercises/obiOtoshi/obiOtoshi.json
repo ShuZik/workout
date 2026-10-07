@@ -3,11 +3,9 @@
   "key": "judo_obi_otoshi",
   "title": "Obi Otoshi",
   "description": "1. Move to the partner's side and slightly behind, reaching one hand across the front to grip the belt.\n2. Place the other hand on the partner's back or near thigh while lowering the hips close behind the partner.\n3. Lift slightly and drop the partner backward over the hip line, controlling the belt so the partner lands in a back breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Te-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Переміститеся збоку й трохи позаду партнера, провівши одну руку спереду для захоплення пояса.\n2. Покладіть іншу руку на спину або ближнє стегно партнера, опускаючи таз упритул позаду нього.\n3. Трохи підніміть і перекиньте партнера назад через лінію стегна, контролюючи пояс для страховки на спину.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

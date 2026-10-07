@@ -3,11 +3,9 @@
   "key": "kendo_tachi_4",
   "title": "Kendo Kata Tachi 4",
   "description": "1. Uchidachi takes hasso and shidachi waki-gamae; both advance to distance.\n2. Both raise to jodan and cut men together so the blades meet; from chudan, uchidachi thrusts at the right chest and shidachi winds the blade aside and cuts men.\n3. Shidachi shows zanshin, then both return to chudan and the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Утідаті займає хассо, сідаті — вакі-ґамае; обоє сходяться на дистанцію.\n2. Обоє підіймаються в дзьодан і одночасно рубають мен, клинки зустрічаються; із тюдан утідаті коле в правий бік грудей, а сідаті накручувальним рухом відводить клинок і рубає мен.\n3. Сідаті показує дзансін, потім обоє повертаються в тюдан і на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

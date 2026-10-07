@@ -3,11 +3,9 @@
   "key": "judo_ushiro_kesa_gatame",
   "title": "Ushiro Kesa Gatame",
   "description": "1. Sit beside the partner's shoulder facing the partner's legs, with your back turned toward the partner's head.\n2. Trap the partner's near arm under your armpit and reach across to control the far side of the belt or body.\n3. Spread the legs for base, keep weight on the partner's chest, and release at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте біля плеча партнера обличчям до його ніг, спиною до його голови.\n2. Затисніть ближню руку партнера під пахвою й дотягніться до дальнього боку пояса або тулуба.\n3. Розведіть ноги для опори, тримайте вагу на його грудях і відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

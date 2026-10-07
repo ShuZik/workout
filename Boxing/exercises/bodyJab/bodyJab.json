@@ -3,11 +3,9 @@
   "key": "body_jab",
   "title": "Body Jab",
   "description": "1. From guard, lower the body by bending the knees while keeping the back upright and the rear hand high.\n2. Extend the lead fist straight into the torso line with the head slightly outside the centerline.\n3. Retract the fist first, then straighten the legs and return to the original guard and distance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 2,
   "section": "3 Beginner",
@@ -88,5 +85,6 @@
       "description": "1. Із захисту опустіть тіло, згинаючи коліна, зберігаючи спину прямою й задню руку піднятою.\n2. Випряміть передній кулак у лінію корпуса, змістивши голову трохи вбік від центральної лінії.\n3. Спочатку поверніть кулак, потім випряміть ноги й відновіть початковий захист і дистанцію.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

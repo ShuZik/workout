@@ -1,0 +1,88 @@
+{
+  "id": "14.24",
+  "key": "coretraining_heel_tap",
+  "title": "Heel Tap",
+  "description": "Lie on your back with knees bent and heels on the floor. Lift your shoulders slightly and reach alternately toward each heel without pulling on your neck.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Heel Tap",
+      "description": "Lie on your back with knees bent and heels on the floor. Lift your shoulders slightly and reach alternately toward each heel without pulling on your neck.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Toque de talones",
+      "description": "Túmbate boca arriba con las rodillas flexionadas y los talones en el suelo. Eleva ligeramente los hombros y alcanza cada talón de forma alterna sin tirar del cuello.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Toque nos calcanhares",
+      "description": "Deite de costas com os joelhos dobrados e os calcanhares no chão. Levante um pouco os ombros e alcance cada calcanhar alternadamente sem forçar o pescoço.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Toucher des talons",
+      "description": "Allongez-vous sur le dos, genoux pliés et talons au sol. Soulevez légèrement les épaules et tendez alternativement la main vers chaque talon sans tirer sur la nuque.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Fersentippen",
+      "description": "Lege dich mit gebeugten Knien und Fersen am Boden auf den Rücken. Hebe die Schultern leicht an und greife abwechselnd zu jeder Ferse, ohne am Nacken zu ziehen.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Tocco dei talloni",
+      "description": "Sdraiati sulla schiena con le ginocchia piegate e i talloni a terra. Solleva leggermente le spalle e raggiungi alternativamente ogni tallone senza tirare il collo.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "仰卧触踵",
+      "description": "仰卧屈膝，脚跟放在地面上。肩部微微抬起，双手交替伸向两侧脚跟，不要拉扯颈部。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ヒールタップ",
+      "description": "膝を曲げ、かかとを床につけて仰向けになります。肩を少し浮かせ、首を引っ張らずに左右のかかとへ交互に手を伸ばします。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "힐 터치",
+      "description": "무릎을 굽히고 뒤꿈치를 바닥에 둔 채 등을 대고 누우세요. 어깨를 살짝 들어 목을 당기지 않고 양쪽 뒤꿈치로 번갈아 손을 뻗으세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "แตะส้นเท้า",
+      "description": "นอนหงายงอเข่าโดยวางส้นเท้าบนพื้น ยกไหล่เล็กน้อยแล้วเอื้อมมือแตะส้นเท้าสลับข้างโดยไม่ดึงคอ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Касание пяток",
+      "description": "Лягте на спину, согните колени и поставьте пятки на пол. Слегка поднимите плечи и поочерёдно тянитесь к каждой пятке, не вытягивая шею.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Торкання п’ят",
+      "description": "Ляжте на спину, зігніть коліна та поставте п’яти на підлогу. Злегка підніміть плечі й почергово тягніться до кожної п’яти, не витягуючи шию.",
+      "sectionTitle": "База"
+    }
+  },
+  "state": "active"
+}

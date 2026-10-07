@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте гантелі по боках і станьте в стійку розніжку, піднявши задню п’яту.\n2. Опускайте заднє коліно, спрямовуючи переднє коліно за лінією носка й зберігаючи тулуб вертикальним.\n3. Відштовхніться передньою стопою й підніміться, не змінюючи положення стоп, потім змініть передню ногу.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

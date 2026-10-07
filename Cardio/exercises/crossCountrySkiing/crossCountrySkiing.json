@@ -3,11 +3,9 @@
   "key": "cross_country_skiing",
   "title": "Cross-Country Skiing",
   "description": "1. Stand centered over parallel skis with knees and ankles softly bent and poles angled behind.\n2. Shift weight fully onto one ski and glide as the opposite leg and arm move forward.\n3. Push through the pole and ski, recover underneath the body, and alternate sides without crossing the skis.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "19090",
     "vigorousCode": "19100"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Outdoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте по центру над паралельними лижами, злегка зігнувши коліна й гомілковостопні суглоби та нахиливши палиці назад.\n2. Повністю перенесіть вагу на одну лижу й ковзайте, поки протилежні нога та рука рухаються вперед.\n3. Відштовхніться палицею й лижею, поверніть їх під тіло та чергуйте боки, не схрещуючи лижі.",
       "sectionTitle": "Надворі"
     }
-  }
+  },
+  "state": "active"
 }

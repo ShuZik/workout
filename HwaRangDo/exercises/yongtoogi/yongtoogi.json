@@ -3,11 +3,9 @@
   "key": "hwa_rang_do_yongtoogi",
   "title": "Yongtoogi",
   "description": "1. With a trained partner, gloves, and mouthguards on mats, agree on contact level and the round time with the coach.\n2. Spar using strikes and kicks, clinch and takedowns, and ground control or submissions as the Yongtoogi rules allow, moving between standing and ground.\n3. Stop at the coach's call or a tap, release holds immediately, and reset both fighters to the standing start.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "hwaRangDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Sparring",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З підготовленим партнером, у рукавицях і капах на татамі, узгодьте з тренером рівень контакту й час раунду.\n2. Ведіть спаринг ударами руками й ногами, клінчем і тейкдаунами, контролем або больовими в партері в межах правил йонтугі, переходячи зі стійки в партер.\n3. Зупиняйтеся за командою тренера чи плесканням, одразу відпускайте захоплення й повертайтеся у вихідне положення стоячи.",
       "sectionTitle": "Спаринг"
     }
-  }
+  },
+  "state": "active"
 }

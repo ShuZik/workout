@@ -3,11 +3,9 @@
   "key": "sqay_shield_block_drill",
   "title": "Shield Block Drill",
   "description": "1. Attacker delivers slow cuts with a padded sword to the head, flank, and legs; defender stands in guard.\n2. Defender meets each cut with the shield, angling it to deflect rather than absorb the blow, and steps to keep the right distance.\n3. Attacker raises the speed only while the defender stays accurate; either partner can call stop, then roles switch.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "sqay",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нападник завдає повільних рубаних ударів м'яким мечем у голову, бік і ноги; захисник стоїть у стійці.\n2. Захисник зустрічає кожен удар щитом, підставляючи його під кутом, щоб відвести, а не прийняти удар, і пересувається, зберігаючи потрібну дистанцію.\n3. Нападник підвищує темп, лише поки захисник діє точно; будь-хто з партнерів може скомандувати стоп, після чого ролі міняються.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

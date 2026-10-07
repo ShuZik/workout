@@ -3,11 +3,9 @@
   "key": "iaido_nukiuchi",
   "title": "Nukiuchi",
   "description": "1. Stand facing an opponent who raises the sword to cut; step back with the left foot and then the right while drawing the sword straight up overhead.\n2. Without pausing at the top, grip with both hands and cut straight down the center as the opponent's attack misses.\n3. Perform chiburi, resheathe, and step forward to the start with zanshin.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Standing Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте перед суперником, що піднімає меч для удару; відступіть лівою, потім правою ногою, виводячи меч прямо вгору над головою.\n2. Не зупиняючись угорі, візьміть меч двома руками й рубайте прямо по центру, поки атака суперника проходить повз.\n3. Виконайте тібурі, вкладіть меч і ступіть на початок із дзансіном.",
       "sectionTitle": "Форми з положення стоячи"
     }
-  }
+  },
+  "state": "active"
 }

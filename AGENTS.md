@@ -468,3 +468,21 @@ English fields exactly. Missing translation at runtime falls back per field
 to English; this fallback does not make an incomplete authored record valid.
 Before publishing verify language and field completeness, valid JSON, intact
 ids/parameters/media, compatible stop-tag contents, and app 1.1.7 decoding.
+
+
+## Canonical schema for app 1.1.7
+
+This section supersedes the older numeric-field, color, timer-role and wire-value rules above.
+Exercise JSON uses `durationSeconds` for timed activities, `repeatCount` for repeat controls,
+and `initialValue` / `initialValue2` for count-and-weight activities. The canonical
+`valueType` values are `time`, `stepper`, `countAndWeight`, and `note`.
+Timed activities use `state`; do not emit `default`, `default2`, `timerRole`,
+`color`, or `colorHex`. Use `colorType` for colors. Keep all ids, technical keys,
+paths, translations, instructions and existing numeric settings unchanged when migrating.
+Runtime app metadata (downloaded PNG data and source paths) belongs outside the
+exercise JSON. Downloaded exercise payloads in SwiftData must retain the source
+JSON without extra app keys. Legacy numeric names are accepted only while migrating
+saved user data; new catalogs must contain only the canonical numeric fields.
+Product manifests use schema 3 and minimum app version 1.1.7; ready-made workouts
+use schema 2. Never modify published stop tags. The overall root catalog currently
+contains 1241 records; each product remains a subset of the categories it supports.

@@ -3,11 +3,9 @@
   "key": "kick_boxing_rear_roundhouse_kick",
   "title": "Rear Roundhouse Kick",
   "description": "1. From stance, step or load the lead foot and begin turning it away from the target.\n2. Pivot fully on the lead foot and rotate the rear hip so the shin or instep swings through the target.\n3. Recoil the kicking leg and return it behind the lead foot with both hands restored to guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки ступніть або завантажте передню стопу й почніть розвертати її від цілі.\n2. Повністю розверніться на передній стопі й доверніть задній бік таза, щоб гомілка або підйом пройшли крізь ціль.\n3. Поверніть ударну ногу за передню стопу й відновіть захист обома руками.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

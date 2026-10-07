@@ -3,11 +3,9 @@
   "key": "kendo_kihon_2",
   "title": "Kihon 2 Kote-Men",
   "description": "1. From chudan at striking distance, motodachi opens kote by lifting the tip slightly.\n2. Kakarite strikes kote, and as motodachi steps back opening men, follows at once with men in one continuous rhythm.\n3. Kakarite shows zanshin, then both return to chudan and the starting distance.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Partner Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із тюдан на дистанції удару мотодаті відкриває коте, трохи піднімаючи кінчик.\n2. Какарите б’є коте й, коли мотодаті відступає, відкриваючи мен, одразу продовжує ударом мен у безперервному ритмі.\n3. Какарите показує дзансін, потім обоє повертаються в тюдан і на початкову дистанцію.",
       "sectionTitle": "Парний кіхон"
     }
-  }
+  },
+  "state": "active"
 }

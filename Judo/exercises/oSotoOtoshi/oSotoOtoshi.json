@@ -3,11 +3,9 @@
   "key": "judo_o_soto_otoshi",
   "title": "O Soto Otoshi",
   "description": "1. Push the partner back onto one leg with the chest close.\n2. Step the leg deep behind the partner's weighted leg and plant it on the mat as a block.\n3. Drop the partner backward over the blocking leg with the hands and chest, guiding the breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Притиснувши груди, переведіть партнера назад на одну ногу.\n2. Глибоко поставте ногу за навантажену ногу партнера й упріться нею в татамі як блоком.\n3. Руками й грудьми перекиньте партнера назад через блокувальну ногу, спрямовуючи страховку.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "laamb_single_leg_takedown",
   "title": "Single-Leg Takedown",
   "description": "1. Attacker drops level and catches the partner's lead leg, holding it tight to the chest with the head inside.\n2. Lift the leg and drive or turn the partner off balance until a hand, knee, or back touches the ground.\n3. Partner hops and posts a hand to fall safely; attacker lowers the leg under control and releases after touchdown.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "laamb",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Атакувальник знижується й захоплює передню ногу партнера, щільно притискаючи її до грудей, голова всередині.\n2. Підніміть ногу й штовхайте або розвертайте партнера, доки він не торкнеться землі рукою, коліном чи спиною.\n3. Партнер підстрибує й спирається рукою, щоб безпечно впасти; атакувальник плавно опускає ногу й відпускає після торкання.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

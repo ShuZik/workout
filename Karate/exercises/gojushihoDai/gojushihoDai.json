@@ -3,11 +3,9 @@
   "key": "karate_gojushiho_dai",
   "title": "Gojushiho Dai",
   "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Perform the long pattern of flowing open-hand techniques such as one-finger spear hands and eagle-beak (washide) strikes, changing quickly between cat and front stances.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "6 Practice",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Виконайте довгу схему плавних технік відкритою рукою — нукіте одним пальцем і удари «дзьобом орла» (васіде), швидко змінюючи стійку кішки та передню стійку.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
       "sectionTitle": "Практика"
     }
-  }
+  },
+  "state": "active"
 }

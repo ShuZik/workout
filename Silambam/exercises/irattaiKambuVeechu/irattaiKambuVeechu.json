@@ -3,11 +3,9 @@
   "key": "silambam_irattai_kambu_veechu",
   "title": "Irattai Kambu Veechu",
   "description": "1. Hold a training stick in each hand in a balanced stance with enough clear space for both sticks.\n2. Spin both sticks in alternating and simultaneous circles in front of, above, and beside the body, keeping the wrists loose.\n3. Add steps and direction changes while keeping the two rotations from colliding, then return both sticks to the ready position.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "silambam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Weapons",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте по навчальній палиці в кожній руці в стійкій позиції, залишивши достатньо вільного місця для обох.\n2. Обертайте обидві палиці почерговими й одночасними колами перед собою, над головою та збоку, зберігаючи зап’ястя вільними.\n3. Додавайте кроки й зміни напрямку так, щоб два обертання не зіштовхувалися, потім поверніть обидві палиці в готову позицію.",
       "sectionTitle": "Зброя"
     }
-  }
+  },
+  "state": "active"
 }

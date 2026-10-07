@@ -3,11 +3,9 @@
   "key": "boxing_guard",
   "title": "Guard",
   "description": "1. Set a balanced boxing stance with the chin lowered and eyes looking forward beneath the brow.\n2. Hold the rear fist beside the cheek, the lead fist slightly forward, and both elbows close enough to protect the ribs.\n3. Move, punch, and defend without letting the hands drift down, returning each hand to its assigned position.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "level": 1,
   "section": "2 Base",
@@ -87,5 +84,6 @@
       "description": "1. Прийміть стійку боксерську позицію, опустіть підборіддя й дивіться вперед з-під брів.\n2. Тримайте задній кулак біля щоки, передній трохи попереду, а обидва лікті досить близько до тіла для захисту ребер.\n3. Рухайтеся, завдавайте ударів і захищайтеся, не опускаючи руки та повертаючи кожну на своє місце.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

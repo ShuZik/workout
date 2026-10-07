@@ -3,11 +3,9 @@
   "key": "forward_backward_step",
   "title": "Forward/Backward Step",
   "description": "1. Begin in boxing stance with the feet staggered, knees soft, hands high, and stance width fixed.\n2. To advance, move the lead foot first; to retreat, move the rear foot first.\n3. Slide the second foot the same distance after every step so the feet never cross or become too narrow.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15110",
     "vigorousCode": "15113"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "level": 1,
   "section": "2 Base",
@@ -87,5 +84,6 @@
       "description": "1. Почніть у боксерській стійці зі зміщеними стопами, м’якими колінами, піднятими руками та сталою шириною стійки.\n2. Для руху вперед спочатку перемістіть передню стопу; для відходу назад — задню.\n3. Після кожного кроку ковзним рухом переміщуйте другу стопу на ту саму відстань, не схрещуючи стопи й не звужуючи стійку надмірно.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "tang_soo_do_pyong_an_yi_dan",
   "title": "Pyong An Yi Dan",
   "description": "1. From ready stance, turn left into front stance with a low block, step in with a middle punch, then turn back with a low block and a downward strike.\n2. Advance up the center with three rising high blocks, the last with kihap, then cover the cross lines with low blocks and stepping punches.\n3. Finish the pattern with knife-hand blocks in back stance on the diagonals and return to ready stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки готовності поверніться ліворуч у передню стійку з нижнім блоком, ступіть з ударом у середній рівень, потім розверніться з нижнім блоком і ударом згори вниз.\n2. Просувайтеся по центру трьома верхніми висхідними блоками, останній із кіхапом, потім пройдіть поперечні лінії нижніми блоками й ударами з кроком.\n3. Завершіть схему блоками ребром долоні в задній стійці по діагоналях і поверніться в стійку готовності.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "squat_to_stand",
   "title": "Squat-to-Stand",
   "description": "1. Stand with feet just wider than the hips and hinge down to hold the toes or ankles.\n2. Lower the hips into a deep comfortable squat while lifting the chest and keeping the heels grounded.\n3. Raise the hips to lengthen the backs of the legs, then bend the knees and stand.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Dynamic Movement",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте, розставивши стопи трохи ширше таза, нахиліться від кульшових суглобів і візьміться за пальці ніг або щиколотки.\n2. Опустіть таз у комфортний глибокий присід, піднімаючи груди й залишаючи п’яти на підлозі.\n3. Підніміть таз, щоб витягнути задню поверхню ніг, потім зігніть коліна та встаньте.",
       "sectionTitle": "Динамічні рухи"
     }
-  }
+  },
+  "state": "active"
 }

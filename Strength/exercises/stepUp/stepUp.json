@@ -3,11 +3,9 @@
   "key": "functional_step_up",
   "title": "Step-Up",
   "description": "1. Face a stable step and place the whole lead foot on top with the knee aligned over the toes.\n2. Drive through the lead foot to raise the body without pushing off strongly from the trailing leg.\n3. Stand tall on the step, then lower the trailing foot and lead foot under control before switching sides.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до стійкої платформи й поставте на неї всю передню стопу, коліно над носком.\n2. Відштовхніться передньою стопою й підніміть тіло, не відштовхуючись сильно задньою ногою.\n3. Випряміться на платформі, потім контрольовано опустіть спочатку задню, а тоді передню стопу й змініть бік.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

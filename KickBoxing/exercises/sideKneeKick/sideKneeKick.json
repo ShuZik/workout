@@ -3,11 +3,9 @@
   "key": "kick_boxing_side_knee_kick",
   "title": "Side Knee Kick",
   "description": "1. From close guard, shift weight onto the supporting leg and lift the striking knee out to the side with the foot pulled back.\n2. Pivot the supporting foot and rotate the hip so the knee travels on a horizontal arc into the side of a body pad.\n3. Withdraw the knee along the same arc and place the foot back into stance with the hands still guarding.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Kicks",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із ближнього захисту перенесіть вагу на опорну ногу й підніміть ударне коліно вбік, відвівши стопу назад.\n2. Розверніться на опорній стопі й поверніть таз так, щоб коліно горизонтальною дугою ввійшло в бік лапи.\n3. Поверніть коліно тією самою дугою й поставте ногу в стійку, не опускаючи захист.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

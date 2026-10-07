@@ -3,11 +3,9 @@
   "key": "kurash_ichki_ildirma",
   "title": "Ichki Ildirma",
   "description": "1. Take a collar and belt grip and step in close, square to the partner, with the weight over your support leg.\n2. Hook your calf inside the partner's leg from between the legs and pull it out while the chest drives forward and down.\n3. Follow the partner down to a controlled landing on the back, keep your own feet, and release the grip.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "kurash",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть захват за комір і пояс та увійдіть щільно до партнера обличчям до обличчя, перенісши вагу на опорну ногу.\n2. Зачепіть литкою ногу партнера зсередини між його ногами й витягніть її, водночас тиснучи грудьми вперед і вниз.\n3. Супроводьте партнера до контрольованого падіння на спину, самі залишайтеся на ногах і відпустіть захват.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

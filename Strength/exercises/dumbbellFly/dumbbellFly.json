@@ -3,12 +3,9 @@
   "key": "strength_dumbbell_fly",
   "title": "Dumbbell Fly",
   "description": "1. Lie on a stable bench with dumbbells held above the chest and a small bend in both elbows.\n2. Open the arms in a wide arc until the chest stretches through a comfortable range while the shoulder blades stay set.\n3. Squeeze the chest to return the dumbbells above the chest without locking the elbows or dropping the shoulders forward.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Ляжте на стійку лаву, тримаючи гантелі над грудьми й злегка зігнувши обидва лікті.\n2. Розведіть руки широкою дугою до комфортного розтягнення грудей, зберігаючи лопатки зведеними.\n3. Напружте грудні м’язи й зведіть гантелі над грудьми, не випрямляючи лікті до упору й не виводячи плечі вперед.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

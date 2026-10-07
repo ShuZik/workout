@@ -3,11 +3,9 @@
   "key": "fencing_epee_parry_riposte_redouble",
   "title": "Épée: Parry, Riposte, Double Redouble",
   "description": "1. With épées and full kit, the partner attacks; you parry and riposte, and the partner parries your riposte.\n2. Without returning to guard, renew the attack twice in succession with new blade actions, for example a disengage and then a cut-over, as the partner keeps parrying or retreating.\n3. Recover to en garde after the final touch and swap roles; the partner decides when to let a renewal land.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Sequences",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі шпагою в повному спорядженні партнер атакує; ви берете захист і відповідаєте, партнер захищається від відповіді.\n2. Не повертаючись у стійку, двічі поспіль відновіть атаку новими діями клинком, наприклад переведенням, потім кюпе, поки партнер захищається чи відступає.\n3. Після останнього уколу поверніться в стійку й поміняйтеся ролями; партнер вирішує, яке відновлення пропустити.",
       "sectionTitle": "Зв'язки в парі"
     }
-  }
+  },
+  "state": "active"
 }

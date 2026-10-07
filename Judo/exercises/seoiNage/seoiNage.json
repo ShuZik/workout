@@ -3,11 +3,9 @@
   "key": "judo_seoi_nage",
   "title": "Seoi Nage",
   "description": "1. From sleeve-and-lapel control, draw the partner forward and turn under the controlled arm with the knees bent.\n2. Place the hips below the partner's center and load the torso across the back while keeping the pulling arm tight.\n3. Extend the legs and rotate the shoulders to project forward, guiding the sleeve through a controlled breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Te-waza",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із захвату рукава й відвороту потягніть партнера вперед і поверніться під контрольовану руку із зігнутими колінами.\n2. Розташуйте стегна нижче центра партнера й завантажте його тулуб на спину, щільно утримуючи руку, що тягне.\n3. Розігніть ноги й поверніть плечі для кидка вперед, спрямовуючи рукав під час контрольованого страхування.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

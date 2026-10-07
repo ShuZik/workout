@@ -3,11 +3,9 @@
   "key": "iaido_ushiro",
   "title": "Ushiro",
   "description": "1. Sit in seiza facing away from the opponent, then rise onto the toes and pivot 180 degrees to the left on the knees while drawing.\n2. Finish the turn with the left foot forward in a horizontal nukitsuke at temple height, then raise the sword and cut straight down with kirioroshi.\n3. Shake off the blade with o-chiburi, resheathe while lowering the knee, and return to seiza keeping zanshin toward the new front.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Seated Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте в сейдза спиною до суперника, підніміться на пальці й розверніться на колінах на 180 градусів ліворуч, оголюючи меч.\n2. Завершіть розворот із лівою ногою попереду горизонтальним нукіцуке на рівні скроні, потім підніміть меч і рубайте прямо вниз кіріоросі.\n3. Струсіть клинок о-тібурі, вкладіть меч, опускаючи коліно, і поверніться в сейдза, зберігаючи дзансін до нового фронту.",
       "sectionTitle": "Форми з положення сидячи"
     }
-  }
+  },
+  "state": "active"
 }

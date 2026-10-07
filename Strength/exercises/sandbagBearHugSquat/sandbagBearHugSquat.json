@@ -3,12 +3,9 @@
   "key": "sandbag_sandbag_bear_hug_squat",
   "title": "Sandbag Bear Hug Squat",
   "description": "1. Stand the sandbag upright or across the torso and hug it tightly against the chest and abdomen.\n2. Squat by sending the hips down while the feet remain flat and the trunk stays braced around the bag.\n3. Drive through the feet to stand, keeping the bag against the body throughout the repetition.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Поставте мішок вертикально або покладіть упоперек корпусу й міцно притисніть його до грудей і живота.\n2. Присідайте, опускаючи таз, тримаючи стопи на підлозі та зберігаючи корпус напруженим навколо мішка.\n3. Відштовхніться стопами й встаньте, утримуючи мішок притиснутим до тіла протягом усього повторення.",
       "sectionTitle": "Мішок із піском"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

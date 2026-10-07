@@ -3,11 +3,9 @@
   "key": "tang_soo_do_koon_san_goon",
   "title": "Koon San Goon",
   "description": "1. From ready stance, raise the open hands overhead to frame the sky between the fingers, then separate them in a wide circle.\n2. Perform knife-hand blocks, side kicks with back-fists, double-hand techniques in several directions, and a jumping turn that drops low to the floor before rising.\n3. Close with the final strikes on the main line, repeat the opening circle of the hands, and return to ready stance at the starting point.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки готовності підніміть відкриті долоні над головою, обрамивши небо між пальцями, потім розведіть їх широким колом.\n2. Виконайте блоки ребром долоні, бічні удари ногою з ударами тильним боком кулака, техніки двома руками в кількох напрямках і стрибок із поворотом з опусканням низько до підлоги перед підйомом.\n3. Завершіть фінальними ударами на основній лінії, повторіть початкове коло руками й поверніться в стійку готовності у вихідній точці.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

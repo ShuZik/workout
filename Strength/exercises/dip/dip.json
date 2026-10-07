@@ -3,11 +3,9 @@
   "key": "calisthenics_dip",
   "title": "Dip",
   "description": "1. Support the body on parallel bars with straight arms, shoulders pressed down, and legs clear of the floor.\n2. Bend the elbows back and lower only as far as the shoulders remain stable and pain-free.\n3. Press the bars down to return to straight arms without shrugging or swinging.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Обіпріться на паралельні бруси прямими руками, опустивши плечі й відірвавши ноги від підлоги.\n2. Згинайте лікті назад і опускайтеся лише настільки, наскільки плечі лишаються стабільними й без болю.\n3. Тисніть на бруси вниз, повертаючись до прямих рук, не піднімаючи плечей і не розгойдуючись.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

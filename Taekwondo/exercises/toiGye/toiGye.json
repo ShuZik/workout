@@ -3,11 +3,9 @@
   "key": "taekwondo_toi_gye",
   "title": "Toi-Gye",
   "description": "1. Start in closed ready stance B and perform the 37-movement pattern, opening with an inner forearm block in L-stance and a low upset fingertip thrust.\n2. Include the side back-fist strikes, the W-shape blocks travelling in sitting stance with stamping steps, the X-fist pressing block and the knee kick while pulling with both hands.\n3. Finish with the double arc-hand blocks and closing punches, then return to closed ready stance B.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із закритої готової стійки B й виконайте туль із 37 рухів, відкривши його блоком внутрішнім боком передпліччя в L-подібній стійці та низьким перевернутим тичком пальцями.\n2. Додайте бічні удари тильним боком кулака, W-подібні блоки з переміщенням у стійці вершника з притупуванням, притискний блок схрещеними кулаками та удар коліном із притягуванням двома руками.\n3. Завершіть подвійними блоками дугою долоні й завершальними ударами та поверніться в закриту готову стійку B.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

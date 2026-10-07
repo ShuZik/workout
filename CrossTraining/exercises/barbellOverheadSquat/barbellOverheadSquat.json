@@ -3,12 +3,9 @@
   "key": "cross_training_barbell_overhead_squat",
   "title": "Barbell Overhead Squat",
   "description": "1. Take a wide grip and lock the bar overhead with active shoulders, feet in squat stance, and trunk braced.\n2. Squat while the bar remains stacked over the midfoot and the knees track in the direction of the toes.\n3. Reach controlled depth, then drive through the feet to stand without letting the bar drift forward.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Візьміть гриф широким хватом і зафіксуйте штангу над головою, плечі активні, стопи в стійці для присідання, корпус напружений.\n2. Присідайте, утримуючи штангу над серединою стопи, коліна йдуть у напрямку носків.\n3. Опустіться на контрольовану глибину й відштовхніться стопами вгору, не дозволяючи штанзі йти вперед.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

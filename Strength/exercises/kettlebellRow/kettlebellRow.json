@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_row",
   "title": "Kettlebell Row",
   "description": "1. Take a staggered stance, hinge with a neutral spine, and support the free hand if needed.\n2. Pull the kettlebell toward the lower ribs while the elbow travels close to the body and the torso remains still.\n3. Lower the bell until the arm is straight, finish the repetitions, and switch sides.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте в розніжку, нахиліться в кульшових суглобах із нейтральною спиною й за потреби обіпріться вільною рукою.\n2. Тягніть гирю до нижніх ребер, проводячи лікоть близько до тіла й зберігаючи корпус нерухомим.\n3. Опустіть гирю до випрямлення руки, виконайте повторення й змініть бік.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

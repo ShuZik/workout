@@ -3,11 +3,9 @@
   "key": "savate",
   "title": "Savate",
   "description": "1. Wear savate shoes and gloves and take a side-on guard with the lead hand forward, knees soft and weight slightly on the rear leg.\n2. Move with small steps and combine the savate kicks fouetté, chassé, revers and coup de pied bas with straight punches, hooks and uppercuts.\n3. Touch only with the shoe or glove, never the shin or knee, and recover guard and distance after every combination.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "savate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Взуйте взуття для савату й одягніть рукавиці, станьте в бічну стійку з висунутою передньою рукою, м’якими колінами й вагою трохи більше на задній нозі.\n2. Пересувайтеся короткими кроками й поєднуйте удари ногами фуете, шасе, ревер і ку-де-п’є-ба з прямими, боковими й аперкотами.\n3. Торкайтеся лише взуттям або рукавицею, ніколи гомілкою чи коліном, і після кожної зв’язки відновлюйте захист і дистанцію.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

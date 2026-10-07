@@ -3,11 +3,9 @@
   "key": "chidaoba_kauri",
   "title": "Kauri",
   "description": "1. Grip the chokha flap with one hand and reach over the partner's shoulder to the belt with the other.\n2. Wrap your leg inside the partner's leg, then lift with the leg and hips to break balance and draw the partner in.\n3. Turn the partner over onto the back with a controlled landing, then release and wait for the partner to stand.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "chidaoba",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Однією рукою візьміться за полу чохи, другою через плече партнера візьміться за пояс.\n2. Обвийте ногу партнера зсередини своєю ногою, потім підніміть ногою й тазом, виводячи його з рівноваги й притягуючи до себе.\n3. Переверніть партнера на спину з контрольованим приземленням, відпустіть і зачекайте, доки він підведеться.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

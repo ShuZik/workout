@@ -3,11 +3,9 @@
   "key": "cross_training_box_jump",
   "title": "Box Jump",
   "description": "1. Stand facing a stable box with enough clearance and choose a height that allows a controlled landing.\n2. Swing the arms, load the hips, and jump to land with both feet fully on the box and knees softly bent.\n3. Stand tall, then step down under control rather than rebounding from the edge.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02035",
     "vigorousCode": "02040"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Bodyweight",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до стійкої тумби з вільним простором навколо й оберіть висоту, що дозволяє контрольоване приземлення.\n2. Змахніть руками, завантажте таз і стрибніть, приземлившись обома стопами повністю на тумбу з м’яко зігнутими колінами.\n3. Випряміться, потім підконтрольно зійдіть униз кроком, а не відскакуйте з краю.",
       "sectionTitle": "Власна вага"
     }
-  }
+  },
+  "state": "active"
 }

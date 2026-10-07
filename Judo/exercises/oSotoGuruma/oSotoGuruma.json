@@ -3,11 +3,9 @@
   "key": "judo_o_soto_guruma",
   "title": "O Soto Guruma",
   "description": "1. Push the partner's weight backward onto both legs with the upper body controlled.\n2. Step deep beside the partner and swing the reaping leg behind both of the partner's legs.\n3. Drive the upper body back so the partner wheels over the leg axis, holding the sleeve for a back breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Контролюючи тулуб, переведіть вагу партнера назад на обидві ноги.\n2. Глибоко ступіть збоку від партнера й заведіть підсікаючу ногу за обидві його ноги.\n3. Штовхайте тулуб назад, щоб партнер перекинувся через вісь ноги, утримуючи рукав для страховки на спину.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

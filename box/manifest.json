@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "productID": "boxing",
-  "minimumAppVersion": "1.1.5",
+  "minimumAppVersion": "1.1.7",
   "tags": [
     {
       "colorType": "red",
@@ -7787,6 +7787,38 @@
     {
       "icon": "box/exercises/SportsChanbara/shiaiBout/Icon.png",
       "json": "box/exercises/SportsChanbara/shiaiBout/shiaiBout.json"
+    },
+    {
+      "json": "box/exercises/WarmUp/scapularPushUp/scapularPushUp.json",
+      "icon": "box/exercises/WarmUp/scapularPushUp/Icon.png"
+    },
+    {
+      "json": "box/exercises/WarmUp/wallSlide/wallSlide.json",
+      "icon": "box/exercises/WarmUp/wallSlide/Icon.png"
+    },
+    {
+      "json": "box/exercises/WarmUp/hipHingeDrill/hipHingeDrill.json",
+      "icon": "box/exercises/WarmUp/hipHingeDrill/Icon.png"
+    },
+    {
+      "json": "box/exercises/WarmUp/lateralShuffle/lateralShuffle.json",
+      "icon": "box/exercises/WarmUp/lateralShuffle/Icon.png"
+    },
+    {
+      "json": "box/exercises/Cooldown/wristFlexorStretch/wristFlexorStretch.json",
+      "icon": "box/exercises/Cooldown/wristFlexorStretch/Icon.png"
+    },
+    {
+      "json": "box/exercises/Cooldown/wristExtensorStretch/wristExtensorStretch.json",
+      "icon": "box/exercises/Cooldown/wristExtensorStretch/Icon.png"
+    },
+    {
+      "json": "box/exercises/Cooldown/soleusStretch/soleusStretch.json",
+      "icon": "box/exercises/Cooldown/soleusStretch/Icon.png"
+    },
+    {
+      "json": "box/exercises/Cooldown/standingSideStretch/standingSideStretch.json",
+      "icon": "box/exercises/Cooldown/standingSideStretch/Icon.png"
     }
   ],
   "workouts": [

@@ -3,11 +3,9 @@
   "key": "kendo_kihon_9",
   "title": "Kihon 9 Do-Uchiotoshi-Men",
   "description": "1. Both stand in chudan; motodachi steps in and strikes do.\n2. Kakarite steps diagonally back to the left, knocks motodachi's bokuto down to the right, and immediately strikes men.\n3. Kakarite shows zanshin, and both return to chudan.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Partner Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обоє в тюдан; мотодаті входить і б’є до.\n2. Какарите відступає по діагоналі назад ліворуч, збиває бокен мотодаті вниз праворуч і одразу б’є мен.\n3. Какарите показує дзансін, обоє повертаються в тюдан.",
       "sectionTitle": "Парний кіхон"
     }
-  }
+  },
+  "state": "active"
 }

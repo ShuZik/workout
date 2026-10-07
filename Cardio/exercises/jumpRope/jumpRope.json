@@ -3,11 +3,9 @@
   "key": "cardio_jump_rope",
   "title": "Jump Rope",
   "description": "1. Hold one handle in each hand with elbows close to the ribs and place the rope behind the heels.\n2. Turn the rope mainly with the wrists and make a small jump as it approaches the feet.\n3. Land softly on the balls of the feet with knees slightly bent and keep each jump low.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15551",
     "vigorousCode": "15550"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Conditioning",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте по одному руків’ю в кожній руці, лікті близько до ребер, а скакалку розташуйте позаду п’ят.\n2. Обертайте скакалку переважно зап’ястками й робіть невеликий стрибок, коли вона наближається до стоп.\n3. М’яко приземляйтеся на передню частину стоп зі злегка зігнутими колінами й зберігайте кожен стрибок низьким.",
       "sectionTitle": "Фізична підготовка"
     }
-  }
+  },
+  "state": "active"
 }

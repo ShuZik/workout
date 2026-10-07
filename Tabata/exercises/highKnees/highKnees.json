@@ -3,11 +3,9 @@
   "key": "tabata_high_knees",
   "title": "High Knees",
   "description": "1. Stand tall with feet under the hips and elbows bent at the sides.\n2. Run in place while lifting each knee toward hip height and driving the opposite arm forward.\n3. Land lightly under the body and reduce knee height before posture or rhythm is lost.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "tabata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "2 Full Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте прямо, стопи під тазом, лікті зігнуті біля боків.\n2. Біжіть на місці, піднімаючи кожне коліно до рівня таза й виносячи вперед протилежну руку.\n3. М’яко приземляйтеся під корпусом і зменшуйте висоту колін, перш ніж порушаться постава або ритм.",
       "sectionTitle": "Усе тіло"
     }
-  }
+  },
+  "state": "intense"
 }

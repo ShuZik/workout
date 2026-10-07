@@ -3,11 +3,9 @@
   "key": "yagli_gures",
   "title": "Yagli Gures",
   "description": "1. Begin on grass or mats with a trained partner, both in wrestling breeches, after a short peşrev warm-up.\n2. Grip the arms, neck, and breeches and work to lift, turn, or trip the partner onto the back.\n3. Control every fall, stop when the partner's back or both elbows touch, and reset standing.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "yagliGures",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Після короткої розминки пешрев почніть на траві або килимі з підготовленим партнером, обидва в борцівських штанях.\n2. Захоплюйте руки, шию й штани та намагайтеся підняти, розвернути чи підбити партнера на спину.\n3. Контролюйте кожне падіння, зупиняйтеся, коли партнер торкнеться спиною або обома ліктями, і починайте знову в стійці.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

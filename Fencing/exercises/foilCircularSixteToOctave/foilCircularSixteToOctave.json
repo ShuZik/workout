@@ -3,11 +3,9 @@
   "key": "fencing_foil_circular_sixte_octave",
   "title": "Foil: Circular Sixte to Octave",
   "description": "1. With foils and full kit, start engaged in sixte; the partner disengages to the inside line and then drops to the low outside line.\n2. Take a circular parry of sixte against the disengage, then a semi-circular parry to octave against the low attack, keeping both actions small.\n3. Riposte from octave, recover to en garde, and swap roles; slow down whenever a parry is missed.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Sequences",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із рапірою в повному спорядженні почніть зі з’єднання в шостій; партнер переводить у внутрішню лінію, потім опускає вістря в нижню зовнішню.\n2. Проти переведення візьміть коловий шостий, потім проти нижньої атаки півколовий восьмий, обидві дії малі.\n3. Відповідайте з восьмого, поверніться в стійку й поміняйтеся ролями; за пропущеного захисту знижуйте швидкість.",
       "sectionTitle": "Зв'язки в парі"
     }
-  }
+  },
+  "state": "active"
 }

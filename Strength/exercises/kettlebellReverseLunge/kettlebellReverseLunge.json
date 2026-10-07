@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_reverse_lunge",
   "title": "Kettlebell Reverse Lunge",
   "description": "1. Hold the kettlebell securely at the chest, in one rack, or beside the body and stand tall.\n2. Step one leg back and lower both knees while the front foot remains fully grounded.\n3. Drive through the front foot to stand, return the rear leg, and repeat on the other side.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Надійно тримайте гирю біля грудей, у положенні «на грудях» однією рукою або збоку від тіла й станьте рівно.\n2. Ступіть однією ногою назад і опустіть обидва коліна, тримаючи передню стопу повністю на підлозі.\n3. Відштовхніться передньою стопою й встаньте, поверніть задню ногу та повторіть на інший бік.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

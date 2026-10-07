@@ -3,12 +3,9 @@
   "key": "functional_dumbbell_split_squat",
   "title": "Dumbbell Split Squat",
   "description": "1. Hold dumbbells beside the body and take a stable staggered stance with the rear heel raised.\n2. Lower the rear knee while the front knee tracks over the toes and the torso remains upright.\n3. Drive through the front foot to rise without changing foot position, then switch the lead leg.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте гантелі по боках і станьте в стійку розніжку, піднявши задню п’яту.\n2. Опускайте заднє коліно, спрямовуючи переднє коліно за лінією носка й зберігаючи тулуб вертикальним.\n3. Відштовхніться передньою стопою й підніміться, не змінюючи положення стоп, потім змініть передню ногу.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

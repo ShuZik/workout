@@ -3,11 +3,9 @@
   "key": "kick_boxing_lead_front_kick",
   "title": "Lead Front Kick",
   "description": "1. From stance, shift weight to the rear leg and lift the lead knee directly in front of the body.\n2. Extend the lower leg and drive the ball or heel of the foot into the target while keeping the guard high.\n3. Recoil the foot to the chamber first, then place it down in the original stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки перенесіть вагу на задню ногу й підніміть переднє коліно прямо перед собою.\n2. Випряміть гомілку й вбийте подушечку стопи або п’яту в ціль, тримаючи захист високо.\n3. Спочатку поверніть стопу в положення підйому коліна, потім поставте її у вихідну стійку.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "fencing_opposition_parry",
   "title": "Opposition Parry against Coulé",
   "description": "1. With épée or foil, let the partner engage and attack with a coulé sliding along your blade.\n2. Keep the contact and close the line by turning the hand and pressing your strong against the partner's blade, deflecting the point without losing the blade.\n3. Riposte while maintaining opposition, recover to en garde, and swap roles after the set.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Parries",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі шпагою чи рапірою дозвольте партнерові взяти з’єднання й атакувати ковзанням по вашому клинку.\n2. Зберігаючи контакт, закрийте лінію поворотом кисті й натиском сильної частини на клинок партнера, відводячи вістря, не втрачаючи клинка.\n3. Відповідайте, зберігаючи опозицію, поверніться в стійку й поміняйтеся ролями після серії.",
       "sectionTitle": "Захисти"
     }
-  }
+  },
+  "state": "active"
 }

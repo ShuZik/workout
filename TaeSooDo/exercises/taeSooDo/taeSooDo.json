@@ -3,11 +3,9 @@
   "key": "tae_soo_do_main",
   "title": "Tae Soo Do",
   "description": "1. Start in a fighting stance with hands up, knees soft, and weight balanced between the feet.\n2. Drill basic strikes, kicks, blocks, and footwork in short combinations, then link them into a form-like sequence.\n3. Return to stance after each combination, keep techniques controlled, and breathe steadily through the interval.",
-  "color": "#EA7CC7",
   "colorType": "pink",
   "workoutType": "taeSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у бойовій стійці, руки підняті, коліна м’які, вага розподілена між стопами.\n2. Відпрацьовуйте базові удари руками й ногами, блоки й пересування короткими зв’язками, потім об’єднайте їх у послідовність на зразок форми.\n3. Повертайтеся в стійку після кожної зв’язки, контролюйте техніку й дихайте рівно весь інтервал.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

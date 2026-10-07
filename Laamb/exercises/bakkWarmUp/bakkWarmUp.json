@@ -3,11 +3,9 @@
   "key": "laamb_bakk_warm_up",
   "title": "Bakk Warm-Up",
   "description": "1. Move around the circle with rhythmic steps to drumming or clapping, as wrestlers do during the bakk entrance.\n2. Swing the arms, roll the shoulders and hips, and add light squats and lunges in time with the beat.\n3. Raise the pace gradually until fully warm, then finish with a few deep breaths before grappling.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "laamb",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Рухайтеся по колу ритмічними кроками під барабани чи оплески, як борці під час виходу з бакком.\n2. Розгойдуйте руки, обертайте плечима й стегнами, додавайте в такт легкі присідання та випади.\n3. Поступово підвищуйте темп до повного розігріву й завершіть кількома глибокими вдихами перед боротьбою.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

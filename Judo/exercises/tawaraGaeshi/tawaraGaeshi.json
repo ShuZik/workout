@@ -3,11 +3,9 @@
   "key": "judo_tawara_gaeshi",
   "title": "Tawara Gaeshi",
   "description": "1. As a trained partner shoots low for the legs, wrap both arms around the partner's torso from above.\n2. Squeeze the partner's body to your chest and sit back onto your own back.\n3. Roll the partner over your head and shoulder to the mat behind you, releasing the wrap as the partner rolls through.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер низько проходить у ноги, обхопіть його тулуб обома руками зверху.\n2. Притисніть тіло партнера до грудей і сядьте назад на спину.\n3. Перекотіть партнера через свою голову й плече на татамі позаду себе, розтискаючи обхват під час перекату.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

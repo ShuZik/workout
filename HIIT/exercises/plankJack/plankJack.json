@@ -3,11 +3,9 @@
   "key": "bootcamp_plank_jack",
   "title": "Plank Jack",
   "description": "1. Start in a high plank with hands under shoulders, legs together, and hips level.\n2. Jump both feet apart while the shoulders and pelvis remain steady.\n3. Jump the feet together and continue without letting the lower back sag.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "intermediate",
   "section": "3 Bootcamp",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у високій планці: долоні під плечима, ноги разом, таз рівний.\n2. Стрибком розведіть обидві стопи в сторони, зберігаючи плечі й таз нерухомими.\n3. Стрибком зведіть стопи разом і продовжуйте, не допускаючи провисання попереку.",
       "sectionTitle": "Буткемп"
     }
-  }
+  },
+  "state": "intense"
 }

@@ -3,12 +3,9 @@
   "key": "cross_training_thruster",
   "title": "Thruster",
   "description": "1. Hold a barbell or dumbbells at the shoulders with feet under the hips and the trunk braced.\n2. Descend into a controlled front squat with knees tracking over the toes and the chest lifted.\n3. Drive through the floor to stand and use the leg drive to press the load overhead before returning it to the shoulders.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте штангу чи гантелі на рівні плечей, стопи під тазом, корпус напружений.\n2. Підконтрольно опустіться у фронтальне присідання, коліна над носками, груди підняті.\n3. Відштовхніться від підлоги, підводячись, і за рахунок поштовху ногами вижміть вагу над головою, потім поверніть її на плечі.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

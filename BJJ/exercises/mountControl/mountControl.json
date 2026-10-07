@@ -3,11 +3,9 @@
   "key": "bjj_mount_control",
   "title": "Mount Control",
   "description": "1. Kneel astride the partner's torso with the knees wide, hips low, and feet clear of the partner's legs.\n2. Follow bridges by posting a hand or shifting the hips while keeping the chest centered over the partner.\n3. Recenter after every movement and maintain pressure through the hips rather than squeezing the ribs with the knees.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Positions",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на коліна верхи на тулуб партнера: коліна широко, таз низько, стопи не чіпляють його ноги.\n2. Слідуйте за мостами, виставляючи руку або зміщуючи таз, і тримайте груди по центру над партнером.\n3. Повертайтеся в центр після кожного руху й тисніть тазом, а не стискайте ребра колінами.",
       "sectionTitle": "Позиції"
     }
-  }
+  },
+  "state": "active"
 }

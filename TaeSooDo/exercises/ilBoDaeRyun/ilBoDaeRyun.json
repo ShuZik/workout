@@ -3,11 +3,9 @@
   "key": "tae_soo_do_il_bo_dae_ryun",
   "title": "Il Bo Dae Ryun",
   "description": "1. Face a partner at one step's distance; the attacker announces readiness and steps back into a stance with a prescribed punch or kick ready.\n2. The attacker steps in with the single agreed attack; the defender blocks or evades and answers with the prescribed counter, stopping short of contact or with light pad contact.\n3. Both return to the start positions, repeat the sequence on the other side, and switch roles after each set.",
-  "color": "#EA7CC7",
   "colorType": "pink",
   "workoutType": "taeSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти партнера на відстані одного кроку; атакувальник повідомляє про готовність і відступає в стійку з підготовленим приписаним ударом рукою чи ногою.\n2. Атакувальник входить однією обумовленою атакою; захисник блокує або ухиляється й відповідає приписаною контратакою, зупиняючи її до контакту чи з легким торканням захисту.\n3. Обидва повертаються у вихідне положення, повторюють зв’язку в інший бік і міняються ролями після кожної серії.",
       "sectionTitle": "Вправи в парі"
     }
-  }
+  },
+  "state": "active"
 }

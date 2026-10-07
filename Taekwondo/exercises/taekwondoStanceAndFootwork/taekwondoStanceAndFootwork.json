@@ -3,11 +3,9 @@
   "key": "taekwondo_stance_and_footwork",
   "title": "Taekwondo Stance and Footwork",
   "description": "1. Place one foot forward with the body slightly side-on, knees soft, heels light, and hands protecting the head and torso.\n2. Slide forward, backward, and laterally by moving the nearest foot first without bringing the feet together.\n3. Add small pivots and stance switches while keeping the hips balanced and ready to chamber either leg.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Stances",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте одну стопу попереду, злегка поверніть тіло боком, пом’якшіть коліна, полегшіть п’яти й захищайте руками голову та корпус.\n2. Ковзайте вперед, назад і вбік, першою рухаючи найближчу до напрямку стопу, не зводячи ноги разом.\n3. Додайте невеликі розвороти й зміни стійки, зберігаючи таз збалансованим і готовим до підйому будь-якої ноги.",
       "sectionTitle": "Стійки"
     }
-  }
+  },
+  "state": "active"
 }

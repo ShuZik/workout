@@ -3,11 +3,9 @@
   "key": "sports_chanbara_kihon_dosa_practice",
   "title": "Kihon Dosa Practice",
   "description": "1. Stand in guard with the kodachi and perform the basic strikes in place: men, kote, do, and ashi.\n2. Repeat each strike while moving forward and back with footwork, making every motion crisp and identical.\n3. Finish each movement in guard with the tip on the centre line, holding good posture as if being graded.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку з кодачі й виконайте на місці базові удари: мен, коте, до та аші.\n2. Повторюйте кожен удар із пересуванням уперед і назад, роблячи кожен рух чітким і однаковим.\n3. Завершуйте кожен рух у стійці з вістрям на центральній лінії, зберігаючи поставу, як на атестації.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

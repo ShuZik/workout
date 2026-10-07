@@ -3,11 +3,9 @@
   "key": "kick_boxing_task_sparring_rhythm",
   "title": "Task Sparring: Rhythm Breaking",
   "description": "1. With a coach present and full protective equipment, set the task of changing tempo, mixing slow feints with sudden fast attacks.\n2. Spar at light contact and follow selected attacks immediately with a second attack, such as a double jab or a repeated kick.\n3. Return to guard after every burst, swap roles between rounds, and stop at the coach's call or any loss of control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. У присутності тренера й у повному спорядженні поставте завдання змінювати темп, поєднуючи повільні фінти з раптовими швидкими атаками.\n2. Проводьте спаринг із легким контактом і одразу доповнюйте окремі атаки другою, наприклад подвійним джебом чи повторним ударом ногою.\n3. Після кожної серії повертайтеся в захист, міняйтеся ролями між раундами й зупиняйтеся за командою тренера або в разі втрати контролю.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

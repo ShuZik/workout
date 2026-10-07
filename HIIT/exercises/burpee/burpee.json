@@ -3,11 +3,9 @@
   "key": "bootcamp_burpee",
   "title": "Burpee",
   "description": "1. Stand with the feet about hip-width apart, then squat and place both hands on the floor.\n2. Step or jump the feet back to a stable plank, then bring them forward outside or behind the hands.\n3. Stand tall or jump vertically, land softly, and bend the knees before starting the next repetition.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "3 Bootcamp",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте, поставивши стопи приблизно на ширині таза, потім присядьте й поставте обидві долоні на підлогу.\n2. Кроком або стрибком відведіть ноги назад у стійку планку, потім поверніть їх уперед — назовні від долонь або позаду них.\n3. Випряміться або підстрибніть вертикально вгору, м'яко приземліться й зігніть коліна, перш ніж почати наступне повторення.",
       "sectionTitle": "Буткемп"
     }
-  }
+  },
+  "state": "intense"
 }

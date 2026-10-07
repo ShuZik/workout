@@ -3,11 +3,9 @@
   "key": "judo_kataha_jime",
   "title": "Kataha Jime",
   "description": "1. From behind, grip the partner's far collar deep with one arm passing around the neck.\n2. Slide the other arm under the partner's near armpit, lift that arm, and place the hand behind the partner's neck.\n3. Push the neck forward with the hand while the collar arm draws across and release at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ззаду глибоко захопіть дальній комір партнера рукою, що проходить навколо шиї.\n2. Іншу руку проведіть під ближню пахву партнера, підніміть його руку й покладіть долоню йому на потилицю.\n3. Штовхайте потилицю рукою вперед, поки рука на комірі тягне поперек, і відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

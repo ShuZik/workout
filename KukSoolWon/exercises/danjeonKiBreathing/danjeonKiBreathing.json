@@ -3,11 +3,9 @@
   "key": "kuk_sool_won_danjeon_breathing",
   "title": "Danjeon Ki Breathing",
   "description": "1. Sit cross-legged or stand with the spine upright, shoulders relaxed, and hands resting below the navel.\n2. Inhale slowly through the nose into the lower abdomen, hold briefly, then exhale through the mouth while keeping the abdomen firm.\n3. Continue at a calm, even pace for the round, keeping the attention on the danjeon below the navel.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kukSoolWon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте зі схрещеними ногами або встаньте, випрямивши хребет, розслабивши плечі й поклавши руки нижче пупка.\n2. Повільно вдихніть носом у низ живота, ненадовго затримайте подих, потім видихніть ротом, тримаючи живіт пружним.\n3. Продовжуйте в спокійному рівному темпі весь раунд, утримуючи увагу на даньчжон нижче пупка.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

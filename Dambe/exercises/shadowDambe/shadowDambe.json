@@ -3,11 +3,9 @@
   "key": "dambe_shadow_dambe",
   "title": "Shadow Dambe",
   "description": "1. Take the dambe stance in open space and picture an opponent just beyond the reach of your shield hand.\n2. Combine steps, shield-hand reaches and covers, straight spear punches, and an occasional lead-leg kick.\n3. Return to guard after each combination and keep the punches relaxed so the elbow and shoulder never lock out hard.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "dambe",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15125",
     "vigorousCode": "15100"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку дамбе на вільному місці й уявіть суперника трохи далі за досяжність руки-щита.\n2. Поєднуйте кроки, винесення й прикриття рукою-щитом, прямі удари рукою-списом та зрідка удар передньою ногою.\n3. Після кожної зв'язки повертайтеся в захист і бийте розслаблено, щоб лікоть і плече ніколи не випрямлялися до упору.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

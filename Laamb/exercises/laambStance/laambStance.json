@@ -3,11 +3,9 @@
   "key": "laamb_stance",
   "title": "Laamb Stance",
   "description": "1. Set the feet wider than the shoulders, bend the knees, lower the hips, and bring the chest forward over the knees.\n2. Hold the hands in front at chest height with the elbows in, ready to meet the opponent's arms.\n3. Circle and shuffle on the sand without crossing the feet, keeping the stance low and balanced.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "laamb",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Поставте стопи ширше за плечі, зігніть коліна, опустіть таз і подайте груди вперед над колінами.\n2. Тримайте руки перед собою на рівні грудей, лікті притиснуті, готові зустріти руки суперника.\n3. Пересувайтеся по колу приставним кроком по піску, не схрещуючи ноги й зберігаючи низьку стійку та рівновагу.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

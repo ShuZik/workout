@@ -3,11 +3,9 @@
   "key": "bootcamp_mountain_climber",
   "title": "Mountain Climber",
   "description": "1. Start in a high plank with hands under shoulders, legs extended, and hips level.\n2. Drive one knee toward the chest without rounding the back or shifting the shoulders behind the hands.\n3. Return that foot to plank and alternate legs while keeping the pelvis steady.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "intermediate",
   "section": "3 Bootcamp",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у високій планці: долоні під плечима, ноги прямі, таз рівний.\n2. Підтягніть одне коліно до грудей, не округлюючи спину й не зміщуючи плечі назад за лінію долонь.\n3. Поверніть стопу в положення планки й чергуйте ноги, зберігаючи таз нерухомим.",
       "sectionTitle": "Буткемп"
     }
-  }
+  },
+  "state": "intense"
 }

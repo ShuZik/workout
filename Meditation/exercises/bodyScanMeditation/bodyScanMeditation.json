@@ -3,11 +3,9 @@
   "key": "meditation_body_scan_meditation",
   "title": "Body Scan Meditation",
   "description": "1. Lie or sit comfortably and begin with sensations in the feet.\n2. Move attention in order through the legs, pelvis, abdomen, back, chest, hands, arms, neck, face, and head.\n3. Notice pressure, temperature, tension, or absence of sensation in each area, then finish by sensing the whole body.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Mindfulness",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Зручно ляжте або сядьте й почніть із відчуттів у стопах.\n2. Послідовно переміщуйте увагу через ноги, таз, живіт, спину, груди, кисті, руки, шию, обличчя й голову.\n3. Помічайте тиск, температуру, напруження або відсутність відчуттів у кожній ділянці, потім завершіть, відчуваючи все тіло.",
       "sectionTitle": "Усвідомленість"
     }
-  }
+  },
+  "state": "active"
 }

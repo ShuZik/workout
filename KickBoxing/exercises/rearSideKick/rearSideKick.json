@@ -3,11 +3,9 @@
   "key": "kick_boxing_rear_side_kick",
   "title": "Rear Side Kick",
   "description": "1. Turn the body side-on, shift weight to the lead leg, and chamber the rear knee across the torso.\n2. Pivot the supporting foot and extend the rear heel straight into the target with the hip behind it.\n3. Pull the heel back to the chamber and return the rear foot to its original position under control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Розверніться боком, перенесіть вагу на передню ногу й підтягніть заднє коліно впоперек корпусу.\n2. Розверніть опорну стопу й випряміть задню п’яту точно в ціль, подаючи за нею таз.\n3. Поверніть п’яту в положення підйому коліна й контрольовано поставте задню стопу на місце.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

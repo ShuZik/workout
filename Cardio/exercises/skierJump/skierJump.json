@@ -3,11 +3,9 @@
   "key": "jump_rope_skier_jump",
   "title": "Skier Jump",
   "description": "1. Start with feet together, knees soft, and a low basic bounce.\n2. Shift the feet and knees together to one side as the rope passes.\n3. Rebound to the opposite side on the next turn while the torso remains centered.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15551",
     "vigorousCode": "15550"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Jump Rope",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть зі стопами разом, м’якими колінами й низьким базовим стрибком.\n2. Перемістіть стопи й коліна разом в один бік, коли скакалка проходить.\n3. На наступному оберті відстрибніть у протилежний бік, зберігаючи тулуб по центру.",
       "sectionTitle": "Скакалка"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "sports_chanbara_main",
   "title": "Sports Chanbara",
   "description": "1. Hold an air-filled kodachi in a relaxed one-handed grip, stand light on the feet, and keep the free hand away from the target zone.\n2. Move in and out of range and deliver quick controlled strikes to the head, wrist, trunk, and legs, using footwork rather than strength.\n3. Recover your guard after each strike; in sparring wear the face mask and stop at once when a hit is called.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте надувний кодаті однією рукою розслабленим хватом, стійте легко на ногах і приберіть вільну руку із зони ураження.\n2. Входьте в дистанцію й виходьте з неї, завдаючи швидких контрольованих ударів у голову, зап’ястя, корпус і ноги за рахунок роботи ніг, а не сили.\n3. Після кожного удару відновлюйте захист; у поєдинку вдягайте маску й одразу зупиняйтеся, коли оголошено влучання.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

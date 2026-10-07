@@ -3,11 +3,9 @@
   "key": "karate_fighting_stance",
   "title": "Fighting Stance",
   "description": "1. Place one foot forward and the other back with enough width to keep the hips balanced rather than standing on one line.\n2. Bend the knees lightly, keep the torso upright, tuck the chin, and hold both hands where they can strike or block.\n3. Slide and pivot without crossing the feet, returning to the same stance length and guard after each movement.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Stances",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте одну стопу вперед, іншу назад із такою шириною, щоб таз був стійким, а не на одній лінії.\n2. Злегка зігніть коліна, тримайте корпус прямо, підберіть підборіддя й тримайте обидві руки там, звідки можна вдарити або блокувати.\n3. Ковзайте й розвертайтеся, не схрещуючи стопи, і після кожного руху повертайтеся до тієї ж довжини стійки та захисту.",
       "sectionTitle": "Стійки"
     }
-  }
+  },
+  "state": "active"
 }

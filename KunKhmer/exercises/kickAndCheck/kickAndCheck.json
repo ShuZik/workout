@@ -3,11 +3,9 @@
   "key": "kun_khmer_kick_and_check",
   "title": "Kick and Check",
   "description": "1. From stance, throw a rear body roundhouse kick and recoil it back into stance.\n2. Immediately lift the lead shin into a check as if answering the opponent's return kick, keeping both hands high.\n3. Set the checking foot down, restore balance and guard, then repeat the sequence on rhythm.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "kunKhmer",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки завдайте задньою ногою кругового удару в корпус і поверніть ногу в стійку.\n2. Одразу підніміть передню гомілку в блок, ніби відповідаючи на зустрічний удар суперника, обидві руки високо.\n3. Поставте блокувальну ногу, відновіть рівновагу й захист і повторюйте зв’язку в ритмі.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "vo_co_truyen_bach_hac_son_quyen",
   "title": "Bach Hac Son Quyen",
   "description": "1. Stand at the starting point in a ready posture and perform the opening salute of Bach Hac Son Quyen.\n2. Link the hand techniques, kicks, one-leg balances and stance transitions of the form in the set order, holding each balance under control.\n3. Finish back at the starting point with the closing salute and hold the ready posture briefly before resetting.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "voCoTruyen",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте у вихідну точку в готовій стійці й виконайте початкове привітання форми Bach Hac Son Quyen.\n2. Поєднуйте техніки рук, удари ногами, рівноваги на одній нозі та зміни стійок форми в заданому порядку, утримуючи кожну рівновагу під контролем.\n3. Завершіть у вихідній точці заключним привітанням і ненадовго затримайтеся в готовій стійці, перш ніж почати знову.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

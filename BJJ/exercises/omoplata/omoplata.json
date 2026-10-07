@@ -3,11 +3,9 @@
   "key": "bjj_omoplata",
   "title": "Omoplata",
   "description": "1. From guard, control one wrist, open the guard, and swing the leg over that shoulder while turning the hips away.\n2. Sit up facing the partner's feet with the trapped arm bent behind your hip and the partner's hips pinned by your far arm.\n3. Lean forward and move the hips slowly to rotate the shoulder, releasing immediately at a tap or verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Submissions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З гарду контролюйте одне зап’ястя, розкрийте гард і перенесіть ногу через це плече, розвертаючи таз.\n2. Сядьте обличчям до ніг партнера: захоплена рука зігнута за вашим стегном, дальньою рукою притисніть його таз.\n3. Нахиліться вперед і повільно зміщуйте таз, обертаючи плече, та негайно відпустіть після плеску чи голосового сигналу.",
       "sectionTitle": "Больові й задушливі"
     }
-  }
+  },
+  "state": "active"
 }

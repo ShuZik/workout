@@ -3,11 +3,9 @@
   "key": "kick_boxing_step_in_low_kick_counter",
   "title": "Step-In Counter to the Supporting Leg",
   "description": "1. The feeder throws a slow roundhouse kick to the body while both partners wear shin guards and agree on light contact.\n2. The defender steps inside the kick, closing distance and covering the body with the forearms so the kick lands without power.\n3. From close range the defender delivers a light low kick to the feeder's supporting thigh, then both reset and swap roles.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Defense",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Атакувальник повільно завдає колового удару ногою в корпус; обидва в щитках і домовляються про легкий контакт.\n2. Той, хто захищається, входить усередину удару, скорочуючи дистанцію та закриваючи корпус передпліччями, щоб удар прийшов без сили.\n3. З ближньої дистанції він завдає легкого лоу-кіку по стегну опорної ноги атакувальника, потім обидва повертаються в стійку й міняються ролями.",
       "sectionTitle": "Захист"
     }
-  }
+  },
+  "state": "active"
 }

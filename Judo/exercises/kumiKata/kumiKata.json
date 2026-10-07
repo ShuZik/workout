@@ -3,11 +3,9 @@
   "key": "judo_kumi_kata",
   "title": "Kumi Kata",
   "description": "1. Face a trained partner in natural posture and take a relaxed sleeve grip with one hand and lapel grip with the other.\n2. Use small steps and forearm position to improve the grips without stiffening both arms or bending at the waist.\n3. Release and regrip without twisting fingers, keeping the head upright and both athletes balanced.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Movement",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до підготовленого партнера в природній стійці й розслаблено захопіть рукав однією рукою, а відворот іншою.\n2. Поліпшуйте захвати невеликими кроками й положенням передпліч, не напружуючи обидві руки й не згинаючись у попереку.\n3. Відпускайте й перехоплюйте без викручування пальців, тримаючи голову прямо та зберігаючи рівновагу обох спортсменів.",
       "sectionTitle": "Пересування"
     }
-  }
+  },
+  "state": "active"
 }

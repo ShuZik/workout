@@ -3,11 +3,9 @@
   "key": "judo_ura_nage",
   "title": "Ura Nage",
   "description": "1. Step close behind the partner's side and wrap one arm around the waist while the other hand controls the front.\n2. Drop the hips below the partner and lift the partner's weight onto the chest and hips.\n3. Fall backward to the side and turn so the partner lands on the side or back beside you, never on the head.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зблизьтеся збоку-ззаду з партнером, обхопіть його талію однією рукою, іншою контролюючи передній бік.\n2. Опустіть таз нижче партнера й прийміть його вагу на груди й таз.\n3. Падайте назад убік із розворотом, щоб партнер приземлився на бік або спину поруч із вами, ніколи на голову.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

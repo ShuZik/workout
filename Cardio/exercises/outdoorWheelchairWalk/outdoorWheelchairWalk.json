@@ -3,11 +3,9 @@
   "key": "wheelchair_outdoor_walk",
   "title": "Outdoor Wheelchair Walk",
   "description": "1. Choose a smooth accessible route, check tire pressure and brakes, and sit with the pelvis supported.\n2. Grip the push rims behind the top, push forward through a comfortable arc, and release with relaxed hands.\n3. Let the hands recover below the rims and repeat at a steady cadence while scanning the path.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "wheelchairCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "90155",
     "vigorousCode": "90157"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Adaptive Cardio",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Оберіть рівний доступний маршрут, перевірте тиск у шинах і гальма та сядьте з опорою для таза.\n2. Візьміться за ободи для штовхання позаду верхньої точки, штовхніть уперед по комфортній дузі й відпустіть розслабленими кистями.\n3. Поверніть кисті під ободами й повторюйте в рівному ритмі, оглядаючи шлях.",
       "sectionTitle": "Адаптивне кардіо"
     }
-  }
+  },
+  "state": "active"
 }

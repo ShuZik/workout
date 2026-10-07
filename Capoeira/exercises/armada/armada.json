@@ -3,11 +3,9 @@
   "key": "capoeira_armada",
   "title": "Armada",
   "description": "1. From the ginga, step the front foot across so the toes point away and turn the head over the shoulder to keep sight of the target.\n2. Spin on the ball of the front foot and swing the straight rear leg around at a controlled height, striking with the outer edge of the foot.\n3. Finish the rotation facing the target, land the kicking foot back into place, and return to the ginga with the guard up.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із джинги поставте передню ногу навхрест носком назовні й поверніть голову через плече, не втрачаючи цілі з поля зору.\n2. Розверніться на подушечці передньої стопи й проведіть пряму задню ногу на контрольованій висоті, б’ючи зовнішнім краєм стопи.\n3. Завершіть обертання обличчям до цілі, поставте ударну ногу на місце й поверніться в джингу із захистом.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

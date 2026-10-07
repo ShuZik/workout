@@ -3,11 +3,9 @@
   "key": "silambam_nadukambu_suttru",
   "title": "Nadukambu Suttru",
   "description": "1. Grip a training staff near its middle with one or both hands, elbows close to the body and feet in a balanced stance.\n2. Rotate the staff around the central grip in front of and beside the body, keeping both ends on a flat, controlled circle.\n3. Change hands and direction without stopping the rotation, then halt the staff in the ready position.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "silambam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Weapons",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть навчальну жердину біля середини однією або двома руками, лікті біля тулуба, ноги в стійкій позиції.\n2. Обертайте жердину навколо центрального хвата перед собою й збоку, утримуючи обидва кінці на рівному контрольованому колі.\n3. Змінюйте руку й напрямок, не зупиняючи обертання, потім зупиніть жердину в готовій позиції.",
       "sectionTitle": "Зброя"
     }
-  }
+  },
+  "state": "active"
 }

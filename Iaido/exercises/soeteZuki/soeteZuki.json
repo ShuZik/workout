@@ -3,11 +3,9 @@
   "key": "iaido_soete_zuki",
   "title": "Soete-zuki",
   "description": "1. Step toward an opponent on the left side, turn, and draw into a diagonal cut across the opponent's shoulder line.\n2. Place the left hand against the back of the blade as a support, draw the sword back to the right hip, and drive a supported thrust forward with a step.\n3. Withdraw the blade, perform chiburi, resheathe, and keep zanshin toward the opponent.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Standing Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ступіть до суперника ліворуч, поверніться й оголіть меч діагональним розрізом через лінію плеча.\n2. Прикладіть ліву руку до обуха клинка як опору, відведіть меч до правого стегна й із кроком завдайте підтриманого уколу вперед.\n3. Вийміть клинок, виконайте тібурі, вкладіть меч і збережіть дзансін до суперника.",
       "sectionTitle": "Форми з положення стоячи"
     }
-  }
+  },
+  "state": "active"
 }

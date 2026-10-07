@@ -3,11 +3,9 @@
   "key": "unifight_beam_walk",
   "title": "Beam Walk",
   "description": "1. Step onto a low beam with the arms out for balance and the eyes on the far end.\n2. Walk or jog the length with short steps, placing the feet straight along the beam.\n3. Step or hop down at the end with soft knees and return to repeat.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "unifight",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Conditioning",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на низьку колоду, руки в сторони для рівноваги, погляд на дальній кінець.\n2. Пройдіть або пробіжіть усю довжину короткими кроками, ставлячи стопи прямо вздовж колоди.\n3. Наприкінці зійдіть або зістрибніть на м’які коліна й поверніться для повтору.",
       "sectionTitle": "Фізпідготовка"
     }
-  }
+  },
+  "state": "active"
 }

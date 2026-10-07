@@ -3,11 +3,9 @@
   "key": "tabata_squat_jumps",
   "title": "Squat Jumps",
   "description": "1. Stand with feet about shoulder-width apart and descend into a controlled squat.\n2. Drive through both feet and extend the hips, knees, and ankles to jump vertically.\n3. Land softly on both feet, bend the knees to absorb impact, and reset before repeating.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "tabata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "intermediate",
   "section": "3 Lower Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте, розставивши стопи приблизно на ширину плечей, і контрольовано опустіться в присід.\n2. Відштовхніться обома стопами й розігніть таз, коліна та гомілковостопи, вистрибуючи вертикально вгору.\n3. М’яко приземліться на обидві стопи, зігніть коліна для амортизації й вирівняйтеся перед повтором.",
       "sectionTitle": "Нижня частина тіла"
     }
-  }
+  },
+  "state": "intense"
 }

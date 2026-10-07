@@ -3,11 +3,9 @@
   "key": "kendo_tachi_7",
   "title": "Kendo Kata Tachi 7",
   "description": "1. Both take chudan; uchidachi thrusts at the chest and shidachi steps back, receiving the thrust so both blades extend together.\n2. Uchidachi steps in with a large men cut; shidachi moves diagonally forward right, cuts do, and finishes kneeling on the right knee.\n3. Both rise, return to chudan at the center, and step back to the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обоє в тюдан; утідаті коле в груди, сідаті відступає, приймаючи укол, тож обидва клинки витягуються разом.\n2. Утідаті входить із широким ударом у мен; сідаті зміщується по діагоналі вперед праворуч, рубає до й завершує на правому коліні.\n3. Обоє підводяться, повертаються в тюдан у центрі й відходять на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

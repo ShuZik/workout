@@ -3,11 +3,9 @@
   "key": "dambe_shield_hand_parry_drill",
   "title": "Shield Hand Parry Drill",
   "description": "1. Feeder wears a focus mitt and pushes slow straight jabs toward the defender's chest; defender stands in the dambe stance.\n2. Defender parries the mitt aside with the open shield hand and answers with a light spear punch into the feeder's second pad.\n3. Keep all contact on the pads and below the head, add speed only as control allows, and switch roles when the feeder calls stop.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "dambe",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15125",
     "vigorousCode": "15100"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Подавальник одягає лапу й повільно виштовхує прямі удари до грудей захисника; захисник стоїть у стійці дамбе.\n2. Захисник відводить лапу відкритою рукою-щитом і відповідає легким ударом рукою-списом у другу лапу подавальника.\n3. Увесь контакт лише по лапах і нижче голови; прискорюйтеся, тільки зберігаючи контроль, і міняйтеся ролями, коли подавальник скаже стоп.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

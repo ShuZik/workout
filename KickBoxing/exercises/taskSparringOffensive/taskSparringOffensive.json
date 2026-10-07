@@ -3,11 +3,9 @@
   "key": "kick_boxing_task_sparring_offensive",
   "title": "Task Sparring: Offensive",
   "description": "1. With a coach present and full protective equipment, assign one partner an attacking task, such as leading every exchange with a kick.\n2. Spar at controlled speed and light contact while the attacker pursues the task and the partner defends and moves.\n3. Swap tasks between rounds and stop immediately at the coach's call or any loss of control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. У присутності тренера й у повному спорядженні дайте одному партнерові атакувальне завдання, наприклад починати кожен обмін ударом ногою.\n2. Проводьте спаринг на контрольованій швидкості з легким контактом: атакувальник в��конує завдання, партнер захищається й пересувається.\n3. Міняйте завдання між раундами й одразу зупиняйтеся за командою тренера або в разі втрати контролю.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

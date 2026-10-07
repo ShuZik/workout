@@ -3,11 +3,9 @@
   "key": "kick_boxing_spinning_hook_kick",
   "title": "Spinning Hook Kick",
   "description": "1. From stance, pivot on the lead foot and turn the back toward the target, spotting it over the rear shoulder before the leg lifts.\n2. Extend the rear leg slightly past the target line and sweep the heel horizontally through it, bending the knee at contact.\n3. Let the leg follow the turn down to the floor, land in a balanced stance facing the target, and restore the guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки розверніться на передній нозі спиною до цілі й побачте її через заднє плече, перш ніж піднімати ногу.\n2. Випряміть задню ногу трохи далі лінії цілі й проведіть п’яту горизонтально крізь неї, згинаючи коліно в момент контакту.\n3. Дозвольте нозі слідом за розворотом опуститися на підлогу, приземліться в стійку обличчям до цілі й відновіть захист.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "kurash",
   "title": "Kurash",
   "description": "1. Begin standing on mats with a trained partner, both wearing jackets, and take grips on the jacket only.\n2. Move, break balance, and drill throws and trips from the standing grip without grabbing the legs or trousers.\n3. Guide every throw to a controlled landing, stop when a partner touches down, and reset standing.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "kurash",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть стоячи на килимі з підготовленим партнером, обидва в куртках, захвати лише за куртку.\n2. Рухайтеся, виводьте з рівноваги й відпрацьовуйте кидки та підсічки зі стійки, не захоплюючи ноги й штани.\n3. Доводьте кожен кидок до контрольованого приземлення, зупиняйтеся, коли партнер торкнеться килима, і починайте знову в стійці.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

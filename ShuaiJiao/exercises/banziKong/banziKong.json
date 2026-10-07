@@ -3,11 +3,9 @@
   "key": "shuai_jiao_banzi_kong",
   "title": "Banzi Kong",
   "description": "1. Stand in a balanced stance with the hands raised as if gripping a partner's jacket.\n2. Shadow one throw at a time, stepping in, turning the hips, and pulling the imagined jacket through the full motion.\n3. Return to the stance after each repetition and alternate sides at a steady pace.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "shuaiJiao",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в урівноважену стійку, піднявши руки так, ніби тримаєте куртку партнера.\n2. Відпрацьовуйте вхолосту по одному кидку: крок входу, поворот таза й тяга уявної куртки на всю амплітуду.\n3. Після кожного повтору повертайтеся в стійку й чергуйте сторони в рівному темпі.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

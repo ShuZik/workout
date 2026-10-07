@@ -3,11 +3,9 @@
   "key": "judo_tsurikomi_goshi",
   "title": "Tsurikomi Goshi",
   "description": "1. Lift and pull the partner forward with a lapel grip and sleeve so the partner rises onto the toes.\n2. Turn in low with the hips below the partner's belt while the lapel arm keeps lifting and the elbow stays bent.\n3. Extend the knees and turn to project the partner over the hips, retaining the sleeve for the landing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Koshi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Підніміть і потягніть партнера вперед захопленням за відворот і рукав, щоб він став на носки.\n2. Увійдіть із низьким розворотом, таз нижче пояса партнера, продовжуючи піднімати рукою за відворот із зігнутим ліктем.\n3. Випряміть коліна й розверніться, кидаючи партнера через таз, утримуючи рукав для страховки.",
       "sectionTitle": "Косі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

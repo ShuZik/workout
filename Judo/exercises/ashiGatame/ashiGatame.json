@@ -3,11 +3,9 @@
   "key": "judo_ashi_gatame",
   "title": "Ashi Gatame",
   "description": "1. From a side position, control the partner's straight arm at the wrist and turn onto your side.\n2. Place your leg over the partner's upper arm just above the elbow while the other leg blocks the body.\n3. Press the leg down and pull the wrist gradually to extend the elbow, releasing at a tap.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З бокового положення контролюйте пряму руку партнера за зап’ястя й поверніться на бік.\n2. Покладіть свою ногу на його плече трохи вище ліктя, іншою ногою блокуючи тулуб.\n3. Тисніть ногою вниз і поступово тягніть зап’ястя, розгинаючи лікоть, і відпускайте при постукуванні.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

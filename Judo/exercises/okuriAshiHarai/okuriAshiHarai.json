@@ -3,11 +3,9 @@
   "key": "judo_okuri_ashi_harai",
   "title": "Okuri Ashi Harai",
   "description": "1. Move sideways with the partner, matching steps with sleeve-and-lapel control.\n2. As the partner's feet come together, sweep the trailing foot into the leading foot with the sole of the foot.\n3. Lift the upper body upward and sideways with the hands so the partner falls to the side, retaining the sleeve.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Переміщуйтеся боком разом із партнером, узгоджуючи кроки й контролюючи рукав і відворот.\n2. Коли стопи партнера зближуються, підметіть підошвою відстаючу стопу до провідної.\n3. Підніміть тулуб руками вгору й убік, щоб партнер упав на бік, утримуючи рукав.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

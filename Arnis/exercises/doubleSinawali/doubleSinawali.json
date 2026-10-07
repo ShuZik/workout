@@ -3,11 +3,9 @@
   "key": "arnis_double_sinawali",
   "title": "Double Sinawali",
   "description": "1. Face a partner at stick range, each with two sticks, and agree who leads the footwork.\n2. Exchange the double sinawali weave, in which each hand delivers paired high and low strikes in a continuous six-count pattern that meets the partner's sticks, while moving forward and back.\n3. Keep the power controlled and the elbows relaxed, stop cleanly on the call, and swap the lead.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти партнера на дистанції палиці, у кожного по дві палиці, домовтеся, хто веде пересування.\n2. Обмінюйтеся плетінням подвійної синавалі: кожна рука завдає парних верхніх і нижніх ударів у безперервному шестирахунковому малюнку, зустрічаючи палиці партнера, під час руху вперед і назад.\n3. Тримайте силу під контролем, лікті розслаблені, чисто зупиняйтеся за командою й міняйте ведучого.",
       "sectionTitle": "Вправи з партнером"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "arnis_twelve_angles_of_attack",
   "title": "Twelve Angles of Attack",
   "description": "1. Hold the stick in a ready stance and picture the standard Modern Arnis target lines: temples, sides, stomach thrust, chest thrusts, knees, eye thrusts, and crown.\n2. Strike the twelve angles in order with full chambering, rotating the hips and stepping as needed while the free hand stays at the chest.\n3. Repeat the sequence with the other hand, keeping the same accuracy on both sides.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Solo Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте палицю в готовій стійці й уявіть стандартні лінії цілей Modern Arnis: скроні, боки, укол у живіт, уколи в груди, коліна, уколи в очі й тім’я.\n2. Завдайте дванадцяти кутів по черзі з повним замахом, повертаючи таз і роблячи кроки за потреби, вільна рука біля грудей.\n3. Повторіть послідовність іншою рукою з тією самою точністю з обох боків.",
       "sectionTitle": "Одиночні вправи"
     }
-  }
+  },
+  "state": "active"
 }

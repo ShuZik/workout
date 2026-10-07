@@ -3,11 +3,9 @@
   "key": "judo_sode_tsurikomi_goshi",
   "title": "Sode Tsurikomi Goshi",
   "description": "1. Grip both of the partner's sleeves and lift one sleeve high, straightening the partner's arm upward.\n2. Turn in under the raised arm with the hips low and below the partner's center.\n3. Extend the legs and pull the sleeves through to throw over the hips, guiding the partner into a breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Koshi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Захопіть обидва рукави партнера й високо підніміть один рукав, витягуючи його руку вгору.\n2. Увійдіть із розворотом під підняту руку, опустивши таз нижче центру ваги партнера.\n3. Випряміть ноги й протягніть рукави, кидаючи через таз і спрямовуючи партнера у страховку.",
       "sectionTitle": "Косі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

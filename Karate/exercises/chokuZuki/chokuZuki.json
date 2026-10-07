@@ -3,11 +3,9 @@
   "key": "karate_choku_zuki",
   "title": "Choku Zuki",
   "description": "1. Stand in a stable parallel or horse stance with one fist chambered at the hip and the other ready to retract.\n2. Drive the chambered fist straight along the centerline while rotating it near extension and pulling the opposite fist to the hip.\n3. Stop before locking the elbow and retract along the same line while keeping the shoulders level.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку паралельну стійку або стійку вершника, один кулак біля стегна, інший готовий до повернення.\n2. Спрямуйте підготовлений кулак прямо по центральній лінії, повертаючи його ближче до розгинання й відводячи інший кулак до стегна.\n3. Зупиніться до випрямлення ліктя до упору та поверніть кулак тією самою лінією, зберігаючи плечі на одному рівні.",
       "sectionTitle": "Удари руками"
     }
-  }
+  },
+  "state": "active"
 }

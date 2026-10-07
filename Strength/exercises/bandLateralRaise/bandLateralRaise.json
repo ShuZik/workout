@@ -3,11 +3,9 @@
   "key": "resistance_band_band_lateral_raise",
   "title": "Band Lateral Raise",
   "description": "1. Stand on the band with arms by the sides, palms inward, and elbows softly bent.\n2. Raise both arms out to the sides until the hands approach shoulder height without shrugging.\n3. Lower the arms slowly to the sides while keeping equal tension in both band ends.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02052",
     "vigorousCode": "02050"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Resistance Bands",
   "availableFrom": "1.1.4",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на гуму, руки опущені вздовж тіла, долоні повернуті всередину, лікті злегка зігнуті.\n2. Підніміть обидві руки в сторони, доки кисті не наблизяться до рівня плечей, не піднімаючи плечей.\n3. Повільно опустіть руки вздовж тіла, зберігаючи однаковий натяг обох кінців гуми.",
       "sectionTitle": "Гуми опору"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "kick_boxing_switch_kick",
   "title": "Switch Kick",
   "description": "1. From guard, make a small, quick hop that exchanges the positions of the feet without lifting the hands or straightening up.\n2. As the former lead foot lands behind, pivot the new lead foot and drive the new rear leg into a roundhouse kick with full hip rotation.\n3. Recoil the leg, land back in your original stance, and restore the guard before the next action.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Kicks",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту зробіть невеликий швидкий підскок, міняючи ноги місцями, не опускаючи рук і не випрямляючись.\n2. Коли колишня передня нога приземлиться позаду, розверніться на новій передній нозі й завдайте новою задньою ногою колового удару з повним поворотом таза.\n3. Поверніть ногу, приземліться у вихідну стійку й відновіть захист перед наступною дією.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте одну гантель над головою двома руками або по гантелі в кожній руці, зберігаючи ребра над тазом.\n2. Згинайте лише лікті, опускаючи вагу за голову, поки плечі лишаються майже вертикальними.\n3. Розігніть лікті, піднімаючи вагу над головою, не прогинаючи поперек.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

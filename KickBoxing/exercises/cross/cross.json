@@ -3,11 +3,9 @@
   "key": "kick_boxing_cross",
   "title": "Cross",
   "description": "1. From kickboxing guard, drive through the rear foot and rotate the rear hip and shoulder forward.\n2. Send the rear fist straight while the lead hand protects the face and the chin remains tucked.\n3. Unwind the hips and retract the fist along the same line to regain stance and guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту кікбоксингу відштовхніться задньою стопою й поверніть задній бік таза та плече вперед.\n2. Спрямуйте задній кулак прямо, поки передня рука захищає обличчя, а підборіддя залишається опущеним.\n3. Розверніть таз назад і приберіть кулак тією самою лінією, відновивши стійку та захист.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

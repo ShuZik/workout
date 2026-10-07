@@ -3,11 +3,9 @@
   "key": "taekwondo_knife_hand_strike",
   "title": "Knife-Hand Strike",
   "description": "1. Open the striking hand with the fingers together, thumb tucked, and wrist aligned, then chamber it beside the shoulder.\n2. Rotate the hips and deliver the outer edge of the hand into a pad while the opposite hand protects or retracts.\n3. Stop the strike under control without bending the wrist and return the hand immediately to guard.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Strikes",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Розкрийте ударну долоню, зімкніть пальці, підігніть великий палець і випряміть зап’ясток, потім підготуйте руку біля плеча.\n2. Поверніть таз і вдарте зовнішнім ребром долоні в лапу, поки інша рука захищає або відводиться назад.\n3. Контрольовано зупиніть удар, не згинаючи зап’ясток, і негайно поверніть руку в захист.",
       "sectionTitle": "Удари"
     }
-  }
+  },
+  "state": "active"
 }

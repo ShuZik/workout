@@ -3,11 +3,9 @@
   "key": "glute_stretch",
   "title": "Glute Stretch",
   "description": "1. Lie on the back, cross one ankle over the opposite thigh, and flex the crossed foot.\n2. Draw the uncrossed thigh toward the chest while the head and pelvis stay grounded.\n3. Hold the stretch in the crossed-side glute, release slowly, and switch legs.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Static Stretching",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, покладіть одну щиколотку на протилежне стегно й потягніть носок цієї стопи до гомілки.\n2. Підтягніть стегно ноги, на яку спирається щиколотка, до грудей, залишаючи голову й таз на підлозі.\n3. Утримуйте розтягування в сідниці з боку закинутої ноги, повільно відпустіть і змініть ноги.",
       "sectionTitle": "Статичне розтягування"
     }
-  }
+  },
+  "state": "active"
 }

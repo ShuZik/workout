@@ -3,11 +3,9 @@
   "key": "cooldown_childs_pose",
   "title": "Child's Pose",
   "description": "1. Kneel with big toes together, widen the knees comfortably, and place both hands on the mat.\n2. Send the hips toward the heels while reaching the arms forward and lengthening the spine.\n3. Rest the forehead down, relax the shoulders, and breathe without forcing the hips lower.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02175",
     "vigorousCode": "02185"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Static Stretching",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Станьте на коліна, з’єднайте великі пальці ніг, розведіть коліна на комфортну ширину й поставте обидві руки на килимок.\n2. Спрямуйте таз до п’ят, витягуючи руки вперед і подовжуючи хребет.\n3. Опустіть лоб, розслабте плечі й дихайте, не змушуючи таз опускатися нижче.",
       "sectionTitle": "Статичне розтягування"
     }
-  }
+  },
+  "state": "active"
 }

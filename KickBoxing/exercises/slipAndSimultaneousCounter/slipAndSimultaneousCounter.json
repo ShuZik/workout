@@ -3,11 +3,9 @@
   "key": "kick_boxing_slip_simultaneous_counter",
   "title": "Slip and Simultaneous Counter",
   "description": "1. The feeder throws a controlled straight punch at the defender's head while both wear gloves and mouthguards.\n2. The defender slips to the outside of the punch and, in the same movement, sends a straight punch to the feeder's raised glove or chest target.\n3. Land the counter lightly, step back to guard together, and swap roles after the agreed repetitions.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Defense",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Атакувальник завдає контрольованого прямого в голову того, хто захищається; обидва в рукавицях і капах.\n2. Той, хто захищається, ухиляється назовні від удару й тим самим рухом завдає прямого в підняту рукавицю або груди атакувальника.\n3. Завдавайте контрудару легко, разом поверніться в захист і міняйтеся ролями після обумовлених повторень.",
       "sectionTitle": "Захист"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "lethwei_spinning_backfist",
   "title": "Spinning Backfist",
   "description": "1. From guard, step the lead foot slightly across and turn the head over the rear shoulder to find the target.\n2. Pivot on the lead foot and rotate the hips so the rear arm unfolds and the back of the fist sweeps through a pad at head height.\n3. Complete the turn, bring the striking hand straight back to guard, and reset the stance facing the target.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "lethwei",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту трохи заведіть передню ногу всередину й поверніть голову через заднє плече, щоб знайти ціль.\n2. Розверніться на передній нозі й проверніть таз так, щоб задня рука розкрилася, а тильна сторона кулака пройшла по лапі на рівні голови.\n3. Завершіть розворот, одразу поверніть ударну руку в захист і відновіть стійку обличчям до цілі.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

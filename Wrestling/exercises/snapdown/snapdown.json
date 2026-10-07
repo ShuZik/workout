@@ -3,11 +3,9 @@
   "key": "wrestling_snapdown",
   "title": "Snapdown",
   "description": "1. From a collar tie and wrist control, step back to draw the partner's weight forward.\n2. Snap the partner's head and arm down toward the mat as the partner leans in, keeping your hips back.\n3. Move to a front-headlock or go-behind position without cranking the neck, then reset.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "wrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захвату за шию з контролем зап'ястя ступіть назад, виводячи вагу партнера вперед.\n2. Коли партнер нахилиться, ривком спрямуйте його голову й руку до килима, тримаючи таз позаду.\n3. Перейдіть у захоплення голови спереду або захід за спину, не скручуючи шию, і почніть знову.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

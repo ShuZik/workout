@@ -1,0 +1,88 @@
+{
+  "id": "9.72",
+  "key": "warmup_hip_hinge_drill",
+  "title": "Hip Hinge Drill",
+  "description": "Stand with feet hip-width apart and knees slightly bent. Push your hips back while keeping your spine neutral, then return to standing by bringing your hips forward.",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hip Hinge Drill",
+      "description": "Stand with feet hip-width apart and knees slightly bent. Push your hips back while keeping your spine neutral, then return to standing by bringing your hips forward.",
+      "sectionTitle": "Dynamic Movement"
+    },
+    "es": {
+      "title": "Práctica de bisagra de cadera",
+      "description": "Ponte de pie con los pies al ancho de las caderas y las rodillas algo flexionadas. Lleva las caderas atrás con la columna neutra y vuelve a erguirte llevando las caderas adelante.",
+      "sectionTitle": "Movimiento dinámico"
+    },
+    "pt": {
+      "title": "Prática de dobradiça do quadril",
+      "description": "Fique com os pés na largura do quadril e os joelhos levemente dobrados. Leve o quadril para trás mantendo a coluna neutra e volte a ficar em pé trazendo o quadril à frente.",
+      "sectionTitle": "Movimento dinâmico"
+    },
+    "fr": {
+      "title": "Apprentissage de la charnière de hanche",
+      "description": "Tenez-vous pieds écartés à la largeur des hanches, genoux légèrement pliés. Reculez le bassin en gardant la colonne neutre, puis redressez-vous en ramenant les hanches vers l’avant.",
+      "sectionTitle": "Mouvement dynamique"
+    },
+    "de": {
+      "title": "Hüftbeuge-Übung",
+      "description": "Stehe hüftbreit mit leicht gebeugten Knien. Schiebe die Hüfte bei neutraler Wirbelsäule nach hinten und richte dich durch Vorführen der Hüfte wieder auf.",
+      "sectionTitle": "Dynamische Bewegung"
+    },
+    "it": {
+      "title": "Esercizio di cerniera dell’anca",
+      "description": "Stai con i piedi alla larghezza delle anche e le ginocchia leggermente piegate. Porta il bacino indietro mantenendo la colonna neutra, poi torna eretto riportandolo avanti.",
+      "sectionTitle": "Movimento dinamico"
+    },
+    "zh-Hans": {
+      "title": "髋铰链练习",
+      "description": "双脚与髋同宽站立，膝盖微屈。保持脊柱中立，将髋部向后推，再将髋部向前带回站姿。",
+      "sectionTitle": "动态动作"
+    },
+    "ja": {
+      "title": "ヒップヒンジ練習",
+      "description": "足を腰幅に開き、膝を軽く曲げます。背骨を自然に保ってお尻を後ろへ引き、股関節を前へ戻して立ち上がります。",
+      "sectionTitle": "動的な動き"
+    },
+    "ko": {
+      "title": "힙 힌지 연습",
+      "description": "발을 골반너비로 벌리고 무릎을 살짝 굽히세요. 척추를 중립으로 유지하며 엉덩이를 뒤로 보낸 뒤 앞으로 가져와 일어서세요.",
+      "sectionTitle": "동적 움직임"
+    },
+    "th": {
+      "title": "ฝึกพับสะโพก",
+      "description": "ยืนแยกเท้าเท่าความกว้างสะโพกและงอเข่าเล็กน้อย ดันสะโพกไปด้านหลังโดยรักษากระดูกสันหลังเป็นกลาง แล้วนำสะโพกกลับมาด้านหน้าเพื่อยืนตรง",
+      "sectionTitle": "การเคลื่อนไหวแบบไดนามิก"
+    },
+    "ru": {
+      "title": "Отработка наклона от таза",
+      "description": "Встаньте со стопами на ширине таза и слегка согните колени. Отведите таз назад с нейтральной спиной, затем вернитесь в стойку, направляя таз вперёд.",
+      "sectionTitle": "Динамические движения"
+    },
+    "uk": {
+      "title": "Відпрацювання нахилу від таза",
+      "description": "Станьте зі стопами на ширині таза та злегка зігніть коліна. Відведіть таз назад із нейтральною спиною, потім поверніться в стійку, спрямовуючи таз уперед.",
+      "sectionTitle": "Динамічні рухи"
+    }
+  },
+  "state": "active"
+}

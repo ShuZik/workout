@@ -3,11 +3,9 @@
   "key": "judo_back_breakfall",
   "title": "Back Breakfall",
   "description": "1. Begin seated or in a low squat on tatami with the chin tucked, back rounded, and arms extended forward.\n2. Roll from the hips onto the back while keeping the head off the mat and slap both arms at roughly forty-five degrees.\n3. Keep the legs apart and knees bent, absorb the landing through the arms and back, then return to sitting.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Ukemi",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть сидячи або в низькому присіді на татамі, притиснувши підборіддя, округливши спину й витягнувши руки вперед.\n2. Перекотіться з таза на спину, утримуючи голову над матом, і плесніть обома руками приблизно під кутом сорок п’ять градусів.\n3. Тримайте ноги розведеними, а коліна зігнутими, погасіть приземлення руками й спиною, потім поверніться в положення сидячи.",
       "sectionTitle": "Укемі"
     }
-  }
+  },
+  "state": "active"
 }

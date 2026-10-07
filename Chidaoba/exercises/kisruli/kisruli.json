@@ -3,11 +3,9 @@
   "key": "chidaoba_kisruli",
   "title": "Kisruli",
   "description": "1. Grip the partner's chokha and use a feint to pull the partner off balance.\n2. Turn quickly and duck under to load the partner onto your back.\n3. Lean forward to throw the partner over the neck and shoulders, holding the chokha to guide a controlled landing on the back.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "chidaoba",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за чоху партнера й оманливим рухом виведіть його з рівноваги.\n2. Швидко розверніться й пірніть під партнера, завантажуючи його на спину.\n3. Нахиліться вперед і киньте партнера через шию та плечі, утримуючи чоху для контрольованого приземлення на спину.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

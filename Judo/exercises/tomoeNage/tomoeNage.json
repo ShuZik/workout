@@ -3,11 +3,9 @@
   "key": "judo_tomoe_nage",
   "title": "Tomoe Nage",
   "description": "1. Draw the partner forward and step deep between the partner's feet while gripping both sleeves or sleeve and lapel.\n2. Sit down close to your own heel and place the sole of the other foot on the partner's lower abdomen.\n3. Roll backward and extend the leg while the hands pull overhead so the partner rolls over into a forward breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виведіть партнера вперед і глибоко ступіть між його стопами, тримаючи обидва рукави або рукав і відворот.\n2. Сядьте впритул до своєї п’яти й упріться підошвою іншої ноги в низ живота партнера.\n3. Перекотіться назад і випряміть ногу, руками потягнувши над головою, щоб партнер пішов у страховку перекатом уперед.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

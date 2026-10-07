@@ -3,11 +3,9 @@
   "key": "fencing_derobement",
   "title": "Dérobement",
   "description": "1. Hold your arm extended in line at lunging distance; the partner attempts to beat or take your blade.\n2. Evade the contact with a small finger action of the point, under or over the partner's blade, keeping the arm extended and the point threatening.\n3. Hit or lunge as the partner's blade misses, recover to en garde, and swap roles after the set.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте руку випрямленою в лінії на дистанції випаду; партнер намагається завдати батману або взяти ваш клинок.\n2. Ухиліться від контакту невеликим рухом пальців вістрям під або над клинком партнера, зберігаючи руку випрямленою й вістря загрозливим.\n3. Завдайте уколу чи випаду, коли клинок партнера схибить, поверніться в стійку й поміняйтеся ролями.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

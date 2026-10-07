@@ -3,11 +3,9 @@
   "key": "sports_chanbara_guard_and_footwork",
   "title": "Basic Guard and Footwork",
   "description": "1. Hold the kodachi in one hand with the tip toward the partner's eyes, elbow relaxed, and the body slightly side-on.\n2. Step forward, back, and to the sides with short light steps, keeping the free hand tucked behind the body.\n3. Keep the tip on the centre line as you move and settle back into the ready guard after every step.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте кодачі однією рукою, вістря спрямоване в очі партнерові, лікоть розслаблений, корпус трохи боком.\n2. Пересувайтеся вперед, назад і вбоки короткими легкими кроками, вільну руку заберіть за спину.\n3. У русі тримайте вістря на центральній лінії й після кожного кроку повертайтеся в готову стійку.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

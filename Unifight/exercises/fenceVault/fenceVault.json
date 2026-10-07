@@ -3,11 +3,9 @@
   "key": "unifight_fence_vault",
   "title": "Fence Vault",
   "description": "1. Approach a padded fence or wall of manageable height at a controlled run.\n2. Plant a foot, grip the top with both hands, and pull and push the body over while swinging one leg across.\n3. Land on the far side on both feet with bent knees, then turn back to repeat.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "unifight",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Conditioning",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Підбіжіть із контролем до паркану або стіни з м’яким покриттям посильної висоти.\n2. Упріться стопою, візьміться за верх обома руками, підтягніться й перекиньте тіло, переносячи одну ногу.\n3. Приземліться з іншого боку на обидві стопи із зігнутими колінами й поверніться для повтору.",
       "sectionTitle": "Фізпідготовка"
     }
-  }
+  },
+  "state": "active"
 }

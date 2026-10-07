@@ -3,11 +3,9 @@
   "key": "judo_juji_gatame",
   "title": "Juji Gatame",
   "description": "1. Control one arm with the thumb pointing upward and position the hips close to the partner's shoulder.\n2. Place one leg across the torso and the other across the head, then pinch the knees around the upper arm.\n3. Control the wrist and extend the hips only gradually, releasing immediately at a tap or verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Groundwork",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Контролюйте одну руку з великим пальцем, спрямованим угору, і розташуйте стегна близько до плеча партнера.\n2. Покладіть одну ногу поперек тулуба, іншу поперек голови й стисніть коліна навколо плеча.\n3. Контролюйте зап’ясток і розгинайте стегна лише поступово, негайно відпускаючи при постукуванні або словесному сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

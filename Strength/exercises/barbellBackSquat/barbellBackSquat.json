@@ -3,12 +3,9 @@
   "key": "strength_barbell_back_squat",
   "title": "Barbell Back Squat",
   "description": "1. Set the bar across the upper back, grip it firmly, step from the rack, and place feet about shoulder-width apart.\n2. Brace and squat while the knees track over the toes, hips descend between the heels, and the bar stays over midfoot.\n3. Drive through the whole feet to stand, stabilize, then walk the bar back into the rack.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Покладіть штангу на верх спини, міцно візьміться за гриф, відійдіть від стійок і поставте стопи приблизно на ширині плечей.\n2. Напружте корпус і присідайте, спрямовуючи коліна за лінією носків, опускаючи таз між п’ят і утримуючи штангу над серединою стопи.\n3. Відштовхніться всією стопою й встаньте, стабілізуйтеся, потім кроками поверніть штангу на стійки.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

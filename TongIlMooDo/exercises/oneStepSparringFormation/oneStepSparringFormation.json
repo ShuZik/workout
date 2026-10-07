@@ -3,11 +3,9 @@
   "key": "tong_il_moo_do_one_step_formation",
   "title": "One Step Sparring Formation",
   "description": "1. Face a partner at one step's distance on mats; the attacker signals and prepares the agreed single punch or kick.\n2. The attacker steps in with the single attack; the defender blocks or evades and finishes with a controlled strike or kick counter, stopping short of contact.\n3. Release any hold at once, return to the start positions, repeat on the other side, and switch roles after each set.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "tongIlMooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти партнера на відстані кроку на татамі; атакувальник подає сигнал і готує одну обумовлену атаку рукою чи ногою.\n2. Атакувальник входить однією атакою; захисник блокує або ухиляється й завершує контрольованою контратакою рукою чи ногою, зупиняючи її до контакту.\n3. Одразу відпустіть будь-яке захоплення, поверніться у вихідні позиції, повторіть в інший бік і міняйтеся ролями після кожної серії.",
       "sectionTitle": "Вправи в парі"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "grappling",
   "title": "Grappling",
   "description": "1. Begin on mats with a trained partner, with or without a gi, from standing or an agreed restart position.\n2. Work takedowns, guard, passing, control positions, and permitted submissions at controlled pressure.\n3. Stabilize each position before advancing and stop immediately at a tap or verbal signal.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "grappling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на килимі з підготовленим партнером, у гі або без, зі стійки чи з погодженої стартової позиції.\n2. Працюйте над тейкдаунами, гардом, проходами, контрольними позиціями й дозволеними больовими та задушливими з контрольованим тиском.\n3. Закріплюйте кожну позицію перед просуванням і одразу зупиняйтеся за пле��канням або голосовим сигналом.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

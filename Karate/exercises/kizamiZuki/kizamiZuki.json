@@ -3,11 +3,9 @@
   "key": "karate_kizami_zuki",
   "title": "Kizami Zuki",
   "description": "1. From fighting stance, keep the rear hand protecting the face and load the rear leg lightly.\n2. Slide the lead foot forward as the lead fist travels straight, using a small hip turn without overreaching.\n3. Retract the fist and draw the rear foot up enough to restore the original stance length.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із бойової стійки тримайте задню руку біля обличчя для захисту й злегка навантажте задню ногу.\n2. Ковзніть передньою стопою вперед, посилаючи передній кулак прямо, з невеликим поворотом таза й без надмірного витягування.\n3. Поверніть кулак і підтягніть задню стопу настільки, щоб відновити вихідну довжину стійки.",
       "sectionTitle": "Удари руками"
     }
-  }
+  },
+  "state": "active"
 }

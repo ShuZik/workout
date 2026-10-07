@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "productID": "gym",
-  "minimumAppVersion": "1.1.5",
+  "minimumAppVersion": "1.1.7",
   "tags": [
     {
       "colorType": "red",
@@ -1005,6 +1005,78 @@
     {
       "icon": "gym/exercises/Other/work/Icon.png",
       "json": "gym/exercises/Other/work/work.json"
+    },
+    {
+      "json": "gym/exercises/Strength/inclinePushUp/inclinePushUp.json",
+      "icon": "gym/exercises/Strength/inclinePushUp/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Strength/closeGripPushUp/closeGripPushUp.json",
+      "icon": "gym/exercises/Strength/closeGripPushUp/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Strength/dumbbellFloorPress/dumbbellFloorPress.json",
+      "icon": "gym/exercises/Strength/dumbbellFloorPress/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Strength/seatedCalfRaise/seatedCalfRaise.json",
+      "icon": "gym/exercises/Strength/seatedCalfRaise/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Strength/singleLegRomanianDeadlift/singleLegRomanianDeadlift.json",
+      "icon": "gym/exercises/Strength/singleLegRomanianDeadlift/Icon.png"
+    },
+    {
+      "json": "gym/exercises/CoreTraining/sidePlankHipLift/sidePlankHipLift.json",
+      "icon": "gym/exercises/CoreTraining/sidePlankHipLift/Icon.png"
+    },
+    {
+      "json": "gym/exercises/CoreTraining/heelTap/heelTap.json",
+      "icon": "gym/exercises/CoreTraining/heelTap/Icon.png"
+    },
+    {
+      "json": "gym/exercises/CoreTraining/plankShoulderTap/plankShoulderTap.json",
+      "icon": "gym/exercises/CoreTraining/plankShoulderTap/Icon.png"
+    },
+    {
+      "json": "gym/exercises/CoreTraining/sidePlankReachThrough/sidePlankReachThrough.json",
+      "icon": "gym/exercises/CoreTraining/sidePlankReachThrough/Icon.png"
+    },
+    {
+      "json": "gym/exercises/CoreTraining/deadBugHeelTap/deadBugHeelTap.json",
+      "icon": "gym/exercises/CoreTraining/deadBugHeelTap/Icon.png"
+    },
+    {
+      "json": "gym/exercises/WarmUp/scapularPushUp/scapularPushUp.json",
+      "icon": "gym/exercises/WarmUp/scapularPushUp/Icon.png"
+    },
+    {
+      "json": "gym/exercises/WarmUp/wallSlide/wallSlide.json",
+      "icon": "gym/exercises/WarmUp/wallSlide/Icon.png"
+    },
+    {
+      "json": "gym/exercises/WarmUp/hipHingeDrill/hipHingeDrill.json",
+      "icon": "gym/exercises/WarmUp/hipHingeDrill/Icon.png"
+    },
+    {
+      "json": "gym/exercises/WarmUp/lateralShuffle/lateralShuffle.json",
+      "icon": "gym/exercises/WarmUp/lateralShuffle/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Cooldown/wristFlexorStretch/wristFlexorStretch.json",
+      "icon": "gym/exercises/Cooldown/wristFlexorStretch/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Cooldown/wristExtensorStretch/wristExtensorStretch.json",
+      "icon": "gym/exercises/Cooldown/wristExtensorStretch/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Cooldown/soleusStretch/soleusStretch.json",
+      "icon": "gym/exercises/Cooldown/soleusStretch/Icon.png"
+    },
+    {
+      "json": "gym/exercises/Cooldown/standingSideStretch/standingSideStretch.json",
+      "icon": "gym/exercises/Cooldown/standingSideStretch/Icon.png"
     }
   ],
   "workouts": [

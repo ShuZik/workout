@@ -3,11 +3,9 @@
   "key": "cross_training_ab_mat_sit_up",
   "title": "AbMat Sit-Up",
   "description": "1. Place the AbMat under the low back, bring the soles of the feet together, and let the knees open comfortably.\n2. Lie back until the shoulders touch the floor, then use the abdomen to sit up through a full controlled range.\n3. Keep the feet and knees stable, lower back to the mat, and repeat without using momentum.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02035",
     "vigorousCode": "02040"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Bodyweight",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Покладіть AbMat під поперек, з’єднайте підошви стоп і дозвольте колінам зручно розвестися.\n2. Опустіться назад до торкання плечима підлоги, потім м’язами преса підніміться в повній контрольованій амплітуді.\n3. Тримайте стопи й коліна нерухомо, опустіться назад на килимок і повторіть без ривків.",
       "sectionTitle": "Власна вага"
     }
-  }
+  },
+  "state": "active"
 }

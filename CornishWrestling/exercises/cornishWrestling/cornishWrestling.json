@@ -3,11 +3,9 @@
   "key": "cornish_wrestling",
   "title": "Cornish Wrestling",
   "description": "1. Begin standing on grass or mats with a trained partner, both in canvas jackets, gripping only the jackets.\n2. Work heaves, hips, crooks, and trips to throw the partner toward the back without gripping below the waist.\n3. Control every fall, avoid the cross-collar and crowbar fouls, and reset to the jacket grip.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cornishWrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть стоячи на траві або килимі з підготовленим партнером, обидва в брезентових куртках, захвати лише за куртки.\n2. Працюйте підйомами, кидками через стегно, зачепами й підніжками, щоб кинути партнера на спину, не захоплюючи нижче пояса.\n3. Контролюйте кожне падіння, уникайте заборонених захватів навхрест за комір і «ломом» та повертайтеся до захвату за куртку.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

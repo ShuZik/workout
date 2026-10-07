@@ -3,11 +3,9 @@
   "key": "jump_rope_running_step",
   "title": "Running Step",
   "description": "1. Turn the rope at an easy rhythm and lift one foot as it passes underneath.\n2. Land on the opposite foot and immediately lift the other leg as if running in place.\n3. Keep one rope pass per foot strike and make the steps quick, low, and quiet.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15551",
     "vigorousCode": "15550"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Jump Rope",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Обертайте скакалку в легкому ритмі й піднімайте одну стопу, коли вона проходить знизу.\n2. Приземліться на протилежну стопу й одразу підніміть іншу ногу, ніби біжите на місці.\n3. Зберігайте один прохід скакалки на кожен дотик стопи й робіть кроки швидкими, низькими та тихими.",
       "sectionTitle": "Скакалка"
     }
-  }
+  },
+  "state": "active"
 }

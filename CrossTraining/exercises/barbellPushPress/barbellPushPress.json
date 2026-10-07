@@ -3,12 +3,9 @@
   "key": "cross_training_barbell_push_press",
   "title": "Barbell Push Press",
   "description": "1. Hold the bar on the shoulders, brace the trunk, and dip straight down by bending the knees and hips slightly.\n2. Drive through the feet to extend the legs and transfer force into the rising bar.\n3. Finish by pressing to straight arms overhead, then lower the bar only after the body is stable.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте штангу на плечах, напружте корпус і зробіть підсід строго вниз, злегка зігнувши коліна й таз.\n2. Відштовхніться стопами, розгинаючи ноги, і передайте зусилля штанзі, що піднімається.\n3. Дотисніть штангу до прямих рук над головою й опускайте її лише після того, як тіло стабілізується.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

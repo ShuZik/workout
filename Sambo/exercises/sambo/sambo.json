@@ -3,11 +3,9 @@
   "key": "sambo",
   "title": "Sambo",
   "description": "1. Begin on mats with a trained partner in jackets, taking sleeve, lapel, or belt grips from a balanced stance.\n2. Drill throws to a controlled landing, then transition to holds and slow leg or arm locks with clear tap signals.\n3. Release every lock at the first tap, reset standing, and keep chokes out of sport sambo practice.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "sambo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на килимі з підготовленим партнером у куртках, беручи захвати за рукав, відворот або пояс зі стійкої стійки.\n2. Відпрацьовуйте кидки до контрольованого приземлення, потім переходьте до утримань і повільних больових на ноги чи руки з чіткими сигналами плескання.\n3. Відпускайте кожен больовий за першого плескання, починайте знову в стійці й не застосовуйте задушливі в спортивному самбо.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

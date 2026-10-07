@@ -3,11 +3,9 @@
   "key": "kendo_kodachi_1",
   "title": "Kendo Kata Kodachi 1",
   "description": "1. Uchidachi takes jodan with the long sword; shidachi holds the short sword in chudan half-facing, tip at uchidachi's face.\n2. As shidachi enters, uchidachi cuts men; shidachi raises the kodachi, lets the cut slide off to the left (ukenagashi), and cuts men.\n3. Shidachi steps back with the kodachi raised as zanshin; both return to chudan and the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Утідаті з довгим мечем займає дзьодан; сідаті тримає короткий меч у тюдан упівоберта, кінчик спрямований в обличчя утідаті.\n2. Коли сідаті входить, утідаті рубає мен; сідаті піднімає кодаті, дає удару зісковзнути ліворуч (укенаґасі) і рубає мен.\n3. Сідаті відходить із піднятим кодаті як дзансін; обоє повертаються в тюдан і на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

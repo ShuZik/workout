@@ -3,11 +3,9 @@
   "key": "suspension_suspension_reverse_lunge",
   "title": "Suspension Reverse Lunge",
   "description": "1. Face the anchor with light handle tension and stand tall on both feet.\n2. Step one leg back and lower both knees while the front foot stays fully grounded.\n3. Drive through the front foot to stand and bring the rear leg forward, then alternate sides.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "suspensionTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Lower Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до кріплення, злегка натягнувши руків’я, рівно на обох стопах.\n2. Ступніть однією ногою назад і опустіть обидва коліна, передня стопа повністю на підлозі.\n3. Відштовхніться передньою стопою, підведіться й поверніть задню ногу вперед, потім змініть бік.",
       "sectionTitle": "Нижня частина тіла"
     }
-  }
+  },
+  "state": "active"
 }

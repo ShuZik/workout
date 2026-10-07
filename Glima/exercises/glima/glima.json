@@ -3,11 +3,9 @@
   "key": "glima",
   "title": "Glima",
   "description": "1. Take the glima hold with a trained partner, one hand on the belt and one on the thigh strap, standing upright.\n2. Step clockwise together and attempt trips and throws by technique, never by pushing the partner down.\n3. Guide the partner's fall, stop when anyone touches the mat between elbow and knee, and retake the hold.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "glima",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть захват гліми з підготовленим партнером, одна рука на поясі, друга на стегновому ремені, стоячи прямо.\n2. Крокуйте ра��ом за годинниковою стрілкою й пробуйте підніжки та кидки технікою, ніколи не звалюючи партнера поштовхом.\n3. Скеровуйте падіння партнера, зупиняйтеся, коли хтось торкнеться землі між ліктем і коліном, і знову візьміть захват.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

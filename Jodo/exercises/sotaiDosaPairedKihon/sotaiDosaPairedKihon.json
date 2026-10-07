@@ -3,11 +3,9 @@
   "key": "jodo_sotai_dosa",
   "title": "Sotai Dosa (Paired Kihon)",
   "description": "1. Shidachi holds the jo and uchidachi the bokuto; bow, take the prescribed distance, and agree on one of the 12 kihon.\n2. Uchidachi delivers the matching cut or thrust at controlled speed; shidachi applies the kihon to the sword or wrists, stopping strikes short of contact to the body.\n3. Shidachi finishes with the jo tip controlling uchidachi's centerline, both reset to distance, swap roles, and stop at once if control is lost.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "jodo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сідзьо тримає дзьо, утідаті — боккен; вклоніться, займіть установлену дистанцію й оберіть один із 12 кіхон.\n2. Утідаті завдає відповідного розрізу чи уколу з контрольованою швидкістю; сідзьо застосовує кіхон до меча або зап’ясть, зупиняючи удари до контакту з тілом.\n3. Сідзьо завершує, контролюючи кінцем дзьо центральну лінію утідаті; обидва повертаються на дистанцію, міняються ролями й одразу зупиняються в разі втрати контролю.",
       "sectionTitle": "Кіхон із партнером"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "judo_o_uchi_gari",
   "title": "O Uchi Gari",
   "description": "1. Draw the partner's weight backward and onto one leg while stepping close between the feet.\n2. Hook the inside of the weighted leg with the reaping leg and trace a large backward arc as the hands control the torso.\n3. Follow the partner's retreat without falling across the knee and guide the landing with the sleeve.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зміщуйте вагу партнера назад на одну ногу, підкроковуючи близько між його стопами.\n2. Зачепіть ногою, що підбиває, внутрішній бік навантаженої ноги й проведіть велику дугу назад, контролюючи тулуб руками.\n3. Слідуйте за відступом партнера, не падаючи поперек його коліна, і спрямовуйте приземлення рукавом.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "hwa_rang_do_gumtoogi",
   "title": "Gumtoogi",
   "description": "1. Equip both partners with padded training swords and head and hand protection, and agree on valid targets and round time.\n2. Move in and out of range, cutting and thrusting at the agreed targets while parrying and evading the partner's sword.\n3. Stop at each scoring touch or the coach's call, step back to the start lines, and resume only when both are ready.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "hwaRangDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Sparring",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Забезпечте обох партнерів м’якими тренувальними мечами та захистом голови й рук, домовтеся про залікові цілі й час раунду.\n2. Входьте в дистанцію й виходьте з неї, завдаючи рубальних і колючих ударів по обумовлених цілях, паруючи й ухиляючись від меча партнера.\n3. Зупиняйтеся після кожного залікового торкання або за командою тренера, повертайтеся до стартових ліній і продовжуйте, коли обидва готові.",
       "sectionTitle": "Спаринг"
     }
-  }
+  },
+  "state": "active"
 }

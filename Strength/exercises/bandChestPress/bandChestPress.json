@@ -3,11 +3,9 @@
   "key": "resistance_band_band_chest_press",
   "title": "Band Chest Press",
   "description": "1. Secure the band behind you at chest height and take a staggered stance with handles beside the chest.\n2. Press both hands forward until the elbows straighten while the ribs remain stacked over the pelvis.\n3. Bend the elbows and return the hands beside the chest under control without letting the band pull the shoulders back.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02052",
     "vigorousCode": "02050"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Resistance Bands",
   "availableFrom": "1.1.4",
@@ -86,5 +83,6 @@
       "description": "1. Закріпіть гуму позаду себе на висоті грудей і станьте в розніжку, тримаючи рукоятки поруч із грудьми.\n2. Вижимайте обидві руки вперед до випрямлення ліктів, зберігаючи ребра над тазом.\n3. Зігніть лікті й контрольовано поверніть руки до грудей, не дозволяючи гумі відтягувати плечі назад.",
       "sectionTitle": "Гуми опору"
     }
-  }
+  },
+  "state": "active"
 }

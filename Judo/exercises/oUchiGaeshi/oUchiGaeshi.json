@@ -3,11 +3,9 @@
   "key": "judo_o_uchi_gaeshi",
   "title": "O Uchi Gaeshi",
   "description": "1. As a trained partner hooks your leg with o-uchi-gari, step the hooked leg outward and around with the hook.\n2. Turn the body away and pull the partner's sleeve in the direction the partner was driving.\n3. Throw the partner past the empty space to the side and guide the breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли пі��готовлений партнер чіпляє вашу ногу о-учі-гарі, відведіть зачеплену ногу назовні по колу слідом за зачепом.\n2. Розверніть тулуб і тягніть рукав партнера в напрямку, куди він тиснув.\n3. Киньте партнера повз звільнений простір убік і спрямуйте страховку.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

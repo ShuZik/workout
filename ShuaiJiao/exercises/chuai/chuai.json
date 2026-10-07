@@ -3,11 +3,9 @@
   "key": "shuai_jiao_chuai",
   "title": "Chuai",
   "description": "1. Grip the partner's sleeve and the jacket at the back or belt, then step in and turn, placing the hips in front of the partner.\n2. Bend the knees below the partner's centre, load the partner onto the hips, and pull the sleeve around.\n3. Straighten the legs to throw the partner over the hips, keeping the sleeve so the partner lands on the side under control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "shuaiJiao",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за рукав партнера й за куртку на спині або пояс, потім увійдіть із поворотом, поставивши таз перед партнером.\n2. Зігніть коліна нижче центру ваги партнера, завантажте його на стегна й потягніть рукав по дузі.\n3. Випрямте ноги й киньте партнера через стегно, утримуючи рукав, щоб він контрольовано приземлився на бік.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

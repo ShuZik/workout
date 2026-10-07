@@ -3,11 +3,9 @@
   "key": "taekwondo_yul_gok",
   "title": "Yul-Gok",
   "description": "1. Start in parallel ready stance and perform the 38-movement pattern, opening with the measured punches in sitting stance.\n2. Include the front snap kicks followed by double punches, the palm hooking blocks with the front elbow strike into the palm, and the jumping back-fist into X-stance.\n3. Finish with the double forearm blocks and closing strikes, then return to parallel ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки й виконайте туль із 38 рухів, відкривши його відмірювальними ударами в стійці вершника.\n2. Додайте прямі удари ногою з подвійними ударами рукою, чіпляльні блоки долонею з ударом ліктем у долоню та стрибок з ударом тильним боком кулака в X-стійку.\n3. Завершіть подвійними блоками передпліччями й завершальними ударами та поверніться в паралельну готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

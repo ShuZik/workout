@@ -3,11 +3,9 @@
   "key": "suspension_suspension_row",
   "title": "Suspension Row",
   "description": "1. Face the anchor, hold both handles, and lean back with straight arms and a rigid body line.\n2. Pull the chest toward the handles by driving the elbows behind the ribs without shrugging.\n3. Pause with shoulder blades drawn back, then extend the arms and lower the body under control.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "suspensionTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundational",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до кріплення, візьміться за обидва руків’я й відхиліться назад на прямих руках, тримаючи тіло жорсткою прямою лінією.\n2. Підтягніть груди до руків’їв, відводячи лікті за ребра й не піднімаючи плечей.\n3. Затримайтеся зі зведеними лопатками, потім випряміть руки й підконтрольно опустіть тіло.",
       "sectionTitle": "Базові"
     }
-  }
+  },
+  "state": "active"
 }

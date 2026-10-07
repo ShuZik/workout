@@ -3,11 +3,9 @@
   "key": "wushu_nanquan",
   "title": "Nanquan",
   "description": "1. Start in a ready stance with the fists at the waist, chest lifted, and a firm, low base.\n2. Perform the nanquan routine with low, stable stances, short powerful hand techniques, bridge-arm actions, and few kicks, driving power from the legs and hips.\n3. Exhale sharply on power moves, keep every stance rooted, and finish with the closing salute in a stable stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці готовності: кулаки біля пояса, груди розкриті, база низька й міцна.\n2. Виконайте комплекс наньцюань з низькими стійкими стійками, короткими потужними техніками рук, діями «руки-мости» й невеликою кількістю ударів ногами, вкладаючи силу від ніг і стегон.\n3. Різко видихайте на силових рухах, зберігайте вкоріненість кожної стійки й завершіть привітанням у стійкій стійці.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "judo_utsuri_goshi",
   "title": "Utsuri Goshi",
   "description": "1. As a trained partner attempts a hip throw, block with the hips and wrap the partner's waist from behind.\n2. Lift the partner off the mat with the hips and arms, then shift the hips across in front of the partner while the partner is airborne.\n3. Lower the partner over the new hip position into a controlled breakfall rather than dropping from height.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Koshi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер намагається кидок через стегно, заблокуйте тазом і обхопіть його талію ззаду.\n2. Підніміть партнера з татамі тазом і руками й, поки він у повітрі, перемістіть таз перед ним.\n3. Опустіть партнера через нове положення стегна в контрольовану страховку, не впускаючи з висоти.",
       "sectionTitle": "Косі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

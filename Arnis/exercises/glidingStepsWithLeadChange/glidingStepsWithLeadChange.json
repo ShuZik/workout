@@ -3,11 +3,9 @@
   "key": "arnis_gliding_steps_lead_change",
   "title": "Gliding Steps with Lead Change",
   "description": "1. Stand in a stick-fighting stance with knees bent, stick ready, and the free hand at the chest.\n2. Glide forward and back with short sliding steps, then switch the lead leg with a small step-through or hop so the other side leads.\n3. Keep the stick and free hand in guard and the eyes forward while varying the tempo.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Solo Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку для бою з палицею: коліна зігнуті, палиця напоготові, вільна рука біля грудей.\n2. Ковзайте вперед і назад короткими кроками, потім змініть передню ногу невеликим переступанням або підскоком, щоб попереду був інший бік.\n3. Тримайте палицю й вільну руку в захисті, погляд уперед, змінюйте темп.",
       "sectionTitle": "Одиночні вправи"
     }
-  }
+  },
+  "state": "active"
 }

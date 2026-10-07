@@ -3,11 +3,9 @@
   "key": "calisthenics_knee_push_up",
   "title": "Knee Push-Up",
   "description": "1. Place the hands slightly wider than the shoulders, rest on the knees, and align the head, hips, and knees.\n2. Bend the elbows back about 30–45 degrees and lower the chest toward the floor without letting the hips sag.\n3. Press through both palms until the elbows are straight, keeping the trunk rigid throughout the repetition.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте руки трохи ширше за плечі, обіпріться на коліна й вишикуйте голову, таз і коліна в одну лінію.\n2. Згинайте лікті назад приблизно на 30–45 градусів і опускайте груди до підлоги, не провисаючи в тазі.\n3. Віджимайтеся обома долонями до випрямлення ліктів, тримаючи корпус жорстким протягом усього повторення.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

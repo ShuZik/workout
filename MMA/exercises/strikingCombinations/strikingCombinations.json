@@ -3,11 +3,9 @@
   "key": "mma_striking_combinations",
   "title": "Striking Combinations",
   "description": "1. From MMA stance, choose a two- to four-strike sequence that mixes punches with a kick or a level change.\n2. Throw the sequence on a bag, pads held by a partner, or in shadow, letting each strike set up the next without crossing the feet.\n3. Finish every combination balanced, with the hands high and the hips ready to sprawl, then reset distance before the next one.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Striking",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки ММА оберіть зв’язку з двох-чотирьох дій, що поєднує удари руками з ударом ногою або зміною рівня.\n2. Виконайте її на мішку, на лапах партнера або в бою з тінню, щоб кожен удар готував наступний, не схрещуючи ноги.\n3. Завершуйте кожну комбінацію в рівновазі, з високими руками й готовністю до спролу, потім відновіть дистанцію перед наступною.",
       "sectionTitle": "Ударна техніка"
     }
-  }
+  },
+  "state": "active"
 }

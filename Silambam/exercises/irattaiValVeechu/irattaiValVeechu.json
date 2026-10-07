@@ -3,11 +3,9 @@
   "key": "silambam_irattai_val_veechu",
   "title": "Irattai Val Veechu",
   "description": "1. Hold a blunt training sword in each hand in a balanced stance, with plenty of clear space around you.\n2. Swing both swords in alternating and crossing circular paths around the body, coordinating the wrists so neither blade strikes you or the other blade unintentionally.\n3. Step forward and back while keeping the rhythm even, then bring both swords into a crossed guard and stop.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "silambam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Weapons",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте по тупому навчальному мечу в кожній руці в стійкій позиції, залишивши навколо багато вільного місця.\n2. Ведіть обидва мечі почерговими й перехресними коловими траєкторіями навколо тіла, узгоджуючи зап’ястя так, щоб клинки не зачепили вас і не зіткнулися випадково.\n3. Крокуйте вперед і назад у рівному ритмі, потім зведіть обидва мечі в схрещений захист і зупиніться.",
       "sectionTitle": "Зброя"
     }
-  }
+  },
+  "state": "active"
 }

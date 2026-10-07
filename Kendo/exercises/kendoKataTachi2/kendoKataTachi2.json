@@ -3,11 +3,9 @@
   "key": "kendo_tachi_2",
   "title": "Kendo Kata Tachi 2",
   "description": "1. Both take chudan and advance three steps to striking distance.\n2. Uchidachi cuts kote; shidachi steps diagonally back to the left, dropping the tip under the attack, and cuts uchidachi's kote.\n3. Shidachi shows zanshin, then both return to chudan and the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обоє займають тюдан і роблять три кроки до дистанції удару.\n2. Утідаті рубає коте; сідаті відступає по діагоналі назад ліворуч, відводячи кінчик під атакою, і рубає коте утідаті.\n3. Сідаті показує дзансін, потім обоє повертаються в тюдан і на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "suspension_suspension_hip_hinge",
   "title": "Suspension Hip Hinge",
   "description": "1. Face the anchor with arms straight, straps tensioned, feet hip-width apart, and knees soft.\n2. Push the hips back while the torso inclines as one unit and the shins remain nearly vertical.\n3. Squeeze the glutes to bring the hips forward and return upright without pulling with the arms.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "suspensionTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundational",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до кріплення, руки прямі, петлі натягнуті, стопи на ширині таза, коліна м’які.\n2. Відводьте таз назад, нахиляючи корпус як єдине ціле, гомілки майже вертикальні.\n3. Стисніть сідниці, щоб вивести таз уперед, і випряміться, не підтягуючись руками.",
       "sectionTitle": "Базові"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "sambo_biceps_compression_lock",
   "title": "Biceps Compression Lock",
   "description": "1. From an armbar-type position, place your forearm or shin in the crook of the partner's elbow.\n2. Fold the partner's arm over the inserted forearm or shin while controlling the shoulder and wrist.\n3. Close the arm only gradually to compress the biceps and release immediately at a tap or verbal signal.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "sambo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із положення важеля ліктя вкладіть передпліччя або гомілку в ліктьовий згин партнера.\n2. Зігніть руку партнера через вкладене передпліччя чи гомілку, контролюючи плече й зап'ястя.\n3. Згинайте руку лише поступово, стискаючи біцепс, і одразу відпустіть за плесканням або голосовим сигналом.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

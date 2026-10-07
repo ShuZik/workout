@@ -3,11 +3,9 @@
   "key": "karate_soto_uke",
   "title": "Soto Uke",
   "description": "1. Chamber the blocking fist outside the shoulder with the elbow bent and the opposite arm extended toward the centerline.\n2. Rotate the torso and sweep the forearm from outside to inside while pulling the opposite fist to the hip.\n3. Stop with the forearm protecting the middle line, elbow below the fist, and shoulders relaxed.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Blocks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Підведіть блокувальний кулак зовні плеча, зігнувши лікоть і витягнувши протилежну руку до центральної лінії.\n2. Поверніть тулуб і проведіть передпліччя ззовні всередину, одночасно відводячи протилежний кулак до стегна.\n3. Зупиніться, захищаючи передпліччям середню лінію, тримаючи лікоть нижче кулака та розслабляючи плечі.",
       "sectionTitle": "Блоки"
     }
-  }
+  },
+  "state": "active"
 }

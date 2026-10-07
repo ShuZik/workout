@@ -6,7 +6,6 @@
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +82,6 @@
       "description": "1. Обоє в тюдан; мотодаті входить і б’є до.\n2. Какарите відступає по діагоналі назад ліворуч, збиває бокен мотодаті вниз праворуч і одразу б’є мен.\n3. Какарите показує дзансін, обоє повертаються в тюдан.",
       "sectionTitle": "Парний кіхон"
     }
-  }
+  },
+  "durationSeconds": 30
 }

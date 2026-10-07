@@ -3,11 +3,9 @@
   "key": "nihon_kempo_main",
   "title": "Nihon Kempo",
   "description": "1. Take a guarded kamae with the chin tucked, fists high, and the weight ready to strike, kick, or clinch.\n2. Shadow-fight (soran) through straight punches, hooks, kicks, knee entries, and imagined takedown or grappling transitions at controlled speed.\n3. Recover kamae after every exchange; for bogu sparring wear the full protective gear and stop at the referee's or partner's signal.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "nihonKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Займіть захисну стійку камае: підборіддя опущене, кулаки високо, вага готова до удару, удару ногою чи захоплення.\n2. Проведіть бій із тінню (соран): прямі, бокові, удари ногами, входи коліном та уявні переходи в кидок або боротьбу з контрольованою швидкістю.\n3. Після кожного обміну повертайтеся в камае; у спаринґу в боґу вдягайте повний захист і зупиняйтеся за сигналом судді чи партнера.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "judo_kata_guruma",
   "title": "Kata Guruma",
   "description": "1. Pull the partner's sleeve forward and drop the hips low under the partner's center with the head beside the partner's hip.\n2. Load the partner across the shoulders, controlling the sleeve and placing the other arm between or around the legs as the rule set allows.\n3. Stand up through the legs and roll the partner off the shoulders to the side, keeping the sleeve so the partner lands on the back.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Te-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Потягніть рукав партнера вперед і глибоко опустіть таз під його центр ваги, тримаючи голову біля його стегна.\n2. Закиньте партнера на плечі, контролюючи рукав і розташовуючи іншу руку між ногами або навколо них, як дозволяють правила.\n3. Підведіться за рахунок ніг і скотіть партнера з плечей убік, утримуючи рукав, щоб він приземлився на спину.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "capoeira_meia_lua_de_frente",
   "title": "Meia-lua de Frente",
   "description": "1. From the ginga with the rear leg back, keep the guard arm up and shift weight onto the front leg.\n2. Swing the straight rear leg up and across in a half-moon arc from outside to inside in front of the body, at a controlled height.\n3. Lower the leg back to the starting side under control and continue into the ginga.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із джинги з відставленою задньою ногою тримайте захисну руку піднятою й перенесіть вагу на передню ногу.\n2. Підніміть пряму задню ногу махом по дузі півмісяця ззовні всередину перед корпусом на контрольовану висоту.\n3. Опустіть ногу з контролем на початковий бік і продовжте джингу.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "karate_gedan_barai",
   "title": "Gedan Barai",
   "description": "1. Chamber the blocking fist near the opposite shoulder while the other arm extends down the intended line.\n2. Rotate the hips and sweep the forearm diagonally down and outward as the opposite fist retracts.\n3. Stop just outside the lead thigh with the wrist straight and elbow slightly bent.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Blocks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Підведіть блокувальний кулак до протилежного плеча, витягнувши іншу руку вздовж наміченої лінії.\n2. Поверніть таз і проведіть передпліччя по діагоналі вниз та назовні, одночасно відводячи інший кулак назад.\n3. Зупиніться одразу зовні переднього стегна, зберігаючи пряме зап’ястя та трохи зігнутий лікоть.",
       "sectionTitle": "Блоки"
     }
-  }
+  },
+  "state": "active"
 }

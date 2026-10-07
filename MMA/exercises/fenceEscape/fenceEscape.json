@@ -3,11 +3,9 @@
   "key": "mma_fence_escape",
   "title": "Fence Escape",
   "description": "1. From the padded wall, frame at the collarbone and pummel the opposite arm inside for an underhook.\n2. Step the underhook-side foot outside, turn the hips, and guide the partner past as the back leaves the wall.\n3. Circle to open space with the hands high and reestablish stance before the partner can square up.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Cage",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Стоячи біля м’якої стіни, виставте рамку в ключицю й проведіть протилежну руку всередину для підхвату.\n2. Виведіть назовні стопу з боку підхвату, розверніть таз і проведіть партнера повз, відриваючи спину від стіни.\n3. Вийдіть по колу у вільний простір із піднятими руками й відновіть стійку, доки партнер не розвернувся до вас.",
       "sectionTitle": "Клітка"
     }
-  }
+  },
+  "state": "active"
 }

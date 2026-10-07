@@ -3,11 +3,9 @@
   "key": "judo_kata_juji_jime",
   "title": "Kata Juji Jime",
   "description": "1. From mount or guard, insert one hand deep in the collar palm up and the other palm down on the opposite side.\n2. Cross the forearms and draw the elbows outward and down so the wrists press the sides of the neck.\n3. Apply pressure gradually and release immediately at a tap, verbal signal, or loss of responsiveness.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З положення верхи або з гарду глибоко вкладіть одну руку в комір долонею вгору, а іншу долонею вниз із протилежного боку.\n2. Схрестіть передпліччя й розведіть лікті назовні та вниз, щоб зап’ястя тиснули на бокові сторони шиї.\n3. Нарощуйте тиск поступово й негайно відпускайте при постукуванні, голосовому сигналі або втраті реакції.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

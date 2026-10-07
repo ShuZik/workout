@@ -3,11 +3,9 @@
   "key": "cornish_wrestling_back_step",
   "title": "Back Step (Kamm war-dhelergh)",
   "description": "1. Grip the ropes of the partner's jacket and pull the partner toward you.\n2. As the partner pulls away, step between the partner's legs and hook the back of one leg with your heel.\n3. Push the partner backward over the hooked leg to land flat on the back, hold the jacket to guide the fall, then shake hands and reset.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cornishWrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за шнури куртки партнера й потягніть його на себе.\n2. Коли партнер відхиляється назад, ступіть між його ногами й зачепіть п'ятою одну його ногу ззаду.\n3. Штовхніть партнера назад через зачеплену ногу, щоб він упав плиском на спину, тримайте куртку, спрямовуючи падіння, потім потисніть руки й почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

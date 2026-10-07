@@ -3,11 +3,9 @@
   "key": "work",
   "title": "Work",
   "description": "1. Choose the exercise you will perform during this work interval.\n2. Move at a controlled, repeatable effort while maintaining safe technique.\n3. Continue until the interval ends, then transition to the next workout step.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "other",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02035",
     "vigorousCode": "02040"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Structure",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Виберіть вправу для цього робочого інтервалу.\n2. Рухайтеся з контрольованим зусиллям, яке зможете повторювати, зберігаючи безпечну техніку.\n3. Продовжуйте до завершення інтервалу, потім перейдіть до наступного етапу тренування.",
       "sectionTitle": "Структура"
     }
-  }
+  },
+  "state": "active"
 }

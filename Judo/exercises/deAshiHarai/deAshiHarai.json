@@ -3,11 +3,9 @@
   "key": "judo_de_ashi_harai",
   "title": "De Ashi Harai",
   "description": "1. Move with the partner and feel the advancing foot just before it accepts full body weight.\n2. Sweep that foot sideways at ankle level with the sole while the hands turn the upper body in the opposite direction.\n3. Continue the sweep through the line, remain upright, and guide the partner's breakfall with the sleeve.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Рухайтеся разом із партнером і вловіть момент перед тим, як його стопа, що висувається, прийме всю вагу тіла.\n2. Підошвою підсічіть цю стопу вбік на рівні щиколотки, одночасно розвертаючи руками верх тулуба в протилежному напрямку.\n3. Продовжте підсічку через лінію руху, залишайтеся прямо й спрямовуйте страхування партнера захватом рукава.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

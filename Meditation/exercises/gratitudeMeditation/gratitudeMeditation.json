@@ -3,11 +3,9 @@
   "key": "meditation_gratitude",
   "title": "Gratitude Meditation",
   "description": "1. Sit quietly and recall one specific person, event, or ordinary support from the day.\n2. Attend to concrete details and name silently what was helpful rather than listing items quickly.\n3. Notice the response in the body, then move to one more example or rest with the first.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Themes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте спокійно й згадайте одну конкретну людину, подію або звичайну підтримку за цей день.\n2. Зверніть увагу на конкретні деталі й подумки назвіть, що допомогло, замість того щоб швидко перелічувати багато речей.\n3. Помітьте відгук у тілі, потім перейдіть до ще одного прикладу або залиштеся з першим.",
       "sectionTitle": "Теми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "karate_ushiro_geri",
   "title": "Ushiro Geri",
   "description": "1. Turn the head to locate the target, pivot the body, and chamber the kicking knee beneath the hips.\n2. Drive the heel straight backward while keeping the toes down and avoiding a wide swinging path.\n3. Recoil the heel to the chamber, complete the turn, and recover the original guard and stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поверніть голову, щоб знайти ціль, розверніться корпусом і підтягніть зігнуте коліно ударної ноги під таз.\n2. Викиньте п’яту прямо назад, тримаючи носок униз і уникаючи широкої махової траєкторії.\n3. Поверніть п’яту у вихідне положення, завершіть розворот і відновіть попередній захист і стійку.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

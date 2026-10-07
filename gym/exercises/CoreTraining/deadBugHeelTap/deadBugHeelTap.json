@@ -1,0 +1,88 @@
+{
+  "id": "14.27",
+  "key": "coretraining_dead_bug_heel_tap",
+  "title": "Dead Bug Heel Tap",
+  "description": "Lie on your back with hips and knees bent to right angles. Lower one heel to touch the floor, return it, and alternate while keeping your lower back steady.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Dead Bug Heel Tap",
+      "description": "Lie on your back with hips and knees bent to right angles. Lower one heel to touch the floor, return it, and alternate while keeping your lower back steady.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Toque de talón en dead bug",
+      "description": "Túmbate boca arriba con caderas y rodillas en ángulo recto. Baja un talón hasta tocar el suelo, vuelve y alterna manteniendo la zona lumbar estable.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Dead bug com toque do calcanhar",
+      "description": "Deite de costas com quadris e joelhos em ângulo reto. Abaixe um calcanhar até tocar o chão, volte e alterne mantendo a lombar estável.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Dead bug avec toucher du talon",
+      "description": "Allongez-vous sur le dos, hanches et genoux à angle droit. Descendez un talon jusqu’au sol, remontez-le puis alternez en gardant le bas du dos stable.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Dead Bug mit Fersentippen",
+      "description": "Lege dich auf den Rücken und beuge Hüfte und Knie rechtwinklig. Senke eine Ferse bis zum Boden, führe sie zurück und wechsle bei stabilem unteren Rücken.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Dead bug con tocco del tallone",
+      "description": "Sdraiati sulla schiena con anche e ginocchia ad angolo retto. Abbassa un tallone fino a toccare terra, riportalo su e alterna mantenendo stabile la zona lombare.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "死虫式脚跟点地",
+      "description": "仰卧，髋部和膝盖弯曲成直角。单侧脚跟下降轻触地面，再收回并交替进行，保持下背部稳定。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "デッドバグヒールタップ",
+      "description": "仰向けで股関節と膝を直角に曲げます。片方のかかとを床に触れるまで下ろして戻し、腰を安定させたまま交互に行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "데드 버그 힐 탭",
+      "description": "등을 대고 누워 고관절과 무릎을 직각으로 굽히세요. 한쪽 뒤꿈치를 바닥에 닿도록 내렸다가 돌아오고 허리를 고정한 채 번갈아 하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เดดบั๊กแตะส้นเท้า",
+      "description": "นอนหงายโดยงอสะโพกและเข่าเป็นมุมฉาก ลดส้นเท้าข้างหนึ่งแตะพื้นแล้วกลับขึ้น สลับข้างโดยรักษาหลังส่วนล่างให้นิ่ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Касание пола пяткой в «мёртвом жуке»",
+      "description": "Лягте на спину, согнув тазобедренные суставы и колени под прямым углом. Опустите одну пятку до касания пола, верните её и чередуйте ноги, удерживая поясницу неподвижно.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Торкання підлоги п’ятою в «мертвому жуку»",
+      "description": "Ляжте на спину, зігнувши кульшові суглоби й коліна під прямим кутом. Опустіть одну п’яту до торкання підлоги, поверніть її та чергуйте ноги, утримуючи поперек нерухомо.",
+      "sectionTitle": "База"
+    }
+  },
+  "state": "active"
+}

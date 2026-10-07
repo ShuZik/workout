@@ -3,11 +3,9 @@
   "key": "wing_chun",
   "title": "Wing Chun",
   "description": "1. Stand in the training stance with the knees bent and turned slightly inward, toes in, and both hands guarding the centreline.\n2. Practise straight centreline punches, tan, bong, and pak hand actions, and short turning and stepping footwork while keeping the elbows down.\n3. Return the hands to the centreline guard after every action and keep the stance stable throughout the interval.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "wingChun",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в тренувальну стійку: коліна зігнуті й трохи зведені всередину, носки повернуті всередину, обидві руки захищають центральну лінію.\n2. Відпрацьовуйте прямі удари по центральній лінії, дії руками тан, бонг і пак, короткі повороти й кроки, тримаючи лікті опущеними.\n3. Після кожної дії повертайте руки в захист центральної лінії й зберігайте стійку стабільною весь інтервал.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

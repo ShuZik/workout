@@ -3,11 +3,9 @@
   "key": "core_leg_raise",
   "title": "Leg Raise",
   "description": "1. Lie on the back with legs together and place the hands beside the body or under the pelvis for support.\n2. Brace the abdomen and raise the knees or straight legs without lifting the lower back away from the floor.\n3. Lower the legs slowly only as far as the lower back remains controlled, then repeat.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, з’єднайте ноги й покладіть руки вздовж тіла або під таз для підтримки.\n2. Напружте живіт і піднімайте коліна або прямі ноги, не відриваючи поперек від підлоги.\n3. Повільно опускайте ноги лише настільки, наскільки зберігається контроль попереку, потім повторіть.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

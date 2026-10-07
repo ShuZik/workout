@@ -3,11 +3,9 @@
   "key": "canne_parade_laterale",
   "title": "Parade Laterale",
   "description": "1. Face a trained partner at measured distance; the attacker delivers a slow, armed lateral strike from the outside toward your head or flank.\n2. As defender, carry the cane upright to the outside line, point up and hand away from the contact point, and meet the strike on the shaft with a firm arm.\n3. Absorb the contact, step back to distance, and swap roles; speed up only while both partners stay controlled.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Partner Parries",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти підготовленого партнера на вивіреній дистанції; той, хто атакує, повільно завдає латераль із замахом ззовні в голову чи корпус.\n2. Захисник виводить тростину вертикально на зовнішню лінію, вістрям угору, рука далеко від точки контакту, і приймає удар на древко твердою рукою.\n3. Погасіть контакт, відновіть дистанцію й поміняйтеся ролями; прискорюйтеся, лише поки обидва контролюють дії.",
       "sectionTitle": "Паради з партнером"
     }
-  }
+  },
+  "state": "active"
 }

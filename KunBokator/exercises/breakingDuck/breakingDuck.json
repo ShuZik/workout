@@ -3,11 +3,9 @@
   "key": "kun_bokator_breaking_duck",
   "title": "Breaking Duck",
   "description": "1. Brace the near forearm and protect the head while the partner, wearing a thigh pad, throws a slow, light roundhouse kick toward your ribs.\n2. Catch the kicking leg with the same-side hand and hold it against your torso above the partner's knee without twisting the standing leg.\n3. Touch the point of the free elbow lightly onto the thigh pad, then release the leg and let the partner regain stance before swapping roles.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "kunBokator",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Напружте ближнє передпліччя й захистіть голову, поки партнер у захисті стегна завдає повільного легкого кругового удару ногою в ребра.\n2. Спіймайте ударну ногу рукою того самого боку й притисніть до корпусу вище коліна партнера, не скручуючи його опорну ногу.\n3. Злегка торкніться кінчиком вільного ліктя захисту стегна, відпустіть ногу й дайте партнерові відновити стійку, потім поміняйтеся ролями.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

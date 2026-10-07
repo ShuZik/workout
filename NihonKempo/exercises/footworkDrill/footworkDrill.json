@@ -3,11 +3,9 @@
   "key": "nihon_kempo_footwork_drill",
   "title": "Footwork Drill",
   "description": "1. Start in kamae and slide forward and back in short steps, moving the foot nearest the direction of travel first and keeping the stance width.\n2. Add side steps and pivots around the lead foot, then sudden entries and quick retreats as if closing and opening distance.\n3. Keep the guard up and the eyes forward throughout, never crossing the feet.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "nihonKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З камае ковзайте вперед і назад короткими кроками, спершу рухаючи ногу, ближчу до напрямку руху, і зберігаючи ширину стійки.\n2. Додайте кроки вбік і розвороти на передній нозі, потім різкі входи та швидкі відходи, ніби скорочуєте й розриваєте дистанцію.\n3. Увесь час тримайте захист піднятим, дивіться вперед і ніколи не схрещуйте ноги.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

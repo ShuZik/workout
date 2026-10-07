@@ -3,11 +3,9 @@
   "key": "aikido_randori_geiko",
   "title": "Randori Geiko",
   "description": "1. Pair with a trained partner on mats, optionally with one partner holding a soft training knife.\n2. Attack, evade, and apply the basic techniques freely while both partners resist and counter within the rules.\n3. Stop on any uncontrolled fall or tap, reset to distance, and switch roles if using the knife.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "aikido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Practice Modes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Працюйте в парі з підготовленим партнером на татамі; за бажанням один тримає м’який тренувальний ніж.\n2. Вільно атакуйте, ухиляйтеся й застосовуйте базові техніки, поки обидва чините опір і контратакуєте в межах правил.\n3. Зупиняйтеся за будь-якого неконтрольованого падіння чи плеску, повертайтеся на дистанцію й міняйтеся ролями, якщо використовуєте ніж.",
       "sectionTitle": "Режими практики"
     }
-  }
+  },
+  "state": "active"
 }

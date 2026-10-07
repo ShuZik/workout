@@ -3,11 +3,9 @@
   "key": "karate_oi_zuki",
   "title": "Oi Zuki",
   "description": "1. From a ready stance, step forward into zenkutsu dachi with the advancing knee tracking over the foot.\n2. Punch with the arm on the same side as the stepping leg, rotating the hip and fist toward the centerline.\n3. Stop before locking the elbow and finish with the opposite fist chambered at the hip and the stance stable.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із готової стійки ступіть уперед у дзенкуцу-дачі, спрямовуючи висунуте коліно над стопою.\n2. Бийте рукою того ж боку, що й крокуюча нога, повертаючи таз і кулак до центральної лінії.\n3. Зупиніться до випрямлення ліктя до упору й завершіть із протилежним кулаком біля стегна в стійкій позиції.",
       "sectionTitle": "Удари руками"
     }
-  }
+  },
+  "state": "active"
 }

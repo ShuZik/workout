@@ -3,11 +3,9 @@
   "key": "karate_gyaku_zuki",
   "title": "Gyaku Zuki",
   "description": "1. From zenkutsu dachi or fighting stance, keep the front knee stable and chamber the rear fist at the hip or guard.\n2. Drive from the rear foot and rotate the rear hip forward as the rear fist travels straight along the centerline.\n3. Stop before locking the elbow, retract the fist, and square the hips back to the starting guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Punches",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із дзенкуцу-дачі або бойової стійки тримайте переднє коліно стабільно, задній кулак підготуйте біля стегна або в захисті.\n2. Відштовхніться задньою стопою та поверніть заднє стегно вперед, спрямовуючи задній кулак прямо по центральній лінії.\n3. Зупиніться до випрямлення ліктя до упору, поверніть кулак і розверніть таз назад у вихідну захисну стійку.",
       "sectionTitle": "Удари руками"
     }
-  }
+  },
+  "state": "active"
 }

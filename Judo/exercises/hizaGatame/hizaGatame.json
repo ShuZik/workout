@@ -3,11 +3,9 @@
   "key": "judo_hiza_gatame",
   "title": "Hiza Gatame",
   "description": "1. From guard or a seated position, trap the partner's arm under your armpit with the wrist held against your side.\n2. Place the knee or shin of the same-side leg against the outside of the partner's elbow while the other foot pushes the hip.\n3. Press the knee inward gradually to extend the elbow and release immediately at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З гарду або сидячи затисніть руку партнера під пахвою, притискаючи його зап’ястя до свого боку.\n2. Приставте коліно або гомілку однойменної ноги до зовнішнього боку його ліктя, іншою стопою впираючись у таз.\n3. Поступово тисніть коліном усередину, розгинаючи лікоть, і негайно відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

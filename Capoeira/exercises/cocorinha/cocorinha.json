@@ -3,11 +3,9 @@
   "key": "capoeira_cocorinha",
   "title": "Cocorinha",
   "description": "1. From the ginga, drop straight down into a deep squat with both feet flat and the knees tracking over the toes.\n2. Raise one forearm over the head to protect it and place the other hand lightly on the floor for balance.\n3. Hold briefly below the imagined kick, then rise smoothly back into the ginga without bouncing.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із джинги опустіться прямо вниз у глибокий присід, стопи повністю на підлозі, коліна за напрямком носків.\n2. Підніміть одне передпліччя над головою для захисту й злегка обіпріться іншою рукою об підлогу для рівноваги.\n3. Затримайтеся на мить під уявним ударом і плавно підведіться в джингу без пружинення.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

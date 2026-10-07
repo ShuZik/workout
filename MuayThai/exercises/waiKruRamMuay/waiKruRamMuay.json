@@ -3,11 +3,9 @@
   "key": "muay_thai_wai_kru_ram_muay",
   "title": "Wai Kru Ram Muay",
   "description": "1. Walk the ring or training area counter-clockwise, pausing at each corner to bow the head three times with the palms together.\n2. Kneel or sit for the salute, then rise into the slow standing ram muay steps with balanced, deliberate arm and leg movements.\n3. Finish facing the centre with a final bow, then return to a guarded Muay Thai stance before training continues.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обійдіть ринг або зону тренування проти годинникової стрілки, зупиняючись у кожному куті, щоб тричі схилити голову зі складеними долонями.\n2. Станьте на коліна або сядьте для привітання, потім підведіться й виконайте повільні кроки рам муай стоячи, збалансовано та усвідомлено рухаючи руками й ногами.\n3. Завершіть обличчям до центру останнім уклоном і поверніться в захисну стійку муай-тай, перш ніж продовжити тренування.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

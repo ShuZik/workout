@@ -3,11 +3,9 @@
   "key": "core_training_crunch",
   "title": "Crunch",
   "description": "1. Lie on the back with the knees bent, feet planted, and fingertips supporting the head lightly.\n2. Brace the abdomen and curl the shoulder blades off the floor while keeping the low back grounded.\n3. Pause briefly, lower under control, and repeat without pulling on the neck.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, зігніть коліна, поставте стопи на підлогу й злегка підтримуйте голову кінчиками пальців.\n2. Напружте живіт і скрутіть корпус, піднімаючи лопатки над підлогою та тримаючи поперек притиснутим до підлоги.\n3. Ненадовго затримайтеся, контрольовано опустіться й повторіть, не тягніть шию руками.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

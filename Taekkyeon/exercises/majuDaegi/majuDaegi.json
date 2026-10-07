@@ -3,11 +3,9 @@
   "key": "taekkyeon_maju_daegi",
   "title": "Maju-daegi",
   "description": "1. Face a partner at kicking distance, both stepping pum-balgi; agree who attacks and which technique is practiced.\n2. The attacker delivers the agreed kick, push, or trip at controlled speed while the defender evades, deflects with hwal-gaet-jit, or counters as agreed.\n3. Stop on the agreed outcome without forcing a fall, reset distance together, and switch roles after each set.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekkyeon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до партнера на дистанції удару ногою, обидва в кроках пум-бальгі; домовтеся, хто атакує і яку техніку відпрацьовуєте.\n2. Атакувальник із контрольованою швидкістю виконує обумовлений удар ногою, поштовх або підсічку, захисник ухиляється, відводить махом руки чи контратакує, як домовилися.\n3. Зупиніться на обумовленому результаті, не форсуючи падіння, разом відновіть дистанцію й міняйтеся ролями після кожної серії.",
       "sectionTitle": "Вправи в парі"
     }
-  }
+  },
+  "state": "active"
 }

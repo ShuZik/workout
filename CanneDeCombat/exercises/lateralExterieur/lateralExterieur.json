@@ -3,11 +3,9 @@
   "key": "canne_lateral_exterieur",
   "title": "Lateral Exterieur",
   "description": "1. With the cane in the right hand and the point forward, turn the upper body slightly right and draw the hand back past the spine while lifting the rear heel.\n2. Flip the point out behind you so arm and cane form one extended line, then bring them around horizontally from the rear to the front with the arm straight toward head, flank, or low target.\n3. Let the point finish the 180-degree arc under control and return to guard.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Strikes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримаючи тростину в правій руці вістрям уперед, трохи поверніть корпус праворуч і відведіть руку назад за лінію хребта, піднімаючи задню п’яту.\n2. Відкиньте вістря назад, щоб рука й тростина утворили одну витягнуту лінію, потім проведіть їх горизонтально ззаду наперед прямою рукою в голову, корпус або низ.\n3. Дайте вістрю підконтрольно завершити дугу 180 градусів і поверніться в стійку.",
       "sectionTitle": "Удари"
     }
-  }
+  },
+  "state": "active"
 }

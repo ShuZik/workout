@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте гирю за роги біля грудей і станьте, поставивши стопи приблизно на ширині плечей.\n2. Присідайте, опускаючи таз між стегон, спрямовуючи коліна за лінією носків і тримаючи лікті під гирею.\n3. Відштовхніться всією стопою й встаньте, не дозволяючи вазі тягнути груди вперед.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

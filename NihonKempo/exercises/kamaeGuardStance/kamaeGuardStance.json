@@ -3,11 +3,9 @@
   "key": "nihon_kempo_kamae",
   "title": "Kamae Guard Stance",
   "description": "1. Stand half-turned with the left foot forward, knees bent, and the weight on the balls of the feet.\n2. Hold the lead fist at eye level and the rear fist beside the chin, elbows in to cover the body and chin tucked.\n3. Keep the guard for the whole round with small, light bounces, rechecking hand height after every movement.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "nihonKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте впівоберта лівою ногою вперед, коліна зігнуті, вага на подушечках стоп.\n2. Тримайте передній кулак на рівні очей, задній — біля підборіддя, лікті притиснуті до корпусу, підборіддя опущене.\n3. Зберігайте захист увесь раунд, легенько пружинячи, і після кожного руху перевіряйте висоту рук.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

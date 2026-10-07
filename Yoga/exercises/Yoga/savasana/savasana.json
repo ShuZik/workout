@@ -6,7 +6,6 @@
   "colorType": "sage",
   "workoutType": "yoga",
   "valueType": "time",
-  "default": 120,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +82,6 @@
       "description": "1. Зручно ляжте на спину, розслабивши стопи й руки.\n2. Дозвольте плечам, щелепі й животу розслабитися.\n3. Відпочивайте з природним диханням і після завершення повільно поверніться в положення сидячи.",
       "sectionTitle": "Відновлення"
     }
-  }
+  },
+  "durationSeconds": 120
 }

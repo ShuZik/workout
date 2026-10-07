@@ -3,11 +3,9 @@
   "key": "shuai_jiao_ti",
   "title": "Ti",
   "description": "1. Move with the partner in a jacket grip and time the moment the partner's foot steps and lightens.\n2. Kick-sweep the partner's ankle with the sole of your foot in the direction of the step while the hands turn the upper body.\n3. Bring the partner down onto the side quickly but under control, keep the grip to ease the landing, and reset standing.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "shuaiJiao",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Рухайтеся з партнером у захваті за куртку й ловіть мить, коли його стопа робить крок і розвантажується.\n2. Підбийте кісточку партнера підошвою в напрямку кроку, водночас повертаючи руками його тулуб.\n3. Швидко, але контрольовано покладіть партнера на бік, утримуючи захват, щоб пом'якшити приземлення, і почніть знову в стійці.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

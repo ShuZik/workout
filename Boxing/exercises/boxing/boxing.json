@@ -3,11 +3,9 @@
   "key": "free_boxing",
   "title": "Boxing",
   "description": "1. Stand orthodox or southpaw with the feet staggered, knees soft, chin tucked, and both fists beside the cheeks.\n2. Move in every direction and combine straight punches, hooks, uppercuts, and defensive actions while rotating from the feet and hips.\n3. Return both hands to guard and restore stance width after every action, keeping the movement balanced through the interval.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15125",
     "vigorousCode": "15100"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "level": 0,
   "section": "1 Main",
@@ -87,5 +84,6 @@
       "description": "1. Станьте в правобічну або лівобічну стійку: стопи зміщені вперед і назад, коліна м’які, підборіддя опущене, кулаки біля щік.\n2. Рухайтеся в усіх напрямках, поєднуючи прямі, бокові удари, аперкоти й захисні дії з обертанням від стоп і таза.\n3. Після кожної дії повертайте обидві руки в захист і відновлюйте ширину стійки, зберігаючи рівновагу протягом інтервалу.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

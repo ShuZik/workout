@@ -3,11 +3,9 @@
   "key": "mma_fence_control_ground",
   "title": "Fence Control on the Ground",
   "description": "1. With a trained partner seated or lying against a padded wall, kneel close with the chest low and one arm controlling the far hip or an underhook.\n2. Keep the partner's back and hips against the wall, block attempts to wall-walk or post a hand, and adjust the knees to follow every movement.\n3. Apply only steady positional pressure, release immediately at a tap or verbal signal, and let the partner stand before resetting.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Cage",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер сидить або лежить біля м’якої стіни, станьте поруч на коліна, тримаючи груди низько, і однією рукою контролюйте дальнє стегно або візьміть підхват.\n2. Утримуйте спину й таз партнера біля стіни, блокуйте спроби піднятися по стіні чи впертися рукою й підлаштовуйте коліна під кожен його рух.\n3. Тисніть лише позиційно й рівномірно, одразу відпускайте за плесканням чи голосовим сигналом і дайте партнерові підвестися перед повтором.",
       "sectionTitle": "Клітка"
     }
-  }
+  },
+  "state": "active"
 }

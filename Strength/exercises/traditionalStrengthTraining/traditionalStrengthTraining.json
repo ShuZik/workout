@@ -3,11 +3,9 @@
   "key": "traditional_strength_training",
   "title": "Traditional Strength Training",
   "description": "1. Choose the exercise, load, repetition target, and rest period before the set begins.\n2. Lift through the working phase without bouncing or using momentum, then control the lowering phase.\n3. Place or rack the load safely after the final clean repetition and take the programmed rest.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02052",
     "vigorousCode": "02050"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Training",
   "availableFrom": "1.1.4",
@@ -86,5 +83,6 @@
       "description": "1. Виберіть вправу, вагу, цільову кількість повторень і час відпочинку до початку підходу.\n2. Піднімайте в робочій фазі без відскоку та інерції, потім контролюйте опускання.\n3. Після останнього технічно чистого повторення безпечно покладіть вагу або поверніть її на стійку та відпочиньте за планом.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "agility_in_in_out_out_ladder",
   "title": "In-In-Out-Out Ladder",
   "description": "1. Stand at one end of an agility ladder facing forward.\n2. Step the lead foot and then the other foot into the first square, then step each foot outside its respective side.\n3. Advance to the next square and repeat the in-in-out-out pattern without touching the ladder.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Agility",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте біля одного кінця координаційної драбинки обличчям уперед.\n2. Поставте провідну стопу, потім іншу в першу клітинку, після чого виведіть кожну стопу назовні на свій бік.\n3. Переходьте до наступної клітинки й повторюйте схему «всередину-всередину-назовні-назовні», не зачіпаючи драбинку.",
       "sectionTitle": "Спритність"
     }
-  }
+  },
+  "state": "active"
 }

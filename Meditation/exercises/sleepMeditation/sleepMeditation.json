@@ -3,11 +3,9 @@
   "key": "meditation_sleep",
   "title": "Sleep Meditation",
   "description": "1. Lie in the usual sleep position, dim the room, and let the eyes close without trying to force sleep.\n2. Release the jaw, shoulders, abdomen, hands, and legs one area at a time while the breath stays natural.\n3. Count exhalations or follow body sensations; restart gently whenever the mind begins planning or reviewing.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Themes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте у звичну позу для сну, приглушіть світло й закрийте очі, не намагаючись змусити себе заснути.\n2. Розслабляйте щелепу, плечі, живіт, кисті й ноги по одній ділянці, зберігаючи природне дихання.\n3. Рахуйте видихи або стежте за тілесними відчуттями; м’яко починайте заново, коли розум починає планувати або згадувати.",
       "sectionTitle": "Теми"
     }
-  }
+  },
+  "state": "active"
 }

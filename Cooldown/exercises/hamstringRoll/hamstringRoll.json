@@ -3,11 +3,9 @@
   "key": "foam_rolling_hamstring_roll",
   "title": "Hamstring Roll",
   "description": "1. Sit with the roller under one thigh and place the hands behind the body for support.\n2. Lift the hips and roll from just above the back of the knee to the crease below the glute.\n3. Rotate the leg slightly to cover the inner and outer hamstring, then switch legs.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Release Work",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте з роликом під одним стегном і поставте руки позаду тіла для підтримки.\n2. Підніміть таз і прокочуйте від ділянки трохи вище задньої поверхні коліна до складки під сідницею.\n3. Злегка повертайте ногу, щоб охопити внутрішню й зовнішню частини задньої поверхні стегна, потім змініть ноги.",
       "sectionTitle": "Розслаблення м’язів"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "canne_enleve",
   "title": "Enleve",
   "description": "1. From guard, lower the point and lift the cane forward and upward in a rising wind-up so it travels up past the face and over the shoulder.\n2. Continue the circle and bring the cane down on a vertical line onto the head with the arm extended.\n3. Stop at target height under control and return to guard.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Strikes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки опустіть вістря й підніміть тростину вперед і вгору висхідним замахом, проводячи її перед обличчям і через плече.\n2. Продовжте коло й опустіть тростину вертикальною лінією на голову прямою рукою.\n3. Підконтрольно зупиніться на висоті цілі й поверніться в стійку.",
       "sectionTitle": "Удари"
     }
-  }
+  },
+  "state": "active"
 }

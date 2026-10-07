@@ -3,11 +3,9 @@
   "key": "bjj_elbow_escape_from_mount",
   "title": "Elbow Escape from Mount",
   "description": "1. From bottom mount, frame both forearms across the partner's hips and turn slightly onto one side.\n2. Push the near knee away, shrimp the hips back, and slide the lower knee between the bodies using the elbow-knee connection.\n3. Thread the second leg through to recover half or full guard, then square the hips to the partner.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Escapes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Знизу з маунту впріться обома передпліччями в таз партнера й злегка поверніться на бік.\n2. Відштовхніть ближнє коліно, зробіть «креветку», відводячи таз назад, і заведіть нижнє коліно між тулубами завдяки зв’язці лікоть–коліно.\n3. Проведіть другу ногу, щоб повернути напівгард або повний гард, потім розверніть таз до партнера.",
       "sectionTitle": "Виходи"
     }
-  }
+  },
+  "state": "active"
 }

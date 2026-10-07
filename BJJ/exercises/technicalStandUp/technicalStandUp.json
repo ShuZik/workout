@@ -3,11 +3,9 @@
   "key": "bjj_technical_stand_up",
   "title": "Technical Stand-Up",
   "description": "1. From sitting, plant one foot and the opposite hand while the free hand frames toward the partner.\n2. Lift the hips and sweep the extended leg backward beneath the body without turning the back.\n3. Place that foot behind, rise into a balanced grappling stance, and keep the eyes and framing hand toward the partner.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Escapes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. З положення сидячи впріться однією стопою й протилежною рукою, а вільною рукою виставте упор у бік партнера.\n2. Підніміть таз і проведіть випрямлену ногу назад під тулубом, не повертаючись спиною.\n3. Поставте цю стопу позаду, підведіться у стабільну борцівську стійку й тримайте погляд і руку-упор спрямованими на партнера.",
       "sectionTitle": "Виходи"
     }
-  }
+  },
+  "state": "active"
 }

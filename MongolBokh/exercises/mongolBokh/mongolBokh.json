@@ -3,11 +3,9 @@
   "key": "mongol_bokh",
   "title": "Mongol Bokh",
   "description": "1. Begin standing on grass or mats with a trained partner after a short devee dance.\n2. Grip the partner's arms, shoulders, or belt area and work throws, trips, and lifts to make the partner touch down with the upper body, knee, or elbow.\n3. Control every fall, help the partner up, and restart; no strikes, chokes, or locks.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "mongolBokh",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Після короткого танцю девее почніть стоячи на траві або килимі з підготовленим партнером.\n2. Захоплюйте руки, плечі або ділянку пояса партнера й працюйте кидками, підніжками та підйомами, щоб він торкнувся землі тулубом, коліном чи ліктем.\n3. Контролюйте кожне падіння, допоможіть партнерові підвестися й почніть знову; без ударів, задушень і больових.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

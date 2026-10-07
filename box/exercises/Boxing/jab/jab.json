@@ -6,7 +6,6 @@
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +82,6 @@
       "description": "1. 가드 자세에서 뒷발로 가볍게 밀어 앞손 주먹을 목표를 향해 곧게 뻗습니다.\n2. 팔이 거의 펴질 때 주먹을 돌리고 앞쪽 어깨를 턱 쪽으로 올리며 뒷손은 볼 옆에 유지합니다.\n3. 같은 경로로 주먹을 회수해 앞손을 가드로 되돌린 뒤 발을 움직이거나 다음 펀치를 던집니다.",
       "sectionTitle": "기본"
     }
-  }
+  },
+  "durationSeconds": 30
 }

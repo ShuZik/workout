@@ -3,11 +3,9 @@
   "key": "judo_ashi_guruma",
   "title": "Ashi Guruma",
   "description": "1. Draw the partner forward and turn in, placing the straight leg across the front of the partner's knee.\n2. Block the knee with the extended leg while the upper body continues turning.\n3. Wheel the partner over the straight leg with the hand pull, retaining the sleeve for the breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виведіть партнера вперед і увійдіть із р��зворотом, виставивши пряму ногу перед його коліном.\n2. Заблокуйте коліно прямою ногою, продовжуючи розвертати тулуб.\n3. Тягою рук перекотіть партнера через пряму ногу, утримуючи рукав для страховки.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

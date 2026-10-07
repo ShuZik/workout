@@ -3,11 +3,9 @@
   "key": "iaido_sogiri",
   "title": "Sogiri",
   "description": "1. Advance on a single opponent and draw upward over the head, deflecting while turning into a cut toward the head.\n2. Continue with successive cuts: diagonal from the right, diagonal from the left, a horizontal cut through the trunk, and a final vertical cut, stepping forward with each.\n3. Perform chiburi, resheathe, and step back to the start with zanshin.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Standing Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Рухайтеся на одного суперника й оголіть меч угору над головою, відводячи удар і переходячи в розріз у голову.\n2. Продовжте серією розрізів: діагональ справа, діагональ зліва, горизонтальний по корпусу й завершальний вертикальний, із кроком уперед на кожному.\n3. Виконайте тібурі, вкладіть меч і відступіть на початок із дзансіном.",
       "sectionTitle": "Форми з положення стоячи"
     }
-  }
+  },
+  "state": "active"
 }

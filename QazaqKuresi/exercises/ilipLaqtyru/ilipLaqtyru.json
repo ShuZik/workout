@@ -3,11 +3,9 @@
   "key": "qazaq_kuresi_ilip_laqtyru",
   "title": "Ilip Laqtyru",
   "description": "1. Take a close belt grip and press the chest toward the partner to load the partner's weight backward.\n2. Hook the partner's shin with your shin or calf and pull the leg away while the upper body drives forward.\n3. Lower the partner onto the back without dropping onto the knees, then release the hook and grip.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "qazaqKuresi",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть щільний захват за пояс і тисніть грудьми на партнера, переводячи його вагу назад.\n2. Зачепіть гомілку партнера своєю гомілкою або литкою й відведіть його ногу, водночас подаючись тулубом уперед.\n3. Покладіть партнера на спину, не опускаючись на коліна, потім зніміть зачіп і відпустіть захват.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

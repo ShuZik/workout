@@ -3,11 +3,9 @@
   "key": "jump_rope_front_cross",
   "title": "Front Cross",
   "description": "1. Establish a basic bounce with the hands at hip height and the rope turning forward.\n2. As the rope passes overhead, cross the forearms in front of the body so the hands reach the opposite hips, and jump through the crossed loop.\n3. Uncross the arms on the next turn, return to a basic bounce, and alternate which arm crosses on top.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15551",
     "vigorousCode": "15550"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Cardio",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Налагодьте базові стрибки, руки на рівні стегон, скакалка обертається вперед.\n2. Коли скакалка проходить над головою, схрестіть передпліччя перед корпусом так, щоб кисті опинилися біля протилежних стегон, і перестрибніть схрещену петлю.\n3. На наступному оберті розведіть руки, поверніться до базового стрибка й чергуйте, яка рука зверху.",
       "sectionTitle": "Кардіо"
     }
-  }
+  },
+  "state": "active"
 }

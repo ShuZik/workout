@@ -3,11 +3,9 @@
   "key": "functional_reverse_lunge",
   "title": "Reverse Lunge",
   "description": "1. Stand tall with feet hip-width apart and brace the trunk.\n2. Step one foot backward and lower both knees while the front knee tracks over the toes.\n3. Press through the front foot to return to standing, then repeat with the other leg.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте рівно, стопи на ширині таза, і напружте корпус.\n2. Ступіть однією ногою назад і опустіть обидва коліна, спрямовуючи переднє коліно за лінією носка.\n3. Відштовхніться передньою стопою, поверніться в стійку й повторіть іншою ногою.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "mma_rear_roundhouse_kick",
   "title": "Rear Roundhouse Kick",
   "description": "1. Plant the lead foot and begin pivoting it away while keeping the hands high.\n2. Rotate the rear hip and swing the shin through a body pad rather than snapping only the lower leg.\n3. Recoil or continue the rotation safely, then return the rear foot and hips to a balanced stance.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Striking",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Поставте передню стопу й почніть розвертати її назовні, тримаючи руки високо.\n2. Розверніть заднє стегно й проведіть гомілку крізь маківару для корпусу, а не хльостко викидайте лише нижню частину ноги.\n3. Поверніть ногу або безпечно завершіть обертання, потім поставте задню стопу й таз у врівноважену стійку.",
       "sectionTitle": "Ударна техніка"
     }
-  }
+  },
+  "state": "active"
 }

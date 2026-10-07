@@ -6,8 +6,6 @@
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте штангу на плечах, напружте корпус і зробіть короткий вертикальний підсід за рахунок колін і таза.\n2. Виштовхніть штангу вгору, потім знову зігніть коліна й піддіть під неї, фіксуючи руки над головою.\n3. Повністю випряміться зі стабільною штангою над головою, перш ніж опустити її на плечі.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

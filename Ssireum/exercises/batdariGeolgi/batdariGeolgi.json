@@ -3,11 +3,9 @@
   "key": "ssireum_batdari_geolgi",
   "title": "Batdari-geolgi",
   "description": "1. From the satba grip, pull the partner toward you to make the partner step and load one leg.\n2. Hook your right leg around the outside of the partner's leg and push the upper body over it.\n3. Topple the partner backward under control, keeping the satba grip until the partner lands, then let go.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "ssireum",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захвату за сатбу потягніть партнера на себе, щоб він ступив і навантажив одну ногу.\n2. Зачепіть правою ногою ногу партнера ззовні й штовхніть його тулуб через неї.\n3. Контрольовано перекиньте партнера назад, утримуючи сатбу до приземлення, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

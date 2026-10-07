@@ -3,11 +3,9 @@
   "key": "bjj_pull_guard",
   "title": "Pull Guard",
   "description": "1. From standing with a trained partner, establish secure sleeve and upper-body grips before taking weight off the feet.\n2. Place one foot at the partner's hip, sit to the mat under control, and use the grips to keep the partner from stepping away.\n3. Bring the second leg around the waist or establish open guard, then settle the position before releasing either grip.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Takedowns",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Стоячи з підготовленим партнером, візьміть надійні захвати за рукав і верх тулуба, перш ніж зняти вагу зі стоп.\n2. Поставте одну стопу партнерові на таз, під контролем сядьте на килим і захватами не давайте йому відступити.\n3. Обхопіть талію другою ногою або вибудуйте відкритий гард, потім закріпіть позицію, перш ніж відпустити будь-який захват.",
       "sectionTitle": "Переведення в партер"
     }
-  }
+  },
+  "state": "active"
 }

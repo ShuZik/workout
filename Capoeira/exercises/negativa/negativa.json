@@ -3,11 +3,9 @@
   "key": "capoeira_negativa",
   "title": "Negativa",
   "description": "1. From the ginga, sink low by bending the supporting knee deeply while the other leg slides forward along the floor.\n2. Place the hand on the same side as the bent leg on the floor beside the hip and raise the other forearm to guard the face.\n3. Keep the chest low and the head clear of the line of attack, then push off the hand and return to the ginga.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із джинги опустіться низько, глибоко згинаючи опорне коліно, поки інша нога ковзає вперед по підлозі.\n2. Поставте на підлогу біля стегна руку з боку зігнутої ноги й підніміть інше передпліччя для захисту обличчя.\n3. Тримайте груди низько, а голову поза лінією атаки, потім відштовхніться рукою й поверніться в джингу.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

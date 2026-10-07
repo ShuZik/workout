@@ -3,11 +3,9 @@
   "key": "silambam_kadaikambu_veechu",
   "title": "Kadaikambu Veechu",
   "description": "1. Hold a full-length training staff in both hands in a stable stance, checking that the whole swing area around you is clear.\n2. Whirl the staff in continuous circles and figure-eights on both sides of the body, turning the wrists and passing it smoothly between the hands.\n3. Add steps forward and back while keeping the rotation even, then slow the staff into the ready position before stopping.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "silambam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Weapons",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте довгу навчальну жердину двома руками в стійкій позиції, переконавшись, що вся зона обертання вільна.\n2. Обертайте жердину безперервними колами й вісімками з обох боків тіла, повертаючи зап’ястя та плавно передаючи її з руки в руку.\n3. Додайте кроки вперед і назад, зберігаючи рівномірне обертання, потім сповільніть жердину до готової позиції та зупиніться.",
       "sectionTitle": "Зброя"
     }
-  }
+  },
+  "state": "active"
 }

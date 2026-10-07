@@ -3,11 +3,9 @@
   "key": "chidaoba",
   "title": "Chidaoba",
   "description": "1. Begin standing on mats with a trained partner, both in short jackets and belts, taking grips on the jacket and belt.\n2. Work for throws and trips from the standing grip only, with no groundwork after the fall.\n3. Guide every throw to a controlled landing and reset standing after each fall.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "chidaoba",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть стоячи на килимі з підготовленим партнером, обидва в коротких куртках і поясах, захвати за куртку й пояс.\n2. Працюйте на кидки й підсічки лише із захвату в стійці, без боротьби в партері після падіння.\n3. Доводьте кожен кидок до контрольованого приземлення й починайте знову в стійці після кожного падіння.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

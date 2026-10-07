@@ -3,11 +3,9 @@
   "key": "shorinji_kempo_ukemi",
   "title": "Ukemi Breakfalls",
   "description": "1. Start from a low squat and fall backward, tucking the chin and slapping the mat with both arms to spread the impact.\n2. Practice side and forward falls, then forward rolls over the shoulder, keeping the body rounded and breathing out on landing.\n3. Rise immediately into kamae facing the imagined opponent after every fall.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "shorinjiKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З низького присіду падайте назад, притиснувши підборіддя й ударяючи обома руками по татамі, щоб погасити удар.\n2. Відпрацюйте падіння на бік і вперед, потім перекиди через плече, тримаючи тіло заокругленим і видихаючи під час приземлення.\n3. Після кожного падіння одразу підводьтеся в камае обличчям до уявного суперника.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "light_jog",
   "title": "Light Jog",
   "description": "1. Stand tall and begin with small jogging steps under the hips.\n2. Land lightly with knees soft while the arms swing naturally beside the body.\n3. Increase cadence gradually but keep the stride short enough to avoid fatigue.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "12025",
     "vigorousCode": "12020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Cardio",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте тулуб прямо та почніть біг дрібними кроками під тазом.\n2. М’яко приземляйтеся зі злегка зігнутими колінами, природно рухаючи руками вздовж тіла.\n3. Поступово збільшуйте частоту кроків, але зберігайте короткий крок, щоб уникнути втоми.",
       "sectionTitle": "Кардіо"
     }
-  }
+  },
+  "state": "active"
 }

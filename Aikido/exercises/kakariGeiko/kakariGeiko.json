@@ -3,11 +3,9 @@
   "key": "aikido_kakari_geiko",
   "title": "Kakari Geiko",
   "description": "1. Pair with a trained partner; uke delivers correct, committed attacks at an agreed pace.\n2. Tori applies any of the basic techniques and uke receives without resistance using proper breakfalls.\n3. Reset after each technique and switch roles at the halfway point of the round.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "aikido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Practice Modes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Працюйте в парі з підготовленим партнером; уке завдає правильних рішучих атак в узгодженому темпі.\n2. Торі застосовує будь-яку з базових технік, а уке приймає її без опору правильними страховками.\n3. Починайте знову після кожної техніки й поміняйтеся ролями в середині раунду.",
       "sectionTitle": "Режими практики"
     }
-  }
+  },
+  "state": "active"
 }

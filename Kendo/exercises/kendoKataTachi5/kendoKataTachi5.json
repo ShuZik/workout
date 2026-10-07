@@ -3,11 +3,9 @@
   "key": "kendo_tachi_5",
   "title": "Kendo Kata Tachi 5",
   "description": "1. Uchidachi takes left jodan; shidachi takes chudan with the tip aimed at uchidachi's left fist.\n2. Uchidachi cuts men; shidachi slides up and deflects the cut (suriage) and cuts men in one motion.\n3. Shidachi steps back into left jodan as zanshin; both return to chudan and the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Утідаті займає хідарі-дзьодан; сідаті — тюдан із кінчиком, спрямованим у лівий кулак утідаті.\n2. Утідаті рубає мен; сідаті ковзним рухом угору відводить удар (суріаґе) і одним рухом рубає мен.\n3. Сідаті відступає в хідарі-дзьодан як дзансін; обоє повертаються в тюдан і на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

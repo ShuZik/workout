@@ -3,11 +3,9 @@
   "key": "taido_jissen",
   "title": "Jissen",
   "description": "1. Two partners in protective equipment face off in taido stance; agree that only the torso is a target and the head is excluded.\n2. Exchange controlled kicks and strikes from proper taido movement, using constant footwork, angle changes, and twisting or turning techniques.\n3. Retract each scoring technique and return to stance; strikes indicate the opening without knockout power, and both stop at once on the referee's or partner's call.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "taido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Sparring",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Двоє партнерів у захисті стоять один проти одного в стійці тайдо; домовтеся, що ціль — лише корпус, голова виключена.\n2. Обмінюйтеся контрольованими ударами ногами й руками з правильного руху тайдо, з постійною роботою ніг, зміною кута й обертальними чи скручувальними техніками.\n3. Повертайте кожну результативну техніку й стійку; удари лише позначають шпарину без нокаутувальної сили, обидва одразу зупиняються за командою судді чи партнера.",
       "sectionTitle": "Спаринг"
     }
-  }
+  },
+  "state": "active"
 }

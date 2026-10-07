@@ -3,11 +3,9 @@
   "key": "resistance_band_band_squat",
   "title": "Band Squat",
   "description": "1. Stand on the band with feet shoulder-width apart and hold the ends at shoulder height.\n2. Squat by sending the hips back and down while the knees track over the toes and the chest stays lifted.\n3. Drive through the whole feet to stand against the band without letting the knees collapse inward.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02052",
     "vigorousCode": "02050"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Resistance Bands",
   "availableFrom": "1.1.4",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на гуму, стопи на ширині плечей, і тримайте кінці на рівні плечей.\n2. Присідайте, відводячи таз назад і вниз, спрямовуючи коліна за лінією носків і тримаючи груди піднятими.\n3. Відштовхуйтеся всією стопою й вставайте проти опору гуми, не зводячи коліна всередину.",
       "sectionTitle": "Гуми опору"
     }
-  }
+  },
+  "state": "active"
 }

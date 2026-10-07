@@ -3,11 +3,9 @@
   "key": "chest_stretch",
   "title": "Chest Stretch",
   "description": "1. Stand beside a wall or doorway and place one forearm against it with the elbow near shoulder height.\n2. Step or rotate the chest gently away while the shoulder remains down.\n3. Hold the stretch across the chest, return to neutral, and repeat on the other side.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Static Stretching",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте поруч зі стіною або дверним отвором і притуліть до нього передпліччя, розташувавши лікоть приблизно на висоті плеча.\n2. М’яко зробіть крок або поверніть грудну клітку від опори, тримаючи плече опущеним.\n3. Утримуйте розтягування в ділянці грудей, поверніться в нейтральне положення та повторіть з іншого боку.",
       "sectionTitle": "Статичне розтягування"
     }
-  }
+  },
+  "state": "active"
 }

@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Сядьте або станьте рівно, тримаючи гантелі на рівні плечей, зап’ястя над ліктями, корпус напружений.\n2. Вижміть обидві гантелі над головою, не відхиляючись назад і не допомагаючи собі ногами.\n3. Завершіть із прямими руками біля голови, потім контрольовано опустіть гантелі до плечей.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

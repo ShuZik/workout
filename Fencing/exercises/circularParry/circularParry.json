@@ -3,11 +3,9 @@
   "key": "fencing_circular_parry",
   "title": "Circular Parry",
   "description": "1. From an engagement, for example sixte, the partner disengages and attacks into the line you just covered on the other side.\n2. Describe a small circle with the point, under and around the attacking blade, collecting it and bringing it back into your original line of engagement.\n3. Riposte from the parry, recover to en garde, and swap roles; keep the circle small and driven by the fingers.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Parries",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі з’єднання, наприклад у шостій, партнер робить переведення й атакує в лінію з іншого боку.\n2. Опишіть вістрям невелике коло під атакувальним клинком і навколо нього, захопіть його й поверніть у вихідну лінію з’єднання.\n3. Відповідайте із захисту, поверніться в стійку й поміняйтеся ролями; коло тримайте малим і ведіть пальцями.",
       "sectionTitle": "Захисти"
     }
-  }
+  },
+  "state": "active"
 }

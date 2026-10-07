@@ -1,0 +1,88 @@
+{
+  "id": "10.35",
+  "key": "cooldown_wrist_extensor_stretch",
+  "title": "Wrist Extensor Stretch",
+  "description": "Extend one arm with the palm facing down and bend the wrist so the fingers point toward the floor. Gently assist with the other hand without forcing the stretch, then switch sides.",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wrist Extensor Stretch",
+      "description": "Extend one arm with the palm facing down and bend the wrist so the fingers point toward the floor. Gently assist with the other hand without forcing the stretch, then switch sides.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento de extensores de muñeca",
+      "description": "Extiende un brazo con la palma hacia abajo y flexiona la muñeca apuntando los dedos al suelo. Ayuda suavemente con la otra mano sin forzar el estiramiento y cambia de lado.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento dos extensores do punho",
+      "description": "Estenda um braço com a palma para baixo e dobre o punho apontando os dedos para o chão. Auxilie suavemente com a outra mão sem forçar e troque o lado.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement des extenseurs du poignet",
+      "description": "Tendez un bras, paume vers le bas, et fléchissez le poignet pour diriger les doigts vers le sol. Aidez doucement avec l’autre main sans forcer, puis changez de côté.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Dehnung der Handgelenkstrecker",
+      "description": "Strecke einen Arm mit der Handfläche nach unten und beuge das Handgelenk, sodass die Finger zum Boden zeigen. Unterstütze sanft mit der anderen Hand ohne zu erzwingen und wechsle die Seite.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento degli estensori del polso",
+      "description": "Stendi un braccio con il palmo verso il basso e piega il polso puntando le dita a terra. Aiuta delicatamente con l’altra mano senza forzare, poi cambia lato.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "腕伸肌拉伸",
+      "description": "伸直一只手臂，掌心向下，弯曲手腕让手指朝向地面。用另一只手轻轻辅助，不要强行加深拉伸，再换侧。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "手首伸筋のストレッチ",
+      "description": "手のひらを下に向けて片腕を伸ばし、指が床へ向くよう手首を曲げます。反対の手で無理なく軽く補助し、反対側も行います。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "손목 폄근 스트레칭",
+      "description": "한쪽 팔을 펴고 손바닥을 아래로 향한 뒤 손가락이 바닥을 향하도록 손목을 굽히세요. 반대 손으로 무리 없이 부드럽게 도와주고 반대쪽도 하세요.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "ยืดกล้ามเนื้อเหยียดข้อมือ",
+      "description": "เหยียดแขนข้างหนึ่งคว่ำฝ่ามือและงอข้อมือให้นิ้วชี้ลงพื้น ใช้มืออีกข้างช่วยเบา ๆ โดยไม่ฝืนการยืดแล้วสลับข้าง",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Растяжка разгибателей запястья",
+      "description": "Вытяните руку ладонью вниз и согните запястье, направив пальцы к полу. Мягко помогите другой рукой без усилия через натяжение, затем смените сторону.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Розтягування розгиначів зап’ястя",
+      "description": "Витягніть руку долонею вниз і зігніть зап’ястя, спрямувавши пальці до підлоги. М’яко допоможіть іншою рукою без примусового натягу, потім змініть бік.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  },
+  "state": "active"
+}

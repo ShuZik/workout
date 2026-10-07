@@ -3,11 +3,9 @@
   "key": "judo_ko_uchi_gari",
   "title": "Ko Uchi Gari",
   "description": "1. Use the grips and a short step to place the partner's weight onto one heel.\n2. Enter close and reap the inside of that heel or lower leg with a small timed action while steering the torso backward.\n3. Remove the reaping foot, remain balanced, and retain the sleeve to control the fall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. За допомогою захватів і короткого кроку перенесіть вагу партнера на одну п’яту.\n2. Увійдіть близько й невеликим своєчасним рухом підбийте цю п’яту або нижню частину ноги зсередини, спрямовуючи тулуб назад.\n3. Приберіть стопу, що підбиває, зберігайте рівновагу й утримуйте рукав для контролю падіння.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "kick_boxing_body_cross",
   "title": "Body Cross",
   "description": "1. From guard, bend the knees to lower the body while the lead hand protects the face.\n2. Push through the rear foot, rotate the hip, and drive the rear fist straight into the torso.\n3. Pull the fist back along the same path and return to the original height and stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із захисту зігніть коліна, щоб опустити тіло, поки передня рука захищає обличчя.\n2. Відштовхніться задньою стопою, поверніть таз і спрямуйте задній кулак прямо в корпус.\n3. Приберіть кулак тією самою траєкторією й поверніться до початкової висоти та стійки.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

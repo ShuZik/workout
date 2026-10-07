@@ -3,11 +3,9 @@
   "key": "judo_ryote_jime",
   "title": "Ryote Jime",
   "description": "1. From mount or guard, grip the partner's left collar with the left hand and right collar with the right hand, without crossing the arms.\n2. Turn the wrists inward so the knuckle side of each wrist presses the side of the neck.\n3. Draw the collars together gradually and release immediately at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З положення верхи або з гарду захопіть лівий комір партнера лівою рукою, а правий — правою, не схрещуючи рук.\n2. Поверніть зап’ястя всередину, щоб бік кісточок кожного зап’ястя тиснув на бокову сторону шиї.\n3. Поступово зводьте коміри й негайно відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

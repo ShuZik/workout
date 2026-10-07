@@ -1,0 +1,88 @@
+{
+  "id": "10.37",
+  "key": "cooldown_standing_side_stretch",
+  "title": "Standing Side Stretch",
+  "description": "Stand tall and raise one arm overhead. Reach gently to the opposite side without twisting your torso or leaning forward, then return and switch sides.",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Standing Side Stretch",
+      "description": "Stand tall and raise one arm overhead. Reach gently to the opposite side without twisting your torso or leaning forward, then return and switch sides.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento lateral de pie",
+      "description": "Ponte erguido y eleva un brazo sobre la cabeza. Inclínate suavemente hacia el lado contrario sin girar el torso ni doblarte hacia delante, vuelve y cambia de lado.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento lateral em pé",
+      "description": "Fique ereto e levante um braço acima da cabeça. Incline-se suavemente para o lado oposto sem girar o tronco nem se dobrar para a frente, volte e troque o lado.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement latéral debout",
+      "description": "Tenez-vous droit et levez un bras au-dessus de la tête. Inclinez-vous doucement du côté opposé sans tourner le buste ni vous pencher en avant, revenez puis changez de côté.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Seitdehnung im Stehen",
+      "description": "Stehe aufrecht und hebe einen Arm über den Kopf. Strecke dich sanft zur gegenüberliegenden Seite, ohne den Rumpf zu verdrehen oder vorzubeugen, kehre zurück und wechsle die Seite.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento laterale in piedi",
+      "description": "Stai eretto e alza un braccio sopra la testa. Allungati delicatamente verso il lato opposto senza ruotare il busto né inclinarti avanti, torna al centro e cambia lato.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "站姿侧拉伸",
+      "description": "站直，将一只手臂举过头顶。轻轻向对侧伸展，不要转动躯干或向前倾，再回正并换侧。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "立位の側屈ストレッチ",
+      "description": "背筋を伸ばし、片腕を頭上へ上げます。体をひねったり前へ倒したりせず反対側へ軽く伸ばし、戻って反対側も行います。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "서서 옆구리 스트레칭",
+      "description": "곧게 서서 한쪽 팔을 머리 위로 올리세요. 몸통을 비틀거나 앞으로 숙이지 않고 반대쪽으로 부드럽게 뻗은 뒤 돌아와 반대쪽도 하세요.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "ยืดลำตัวด้านข้างในท่ายืน",
+      "description": "ยืนตัวตรงและยกแขนข้างหนึ่งเหนือศีรษะ เอื้อมไปด้านตรงข้ามเบา ๆ โดยไม่บิดลำตัวหรือโน้มไปข้างหน้า แล้วกลับและสลับข้าง",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Боковая растяжка стоя",
+      "description": "Встаньте прямо и поднимите одну руку над головой. Мягко потянитесь в противоположную сторону, не разворачивая корпус и не наклоняясь вперёд, вернитесь и смените сторону.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Бічне розтягування стоячи",
+      "description": "Станьте прямо та підніміть одну руку над головою. М’яко потягніться в протилежний бік, не повертаючи корпус і не нахиляючись уперед, поверніться та змініть бік.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  },
+  "state": "active"
+}

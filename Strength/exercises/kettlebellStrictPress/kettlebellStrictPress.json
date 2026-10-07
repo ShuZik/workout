@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_strict_press",
   "title": "Kettlebell Strict Press",
   "description": "1. Hold the kettlebell in the rack position with wrist straight, forearm vertical, and trunk braced.\n2. Press the bell overhead without leg drive or leaning away from the working arm.\n3. Finish with the arm straight beside the head, then lower the bell back to the rack under control.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте гирю на грудях, зап’ястя пряме, передпліччя вертикально, корпус напружений.\n2. Вижміть гирю над головою без допомоги ніг і не відхиляючись від робочої руки.\n3. Завершіть із прямою рукою біля голови, потім контрольовано опустіть гирю назад на груди.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

@@ -3,11 +3,9 @@
   "key": "kyudo_makiwara",
   "title": "Makiwara Practice",
   "description": "1. Stand about one bow length from the straw makiwara with the arrow nocked and the target at shoulder height.\n2. Shoot through the full eight stages, focusing on form rather than aim, since the close target cannot be missed.\n3. Hold zanshin, withdraw the arrow from the straw carefully with both hands, and repeat with attention to one technical point.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "kyudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Shooting",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте приблизно на довжину лука від солом’яної маківари, стріла накладена, мішень на рівні плеча.\n2. Стріляйте через усі вісім етапів, зосередившись на формі, а не на прицілюванні, бо по близькій мішені не схибиш.\n3. Збережіть дзансін, обережно вийміть стрілу із соломи обома руками й повторіть, працюючи над однією технічною деталлю.",
       "sectionTitle": "Стрільба"
     }
-  }
+  },
+  "state": "active"
 }

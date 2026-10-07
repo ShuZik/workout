@@ -3,11 +3,9 @@
   "key": "bjj_double_underhook_guard_pass",
   "title": "Double-Underhook Guard Pass",
   "description": "1. From top open guard, thread both arms beneath the partner's thighs and connect the hands around the hips.\n2. Bring the knees toward the chest with controlled stacking pressure, keep your spine upright, and walk to one side.\n3. Clear both legs past the shoulders, lower into side control, and release the stack as soon as the pass is secure.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Passes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Згори у відкритому гарді заведіть обидві руки під стегна партнера й зчепіть кисті навколо його таза.\n2. Підведіть його коліна до грудей контрольованим складальним тиском, тримайте спину прямою й обходьте вбік.\n3. Проведіть обидві ноги повз свої плечі, опустіться в бічний контроль і одразу послабте складання, щойно прохід закріплено.",
       "sectionTitle": "Проходи гарду"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "warm_up_butt_kicks",
   "title": "Butt Kicks",
   "description": "1. Stand tall with feet under the hips and elbows bent.\n2. Jog in place while drawing one heel toward the glute without letting that knee travel forward.\n3. Alternate heels with quick light contacts and keep the torso upright.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Cardio",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Станьте прямо, поставте стопи під тазом і зігніть лікті.\n2. Біжіть на місці, підводячи одну п’яту до сідниці й не виводячи відповідне коліно вперед.\n3. Чергуйте п’яти, швидко й м’яко торкаючись підлоги, та тримайте тулуб вертикально.",
       "sectionTitle": "Кардіо"
     }
-  }
+  },
+  "state": "active"
 }

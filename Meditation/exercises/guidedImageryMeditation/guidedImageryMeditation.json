@@ -3,11 +3,9 @@
   "key": "meditation_guided_imagery_meditation",
   "title": "Guided Imagery Meditation",
   "description": "1. Sit or lie comfortably and choose one safe, calm place to imagine.\n2. Build the scene using specific sights, sounds, temperature, texture, and smells while breathing naturally.\n3. Keep returning to those sensory details, then let the image fade and notice the actual room before opening the eyes.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Wellbeing",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Зручно сядьте або ляжте й оберіть одне безпечне спокійне місце для уявлення.\n2. Створіть сцену з конкретними видами, звуками, температурою, фактурами й запахами, дихаючи природно.\n3. Продовжуйте повертатися до цих чуттєвих деталей, потім дозвольте образу зникнути й відчуйте справжню кімнату, перш ніж відкрити очі.",
       "sectionTitle": "Добробут"
     }
-  }
+  },
+  "state": "active"
 }

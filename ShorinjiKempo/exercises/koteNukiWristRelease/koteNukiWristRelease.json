@@ -3,11 +3,9 @@
   "key": "shorinji_kempo_kote_nuki",
   "title": "Kote Nuki Wrist Release",
   "description": "1. Attacker grabs the defender's wrist with the same-side hand; defender stays relaxed with the fingers spread.\n2. Defender feints a strike toward the eyes, bends the elbow, and pulls the wrist out through the gap between the attacker's thumb and fingers while turning the hips.\n3. Defender steps away into kamae with zanshin; attacker grips again with moderate force, and roles switch.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "shorinjiKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нападник хапає зап'ястя захисника однойменною рукою; захисник розслаблений, пальці розкриті.\n2. Захисник позначає удар в очі, згинає лікоть і, повертаючи стегна, виводить зап'ястя крізь проміжок між великим та іншими пальцями нападника.\n3. Захисник відходить у камае з дзансіном; нападник знову бере захоплення з помірною силою, і партнери міняються ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

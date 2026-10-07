@@ -3,11 +3,9 @@
   "key": "nihon_kempo_choku_zuki",
   "title": "Straight Punch (Choku-zuki)",
   "description": "1. From kamae, drive the lead fist straight to the target with the fist vertical, pushing off the rear foot.\n2. Follow with a rear straight punch powered by hip rotation, returning each fist to guard along the same line.\n3. Throw combinations at a steady pace for the round, keeping the chin tucked and the non-punching hand guarding the face.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "nihonKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З камае, відштовхуючись задньою ногою, спрямуйте передній кулак прямо в ціль вертикальним кулаком.\n2. Додайте прямий удар задньою рукою за рахунок повороту стегон, повертаючи кожен кулак у захист тією самою лінією.\n3. Увесь раунд виконуйте комбінації в рівному темпі, тримаючи підборіддя опущеним, а вільну руку — біля обличчя.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

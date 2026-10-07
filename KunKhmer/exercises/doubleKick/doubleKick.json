@@ -3,11 +3,9 @@
   "key": "kun_khmer_double_kick",
   "title": "Double Kick",
   "description": "1. From stance, throw a rear roundhouse kick to the thigh or body with full hip rotation.\n2. Recoil only to a chamber without planting the foot, then kick again with the same leg to the same or a higher target.\n3. Place the kicking foot back behind, restore the guard, and reset before the next pair of kicks.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "kunKhmer",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки завдайте задньою ногою кругового удару в стегно чи корпус із повним поворотом таза.\n2. Поверніть ногу лише в положення замаху, не ставлячи стопу, і знову вдарте тією самою ногою в ту саму або вищу ціль.\n3. Поставте ударну ногу назад, відновіть захист і підготуйтеся до наступної пари ударів.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

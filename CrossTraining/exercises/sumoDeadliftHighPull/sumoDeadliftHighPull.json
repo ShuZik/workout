@@ -3,12 +3,9 @@
   "key": "cross_training_sumo_deadlift_high_pull",
   "title": "Sumo Deadlift High Pull",
   "description": "1. Stand over the bar with a wide stance, grip inside the knees, brace the trunk, and set the shoulders slightly in front of the bar.\n2. Drive through the floor until the hips and knees extend fully, then shrug and pull with the elbows high and outside while keeping the bar close.\n3. Straighten the arms before hinging the hips, lower the bar under control, and repeat with an appropriate load.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте над штангою в широку стійку, візьміть гриф між колінами, напружте корпус і виведіть плечі трохи вперед грифа.\n2. Відштовхуйте підлогу до повного розгинання таза й колін, потім знизайте плечима й тягніть, піднімаючи лікті високо й у боки та тримаючи гриф близько.\n3. Випряміть руки до нахилу в кульшових суглобах, підконтрольно опустіть штангу й повторіть із відповідною вагою.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

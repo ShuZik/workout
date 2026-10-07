@@ -3,11 +3,9 @@
   "key": "meditation_mantra_meditation",
   "title": "Mantra Meditation",
   "description": "1. Sit comfortably, settle the breath, and choose one short neutral word or phrase.\n2. Repeat the mantra silently or softly at an even pace without matching it forcefully to the breath.\n3. Notice distractions, let them pass, and resume the next repetition of the mantra.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Mindfulness",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Зручно сядьте, заспокойте дихання й оберіть одне коротке нейтральне слово або фразу.\n2. Повторюйте мантру подумки або тихо в рівному темпі, не підганяючи її примусово під дихання.\n3. Помічайте відволікання, дозволяйте їм минути й продовжуйте з наступного повторення мантри.",
       "sectionTitle": "Усвідомленість"
     }
-  }
+  },
+  "state": "active"
 }

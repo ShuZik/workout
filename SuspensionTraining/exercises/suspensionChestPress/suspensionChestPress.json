@@ -3,11 +3,9 @@
   "key": "suspension_suspension_chest_press",
   "title": "Suspension Chest Press",
   "description": "1. Face away from the anchor, hold the handles at chest height, and lean forward with a straight body.\n2. Bend the elbows to lower the chest between the hands while the straps stay outside the arms.\n3. Press the handles away until the arms are straight without letting the hips or lower back sag.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "suspensionTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundational",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте спиною до кріплення, тримайте руків’я на рівні грудей і нахиліться вперед із прямим тілом.\n2. Зігніть лікті, опускаючи груди між кистями, петлі залишаються ззовні рук.\n3. Вижміть руків’я до прямих рук, не провалюючи таз і поперек.",
       "sectionTitle": "Базові"
     }
-  }
+  },
+  "state": "active"
 }

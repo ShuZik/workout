@@ -3,11 +3,9 @@
   "key": "pencak_silat_langkah_8_penjuru",
   "title": "Langkah 8 Penjuru",
   "description": "1. Start in kuda-kuda horse stance at the centre of an imagined star of eight directions, with both hands in guard.\n2. Step one foot toward each direction in turn, front, back, sides, and diagonals, settling into a stable stance on every step.\n3. Bring the foot back to the centre between steps, keeping the hips low and the guard up, then repeat the cycle leading with the other foot.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "pencakSilat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці куда-куда (стійка вершника) в центрі уявної зірки з восьми напрямків, обидві руки в захисті.\n2. Почергово ступайте однією ногою в кожен напрямок — уперед, назад, убік і по діагоналях, — стійко фіксуючи стійку на кожному кроці.\n3. Між кроками повертайте ногу в центр, тримаючи таз низько й руки в захисті, потім повторіть цикл з іншої ноги.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

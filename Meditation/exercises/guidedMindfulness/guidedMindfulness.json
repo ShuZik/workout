@@ -3,11 +3,9 @@
   "key": "meditation_guided_mindfulness",
   "title": "Guided Mindfulness",
   "description": "1. Sit or lie comfortably and begin the selected recording with enough time to remain undisturbed.\n2. Follow each prompt by placing attention on the named breath, body sensation, sound, thought, or emotion.\n3. If attention wanders, resume at the current prompt instead of restarting or judging the distraction.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Mindfulness",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зручно сядьте або ляжте й увімкніть вибраний запис, виділивши достатньо часу без перешкод.\n2. Дотримуйтеся кожної підказки, спрямовуючи увагу на назване дихання, тілесне відчуття, звук, думку або емоцію.\n3. Якщо увага відволіклася, продовжте з поточної підказки, не починаючи заново й не оцінюючи відволікання.",
       "sectionTitle": "Усвідомленість"
     }
-  }
+  },
+  "state": "active"
 }

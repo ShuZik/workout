@@ -3,11 +3,9 @@
   "key": "backhold_inside_click",
   "title": "Inside Click",
   "description": "1. From the locked backhold, shift the partner's weight onto the near leg.\n2. Place your foot inside the partner's leg and hook the back of the partner's heel or calf.\n3. Draw the hooked leg toward you while pressing with the chest so the partner falls back, keep the hold to cushion the landing, then reset.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "backhold",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі зчепленого бекхолду переведіть вагу партнера на його ближню ногу.\n2. Поставте стопу з внутрішнього боку його ноги й зачепіть ззаду п'яту або литку.\n3. Тягніть зачеплену ногу на себе, тиснучи грудьми, щоб партнер упав назад, тримайте захоплення, пом'якшуючи приземлення, потім почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

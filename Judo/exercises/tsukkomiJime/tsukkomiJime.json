@@ -3,11 +3,9 @@
   "key": "judo_tsukkomi_jime",
   "title": "Tsukkomi Jime",
   "description": "1. From mount, grip the partner's lapel with one hand and pull it across the neck with the other hand on the opposite lapel.\n2. Thrust the gripping hand forward toward the partner's neck while the other hand tightens the lapel.\n3. Apply pressure gradually and release immediately at a tap, verbal signal, or loss of responsiveness.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З положення верхи захопіть відворот партнера однією рукою й натягніть його поперек шиї, тримаючи іншою рукою протилежний відворот.\n2. Штовхайте захоплювальну руку вперед до шиї партнера, іншою рукою натягуючи відворот.\n3. Нарощуйте тиск поступово й негайно відпускайте при постукуванні, голосовому сигналі або втраті реакції.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

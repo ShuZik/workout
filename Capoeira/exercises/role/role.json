@@ -3,11 +3,9 @@
   "key": "capoeira_role",
   "title": "Rolê",
   "description": "1. From negativa, place both hands on the floor on the side you want to travel toward, keeping the hips low.\n2. Turn the hips and step the trailing leg around behind you so the body rotates low across the hands without the head dropping.\n3. Finish facing the original direction in a low crouch or negativa, then rise into the ginga with the guard up.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із негативи поставте обидві руки на підлогу в бік руху, тримаючи таз низько.\n2. Розверніть таз і проведіть задню ногу по колу позаду себе, щоб тіло низько повернулося над руками, не опускаючи голову.\n3. Завершіть обличчям у початковому напрямку в низькому присіді чи негативі й підведіться в джингу із захистом.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "fencing_rassemblement",
   "title": "Rassemblement",
   "description": "1. Start en garde with the weapon arm in line and the knees bent.\n2. Straighten the legs and bring one foot to the other, front foot back or rear foot forward, so the heels meet at a right angle.\n3. Stand tall with the weapon arm extended or lowered in line, then step back out into en garde with the same stance width.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Footwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть зі стійки, озброєна рука в лінії, коліна зігнуті.\n2. Випряміть ноги й приставте одну стопу до іншої, передню назад або задню вперед, п’яти під прямим кутом.\n3. Стійте прямо, рука випрямлена чи опущена в лінії, потім вийдіть назад у стійку тієї самої ширини.",
       "sectionTitle": "Робота ніг"
     }
-  }
+  },
+  "state": "active"
 }

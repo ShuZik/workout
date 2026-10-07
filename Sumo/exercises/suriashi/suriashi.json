@@ -3,11 +3,9 @@
   "key": "sumo_suriashi",
   "title": "Suriashi",
   "description": "1. Squat into a low stance with the hips down, back upright, and elbows close with the palms forward as if pushing.\n2. Slide one foot forward along the floor without lifting it, then slide the other foot up while keeping the hips at the same height.\n3. Continue across the zone in a straight line, turn in the low stance, and slide back.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "sumo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Опустіться в низьку стійку: таз унизу, спина пряма, лікті притиснуті, долоні вперед, як під час поштовху.\n2. Ковзніть однією стопою вперед по підлозі, не відриваючи її, потім підтягніть іншу, тримаючи таз на тій самій висоті.\n3. Пройдіть зону по прямій, розверніться в низькій стійці й ковзайте назад.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

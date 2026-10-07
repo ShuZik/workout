@@ -3,12 +3,9 @@
   "key": "strength_dumbbell_lateral_raise",
   "title": "Dumbbell Lateral Raise",
   "description": "1. Stand with a dumbbell in each hand, soft knees, and the arms resting by the sides.\n2. Raise the arms out to the sides to about shoulder height with a slight bend in the elbows and neutral wrists.\n3. Lower slowly without shrugging the shoulders or swinging the torso.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте з гантеллю в кожній руці, коліна злегка зігнуті, руки вільно опущені по боках.\n2. Підніміть руки в сторони приблизно до рівня плечей, злегка зігнувши лікті й зберігаючи зап’ястя нейтральними.\n3. Повільно опустіть, не піднімаючи плечей і не розгойдуючи корпус.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

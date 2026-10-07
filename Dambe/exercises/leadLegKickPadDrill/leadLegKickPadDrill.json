@@ -3,11 +3,9 @@
   "key": "dambe_lead_leg_kick_pad_drill",
   "title": "Lead-Leg Kick Pad Drill",
   "description": "1. Holder braces a kick shield at thigh or midsection height; kicker stands in the dambe stance with the shield hand forward.\n2. Kicker lifts the lead knee and drives the foot into the pad, then lands back in stance with the spear hand cocked.\n3. Kick only the pad with controlled force; holder calls stop to end each set, then swap roles.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "dambe",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15125",
     "vigorousCode": "15100"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримач фіксує ударну маківару на рівні стегна чи корпусу; той, хто б'є, стоїть у стійці дамбе, рука-щит попереду.\n2. Той, хто б'є, піднімає переднє коліно, вштовхує стопу в маківару й приземляється назад у стійку зі зведеною рукою-списом.\n3. Бийте лише по маківарі з контрольованою силою; тримач командує стоп наприкінці кожного підходу, потім поміняйтеся ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

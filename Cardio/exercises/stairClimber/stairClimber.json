@@ -3,11 +3,9 @@
   "key": "stair_climber",
   "title": "Stair Climber",
   "description": "1. Place the whole forefoot on each step, stand upright, and use the rails only for balance.\n2. Press one step down as the opposite foot rises, keeping the knees aligned with the toes.\n3. Use a step rate that allows full foot control instead of hanging from the rails or skipping steps.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "17131",
     "vigorousCode": "17134"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Indoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ставте всю передню частину стопи на кожну сходинку, тримайтеся рівно й використовуйте поручні лише для рівноваги.\n2. Натискайте однією сходинкою вниз, поки протилежна стопа піднімається, спрямовуючи коліна по лінії носків.\n3. Обирайте частоту кроків, що дозволяє повністю контролювати стопи, не зависаючи на поручнях і не пропускаючи сходинки.",
       "sectionTitle": "У приміщенні"
     }
-  }
+  },
+  "state": "active"
 }

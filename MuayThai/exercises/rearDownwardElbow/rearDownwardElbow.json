@@ -3,11 +3,9 @@
   "key": "muay_thai_rear_downward_elbow",
   "title": "Rear Downward Elbow",
   "description": "1. From close guard, load the rear side and lift the bent rear elbow above the target.\n2. Rotate the rear hip forward and draw the point of the elbow down diagonally into an elbow pad.\n3. Reverse the rotation and return the rear forearm immediately to guard.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Elbows",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Зі щільного захисту завантажте задній бік і підніміть зігнутий задній лікоть над ціллю.\n2. Поверніть задній бік таза вперед і проведіть кінчик ліктя вниз по діагоналі в лапу.\n3. Розкрутіться назад і одразу поверніть заднє передпліччя в захист.",
       "sectionTitle": "Удари ліктями"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "judo_ude_gatame",
   "title": "Ude Gatame",
   "description": "1. With the partner on the back, trap the partner's straight arm so the wrist rests on your shoulder or against your neck.\n2. Clasp both hands over the back of the partner's elbow with the palm side of the arm facing up.\n3. Draw the elbow toward you only gradually and release immediately at a tap or verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли партнер лежить на спині, зафіксуйте його пряму руку так, щоб зап’ястя лежало на вашому плечі або біля шиї.\n2. Зчепіть обидві руки на тильному боці його ліктя, розвернувши руку долонною стороною вгору.\n3. Підтягуйте лікоть до себе лише поступово й негайно відпускайте при постукуванні чи голосовому сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

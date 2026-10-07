@@ -3,11 +3,9 @@
   "key": "bjj_knee_cut_pass",
   "title": "Knee Cut Pass",
   "description": "1. From top half or open guard, control the partner's far collar or underhook and the near knee with the other hand.\n2. Slide the near knee diagonally across the partner's thigh to the mat while the chest stays heavy and the hips stay low.\n3. Clear the trailing foot, block the near hip, and settle into side control before releasing the grips.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Passes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Згори в напівгарді або відкритому гарді контролюйте дальній комір чи андерхук, а другою рукою — ближнє коліно.\n2. Проведіть ближнє коліно по діагоналі через стегно партнера до килима, тиснучи грудьми й тримаючи таз низько.\n3. Звільніть задню стопу, заблокуйте ближнє стегно й закріпіть бічний контроль, перш ніж відпустити захвати.",
       "sectionTitle": "Проходи гарду"
     }
-  }
+  },
+  "state": "active"
 }

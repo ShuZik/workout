@@ -3,11 +3,9 @@
   "key": "paddling",
   "title": "Paddling",
   "description": "1. Sit or kneel with the trunk tall, grip the paddle with relaxed hands, and place the blade fully in the water.\n2. Rotate the torso and draw the blade alongside the craft instead of pulling only with the arms.\n3. Lift the blade out near the hip and repeat on the other side while keeping the craft balanced.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "18227",
     "vigorousCode": "18228"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Outdoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте або станьте на коліна з рівним тулубом, тримайте весло розслабленими кистями й повністю занурте лопать у воду.\n2. Поверніть тулуб і проведіть лопать уздовж судна, не тягнучи лише руками.\n3. Підніміть лопать із води біля таза й повторіть з іншого боку, зберігаючи рівновагу судна.",
       "sectionTitle": "Надворі"
     }
-  }
+  },
+  "state": "active"
 }

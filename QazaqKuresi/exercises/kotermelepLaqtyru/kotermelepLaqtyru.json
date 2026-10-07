@@ -3,11 +3,9 @@
   "key": "qazaq_kuresi_kotermelep_laqtyru",
   "title": "Kotermelep Laqtyru",
   "description": "1. Take a firm double belt grip with the chest against the partner and the hips lower than the partner's.\n2. Lift the partner off the mat by driving up from the legs and arching, not by rounding the back.\n3. Turn and set the partner down onto the back in a controlled landing, then release the belt; stop at any loss of balance.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "qazaqKuresi",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть щільний захват за пояс обома руками, притисніться грудьми до партнера й опустіть таз нижче за його таз.\n2. Відірвіть партнера від килима поштовхом ніг і прогином, не округлюючи спину.\n3. Розверніться й контрольовано опустіть партнера на спину, потім відпустіть пояс; за будь-якої втрати рівноваги зупиніться.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "chidaoba_mogverdi",
   "title": "Mogverdi",
   "description": "1. Grip the belt and the chokha flap with the feet staggered, the weight forward, and the knees slightly bent.\n2. Turn and slide your side under the partner's belly, then push up and straighten the legs.\n3. Throw the partner over your side onto the back, controlling the landing with the chokha grip before releasing.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "chidaoba",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за пояс і полу чохи, ноги на різних лініях, вага попереду, коліна трохи зігнуті.\n2. Розверніться й підведіть бік під живіт партнера, потім штовхніть угору, випрямляючи ноги.\n3. Киньте партнера через бік на спину, контролюючи приземлення захватом за чоху, і лише потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

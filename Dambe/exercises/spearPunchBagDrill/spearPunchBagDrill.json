@@ -3,11 +3,9 @@
   "key": "dambe_spear_punch_bag_drill",
   "title": "Spear Punch Bag Drill",
   "description": "1. Wrap the spear hand and stand side-on to a heavy bag with the open shield hand measuring the distance.\n2. Drive the spear hand straight into the bag from the rear, turning the hips and shoulder through the punch.\n3. Snap the spear hand back to its cocked position at once and keep the shield hand extended between strikes.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "dambe",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15125",
     "vigorousCode": "15100"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обмотайте руку-спис і станьте боком до важкого мішка, відмірюючи дистанцію відкритою рукою-щитом.\n2. Вбивайте руку-спис прямо в мішок із заднього положення, провертаючи стегна й плече в ударі.\n3. Одразу повертайте руку-спис у зведене положення й тримайте руку-щит витягнутою між ударами.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

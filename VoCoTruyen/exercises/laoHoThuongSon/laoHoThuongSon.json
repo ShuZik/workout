@@ -3,11 +3,9 @@
   "key": "vo_co_truyen_lao_ho_thuong_son",
   "title": "Lao Ho Thuong Son",
   "description": "1. Stand at the starting point in a ready posture and perform the opening salute of Lao Ho Thuong Son.\n2. Use low, rooted stances with powerful tiger-claw strikes and blocks, advancing and turning in the set order with strong but controlled breathing.\n3. Finish back at the starting point with the closing salute and hold the ready posture briefly before resetting.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "voCoTruyen",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте у вихідну точку в готовій стійці й виконайте початкове привітання форми Lao Ho Thuong Son.\n2. Використовуйте низькі стійкі стійки з потужними ударами й блоками «лапою тигра», просуваючись і повертаючись у заданому порядку з сильним, але контрольованим диханням.\n3. Завершіть у вихідній точці заключним привітанням і ненадовго затримайтеся в готовій стійці, перш ніж почати знову.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

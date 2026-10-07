@@ -3,11 +3,9 @@
   "key": "aikido_hikitate_geiko",
   "title": "Hikitate Geiko",
   "description": "1. Pair with a trained partner and agree on light, cooperative resistance.\n2. Tori attempts techniques while uke falls only when balance is truly broken and otherwise stays upright.\n3. Adjust resistance to the partner's level, reset after each attempt, and switch roles regularly.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "aikido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Practice Modes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Працюйте в парі з підготовленим партнером і домовтеся про легкий, партнерський опір.\n2. Торі пробує техніки, а уке падає, лише коли його рівновагу справді порушено, інакше лишається на ногах.\n3. Підлаштовуйте опір під рівень партнера, починайте знову після кожної спроби й регулярно міняйтеся ролями.",
       "sectionTitle": "Режими практики"
     }
-  }
+  },
+  "state": "active"
 }

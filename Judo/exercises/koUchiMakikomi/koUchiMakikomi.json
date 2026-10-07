@@ -3,11 +3,9 @@
   "key": "judo_ko_uchi_makikomi",
   "title": "Ko Uchi Makikomi",
   "description": "1. Grip the partner's sleeve and pull the arm tight under your armpit while stepping in.\n2. Reap the inside of the partner's heel with your foot as you drive forward.\n3. Fall forward with the partner onto the back, landing with control on top rather than crashing down.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Захопіть рукав партнера й під час входу щільно притисніть його руку під пахвою.\n2. Просуваючись уперед, підсічіть стопою внутрішній бік його п’яти.\n3. Упадіть уперед разом із партнером на його спину, приземляючись зверху з контролем, а не обвалюючись.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

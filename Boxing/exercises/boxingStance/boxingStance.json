@@ -3,11 +3,9 @@
   "key": "boxing_stance",
   "title": "Boxing Stance",
   "description": "1. Place the lead foot forward and the rear foot back and slightly outward, about shoulder-width apart.\n2. Soften the knees, distribute weight between both legs, tuck the chin, and hold the fists beside the cheeks.\n3. Keep the elbows near the ribs and test the stance with small steps without bringing the feet together or crossing them.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15110",
     "vigorousCode": "15113"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "level": 1,
   "section": "2 Base",
@@ -87,5 +84,6 @@
       "description": "1. Поставте передню стопу вперед, задню — назад і трохи назовні, приблизно на ширині плечей.\n2. Пом’якшіть коліна, розподіліть вагу між ногами, опустіть підборіддя й тримайте кулаки біля щік.\n3. Тримайте лікті біля ребер і перевірте стійку невеликими кроками, не зводячи й не схрещуючи стопи.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

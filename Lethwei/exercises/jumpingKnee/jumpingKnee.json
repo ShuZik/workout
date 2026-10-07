@@ -3,11 +3,9 @@
   "key": "lethwei_jumping_knee",
   "title": "Jumping Knee",
   "description": "1. From guard with clear space in front, step forward with the rear foot or switch the feet to load the jump.\n2. Spring off the supporting leg and drive the opposite knee forward and upward into a held body pad while the hands guard the head.\n3. Land on both feet with soft knees under the hips, then step back to stance distance and reset.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "lethwei",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту за вільного простору попереду ступіть задньою ногою або змініть ноги, щоб підготувати стрибок.\n2. Відштовхніться опорною ногою й спрямуйте інше коліно вперед і вгору в утримувану лапу, руки захищають голову.\n3. Приземліться на обидві ноги з м’якими колінами під тазом, потім відступіть на дистанцію стійки й почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

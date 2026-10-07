@@ -3,11 +3,9 @@
   "key": "lucha_leonesa_dedilla",
   "title": "Dedilla",
   "description": "1. From the belt grip, move the partner sideways so one foot goes light on the ground.\n2. Catch the partner's ankle with the inside of your foot and sweep it in the direction of travel.\n3. Use the belt to tip the partner down beside you, keep both grips until the landing, then release and reset.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захоплення за пояс зміщуйте партнера вбік, щоб одна його стопа розвантажилася.\n2. Підхопіть внутрішнім боком стопи його кісточку й підметіть її за напрямком руху.\n3. Поясом поваліть партнера поруч із собою, тримайте обидва захоплення до приземлення, потім відпустіть і почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

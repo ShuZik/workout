@@ -3,11 +3,9 @@
   "key": "bjj_single_leg_takedown",
   "title": "Single-Leg Takedown",
   "description": "1. With a trained partner on mats, change level and step close enough to wrap one leg above or behind the knee.\n2. Keep the head tight to the torso, connect the hands, and stand with the captured leg held close to the hips.\n3. Turn the corner or run the pipe to remove the base, then guide the partner down and stabilize on top.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Takedowns",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. З підготовленим партнером на килимі змініть рівень і підійдіть досить близько, щоб обхопити одну ногу над коліном або під ним.\n2. Щільно притисніть голову до його тулуба, зчепіть руки й підведіться, утримуючи захоплену ногу біля свого таза.\n3. Розверніться за кут або потягніть ногу по діагоналі вниз, щоб позбавити партнера опори, потім опустіть його на килим і закріпіться згори.",
       "sectionTitle": "Переведення в партер"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "mma_fence_control",
   "title": "Fence Control",
   "description": "1. With a trained partner against a padded wall, keep the head upright, hips close, and seek at least one underhook.\n2. Pin the partner's shoulder line with head and arm position while using short steps to keep the partner's hips facing the wall.\n3. Maintain a wide base, change grips without crossing the feet, and disengage cleanly when the drill ends.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Cage",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З підготовленим партнером біля м’якої стіни тримайте голову рівно, таз близько й домагайтеся хоча б одного підхвату.\n2. Притисніть лінію плечей партнера положенням голови й руки та короткими кроками утримуйте його таз до стіни.\n3. Зберігайте широку опору, змінюйте захоплення, не схрещуючи ноги, і чисто розривайте контакт наприкінці вправи.",
       "sectionTitle": "Клітка"
     }
-  }
+  },
+  "state": "active"
 }

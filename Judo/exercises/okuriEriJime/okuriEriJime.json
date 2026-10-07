@@ -3,11 +3,9 @@
   "key": "judo_okuri_eri_jime",
   "title": "Okuri Eri Jime",
   "description": "1. From behind the partner, pass one arm around the neck and grip the far collar deep with the palm up.\n2. Slide the other arm under the partner's armpit and grip the near lapel, pulling it downward.\n3. Tighten the collar across the neck gradually while pulling the lapel down and release at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ззаду партнера проведіть одну руку навколо шиї й глибоко захопіть дальній комір долонею вгору.\n2. Іншу руку проведіть під пахву партнера, захопіть ближній відворот і тягніть його вниз.\n3. Поступово затягуйте комір на шиї, відтягуючи відворот униз, і відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "muay_thai_lead_horizontal_elbow",
   "title": "Lead Horizontal Elbow",
   "description": "1. From close guard, step or shift onto the lead side and keep the lead arm bent tightly.\n2. Pivot the lead foot and rotate the hips so the point of the lead elbow travels horizontally across an elbow pad.\n3. Stop the arc under control and return the forearm immediately to the head guard.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Elbows",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зі щільного захисту ступніть або зміститеся на передній бік, тримаючи передню руку щільно зігнутою.\n2. Поверніть передню стопу й таз, щоб кінчик переднього ліктя горизонтально пройшов крізь лапу.\n3. Контрольовано зупиніть дугу й одразу поверніть передпліччя в захист голови.",
       "sectionTitle": "Удари ліктями"
     }
-  }
+  },
+  "state": "active"
 }

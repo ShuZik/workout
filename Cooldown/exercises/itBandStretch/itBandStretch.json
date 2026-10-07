@@ -3,11 +3,9 @@
   "key": "cooldown_it_band_stretch",
   "title": "IT Band Stretch",
   "description": "1. Lie on the back with both legs long and arms extended to the sides.\n2. Lift one straight leg and guide it across the body while both shoulders remain on the floor.\n3. Hold the outer-hip and thigh stretch without bouncing, return to center, and switch legs.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Static Stretching",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, витягніть обидві ноги й розведіть руки в боки.\n2. Підніміть одну пряму ногу й переведіть її через тіло на інший бік, залишаючи обидва плеча на підлозі.\n3. Утримуйте розтягування із зовнішнього боку кульшового суглоба та стегна без пружних рухів, поверніться в центр і змініть ноги.",
       "sectionTitle": "Статичне розтягування"
     }
-  }
+  },
+  "state": "active"
 }

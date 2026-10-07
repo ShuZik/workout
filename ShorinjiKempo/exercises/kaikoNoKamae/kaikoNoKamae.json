@@ -3,11 +3,9 @@
   "key": "shorinji_kempo_kaiko_no_kamae",
   "title": "Kaiko no Kamae",
   "description": "1. Stand in a half-facing stance with the front foot pointing forward, knees soft, and weight evenly balanced.\n2. Raise both open hands in front of the chest, the front hand forward at shoulder height and the rear hand guarding the solar plexus.\n3. Step forward, back, and to the sides while keeping the guard and centerline intact, then settle back into kamae with zanshin.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "shorinjiKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте впівоберта, передня стопа дивиться вперед, коліна м'які, вага розподілена рівномірно.\n2. Підніміть обидві розкриті долоні перед грудьми: передня рука винесена на рівень плеча, задня прикриває сонячне сплетіння.\n3. Пересувайтеся вперед, назад і вбік, зберігаючи захист і центральну лінію, потім поверніться в камае з дзансіном.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

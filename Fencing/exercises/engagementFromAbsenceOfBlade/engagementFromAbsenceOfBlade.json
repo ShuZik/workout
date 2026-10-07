@@ -3,11 +3,9 @@
   "key": "fencing_engagement_from_absence",
   "title": "Engagement from Absence of Blade",
   "description": "1. Stand at advancing distance with the blades apart and the partner's point roughly in line.\n2. Advance and bring the strong part of your blade into light contact with the partner's weak part, closing the chosen line, for example sixte or quarte.\n3. Hold the engagement with gentle finger pressure, feel the partner's reaction, then release, step back, and repeat in the other line.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на дистанції кроку, клинки розведені, вістря партнера приблизно в лінії.\n2. Ступіть уперед і сильною частиною клинка м’яко торкніться слабкої частини клинка партнера, закриваючи обрану лінію, наприклад шосту чи четверту.\n3. Утримуйте з’єднання легким натиском пальців, відчуйте реакцію, відпустіть, відступіть і повторіть в іншій лінії.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

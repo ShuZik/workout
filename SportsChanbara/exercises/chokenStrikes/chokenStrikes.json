@@ -3,11 +3,9 @@
   "key": "sports_chanbara_choken_strikes",
   "title": "Choken Strikes",
   "description": "1. Hold the choken (long airsoft sword) in both hands, the right hand near the guard and the left at the end, tip on the centre line.\n2. Step in and strike men, kote, do, and ashi in turn, driving each strike from the shoulders and snapping the wrists.\n3. Recover guard after every strike, keep the blade light and fast rather than heavy, and repeat the cycle.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте чокен (довгий надувний меч) двома руками: права біля гарди, ліва біля кінця руків'я, вістря на центральній лінії.\n2. Ступайте й почергово бийте мен, коте, до та аші, посилаючи кожен удар від плечей і хльостко працюючи зап'ястями.\n3. Після кожного удару повертайтеся в стійку, тримайте клинок легким і швидким, а не важким, і повторюйте цикл.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

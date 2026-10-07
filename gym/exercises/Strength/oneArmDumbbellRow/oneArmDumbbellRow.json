@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Обіпріться однією рукою й коліном або стопою того самого боку на лаву й тримайте гантель вільною прямою рукою.\n2. Зберігайте спину нейтральною й тягніть лікоть до стегна, доки гантель не досягне ребер.\n3. Опустіть до прямої руки, не скручуючи корпус, виконайте підхід і змініть бік.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

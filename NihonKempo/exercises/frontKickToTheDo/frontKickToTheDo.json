@@ -3,11 +3,9 @@
   "key": "nihon_kempo_front_kick_do",
   "title": "Front Kick to the Do",
   "description": "1. Holder wears the do body protector or holds a kick shield at the midsection; kicker takes kamae at kicking distance.\n2. Kicker lifts the knee and thrusts the ball or sole of the foot into the do, then snaps the leg back and returns to kamae.\n3. Kicker uses controlled power on the protected target only and alternates legs; holder calls stop if the strike drifts, and roles switch at the signal.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "nihonKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримач одягає нагрудник до або тримає лапу на рівні живота; той, хто б'є, стає в камае на дистанції удару ногою.\n2. Той, хто б'є, піднімає коліно й поштовхом вбиває подушечку або підошву стопи в до, потім швидко повертає ногу й стає в камае.\n3. Той, хто б'є, працює з контролем лише в захищену зону, чергуючи ноги; тримач зупиняє вправу, якщо удар іде вбік, і за сигналом партнери міняються ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

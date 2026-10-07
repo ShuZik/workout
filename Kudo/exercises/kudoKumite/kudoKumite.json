@@ -3,11 +3,9 @@
   "key": "kudo_kumite",
   "title": "Kudo Kumite",
   "description": "1. With a matched partner in full Kudo protective gear and a coach supervising, start in fighting stance.\n2. Spar with strikes, short clinch work and throws under the agreed limits, such as no throws or reduced power.\n3. Stop at the coach's command or any signal, touch gloves, and reset before the next exchange.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "kudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З рівним за рівнем партнером у повному захисному спорядженні кудо й під наглядом тренера почніть у бойовій стійці.\n2. Проведіть спаринг з ударами, коротким клінчем і кидками в узгоджених межах, наприклад без кидків або зі зниженою силою.\n3. Зупиняйтеся за командою тренера або будь-яким сигналом, торкніться рукавицями й почніть знову перед наступним обміном.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

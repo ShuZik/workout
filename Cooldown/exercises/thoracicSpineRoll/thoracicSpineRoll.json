@@ -3,11 +3,9 @@
   "key": "foam_rolling_thoracic_spine_roll",
   "title": "Thoracic Spine Roll",
   "description": "1. Lie on the back with the roller across the mid-back, knees bent, and hands supporting the head.\n2. Lift the hips and roll between the lower edge of the shoulder blades and the upper back.\n3. Keep the ribs controlled and avoid rolling onto the neck or lower back.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Release Work",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину з роликом упоперек середньої частини спини, зігніть коліна й підтримуйте голову руками.\n2. Підніміть таз і прокочуйте між нижнім краєм лопаток та верхньою частиною спини.\n3. Контролюйте ребра й не прокочуйте шию або поперек.",
       "sectionTitle": "Розслаблення м’язів"
     }
-  }
+  },
+  "state": "active"
 }

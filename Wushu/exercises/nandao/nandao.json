@@ -3,11 +3,9 @@
   "key": "wushu_nandao",
   "title": "Nandao",
   "description": "1. Hold a training southern broadsword in the starting grip and stand in a firm, low ready stance with space cleared around you.\n2. Perform the nandao routine with powerful chopping, cutting, and blocking actions in low southern stances, coordinating the free hand and sharp exhalations.\n3. Keep the blade path controlled close to the body, finish in a stable stance, and close with the salute.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте тренувальну південну шаблю вихідним хватом і станьте в міцну низьку стійку готовності, звільнивши простір довкола.\n2. Виконайте комплекс наньдао з потужними рубальними, різальними та блокувальними діями в низьких південних стійках, узгоджуючи вільну руку й різкі видихи.\n3. Ведіть клинок під контролем близько до тіла, закінчіть у стійкій стійці й завершіть привітанням.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

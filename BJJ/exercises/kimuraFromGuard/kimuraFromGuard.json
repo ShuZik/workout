@@ -3,11 +3,9 @@
   "key": "bjj_kimura_from_guard",
   "title": "Kimura from Guard",
   "description": "1. From guard, control one wrist, sit up toward that shoulder, and wrap the other arm over the partner's upper arm.\n2. Grip your own wrist to form a figure-four and angle the hips so the partner's elbow stays bent and close.\n3. Move the hand behind the back only gradually and release immediately at a tap or verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Submissions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З гарду контролюйте зап’ястя, підведіться в бік цього плеча й заведіть другу руку поверх плеча партнера.\n2. Візьміться за своє зап’ястя, утворюючи замок «четвірка», і розверніть таз так, щоб його лікоть залишався зігнутим і притиснутим.\n3. Заводьте кисть партнера за спину лише поступово й одразу відпускайте за постукування або голосового сигналу.",
       "sectionTitle": "Больові й задушливі"
     }
-  }
+  },
+  "state": "active"
 }

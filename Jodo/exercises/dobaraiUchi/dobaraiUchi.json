@@ -3,11 +3,9 @@
   "key": "jodo_dobarai_uchi",
   "title": "Dobarai-uchi",
   "description": "1. From natural posture, read an imagined horizontal cut toward the trunk.\n2. Sweep the jo down and across to clear the cut away from the body, then continue the circle and strike the opponent's head.\n3. Finish with the tip on the centerline at head height and return to natural posture.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "jodo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Solo Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З природної стійки прочитайте уявний горизонтальний розріз у корпус.\n2. Змітіть дзьо вниз і поперек, відводячи розріз від тіла, потім продовжте коло й ударте суперника по голові.\n3. Завершіть із кінцем на центральній лінії на рівні голови й поверніться в природну стійку.",
       "sectionTitle": "Одиночні кіхон"
     }
-  }
+  },
+  "state": "active"
 }

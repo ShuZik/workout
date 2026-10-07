@@ -3,12 +3,9 @@
   "key": "cross_training_wall_ball",
   "title": "Wall Ball",
   "description": "1. Hold a medicine ball at the chest while facing a clear wall target and stand with feet about shoulder width apart.\n2. Squat to a controlled depth, then drive through the legs and throw the ball to the target.\n3. Receive the ball softly at the chest and descend into the next squat without letting the knees collapse inward.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте медбол біля грудей обличчям до вільної мішені на стіні, стопи приблизно на ширині плечей.\n2. Присядьте на контрольовану глибину, потім виштовхніться ногами й киньте м’яч у мішень.\n3. М’яко спіймайте м’яч біля грудей і перейдіть у наступне присідання, не дозволяючи колінам завалюватися всередину.",
       "sectionTitle": "Змішане навантаження"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

@@ -3,11 +3,9 @@
   "key": "kudo_nage_waza_drills",
   "title": "Kudo Nage-waza Drills",
   "description": "1. With a trained partner on mats, take a short clinch grip on the collar, sleeve or body from fighting stance.\n2. Break the partner's balance and enter a practised throw within a few seconds, holding the sleeve to guide the fall.\n3. Mark a finishing punch above the landed partner without contact, help them up, and swap roles.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "kudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З підготовленим партнером на татамі з бойової стійки візьміть коротке захоплення за комір, рукав або корпус.\n2. Виведіть партнера з рівноваги й за кілька секунд увійдіть у відпрацьований кидок, утримуючи рукав, щоб спрямувати падіння.\n3. Позначте добивальний удар над партнером, що впав, без контакту, допоможіть йому підвестися й поміняйтеся ролями.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

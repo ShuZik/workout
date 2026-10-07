@@ -3,11 +3,9 @@
   "key": "sqay_diagonal_cuts",
   "title": "Diagonal Cuts",
   "description": "1. From guard, raise the sword over the right shoulder while keeping the shield in front of the body.\n2. Cut diagonally down from right to left, then return with a rising diagonal cut from left to right, turning the hips with each cut.\n3. Repeat in a smooth figure-eight rhythm, stopping the blade under control and recovering to guard.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "sqay",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки підніміть меч над правим плечем, тримаючи щит перед корпусом.\n2. Рубайте по діагоналі вниз справа наліво, потім повертайтеся висхідним діагональним ударом зліва направо, повертаючи стегна з кожним ударом.\n3. Повторюйте в плавному ритмі вісімки, зупиняючи клинок під контролем і повертаючись у стійку.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

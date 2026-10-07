@@ -3,11 +3,9 @@
   "key": "kyudo_subiki",
   "title": "Subiki",
   "description": "1. Take the shooting stance with a strung bow and glove but no arrow nocked.\n2. Raise and draw the bow through the stages to full draw, keeping the string path and hand positions exactly as in a real shot.\n3. Return the string slowly to rest without releasing it, since dry-firing can damage the bow, then repeat.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "kyudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Займіть стрілецьку стійку з натягнутим луком і рукавичкою, але без накладеної стріли.\n2. Підніміть і розтягніть лук за етапами до повного натягу, зберігаючи шлях тятиви й положення рук як під час справжнього пострілу.\n3. Повільно поверніть тятиву, не відпускаючи її, бо холостий постріл може пошкодити лук, і повторіть.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

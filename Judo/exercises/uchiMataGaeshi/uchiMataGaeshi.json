@@ -3,11 +3,9 @@
   "key": "judo_uchi_mata_gaeshi",
   "title": "Uchi Mata Gaeshi",
   "description": "1. As a trained partner lifts with uchi-mata, lower the hips and trap the partner's lifting leg against your thigh.\n2. Turn away from the attack and lift the partner slightly while pulling the upper body back.\n3. Rotate the partner over in the opposite direction of the attack and guide the breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер піднімає учі-матою, опустіть таз і затисніть його підхоплювальну ногу своїм стегном.\n2. Розверніться вбік від атаки й трохи підніміть партнера, відтягуючи тулуб назад.\n3. Перекиньте партнера в напрямку, протилежному атаці, і спрямуйте страховку.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

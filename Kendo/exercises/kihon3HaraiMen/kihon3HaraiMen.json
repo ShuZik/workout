@@ -3,11 +3,9 @@
   "key": "kendo_kihon_3",
   "title": "Kihon 3 Harai-Men",
   "description": "1. Both stand in chudan at striking distance with the tips crossed.\n2. Kakarite sweeps motodachi's bokuto aside and slightly upward from the left with own blade, then strikes men in the same rhythm.\n3. Kakarite shows zanshin; both return to chudan and reset the distance.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Partner Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обоє в тюдан на дистанції удару, кінчики схрещені.\n2. Какарите своїм клинком відбиває бокен мотодаті вбік і трохи вгору зліва й у тому ж ритмі б’є мен.\n3. Какарите показує дзансін; обоє повертаються в тюдан і відновлюють дистанцію.",
       "sectionTitle": "Парний кіхон"
     }
-  }
+  },
+  "state": "active"
 }

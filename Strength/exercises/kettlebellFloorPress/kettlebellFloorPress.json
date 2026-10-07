@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_floor_press",
   "title": "Kettlebell Floor Press",
   "description": "1. Lie on the back with knees bent and hold the kettlebell over one shoulder with wrist straight.\n2. Lower the upper arm until it touches the floor gently while the forearm stays vertical.\n3. Press the bell back above the shoulder without lifting the torso, then switch arms after the set.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Ляжте на спину, зігнувши коліна, і тримайте гирю над одним плечем із прямим зап’ястям.\n2. Опускайте плече, доки воно м’яко не торкнеться підлоги, зберігаючи передпліччя вертикальним.\n3. Вижміть гирю назад над плечем, не відриваючи корпус від підлоги, і після підходу змініть руку.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

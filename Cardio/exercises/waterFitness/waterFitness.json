@@ -3,11 +3,9 @@
   "key": "water_fitness",
   "title": "Water Fitness",
   "description": "1. Stand in chest- or waist-deep water with feet grounded and the trunk braced.\n2. Perform marching, knee lifts, kicks, or arm sweeps against the water while keeping each joint controlled.\n3. Change direction with small steps and keep movements below a range that causes loss of footing.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "18355",
     "vigorousCode": "18358"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Indoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте у воді завглибшки до грудей або талії, стійко спираючись стопами й утримуючи тулуб зібраним.\n2. Виконуйте марширування, підйоми колін, махи ногами або рухи руками проти води, контролюючи кожен суглоб.\n3. Змінюйте напрямок невеликими кроками й обмежуйте амплітуду, щоб не втрачати опору.",
       "sectionTitle": "У приміщенні"
     }
-  }
+  },
+  "state": "active"
 }

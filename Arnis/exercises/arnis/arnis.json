@@ -3,11 +3,9 @@
   "key": "arnis_main",
   "title": "Arnis",
   "description": "1. Stand in a balanced stance holding a rattan stick in the strong hand, the free hand alive in front of the chest.\n2. Strike along the standard angles of attack, combine them with blocks and gliding footwork, and let the stick flow without stopping between techniques.\n3. Return to stance after each sequence, keep the free hand ready, and change the leading side regularly.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку рівновагу з ротанговою палицею в сильній руці, вільна рука активна перед грудьми.\n2. Завдавайте ударів за стандартними кутами атаки, поєднуйте їх із блоками й ковзними кроками та ведіть палицю без зупинок між техніками.\n3. Після кожної серії повертайтеся в стійку, тримайте вільну руку напоготові й регулярно змінюйте передній бік.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

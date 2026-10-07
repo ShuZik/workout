@@ -3,11 +3,9 @@
   "key": "elliptical",
   "title": "Elliptical",
   "description": "1. Place both feet flat on the pedals, hold the handles lightly, and begin at low resistance.\n2. Press one pedal down and back as the opposite handle moves forward, keeping the torso upright.\n3. Maintain smooth continuous cycles without bouncing or shifting weight onto the handles.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02048",
     "vigorousCode": "02049"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Indoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте обидві стопи повністю на педалі, злегка тримайте руків’я й почніть із низького опору.\n2. Натискайте однією педаллю вниз і назад, поки протилежне руків’я рухається вперед, зберігаючи тулуб вертикальним.\n3. Підтримуйте плавні безперервні цикли без підстрибування й перенесення ваги на руків’я.",
       "sectionTitle": "У приміщенні"
     }
-  }
+  },
+  "state": "active"
 }

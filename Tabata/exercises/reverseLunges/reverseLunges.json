@@ -3,11 +3,9 @@
   "key": "tabata_reverse_lunges",
   "title": "Reverse Lunges",
   "description": "1. Stand tall with feet hip-width apart and brace the trunk.\n2. Step one foot backward and lower both knees while the front knee tracks over the toes.\n3. Press through the front foot to return to standing, then alternate legs.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "tabata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "3 Lower Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте прямо, стопи на ширині таза, напружте корпус.\n2. Ступніть однією ногою назад і опустіть обидва коліна, спрямовуючи переднє коліно по лінії носка.\n3. Відштовхніться передньою стопою, щоб повернутися в положення стоячи, і чергуйте ноги.",
       "sectionTitle": "Нижня частина тіла"
     }
-  }
+  },
+  "state": "intense"
 }

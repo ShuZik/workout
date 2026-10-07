@@ -3,11 +3,9 @@
   "key": "backhold_hank",
   "title": "Hank",
   "description": "1. From the locked backhold, turn your side into the partner and hook your leg around the outside of the partner's leg.\n2. Twist the upper body hard with the hold to turn the partner over the hooked leg.\n3. Finish so the partner touches the mat first while you land on top, keep the hold to control both falls, then reset.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "backhold",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі зчепленого бекхолду розверніться боком до партнера й зачепіть його ногу своєю ногою ззовні.\n2. Різко скрутіть корпус, використовуючи захоплення, перевертаючи партнера через зачеплену ногу.\n3. Завершіть так, щоб партнер торкнувся килима першим, а ви впали згори, тримайте захоплення, контролюючи обидва падіння, потім почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

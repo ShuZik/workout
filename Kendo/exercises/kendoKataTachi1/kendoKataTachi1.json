@@ -3,11 +3,9 @@
   "key": "kendo_tachi_1",
   "title": "Kendo Kata Tachi 1",
   "description": "1. Uchidachi takes left jodan and shidachi right jodan; both advance three steps to striking distance.\n2. Uchidachi cuts men; shidachi steps back so the cut misses (nuki) and answers with a men cut.\n3. Shidachi lowers the tip toward uchidachi's face, then rises into left jodan as zanshin; both return to chudan and the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Утідаті займає хідарі-дзьодан, сідаті — мігі-дзьодан; обоє роблять три кроки до дистанції удару.\n2. Утідаті рубає мен; сідаті відступає, даючи удару пройти повз (нукі), і відповідає ударом у мен.\n3. Сідаті опускає кінчик до обличчя утідаті, потім підіймається в хідарі-дзьодан як дзансін; обоє повертаються в тюдан і на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "canne_parade_verticale_exterieure",
   "title": "Parade Verticale Exterieure",
   "description": "1. Face a trained partner; the attacker delivers a slow strike toward your outside low line or flank.\n2. As defender, drop the cane to a vertical position on the outside, point down, so the shaft covers the leg and lower flank and meets the strike.\n3. Hold balance without bending forward, return to guard, and swap roles.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Parries",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти підготовленого партнера; той, хто атакує, повільно б’є в зовнішню нижню лінію чи корпус.\n2. Захисник опускає тростину у вертикальне положення ззовні, вістрям униз, щоб древко закрило ногу й нижню частину корпусу та прийняло удар.\n3. Збережіть рівновагу, не нахиляючись уперед, поверніться в стійку й поміняйтеся ролями.",
       "sectionTitle": "Паради з партнером"
     }
-  }
+  },
+  "state": "active"
 }

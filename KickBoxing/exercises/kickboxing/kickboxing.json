@@ -3,11 +3,9 @@
   "key": "kick_boxing",
   "title": "Kickboxing",
   "description": "1. Take a staggered kickboxing stance with knees soft, chin tucked, hands high, and enough space to kick on either side.\n2. Move through range and combine straight punches, hooks, uppercuts, knees, and kicks with coordinated hip rotation.\n3. Recoil every kick and return every hand to guard before changing direction or beginning the next combination.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "section": "1 Main",
   "durationSeconds": 30,
   "durationUnit": "seconds",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в кікбоксерську стійку з ногами на різних лініях: коліна м’які, підборіддя опущене, руки високо, а з боків достатньо місця для ударів ногами.\n2. Переміщуйтеся між дистанціями й поєднуйте прямі та бокові удари, аперкоти, удари колінами й ногами з узгодженим поворотом таза.\n3. Повертайте ногу після кожного удару й кожну руку в захист, перш ніж змінити напрямок або почати наступну комбінацію.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

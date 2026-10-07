@@ -3,11 +3,9 @@
   "key": "taekwondo_body_punch",
   "title": "Body Punch",
   "description": "1. From a stable stance, chamber one fist at the hip or hold it at guard while the opposite shoulder remains relaxed.\n2. Drive the fist straight toward the center of a body pad, rotating it near extension and coordinating the hips.\n3. Stop before locking the elbow and retract along the same line to the chamber or guard.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Strikes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із стійкої позиції підготуйте один кулак біля таза або тримайте його в захисті, розслабивши протилежне плече.\n2. Спрямуйте кулак прямо в центр щита для корпуса, повернувши його ближче до розгинання й узгоджуючи рух таза.\n3. Зупиніться до блокування ліктя й поверніть кулак тією самою лінією в підготовче положення або захист.",
       "sectionTitle": "Удари"
     }
-  }
+  },
+  "state": "active"
 }

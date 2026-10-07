@@ -3,11 +3,9 @@
   "key": "muay_thai_lead_roundhouse_kick",
   "title": "Lead Roundhouse Kick",
   "description": "1. Shift weight to the rear leg and raise the lead knee across the target line.\n2. Pivot the rear foot and turn the lead hip so the shin swings horizontally through a body pad.\n3. Recoil along the same arc and return the lead foot to a balanced stance.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Перенесіть вагу на задню ногу й підніміть переднє коліно впоперек лінії цілі.\n2. Розверніть задню стопу й доверніть передній бік таза, щоб гомілка горизонтально пройшла крізь маківару.\n3. Поверніть ногу тією самою дугою й поставте передню стопу в стійку позицію.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

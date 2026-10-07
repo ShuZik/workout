@@ -3,11 +3,9 @@
   "key": "core_training_superman_back_extension",
   "title": "Superman (Back Extension)",
   "description": "1. Lie face down with the legs long, arms extended, and forehead facing the floor.\n2. Brace lightly and lift the arms, chest, and legs only a small distance without compressing the lower back.\n3. Keep the neck in line with the spine, pause briefly, then lower all limbs under control.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на живіт, витягніть ноги й руки, спрямуйте лоб до підлоги.\n2. Злегка напружте корпус і трохи підніміть руки, груди та ноги, не стискаючи поперек.\n3. Тримайте шию на одній лінії з хребтом, ненадовго затримайтеся, потім контрольовано опустіть усі кінцівки.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

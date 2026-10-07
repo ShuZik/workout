@@ -3,11 +3,9 @@
   "key": "judo_harai_goshi",
   "title": "Harai Goshi",
   "description": "1. Draw the partner forward to the front corner with sleeve and lapel while stepping and turning in.\n2. Bring the hip into the partner's front and sweep the outside of the partner's thigh with the straight leg.\n3. Combine the sweep with the upper-body turn to project the partner forward, retaining the sleeve for a controlled landing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Koshi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виведіть партнера до переднього кута за рукав і відворот, ступаючи й розвертаючись для входу.\n2. Підставте таз перед партнером і підметіть прямою ногою зовнішній бік його стегна.\n3. Поєднайте підмітання з розворотом тулуба, кидаючи партнера вперед і утримуючи рукав для контрольованої страховки.",
       "sectionTitle": "Косі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

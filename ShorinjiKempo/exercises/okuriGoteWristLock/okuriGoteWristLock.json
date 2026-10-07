@@ -3,11 +3,9 @@
   "key": "shorinji_kempo_okuri_gote",
   "title": "Okuri Gote Wrist Lock",
   "description": "1. Attacker grips the defender's lapel; defender covers the gripping hand and holds it firmly against the chest.\n2. Defender bends the attacker's wrist toward the forearm, raises the elbow, and sinks the hips to bring the attacker down onto the knees.\n3. Defender applies pressure gradually and releases the moment the attacker taps, then helps the attacker up and roles switch.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "shorinjiKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нападник хапає захисника за відворот; захисник накриває кисть, що тримає, і щільно притискає її до грудей.\n2. Захисник згинає зап'ястя нападника до передпліччя, піднімає його лікоть і опускає стегна, ставлячи нападника на коліна.\n3. Захисник посилює тиск поступово й відпускає в момент плескання, потім допомагає нападникові підвестися, і партнери міняються ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

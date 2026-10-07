@@ -3,11 +3,9 @@
   "key": "wushu_taijiquan",
   "title": "Taijiquan",
   "description": "1. Stand with the feet together and arms relaxed, then step to shoulder width and raise the arms slowly for the opening movement.\n2. Perform the taijiquan routine continuously and evenly, shifting weight smoothly between legs and coordinating waist, arms, and gaze, including controlled balances and kicks.\n3. Keep the speed even to the last posture, then close by lowering the arms and bringing the feet together.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте, стопи разом, руки розслаблені, потім поставте стопи на ширину плечей і повільно підніміть руки в початковому русі.\n2. Виконайте комплекс тайцзіцюань безперервно й рівномірно, плавно переносячи вагу між ногами та узгоджуючи поперек, руки й погляд, зокрема контрольовані рівноваги та удари ногами.\n3. Зберігайте рівний темп до останньої пози, потім завершіть, опустивши руки й приставивши стопи.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

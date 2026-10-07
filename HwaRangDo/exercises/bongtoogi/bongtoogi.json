@@ -3,11 +3,9 @@
   "key": "hwa_rang_do_bongtoogi",
   "title": "Bongtoogi",
   "description": "1. Equip both partners with padded training sticks and head and hand protection, and agree on valid targets and round time.\n2. Strike, block, and evade with the stick at the agreed targets, using footwork to control distance and angles.\n3. Stop at each clean hit or the coach's call, step back to the start lines, and resume only when both are ready.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "hwaRangDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Sparring",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Забезпечте обох партнерів м’якими тренувальними палицями та захистом голови й рук, домовтеся про залікові цілі й час раунду.\n2. Завдавайте ударів, блокуйте й ухиляйтеся палицею по обумовлених цілях, керуючи дистанцією й кутами роботою ніг.\n3. Зупиняйтеся після кожного чистого удару або за командою тренера, повертайтеся до стартових ліній і продовжуйте, коли обидва готові.",
       "sectionTitle": "Спаринг"
     }
-  }
+  },
+  "state": "active"
 }

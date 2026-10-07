@@ -3,11 +3,9 @@
   "key": "nihon_kempo_takedown_finishing_strike",
   "title": "Takedown with Finishing Strike",
   "description": "1. Attacker closes in and grips; defender clinches, controls the attacker's sleeve and collar, and breaks the balance.\n2. Defender throws the attacker to the mat with a hip throw or leg sweep, then delivers a controlled finishing punch toward the men.\n3. Attacker breakfalls safely; defender stops the punch short or touches the protector lightly, helps the attacker up, and roles switch.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "nihonKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нападник скорочує дистанцію й бере захоплення; захисник входить у клінч, контролює рукав і комір нападника та виводить його з рівноваги.\n2. Захисник кидає нападника на татамі кидком через стегно або підсічкою й завдає контрольованого добивального удару в бік мен.\n3. Нападник безпечно страхується; захисник зупиняє удар до дотику або лише торкається захисту, допомагає нападникові підвестися, і партнери міняються ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

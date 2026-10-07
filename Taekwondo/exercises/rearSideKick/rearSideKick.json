@@ -3,11 +3,9 @@
   "key": "taekwondo_rear_side_kick",
   "title": "Rear Side Kick",
   "description": "1. Turn the body side-on, shift onto the lead leg, and chamber the rear knee across the torso.\n2. Pivot the supporting foot and drive the rear heel straight into the target with the hip behind it.\n3. Retract the heel to chamber and return the rear foot behind the lead foot without losing balance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поверніть тіло боком, перенесіть вагу на передню ногу й підготуйте заднє коліно поперек корпуса.\n2. Поверніть опорну стопу й спрямуйте задню п’яту прямо в ціль, розташувавши таз за нею.\n3. Поверніть п’яту в підготовче положення й поставте задню стопу позаду передньої, не втрачаючи рівноваги.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

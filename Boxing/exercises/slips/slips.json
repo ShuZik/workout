@@ -3,11 +3,9 @@
   "key": "defense_slips",
   "title": "Slips",
   "description": "1. From guard, watch the imagined straight punch and keep the hips centered between the feet.\n2. Rotate the knees and torso just enough to move the head outside the punch line without bending at the waist.\n3. Bring the head back behind the gloves or slip to the opposite side while maintaining stance and eye contact.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 3,
   "section": "4 Intermediate",
@@ -87,5 +84,6 @@
       "description": "1. Із захисної стійки стежте за уявним прямим ударом і тримайте таз по центру між стопами.\n2. Поверніть коліна й корпус рівно настільки, щоб прибрати голову з лінії удару, не згинаючись у попереку.\n3. Поверніть голову за рукавички або виконайте ухил в інший бік, зберігаючи стійку та зоровий контакт.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

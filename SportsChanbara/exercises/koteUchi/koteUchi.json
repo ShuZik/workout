@@ -3,11 +3,9 @@
   "key": "sports_chanbara_kote_uchi",
   "title": "Kote-uchi",
   "description": "1. Receiver wears the face mask and holds the kodachi in guard; striker faces them at one-step distance.\n2. Striker steps in and snaps a short strike onto the back of the receiver's weapon hand or wrist (kote).\n3. Striker recovers guard and steps out; keep the strike light, receiver calls stop if needed, and switch roles after each set.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "sportsChanbara",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Той, хто приймає, у захисній масці тримає кодачі в стійці; атакувальник стоїть навпроти на відстані кроку.\n2. Атакувальник ступає й коротким хльостким ударом б'є по тильному боці озброєної кисті чи зап'ястю того, хто приймає (коте).\n3. Атакувальник повертається в стійку й відходить; бийте легко, той, хто приймає, за потреби командує стоп, після кожної серії зміна ролей.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

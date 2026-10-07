@@ -3,11 +3,9 @@
   "key": "lucha_leonesa_cadrilada",
   "title": "Cadrilada",
   "description": "1. From the belt grip, step close and set your hip against the partner's hip.\n2. Lift the partner off the ground with the belt, resting the partner's weight on your hip.\n3. Turn and set the partner down onto the back, keep both hands on the belt to guide the landing, then release.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захоплення за пояс підступіть упритул і впріться своїм стегном у стегно партнера.\n2. Поясом відірвіть партнера від землі, поклавши його вагу на своє стегно.\n3. Поверніться й опустіть партнера на спину, тримайте пояс обома руками, спрямовуючи приземлення, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

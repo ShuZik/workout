@@ -3,11 +3,9 @@
   "key": "fencing_foil_quarte_sixte",
   "title": "Foil: Quarte and Sixte Parries",
   "description": "1. With foils and full kit, the partner attacks with a feint into the inside line followed by a disengage to the outside line.\n2. Parry quarte against the first action, then follow the disengage with a lateral parry of sixte, keeping the hand at chest height and the point toward the target.\n3. Riposte from sixte, recover to en garde, and swap roles; build speed gradually.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Sequences",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із рапірою в повному спорядженні партнер атакує фінтом у внутрішню лінію з переведенням у зовнішню.\n2. Візьміть четвертий захист проти першої дії, потім за переведенням візьміть простий шостий, кисть на рівні грудей, вістря до цілі.\n3. Відповідайте з шостого, поверніться в стійку й поміняйтеся ролями; швидкість нарощуйте поступово.",
       "sectionTitle": "Зв'язки в парі"
     }
-  }
+  },
+  "state": "active"
 }

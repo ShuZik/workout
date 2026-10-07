@@ -3,11 +3,9 @@
   "key": "pankration_arm_in_guillotine",
   "title": "Arm-In Guillotine",
   "description": "1. From a front headlock on mats, wrap one arm around the partner's neck so that one of the partner's arms is trapped inside the encirclement.\n2. Join the hands, press the trapped shoulder against the partner's neck, and draw the chest tight without twisting the head.\n3. Tighten gradually and release at the first tap; the neck-only guillotine is not permitted in this profile.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "pankration",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З фронтального захоплення голови на татамі обхопіть шию партнера однією рукою так, щоб одна його рука опинилася всередині захоплення.\n2. Зчепіть руки, притисніть захоплене плече до шиї партнера й щільно підтягніть груди, не скручуючи голову.\n3. Затягуйте поступово й відпускайте за першого поплескування; гільйотина лише за шию в цьому профілі заборонена.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

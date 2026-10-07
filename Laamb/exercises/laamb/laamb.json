@@ -3,11 +3,9 @@
   "key": "laamb",
   "title": "Laamb",
   "description": "1. Begin barefoot on sand or mats with a trained partner, without strikes (traditional profile).\n2. Grip the arms, waist, or wrestling cloth and try to lift and throw the partner down or out of the area.\n3. Control every throw, stop when the partner touches down with more than the feet, and reset.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "laamb",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть босоніж на піску або килимі з підготовленим партнером, без ударів (традиційний варіант).\n2. Захоплюйте руки, пояс або борцівську тканину й намагайтеся підняти та кинути партнера на землю чи за межі майданчика.\n3. Контролюйте кожен кидок, зупиняйтеся, коли партнер торкнеться землі не лише стопами, і починайте знову.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

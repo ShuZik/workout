@@ -3,11 +3,9 @@
   "key": "karate_hiza_geri",
   "title": "Hiza Geri",
   "description": "1. From close guard, shift weight to the supporting leg and chamber the other knee beneath the torso.\n2. Drive the hip forward and the knee upward into a body pad while keeping the torso upright and toes pulled down.\n3. Withdraw the knee and place the foot back into stance with both hands ready.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із ближньої захисної стійки перенесіть вагу на опорну ногу та підведіть інше коліно під тулуб.\n2. Подайте таз уперед і коліно вгору в корпусну подушку, тримаючи тулуб вертикально та спрямувавши носок униз.\n3. Відведіть коліно й поверніть стопу в стійку, зберігаючи обидві руки готовими.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

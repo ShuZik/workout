@@ -3,11 +3,9 @@
   "key": "judo_forward_breakfall",
   "title": "Forward Breakfall",
   "description": "1. Begin kneeling or crouched on tatami with the body braced and both forearms ready in front.\n2. Tip forward and land on the forearms and palms together with the elbows bent, turning the face to one side.\n3. Keep the chest, abdomen, and head from striking first, then push back to the starting position.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Ukemi",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть стоячи на колінах або присівши на татамі, напружте тулуб і підготуйте обидва передпліччя перед собою.\n2. Нахиліться вперед і приземліться одночасно на передпліччя та долоні із зігнутими ліктями, повернувши обличчя вбік.\n3. Не допускайте, щоб груди, живіт або голова вдарилися першими, потім відштовхніться й поверніться у вихідне положення.",
       "sectionTitle": "Укемі"
     }
-  }
+  },
+  "state": "active"
 }

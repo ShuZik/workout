@@ -3,11 +3,9 @@
   "key": "kick_boxing_parry_straight_counter",
   "title": "Parry and Straight Counter",
   "description": "1. The feeder throws a controlled straight punch at the defender's guard while both wear gloves and mouthguards.\n2. The defender parries it just off the centerline with the same-side palm and immediately returns a straight punch to the feeder's raised glove or chest target.\n3. Keep contact light, reset to guard after each exchange, and swap roles after the agreed number of repetitions.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Defense",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Атакувальник завдає контрольованого прямого удару в захист партнера; обидва в рукавицях і капах.\n2. Той, хто захищається, відбиває удар долонею того самого боку трохи вбік від центральної лінії й одразу відповідає прямим у підняту рукавицю або груди атакувальника.\n3. Тримайте контакт легким, після кожного обміну повертайтеся в захист і міняйтеся ролями після обумовленої кількості повторень.",
       "sectionTitle": "Захист"
     }
-  }
+  },
+  "state": "active"
 }

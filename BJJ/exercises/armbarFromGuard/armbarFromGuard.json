@@ -3,11 +3,9 @@
   "key": "bjj_armbar_from_guard",
   "title": "Armbar from Guard",
   "description": "1. From closed guard, control one wrist and arm, break posture, and pivot the hips toward the controlled shoulder.\n2. Bring one leg high across the back and the other across the head, then pinch both knees around the upper arm.\n3. Keep the thumb upward and extend the hips only gradually, releasing immediately at a tap or verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Submissions",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із закритого гарду контролюйте зап’ястя й руку, зламайте поставу партнера й розверніть таз до контрольованого плеча.\n2. Закиньте одну ногу високо на спину, а другу — через голову, потім стисніть обидва коліна навколо плеча.\n3. Тримайте великий палець угору й випрямляйте таз лише поступово, одразу відпускаючи за постукування або голосового сигналу.",
       "sectionTitle": "Больові й задушливі"
     }
-  }
+  },
+  "state": "active"
 }

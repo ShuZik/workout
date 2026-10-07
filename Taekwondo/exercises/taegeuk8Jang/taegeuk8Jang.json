@@ -3,11 +3,9 @@
   "key": "taekwondo_taegeuk_8_jang",
   "title": "Taegeuk 8 Jang",
   "description": "1. Start in basic ready stance and perform the eighth Taegeuk, opening with an assisted middle outward block and a front-stance punch.\n2. Include the jumping double front kick, the single mountain-shaped block, the turning elbow strike and the back-stance palm and knife-hand blocks.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте восьмий тхегик, відкривши його середнім зовнішнім блоком із підтримкою та ударом у передній стійці.\n2. Додайте подвійний прямий удар ногою в стрибку, одиночний блок «гора», круговий удар ліктем і блоки долонею та ребром долоні в задній стійці.\n3. Завершіть останніми блоками й ударами з кіхапом і поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

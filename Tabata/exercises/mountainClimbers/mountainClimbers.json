@@ -3,11 +3,9 @@
   "key": "tabata_mountain_climbers",
   "title": "Mountain Climbers",
   "description": "1. Start in a high plank with hands under shoulders, legs extended, and hips level.\n2. Drive one knee toward the chest without rounding the back or shifting the shoulders behind the hands.\n3. Return that foot to plank and alternate legs while keeping the pelvis steady.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "tabata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "intermediate",
   "section": "2 Full Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у високій планці: долоні під плечима, ноги випрямлені, таз рівно.\n2. Підтягніть одне коліно до грудей, не округлюючи спину й не зміщуючи плечі за долоні.\n3. Поверніть цю стопу в планку й чергуйте ноги, утримуючи таз нерухомим.",
       "sectionTitle": "Усе тіло"
     }
-  }
+  },
+  "state": "intense"
 }

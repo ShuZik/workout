@@ -3,11 +3,9 @@
   "key": "wrestling_tip_up",
   "title": "Tip Up",
   "description": "1. Squat on a mat with the hands planted shoulder-width apart and the fingers spread.\n2. Rest the knees on the backs of the bent elbows and lean forward until the feet lift off the mat.\n3. Hold the balance with the head up, then lower the feet softly and repeat.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "wrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Присядьте на килимі, поставивши руки на ширині плечей і розставивши пальці.\n2. Покладіть коліна на задню частину зігнутих ліктів і нахиліться вперед, доки стопи не відірвуться від килима.\n3. Утримуйте рівновагу, піднявши голову, потім м'яко опустіть стопи й повторіть.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

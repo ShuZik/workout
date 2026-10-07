@@ -3,11 +3,9 @@
   "key": "bjj_headlock_escape",
   "title": "Headlock Escape",
   "description": "1. From a controlled side headlock, protect the neck with both hands and turn the face toward the partner's ribs rather than away.\n2. Frame against the jaw or shoulder, bridge into the partner to create space, and slide the near elbow and knee inside.\n3. Turn toward the partner to recover guard or come to the knees, stopping immediately if the neck is compressed.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Escapes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З контрольованого бічного захвату голови захистіть шию обома руками й поверніть обличчя до ребер партнера, а не від нього.\n2. Впріться в щелепу або плече, зробіть міст у бік партнера, щоб створити простір, і заведіть ближні лікоть і коліно всередину.\n3. Поверніться до партнера, щоб повернути гард або стати на коліна, і одразу зупиніться, якщо шию стискає.",
       "sectionTitle": "Виходи"
     }
-  }
+  },
+  "state": "active"
 }

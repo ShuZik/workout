@@ -3,11 +3,9 @@
   "key": "taekwondo_dan_gun",
   "title": "Dan-Gun",
   "description": "1. Start in parallel ready stance and perform the 21-movement pattern, opening with a knife-hand guarding block in L-stance.\n2. Drive every hand attack to the high section, mixing walking-stance punches with twin forearm blocks, rising blocks and knife-hand strikes.\n3. Close with the final rising blocks and high punches, then return to parallel ready stance with the breath settled.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки й виконайте туль із 21 руху, відкривши його захисним блоком ребром долоні в L-подібній стійці.\n2. Спрямовуйте всі атаки руками на верхній рівень, поєднуючи удари в кроковій стійці з подвійними блоками передпліччями, верхніми блоками й ударами ребром долоні.\n3. Завершіть останніми верхніми блоками й ударами на верхній рівень і поверніться в паралельну готову стійку, вирівнявши дихання.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "muay_thai_rear_knee",
   "title": "Rear Knee",
   "description": "1. From guard or light clinch control, transfer weight to the lead leg and bring the rear knee forward.\n2. Extend the rear hip and drive the knee upward into a body pad while keeping the torso tall.\n3. Retract the knee and return the rear foot behind the lead foot with posture and guard restored.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту або легкого контролю в клінчі перенесіть вагу на передню ногу й виведіть заднє коліно вперед.\n2. Розігніть задній бік таза й спрямуйте коліно вгору в маківару, тримаючи корпус прямо.\n3. Приберіть коліно й поверніть задню стопу за передню, відновивши поставу та захист.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

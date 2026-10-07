@@ -3,11 +3,9 @@
   "key": "karate_uchi_uke",
   "title": "Uchi Uke",
   "description": "1. Chamber the blocking arm across the torso near the opposite side with the elbow close to the ribs.\n2. Rotate the hips and forearm from inside to outside while the opposite fist retracts to the hip.\n3. Finish with the forearm guarding the middle line, wrist straight, and elbow bent rather than flared.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Blocks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Підведіть блокувальну руку поперек тулуба до протилежного боку, тримаючи лікоть біля ребер.\n2. Поверніть таз і передпліччя зсередини назовні, одночасно відводячи протилежний кулак до стегна.\n3. Завершіть рух, захищаючи передпліччям середню лінію, зберігаючи пряме зап’ястя та зігнутий, а не відведений убік лікоть.",
       "sectionTitle": "Блоки"
     }
-  }
+  },
+  "state": "active"
 }

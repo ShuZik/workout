@@ -3,11 +3,9 @@
   "key": "wing_chun_chum_kiu",
   "title": "Chum Kiu",
   "description": "1. Begin from the Siu Nim Tao stance with both hands ready on the centreline and space to turn and step.\n2. Perform the form with stance turns, stepping advances, bong sau, lan sau, and elbow actions, and front and side kicks, moving the whole body as one unit.\n3. Keep your balance and face the centreline on every turn and step, then return to the starting stance and close the form.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "wingChun",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть зі стійки Сіу Нім Тао, обидві руки готові на центральній лінії, є місце для поворотів і кроків.\n2. Виконайте форму з поворотами стійки, кроками вперед, бонг сау, лан сау й діями ліктем, прямими та боковими ударами ногою, рухаючи все тіло як єдине ціле.\n3. Зберігайте рівновагу й розворот до центральної лінії під час кожного повороту та кроку, потім поверніться у вихідну стійку й завершіть форму.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

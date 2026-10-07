@@ -3,11 +3,9 @@
   "key": "bjj_side_control",
   "title": "Side Control",
   "description": "1. Lie chest-to-chest across the partner with one arm controlling the head and the other blocking the near hip.\n2. Widen the knees or post a foot so the base can follow bridges and hip escapes without loading the partner's neck.\n3. Keep the hips and shoulder line controlled, then settle the weight before changing grips or advancing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Positions",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте груди до грудей поперек партнера: одна рука контролює голову, друга блокує ближнє стегно.\n2. Розставте коліна або виставте стопу, щоб база встигала за мостами й виходами стегном, не навантажуючи шию партнера.\n3. Контролюйте таз і лінію плечей, потім стабілізуйте вагу, перш ніж змінювати захвати чи просуватися.",
       "sectionTitle": "Позиції"
     }
-  }
+  },
+  "state": "active"
 }

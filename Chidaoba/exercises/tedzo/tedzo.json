@@ -3,11 +3,9 @@
   "key": "chidaoba_tedzo",
   "title": "Tedzo",
   "description": "1. Grip the chokha and belt and step your rear leg between the partner's legs.\n2. Brace the hip against the partner's thigh and belly and drive with it while straightening the legs.\n3. Pull with the hand to throw the partner over the hip onto the back, guide the fall, and release.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "chidaoba",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за чоху й пояс і ступіть задньою ногою між ноги партнера.\n2. Упріться стегном у стегно й живіт партнера й штовхайте ним, випрямляючи ноги.\n3. Потягніть рукою й киньте партнера через стегно на спину, супроводьте падіння й відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

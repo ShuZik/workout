@@ -3,11 +3,9 @@
   "key": "kick_boxing_jab",
   "title": "Jab",
   "description": "1. From kickboxing guard, push lightly from the rear foot and send the lead fist straight toward the target.\n2. Turn the fist near extension, raise the lead shoulder, and keep the rear hand beside the cheek.\n3. Retract along the same line and restore guard and stance before punching or kicking again.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту кікбоксингу злегка відштовхніться задньою стопою й спрямуйте передній кулак прямо до цілі.\n2. Поверніть кулак ближче до розгинання, підніміть переднє плече й тримайте задню руку поруч зі щокою.\n3. Приберіть кулак тією самою лінією й відновіть захист і стійку перед наступним ударом рукою або ногою.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

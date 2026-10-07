@@ -3,11 +3,9 @@
   "key": "kurash_bel_oshirish",
   "title": "Bel Oshirish",
   "description": "1. Grip the partner's belt behind the back with one hand and the sleeve with the other, then step in and turn your back to the partner.\n2. Set the hips lower than the partner's belt and lift the partner onto the hips with the legs and belt grip.\n3. Rotate the partner over the hips and guide the landing onto the back, keeping the sleeve grip until the partner touches down.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "kurash",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Однією рукою візьміть пояс партнера за спиною, другою — рукав, потім увійдіть і поверніться до партнера спиною.\n2. Опустіть таз нижче пояса партнера й підніміть його на стегна за рахунок ніг і захвату за пояс.\n3. Проверніть партнера через стегно й спрямуйте його падіння на спину, утримуючи рукав, доки він не торкнеться килима.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "shorinji_kempo_main",
   "title": "Shorinji Kempo",
   "description": "1. Begin with gassho-rei and take a balanced kamae with the hands ready to protect the centerline.\n2. Practice goho (blocks, strikes, and kicks) and juho movements in short set sequences, coordinating footwork, hip turn, and the counter after each defense.\n3. Finish each sequence in kamae with zanshin; with a partner, alternate attacker and defender roles and release joint techniques at the first tap.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "shorinjiKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із ґассьо-рей і займіть стійку камае, руки готові захищати центральну лінію.\n2. Відпрацьовуйте ґохо (блоки, удари руками й ногами) та рухи дзюхо короткими заданими зв’язками, узгоджуючи кроки, поворот стегон і контратаку після кожного захисту.\n3. Завершуйте кожну зв’язку в камае з дзансіном; із партнером чергуйте ролі нападника й захисника та відпускайте больові за першого сигналу.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "unifight",
   "title": "Unifight",
   "description": "1. Set up an obstacle lane next to a padded ring, warm up, and put on protective gear for the fighting stage.\n2. Run the obstacle sequence at speed, then after about one minute of rest step into a controlled round mixing strikes, throws and ground control.\n3. Keep obstacle technique clean when tired and stop the sparring at once on any signal from the partner or coach.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "unifight",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Підготуйте смугу перешкод поруч із ринговим майданчиком із покриттям, розімніться й одягніть захисне спорядження для бойового етапу.\n2. Пройдіть перешкоди у високому темпі, потім приблизно після хвилини відпочинку почніть контрольований раунд з ударами, кидками й контролем у партері.\n3. Зберігайте чисту техніку на перешкодах навіть у втомі й одразу припиняйте спаринг за будь-яким сигналом партнера чи тренера.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

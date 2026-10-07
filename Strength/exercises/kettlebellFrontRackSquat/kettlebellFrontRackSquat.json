@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_front_rack_squat",
   "title": "Kettlebell Front Rack Squat",
   "description": "1. Clean or lift the kettlebell into a front rack with the wrist straight and elbow close to the ribs.\n2. Squat while the weight stays connected to the torso and the knees track over the toes.\n3. Drive through the whole feet to stand, then re-rack the bell before lowering it safely.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Візьміть гирю на груди підйомом або взяттям, тримаючи зап’ястя прямим і лікоть близько до ребер.\n2. Присідайте, тримаючи гирю притиснутою до корпусу й спрямовуючи коліна за лінією носків.\n3. Відштовхніться всією стопою й встаньте, потім виправте положення гирі на грудях перед безпечним опусканням.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

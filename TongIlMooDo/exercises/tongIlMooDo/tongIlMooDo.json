@@ -3,11 +3,9 @@
   "key": "tong_il_moo_do_main",
   "title": "Tong-il Moo Do",
   "description": "1. Start in a balanced guard on mats with knees soft and hands ready to strike or grab.\n2. Combine strikes and kicks with controlled throws and joint locks in short sequences, practicing falls between repetitions.\n3. Release every lock at the first tap, return to guard after each sequence, and keep the pace steady through the interval.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "tongIlMooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у збалансованій стійці на татамі, коліна м’які, руки готові до удару чи захоплення.\n2. Поєднуйте удари руками й ногами з контрольованими кидками й больовими короткими зв’язками, відпрацьовуючи падіння між повторами.\n3. Відпускайте кожен больовий при першому плесканні, повертайтеся в стійку після кожної зв’язки й тримайте рівний темп весь інтервал.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

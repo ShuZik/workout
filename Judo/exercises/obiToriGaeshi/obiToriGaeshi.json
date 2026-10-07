@@ -3,11 +3,9 @@
   "key": "judo_obi_tori_gaeshi",
   "title": "Obi Tori Gaeshi",
   "description": "1. As the partner bends forward or attacks low, reach over the back and grip the belt.\n2. Sit or roll backward to the side while the belt grip and a hand under the partner pull the partner over.\n3. Follow the rotation and stabilize on top or release the belt once the partner lands safely.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Te-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли партнер нахиляється вперед або атакує низько, проведіть руку через його спину й захопіть пояс.\n2. Сядьте або перекотіться назад убік, перетягуючи партнера через себе захопленням пояса й рукою під ним.\n3. Слідуйте за обертанням і закріпіться зверху або відпустіть пояс, коли партнер безпечно приземлиться.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

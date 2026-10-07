@@ -3,11 +3,9 @@
   "key": "koresh",
   "title": "Koresh",
   "description": "1. Face a trained partner on mats, each holding a sash or towel wrapped around the other's waist.\n2. Keep the sash grip and try to lift, turn, and throw the partner off the feet without leg grabs or groundwork.\n3. Lower every throw under control, stop when the partner lands, and retake the sash grip.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "koresh",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до підготовленого партнера на килимі, кожен тримає кушак або рушник, обгорнутий навколо пояса іншого.\n2. Зберігаючи захват за кушак, намагайтеся підняти, розвернути й кинути партнера без захватів ніг і боротьби в партері.\n3. Опускайте кожен кидок під контролем, зупиняйтеся, коли партнер приземлиться, і знову беріть захват за кушак.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

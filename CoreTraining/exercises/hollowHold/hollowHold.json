@@ -3,11 +3,9 @@
   "key": "core_hollow_hold",
   "title": "Hollow Hold",
   "description": "1. Lie on the back, press the lower back gently into the floor, and extend the arms overhead.\n2. Lift the shoulders and straight legs to create a shallow hollow shape while keeping the ribs down.\n3. Hold with steady breathing and lower the legs or bend the knees before the lower back loses contact.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Intermediate",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, м’яко притисніть поперек до підлоги й витягніть руки за голову.\n2. Трохи підніміть плечі та прямі ноги, створюючи неглибоку порожнисту форму тіла й тримаючи ребра опущеними.\n3. Утримуйте положення з рівним диханням і опустіть ноги або зігніть коліна до того, як поперек втратить контакт із підлогою.",
       "sectionTitle": "Середній рівень"
     }
-  }
+  },
+  "state": "active"
 }

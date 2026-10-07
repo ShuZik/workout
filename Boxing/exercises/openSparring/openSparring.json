@@ -3,11 +3,9 @@
   "key": "open_sparring",
   "title": "Open Sparring",
   "description": "1. Spar only under a qualified coach, in full protective equipment, with a medical card where required and a partner matched for age, experience and weight.\n2. Use the full range of punches, defences and footwork at full speed while keeping the power reduced, treating the round as learning rather than a contest.\n3. Take the coach's feedback on the move, and stop immediately at the coach's call, at signs of fatigue, or at any loss of control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15125",
     "vigorousCode": "15100"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "level": 3,
   "section": "4 Intermediate",
@@ -87,5 +84,6 @@
       "description": "1. Проводьте спаринг лише під керівництвом кваліфікованого тренера, у повному спорядженні, з медичним допуском за потреби та з партнером близького віку, досвіду й ваги.\n2. Використовуйте весь арсенал ударів, захистів і пересувань у повному темпі, але зі зниженою силою, сприймаючи раунд як навчання, а не бій.\n3. Приймайте підказки тренера в русі й одразу зупиняйтеся за його командою, за ознак утоми або в разі втрати контролю.",
       "sectionTitle": "Середній"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,12 +3,9 @@
   "key": "functional_dumbbell_wood_chop",
   "title": "Dumbbell Wood Chop",
   "description": "1. Hold one dumbbell with both hands beside one hip and stand with knees softly bent.\n2. Rotate the hips and rib cage to move the weight diagonally across the body toward the opposite shoulder.\n3. Reverse the path under control without twisting the knees, then complete the other side.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте одну гантель двома руками збоку від стегна й стійте зі злегка зігнутими колінами.\n2. Повертайте таз і грудну клітку, переміщуючи вагу по діагоналі перед корпусом до протилежного плеча.\n3. Контрольовано поверніть вагу тією самою траєкторією, не скручуючи коліна, потім виконайте вправу на інший бік.",
       "sectionTitle": "Середній рівень"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

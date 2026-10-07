@@ -3,11 +3,9 @@
   "key": "capoeira_queda_de_rins",
   "title": "Queda de Rins",
   "description": "1. On mats, crouch low and place both hands on the floor, then rest the side of the lower back and hip on one bent elbow.\n2. Lean the weight over the elbow and hands while the head stays off the floor and the feet stay down at first.\n3. Lift the feet only when the balance is steady, hold briefly, and lower the feet before rising back into the ginga.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Acrobatics",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На матах низько присядьте, поставте обидві руки на підлогу й обіпріться боком попереку й таза на зігнутий лікоть.\n2. Перенесіть вагу на лікоть і кисті, не торкаючись підлоги головою й спершу залишаючи стопи на підлозі.\n3. Піднімайте стопи, лише коли рівновага стійка, коротко втримайте й опустіть їх, перш ніж повернутися в джингу.",
       "sectionTitle": "Акробатика"
     }
-  }
+  },
+  "state": "active"
 }

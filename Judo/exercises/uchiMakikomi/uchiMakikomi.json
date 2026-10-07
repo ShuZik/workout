@@ -3,11 +3,9 @@
   "key": "judo_uchi_makikomi",
   "title": "Uchi Makikomi",
   "description": "1. Trap the partner's arm under your armpit from the inside while turning in close.\n2. Turn under the trapped arm and lower the hips so the partner is loaded onto your back.\n3. Roll forward and wind the partner over your body to the mat, landing beside the partner.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Щільно розвертаючись, затисніть руку партнера під пахвою зсередини.\n2. Розверніться під затиснутою рукою й опустіть таз, навантажуючи партнера на спину.\n3. Перекотіться вперед, накручуючи партнера через себе на татамі, і впадіть поруч із ним.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

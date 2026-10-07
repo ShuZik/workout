@@ -3,11 +3,9 @@
   "key": "adductor_stretch",
   "title": "Adductor Stretch",
   "description": "1. Stand wide with toes forward and shift the hips toward one side.\n2. Bend that knee while the opposite leg stays long and both feet remain flat.\n3. Hold the stretch along the inner straight leg, return to center, and switch sides.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Static Stretching",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте широко, спрямуйте носки вперед і змістіть таз в один бік.\n2. Зігніть коліно з цього боку, залишаючи іншу ногу прямою та обидві стопи повністю на підлозі.\n3. Утримуйте розтягування вздовж внутрішньої поверхні прямої ноги, поверніться в центр і змініть бік.",
       "sectionTitle": "Статичне розтягування"
     }
-  }
+  },
+  "state": "active"
 }

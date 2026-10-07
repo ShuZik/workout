@@ -3,11 +3,9 @@
   "key": "calisthenics_l_sit",
   "title": "L-Sit",
   "description": "1. Sit between parallettes or place the palms beside the hips with the legs extended forward.\n2. Press down through straight arms, depress the shoulders, and lift the hips away from the floor.\n3. Straighten and raise the legs to form an L shape; bend the knees if needed to keep the hips lifted.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Intermediate",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте між низькими паралельними брусами або поставте долоні поруч із тазом, витягнувши ноги вперед.\n2. Тисніть униз прямими руками, опустіть плечі й трохи підніміть таз над підлогою.\n3. Випряміть і підніміть ноги, утворюючи куточок; за потреби зігніть коліна, щоб утримувати таз піднятим.",
       "sectionTitle": "Середній рівень"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "judo_o_soto_gaeshi",
   "title": "O Soto Gaeshi",
   "description": "1. As a trained partner attacks with o-soto-gari, lower the hips and keep the attacked leg stable.\n2. Lift the partner's reaping leg slightly with your own leg while turning the upper body in the opposite direction.\n3. Reap the partner's supporting leg with the counter and guide a back breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер атакує о-сото-гарі, опустіть таз і збережіть атаковану ногу стійкою.\n2. Трохи підніміть своєю ногою підсікаючу ногу партнера, розвертаючи тулуб у зворотний бік.\n3. Контрприйомом підсічіть опорну ногу партнера й спрямуйте страховку на спину.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "lucha_leonesa_zancajo",
   "title": "Zancajo",
   "description": "1. From the belt grip, draw the partner forward so the weight settles on one leg.\n2. Step in and block that leg with yours, locking your heel behind the partner's heel.\n3. Push with the belt grips to trip the partner over the blocked leg, keep both hands on the belt to guide the fall, then release.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захоплення за пояс потягніть партнера вперед, щоб його вага лягла на одну ногу.\n2. Ступіть і заблокуйте цю ногу своєю, поставивши п'яту за його п'яту.\n3. Штовхніть захопленнями за пояс, валячи партнера через заблоковану ногу, тримайте пояс обома руками, спрямовуючи падіння, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

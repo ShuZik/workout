@@ -3,11 +3,9 @@
   "key": "taekwondo_keumgang",
   "title": "Keumgang",
   "description": "1. Start in basic ready stance and perform Keumgang on its mountain-shaped line of movement.\n2. Include the diamond blocks, the crane-stance diamond block held on one leg, the large hinge turns and the mountain-shaped blocks in horse-riding stance.\n3. Move with heavy, deliberate power, finish with the closing blocks, and return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте Кимган лінією у формі гори.\n2. Додайте алмазні блоки, алмазний блок у стійці журавля на одній нозі, великі розвороти «петля» та блоки «гора» в стійці вершника.\n3. Рухайтеся з важкою, усвідомленою силою, завершіть останніми блоками й поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

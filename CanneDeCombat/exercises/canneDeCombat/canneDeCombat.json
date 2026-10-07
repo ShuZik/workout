@@ -3,11 +3,9 @@
   "key": "canne_de_combat_main",
   "title": "Canne de Combat",
   "description": "1. Stand in guard with the cane in one hand, the point forward, knees soft, and the free hand kept clear of the target zones.\n2. Move on light steps and link armed strikes such as latéral, croisé, brisé, and enlevé, passing through a full wind-up (armé) before each hit lands with the upper part of the cane.\n3. Return to guard after every strike or evasion and keep a safe distance between actions.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку з тростиною в одній руці, вістрям уперед, коліна м’які, вільна рука поза зонами ураження.\n2. Пересувайтеся легкими кроками й поєднуйте удари із замахом — латераль, круазе, бризе, анлеве, — щоразу виконуючи повний замах (арме) перед торканням верхньою частиною тростини.\n3. Після кожного удару чи ухилу повертайтеся в стійку й тримайте безпечну дистанцію між діями.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

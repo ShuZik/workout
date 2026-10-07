@@ -3,11 +3,9 @@
   "key": "bootcamp_high_knees",
   "title": "High Knees",
   "description": "1. Stand tall with feet under the hips and elbows bent at the sides.\n2. Run in place while lifting each knee toward hip height and driving the opposite arm forward.\n3. Land lightly under the body and lower the knee height before posture or rhythm is lost.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "3 Bootcamp",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте прямо, стопи під тазом, лікті зігнуті вздовж корпусу.\n2. Біжіть на місці, піднімаючи кожне коліно до висоти таза й активно виводячи вперед протилежну руку.\n3. М'яко приземляйтеся під корпус і знижуйте висоту підйому колін, перш ніж порушиться постава або ритм.",
       "sectionTitle": "Буткемп"
     }
-  }
+  },
+  "state": "intense"
 }

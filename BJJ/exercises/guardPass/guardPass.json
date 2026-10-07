@@ -3,11 +3,9 @@
   "key": "bjj_guard_pass",
   "title": "Guard Pass",
   "description": "1. From the top, establish upright posture and control the partner's hips or legs before opening the guard.\n2. Clear the knees one at a time while keeping the elbows close and moving the hips around rather than reaching over the legs.\n3. Bring the chest across the partner, block the near hip, and stabilize side control before releasing the leg grips.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Passes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Згори випряміть тулуб і візьміть під контроль таз або ноги партнера, перш ніж розкрити гард.\n2. Прибирайте коліна по одному, тримаючи лікті притиснутими й обходячи ноги тазом, а не тягнучись через них руками.\n3. Переведіть груди поперек партнера, заблокуйте ближнє стегно й закріпіть бічний контроль, перш ніж відпустити ноги.",
       "sectionTitle": "Проходи гарду"
     }
-  }
+  },
+  "state": "active"
 }

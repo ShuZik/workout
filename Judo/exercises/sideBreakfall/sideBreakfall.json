@@ -3,11 +3,9 @@
   "key": "judo_side_breakfall",
   "title": "Side Breakfall",
   "description": "1. Begin in a low squat, extend one leg across the body, and tuck the chin toward the chest.\n2. Lower onto the same-side hip and back while the lower arm slaps the mat and the upper arm protects the torso.\n3. Keep the head and knees off each other, finish on the side rather than the elbow, and rise under control.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Ukemi",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у низькому присіді, витягніть одну ногу поперек тіла й притисніть підборіддя до грудей.\n2. Опустіться на стегно й спину з того самого боку, плеснувши нижньою рукою по мату й захистивши тулуб верхньою рукою.\n3. Не допускайте зіткнення голови й колін, завершіть на боці, а не на лікті, і підніміться контрольовано.",
       "sectionTitle": "Укемі"
     }
-  }
+  },
+  "state": "active"
 }

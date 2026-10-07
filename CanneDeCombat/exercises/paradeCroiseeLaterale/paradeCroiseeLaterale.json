@@ -3,11 +3,9 @@
   "key": "canne_parade_croisee_laterale",
   "title": "Parade Croisee Laterale",
   "description": "1. Face a trained partner at measured distance; the attacker delivers a slow lateral strike from the cross side toward your head or flank.\n2. As defender, bring the cane across the body to the cross line, point up, and meet the strike on the shaft with the arm firm and the hand protected.\n3. Absorb the contact, return to guard, and swap roles; keep the power light until the parry is reliable.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Partner Parries",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти підготовленого партнера на вивіреній дистанції; той, хто атакує, повільно завдає латераль із перехресного боку в голову чи корпус.\n2. Захисник переводить тростину поперек тіла на перехресну лінію, вістрям угору, і приймає удар на древко твердою рукою, захищаючи кисть.\n3. Погасіть контакт, поверніться в стійку й поміняйтеся ролями; тримайте силу малою, доки парад не стане надійним.",
       "sectionTitle": "Паради з партнером"
     }
-  }
+  },
+  "state": "active"
 }

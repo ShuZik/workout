@@ -3,11 +3,9 @@
   "key": "naginata_do_uchi",
   "title": "Do-uchi",
   "description": "1. From chudan, swing the naginata up and turn the blade so it travels on a downward diagonal.\n2. Step in and cut the side of the partner's torso (do) with the monouchi, calling out do.\n3. Follow through without dropping the shaft, show zanshin, return to chudan, and alternate sides.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "naginata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із чюдану здійміть нагінату й розверніть клинок так, щоб він ішов низхідною діагоналлю.\n2. Ступіть і рубоніть моноучі по боку корпусу партнера (до) з вигуком до.\n3. Проведіть удар до кінця, не впускаючи держак, покажіть дзаншін, поверніться в чюдан і чергуйте боки.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

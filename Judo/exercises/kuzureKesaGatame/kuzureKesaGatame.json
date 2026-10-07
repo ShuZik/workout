@@ -3,11 +3,9 @@
   "key": "judo_kuzure_kesa_gatame",
   "title": "Kuzure Kesa Gatame",
   "description": "1. Sit beside the partner's ribs, control the near arm under your armpit, and slide the other arm under the partner's far armpit instead of around the head.\n2. Turn the hips toward the partner and spread the legs into a wide base with the chest on the partner's chest.\n3. Follow bridges by adjusting the feet and release immediately if the partner taps or signals distress.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте біля ребер партнера, затисніть ближню руку під пахвою, а іншу руку проведіть під його дальню пахву замість обхвату голови.\n2. Поверніть стегна до партнера, широко розведіть ноги для опори й притисніть груди до його грудей.\n3. Слідуйте за мостами, підлаштовуючи стопи, і негайно відпускайте, якщо партнер постукує або сигналізує про дискомфорт.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "backhold_outside_stroke",
   "title": "Outside Stroke",
   "description": "1. From the locked backhold, swing the partner around to one side to take the weight off the near leg.\n2. Strike the outside of that leg with the side of your foot as the swing continues.\n3. Turn the partner down onto the mat with the hold, keep the grip locked until the landing, then release and reset.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "backhold",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі зчепленого бекхолду розкрутіть партнера вбік, знімаючи вагу з його ближньої ноги.\n2. Продовжуючи розкручування, підбийте цю ногу ззовні ребром стопи.\n3. Захопленням покладіть партнера на килим, тримайте замок до приземлення, потім відпустіть і почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

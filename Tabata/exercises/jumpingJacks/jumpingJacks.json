@@ -3,11 +3,9 @@
   "key": "tabata_jumping_jacks",
   "title": "Jumping Jacks",
   "description": "1. Stand with feet together and arms by the sides.\n2. Jump the feet wider than the hips while sweeping both arms overhead.\n3. Jump the feet together as the arms return to the sides, landing softly each time.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "tabata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "2 Full Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте, стопи разом, руки вздовж тіла.\n2. У стрибку розставте стопи ширше за таз, одночасно піднімаючи обидві руки над головою.\n3. У стрибку зведіть стопи, опускаючи руки вздовж тіла, і щоразу м’яко приземляйтеся.",
       "sectionTitle": "Усе тіло"
     }
-  }
+  },
+  "state": "intense"
 }

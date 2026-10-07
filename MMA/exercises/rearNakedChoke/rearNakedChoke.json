@@ -3,11 +3,9 @@
   "key": "mma_rear_naked_choke",
   "title": "Rear-Naked Choke",
   "description": "1. From controlled back position, place one forearm beneath the chin while the other arm controls the upper body.\n2. Connect the choking hand to the opposite biceps, place the supporting hand behind the head, and bring both elbows inward.\n3. Apply pressure gradually with the chest close and release immediately at a tap or verbal signal.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Submissions",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із контрольованої позиції зі спини заведіть одне передпліччя під підборіддя, другою рукою контролюючи верх корпусу.\n2. Покладіть задушливу кисть на біцепс іншої руки, опорну кисть заведіть за голову й зведіть обидва лікті всередину.\n3. Щільно притиснувшись грудьми, посилюйте тиск поступово й одразу відпускайте за плесканням чи голосовим сигналом.",
       "sectionTitle": "Больові й задушливі"
     }
-  }
+  },
+  "state": "active"
 }

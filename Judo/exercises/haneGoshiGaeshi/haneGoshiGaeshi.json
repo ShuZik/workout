@@ -3,11 +3,9 @@
   "key": "judo_hane_goshi_gaeshi",
   "title": "Hane Goshi Gaeshi",
   "description": "1. As a trained partner springs in with hane-goshi, lower the hips and avoid being loaded.\n2. Hook or reap the partner's springing leg from inside with your leg while turning the upper body.\n3. Rotate the partner backward over the reap and guide the breakfall before stabilizing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер входить із хане-госі, опустіть таз і не дайте себе навантажити.\n2. Зачепіть або підсічіть зсередини своєю ногою підбиваючу ногу партнера, розвертаючи тулуб.\n3. Перекиньте партнера назад через підсічку й спрямуйте страховку, потім закріпіться.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

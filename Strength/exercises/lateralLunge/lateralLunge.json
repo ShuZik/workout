@@ -3,11 +3,9 @@
   "key": "functional_lateral_lunge",
   "title": "Lateral Lunge",
   "description": "1. Stand tall with the feet together or hip-width apart and toes pointing forward.\n2. Step wide to one side, bend that knee, and push the hips back while the opposite leg stays long.\n3. Drive through the bent leg to return to center, then repeat on the other side.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте рівно, стопи разом або на ширині таза, носки дивляться вперед.\n2. Зробіть широкий крок убік, зігніть це коліно й відведіть таз назад, зберігаючи іншу ногу прямою.\n3. Відштовхніться зігнутою ногою, поверніться в центр і повторіть в інший бік.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

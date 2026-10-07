@@ -3,11 +3,9 @@
   "key": "aikido_aigamae_ate",
   "title": "Aigamae Ate",
   "description": "1. From the same-side stance, deflect uke's leading arm downward with your rear hand while stepping to the outside.\n2. Extend the lead arm across uke's chest or chin and step through behind uke's lead leg.\n3. Push through uke's center so uke falls into a back breakfall, keeping the push smooth rather than striking.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "aikido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З однойменної стійки відведіть задньою рукою передню руку уке вниз, виходячи назовні.\n2. Витягніть передню руку поперек грудей чи підборіддя уке й зайдіть за його передню ногу.\n3. Штовхніть через центр уке, щоб він упав назад, зберігаючи поштовх м’яким, без удару.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

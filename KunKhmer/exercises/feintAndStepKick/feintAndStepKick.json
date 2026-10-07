@@ -3,11 +3,9 @@
   "key": "kun_khmer_feint_and_step_kick",
   "title": "Feint and Step Kick",
   "description": "1. From guard, show a short feint such as a lead-hand flick or a half-lift of the lead knee.\n2. As the imagined reaction comes, step the lead foot out and throw a full rear roundhouse kick into the opening.\n3. Recoil to guard and reset the distance before repeating with a different feint.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "kunKhmer",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту покажіть короткий фінт — рух передньою рукою або напівпідйом переднього коліна.\n2. На уявну реакцію ступіть передньою ногою вбік і завдайте повного кругового удару задньою ногою у відкрите місце.\n3. Поверніться в захист і відновіть дистанцію, потім повторіть з іншим фінтом.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

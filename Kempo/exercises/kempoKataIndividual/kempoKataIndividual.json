@@ -3,11 +3,9 @@
   "key": "kempo_kata_individual",
   "title": "Kempo Kata Individual",
   "description": "1. Choose one traditional or modern kata, bow, and announce its name as in competition.\n2. Perform the whole kata at competition rhythm with clear stances, focused techniques and a steady gaze.\n3. Finish on the starting spot, hold the closing posture briefly, bow, and note any errors before repeating.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Оберіть одне традиційне або сучасне ката, вклоніться й назвіть його, як на змаганнях.\n2. Виконайте ката повністю в змагальному ритмі з чіткими стійками, зосередженою технікою й стійким поглядом.\n3. Завершіть на стартовій точці, ненадовго затримайте фінальну позицію, вклоніться й відзначте помилки перед повтором.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

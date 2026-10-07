@@ -3,11 +3,9 @@
   "key": "naginata_waki_no_kamae",
   "title": "Waki-no-Kamae",
   "description": "1. From chudan, draw the naginata back along the side so the blade points down and behind you, hiding its length.\n2. Keep the ishizuki (butt end) toward the partner, the hands near the hip, and the stance stable and low.\n3. Hold, then return to chudan or strike from waki, and practise on both sides.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "naginata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із чюдану відведіть нагінату назад уздовж боку, щоб клинок дивився вниз і назад, приховуючи довжину зброї.\n2. Тримайте ішідзукі (п'яту держака) до партнера, руки біля стегна, стійку низькою й стійкою.\n3. Затримайтеся, потім поверніться в чюдан або вдарте з вакі; відпрацьовуйте на обидва боки.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

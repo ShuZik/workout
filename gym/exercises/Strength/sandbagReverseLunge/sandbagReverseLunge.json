@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Надійно тримайте мішок біля грудей або на плечах і станьте рівно.\n2. Ступіть однією ногою назад і опустіть обидва коліна, тримаючи передню стопу повністю на підлозі.\n3. Відштовхніться передньою стопою, поверніться в стійку й чергуйте ноги, не даючи мішку зміщуватися.",
       "sectionTitle": "Мішок із піском"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

@@ -3,11 +3,9 @@
   "key": "capoeira_ginga",
   "title": "Ginga",
   "description": "1. Stand with the feet wide and parallel, knees bent, and one arm raised across the face.\n2. Step one foot back on a diagonal into a low lunge while the opposite arm guards the face, then bring it back to the parallel base.\n3. Repeat to the other side in a continuous rocking rhythm, keeping the chest upright and the eyes forward.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте зі стопами широко й паралельно, коліна зігнуті, одна рука піднята перед обличчям.\n2. Відведіть одну ногу назад по діагоналі в низький випад, поки протилежна рука захищає обличчя, потім поверніться в паралельну стійку.\n3. Повторіть в інший бік у безперервному розгойдувальному ритмі, тримаючи груди прямо й погляд уперед.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

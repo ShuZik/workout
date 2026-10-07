@@ -3,11 +3,9 @@
   "key": "bootcamp_shuttle_run",
   "title": "Shuttle Run",
   "description": "1. Place two markers on a clear surface and start in an athletic stance behind one line.\n2. Accelerate toward the opposite marker, then shorten the steps and lower the hips before reaching it.\n3. Touch or cross the line, turn from a balanced foot position, and accelerate back.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02078",
     "vigorousCode": "02078"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "3 Bootcamp",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте два орієнтири на вільній поверхні й прийміть атлетичну стійку за однією з ліній.\n2. Прискорюйтеся до протилежного орієнтира, а перед ним скоротіть кроки й опустіть таз.\n3. Торкніться лінії або перетніть її, розверніться зі стійкого положення стоп і прискорюйтеся назад.",
       "sectionTitle": "Буткемп"
     }
-  }
+  },
+  "state": "intense"
 }

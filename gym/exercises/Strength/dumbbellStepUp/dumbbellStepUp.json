@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте гантелі по боках і поставте всю передню стопу на стійку платформу.\n2. Відштовхніться передньою стопою й встаньте на платформу, не підстрибуючи задньою ногою.\n3. Контрольовано опустіть спочатку задню, а тоді передню стопу, після чого повторіть або змініть бік.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

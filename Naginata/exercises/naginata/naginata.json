@@ -3,11 +3,9 @@
   "key": "naginata_main",
   "title": "Naginata",
   "description": "1. Stand in chudan-no-kamae holding the naginata with both hands, the blade end forward at the partner's throat line and the feet in a relaxed stance.\n2. Move with suri-ashi and strike men, kote, do, or sune, switching the forward hand and side smoothly with each change of kamae.\n3. Recover kamae after every strike, keep zanshin, and maintain distance and control of the long shaft throughout the interval.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "naginata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в тюдан-но-камае, тримаючи нагінату двома руками, клинок спрямований на лінію горла партнера, стопи розслаблені.\n2. Пересувайтеся суріасі й завдавайте ударів мен, коте, до або суне, плавно змінюючи передню руку й бік за кожної зміни камае.\n3. Після кожного удару повертайтеся в камае, зберігайте дзансін і контролюйте дистанцію та довге держално весь інтервал.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

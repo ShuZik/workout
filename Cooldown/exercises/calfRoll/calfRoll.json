@@ -3,11 +3,9 @@
   "key": "foam_rolling_calf_roll",
   "title": "Calf Roll",
   "description": "1. Sit with a foam roller under one calf, hands behind the body, and the other foot on the floor for support.\n2. Lift the hips slightly and roll from above the ankle to below the knee.\n3. Turn the leg gently inward and outward to cover the calf, pausing on tender areas without pressing sharply.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Release Work",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте з пінним роликом під однією литкою, поставте руки позаду тіла, а іншу стопу на підлогу для підтримки.\n2. Злегка підніміть таз і прокочуйте від ділянки вище щиколотки до ділянки нижче коліна.\n3. М’яко повертайте ногу всередину й назовні, охоплюючи литку, і затримуйтеся на чутливих ділянках без різкого тиску.",
       "sectionTitle": "Розслаблення м’язів"
     }
-  }
+  },
+  "state": "active"
 }

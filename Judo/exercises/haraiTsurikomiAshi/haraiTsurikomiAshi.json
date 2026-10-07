@@ -3,11 +3,9 @@
   "key": "judo_harai_tsurikomi_ashi",
   "title": "Harai Tsurikomi Ashi",
   "description": "1. Draw the partner forward so the advancing foot carries weight while the body leans slightly forward.\n2. Sweep the front of that ankle with the sole of the foot in the direction of the partner's movement.\n3. Lift and turn the upper body with the hands so the partner rotates forward, guiding the sleeve to the landing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виведіть партнера вперед, щоб виставлена стопа прийняла вагу, а тулуб трохи нахилився вперед.\n2. Підметіть підошвою передній бік цього гомілковостопу в напрямку руху партнера.\n3. Підніміть і розверніть тулуб руками, щоб партнер перекинувся вперед, спрямовуючи рукав до приземлення.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

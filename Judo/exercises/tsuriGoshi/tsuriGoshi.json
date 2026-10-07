@@ -3,11 +3,9 @@
   "key": "judo_tsuri_goshi",
   "title": "Tsuri Goshi",
   "description": "1. Reach over or under the partner's arm to grip the back of the belt while the other hand controls the sleeve.\n2. Turn in with the hips below the partner and lift with the belt grip so the partner is loaded onto the hips.\n3. Rotate and project the partner over the hips while keeping the sleeve to guide the breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Koshi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Проведіть руку над або під рукою партнера й захопіть пояс ззаду, іншою рукою контролюючи рукав.\n2. Увійдіть із розворотом, таз нижче партнера, і підніміть його захопленням за пояс, навантажуючи на таз.\n3. Розверніться й киньте партнера через таз, утримуючи рукав для спрямування страховки.",
       "sectionTitle": "Косі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

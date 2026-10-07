@@ -3,11 +3,9 @@
   "key": "kendo_tachi_3",
   "title": "Kendo Kata Tachi 3",
   "description": "1. Both take gedan, advance, and raise their tips into chudan at striking distance.\n2. Uchidachi thrusts to shidachi's solar plexus; shidachi steps back, softly receives and redirects the blade, and counter-thrusts.\n3. Shidachi presses forward step by step with the tip at uchidachi's throat as uchidachi retreats, then both return to center and chudan.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обоє займають ґедан, сходяться й піднімають кінчики в тюдан на дистанції удару.\n2. Утідаті коле в сонячне сплетіння сідаті; сідаті відступає, м’яко приймає й відводить клинок і відповідає уколом.\n3. Сідаті крок за кроком тисне на утідаті, тримаючи кінчик біля його горла, поки той відступає; потім обоє повертаються в центр у тюдан.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

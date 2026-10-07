@@ -3,11 +3,9 @@
   "key": "taekwondo_taegeuk_6_jang",
   "title": "Taegeuk 6 Jang",
   "description": "1. Start in basic ready stance and perform the sixth Taegeuk, combining front stance and back stance with flowing transitions.\n2. Include the turning kicks, single knife-hand high outward blocks, palm pushing blocks and the slow low spread block.\n3. Finish with the closing blocks and punches while stepping back along the line, then return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте шостий тхегик, поєднуючи передню й задню стійки з плавними переходами.\n2. Додайте кругові удари ногою, верхні зовнішні блоки однією рукою ребром долоні, штовхальні блоки долонею та повільний нижній розвідний блок.\n3. Завершіть останніми блоками й ударами, відступаючи лінією, і поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

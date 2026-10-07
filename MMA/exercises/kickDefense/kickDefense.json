@@ -3,11 +3,9 @@
   "key": "mma_kick_defense",
   "title": "Kick Defense",
   "description": "1. From guard, identify the kick level and keep the opposite hand protecting the head.\n2. Raise the shin to check a low kick or brace both forearms against a body kick while the standing knee stays soft.\n3. Return the defending leg or arms to stance immediately and step out of the attacker's follow-up line.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Striking",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки визначте рівень удару ногою й тримайте протилежну руку біля голови.\n2. Підніміть гомілку, щоб прийняти лоу-кік, або підставте обидва передпліччя під удар у корпус, зберігаючи опорне коліно м’яким.\n3. Одразу поверніть ногу чи руки, що захищалися, у стійку й зійдіть із лінії наступної атаки.",
       "sectionTitle": "Ударна техніка"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "karate_shuto_uke",
   "title": "Shuto Uke",
   "description": "1. Open the hands, chamber the blocking hand near the opposite ear, and extend the other hand toward the centerline.\n2. Rotate the torso and sweep the knife-edge hand outward while drawing the opposite hand palm-up toward the ribs.\n3. Finish with the blocking fingers together, thumb tucked, wrist aligned, and elbow bent in front of the body.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Blocks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Розкрийте кисті, підведіть блокувальну кисть до протилежного вуха та витягніть іншу до центральної лінії.\n2. Поверніть тулуб і проведіть ребро долоні назовні, одночасно відводячи іншу кисть долонею вгору до ребер.\n3. Завершіть рух зі зімкнутими пальцями блокувальної кисті, підібраним великим пальцем, рівним зап’ястям і зігнутим перед тілом ліктем.",
       "sectionTitle": "Блоки"
     }
-  }
+  },
+  "state": "active"
 }

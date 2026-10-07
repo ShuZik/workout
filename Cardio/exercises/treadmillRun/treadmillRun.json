@@ -3,11 +3,9 @@
   "key": "treadmill_run",
   "title": "Treadmill Run",
   "description": "1. Attach the safety clip, start the belt slowly, and move to the center without holding the rails.\n2. Run tall with short natural strides landing under the body while the arms swing freely.\n3. Change speed or incline gradually and slow to a walk before stepping off the belt.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "12050",
     "vigorousCode": "12090"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Indoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Прикріпіть страхувальну кліпсу, повільно запустіть полотно й перемістіться в центр, не тримаючись за поручні.\n2. Біжіть рівно короткими природними кроками, приземляючись під тілом і вільно рухаючи руками.\n3. Поступово змінюйте швидкість або нахил і перейдіть на ходьбу, перш ніж зійти з полотна.",
       "sectionTitle": "У приміщенні"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,12 +3,9 @@
   "key": "strength_barbell_bench_press",
   "title": "Barbell Bench Press",
   "description": "1. Lie with eyes under the racked bar, feet planted, shoulder blades set, and hands evenly spaced.\n2. Unrack to straight arms, lower the bar toward the mid-chest with forearms near vertical, and keep the shoulders stable.\n3. Press the bar up and slightly back to straight arms, then secure it in the rack after the set.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Ляжте так, щоб очі були під штангою на стійках, стопи впираються в підлогу, лопатки зведені, руки розставлені симетрично.\n2. Зніміть штангу на прямі руки, опустіть її до середини грудей із майже вертикальними передпліччями, зберігаючи плечі стабільними.\n3. Вижміть штангу вгору й трохи назад до прямих рук і після підходу надійно поверніть її на стійки.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

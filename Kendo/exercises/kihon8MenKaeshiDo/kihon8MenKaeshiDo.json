@@ -3,11 +3,9 @@
   "key": "kendo_kihon_8",
   "title": "Kihon 8 Men-Kaeshi-Do",
   "description": "1. Both stand in chudan; motodachi steps in and strikes men.\n2. Kakarite meets the strike on the left side of the own blade while stepping diagonally forward right, turns the wrists over, and cuts the right do.\n3. Kakarite turns to face motodachi with zanshin, and both reset.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Partner Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обоє в тюдан; мотодаті входить і б’є мен.\n2. Какарите приймає удар лівим боком свого клинка, ступаючи по діагоналі вперед праворуч, перевертає кисті й рубає правий до.\n3. Какарите повертається до мотодаті з дзансіном, обоє починають знову.",
       "sectionTitle": "Парний кіхон"
     }
-  }
+  },
+  "state": "active"
 }

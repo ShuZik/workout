@@ -3,11 +3,9 @@
   "key": "tang_soo_do_nianchi_cho_dan",
   "title": "Nianchi Cho Dan",
   "description": "1. From ready stance, step across to the side and settle into a low horse stance facing the front.\n2. Move along one lateral line with palm and elbow strikes, low blocks, a hook punch, a double-fist block and punch, and returning-wave foot blocks, always staying in horse stance.\n3. Repeat the sequence to the other side, keep the hips level and the shoulders relaxed, and return to ready stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки готовності ступіть схресно вбік і опустіться в низьку стійку вершника обличчям уперед.\n2. Рухайтеся однією бічною лінією з ударами долонею й ліктем, нижніми блоками, боковим ударом кулаком, подвійним блоком з ударом і блоками стопою «хвиля, що повертається», весь час у стійці вершника.\n3. Повторіть зв’язку в інший бік, тримаючи стегна рівно й плечі розслабленими, і поверніться в стійку готовності.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

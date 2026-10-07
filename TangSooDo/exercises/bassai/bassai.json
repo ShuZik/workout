@@ -3,11 +3,9 @@
   "key": "tang_soo_do_bassai",
   "title": "Bassai",
   "description": "1. From ready stance, drive forward into a crossed stance with a reinforced middle block.\n2. Alternate inside and outside middle blocks with turns, add scooping blocks, knife-hand blocks, a stamping kick with a double low block, and double punches with strong hip shifts.\n3. Finish with knife-hand blocks in back stance on the diagonals, shout kihap where prescribed, and return to ready stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки готовності ривком просуньтеся вперед у схрещену стійку з посиленим середнім блоком.\n2. Чергуйте внутрішні й зовнішні середні блоки з поворотами, додайте черпальні блоки, блоки ребром долоні, топчучий удар ногою з подвійним нижнім блоком і подвійні удари кулаками з потужним перенесенням стегон.\n3. Завершіть блоками ребром долоні в задній стійці по діагоналях, виконайте кіхап у належних місцях і поверніться в стійку готовності.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

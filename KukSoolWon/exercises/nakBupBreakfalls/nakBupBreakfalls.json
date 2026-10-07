@@ -3,11 +3,9 @@
   "key": "kuk_sool_won_nak_bup",
   "title": "Nak Bup Breakfalls",
   "description": "1. Start from a squat and fall backward, tucking the chin and slapping the mat with both arms at about 45 degrees from the body.\n2. Progress to side falls and forward rolls over the shoulder, keeping the body rounded and exhaling on impact.\n3. Return to a ready stance after every fall, raising the starting height only when landings stay quiet and controlled.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kukSoolWon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З присіду падайте назад, притиснувши підборіддя й ударяючи по мату обома руками приблизно під кутом 45 градусів до тіла.\n2. Переходьте до падінь на бік і перекидів через плече, тримаючи тіло заокругленим і видихаючи в момент удару об мат.\n3. Після кожного падіння повертайтеся в стійку готовності й підвищуйте вихідну висоту, лише коли приземлення залишаються тихими та контрольованими.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

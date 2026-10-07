@@ -3,11 +3,9 @@
   "key": "fencing_sabre_stop_cut_parry_riposte",
   "title": "Sabre: Stop-Cut, Parry, Riposte",
   "description": "1. With sabres and full kit, the partner prepares an attack with an advance and then continues it to the head.\n2. Make a short stop-cut to the partner's advancing forearm, then immediately parry the continuing head attack with quinte.\n3. Riposte from quinte, recover to en garde, and swap roles; keep the stop-cut light and the arm close to the body.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Sequences",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із шаблею в повному спорядженні партнер готує атаку кроком уперед і продовжує її в голову.\n2. Завдайте короткого зупинного удару по висуненому передпліччю партнера й одразу візьміть п’ятий захист від удару в голову.\n3. Відповідайте з п’ятого, поверніться в стійку й поміняйтеся ролями; зупинний удар легкий, рука близько до тіла.",
       "sectionTitle": "Зв'язки в парі"
     }
-  }
+  },
+  "state": "active"
 }

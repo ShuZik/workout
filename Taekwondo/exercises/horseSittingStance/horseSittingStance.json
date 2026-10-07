@@ -3,11 +3,9 @@
   "key": "taekwondo_horse_sitting_stance",
   "title": "Horse (Sitting) Stance",
   "description": "1. Set the feet wider than the shoulders with the toes facing mostly forward and the heels on one line.\n2. Bend both knees evenly and lower the hips between the feet while keeping the chest upright.\n3. Press the knees toward the toes, brace the trunk, and maintain equal pressure through both feet.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Stances",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Поставте стопи ширше плечей, спрямувавши пальці переважно вперед і розташувавши п’яти на одній лінії.\n2. Рівномірно зігніть обидва коліна й опустіть таз між стопами, зберігаючи груди вертикальними.\n3. Спрямуйте коліна до пальців стоп, напружте корпус і рівномірно розподіліть тиск на обидві стопи.",
       "sectionTitle": "Стійки"
     }
-  }
+  },
+  "state": "active"
 }

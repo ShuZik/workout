@@ -3,11 +3,9 @@
   "key": "kyudo_mato_mae",
   "title": "Mato-mae Practice",
   "description": "1. Take your place on the shooting line facing the mato, usually at 28 m, with two arrows prepared.\n2. Shoot each arrow through the eight stages, keeping the same form used at the makiwara rather than steering the arrow.\n3. Keep zanshin after each shot, observe the hit without reacting, and retrieve arrows only when the range is declared safe.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "kyudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Shooting",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Займіть місце на лінії стрільби навпроти мато, зазвичай на 28 м, із двома підготовленими стрілами.\n2. Випускайте кожну стрілу через вісім етапів, зберігаючи ту саму форму, що й біля маківари, а не спрямовуючи стрілу.\n3. Після кожного пострілу зберігайте дзансін, спостерігайте влучання без реакції й збирайте стріли лише після оголошення безпеки.",
       "sectionTitle": "Стрільба"
     }
-  }
+  },
+  "state": "active"
 }

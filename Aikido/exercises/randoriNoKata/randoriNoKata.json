@@ -3,11 +3,9 @@
   "key": "aikido_randori_no_kata",
   "title": "Randori no Kata",
   "description": "1. Stand facing a trained partner as tori and uke at a fixed distance on mats and bow in.\n2. Perform the 17 basic techniques in the dojo's set order, uke attacking and receiving each technique with a proper breakfall.\n3. Keep a steady rhythm between techniques, switch roles for the next round, and stop at any uncontrolled fall.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "aikido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти підготовленого партнера в ролі торі й уке на фіксованій дистанції на татамі та вклоніться.\n2. Виконайте 17 базових технік у встановленому в доджьо порядку: уке атакує й приймає кожну техніку правильною страховкою.\n3. Тримайте рівний ритм між техніками, у наступному колі поміняйтеся ролями й зупиняйтеся за будь-якого неконтрольованого падіння.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

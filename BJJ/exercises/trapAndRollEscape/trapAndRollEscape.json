@@ -3,11 +3,9 @@
   "key": "bjj_trap_and_roll_escape",
   "title": "Trap and Roll Escape",
   "description": "1. From bottom mount, trap one wrist to the chest and block the same-side foot so the partner cannot post.\n2. Bring the feet close, bridge the hips high, and turn the head and knees toward the trapped side.\n3. Follow the rotation to the top inside guard, regain posture, and release the trapped arm.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Escapes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Знизу з маунту притисніть одне зап’ястя партнера до грудей і заблокуйте стопу з того самого боку, щоб він не зміг упертися.\n2. Підтягніть стопи, високо підніміть таз мостом і поверніть голову й коліна в бік захопленої руки.\n3. Слідуйте за обертанням нагору в гард партнера, відновіть поставу й відпустіть захоплену руку.",
       "sectionTitle": "Виходи"
     }
-  }
+  },
+  "state": "active"
 }

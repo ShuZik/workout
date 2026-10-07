@@ -3,11 +3,9 @@
   "key": "foam_rolling_piriformis_roll",
   "title": "Piriformis Roll",
   "description": "1. Sit on the roller and cross one ankle over the opposite thigh.\n2. Lean toward the crossed-leg side and support the body with the hands and grounded foot.\n3. Make short rolls across the deep glute area, then uncross the leg and repeat on the other side.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Release Work",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте на ролик і покладіть одну щиколотку на протилежне стегно.\n2. Нахиліться в бік закинутої ноги й підтримуйте тіло руками та стопою на підлозі.\n3. Робіть короткі прокочування по глибокій ділянці сідниці, потім опустіть закинуту ногу й повторіть з іншого боку.",
       "sectionTitle": "Розслаблення м’язів"
     }
-  }
+  },
+  "state": "active"
 }

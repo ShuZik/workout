@@ -3,11 +3,9 @@
   "key": "gouren_kliked_a_raok",
   "title": "Kliked a Raok",
   "description": "1. Grip the partner's shirt at the collar and back, then turn in so your hip is close and the partner's weight comes forward.\n2. Wrap your lower leg around the partner's near calf and lift it as the hands pull the partner forward over your hip.\n3. Rotate the partner onto the back in front of you, keep the shirt grips to slow the fall, then release and stand.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "gouren",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть сорочку партнера за комір і на спині, потім доверніться, притиснувши стегно та виводячи його вагу вперед.\n2. Обвийте гомілкою ближню литку партнера й підніміть її, поки руки тягнуть його вперед через ваше стегно.\n3. Проверніть партнера на спину перед собою, тримайте захоплення за сорочку, щоб пом'якшити падіння, потім відпустіть і встаньте.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

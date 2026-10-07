@@ -3,11 +3,9 @@
   "key": "pool_swimming",
   "title": "Pool Swimming",
   "description": "1. Push away from the wall in a long streamlined position and begin the chosen stroke without rushing.\n2. Coordinate the arm pull and kick while exhaling into the water and turning or lifting to inhale.\n3. Approach each wall under control, turn or stop, and push off only when the lane ahead is clear.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "18290",
     "vigorousCode": "18230"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Indoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Відштовхніться від бортика у витягнутому обтічному положенні й без поспіху почніть вибраний стиль плавання.\n2. Координуйте гребок руками й роботу ніг, видихаючи у воду та повертаючи або піднімаючи голову для вдиху.\n3. Контрольовано наближайтеся до кожного бортика, повертайте або зупиняйтеся й відштовхуйтеся лише за вільної доріжки попереду.",
       "sectionTitle": "У приміщенні"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "shuai_jiao_biezi",
   "title": "Biezi",
   "description": "1. From a sleeve and collar grip, pull the partner forward so the weight moves onto the leading leg.\n2. Place your leg against the outside of the partner's leg as a block and twist the upper body to tip the partner over it.\n3. Pull the partner over the blocking leg to a controlled landing, holding the sleeve until the partner touches down.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "shuaiJiao",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захвату за рукав і комір потягніть партнера вперед, щоб його вага перейшла на виставлену ногу.\n2. Підставте ногу до зовнішнього боку його ноги як упор і скрутіть тулуб, перекидаючи партнера через неї.\n3. Перетягніть партнера через упор до контрольованого приземлення, утримуючи рукав, доки він не торкнеться землі.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

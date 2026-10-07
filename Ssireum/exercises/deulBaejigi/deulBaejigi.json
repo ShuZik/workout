@@ -3,11 +3,9 @@
   "key": "ssireum_deul_baejigi",
   "title": "Deul-baejigi",
   "description": "1. From the satba grip, step in close and sink the hips below the partner's waist band.\n2. Pull the partner onto your belly and lift the partner clear of the ground by driving up with the legs.\n3. Turn and set the partner down to the side under control, releasing the satba once the partner touches down.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "ssireum",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захвату за сатбу увійдіть щільно й опустіть таз нижче поясної стрічки партнера.\n2. Притягніть партнера до живота й поштовхом ніг повністю відірвіть його від землі.\n3. Розверніться й контрольовано опустіть партнера на бік, відпустивши сатбу, щойно він торкнеться землі.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

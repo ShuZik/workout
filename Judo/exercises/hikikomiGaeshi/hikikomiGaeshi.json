@@ -3,11 +3,9 @@
   "key": "judo_hikikomi_gaeshi",
   "title": "Hikikomi Gaeshi",
   "description": "1. Grip the belt over the partner's back as the partner leans forward.\n2. Sit down close and place the instep under the partner's inner thigh while drawing the partner over the body.\n3. Roll backward and lift with the leg so the partner turns over the shoulder, then guide the landing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли партнер нахиляється вперед, захопіть пояс через його спину.\n2. Сядьте впритул і підведіть підйом стопи під внутрішній бік його стегна, затягуючи партнера на себе.\n3. Перекотіться назад і підкиньте ногою, щоб партнер перекинувся через плече, потім спрямуйте приземлення.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

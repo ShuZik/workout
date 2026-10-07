@@ -3,11 +3,9 @@
   "key": "karate_kihon_flow",
   "title": "Kihon Flow",
   "description": "1. Choose a short sequence such as stance, block, and counterpunch, and set the first stance precisely.\n2. Perform each technique in order, coordinating the hip turn and opposite-hand retraction without rushing between positions.\n3. Hold each finish briefly, then rechamber and establish the next stance before continuing the sequence.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Practice",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Оберіть коротку зв’язку, наприклад стійка, блок і контрудар, і точно займіть першу стійку.\n2. Виконуйте кожну техніку по черзі, узгоджуючи поворот таза з відведенням протилежної руки й не поспішаючи між позиціями.\n3. Ненадовго фіксуйте кожне завершення, знову підготуйтеся й займіть наступну стійку, перш ніж продовжити зв’язку.",
       "sectionTitle": "Практика"
     }
-  }
+  },
+  "state": "active"
 }

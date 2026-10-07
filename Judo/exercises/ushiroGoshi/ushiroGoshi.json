@@ -3,11 +3,9 @@
   "key": "judo_ushiro_goshi",
   "title": "Ushiro Goshi",
   "description": "1. As a trained partner turns in for a hip throw, lower the hips and wrap the partner's waist from behind.\n2. Lift the partner upward with the hips and arms while stepping slightly back to keep balance.\n3. Lower the partner straight down in front of you onto the back with control, without slamming.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Koshi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер розвертається для кидка через стегно, опустіть таз і обхопіть його талію ззаду.\n2. Підніміть партнера вгору тазом і руками, трохи відступаючи для збереження рівноваги.\n3. Опустіть партнера прямо перед собою на спину з контролем, не кидаючи з розмаху.",
       "sectionTitle": "Косі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

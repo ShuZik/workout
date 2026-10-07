@@ -3,11 +3,9 @@
   "key": "mma_sprawl",
   "title": "Sprawl",
   "description": "1. From a low stance, react to the shot by placing the hands or forearms on the attacker's shoulders as the legs move back.\n2. Drop the hips toward the upper back, extend both legs, and keep the chest and head upright rather than falling to the knees.\n3. Widen the base, control the head or near arm, and circle to an angle before standing or resetting.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Wrestling",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. З низької стійки відреагуйте на прохід: покладіть кисті чи передпліччя на плечі атакувальника й відкиньте ноги назад.\n2. Опустіть таз на верх його спини, випряміть обидві ноги й тримайте груди та голову піднятими, не падаючи на коліна.\n3. Розширте опору, проконтролюйте голову або ближню руку й вийдіть на кут, перш ніж підвестися чи почати знову.",
       "sectionTitle": "Боротьба"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "sumo",
   "title": "Sumo",
   "description": "1. Begin on a padded surface or sand ring with a trained partner, feet wide, hips low, and hands ready at chest height.\n2. Drill shiko, sliding steps, a controlled charge, and pushing or belt force-outs toward the ring edge with steady pressure.\n3. Stop each exchange at the edge or at any loss of balance, reset in the center, and keep throws controlled.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "sumo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на м’якому покритті або піщаному колі з підготовленим партнером: стопи широко, таз низько, руки напоготові на рівні грудей.\n2. Відпрацьовуйте сіко, ковзні кроки, контрольований ривок і виштовхування або витіснення за пояс до краю кола з рівним тиском.\n3. Зупиняйте кожен обмін біля краю або за будь-якої втрати рівноваги, починайте знову в центрі й кидайте під контролем.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

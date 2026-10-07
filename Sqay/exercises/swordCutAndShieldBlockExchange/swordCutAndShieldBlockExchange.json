@@ -3,11 +3,9 @@
   "key": "sqay_cut_block_exchange",
   "title": "Sword Cut and Shield Block Exchange",
   "description": "1. Partners face each other in guard with padded swords and shields at cutting distance.\n2. One partner cuts while the other blocks with the shield and immediately counters with a cut that the first partner blocks in turn.\n3. Keep a steady alternating rhythm with controlled power, aim only at padded or protected areas, and stop at once on either partner's call.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "sqay",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Партнери стоять одне навпроти одного в стійці з м'якими мечами та щитами на дистанції удару.\n2. Один рубає, інший захищається щитом і одразу відповідає ударом, який перший, своєю чергою, приймає на щит.\n3. Тримайте рівний почерговий ритм із контрольованою силою, цільтеся лише в м'які або захищені зони й одразу зупиняйтеся за командою будь-кого з партнерів.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

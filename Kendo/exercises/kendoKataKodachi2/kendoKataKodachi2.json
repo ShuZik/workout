@@ -3,11 +3,9 @@
   "key": "kendo_kodachi_2",
   "title": "Kendo Kata Kodachi 2",
   "description": "1. Uchidachi takes gedan; shidachi presses in with the kodachi in chudan half-facing.\n2. Uchidachi shifts to waki-gamae and cuts men; shidachi deflects with ukenagashi, cuts men, and controls uchidachi's upper arm with the left hand.\n3. Shidachi holds control with the kodachi ready as zanshin, then both release and return to the start.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Partner Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Утідаті займає ґедан; сідаті тисне з кодаті в тюдан упівоберта.\n2. Утідаті переходить у вакі-ґамае й рубає мен; сідаті відводить удар укенаґасі, рубає мен і лівою рукою контролює плече утідаті.\n3. Сідаті утримує контроль із готовим кодаті як дзансін, потім обоє відпускають і повертаються на початкову позицію.",
       "sectionTitle": "Парні форми"
     }
-  }
+  },
+  "state": "active"
 }

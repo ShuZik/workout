@@ -3,11 +3,9 @@
   "key": "aikido",
   "title": "Aikido",
   "description": "1. Begin on mats with a trained partner in a natural stance at a safe distance, hands relaxed and ready.\n2. Practice evasive footwork, balance breaking, and the basic striking, elbow, wrist, and floating techniques with controlled breakfalls.\n3. Apply joint techniques slowly, release at a tap, and reset to distance after every technique.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "aikido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на татамі з підготовленим партнером у природній стійці на безпечній дистанції, руки розслаблені й готові.\n2. Відпрацьовуйте ухили, виведення з рівноваги та базові техніки атемі, на лікоть, на зап’ястя й укі-вадза з контрольованими страховками.\n3. Виконуйте больові повільно, відпускайте після плеску й після кожної техніки повертайтеся на дистанцію.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

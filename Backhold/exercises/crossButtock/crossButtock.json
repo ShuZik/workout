@@ -3,11 +3,9 @@
   "key": "backhold_cross_buttock",
   "title": "Cross Buttock",
   "description": "1. From the locked backhold, step across so your hip comes in front of the partner's hips.\n2. Pull the partner tight against your back with the hold and bend the knees under the partner's weight.\n3. Straighten the legs and turn to roll the partner over the hip, keep the hold through the fall, then release and retake the grip.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "backhold",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі зчепленого бекхолду зробіть схресний крок, виводячи своє стегно перед стегнами партнера.\n2. Захопленням щільно притисніть партнера до своєї спини й зігніть коліна під його вагою.\n3. Випряміть ноги й поверніться, перекочуючи партнера через стегно, тримайте захоплення під час падіння, потім відпустіть і візьміть хват знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

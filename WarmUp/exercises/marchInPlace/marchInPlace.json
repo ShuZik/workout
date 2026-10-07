@@ -3,11 +3,9 @@
   "key": "march_in_place",
   "title": "March in Place",
   "description": "1. Stand tall with feet under the hips and elbows bent.\n2. Lift one knee while the opposite arm swings forward, then place the foot under the hip.\n3. Alternate sides with light foot contacts and gradually increase the cadence.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Cardio",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте прямо, поставте стопи під тазом і зігніть лікті.\n2. Підніміть одне коліно, одночасно рухаючи протилежною рукою вперед, потім поставте стопу під тазом.\n3. Чергуйте сторони, легко торкаючись підлоги стопами, та поступово підвищуйте частоту кроків.",
       "sectionTitle": "Кардіо"
     }
-  }
+  },
+  "state": "active"
 }

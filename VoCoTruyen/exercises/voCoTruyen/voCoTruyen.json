@@ -3,11 +3,9 @@
   "key": "vo_co_truyen",
   "title": "Vo Co Truyen",
   "description": "1. Stand in a ready stance with the feet planted, the chest upright, and the hands prepared at the chest or hips.\n2. Practise stance transitions such as front and horse stance, combining hand strikes, blocks and kicks in short traditional sequences.\n3. Settle each stance completely before the next technique, then finish with the traditional salute and a steady breath.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "voCoTruyen",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в готову стійку: стопи щільно на підлозі, груди розправлені, руки готові на рівні грудей або стегон.\n2. Відпрацьовуйте переходи між стійками, наприклад передньою та стійкою вершника, поєднуючи удари руками, блоки й удари ногами в коротких традиційних зв’язках.\n3. Повністю фіксуйте кожну стійку перед наступною технікою, потім завершіть традиційним привітанням і спокійним диханням.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

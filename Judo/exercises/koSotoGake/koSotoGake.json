@@ -3,11 +3,9 @@
   "key": "judo_ko_soto_gake",
   "title": "Ko Soto Gake",
   "description": "1. Push the partner's weight back onto one heel with a sleeve-and-lapel grip.\n2. Hook the back of that heel from outside with the sole and hold it in place rather than sweeping.\n3. Drive the upper body back and down over the hooked heel, guiding the partner into a back breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Захопленням за рукав і відворот переведіть вагу партнера назад на одну п’яту.\n2. Зачепіть підошвою цю п’яту ззаду ззовні й утримуйте її на місці, не підмітаючи.\n3. Штовхайте тулуб назад-униз через зачеплену п’яту, спрямовуючи партнера у страховку на спину.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

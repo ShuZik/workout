@@ -3,11 +3,9 @@
   "key": "muay_thai",
   "title": "Muay Thai",
   "description": "1. Take a balanced Muay Thai stance with feet staggered, hips relatively square, chin tucked, and forearms high.\n2. Move through range and combine punches, teeps, shin kicks, knees, elbows, checks, and controlled clinch entries.\n3. Recoil each strike and return the feet, elbows, and hands to stance before starting the next action.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "section": "1 Main",
   "durationSeconds": 30,
   "durationUnit": "seconds",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку муай-тай: стопи на різних лініях, таз розвернутий майже фронтально, підборіддя опущене, передпліччя високо.\n2. Переміщуйтеся між дистанціями й поєднуйте удари руками, типи, удари гомілкою, колінами й ліктями, блоки гомілкою та контрольовані входи в клінч.\n3. Повертайте кожен удар і ставте стопи, лікті й руки в стійку, перш ніж почати наступну дію.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

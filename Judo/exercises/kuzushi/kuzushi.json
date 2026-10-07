@@ -3,11 +3,9 @@
   "key": "judo_kuzushi",
   "title": "Kuzushi",
   "description": "1. Establish a light sleeve-and-lapel grip with a partner standing in balanced natural posture.\n2. Coordinate the hands, body turn, and step to move the partner's center toward one of the forward, rear, or diagonal edges of the base.\n3. Stop at the moment balance breaks, support the partner back to neutral, and repeat in another direction.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Movement",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Легко захопіть рукав і відворот партнера, який стоїть у стійкій природній стійці.\n2. Узгодьте роботу рук, поворот тулуба й крок, щоб змістити центр партнера до переднього, заднього або діагонального краю площі опори.\n3. Зупиніться в момент втрати рівноваги, підтримайте партнера під час повернення до нейтральної стійки й повторіть в іншому напрямку.",
       "sectionTitle": "Пересування"
     }
-  }
+  },
+  "state": "active"
 }

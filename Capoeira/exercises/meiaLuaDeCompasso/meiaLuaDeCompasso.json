@@ -3,11 +3,9 @@
   "key": "capoeira_meia_lua_de_compasso",
   "title": "Meia-lua de Compasso",
   "description": "1. From the ginga, bend forward low and place both hands on the floor beside the front foot while looking back under the arm at the target.\n2. Pivot on the front foot and swing the straight rear leg around in a wide horizontal circle, striking with the heel.\n3. Complete the turn, bring the kicking leg back to the floor, and lift the chest into the ginga with the guard up.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із джинги низько нахиліться й поставте обидві руки на підлогу біля передньої стопи, дивлячись на ціль з-під руки.\n2. Розверніться на передній стопі й проведіть пряму задню ногу широким горизонтальним колом, б’ючи п’ятою.\n3. Завершіть розворот, поставте ударну ногу й підніміть груди в джингу із захистом.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

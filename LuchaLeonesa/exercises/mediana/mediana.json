@@ -3,11 +3,9 @@
   "key": "lucha_leonesa_mediana",
   "title": "Mediana",
   "description": "1. From the belt grip, pull the partner close and step your leg between the partner's legs.\n2. Hook the inside of one of the partner's legs with your leg and lift it.\n3. Drive forward with the chest and belt grips to topple the partner backward, guide the fall with the belt, then release.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захоплення за пояс притягніть партнера й поставте свою ногу між його ногами.\n2. Зачепіть своєю ногою одну його ногу зсередини й підніміть її.\n3. Тисніть уперед грудьми й захопленнями за пояс, перекидаючи партнера назад, спрямовуйте падіння поясом, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

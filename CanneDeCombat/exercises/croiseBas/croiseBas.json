@@ -3,11 +3,9 @@
   "key": "canne_croise_bas",
   "title": "Croise Bas",
   "description": "1. From guard, wind the cane up over the opposite shoulder while preparing to lunge.\n2. Lunge low and strike diagonally downward from the cross side toward the opponent's calf, keeping the back straight and the head out of the line.\n3. Recover from the lunge to the original stance height and return to guard.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Strikes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки зробіть замах тростиною через протилежне плече, готуючись до випаду.\n2. Виконайте низький випад і вдарте по діагоналі вниз із перехресного боку в литку суперника, тримаючи спину прямою, а голову поза лінією.\n3. Поверніться з випаду на вихідну висоту й станьте в стійку.",
       "sectionTitle": "Удари"
     }
-  }
+  },
+  "state": "active"
 }

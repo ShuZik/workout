@@ -3,11 +3,9 @@
   "key": "vovinam_long_ho_quyen",
   "title": "Long Ho Quyen",
   "description": "1. Stand at the starting point in a ready posture and perform the opening salute of Long Ho Quyen.\n2. Alternate flowing and powerful sections, using low stances, clawing hand strikes and sharp turns while staying balanced on every landing.\n3. Finish back at the starting point with the closing salute and hold the ready posture briefly before resetting.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "vovinam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте у вихідну точку в готовій стійці й виконайте початкове привітання форми Long Ho Quyen.\n2. Чергуйте плавні й потужні частини, використовуючи низькі стійки, удари рукою-пазуром і різкі повороти, зберігаючи рівновагу під час кожного приземлення.\n3. Завершіть у вихідній точці заключним привітанням і ненадовго затримайтеся в готовій стійці, перш ніж почати знову.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "savate_punch_kick_punch_chain",
   "title": "Punch-Kick-Punch Chain",
   "description": "1. Start at punching distance facing a partner in guard with mitts or agreed light assaut contact.\n2. Open with punches, create room with a kick, then close the distance again and finish with punches.\n3. Control the contact, exit in guard, and swap roles after each sequence.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "savate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на дистанції удару рукою навпроти партнера в стійці з лапами або з узгодженим легким контактом.\n2. Відкрийте ударами рук, створіть простір ударом ногою, потім знову скоротіть дистанцію й завершіть руками.\n3. Контролюйте контакт, виходьте в стійці й міняйтеся ролями після кожної серії.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

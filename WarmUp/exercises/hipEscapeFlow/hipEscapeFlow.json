@@ -3,11 +3,9 @@
   "key": "hip_escape_flow",
   "title": "Hip Escape Flow",
   "description": "1. Lie on the back with knees bent, feet planted, and forearms framing in front of the chest.\n2. Turn onto one side and push through the feet and shoulder to slide the hips away.\n3. Return to the center, reset the frame, and repeat to the opposite side.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Grappling Prep",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, зігніть коліна, поставте стопи на підлогу та створіть передпліччями рамку перед грудьми.\n2. Поверніться на один бік і відштовхніться стопами та плечем, щоб посунути таз убік від уявного суперника.\n3. Поверніться в центр, відновіть рамку й повторіть в інший бік.",
       "sectionTitle": "Підготовка до боротьби"
     }
-  }
+  },
+  "state": "active"
 }

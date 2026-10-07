@@ -1,0 +1,88 @@
+{
+  "id": "10.34",
+  "key": "cooldown_wrist_flexor_stretch",
+  "title": "Wrist Flexor Stretch",
+  "description": "Extend one arm with the palm facing up. Gently draw the fingers back with your other hand until you feel a mild forearm stretch, then switch sides.",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wrist Flexor Stretch",
+      "description": "Extend one arm with the palm facing up. Gently draw the fingers back with your other hand until you feel a mild forearm stretch, then switch sides.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento de flexores de muñeca",
+      "description": "Extiende un brazo con la palma hacia arriba. Lleva suavemente los dedos hacia atrás con la otra mano hasta notar un estiramiento leve en el antebrazo y cambia de lado.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento dos flexores do punho",
+      "description": "Estenda um braço com a palma para cima. Puxe suavemente os dedos para trás com a outra mão até sentir um leve alongamento no antebraço e troque o lado.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement des fléchisseurs du poignet",
+      "description": "Tendez un bras, paume vers le haut. Ramenez doucement les doigts en arrière avec l’autre main jusqu’à une légère tension dans l’avant-bras, puis changez de côté.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Dehnung der Handgelenkbeuger",
+      "description": "Strecke einen Arm mit der Handfläche nach oben. Ziehe die Finger mit der anderen Hand sanft zurück bis zur leichten Dehnung im Unterarm und wechsle die Seite.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento dei flessori del polso",
+      "description": "Stendi un braccio con il palmo rivolto verso l’alto. Porta delicatamente le dita indietro con l’altra mano fino a una lieve tensione nell’avambraccio, poi cambia lato.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "腕屈肌拉伸",
+      "description": "伸直一只手臂，掌心向上。用另一只手轻轻将手指向后拉，直到前臂有轻微拉伸感，再换侧。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "手首屈筋のストレッチ",
+      "description": "手のひらを上に向けて片腕を伸ばします。反対の手で指をそっと後ろへ引き、前腕に軽い伸びを感じたら反対側も行います。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "손목 굽힘근 스트레칭",
+      "description": "한쪽 팔을 펴고 손바닥을 위로 향하세요. 반대 손으로 손가락을 부드럽게 뒤로 당겨 팔뚝이 가볍게 늘어나면 반대쪽도 하세요.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "ยืดกล้ามเนื้องอข้อมือ",
+      "description": "เหยียดแขนข้างหนึ่งโดยหงายฝ่ามือ ใช้มืออีกข้างดึงนิ้วกลับเบา ๆ จนรู้สึกตึงเล็กน้อยที่ท่อนแขนแล้วสลับข้าง",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Растяжка сгибателей запястья",
+      "description": "Вытяните одну руку ладонью вверх. Другой рукой мягко отведите пальцы назад до лёгкого натяжения в предплечье, затем смените сторону.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Розтягування згиначів зап’ястя",
+      "description": "Витягніть одну руку долонею вгору. Іншою рукою м’яко відведіть пальці назад до легкого натягу в передпліччі, потім змініть бік.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  },
+  "state": "active"
+}

@@ -3,11 +3,9 @@
   "key": "kendo_kihon_5",
   "title": "Kihon 5 Men-Nuki-Do",
   "description": "1. Both stand in chudan; motodachi steps in and strikes men.\n2. Kakarite steps diagonally forward to the right, lets the men strike pass, and cuts the right do in the same motion.\n3. Kakarite turns to face motodachi with zanshin, and both reset to chudan.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Partner Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Обоє в тюдан; мотодаті входить і б’є мен.\n2. Какарите ступає по діагоналі вперед праворуч, пропускає удар у мен і тим самим рухом рубає правий до.\n3. Какарите повертається до мотодаті з дзансіном, обоє повертаються в тюдан.",
       "sectionTitle": "Парний кіхон"
     }
-  }
+  },
+  "state": "active"
 }

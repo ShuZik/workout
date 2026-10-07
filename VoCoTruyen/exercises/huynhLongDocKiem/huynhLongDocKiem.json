@@ -3,11 +3,9 @@
   "key": "vo_co_truyen_huynh_long_doc_kiem",
   "title": "Huynh Long Doc Kiem",
   "description": "1. Hold the training sword in the ready position at the starting point and perform the opening salute of Huynh Long Doc Kiem.\n2. Execute the single-sword cuts, thrusts, parries and turns of the form in sequence, keeping the blade line controlled and the free hand in the sword-finger position.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "voCoTruyen",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте навчальний меч у готовій позиції у вихідній точці й виконайте початкове привітання форми Huynh Long Doc Kiem.\n2. Виконуйте по черзі рублячі й колючі удари, парирування та повороти з одиночним мечем, контролюючи лінію клинка й тримаючи вільну руку в положенні «мечові пальці».\n3. Завершіть у вихідній точці заключним привітанням, поверніть зброю в готову позицію та стежте, щоб зона тренування залишалася вільною.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

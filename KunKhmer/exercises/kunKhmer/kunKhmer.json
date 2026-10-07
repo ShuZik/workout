@@ -3,11 +3,9 @@
   "key": "kun_khmer",
   "title": "Kun Khmer",
   "description": "1. Take a staggered stance with the hands high, elbows narrow, and weight light enough to kick or check.\n2. Move through range combining punches, elbows, knees, roundhouse kicks, push kicks, and clinch entries as shadow work or on pads.\n3. Recoil every strike, return to guard, and reset the feet before starting the next combination.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "kunKhmer",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в різностійку: руки високо, лікті вузько, вага досить легка, щоб бити ногою або ставити блок гомілкою.\n2. Пересувайтеся дистанціями, поєднуючи удари руками, ліктями, колінами, кругові удари й поштовхи ногою, входи в клінч — у бою з тінню або на ��апах.\n3. Повертайте кожен удар, приходьте в захист і відновлюйте положення ніг перед наступною комбінацією.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

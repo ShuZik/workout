@@ -3,11 +3,9 @@
   "key": "thang_ta_lion_posture",
   "title": "Lion Posture",
   "description": "1. Stand with the feet shoulder-width apart, the body upright, and a light training stick held in front if used.\n2. Pivot on the balls of both feet to turn left until the feet form about a 45-degree angle, then lean forward until the front toes, knee, and chin line up.\n3. Hold one straight line from the back of the head to the rear heel, breathe steadily, then return to standing and repeat to the other side.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "thangTa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте, стопи на ширині плечей, корпус прямий; легку тренувальну палицю, якщо використовуєте, тримайте перед собою.\n2. Поверніться ліворуч на подушечках обох стоп, доки стопи не утворять кут близько 45 градусів, потім нахиліться вперед, вишикувавши в лінію носок передньої ноги, коліно й підборіддя.\n3. Утримуйте пряму лінію від потилиці до п’яти задньої ноги, рівно дихайте, потім поверніться у стійку й повторіть в інший бік.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

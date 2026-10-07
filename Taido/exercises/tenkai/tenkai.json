@@ -3,11 +3,9 @@
   "key": "taido_tenkai",
   "title": "Tenkai",
   "description": "1. Form a group of six: one central fighter (shuyaku) and five attackers (wakiyaku), and agree the choreography and timing in advance.\n2. Run the prearranged 25-30 second fight: the attackers come in one at a time and the central fighter answers each with controlled taido techniques and movement.\n3. Pull every strike short of real contact, use mats for falls and acrobatics, and reset the formation before repeating.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "taido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Group Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зберіть групу з шести: центральний боєць (сюяку) і п’ятеро нападників (вакіяку); заздалегідь узгодьте хореографію й таймінг.\n2. Проведіть підготовлений бій на 25-30 секунд: нападники входять по одному, центральний боєць відповідає кожному контрольованими техніками й рухами тайдо.\n3. Зупиняйте кожен удар до справжнього контакту, падіння й акробатику виконуйте на матах і відновіть шикування перед повтором.",
       "sectionTitle": "Групові вправи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "meditation_focus",
   "title": "Focus Meditation",
   "description": "1. Choose one small visual object, neutral sensation, word, or sound and take a stable position.\n2. Keep attention on its immediate details instead of changing or analyzing the object.\n3. Each time attention leaves, recognize it and place attention back on the same object.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Themes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Оберіть один невеликий зоровий об’єкт, нейтральне відчуття, слово або звук і займіть стійке положення.\n2. Утримуйте увагу на його безпосередньо сприйманих деталях, не змінюючи й не аналізуючи об’єкт.\n3. Щоразу, коли увага відхиляється, помічайте це й повертайте її до того самого об’єкта.",
       "sectionTitle": "Теми"
     }
-  }
+  },
+  "state": "active"
 }

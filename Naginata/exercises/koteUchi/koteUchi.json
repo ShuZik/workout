@@ -3,11 +3,9 @@
   "key": "naginata_kote_uchi",
   "title": "Kote-uchi",
   "description": "1. From chudan, raise the blade with a compact swing, keeping the shaft close to the centre line.\n2. Step in and strike the partner's forearm (kote) with the monouchi, calling out kote.\n3. Keep the strike crisp and controlled, show zanshin, and return to chudan.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "naginata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із чюдану підніміть клинок коротким замахом, тримаючи держак біля центральної лінії.\n2. Ступіть і вдарте моноучі по передпліччю партнера (коте) з вигуком коте.\n3. Бийте чітко й підконтрольно, покажіть дзаншін і поверніться в чюдан.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

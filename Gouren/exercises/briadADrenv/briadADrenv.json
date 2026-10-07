@@ -3,11 +3,9 @@
   "key": "gouren_briad_a_drenv",
   "title": "Briad a Drenv",
   "description": "1. Take a tight body hold with both hands on the back of the partner's shirt and your hips set under the partner's.\n2. Lift the partner off the feet with the legs and arch back while turning to one side.\n3. Turn as you finish so the partner lands on the back and you do not, keep hold to control the fall, then release.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "gouren",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Щільно обхопіть тулуб обома руками за сорочку партнера на спині, підвівши свій таз під його.\n2. Відірвіть партнера від землі ногами та прогніться назад, повертаючись убік.\n3. На завершенні доверніться, щоб на спину впав партнер, а не ви, тримайте його, контролюючи падіння, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

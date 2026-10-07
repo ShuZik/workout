@@ -3,11 +3,9 @@
   "key": "qazaq_kuresi_qagyp_laqtyru",
   "title": "Qagyp Laqtyru",
   "description": "1. Move the partner sideways with the sleeve and belt grip, timing the step as the partner's foot lightens.\n2. Sweep the partner's foot with the sole of your foot in the direction of travel while the hands lift and turn.\n3. Bring the partner down onto the side or back under control and let go of the belt once the partner lands.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "qazaqKuresi",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Захватом за рукав і пояс зміщуйте партнера вбік, ловлячи мить, коли його стопа розвантажується.\n2. Підмітіть стопу партнера підошвою в напрямку руху, водночас піднімаючи й повертаючи його руками.\n3. Контрольовано покладіть партнера на бік або спину й відпустіть пояс після приземлення.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

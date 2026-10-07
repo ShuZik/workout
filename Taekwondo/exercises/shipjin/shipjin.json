@@ -3,11 +3,9 @@
   "key": "taekwondo_shipjin",
   "title": "Shipjin",
   "description": "1. Start in basic ready stance and perform Shipjin on its cross-shaped line of movement.\n2. Include the bull blocks, palm pushing actions, the slow rock-pushing movement, horse-riding stance strikes and the spread blocks.\n3. Keep the tempo varied between slow tension and sharp release, finish with the closing blocks, and return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте Сіпджин хрестоподібною лінією.\n2. Додайте блоки «бик», штовхальні дії долонями, повільний рух «штовхання скелі», удари в стійці вершника та розвідні блоки.\n3. Змінюйте темп між повільним напруженням і різким розслабленням, завершіть останніми блоками й поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

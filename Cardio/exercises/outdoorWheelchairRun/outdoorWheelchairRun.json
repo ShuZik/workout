@@ -3,11 +3,9 @@
   "key": "wheelchair_outdoor_run",
   "title": "Outdoor Wheelchair Run",
   "description": "1. Use a suitable sport or manual wheelchair, secure the body as required, and choose a clear level route.\n2. Contact the push rims farther back and drive through a longer, faster forward stroke without shrugging.\n3. Recover the hands quickly below the rims, keep the chair tracking straight, and brake before every turn.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "wheelchairCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "90159",
     "vigorousCode": "90160"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Adaptive Cardio",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Використовуйте відповідне спортивне або ручне крісло колісне, закріпіть тіло за потреби й оберіть вільний рівний маршрут.\n2. Торкайтеся ободів для штовхання ближче до задньої частини й виконуйте довший і швидший поштовх уперед, не піднімаючи плечі.\n3. Швидко повертайте кисті під ободами, зберігайте прямий курс крісла й гальмуйте перед кожним поворотом.",
       "sectionTitle": "Адаптивне кардіо"
     }
-  }
+  },
+  "state": "active"
 }

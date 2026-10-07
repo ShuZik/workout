@@ -3,11 +3,9 @@
   "key": "bjj_knee_on_belly_control",
   "title": "Knee-on-Belly Control",
   "description": "1. From side control, grip or post at the partner's upper body and near hip while keeping the far foot available for balance.\n2. Place the near shin across the abdomen with the toes off the floor and extend the far leg into a wide base.\n3. Keep pressure gradual and mobile, removing the knee immediately if the partner taps or cannot breathe comfortably.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Positions",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. З бічного контролю візьміться або обіпріться на верх тулуба й ближнє стегно партнера, залишивши дальню стопу вільною для балансу.\n2. Покладіть ближню гомілку поперек живота, пальці стопи відірвані від підлоги, а дальню ногу відставте в широку базу.\n3. Тисніть поступово й рухливо та одразу приберіть коліно, якщо партнер постукав або не може вільно дихати.",
       "sectionTitle": "Позиції"
     }
-  }
+  },
+  "state": "active"
 }

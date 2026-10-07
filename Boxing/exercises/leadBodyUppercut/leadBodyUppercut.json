@@ -3,11 +3,9 @@
   "key": "lead_body_uppercut",
   "title": "Lead Body Uppercut",
   "description": "1. From guard, bend the knees and load the lead leg while keeping the rear hand at the cheek.\n2. Drive the lead fist upward on a compact line into the center or near side of the torso.\n3. Retract the fist before rising and restore both hands, posture, and stance width.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 2,
   "section": "3 Beginner",
@@ -88,5 +85,6 @@
       "description": "1. Із захисної стійки зігніть коліна й завантажте передню ногу, тримаючи задню руку біля щоки.\n2. Спрямуйте передній кулак угору короткою траєкторією в центр або ближній бік корпуса.\n3. Приберіть кулак до підйому й відновіть положення обох рук, поставу та ширину стійки.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

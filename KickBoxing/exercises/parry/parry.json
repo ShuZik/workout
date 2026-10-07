@@ -3,11 +3,9 @@
   "key": "kick_boxing_parry",
   "title": "Parry",
   "description": "1. From guard, read the incoming straight punch and keep the head behind the gloves.\n2. Use the same-side palm for a short inward tap that moves the punch just outside the centerline.\n3. Return the hand immediately to the cheek and keep the opposite hand ready to protect or counter.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Defense",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із захисної стійки відстежуйте прямий удар рукою з того самого боку, звідки йде атака.\n2. Поверніть долоню всередину й коротко відбийте впоперек лінії удару, не тягнучись уперед і не розкриваючи лікоть.\n3. Негайно поверніть руку до щоки, а іншу тримайте готовою до контратаки або захисту.",
       "sectionTitle": "Захист"
     }
-  }
+  },
+  "state": "active"
 }

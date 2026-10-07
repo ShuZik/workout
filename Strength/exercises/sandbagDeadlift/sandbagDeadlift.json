@@ -3,12 +3,9 @@
   "key": "sandbag_sandbag_deadlift",
   "title": "Sandbag Deadlift",
   "description": "1. Stand over the sandbag, hinge and bend the knees to secure both handles or the fabric, and brace the trunk.\n2. Drive through the feet to extend the knees and hips while keeping the bag close to the body.\n3. Finish upright, then hinge and bend the knees to return the bag to the floor without dropping it.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте над мішком, нахиліться в кульшових суглобах і зігніть коліна, надійно візьміться за обидві ручки або тканину й напружте корпус.\n2. Відштовхніться стопами, розгинаючи коліна й таз і тримаючи мішок близько до тіла.\n3. Повністю випряміться, потім нахиліться й зігніть коліна, опускаючи мішок на підлогу, не кидаючи його.",
       "sectionTitle": "Мішок із піском"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

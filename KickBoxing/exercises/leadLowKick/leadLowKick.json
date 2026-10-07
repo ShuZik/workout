@@ -4,11 +4,9 @@
   "title": "Lead Low Kick",
   "description": "1. From stance, load the rear leg and step the lead foot slightly outside the target line if distance requires it.\n2. Pivot the rear foot and turn the lead hip so the lower shin swings into the outside or inside of the thigh.\n3. Recoil the leg immediately and place the lead foot back without dropping the hands.",
   "subtitle": "Low Kick / K-1",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -21,7 +19,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Kicks",
   "availableFrom": "1.1.0",
@@ -99,5 +96,6 @@
       "subtitle": "Лоу-кік / K-1",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

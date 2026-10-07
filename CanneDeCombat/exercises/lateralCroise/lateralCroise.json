@@ -3,11 +3,9 @@
   "key": "canne_lateral_croise",
   "title": "Lateral Croise",
   "description": "1. With the cane in the right hand, turn the upper body slightly left and draw the hand, palm up, across the chest while shifting weight to the rear foot.\n2. Turn the hand over to flip the point out behind you over the left shoulder, extend fully, then swing the cane horizontally from the rear to the front with a straight arm.\n3. Stop the point at the end of the arc under control and return to guard.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "canneDeCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Strikes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримаючи тростину в правій руці, трохи поверніть корпус ліворуч і проведіть руку долонею вгору поперек грудей, переносячи вагу на задню ногу.\n2. Поверніть кисть, відкидаючи вістря назад над лівим плечем, повністю витягніться й проведіть тростину горизонтально ззаду наперед прямою рукою.\n3. Підконтрольно зупиніть вістря наприкінці дуги й поверніться в стійку.",
       "sectionTitle": "Удари"
     }
-  }
+  },
+  "state": "active"
 }

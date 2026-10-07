@@ -3,11 +3,9 @@
   "key": "lead_uppercut",
   "title": "Lead Uppercut",
   "description": "1. From guard, bend both knees slightly and load the lead leg without dropping either hand.\n2. Drive upward through the lead leg and rotate the hip as the bent lead fist rises through the centerline.\n3. Stop the fist near chin height, lower it along the same path, and recover the knees and guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "level": 1,
   "section": "2 Base",
@@ -88,5 +85,6 @@
       "description": "1. Із захисту трохи зігніть обидва коліна й навантажте передню ногу, не опускаючи жодну руку.\n2. Відштовхніться вгору передньою ногою й поверніть таз, піднімаючи кулак зігнутої передньої руки центральною лінією.\n3. Зупиніть кулак приблизно на висоті підборіддя, опустіть тим самим шляхом і відновіть положення колін та захист.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

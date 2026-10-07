@@ -3,11 +3,9 @@
   "key": "kick_boxing_scissor_front_kick",
   "title": "Scissor Front Kick",
   "description": "1. From stance, drive one knee up sharply as a feint and use it to spring off the supporting foot.\n2. Switch the legs in the air and snap the other leg into a front kick at the top of the jump, keeping the hands high.\n3. Recoil the kicking foot and land softly on both feet in a balanced stance before moving again.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки різко підніміть одне коліно як обманний рух і відштовхніться опорною ногою.\n2. Змініть ноги в повітрі й у верхній точці стрибка викиньте іншу ногу прямим ударом, тримаючи руки високо.\n3. Поверніть ударну ногу й м’яко приземліться на обидві ноги в стійку, перш ніж рухатися далі.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "bjj_americana",
   "title": "Americana",
   "description": "1. From side control or mount, pin the partner's wrist to the mat with the elbow bent about ninety degrees.\n2. Thread the other arm beneath the upper arm and grip your own wrist to form a figure-four.\n3. Keep the wrist down and lift the elbow only gradually, releasing immediately at a tap or verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Submissions",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. З бічного контролю або маунту притисніть зап’ястя партнера до килима, зігнувши його лікоть приблизно на дев’яносто градусів.\n2. Проведіть другу руку під його плечем і візьміться за своє зап’ястя, утворюючи замок «четвірка».\n3. Тримайте зап’ястя внизу й піднімайте лікоть лише поступово, одразу відпускаючи за постукування або голосового сигналу.",
       "sectionTitle": "Больові й задушливі"
     }
-  }
+  },
+  "state": "active"
 }

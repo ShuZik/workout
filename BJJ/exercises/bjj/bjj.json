@@ -3,11 +3,9 @@
   "key": "bjj",
   "title": "BJJ",
   "description": "1. Begin on mats with a trained partner, knees and hips mobile, elbows close, and the neck protected.\n2. Move through guard, side control, mount, and back-control transitions using frames, hip movement, and steady positional pressure.\n3. Stabilize each position before advancing and stop immediately whenever either partner taps or gives a verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "section": "1 Main",
   "durationSeconds": 30,
   "durationUnit": "seconds",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на килимі з підготовленим партнером: коліна й таз рухливі, лікті притиснуті, шия захищена.\n2. Переходьте між гардом, бічним контролем, маунтом і контролем спини, використовуючи упори, рух таза й постійний позиційний тиск.\n3. Закріплюйте кожну позицію, перш ніж просуватися далі, і негайно зупиняйтеся, якщо будь-хто з партнерів постукав або подав голосовий сигнал.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

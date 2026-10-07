@@ -3,11 +3,9 @@
   "key": "hapkido_main",
   "title": "Hapkido",
   "description": "1. Stand in a relaxed guard on mats with knees soft and hands open in front of the body.\n2. Practice breakfalls, circular evasions, kicks, and controlled wrist or arm releases with a trained partner at a cooperative pace.\n3. Apply every joint control slowly, release at the first tap or signal, and reset to guard before the next repetition.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "hapkido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на татамі в розслаблену стійку, коліна м’які, відкриті долоні перед корпусом.\n2. Відпрацьовуйте страхування, кругові відходи, удари ногами й контрольовані звільнення зап’ястка чи руки з підготовленим партнером у кооперативному темпі.\n3. Кожен больовий контроль проводьте повільно, відпускайте при першому плесканні чи сигналі й повертайтеся в стійку перед наступним повтором.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "core_reverse_crunch",
   "title": "Reverse Crunch",
   "description": "1. Lie on the back with knees bent over the hips and arms beside the body for support.\n2. Exhale to curl the pelvis toward the ribs and lift the tailbone a small distance from the floor.\n3. Lower the pelvis under control without swinging the legs or arching the lower back.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, зігніть коліна над тазом і покладіть руки вздовж тіла для підтримки.\n2. На видиху підкрутіть таз до ребер і трохи підніміть куприк над підлогою.\n3. Контрольовано опустіть таз, не розгойдуючи ноги й не прогинаючи поперек.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

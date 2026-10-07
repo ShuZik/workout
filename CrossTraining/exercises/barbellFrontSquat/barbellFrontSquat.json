@@ -3,12 +3,9 @@
   "key": "cross_training_barbell_front_squat",
   "title": "Barbell Front Squat",
   "description": "1. Support the bar on the front shoulders with elbows high, feet shoulder-width apart, and trunk braced.\n2. Push the hips down between the heels while the knees track over the toes and the elbows stay lifted.\n3. Drive through the whole feet to stand, keeping the bar stacked over the midfoot.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Покладіть штангу на передню частину плечей, лікті високо, стопи на ширині плечей, корпус напружений.\n2. Опускайте таз між п’ятами, коліна йдуть у напрямку носків, лікті залишаються піднятими.\n3. Відштовхніться всією стопою й підведіться, утримуючи штангу над серединою стопи.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

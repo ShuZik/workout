@@ -3,11 +3,9 @@
   "key": "ssireum",
   "title": "Ssireum",
   "description": "1. Kneel facing a trained partner in a sand ring or on mats and take the satba grip on the partner's waist and thigh band.\n2. Rise together and try to turn and topple the partner using the satba grip, lifts, and leg trips.\n3. Lower the partner under control, stop when a knee or higher touches down, and restart from the kneeling grip.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "ssireum",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на коліна обличчям до підготовленого партнера в піщаному колі або на килимі й візьміть захват за сатбу на його поясі та стегні.\n2. Підніміться разом і намагайтеся розвернути й перекинути партнера захватом за сатбу, підйомами й підніжками.\n3. Опускайте партнера під контролем, зупиняйтеся, коли землі торкнеться коліно або вище, і починайте знову із захвату на колінах.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

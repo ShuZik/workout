@@ -6,8 +6,6 @@
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте штангу на рівні плечей, кисті трохи ширше за плечі, стопи під тазом, ноги прямі.\n2. Напружте корпус, злегка відведіть голову назад і вижміть штангу вертикально повз обличчя.\n3. Завершіть на прямих руках зі штангою над серединою стопи, потім підконтрольно опустіть її на плечі.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

@@ -3,12 +3,9 @@
   "key": "sandbag_sandbag_front_squat",
   "title": "Sandbag Front Squat",
   "description": "1. Lift the sandbag high across the front of the shoulders and stand with feet in squat stance.\n2. Squat between the hips while the knees track over the toes and the bag stays close to the chest.\n3. Drive through the whole feet to stand without rounding forward under the shifting load.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Підніміть мішок високо на передню частину плечей і поставте стопи в стійку для присідання.\n2. Присідайте, опускаючи таз між стегон, спрямовуючи коліна за лінією носків і тримаючи мішок біля грудей.\n3. Відштовхніться всією стопою й встаньте, не округлюючись уперед під вагою, що зміщується.",
       "sectionTitle": "Мішок із піском"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

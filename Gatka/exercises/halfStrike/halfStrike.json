@@ -3,11 +3,9 @@
   "key": "gatka_half_strike",
   "title": "Half Strike",
   "description": "1. Stand ready with the farri in front and the soti raised near the right shoulder.\n2. Strike directly from the shoulder toward the target on a short path, without carrying the stick around behind the head.\n3. Stop at target height and return the stick straight to the shoulder; practise solo before using it against a partner's shield.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "gatka",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в готовність: фаррі попереду, соті піднята біля правого плеча.\n2. Ударте прямо від плеча в ціль короткою траєкторією, не проводячи палицю за голову.\n3. Зупиніться на висоті цілі й поверніть палицю прямо до плеча; відпрацюйте самостійно, перш ніж застосовувати проти щита партнера.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

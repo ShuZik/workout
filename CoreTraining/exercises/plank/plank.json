@@ -3,11 +3,9 @@
   "key": "core_plank",
   "title": "Plank",
   "description": "1. Place the elbows under the shoulders or the hands under the shoulders and extend both legs behind you.\n2. Brace the abdomen and glutes to hold one straight line from the head through the heels.\n3. Press away from the floor and keep the hips level without sagging, piking, or holding the breath.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Поставте лікті або долоні під плечима й витягніть обидві ноги назад.\n2. Напружте живіт і сідниці, утримуючи пряму лінію від голови до п’ят.\n3. Відштовхуйтеся від підлоги й тримайте таз рівно, не провисаючи, не піднімаючи його вгору та не затримуючи дихання.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

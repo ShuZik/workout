@@ -3,11 +3,9 @@
   "key": "agility_quick_feet",
   "title": "Quick Feet",
   "description": "1. Mark a small working area and take an athletic stance on the balls of the feet.\n2. Take short rapid steps in place while the knees stay soft and the chest remains over the hips.\n3. Keep the feet close to the floor and slow before balance, posture, or foot placement breaks down.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Agility",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Позначте невелику робочу зону й прийміть атлетичну стійку на передній частині стоп.\n2. Виконуйте короткі швидкі кроки на місці, зберігаючи коліна м'якими, а груди — над тазом.\n3. Тримайте стопи близько до підлоги й сповільнюйтеся, перш ніж порушиться рівновага, постава або постановка стоп.",
       "sectionTitle": "Спритність"
     }
-  }
+  },
+  "state": "active"
 }

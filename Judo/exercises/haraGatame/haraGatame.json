@@ -3,11 +3,9 @@
   "key": "judo_hara_gatame",
   "title": "Hara Gatame",
   "description": "1. With the partner on all fours, trap the partner's straight arm at your side with the wrist held firmly.\n2. Place your abdomen just above the partner's elbow and kneel close to the partner's shoulder.\n3. Lower the abdomen gradually against the elbow and release immediately at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли партнер рачки, притисніть його пряму руку до свого боку, міцно утримуючи зап’ястя.\n2. Покладіть живіт трохи вище його ліктя й станьте на коліна біля його плеча.\n3. Поступово опускайте живіт на лікоть і негайно відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

@@ -6,7 +6,6 @@
   "colorType": "teal",
   "workoutType": "wrestling",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +82,6 @@
       "description": "1. Почніть в упорі лежачи, руки під плечима, тіло пряме.\n2. Обійдіть ногами довкола рук повне коло, не зсуваючи руки й тримаючи таз рівно.\n3. Завершіть коло в один бік, затримайтеся в упорі лежачи й пройдіть назад в інший бік.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "durationSeconds": 30
 }

@@ -3,11 +3,9 @@
   "key": "taekwondo_taegeuk_2_jang",
   "title": "Taegeuk 2 Jang",
   "description": "1. Start in basic ready stance and perform the second Taegeuk on the same three-line pattern, alternating walking stance and front stance.\n2. Link front kicks to front-stance punches, and combine low blocks, inside middle blocks and high blocks with smooth weight transfer.\n3. Finish with the closing front kicks and punches with a kihap, then return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте другий тхегик за тією самою трилінійною схемою, чергуючи крокову та передню стійки.\n2. Пов’язуйте прямі удари ногою з ударами рукою в передній стійці й поєднуйте нижні, внутрішні середні та верхні блоки з плавним перенесенням ваги.\n3. Завершіть останніми прямими ударами ногою й рукою з кіхапом і поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

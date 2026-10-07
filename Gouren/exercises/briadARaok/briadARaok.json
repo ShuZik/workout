@@ -3,11 +3,9 @@
   "key": "gouren_briad_a_raok",
   "title": "Briad a Raok",
   "description": "1. Close the distance and take a body hold, both hands gripping the back of the partner's shirt with the chest pressed tight.\n2. Load the partner onto your hip, lift slightly, and turn forward so the partner rotates over you.\n3. Steer the partner onto the back in front of you, keep the shirt to soften the fall, and release before standing.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "gouren",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Скоротіть дистанцію та обхопіть тулуб, тримаючи обома руками сорочку партнера на спині й щільно притиснувши груди.\n2. Завантажте партнера на стегно, трохи підніміть і поверніться вперед, щоб він перекинувся через вас.\n3. Спрямуйте партнера спиною на килим перед собою, утримуйте сорочку, пом'якшуючи падіння, і відпустіть, перш ніж підвестися.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

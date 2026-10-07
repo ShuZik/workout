@@ -1,0 +1,88 @@
+{
+  "id": "10.36",
+  "key": "cooldown_soleus_stretch",
+  "title": "Soleus Stretch",
+  "description": "Face a wall with one foot behind you and both heels down. Bend both knees gently while keeping the rear heel grounded, hold a comfortable calf stretch, and switch sides.",
+  "colorType": "green",
+  "workoutType": "cooldown",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "difficulty": "basic",
+  "section": "4 Static Stretching",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Soleus Stretch",
+      "description": "Face a wall with one foot behind you and both heels down. Bend both knees gently while keeping the rear heel grounded, hold a comfortable calf stretch, and switch sides.",
+      "sectionTitle": "Static Stretching"
+    },
+    "es": {
+      "title": "Estiramiento del sóleo",
+      "description": "Mira hacia una pared con un pie detrás y ambos talones apoyados. Flexiona suavemente ambas rodillas sin levantar el talón trasero, mantén un estiramiento cómodo en la pantorrilla y cambia de lado.",
+      "sectionTitle": "Estiramientos estáticos"
+    },
+    "pt": {
+      "title": "Alongamento do sóleo",
+      "description": "Fique de frente para uma parede com um pé atrás e ambos os calcanhares apoiados. Dobre suavemente os joelhos sem levantar o calcanhar de trás, mantenha uma tensão confortável na panturrilha e troque o lado.",
+      "sectionTitle": "Alongamento estático"
+    },
+    "fr": {
+      "title": "Étirement du soléaire",
+      "description": "Face à un mur, placez un pied en arrière et gardez les talons au sol. Pliez doucement les deux genoux sans lever le talon arrière, maintenez une tension confortable au mollet puis changez de côté.",
+      "sectionTitle": "Étirements statiques"
+    },
+    "de": {
+      "title": "Dehnung des Schollenmuskels",
+      "description": "Stehe vor einer Wand mit einem Fuß hinten und beiden Fersen am Boden. Beuge beide Knie sanft bei aufliegender hinterer Ferse, halte eine angenehme Wadendehnung und wechsle die Seite.",
+      "sectionTitle": "Statisches Dehnen"
+    },
+    "it": {
+      "title": "Allungamento del soleo",
+      "description": "Rivolgiti verso un muro con un piede indietro ed entrambi i talloni a terra. Piega delicatamente le ginocchia senza alzare il tallone posteriore, mantieni una tensione comoda nel polpaccio e cambia lato.",
+      "sectionTitle": "Stretching statico"
+    },
+    "zh-Hans": {
+      "title": "比目鱼肌拉伸",
+      "description": "面向墙壁，一只脚放在后方，双脚脚跟贴地。轻轻弯曲双膝，保持后脚脚跟贴地，维持舒适的小腿拉伸后换侧。",
+      "sectionTitle": "静态拉伸"
+    },
+    "ja": {
+      "title": "ヒラメ筋のストレッチ",
+      "description": "壁に向かい、片足を後ろに置いて両かかとを床につけます。後ろのかかとを浮かせず両膝を軽く曲げ、ふくらはぎの心地よい伸びを保ち、反対側も行います。",
+      "sectionTitle": "静的ストレッチ"
+    },
+    "ko": {
+      "title": "가자미근 스트레칭",
+      "description": "벽을 향해 한 발을 뒤로 두고 양쪽 뒤꿈치를 붙이세요. 뒤꿈치를 들지 않고 두 무릎을 부드럽게 굽혀 종아리를 편안하게 늘린 뒤 반대쪽도 하세요.",
+      "sectionTitle": "정적 스트레칭"
+    },
+    "th": {
+      "title": "ยืดกล้ามเนื้อโซเลียส",
+      "description": "หันหน้าเข้าผนังโดยวางเท้าข้างหนึ่งไว้ด้านหลังและให้ส้นเท้าทั้งสองติดพื้น งอเข่าทั้งสองเบา ๆ โดยไม่ยกส้นเท้าหลัง ค้างการยืดน่องในระดับสบายแล้วสลับข้าง",
+      "sectionTitle": "การยืดกล้ามเนื้อแบบค้างท่า"
+    },
+    "ru": {
+      "title": "Растяжка камбаловидной мышцы",
+      "description": "Встаньте лицом к стене, отставив одну стопу назад и оставив обе пятки на полу. Мягко согните оба колена, не поднимая заднюю пятку, удерживайте комфортное натяжение в голени и смените сторону.",
+      "sectionTitle": "Статическая растяжка"
+    },
+    "uk": {
+      "title": "Розтягування камбалоподібного м’яза",
+      "description": "Станьте обличчям до стіни, відставивши одну стопу назад і залишивши обидві п’яти на підлозі. М’яко зігніть обидва коліна, не піднімаючи задню п’яту, утримуйте комфортний натяг у гомілці та змініть бік.",
+      "sectionTitle": "Статичне розтягування"
+    }
+  },
+  "state": "active"
+}

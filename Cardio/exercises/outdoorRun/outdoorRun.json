@@ -3,11 +3,9 @@
   "key": "outdoor_run",
   "title": "Outdoor Run",
   "description": "1. Stand tall, lean slightly from the ankles, and let the arms swing close to the sides.\n2. Run with short natural strides that land under the body rather than reaching far ahead.\n3. Keep a steady rhythm, scan the route ahead, and shorten the stride on turns or uneven ground.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "12050",
     "vigorousCode": "12090"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Outdoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Тримайтеся рівно, злегка нахиліться від гомілковостопних суглобів і дозвольте рукам рухатися близько до боків.\n2. Біжіть короткими природними кроками, приземляючись під тілом, а не виносячи ногу далеко вперед.\n3. Зберігайте рівний ритм, оглядайте маршрут попереду й укорочуйте крок на поворотах або нерівному ґрунті.",
       "sectionTitle": "Надворі"
     }
-  }
+  },
+  "state": "active"
 }

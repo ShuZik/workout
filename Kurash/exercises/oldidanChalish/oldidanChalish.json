@@ -3,11 +3,9 @@
   "key": "kurash_oldidan_chalish",
   "title": "Oldidan Chalish",
   "description": "1. From a collar and sleeve grip, draw the partner forward onto the front foot while turning your body to the side.\n2. Place your leg across the front of the partner's ankle as a block and pull the partner over it with both hands.\n3. Turn the partner down onto the side or back with the sleeve held, then release once the partner lands.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "kurash",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захвату за комір і рукав виведіть партнера вперед на передню ногу, розвертаючи тулуб боком.\n2. Підставте ногу впоперек перед кісточкою партнера й руками перетягніть його через неї.\n3. Покладіть партнера на бік або спину, утримуючи рукав, і відпустіть після приземлення.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

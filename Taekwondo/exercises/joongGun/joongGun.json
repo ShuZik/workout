@@ -3,11 +3,9 @@
   "key": "taekwondo_joong_gun",
   "title": "Joong-Gun",
   "description": "1. Start in closed ready stance B and perform the 32-movement pattern, opening with the reverse knife-hand block and low side front snap kick.\n2. Include the upward elbow strikes in L-stance, twin vertical and twin upset punches, rear-foot-stance palm blocks, angle punches and the U-shape block in fixed stance.\n3. Finish with the closing blocks and punches, then return to closed ready stance B.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із закритої готової стійки B й виконайте туль із 32 рухів, відкривши його зворотним блоком ребром долоні та низьким бічно-прямим ударом ногою.\n2. Додайте удари ліктем угору в L-подібній стійці, подвійні вертикальні й перевернуті удари, блоки долонею в стійці на задній нозі, кутові удари та U-подібний блок у фіксованій стійці.\n3. Завершіть останніми блоками й ударами та поверніться в закриту готову стійку B.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

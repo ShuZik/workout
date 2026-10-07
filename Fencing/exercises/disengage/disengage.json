@@ -3,11 +3,9 @@
   "key": "fencing_disengage",
   "title": "Disengage",
   "description": "1. Engage the partner's blade in one line, for example sixte, with both fencers masked at lunging distance.\n2. Pass the point under the partner's blade in a small spiral using the fingers, extending the arm as the point reaches the opposite open line.\n3. Lunge to hit in the new line, recover to en garde, and repeat from both engagements before swapping roles.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть з’єднання з клинком партнера в одній лінії, наприклад у шостій; обидва в масках на дистанції випаду.\n2. Пальцями проведіть вістря невеликою спіраллю під клинком партнера й випряміть руку, коли вістря вийде в протилежну відкриту лінію.\n3. Випадом завдайте уколу в нову лінію, поверніться в стійку й повторіть з обох з’єднань, потім поміняйтеся ролями.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

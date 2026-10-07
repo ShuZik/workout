@@ -3,11 +3,9 @@
   "key": "capoeira_queda_de_quatro",
   "title": "Queda de Quatro",
   "description": "1. From the ginga, sit the hips backward toward the floor as if avoiding a high kick, keeping the chin tucked.\n2. Reach both hands behind you and place them on the floor with the fingers pointing back and the elbows soft, feet flat in front.\n3. Keep the hips just off the floor and the eyes forward, then press through the hands and feet to return to the ginga.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із джинги відведіть таз назад до підлоги, ніби ухиляючись від високого удару, підборіддя притиснуте.\n2. Поставте обидві руки на підлогу позаду себе пальцями назад, лікті м’які, стопи пласко попереду.\n3. Тримайте таз трохи над підлогою й погляд уперед, потім відштовхніться руками й ногами та поверніться в джингу.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

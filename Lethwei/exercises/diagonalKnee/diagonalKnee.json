@@ -3,11 +3,9 @@
   "key": "lethwei_diagonal_knee",
   "title": "Diagonal Knee",
   "description": "1. From a light clinch or guard, step slightly to the outside angle and shift weight onto the supporting leg.\n2. Turn the hip over and drive the knee upward and inward on a diagonal line into a body pad held at the ribs.\n3. Withdraw the knee, place the foot back under the hip, and restore stance and guard before the next strike.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "lethwei",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із легкого клінчу або захисту зробіть невеликий крок під зовнішній кут і перенесіть вагу на опорну ногу.\n2. Доверніть стегно й спрямуйте коліно вгору та всередину по діагоналі в лапу на рівні ребер.\n3. Приберіть коліно, поставте стопу під таз і відновіть стійку та захист перед наступним ударом.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

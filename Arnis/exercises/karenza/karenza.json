@@ -3,11 +3,9 @@
   "key": "arnis_karenza",
   "title": "Karenza",
   "description": "1. Start in stance with the stick relaxed and the free hand at the chest.\n2. Flow freely through the white-belt strikes, blocks, and footwork in all directions like shadow sparring, linking techniques without stopping.\n3. Vary angles and rhythm, keep balance on every step, and finish back in guard.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Solo Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці, палиця розслаблена, вільна рука біля грудей.\n2. Вільно перетікайте через удари, блоки й пересування білого пояса в усіх напрямках, як у бою з тінню, поєднуючи техніки без зупинок.\n3. Змінюйте кути й ритм, зберігайте рівновагу на кожному кроці й завершіть у захисті.",
       "sectionTitle": "Одиночні вправи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "shorinji_kempo_uchi_uke_zuki",
   "title": "Uchi Uke Zuki",
   "description": "1. Attacker steps in with a straight punch to the face; defender waits in kaiko no kamae.\n2. Defender deflects the punch inward with the front forearm while stepping off-line and counters at the same instant with a punch to the face or ribs.\n3. Defender pulls the counter short of contact, both return to kamae with zanshin, and attacker and defender switch roles.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "shorinjiKempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нападник робить крок уперед із прямим ударом в обличчя; захисник чекає в кайко-но камае.\n2. Захисник відводить удар усередину переднім передпліччям, сходячи з лінії атаки, і тієї ж миті контратакує ударом в обличчя або ребра.\n3. Захисник зупиняє контрудар до дотику, обидва повертаються в камае з дзансіном, потім нападник і захисник міняються ролями.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

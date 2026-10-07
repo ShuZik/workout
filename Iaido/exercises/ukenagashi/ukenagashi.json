@@ -3,11 +3,9 @@
   "key": "iaido_ukenagashi",
   "title": "Ukenagashi",
   "description": "1. From seiza with the opponent attacking from the left, rise and step while drawing the sword up over the head with the blade angled to deflect the descending cut.\n2. Turn toward the opponent, bring the right foot in, and finish with a two-handed diagonal kesa-giri down through the shoulder line.\n3. Lower the blade to the side for chiburi, resheathe while kneeling, and stand or sit with zanshin.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "2 Seated Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із сейдза за атаки суперника зліва встаньте й ступіть, виводячи меч над головою з нахиленим клинком, щоб відвести низхідний удар.\n2. Поверніться до суперника, підтягніть праву ногу й завершіть діагональним ударом кеса-ґірі двома руками через лінію плеча.\n3. Опустіть клинок убік для тібурі, вкладіть меч, стоячи на коліні, і підведіться або сядьте з дзансіном.",
       "sectionTitle": "Форми з положення сидячи"
     }
-  }
+  },
+  "state": "active"
 }

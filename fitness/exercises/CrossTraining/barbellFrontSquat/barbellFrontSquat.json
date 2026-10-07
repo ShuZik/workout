@@ -6,8 +6,6 @@
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Покладіть штангу на передню частину плечей, лікті високо, стопи на ширині плечей, корпус напружений.\n2. Опускайте таз між п’ятами, коліна йдуть у напрямку носків, лікті залишаються піднятими.\n3. Відштовхніться всією стопою й підведіться, утримуючи штангу над серединою стопи.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

@@ -3,11 +3,9 @@
   "key": "kuk_sool_won_hand_strike_drill",
   "title": "Basic Hand Strike Drill",
   "description": "1. Stand in a horse stance with the fists chambered at the hips and the back straight.\n2. Alternate straight punches, palm strikes, and knife-hand strikes to the front, exhaling sharply on each strike while pulling the other hand back to the hip.\n3. Keep the stance low and steady for the round, returning each hand to the hip along the same line.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kukSoolWon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку вершника, кулаки біля стегон, спина пряма.\n2. Чергуйте прямі удари кулаком, удари основою долоні й ребром долоні вперед, різко видихаючи на кожному ударі й водночас повертаючи іншу руку до стегна.\n3. Увесь раунд тримайте стійку низькою та стійкою, повертаючи кожну руку до стегна тією самою лінією.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

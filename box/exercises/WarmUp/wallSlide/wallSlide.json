@@ -1,0 +1,88 @@
+{
+  "id": "9.71",
+  "key": "warmup_wall_slide",
+  "title": "Wall Slide",
+  "description": "Stand with your back against a wall and elbows bent. Slide your arms upward within a comfortable range, then lower them while keeping your ribs down and avoiding a back arch.",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.8,
+    "vigorous": 3.8,
+    "lightCode": "02101",
+    "moderateCode": "02024",
+    "vigorousCode": "02022"
+  },
+  "difficulty": "basic",
+  "section": "2 Joint Mobility",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Wall Slide",
+      "description": "Stand with your back against a wall and elbows bent. Slide your arms upward within a comfortable range, then lower them while keeping your ribs down and avoiding a back arch.",
+      "sectionTitle": "Joint Mobility"
+    },
+    "es": {
+      "title": "Deslizamiento de brazos en pared",
+      "description": "Apoya la espalda en una pared y flexiona los codos. Desliza los brazos hacia arriba dentro de un rango cómodo y bájalos sin elevar las costillas ni arquear la espalda.",
+      "sectionTitle": "Movilidad articular"
+    },
+    "pt": {
+      "title": "Deslizamento de braços na parede",
+      "description": "Fique com as costas na parede e os cotovelos dobrados. Deslize os braços para cima em uma amplitude confortável e abaixe sem abrir as costelas nem arquear as costas.",
+      "sectionTitle": "Mobilidade articular"
+    },
+    "fr": {
+      "title": "Glissement des bras au mur",
+      "description": "Placez le dos contre un mur, coudes pliés. Faites glisser les bras vers le haut dans une amplitude confortable puis redescendez, sans ouvrir les côtes ni cambrer le dos.",
+      "sectionTitle": "Mobilité articulaire"
+    },
+    "de": {
+      "title": "Armgleiten an der Wand",
+      "description": "Stehe mit dem Rücken an einer Wand und beuge die Ellbogen. Schiebe die Arme angenehm weit nach oben und wieder herunter, ohne die Rippen anzuheben oder ins Hohlkreuz zu gehen.",
+      "sectionTitle": "Gelenkbeweglichkeit"
+    },
+    "it": {
+      "title": "Scivolamento delle braccia al muro",
+      "description": "Appoggia la schiena al muro e piega i gomiti. Fai scorrere le braccia verso l’alto entro un’ampiezza comoda, poi abbassale mantenendo le costole basse senza inarcare la schiena.",
+      "sectionTitle": "Mobilità articolare"
+    },
+    "zh-Hans": {
+      "title": "靠墙滑臂",
+      "description": "背靠墙站立，肘部弯曲。在舒适范围内沿墙向上滑动手臂，再放下，保持肋骨收住，不要拱背。",
+      "sectionTitle": "关节活动"
+    },
+    "ja": {
+      "title": "ウォールスライド",
+      "description": "背中を壁につけ、肘を曲げて立ちます。無理のない範囲で腕を上へ滑らせて戻し、肋骨を浮かせたり背中を反らしたりしないようにします。",
+      "sectionTitle": "関節の可動性"
+    },
+    "ko": {
+      "title": "월 슬라이드",
+      "description": "등을 벽에 대고 팔꿈치를 굽혀 서세요. 편안한 범위에서 팔을 위로 미끄러뜨렸다가 내리며 갈비뼈가 들리거나 허리가 젖혀지지 않게 하세요.",
+      "sectionTitle": "관절 가동성"
+    },
+    "th": {
+      "title": "เลื่อนแขนตามผนัง",
+      "description": "ยืนพิงผนังและงอศอก เลื่อนแขนขึ้นในช่วงที่สบายแล้วลดลงโดยเก็บซี่โครงและไม่แอ่นหลัง",
+      "sectionTitle": "การเคลื่อนไหวข้อต่อ"
+    },
+    "ru": {
+      "title": "Скольжение руками по стене",
+      "description": "Встаньте спиной к стене и согните локти. Скользите руками вверх в комфортном диапазоне, затем опустите их, не поднимая рёбра и не прогибая спину.",
+      "sectionTitle": "Подвижность суставов"
+    },
+    "uk": {
+      "title": "Ковзання руками по стіні",
+      "description": "Станьте спиною до стіни та зігніть лікті. Ковзайте руками вгору в комфортному діапазоні, потім опустіть їх, не піднімаючи ребра й не прогинаючи спину.",
+      "sectionTitle": "Рухливість суглобів"
+    }
+  },
+  "state": "active"
+}

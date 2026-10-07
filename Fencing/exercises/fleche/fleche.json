@@ -3,11 +3,9 @@
   "key": "fencing_fleche",
   "title": "Flèche",
   "description": "1. From en garde with épée or foil, extend the arm fully so the point leads, and shift the weight onto the front foot.\n2. Fall forward and push off the front leg so the rear leg crosses past it, aiming to hit before the rear foot lands.\n3. Run past the partner's side without contact, slow down safely, and return to en garde; in sabre the flèche is not permitted.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "2 Footwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки зі шпагою чи рапірою повністю випряміть руку, щоб вістря йшло першим, і перенесіть вагу на передню ногу.\n2. Падаючи вперед, відштовхніться передньою ногою, щоб задня перехресно пройшла вперед; прагніть уколу до постановки задньої ноги.\n3. Пробіжіть повз партнера збоку без зіткнення, безпечно загальмуйте й поверніться в стійку; у шаблі флеш не дозволено.",
       "sectionTitle": "Робота ніг"
     }
-  }
+  },
+  "state": "active"
 }

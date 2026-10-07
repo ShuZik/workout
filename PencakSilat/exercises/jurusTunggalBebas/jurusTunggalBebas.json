@@ -3,11 +3,9 @@
   "key": "pencak_silat_jurus_tunggal_bebas",
   "title": "Jurus Tunggal Bebas",
   "description": "1. Plan a personal solo composition of stances, steps, strikes, kicks, and defences, empty-handed or with a blunt training weapon.\n2. Perform it from the opening salute, showing clear attack and defence intent, balance in low stances, and controlled transitions.\n3. Close with the final salute, then note which segments lost rhythm or balance before repeating.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "pencakSilat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Складіть власну одиночну композицію зі стійок, кроків, ударів руками й ногами та захистів — без зброї або з тупою навчальною зброєю.\n2. Виконайте її з початкового привітання, показуючи чіткий намір атаки й захисту, рівновагу в низьких стійках і контрольовані переходи.\n3. Завершіть заключним привітанням і перед повтором відзначте, де втрачалися ритм або рівновага.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "fencing_appel",
   "title": "Appel",
   "description": "1. Stand en garde with the weight centered and the weapon arm relaxed.\n2. Lift the front foot slightly and stamp it flat on the floor to make a sharp sound without shifting the rear foot or leaning forward.\n3. Use the stamp to signal or prepare an attack, then continue with an advance or lunge or return to a still guard.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Footwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в бойову стійку, вага по центру, озброєна рука розслаблена.\n2. Злегка підніміть передню стопу й різко притупніть усією підошвою, не зсуваючи задню ногу й не нахиляючись уперед.\n3. Використайте притуп як сигнал або підготовку атаки, потім продовжте кроком чи випадом або поверніться в нерухому стійку.",
       "sectionTitle": "Робота ніг"
     }
-  }
+  },
+  "state": "active"
 }

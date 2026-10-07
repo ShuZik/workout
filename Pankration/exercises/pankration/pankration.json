@@ -3,11 +3,9 @@
   "key": "pankration",
   "title": "Pankration",
   "description": "1. On a wrestling mat with gloves, shin guards and headgear, take a nearly square stance ready to strike or wrestle.\n2. Combine punches and kicks to permitted targets with takedowns and controlled ground positions, following the current age-category rules.\n3. Use only submissions legal for the age group, release at once on a tap, and reset to standing after each exchange.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "pankration",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На борцівському килимі в рукавицях, щитках і шоломі займіть майже фронтальну стійку, готову до ударів і боротьби.\n2. Поєднуйте удари руками й ногами в дозволені зони зі звалюваннями та контрольованими позиціями в партері за чинними правилами вікової категорії.\n3. Застосовуйте лише дозволені для віку больові та задушливі, відпускайте одразу за поплескуванням і після кожного обміну повертайтеся в стійку.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

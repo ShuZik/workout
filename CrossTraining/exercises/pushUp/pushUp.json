@@ -3,11 +3,9 @@
   "key": "cross_training_push_up",
   "title": "Push-Up",
   "description": "1. Place the hands slightly wider than the shoulders and extend the legs into a straight high-plank position.\n2. Bend the elbows back about 30–45 degrees and lower the chest while the head, hips, and heels stay aligned.\n3. Press through both palms to straight arms without letting the hips sag or the lower back arch.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02035",
     "vigorousCode": "02040"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "2 Bodyweight",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте долоні трохи ширше за плечі й витягніть ноги в пряму планку на прямих руках.\n2. Зігніть лікті назад приблизно на 30–45 градусів і опустіть груди, зберігаючи голову, таз і п’яти на одній лінії.\n3. Вижміть себе обома долонями до прямих рук, не провалюючи таз і не прогинаючи поперек.",
       "sectionTitle": "Власна вага"
     }
-  }
+  },
+  "state": "intense"
 }

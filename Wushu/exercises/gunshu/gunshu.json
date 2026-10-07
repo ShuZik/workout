@@ -3,11 +3,9 @@
   "key": "wushu_gunshu",
   "title": "Gunshu",
   "description": "1. Hold a training staff upright at your side, stand ready, and confirm a clear radius of more than one staff length around you.\n2. Perform the gunshu routine with sweeping, smashing, poking, and figure-eight spinning actions, moving the staff with both hands through changquan-style stances and steps.\n3. Keep every spin controlled and clear of the head and floor, then bring the staff upright and close in the ready stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте тренувальну жердину вертикально збоку, станьте в стійку готовності й переконайтеся, що довкола вільно більше ніж на довжину жердини.\n2. Виконайте комплекс гуньшу з метучими, рубальними згори, тичковими діями та обертаннями вісімкою, рухаючи жердину обома руками через стійки й кроки в стилі чанцюань.\n3. Тримайте кожне обертання під контролем далеко від голови й підлоги, потім поставте жердину вертикально й завершіть у стійці готовності.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "bjj_guillotine_defense",
   "title": "Guillotine Defense",
   "description": "1. As the neck is wrapped, tuck the chin, control the choking wrist with both hands, and keep the spine aligned.\n2. Restore posture and move the body toward the safe side while preventing the choking elbow from closing around the neck.\n3. Clear the head only when space opens; if the grip tightens or breathing changes, tap immediately.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Escapes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Щойно шию обхопили, притисніть підборіддя, контролюйте зап’ястя, що душить, обома руками й тримайте хребет рівно.\n2. Відновіть поставу й зміщуйтеся в безпечний бік, не даючи ліктю, що душить, замкнутися навколо шиї.\n3. Звільняйте голову, лише коли з’явиться простір; якщо захват затягується або змінюється дихання, одразу постукайте.",
       "sectionTitle": "Виходи"
     }
-  }
+  },
+  "state": "active"
 }

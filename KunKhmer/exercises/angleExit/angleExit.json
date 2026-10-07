@@ -3,11 +3,9 @@
   "key": "kun_khmer_angle_exit",
   "title": "Angle Exit",
   "description": "1. From guard facing a target line, keep the hands high and the weight centred between the feet.\n2. Step the lead foot about 45 degrees off the line and pivot the rear foot so the hips and guard face the original target from the new angle.\n3. Settle the stance width, check the guard, then return to centre and repeat to the other side.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "kunKhmer",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту обличчям до лінії цілі тримайте руки високо, а вагу — по центру між стопами.\n2. Ступіть передньою ногою приблизно на 45 градусів із лінії й доверніть задню стопу, щоб таз і захист знову дивилися на ціль із нового кута.\n3. Вирівняйте ширину стійки, перевірте захист, поверніться в центр і повторіть в інший бік.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

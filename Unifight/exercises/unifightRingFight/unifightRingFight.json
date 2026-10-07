@@ -3,11 +3,9 @@
   "key": "unifight_ring_fight",
   "title": "Unifight Ring Fight",
   "description": "1. After a short obstacle run and about one minute of rest, enter the padded ring with a matched partner, full protective gear and a coach.\n2. Spar a controlled round with punches, kicks, throws and brief ground control within the agreed rules.\n3. Stop on the coach's command or any tap, reset, and alternate rounds with obstacle runs.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "unifight",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Після короткої смуги перешкод і приблизно хвилини відпочинку вийдіть на ринговий майданчик із рівним за рівнем партнером, у повному захисті й під наглядом тренера.\n2. Проведіть контрольований раунд з ударами руками й ногами, кидками та коротким контролем у партері за узгодженими правилами.\n3. Зупиняйтеся за командою тренера або за будь-яким поплескуванням, починайте знову й чергуйте раунди з проходженням смуги.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

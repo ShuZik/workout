@@ -3,11 +3,9 @@
   "key": "kudo_idou",
   "title": "Kudo Idou",
   "description": "1. Start in fighting stance with the guard high and room to move forward, back and sideways.\n2. Step in each direction while throwing the basic punches and kicks, landing each technique as the feet settle.\n3. Keep the stance width constant, turn at the end of the line, and repeat back in the other direction.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "kudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у бойовій стійці з високим захистом і місцем для руху вперед, назад і вбоки.\n2. Пересувайтеся в кожному напрямку, наносячи базові удари руками й ногами так, щоб техніка припадала на постановку стоп.\n3. Зберігайте ширину стійки, розверніться в кінці лінії й повторіть у зворотному напрямку.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "capoeira_banda",
   "title": "Banda",
   "description": "1. On mats, the partner trained in falling stands in a slow ginga; step in close at an angle beside the partner's front leg with your hands at their shoulder or chest.\n2. Hook or block the outside of the partner's front ankle with your foot while your hands push the upper body gently in the opposite direction.\n3. Guide the partner into a controlled side or back breakfall, release the push as they go down, and switch roles.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На матах партнер, який уміє падати, повільно грає джингу; увійдіть близько під кутом поруч із його передньою ногою, руки на його плечі чи грудях.\n2. Зачепіть або заблокуйте стопою зовнішній бік його передньої щиколотки, поки руки м’яко штовхають корпус у протилежний бік.\n3. Спрямуйте партнера в контрольоване падіння на бік або назад, припиніть поштовх, поки він опускається, і поміняйтеся ролями.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

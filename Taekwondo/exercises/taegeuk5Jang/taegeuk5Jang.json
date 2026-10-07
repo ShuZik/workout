@@ -3,11 +3,9 @@
   "key": "taekwondo_taegeuk_5_jang",
   "title": "Taegeuk 5 Jang",
   "description": "1. Start in basic ready stance and perform the fifth Taegeuk, opening with a left-stance low block and downward hammer-fist strike.\n2. Include the turning elbow strikes into the open palm, side kicks, and the back-fist strike landing in crossed stance.\n3. Finish with the closing blocks and punches with a kihap, then return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте п’ятий тхегик, відкривши його нижнім блоком у лівій стійці та низхідним ударом кулаком-молотом.\n2. Додайте кругові удари ліктем у розкриту долоню, бічні удари ногою та удар тильним боком кулака з приземленням у схрещену стійку.\n3. Завершіть останніми блоками й ударами з кіхапом і поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

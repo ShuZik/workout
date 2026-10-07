@@ -6,7 +6,6 @@
   "colorType": "teal",
   "workoutType": "suspensionTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +82,6 @@
       "description": "1. Ляжте на спину, обидві п’яти в петлях для стоп, ноги прямі, руки на підлозі.\n2. Підніміть таз і зігніть коліна, підтягуючи п’яти до сідниць.\n3. Повільно випряміть ноги, утримуючи таз піднятим, а обидві петлі рівномірно натягнутими.",
       "sectionTitle": "Нижня частина тіла"
     }
-  }
+  },
+  "durationSeconds": 30
 }

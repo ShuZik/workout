@@ -3,11 +3,9 @@
   "key": "mma_lead_uppercut",
   "title": "Lead Uppercut",
   "description": "1. From guard, bend the knees slightly and load the lead leg without dropping either hand.\n2. Drive upward and rotate the lead hip as the bent fist rises tightly through the centerline.\n3. Retract the fist to the cheek and restore the knees, hips, and takedown-ready stance.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Striking",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки злегка зігніть коліна й завантажте передню ногу, не опускаючи жодної руки.\n2. Відштовхніться вгору й розверніть переднє стегно, поки зігнута рука щільно піднімається центральною лінією.\n3. Поверніть кулак до щоки й відновіть положення колін, таза та стійку, готову до захисту від проходу.",
       "sectionTitle": "Ударна техніка"
     }
-  }
+  },
+  "state": "active"
 }

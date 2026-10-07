@@ -3,12 +3,9 @@
   "key": "cross_training_kettlebell_swing",
   "title": "Kettlebell Swing",
   "description": "1. Place the kettlebell ahead of the feet, hinge with a neutral spine, and grip the handle with both hands.\n2. Hike the bell between the thighs, then extend the hips forcefully so the bell floats without an arm pull.\n3. Let the bell fall and guide it back into the next hinge while the feet stay planted.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Поставте гирю перед стопами, нахиліться в кульшових суглобах із нейтральною спиною й візьміть ручку обома руками.\n2. Заведіть гирю назад між стегнами, потім потужно розігніть таз, щоб гиря злетіла без тяги руками.\n3. Дозвольте гирі опуститися й спрямуйте її в наступний нахил, зберігаючи стопи на підлозі.",
       "sectionTitle": "Змішане навантаження"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

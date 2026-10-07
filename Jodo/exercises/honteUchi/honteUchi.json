@@ -3,11 +3,9 @@
   "key": "jodo_honte_uchi",
   "title": "Honte-uchi",
   "description": "1. From natural posture with the jo at the right side, slide the hands into honte grip with both palms facing down.\n2. Step forward and swing the jo up and over in a large arc, striking down at the imagined swordsman's temple with the tip.\n3. Stop the tip at head height on the centerline, keep the rear hand at the hip, and return to the start before the other side.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "jodo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Solo Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З природної стійки з дзьо праворуч перемістіть руки в хват хонте, обидві долоні донизу.\n2. Ступіть уперед і проведіть дзьо вгору й через голову великою дугою, завдаючи удару кінцем у скроню уявного мечника.\n3. Зупиніть кінець на рівні голови по центральній лінії, задня рука біля стегна, і поверніться на початок перед іншим боком.",
       "sectionTitle": "Одиночні кіхон"
     }
-  }
+  },
+  "state": "active"
 }

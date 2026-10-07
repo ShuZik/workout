@@ -3,11 +3,9 @@
   "key": "rear_hook",
   "title": "Rear Hook",
   "description": "1. From guard, keep the rear elbow bent and transfer pressure from the rear foot toward the lead side.\n2. Pivot the rear foot and rotate the hips and torso so the rear fist crosses the target on a compact arc.\n3. Reverse the rotation and return the rear fist to the cheek without letting the stance collapse.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "level": 1,
   "section": "2 Base",
@@ -88,5 +85,6 @@
       "description": "1. Із захисту зберігайте задній лікоть зігнутим і переносіть тиск із задньої стопи до переднього боку.\n2. Поверніть задню стопу, таз і корпус, проводячи задній кулак через ціль компактною дугою.\n3. Розверніться назад і поверніть задній кулак до щоки, не дозволяючи стійці розвалитися.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

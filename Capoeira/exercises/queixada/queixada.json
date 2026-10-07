@@ -3,11 +3,9 @@
   "key": "capoeira_queixada",
   "title": "Queixada",
   "description": "1. From the ginga, step the front foot across on a diagonal and turn the shoulders slightly away, guarding the face.\n2. Swing the straight rear leg up from inside to outside in an outward arc, leading with the outer edge of the foot.\n3. Let the leg descend on the outside line under control, then reset into the ginga facing the target.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із джинги поставте передню ногу навхрест по діагоналі й злегка розверніть плечі, захищаючи обличчя.\n2. Махніть прямою задньою ногою зсередини назовні по дузі, що розкривається, ведучи зовнішнім краєм стопи.\n3. Опустіть ногу по зовнішній лінії з контролем і поверніться в джингу обличчям до цілі.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

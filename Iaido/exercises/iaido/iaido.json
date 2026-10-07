@@ -3,11 +3,9 @@
   "key": "iaido_main",
   "title": "Iaido",
   "description": "1. Kneel in seiza or stand with the sword at the left hip, the left hand on the scabbard and the right hand relaxed.\n2. Draw and cut in one controlled motion, then follow with a full two-handed cut while keeping the posture upright and the eyes on the imagined opponent.\n3. Shake off the blade, resheathe slowly without looking down, and hold zanshin before resetting for the next repetition.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте в сейдза або встаньте, меч біля лівого стегна, ліва рука на піхвах, права розслаблена.\n2. Оголіть меч і виконайте розріз одним контрольованим рухом, потім завдайте повного рубального удару двома руками, зберігаючи пряму поставу й погляд на уявному супернику.\n3. Струсіть клинок, повільно вкладіть меч у піхви, не дивлячись униз, і збережіть дзансін перед наступним повтором.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "kick_boxing_spinning_backfist",
   "title": "Spinning Backfist",
   "description": "1. From stance, step the lead foot across or pivot on it and turn the head first to spot the target over the rear shoulder.\n2. Continue the turn and swing the rear arm horizontally, striking with the back of the fist with the elbow slightly bent.\n3. Complete the rotation without overswinging, bring the hand straight back to guard, and reset the stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки ступніть передньою ногою навхрест або розверніться на ній і спершу поверніть голову, щоб побачити ціль через заднє плече.\n2. Продовжуючи розворот, проведіть задню руку горизонтально й ударте тильним боком кулака зі злегка зігнутим ліктем.\n3. Завершіть розворот без зайвого замаху, одразу поверніть руку в захист і відновіть стійку.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

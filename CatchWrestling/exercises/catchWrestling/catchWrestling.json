@@ -3,11 +3,9 @@
   "key": "catch_wrestling",
   "title": "Catch Wrestling",
   "description": "1. Begin on mats with a trained partner in a wrestling stance with no gi.\n2. Wrestle for takedowns, rides, and pins, using permitted holds and slow submissions to force the partner onto the back.\n3. Release every hold at the first tap, avoid banned throat chokes, and reset to standing.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "catchWrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на килимі з підготовленим партнером у борцівській стійці без гі.\n2. Боріться за тейкдауни, контроль і туше, використовуючи дозволені захвати й повільні больові, щоб змусити партнера лягти на спину.\n3. Відпускайте кожен захват за першого плескання, уникайте заборонених удушень за горло й починайте знову в стійці.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

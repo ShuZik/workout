@@ -3,11 +3,9 @@
   "key": "judo_sankaku_gatame",
   "title": "Sankaku Gatame",
   "description": "1. From a triangle lock with the partner's neck and one arm trapped between the legs, control the trapped wrist.\n2. Pull the trapped arm across your body so the elbow lies against your thigh or abdomen.\n3. Extend the arm gradually against the leg lock and release immediately at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З трикутника, де шия й одна рука партнера затиснуті між ногами, контролюйте зап’ястя затиснутої руки.\n2. Протягніть затиснуту руку поперек свого тулуба, щоб лікоть ліг на ваше стегно або живіт.\n3. Поступово розгинайте руку проти захоплення ногами й негайно відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

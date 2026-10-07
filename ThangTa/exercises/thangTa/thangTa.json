@@ -3,11 +3,9 @@
   "key": "thang_ta",
   "title": "Thang-Ta",
   "description": "1. Bow to begin, touch the light training stick to the forehead, and take the basic lion posture with a clear space around you.\n2. Drill basic steps, stance changes, and slow controlled cuts and guards with the stick, keeping balance over the front foot.\n3. Return to the basic posture after each sequence, keep the stick tip away from others, and bow again at the end.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "thangTa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із поклону, торкніться легкою тренувальною палицею чола й займіть базову позу лева, залишивши навколо вільний простір.\n2. Відпрацьовуйте з палицею базові кроки, зміну стійок, повільні контрольовані удари й захисти, зберігаючи рівновагу над передньою ногою.\n3. Після кожної серії повертайтеся в базову позу, тримайте кінець палиці подалі від інших і наприкінці знову вклоніться.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

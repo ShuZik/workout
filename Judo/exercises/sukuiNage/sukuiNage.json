@@ -3,11 +3,9 @@
   "key": "judo_sukui_nage",
   "title": "Sukui Nage",
   "description": "1. Step in behind or beside the partner with the hips close and the knees bent.\n2. Scoop the partner's legs or lower body from behind with the arm while the other arm controls the upper body.\n3. Lift and rotate the partner backward over the hip line and guide a back breakfall without dropping onto the partner.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Te-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Увійдіть за спину або збоку від партнера, тримаючи таз близько й коліна зігнутими.\n2. Підхопіть рукою ноги або нижню частину тіла партнера ззаду, іншою рукою контролюючи тулуб.\n3. Підніміть і розверніть партнера назад через лінію стегна, спрямовуючи страховку на спину й не падаючи на нього.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

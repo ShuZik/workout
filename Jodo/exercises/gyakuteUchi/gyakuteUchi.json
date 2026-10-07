@@ -3,11 +3,9 @@
   "key": "jodo_gyakute_uchi",
   "title": "Gyakute-uchi",
   "description": "1. From natural posture, take the reverse gyakute grip with the front palm facing up and the jo held low at the side.\n2. Raise the jo from below in a rising arc over the head while stepping forward, and strike down at the imagined opponent's head.\n3. Stop the tip on the centerline at head height, keep the shoulders relaxed, and return to the start.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "jodo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Solo Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З природної стійки візьміть зворотний хват гякуте, долоня передньої руки догори, дзьо низько збоку.\n2. Ступаючи вперед, підніміть дзьо знизу дугою над головою й ударте вниз по голові уявного суперника.\n3. Зупиніть кінець на центральній лінії на рівні голови, плечі розслаблені, і поверніться на початок.",
       "sectionTitle": "Одиночні кіхон"
     }
-  }
+  },
+  "state": "active"
 }

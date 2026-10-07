@@ -3,11 +3,9 @@
   "key": "tae_soo_do_dae_ryun",
   "title": "Dae Ryun",
   "description": "1. With protective gear and a coach supervising, face a partner in fighting stance and agree on contact level, targets, and round time.\n2. Spar with punches, kicks, and footwork at the agreed contact, scoring clean techniques while defending with blocks and evasions.\n3. Stop at the coach's call, separate to the start lines, and reset before the next exchange.",
-  "color": "#EA7CC7",
   "colorType": "pink",
   "workoutType": "taeSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Sparring",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. У захисному спорядженні під контролем тренера станьте навпроти партнера в бойовій стійці й домовтеся про рівень контакту, цілі й час раунду.\n2. Ведіть спаринг ударами руками й ногами з роботою ніг за обумовленого контакту, набираючи очки чистою технікою й захищаючись блоками та відходами.\n3. Зупиняйтеся за командою тренера, розходьтеся до стартових ліній і готуйтеся до наступного обміну.",
       "sectionTitle": "Спаринг"
     }
-  }
+  },
+  "state": "active"
 }

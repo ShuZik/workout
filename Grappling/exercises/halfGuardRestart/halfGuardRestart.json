@@ -3,11 +3,9 @@
   "key": "grappling_half_guard_restart",
   "title": "Half Guard Restart",
   "description": "1. Start with the bottom partner holding one of the top partner's legs between the legs and an underhook or frame.\n2. On a signal, the bottom partner works to sweep or recover full guard while the top partner works to pass or stabilize.\n3. Stop when a position is secured or at any tap, then reset to half guard and switch roles.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "grappling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Нижній партнер утримує одну ногу верхнього між своїми ногами, маючи підхоплення або упор.\n2. За сигналом нижній прагне зробити свіп або повернути повний гард, а верхній — пройти чи стабілізуватися.\n3. Зупиніться, коли позицію закріплено, або за будь-якого плескання, поверніться в напівгард і поміняйтеся ролями.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

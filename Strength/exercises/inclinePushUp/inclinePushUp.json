@@ -1,0 +1,88 @@
+{
+  "id": "13.90",
+  "key": "strength_incline_push_up",
+  "title": "Incline Push-Up",
+  "description": "Place your hands on a stable bench and keep your body straight. Lower your chest toward the bench, then press back up without dropping your hips.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Incline Push-Up",
+      "description": "Place your hands on a stable bench and keep your body straight. Lower your chest toward the bench, then press back up without dropping your hips.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Flexión inclinada",
+      "description": "Apoya las manos en un banco estable y mantén el cuerpo recto. Baja el pecho hacia el banco y vuelve a subir sin dejar caer las caderas.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Flexão inclinada",
+      "description": "Apoie as mãos em um banco estável e mantenha o corpo alinhado. Abaixe o peito em direção ao banco e empurre para subir sem deixar o quadril cair.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Pompe inclinée",
+      "description": "Posez les mains sur un banc stable et gardez le corps aligné. Descendez la poitrine vers le banc, puis repoussez sans laisser tomber les hanches.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Erhöhte Liegestütze",
+      "description": "Stütze die Hände auf eine stabile Bank und halte den Körper gerade. Senke die Brust zur Bank und drücke dich hoch, ohne die Hüfte absinken zu lassen.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Piegamento inclinato",
+      "description": "Appoggia le mani su una panca stabile e mantieni il corpo allineato. Abbassa il petto verso la panca, poi spingi verso l’alto senza far cedere i fianchi.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "上斜俯卧撑",
+      "description": "双手撑在稳固的长凳上，身体保持一条直线。胸部向长凳下降，再推起身体，不要让髋部下沉。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "インクラインプッシュアップ",
+      "description": "安定したベンチに手を置き、体を一直線に保ちます。胸をベンチに近づけてから押し上げ、腰を落とさないようにします。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "인클라인 푸시업",
+      "description": "안정적인 벤치에 손을 짚고 몸을 일직선으로 유지하세요. 가슴을 벤치 쪽으로 내린 뒤 엉덩이가 처지지 않게 밀어 올리세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "วิดพื้นบนม้านั่ง",
+      "description": "วางมือบนม้านั่งที่มั่นคงและรักษาลำตัวให้ตรง ลดหน้าอกเข้าหาม้านั่งแล้วดันกลับขึ้นโดยไม่ปล่อยให้สะโพกตก",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Отжимание от скамьи",
+      "description": "Поставьте руки на устойчивую скамью и держите тело прямо. Опустите грудь к скамье и выжмите себя вверх, не опуская таз.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Віджимання від лави",
+      "description": "Поставте руки на стійку лаву та тримайте тіло прямо. Опустіть груди до лави й підніміться, не опускаючи таз.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "state": "active"
+}

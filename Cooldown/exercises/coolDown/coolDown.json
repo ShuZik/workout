@@ -3,11 +3,9 @@
   "key": "cool_down",
   "title": "Rest",
   "description": "1. Walk or move lightly for several minutes instead of stopping immediately after hard work.\n2. Slow the pace until breathing and heart rate begin to settle.\n3. Finish with relaxed breathing and gentle static stretches for the muscles used in training.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Не зупиняйтеся одразу після інтенсивного навантаження: кілька хвилин походіть або легко порухайтеся.\n2. Знижуйте темп, доки дихання й пульс не почнуть заспокоюватися.\n3. Завершіть спокійним диханням і м’якою статичною розтяжкою м’язів, що працювали на тренуванні.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

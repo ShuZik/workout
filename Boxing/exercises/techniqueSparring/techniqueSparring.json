@@ -3,11 +3,9 @@
   "key": "technique_sparring",
   "title": "Technique Sparring",
   "description": "1. In a supervised ring, both boxers wear gum shields, head guards, groin guards and at least 10 oz gloves and agree one specific skill.\n2. One boxer applies the set technique at controlled speed while the partner plays a semi-passive role, for example answering a lead hand to the head with a block.\n3. Keep the power light, swap roles after the agreed time, and stop immediately at the coach's call or any loss of control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15125",
     "vigorousCode": "15100"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 3,
   "section": "4 Intermediate",
@@ -87,5 +84,6 @@
       "description": "1. На рингу під наглядом тренера обидва боксери вдягають капу, шолом, бандаж і рукавиці не легші за 10 унцій та домовляються про одну конкретну навичку.\n2. Один виконує задану техніку на контрольованій швидкості, партнер працює напівпасивно, наприклад відповідає блоком на прямий передньою рукою в голову.\n3. Тримайте силу удару низькою, мінятеся ролями через обумовлений час і негайно зупиняйтеся за командою тренера або в разі втрати контролю.",
       "sectionTitle": "Середній"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "capoeira_au",
   "title": "Aú",
   "description": "1. On mats with clear space, stand side-on in a low ginga and place the near hand on the floor in line with the feet.\n2. Kick the legs up and over one at a time while the second hand lands further along the line, keeping the eyes on the floor ahead and the arms firm.\n3. Bring the legs down one after the other on the far side and rise into the ginga; use a low, bent-leg version until the full aú is stable.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Acrobatics",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На матах і з вільним простором станьте боком у низькій джинзі й поставте ближню руку на підлогу на одній лінії зі стопами.\n2. По черзі закиньте ноги вгору й через себе, ставлячи другу руку далі по лінії, дивлячись на підлогу попереду й тримаючи руки твердо.\n3. По черзі опустіть ноги з іншого боку й підведіться в джингу; використовуйте низький варіант із зігнутими ногами, доки повне ау не стане стійким.",
       "sectionTitle": "Акробатика"
     }
-  }
+  },
+  "state": "active"
 }

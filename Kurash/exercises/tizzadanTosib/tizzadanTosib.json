@@ -3,11 +3,9 @@
   "key": "kurash_tizzadan_tosib",
   "title": "Tizzadan Tosib",
   "description": "1. Draw the partner forward and to the side with the sleeve and collar grip so the weight loads onto one leg.\n2. Press the sole of your foot against the outside of the partner's loaded knee to block it.\n3. Turn the hands like a wheel to roll the partner over the blocked knee, and guide the fall onto the mat with the sleeve held.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "kurash",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Захватом за рукав і комір виведіть партнера вперед і вбік, щоб його вага лягла на одну ногу.\n2. Упріться підошвою стопи в зовнішній бік навантаженого коліна партнера, блокуючи його.\n3. Поверніть руки, як кермо, перекочуючи партнера через заблоковане коліно, і спрямовуйте падіння на килим, утримуючи рукав.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

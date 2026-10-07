@@ -3,11 +3,9 @@
   "key": "jujitsu_duo_series_c",
   "title": "Duo Series C",
   "description": "1. The attacker uses a training knife or padded stick to deliver an agreed stab, slash, or strike at controlled speed.\n2. The defender evades the line, controls the weapon arm, and finishes with a throw or lock before removing the weapon.\n3. Release at a tap, place the training weapon down safely, and alternate roles after each attack.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "juJitsu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Атакувальник тренувальним ножем або м'якою палицею завдає погодженого уколу, різаного удару чи удару з контрольованою швидкістю.\n2. Захисник сходить з лінії атаки, контролює озброєну руку й завершує кидком або больовим, потім відбирає зброю.\n3. Відпускайте за плесканням, безпечно кладіть тренувальну зброю й міняйтеся ролями після кожної атаки.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

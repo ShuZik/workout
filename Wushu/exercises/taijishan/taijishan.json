@@ -3,11 +3,9 @@
   "key": "wushu_taijishan",
   "title": "Taijishan",
   "description": "1. Hold a closed training fan in the right hand, stand with the feet together, and relax the shoulders.\n2. Perform the taijishan routine in continuous taiji rhythm, opening and closing the fan with crisp snaps as it blocks, pierces, and sweeps in arcs.\n3. Close the fan on the final posture, lower the arms, and bring the feet together.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте закрите тренувальне віяло в правій руці, стопи разом, плечі розслаблені.\n2. Виконайте комплекс тайцзішань у безперервному ритмі тайцзі, розкриваючи й закриваючи віяло чітким клацанням, доки воно блокує, коле й мете дугами.\n3. Закрийте віяло у фінальній позі, опустіть руки й приставте стопи.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

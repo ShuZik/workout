@@ -3,11 +3,9 @@
   "key": "taekkyeon_hwal_gaet_jit",
   "title": "Hwal-gaet-jit",
   "description": "1. Begin pum-balgi stepping with relaxed shoulders and open hands.\n2. Swing the arms in wide, flowing arcs in front of and beside the body, timing each swing with the stepping rhythm.\n3. Use the swings to cover, deflect, or feint while the knees stay soft, then return the hands to a light guard.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekkyeon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть кроки пум-бальгі з розслабленими плечима й відкритими долонями.\n2. Махайте руками широкими плавними дугами перед корпусом і з боків, узгоджуючи кожен мах із ритмом кроків.\n3. Використовуйте махи для прикриття, відведення або фінту за м’яких колін, потім поверніть руки в легкий захист.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

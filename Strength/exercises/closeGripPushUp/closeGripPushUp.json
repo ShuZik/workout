@@ -1,0 +1,88 @@
+{
+  "id": "13.91",
+  "key": "strength_close_grip_push_up",
+  "title": "Close-Grip Push-Up",
+  "description": "Start in a high plank with hands just inside shoulder width. Bend your elbows close to your ribs, lower your chest, and press up while keeping your trunk steady.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Close-Grip Push-Up",
+      "description": "Start in a high plank with hands just inside shoulder width. Bend your elbows close to your ribs, lower your chest, and press up while keeping your trunk steady.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Flexión con agarre cerrado",
+      "description": "Empieza en plancha alta con las manos algo más juntas que los hombros. Mantén los codos cerca de las costillas, baja el pecho y sube sin mover el tronco.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Flexão com mãos próximas",
+      "description": "Comece em prancha alta com as mãos um pouco mais próximas que a largura dos ombros. Mantenha os cotovelos junto às costelas, abaixe o peito e suba com o tronco firme.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Pompe prise serrée",
+      "description": "Partez en planche haute, les mains légèrement plus rapprochées que les épaules. Gardez les coudes près des côtes, descendez la poitrine et repoussez en stabilisant le tronc.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Enge Liegestütze",
+      "description": "Beginne im hohen Stütz mit den Händen etwas enger als schulterbreit. Halte die Ellbogen nah am Rumpf, senke die Brust und drücke dich mit stabilem Rumpf hoch.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Piegamento a presa stretta",
+      "description": "Parti in plank alto con le mani poco più strette delle spalle. Tieni i gomiti vicini alle costole, abbassa il petto e risali mantenendo il tronco stabile.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "窄距俯卧撑",
+      "description": "从高位平板支撑开始，双手间距略小于肩宽。屈肘时让肘部靠近肋骨，下降胸部，再保持躯干稳定推起。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ナロープッシュアップ",
+      "description": "肩幅より少し狭く手を置き、ハイプランクになります。肘を脇に沿わせて胸を下げ、体幹を安定させたまま押し上げます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "좁은 손 간격 푸시업",
+      "description": "손을 어깨너비보다 조금 좁게 두고 하이 플랭크를 취하세요. 팔꿈치를 갈비뼈 가까이 유지하며 가슴을 내리고 몸통을 고정한 채 밀어 올리세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "วิดพื้นมือแคบ",
+      "description": "เริ่มในท่าแพลงก์สูงโดยวางมือแคบกว่าหัวไหล่เล็กน้อย งอศอกชิดซี่โครง ลดหน้าอกแล้วดันขึ้นโดยรักษาลำตัวให้นิ่ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Отжимание с узкой постановкой рук",
+      "description": "Начните в высокой планке, поставив руки чуть уже плеч. Держите локти у рёбер, опустите грудь и выжмите себя вверх с неподвижным корпусом.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Віджимання з вузькою постановкою рук",
+      "description": "Почніть у високій планці, поставивши руки трохи вужче плечей. Тримайте лікті біля ребер, опустіть груди та підніміться зі стабільним корпусом.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "state": "active"
+}

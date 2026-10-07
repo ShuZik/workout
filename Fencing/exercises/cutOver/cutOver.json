@@ -3,11 +3,9 @@
   "key": "fencing_cut_over",
   "title": "Cut-over",
   "description": "1. Engage the partner's blade at lunging distance with both fencers masked.\n2. Lift the point over the tip of the partner's blade by bending the wrist and fingers, without drawing the arm back, and drop it into the opposite line.\n3. Extend and lunge to hit in the new line, recover to en garde, and repeat from both sides before swapping roles.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть з’єднання з клинком партнера на дистанції випаду, обидва в масках.\n2. Згинаючи кисть і пальці, проведіть вістря над вістрям партнера, не відводячи руку назад, і опустіть його в протилежну лінію.\n3. Випряміть руку й випадом завдайте уколу в нову лінію, поверніться в стійку, повторіть з обох боків і поміняйтеся ролями.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

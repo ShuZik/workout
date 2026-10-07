@@ -3,11 +3,9 @@
   "key": "cornish_wrestling_fore_crook",
   "title": "Fore Crook (Bagh war-rag)",
   "description": "1. Keep a jacket grip with one hand and reach the dominant arm over the partner's shoulder, flat of the hand on top of the far shoulder.\n2. Turn to face the same way, step the inside leg between the partner's legs, and hook the ankle, lifting it to the rear without going above the knee.\n3. Lean forward and pull with the outside arm to rotate the partner's back to the ground, control the landing, then shake hands and reset.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cornishWrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте куртку однією рукою, а провідну руку проведіть через плече партнера, поклавши долоню згори на його дальнє плече.\n2. Розверніться в один із ним бік, поставте внутрішню ногу між його ногами й зачепіть кісточку, піднімаючи її назад не вище коліна.\n3. Нахиліться вперед і тягніть зовнішньою рукою, розвертаючи спину партнера до землі, контролюйте приземлення, потім потисніть руки й почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

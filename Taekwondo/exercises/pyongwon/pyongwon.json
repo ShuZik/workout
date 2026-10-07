@@ -3,11 +3,9 @@
   "key": "taekwondo_pyongwon",
   "title": "Pyongwon",
   "description": "1. Start in overlapped-hands ready stance and perform Pyongwon along its single horizontal line of movement.\n2. Open slowly into a low knife-hand spread block, then include the side kicks, horse-riding stance actions and the large turning movements with a broad, steady rhythm.\n3. Finish with the closing blocks on the same line, then return to overlapped-hands ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із готової стійки з накладеними долонями й виконайте Пхьонвон єдиною горизонтальною лінією.\n2. Повільно розкрийтеся в нижній розвідний блок ребром долоні, потім додайте бічні удари ногою, дії в стійці вершника та великі розвороти в широкому рівному ритмі.\n3. Завершіть останніми блоками на тій самій лінії та поверніться в готову стійку з накладеними долонями.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

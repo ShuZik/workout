@@ -3,11 +3,9 @@
   "key": "mma_wall_get_up",
   "title": "Wall Get-Up",
   "description": "1. Sit near a padded wall with the near forearm framing and the near foot planted between the body and partner.\n2. Turn onto the hip, post the free hand, and use the wall to bring one foot beneath the hips while protecting the head.\n3. Stand by driving through the planted foot, keep the back supported until balanced, then turn off the wall into stance.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Ground",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте біля м’якої стіни, ближнім передпліччям виставте рамку, ближню стопу поставте між собою й партнером.\n2. Поверніться на стегно, обіпріться вільною рукою й за допомогою стіни підведіть одну стопу під таз, захищаючи голову.\n3. Підведіться, відштовхуючись опорною ногою, тримайте спину біля стіни до повної рівноваги, потім розверніться від стіни в стійку.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

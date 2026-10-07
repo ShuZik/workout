@@ -114,3 +114,17 @@ Exercise IDs use the numeric `tagId.exerciseId` format, such as `1.1`.
 The icon path is authoritative in `manifest.json`, and the app derives its
 technical identity from the explicit catalog `id` while keeping `key` as the
 stable exercise identifier.
+
+
+## App 1.1.7 schema
+
+The current root catalog contains 1241 records. Product catalogs remain independent
+subsets: Box 1002, Fitness 207, Gym 186, and Yoga 58. Product manifests use schema 3;
+ready-made workouts use schema 2. Timed exercise values use `durationSeconds`, repeat
+controls use `repeatCount`, and weighted sets use `initialValue` and `initialValue2`.
+`default`, `default2`, `timerRole`, and legacy color hex fields are no longer emitted.
+Use `state`, `colorType`, and the value types `time`, `stepper`, `countAndWeight`, `note`.
+The app preserves saved workout definitions before its one-time 1.1.7 catalog reset.
+Old active sessions are read with their original progress and saved with `durationSeconds`.
+Published stop tags are retained unchanged; these working-tree changes require publication
+before the app can download the new schema from GitHub.

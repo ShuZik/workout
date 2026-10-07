@@ -3,11 +3,9 @@
   "key": "backhold_back_heel",
   "title": "Back Heel",
   "description": "1. From the locked backhold, draw the partner forward so the weight settles on one leg.\n2. Step in and lock your heel behind the partner's heel from the inside.\n3. Press forward with the chest to tip the partner backward over the heel, keep the hold to lower the partner, then reset.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "backhold",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі зчепленого бекхолду потягніть партнера вперед, щоб його вага лягла на одну ногу.\n2. Ступіть і зачепіть своєю п'ятою його п'яту зсередини ззаду.\n3. Натисніть грудьми вперед, перекидаючи партнера назад через п'яту, тримайте захоплення, опускаючи його, потім почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

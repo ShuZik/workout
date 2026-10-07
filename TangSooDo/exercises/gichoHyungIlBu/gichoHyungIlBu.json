@@ -3,11 +3,9 @@
   "key": "tang_soo_do_gicho_hyung_il_bu",
   "title": "Gicho Hyung Il Bu",
   "description": "1. Start in ready stance at the bottom of an I-shaped floor line, facing the front.\n2. Turn into front stance with a low block and step forward with a middle punch, repeating through each turn and advancing up the center with a low block and three middle punches.\n3. Complete every side of the pattern, shout kihap on the prescribed punches, and finish back in ready stance at the start point.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці готовності внизу I-подібної лінії, обличчям уперед.\n2. Поверніться в передню стійку з нижнім блоком і ступіть з ударом у середній рівень, повторюючи на кожному повороті; по центру просувайтеся нижнім блоком і трьома ударами в середній рівень.\n3. Пройдіть усі сторони схеми, виконайте кіхап на належних ударах і закінчіть у стійці готовності у вихідній точці.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

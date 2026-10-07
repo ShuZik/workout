@@ -3,11 +3,9 @@
   "key": "taekwondo_front_stance",
   "title": "Front Stance",
   "description": "1. Step one foot forward on a separate track and point the front toes ahead with the rear foot grounded behind.\n2. Bend the front knee over the foot and keep the rear leg long without locking it.\n3. Direct the hips forward, keep the torso upright, and align both knees with their toes.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Stances",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Ступіть однією ногою вперед окремою лінією, спрямуйте передні пальці вперед і залиште задню стопу на землі позаду.\n2. Зігніть переднє коліно над стопою, а задню ногу витягніть, не блокуючи коліно.\n3. Спрямуйте таз уперед, тримайте корпус вертикально й узгодьте напрямок обох колін із пальцями стоп.",
       "sectionTitle": "Стійки"
     }
-  }
+  },
+  "state": "active"
 }

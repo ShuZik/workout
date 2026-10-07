@@ -3,11 +3,9 @@
   "key": "savate_coup_de_pied_bas",
   "title": "Coup de Pied Bas",
   "description": "1. From savate guard, shift weight to the supporting leg and lean the upper body slightly back with both hands high.\n2. Swing the kicking foot forward and low, turning it so the inner edge of the shoe sweeps across the target shin.\n3. Retract the foot at once and come back upright into guard at a safe distance.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "savate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки савату перенесіть вагу на опорну ногу й злегка відхиліть корпус назад, тримаючи обидві руки високо.\n2. Викиньте ударну стопу вперед і низько, розвернувши її так, щоб внутрішнє ребро взуття пройшло по гомілці цілі.\n3. Одразу поверніть стопу й випростайтеся в стійку на безпечній дистанції.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

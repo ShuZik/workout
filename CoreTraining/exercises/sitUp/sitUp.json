@@ -3,11 +3,9 @@
   "key": "core_sit_up",
   "title": "Sit-Up",
   "description": "1. Lie on the back with knees bent, feet planted, and arms crossed or hands beside the head.\n2. Brace the abdomen and curl the trunk up until the torso approaches the thighs without pulling on the neck.\n3. Lower the spine to the floor under control and reset the ribs before the next repetition.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, зігніть коліна, поставте стопи на підлогу й схрестіть руки або розташуйте долоні поруч із головою.\n2. Напружте живіт і підніміть корпус до стегон, не тягніть шию руками.\n3. Контрольовано опустіть хребет на підлогу й відновіть положення ребер перед наступним повторенням.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

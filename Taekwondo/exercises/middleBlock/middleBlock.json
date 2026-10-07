@@ -3,11 +3,9 @@
   "key": "taekwondo_middle_block",
   "title": "Middle Block",
   "description": "1. Take a stable stance and chamber the blocking arm across the body with the fist closed and wrist straight.\n2. Rotate the forearm across the middle line as the opposite fist retracts to the hip.\n3. Stop within the body line with the elbow bent and shoulder down, then hold the stance without leaning.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Blocks",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Прийміть стійку позицію й підготуйте руку для блока поперек тіла зі стиснутим кулаком і прямим зап’ястком.\n2. Поверніть передпліччя через середню лінію, одночасно відводячи протилежний кулак до таза.\n3. Зупиніться в межах лінії тіла із зігнутим ліктем і опущеним плечем, потім утримуйте стійку без нахилу.",
       "sectionTitle": "Блоки"
     }
-  }
+  },
+  "state": "active"
 }

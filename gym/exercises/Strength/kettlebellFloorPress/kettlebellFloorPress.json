@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Ляжте на спину, зігнувши коліна, і тримайте гирю над одним плечем із прямим зап’ястям.\n2. Опускайте плече, доки воно м’яко не торкнеться підлоги, зберігаючи передпліччя вертикальним.\n3. Вижміть гирю назад над плечем, не відриваючи корпус від підлоги, і після підходу змініть руку.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

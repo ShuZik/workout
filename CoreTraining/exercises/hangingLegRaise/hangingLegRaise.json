@@ -3,11 +3,9 @@
   "key": "calisthenics_hanging_leg_raise",
   "title": "Hanging Leg Raise",
   "description": "1. Hang from a secure bar with straight arms, active shoulders, and the legs together.\n2. Brace the trunk and raise the knees or straight legs without swinging until the hips flex under control.\n3. Lower the legs slowly to a stable hang before beginning the next repetition.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Intermediate",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Повисніть на надійно закріпленій перекладині з прямими руками, активними плечима та з’єднаними ногами.\n2. Напружте корпус і піднімайте коліна або прямі ноги без розгойдування, контрольовано згинаючи тазостегнові суглоби.\n3. Повільно опустіть ноги до стійкого вису, перш ніж почати наступне повторення.",
       "sectionTitle": "Середній рівень"
     }
-  }
+  },
+  "state": "active"
 }

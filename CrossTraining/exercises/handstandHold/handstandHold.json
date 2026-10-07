@@ -3,11 +3,9 @@
   "key": "cross_training_handstand_hold",
   "title": "Handstand Hold",
   "description": "1. Place the hands shoulder-width apart, spread the fingers, and enter the handstand with a wall or spotter when needed.\n2. Press strongly through straight arms and stack the shoulders, hips, and feet as vertically as control allows.\n3. Keep the ribs and pelvis braced, then step or lower out before the elbows or shoulders lose position.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02035",
     "vigorousCode": "02040"
   },
-  "timerRole": "intense",
   "difficulty": "intermediate",
   "section": "2 Bodyweight",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте долоні на ширині плечей, розведіть пальці й вийдіть у стійку на руках біля стіни чи зі страхувальником за потреби.\n2. Потужно відштовхуйтеся прямими руками й вибудовуйте плечі, таз і стопи настільки вертикально, наскільки дозволяє контроль.\n3. Тримайте ребра й таз у напрузі та виходьте зі стійки, доки лікті чи плечі не втратили положення.",
       "sectionTitle": "Власна вага"
     }
-  }
+  },
+  "state": "intense"
 }

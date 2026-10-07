@@ -1,0 +1,88 @@
+{
+  "id": "9.73",
+  "key": "warmup_lateral_shuffle",
+  "title": "Lateral Shuffle",
+  "description": "Take an athletic stance with soft knees and move sideways with short steps. Keep your feet from crossing and your chest facing forward, then reverse direction.",
+  "colorType": "blue",
+  "workoutType": "warmUp",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "3 Dynamic Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Lateral Shuffle",
+      "description": "Take an athletic stance with soft knees and move sideways with short steps. Keep your feet from crossing and your chest facing forward, then reverse direction.",
+      "sectionTitle": "Dynamic Movement"
+    },
+    "es": {
+      "title": "Desplazamiento lateral",
+      "description": "Adopta una postura atlética con las rodillas flexionadas y desplázate de lado con pasos cortos. No cruces los pies y mantén el pecho al frente; después cambia de dirección.",
+      "sectionTitle": "Movimiento dinámico"
+    },
+    "pt": {
+      "title": "Deslocamento lateral",
+      "description": "Adote uma postura atlética com os joelhos flexionados e mova-se de lado com passos curtos. Não cruze os pés e mantenha o peito à frente; depois inverta a direção.",
+      "sectionTitle": "Movimento dinâmico"
+    },
+    "fr": {
+      "title": "Pas chassés latéraux",
+      "description": "Adoptez une posture sportive, genoux souples, et déplacez-vous latéralement par petits pas. Ne croisez pas les pieds et gardez la poitrine vers l’avant, puis inversez le sens.",
+      "sectionTitle": "Mouvement dynamique"
+    },
+    "de": {
+      "title": "Seitliche Nachstellschritte",
+      "description": "Nimm eine sportliche Haltung mit weichen Knien ein und bewege dich mit kurzen Schritten seitwärts. Überkreuze die Füße nicht, halte die Brust nach vorn und wechsle die Richtung.",
+      "sectionTitle": "Dynamische Bewegung"
+    },
+    "it": {
+      "title": "Passi laterali",
+      "description": "Assumi una posizione atletica con le ginocchia morbide e spostati di lato a piccoli passi. Non incrociare i piedi e mantieni il petto rivolto avanti, poi inverti la direzione.",
+      "sectionTitle": "Movimento dinamico"
+    },
+    "zh-Hans": {
+      "title": "侧向滑步",
+      "description": "采用运动站姿，膝盖微屈，以短步向侧面移动。双脚不要交叉，胸部始终朝前，再反向移动。",
+      "sectionTitle": "动态动作"
+    },
+    "ja": {
+      "title": "ラテラルシャッフル",
+      "description": "膝を軽く曲げた運動姿勢から、小さな歩幅で横へ移動します。足を交差させず胸を前へ向けたまま進み、反対方向へ戻ります。",
+      "sectionTitle": "ダイナミックな動作"
+    },
+    "ko": {
+      "title": "사이드 셔플",
+      "description": "무릎을 부드럽게 굽힌 운동 자세에서 짧은 보폭으로 옆으로 이동하세요. 발을 교차하지 않고 가슴을 정면으로 유지한 뒤 방향을 바꾸세요.",
+      "sectionTitle": "동적 움직임"
+    },
+    "th": {
+      "title": "ก้าวสไลด์ด้านข้าง",
+      "description": "อยู่ในท่าพร้อมเคลื่อนไหวโดยงอเข่าเล็กน้อย แล้วก้าวสั้น ๆ ไปด้านข้าง ไม่ไขว้เท้าและหันหน้าอกไปด้านหน้า จากนั้นเปลี่ยนทิศทาง",
+      "sectionTitle": "การเคลื่อนไหวแบบไดนามิก"
+    },
+    "ru": {
+      "title": "Приставной шаг в сторону",
+      "description": "Примите спортивную стойку со слегка согнутыми коленями и двигайтесь вбок короткими шагами. Не скрещивайте стопы, держите грудь направленной вперёд и смените направление.",
+      "sectionTitle": "Динамические движения"
+    },
+    "uk": {
+      "title": "Приставний крок убік",
+      "description": "Прийміть спортивну стійку зі злегка зігнутими колінами та рухайтеся вбік короткими кроками. Не схрещуйте стопи, тримайте груди спрямованими вперед і змініть напрямок.",
+      "sectionTitle": "Динамічні рухи"
+    }
+  },
+  "state": "active"
+}

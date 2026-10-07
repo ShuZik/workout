@@ -3,11 +3,9 @@
   "key": "taekwondo_koryo",
   "title": "Koryo",
   "description": "1. Start in pushing-hands ready stance and perform Koryo, the first black-belt poomsae, on its scholar-character line of movement.\n2. Include the double side kick (low then high), knife-hand outward strikes, arc-hand throat strikes, the knee-breaking action and the low pressing and spread blocks.\n3. Finish with the closing knife-hand and palm movements, then return to pushing-hands ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із готової стійки зі штовхальними долонями й виконайте Корьо, перше пхумсе чорного пояса, лінією у формі ієрогліфа «учений».\n2. Додайте подвійний бічний удар ногою (низький, потім високий), зовнішні удари ребром долоні, удари дугою долоні в горло, ламальну дію по коліну та нижні притискні й розвідні блоки.\n3. Завершіть останніми рухами ребром долоні й долонею та поверніться в готову стійку зі штовхальними долонями.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

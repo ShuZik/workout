@@ -3,11 +3,9 @@
   "key": "sqay_stepping_footwork_shield_cover",
   "title": "Stepping Footwork with Shield Cover",
   "description": "1. Take guard with the shield in front of the body and the sword raised beside the shoulder, knees bent.\n2. Step forward, back, and diagonally in short steps, keeping the shield facing the imagined opponent on every step.\n3. Move continuously for the round without crossing the feet, keeping the knees bent and the shoulders relaxed.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "sqay",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в стійку: щит перед корпусом, меч піднятий біля плеча, коліна зігнуті.\n2. Робіть короткі кроки вперед, назад і по діагоналі, на кожному кроці тримаючи щит зверненим до уявного суперника.\n3. Рухайтеся без зупинки весь раунд, не схрещуючи ноги, із зігнутими колінами та розслабленими плечима.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

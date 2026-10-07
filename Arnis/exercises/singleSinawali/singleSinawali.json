@@ -3,11 +3,9 @@
   "key": "arnis_single_sinawali",
   "title": "Single Sinawali",
   "description": "1. Face a partner at stick range, each holding two sticks in a mirrored ready position.\n2. Exchange the three-count single sinawali weave, alternating right and left hand strikes so each beat meets the partner's stick, while stepping forward and back together.\n3. Keep contact stick-to-stick at controlled power, hold the rhythm, and switch which partner leads the movement on a call.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте навпроти партнера на дистанції палиці, у кожного по дві палиці в дзеркальній готовій позиції.\n2. Обмінюйтеся трирахунковим плетінням одинарної синавалі, чергуючи удари правою й лівою рукою так, щоб кожен рахунок зустрічав палицю партнера, разом рухаючись уперед і назад.\n3. Тримайте контакт палиця об палицю з контрольованою силою, зберігайте ритм і за командою міняйте ведучого.",
       "sectionTitle": "Вправи з партнером"
     }
-  }
+  },
+  "state": "active"
 }

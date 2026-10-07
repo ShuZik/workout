@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Станьте з гантеллю в кожній руці, коліна злегка зігнуті, руки вільно опущені по боках.\n2. Підніміть руки в сторони приблизно до рівня плечей, злегка зігнувши лікті й зберігаючи зап’ястя нейтральними.\n3. Повільно опустіть, не піднімаючи плечей і не розгойдуючи корпус.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

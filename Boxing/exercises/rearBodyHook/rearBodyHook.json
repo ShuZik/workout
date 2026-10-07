@@ -3,11 +3,9 @@
   "key": "rear_body_hook",
   "title": "Rear Body Hook",
   "description": "1. From guard, lower with the knees and keep the lead hand protecting the face.\n2. Pivot the rear foot and rotate the rear hip so the bent rear fist travels into the side of the torso.\n3. Reverse the rotation, return the fist to the cheek, and recover the original stance height.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 2,
   "section": "3 Beginner",
@@ -88,5 +85,6 @@
       "description": "1. Із захисту опустіться за рахунок колін, зберігаючи передню руку біля обличчя.\n2. Поверніть задню стопу й заднє стегно, направляючи кулак зігнутої задньої руки в бічну частину корпуса.\n3. Розверніться назад, поверніть кулак до щоки й відновіть початкову висоту стійки.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

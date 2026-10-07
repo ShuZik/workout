@@ -3,11 +3,9 @@
   "key": "cornish_wrestling_flying_mare",
   "title": "Flying Mare (Kasek neyja)",
   "description": "1. Grip the ropes of the partner's jacket and turn so you both face the same way, pulling the partner close.\n2. Move together quickly to build momentum, then stop sharply and bend forward to bring the partner up over your back.\n3. Keep the rope grips and turn the partner's back toward the mat for a controlled landing, then release and reset with a handshake.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cornishWrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за шнури куртки партнера й розверніться так, щоб обидва дивилися в один бік, притягуючи його до себе.\n2. Швидко рухайтеся разом, набираючи інерцію, потім різко зупиніться й нахиліться вперед, перекидаючи партнера через спину.\n3. Тримайте шнури й розверніть спину партнера до килима для контрольованого приземлення, потім відпустіть і почніть знову з рукостискання.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

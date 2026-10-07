@@ -3,11 +3,9 @@
   "key": "wrestling_firemans_carry",
   "title": "Fireman's Carry",
   "description": "1. Pull the partner's elbow forward and drop to the knees with your head under that arm.\n2. Reach between the partner's legs to grip the inside of the near thigh while the partner's torso rests across your shoulders.\n3. Drive to the side and roll the partner off the shoulders onto the mat under control, keeping the arm to guide the landing.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "wrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Потягніть лікоть партнера вперед і опустіться на коліна, помістивши голову під цю руку.\n2. Просуньте руку між ногами партнера й захопіть внутрішній бік ближнього стегна, поклавши його тулуб собі на плечі.\n3. Відштовхніться вбік і контрольовано скотіть партнера з плечей на килим, утримуючи руку для керування падінням.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

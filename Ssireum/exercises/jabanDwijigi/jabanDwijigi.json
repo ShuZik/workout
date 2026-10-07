@@ -3,11 +3,9 @@
   "key": "ssireum_jaban_dwijigi",
   "title": "Jaban-dwijigi",
   "description": "1. On sand or thick mats, hold the satba grip and wait for the partner to lean forward and press weight onto you.\n2. Drop the head under the partner's armpit, pull the satba, and turn backward so the partner rolls over your body.\n3. Guide the partner to land on the back while you turn out to the side, then release the satba.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "ssireum",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На піску або товстих матах тримайте захват за сатбу й дочекайтеся, коли партнер нахилиться вперед і наляже на вас.\n2. Пірніть головою під пахву партнера, потягніть сатбу й поверніться назад, щоб партнер перекотився через ваше тіло.\n3. Вийдіть поворотом убік, спрямовуючи партнера на спину, потім відпустіть сатбу.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

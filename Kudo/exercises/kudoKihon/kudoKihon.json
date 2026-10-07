@@ -3,11 +3,9 @@
   "key": "kudo_kihon",
   "title": "Kudo Kihon",
   "description": "1. Stand in a fighting stance facing one direction with both hands guarding the face.\n2. Repeat the basic Kudo strikes on a count, such as straight punches, hooks, uppercuts, front kicks and roundhouse kicks, returning to stance after each.\n3. Keep the guard up between repetitions and switch the lead side halfway through the interval.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "kudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в бойову стійку обличчям в один бік, обидві руки захищають обличчя.\n2. Повторюйте під лік базові удари кудо — прямі, бокові, аперкоти, прямі й колові удари ногами, — повертаючись у стійку після кожного.\n3. Тримайте захист між повтореннями й змініть передній бік у середині інтервалу.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

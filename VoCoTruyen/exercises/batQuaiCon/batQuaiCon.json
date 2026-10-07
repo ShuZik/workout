@@ -3,11 +3,9 @@
   "key": "vo_co_truyen_bat_quai_con",
   "title": "Bat Quai Con",
   "description": "1. Hold the training staff in the ready position at the starting point and perform the opening salute of Bat Quai Con.\n2. Perform the staff strikes, thrusts, sweeps and blocks of the form while changing direction along its pattern, sliding the hands smoothly along the staff.\n3. Finish back at the starting point with the closing salute, return the weapon to the ready position, and keep the training area clear.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "voCoTruyen",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте навчальну палицю у готовій позиції у вихідній точці й виконайте початкове привітання форми Bat Quai Con.\n2. Виконуйте удари, тички, підсічки й блоки палицею, змінюючи напрямок за схемою форми та плавно перехоплюючи палицю ковзанням рук.\n3. Завершіть у вихідній точці заключним привітанням, поверніть зброю в готову позицію та стежте, щоб зона тренування залишалася вільною.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

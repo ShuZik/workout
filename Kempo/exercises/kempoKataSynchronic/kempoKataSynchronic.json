@@ -3,11 +3,9 @@
   "key": "kempo_kata_synchronic",
   "title": "Kempo Kata Synchronic",
   "description": "1. Line up as a team of three in a triangle facing the same direction, bow together, and announce the kata.\n2. Perform the whole kata in unison, matching timing, turns and breathing cues set by the lead athlete.\n3. Finish together on the starting spots, hold, bow, and review where the timing drifted.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kempo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Шикуйтеся командою з трьох трикутником обличчям в один бік, разом вклоніться й назвіть ката.\n2. Виконайте ката повністю синхронно, узгоджуючи темп, повороти й дихальні сигнали провідного спортсмена.\n3. Завершіть разом на стартових точках, затримайтеся, вклоніться й розберіть, де темп розійшовся.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

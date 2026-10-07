@@ -3,11 +3,9 @@
   "key": "iaido_ganmen_ate",
   "title": "Ganmen-ate",
   "description": "1. Walk forward and, before drawing, strike the front opponent's face with the end of the hilt.\n2. Draw the blade free, thrust behind to the rear opponent while looking back, then turn to the front, raise the sword, and cut straight down.\n3. Perform chiburi, resheathe, and return to the start with zanshin to front and rear.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Standing Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ідіть уперед і до оголення меча вдарте торцем руків’я в обличчя переднього суперника.\n2. Звільніть клинок, дивлячись назад, вколіть заднього суперника, потім поверніться вперед, підніміть меч і рубайте прямо вниз.\n3. Виконайте тібурі, вкладіть меч і поверніться на початок із дзансіном уперед і назад.",
       "sectionTitle": "Форми з положення стоячи"
     }
-  }
+  },
+  "state": "active"
 }

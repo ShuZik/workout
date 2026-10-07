@@ -3,11 +3,9 @@
   "key": "savate_fouette",
   "title": "Fouetté",
   "description": "1. From savate guard, shift weight to the supporting leg and lift the kicking knee across the target line.\n2. Pivot on the supporting foot and whip the lower leg horizontally so the toe of the shoe touches the target at low, middle or high level.\n3. Recoil the foot along the same arc and set it back into guard without dropping the hands.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "savate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки савату перенесіть вагу на опорну ногу й підніміть коліно ударної ноги впоперек лінії цілі.\n2. Розверніться на опорній стопі й хльостко викиньте гомілку горизонтально, торкаючись цілі носком взуття на нижньому, середньому чи верхньому рівні.\n3. Поверніть стопу тією самою дугою й поставте її в стійку, не опускаючи рук.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

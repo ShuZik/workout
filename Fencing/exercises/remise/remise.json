@@ -3,11 +3,9 @@
   "key": "fencing_remise",
   "title": "Remise",
   "description": "1. Lunge with a simple attack; the partner parries but deliberately delays or withdraws the riposte.\n2. Stay in the lunge and replace the point in the same line immediately, without withdrawing the arm or adding a new blade action.\n3. Recover to en garde after the touch, and have the partner vary the riposte timing so you learn when the remise is safe.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виконайте випад із простою атакою; партнер бере захист, але навмисно затримує або не завдає відповіді.\n2. Лишаючись у випаді, одразу повторіть укол у тій самій лінії, не відводячи руку й не додаючи нової дії клинком.\n3. Після уколу поверніться в стійку; партнер змінює час відповіді, щоб ви зрозуміли, коли реміз безпечний.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

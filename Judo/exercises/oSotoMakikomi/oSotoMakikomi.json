@@ -3,11 +3,9 @@
   "key": "judo_o_soto_makikomi",
   "title": "O Soto Makikomi",
   "description": "1. Enter for o-soto-gari and wrap the partner's sleeve arm under your armpit.\n2. Swing the free arm over and turn your body forward while the leg reaps the partner's outside leg.\n3. Fall to the side, winding the partner down with you, and land beside the partner with the head clear.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Увійдіть як для о-сото-гарі й затисніть руку партнера з боку рукава під пахвою.\n2. Проведіть вільну руку зверху й розверніть тулуб уперед, підсікаючи ногою зовнішню ногу партнера.\n3. Упадіть на бік, накручуючи партнера за собою, і приземліться поруч із ним, не торкаючись головою татамі.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

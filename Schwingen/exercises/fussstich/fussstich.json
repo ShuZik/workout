@@ -3,11 +3,9 @@
   "key": "schwingen_fussstich",
   "title": "Fussstich",
   "description": "1. From the regulation grip on belt and breeches, feint a turn with the body to shift the partner's weight.\n2. Set your right toes against the partner's left ankle to block the foot.\n3. Pull the partner toward you and turn right so the partner falls onto the back, guide the landing with the grips, then release.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "schwingen",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із регламентного захоплення за пояс і штани позначте корпусом удаваний поворот, щоб змістити вагу партнера.\n2. Упріться носком правої стопи в його ліву кісточку, блокуючи стопу.\n3. Потягніть партнера на себе й поверніть праворуч, щоб він упав на спину, спрямовуйте падіння захопленнями, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

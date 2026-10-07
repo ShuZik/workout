@@ -3,11 +3,9 @@
   "key": "capoeira_vingativa",
   "title": "Vingativa",
   "description": "1. On mats, the partner trained in falling throws a slow kick or steps in; you drop low and step your front leg deep behind the partner's supporting leg.\n2. Place your hip and shoulder against the partner's thigh and use the arm on that side to guide their knee or hip backward over your blocking leg.\n3. Let the partner fall slowly backward with a breakfall while you stay low and in control; release immediately, help them up, and switch roles.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. На матах партнер, який уміє падати, повільно б’є ногою або входить; ви опускаєтеся й глибоко ставите передню ногу за його опорну ногу.\n2. Притисніть таз і плече до стегна партнера й рукою цього боку спрямуйте його коліно чи таз назад через вашу блокувальну ногу.\n3. Дайте партнерові повільно впасти назад зі страховкою, поки ви залишаєтеся низько й контролюєте; одразу відпустіть, допоможіть підвестися й поміняйтеся ролями.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

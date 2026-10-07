@@ -3,11 +3,9 @@
   "key": "core_training_bicycle_crunch",
   "title": "Bicycle Crunch",
   "description": "1. Lie on the back with hands lightly supporting the head and hips and knees bent to 90 degrees.\n2. Rotate the rib cage toward one bent knee while extending the opposite leg without pulling the neck.\n3. Return through center and switch sides while the lower back remains controlled.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, злегка підтримуючи голову руками й зігнувши кульшові суглоби та коліна на 90 градусів.\n2. Поверніть грудну клітку до одного зігнутого коліна, витягуючи протилежну ногу й не тягнучи шию.\n3. Поверніться через центр і змініть бік, зберігаючи контроль попереку.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

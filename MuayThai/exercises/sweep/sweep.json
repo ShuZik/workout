@@ -3,11 +3,9 @@
   "key": "muay_thai_sweep",
   "title": "Sweep",
   "description": "1. With a trained partner in light clinch control, step to create an angle and shift the partner's weight onto one leg.\n2. Block or reap the unweighted leg while the arms guide the partner's upper body in the opposite direction.\n3. Remain upright, support a controlled landing on mats, and release the clinch before resetting.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Clinch",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З підготовленим партнером у легкому контролі клінчу ступніть, створюючи кут, і перенесіть його вагу на одну ногу.\n2. Заблокуйте або підсічіть розвантажену ногу, поки руки спрямовують верхню частину тіла партнера в протилежний бік.\n3. Залишайтеся прямо, забезпечте контрольоване приземлення на мати й відпустіть клінч перед новим підходом.",
       "sectionTitle": "Клінч"
     }
-  }
+  },
+  "state": "active"
 }

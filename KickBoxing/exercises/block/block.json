@@ -3,11 +3,9 @@
   "key": "kick_boxing_block",
   "title": "Block",
   "description": "1. From guard, brace the stance and identify whether the attack is aimed at the head, body, or leg.\n2. Catch punches on the gloves and forearms, close the elbow over body targets, or raise the shin to check a low kick.\n3. Absorb the contact with soft knees and immediately restore sight, stance, and guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Defense",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із захисту зміцніть стійку й визначте, чи спрямована атака в голову, корпус або ногу.\n2. Приймайте удари руками на рукавички й передпліччя, закривайте корпус ліктем або піднімайте гомілку проти лоу-кіка.\n3. Поглинайте контакт м’якими колінами й одразу відновлюйте огляд, стійку та захист.",
       "sectionTitle": "Захист"
     }
-  }
+  },
+  "state": "active"
 }

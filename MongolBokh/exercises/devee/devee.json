@@ -3,11 +3,9 @@
   "key": "mongol_bokh_devee",
   "title": "Devee",
   "description": "1. Stand tall and spread both arms wide to the sides like wings with the palms down.\n2. Step forward slowly with high, springy knee lifts while the arms rise and fall in long, smooth beats.\n3. Circle once in place, lower the arms, and finish with a light slap on the thighs before a ready stance.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "mongolBokh",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте прямо й широко розведіть руки в боки, як крила, долонями донизу.\n2. Повільно крокуйте вперед із високим пружним підйомом колін, піднімаючи й опускаючи руки довгими плавними помахами.\n3. Зробіть одне коло на місці, опустіть руки й завершіть легким плесканням по стегнах, потім станьте в готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

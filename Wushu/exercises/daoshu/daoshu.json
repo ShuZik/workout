@@ -3,11 +3,9 @@
   "key": "wushu_daoshu",
   "title": "Daoshu",
   "description": "1. Hold a training broadsword in the left hand with the blade along the forearm, stand ready, and check that the space around you is clear.\n2. Pass the sword to the right hand and perform the daoshu routine with wrapping, chopping, cutting, and slicing actions while the free hand balances each changquan-style posture.\n3. Keep the blade path away from the head and body, then return the sword to the left hand and close in the ready stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте тренувальну шаблю в лівій руці, клинок уздовж передпліччя, станьте в стійку готовності й переконайтеся, що простір довкола вільний.\n2. Перекладіть шаблю в праву руку й виконайте комплекс даошу з обкручуваннями, рубальними, різальними та зрізальними діями, вільною рукою врівноважуючи кожну позу в стилі чанцюань.\n3. Ведіть клинок далеко від голови й тіла, потім поверніть шаблю в ліву руку й завершіть у стійці готовності.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

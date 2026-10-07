@@ -3,11 +3,9 @@
   "key": "taido_unsoku_happo",
   "title": "Unsoku Happo",
   "description": "1. Start in taido stance at the center of an imagined star of eight directions, hands guarding.\n2. Step out and back in each of the eight directions in turn (forward, back, sides, and diagonals) using unsoku footwork without crossing the feet.\n3. Return to the center and the same stance after each direction, keeping the eyes forward and the rhythm even.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "taido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці тайдо в центрі уявної зірки з восьми напрямків, руки в захисті.\n2. По черзі виходьте й повертайтеся в кожному з восьми напрямків (уперед, назад, убік і по діагоналях) кроками унсоку, не схрещуючи ноги.\n3. Після кожного напрямку повертайтеся в центр і ту саму стійку, погляд уперед, ритм рівний.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

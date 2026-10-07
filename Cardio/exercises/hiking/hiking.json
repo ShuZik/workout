@@ -3,11 +3,9 @@
   "key": "hiking",
   "title": "Hiking",
   "description": "1. Choose stable footwear, face the trail, and shorten the first steps until balance and footing are clear.\n2. Place the whole foot on firm ground and use short steps on steep or uneven sections.\n3. Keep the torso upright, scan several steps ahead, and use poles without reaching them too far forward.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "17082",
     "vigorousCode": "17036"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Outdoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Оберіть стійке взуття, поверніться до стежки й скоротіть перші кроки, доки не переконаєтеся в рівновазі та надійності опори.\n2. Ставте всю стопу на твердий ґрунт і робіть короткі кроки на крутих або нерівних ділянках.\n3. Тримайте тулуб рівно, оглядайте шлях на кілька кроків уперед і використовуйте палиці, не виставляючи їх надто далеко.",
       "sectionTitle": "Надворі"
     }
-  }
+  },
+  "state": "active"
 }

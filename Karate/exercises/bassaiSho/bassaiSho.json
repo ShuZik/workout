@@ -3,11 +3,9 @@
   "key": "karate_bassai_sho",
   "title": "Bassai Sho",
   "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Use two-handed staff-catching and twisting actions, open-hand shuto blocks, and short powerful turns on an embusen similar to Bassai Dai.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Practice",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Використовуйте двоїручні захвати й скручування жердини, блоки шуто відкритою рукою та короткі потужні повороти по ембусену, схожому на Бассай дай.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
       "sectionTitle": "Практика"
     }
-  }
+  },
+  "state": "active"
 }

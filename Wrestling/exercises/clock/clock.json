@@ -3,11 +3,9 @@
   "key": "wrestling_clock",
   "title": "Clock",
   "description": "1. Start in a push-up position with the hands under the shoulders and the body straight.\n2. Walk the feet around the hands in a full circle, keeping the hands in place and the hips level.\n3. Complete one direction, pause in the push-up position, and circle back the other way.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "wrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть в упорі лежачи, руки під плечима, тіло пряме.\n2. Обійдіть ногами довкола рук повне коло, не зсуваючи руки й тримаючи таз рівно.\n3. Завершіть коло в один бік, затримайтеся в упорі лежачи й пройдіть назад в інший бік.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

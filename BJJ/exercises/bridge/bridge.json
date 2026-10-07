@@ -3,11 +3,9 @@
   "key": "bjj_bridge",
   "title": "Bridge",
   "description": "1. Lie on the back with the feet close to the hips, knees bent, chin tucked, and arms protecting the neck.\n2. Drive through both feet and shoulders to lift the hips, then turn one hip upward without rolling onto the neck.\n3. Lower the hips under control or follow the turn to one side while keeping the knees aligned.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Positions",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на спину, стопи близько до таза, коліна зігнуті, підборіддя притиснуте, руки захищають шию.\n2. Відштовхніться обома стопами й плечима, піднімаючи таз, потім розверніть одне стегно вгору, не перекочуючись на шию.\n3. Опустіть таз під контролем або продовжте розворот убік, утримуючи коліна на одній лінії.",
       "sectionTitle": "Позиції"
     }
-  }
+  },
+  "state": "active"
 }

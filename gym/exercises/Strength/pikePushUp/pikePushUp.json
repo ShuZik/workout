@@ -6,7 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +82,6 @@
       "description": "1. Почніть із високої планки й підніміть таз, утворюючи перевернуту літеру V, руки на ширині плечей.\n2. Згинаючи лікті, опускайте маківку до підлоги перед долонями.\n3. Вижміться назад у складку, тримаючи м’язи кору напруженими, а шию нейтральною.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "durationSeconds": 30
 }

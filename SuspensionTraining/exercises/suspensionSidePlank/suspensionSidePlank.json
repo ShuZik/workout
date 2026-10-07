@@ -1,0 +1,88 @@
+{
+  "id": "22.26",
+  "key": "suspensiontraining_suspension_side_plank",
+  "title": "Suspension Side Plank",
+  "description": "Place both feet in straps attached to a secure anchor and lie on your side with the elbow under the shoulder. Lift your hips and hold a straight body line without rotating, then switch sides.",
+  "colorType": "teal",
+  "workoutType": "suspensionTraining",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "difficulty": "basic",
+  "section": "5 Core",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Suspension Side Plank",
+      "description": "Place both feet in straps attached to a secure anchor and lie on your side with the elbow under the shoulder. Lift your hips and hold a straight body line without rotating, then switch sides.",
+      "sectionTitle": "Core"
+    },
+    "es": {
+      "title": "Plancha lateral en suspensión",
+      "description": "Coloca ambos pies en las correas de un anclaje seguro y túmbate de lado con el codo bajo el hombro. Eleva las caderas y mantén el cuerpo alineado sin girar; cambia de lado.",
+      "sectionTitle": "Zona media"
+    },
+    "pt": {
+      "title": "Prancha lateral em suspensão",
+      "description": "Coloque os pés nas alças de uma ancoragem segura e deite de lado com o cotovelo sob o ombro. Levante o quadril e mantenha o corpo alinhado sem girar; troque o lado.",
+      "sectionTitle": "Core"
+    },
+    "fr": {
+      "title": "Planche latérale en suspension",
+      "description": "Placez les deux pieds dans les sangles d’un ancrage solide et allongez-vous sur le côté, coude sous l’épaule. Levez les hanches et gardez le corps droit sans tourner, puis changez de côté.",
+      "sectionTitle": "Sangle abdominale"
+    },
+    "de": {
+      "title": "Seitstütz am Schlingentrainer",
+      "description": "Lege beide Füße in die Schlingen an einem sicheren Anker und stütze dich seitlich auf den Ellbogen unter der Schulter. Hebe die Hüfte, halte den Körper gerade ohne Drehung und wechsle die Seite.",
+      "sectionTitle": "Rumpf"
+    },
+    "it": {
+      "title": "Plank laterale in sospensione",
+      "description": "Inserisci entrambi i piedi nelle cinghie di un ancoraggio sicuro e sdraiati sul fianco con il gomito sotto la spalla. Solleva il bacino e mantieni il corpo allineato senza ruotare, poi cambia lato.",
+      "sectionTitle": "Core"
+    },
+    "zh-Hans": {
+      "title": "悬吊侧平板支撑",
+      "description": "将双脚放入牢固固定的悬吊带，侧卧并把肘部置于肩部下方。抬起髋部，保持身体成直线且不旋转，再换侧。",
+      "sectionTitle": "核心训练"
+    },
+    "ja": {
+      "title": "サスペンションサイドプランク",
+      "description": "安全な支点のストラップに両足を入れ、肘を肩の下に置いて横向きになります。腰を上げて体を一直線に保ち、回転せず保持して反対側も行います。",
+      "sectionTitle": "体幹"
+    },
+    "ko": {
+      "title": "서스펜션 사이드 플랭크",
+      "description": "안전하게 고정된 스트랩에 두 발을 넣고 옆으로 누워 팔꿈치를 어깨 아래에 두세요. 엉덩이를 들어 몸을 일직선으로 유지하고 회전하지 않게 버틴 뒤 반대쪽도 하세요.",
+      "sectionTitle": "코어"
+    },
+    "th": {
+      "title": "ไซด์แพลงก์ด้วยสายแขวน",
+      "description": "วางเท้าทั้งสองในสายที่ยึดอย่างมั่นคงแล้วนอนตะแคงโดยวางศอกใต้ไหล่ ยกสะโพกและค้างลำตัวให้ตรงโดยไม่หมุน จากนั้นสลับข้าง",
+      "sectionTitle": "แกนกลางลำตัว"
+    },
+    "ru": {
+      "title": "Боковая планка на петлях",
+      "description": "Поместите обе стопы в надёжно закреплённые петли и лягте на бок с локтем под плечом. Поднимите таз и удерживайте тело прямо без вращения, затем смените сторону.",
+      "sectionTitle": "Корпус"
+    },
+    "uk": {
+      "title": "Бічна планка на петлях",
+      "description": "Помістіть обидві стопи в надійно закріплені петлі та ляжте на бік із ліктем під плечем. Підніміть таз і тримайте тіло прямо без обертання, потім змініть бік.",
+      "sectionTitle": "Корпус"
+    }
+  },
+  "state": "active"
+}

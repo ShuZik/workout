@@ -3,11 +3,9 @@
   "key": "shoulder_stretch",
   "title": "Shoulder Stretch",
   "description": "1. Stand tall and bring one straight arm across the chest at shoulder height.\n2. Use the opposite forearm to draw the arm gently toward the chest without lifting the shoulder.\n3. Hold at mild tension, release slowly, and repeat with the other arm.",
-  "color": "#0A84FF",
   "colorType": "green",
   "workoutType": "cooldown",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Static Stretching",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте рівно й заведіть одну пряму руку поперек грудей на висоті плеча.\n2. Протилежним передпліччям м’яко притягніть руку до грудей, не піднімаючи плече.\n3. Утримуйте легкий натяг, повільно відпустіть і повторіть з іншою рукою.",
       "sectionTitle": "Статичне розтягування"
     }
-  }
+  },
+  "state": "active"
 }

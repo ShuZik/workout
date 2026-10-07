@@ -3,11 +3,9 @@
   "key": "hiit",
   "title": "HIIT",
   "description": "1. Choose one or more exercises that can be performed safely at high cadence and set the work and recovery intervals.\n2. Perform the work interval at a hard repeatable effort while keeping the full movement range.\n3. Reduce to easy movement or rest during recovery, then begin the next work interval only after regaining control.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "1 Main",
   "durationSeconds": 30,
@@ -87,5 +84,6 @@
       "description": "1. Оберіть одну або кілька вправ, які можна безпечно виконувати у високому темпі, і задайте інтервали роботи та відновлення.\n2. Виконуйте робочий інтервал із високим, але відтворюваним зусиллям, зберігаючи повну амплітуду руху.\n3. Під час відновлення переходьте на легкий рух або відпочивайте й починайте наступний робочий інтервал лише після того, як повернете контроль.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "intense"
 }

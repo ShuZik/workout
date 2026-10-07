@@ -3,11 +3,9 @@
   "key": "kick_boxing_axe_kick",
   "title": "Axe Kick",
   "description": "1. From stance, shift weight to the supporting leg and raise the kicking leg high in front or along a slight crescent path.\n2. Keep the torso tall and pull the heel downward through the target by flexing at the hip.\n3. Bend the knee before the heel reaches the floor and return the foot to stance under control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із стійки перенесіть вагу на опорну ногу й високо підніміть ударну ногу перед собою або злегка серпоподібною траєкторією.\n2. Тримайте корпус вертикально й опустіть п’яту вниз крізь ціль, згинаючи ногу в кульшовому суглобі.\n3. Зігніть коліно до того, як п’ята досягне підлоги, і контрольовано поверніть стопу в стійку.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

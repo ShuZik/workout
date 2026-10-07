@@ -3,11 +3,9 @@
   "key": "bjj_hip_bump_sweep",
   "title": "Hip Bump Sweep",
   "description": "1. From closed guard, open the ankles and sit up as the partner's posture rises, posting one hand behind the hips.\n2. Trap the partner's arm on one side and drive the hips upward and across the torso toward that side.\n3. Follow the partner to the mat, settle into mount or top control, and release the trapped arm.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Sweeps",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із закритого гарду розкрийте щиколотки й підведіться, коли партнер випрямляється, спираючись однією рукою позаду таза.\n2. Заблокуйте руку партнера з одного боку й штовхніть таз угору й поперек його тулуба в цей бік.\n3. Слідуйте за партнером на килим, закріпіться в маунті або верхньому контролі й відпустіть захоплену руку.",
       "sectionTitle": "Свіпи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "mma_jab",
   "title": "Jab",
   "description": "1. From MMA guard, push lightly from the rear foot and send the lead fist straight without lifting the stance.\n2. Turn the fist near extension, raise the lead shoulder, and keep the rear hand beside the cheek.\n3. Retract along the same line and restore the lead hand and hips before kicking or changing level.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Striking",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки ММА злегка відштовхніться задньою ногою й викиньте передню руку прямо, не підводячись зі стійки.\n2. Наприкінці удару проверніть кулак, підніміть переднє плече, а задню руку тримайте біля щоки.\n3. Поверніть руку тією самою лінією та відновіть положення передньої руки й таза перед ударом ногою чи зміною рівня.",
       "sectionTitle": "Ударна техніка"
     }
-  }
+  },
+  "state": "active"
 }

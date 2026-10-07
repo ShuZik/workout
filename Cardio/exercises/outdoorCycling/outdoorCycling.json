@@ -3,11 +3,9 @@
   "key": "outdoor_cycling",
   "title": "Outdoor Cycling",
   "description": "1. Set the saddle so the knee remains slightly bent at the bottom of the pedal stroke and secure the helmet.\n2. Pedal in smooth circles while the knees track forward and the upper body stays relaxed.\n3. Shift gears before cadence stalls, brake progressively, and look through every turn.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "01016",
     "vigorousCode": "01017"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Outdoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Налаштуйте сідло так, щоб коліно залишалося злегка зігнутим у нижній точці педалювання, і застебніть шолом.\n2. Педалюйте плавними колами, спрямовуючи коліна вперед і зберігаючи верхню частину тіла розслабленою.\n3. Перемикайте передачі до падіння частоти педалювання, гальмуйте поступово й дивіться до виходу з кожного повороту.",
       "sectionTitle": "Надворі"
     }
-  }
+  },
+  "state": "active"
 }

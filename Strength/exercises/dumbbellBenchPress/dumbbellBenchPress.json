@@ -3,12 +3,9 @@
   "key": "strength_dumbbell_bench_press",
   "title": "Dumbbell Bench Press",
   "description": "1. Lie on a bench with feet planted and hold the dumbbells beside the chest with wrists over elbows.\n2. Press both dumbbells above the shoulders without letting them collide or the shoulders lift from the bench.\n3. Lower the upper arms through a controlled pain-free range, then begin the next press.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Ляжте на лаву, упріться стопами в підлогу й тримайте гантелі біля грудей, зап’ястя над ліктями.\n2. Вижміть обидві гантелі над плечима, не стикаючи їх і не відриваючи плечей від лави.\n3. Опускайте плечі в контрольованій безболісній амплітуді, потім починайте наступний жим.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

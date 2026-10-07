@@ -3,11 +3,9 @@
   "key": "judo_katate_jime",
   "title": "Katate Jime",
   "description": "1. From a controlling position, grip the partner's far collar deep with one hand, palm down.\n2. Bring the forearm across the front of the partner's neck and keep the other hand controlling the body.\n3. Press the forearm in gradually toward the side of the neck and release immediately at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З контролювального положення глибоко захопіть дальній комір партнера однією рукою долонею вниз.\n2. Проведіть передпліччя поперек передньої сторони шиї партнера, іншою рукою контролюючи тулуб.\n3. Поступово притискайте передпліччя до бокової сторони шиї й негайно відпускайте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

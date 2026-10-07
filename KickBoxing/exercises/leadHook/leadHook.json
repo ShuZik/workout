@@ -3,11 +3,9 @@
   "key": "kick_boxing_lead_hook",
   "title": "Lead Hook",
   "description": "1. From guard, load the lead leg slightly and keep the lead elbow bent.\n2. Pivot the lead foot and rotate the hips so the lead fist crosses the target on a compact horizontal arc.\n3. Stop before overrotating and bring the fist back to the cheek while keeping the rear hand high.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту трохи завантажте передню ногу й тримайте передній лікоть зігнутим.\n2. Поверніть передню стопу й таз, щоб передній кулак пройшов крізь ціль компактною горизонтальною дугою.\n3. Зупиніться, не перекручуючись, і поверніть кулак до щоки, тримаючи задню руку високо.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

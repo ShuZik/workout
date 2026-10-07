@@ -3,11 +3,9 @@
   "key": "lethwei_lekkha_moun",
   "title": "Lekkha Moun",
   "description": "1. Stand facing the opponent's corner or the front of the training area with the back upright and the gaze forward.\n2. Bend the left arm so the left hand tucks under the right armpit, forming a triangle, and cup the right palm.\n3. Clap the cupped right palm into the triangle three times with a steady rhythm, then step into a Lethwei stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "lethwei",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до кута суперника або до передньої частини зали, спина пряма, погляд уперед.\n2. Зігніть ліву руку так, щоб ліва кисть лягла під праву пахву й утворила трикутник; праву долоню складіть чашею.\n3. Тричі в рівному ритмі плесніть правою долонею-чашею в трикутник, потім перейдіть у стійку летвей.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

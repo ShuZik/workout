@@ -3,11 +3,9 @@
   "key": "kuk_sool_won_main",
   "title": "Kuk Sool Won",
   "description": "1. Begin in a ready stance on mats with the knees soft, the back upright, and the hands in front of the body.\n2. Practice basic stances, hand strikes, kicks, and falls, then cooperative wrist-release and joint-control techniques with a trained partner.\n3. Apply every lock slowly, release at the first tap or signal, and finish each set back in ready stance.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kukSoolWon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці готовності на татамі, коліна м’які, спина пряма, руки перед корпусом.\n2. Відпрацьовуйте базові стійки, удари руками й ногами, падіння, потім кооперативні звільнення зап’ястка й больові контролі з підготовленим партнером.\n3. Кожен залом проводьте повільно, відпускайте при першому плесканні чи сигналі й закінчуйте кожну серію в стійці готовності.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

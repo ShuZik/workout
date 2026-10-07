@@ -3,11 +3,9 @@
   "key": "vovinam_song_luyen_dao",
   "title": "Song Luyen Dao",
   "description": "1. Face your partner at the agreed distance, salute, and confirm the attacker and defender roles for Song Luyen Dao.\n2. The attacker delivers the set training-knife attacks while the defender evades, controls the arm, and disarms or counters in the agreed order.\n3. Stop each finish under control, release promptly, salute again at the end, and change roles when practising.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "vovinam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до партнера на домовленій дистанції, привітайтеся й уточніть ролі того, хто атакує, і того, хто захищається, у формі Song Luyen Dao.\n2. Той, хто атакує, завдає заданих атак навчальним ножем, а той, хто захищається, ухиляється, контролює руку та роззброює або контратакує в домовленому порядку.\n3. Зупиняйте кожне завершення під контролем, одразу відпускайте, наприкінці знову привітайтеся й міняйтеся ролями під час відпрацювання.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

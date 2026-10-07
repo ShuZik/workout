@@ -3,11 +3,9 @@
   "key": "ssireum_andari_geolgi",
   "title": "Andari-geolgi",
   "description": "1. Hold the satba grip and wait for the partner's left leg to step forward in front of you.\n2. Pull the satba toward you and hook your right leg behind the partner's left knee from the inside.\n3. Drive the chest forward to fold the partner backward, lowering the partner onto the sand or mat before releasing.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "ssireum",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте захват за сатбу й дочекайтеся, коли ліва нога партнера ступить уперед перед вами.\n2. Потягніть сатбу на себе й зачепіть правою ногою зсередини ліве коліно партнера ззаду.\n3. Подайтеся грудьми вперед, завалюючи партнера назад, і опустіть його на пісок або килим, перш ніж відпустити.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

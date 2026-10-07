@@ -3,11 +3,9 @@
   "key": "fencing_envelopment",
   "title": "Envelopment",
   "description": "1. Engage the partner's extended blade with your strong on the partner's weak.\n2. Take the partner's blade through a full circle with continuous contact so it returns to the line of engagement, keeping your point aimed at the target.\n3. Extend and lunge to hit at the end of the circle, recover to en garde, and swap roles after the set.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть з’єднання з випрямленим клинком партнера, сильною частиною на його слабку.\n2. Проведіть клинок партнера повним колом із безперервним контактом назад у лінію з’єднання, тримаючи вістря спрямованим у ціль.\n3. Наприкінці кола випряміть руку й випадом завдайте уколу, поверніться в стійку й поміняйтеся ролями після серії.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

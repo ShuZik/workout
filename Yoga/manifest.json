@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "productID": "yoga",
-  "minimumAppVersion": "1.1.5",
+  "minimumAppVersion": "1.1.7",
   "tags": [
     {
       "colorType": "red",
@@ -502,6 +502,22 @@
     {
       "icon": "Yoga/exercises/Other/note/Icon.png",
       "json": "Yoga/exercises/Other/note/note.json"
+    },
+    {
+      "json": "Yoga/exercises/Cooldown/wristFlexorStretch/wristFlexorStretch.json",
+      "icon": "Yoga/exercises/Cooldown/wristFlexorStretch/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Cooldown/wristExtensorStretch/wristExtensorStretch.json",
+      "icon": "Yoga/exercises/Cooldown/wristExtensorStretch/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Cooldown/soleusStretch/soleusStretch.json",
+      "icon": "Yoga/exercises/Cooldown/soleusStretch/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Cooldown/standingSideStretch/standingSideStretch.json",
+      "icon": "Yoga/exercises/Cooldown/standingSideStretch/Icon.png"
     }
   ],
   "workouts": [

@@ -3,11 +3,9 @@
   "key": "bjj_double_leg_takedown",
   "title": "Double-Leg Takedown",
   "description": "1. With a trained partner on mats, lower through the knees and take a penetration step between the partner's feet.\n2. Wrap behind both knees, keep the head and spine aligned against the torso, and bring the trail leg beneath the hips.\n3. Drive and turn the corner while guiding the partner to a controlled landing, then stabilize on top.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Takedowns",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З підготовленим партнером на килимі опустіться, згинаючи коліна, і зробіть прохідний крок між його стопами.\n2. Обхопіть обидві ноги під колінами, тримайте голову й хребет на одній лінії біля його тулуба та підтягніть задню ногу під таз.\n3. Штовхайте й розвертайтеся за кут, під контролем опускаючи партнера на килим, потім закріпіться згори.",
       "sectionTitle": "Переведення в партер"
     }
-  }
+  },
+  "state": "active"
 }

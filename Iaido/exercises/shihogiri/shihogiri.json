@@ -3,11 +3,9 @@
   "key": "iaido_shihogiri",
   "title": "Shihogiri",
   "description": "1. Face four opponents at the diagonal corners; strike the right-front opponent's hands with the hilt while partially drawing.\n2. Thrust behind to the left-rear opponent, then turn and cut down the right-rear, left-front, and right-front opponents in sequence.\n3. Finish with chiburi and resheathing, keeping zanshin toward the last direction and the whole area.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Standing Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте проти чотирьох суперників у діагональних кутах; частково оголюючи меч, ударте руків’ям по руках правого переднього суперника.\n2. Вколіть назад лівого заднього суперника, потім, розвертаючись, послідовно розрубайте правого заднього, лівого переднього й правого переднього.\n3. Завершіть тібурі й вкладанням меча, зберігаючи дзансін до останнього напрямку й усього простору.",
       "sectionTitle": "Форми з положення стоячи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "silambam_ottrai_val_veechu",
   "title": "Ottrai Val Veechu",
   "description": "1. Hold a blunt training sword in one hand in a balanced stance, with the free hand guarding the chest.\n2. Swing the sword in diagonal, horizontal, and circular cuts around the body, turning the wrist and stepping with each cut.\n3. Keep the blade path controlled and away from your own body, then finish in a guard with the sword held in front.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "silambam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Weapons",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте тупий навчальний меч однією рукою в стійкій позиції, вільна рука захищає груди.\n2. Виконуйте діагональні, горизонтальні й колові рубаючі рухи навколо тіла, повертаючи зап’ястя та роблячи крок із кожним ударом.\n3. Тримайте траєкторію клинка під контролем і далеко від свого тіла, потім завершіть у захисній позиції з мечем попереду.",
       "sectionTitle": "Зброя"
     }
-  }
+  },
+  "state": "active"
 }

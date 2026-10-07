@@ -3,11 +3,9 @@
   "key": "bootcamp_broad_jump",
   "title": "Broad Jump",
   "description": "1. Stand with feet about hip-width apart, bend the knees, hinge the hips, and swing the arms back.\n2. Swing the arms forward and extend the hips, knees, and ankles to jump forward.\n3. Land on both feet with knees bent, stabilize completely, and walk back before repeating.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "intermediate",
   "section": "3 Bootcamp",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте, поставивши стопи приблизно на ширині таза, зігніть коліна, відведіть таз назад і відведіть руки назад.\n2. Зробіть мах руками вперед і розігніть кульшові, колінні та гомілковостопні суглоби, щоб стрибнути вперед.\n3. Приземліться на обидві стопи на зігнуті коліна, повністю стабілізуйтеся й поверніться кроком перед повторенням.",
       "sectionTitle": "Буткемп"
     }
-  }
+  },
+  "state": "intense"
 }

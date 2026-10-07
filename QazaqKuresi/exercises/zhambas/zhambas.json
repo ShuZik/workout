@@ -3,11 +3,9 @@
   "key": "qazaq_kuresi_zhambas",
   "title": "Zhambas",
   "description": "1. Grip the sleeve and the belt over the partner's back and step in, turning your hip across the partner's belly.\n2. Bend the knees below the partner's belt, load the partner onto the hip, and straighten the legs while pulling the sleeve.\n3. Twist the partner over the hip onto the back, guide the landing, and release once the shoulders touch.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "qazaqKuresi",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за рукав і через спину партнера за пояс, увійдіть і розверніть стегно впоперек його живота.\n2. Зігніть коліна нижче пояса партнера, завантажте його на стегно й випрямте ноги, потягуючи за рукав.\n3. Скрутіть партнера через стегно на спину, супроводьте приземлення й відпустіть, коли торкнуться лопатки.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "wrestling",
   "title": "Wrestling",
   "description": "1. Begin on mats with a trained partner in a low wrestling stance, hands active and head up.\n2. Drill stance motion, hand fighting, level changes, takedown entries, and par terre turns at controlled intensity.\n3. Finish each exchange on top with control, release immediately on any stop signal, and reset to neutral.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "wrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на килимі з підготовленим партнером у низькій борцівській стійці, руки активні, голова піднята.\n2. Відпрацьовуйте пересування в стійці, боротьбу за захват, зміну рівня, входи в проходи й перевороти в партері з контрольованою інтенсивністю.\n3. Завершуйте кожен обмін контролем згори, одразу відпускайте за будь-яким сигналом зупинки й повертайтеся в нейтральне положення.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

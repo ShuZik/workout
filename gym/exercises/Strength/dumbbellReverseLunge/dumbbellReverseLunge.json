@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте гантелі по боках і станьте рівно, стопи на ширині таза.\n2. Ступіть однією ногою назад і опустіть обидва коліна, тримаючи передню стопу на підлозі, а корпус вертикально.\n3. Відштовхніться передньою стопою й встаньте, приставте задню ногу та чергуйте сторони.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

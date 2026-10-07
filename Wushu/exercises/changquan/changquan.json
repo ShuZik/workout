@@ -3,11 +3,9 @@
   "key": "wushu_changquan",
   "title": "Changquan",
   "description": "1. Start at the edge of a clear carpet in a ready stance with the fists at the waist and eyes forward.\n2. Perform your compulsory or chosen changquan routine, linking long extended punches and palms, bow and horse stances, high kicks, and jumps at full speed.\n3. Hold each final posture briefly, land jumps on soft knees, and finish with the closing salute back at the starting point.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть біля краю вільного килима в стійці готовності, кулаки біля пояса, погляд уперед.\n2. Виконайте обов’язковий або довільний комплекс чанцюань, поєднуючи довгі випрямлені удари кулаком і долонею, стійки лука й вершника, високі удари ногами та стрибки на повній швидкості.\n3. Коротко фіксуйте кожну фінальну позу, приземляйтеся на м’які коліна й завершіть привітанням у вихідній точці.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

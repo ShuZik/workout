@@ -3,11 +3,9 @@
   "key": "taekwondo_taegeuk_3_jang",
   "title": "Taegeuk 3 Jang",
   "description": "1. Start in basic ready stance and perform the third Taegeuk, mixing walking stance, front stance and back stance.\n2. Include the knife-hand neck strikes, back-stance single knife-hand blocks and front kicks followed by double punches.\n3. Finish with the closing kicks and punches with a kihap, then return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте третій тхегик, поєднуючи крокову, передню та задню стійки.\n2. Додайте удари ребром долоні в шию, одиночні блоки ребром долоні в задній стійці й прямі удари ногою з подальшим подвійним ударом рукою.\n3. Завершіть останніми ударами ногою й рукою з кіхапом і поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -6,8 +6,6 @@
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Тримайте штангу чи гантелі на рівні плечей, стопи під тазом, корпус напружений.\n2. Підконтрольно опустіться у фронтальне присідання, коліна над носками, груди підняті.\n3. Відштовхніться від підлоги, підводячись, і за рахунок поштовху ногами вижміть вагу над головою, потім поверніть її на плечі.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

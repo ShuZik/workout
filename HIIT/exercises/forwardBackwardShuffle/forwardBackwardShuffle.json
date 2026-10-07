@@ -3,11 +3,9 @@
   "key": "agility_forward_backward_shuffle",
   "title": "Forward-Backward Shuffle",
   "description": "1. Place a forward and rear marker and start between them in an athletic stance.\n2. Shuffle forward with short steps, lower the hips at the marker, then push back without turning around.\n3. Backpedal to the rear marker, decelerate under control, and repeat the direction change.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Agility",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Поставте передній і задній орієнтири та станьте між ними в атлетичну стійку.\n2. Рухайтеся вперед короткими приставними кроками, біля орієнтира опустіть таз і відштовхніться назад, не розвертаючись.\n3. Відходьте спиною вперед до заднього орієнтира, контрольовано загальмуйте й повторіть зміну напрямку.",
       "sectionTitle": "Спритність"
     }
-  }
+  },
+  "state": "active"
 }

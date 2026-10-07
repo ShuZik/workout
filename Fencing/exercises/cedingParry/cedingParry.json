@@ -3,11 +3,9 @@
   "key": "fencing_ceding_parry",
   "title": "Ceding Parry",
   "description": "1. Let the partner take your blade with a bind or coulé, for example a bind from sixte toward the low line.\n2. Instead of resisting, yield to the pressure and pivot your hand around the contact into the parry on the side of the attack, keeping your strong against the partner's blade.\n3. Riposte from the ceding position, recover to en garde, and swap roles; keep the partner's pressure moderate while learning.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Parries",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Дозвольте партнерові взяти ваш клинок ліаманом або ковзанням, наприклад ліаманом із шостої в нижню лінію.\n2. Замість опору поступіться тиску й поверніть кисть навколо точки контакту в захист на боці атаки, тримаючи сильну частину біля клинка партнера.\n3. Відповідайте з поступливого положення, поверніться в стійку й поміняйтеся ролями; під час навчання тиск партнера помірний.",
       "sectionTitle": "Захисти"
     }
-  }
+  },
+  "state": "active"
 }

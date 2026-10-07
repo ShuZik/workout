@@ -3,11 +3,9 @@
   "key": "meditation_breath",
   "title": "Breath Meditation",
   "description": "1. Sit comfortably with the spine supported and allow breathing to continue at its natural pace.\n2. Feel one clear breath sensation at the nostrils, chest, or abdomen from the start of each inhale to the end of each exhale.\n3. When thoughts take attention away, label the distraction briefly and return to the next breath.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Themes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зручно сядьте з підтримкою хребта й дозвольте диханню тривати в природному темпі.\n2. Відчувайте одне виразне відчуття дихання біля ніздрів, у грудях або животі від початку кожного вдиху до кінця кожного видиху.\n3. Коли думки відволікають увагу, коротко позначте відволікання й поверніться до наступного дихального циклу.",
       "sectionTitle": "Теми"
     }
-  }
+  },
+  "state": "active"
 }

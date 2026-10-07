@@ -3,11 +3,9 @@
   "key": "ssireum_baejigi",
   "title": "Baejigi",
   "description": "1. Hold the satba grip with the right hand on the waist band and the left hand on the thigh band, chest to chest with the partner.\n2. Bend the knees, pull the partner onto your belly with both hands, and lift by straightening the legs.\n3. Turn the hips to tip the partner to the side, lower the partner until a knee or the body touches down, and release.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "ssireum",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть захват за сатбу: права рука на поясній стрічці, ліва на стегновій, груди до грудей із партнером.\n2. Зігніть коліна, притягніть партнера до живота обома руками й підніміть його, випрямляючи ноги.\n3. Поворотом таза завальте партнера на бік, опускайте його, доки коліно або тулуб не торкнеться землі, і відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

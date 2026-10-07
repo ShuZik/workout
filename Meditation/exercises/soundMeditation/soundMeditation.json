@@ -3,11 +3,9 @@
   "key": "meditation_sound",
   "title": "Sound Meditation",
   "description": "1. Sit or lie still and choose one continuous sound or the full field of sounds around you.\n2. Notice pitch, volume, rhythm, distance, and silence without naming a story about the sound.\n3. When attention moves into thought, return to hearing the next sound exactly as it appears.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "meditation",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "07075",
     "vigorousCode": "07075"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Themes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте або ляжте нерухомо й оберіть один безперервний звук або все звукове поле навколо вас.\n2. Помічайте висоту, гучність, ритм, відстань і тишу, не вигадуючи історію про звук.\n3. Коли увага переходить до думок, поверніться до слухання наступного звуку саме таким, яким він виникає.",
       "sectionTitle": "Теми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "taekwondo_ge_baek",
   "title": "Ge-Baek",
   "description": "1. Start in parallel ready stance and perform the 44-movement first-degree pattern.\n2. Include the 9-shape blocks, X-fist rising blocks, low twin forearm blocks and the sitting-stance and walking-stance strikes, keeping each block sharp and the stance stable.\n3. Finish with the closing blocks and punches, then return to parallel ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із паралельної готової стійки й виконайте туль першого дану з 44 рухів.\n2. Додайте блоки у формі цифри 9, верхні блоки схрещеними кулаками, низькі подвійні блоки передпліччями та удари в стійці вершника й кроковій стійці, виконуючи кожен блок чітко й зберігаючи стійкість.\n3. Завершіть останніми блоками й ударами та поверніться в паралельну готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

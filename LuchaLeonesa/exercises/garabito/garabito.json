@@ -3,11 +3,9 @@
   "key": "lucha_leonesa_garabito",
   "title": "Garabito",
   "description": "1. From the belt grip, turn the partner slightly to shift the weight onto the near leg.\n2. Hook the back of that leg with your foot and draw it out from under the partner.\n3. Pull and push with the belt grips to tip the partner to the ground, hold the belt to control the landing, then release.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захоплення за пояс злегка розверніть партнера, переводячи його вагу на ближню ногу.\n2. Зачепіть стопою цю ногу ззаду й висмикніть її з-під партнера.\n3. Тягніть і штовхайте захопленнями за пояс, перекидаючи партнера на землю, тримайте пояс, контролюючи приземлення, потім відпустіть.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

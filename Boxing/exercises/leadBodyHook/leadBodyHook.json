@@ -3,11 +3,9 @@
   "key": "lead_body_hook",
   "title": "Lead Body Hook",
   "description": "1. From guard, bend the knees and shift the head slightly outside while keeping the rear hand high.\n2. Pivot the lead foot and rotate the hips so the bent lead fist travels into the side of the torso.\n3. Retract the fist to the cheek and recover upright without widening or crossing the stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 2,
   "section": "3 Beginner",
@@ -88,5 +85,6 @@
       "description": "1. Із захисту зігніть коліна й змістіть голову трохи назовні, зберігаючи задню руку піднятою.\n2. Поверніть передню стопу й таз, направляючи кулак зігнутої передньої руки в бічну частину корпуса.\n3. Поверніть кулак до щоки й випряміться, не розширюючи стійку та не схрещуючи стопи.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

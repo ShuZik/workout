@@ -3,11 +3,9 @@
   "key": "calisthenics_inverted_row",
   "title": "Inverted Row",
   "description": "1. Set a secure bar at waist height, grip it with straight arms, and place the body in one line beneath it.\n2. Pull the chest toward the bar by driving the elbows back and squeezing the shoulder blades.\n3. Lower under control to straight arms without dropping the hips or craning the neck.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Установіть надійну перекладину на рівні пояса, візьміться за неї прямими руками й витягніть тіло в одну лінію під нею.\n2. Підтягуйте груди до перекладини, відводячи лікті назад і зводячи лопатки.\n3. Контрольовано опустіться до прямих рук, не опускаючи таз і не витягуючи шию.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

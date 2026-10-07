@@ -6,8 +6,6 @@
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -83,5 +81,7 @@
       "description": "1. Станьте в розніжку, нахиліться в кульшових суглобах із нейтральною спиною й за потреби обіпріться вільною рукою.\n2. Тягніть гирю до нижніх ребер, проводячи лікоть близько до тіла й зберігаючи корпус нерухомим.\n3. Опустіть гирю до випрямлення руки, виконайте повторення й змініть бік.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

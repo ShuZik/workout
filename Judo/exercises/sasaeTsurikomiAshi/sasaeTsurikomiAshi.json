@@ -3,11 +3,9 @@
   "key": "judo_sasae_tsurikomi_ashi",
   "title": "Sasae Tsurikomi Ashi",
   "description": "1. Use sleeve-and-lapel grips to lift and draw the partner forward toward a front corner.\n2. Turn the body away while placing the sole lightly against the advancing ankle or lower shin to stop the step.\n3. Continue the hand rotation so the partner wheels over the blocked foot, retaining the sleeve to guide the landing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Захватами рукава й відвороту трохи підніміть і потягніть партнера вперед до переднього кута.\n2. Розверніть тіло вбік, легко поставивши підошву до щиколотки, що висувається, або нижньої частини гомілки, щоб зупинити крок.\n3. Продовжуйте обертання рук, щоб партнер перевернувся через заблоковану стопу, утримуючи рукав для спрямування приземлення.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

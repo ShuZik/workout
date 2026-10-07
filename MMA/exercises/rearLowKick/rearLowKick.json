@@ -3,11 +3,9 @@
   "key": "mma_rear_low_kick",
   "title": "Rear Low Kick",
   "description": "1. From stance, plant the lead foot near the outside line and begin pivoting it away from the target.\n2. Rotate the rear hip and swing the lower shin through a thigh pad with the knee slightly bent.\n3. Recoil or carry the leg through under control, then recover the rear foot and both hands.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Striking",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки поставте передню стопу ближче до зовнішньої лінії й почніть розвертати її від цілі.\n2. Розверніть заднє стегно й проведіть нижню частину гомілки крізь накладку на стегно, коліно злегка зігнуте.\n3. Під контролем поверніть ногу або проведіть її далі, потім відновіть задню стопу й обидві руки.",
       "sectionTitle": "Ударна техніка"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "bjj_guillotine_choke",
   "title": "Guillotine Choke",
   "description": "1. From a supervised front-headlock position, wrap one arm beneath the neck with the wrist close to the throat.\n2. Connect the hands, keep the choking elbow tight, and use the legs or hips to prevent the partner from regaining posture.\n3. Increase pressure gradually without twisting the neck and release immediately at a tap or verbal signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Submissions",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Під наглядом тренера з переднього захвату голови заведіть одну руку під шию, тримаючи зап’ястя біля горла.\n2. Зчепіть руки, щільно притисніть лікоть, що душить, і не давайте партнерові випрямитися за допомогою ніг або таза.\n3. Посилюйте тиск поступово, не скручуючи шию, і одразу відпускайте за постукування або голосового сигналу.",
       "sectionTitle": "Больові й задушливі"
     }
-  }
+  },
+  "state": "active"
 }

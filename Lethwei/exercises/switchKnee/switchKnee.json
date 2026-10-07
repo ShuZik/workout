@@ -3,11 +3,9 @@
   "key": "lethwei_switch_knee",
   "title": "Switch Knee",
   "description": "1. From stance, make a quick small hop to swap the lead and rear feet while keeping the hands high.\n2. As the new rear foot lands behind, drive that knee forward into a body pad with the hips pushed through.\n3. Return the foot behind, restore the original stance, and repeat the switch only once balance is set.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "lethwei",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки зробіть швидкий маленький підскок, змінюючи передню й задню ноги, руки тримайте високо.\n2. Коли нова задня нога приземлиться, спрямуйте це коліно вперед у лапу, подаючи таз.\n3. Поверніть стопу назад, відновіть початкову стійку й повторюйте зміну лише після відновлення рівноваги.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

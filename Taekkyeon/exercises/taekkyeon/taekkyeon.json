@@ -3,11 +3,9 @@
   "key": "taekkyeon_main",
   "title": "Taekkyeon",
   "description": "1. Stand relaxed with knees soft and hands loose in front of the body, ready to step in the pum pattern.\n2. Flow between pum-balgi stepping, arm swings, light push kicks, and trips with a continuous bouncing rhythm.\n3. Return to the centered stepping rhythm after every action and keep kicks controlled and contact light.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekkyeon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте розслаблено, коліна м’які, руки вільно перед корпусом, готовність до кроків пум.\n2. Плавно переходьте між кроками пум-бальгі, махами рук, легкими поштовховими ударами ногою й підсічками в безперервному пружному ритмі.\n3. Після кожної дії повертайтеся до центрального ритму кроків, удари ногами контролюйте, контакт легкий.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

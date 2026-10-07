@@ -3,11 +3,9 @@
   "key": "capoeira",
   "title": "Capoeira",
   "description": "1. Start in the ginga with the feet wide, knees bent, one arm guarding the face, and the eyes on the space in front.\n2. Flow between ginga, esquivas, negativa, rolê, and low or circular kicks at a steady rhythm, keeping the hands ready to touch the floor.\n3. Return to the ginga after every movement, keep kicks controlled, and stop whenever balance or space is lost.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "capoeira",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у джинзі: стопи широко, коліна зігнуті, одна рука захищає обличчя, погляд уперед.\n2. У рівному ритмі переходьте між джингою, ескивами, негативою, роле та низькими або коловими ударами ногами, тримаючи руки готовими спертися на підлогу.\n3. Після кожного руху повертайтеся в джингу, контролюйте удари й зупиняйтеся, якщо втрачаєте рівновагу чи простір.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,12 +3,9 @@
   "key": "sandbag_sandbag_bent_over_row",
   "title": "Sandbag Bent-Over Row",
   "description": "1. Hold the sandbag with both hands, hinge the hips, and keep the spine neutral and knees soft.\n2. Pull the bag toward the lower ribs while the elbows travel back and the torso stays still.\n3. Lower the bag to straight arms under control before beginning the next repetition.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Візьміть мішок двома руками, нахиліться в кульшових суглобах, зберігаючи спину нейтральною, а коліна злегка зігнутими.\n2. Тягніть мішок до нижніх ребер, відводячи лікті назад і зберігаючи корпус нерухомим.\n3. Контрольовано опустіть мішок до прямих рук, перш ніж почати наступне повторення.",
       "sectionTitle": "Мішок із піском"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

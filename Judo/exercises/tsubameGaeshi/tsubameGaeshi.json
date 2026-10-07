@@ -3,11 +3,9 @@
   "key": "judo_tsubame_gaeshi",
   "title": "Tsubame Gaeshi",
   "description": "1. As a trained partner attempts a foot sweep, lift the attacked foot slightly so the sweep misses.\n2. Bring the same foot around and sweep the partner's sweeping foot in the direction of its travel.\n3. Turn the upper body with the sweep and guide the partner into a side breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер намагається підсічку, трохи підніміть атаковану стопу, щоб підсічка пройшла повз.\n2. Проведіть ту саму стопу по колу й підсічіть підсікаючу стопу партнера за ходом її руху.\n3. Розверніть тулуб разом із підсічкою й спрямуйте партнера у страховку на бік.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

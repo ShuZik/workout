@@ -3,11 +3,9 @@
   "key": "lucha_leonesa_golpe_de_cadera",
   "title": "Golpe de Cadera",
   "description": "1. From the belt grip, pull the partner forward and turn your hips in front of the partner's hips.\n2. Bend the knees under the partner's weight while keeping both hands on the belt.\n3. Straighten and rotate to throw the partner over the hip, guide the fall with the belt, then release and stand.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "luchaLeonesa",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захоплення за пояс потягніть партнера вперед і доверніть свої стегна перед його стегнами.\n2. Зігніть коліна під його вагою, не відпускаючи пояс жодною рукою.\n3. Випряміться й поверніться, кидаючи партнера через стегно, спрямовуйте падіння поясом, потім відпустіть і встаньте.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

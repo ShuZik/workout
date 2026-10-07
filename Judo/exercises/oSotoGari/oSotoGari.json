@@ -3,11 +3,9 @@
   "key": "judo_o_soto_gari",
   "title": "O Soto Gari",
   "description": "1. Use the grips to shift the partner toward a rear corner and step the support foot beside the partner.\n2. Swing the reaping leg past the partner's outside leg, then drive it backward through the supporting leg as the torso is controlled.\n3. Continue the hands and chest forward while retaining the sleeve and guide the partner onto the tatami.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Захватами змістіть партнера до заднього кута й поставте опорну стопу поруч із ним.\n2. Махніть ногою, що підбиває, за зовнішню ногу партнера, потім проведіть її назад через опорну ногу, контролюючи тулуб.\n3. Продовжуйте рух рук і грудей уперед, утримуйте рукав і спрямовуйте партнера на татамі.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

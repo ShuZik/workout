@@ -3,11 +3,9 @@
   "key": "tang_soo_do_gicho_hyung_yi_bu",
   "title": "Gicho Hyung Yi Bu",
   "description": "1. Start in ready stance on the same I-shaped line used for Gicho Hyung Il Bu.\n2. Turn into front stance with a low block and step forward with a high punch to face level, repeating through each turn and up the center line.\n3. Keep the punches at head height and the stances deep, shout kihap where prescribed, and return to ready stance at the start point.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "tangSooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці готовності на тій самій I-подібній лінії, що й Гічо хйон іль бу.\n2. Поверніться в передню стійку з нижнім блоком і ступіть з ударом у верхній рівень на висоті обличчя, повторюючи на кожному повороті й по центральній лінії.\n3. Тримайте удари на рівні голови, стійки глибокими, виконайте кіхап у належних місцях і поверніться в стійку готовності на початку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

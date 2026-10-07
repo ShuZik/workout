@@ -3,11 +3,9 @@
   "key": "taekwondo_won_hyo",
   "title": "Won-Hyo",
   "description": "1. Start in closed ready stance A and perform the 28-movement pattern, opening with a twin forearm block and inward knife-hand strike in L-stance.\n2. Include the fixed-stance punches, the bending ready stance into a side piercing kick, circular blocks and front snap kicks.\n3. Finish with the closing blocks and punches, then return to closed ready stance A.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із закритої готової стійки A й виконайте туль із 28 рухів, відкривши його подвійним блоком передпліччями та внутрішнім ударом ребром долоні в L-подібній стійці.\n2. Додайте удари у фіксованій стійці, зігнуту готову стійку з проникним бічним ударом ногою, кругові блоки й прямі удари ногою.\n3. Завершіть останніми блоками й ударами та поверніться в закриту готову стійку A.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

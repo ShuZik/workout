@@ -3,11 +3,9 @@
   "key": "kuk_sool_won_side_kick",
   "title": "Side Kick",
   "description": "1. From a ready stance, chamber the kicking knee toward the chest with the foot flexed.\n2. Pivot on the supporting foot and thrust the heel straight out to the side, aligning heel, hip, and shoulder.\n3. Re-chamber before setting the foot down, alternate sides, and keep the hands in guard throughout.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kukSoolWon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки готовності підтягніть коліно ноги, що б'є, до грудей, стопа на себе.\n2. Розверніться на опорній стопі й виштовхніть п'яту прямо вбік, вибудувавши п'яту, стегно й плече в одну лінію.\n3. Перш ніж поставити ногу, знову підтягніть коліно, чергуйте сторони й увесь час тримайте руки в захисті.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

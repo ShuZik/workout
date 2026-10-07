@@ -3,11 +3,9 @@
   "key": "wushu_taijijian",
   "title": "Taijijian",
   "description": "1. Hold a training straight sword reversed along the left forearm, stand with the feet together, and breathe calmly.\n2. Take the sword and perform the taijijian routine with continuous, even taiji stepping, the blade drawing, piercing, and lifting in smooth arcs led by the waist.\n3. Keep the tempo even through every balance, pass the sword back to the left hand, and close by bringing the feet together.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "wushu",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте тренувальний прямий меч зворотним хватом уздовж лівого передпліччя, стопи разом, дихайте спокійно.\n2. Візьміть меч і виконайте комплекс тайцзіцзянь безперервними рівними кроками тайцзі: клинок тягне, коле й піднімається плавними дугами, які веде поперек.\n3. Зберігайте рівний темп в усіх рівновагах, поверніть меч у ліву руку й завершіть, приставивши стопи.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "outdoor_rowing",
   "title": "Outdoor Rowing",
   "description": "1. Sit balanced with feet secured, arms straight, knees bent, and oar blades placed for the catch.\n2. Drive with the legs first, swing the torso slightly back, then draw the handles toward the lower ribs.\n3. Extend the arms, hinge forward, and bend the knees in that order to return smoothly for the next stroke.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "18050",
     "vigorousCode": "18060"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Outdoor",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте стійко, закріпивши стопи, випрямивши руки, зігнувши коліна й розташувавши лопаті весел для захоплення води.\n2. Спочатку відштовхніться ногами, злегка відхиліть тулуб назад, потім підтягніть руків’я до нижніх ребер.\n3. Випряміть руки, нахиліться вперед від кульшових суглобів і зігніть коліна в цьому порядку, плавно повертаючись для наступного гребка.",
       "sectionTitle": "Надворі"
     }
-  }
+  },
+  "state": "active"
 }

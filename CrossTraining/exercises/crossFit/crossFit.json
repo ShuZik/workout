@@ -3,11 +3,9 @@
   "key": "cross_training",
   "title": "CrossFit",
   "description": "1. Choose the prescribed movements, repetitions, and loads, then arrange the equipment before starting.\n2. Complete each movement through its defined range before moving to the next station or round.\n3. Scale the load, repetition count, or movement variation when the required technique cannot be maintained.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Оберіть задані вправи, кількість повторень і ваги та розставте інвентар до початку.\n2. Виконуйте кожен рух у повній встановленій амплітуді, перш ніж переходити до наступної станції чи раунду.\n3. Зменшуйте вагу, кількість повторень або обирайте спрощений варіант, якщо не вдається зберегти потрібну техніку.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "intense"
 }

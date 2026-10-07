@@ -3,11 +3,9 @@
   "key": "jump_rope_squat_skipping",
   "title": "Squat Skipping",
   "description": "1. Lower into a comfortable half squat with the chest lifted, knees over the toes, and the rope behind the heels.\n2. Keep the half squat and make small, quick hops as the rope passes, turning it with the wrists from a slightly lower hand position.\n3. Hold the depth for the interval without letting the knees cave in, then stand up slowly and shake out the legs.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "warmUp",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15551",
     "vigorousCode": "15550"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "4 Cardio",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Опустіться в зручний напівприсід, груди підняті, коліна над носками, скакалка за п’ятами.\n2. Зберігаючи напівприсід, робіть невеликі швидкі підскоки при проходженні скакалки, обертаючи її кистями при трохи нижчому положенні рук.\n3. Утримуйте глибину весь інтервал, не зводячи коліна всередину, потім повільно встаньте й струсіть ноги.",
       "sectionTitle": "Кардіо"
     }
-  }
+  },
+  "state": "active"
 }

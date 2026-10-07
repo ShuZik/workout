@@ -3,11 +3,9 @@
   "key": "muay_thai_forward_backward_step",
   "title": "Forward/Backward Step",
   "description": "1. Begin in Muay Thai stance with knees soft, forearms high, and a consistent distance between the feet.\n2. Advance with the lead foot first and retreat with the rear foot first using short sliding steps.\n3. Move the second foot the same distance so the stance stays ready to check, teep, or strike.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "muayThai",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Почніть у стійці муай-тай: коліна м’які, передпліччя високо, відстань між стопами стала.\n2. Уперед рухайтеся передньою ногою першою, назад — задньою ногою першою, короткими ковзними кроками.\n3. Переміщуйте другу стопу на ту саму відстань, щоб стійка залишалася готовою до блоку, типу або удару.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

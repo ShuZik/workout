@@ -3,11 +3,9 @@
   "key": "judo_sode_guruma_jime",
   "title": "Sode Guruma Jime",
   "description": "1. From mount or behind, pass one arm around the partner's neck and grip your own opposite sleeve.\n2. Bring the other hand over and place the blade of that hand or forearm across the front of the neck.\n3. Draw the arms together gradually like a wheel and release immediately at a tap or signal.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. З положення верхи або ззаду проведіть одну руку навколо шиї партнера й захопіть свій протилежний рукав.\n2. Проведіть іншу руку зверху й покладіть ребро долоні або передпліччя на передню сторону шиї.\n3. Поступово зводьте руки як колесо й негайно відпус��айте при постукуванні чи сигналі.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

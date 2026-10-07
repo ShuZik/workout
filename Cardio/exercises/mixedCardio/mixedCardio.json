@@ -3,11 +3,9 @@
   "key": "mixed_cardio",
   "title": "Mixed Cardio",
   "description": "1. Choose two or more cardio modes and decide the order before the interval begins.\n2. Work at a sustainable pace in the first mode, then slow briefly before changing equipment or movement.\n3. Resume smoothly in the next mode and keep transitions controlled rather than sprinting between stations.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "cardio",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02000",
     "vigorousCode": "02006"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Conditioning",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Оберіть два або більше видів кардіо й визначте порядок до початку інтервалу.\n2. Виконуйте перший вид у посильному темпі, потім ненадовго сповільніться перед зміною обладнання або руху.\n3. Плавно продовжте наступний вид і контролюйте переходи, не спринтуючи між станціями.",
       "sectionTitle": "Фізична підготовка"
     }
-  }
+  },
+  "state": "active"
 }

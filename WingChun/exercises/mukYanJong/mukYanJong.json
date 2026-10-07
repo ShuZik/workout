@@ -3,11 +3,9 @@
   "key": "wing_chun_muk_yan_jong",
   "title": "Muk Yan Jong",
   "description": "1. Stand facing a securely mounted wooden dummy at forearm distance in the training stance, hands on the centreline.\n2. Work through the dummy form section by section, contacting the arms and leg with tan, bong, pak, and palm actions, angled steps, and low kicks.\n3. Use light to moderate contact with aligned wrists, and reset to the centreline-facing position after each section.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "wingChun",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте перед надійно закріпленим дерев’яним манекеном на відстані передпліччя в тренувальній стійці, руки на центральній лінії.\n2. Пройдіть форму на манекені за розділами, торкаючись його рук і ноги діями тан, бонг, пак і долонею, кроками під кутом і низькими ударами ногою.\n3. Використовуйте легкий або помірний контакт із вирівняними зап’ястками й після кожного розділу повертайтеся в положення обличчям до центральної лінії.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "hand_to_hand_submission_phase",
   "title": "Submission Phase Drill",
   "description": "1. Start on mats in a controlled top position over a trained partner and set a short time window.\n2. Isolate an arm or leg and apply a permitted painful hold slowly while the partner defends.\n3. Release instantly at a tap or verbal signal, reset when time ends, and swap roles.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "handToHandCombat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть на татамі в контрольованій позиції зверху над підготовленим партнером і задайте коротке вікно часу.\n2. Ізолюйте руку або ногу й повільно проводьте дозволений больовий прийом, поки партнер захищається.\n3. Відпускайте миттєво за поплескуванням або голосовим сигналом, після завершення часу почніть знову й поміняйтеся ролями.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

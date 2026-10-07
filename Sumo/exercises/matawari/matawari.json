@@ -3,11 +3,9 @@
   "key": "sumo_matawari",
   "title": "Matawari",
   "description": "1. Sit on a mat with the legs spread as wide as is comfortable and the knees and toes pointing up.\n2. Lengthen the spine and fold forward from the hips, walking the hands out in front of you.\n3. Hold a gentle stretch without bouncing, then walk the hands back and sit upright.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "sumo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02101",
     "vigorousCode": "02101"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Сядьте на килимок, розвівши ноги настільки широко, наскільки комфортно, коліна й носки дивляться вгору.\n2. Витягніть хребет і нахиліться вперед від кульшових суглобів, переставляючи руки вперед.\n3. Утримуйте м’яке розтягнення без пружних рухів, потім поверніть руки й випряміться.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

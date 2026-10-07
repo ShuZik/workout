@@ -3,11 +3,9 @@
   "key": "bjj_toreando_pass",
   "title": "Toreando Pass",
   "description": "1. Stand in a low base in front of the partner's open guard and grip both pants at the knees or shins.\n2. Push the legs to one side toward the mat while stepping quickly around the opposite side of the feet.\n3. Drop the chest across the partner, block the hip, and stabilize side control before releasing the leg grips.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Passes",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте в низьку стійку перед відкритим гардом партнера й візьміться за обидві холоші біля колін або гомілок.\n2. Відведіть ноги вбік до килима й швидко обійдіть стопи з протилежного боку.\n3. Опустіть груди на партнера, заблокуйте стегно й закріпіть бічний контроль, перш ніж відпустити ноги.",
       "sectionTitle": "Проходи гарду"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "cornish_wrestling_fore_hip",
   "title": "Fore Hip (Klun war-rag)",
   "description": "1. Grip the jackets, then slide your dominant arm under the partner's shoulder and around the back with the flat of the hand on the far hip.\n2. Turn so you both face the same way and step in front of both of the partner's legs, bringing your hips into the partner's lap.\n3. Lean forward to lift the partner's legs and rotate the partner over the hip onto the back, hold the jacket to control the fall, then shake hands and reset.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cornishWrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за куртки, потім проведіть провідну руку під плече партнера й навколо спини, поклавши долоню на його дальнє стегно.\n2. Розверніться так, щоб обидва дивилися в один бік, і ступіть перед обома його ногами, підводячи таз під партнера.\n3. Нахиліться вперед, відриваючи його ноги, і проверніть партнера через стегно на спину, тримайте куртку, контролюючи падіння, потім потисніть руки й почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

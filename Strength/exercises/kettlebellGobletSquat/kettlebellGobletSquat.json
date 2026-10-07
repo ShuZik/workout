@@ -3,12 +3,9 @@
   "key": "kettlebell_kettlebell_goblet_squat",
   "title": "Kettlebell Goblet Squat",
   "description": "1. Hold the kettlebell by the horns close to the chest and stand with feet about shoulder-width apart.\n2. Squat between the hips while the knees track over the toes and the elbows remain beneath the bell.\n3. Drive through the whole feet to stand without letting the weight pull the chest forward.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте гирю за роги біля грудей і станьте, поставивши стопи приблизно на ширині плечей.\n2. Присідайте, опускаючи таз між стегон, спрямовуючи коліна за лінією носків і тримаючи лікті під гирею.\n3. Відштовхніться всією стопою й встаньте, не дозволяючи вазі тягнути груди вперед.",
       "sectionTitle": "Гиря"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

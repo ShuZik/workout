@@ -3,11 +3,9 @@
   "key": "judo_o_guruma",
   "title": "O Guruma",
   "description": "1. Draw the partner forward to a front corner with sleeve and lapel while turning in.\n2. Place the straight leg across the front of the partner's thigh or hip line, higher than for ashi-guruma.\n3. Turn the upper body to wheel the partner over the axis of the extended leg, keeping the sleeve for the breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виведіть партнера до переднього кута за рукав і відворот, розвертаючись для входу.\n2. Виставте пряму ногу перед стегном або лінією таза партнера, вище, ніж в асі-гурумі.\n3. Розверніть тулуб, перекочуючи партнера навколо осі виставленої ноги, утримуючи рукав для страховки.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

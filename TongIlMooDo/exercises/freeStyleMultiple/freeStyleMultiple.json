@@ -3,11 +3,9 @@
   "key": "tong_il_moo_do_free_style_multiple",
   "title": "Free Style Multiple",
   "description": "1. Place one defender in the center of a padded area with several attackers spaced around, all agreeing on controlled speed and contact.\n2. Attackers come in one at a time on the coach's signal with a single attack; the defender deals with each using blocks, evasions, throws, or controlled counters and repositions for the next.\n3. Stop at the coach's call or any loss of control, let fallen partners clear the area, and rotate the defender role.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "tongIlMooDo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "pro",
   "section": "3 Group Sparring",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Поставте одного захисника в центр застеленої зони, довкола кілька атакувальників, усі домовилися про контрольовану швидкість і контакт.\n2. Атакувальники за сигналом тренера входять по одному з однією атакою; захисник справляється з кожним блоками, відходами, кидками чи контрольованими контратаками й перешиковується до наступного.\n3. Зупиняйтеся за командою тренера або за будь-якої втрати контролю, дайте партнерам, що впали, залишити зону, і міняйте роль захисника.",
       "sectionTitle": "Груповий спаринг"
     }
-  }
+  },
+  "state": "active"
 }

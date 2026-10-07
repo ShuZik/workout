@@ -3,11 +3,9 @@
   "key": "naginata_tsuki",
   "title": "Tsuki",
   "description": "1. From chudan, aim the kissaki at the partner's throat line with the shaft level.\n2. Step in with okuri-ashi and thrust straight by pushing the rear hand forward so the shaft slides through the front hand, calling out tsuki.\n3. Withdraw at once to chudan with zanshin; thrust at a partner only when they wear full bogu with a throat guard.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "naginata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із чюдану, тримаючи держак горизонтально, спрямуйте кіссакі на лінію горла партнера.\n2. Ступіть окурі-аші й уколіть прямо, штовхаючи задню руку вперед, щоб держак ковзнув крізь передню, з вигуком цукі.\n3. Одразу поверніться в чюдан із дзаншіном; коліть партнера лише в повному богу із захистом горла.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

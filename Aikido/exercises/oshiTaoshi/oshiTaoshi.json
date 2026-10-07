@@ -3,11 +3,9 @@
   "key": "aikido_oshi_taoshi",
   "title": "Oshi Taoshi",
   "description": "1. Hold uke's wrist with one hand and place the other hand on uke's elbow, keeping the arm straight.\n2. Step forward and push the elbow forward and down in an arc so uke bends and turns face down.\n3. Pin the straight arm to the mat at an angle with gradual pressure and release at uke's tap.",
-  "color": "#AF6ED7",
   "colorType": "violet",
   "workoutType": "aikido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть зап’ястя уке однією рукою, а другу покладіть на його лікоть, тримаючи руку прямою.\n2. Ступіть уперед і дугою штовхніть лікоть уперед і вниз, щоб уке зігнувся й ліг обличчям донизу.\n3. Притисніть пряму руку до килима під кутом із поступовим тиском і відпустіть, коли уке плесне.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

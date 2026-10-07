@@ -3,11 +3,9 @@
   "key": "cornish_wrestling_back_heave",
   "title": "Back Heave (Halyans war-dhelergh)",
   "description": "1. As the partner attacks hip to hip, take the jacket across the lower back and pull the partner tight to you.\n2. Lean away and lift, taking the partner's weight off the legs while keeping the grip.\n3. Rotate the partner over your leg toward the rear to land on the back behind you, turn so you do not land on your own back, then reset.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "cornishWrestling",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли партнер атакує стегно до стегна, візьміть куртку поперек попереку й щільно притягніть його до себе.\n2. Відхиліться назад і підніміть партнера, знімаючи вагу з його ніг і не відпускаючи захоплення.\n3. Проверніть партнера через свою ногу назад, щоб він упав на спину позаду вас, доверніться, щоб самому не впасти на спину, потім почніть знову.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

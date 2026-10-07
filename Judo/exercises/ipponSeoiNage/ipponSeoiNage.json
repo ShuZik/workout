@@ -3,11 +3,9 @@
   "key": "judo_ippon_seoi_nage",
   "title": "Ippon Seoi Nage",
   "description": "1. From a sleeve grip, step in and turn while the free arm slides under the partner's armpit to hook the upper arm in the elbow crook.\n2. Bend the knees deeply so the hips sit below the partner's center and pull the partner tight across the back.\n3. Extend the legs and turn the shoulders to project forward, keeping the sleeve so the partner lands in a side breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Te-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захоплення за рукав увійдіть і розверніться, проводячи вільну руку під пахву партнера й захоплюючи його плече ліктьовим згином.\n2. Глибоко зігніть коліна, щоб таз опинився нижче центру ваги партнера, і щільно притисніть його до спини.\n3. Випряміть ноги й розверніть плечі, кидаючи вперед, утримуючи рукав, щоб партнер приземлився зі страховкою на бік.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

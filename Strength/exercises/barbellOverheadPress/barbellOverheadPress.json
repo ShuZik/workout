@@ -3,12 +3,9 @@
   "key": "strength_barbell_overhead_press",
   "title": "Barbell Overhead Press",
   "description": "1. Hold the bar at the shoulders with hands just outside shoulder width, feet under the hips, and trunk braced.\n2. Move the head slightly back and press the bar vertically without bending the knees or leaning the torso.\n3. Finish with arms straight and bar over midfoot, then lower it to the shoulders under control.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте штангу на рівні плечей хватом трохи ширше за плечі, стопи під тазом, корпус напружений.\n2. Злегка відведіть голову назад і вижміть штангу вертикально, не згинаючи колін і не відхиляючи корпус.\n3. Завершіть із прямими руками й штангою над серединою стопи, потім контрольовано опустіть її на плечі.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

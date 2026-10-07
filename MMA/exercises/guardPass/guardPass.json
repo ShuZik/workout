@@ -3,11 +3,9 @@
   "key": "mma_guard_pass",
   "title": "Guard Pass",
   "description": "1. From top guard, build upright posture and control the partner's hips or legs so the knees cannot freely reconnect.\n2. Open the guard, move one leg at a time past the partner's knees, and keep the elbows and head protected from submissions.\n3. Turn the hips and chest across the partner, establish side control, and stabilize before releasing the leg controls.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "mma",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Ground",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Перебуваючи зверху в гарді, випряміть корпус і контролюйте таз або ноги партнера, щоб його коліна не могли вільно знову зімкнутися.\n2. Розкрийте гард, проводьте ноги по одній повз його коліна й захищайте лікті та голову від больових і задушливих.\n3. Переведіть таз і груди поперек партнера, займіть утримання збоку й стабілізуйтеся, перш ніж відпустити ноги.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

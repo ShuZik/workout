@@ -3,11 +3,9 @@
   "key": "kyudo_toshu_renshu",
   "title": "Toshu-renshu",
   "description": "1. Stand on an imagined shooting line without bow or arrow and set the feet and posture as for a real shot.\n2. Mime each of the eight stages with empty hands, raising and drawing apart slowly while keeping the shoulders low and the spine upright.\n3. Hold the imagined full draw, open the right hand for the release, keep zanshin, and repeat at an even rhythm.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "kyudo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на уявну лінію стрільби без лука й стріли та встановіть стопи й поставу як для справжнього пострілу.\n2. Імітуйте порожніми руками кожен із восьми етапів, повільно піднімаючи й розтягуючи, плечі опущені, хребет прямий.\n3. Утримайте уявний повний натяг, розкрийте праву руку для випуску, збережіть дзансін і повторюйте в рівному ритмі.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

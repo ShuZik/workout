@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "productID": "fitness",
-  "minimumAppVersion": "1.1.5",
+  "minimumAppVersion": "1.1.7",
   "tags": [
     {
       "colorType": "red",
@@ -1238,6 +1238,70 @@
     {
       "icon": "fitness/exercises/Other/work/Icon.png",
       "json": "fitness/exercises/Other/work/work.json"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/sidePlankHipLift/sidePlankHipLift.json",
+      "icon": "fitness/exercises/CoreTraining/sidePlankHipLift/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/heelTap/heelTap.json",
+      "icon": "fitness/exercises/CoreTraining/heelTap/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/plankShoulderTap/plankShoulderTap.json",
+      "icon": "fitness/exercises/CoreTraining/plankShoulderTap/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/sidePlankReachThrough/sidePlankReachThrough.json",
+      "icon": "fitness/exercises/CoreTraining/sidePlankReachThrough/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/CoreTraining/deadBugHeelTap/deadBugHeelTap.json",
+      "icon": "fitness/exercises/CoreTraining/deadBugHeelTap/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/WarmUp/scapularPushUp/scapularPushUp.json",
+      "icon": "fitness/exercises/WarmUp/scapularPushUp/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/WarmUp/wallSlide/wallSlide.json",
+      "icon": "fitness/exercises/WarmUp/wallSlide/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/WarmUp/hipHingeDrill/hipHingeDrill.json",
+      "icon": "fitness/exercises/WarmUp/hipHingeDrill/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/WarmUp/lateralShuffle/lateralShuffle.json",
+      "icon": "fitness/exercises/WarmUp/lateralShuffle/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/Cooldown/wristFlexorStretch/wristFlexorStretch.json",
+      "icon": "fitness/exercises/Cooldown/wristFlexorStretch/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/Cooldown/wristExtensorStretch/wristExtensorStretch.json",
+      "icon": "fitness/exercises/Cooldown/wristExtensorStretch/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/Cooldown/soleusStretch/soleusStretch.json",
+      "icon": "fitness/exercises/Cooldown/soleusStretch/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/Cooldown/standingSideStretch/standingSideStretch.json",
+      "icon": "fitness/exercises/Cooldown/standingSideStretch/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/SuspensionTraining/suspensionFacePull/suspensionFacePull.json",
+      "icon": "fitness/exercises/SuspensionTraining/suspensionFacePull/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/SuspensionTraining/suspensionCalfRaise/suspensionCalfRaise.json",
+      "icon": "fitness/exercises/SuspensionTraining/suspensionCalfRaise/Icon.png"
+    },
+    {
+      "json": "fitness/exercises/SuspensionTraining/suspensionSidePlank/suspensionSidePlank.json",
+      "icon": "fitness/exercises/SuspensionTraining/suspensionSidePlank/Icon.png"
     }
   ],
   "workouts": [

@@ -3,11 +3,9 @@
   "key": "fencing_coule",
   "title": "Coulé",
   "description": "1. Engage the partner's blade in one line at lunging distance, both fencers masked.\n2. Keep contact and slide your blade forward along the partner's blade toward the target while extending the arm, maintaining slight opposition so the line stays closed.\n3. Lunge to finish the hit along the blade, recover to en garde, and swap roles after the set.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Blade Actions",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміть з’єднання з клинком партнера в одній лінії на дистанції випаду, обидва в масках.\n2. Зберігаючи контакт, ковзайте клинком уздовж клинка партнера до цілі, випрямляючи руку й тримаючи легку опозицію, щоб лінія лишалася закритою.\n3. Випадом завершіть укол уздовж клинка, поверніться в стійку й поміняйтеся ролями після серії.",
       "sectionTitle": "Дії клинком"
     }
-  }
+  },
+  "state": "active"
 }

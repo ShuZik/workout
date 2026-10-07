@@ -3,12 +3,9 @@
   "key": "cross_training_barbell_shoulder_press",
   "title": "Barbell Shoulder Press",
   "description": "1. Hold the bar at the shoulders with hands just outside shoulder width, feet under the hips, and legs straight.\n2. Brace the trunk, move the head slightly back, and press the bar vertically past the face.\n3. Finish with arms straight and bar over the midfoot, then lower it to the shoulders under control.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте штангу на рівні плечей, кисті трохи ширше за плечі, стопи під тазом, ноги прямі.\n2. Напружте корпус, злегка відведіть голову назад і вижміть штангу вертикально повз обличчя.\n3. Завершіть на прямих руках зі штангою над серединою стопи, потім підконтрольно опустіть її на плечі.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

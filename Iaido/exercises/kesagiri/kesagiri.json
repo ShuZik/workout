@@ -3,11 +3,9 @@
   "key": "iaido_kesagiri",
   "title": "Kesagiri",
   "description": "1. Walk forward toward the opponent and, as the right foot steps, draw with the edge turned up in a rising diagonal cut from the right hip toward the left shoulder line.\n2. Turn the blade over above the head and cut back down diagonally through the same line with both hands.\n3. Lower the sword to the side for chiburi, resheathe, and step back to the start with zanshin.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "iaido",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "3 Standing Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Ідіть до суперника й на кроці правої ноги оголіть меч лезом догори висхідним діагональним розрізом від правого стегна до лінії лівого плеча.\n2. Переверніть клинок над головою й двома руками рубайте назад униз по діагоналі тією самою лінією.\n3. Опустіть меч убік для тібурі, вкладіть у піхви й відступіть на початок із дзансіном.",
       "sectionTitle": "Форми з положення стоячи"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "judo_sumi_gaeshi",
   "title": "Sumi Gaeshi",
   "description": "1. From a bent-over or close grip, reach over the partner's back or hold the sleeve and lapel.\n2. Sit down close to the partner and hook the inner thigh with the instep while falling back.\n3. Lift with the instep and pull with the hands to roll the partner over the shoulder corner into a breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із щільного захоплення або коли партнер нахилений, проведіть руку через його спину чи тримайте рукав і відворот.\n2. Сядьте впритул до партнера й, падаючи назад, зачепіть підйомом стопи внутрішній бік його стегна.\n3. Підкиньте підйомом стопи й потягніть руками, перекочуючи партнера через кут плеча у страховку.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

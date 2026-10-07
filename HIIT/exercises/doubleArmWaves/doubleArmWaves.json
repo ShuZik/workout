@@ -3,11 +3,9 @@
   "key": "battle_ropes_double_arm_waves",
   "title": "Double-Arm Waves",
   "description": "1. Stand facing the anchor with one rope end in each hand, knees and hips bent, and trunk braced.\n2. Lift and drive both hands together to send matching waves along the ropes.\n3. Absorb each downward action with the knees and hips while the spine remains neutral.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "2 Battle Ropes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до точки кріплення, тримаючи по кінцю канату в кожній руці; коліна й кульшові суглоби зігнуті, корпус напружений.\n2. Одночасно піднімайте й із силою опускайте обидві руки, щоб посилати однакові хвилі канатами.\n3. Амортизуйте кожен рух донизу колінами й тазом, зберігаючи хребет у нейтральному положенні.",
       "sectionTitle": "Канати"
     }
-  }
+  },
+  "state": "intense"
 }

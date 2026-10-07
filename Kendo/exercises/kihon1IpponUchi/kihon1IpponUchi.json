@@ -3,11 +3,9 @@
   "key": "kendo_kihon_1",
   "title": "Kihon 1 Ippon-uchi",
   "description": "1. Motodachi and kakarite face each other in chudan with bokuto at striking distance.\n2. As motodachi opens men, then kote, then do, and finally offers tsuki, kakarite steps in and strikes or thrusts each target with one action and kiai.\n3. Stop each strike just short of contact, show zanshin by returning the tip to center, and both reset to chudan.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "kendo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Partner Kihon",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Мотодаті й какарите стоять одне проти одного в тюдан із бокенами на дистанції удару.\n2. Коли мотодаті відкриває мен, потім коте, потім до й наприкінці пропонує цукі, какарите входить і вражає кожну ціль однією дією з кіай.\n3. Зупиняйте кожен удар перед контактом, показуйте дзансін, повертаючи кінчик у центр, і обоє повертаються в тюдан.",
       "sectionTitle": "Парний кіхон"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "calisthenics_split_squat",
   "title": "Split Squat",
   "description": "1. Take a long staggered stance with both feet pointing forward and the rear heel raised.\n2. Lower the rear knee toward the floor while the front knee tracks over the toes and the torso stays upright.\n3. Press through the front foot to rise without moving the feet, then complete the same work with the other leg forward.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Training",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте у довгу розніжку, спрямувавши обидві стопи вперед і піднявши задню п’яту.\n2. Опускайте заднє коліно до підлоги, спрямовуючи переднє коліно за лінією носка й зберігаючи тулуб вертикальним.\n3. Відштовхніться передньою стопою та підніміться, не рухаючи стопи, потім виконайте той самий обсяг з іншою ногою попереду.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "state": "active"
 }

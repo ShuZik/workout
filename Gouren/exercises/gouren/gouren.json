@@ -3,11 +3,9 @@
   "key": "gouren",
   "title": "Gouren",
   "description": "1. Begin standing barefoot on a mat with a trained partner, both wearing wrestling shirts, and shake hands.\n2. Take grips on the partner's shirt only and attempt trips and throws from a standing position, with no groundwork.\n3. Control the partner's fall, stop as soon as anyone touches the mat with more than the feet, and restart standing.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "gouren",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть стоячи босоніж на килимі з підготовленим партнером, обидва в борцівських сорочках, і потисніть руки.\n2. Беріться лише за сорочку партнера й пробуйте підніжки та кидки в стійці, без боротьби в партері.\n3. Контролюйте падіння партнера, зупиняйтеся, щойно хтось торкнеться килима не лише стопами, і починайте знову в стійці.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

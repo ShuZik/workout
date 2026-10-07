@@ -3,11 +3,9 @@
   "key": "judo_yoko_otoshi",
   "title": "Yoko Otoshi",
   "description": "1. Draw the partner sideways onto one foot with sleeve and lapel control.\n2. Slide your leg along the outside of the partner's foot and drop to your side close to the partner's feet.\n3. Keep pulling the upper body down to the side so the partner falls over your body line into a side breakfall.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "8 Sutemi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Захопленням за рукав і відворот виведіть партнера вбік на одну стопу.\n2. Прослизніть ногою вздовж зовнішнього боку його стопи й упадіть на бік біля його стоп.\n3. Продовжуйте тягнути тулуб униз і вбік, щоб партнер упав через лінію вашого тіла у страховку на бік.",
       "sectionTitle": "Сутемі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

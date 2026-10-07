@@ -3,11 +3,9 @@
   "key": "kick_boxing_corkscrew_punch",
   "title": "Corkscrew Punch",
   "description": "1. From guard, start the punch on a straight line from the cheek while the other hand protects the face.\n2. Near extension, rotate the forearm strongly so the thumb turns down and the palm faces outward, letting the fist curve slightly inward around the opponent's guard.\n3. Unwind the rotation as the fist returns along the same path and restore guard and stance.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із захисту почніть удар по прямій від щоки, другою рукою прикриваючи обличчя.\n2. Ближче до випрямлення сильно проверніть передпліччя так, щоб великий палець дивився вниз, а долоня назовні, і кулак трохи огинав захист суперника всередину.\n3. Зніміть обертання, повертаючи кулак тією самою траєкторією, і віднов��ть захист та стійку.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }

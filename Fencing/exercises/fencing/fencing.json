@@ -3,11 +3,9 @@
   "key": "fencing_main",
   "title": "Fencing",
   "description": "1. Take en garde with the front foot pointing at the partner or target, knees bent, rear arm raised, and the weapon arm relaxed in line.\n2. Move with advances and retreats, extend the arm and lunge at the target, and add simple parries and ripostes at a controlled pace.\n3. Recover to en garde after every action, keep the distance, and stop the action immediately at the trainer's or partner's halt call.",
-  "color": "#808A94",
   "colorType": "gray",
   "workoutType": "fencing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Займіть бойову стійку: передня стопа спрямована на партнера чи мішень, коліна зігнуті, задня рука піднята, озброєна рука розслаблена в лінії.\n2. Пересувайтеся кроками вперед і назад, випрямляйте руку й робіть випад у мішень, додаючи прості захисти й відповіді в контрольованому темпі.\n3. Після кожної дії повертайтеся в стійку, тримайте дистанцію й одразу зупиняйтеся за командою «стоп» тренера чи партнера.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

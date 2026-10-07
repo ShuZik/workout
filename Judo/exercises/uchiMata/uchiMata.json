@@ -3,11 +3,9 @@
   "key": "judo_uchi_mata",
   "title": "Uchi Mata",
   "description": "1. Draw the partner forward and up to a front corner while turning in on the supporting foot.\n2. Swing the throwing leg up between the partner's legs to lift the inner thigh while the upper body bends forward.\n3. Turn the head and shoulders toward the sleeve hand to project the partner, keeping the sleeve for a controlled landing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Ashi-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Виведіть партнера вперед-угору до переднього кута, розвертаючись на опорній нозі.\n2. Махніть кидальною ногою вгору між ногами партнера, піднімаючи внутрішній бік стегна й нахиляючи тулуб уперед.\n3. Поверніть голову й плечі до руки на рукаві, кидаючи партнера й утримуючи рукав для контрольованої страховки.",
       "sectionTitle": "Асі-вадза"
     }
-  }
+  },
+  "state": "active"
 }

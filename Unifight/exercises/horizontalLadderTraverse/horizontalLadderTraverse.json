@@ -3,11 +3,9 @@
   "key": "unifight_horizontal_ladder",
   "title": "Horizontal Ladder Traverse",
   "description": "1. Grip the first rung of an overhead ladder with straight arms and the feet clear of the floor.\n2. Travel hand over hand along the rungs, keeping the body quiet and the shoulders engaged.\n3. Drop down at the end with bent knees, rest briefly, and repeat.",
-  "color": "#90A994",
   "colorType": "sage",
   "workoutType": "unifight",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "6 Conditioning",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за першу перекладину рукоходу прямими руками, ноги не торкаються підлоги.\n2. Перехоплюйтеся по перекладинах, тримаючи корпус спокійним, а плечі ввімкненими.\n3. Наприкінці зістрибніть на зігнуті коліна, коротко відпочиньте й повторіть.",
       "sectionTitle": "Фізпідготовка"
     }
-  }
+  },
+  "state": "active"
 }

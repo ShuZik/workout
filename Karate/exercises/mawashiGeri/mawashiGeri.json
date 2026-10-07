@@ -3,11 +3,9 @@
   "key": "karate_mawashi_geri",
   "title": "Mawashi Geri",
   "description": "1. Shift weight to the supporting leg and chamber the kicking knee across the target line.\n2. Pivot the supporting foot and rotate the hip as the lower leg extends toward the target with the instep or ball of the foot.\n3. Bend the knee immediately after contact and return the foot to stance without letting the torso fall away.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "5 Kicks",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Перенесіть вагу на опорну ногу й підніміть зігнуте коліно ударної ноги поперек лінії цілі.\n2. Розверніть опорну стопу й таз, випрямляючи гомілку до цілі підйомом стопи або подушечкою.\n3. Одразу після контакту зігніть коліно й поверніть стопу в стійку, не завалюючи корпус назад.",
       "sectionTitle": "Удари ногами"
     }
-  }
+  },
+  "state": "active"
 }

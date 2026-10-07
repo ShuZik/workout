@@ -3,11 +3,9 @@
   "key": "sqay_sword_wrist_circles",
   "title": "Sword Wrist Circles",
   "description": "1. Hold the training sword in front of the body with a relaxed grip and the shield arm raised in guard.\n2. Rotate the blade in tight circles clockwise and counterclockwise using only the wrist, then trace figure-eights.\n3. Keep the forearm still and the breathing steady for the round, switching direction whenever the grip starts to tense.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "sqay",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "6 Conditioning",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Тримайте тренувальний меч перед собою розслабленим хватом, руку зі щитом підніміть у захист.\n2. Обертайте клинок невеликими колами за годинниковою стрілкою й проти неї лише за рахунок кисті, потім описуйте вісімки.\n3. Увесь раунд тримайте передпліччя нерухомим і дихайте рівно, змінюючи напрямок, щойно хват починає напружуватися.",
       "sectionTitle": "Фізпідготовка"
     }
-  }
+  },
+  "state": "active"
 }

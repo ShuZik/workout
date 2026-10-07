@@ -1,0 +1,88 @@
+{
+  "id": "13.93",
+  "key": "strength_seated_calf_raise",
+  "title": "Seated Calf Raise",
+  "description": "Sit on a stable chair with feet flat and knees bent. Lift both heels while keeping the balls of your feet on the floor, then lower slowly.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Seated Calf Raise",
+      "description": "Sit on a stable chair with feet flat and knees bent. Lift both heels while keeping the balls of your feet on the floor, then lower slowly.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Elevación de talones sentado",
+      "description": "Siéntate en una silla estable con los pies apoyados y las rodillas flexionadas. Eleva los talones manteniendo el antepié en el suelo y baja despacio.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Elevação de panturrilhas sentado",
+      "description": "Sente em uma cadeira estável com os pés apoiados e os joelhos dobrados. Levante os calcanhares mantendo a parte da frente dos pés no chão e abaixe devagar.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Élévation des mollets assis",
+      "description": "Asseyez-vous sur une chaise stable, pieds à plat et genoux pliés. Levez les talons en gardant l’avant des pieds au sol, puis redescendez lentement.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Wadenheben im Sitzen",
+      "description": "Setze dich auf einen stabilen Stuhl, Füße flach am Boden und Knie gebeugt. Hebe die Fersen bei aufliegenden Fußballen und senke sie langsam ab.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Sollevamento dei talloni da seduto",
+      "description": "Siediti su una sedia stabile con i piedi appoggiati e le ginocchia piegate. Alza i talloni mantenendo gli avampiedi a terra, poi abbassali lentamente.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "坐姿提踵",
+      "description": "坐在稳固的椅子上，双脚平放，膝盖弯曲。前脚掌保持贴地，抬起双脚脚跟，再缓慢放下。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "シーテッドカーフレイズ",
+      "description": "安定した椅子に座り、膝を曲げて足裏を床につけます。前足部を床につけたまま両かかとを上げ、ゆっくり下ろします。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "앉아서 종아리 올리기",
+      "description": "안정적인 의자에 앉아 무릎을 굽히고 발을 바닥에 붙이세요. 발 앞부분을 바닥에 둔 채 양쪽 뒤꿈치를 들어 올린 뒤 천천히 내리세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ยกส้นเท้าในท่านั่ง",
+      "description": "นั่งบนเก้าอี้ที่มั่นคง งอเข่าและวางเท้าราบ ยกส้นเท้าทั้งสองโดยให้หน้าเท้าอยู่บนพื้นแล้วลดลงช้า ๆ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Подъём на носки сидя",
+      "description": "Сядьте на устойчивый стул, согните колени и поставьте стопы на пол. Поднимите пятки, оставляя переднюю часть стоп на полу, затем медленно опустите.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Піднімання на носки сидячи",
+      "description": "Сядьте на стійкий стілець, зігніть коліна та поставте стопи на підлогу. Підніміть п’яти, залишаючи передню частину стоп на підлозі, потім повільно опустіть.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "state": "active"
+}

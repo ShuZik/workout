@@ -3,11 +3,9 @@
   "key": "judo_ko_uchi_gaeshi",
   "title": "Ko Uchi Gaeshi",
   "description": "1. As a trained partner reaps your heel with ko-uchi-gari, let the foot move with the reap instead of resisting.\n2. Turn the upper body and pull the partner's sleeve in the direction of the reap so the partner's weight passes beyond the reaping leg.\n3. Rotate the partner down to the side and guide the breakfall before stabilizing.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Te-waza",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Коли підготовлений партнер підсікає вашу п’яту ко-учі-гарі, дозвольте стопі рухатися разом із підсічкою, не опираючись.\n2. Розверніть тулуб і тягніть рукав партнера в напрямку підсічки, щоб його вага пішла далі підсікаючої ноги.\n3. Перекиньте партнера вбік на татамі й спрямуйте страховку, потім закріпіться.",
       "sectionTitle": "Те-вадза"
     }
-  }
+  },
+  "state": "active"
 }

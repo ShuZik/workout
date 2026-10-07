@@ -3,11 +3,9 @@
   "key": "resistance_band_band_overhead_press",
   "title": "Band Overhead Press",
   "description": "1. Stand on the middle of the band and hold the ends at shoulder height with wrists over elbows.\n2. Brace the trunk and press both hands overhead without leaning backward.\n3. Lower the hands to shoulder height under control while the knees and torso remain still.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02052",
     "vigorousCode": "02050"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Resistance Bands",
   "availableFrom": "1.1.4",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на середину гуми й тримайте кінці на рівні плечей, зап’ястя над ліктями.\n2. Напружте корпус і вижміть обидві руки над головою, не відхиляючись назад.\n3. Контрольовано опустіть руки до рівня плечей, зберігаючи коліна й корпус нерухомими.",
       "sectionTitle": "Гуми опору"
     }
-  }
+  },
+  "state": "active"
 }

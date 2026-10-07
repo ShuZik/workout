@@ -3,11 +3,9 @@
   "key": "core_training_side_plank",
   "title": "Side Plank",
   "description": "1. Lie on one side with the supporting elbow under the shoulder and the feet stacked or staggered.\n2. Press the forearm and feet into the floor to lift the hips until the head, trunk, and legs form one line.\n3. Keep the pelvis stacked without rotating forward, then lower under control and repeat on the other side.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "coreTraining",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02020"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Base",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на бік, розташуйте опорний лікоть під плечем, а стопи — одна на одній або зі зміщенням.\n2. Тисніть передпліччям і стопами в підлогу, піднімаючи таз, доки голова, корпус і ноги не утворять одну лінію.\n3. Тримайте боки таза один над одним, не повертаючись уперед, потім контрольовано опустіться й повторіть на іншому боці.",
       "sectionTitle": "База"
     }
-  }
+  },
+  "state": "active"
 }

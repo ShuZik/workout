@@ -3,11 +3,9 @@
   "key": "battle_ropes_alternating_waves",
   "title": "Alternating Waves",
   "description": "1. Stand facing the anchor with one rope end in each hand, knees and hips bent, and trunk braced.\n2. Raise one hand as the other drives down to send alternating waves along both ropes.\n3. Keep the waves reaching the anchor while the shoulders stay down and the hips remain stable.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "hiit",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "basic",
   "section": "2 Battle Ropes",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте обличчям до точки кріплення, тримаючи по кінцю канату в кожній руці; коліна й кульшові суглоби зігнуті, корпус напружений.\n2. Піднімайте одну руку, водночас із силою опускаючи іншу, щоб посилати почергові хвилі обома канатами.\n3. Стежте, щоб хвилі доходили до точки кріплення, плечі залишалися опущеними, а таз стабільним.",
       "sectionTitle": "Канати"
     }
-  }
+  },
+  "state": "intense"
 }

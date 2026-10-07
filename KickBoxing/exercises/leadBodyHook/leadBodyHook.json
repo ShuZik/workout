@@ -3,11 +3,9 @@
   "key": "kick_boxing_lead_body_hook",
   "title": "Lead Body Hook",
   "description": "1. From guard, lower with the knees and shift the head slightly outside while the rear hand stays high.\n2. Pivot the lead foot and rotate the hips so the bent lead fist travels into the side of the torso.\n3. Retract directly to the cheek and recover stance before adding a kick or another punch.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "2 Foundations",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із захисту опустіться за рахунок колін і трохи змістіть голову назовні, тримаючи задню руку високо.\n2. Поверніть передню стопу й таз, щоб зігнутий передній кулак увійшов у бік корпусу.\n3. Одразу поверніть руку до щоки й відновіть стійку, перш ніж додати удар ногою або ще один удар рукою.",
       "sectionTitle": "Основи"
     }
-  }
+  },
+  "state": "active"
 }

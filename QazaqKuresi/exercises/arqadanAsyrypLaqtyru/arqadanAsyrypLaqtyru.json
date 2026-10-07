@@ -3,11 +3,9 @@
   "key": "qazaq_kuresi_arqadan_asyryp_laqtyru",
   "title": "Arqadan Asyryp Laqtyru",
   "description": "1. Grip the sleeve and belt, then turn your back fully to the partner with the hips set low.\n2. Pull the partner onto your back and lift through the legs while turning toward the throwing side.\n3. Throw the partner over your back onto the shoulder blades, keep hold of the sleeve to slow the fall, and stay on your feet.",
-  "color": "#67C4ED",
   "colorType": "cyan",
   "workoutType": "qazaqKuresi",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Візьміться за рукав і пояс, потім повністю поверніться до партнера спиною, низько опустивши таз.\n2. Затягніть партнера на спину й підніміть його ногами, повертаючись у бік кидка.\n3. Киньте партнера через спину на лопатки, утримуючи рукав, щоб уповільнити падіння, і самі залишайтеся на ногах.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "suspension_suspension_plank",
   "title": "Suspension Plank",
   "description": "1. Place both feet securely in the cradles and set the hands or forearms directly under the shoulders.\n2. Extend the legs and brace the abdomen and glutes to form a straight suspended plank.\n3. Keep equal strap tension and hold the pelvis level without sagging or drawing the knees forward.",
-  "color": "#01C5A5",
   "colorType": "teal",
   "workoutType": "suspensionTraining",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02022",
     "vigorousCode": "02057"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Core",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Надійно поставте обидві стопи в петлі, а долоні чи передпліччя розташуйте прямо під плечима.\n2. Випряміть ноги й напружте прес і сідниці, утворюючи пряму підвішену планку.\n3. Зберігайте однаковий натяг петель і рівний таз, не прогинаючись і не підтягуючи коліна вперед.",
       "sectionTitle": "Корпус"
     }
-  }
+  },
+  "state": "active"
 }

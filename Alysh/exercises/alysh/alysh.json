@@ -3,11 +3,9 @@
   "key": "alysh",
   "title": "Alysh",
   "description": "1. Begin standing on mats with a trained partner in jackets and belts, both hands gripping the partner's belt.\n2. Move, lift, and turn the partner using the belt grip while keeping both hands on the belt at all times.\n3. Lower every throw under control, stop when a partner lands, and reset to the belt grip.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "alysh",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть стоячи на килимі з підготовленим партнером у куртках і поясах, обидві руки тримають пояс партнера.\n2. Пересувайте, піднімайте й повертайте партнера захватом за пояс, постійно тримаючи його обома руками.\n3. Опускайте кожен кидок під контролем, зупиняйтеся, коли партнер приземлиться, і знову беріть захват за пояс.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "gouren_le",
   "title": "Le (Wrestlers' Oath)",
   "description": "1. Line up in two rows facing your opponents in front of the referee and stand tall.\n2. Raise the right arm to shoulder height and recite the oath to wrestle loyally, without treachery or brutality.\n3. Step forward, offer your hand and cheek to the opponent, and take the opening hold to begin.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "gouren",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Вишикуйтеся у дві шеренги обличчям до суперників перед суддею та станьте рівно.\n2. Підніміть праву руку на рівень плеча й промовте клятву боротися чесно, без підступності й брутальності.\n3. Ступіть уперед, простягніть суперникові руку й щоку та візьміть початкове захоплення, щоб почати.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

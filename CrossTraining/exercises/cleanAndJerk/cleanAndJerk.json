@@ -3,12 +3,9 @@
   "key": "cross_training_clean_and_jerk",
   "title": "Clean and Jerk",
   "description": "1. Perform a controlled clean from the floor and receive the bar on the front shoulders with a stable rack position.\n2. Reset the feet, brace the trunk, and dip straight down a short distance with the torso upright.\n3. Drive the bar overhead into a stable split or power stance, recover to standing, then return the bar safely.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Виконайте контрольоване взяття штанги на груди з підлоги й прийміть її на передню частину плечей у стійкому положенні.\n2. Переставте стопи, напружте корпус і зробіть короткий вертикальний підсід із прямим тулубом.\n3. Виштовхніть штангу над головою в стійкі ножиці або в стійку, випряміться й безпечно опустіть штангу.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

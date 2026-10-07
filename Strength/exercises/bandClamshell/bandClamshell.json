@@ -3,11 +3,9 @@
   "key": "resistance_band_band_clamshell",
   "title": "Band Clamshell",
   "description": "1. Lie on one side with hips and knees bent, feet together, and a loop band above the knees.\n2. Keep the pelvis stacked and lift the top knee against the band without separating the feet.\n3. Lower the knee slowly without rolling the waist backward, then switch sides.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02052",
     "vigorousCode": "02050"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Resistance Bands",
   "availableFrom": "1.1.4",
@@ -86,5 +83,6 @@
       "description": "1. Ляжте на бік, зігнувши стегна й коліна, стопи разом, міні-гума над колінами.\n2. Утримуйте таз рівно, одну кістку над іншою, і піднімайте верхнє коліно проти гуми, не розводячи стоп.\n3. Повільно опустіть коліно, не завалюючи талію назад, потім змініть бік.",
       "sectionTitle": "Гуми опору"
     }
-  }
+  },
+  "state": "active"
 }

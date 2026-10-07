@@ -3,11 +3,9 @@
   "key": "pencak_silat_jurus_regu",
   "title": "Jurus Regu",
   "description": "1. Line up a team of three with enough space that no arm or leg can touch, all facing the same direction in the ready stance.\n2. Perform the standard team routine together, matching timing, stance depth, and direction changes to a shared count.\n3. Hold the final salute together, then identify where the synchrony broke and repeat that segment.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "pencakSilat",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Group Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Вишикуйте команду з трьох осіб на такій відстані, щоб руки й ноги не могли торкнутися; усі стоять у готовій стійці обличчям в один бік.\n2. Виконайте стандартний командний комплекс разом, узгоджуючи темп, глибину стійок і зміни напрямку під спільний рахунок.\n3. Разом утримайте заключне привітання, потім знайдіть місце, де порушилася синхронність, і повторіть цей відрізок.",
       "sectionTitle": "Групова робота"
     }
-  }
+  },
+  "state": "active"
 }

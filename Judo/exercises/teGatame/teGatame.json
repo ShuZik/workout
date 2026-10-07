@@ -3,11 +3,9 @@
   "key": "judo_te_gatame",
   "title": "Te Gatame",
   "description": "1. Control the partner's wrist with one hand and keep the arm straight with the palm turned up.\n2. Place the other hand or forearm against the back of the partner's elbow while staying close.\n3. Pull the wrist and press the elbow only gradually against the joint and release immediately at a tap.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "7 Groundwork",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Контролюйте зап’ястя партнера однією рукою, утримуючи руку прямою долонею вгору.\n2. Приставте іншу долоню або передпліччя до тильного боку його ліктя, залишаючись упритул.\n3. Тягніть зап’ястя й тисніть на лікоть лише поступово та негайно відпускайте при постукуванні.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

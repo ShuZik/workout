@@ -3,12 +3,9 @@
   "key": "strength_dumbbell_romanian_deadlift",
   "title": "Dumbbell Romanian Deadlift",
   "description": "1. Hold dumbbells against the thighs with feet hip-width apart, knees soft, and spine neutral.\n2. Push the hips back while the dumbbells slide close to the legs and the shins remain nearly vertical.\n3. Stop at hamstring tension, then squeeze the glutes to bring the hips forward and stand.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Тримайте гантелі біля стегон, стопи на ширині таза, коліна злегка зігнуті, спина нейтральна.\n2. Відводьте таз назад, ковзаючи гантелями вздовж ніг і зберігаючи гомілки майже вертикальними.\n3. Зупиніться, щойно відчуєте натяг задньої поверхні стегна, потім стисніть сідниці, подайте таз уперед і випряміться.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

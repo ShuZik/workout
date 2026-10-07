@@ -3,11 +3,9 @@
   "key": "tabata_plank",
   "title": "Plank",
   "description": "1. Place the elbows under the shoulders or the hands under the shoulders and extend both legs behind you.\n2. Brace the abdomen and glutes to hold one straight line from the head through the heels.\n3. Press away from the floor and keep the hips level without sagging, piking, or holding the breath.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "tabata",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Core",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Поставте лікті або долоні під плечима й витягніть обидві ноги назад.\n2. Напружте живіт і сідниці, утримуючи пряму лінію від голови до п’ят.\n3. Відштовхуйтеся від підлоги й тримайте таз рівно, не провисаючи, не піднімаючи його вгору та не затримуючи дихання.",
       "sectionTitle": "Корпус"
     }
-  }
+  },
+  "state": "active"
 }

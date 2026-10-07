@@ -3,11 +3,9 @@
   "key": "arnis_pad_work_level_1",
   "title": "Pad Work Level 1",
   "description": "1. The holder grips a striking pad firmly and stands at stick range; the striker takes stance with the stick.\n2. The holder presents the pad on different target lines and calls combinations of one to three strikes, which the striker delivers with full chambering and accurate contact.\n3. The holder moves the pad between combinations, the striker resets guard after each, and partners swap roles at the end of the round.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "arnis",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Той, хто тримає, міцно тримає ударну лапу на дистанції палиці; той, хто б’є, стає в стійку з палицею.\n2. Той, хто тримає, підставляє лапу на різних лініях і називає комбінації з одного–трьох ударів, які виконуються з повним замахом і точним контактом.\n3. Між комбінаціями лапу переміщують, після кожної той, хто б’є, повертається в захист, наприкінці раунду партнери міняються ролями.",
       "sectionTitle": "Вправи з партнером"
     }
-  }
+  },
+  "state": "active"
 }

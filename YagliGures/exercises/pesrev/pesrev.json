@@ -3,11 +3,9 @@
   "key": "yagli_gures_pesrev",
   "title": "Pesrev",
   "description": "1. Stand upright facing your partner or line, take the partner's hands briefly, then release and step back.\n2. Walk forward with the arms swinging, then bend forward and slap the knees and thighs in rhythm.\n3. Drop to one knee and touch the ground with the palm, rise, and repeat the sequence three times before taking a ready stance.",
-  "color": "#F3A044",
   "colorType": "orange",
   "workoutType": "yagliGures",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте прямо обличчям до партнера чи шеренги, ненадовго візьміть партнера за руки, потім відпустіть і відступіть.\n2. Ідіть уперед, розмахуючи руками, потім нахиліться й ритмічно плескайте по колінах і стегнах.\n3. Опустіться на одне коліно й торкніться землі долонею, підведіться й повторіть послідовність тричі, потім станьте в готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

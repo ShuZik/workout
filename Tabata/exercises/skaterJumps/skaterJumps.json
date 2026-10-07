@@ -3,11 +3,9 @@
   "key": "tabata_skater_jumps",
   "title": "Skater Jumps",
   "description": "1. Stand on one leg with the knee slightly bent and the free foot behind you.\n2. Push sideways to leap onto the opposite foot while the arms counterbalance the movement.\n3. Land softly with the knee tracking over the toes, stabilize, and leap back to the other side.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "tabata",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "02210",
     "vigorousCode": "02214"
   },
-  "timerRole": "intense",
   "difficulty": "intermediate",
   "section": "3 Lower Body",
   "availableFrom": "1.1.2",
@@ -86,5 +83,6 @@
       "description": "1. Станьте на одну ногу, трохи зігнувши коліно, вільна стопа позаду.\n2. Відштовхніться вбік і перестрибніть на іншу ногу, урівноважуючи рух руками.\n3. М’яко приземліться, спрямовуючи коліно по лінії носка, стабілізуйтеся й перестрибніть назад.",
       "sectionTitle": "Нижня частина тіла"
     }
-  }
+  },
+  "state": "intense"
 }

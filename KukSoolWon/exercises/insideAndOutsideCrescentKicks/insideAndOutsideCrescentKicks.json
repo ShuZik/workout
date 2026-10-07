@@ -3,11 +3,9 @@
   "key": "kuk_sool_won_crescent_kicks",
   "title": "Inside and Outside Crescent Kicks",
   "description": "1. From a ready stance, swing the straight leg in an arc from outside to inside across the front of the body.\n2. Then swing it from inside to outside in the reverse arc, striking an imagined target with the edge of the foot at the top.\n3. Alternate legs, keep the supporting heel planted and the guard up, and land each kick softly back in stance.",
-  "color": "#E6BF00",
   "colorType": "yellow",
   "workoutType": "kukSoolWon",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "3 Techniques",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки готовності проведіть пряму ногу дугою ззовні всередину перед корпусом.\n2. Потім ведіть її зворотною дугою зсередини назовні, у верхній точці вражаючи уявну ціль ребром стопи.\n3. Чергуйте ноги, тримайте п'яту опорної ноги на підлозі й руки в захисті, м'яко опускаючи ногу в стійку після кожного удару.",
       "sectionTitle": "Техніки"
     }
-  }
+  },
+  "state": "active"
 }

@@ -3,11 +3,9 @@
   "key": "heavy_bag_work",
   "title": "Heavy-Bag Work",
   "description": "1. Stand in boxing stance at arm's length from a securely hung heavy bag, with wrapped hands and bag gloves.\n2. Work the round to a set theme, such as three-punch combinations or every fourth punch to the body, moving the feet and changing angle between combinations.\n3. Return both hands to guard after every combination, step out of range, and keep an imagined opponent in mind until the round ends.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "boxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15115",
     "vigorousCode": "15118"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "level": 2,
   "section": "3 Beginner",
@@ -87,5 +84,6 @@
       "description": "1. Станьте в боксерську стійку на відстані витягнутої руки від надійно підвішеного важкого мішка, у бинтах і снарядних рукавицях.\n2. Працюйте раунд за заданою темою, наприклад лише трійки або кожен четвертий удар у корпус, пересуваючись і змінюючи кут між серіями.\n3. Після кожної серії повертайте обидві руки в захист, виходьте з дистанції й тримайте в уяві суперника до кінця раунду.",
       "sectionTitle": "Початковий"
     }
-  }
+  },
+  "state": "active"
 }

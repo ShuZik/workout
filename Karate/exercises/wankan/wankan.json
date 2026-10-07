@@ -3,11 +3,9 @@
   "key": "karate_wankan",
   "title": "Wankan",
   "description": "1. Bow, announce the kata name, and step into the yoi ready position with feet apart, fists in front of the thighs, and eyes forward.\n2. Perform this short pattern of cat stances, wedge blocks, and quick punch-and-kick links, keeping the low stances crisp throughout.\n3. Finish at or near the starting point, return to yoi at yame, hold zanshin for a moment, and bow.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "karate",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Practice",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Вклоніться, назвіть ката й займіть готову позицію йої: стопи нарізно, кулаки перед стегнами, погляд уперед.\n2. Виконайте цю коротку схему зі стійок кішки, розсувних блоків і швидких зв’язок рука-нога, зберігаючи низькі стійки чіткими.\n3. Завершіть у вихідній точці або поруч із нею, за командою яме поверніться в йої, на мить збережіть дзансін і вклоніться.",
       "sectionTitle": "Практика"
     }
-  }
+  },
+  "state": "active"
 }

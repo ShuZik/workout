@@ -3,11 +3,9 @@
   "key": "judo_hadaka_jime",
   "title": "Hadaka Jime",
   "description": "1. From controlled back position, place one forearm around the neck while keeping the partner's head and spine aligned.\n2. Connect the hands or secure the supporting arm, bring the elbows inward, and keep the chest close without jerking.\n3. Apply pressure only gradually and release immediately at a tap, verbal signal, or loss of responsiveness.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "judo",
   "valueType": "time",
-  "default": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -19,7 +17,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "7 Groundwork",
   "durationSeconds": 30,
@@ -86,5 +83,6 @@
       "description": "1. Із контрольованої позиції позаду охопіть шию одним передпліччям, зберігаючи голову й хребет партнера на одній лінії.\n2. З’єднайте руки або зафіксуйте підтримувальну руку, зведіть лікті всередину й тримайте груди близько без ривків.\n3. Посилюйте тиск лише поступово й негайно відпускайте при постукуванні, словесному сигналі або відсутності реакції.",
       "sectionTitle": "Партер"
     }
-  }
+  },
+  "state": "active"
 }

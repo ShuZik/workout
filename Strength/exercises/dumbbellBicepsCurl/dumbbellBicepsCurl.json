@@ -3,12 +3,9 @@
   "key": "strength_dumbbell_biceps_curl",
   "title": "Dumbbell Biceps Curl",
   "description": "1. Stand tall with one dumbbell in each hand, arms long, and elbows close to the ribs.\n2. Curl the dumbbells toward the shoulders without swinging the torso or allowing the elbows to drift forward.\n3. Lower both dumbbells slowly to straight arms while keeping the wrists neutral.",
-  "color": "#7D4DB3",
   "colorType": "purple",
   "workoutType": "strength",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте рівно з гантеллю в кожній руці, руки опущені, лікті біля ребер.\n2. Згинайте руки, піднімаючи гантелі до плечей, не розгойдуючи корпус і не виводячи лікті вперед.\n3. Повільно опустіть обидві гантелі до прямих рук, зберігаючи зап’ястя в нейтральному положенні.",
       "sectionTitle": "Тренування"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

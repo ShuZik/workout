@@ -3,11 +3,9 @@
   "key": "kun_bokator",
   "title": "Kun Bokator",
   "description": "1. Begin in a low, balanced stance with the knees bent, hands raised in front of the face, and eyes on an imagined opponent.\n2. Practise strikes with the hands, elbows, knees, and feet together with knee blocks and kick catches, moving between attack angles.\n3. Return to the ready stance after each sequence, breathe steadily, and keep partner or weapon work for supervised sessions.",
-  "color": "#FD7C5D",
   "colorType": "coral",
   "workoutType": "kunBokator",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "intermediate",
   "section": "1 Main",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть у низькій стійкій позиції: коліна зігнуті, руки перед обличчям, погляд на уявного суперника.\n2. Відпрацьовуйте удари руками, ліктями, колінами й ногами разом із блоками коліном і захопленнями ноги, змінюючи кути атаки.\n3. Після кожної зв’язки повертайтеся в готову стійку, дихайте рівно, а роботу в парі чи зі зброєю залиште для занять під наглядом.",
       "sectionTitle": "Основне"
     }
-  }
+  },
+  "state": "active"
 }

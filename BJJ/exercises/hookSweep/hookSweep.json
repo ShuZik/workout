@@ -3,11 +3,9 @@
   "key": "bjj_hook_sweep",
   "title": "Hook Sweep",
   "description": "1. From seated butterfly guard, secure an underhook or upper-body grip and trap the partner's posting arm on one side.\n2. Fall to that shoulder while the opposite instep lifts the partner's inner thigh and the upper body is steered across.\n3. Follow the partner's hips to the top and stabilize mount or side control before removing the hook.",
-  "color": "#4766C1",
   "colorType": "indigo",
   "workoutType": "bjj",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "4 Sweeps",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Із сидячого гарду-«метелика» візьміть андерхук або захват верху тулуба й заблокуйте опорну руку партнера з одного боку.\n2. Падайте на це плече, піднімаючи підйомом протилежної стопи внутрішній бік його стегна й перенаправляючи верх тулуба.\n3. Слідуйте за його тазом нагору й закріпіть маунт або бічний контроль, перш ніж прибрати гак.",
       "sectionTitle": "Свіпи"
     }
-  }
+  },
+  "state": "active"
 }

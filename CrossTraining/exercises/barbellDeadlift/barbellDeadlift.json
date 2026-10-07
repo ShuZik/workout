@@ -3,12 +3,9 @@
   "key": "cross_training_barbell_deadlift",
   "title": "Barbell Deadlift",
   "description": "1. Stand with midfoot under the bar, hinge to grip it outside the legs, and brace with shoulders slightly in front of the bar.\n2. Push the floor away and extend the knees and hips together while the bar travels close to the legs.\n3. Finish upright with hips and knees extended, then hinge and bend the knees to return the bar to the floor.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "crossTraining",
   "valueType": "countAndWeight",
-  "default": 10,
-  "default2": 10,
   "energyProfile": {
     "source": "adultCompendium2024",
     "unit": "MET",
@@ -85,5 +82,7 @@
       "description": "1. Станьте так, щоб середина стопи була під грифом, нахиліться в кульшових суглобах, візьміть гриф ззовні ніг і напружте корпус, плечі трохи попереду грифа.\n2. Відштовхуйте підлогу й розгинайте коліна та таз одночасно, ведучи гриф близько до ніг.\n3. Випряміться з розігнутими тазом і колінами, потім нахиліться й зігніть коліна, щоб опустити штангу на підлогу.",
       "sectionTitle": "Штанга"
     }
-  }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
 }

@@ -3,11 +3,9 @@
   "key": "vovinam_lao_mai_quyen",
   "title": "Lao Mai Quyen",
   "description": "1. Stand at the starting point in a ready posture and perform the opening salute of Lao Mai Quyen.\n2. Perform the circular hand techniques, sudden quarter and half turns, and low stance changes of the form, keeping the movement soft but controlled.\n3. Finish back at the starting point with the closing salute and hold the ready posture briefly before resetting.",
-  "color": "#0A84FF",
   "colorType": "blue",
   "workoutType": "vovinam",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "4 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Станьте у вихідну точку в готовій стійці й виконайте початкове привітання форми Lao Mai Quyen.\n2. Виконуйте колові техніки рук, раптові повороти на 90 і 180 градусів і зміни низьких стійок форми м’яко, але під контролем.\n3. Завершіть у вихідній точці заключним привітанням і ненадовго затримайтеся в готовій стійці, перш ніж почати знову.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

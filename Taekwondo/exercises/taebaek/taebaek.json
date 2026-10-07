@@ -3,11 +3,9 @@
   "key": "taekwondo_taebaek",
   "title": "Taebaek",
   "description": "1. Start in basic ready stance and perform Taebaek, opening with a tiger-stance low knife-hand spread block.\n2. Include the front kicks followed by double punches, the crane-stance diamond block, the side kick with an elbow target strike and the back-fist strikes.\n3. Keep every technique exact and quick, finish with the closing blocks and punches, and return to basic ready stance.",
-  "color": "#2BBF51",
   "colorType": "green",
   "workoutType": "taekwondo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15432"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "6 Forms",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Почніть із базової готової стійки й виконайте Тхебек, відкривши його нижнім розвідним блоком ребром долоні в стійці тигра.\n2. Додайте прямі удари ногою з подвійним ударом рукою, алмазний блок у стійці журавля, бічний удар ногою з ударом ліктем по мішені та удари тильним боком кулака.\n3. Виконуйте кожну техніку точно й швидко, завершіть останніми блоками й ударами та поверніться в базову готову стійку.",
       "sectionTitle": "Форми"
     }
-  }
+  },
+  "state": "active"
 }

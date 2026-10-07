@@ -3,11 +3,9 @@
   "key": "sumo_okuridashi",
   "title": "Okuridashi",
   "description": "1. Move to the partner's side or back after the partner turns or misses a charge.\n2. Place both hands on the partner's back or belt and keep the hips low.\n3. Push the partner forward out of the ring zone from behind, then release and reset in the center.",
-  "color": "#B79E80",
   "colorType": "tan",
   "workoutType": "sumo",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15430",
     "vigorousCode": "15433"
   },
-  "timerRole": "active",
   "difficulty": "basic",
   "section": "5 Partner Drills",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Вийдіть збоку або за спину партнеру після того, як він розвернувся чи схибив атакою.\n2. Покладіть обидві руки йому на спину чи пояс і тримайте таз низько.\n3. Виштовхніть партнера ззаду вперед за межі зони кола, потім відпустіть і почніть знову в центрі.",
       "sectionTitle": "Робота в парі"
     }
-  }
+  },
+  "state": "active"
 }

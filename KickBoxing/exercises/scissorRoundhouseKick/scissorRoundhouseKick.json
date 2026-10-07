@@ -3,11 +3,9 @@
   "key": "kick_boxing_scissor_roundhouse_kick",
   "title": "Scissor Roundhouse Kick",
   "description": "1. From stance, lift one knee as a feint and spring upward off the supporting foot.\n2. Switch the legs in the air, turn the hip over, and deliver a roundhouse kick with the second leg at the top of the jump.\n3. Recoil the leg, land softly in a balanced stance, and bring both hands back to guard.",
-  "color": "#ED5C63",
   "colorType": "red",
   "workoutType": "kickBoxing",
   "valueType": "time",
-  "default": 30,
   "durationSeconds": 30,
   "energyProfile": {
     "source": "adultCompendium2024",
@@ -20,7 +18,6 @@
     "moderateCode": "15457",
     "vigorousCode": "15430"
   },
-  "timerRole": "active",
   "difficulty": "advanced",
   "section": "5 Advanced",
   "availableFrom": "1.1.0",
@@ -86,5 +83,6 @@
       "description": "1. Зі стійки підніміть одне коліно як обманний рух і вистрибніть угору з опорної ноги.\n2. Змініть ноги в повітрі, доверніть таз і у верхній точці стрибка завдайте другою ногою колового удару.\n3. Поверніть ногу, м’яко приземліться в стійку й підніміть обидві руки в захист.",
       "sectionTitle": "Просунутий"
     }
-  }
+  },
+  "state": "active"
 }
