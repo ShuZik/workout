@@ -1,0 +1,88 @@
+{
+  "id": "14.31",
+  "key": "core_training_suitcase_carry",
+  "title": "Suitcase Carry",
+  "description": "Hold a dumbbell at one side and walk slowly along a clear, level route, keeping your shoulders level and trunk upright. Cover the selected distance on each side, then lower the weight under control; enter the weight of the single dumbbell.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "distanceAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 4.5,
+    "moderate": 4.5,
+    "vigorous": 4.5,
+    "lightCode": "17018",
+    "moderateCode": "17018",
+    "vigorousCode": "17018"
+  },
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Suitcase Carry",
+      "description": "Hold a dumbbell at one side and walk slowly along a clear, level route, keeping your shoulders level and trunk upright. Cover the selected distance on each side, then lower the weight under control; enter the weight of the single dumbbell.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Paseo con carga unilateral",
+      "description": "Sujeta una mancuerna a un lado y camina despacio por un recorrido despejado y llano, con los hombros nivelados y el tronco erguido. Completa la distancia elegida por cada lado y baja el peso con control; introduce el peso de esa mancuerna.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Caminhada com carga unilateral",
+      "description": "Segure um halter de um lado e caminhe devagar por um trajeto livre e plano, com ombros nivelados e tronco ereto. Complete a distância escolhida de cada lado e baixe o peso com controle; informe o peso desse halter.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Marche avec charge unilatérale",
+      "description": "Tenez un haltère d’un côté et marchez lentement sur un trajet dégagé et plat, épaules de niveau et buste droit. Parcourez la distance choisie de chaque côté, puis reposez avec contrôle ; indiquez le poids de cet haltère.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Suitcase Carry",
+      "description": "Halte eine Kurzhantel an einer Seite und gehe langsam auf einer freien, ebenen Strecke, mit geraden Schultern und aufrechtem Rumpf. Lege die gewählte Distanz je Seite zurück und setze das Gewicht kontrolliert ab; trage das Gewicht dieser einen Hantel ein.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Camminata con carico unilaterale",
+      "description": "Tieni un manubrio su un fianco e cammina lentamente su un percorso libero e piano, con spalle alla stessa altezza e busto eretto. Completa la distanza scelta per lato, poi appoggia il peso con controllo; inserisci il peso del singolo manubrio.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "单侧提重行走",
+      "description": "单手提一只哑铃，沿平坦、无障碍的路线缓慢行走，保持双肩水平、躯干直立。每侧完成设定距离后控制着放下哑铃；重量填写这一只哑铃的重量。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "スーツケースキャリー",
+      "description": "片手にダンベルを持ち、肩を水平にして体を起こし、障害物のない平らな道をゆっくり歩きます。左右それぞれ設定距離を歩いてからゆっくり下ろし、重量はダンベル1個の重さを入力してください。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "수트케이스 캐리",
+      "description": "한쪽 손에 덤벨을 들고 장애물이 없는 평평한 구간을 천천히 걸으세요. 어깨 높이를 맞추고 상체를 곧게 유지하세요. 양쪽 각각 선택한 거리를 마친 뒤 천천히 내려놓고 덤벨 한 개의 중량을 입력하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เดินถือดัมเบลข้างเดียว",
+      "description": "ถือดัมเบลข้างเดียวแล้วเดินช้า ๆ บนทางเรียบที่ไม่มีสิ่งกีดขวาง รักษาระดับไหล่และลำตัวตั้งตรง เดินตามระยะที่เลือกในแต่ละข้าง แล้ววางน้ำหนักลงอย่างควบคุม ระบุน้ำหนักของดัมเบลหนึ่งอัน",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Переноска гантели в одной руке",
+      "description": "Держите гантель с одной стороны и медленно идите по свободному ровному участку, сохраняя плечи на одном уровне и прямое положение корпуса. Пройдите выбранную дистанцию на каждую сторону и плавно опустите вес; указывайте вес одной гантели.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Перенесення гантелі в одній руці",
+      "description": "Тримайте гантель з одного боку й повільно йдіть вільною рівною ділянкою, зберігаючи плечі на одному рівні та пряме положення корпусу. Подолайте обрану дистанцію на кожен бік і плавно опустіть вагу; зазначайте вагу однієї гантелі.",
+      "sectionTitle": "База"
+    }
+  },
+  "initialValue": 20,
+  "initialValue2": 12
+}

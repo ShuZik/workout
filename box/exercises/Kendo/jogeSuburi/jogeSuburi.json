@@ -1,0 +1,87 @@
+{
+  "id": "69.23",
+  "key": "kendo_joge_suburi",
+  "title": "Joge Suburi",
+  "description": "Swing the shinai vertically through a large controlled arc, lifting overhead and lowering in front without striking the floor. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "difficulty": "basic",
+  "section": "4 Suburi",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 6.5,
+    "moderate": 6.5,
+    "vigorous": 6.5,
+    "lightCode": "15444",
+    "moderateCode": "15444",
+    "vigorousCode": "15444"
+  },
+  "translations": {
+    "en": {
+      "title": "Joge Suburi",
+      "description": "Swing the shinai vertically through a large controlled arc, lifting overhead and lowering in front without striking the floor. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Suburi"
+    },
+    "es": {
+      "title": "Suburi arriba y abajo",
+      "description": "Mueve el shinai verticalmente en un arco amplio controlado, elevando sobre la cabeza y bajando delante sin tocar el suelo. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Suburi"
+    },
+    "pt": {
+      "title": "Suburi para cima e para baixo",
+      "description": "Mova o shinai verticalmente em arco amplo controlado, acima da cabeça e abaixo à frente sem bater no chão. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Suburi"
+    },
+    "fr": {
+      "title": "Suburi de haut en bas",
+      "description": "Balancez le shinai verticalement en grand arc contrôlé, au-dessus de la tête puis devant sans toucher le sol. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Suburi"
+    },
+    "de": {
+      "title": "Auf-und-ab-Suburi",
+      "description": "Schwinge das Shinai vertikal in großem kontrolliertem Bogen über den Kopf und vor den Körper, ohne den Boden zu treffen. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Suburi"
+    },
+    "it": {
+      "title": "Suburi su e giù",
+      "description": "Muovi lo shinai verticalmente in un ampio arco controllato sopra la testa e davanti senza colpire il suolo. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Suburi"
+    },
+    "zh-Hans": {
+      "title": "上下素振",
+      "description": "控制竹刀作大幅上下垂直振动，举过头顶后下振至身前，不击打地面。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "素振练习"
+    },
+    "ja": {
+      "title": "上下素振り",
+      "description": "竹刀を大きな縦の弧で頭上から体の前へ振り下ろし、床に当てないよう制御します。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "素振り"
+    },
+    "ko": {
+      "title": "상하 스부리",
+      "description": "죽도를 머리 위에서 몸 앞으로 크게 수직으로 휘두르되 바닥에 닿지 않게 통제하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "스부리"
+    },
+    "th": {
+      "title": "ซูบุริขึ้นลง",
+      "description": "เหวี่ยงชิไนขึ้นลงแนวตั้งเป็นวงกว้างอย่างควบคุม ไม่ให้กระแทกพื้น นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "ซูบุริ"
+    },
+    "ru": {
+      "title": "Дзёгэ-субури",
+      "description": "Выполняйте широкие контролируемые вертикальные махи синаем над головой и перед телом, не задевая пол. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Субури"
+    },
+    "uk": {
+      "title": "Дзьоґе-субурі",
+      "description": "Виконуйте широкі контрольовані вертикальні махи сінаєм над головою й перед тілом, не зачіпаючи підлогу. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Субурі"
+    }
+  }
+}

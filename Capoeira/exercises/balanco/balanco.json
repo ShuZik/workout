@@ -1,0 +1,88 @@
+{
+  "id": "49.21",
+  "key": "capoeira_balanco",
+  "title": "Balanço",
+  "description": "In a low capoeira stance, sway the torso side to side with weight shifts, keeping eyes forward and hands protecting the head.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Balanço",
+      "description": "In a low capoeira stance, sway the torso side to side with weight shifts, keeping eyes forward and hands protecting the head.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Balanço",
+      "description": "En postura baja de capoeira, balancea el torso de lado a lado transfiriendo peso, mirando al frente y protegiendo la cabeza.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Balanço",
+      "description": "Em base baixa de capoeira, balance o tronco de um lado ao outro transferindo peso, olhando à frente e protegendo a cabeça.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Balanço",
+      "description": "En position basse de capoeira, balancez le buste latéralement avec transfert de poids, regard devant et tête protégée.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Balanço",
+      "description": "Wiege den Rumpf im tiefen Capoeira-Stand mit Gewichtswechseln seitlich, Blick nach vorn und Hände am Kopf.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Balanço",
+      "description": "In posizione bassa di capoeira, oscilla il busto lateralmente trasferendo il peso, guardando avanti e proteggendo la testa.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "摇摆步",
+      "description": "低位站姿中左右摆动躯干并转移重心，目视前方，双手护头。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "バランソ",
+      "description": "低いカポエイラの構えで重心を移しながら上体を左右に揺らし、前を見て頭を守ります。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "발란수",
+      "description": "낮은 카포에이라 자세에서 체중을 옮기며 몸통을 좌우로 흔들고 앞을 보며 머리를 보호하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "บาลังซู",
+      "description": "ในท่าคาโปเอราต่ำ โยกลำตัวซ้ายขวาพร้อมถ่ายน้ำหนัก มองหน้าและใช้มือป้องกันศีรษะ",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Балансу",
+      "description": "В низкой стойке капоэйры раскачивайте корпус из стороны в сторону с переносом веса, смотрите вперёд и прикрывайте голову.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Балансу",
+      "description": "У низькій стійці капоейри розгойдуйте корпус із боку в бік із перенесенням ваги, дивіться вперед і прикривайте голову.",
+      "sectionTitle": "Основи"
+    }
+  },
+  "durationSeconds": 30,
+  "state": "active"
+}

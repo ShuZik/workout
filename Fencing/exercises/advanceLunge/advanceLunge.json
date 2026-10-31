@@ -1,0 +1,87 @@
+{
+  "id": "54.38",
+  "key": "fencing_advance_lunge",
+  "title": "Advance and Lunge",
+  "description": "From guard, advance, extend the weapon arm, lunge and recover to guard as one sequence. One complete sequence counts as one action.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "difficulty": "basic",
+  "section": "2 Footwork",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6,
+    "moderate": 6,
+    "vigorous": 6,
+    "lightCode": "15200",
+    "moderateCode": "15200",
+    "vigorousCode": "15200"
+  },
+  "translations": {
+    "en": {
+      "title": "Advance and Lunge",
+      "description": "From guard, advance, extend the weapon arm, lunge and recover to guard as one sequence. One complete sequence counts as one action.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Avance y fondo",
+      "description": "Desde la guardia, avanza, extiende el brazo armado, haz fondo y recupera guardia como una secuencia. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Avanço e afundo",
+      "description": "Da guarda, avance, estenda o braço armado, faça afundo e recupere a guarda como uma sequência. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Marche et fente",
+      "description": "En garde, faites une marche, allongez le bras armé, effectuez une fente et revenez en garde pour une séquence. Une séquence complète compte pour une action.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Vorwärtsschritt und Ausfall",
+      "description": "Gehe aus der Fechtstellung vor, strecke den Waffenarm, mache einen Ausfall und kehre zurück; dies ist eine Folge. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Passo avanti e affondo",
+      "description": "Dalla guardia, avanza, estendi il braccio armato, affonda e recupera la guardia come un’unica sequenza. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "前进弓步",
+      "description": "从预备姿势前进，伸持械臂、弓步突刺并恢复预备姿势，合为一组。 一套完整动作计为一次。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "前進からの突き",
+      "description": "構えから前進し、剣を持つ腕を伸ばして突き、構えに戻るまでを一連とします。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "전진 후 런지",
+      "description": "자세에서 전진하고 무기 든 팔을 뻗어 런지한 뒤 자세로 복귀하는 것을 한 순서로 셉니다. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "ก้าวหน้าและพุ่ง",
+      "description": "จากท่าการ์ด ก้าวหน้า เหยียดแขนอาวุธ พุ่งแล้วคืนการ์ดเป็นหนึ่งชุด นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Шаг вперёд и выпад",
+      "description": "Из стойки шагните вперёд, выпрямите вооружённую руку, выполните выпад и вернитесь в стойку одной последовательностью. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Крок уперед і випад",
+      "description": "Із стійки крокніть уперед, випряміть озброєну руку, виконайте випад і поверніться у стійку однією послідовністю. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

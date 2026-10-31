@@ -1,0 +1,87 @@
+{
+  "id": "41.105",
+  "key": "judo_tandoku_renshu",
+  "title": "Tandoku-renshu",
+  "description": "Without a partner, rehearse the footwork, turn and recovery of one selected throw; one full entry and return is one sequence. One complete sequence counts as one action.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "difficulty": "basic",
+  "section": "3 Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "translations": {
+    "en": {
+      "title": "Tandoku-renshu",
+      "description": "Without a partner, rehearse the footwork, turn and recovery of one selected throw; one full entry and return is one sequence. One complete sequence counts as one action.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Tandoku-renshu",
+      "description": "Sin compañero, ensaya los pasos, el giro y la recuperación de una proyección elegida; una entrada y vuelta completas forman una secuencia. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Tandoku-renshu",
+      "description": "Sem parceiro, ensaie os passos, o giro e a recuperação de uma projeção escolhida; uma entrada e volta completas formam uma sequência. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Tandoku-renshu",
+      "description": "Sans partenaire, répétez les pas, la rotation et le retour d’une projection choisie ; une entrée et un retour complets forment une séquence. Une séquence complète compte pour une action.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Tandoku-renshu",
+      "description": "Übe ohne Partner Schritte, Drehung und Rückkehr eines gewählten Wurfs; ein vollständiger Eingang mit Rückkehr ist eine Folge. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Tandoku-renshu",
+      "description": "Senza compagno, prova passi, rotazione e recupero di una proiezione scelta; un’entrata completa con ritorno forma una sequenza. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "单独练习",
+      "description": "独自练习选定投技的步法、转身和恢复；一次完整进身并返回为一组。 一套完整动作计为一次。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "単独練習",
+      "description": "選んだ投げ技の足運び・回転・戻りを単独で練習し、入りから戻りまでを一連とします。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "단독 연습",
+      "description": "선택한 던지기의 발놀림·회전·복귀를 혼자 연습하며 한 번의 완전한 진입과 복귀를 한 순서로 셉니다. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "ทันโดกุเร็นชู",
+      "description": "ฝึกก้าว หมุน และคืนท่าของท่าทุ่มที่เลือกโดยไม่มีคู่ซ้อม เข้าและกลับครบหนึ่งรอบเป็นหนึ่งชุด นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Тандоку-рэнсю",
+      "description": "Без партнёра отрабатывайте шаги, разворот и возвращение выбранного броска; полный вход и возврат составляют одну последовательность. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Тандоку-ренсю",
+      "description": "Без партнера відпрацьовуйте кроки, розворот і повернення обраного кидка; повний вхід і повернення становлять одну послідовність. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Пересування"
+    }
+  }
+}

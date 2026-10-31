@@ -1,0 +1,88 @@
+{
+  "id": "116.6",
+  "key": "sanda_sanda_conditioned_sparring",
+  "title": "Sanda Conditioned Sparring",
+  "description": "Agree on allowed attacks, intensity and scoring task with a coach. Spar in appropriate protection and stop immediately on the agreed signal.",
+  "colorType": "red",
+  "workoutType": "sanda",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Sanda Conditioned Sparring",
+      "description": "Agree on allowed attacks, intensity and scoring task with a coach. Spar in appropriate protection and stop immediately on the agreed signal.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Sparring condicionado de sanda",
+      "description": "Acuerda con el entrenador ataques permitidos, intensidad y objetivo. Usa protección adecuada y detente inmediatamente a la señal.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Sparring condicionado de sanda",
+      "description": "Combine ataques permitidos, intensidade e objetivo com o treinador. Use proteção adequada e pare imediatamente ao sinal.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Assaut à thème en sanda",
+      "description": "Convenez avec l’entraîneur des attaques, de l’intensité et de l’objectif. Portez les protections adaptées et arrêtez immédiatement au signal.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Sanda-Aufgabensparring",
+      "description": "Vereinbare Angriffe, Intensität und Wertungsaufgabe mit dem Trainer. Nutze passende Schutzausrüstung und stoppe sofort auf Signal.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Sparring a tema sanda",
+      "description": "Concorda con il tecnico attacchi consentiti, intensità e obiettivo. Usa protezioni adatte e fermati subito al segnale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "散打条件实战",
+      "description": "与教练约定允许攻击、强度和得分任务，穿合适护具，听到约定信号立即停止。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "散打の条件付きスパーリング",
+      "description": "指導者と攻撃・強度・得点課題を決め、適切な防具で攻防し、合図で直ちに止めます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "산타 조건 스파링",
+      "description": "코치와 허용 공격·강도·득점 과제를 정하고 적합한 보호구로 공방하며 합의한 신호에 즉시 멈추세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ซานต่าซ้อมตามเงื่อนไข",
+      "description": "ตกลงการโจมตี ความหนัก และเป้าหมายคะแนนกับครู ใส่เกราะที่เหมาะและหยุดทันทีตามสัญญาณ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Спарринг санда с заданием",
+      "description": "С тренером согласуйте разрешённые атаки, интенсивность и задачу на очки. Используйте подходящую защиту и сразу останавливайтесь по сигналу.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Спаринг саньда із завданням",
+      "description": "Із тренером узгодьте дозволені атаки, інтенсивність і завдання на бали. Використовуйте відповідний захист і відразу зупиняйтеся за сигналом.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

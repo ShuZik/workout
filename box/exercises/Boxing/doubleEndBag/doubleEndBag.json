@@ -1,0 +1,89 @@
+{
+  "id": "1.50",
+  "key": "boxing_double_end_bag",
+  "title": "Double-End Bag",
+  "description": "Strike the returning ball with short straight punches; recover guard and adjust distance after each exchange.",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "difficulty": "basic",
+  "section": "3 Beginner",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Double-End Bag",
+      "description": "Strike the returning ball with short straight punches; recover guard and adjust distance after each exchange.",
+      "sectionTitle": "Beginner"
+    },
+    "es": {
+      "title": "Pera de doble anclaje",
+      "description": "Golpea el balón al volver con rectos cortos; recupera la guardia y ajusta la distancia.",
+      "sectionTitle": "Principiante"
+    },
+    "pt": {
+      "title": "Pera teto-solo",
+      "description": "Acerte a bola no retorno com diretos curtos; recupere a guarda e ajuste a distância.",
+      "sectionTitle": "Iniciante"
+    },
+    "fr": {
+      "title": "Poire élastique",
+      "description": "Frappez la balle au retour avec des directs courts ; reprenez la garde et ajustez la distance.",
+      "sectionTitle": "Débutant"
+    },
+    "de": {
+      "title": "Doppelendball",
+      "description": "Triff den zurückkommenden Ball mit kurzen Geraden; kehre in die Deckung zurück und passe den Abstand an.",
+      "sectionTitle": "Anfänger"
+    },
+    "it": {
+      "title": "Palla tesa",
+      "description": "Colpisci la palla al ritorno con diretti corti; recupera la guardia e regola la distanza.",
+      "sectionTitle": "Principiante"
+    },
+    "zh-Hans": {
+      "title": "双端球",
+      "description": "用短直拳击打回弹的球；每组后恢复防守并调整距离。",
+      "sectionTitle": "初级"
+    },
+    "ja": {
+      "title": "ダブルエンドバッグ",
+      "description": "戻ってくるボールを短いストレートで打ち、ガードと距離を整えます。",
+      "sectionTitle": "初級"
+    },
+    "ko": {
+      "title": "더블엔드백",
+      "description": "되돌아오는 공을 짧은 스트레이트로 치고 가드와 거리를 다시 잡으세요.",
+      "sectionTitle": "초급"
+    },
+    "th": {
+      "title": "เป้าลูกบอลสองสาย",
+      "description": "ชกลูกบอลที่เด้งกลับด้วยหมัดตรงสั้น แล้วคืนการ์ดและปรับระยะ",
+      "sectionTitle": "ระดับเริ่มต้น"
+    },
+    "ru": {
+      "title": "Груша на растяжках",
+      "description": "Бейте короткими прямыми по возвращающемуся мячу, восстанавливайте защиту и подстраивайте дистанцию.",
+      "sectionTitle": "Начальный"
+    },
+    "uk": {
+      "title": "Груша на розтяжках",
+      "description": "Бийте короткими прямими по м’ячу, що повертається, відновлюйте захист і підлаштовуйте дистанцію.",
+      "sectionTitle": "Початковий"
+    }
+  },
+  "level": 2,
+  "durationSeconds": 30,
+  "state": "active"
+}

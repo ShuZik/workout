@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "orange",
+    "folder": "JeetKuneDo",
+    "id": "118",
+    "icon": "JeetKuneDo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Jeet Kune Do",
+    "workoutType": "jeetKuneDo",
+    "translations": {
+      "en": {
+        "title": "Jeet Kune Do"
+      },
+      "es": {
+        "title": "Jeet kune do"
+      },
+      "pt": {
+        "title": "Jeet kune do"
+      },
+      "fr": {
+        "title": "Jeet kune do"
+      },
+      "de": {
+        "title": "Jeet Kune Do"
+      },
+      "it": {
+        "title": "Jeet kune do"
+      },
+      "zh-Hans": {
+        "title": "截拳道"
+      },
+      "ja": {
+        "title": "截拳道"
+      },
+      "ko": {
+        "title": "절권도"
+      },
+      "th": {
+        "title": "จีตคุนโด"
+      },
+      "ru": {
+        "title": "Джиткундо"
+      },
+      "uk": {
+        "title": "Джиткундо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "JeetKuneDo/exercises/singleDirectAttack/Icon.png",
+      "json": "JeetKuneDo/exercises/singleDirectAttack/singleDirectAttack.json"
+    },
+    {
+      "icon": "JeetKuneDo/exercises/singleAngularAttack/Icon.png",
+      "json": "JeetKuneDo/exercises/singleAngularAttack/singleAngularAttack.json"
+    },
+    {
+      "icon": "JeetKuneDo/exercises/handImmobilizationAttack/Icon.png",
+      "json": "JeetKuneDo/exercises/handImmobilizationAttack/handImmobilizationAttack.json"
+    },
+    {
+      "icon": "JeetKuneDo/exercises/progressiveIndirectAttack/Icon.png",
+      "json": "JeetKuneDo/exercises/progressiveIndirectAttack/progressiveIndirectAttack.json"
+    },
+    {
+      "icon": "JeetKuneDo/exercises/attackByCombinations/Icon.png",
+      "json": "JeetKuneDo/exercises/attackByCombinations/attackByCombinations.json"
+    },
+    {
+      "icon": "JeetKuneDo/exercises/attackByDrawing/Icon.png",
+      "json": "JeetKuneDo/exercises/attackByDrawing/attackByDrawing.json"
+    }
+  ]
+}

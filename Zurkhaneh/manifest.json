@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "purple",
+    "folder": "Zurkhaneh",
+    "id": "115",
+    "icon": "Zurkhaneh/Icon.png",
+    "symbolName": "figure.strengthtraining.traditional",
+    "title": "Zurkhaneh",
+    "workoutType": "zurkhaneh",
+    "translations": {
+      "en": {
+        "title": "Zurkhaneh"
+      },
+      "es": {
+        "title": "Zurkhaneh"
+      },
+      "pt": {
+        "title": "Zurkhaneh"
+      },
+      "fr": {
+        "title": "Zurkhaneh"
+      },
+      "de": {
+        "title": "Zurkhaneh"
+      },
+      "it": {
+        "title": "Zurkhaneh"
+      },
+      "zh-Hans": {
+        "title": "祖尔哈内"
+      },
+      "ja": {
+        "title": "ズールハーネ"
+      },
+      "ko": {
+        "title": "주르하네"
+      },
+      "th": {
+        "title": "ซูร์คาเนห์"
+      },
+      "ru": {
+        "title": "Зурхане"
+      },
+      "uk": {
+        "title": "Зурхане"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Zurkhaneh/exercises/milSwing/Icon.png",
+      "json": "Zurkhaneh/exercises/milSwing/milSwing.json"
+    },
+    {
+      "icon": "Zurkhaneh/exercises/sangExercise/Icon.png",
+      "json": "Zurkhaneh/exercises/sangExercise/sangExercise.json"
+    },
+    {
+      "icon": "Zurkhaneh/exercises/kabbadehExercise/Icon.png",
+      "json": "Zurkhaneh/exercises/kabbadehExercise/kabbadehExercise.json"
+    }
+  ]
+}

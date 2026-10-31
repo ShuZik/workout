@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "coral",
+    "folder": "Tricking",
+    "id": "122",
+    "icon": "Tricking/Icon.png",
+    "symbolName": "figure.dance",
+    "title": "Tricking",
+    "workoutType": "tricking",
+    "translations": {
+      "en": {
+        "title": "Tricking"
+      },
+      "es": {
+        "title": "Tricking"
+      },
+      "pt": {
+        "title": "Tricking"
+      },
+      "fr": {
+        "title": "Tricking"
+      },
+      "de": {
+        "title": "Tricking"
+      },
+      "it": {
+        "title": "Tricking"
+      },
+      "zh-Hans": {
+        "title": "极限武术"
+      },
+      "ja": {
+        "title": "トリッキング"
+      },
+      "ko": {
+        "title": "트리킹"
+      },
+      "th": {
+        "title": "ทริกกิง"
+      },
+      "ru": {
+        "title": "Трикинг"
+      },
+      "uk": {
+        "title": "Трикінг"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Tricking/exercises/butterflyKick/Icon.png",
+      "json": "Tricking/exercises/butterflyKick/butterflyKick.json"
+    },
+    {
+      "icon": "Tricking/exercises/540Kick/Icon.png",
+      "json": "Tricking/exercises/540Kick/540Kick.json"
+    },
+    {
+      "icon": "Tricking/exercises/aerial/Icon.png",
+      "json": "Tricking/exercises/aerial/aerial.json"
+    },
+    {
+      "icon": "Tricking/exercises/kipUp/Icon.png",
+      "json": "Tricking/exercises/kipUp/kipUp.json"
+    },
+    {
+      "icon": "Tricking/exercises/corkscrew/Icon.png",
+      "json": "Tricking/exercises/corkscrew/corkscrew.json"
+    },
+    {
+      "icon": "Tricking/exercises/flashkick/Icon.png",
+      "json": "Tricking/exercises/flashkick/flashkick.json"
+    },
+    {
+      "icon": "Tricking/exercises/butterflyTwist/Icon.png",
+      "json": "Tricking/exercises/butterflyTwist/butterflyTwist.json"
+    },
+    {
+      "icon": "Tricking/exercises/trickingCombination/Icon.png",
+      "json": "Tricking/exercises/trickingCombination/trickingCombination.json"
+    }
+  ]
+}

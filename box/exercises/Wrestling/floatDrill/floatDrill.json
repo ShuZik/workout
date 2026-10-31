@@ -1,0 +1,88 @@
+{
+  "id": "7.15",
+  "key": "wrestling_float_drill",
+  "title": "Float Drill",
+  "description": "A partner slowly changes their mat position; follow on top with light chest pressure and mobile feet, without pinning rigidly.",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "difficulty": "intermediate",
+  "section": "5 Partner Drills",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Float Drill",
+      "description": "A partner slowly changes their mat position; follow on top with light chest pressure and mobile feet, without pinning rigidly.",
+      "sectionTitle": "Partner Drills"
+    },
+    "es": {
+      "title": "Control flotante",
+      "description": "El compañero cambia lentamente de posición en el tapiz; síguelo por encima con presión ligera del pecho y pies móviles.",
+      "sectionTitle": "Ejercicios en pareja"
+    },
+    "pt": {
+      "title": "Controle flutuante",
+      "description": "O parceiro muda devagar de posição no tatame; acompanhe por cima com pressão leve do peito e pés móveis.",
+      "sectionTitle": "Exercícios em dupla"
+    },
+    "fr": {
+      "title": "Contrôle en mobilité",
+      "description": "Le partenaire change lentement de position au sol ; suivez-le au-dessus avec une légère pression du buste et des pieds mobiles.",
+      "sectionTitle": "Exercices à deux"
+    },
+    "de": {
+      "title": "Mitgehende Oberkontrolle",
+      "description": "Der Partner wechselt langsam seine Bodenposition; folge oben mit leichtem Brustdruck und beweglichen Füßen, ohne starr festzuhalten.",
+      "sectionTitle": "Partnerübungen"
+    },
+    "it": {
+      "title": "Controllo in movimento",
+      "description": "Il compagno cambia lentamente posizione a terra; seguilo dall’alto con lieve pressione del petto e piedi mobili.",
+      "sectionTitle": "Esercizi in coppia"
+    },
+    "zh-Hans": {
+      "title": "浮动控制练习",
+      "description": "搭档缓慢变换垫上姿势；在上方用轻胸压和灵活步伐跟随，不要僵硬压死。",
+      "sectionTitle": "双人练习"
+    },
+    "ja": {
+      "title": "フロートドリル",
+      "description": "相手がマット上でゆっくり姿勢を変えるのに合わせ、軽い胸の圧と足の移動で上から追従します。",
+      "sectionTitle": "パートナー練習"
+    },
+    "ko": {
+      "title": "플로트 드릴",
+      "description": "파트너가 매트에서 천천히 자세를 바꾸면 가볍게 가슴으로 압박하고 발을 움직이며 위에서 따라가세요.",
+      "sectionTitle": "파트너 훈련"
+    },
+    "th": {
+      "title": "ฝึกลอยคุมตัว",
+      "description": "ให้คู่ซ้อมเปลี่ยนท่าบนเบาะช้า ๆ ตามคุมจากด้านบนด้วยแรงกดอกเบาและเคลื่อนเท้า",
+      "sectionTitle": "ฝึกคู่"
+    },
+    "ru": {
+      "title": "Переходы сверху за партнёром",
+      "description": "Партнёр медленно меняет положение на ковре; следуйте сверху с лёгким давлением грудью и подвижными стопами, без жёсткой фиксации.",
+      "sectionTitle": "Работа в паре"
+    },
+    "uk": {
+      "title": "Переходи зверху за партнером",
+      "description": "Партнер повільно змінює положення на килимі; слідуйте зверху з легким тиском грудьми та рухливими стопами, без жорсткої фіксації.",
+      "sectionTitle": "Робота в парі"
+    }
+  }
+}

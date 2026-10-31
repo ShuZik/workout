@@ -1,0 +1,87 @@
+{
+  "id": "11.59",
+  "key": "cardio_skierg_calorie_target",
+  "title": "SkiErg Calorie Target",
+  "description": "From tall posture, pull both handles down with a hip hinge and soft knees, finish hands beside the thighs and return smoothly; read calories on the console. Finish at the calorie target shown by the machine console; this is not the app’s estimated energy expenditure.",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "calories",
+  "initialValue": 20,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 10.5,
+    "moderate": 10.5,
+    "vigorous": 10.5,
+    "lightCode": "02082",
+    "moderateCode": "02082",
+    "vigorousCode": "02082"
+  },
+  "translations": {
+    "en": {
+      "title": "SkiErg Calorie Target",
+      "description": "From tall posture, pull both handles down with a hip hinge and soft knees, finish hands beside the thighs and return smoothly; read calories on the console. Finish at the calorie target shown by the machine console; this is not the app’s estimated energy expenditure.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "SkiErg por calorías",
+      "description": "Desde erguido, tira ambas asas abajo con bisagra de cadera y rodillas suaves, termina manos junto a muslos y vuelve; lee calorías en consola. Termina al alcanzar las calorías de la consola; no es la estimación de gasto de la aplicación.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "SkiErg por calorias",
+      "description": "Da postura alta, puxe alças abaixo com dobradiça de quadril e joelhos suaves, termine mãos junto às coxas e retorne; leia calorias no painel. Termine ao atingir as calorias do painel; não é a estimativa de gasto do aplicativo.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Objectif calorique au SkiErg",
+      "description": "Debout, tirez les poignées vers le bas avec flexion des hanches et genoux souples, finissez près des cuisses puis revenez ; lisez les calories à la console. Arrêtez-vous à l’objectif calorique de la console ; il diffère de la dépense estimée par l’application.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "SkiErg-Kalorienziel",
+      "description": "Ziehe aus aufrechtem Stand beide Griffe mit Hüftbeuge und weichen Knien bis neben die Oberschenkel, kehre fließend zurück und lies die Konsolenkalorien ab. Beende beim Kalorienziel auf der Gerätekonsole; es ist nicht der geschätzte Energieverbrauch der App.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "SkiErg a calorie",
+      "description": "Da eretto, tira le maniglie in basso piegando le anche e ammorbidendo le ginocchia, termina vicino alle cosce e torna; leggi le calorie sulla console. Termina al target calorico della console, distinto dal consumo stimato dall’app.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "SkiErg卡路里目标",
+      "description": "从直立姿势屈髋微屈膝向下拉双把手，双手结束于大腿旁，再平顺返回；从控制台读取卡路里。 以器械控制台显示的卡路里目标为准；该数值不同于应用估算的能量消耗。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "SkiErgカロリー目標",
+      "description": "直立から股関節を曲げ膝を緩めて両ハンドルを腿の横まで引き、滑らかに戻します。コンソールのカロリーを確認します。 機器のコンソールのカロリー目標で終了します。アプリの推定消費量とは別の値です。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "SkiErg 칼로리 목표",
+      "description": "서서 골반을 접고 무릎을 부드럽게 하며 손잡이를 허벅지 옆까지 아래로 당겼다 부드럽게 돌아오고 콘솔 칼로리를 확인하세요. 기기 콘솔의 칼로리 목표에 도달하면 마칩니다. 앱의 예상 에너지 소모량과는 다릅니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "SkiErg เป้าหมายแคลอรี",
+      "description": "จากยืนตรง ดึงสองด้ามลงพร้อมพับสะโพกและเข่าผ่อน จบข้างต้นขาแล้วกลับนุ่ม อ่านแคลอรีที่จอ จบเมื่อถึงเป้าหมายแคลอรีบนหน้าจอเครื่อง ซึ่งไม่ใช่ค่าพลังงานที่แอปประมาณ",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "SkiErg на калории",
+      "description": "Из прямой стойки тяните обе рукояти вниз с наклоном таза и мягкими коленями до положения кистей у бёдер, плавно возвращайтесь; калории смотрите на консоли. Завершайте по цели калорий на консоли тренажёра; это не оценка расхода энергии приложением.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "SkiErg на калорії",
+      "description": "Із прямої стійки тягніть обидва руків’я вниз із нахилом таза й м’якими колінами до положення кистей біля стегон, плавно повертайтеся; калорії дивіться на консолі. Завершуйте за ціллю калорій на консолі тренажера; це не оцінка витрат енергії застосунком.",
+      "sectionTitle": "У приміщенні"
+    }
+  }
+}

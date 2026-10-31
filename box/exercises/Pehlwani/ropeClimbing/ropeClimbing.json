@@ -1,0 +1,87 @@
+{
+  "id": "114.3",
+  "key": "pehlwani_rope_climbing",
+  "title": "Rope Climbing",
+  "description": "On a secured rope above suitable mats, pull and use a trained foot lock to climb; descend under control. Count upward travel only. The target is distance in metres, measured on the machine or along the route.",
+  "colorType": "teal",
+  "workoutType": "pehlwani",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "distance",
+  "initialValue": 6,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 8,
+    "moderate": 8,
+    "vigorous": 8,
+    "lightCode": "15533",
+    "moderateCode": "15533",
+    "vigorousCode": "15533"
+  },
+  "translations": {
+    "en": {
+      "title": "Rope Climbing",
+      "description": "On a secured rope above suitable mats, pull and use a trained foot lock to climb; descend under control. Count upward travel only. The target is distance in metres, measured on the machine or along the route.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Trepa de cuerda",
+      "description": "En cuerda asegurada sobre colchonetas, tira y usa un bloqueo de pies aprendido para subir; baja con control. Cuenta solo el ascenso. El objetivo es la distancia en metros, medida en la máquina o en el recorrido.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Subida na corda",
+      "description": "Em corda segura sobre colchões, puxe e use trava de pés aprendida para subir; desça com controle. Conte só a subida. A meta é a distância em metros, medida no aparelho ou no percurso.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Grimper de corde",
+      "description": "Sur une corde sécurisée au-dessus de tapis, tirez et utilisez un blocage des pieds appris ; descendez sous contrôle. Comptez seulement la montée. L’objectif est la distance en mètres, mesurée sur l’appareil ou le parcours.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Seilklettern",
+      "description": "Klettere an gesichertem Seil über Matten mit erlernter Fußklemmtechnik und Armzug; steige kontrolliert ab. Zähle nur die Aufwärtsstrecke. Das Ziel ist die Strecke in Metern, gemessen am Gerät oder auf der Route.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Salita alla corda",
+      "description": "Su corda assicurata sopra tappeti, tira e usa un bloccaggio dei piedi appreso; scendi controllando. Conta solo la salita. L’obiettivo è la distanza in metri, misurata sulla macchina o lungo il percorso.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "爬绳",
+      "description": "在可靠固定的绳索和合适垫面上，结合拉臂与已学会的脚锁向上爬，控制下行；只计算上升距离。 目标为距离，单位为米，可通过器械或路线测量。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ロープクライミング",
+      "description": "適切なマット上の固定ロープで、習得した足のロックと腕の引きで登り、制御して降ります。上昇距離のみ数えます。 目標はメートル単位の距離です。機器またはコースで計測してください。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "로프 클라이밍",
+      "description": "매트 위에 고정된 로프에서 익힌 발 고정과 팔 당기기로 올라가고 통제해서 내려오세요. 상승 거리만 셉니다. 목표는 미터 단위 거리이며 기기나 경로에서 측정합니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ปีนเชือก",
+      "description": "ใช้เชือกยึดมั่นเหนือเบาะ ดึงและล็อกเท้าตามที่ฝึกเพื่อปีน ลงอย่างควบคุม นับเฉพาะระยะขึ้น เป้าหมายคือระยะทางเป็นเมตร โดยวัดจากเครื่องหรือเส้นทาง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Лазание по канату",
+      "description": "На закреплённом канате над матами подтягивайтесь с освоенным зажимом ногами; спускайтесь контролируемо. Считайте только дистанцию подъёма. Цель — расстояние в метрах по показаниям тренажёра или разметке маршрута.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Лазіння по канату",
+      "description": "На закріпленому канаті над матами підтягуйтеся з опанованим затиском ногами; спускайтеся контрольовано. Рахуйте лише відстань підйому. Ціль — відстань у метрах за показниками тренажера або розміткою маршруту.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

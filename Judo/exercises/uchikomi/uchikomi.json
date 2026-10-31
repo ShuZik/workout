@@ -1,0 +1,87 @@
+{
+  "id": "41.106",
+  "key": "judo_uchikomi",
+  "title": "Uchikomi",
+  "description": "With a cooperative partner and established grips, enter the selected throw without completing it, then return both partners to balance. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "difficulty": "basic",
+  "section": "3 Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "translations": {
+    "en": {
+      "title": "Uchikomi",
+      "description": "With a cooperative partner and established grips, enter the selected throw without completing it, then return both partners to balance. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Uchikomi",
+      "description": "Con un compañero cooperando y agarres establecidos, entra a la proyección sin completarla y vuelve al equilibrio. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Uchikomi",
+      "description": "Com parceiro colaborando e pegadas estabelecidas, entre na projeção sem completá-la e voltem ao equilíbrio. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Uchi-komi",
+      "description": "Avec un partenaire coopérant et les saisies établies, entrez dans la projection sans la terminer, puis retrouvez l’équilibre. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Uchi-komi",
+      "description": "Gehe mit kooperativem Partner und gefassten Griffen in den gewählten Wurf ein, ohne ihn auszuführen, und kehre ins Gleichgewicht zurück. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Uchikomi",
+      "description": "Con compagno collaborativo e prese stabilite, entra nella proiezione senza completarla e ritornate in equilibrio. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "打入练习",
+      "description": "与配合的搭档建立抓握，进入选定投技但不完成摔落，再一起恢复平衡。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "打ち込み",
+      "description": "協力する相手と組み、選んだ投げ技に入って投げ切らず、双方が安定した姿勢に戻ります。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "우치코미",
+      "description": "협조하는 파트너와 잡기를 정한 뒤 선택한 던지기에 진입하되 던지지 말고 균형으로 돌아오세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "อุจิโคมิ",
+      "description": "กับคู่ซ้อมที่ร่วมมือและจับกริปแล้ว เข้าท่าทุ่มที่เลือกโดยไม่ทุ่มจบ จากนั้นกลับสู่สมดุล นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Утикоми",
+      "description": "С сотрудничающим партнёром из установленного захвата входите в выбранный бросок без завершения и возвращайтесь в равновесие. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Утікомі",
+      "description": "Із партнером, який співпрацює, з установленого захвату входьте в обраний кидок без завершення й повертайтеся в рівновагу. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Пересування"
+    }
+  }
+}

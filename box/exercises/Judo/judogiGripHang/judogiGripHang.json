@@ -1,0 +1,88 @@
+{
+  "id": "41.111",
+  "key": "judo_judogi_grip_hang",
+  "title": "Judogi-Grip Hang",
+  "description": "Grip fabric secured over a rated bar, lift the feet and hang without swinging, keeping shoulders controlled; step down before the grip fails.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "intermediate",
+  "section": "3 Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Judogi-Grip Hang",
+      "description": "Grip fabric secured over a rated bar, lift the feet and hang without swinging, keeping shoulders controlled; step down before the grip fails.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Suspensión agarrando judogi",
+      "description": "Agarra tela fijada sobre barra resistente, eleva pies y cuélgate sin balancear con hombros controlados; baja antes de perder agarre.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Suspensão segurando judogi",
+      "description": "Segure tecido fixado em barra resistente, levante pés e suspenda sem balanço com ombros controlados; desça antes da falha da pegada.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Suspension en prise judogi",
+      "description": "Saisissez le tissu fixé sur une barre adaptée, levez les pieds et restez sans balancer, épaules contrôlées ; descendez avant de perdre la prise.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Hängen am Judogi",
+      "description": "Greife den Stoff an belastbarer Stange, hebe die Füße und hänge ohne Schwingen bei kontrollierten Schultern; steige vor Griffversagen ab.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Sospensione con presa al judogi",
+      "description": "Afferra il tessuto fissato su barra adatta, alza i piedi e resta senza oscillare con spalle controllate; scendi prima di perdere la presa.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "柔道服抓握悬垂",
+      "description": "抓住固定在额定承重杆上的布料，抬脚悬垂不摇摆，保持肩部受控，握力失效前落脚。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "柔道着ぶら下がり",
+      "description": "耐荷重のあるバーに固定した布を握り、肩を制御して足を上げ、揺れずに保持します。握力が尽きる前に降ります。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "유도복 매달리기",
+      "description": "허용 하중이 적합한 바에 고정된 천을 잡고 발을 들어 어깨를 통제하며 흔들림 없이 매달렸다 잡기가 풀리기 전에 내려오세요.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "ห้อยตัวจับชุดยูโด",
+      "description": "จับผ้าที่ตรึงบนบาร์รับน้ำหนักได้ ยกเท้าห้อยไม่เหวี่ยงคุมไหล่ ก้าวลงก่อนแรงจับหมด",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Вис на дзюдоги",
+      "description": "Возьмите ткань на рассчитанной перекладине, поднимите стопы и висите без раскачки с контролем плеч; опуститесь до отказа хвата.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Вис на дзюдоґі",
+      "description": "Візьміть тканину на розрахованій перекладині, підніміть стопи й висіть без розгойдування з контролем плечей; опустіться до відмови хвату.",
+      "sectionTitle": "Пересування"
+    }
+  },
+  "durationSeconds": 20,
+  "state": "active"
+}

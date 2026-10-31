@@ -1,0 +1,88 @@
+{
+  "id": "41.108",
+  "key": "judo_randori",
+  "title": "Randori",
+  "description": "Practise free judo with a partner at an agreed intensity, applying legal techniques and resetting after throws or groundwork exchanges.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "difficulty": "intermediate",
+  "section": "3 Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 11.3,
+    "moderate": 11.3,
+    "vigorous": 11.3,
+    "lightCode": "15433",
+    "moderateCode": "15433",
+    "vigorousCode": "15433"
+  },
+  "translations": {
+    "en": {
+      "title": "Randori",
+      "description": "Practise free judo with a partner at an agreed intensity, applying legal techniques and resetting after throws or groundwork exchanges.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Randori",
+      "description": "Practica judo libre con un compañero a intensidad acordada, usando técnicas permitidas y reiniciando tras proyecciones o intercambios en suelo.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Randori",
+      "description": "Pratique judô livre com parceiro na intensidade combinada, usando técnicas permitidas e reiniciando após projeções ou trocas no solo.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Randori",
+      "description": "Pratiquez le judo libre à intensité convenue, avec des techniques autorisées et reprise après projections ou échanges au sol.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Randori",
+      "description": "Übe freies Judo mit vereinbarter Intensität, erlaubten Techniken und Neustart nach Würfen oder Bodenaktionen.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Randori",
+      "description": "Pratica judo libero a intensità concordata, con tecniche consentite e ripartenza dopo proiezioni o scambi a terra.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "乱取",
+      "description": "与搭档按约定强度自由练习柔道，采用允许的技术，在投摔或地面交手后重新开始。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "乱取り",
+      "description": "合意した強度で認められた技を使って自由に攻防し、投げや寝技の攻防後に再開します。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "란도리",
+      "description": "합의한 강도로 허용 기술을 사용해 자유 유도를 하고 던지기나 굳히기 공방 후 다시 시작하세요.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "รันโดริ",
+      "description": "ฝึกยูโดอิสระกับคู่ซ้อมตามความหนักที่ตกลง ใช้เทคนิคที่อนุญาตและเริ่มใหม่หลังทุ่มหรือแลกท่าภาคพื้น",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Рандори",
+      "description": "Проводите свободную практику дзюдо с партнёром на согласованной интенсивности, применяя разрешённые техники и возобновляя работу после бросков или эпизодов в партере.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Рандорі",
+      "description": "Проводьте вільну практику дзюдо з партнером на узгодженій інтенсивності, застосовуючи дозволені техніки й відновлюючи роботу після кидків або епізодів у партері.",
+      "sectionTitle": "Пересування"
+    }
+  }
+}

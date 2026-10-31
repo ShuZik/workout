@@ -1,0 +1,87 @@
+{
+  "id": "118.3",
+  "key": "jeet_kune_do_hand_immobilization_attack",
+  "title": "Hand Immobilization Attack",
+  "description": "With a cooperative partner, briefly control the guarding hand, touch the agreed pad target, release and reset; avoid joint pressure. One complete sequence counts as one action.",
+  "colorType": "orange",
+  "workoutType": "jeetKuneDo",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Hand Immobilization Attack",
+      "description": "With a cooperative partner, briefly control the guarding hand, touch the agreed pad target, release and reset; avoid joint pressure. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ataque inmovilizando la mano",
+      "description": "Con compañero cooperando, controla brevemente la mano de guardia, toca el blanco acordado, suelta y reinicia sin presionar articulaciones. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Ataque com imobilização da mão",
+      "description": "Com parceiro colaborando, controle brevemente a mão da guarda, toque o alvo combinado, solte e reinicie sem pressionar articulações. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Attaque avec immobilisation de la main",
+      "description": "Avec un partenaire coopérant, contrôlez brièvement la main de garde, touchez la cible convenue, relâchez et reprenez sans pression articulaire. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Angriff mit Handkontrolle",
+      "description": "Kontrolliere beim kooperativen Partner kurz die Deckungshand, berühre das vereinbarte Ziel, löse und starte neu; kein Gelenkdruck. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Attacco con immobilizzazione della mano",
+      "description": "Con compagno collaborativo, controlla brevemente la mano in guardia, tocca il bersaglio concordato, rilascia e riparti senza pressioni articolari. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "封手攻击",
+      "description": "与配合搭档短暂控制其防守手，轻触约定手靶后松开重置，不施加关节压力。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "手を制する攻撃",
+      "description": "協力する相手のガードの手を短く制し、決めたミットに触れて離し、関節に圧をかけず再開します。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "손 제압 공격",
+      "description": "협조하는 파트너의 가드 손을 잠깐 통제하고 정한 미트를 터치한 뒤 풀고 재시작하며 관절을 압박하지 마세요. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โจมตีพร้อมตรึงมือ",
+      "description": "กับคู่ซ้อมที่ร่วมมือ คุมมือการ์ดสั้น ๆ แตะเป้าที่ตกลง ปล่อยแล้วตั้งใหม่ ไม่กดข้อต่อ นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Атака с контролем руки",
+      "description": "С сотрудничающим партнёром кратко контролируйте защищающую руку, коснитесь согласованной лапы, отпустите и начните заново без давления на суставы. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Атака з контролем руки",
+      "description": "Із партнером, який співпрацює, коротко контролюйте захисну руку, торкніться узгодженої лапи, відпустіть і почніть знову без тиску на суглоби. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

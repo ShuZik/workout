@@ -1,0 +1,88 @@
+{
+  "id": "113.2",
+  "key": "hojo_undo_nigiri_game_carry",
+  "title": "Nigiri-game Carry",
+  "description": "Grip the jar rims with the fingers, stand tall with arms down, and walk steadily without tipping or resting the jars on the thighs. The target is distance in metres, measured on the machine or along the route. Enter the total external load used, in kilograms.",
+  "colorType": "red",
+  "workoutType": "hojoUndo",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "distanceAndWeight",
+  "initialValue": 20,
+  "initialValue2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Nigiri-game Carry",
+      "description": "Grip the jar rims with the fingers, stand tall with arms down, and walk steadily without tipping or resting the jars on the thighs. The target is distance in metres, measured on the machine or along the route. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Transporte de nigiri-game",
+      "description": "Agarra los bordes de las vasijas con los dedos, mantente erguido con brazos abajo y camina sin inclinar ni apoyar las vasijas en los muslos. El objetivo es la distancia en metros, medida en la máquina o en el recorrido. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Caminhada com nigiri-game",
+      "description": "Segure as bordas dos vasos com os dedos, fique ereto com braços baixos e caminhe sem inclinar nem apoiar os vasos nas coxas. A meta é a distância em metros, medida no aparelho ou no percurso. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Marche avec nigiri-game",
+      "description": "Saisissez les rebords des jarres avec les doigts, bras bas, et marchez droit sans basculer ni appuyer les jarres sur les cuisses. L’objectif est la distance en mètres, mesurée sur l’appareil ou le parcours. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Nigiri-game-Tragen",
+      "description": "Greife die Gefäßränder mit den Fingern, stehe aufrecht mit tiefen Armen und gehe ohne Kippen oder Abstützen an den Oberschenkeln. Das Ziel ist die Strecke in Metern, gemessen am Gerät oder auf der Route. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Trasporto dei nigiri-game",
+      "description": "Afferra i bordi dei vasi con le dita, tieni le braccia lungo i fianchi e cammina senza inclinarli né appoggiarli alle cosce. L’obiettivo è la distanza in metri, misurata sulla macchina o lungo il percorso. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "握瓮行走",
+      "description": "用手指抓住瓮口边缘，身体直立、双臂下垂，平稳行走，勿倾倒或将瓮靠在大腿上。 目标为距离，单位为米，可通过器械或路线测量。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "握り甕歩行",
+      "description": "指で甕の縁を握り、腕を下ろして姿勢を伸ばし、甕を傾けたり腿に預けたりせず歩きます。 目標はメートル単位の距離です。機器またはコースで計測してください。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "니기리가메 운반",
+      "description": "손가락으로 항아리 테두리를 잡고 팔을 내린 채 똑바로 서서 기울이거나 허벅지에 기대지 않고 걸으세요. 목표는 미터 단위 거리이며 기기나 경로에서 측정합니다. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "เดินถือไนกิริกาเมะ",
+      "description": "ใช้นิ้วจับขอบไห ยืนตรงปล่อยแขนลง เดินมั่นคงโดยไม่เอียงหรือพักไหบนต้นขา เป้าหมายคือระยะทางเป็นเมตร โดยวัดจากเครื่องหรือเส้นทาง กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Ходьба с нигири-гамэ",
+      "description": "Удерживайте края кувшинов пальцами, выпрямитесь с опущенными руками и идите ровно, не наклоняя и не опирая кувшины на бёдра. Цель — расстояние в метрах по показаниям тренажёра или разметке маршрута. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Ходьба з ніґірі-ґаме",
+      "description": "Тримайте краї глеків пальцями, випростайтеся з опущеними руками й ідіть рівно, не нахиляючи та не спираючи глеки на стегна. Ціль — відстань у метрах за показниками тренажера або розміткою маршруту. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

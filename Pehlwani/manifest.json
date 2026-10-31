@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "teal",
+    "folder": "Pehlwani",
+    "id": "114",
+    "icon": "Pehlwani/Icon.png",
+    "symbolName": "figure.wrestling",
+    "title": "Pehlwani / Kushti",
+    "workoutType": "pehlwani",
+    "translations": {
+      "en": {
+        "title": "Pehlwani / Kushti"
+      },
+      "es": {
+        "title": "Pehlwani / kushti"
+      },
+      "pt": {
+        "title": "Pehlwani / kushti"
+      },
+      "fr": {
+        "title": "Pehlwani / kushti"
+      },
+      "de": {
+        "title": "Pehlwani / Kushti"
+      },
+      "it": {
+        "title": "Pehlwani / kushti"
+      },
+      "zh-Hans": {
+        "title": "印度摔跤"
+      },
+      "ja": {
+        "title": "ペールワーニー／クシュティ"
+      },
+      "ko": {
+        "title": "페흘와니 / 쿠슈티"
+      },
+      "th": {
+        "title": "เปหลวานี / กุษตี"
+      },
+      "ru": {
+        "title": "Пехлвани / кушти"
+      },
+      "uk": {
+        "title": "Пехлвані / кушті"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Pehlwani/exercises/hinduPushUp/Icon.png",
+      "json": "Pehlwani/exercises/hinduPushUp/hinduPushUp.json"
+    },
+    {
+      "icon": "Pehlwani/exercises/hinduSquat/Icon.png",
+      "json": "Pehlwani/exercises/hinduSquat/hinduSquat.json"
+    },
+    {
+      "icon": "Pehlwani/exercises/ropeClimbing/Icon.png",
+      "json": "Pehlwani/exercises/ropeClimbing/ropeClimbing.json"
+    },
+    {
+      "icon": "Pehlwani/exercises/gadaSwing/Icon.png",
+      "json": "Pehlwani/exercises/gadaSwing/gadaSwing.json"
+    },
+    {
+      "icon": "Pehlwani/exercises/indianClubSwing/Icon.png",
+      "json": "Pehlwani/exercises/indianClubSwing/indianClubSwing.json"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "41.107",
+  "key": "judo_nagekomi",
+  "title": "Nagekomi",
+  "description": "On suitable tatami, complete the selected throw with a partner trained in breakfalls; support the landing and reset grips each time. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "difficulty": "intermediate",
+  "section": "3 Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "translations": {
+    "en": {
+      "title": "Nagekomi",
+      "description": "On suitable tatami, complete the selected throw with a partner trained in breakfalls; support the landing and reset grips each time. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Nagekomi",
+      "description": "En tatami adecuado, completa la proyección con un compañero que domine las caídas; acompaña la caída y reajusta los agarres. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Nagekomi",
+      "description": "Em tatame adequado, complete a projeção com parceiro treinado em quedas; acompanhe a aterrissagem e refaça as pegadas. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Nage-komi",
+      "description": "Sur tatami adapté, terminez la projection avec un partenaire maîtrisant les chutes ; accompagnez la réception et reprenez les saisies. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Nage-komi",
+      "description": "Führe auf geeigneter Matte den Wurf mit einem fallsicheren Partner aus; begleite die Landung und fasse jedes Mal neu. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Nagekomi",
+      "description": "Su tatami adatto, completa la proiezione con un compagno preparato alle cadute; accompagna l’atterraggio e ristabilisci le prese. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "投摔练习",
+      "description": "在合适的榻榻米上与掌握受身的搭档完成投技，控制落地并每次重新抓握。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "投げ込み",
+      "description": "適切な畳で受身を習得した相手と選んだ技を投げ切り、着地を支えて毎回組み直します。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "나게코미",
+      "description": "적절한 다다미에서 낙법을 익힌 파트너에게 선택한 던지기를 완성하고 착지를 지지한 뒤 매번 잡기를 다시 하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "นาเงะโคมิ",
+      "description": "บนเสื่อที่เหมาะสม ทุ่มท่าที่เลือกกับคู่ซ้อมที่ฝึกล้มเป็น ประคองตอนลงและตั้งกริปใหม่ทุกครั้ง นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Нагэкоми",
+      "description": "На подходящем татами завершайте выбранный бросок с партнёром, владеющим страховкой; контролируйте приземление и каждый раз восстанавливайте захват. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Наґекомі",
+      "description": "На відповідному татамі завершуйте обраний кидок із партнером, який володіє страховкою; контролюйте приземлення й щоразу відновлюйте захват. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Пересування"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "122.8",
+  "key": "tricking_tricking_combination",
+  "title": "Tricking Combination",
+  "description": "In an equipped acrobatics area with a qualified coach, link only learned kicks and acrobatics in the agreed order; one finished combination is one action. One complete sequence counts as one action.",
+  "colorType": "coral",
+  "workoutType": "tricking",
+  "difficulty": "advanced",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 3,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.8,
+    "moderate": 3.8,
+    "vigorous": 3.8,
+    "lightCode": "15300",
+    "moderateCode": "15300",
+    "vigorousCode": "15300"
+  },
+  "translations": {
+    "en": {
+      "title": "Tricking Combination",
+      "description": "In an equipped acrobatics area with a qualified coach, link only learned kicks and acrobatics in the agreed order; one finished combination is one action. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Combinación de tricking",
+      "description": "En zona acrobática equipada con entrenador cualificado, enlaza solo patadas y acrobacias aprendidas en el orden acordado; una combinación completa es una acción. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Combinação de tricking",
+      "description": "Em área acrobática equipada com treinador qualificado, una só chutes e acrobacias aprendidos na ordem combinada; uma combinação completa é uma ação. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Combinaison de tricking",
+      "description": "En zone acrobatique équipée avec un entraîneur qualifié, liez seulement des gestes appris dans l’ordre convenu ; une combinaison complète compte pour une action. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Tricking-Kombination",
+      "description": "Verbinde auf geeigneter Akrobatikfläche mit qualifiziertem Trainer nur erlernte Tritte und Akrobatik in vereinbarter Reihenfolge; eine ganze Kombination ist eine Aktion. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Combinazione di tricking",
+      "description": "In area acrobatica attrezzata con tecnico qualificato, collega solo calci e acrobazie appresi nell’ordine concordato; una combinazione completa è un’azione. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "极限武术组合",
+      "description": "在配备设施的空翻区域与合格教练按约定顺序串联已掌握的踢击与空翻，一次完整组合计一次动作。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "トリッキングの連続技",
+      "description": "設備のある場所で指導者と習得済みの蹴りとアクロバットを決めた順につなげ、全体を終えて1回とします。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "트리킹 콤비네이션",
+      "description": "갖춰진 아크로바틱 공간에서 자격 있는 코치와 익힌 킥과 기술만 정한 순서로 연결하고 완성한 콤비네이션을 1회로 셉니다. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ชุดทริกกิง",
+      "description": "ในพื้นที่กายกรรมพร้อมอุปกรณ์กับโค้ชที่มีคุณสมบัติ เชื่อมเฉพาะเตะและกายกรรมที่เรียนตามลำดับ ชุดครบเป็นหนึ่งการกระทำ นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Связка трикинга",
+      "description": "На оборудованной акробатической площадке с квалифицированным тренером свяжите только освоенные удары и акробатику в оговорённом порядке; полная связка — одно действие. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Зв’язка трикінгу",
+      "description": "На обладнаному акробатичному майданчику з кваліфікованим тренером поєднайте лише опановані удари й акробатику в домовленому порядку; повна зв’язка — одна дія. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

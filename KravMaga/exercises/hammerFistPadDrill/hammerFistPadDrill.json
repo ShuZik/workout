@@ -1,0 +1,87 @@
+{
+  "id": "119.2",
+  "key": "krav_maga_hammer_fist_pad_drill",
+  "title": "Hammer-Fist Pad Drill",
+  "description": "Strike the pad with the fleshy little-finger side of a closed fist, keeping the wrist straight; recoil without locking the elbow. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "gray",
+  "workoutType": "kravMaga",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Hammer-Fist Pad Drill",
+      "description": "Strike the pad with the fleshy little-finger side of a closed fist, keeping the wrist straight; recoil without locking the elbow. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Golpes de martillo a pao",
+      "description": "Golpea la pao con el borde carnoso del meñique del puño cerrado, muñeca recta; vuelve sin bloquear el codo. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Marteladas na aparadora",
+      "description": "Bata na aparadora com a lateral carnosa do dedo mínimo do punho fechado, punho reto; retorne sem travar o cotovelo. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Frappes marteau sur cible",
+      "description": "Frappez la cible avec le bord charnu côté auriculaire du poing fermé, poignet droit ; revenez sans verrouiller le coude. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Hammerfaust an der Pratze",
+      "description": "Triff die Pratze mit der fleischigen Kleinfingerseite der geschlossenen Faust, Handgelenk gerade; ziehe ohne Ellenbogenverriegelung zurück. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Pugni a martello sul colpitore",
+      "description": "Colpisci con il lato carnoso del mignolo del pugno chiuso, polso diritto; recupera senza bloccare il gomito. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "锤拳打靶",
+      "description": "用握拳的小指侧肉厚部击靶，手腕挺直，回收时不锁死肘部。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ミットへの鉄槌打ち",
+      "description": "握った拳の小指側の柔らかい部分でミットを打ち、手首をまっすぐに保って肘を固めず戻します。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "해머피스트 미트 훈련",
+      "description": "주먹의 새끼손가락 쪽 두툼한 면으로 미트를 치고 손목을 곧게 유지하며 팔꿈치를 잠그지 않고 회수하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ฝึกหมัดค้อนบนเป้า",
+      "description": "ตีเป้าด้วยด้านเนื้อฝั่งนิ้วก้อยของกำปั้น ข้อมือตรง ดึงคืนโดยไม่ล็อกศอก นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Удары кулаком-молотом по лапе",
+      "description": "Бейте по лапе мягким ребром сжатого кулака со стороны мизинца, держите запястье прямо и возвращайте без замыкания локтя. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Удари кулаком-молотом по лапі",
+      "description": "Бийте по лапі м’яким ребром стиснутого кулака з боку мізинця, тримайте зап’ясток прямо й повертайте без замикання ліктя. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

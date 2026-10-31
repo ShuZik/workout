@@ -1,0 +1,87 @@
+{
+  "id": "116.5",
+  "key": "sanda_sanda_strike_to_throw_drill",
+  "title": "Sanda Strike-to-Throw Drill",
+  "description": "With a cooperative partner on mats, link an agreed light strike to a controlled throw entry and finish; reset after the full combination. One complete sequence counts as one action.",
+  "colorType": "red",
+  "workoutType": "sanda",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Sanda Strike-to-Throw Drill",
+      "description": "With a cooperative partner on mats, link an agreed light strike to a controlled throw entry and finish; reset after the full combination. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Enlace de golpe y proyección de sanda",
+      "description": "Con compañero cooperando en colchoneta, enlaza un golpe ligero acordado con entrada y proyección controladas; reinicia tras la combinación completa. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Ligação de golpe e projeção no sanda",
+      "description": "Com parceiro colaborando no tatame, una um golpe leve combinado à entrada e projeção controladas; reinicie após a combinação completa. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Enchaînement frappe-projection en sanda",
+      "description": "Avec un partenaire coopérant sur tapis, liez une frappe légère convenue à l’entrée et la projection contrôlées ; reprenez après l’ensemble. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Sanda-Schlag-Wurf-Kombination",
+      "description": "Verbinde mit kooperativem Partner auf Matten einen vereinbarten leichten Schlag mit kontrolliertem Wurfeingang und Abschluss; starte nach der ganzen Kombination neu. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Combinazione colpo-proiezione sanda",
+      "description": "Con compagno collaborativo su tappeti, collega un colpo leggero concordato a entrata e proiezione controllate; riparti dopo la combinazione completa. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "散打打摔组合练习",
+      "description": "与搭档在垫上将约定轻打击连接至受控摔法进身和完成，完整组合后重置。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "散打の打撃から投げへの連係",
+      "description": "マット上で協力する相手に決めた軽い打撃から投げの入りと完了をつなげ、全体を終えてから再開します。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "산타 타격·던지기 연계",
+      "description": "매트에서 협조하는 파트너에게 정한 가벼운 타격을 통제된 던지기 진입과 완성으로 연결한 뒤 재설정하세요. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ฝึกต่อโจมตีสู่ทุ่มซานต่า",
+      "description": "กับคู่ซ้อมที่ร่วมมือบนเบาะ เชื่อมการโจมตีเบาที่ตกลงสู่เข้าท่าและทุ่มอย่างควบคุม ตั้งใหม่หลังครบชุด นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Связка удара и броска санда",
+      "description": "С сотрудничающим партнёром на матах свяжите согласованный лёгкий удар с контролируемым входом и завершением броска; возвращайтесь после полной связки. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Зв’язка удару й кидка саньда",
+      "description": "Із партнером, який співпрацює, на матах поєднайте узгоджений легкий удар із контрольованим входом і завершенням кидка; повертайтеся після повної зв’язки. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

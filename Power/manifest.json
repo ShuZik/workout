@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "coral",
+    "folder": "Power",
+    "id": "111",
+    "icon": "Power/Icon.png",
+    "symbolName": "figure.cross.training",
+    "title": "Explosive Power",
+    "workoutType": "power",
+    "translations": {
+      "en": {
+        "title": "Explosive Power"
+      },
+      "es": {
+        "title": "Potencia explosiva"
+      },
+      "pt": {
+        "title": "Potência explosiva"
+      },
+      "fr": {
+        "title": "Puissance explosive"
+      },
+      "de": {
+        "title": "Explosivkraft"
+      },
+      "it": {
+        "title": "Potenza esplosiva"
+      },
+      "zh-Hans": {
+        "title": "爆发力"
+      },
+      "ja": {
+        "title": "瞬発力"
+      },
+      "ko": {
+        "title": "폭발적인 파워"
+      },
+      "th": {
+        "title": "พลังระเบิด"
+      },
+      "ru": {
+        "title": "Взрывная мощность"
+      },
+      "uk": {
+        "title": "Вибухова потужність"
+      }
+    }
+  },
+  "files": [
+    {
+      "json": "Power/exercises/squatJump/squatJump.json",
+      "icon": "Power/exercises/squatJump/Icon.png"
+    },
+    {
+      "json": "Power/exercises/explosivePushUp/explosivePushUp.json",
+      "icon": "Power/exercises/explosivePushUp/Icon.png"
+    },
+    {
+      "json": "Power/exercises/rotationalMedicineBallThrow/rotationalMedicineBallThrow.json",
+      "icon": "Power/exercises/rotationalMedicineBallThrow/Icon.png"
+    },
+    {
+      "json": "Power/exercises/medicineBallChestPass/medicineBallChestPass.json",
+      "icon": "Power/exercises/medicineBallChestPass/Icon.png"
+    },
+    {
+      "icon": "Power/exercises/broadJumpRepetitions/Icon.png",
+      "json": "Power/exercises/broadJumpRepetitions/broadJumpRepetitions.json"
+    }
+  ]
+}

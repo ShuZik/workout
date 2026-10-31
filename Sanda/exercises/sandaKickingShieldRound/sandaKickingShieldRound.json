@@ -1,0 +1,88 @@
+{
+  "id": "116.2",
+  "key": "sanda_sanda_kicking_shield_round",
+  "title": "Sanda Kicking Shield Round",
+  "description": "With a trained pad holder, practise kicks on a shield in the agreed rhythm and power. Return to guard after each combination and stop when the holder signals.",
+  "colorType": "red",
+  "workoutType": "sanda",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Sanda Kicking Shield Round",
+      "description": "With a trained pad holder, practise kicks on a shield in the agreed rhythm and power. Return to guard after each combination and stop when the holder signals.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ronda de patadas de sanda",
+      "description": "Con un portador de paos entrenado, practica patadas al escudo al ritmo y potencia acordados. Recupera guardia tras cada serie y detente a su señal.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Round de chutes de sanda",
+      "description": "Com aparador treinado, pratique chutes no escudo no ritmo e potência combinados. Volte à guarda após cada série e pare ao sinal.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Round de pieds en sanda sur bouclier",
+      "description": "Avec un partenaire formé aux paos, pratiquez des coups de pied sur bouclier au rythme et à la puissance convenus. Reprenez la garde après chaque série et arrêtez à son signal.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Sanda-Trittrunde am Schlagpolster",
+      "description": "Übe mit geschultem Pratzenhalter Tritte auf das Schlagpolster im vereinbarten Rhythmus und mit vereinbarter Kraft. Kehre nach jeder Serie in die Deckung zurück und stoppe auf Signal.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Round di calci sanda sullo scudo",
+      "description": "Con un compagno preparato ai colpitori, pratica calci sullo scudo al ritmo e potenza concordati. Torna in guardia dopo ogni serie e fermati al segnale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "散打腿法盾靶回合",
+      "description": "与掌握持靶的搭档按约定节奏和力度练习踢击盾靶，每组后恢复防守，持靶者示意时停止。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "散打キックシールドラウンド",
+      "description": "ミット保持を習得した相手と、合意したリズムと強さでキックシールドへの蹴りを練習します。毎回ガードに戻り、相手の合図で止めます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "산타 킥 실드 라운드",
+      "description": "숙련된 미트 홀더와 정한 리듬과 강도로 킥 실드 차기을 연습하세요. 매 콤비네이션 후 가드로 복귀하고 홀더 신호에 멈추세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ยกฝึกเตะโล่ซานต่า",
+      "description": "กับผู้ถือเป้าที่ฝึกมา ฝึกเตะโล่เป้าตามจังหวะและแรงที่ตกลง คืนการ์ดหลังแต่ละชุดและหยุดเมื่อผู้ถือให้สัญญาณ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Раунд санда ногами по щиту",
+      "description": "С обученным держателем лап отрабатывайте удары ногами по щиту в согласованном ритме и силе. Возвращайтесь в защиту после серии и останавливайтесь по сигналу держателя.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Раунд саньда ногами по щиту",
+      "description": "Із навченим тримачем лап відпрацьовуйте удари ногами по щиту в узгодженому ритмі й силі. Повертайтеся в захист після серії та зупиняйтеся за сигналом тримача.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

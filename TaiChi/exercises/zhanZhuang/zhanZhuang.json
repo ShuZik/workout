@@ -1,0 +1,88 @@
+{
+  "id": "120.4",
+  "key": "tai_chi_zhan_zhuang",
+  "title": "Zhan Zhuang",
+  "description": "Stand with feet shoulder-width and knees softly bent, arms rounded in front of the chest; relax shoulders and breathe naturally without holding the breath.",
+  "colorType": "sage",
+  "workoutType": "taiChi",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 3.3,
+    "moderate": 3.3,
+    "vigorous": 3.3,
+    "lightCode": "15670",
+    "moderateCode": "15670",
+    "vigorousCode": "15670"
+  },
+  "translations": {
+    "en": {
+      "title": "Zhan Zhuang",
+      "description": "Stand with feet shoulder-width and knees softly bent, arms rounded in front of the chest; relax shoulders and breathe naturally without holding the breath.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Zhan zhuang",
+      "description": "De pie con pies al ancho de hombros y rodillas suaves, redondea brazos frente al pecho; relaja hombros y respira sin retener.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Zhan zhuang",
+      "description": "Com pés na largura dos ombros e joelhos suaves, arredonde braços à frente do peito; relaxe ombros e respire sem prender.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Zhan zhuang",
+      "description": "Pieds largeur d’épaules, genoux souples, arrondissez les bras devant la poitrine ; relâchez les épaules et respirez naturellement.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Zhan Zhuang",
+      "description": "Stehe schulterbreit mit weichen Knien und gerundeten Armen vor der Brust; entspanne die Schultern und atme ohne Anhalten.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Zhan zhuang",
+      "description": "Piedi alla larghezza spalle, ginocchia morbide e braccia arrotondate davanti al petto; rilassa le spalle e respira senza trattenere.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "站桩",
+      "description": "双脚与肩同宽，膝部微屈，双臂在胸前环抱，松肩并自然呼吸，不憋气。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "站樁",
+      "description": "足を肩幅にし膝を軽く曲げ、胸前で腕を丸く保ち、肩を緩めて息を止めず自然に呼吸します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "참장",
+      "description": "발을 어깨너비로 하고 무릎을 살짝 굽혀 팔을 가슴 앞에 둥글게 유지하며 어깨를 풀고 숨을 참지 마세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "จ้านจวง",
+      "description": "ยืนเท้ากว้างไหล่ เข่างอผ่อน แขนโค้งหน้าอก ผ่อนคลายไหล่และหายใจธรรมชาติไม่กลั้น",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Чжань чжуан",
+      "description": "Встаньте на ширине плеч с мягкими коленями и округлёнными перед грудью руками; расслабьте плечи и дышите естественно без задержки.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Чжань чжуан",
+      "description": "Станьте на ширині плечей із м’якими колінами й округленими перед грудьми руками; розслабте плечі та дихайте природно без затримки.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

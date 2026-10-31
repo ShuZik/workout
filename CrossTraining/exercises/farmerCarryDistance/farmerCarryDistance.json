@@ -1,0 +1,88 @@
+{
+  "id": "23.35",
+  "key": "cross_training_farmer_carry_distance",
+  "title": "Farmer’s Carry",
+  "description": "Hold a dumbbell in each hand, stand tall, and walk slowly along a clear, level route without leaning or shrugging. Lower the weights under control after the target distance; enter the combined weight of both dumbbells.",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "distanceAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 4.5,
+    "moderate": 4.5,
+    "vigorous": 4.5,
+    "lightCode": "17018",
+    "moderateCode": "17018",
+    "vigorousCode": "17018"
+  },
+  "difficulty": "basic",
+  "section": "5 Mixed Load",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Farmer’s Carry",
+      "description": "Hold a dumbbell in each hand, stand tall, and walk slowly along a clear, level route without leaning or shrugging. Lower the weights under control after the target distance; enter the combined weight of both dumbbells.",
+      "sectionTitle": "Mixed Load"
+    },
+    "es": {
+      "title": "Paseo del granjero",
+      "description": "Sujeta una mancuerna en cada mano, mantén el torso erguido y camina despacio por un recorrido despejado y llano, sin inclinarte ni encoger los hombros. Baja las pesas con control al completar la distancia; introduce el peso total de ambas mancuernas.",
+      "sectionTitle": "Carga mixta"
+    },
+    "pt": {
+      "title": "Caminhada do fazendeiro",
+      "description": "Segure um halter em cada mão, mantenha o tronco ereto e caminhe devagar por um trajeto livre e plano, sem inclinar o corpo nem encolher os ombros. Baixe os pesos com controle após completar a distância; informe o peso total dos dois halteres.",
+      "sectionTitle": "Carga mista"
+    },
+    "fr": {
+      "title": "Marche du fermier",
+      "description": "Tenez un haltère dans chaque main, redressez le buste et marchez lentement sur un trajet dégagé et plat, sans vous pencher ni hausser les épaules. Reposez les poids avec contrôle après la distance cible ; indiquez le poids total des deux haltères.",
+      "sectionTitle": "Charge mixte"
+    },
+    "de": {
+      "title": "Farmer’s Walk",
+      "description": "Halte in jeder Hand eine Kurzhantel, richte dich auf und gehe langsam auf einer freien, ebenen Strecke, ohne dich zur Seite zu neigen oder die Schultern hochzuziehen. Setze die Gewichte nach der Zieldistanz kontrolliert ab; trage das Gesamtgewicht beider Hanteln ein.",
+      "sectionTitle": "Gemischte Lasten"
+    },
+    "it": {
+      "title": "Camminata del contadino",
+      "description": "Tieni un manubrio in ciascuna mano, mantieni il busto eretto e cammina lentamente su un percorso libero e piano, senza inclinarti né sollevare le spalle. Appoggia i pesi con controllo dopo la distanza prevista; inserisci il peso totale dei due manubri.",
+      "sectionTitle": "Carico misto"
+    },
+    "zh-Hans": {
+      "title": "农夫行走",
+      "description": "双手各握一只哑铃，挺直身体，沿平坦、无障碍的路线缓慢行走，不侧倾、不耸肩。达到目标距离后控制着放下哑铃；重量填写两只哑铃的总重量。",
+      "sectionTitle": "混合负重"
+    },
+    "ja": {
+      "title": "ファーマーズキャリー",
+      "description": "両手にダンベルを1個ずつ持ち、上体を起こして、障害物のない平らな道をゆっくり歩きます。体を傾けたり肩をすくめたりせず、目標距離を歩いたらゆっくり下ろしてください。重量はダンベル2個の合計を入力します。",
+      "sectionTitle": "ミックス負荷"
+    },
+    "ko": {
+      "title": "파머스 캐리",
+      "description": "양손에 덤벨을 하나씩 들고 상체를 세운 채 장애물이 없는 평평한 구간을 천천히 걸으세요. 몸을 기울이거나 어깨를 으쓱하지 말고 목표 거리를 마치면 덤벨을 천천히 내려놓으세요. 중량은 두 덤벨의 합계로 입력하세요.",
+      "sectionTitle": "혼합 부하"
+    },
+    "th": {
+      "title": "เดินถือดัมเบลข้างลำตัว",
+      "description": "ถือดัมเบลข้างละหนึ่งอัน ยืดลำตัวตรง แล้วเดินช้า ๆ บนทางเรียบที่ไม่มีสิ่งกีดขวาง โดยไม่เอียงตัวหรือยักไหล่ เมื่อครบระยะทางเป้าหมายให้วางน้ำหนักลงอย่างควบคุม และระบุน้ำหนักรวมของดัมเบลทั้งสองอัน",
+      "sectionTitle": "น้ำหนักผสม"
+    },
+    "ru": {
+      "title": "Прогулка фермера",
+      "description": "Держите по гантели в каждой руке, выпрямитесь и медленно идите по свободному ровному участку, не наклоняясь и не поднимая плечи. Пройдя заданную дистанцию, плавно опустите гантели; указывайте суммарный вес обеих гантелей.",
+      "sectionTitle": "Смешанная нагрузка"
+    },
+    "uk": {
+      "title": "Прогулянка фермера",
+      "description": "Тримайте по гантелі в кожній руці, випряміться й повільно йдіть вільною рівною ділянкою, не нахиляючись і не піднімаючи плечі. Подолавши задану дистанцію, плавно опустіть гантелі; зазначайте загальну вагу обох гантелей.",
+      "sectionTitle": "Змішане навантаження"
+    }
+  },
+  "initialValue": 40,
+  "initialValue2": 24
+}

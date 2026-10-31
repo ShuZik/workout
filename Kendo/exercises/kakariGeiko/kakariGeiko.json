@@ -1,0 +1,88 @@
+{
+  "id": "69.29",
+  "key": "kendo_kakari_geiko",
+  "title": "Kakari-geiko",
+  "description": "Attack openings offered by a protected receiver continuously with committed, controlled strikes; reset distance after passing.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "difficulty": "intermediate",
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 11.3,
+    "moderate": 11.3,
+    "vigorous": 11.3,
+    "lightCode": "15446",
+    "moderateCode": "15446",
+    "vigorousCode": "15446"
+  },
+  "translations": {
+    "en": {
+      "title": "Kakari-geiko",
+      "description": "Attack openings offered by a protected receiver continuously with committed, controlled strikes; reset distance after passing.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Kakari-geiko",
+      "description": "Ataca continuamente aperturas de un receptor protegido con golpes decididos y controlados; reajusta distancia al pasar.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Kakari-geiko",
+      "description": "Ataque continuamente as aberturas do receptor protegido com golpes firmes e controlados; reajuste a distância ao passar.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Kakari-geiko",
+      "description": "Attaquez continuellement les ouvertures du receveur protégé avec des frappes engagées et contrôlées ; rétablissez la distance après le passage.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Kakari-geiko",
+      "description": "Greife die Öffnungen des geschützten Partners fortlaufend mit entschlossenen kontrollierten Schlägen an; stelle nach dem Vorbeigehen den Abstand wieder her.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Kakari-geiko",
+      "description": "Attacca continuamente le aperture del ricevente protetto con colpi decisi e controllati; ripristina la distanza dopo il passaggio.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "挂稽古",
+      "description": "持续果断、受控地攻击穿护具受方提供的空隙，通过后重新调整距离。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "掛かり稽古",
+      "description": "防具を着けた元立ちの隙を連続して打ち込み、抜けたら間合いを取り直します。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "가카리게이코",
+      "description": "보호구를 착용한 상대가 내주는 빈틈을 지속적이고 통제된 타격으로 공격하고 지나간 뒤 거리를 회복하세요.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "คาคาริเกโกะ",
+      "description": "โจมตีช่องเปิดที่ผู้รับสวมเกราะให้ต่อเนื่องด้วยการฟันที่ตั้งใจและควบคุม แล้วตั้งระยะใหม่หลังผ่าน",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Какари-гэйко",
+      "description": "Непрерывно атакуйте открываемые принимающим в защите цели решительными контролируемыми ударами, после прохода восстанавливайте дистанцию.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Какарі-ґейко",
+      "description": "Безперервно атакуйте відкриті партнером у захисті цілі рішучими контрольованими ударами, після проходу відновлюйте дистанцію.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

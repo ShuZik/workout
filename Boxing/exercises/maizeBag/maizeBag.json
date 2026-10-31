@@ -1,0 +1,89 @@
+{
+  "id": "1.51",
+  "key": "boxing_maize_bag",
+  "title": "Maize Bag Slips and Short Combinations",
+  "description": "Let the maize bag swing, slip beside its path with bent knees, then throw a controlled short combination.",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "difficulty": "intermediate",
+  "section": "4 Intermediate",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Maize Bag Slips and Short Combinations",
+      "description": "Let the maize bag swing, slip beside its path with bent knees, then throw a controlled short combination.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Esquivas y series cortas con saco de maíz",
+      "description": "Deja oscilar el saco, esquiva su trayectoria flexionando las rodillas y lanza una serie corta controlada.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Esquivas e séries curtas no saco de milho",
+      "description": "Deixe o saco oscilar, esquive da trajetória flexionando os joelhos e faça uma série curta controlada.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Esquives et séries courtes au sac de maïs",
+      "description": "Laissez osciller le sac, esquivez sa trajectoire en fléchissant les genoux, puis placez une courte série contrôlée.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "Meidebewegungen und kurze Serien am Maisball",
+      "description": "Lass den Maisball pendeln, weiche mit gebeugten Knien seitlich aus und schlage eine kontrollierte kurze Serie.",
+      "sectionTitle": "Fortgeschritten"
+    },
+    "it": {
+      "title": "Schivate e serie corte al sacco di mais",
+      "description": "Lascia oscillare il sacco, schiva la traiettoria piegando le ginocchia e porta una breve serie controllata.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "玉米袋闪躲与短组合拳",
+      "description": "让袋体摆动，屈膝闪至其轨迹一侧，然后打出受控的短组合拳。",
+      "sectionTitle": "中级"
+    },
+    "ja": {
+      "title": "メイズバッグでのスリップと短い連打",
+      "description": "バッグを揺らし、膝を曲げて軌道の横へ避け、短いコンビネーションを制御して打ちます。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "메이즈백 슬립과 짧은 연타",
+      "description": "백을 흔들고 무릎을 굽혀 경로 옆으로 피한 뒤 짧은 콤비네이션을 통제해서 치세요.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "หลบและชกชุดสั้นกับกระสอบเมซ",
+      "description": "ปล่อยกระสอบแกว่ง ย่อเข่าหลบออกด้านข้างแนวกระสอบ แล้วชกชุดสั้นอย่างควบคุม",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Уклоны и короткие серии с maize bag",
+      "description": "Раскачайте мешок, уходите в сторону от его траектории на согнутых ногах и выполняйте контролируемую короткую серию.",
+      "sectionTitle": "Средний"
+    },
+    "uk": {
+      "title": "Ухили та короткі серії з maize bag",
+      "description": "Розгойдайте мішок, ухиляйтеся вбік від його траєкторії на зігнутих ногах і виконуйте контрольовану коротку серію.",
+      "sectionTitle": "Середній"
+    }
+  },
+  "level": 3,
+  "durationSeconds": 30,
+  "state": "active"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "111.3",
+  "key": "power_rotational_medicine_ball_throw",
+  "title": "Rotational Medicine Ball Throw",
+  "description": "Stand side-on to a wall rated for medicine ball throws, holding a suitable ball near your rear hip. Turn your feet, hips and trunk together to throw into the wall, collect the ball after it settles, and complete the selected repetitions on each side.",
+  "colorType": "coral",
+  "workoutType": "power",
+  "valueType": "countAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rotational Medicine Ball Throw",
+      "description": "Stand side-on to a wall rated for medicine ball throws, holding a suitable ball near your rear hip. Turn your feet, hips and trunk together to throw into the wall, collect the ball after it settles, and complete the selected repetitions on each side.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Lanzamiento rotacional de balón medicinal",
+      "description": "Colócate de lado ante una pared apta para lanzar balones medicinales, con un balón adecuado junto a la cadera trasera. Gira pies, caderas y tronco juntos para lanzar contra la pared, recoge el balón cuando se detenga y completa las repeticiones elegidas por cada lado.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Arremesso rotacional de medicine ball",
+      "description": "Fique de lado para uma parede própria para arremessos de medicine ball, segurando uma bola adequada junto ao quadril de trás. Gire pés, quadris e tronco juntos para arremessar na parede, recolha a bola depois que ela parar e complete as repetições escolhidas de cada lado.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Lancer rotatif de médecine-ball",
+      "description": "Placez-vous de côté face à un mur adapté aux lancers de médecine-ball, avec un ballon adapté près de la hanche arrière. Tournez ensemble les pieds, les hanches et le tronc pour lancer contre le mur, récupérez le ballon une fois immobile et effectuez les répétitions choisies de chaque côté.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Rotationswurf mit Medizinball",
+      "description": "Stelle dich seitlich zu einer für Medizinballwürfe geeigneten Wand und halte einen passenden Ball an der hinteren Hüfte. Drehe Füße, Hüfte und Rumpf gemeinsam zum Wurf, hole den Ball nach dem Stillstand und absolviere die gewählten Wiederholungen je Seite.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Lancio rotazionale della palla medica",
+      "description": "Mettiti di lato rispetto a una parete adatta ai lanci con palla medica, tenendo una palla adeguata vicino all’anca posteriore. Ruota insieme piedi, anche e busto per lanciare contro la parete, recupera la palla quando si ferma e completa le ripetizioni scelte per lato.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "药球旋转抛掷",
+      "description": "侧身站在适合药球投掷的墙边，将合适的药球持于后侧髋部附近。双脚、髋部和躯干一起转动，将球抛向墙面；待球停稳后捡回，每侧完成设定的重复次数。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "メディシンボール・ローテーショナルスロー",
+      "description": "メディシンボール投げに対応した壁に対して横向きに立ち、適切なボールを後ろ側の腰付近で持ちます。足・腰・体幹を一緒に回して壁へ投げ、ボールが止まってから回収し、左右それぞれ設定回数を行ってください。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "메디신볼 회전 던지기",
+      "description": "메디신볼 던지기에 적합한 벽을 옆에 두고 알맞은 공을 뒤쪽 골반 근처에 잡으세요. 발과 골반, 몸통을 함께 회전해 벽으로 던지고 공이 멈춘 뒤 회수하세요. 선택한 반복 횟수를 양쪽 각각 수행하세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โยนเมดิซินบอลแบบหมุนตัว",
+      "description": "ยืนหันข้างให้ผนังที่รองรับการโยนเมดิซินบอล ถือบอลที่เหมาะสมใกล้สะโพกด้านหลัง หมุนเท้า สะโพก และลำตัวไปพร้อมกันเพื่อโยนเข้าผนัง เก็บบอลหลังหยุดนิ่ง แล้วทำตามจำนวนที่เลือกในแต่ละข้าง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Боковой бросок медбола",
+      "description": "Встаньте боком к стене, рассчитанной на броски медбола, держа подходящий мяч у заднего бедра. Поворачивайте стопы, таз и корпус вместе, бросайте мяч в стену, подбирайте после остановки и выполняйте выбранное число повторений на каждую сторону.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Бічний кидок медбола",
+      "description": "Станьте боком до стіни, призначеної для кидків медбола, тримаючи відповідний м’яч біля заднього стегна. Повертайте стопи, таз і корпус разом, кидайте м’яч у стіну, підбирайте після зупинки та виконуйте обрану кількість повторень на кожен бік.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "initialValue": 6,
+  "initialValue2": 3
+}

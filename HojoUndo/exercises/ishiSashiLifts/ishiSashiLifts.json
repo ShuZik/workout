@@ -1,0 +1,88 @@
+{
+  "id": "113.7",
+  "key": "hojo_undo_ishi_sashi_lifts",
+  "title": "Ishi-sashi Lifts",
+  "description": "Grip the stone lock handle, brace the trunk and lift it from thigh level toward the chest with a stable wrist; lower without swinging and repeat per side. Enter the total external load used, in kilograms.",
+  "colorType": "red",
+  "workoutType": "hojoUndo",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "countAndWeight",
+  "initialValue": 8,
+  "initialValue2": 2,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Ishi-sashi Lifts",
+      "description": "Grip the stone lock handle, brace the trunk and lift it from thigh level toward the chest with a stable wrist; lower without swinging and repeat per side. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Elevaciones de ishi-sashi",
+      "description": "Agarra el asa del peso de piedra, activa tronco y eleva desde muslo hacia pecho con muñeca estable; baja sin balancear y repite por lado. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Elevações de ishi-sashi",
+      "description": "Segure a alça do peso de pedra, firme tronco e eleve da coxa ao peito com punho estável; baixe sem embalo e repita por lado. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Levées d’ishi-sashi",
+      "description": "Saisissez la poignée du poids de pierre, gainez et montez de la cuisse vers la poitrine, poignet stable ; baissez sans élan et changez de côté. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Ishi-sashi-Heben",
+      "description": "Greife den Steingewichtsgriff, spanne den Rumpf an und hebe von der Oberschenkelhöhe zur Brust bei stabilem Handgelenk; senke ohne Schwung und übe je Seite. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Sollevamenti con ishi-sashi",
+      "description": "Afferra la maniglia del peso di pietra, stabilizza il busto e solleva dalla coscia verso il petto con polso stabile; abbassa senza slancio e ripeti per lato. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "石锁提举",
+      "description": "握石锁把手、收紧躯干，手腕稳定地从大腿高度提向胸部，无摆动放下，每侧练习。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "石差しの持ち上げ",
+      "description": "石差しの取っ手を握り、体幹を固め、手首を安定させて腿から胸へ持ち上げ、反動なしで下ろして左右行います。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "이시사시 들어 올리기",
+      "description": "돌 자물쇠 손잡이를 잡고 몸통과 손목을 안정시켜 허벅지에서 가슴으로 들었다 반동 없이 내려 양쪽 하세요. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ยกอิชิซาชิ",
+      "description": "จับด้ามตุ้มหิน เกร็งลำตัวยกจากต้นขาสู่อกข้อมือมั่น ลดไม่เหวี่ยงและทำต่อข้าง กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Подъёмы иси-саси",
+      "description": "Возьмитесь за рукоять каменного замка, напрягите корпус и поднимайте от бедра к груди со стабильным запястьем; опускайте без маха и повторяйте на каждую сторону. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Підйоми ісі-сасі",
+      "description": "Візьміться за руків’я кам’яного замка, напружте корпус і піднімайте від стегна до грудей зі стабільним зап’ястком; опускайте без маху й повторюйте на кожен бік. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

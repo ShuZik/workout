@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "indigo",
+    "folder": "Kobudo",
+    "id": "117",
+    "icon": "Kobudo/Icon.png",
+    "symbolName": "figure.fencing",
+    "title": "Okinawan Kobudo",
+    "workoutType": "kobudo",
+    "translations": {
+      "en": {
+        "title": "Okinawan Kobudo"
+      },
+      "es": {
+        "title": "Kobudo de Okinawa"
+      },
+      "pt": {
+        "title": "Kobudo de Okinawa"
+      },
+      "fr": {
+        "title": "Kobudō d’Okinawa"
+      },
+      "de": {
+        "title": "Okinawa-Kobudō"
+      },
+      "it": {
+        "title": "Kobudō di Okinawa"
+      },
+      "zh-Hans": {
+        "title": "冲绳古武道"
+      },
+      "ja": {
+        "title": "沖縄古武道"
+      },
+      "ko": {
+        "title": "오키나와 고무도"
+      },
+      "th": {
+        "title": "โคบุโดโอกินาวะ"
+      },
+      "ru": {
+        "title": "Окинавское кобудо"
+      },
+      "uk": {
+        "title": "Окінавське кобудо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Kobudo/exercises/suishiNoKun/Icon.png",
+      "json": "Kobudo/exercises/suishiNoKun/suishiNoKun.json"
+    },
+    {
+      "icon": "Kobudo/exercises/boSho/Icon.png",
+      "json": "Kobudo/exercises/boSho/boSho.json"
+    },
+    {
+      "icon": "Kobudo/exercises/boNi/Icon.png",
+      "json": "Kobudo/exercises/boNi/boNi.json"
+    },
+    {
+      "icon": "Kobudo/exercises/kihonTonfaSho/Icon.png",
+      "json": "Kobudo/exercises/kihonTonfaSho/kihonTonfaSho.json"
+    },
+    {
+      "icon": "Kobudo/exercises/kihonTonfaNi/Icon.png",
+      "json": "Kobudo/exercises/kihonTonfaNi/kihonTonfaNi.json"
+    },
+    {
+      "icon": "Kobudo/exercises/kihonTonfaSan/Icon.png",
+      "json": "Kobudo/exercises/kihonTonfaSan/kihonTonfaSan.json"
+    },
+    {
+      "icon": "Kobudo/exercises/nunchakuSho/Icon.png",
+      "json": "Kobudo/exercises/nunchakuSho/nunchakuSho.json"
+    },
+    {
+      "icon": "Kobudo/exercises/saiSho/Icon.png",
+      "json": "Kobudo/exercises/saiSho/saiSho.json"
+    },
+    {
+      "icon": "Kobudo/exercises/saiNi/Icon.png",
+      "json": "Kobudo/exercises/saiNi/saiNi.json"
+    },
+    {
+      "icon": "Kobudo/exercises/ryutoSai/Icon.png",
+      "json": "Kobudo/exercises/ryutoSai/ryutoSai.json"
+    },
+    {
+      "icon": "Kobudo/exercises/kobukiSai/Icon.png",
+      "json": "Kobudo/exercises/kobukiSai/kobukiSai.json"
+    },
+    {
+      "icon": "Kobudo/exercises/kusariNoKama/Icon.png",
+      "json": "Kobudo/exercises/kusariNoKama/kusariNoKama.json"
+    }
+  ]
+}

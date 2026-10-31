@@ -1,0 +1,87 @@
+{
+  "id": "7.11",
+  "key": "wrestling_penetration_steps",
+  "title": "Penetration Steps",
+  "description": "From wrestling stance, lower through the knees, step deeply between imagined feet, and bring the trailing leg through to recover stance. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "teal",
+  "workoutType": "wrestling",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Penetration Steps",
+      "description": "From wrestling stance, lower through the knees, step deeply between imagined feet, and bring the trailing leg through to recover stance. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Pasos de penetración",
+      "description": "Desde la postura de lucha, baja flexionando rodillas, entra entre unos pies imaginarios y adelanta la pierna atrasada para recuperar la postura. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Passadas de entrada",
+      "description": "Da base de luta, abaixe pelos joelhos, avance entre pés imaginários e traga a perna de trás para recuperar a base. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Pas de pénétration",
+      "description": "Depuis la garde de lutte, fléchissez les genoux, avancez entre des pieds imaginaires et ramenez la jambe arrière pour retrouver la garde. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Bases"
+    },
+    "de": {
+      "title": "Eindringschritte",
+      "description": "Senke dich im Ringerstand über die Knie ab, mache einen tiefen Schritt zwischen gedachte Füße und ziehe das hintere Bein nach. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Passi di penetrazione",
+      "description": "Dalla posizione di lotta, abbassati sulle ginocchia, entra fra due piedi immaginari e richiama la gamba arretrata. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "进身步",
+      "description": "从摔跤站姿屈膝降低重心，深步进入假想对手两脚之间，再跟进后腿恢复站姿。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "踏み込みステップ",
+      "description": "レスリングの構えから膝で重心を下げ、相手の足の間を想定して深く踏み込み、後ろ脚を寄せて構えに戻ります。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "페네트레이션 스텝",
+      "description": "레슬링 자세에서 무릎을 굽혀 낮추고 가상 상대의 발 사이로 깊게 들어간 뒤 뒷다리를 따라 붙여 자세를 회복하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ก้าวเข้าจับขา",
+      "description": "จากท่ายืนมวยปล้ำ ย่อเข่าลดระดับ ก้าวลึกเข้าไประหว่างเท้าสมมติ แล้วตามขาหลังเพื่อกลับเข้าท่า นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Проходы в ноги без партнёра",
+      "description": "Из борцовской стойки согните колени, глубоко шагните между воображаемыми стопами соперника и подтяните заднюю ногу, восстанавливая стойку. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Проходи в ноги без партнера",
+      "description": "Із борцівської стійки зігніть коліна, глибоко крокніть між уявними стопами суперника й підтягніть задню ногу, відновлюючи стійку. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

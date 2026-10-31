@@ -1,0 +1,88 @@
+{
+  "id": "23.38",
+  "key": "cross_training_sled_drag",
+  "title": "Sled Drag",
+  "description": "Secure the sled strap to a suitable training harness, walk forward with a steady trunk and keep the towing line clear of the feet. The target is distance in metres, measured on the machine or along the route. Enter the total external load used, in kilograms.",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "difficulty": "basic",
+  "section": "5 Mixed Load",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "distanceAndWeight",
+  "initialValue": 20,
+  "initialValue2": 20,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Sled Drag",
+      "description": "Secure the sled strap to a suitable training harness, walk forward with a steady trunk and keep the towing line clear of the feet. The target is distance in metres, measured on the machine or along the route. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Mixed Load"
+    },
+    "es": {
+      "title": "Arrastre de trineo",
+      "description": "Fija la correa del trineo a un arnés adecuado, camina adelante con tronco estable y mantén la línea lejos de los pies. El objetivo es la distancia en metros, medida en la máquina o en el recorrido. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Carga mixta"
+    },
+    "pt": {
+      "title": "Arrastar trenó",
+      "description": "Fixe a cinta do trenó a um arnês adequado, caminhe à frente com tronco estável e mantenha a linha longe dos pés. A meta é a distância em metros, medida no aparelho ou no percurso. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Carga mista"
+    },
+    "fr": {
+      "title": "Traction de traîneau",
+      "description": "Fixez la sangle à un harnais adapté, avancez avec le tronc stable et gardez la ligne de traction loin des pieds. L’objectif est la distance en mètres, mesurée sur l’appareil ou le parcours. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Charge mixte"
+    },
+    "de": {
+      "title": "Schlitten ziehen",
+      "description": "Befestige den Schlittenzug an geeignetem Trainingsgurt, gehe mit stabilem Rumpf vor und halte die Zugleine von den Füßen frei. Das Ziel ist die Strecke in Metern, gemessen am Gerät oder auf der Route. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Gemischte Lasten"
+    },
+    "it": {
+      "title": "Traino della slitta",
+      "description": "Fissa la cinghia della slitta a un’imbracatura adatta, cammina avanti con busto stabile e tieni la fune lontana dai piedi. L’obiettivo è la distanza in metri, misurata sulla macchina o lungo il percorso. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Carico misto"
+    },
+    "zh-Hans": {
+      "title": "拖雪橇",
+      "description": "将雪橇牵引带连接至适合的训练背带，躯干稳定向前走，牵引绳避开双脚。 目标为距离，单位为米，可通过器械或路线测量。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "混合负重"
+    },
+    "ja": {
+      "title": "スレッドドラッグ",
+      "description": "適切なハーネスにスレッドのストラップを固定し、上体を安定させて前進します。牽引ラインを足から離します。 目標はメートル単位の距離です。機器またはコースで計測してください。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "ミックス負荷"
+    },
+    "ko": {
+      "title": "슬레드 드래그",
+      "description": "적합한 훈련 하네스에 슬레드 스트랩을 연결하고 몸통을 안정시켜 앞으로 걸으며 줄을 발에서 떼세요. 목표는 미터 단위 거리이며 기기나 경로에서 측정합니다. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "혼합 부하"
+    },
+    "th": {
+      "title": "ลากเลื่อน",
+      "description": "ยึดสายเลื่อนกับฮาร์เนสฝึกที่เหมาะ เดินหน้าลำตัวมั่นคงและให้สายพ้นเท้า เป้าหมายคือระยะทางเป็นเมตร โดยวัดจากเครื่องหรือเส้นทาง กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "น้ำหนักผสม"
+    },
+    "ru": {
+      "title": "Тяга саней в ходьбе",
+      "description": "Закрепите тягу саней к подходящей тренировочной упряжи, идите вперёд со стабильным корпусом и не допускайте попадания троса под стопы. Цель — расстояние в метрах по показаниям тренажёра или разметке маршрута. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Смешанная нагрузка"
+    },
+    "uk": {
+      "title": "Тяга саней у ходьбі",
+      "description": "Закріпіть тягу саней до відповідної тренувальної упряжі, ідіть уперед зі стабільним корпусом і не допускайте потрапляння троса під стопи. Ціль — відстань у метрах за показниками тренажера або розміткою маршруту. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Змішане навантаження"
+    }
+  }
+}

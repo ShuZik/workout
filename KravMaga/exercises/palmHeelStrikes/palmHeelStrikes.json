@@ -1,0 +1,87 @@
+{
+  "id": "119.1",
+  "key": "krav_maga_palm_heel_strikes",
+  "title": "Palm-Heel Strikes",
+  "description": "From guard, strike a pad with the heel of the open palm, wrist aligned and fingers clear, then return to guard. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "gray",
+  "workoutType": "kravMaga",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Palm-Heel Strikes",
+      "description": "From guard, strike a pad with the heel of the open palm, wrist aligned and fingers clear, then return to guard. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Golpes con talón de la mano",
+      "description": "Desde guardia, golpea una pao con el talón de la palma, muñeca alineada y dedos apartados; vuelve a guardia. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Golpes com a base da palma",
+      "description": "Da guarda, golpeie a aparadora com a base da palma, punho alinhado e dedos afastados; volte à guarda. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Frappes avec la base de la paume",
+      "description": "Depuis la garde, frappez une cible avec la base de la paume, poignet aligné et doigts dégagés, puis revenez en garde. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Handballenstöße",
+      "description": "Stoße aus der Deckung mit dem Handballen gegen die Pratze, Handgelenk gerade und Finger frei, und kehre zurück. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Colpi con il palmo",
+      "description": "Dalla guardia, colpisci il colpitore con la base del palmo, polso allineato e dita libere, poi torna in guardia. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "掌根击打",
+      "description": "从防守姿势用掌根击靶，手腕对齐、手指避开接触面，再恢复防守。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "掌底打ち",
+      "description": "構えから掌底でミットを打ち、手首をまっすぐにして指を当てず、構えに戻ります。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "장저 타격",
+      "description": "가드에서 손목을 정렬하고 손가락을 접촉면에서 뺀 채 손바닥 아랫부분으로 미트를 친 뒤 복귀하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ตีด้วยสันฝ่ามือ",
+      "description": "จากการ์ด ตีเป้าด้วยสันฝ่ามือ ข้อมือตรงและนิ้วพ้นจุดกระแทก แล้วคืนการ์ด นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Удары основанием ладони",
+      "description": "Из защиты бейте по лапе основанием открытой ладони с ровным запястьем и отведёнными пальцами, возвращайтесь в защиту. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Удари основою долоні",
+      "description": "Із захисту бийте по лапі основою відкритої долоні з рівним зап’ястком і відведеними пальцями, повертайтеся в захист. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

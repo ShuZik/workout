@@ -1,0 +1,87 @@
+{
+  "id": "41.110",
+  "key": "judo_judogi_grip_pull_up",
+  "title": "Judogi-Grip Pull-Up",
+  "description": "Secure the judogi over a rated pull-up bar, grip the fabric firmly and pull upward without swinging; lower to straight arms under control. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "indigo",
+  "workoutType": "judo",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "intermediate",
+  "section": "3 Movement",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Judogi-Grip Pull-Up",
+      "description": "Secure the judogi over a rated pull-up bar, grip the fabric firmly and pull upward without swinging; lower to straight arms under control. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Movement"
+    },
+    "es": {
+      "title": "Dominada agarrando judogi",
+      "description": "Fija el judogi sobre barra resistente, agarra firme la tela y sube sin balancear; baja con control hasta brazos rectos. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Movimiento"
+    },
+    "pt": {
+      "title": "Barra fixa segurando judogi",
+      "description": "Prenda o judogi em barra resistente, segure firme o tecido e suba sem embalo; desça controlando até braços retos. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Movimento"
+    },
+    "fr": {
+      "title": "Traction en prise judogi",
+      "description": "Fixez le judogi sur une barre adaptée, saisissez fermement le tissu et montez sans élan ; descendez sous contrôle bras tendus. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Déplacements"
+    },
+    "de": {
+      "title": "Klimmzug am Judogi",
+      "description": "Befestige den Judogi an belastbarer Klimmzugstange, greife den Stoff fest und ziehe ohne Schwung hoch; senke kontrolliert bis zu gestreckten Armen. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Bewegung"
+    },
+    "it": {
+      "title": "Trazione con presa al judogi",
+      "description": "Fissa il judogi su barra adatta, afferra il tessuto saldamente e tira senza slancio; scendi controllando a braccia tese. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Movimento"
+    },
+    "zh-Hans": {
+      "title": "柔道服抓握引体向上",
+      "description": "将柔道服稳固搭在额定承重引体杆上，抓牢布料无摆动上拉，再控制下降至直臂。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "移动"
+    },
+    "ja": {
+      "title": "柔道着懸垂",
+      "description": "耐荷重のある懸垂バーに柔道着を固定し、布をしっかり握って反動なく引き上げ、腕が伸びるまで制御して下ろします。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "移動"
+    },
+    "ko": {
+      "title": "유도복 잡고 턱걸이",
+      "description": "허용 하중이 적합한 턱걸이 바에 유도복을 고정해 천을 잡고 반동 없이 당겼다가 팔이 펴질 때까지 통제해 내리세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "이동"
+    },
+    "th": {
+      "title": "ดึงข้อจับชุดยูโด",
+      "description": "ยึดชุดยูโดบนบาร์รับน้ำหนักได้ จับผ้ามั่นดึงขึ้นไม่เหวี่ยง แล้วลดควบคุมจนแขนตรง นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การเคลื่อนไหว"
+    },
+    "ru": {
+      "title": "Подтягивания на дзюдоги",
+      "description": "Закрепите дзюдоги на рассчитанной перекладине, крепко возьмите ткань и подтягивайтесь без маха; опускайтесь до прямых рук контролируемо. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Передвижения"
+    },
+    "uk": {
+      "title": "Підтягування на дзюдоґі",
+      "description": "Закріпіть дзюдоґі на розрахованій перекладині, міцно візьміть тканину й підтягуйтеся без маху; опускайтеся до прямих рук контрольовано. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Пересування"
+    }
+  },
+  "repeatCount": 12
+}

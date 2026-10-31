@@ -1,0 +1,89 @@
+{
+  "id": "1.49",
+  "key": "boxing_speed_bag",
+  "title": "Speed Bag",
+  "description": "Tap the speed bag rhythmically with alternating hands, using small circles and relaxed shoulders.",
+  "colorType": "red",
+  "workoutType": "boxing",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.8,
+    "moderate": 8.5,
+    "vigorous": 10.8,
+    "lightCode": "15110",
+    "moderateCode": "15115",
+    "vigorousCode": "15118"
+  },
+  "difficulty": "basic",
+  "section": "3 Beginner",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Speed Bag",
+      "description": "Tap the speed bag rhythmically with alternating hands, using small circles and relaxed shoulders.",
+      "sectionTitle": "Beginner"
+    },
+    "es": {
+      "title": "Pera rápida",
+      "description": "Golpea la pera alternando las manos, con círculos pequeños y hombros relajados.",
+      "sectionTitle": "Principiante"
+    },
+    "pt": {
+      "title": "Pera de velocidade",
+      "description": "Toque a pera alternando as mãos, com círculos pequenos e ombros relaxados.",
+      "sectionTitle": "Iniciante"
+    },
+    "fr": {
+      "title": "Poire de vitesse",
+      "description": "Frappez la poire en alternant les mains, par petits cercles, épaules relâchées.",
+      "sectionTitle": "Débutant"
+    },
+    "de": {
+      "title": "Speedball",
+      "description": "Schlage den Speedball rhythmisch mit wechselnden Händen, kleinen Kreisen und lockeren Schultern.",
+      "sectionTitle": "Anfänger"
+    },
+    "it": {
+      "title": "Pera veloce",
+      "description": "Colpisci la pera alternando le mani, con piccoli cerchi e spalle rilassate.",
+      "sectionTitle": "Principiante"
+    },
+    "zh-Hans": {
+      "title": "速度球",
+      "description": "双手交替有节奏地击打速度球，手臂小幅画圈，肩部放松。",
+      "sectionTitle": "初级"
+    },
+    "ja": {
+      "title": "スピードバッグ",
+      "description": "肩をリラックスさせ、小さな円を描くように左右交互でバッグを打ちます。",
+      "sectionTitle": "初級"
+    },
+    "ko": {
+      "title": "스피드백",
+      "description": "어깨를 이완하고 작게 원을 그리며 양손으로 번갈아 백을 치세요.",
+      "sectionTitle": "초급"
+    },
+    "th": {
+      "title": "กระสอบสปีดบอล",
+      "description": "ชกสปีดบอลสลับมือเป็นจังหวะ วนมือเป็นวงเล็กและผ่อนคลายไหล่",
+      "sectionTitle": "ระดับเริ่มต้น"
+    },
+    "ru": {
+      "title": "Скоростная груша",
+      "description": "Ритмично бейте по скоростной груше, чередуя руки небольшими круговыми движениями и расслабляя плечи.",
+      "sectionTitle": "Начальный"
+    },
+    "uk": {
+      "title": "Швидкісна груша",
+      "description": "Ритмічно бийте по швидкісній груші, чергуючи руки невеликими коловими рухами та розслабляючи плечі.",
+      "sectionTitle": "Початковий"
+    }
+  },
+  "level": 2,
+  "durationSeconds": 30,
+  "state": "active"
+}

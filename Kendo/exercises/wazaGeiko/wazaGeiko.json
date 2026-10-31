@@ -1,0 +1,88 @@
+{
+  "id": "69.30",
+  "key": "kendo_waza_geiko",
+  "title": "Waza-geiko",
+  "description": "Agree on one kendo technique with a protected partner; repeat the opening, strike and recovery with roles exchanged regularly.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "difficulty": "intermediate",
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 6.5,
+    "moderate": 6.5,
+    "vigorous": 6.5,
+    "lightCode": "15444",
+    "moderateCode": "15444",
+    "vigorousCode": "15444"
+  },
+  "translations": {
+    "en": {
+      "title": "Waza-geiko",
+      "description": "Agree on one kendo technique with a protected partner; repeat the opening, strike and recovery with roles exchanged regularly.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Waza-geiko",
+      "description": "Acuerda una técnica de kendo con compañero protegido; repite apertura, golpe y recuperación alternando los roles.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Waza-geiko",
+      "description": "Combine uma técnica de kendo com parceiro protegido; repita abertura, golpe e recuperação alternando funções.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Waza-geiko",
+      "description": "Convenez d’une technique avec un partenaire protégé ; répétez ouverture, frappe et retour en échangeant les rôles.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Waza-geiko",
+      "description": "Vereinbare eine Kendotechnik mit geschütztem Partner; wiederhole Öffnung, Schlag und Rückkehr und tauscht regelmäßig die Rollen.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Waza-geiko",
+      "description": "Concorda una tecnica di kendo con un compagno protetto; ripeti apertura, colpo e recupero scambiando i ruoli.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "技法稽古",
+      "description": "与穿护具搭档约定一个剑道技术，重复开口、打击与恢复，并定期互换角色。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "技稽古",
+      "description": "防具を着けた相手と技を決め、隙を作る・打つ・戻るを繰り返し、役割を交代します。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "와자게이코",
+      "description": "보호구를 착용한 파트너와 한 기술을 정하고 빈틈·타격·복귀를 반복하며 역할을 바꾸세요.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "วาซาเกโกะ",
+      "description": "ตกลงหนึ่งเทคนิคเคนโดกับคู่ซ้อมที่ใส่เกราะ ฝึกเปิดช่อง ฟัน และคืนท่า พร้อมสลับบทบาท",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Вадза-гэйко",
+      "description": "С партнёром в защите выберите одну технику кэндо; повторяйте открытие, удар и восстановление, регулярно меняясь ролями.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Вадза-ґейко",
+      "description": "Із партнером у захисті оберіть одну техніку кендо; повторюйте відкриття, удар і відновлення, регулярно міняючись ролями.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

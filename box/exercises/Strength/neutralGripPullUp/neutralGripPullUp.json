@@ -1,0 +1,87 @@
+{
+  "id": "13.133",
+  "key": "strength_neutral_grip_pull_up",
+  "title": "Neutral-Grip Pull-Up",
+  "description": "Hang from parallel handles with palms facing each other, pull the chest toward the handles without swinging, then lower to straight arms. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Neutral-Grip Pull-Up",
+      "description": "Hang from parallel handles with palms facing each other, pull the chest toward the handles without swinging, then lower to straight arms. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Dominada con agarre neutro",
+      "description": "Cuélgate de asas paralelas con palmas enfrentadas, lleva el pecho hacia las asas sin balancear y baja hasta estirar brazos. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Barra fixa com pegada neutra",
+      "description": "Pendure nas alças paralelas com palmas voltadas entre si, puxe o peito sem balanço e desça até estender braços. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Traction en prise neutre",
+      "description": "Suspendez-vous aux poignées parallèles, paumes face à face, montez la poitrine sans élan puis redescendez bras tendus. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Klimmzug im Neutralgriff",
+      "description": "Hänge an parallelen Griffen mit zueinander gerichteten Handflächen, ziehe die Brust ohne Schwung hoch und senke bis zu gestreckten Armen. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Trazione a presa neutra",
+      "description": "Appenditi a maniglie parallele con palmi rivolti tra loro, tira il petto senza slancio e scendi a braccia tese. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "中立握引体向上",
+      "description": "双掌相对悬垂于平行把手，不摆动身体将胸部拉向把手，再降至直臂。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ニュートラルグリップ懸垂",
+      "description": "平行ハンドルを手のひらが向き合うように握り、反動なしで胸を引き上げ、腕が伸びるまで下ろします。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "뉴트럴 그립 풀업",
+      "description": "평행 손잡이를 손바닥이 마주 보게 잡고 매달려 반동 없이 가슴을 당겨 올린 뒤 팔이 펴지도록 내리세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ดึงข้อจับขนาน",
+      "description": "ห้อยตัวจับด้ามขนานหันฝ่ามือเข้าหากัน ดึงอกขึ้นโดยไม่เหวี่ยง แล้วลดจนแขนตรง นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Подтягивания нейтральным хватом",
+      "description": "Повисните на параллельных рукоятях ладонями друг к другу, подтяните грудь без раскачки и опуститесь до прямых рук. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Підтягування нейтральним хватом",
+      "description": "Повисніть на паралельних руків’ях долонями одна до одної, підтягніть груди без розгойдування й опустіться до прямих рук. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "repeatCount": 12
+}

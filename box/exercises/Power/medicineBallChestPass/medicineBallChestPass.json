@@ -1,0 +1,88 @@
+{
+  "id": "111.4",
+  "key": "power_medicine_ball_chest_pass",
+  "title": "Medicine Ball Chest Pass",
+  "description": "Face a wall rated for medicine ball throws with feet stable and the ball at your chest. Brace your trunk, throw forward with both hands, collect the ball after it settles, and reset before repeating.",
+  "colorType": "coral",
+  "workoutType": "power",
+  "valueType": "countAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Medicine Ball Chest Pass",
+      "description": "Face a wall rated for medicine ball throws with feet stable and the ball at your chest. Brace your trunk, throw forward with both hands, collect the ball after it settles, and reset before repeating.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Pase de pecho con balón medicinal",
+      "description": "Ponte frente a una pared apta para lanzar balones medicinales, con los pies firmes y el balón al pecho. Activa el tronco, lanza hacia delante con ambas manos, recoge el balón cuando se detenga y recupera la posición antes de repetir.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Passe de peito com medicine ball",
+      "description": "Fique de frente para uma parede própria para arremessos de medicine ball, com os pés firmes e a bola no peito. Firme o tronco, arremesse à frente com as duas mãos, recolha a bola depois que ela parar e reajuste a posição antes de repetir.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Lancer de médecine-ball depuis la poitrine",
+      "description": "Face à un mur adapté aux lancers de médecine-ball, gardez les pieds stables et le ballon à la poitrine. Gainez le tronc, lancez vers l’avant à deux mains, récupérez le ballon une fois immobile et replacez-vous avant de recommencer.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Medizinball-Brustpass",
+      "description": "Stelle dich vor eine für Medizinballwürfe geeignete Wand, mit festen Füßen und dem Ball vor der Brust. Spanne den Rumpf an, wirf mit beiden Händen nach vorn, hole den Ball nach dem Stillstand und richte dich vor dem nächsten Wurf neu aus.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Passaggio dal petto con palla medica",
+      "description": "Mettiti davanti a una parete adatta ai lanci con palla medica, con i piedi stabili e la palla al petto. Contrai il core, lancia in avanti con entrambe le mani, recupera la palla quando si ferma e riprendi la posizione prima di ripetere.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "药球胸前传球",
+      "description": "面对适合药球投掷的墙，双脚站稳，将球置于胸前。收紧核心，双手向前抛球，待球停稳后捡回，重新稳定姿势再重复。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "メディシンボール・チェストパス",
+      "description": "メディシンボール投げに対応した壁に向かい、足元を安定させて胸の前でボールを持ちます。体幹を固めて両手で前へ投げ、ボールが止まってから回収し、姿勢を整えて繰り返してください。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "메디신볼 체스트 패스",
+      "description": "메디신볼 던지기에 적합한 벽을 마주 보고 발을 안정적으로 둔 채 공을 가슴 앞에 잡으세요. 몸통에 힘을 주고 양손으로 앞으로 던진 뒤 공이 멈추면 회수하고 자세를 다시 잡으세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ส่งเมดิซินบอลจากอก",
+      "description": "ยืนหันหน้าเข้าหาผนังที่รองรับการโยนเมดิซินบอล วางเท้าให้มั่นคงและถือบอลที่อก เกร็งแกนกลางลำตัว โยนไปข้างหน้าด้วยสองมือ เก็บบอลหลังหยุดนิ่ง แล้วตั้งท่าใหม่ก่อนทำซ้ำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Бросок медбола от груди",
+      "description": "Встаньте лицом к стене, рассчитанной на броски медбола, устойчиво поставьте стопы и держите мяч у груди. Напрягите корпус, бросьте мяч вперёд двумя руками, подберите после остановки и восстановите исходную позицию перед повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Кидок медбола від грудей",
+      "description": "Станьте обличчям до стіни, призначеної для кидків медбола, стійко поставте стопи й тримайте м’яч біля грудей. Напружте корпус, киньте м’яч уперед двома руками, підберіть після зупинки та відновіть вихідну позицію перед повторенням.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "initialValue": 6,
+  "initialValue2": 3
+}

@@ -1,0 +1,89 @@
+{
+  "id": "14.30",
+  "key": "core_training_plate_pinch_hold",
+  "title": "Plate Pinch Hold",
+  "description": "Grip a suitable weight plate between your thumb and fingers without hooking the rim, keeping your wrist neutral and the plate clear of your feet. Hold for the selected time on each side, then lower it under control; enter the weight held by one hand.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "timeAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 3.5,
+    "vigorous": 3.5,
+    "lightCode": "02054",
+    "moderateCode": "02054",
+    "vigorousCode": "02054"
+  },
+  "difficulty": "intermediate",
+  "section": "2 Base",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Plate Pinch Hold",
+      "description": "Grip a suitable weight plate between your thumb and fingers without hooking the rim, keeping your wrist neutral and the plate clear of your feet. Hold for the selected time on each side, then lower it under control; enter the weight held by one hand.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Sujeción de disco con pinza",
+      "description": "Sujeta un disco adecuado entre el pulgar y los dedos sin enganchar el borde, con la muñeca neutra y el disco lejos de los pies. Mantén el tiempo elegido por cada lado y bájalo con control; introduce el peso sostenido con una mano.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Sustentação de anilha em pinça",
+      "description": "Segure uma anilha adequada entre o polegar e os dedos sem prender a borda, mantendo o punho neutro e a anilha longe dos pés. Sustente pelo tempo escolhido de cada lado e baixe com controle; informe o peso segurado por uma mão.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Maintien de disque en pince",
+      "description": "Pincez un disque adapté entre le pouce et les doigts sans accrocher le rebord, poignet neutre et disque à distance des pieds. Maintenez le temps choisi de chaque côté, puis reposez avec contrôle ; indiquez le poids tenu par une main.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Hantelscheiben-Pinch-Hold",
+      "description": "Greife eine geeignete Hantelscheibe zwischen Daumen und Fingern, ohne den Rand einzuhaken, halte das Handgelenk neutral und die Scheibe von den Füßen fern. Halte je Seite die gewählte Zeit und setze sie kontrolliert ab; trage das Gewicht pro Hand ein.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Tenuta del disco con presa a pinza",
+      "description": "Stringi un disco adeguato tra pollice e dita senza agganciare il bordo, mantenendo il polso neutro e il disco lontano dai piedi. Mantieni per il tempo scelto per lato, poi abbassa con controllo; inserisci il peso tenuto da una mano.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "杠铃片指捏持握",
+      "description": "用拇指和其余手指捏住合适的杠铃片，不勾住边缘，保持手腕中立，杠铃片远离双脚。每侧保持设定时间后控制着放下；重量填写单手所持的重量。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "プレートピンチホールド",
+      "description": "適切なプレートを親指と他の指で挟み、縁に指を引っ掛けず、手首をまっすぐに保って足から離します。左右それぞれ設定時間保持してゆっくり下ろし、重量は片手で持つ重さを入力してください。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "원판 핀치 홀드",
+      "description": "적당한 원판을 엄지와 나머지 손가락으로 집되 테두리에 손가락을 걸지 마세요. 손목을 중립으로 유지하고 원판을 발에서 떨어뜨려 잡으세요. 양쪽 각각 정해진 시간 동안 유지한 뒤 천천히 내리고 한 손에 드는 중량을 입력하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ถือแผ่นน้ำหนักด้วยปลายนิ้ว",
+      "description": "หนีบแผ่นน้ำหนักที่เหมาะสมระหว่างนิ้วหัวแม่มือกับนิ้วอื่นโดยไม่เกาะขอบ รักษาข้อมือตรงและถือแผ่นให้ห่างจากเท้า ค้างตามเวลาที่เลือกในแต่ละข้างแล้วลดลงอย่างควบคุม ระบุน้ำหนักที่ถือด้วยมือข้างเดียว",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Удержание блина щипковым хватом",
+      "description": "Зажмите подходящий блин между большим и остальными пальцами, не цепляясь за край; держите запястье ровно, а блин — подальше от стоп. Удерживайте выбранное время на каждую сторону, затем плавно опустите; указывайте вес в одной руке.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Утримання млинця щипковим хватом",
+      "description": "Затисніть відповідний млинець між великим та іншими пальцями, не чіпляючись за край; тримайте зап’ясток рівно, а млинець — подалі від стоп. Утримуйте обраний час на кожен бік, потім плавно опустіть; зазначайте вагу в одній руці.",
+      "sectionTitle": "База"
+    }
+  },
+  "durationSeconds": 20,
+  "initialValue2": 5,
+  "state": "active"
+}

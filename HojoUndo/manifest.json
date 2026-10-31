@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "red",
+    "folder": "HojoUndo",
+    "id": "113",
+    "icon": "HojoUndo/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Hojo Undo",
+    "workoutType": "hojoUndo",
+    "translations": {
+      "en": {
+        "title": "Hojo Undo"
+      },
+      "es": {
+        "title": "Hojo undo"
+      },
+      "pt": {
+        "title": "Hojo undo"
+      },
+      "fr": {
+        "title": "Hojo undo"
+      },
+      "de": {
+        "title": "Hojo Undo"
+      },
+      "it": {
+        "title": "Hojo undo"
+      },
+      "zh-Hans": {
+        "title": "补助运动"
+      },
+      "ja": {
+        "title": "補助運動"
+      },
+      "ko": {
+        "title": "호조운도"
+      },
+      "th": {
+        "title": "โฮโจอุนโด"
+      },
+      "ru": {
+        "title": "Ходзё-ундо"
+      },
+      "uk": {
+        "title": "Ходзьо-ундо"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "HojoUndo/exercises/chiIshiLeverExercise/Icon.png",
+      "json": "HojoUndo/exercises/chiIshiLeverExercise/chiIshiLeverExercise.json"
+    },
+    {
+      "icon": "HojoUndo/exercises/nigiriGameCarry/Icon.png",
+      "json": "HojoUndo/exercises/nigiriGameCarry/nigiriGameCarry.json"
+    },
+    {
+      "icon": "HojoUndo/exercises/makiageKigu/Icon.png",
+      "json": "HojoUndo/exercises/makiageKigu/makiageKigu.json"
+    },
+    {
+      "icon": "HojoUndo/exercises/kongokenLift/Icon.png",
+      "json": "HojoUndo/exercises/kongokenLift/kongokenLift.json"
+    },
+    {
+      "icon": "HojoUndo/exercises/makiwaraPractice/Icon.png",
+      "json": "HojoUndo/exercises/makiwaraPractice/makiwaraPractice.json"
+    },
+    {
+      "icon": "HojoUndo/exercises/nigiriGameHold/Icon.png",
+      "json": "HojoUndo/exercises/nigiriGameHold/nigiriGameHold.json"
+    },
+    {
+      "icon": "HojoUndo/exercises/ishiSashiLifts/Icon.png",
+      "json": "HojoUndo/exercises/ishiSashiLifts/ishiSashiLifts.json"
+    }
+  ]
+}

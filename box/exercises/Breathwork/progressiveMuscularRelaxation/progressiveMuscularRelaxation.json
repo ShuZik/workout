@@ -1,0 +1,88 @@
+{
+  "id": "18.8",
+  "key": "breathwork_progressive_muscular_relaxation",
+  "title": "Progressive Muscle Relaxation",
+  "description": "Sit or lie comfortably. Gently tense then release successive muscle groups from feet to face, noticing the contrast and breathing normally without straining.",
+  "colorType": "teal",
+  "workoutType": "breathwork",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 1,
+    "moderate": 1.3,
+    "vigorous": 2,
+    "lightCode": "07021",
+    "moderateCode": "07040",
+    "vigorousCode": "02170"
+  },
+  "difficulty": "basic",
+  "section": "1 Main",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Progressive Muscle Relaxation",
+      "description": "Sit or lie comfortably. Gently tense then release successive muscle groups from feet to face, noticing the contrast and breathing normally without straining.",
+      "sectionTitle": "Main"
+    },
+    "es": {
+      "title": "Relajación muscular progresiva",
+      "description": "Siéntate o túmbate cómodo. Tensa suavemente y suelta grupos musculares de pies a cara, nota el contraste y respira sin forzar.",
+      "sectionTitle": "Principal"
+    },
+    "pt": {
+      "title": "Relaxamento muscular progressivo",
+      "description": "Sente ou deite confortável. Contraia suavemente e solte grupos musculares dos pés ao rosto, percebendo a diferença e respirando sem esforço.",
+      "sectionTitle": "Principal"
+    },
+    "fr": {
+      "title": "Relaxation musculaire progressive",
+      "description": "Installez-vous assis ou allongé. Contractez doucement puis relâchez les groupes musculaires des pieds au visage, en observant la différence et respirant sans effort.",
+      "sectionTitle": "Principal"
+    },
+    "de": {
+      "title": "Progressive Muskelentspannung",
+      "description": "Setze oder lege dich bequem. Spanne Muskelgruppen von Füßen bis Gesicht sanft an und löse sie, spüre den Unterschied und atme ohne Anstrengung.",
+      "sectionTitle": "Hauptteil"
+    },
+    "it": {
+      "title": "Rilassamento muscolare progressivo",
+      "description": "Siediti o sdraiati comodo. Contrai dolcemente e rilascia i gruppi muscolari dai piedi al viso, notando il contrasto e respirando senza sforzo.",
+      "sectionTitle": "Principale"
+    },
+    "zh-Hans": {
+      "title": "渐进式肌肉放松",
+      "description": "舒适坐下或躺下，从脚到面部依次轻柔绷紧再放松各肌群，感受区别，自然呼吸不勉强用力。",
+      "sectionTitle": "主要"
+    },
+    "ja": {
+      "title": "漸進的筋弛緩法",
+      "description": "楽に座るか横になり、足から顔へ順に筋肉を優しく緊張させて緩めます。違いを感じながら力まず呼吸します。",
+      "sectionTitle": "メイン"
+    },
+    "ko": {
+      "title": "점진적 근육 이완",
+      "description": "편히 앉거나 누워 발부터 얼굴까지 근육군을 순서대로 살짝 긴장했다 풀고 차이를 느끼며 무리 없이 호흡하세요.",
+      "sectionTitle": "기본"
+    },
+    "th": {
+      "title": "ผ่อนคลายกล้ามเนื้อทีละส่วน",
+      "description": "นั่งหรือนอนสบาย เกร็งเบาแล้วคลายกล้ามเนื้อทีละกลุ่มจากเท้าถึงหน้า สังเกตต่างและหายใจปกติไม่ฝืน",
+      "sectionTitle": "หลัก"
+    },
+    "ru": {
+      "title": "Прогрессивное расслабление мышц",
+      "description": "Сядьте или лягте удобно. Мягко напрягайте и отпускайте группы мышц от стоп до лица, замечайте разницу и дышите спокойно без натуживания.",
+      "sectionTitle": "Основное"
+    },
+    "uk": {
+      "title": "Прогресивне розслаблення м’язів",
+      "description": "Сядьте або ляжте зручно. М’яко напружуйте й відпускайте групи м’язів від стоп до обличчя, помічайте різницю та дихайте спокійно без натужування.",
+      "sectionTitle": "Основне"
+    }
+  },
+  "durationSeconds": 180,
+  "state": "active"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "11.58",
+  "key": "cardio_hill_intervals",
+  "title": "Hill Intervals",
+  "description": "Choose a clear uphill route, run the set distance within the chosen time, then walk down outside the effort block; keep steps short and controlled. The target is distance in metres, measured on the machine or along the route.",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "distanceAndTime",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6.5,
+    "moderate": 9.3,
+    "vigorous": 12,
+    "lightCode": "12028",
+    "moderateCode": "12050",
+    "vigorousCode": "12090"
+  },
+  "difficulty": "basic",
+  "section": "2 Outdoor",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Hill Intervals",
+      "description": "Choose a clear uphill route, run the set distance within the chosen time, then walk down outside the effort block; keep steps short and controlled. The target is distance in metres, measured on the machine or along the route.",
+      "sectionTitle": "Outdoor"
+    },
+    "es": {
+      "title": "Intervalos en cuesta",
+      "description": "Elige una subida despejada, corre la distancia en el tiempo elegido y baja andando fuera del bloque; usa pasos cortos controlados. El objetivo es la distancia en metros, medida en la máquina o en el recorrido.",
+      "sectionTitle": "Al aire libre"
+    },
+    "pt": {
+      "title": "Intervalos em subida",
+      "description": "Escolha subida livre, corra a distância no tempo escolhido e desça andando fora do bloco; use passos curtos controlados. A meta é a distância em metros, medida no aparelho ou no percurso.",
+      "sectionTitle": "Ao ar livre"
+    },
+    "fr": {
+      "title": "Intervalles en côte",
+      "description": "Choisissez une montée dégagée, courez la distance dans le temps choisi puis redescendez à pied hors du bloc ; gardez des pas courts contrôlés. L’objectif est la distance en mètres, mesurée sur l’appareil ou le parcours.",
+      "sectionTitle": "En plein air"
+    },
+    "de": {
+      "title": "Bergintervalle",
+      "description": "Wähle eine freie Steigung, laufe die Zielstrecke in der gewählten Zeit und gehe außerhalb des Belastungsblocks zurück; laufe mit kurzen kontrollierten Schritten. Das Ziel ist die Strecke in Metern, gemessen am Gerät oder auf der Route.",
+      "sectionTitle": "Im Freien"
+    },
+    "it": {
+      "title": "Intervalli in salita",
+      "description": "Scegli una salita libera, corri la distanza nel tempo scelto e scendi camminando fuori dal blocco; usa passi brevi controllati. L’obiettivo è la distanza in metri, misurata sulla macchina o lungo il percorso.",
+      "sectionTitle": "All’aperto"
+    },
+    "zh-Hans": {
+      "title": "坡跑间歇",
+      "description": "选择无障碍上坡路线，在设定时间内跑完目标距离；下坡步行恢复另行安排，保持短而受控的步幅。 目标为距离，单位为米，可通过器械或路线测量。",
+      "sectionTitle": "户外"
+    },
+    "ja": {
+      "title": "ヒルインターバル",
+      "description": "見通しのよい坂で設定時間内に距離を走り、下りの歩行は運動ブロック外で行います。歩幅を短く制御します。 目標はメートル単位の距離です。機器またはコースで計測してください。",
+      "sectionTitle": "屋外"
+    },
+    "ko": {
+      "title": "언덕 인터벌",
+      "description": "장애물 없는 오르막에서 정한 시간 내 거리를 달리고 내리막 걷기는 운동 블록 밖에 두며 짧고 통제된 보폭을 유지하세요. 목표는 미터 단위 거리이며 기기나 경로에서 측정합니다.",
+      "sectionTitle": "야외"
+    },
+    "th": {
+      "title": "วิ่งขึ้นเนินเป็นช่วง",
+      "description": "เลือกทางขึ้นเนินโล่ง วิ่งระยะที่ตั้งในเวลาที่เลือก เดินลงนอกบล็อกออกแรง รักษาก้าวสั้นควบคุม เป้าหมายคือระยะทางเป็นเมตร โดยวัดจากเครื่องหรือเส้นทาง",
+      "sectionTitle": "กลางแจ้ง"
+    },
+    "ru": {
+      "title": "Бег в гору на дистанцию и время",
+      "description": "Выберите свободный подъём, пробегите заданную дистанцию за выбранное время, спускайтесь пешком вне рабочего блока; сохраняйте короткий контролируемый шаг. Цель — расстояние в метрах по показаниям тренажёра или разметке маршрута.",
+      "sectionTitle": "На открытом воздухе"
+    },
+    "uk": {
+      "title": "Біг угору на дистанцію й час",
+      "description": "Оберіть вільний підйом, пробіжіть задану відстань за обраний час, спускайтеся пішки поза робочим блоком; зберігайте короткий контрольований крок. Ціль — відстань у метрах за показниками тренажера або розміткою маршруту.",
+      "sectionTitle": "Надворі"
+    }
+  },
+  "durationSeconds": 30,
+  "state": "active",
+  "initialValue": 100
+}

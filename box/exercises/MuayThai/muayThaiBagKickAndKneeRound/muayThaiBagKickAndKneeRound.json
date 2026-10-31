@@ -1,0 +1,88 @@
+{
+  "id": "2.32",
+  "key": "muay_thai_muay_thai_bag_kick_and_knee_round",
+  "title": "Muay Thai Bag Kick-and-Knee Round",
+  "description": "Practise learned kicks and knees on a secured heavy bag, alternating sides and restoring stance and guard after each combination.",
+  "colorType": "orange",
+  "workoutType": "muayThai",
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Muay Thai Bag Kick-and-Knee Round",
+      "description": "Practise learned kicks and knees on a secured heavy bag, alternating sides and restoring stance and guard after each combination.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Ronda de patadas y rodillas al saco de muay thai",
+      "description": "Practica patadas y rodillas aprendidas en saco asegurado, alternando lados y recuperando postura y guardia tras cada serie.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Round de chutes e joelhadas no saco",
+      "description": "Pratique chutes e joelhadas aprendidos em saco seguro, alternando lados e recuperando base e guarda após cada série.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Round de pieds et genoux au sac de muay-thaï",
+      "description": "Pratiquez les coups de pied et genou appris sur un sac fixé, alternez les côtés et retrouvez garde et appuis après chaque série.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Muay-Thai-Sackrunde mit Tritten und Knien",
+      "description": "Übe erlernte Tritte und Kniestöße am gesicherten Sandsack, wechsle die Seiten und stelle nach jeder Serie Stand und Deckung wieder her.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Round di calci e ginocchia al sacco",
+      "description": "Pratica calci e ginocchiate appresi su sacco fissato, alternando lati e recuperando posizione e guardia dopo ogni serie.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "泰拳沙袋腿膝回合",
+      "description": "对固定沙袋练习已学会的腿膝技术，左右交替，每组后恢复站姿和防守。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ムエタイのバッグへの蹴りと膝ラウンド",
+      "description": "固定したバッグに習得済みの蹴りと膝を左右交互に出し、毎回構えとガードを戻します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "무에타이 백 킥·무릎 라운드",
+      "description": "고정된 백에 익힌 킥과 무릎을 좌우로 번갈아 연습하고 매 콤비네이션 후 자세와 가드를 회복하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ยกเตะและเข่ากระสอบมวยไทย",
+      "description": "ฝึกเตะและเข่าที่เรียนกับกระสอบยึดมั่น สลับข้างและคืนท่ายืนกับการ์ดหลังแต่ละชุด",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Раунд ударов ногами и коленями по мешку",
+      "description": "Отрабатывайте освоенные удары ногами и коленями по закреплённому мешку, чередуя стороны и возвращая стойку и защиту после серии.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Раунд ударів ногами й колінами по мішку",
+      "description": "Відпрацьовуйте опановані удари ногами й колінами по закріпленому мішку, чергуючи боки та відновлюючи стійку й захист після серії.",
+      "sectionTitle": "Основи"
+    }
+  }
+}

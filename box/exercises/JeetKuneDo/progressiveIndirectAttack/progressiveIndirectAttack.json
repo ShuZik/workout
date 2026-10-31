@@ -1,0 +1,87 @@
+{
+  "id": "118.4",
+  "key": "jeet_kune_do_progressive_indirect_attack",
+  "title": "Progressive Indirect Attack",
+  "description": "Begin a convincing feint toward one pad target, change line to the newly opened target and finish without a full reset between actions. One complete sequence counts as one action.",
+  "colorType": "orange",
+  "workoutType": "jeetKuneDo",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Progressive Indirect Attack",
+      "description": "Begin a convincing feint toward one pad target, change line to the newly opened target and finish without a full reset between actions. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ataque indirecto progresivo",
+      "description": "Inicia una finta convincente a un blanco, cambia al recién abierto y finaliza sin reiniciar por completo entre acciones. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Ataque indireto progressivo",
+      "description": "Inicie uma finta convincente a um alvo, mude para o alvo aberto e finalize sem reiniciar totalmente entre ações. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Attaque indirecte progressive",
+      "description": "Feintez vers une cible, changez vers celle qui s’ouvre et terminez sans reprise complète entre les actions. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Progressiver indirekter Angriff",
+      "description": "Täusche zu einem Ziel glaubhaft an, wechsle zum geöffneten Ziel und beende ohne vollständigen Neustart zwischen den Aktionen. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Attacco indiretto progressivo",
+      "description": "Avvia una finta credibile verso un bersaglio, cambia su quello che si apre e termina senza recupero completo tra le azioni. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "渐进间接攻击",
+      "description": "先向一个手靶作可信佯攻，再变线攻击新空隙，动作之间不完全重置。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "漸進間接攻撃",
+      "description": "一つのミットへ本物らしいフェイントを出し、新たに開いた標的へ線を変え、途中で構え直さずつなげます。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "점진적 간접 공격",
+      "description": "한 미트에 설득력 있는 페인트를 낸 뒤 새로 열린 표적으로 선을 바꾸고 완전히 재설정하지 않고 연결하세요. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โจมตีอ้อมแบบต่อเนื่อง",
+      "description": "หลอกอย่างน่าเชื่อไปเป้าหนึ่ง เปลี่ยนแนวสู่เป้าที่เปิดแล้วจบโดยไม่ตั้งท่าใหม่ระหว่างการเคลื่อนไหว นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Прогрессивная непрямая атака",
+      "description": "Начните убедительный финт к одной лапе, смените линию к открывшейся цели и завершите без полного возврата между действиями. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Прогресивна непряма атака",
+      "description": "Почніть переконливий фінт до однієї лапи, змініть лінію до відкритої цілі й завершіть без повного повернення між діями. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

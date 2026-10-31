@@ -1,0 +1,87 @@
+{
+  "id": "88.10",
+  "key": "sambo_sambo_twisting_unbalance",
+  "title": "Sambo Twisting Unbalance",
+  "description": "Take agreed jacket grips with a cooperative partner; turn the trunk and guide the arms across the base to break balance, then support the return without throwing. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "red",
+  "workoutType": "sambo",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 11.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15433"
+  },
+  "difficulty": "basic",
+  "section": "3 Unbalancing",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Sambo Twisting Unbalance",
+      "description": "Take agreed jacket grips with a cooperative partner; turn the trunk and guide the arms across the base to break balance, then support the return without throwing. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Unbalancing"
+    },
+    "es": {
+      "title": "Desequilibrio por giro de sambo",
+      "description": "Toma agarres de chaqueta acordados, gira tronco y guía brazos a través de la base para desequilibrar; acompaña la vuelta sin proyectar. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Desequilibrios"
+    },
+    "pt": {
+      "title": "Desequilíbrio por torção do sambo",
+      "description": "Faça pegadas combinadas na jaqueta, gire tronco e conduza braços através da base para desequilibrar; apoie a volta sem projetar. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Desequilíbrios"
+    },
+    "fr": {
+      "title": "Déséquilibre par rotation en sambo",
+      "description": "Prenez les saisies de veste convenues, tournez le tronc et guidez les bras en travers de la base pour déséquilibrer ; accompagnez le retour sans projeter. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Déséquilibres"
+    },
+    "de": {
+      "title": "Sambo-Gleichgewichtsbrechen durch Drehen",
+      "description": "Fasse vereinbarte Jackengriffe, drehe den Rumpf und führe die Arme quer über die Basis zum Gleichgewichtsbruch; unterstütze die Rückkehr ohne Wurf. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Gleichgewichtsbrechen"
+    },
+    "it": {
+      "title": "Squilibrio per rotazione di sambo",
+      "description": "Prendi le prese di giacca concordate, ruota il busto e guida le braccia attraverso la base per squilibrare; accompagna il ritorno senza proiettare. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Squilibri"
+    },
+    "zh-Hans": {
+      "title": "桑搏转体破坏平衡",
+      "description": "与搭档按约定抓衣，转动躯干带动双臂横过支撑面以破坏平衡，再支撑其返回，不完成投摔。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "破坏平衡"
+    },
+    "ja": {
+      "title": "サンボ回転による崩し",
+      "description": "決めた上着の組み手で体を回し、腕を相手の支持基底面の横へ導いて崩し、投げずに戻りを支えます。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "崩し"
+    },
+    "ko": {
+      "title": "삼보 회전 기울이기",
+      "description": "정한 재킷 잡기로 몸통을 돌려 팔을 지지면 가로로 유도해 균형을 깨고 던지지 않은 채 복귀를 지지하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "기울이기"
+    },
+    "th": {
+      "title": "แซมโบทำเสียสมดุลด้วยบิด",
+      "description": "จับเสื้อตามตกลง หมุนลำตัวนำแขนข้ามฐานให้เสียสมดุล แล้วประคองกลับโดยไม่ทุ่ม นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "ทำเสียสมดุล"
+    },
+    "ru": {
+      "title": "Самбо: выведение из равновесия скручиванием",
+      "description": "Из согласованного захвата куртки поверните корпус и проведите руки поперёк опоры, выводя партнёра из равновесия; поддержите возврат без броска. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Выведение из равновесия"
+    },
+    "uk": {
+      "title": "Самбо: виведення з рівноваги скручуванням",
+      "description": "З узгодженого захвату куртки поверніть корпус і проведіть руки поперек опори, виводячи партнера з рівноваги; підтримайте повернення без кидка. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Виведення з рівноваги"
+    }
+  },
+  "repeatCount": 12
+}

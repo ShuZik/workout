@@ -1,0 +1,88 @@
+{
+  "id": "23.37",
+  "key": "cross_training_sled_push",
+  "title": "Sled Push",
+  "description": "Grip the sled handles, brace the trunk and drive with short alternating steps while keeping the handles stable; count the sled’s travelled distance. The target is distance in metres, measured on the machine or along the route. Enter the total external load used, in kilograms.",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "difficulty": "basic",
+  "section": "5 Mixed Load",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "distanceAndWeight",
+  "initialValue": 20,
+  "initialValue2": 20,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Sled Push",
+      "description": "Grip the sled handles, brace the trunk and drive with short alternating steps while keeping the handles stable; count the sled’s travelled distance. The target is distance in metres, measured on the machine or along the route. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Mixed Load"
+    },
+    "es": {
+      "title": "Empuje de trineo",
+      "description": "Agarra las asas, activa tronco e impulsa con pasos cortos alternos manteniendo asas estables; cuenta distancia del trineo. El objetivo es la distancia en metros, medida en la máquina o en el recorrido. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Carga mixta"
+    },
+    "pt": {
+      "title": "Empurrar trenó",
+      "description": "Segure as alças, firme tronco e avance com passos curtos alternados mantendo alças estáveis; conte a distância do trenó. A meta é a distância em metros, medida no aparelho ou no percurso. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Carga mista"
+    },
+    "fr": {
+      "title": "Poussée de traîneau",
+      "description": "Saisissez les poignées, gainez et poussez par petits pas alternés en gardant les poignées stables ; mesurez le trajet du traîneau. L’objectif est la distance en mètres, mesurée sur l’appareil ou le parcours. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Charge mixte"
+    },
+    "de": {
+      "title": "Schlitten schieben",
+      "description": "Greife die Griffe, spanne den Rumpf an und schiebe mit kurzen wechselnden Schritten; halte die Griffe stabil und miss den Schlittenweg. Das Ziel ist die Strecke in Metern, gemessen am Gerät oder auf der Route. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Gemischte Lasten"
+    },
+    "it": {
+      "title": "Spinta della slitta",
+      "description": "Afferra le maniglie, stabilizza il busto e spingi con passi brevi alternati mantenendo le maniglie stabili; misura il tragitto della slitta. L’obiettivo è la distanza in metri, misurata sulla macchina o lungo il percorso. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Carico misto"
+    },
+    "zh-Hans": {
+      "title": "推雪橇",
+      "description": "握住雪橇把手、收紧躯干，以短步交替蹬地推进，保持把手稳定，计算雪橇移动距离。 目标为距离，单位为米，可通过器械或路线测量。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "混合负重"
+    },
+    "ja": {
+      "title": "スレッドプッシュ",
+      "description": "ハンドルを握り体幹を固め、短い交互の歩幅で押します。ハンドルを安定させ、スレッドの移動距離を数えます。 目標はメートル単位の距離です。機器またはコースで計測してください。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "ミックス負荷"
+    },
+    "ko": {
+      "title": "슬레드 푸시",
+      "description": "손잡이를 잡고 몸통을 고정해 짧은 교대 보폭으로 밀며 손잡이를 안정시키고 슬레드 이동 거리를 세세요. 목표는 미터 단위 거리이며 기기나 경로에서 측정합니다. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "혼합 부하"
+    },
+    "th": {
+      "title": "ดันเลื่อน",
+      "description": "จับด้ามเลื่อน เกร็งลำตัวดันด้วยก้าวสั้นสลับ รักษาด้ามมั่นคง นับระยะเลื่อนเคลื่อน เป้าหมายคือระยะทางเป็นเมตร โดยวัดจากเครื่องหรือเส้นทาง กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "น้ำหนักผสม"
+    },
+    "ru": {
+      "title": "Толкание саней",
+      "description": "Возьмитесь за рукояти саней, напрягите корпус и толкайте короткими попеременными шагами, сохраняя рукояти устойчивыми; считайте путь саней. Цель — расстояние в метрах по показаниям тренажёра или разметке маршрута. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Смешанная нагрузка"
+    },
+    "uk": {
+      "title": "Штовхання саней",
+      "description": "Візьміться за руків’я саней, напружте корпус і штовхайте короткими почерговими кроками, зберігаючи руків’я стійкими; рахуйте шлях саней. Ціль — відстань у метрах за показниками тренажера або розміткою маршруту. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Змішане навантаження"
+    }
+  }
+}

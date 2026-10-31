@@ -1,0 +1,89 @@
+{
+  "id": "6.41",
+  "key": "b_j_j_rolling",
+  "title": "Rolling",
+  "description": "Practise free BJJ transitions from standing or the ground at agreed intensity. Release immediately on a tap and reset after a submission.",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "section": "5 Positional Practice",
+  "durationUnit": "seconds",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Rolling",
+      "description": "Practise free BJJ transitions from standing or the ground at agreed intensity. Release immediately on a tap and reset after a submission.",
+      "sectionTitle": "Positional Practice"
+    },
+    "es": {
+      "title": "Combate libre de BJJ",
+      "description": "Practica transiciones libres de BJJ de pie o en suelo a intensidad acordada. Suelta al recibir una palmada y reinicia tras la sumisión.",
+      "sectionTitle": "Práctica posicional"
+    },
+    "pt": {
+      "title": "Rola de jiu-jítsu",
+      "description": "Pratique transições livres de jiu-jítsu em pé ou no solo na intensidade combinada. Solte ao sinal de desistência e reinicie após a finalização.",
+      "sectionTitle": "Prática posicional"
+    },
+    "fr": {
+      "title": "Combat libre de JJB",
+      "description": "Enchaînez librement debout ou au sol en JJB à intensité convenue. Relâchez au signal d’abandon et reprenez après une soumission.",
+      "sectionTitle": "Pratique positionnelle"
+    },
+    "de": {
+      "title": "Freies BJJ-Rollen",
+      "description": "Übt freie BJJ-Übergänge im Stand oder am Boden mit vereinbarter Intensität. Löst beim Abklopfen sofort und startet nach einer Aufgabe neu.",
+      "sectionTitle": "Positionstraining"
+    },
+    "it": {
+      "title": "Lotta libera di BJJ",
+      "description": "Pratica transizioni libere di BJJ in piedi o a terra a intensità concordata. Rilascia subito al segnale di resa e riparti dopo una sottomissione.",
+      "sectionTitle": "Pratica posizionale"
+    },
+    "zh-Hans": {
+      "title": "巴柔自由实战",
+      "description": "按约定强度自由串联巴柔站立或地面技术，拍击认输立即松开，降服后重新开始。",
+      "sectionTitle": "特定位置练习"
+    },
+    "ja": {
+      "title": "ローリング",
+      "description": "合意した強度で立ち技や寝技を自由に展開し、タップで直ちに解除して一本後に再開します。",
+      "sectionTitle": "ポジショナル練習"
+    },
+    "ko": {
+      "title": "롤링",
+      "description": "합의한 강도로 서거나 바닥에서 자유롭게 BJJ를 연결하고 탭하면 즉시 풀며 서브미션 후 재시작하세요.",
+      "sectionTitle": "포지션 연습"
+    },
+    "th": {
+      "title": "โรลลิง",
+      "description": "ฝึกเชื่อมท่า BJJ อิสระจากยืนหรือพื้นตามความหนักที่ตกลง ปล่อยทันทีเมื่อแตะยอมแพ้และเริ่มใหม่หลังซับมิชชัน",
+      "sectionTitle": "ฝึกตามตำแหน่ง"
+    },
+    "ru": {
+      "title": "Роллинг",
+      "description": "Свободно переходите между положениями BJJ в стойке или партере на согласованной интенсивности. Сразу отпускайте по сдаче и возобновляйте после приёма.",
+      "sectionTitle": "Позиционная практика"
+    },
+    "uk": {
+      "title": "Ролінг",
+      "description": "Вільно переходьте між положеннями BJJ у стійці або партері на узгодженій інтенсивності. Одразу відпускайте за сигналом здачі та відновлюйте після прийому.",
+      "sectionTitle": "Позиційна практика"
+    }
+  },
+  "difficulty": "intermediate",
+  "durationSeconds": 30,
+  "state": "active"
+}

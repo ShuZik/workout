@@ -1,0 +1,87 @@
+{
+  "id": "118.1",
+  "key": "jeet_kune_do_single_direct_attack",
+  "title": "Single Direct Attack",
+  "description": "From guard, strike directly at the open pad target without a preliminary feint, then recover guard. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "orange",
+  "workoutType": "jeetKuneDo",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Single Direct Attack",
+      "description": "From guard, strike directly at the open pad target without a preliminary feint, then recover guard. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ataque directo simple",
+      "description": "Desde la guardia, golpea directamente el blanco abierto sin finta previa y recupera guardia. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Ataque direto simples",
+      "description": "Da guarda, ataque diretamente o alvo aberto sem finta prévia e recupere a guarda. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Attaque directe simple",
+      "description": "Depuis la garde, frappez directement la cible ouverte sans feinte préalable puis reprenez la garde. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Einzelner direkter Angriff",
+      "description": "Triff aus der Deckung das freie Pratzenziel direkt ohne vorherige Finte und kehre in die Deckung zurück. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Attacco diretto singolo",
+      "description": "Dalla guardia, colpisci direttamente il bersaglio aperto senza finta preliminare e recupera la guardia. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "单一直接攻击",
+      "description": "从防守姿势直接击打开放的手靶目标，不先佯攻，然后恢复防守。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "単一直接攻撃",
+      "description": "構えから予備のフェイントなしで開いたミットを直接打ち、構えに戻ります。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "단일 직접 공격",
+      "description": "가드에서 사전 페인트 없이 열린 미트 표적을 바로 치고 가드로 돌아오세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โจมตีตรงครั้งเดียว",
+      "description": "จากการ์ดโจมตีเป้าที่เปิดโดยตรงโดยไม่หลอกก่อน แล้วคืนการ์ด นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Одиночная прямая атака",
+      "description": "Из защиты атакуйте открытую цель на лапе прямо, без предварительного финта, и возвращайтесь в защиту. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Одиночна пряма атака",
+      "description": "Із захисту атакуйте відкриту ціль на лапі прямо, без попереднього фінту, і повертайтеся в захист. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

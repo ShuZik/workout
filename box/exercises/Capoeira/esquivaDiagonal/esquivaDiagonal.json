@@ -1,0 +1,87 @@
+{
+  "id": "49.25",
+  "key": "capoeira_esquiva_diagonal",
+  "title": "Esquiva Diagonal",
+  "description": "Step diagonally out of the attack line, bend the knees and incline the torso with the head guarded, then return to ginga. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "yellow",
+  "workoutType": "capoeira",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "difficulty": "basic",
+  "section": "2 Foundations",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Esquiva Diagonal",
+      "description": "Step diagonally out of the attack line, bend the knees and incline the torso with the head guarded, then return to ginga. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Foundations"
+    },
+    "es": {
+      "title": "Esquiva diagonal",
+      "description": "Sal diagonalmente de la línea de ataque, flexiona rodillas e inclina el torso con cabeza protegida y vuelve a ginga. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Fundamentos"
+    },
+    "pt": {
+      "title": "Esquiva diagonal",
+      "description": "Saia diagonalmente da linha de ataque, flexione joelhos e incline o tronco protegendo a cabeça e volte à ginga. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Fundamentos"
+    },
+    "fr": {
+      "title": "Esquive diagonale",
+      "description": "Sortez en diagonale de la ligne d’attaque, fléchissez les genoux et inclinez le buste, tête protégée, puis revenez en ginga. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Fondamentaux"
+    },
+    "de": {
+      "title": "Diagonale Ausweichbewegung",
+      "description": "Tritt diagonal aus der Angriffslinie, beuge die Knie und neige den Rumpf mit geschütztem Kopf; kehre zur Ginga zurück. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Grundlagen"
+    },
+    "it": {
+      "title": "Schivata diagonale",
+      "description": "Esci diagonalmente dalla linea d’attacco, piega le ginocchia e inclina il busto proteggendo la testa, poi torna in ginga. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Fondamenti"
+    },
+    "zh-Hans": {
+      "title": "斜向闪避",
+      "description": "斜步离开攻击线，屈膝倾斜躯干并护头，再恢复金加步。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "エスキーヴァ・ジアゴナウ",
+      "description": "攻撃線から斜めに踏み出し、膝を曲げて頭を守りながら上体を傾け、ジンガに戻ります。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "대각선 에스키바",
+      "description": "공격선에서 대각선으로 벗어나 무릎을 굽히고 머리를 보호하며 몸통을 기울였다 징가로 돌아오세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "เอสกีวาเฉียง",
+      "description": "ก้าวเฉียงออกแนวโจมตี งอเข่าและเอียงลำตัวป้องกันศีรษะ แล้วกลับจิงกา นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Эскива-диагонал",
+      "description": "Шагните по диагонали с линии атаки, согните колени и наклоните корпус с защитой головы, затем вернитесь в жингу. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Основы"
+    },
+    "uk": {
+      "title": "Есківа-діагонал",
+      "description": "Крокніть по діагоналі з лінії атаки, зігніть коліна й нахиліть корпус із захистом голови, потім поверніться в жінґу. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Основи"
+    }
+  },
+  "repeatCount": 12
+}

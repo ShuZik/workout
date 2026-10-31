@@ -1,0 +1,87 @@
+{
+  "id": "118.2",
+  "key": "jeet_kune_do_single_angular_attack",
+  "title": "Single Angular Attack",
+  "description": "Change the line with an angled step, deliver one controlled strike to the pad target and recover. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "orange",
+  "workoutType": "jeetKuneDo",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Single Angular Attack",
+      "description": "Change the line with an angled step, deliver one controlled strike to the pad target and recover. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ataque angular simple",
+      "description": "Cambia la línea con un paso angular, golpea una vez con control al blanco y recupera. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Ataque angular simples",
+      "description": "Mude a linha com passo angular, dê um golpe controlado no alvo e recupere. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Attaque angulaire simple",
+      "description": "Changez de ligne par un pas angulaire, portez une frappe contrôlée sur la cible puis revenez. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Einzelner Winkelangriff",
+      "description": "Wechsle mit einem Winkelschritt die Linie, triff die Pratze einmal kontrolliert und kehre zurück. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Attacco angolare singolo",
+      "description": "Cambia linea con un passo angolato, porta un colpo controllato al bersaglio e recupera. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "单一角度攻击",
+      "description": "用斜步改变攻击线，对手靶作一次受控打击后恢复。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "単一角度攻撃",
+      "description": "斜めのステップで攻撃線を変え、ミットへ一打を制御して当てて戻ります。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "단일 각도 공격",
+      "description": "각도 있는 스텝으로 선을 바꿔 미트에 한 번 통제해서 치고 복귀하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โจมตีมุมครั้งเดียว",
+      "description": "ก้าวเฉียงเปลี่ยนแนว โจมตีเป้าหนึ่งครั้งอย่างควบคุม แล้วคืนท่า นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Одиночная атака под углом",
+      "description": "Смените линию шагом под углом, нанесите один контролируемый удар по лапе и восстановитесь. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Одиночна атака під кутом",
+      "description": "Змініть лінію кроком під кутом, завдайте одного контрольованого удару по лапі й відновіться. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "14.25",
+  "key": "coretraining_plank_shoulder_tap",
+  "title": "Plank Shoulder Tap",
+  "description": "Start in a high plank with feet wider than your hips. Touch the opposite shoulder with one hand, replace it, and alternate while keeping your pelvis still.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "durationSeconds": 30,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Plank Shoulder Tap",
+      "description": "Start in a high plank with feet wider than your hips. Touch the opposite shoulder with one hand, replace it, and alternate while keeping your pelvis still.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Toque de hombro en plancha",
+      "description": "Empieza en plancha alta con los pies más separados que las caderas. Toca el hombro contrario con una mano, vuelve a apoyarla y alterna sin mover la pelvis.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Toque no ombro em prancha",
+      "description": "Comece em prancha alta com os pés mais afastados que o quadril. Toque o ombro oposto com uma mão, apoie-a novamente e alterne mantendo a pelve imóvel.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Toucher d’épaule en planche",
+      "description": "Partez en planche haute, pieds plus écartés que les hanches. Touchez l’épaule opposée d’une main, reposez-la puis alternez en gardant le bassin immobile.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Schultertippen im Stütz",
+      "description": "Beginne im hohen Stütz mit den Füßen breiter als hüftbreit. Tippe mit einer Hand an die gegenüberliegende Schulter, setze sie zurück und wechsle bei ruhigem Becken.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Tocco della spalla in plank",
+      "description": "Parti in plank alto con i piedi più larghi delle anche. Tocca la spalla opposta con una mano, riappoggiala e alterna mantenendo il bacino fermo.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "平板支撑触肩",
+      "description": "从高位平板支撑开始，双脚间距大于髋宽。单手触碰对侧肩膀后放回，交替进行，保持骨盆不晃动。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "プランクショルダータップ",
+      "description": "足を腰幅より広くしてハイプランクになります。片手で反対の肩に触れて戻し、骨盤を動かさず左右交互に行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "플랭크 숄더 탭",
+      "description": "발을 골반보다 넓게 벌리고 하이 플랭크를 취하세요. 한 손으로 반대쪽 어깨를 터치한 뒤 다시 짚고 골반을 고정한 채 번갈아 하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "แตะไหล่ในแพลงก์",
+      "description": "เริ่มในแพลงก์สูงโดยแยกเท้ากว้างกว่าสะโพก ใช้มือข้างหนึ่งแตะไหล่ตรงข้าม วางกลับแล้วสลับข้างโดยรักษาเชิงกรานให้นิ่ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Касание плеч в планке",
+      "description": "Начните в высокой планке, расставив стопы шире таза. Коснитесь противоположного плеча одной рукой, верните её на пол и чередуйте стороны, удерживая таз неподвижно.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Торкання плечей у планці",
+      "description": "Почніть у високій планці, розставивши стопи ширше таза. Торкніться протилежного плеча однією рукою, поверніть її на підлогу та чергуйте боки, утримуючи таз нерухомо.",
+      "sectionTitle": "База"
+    }
+  },
+  "state": "active"
+}

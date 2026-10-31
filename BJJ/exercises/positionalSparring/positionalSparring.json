@@ -1,0 +1,88 @@
+{
+  "id": "6.40",
+  "key": "b_j_j_positional_sparring",
+  "title": "Positional Sparring",
+  "description": "Agree on permitted techniques and intensity with your partner. Work from the chosen position, release immediately on a tap, and reset after the agreed outcome.",
+  "colorType": "indigo",
+  "workoutType": "bjj",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "difficulty": "intermediate",
+  "section": "5 Positional Practice",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Positional Sparring",
+      "description": "Agree on permitted techniques and intensity with your partner. Work from the chosen position, release immediately on a tap, and reset after the agreed outcome.",
+      "sectionTitle": "Positional Practice"
+    },
+    "es": {
+      "title": "Sparring posicional",
+      "description": "Acuerda técnicas e intensidad con tu compañero. Trabaja desde la posición elegida, suelta de inmediato ante una palmada y reinicia al lograr el objetivo.",
+      "sectionTitle": "Práctica posicional"
+    },
+    "pt": {
+      "title": "Sparring posicional",
+      "description": "Combine técnicas e intensidade com o parceiro. Trabalhe da posição escolhida, solte imediatamente ao sinal de desistência e reinicie após o resultado combinado.",
+      "sectionTitle": "Prática posicional"
+    },
+    "fr": {
+      "title": "Sparring positionnel",
+      "description": "Convenez des techniques et de l’intensité. Travaillez depuis la position choisie, relâchez immédiatement au signal d’abandon et reprenez après l’objectif convenu.",
+      "sectionTitle": "Pratique positionnelle"
+    },
+    "de": {
+      "title": "Positionssparring",
+      "description": "Vereinbart Techniken und Intensität. Arbeitet aus der gewählten Position, löst beim Abklopfen sofort und startet nach dem vereinbarten Ergebnis neu.",
+      "sectionTitle": "Positionstraining"
+    },
+    "it": {
+      "title": "Sparring posizionale",
+      "description": "Concordate tecniche e intensità. Lavorate dalla posizione scelta, rilasciate subito al segnale di resa e ripartite dopo l’esito concordato.",
+      "sectionTitle": "Pratica posizionale"
+    },
+    "zh-Hans": {
+      "title": "特定位置实战",
+      "description": "与搭档约定允许技术及强度，从选定位置练习，收到拍击认输立即松开，达到约定结果后重置。",
+      "sectionTitle": "特定位置练习"
+    },
+    "ja": {
+      "title": "ポジショナルスパーリング",
+      "description": "相手と技・強度を合意し、選んだ姿勢から練習します。タップで直ちに解除し、合意した結果でリセットします。",
+      "sectionTitle": "ポジショナル練習"
+    },
+    "ko": {
+      "title": "포지셔널 스파링",
+      "description": "파트너와 허용 기술과 강도를 정하고 선택한 자세에서 연습하세요. 탭하면 즉시 풀고 합의한 결과 후 재시작하세요.",
+      "sectionTitle": "포지션 연습"
+    },
+    "th": {
+      "title": "ซ้อมต่อสู้ตามตำแหน่ง",
+      "description": "ตกลงเทคนิคและความหนักกับคู่ซ้อม ฝึกจากตำแหน่งที่เลือก ปล่อยทันทีเมื่อแตะยอมแพ้ และเริ่มใหม่ตามผลที่ตกลง",
+      "sectionTitle": "ฝึกตามตำแหน่ง"
+    },
+    "ru": {
+      "title": "Позиционный спарринг",
+      "description": "Согласуйте с партнёром разрешённые техники и интенсивность. Работайте из выбранной позиции, сразу отпускайте по сдаче и начинайте заново после оговорённого результата.",
+      "sectionTitle": "Позиционная практика"
+    },
+    "uk": {
+      "title": "Позиційний спаринг",
+      "description": "Узгодьте з партнером дозволені техніки й інтенсивність. Працюйте з обраної позиції, одразу відпускайте за сигналом здачі й починайте знову після домовленого результату.",
+      "sectionTitle": "Позиційна практика"
+    }
+  },
+  "durationSeconds": 30,
+  "state": "active"
+}

@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "blue",
+    "folder": "Agility",
+    "id": "112",
+    "icon": "Agility/Icon.png",
+    "symbolName": "figure.run",
+    "title": "Coordination and Footwork",
+    "workoutType": "agility",
+    "translations": {
+      "en": {
+        "title": "Coordination and Footwork"
+      },
+      "es": {
+        "title": "Coordinación y juego de pies"
+      },
+      "pt": {
+        "title": "Coordenação e trabalho de pés"
+      },
+      "fr": {
+        "title": "Coordination et jeu de jambes"
+      },
+      "de": {
+        "title": "Koordination und Beinarbeit"
+      },
+      "it": {
+        "title": "Coordinazione e gioco di gambe"
+      },
+      "zh-Hans": {
+        "title": "协调与步法"
+      },
+      "ja": {
+        "title": "コーディネーションとフットワーク"
+      },
+      "ko": {
+        "title": "협응력과 풋워크"
+      },
+      "th": {
+        "title": "การประสานงานและฟุตเวิร์ก"
+      },
+      "ru": {
+        "title": "Координация и работа ног"
+      },
+      "uk": {
+        "title": "Координація та робота ніг"
+      }
+    }
+  },
+  "files": [
+    {
+      "json": "Agility/exercises/inInOutOutLadderPasses/inInOutOutLadderPasses.json",
+      "icon": "Agility/exercises/inInOutOutLadderPasses/Icon.png"
+    },
+    {
+      "json": "Agility/exercises/coneWeavePasses/coneWeavePasses.json",
+      "icon": "Agility/exercises/coneWeavePasses/Icon.png"
+    },
+    {
+      "json": "Agility/exercises/lateralShuffle/lateralShuffle.json",
+      "icon": "Agility/exercises/lateralShuffle/Icon.png"
+    },
+    {
+      "icon": "Agility/exercises/singleLegStandBalance/Icon.png",
+      "json": "Agility/exercises/singleLegStandBalance/singleLegStandBalance.json"
+    }
+  ]
+}

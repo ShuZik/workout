@@ -1,0 +1,88 @@
+{
+  "id": "14.23",
+  "key": "coretraining_side_plank_hip_lift",
+  "title": "Side Plank Hip Lift",
+  "description": "Lie on your side with your elbow under your shoulder and feet stacked. Lift your hips into a straight line, lower with control, and repeat on the other side.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "time",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Base",
+  "durationSeconds": 30,
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Side Plank Hip Lift",
+      "description": "Lie on your side with your elbow under your shoulder and feet stacked. Lift your hips into a straight line, lower with control, and repeat on the other side.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Elevación de cadera en plancha lateral",
+      "description": "Túmbate de lado con el codo bajo el hombro y los pies apilados. Eleva las caderas hasta formar una línea recta, baja con control y repite al otro lado.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Elevação de quadril em prancha lateral",
+      "description": "Deite de lado com o cotovelo sob o ombro e os pés empilhados. Levante o quadril até alinhar o corpo, abaixe com controle e repita do outro lado.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Élévation des hanches en planche latérale",
+      "description": "Allongez-vous sur le côté, coude sous l’épaule et pieds superposés. Levez les hanches pour aligner le corps, redescendez avec contrôle et répétez de l’autre côté.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Hüftheben im Seitstütz",
+      "description": "Lege dich seitlich hin, Ellbogen unter der Schulter und Füße übereinander. Hebe die Hüfte bis der Körper gerade ist, senke kontrolliert ab und wechsle die Seite.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Sollevamento del bacino in plank laterale",
+      "description": "Sdraiati sul fianco con il gomito sotto la spalla e i piedi sovrapposti. Solleva il bacino per allineare il corpo, abbassalo con controllo e ripeti dall’altro lato.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "侧平板抬髋",
+      "description": "侧卧，肘部位于肩部下方，双脚叠放。抬起髋部使身体成直线，控制下降，再换侧重复。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "サイドプランクヒップリフト",
+      "description": "肘を肩の下に置き、足を重ねて横向きになります。腰を上げて体を一直線にし、ゆっくり下ろして反対側も行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "사이드 플랭크 힙 리프트",
+      "description": "옆으로 누워 팔꿈치를 어깨 아래에 두고 발을 포개세요. 엉덩이를 들어 몸을 일직선으로 만든 뒤 천천히 내리고 반대쪽도 반복하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ยกสะโพกในไซด์แพลงก์",
+      "description": "นอนตะแคง วางศอกใต้หัวไหล่และซ้อนเท้า ยกสะโพกให้ลำตัวเป็นเส้นตรง ลดลงอย่างควบคุมแล้วทำอีกข้าง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Подъём таза в боковой планке",
+      "description": "Лягте на бок, поставьте локоть под плечом и сложите стопы. Поднимите таз до прямой линии тела, плавно опустите и повторите с другой стороны.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Піднімання таза в бічній планці",
+      "description": "Ляжте на бік, поставте лікоть під плечем і складіть стопи. Підніміть таз до прямої лінії тіла, плавно опустіть і повторіть з іншого боку.",
+      "sectionTitle": "База"
+    }
+  },
+  "state": "active"
+}

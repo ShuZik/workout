@@ -1,0 +1,88 @@
+{
+  "id": "69.31",
+  "key": "kendo_ji_geiko",
+  "title": "Ji-geiko",
+  "description": "Practise free kendo exchanges in full protective equipment, creating openings and recovering guard and distance after each attack.",
+  "colorType": "indigo",
+  "workoutType": "kendo",
+  "difficulty": "intermediate",
+  "section": "2 Partner Kihon",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "time",
+  "durationSeconds": 30,
+  "state": "active",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Ji-geiko",
+      "description": "Practise free kendo exchanges in full protective equipment, creating openings and recovering guard and distance after each attack.",
+      "sectionTitle": "Partner Kihon"
+    },
+    "es": {
+      "title": "Ji-geiko",
+      "description": "Practica intercambios libres de kendo con protección completa, creando aperturas y recuperando guardia y distancia tras cada ataque.",
+      "sectionTitle": "Kihon en pareja"
+    },
+    "pt": {
+      "title": "Ji-geiko",
+      "description": "Pratique trocas livres de kendo com proteção completa, criando aberturas e recuperando guarda e distância após cada ataque.",
+      "sectionTitle": "Kihon em dupla"
+    },
+    "fr": {
+      "title": "Ji-geiko",
+      "description": "Pratiquez des échanges libres en protection complète, créez des ouvertures puis retrouvez garde et distance après chaque attaque.",
+      "sectionTitle": "Kihon à deux"
+    },
+    "de": {
+      "title": "Ji-geiko",
+      "description": "Übe freie Kendo-Wechsel in voller Schutzausrüstung, schaffe Öffnungen und stelle nach jedem Angriff Deckung und Abstand wieder her.",
+      "sectionTitle": "Partner-Kihon"
+    },
+    "it": {
+      "title": "Ji-geiko",
+      "description": "Pratica scambi liberi di kendo con protezione completa, creando aperture e recuperando guardia e distanza dopo ogni attacco.",
+      "sectionTitle": "Kihon in coppia"
+    },
+    "zh-Hans": {
+      "title": "自由稽古",
+      "description": "穿完整护具自由进行剑道攻防，创造空隙，每次攻击后恢复防守和距离。",
+      "sectionTitle": "对练基本"
+    },
+    "ja": {
+      "title": "地稽古",
+      "description": "防具を着けて自由に攻防し、隙を作って打ち、毎回構えと間合いを取り直します。",
+      "sectionTitle": "木刀による基本稽古"
+    },
+    "ko": {
+      "title": "지게이코",
+      "description": "보호구를 완전히 착용하고 자유롭게 공방하며 빈틈을 만들고 공격 후 자세와 거리를 회복하세요.",
+      "sectionTitle": "짝 기본"
+    },
+    "th": {
+      "title": "จิเกโกะ",
+      "description": "ฝึกเคนโดอิสระพร้อมเกราะครบ สร้างช่องโจมตีและคืนการ์ดกับระยะหลังการโจมตี",
+      "sectionTitle": "คิฮงคู่"
+    },
+    "ru": {
+      "title": "Дзи-гэйко",
+      "description": "Проводите свободные обмены кэндо в полной защите, создавая открытия и восстанавливая стойку и дистанцию после атаки.",
+      "sectionTitle": "Парный кихон"
+    },
+    "uk": {
+      "title": "Дзі-ґейко",
+      "description": "Проводьте вільні обміни кендо в повному захисті, створюючи відкриття та відновлюючи стійку й дистанцію після атаки.",
+      "sectionTitle": "Парний кіхон"
+    }
+  }
+}

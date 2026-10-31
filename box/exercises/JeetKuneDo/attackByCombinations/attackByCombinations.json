@@ -1,0 +1,87 @@
+{
+  "id": "118.5",
+  "key": "jeet_kune_do_attack_by_combinations",
+  "title": "Attack by Combinations",
+  "description": "Link the agreed strikes on pads in a continuous combination, varying targets while maintaining guard; reset after the complete combination. One complete sequence counts as one action.",
+  "colorType": "orange",
+  "workoutType": "jeetKuneDo",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Attack by Combinations",
+      "description": "Link the agreed strikes on pads in a continuous combination, varying targets while maintaining guard; reset after the complete combination. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ataque por combinaciones",
+      "description": "Enlaza los golpes acordados en una combinación continua a los blancos manteniendo guardia; reinicia tras la combinación completa. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Ataque por combinações",
+      "description": "Una os golpes combinados nas aparadoras em sequência contínua variando alvos e mantendo a guarda; reinicie após a combinação completa. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Attaque par combinaisons",
+      "description": "Enchaînez les frappes convenues aux paos en variant les cibles tout en gardant la garde ; reprenez après la combinaison complète. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Kombinationsangriff",
+      "description": "Verbinde vereinbarte Pratzenschläge zur durchgehenden Kombination, wechsle Ziele und halte die Deckung; starte nach der ganzen Kombination neu. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Attacco con combinazioni",
+      "description": "Collega i colpi concordati sui colpitori in combinazione continua, varia i bersagli mantenendo la guardia; riparti dopo la combinazione completa. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "组合攻击",
+      "description": "在手靶上连续串联约定打击，变换目标同时保持防守，完整组合后重置。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "連続技による攻撃",
+      "description": "決めた打撃をミットに連続してつなげ、ガードを保って標的を変え、組み合わせ終了後に戻ります。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "콤비네이션 공격",
+      "description": "정한 타격을 미트에 연속 연결하고 가드를 유지하며 표적을 바꾼 뒤 전체 콤비네이션 후 재설정하세요. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โจมตีด้วยชุดท่า",
+      "description": "เชื่อมการโจมตีที่ตกลงบนเป้าต่อเนื่อง เปลี่ยนเป้าโดยรักษาการ์ด ตั้งใหม่หลังจบชุด นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Атака комбинациями",
+      "description": "Связывайте согласованные удары по лапам в непрерывную комбинацию, меняйте цели с сохранением защиты и восстанавливайтесь после полной серии. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Атака комбінаціями",
+      "description": "Поєднуйте узгоджені удари по лапах у безперервну комбінацію, змінюйте цілі зі збереженням захисту й відновлюйтеся після повної серії. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

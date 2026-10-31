@@ -1,0 +1,87 @@
+{
+  "id": "54.37",
+  "key": "fencing_advance_and_retreat",
+  "title": "Advance and Retreat",
+  "description": "From fencing guard, advance front foot then rear foot; retreat rear foot then front foot without crossing. Out and back is one sequence. One complete sequence counts as one action.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "difficulty": "basic",
+  "section": "2 Footwork",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6,
+    "moderate": 6,
+    "vigorous": 6,
+    "lightCode": "15200",
+    "moderateCode": "15200",
+    "vigorousCode": "15200"
+  },
+  "translations": {
+    "en": {
+      "title": "Advance and Retreat",
+      "description": "From fencing guard, advance front foot then rear foot; retreat rear foot then front foot without crossing. Out and back is one sequence. One complete sequence counts as one action.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Avance y retirada",
+      "description": "Desde la guardia, avanza pie delantero y luego trasero; retrocede trasero y luego delantero sin cruzar. Ida y vuelta forman una secuencia. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Avanço e recuo",
+      "description": "Da guarda, avance pé da frente e depois o de trás; recue o de trás e depois o da frente sem cruzar. Ida e volta formam uma sequência. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Marche et retraite",
+      "description": "En garde, avancez pied avant puis arrière ; reculez pied arrière puis avant sans croiser. Aller-retour forme une séquence. Une séquence complète compte pour une action.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Vorwärts- und Rückwärtsschritt",
+      "description": "Gehe aus der Fechtstellung mit vorderem dann hinterem Fuß vor, mit hinterem dann vorderem zurück, ohne Kreuzen. Hin und zurück ist eine Folge. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Passo avanti e indietro",
+      "description": "Dalla guardia, avanza piede anteriore poi posteriore; arretra posteriore poi anteriore senza incrociare. Andata e ritorno formano una sequenza. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "前进后退步",
+      "description": "从击剑预备姿势先前脚后后脚前进，再先后脚后前脚后退，不交叉；一进一退为一组。 一套完整动作计为一次。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "前進と後退",
+      "description": "構えから前足、後足の順に前進し、後足、前足の順に後退します。足を交差せず一往復で一連です。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "전진과 후퇴",
+      "description": "펜싱 자세에서 앞발·뒷발 순으로 전진하고 뒷발·앞발 순으로 후퇴하세요. 발을 교차하지 않고 왕복을 한 순서로 셉니다. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "ก้าวหน้าและถอย",
+      "description": "จากท่าการ์ดฟันดาบ ก้าวหน้าเท้าหน้าตามด้วยเท้าหลัง ถอยเท้าหลังตามด้วยเท้าหน้าไม่ไขว้ ไปกลับครบหนึ่งชุด นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Шаг вперёд и назад",
+      "description": "Из фехтовальной стойки шагните передней, затем задней ногой вперёд; отступите задней, затем передней без скрещивания. Вперёд-назад — одна последовательность. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Крок уперед і назад",
+      "description": "Із фехтувальної стійки крокніть передньою, потім задньою ногою вперед; відступіть задньою, потім передньою без схрещування. Уперед-назад — одна послідовність. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

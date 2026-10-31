@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "sage",
+    "folder": "TaiChi",
+    "id": "120",
+    "icon": "TaiChi/Icon.png",
+    "symbolName": "figure.mind.and.body",
+    "title": "Tai Chi",
+    "workoutType": "taiChi",
+    "translations": {
+      "en": {
+        "title": "Tai Chi"
+      },
+      "es": {
+        "title": "Taichí"
+      },
+      "pt": {
+        "title": "Tai chi"
+      },
+      "fr": {
+        "title": "Taï-chi"
+      },
+      "de": {
+        "title": "Tai-Chi"
+      },
+      "it": {
+        "title": "Tai chi"
+      },
+      "zh-Hans": {
+        "title": "太极拳"
+      },
+      "ja": {
+        "title": "太極拳"
+      },
+      "ko": {
+        "title": "태극권"
+      },
+      "th": {
+        "title": "ไทเก๊ก"
+      },
+      "ru": {
+        "title": "Тайцзицюань"
+      },
+      "uk": {
+        "title": "Тайцзіцюань"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "TaiChi/exercises/silkReelingDrill/Icon.png",
+      "json": "TaiChi/exercises/silkReelingDrill/silkReelingDrill.json"
+    },
+    {
+      "icon": "TaiChi/exercises/fixedStepPushHands/Icon.png",
+      "json": "TaiChi/exercises/fixedStepPushHands/fixedStepPushHands.json"
+    },
+    {
+      "icon": "TaiChi/exercises/movingStepPushHands/Icon.png",
+      "json": "TaiChi/exercises/movingStepPushHands/movingStepPushHands.json"
+    },
+    {
+      "icon": "TaiChi/exercises/zhanZhuang/Icon.png",
+      "json": "TaiChi/exercises/zhanZhuang/zhanZhuang.json"
+    },
+    {
+      "icon": "TaiChi/exercises/24FormTaiChi/Icon.png",
+      "json": "TaiChi/exercises/24FormTaiChi/24FormTaiChi.json"
+    },
+    {
+      "icon": "TaiChi/exercises/42FormTaiChi/Icon.png",
+      "json": "TaiChi/exercises/42FormTaiChi/42FormTaiChi.json"
+    }
+  ]
+}

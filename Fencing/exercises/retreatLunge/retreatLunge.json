@@ -1,0 +1,87 @@
+{
+  "id": "54.39",
+  "key": "fencing_retreat_lunge",
+  "title": "Retreat and Lunge",
+  "description": "From guard, retreat to create distance, extend the weapon arm, lunge and recover as one sequence. One complete sequence counts as one action.",
+  "colorType": "gray",
+  "workoutType": "fencing",
+  "difficulty": "basic",
+  "section": "2 Footwork",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 6,
+    "moderate": 6,
+    "vigorous": 6,
+    "lightCode": "15200",
+    "moderateCode": "15200",
+    "vigorousCode": "15200"
+  },
+  "translations": {
+    "en": {
+      "title": "Retreat and Lunge",
+      "description": "From guard, retreat to create distance, extend the weapon arm, lunge and recover as one sequence. One complete sequence counts as one action.",
+      "sectionTitle": "Footwork"
+    },
+    "es": {
+      "title": "Retirada y fondo",
+      "description": "Desde la guardia, retrocede para crear distancia, extiende el brazo armado, haz fondo y recupera como una secuencia. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Juego de pies"
+    },
+    "pt": {
+      "title": "Recuo e afundo",
+      "description": "Da guarda, recue criando distância, estenda o braço armado, faça afundo e recupere como uma sequência. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Trabalho de pés"
+    },
+    "fr": {
+      "title": "Retraite et fente",
+      "description": "En garde, faites une retraite pour créer la distance, allongez le bras armé, faites une fente et revenez pour une séquence. Une séquence complète compte pour une action.",
+      "sectionTitle": "Jeu de jambes"
+    },
+    "de": {
+      "title": "Rückwärtsschritt und Ausfall",
+      "description": "Gehe aus der Fechtstellung zurück, schaffe Abstand, strecke den Waffenarm, mache einen Ausfall und kehre zurück; dies ist eine Folge. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Beinarbeit"
+    },
+    "it": {
+      "title": "Passo indietro e affondo",
+      "description": "Dalla guardia, arretra per creare distanza, estendi il braccio armato, affonda e recupera come un’unica sequenza. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Gioco di gambe"
+    },
+    "zh-Hans": {
+      "title": "后退弓步",
+      "description": "从预备姿势后退拉开距离，伸持械臂、弓步突刺并返回，合为一组。 一套完整动作计为一次。",
+      "sectionTitle": "步法"
+    },
+    "ja": {
+      "title": "後退からの突き",
+      "description": "構えから後退して間合いを取り、腕を伸ばして突き、戻るまでを一連とします。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "フットワーク"
+    },
+    "ko": {
+      "title": "후퇴 후 런지",
+      "description": "자세에서 후퇴해 거리를 만든 후 무기 든 팔을 뻗어 런지하고 복귀하는 것을 한 순서로 셉니다. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "풋워크"
+    },
+    "th": {
+      "title": "ถอยและพุ่ง",
+      "description": "จากท่าการ์ด ถอยสร้างระยะ เหยียดแขนอาวุธ พุ่งแล้วคืนท่าเป็นหนึ่งชุด นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "ฟุตเวิร์ก"
+    },
+    "ru": {
+      "title": "Шаг назад и выпад",
+      "description": "Из стойки отступите для создания дистанции, выпрямите вооружённую руку, выполните выпад и вернитесь одной последовательностью. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Работа ног"
+    },
+    "uk": {
+      "title": "Крок назад і випад",
+      "description": "Із стійки відступіть для створення дистанції, випряміть озброєну руку, виконайте випад і поверніться однією послідовністю. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Робота ніг"
+    }
+  }
+}

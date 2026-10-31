@@ -1,0 +1,87 @@
+{
+  "id": "117.9",
+  "key": "kobudo_sai_ni",
+  "title": "Kata: Sai Ni",
+  "description": "In a clear training area, perform the complete Sai Ni kata as taught in your school, using a suitable training weapon. Keep grips and weapon paths controlled from the opening to the final posture. One complete sequence counts as one action.",
+  "colorType": "indigo",
+  "workoutType": "kobudo",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 1,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Kata: Sai Ni",
+      "description": "In a clear training area, perform the complete Sai Ni kata as taught in your school, using a suitable training weapon. Keep grips and weapon paths controlled from the opening to the final posture. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Kata: Sai Ni",
+      "description": "En un área despejada, realiza el kata completo Sai Ni según tu escuela, con un arma de entrenamiento adecuada. Controla agarres y trayectorias desde el inicio hasta la postura final. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Kata: Sai Ni",
+      "description": "Em área livre, execute o kata completo Sai Ni conforme sua escola, com arma de treino adequada. Controle pegadas e trajetórias desde a abertura até a postura final. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Kata: Sai Ni",
+      "description": "Dans un espace dégagé, exécutez le kata complet Sai Ni enseigné dans votre école avec une arme d’entraînement adaptée. Contrôlez prises et trajectoires du début à la posture finale. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Kata: Sai Ni",
+      "description": "Führe auf freier Trainingsfläche die vollständige Kata Sai Ni nach deiner Schule mit geeigneter Trainingswaffe aus. Kontrolliere Griffe und Waffenbahnen von Beginn bis zur Endstellung. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Kata: Sai Ni",
+      "description": "In spazio libero, esegui il kata completo Sai Ni secondo la tua scuola con un’arma da allenamento adatta. Controlla prese e traiettorie dall’apertura alla postura finale. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "型: Sai Ni",
+      "description": "在空旷训练区域，使用适合的训练器械，按所属流派所教完整演练Sai Ni。从起势至收势始终控制握法与器械路线。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "形: Sai Ni",
+      "description": "十分な空間で適切な練習用武具を使い、所属する流派で習ったSai Niを最初から最後まで行います。握りと武具の軌道を制御してください。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "카타: Sai Ni",
+      "description": "공간을 확보하고 적합한 훈련용 무기로 소속 도장에서 배운 Sai Ni 카타를 처음부터 끝까지 수행하세요. 잡기와 무기 경로를 통제하세요. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "คาตะ: Sai Ni",
+      "description": "ในพื้นที่ฝึกโล่ง ใช้อาวุธฝึกที่เหมาะสม ทำคาตะ Sai Ni ครบตามที่สำนักสอน ควบคุมการจับและแนวอาวุธตั้งแต่เริ่มถึงท่าจบ นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Ката: Sai Ni",
+      "description": "На свободной площадке выполните полное ката Sai Ni, освоенное в своей школе, с подходящим учебным оружием. Контролируйте хват и траекторию оружия от начала до завершающей позиции. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Ката: Sai Ni",
+      "description": "На вільному майданчику виконайте повне ката Sai Ni, опановане у своїй школі, з відповідною навчальною зброєю. Контролюйте хват і траєкторію зброї від початку до завершальної позиції. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

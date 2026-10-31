@@ -1,0 +1,87 @@
+{
+  "id": "15.4",
+  "key": "mobility_squat_to_press_mobility",
+  "title": "Squat-to-Press Mobility",
+  "description": "Without added weight, squat within a controlled range, raise the arms overhead while keeping the chest lifted, then stand and lower arms. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "cyan",
+  "workoutType": "mobility",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "stepper",
+  "repeatCount": 12,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 2.3,
+    "moderate": 2.3,
+    "vigorous": 2.3,
+    "lightCode": "02101",
+    "moderateCode": "02101",
+    "vigorousCode": "02101"
+  },
+  "translations": {
+    "en": {
+      "title": "Squat-to-Press Mobility",
+      "description": "Without added weight, squat within a controlled range, raise the arms overhead while keeping the chest lifted, then stand and lower arms. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Sentadilla con extensión de brazos",
+      "description": "Sin peso añadido, baja en sentadilla controlada, eleva brazos sobre la cabeza manteniendo pecho alto y sube bajando brazos. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Agachamento com extensão dos braços",
+      "description": "Sem peso, agache em amplitude controlada, eleve braços acima da cabeça mantendo peito alto e levante baixando braços. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Squat avec bras au-dessus de la tête",
+      "description": "Sans charge, accroupissez-vous dans une amplitude contrôlée, levez les bras au-dessus de la tête, poitrine haute, puis relevez-vous et abaissez-les. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Kniebeuge mit Armstreckung",
+      "description": "Gehe ohne Zusatzgewicht kontrolliert in die Kniebeuge, hebe die Arme bei aufrechter Brust über Kopf und stehe auf, Arme absenken. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Squat con braccia in alto",
+      "description": "Senza carico, esegui squat controllato, alza le braccia sopra la testa con petto alto, poi alzati abbassandole. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "深蹲上举灵活性",
+      "description": "不加外部重量，受控下蹲并保持抬胸，双臂上举过头，再站起并放下双臂。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "スクワットからのアームリーチ",
+      "description": "重りなしで制御してしゃがみ、胸を起こして腕を頭上へ上げ、立って腕を下ろします。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "스쿼트 투 프레스 가동",
+      "description": "추가 무게 없이 통제된 범위로 스쿼트하고 가슴을 세워 팔을 머리 위로 올린 뒤 일어서며 내리세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "สควอตยกแขนเพื่อความคล่องตัว",
+      "description": "ไม่ใช้น้ำหนัก สควอตในช่วงควบคุม ยกแขนเหนือศีรษะอกตั้ง แล้วยืนลดแขน นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Присед с выведением рук вверх",
+      "description": "Без дополнительного веса выполните контролируемый присед, поднимите руки над головой с раскрытой грудью, затем встаньте и опустите руки. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Присід із виведенням рук угору",
+      "description": "Без додаткової ваги виконайте контрольований присід, підніміть руки над головою з розкритими грудьми, потім встаньте й опустіть руки. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

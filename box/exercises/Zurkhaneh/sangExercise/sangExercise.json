@@ -1,0 +1,88 @@
+{
+  "id": "115.2",
+  "key": "zurkhaneh_sang_exercise",
+  "title": "Sang Exercise",
+  "description": "Lying on the back, hold the sang shields by their handles and alternate controlled presses while rolling slightly to each side; avoid trapping the fingers. Enter the total external load used, in kilograms.",
+  "colorType": "purple",
+  "workoutType": "zurkhaneh",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "countAndWeight",
+  "initialValue": 8,
+  "initialValue2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Sang Exercise",
+      "description": "Lying on the back, hold the sang shields by their handles and alternate controlled presses while rolling slightly to each side; avoid trapping the fingers. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ejercicio con sang",
+      "description": "Tumbado boca arriba, sujeta las asas de los sang y alterna presses controlados girando ligeramente a cada lado; evita atrapar los dedos. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Exercício com sang",
+      "description": "Deitado de costas, segure as alças dos sang e alterne pressões controladas girando levemente para cada lado; evite prender os dedos. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Exercice avec sang",
+      "description": "Sur le dos, tenez les poignées des sang et alternez les poussées contrôlées en roulant légèrement sur les côtés ; évitez de coincer les doigts. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Sang-Übung",
+      "description": "Halte in Rückenlage die Sang-Schilde an den Griffen und drücke abwechselnd kontrolliert mit leichter Seitdrehung; klemme keine Finger ein. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Esercizio con sang",
+      "description": "Supino, afferra i sang dalle maniglie ed esegui spinte alternate controllate ruotando leggermente di lato; non schiacciare le dita. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "桑盾练习",
+      "description": "仰卧握住桑盾把手，身体轻微左右滚转并交替控制推起盾体，避免夹手指。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "サング運動",
+      "description": "仰向けでサングの取っ手を握り、左右に軽く体を傾けながら交互に押し上げ、指を挟まないようにします。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "상 운동",
+      "description": "누워 상 방패 손잡이를 잡고 몸을 좌우로 살짝 굴리며 번갈아 통제해서 밀어 올리되 손가락이 끼지 않게 하세요. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ฝึกด้วยซัง",
+      "description": "นอนหงายจับด้ามโล่ซัง กดขึ้นสลับอย่างควบคุมพร้อมกลิ้งตัวเล็กน้อยแต่ละข้าง ระวังหนีบนิ้ว กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Подъёмы щитов санг",
+      "description": "Лёжа на спине держите щиты санг за рукояти и поочерёдно выжимайте, слегка перекатываясь в стороны; не зажимайте пальцы. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Підйоми щитів санґ",
+      "description": "Лежачи на спині тримайте щити санґ за руків’я й почергово витискайте, злегка перекочуючись у боки; не затискайте пальці. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

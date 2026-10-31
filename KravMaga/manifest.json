@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "gray",
+    "folder": "KravMaga",
+    "id": "119",
+    "icon": "KravMaga/Icon.png",
+    "symbolName": "figure.martial.arts",
+    "title": "Krav Maga",
+    "workoutType": "kravMaga",
+    "translations": {
+      "en": {
+        "title": "Krav Maga"
+      },
+      "es": {
+        "title": "Krav magá"
+      },
+      "pt": {
+        "title": "Krav maga"
+      },
+      "fr": {
+        "title": "Krav-maga"
+      },
+      "de": {
+        "title": "Krav Maga"
+      },
+      "it": {
+        "title": "Krav maga"
+      },
+      "zh-Hans": {
+        "title": "马伽术"
+      },
+      "ja": {
+        "title": "クラヴマガ"
+      },
+      "ko": {
+        "title": "크라브마가"
+      },
+      "th": {
+        "title": "คราฟมากา"
+      },
+      "ru": {
+        "title": "Крав-мага"
+      },
+      "uk": {
+        "title": "Крав-мага"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "KravMaga/exercises/palmHeelStrikes/Icon.png",
+      "json": "KravMaga/exercises/palmHeelStrikes/palmHeelStrikes.json"
+    },
+    {
+      "icon": "KravMaga/exercises/hammerFistPadDrill/Icon.png",
+      "json": "KravMaga/exercises/hammerFistPadDrill/hammerFistPadDrill.json"
+    },
+    {
+      "icon": "KravMaga/exercises/frontChokeReleaseDrill/Icon.png",
+      "json": "KravMaga/exercises/frontChokeReleaseDrill/frontChokeReleaseDrill.json"
+    },
+    {
+      "icon": "KravMaga/exercises/rearChokeReleaseDrill/Icon.png",
+      "json": "KravMaga/exercises/rearChokeReleaseDrill/rearChokeReleaseDrill.json"
+    },
+    {
+      "icon": "KravMaga/exercises/sideChokeReleaseDrill/Icon.png",
+      "json": "KravMaga/exercises/sideChokeReleaseDrill/sideChokeReleaseDrill.json"
+    },
+    {
+      "icon": "KravMaga/exercises/frontBearHugReleaseDrill/Icon.png",
+      "json": "KravMaga/exercises/frontBearHugReleaseDrill/frontBearHugReleaseDrill.json"
+    },
+    {
+      "icon": "KravMaga/exercises/rearBearHugReleaseDrill/Icon.png",
+      "json": "KravMaga/exercises/rearBearHugReleaseDrill/rearBearHugReleaseDrill.json"
+    },
+    {
+      "icon": "KravMaga/exercises/trapBuckAndRoll/Icon.png",
+      "json": "KravMaga/exercises/trapBuckAndRoll/trapBuckAndRoll.json"
+    }
+  ]
+}

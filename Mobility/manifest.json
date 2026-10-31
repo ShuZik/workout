@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "cyan",
+    "folder": "Mobility",
+    "id": "15",
+    "icon": "Mobility/Icon.png",
+    "symbolName": "figure.flexibility",
+    "title": "Mobility",
+    "workoutType": "mobility",
+    "translations": {
+      "en": {
+        "title": "Mobility"
+      },
+      "es": {
+        "title": "Movilidad"
+      },
+      "pt": {
+        "title": "Mobilidade"
+      },
+      "fr": {
+        "title": "Mobilité"
+      },
+      "de": {
+        "title": "Mobilität"
+      },
+      "it": {
+        "title": "Mobilità"
+      },
+      "zh-Hans": {
+        "title": "灵活性"
+      },
+      "ja": {
+        "title": "モビリティ"
+      },
+      "ko": {
+        "title": "가동성"
+      },
+      "th": {
+        "title": "ความคล่องตัวของข้อต่อ"
+      },
+      "ru": {
+        "title": "Мобильность"
+      },
+      "uk": {
+        "title": "Мобільність"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Mobility/exercises/thoracicExtensionsOnFoamRoller/Icon.png",
+      "json": "Mobility/exercises/thoracicExtensionsOnFoamRoller/thoracicExtensionsOnFoamRoller.json"
+    },
+    {
+      "icon": "Mobility/exercises/spidermanRotation/Icon.png",
+      "json": "Mobility/exercises/spidermanRotation/spidermanRotation.json"
+    },
+    {
+      "icon": "Mobility/exercises/bandedHipFlexorFloss/Icon.png",
+      "json": "Mobility/exercises/bandedHipFlexorFloss/bandedHipFlexorFloss.json"
+    },
+    {
+      "icon": "Mobility/exercises/squatToPressMobility/Icon.png",
+      "json": "Mobility/exercises/squatToPressMobility/squatToPressMobility.json"
+    },
+    {
+      "icon": "Mobility/exercises/lateralLungeAndRotate/Icon.png",
+      "json": "Mobility/exercises/lateralLungeAndRotate/lateralLungeAndRotate.json"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "116.3",
+  "key": "sanda_sanda_kick_catch_drill",
+  "title": "Sanda Kick Catch Drill",
+  "description": "With a cooperative partner, receive a slow agreed body kick on the forearm, secure the leg briefly and release to reset without twisting the knee. One complete sequence counts as one action.",
+  "colorType": "red",
+  "workoutType": "sanda",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 7.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15457",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Sanda Kick Catch Drill",
+      "description": "With a cooperative partner, receive a slow agreed body kick on the forearm, secure the leg briefly and release to reset without twisting the knee. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Captura de patadas en sanda",
+      "description": "Con compañero cooperando, recibe una patada corporal lenta en el antebrazo, sujeta brevemente la pierna y suelta para reiniciar sin torcer la rodilla. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Captura de chutes no sanda",
+      "description": "Com parceiro colaborando, receba um chute lento no antebraço, segure a perna brevemente e solte sem torcer o joelho. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Saisie de jambe en sanda",
+      "description": "Avec un partenaire coopérant, recevez un coup de pied lent au corps sur l’avant-bras, saisissez brièvement la jambe puis relâchez sans tordre le genou. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Sanda-Tritt abfangen",
+      "description": "Fange beim kooperativen Partner einen langsamen Körpertritt am Unterarm ab, halte das Bein kurz und löse ohne Kniedrehung zum Neustart. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Presa del calcio nel sanda",
+      "description": "Con compagno collaborativo, ricevi un calcio lento al corpo sull’avambraccio, trattieni brevemente la gamba e rilascia senza torcere il ginocchio. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "散打接腿练习",
+      "description": "搭档缓慢踢向躯干，用前臂承接并短暂控制其腿，随后松开重置，不扭转膝关节。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "散打の蹴り取り",
+      "description": "相手のゆっくりした胴への蹴りを前腕で受け、脚を短く保持して膝をねじらず離し、再開します。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "산타 킥 캐치 훈련",
+      "description": "파트너의 느린 몸통 킥을 팔뚝으로 받고 다리를 잠깐 잡은 뒤 무릎을 비틀지 않고 풀어 재시작하세요. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ฝึกรับจับขาซานต่า",
+      "description": "กับคู่ซ้อมที่ร่วมมือ รับเตะลำตัวช้าด้วยท่อนแขน จับขาชั่วครู่แล้วปล่อยตั้งใหม่โดยไม่บิดเข่า นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Ловля ноги в санда",
+      "description": "С сотрудничающим партнёром примите медленный удар в корпус предплечьем, кратко зафиксируйте ногу и отпустите для возврата, не скручивая колено. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Ловіння ноги в саньда",
+      "description": "Із партнером, який співпрацює, прийміть повільний удар у корпус передпліччям, коротко зафіксуйте ногу й відпустіть для повернення, не скручуючи коліно. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

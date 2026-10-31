@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "tag": {
+    "colorType": "red",
+    "folder": "Sanda",
+    "id": "116",
+    "icon": "Sanda/Icon.png",
+    "symbolName": "figure.kickboxing",
+    "title": "Sanda",
+    "workoutType": "sanda",
+    "translations": {
+      "en": {
+        "title": "Sanda"
+      },
+      "es": {
+        "title": "Sanda"
+      },
+      "pt": {
+        "title": "Sanda"
+      },
+      "fr": {
+        "title": "Sanda"
+      },
+      "de": {
+        "title": "Sanda"
+      },
+      "it": {
+        "title": "Sanda"
+      },
+      "zh-Hans": {
+        "title": "散打"
+      },
+      "ja": {
+        "title": "散打"
+      },
+      "ko": {
+        "title": "산타"
+      },
+      "th": {
+        "title": "ซานต่า"
+      },
+      "ru": {
+        "title": "Санда"
+      },
+      "uk": {
+        "title": "Саньда"
+      }
+    }
+  },
+  "files": [
+    {
+      "icon": "Sanda/exercises/sandaPunchingPadRound/Icon.png",
+      "json": "Sanda/exercises/sandaPunchingPadRound/sandaPunchingPadRound.json"
+    },
+    {
+      "icon": "Sanda/exercises/sandaKickingShieldRound/Icon.png",
+      "json": "Sanda/exercises/sandaKickingShieldRound/sandaKickingShieldRound.json"
+    },
+    {
+      "icon": "Sanda/exercises/sandaKickCatchDrill/Icon.png",
+      "json": "Sanda/exercises/sandaKickCatchDrill/sandaKickCatchDrill.json"
+    },
+    {
+      "icon": "Sanda/exercises/sandaThrowingDrill/Icon.png",
+      "json": "Sanda/exercises/sandaThrowingDrill/sandaThrowingDrill.json"
+    },
+    {
+      "icon": "Sanda/exercises/sandaStrikeToThrowDrill/Icon.png",
+      "json": "Sanda/exercises/sandaStrikeToThrowDrill/sandaStrikeToThrowDrill.json"
+    },
+    {
+      "icon": "Sanda/exercises/sandaConditionedSparring/Icon.png",
+      "json": "Sanda/exercises/sandaConditionedSparring/sandaConditionedSparring.json"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "118.6",
+  "key": "jeet_kune_do_attack_by_drawing",
+  "title": "Attack by Drawing",
+  "description": "Offer an agreed opening to a cooperative partner, draw the expected response, then counter onto a pad and recover distance. One complete sequence counts as one action.",
+  "colorType": "orange",
+  "workoutType": "jeetKuneDo",
+  "difficulty": "intermediate",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "actionCount",
+  "repeatCount": 4,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "light",
+    "light": 5.3,
+    "moderate": 10.3,
+    "vigorous": 10.3,
+    "lightCode": "15425",
+    "moderateCode": "15430",
+    "vigorousCode": "15430"
+  },
+  "translations": {
+    "en": {
+      "title": "Attack by Drawing",
+      "description": "Offer an agreed opening to a cooperative partner, draw the expected response, then counter onto a pad and recover distance. One complete sequence counts as one action.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Ataque por provocación",
+      "description": "Ofrece una apertura acordada al compañero, provoca la respuesta prevista y contraataca a una pao recuperando distancia. Una secuencia completa cuenta como una acción.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Ataque por indução",
+      "description": "Ofereça abertura combinada ao parceiro, induza a resposta prevista e contra-ataque na aparadora recuperando distância. Uma sequência completa conta como uma ação.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Attaque par invitation",
+      "description": "Offrez une ouverture convenue au partenaire, provoquez la réponse attendue puis contre-attaquez sur une cible et reprenez la distance. Une séquence complète compte pour une action.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Angriff durch Verleiten",
+      "description": "Biete dem Partner eine vereinbarte Öffnung, locke die erwartete Reaktion und kontere zur Pratze; stelle den Abstand wieder her. Eine vollständige Folge zählt als eine Aktion.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Attacco per invito",
+      "description": "Offri un’apertura concordata al compagno, provoca la risposta prevista e contrattacca sul colpitore recuperando distanza. Una sequenza completa conta come un’azione.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "诱敌攻击",
+      "description": "向配合搭档提供约定空隙，诱发预期反应，再向手靶反击并恢复距离。 一套完整动作计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "誘いによる攻撃",
+      "description": "協力する相手に決めた隙を見せ、想定の反応を誘ってミットへ反撃し、間合いを戻します。 一連の動作を最後まで行って1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "유도 공격",
+      "description": "협조하는 파트너에게 정한 빈틈을 내줘 예상 반응을 유도하고 미트로 반격한 뒤 거리를 회복하세요. 전체 순서를 완료하면 동작 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "โจมตีโดยล่อให้ตอบสนอง",
+      "description": "เปิดช่องที่ตกลงให้คู่ซ้อม ล่อการตอบสนองที่คาด แล้วสวนบนเป้าและคืนระยะ นับการทำครบหนึ่งชุดเป็นหนึ่งการกระทำ",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Атака выманиванием",
+      "description": "Предложите партнёру согласованное открытие, вызовите ожидаемую реакцию, ответьте по лапе и восстановите дистанцию. Одна полная последовательность считается одним действием.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Атака виманюванням",
+      "description": "Запропонуйте партнеру узгоджене відкриття, викличте очікувану реакцію, дайте відповідь по лапі й відновіть дистанцію. Одна повна послідовність рахується як одна дія.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

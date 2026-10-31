@@ -1,0 +1,89 @@
+{
+  "id": "113.6",
+  "key": "hojo_undo_nigiri_game_hold",
+  "title": "Nigiri-game Hold",
+  "description": "Grip the jar rims with the fingers and stand tall with arms down; keep the jars clear of the thighs and lower them before grip fails. Enter the total external load used, in kilograms.",
+  "colorType": "red",
+  "workoutType": "hojoUndo",
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "timeAndWeight",
+  "durationSeconds": 20,
+  "state": "active",
+  "initialValue2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Nigiri-game Hold",
+      "description": "Grip the jar rims with the fingers and stand tall with arms down; keep the jars clear of the thighs and lower them before grip fails. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Sujeción de nigiri-game",
+      "description": "Agarra bordes de las vasijas con dedos y ponte erguido con brazos abajo; no apoyes en muslos y baja antes de perder el agarre. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Sustentação de nigiri-game",
+      "description": "Segure bordas dos vasos com dedos e fique ereto com braços baixos; não apoie nas coxas e baixe antes de perder a pegada. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Maintien des nigiri-game",
+      "description": "Saisissez les rebords avec les doigts, debout bras bas ; gardez les jarres loin des cuisses et posez-les avant de perdre la prise. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Nigiri-game-Halten",
+      "description": "Greife die Gefäßränder mit den Fingern und stehe aufrecht, Arme tief; halte die Gefäße frei von den Oberschenkeln und setze vor Griffversagen ab. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Tenuta dei nigiri-game",
+      "description": "Afferra i bordi dei vasi con le dita, stai eretto con braccia basse; non appoggiarli alle cosce e posa prima di perdere la presa. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "握瓮静止持握",
+      "description": "用手指抓住瓮口边缘，双臂下垂、身体直立，瓮不靠大腿，在握力失效前放下。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "握り甕保持",
+      "description": "指で甕の縁を握り腕を下ろして立ち、腿に預けず握力が尽きる前に下ろします。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "니기리가메 홀드",
+      "description": "손가락으로 항아리 테두리를 잡고 팔을 내린 채 서서 허벅지에 기대지 않으며 잡기가 풀리기 전에 내리세요. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "ถือไนกิริกาเมะค้าง",
+      "description": "ใช้นิ้วจับขอบไหยืนตรงแขนลง ให้ไหพ้นต้นขาและวางก่อนแรงจับหมด กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Удержание нигири-гамэ",
+      "description": "Удерживайте края кувшинов пальцами в прямой стойке с опущенными руками, не опирайте на бёдра и опустите до отказа хвата. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Утримання ніґірі-ґаме",
+      "description": "Тримайте краї глеків пальцями у прямій стійці з опущеними руками, не спирайте на стегна й опустіть до відмови хвату. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Тренування"
+    }
+  }
+}

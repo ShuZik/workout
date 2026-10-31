@@ -1,0 +1,87 @@
+{
+  "id": "13.129",
+  "key": "strength_close_grip_push_up_repetitions",
+  "title": "Close-Grip Push-Up",
+  "description": "Start in a high plank with hands just inside shoulder width. Bend your elbows close to your ribs, lower your chest, and press up while keeping your trunk steady. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3,
+    "moderate": 3.8,
+    "vigorous": 6.5,
+    "lightCode": "02056",
+    "moderateCode": "02022",
+    "vigorousCode": "02057"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Close-Grip Push-Up",
+      "description": "Start in a high plank with hands just inside shoulder width. Bend your elbows close to your ribs, lower your chest, and press up while keeping your trunk steady. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Flexión con agarre cerrado",
+      "description": "Empieza en plancha alta con las manos algo más juntas que los hombros. Mantén los codos cerca de las costillas, baja el pecho y sube sin mover el tronco. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Flexão com mãos próximas",
+      "description": "Comece em prancha alta com as mãos um pouco mais próximas que a largura dos ombros. Mantenha os cotovelos junto às costelas, abaixe o peito e suba com o tronco firme. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Pompe prise serrée",
+      "description": "Partez en planche haute, les mains légèrement plus rapprochées que les épaules. Gardez les coudes près des côtes, descendez la poitrine et repoussez en stabilisant le tronc. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Enge Liegestütze",
+      "description": "Beginne im hohen Stütz mit den Händen etwas enger als schulterbreit. Halte die Ellbogen nah am Rumpf, senke die Brust und drücke dich mit stabilem Rumpf hoch. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Piegamento a presa stretta",
+      "description": "Parti in plank alto con le mani poco più strette delle spalle. Tieni i gomiti vicini alle costole, abbassa il petto e risali mantenendo il tronco stabile. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "窄距俯卧撑",
+      "description": "从高位平板支撑开始，双手间距略小于肩宽。屈肘时让肘部靠近肋骨，下降胸部，再保持躯干稳定推起。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ナロープッシュアップ",
+      "description": "肩幅より少し狭く手を置き、ハイプランクになります。肘を脇に沿わせて胸を下げ、体幹を安定させたまま押し上げます。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "좁은 손 간격 푸시업",
+      "description": "손을 어깨너비보다 조금 좁게 두고 하이 플랭크를 취하세요. 팔꿈치를 갈비뼈 가까이 유지하며 가슴을 내리고 몸통을 고정한 채 밀어 올리세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "วิดพื้นมือแคบ",
+      "description": "เริ่มในท่าแพลงก์สูงโดยวางมือแคบกว่าหัวไหล่เล็กน้อย งอศอกชิดซี่โครง ลดหน้าอกแล้วดันขึ้นโดยรักษาลำตัวให้นิ่ง นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Отжимание с узкой постановкой рук",
+      "description": "Начните в высокой планке, поставив руки чуть уже плеч. Держите локти у рёбер, опустите грудь и выжмите себя вверх с неподвижным корпусом. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Віджимання з вузькою постановкою рук",
+      "description": "Почніть у високій планці, поставивши руки трохи вужче плечей. Тримайте лікті біля ребер, опустіть груди та підніміться зі стабільним корпусом. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "repeatCount": 12
+}
