@@ -1,0 +1,87 @@
+{
+  "id": "11.60",
+  "key": "cardio_airbike_calorie_target",
+  "title": "AirBike Calorie Target",
+  "description": "Adjust the saddle, place feet securely on pedals and coordinate pedalling with pushing and pulling the moving handles; read the calorie target on the console. Finish at the calorie target shown by the machine console; this is not the app’s estimated energy expenditure.",
+  "colorType": "green",
+  "workoutType": "cardio",
+  "valueType": "calories",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 6,
+    "vigorous": 10.3,
+    "lightCode": "01210",
+    "moderateCode": "01220",
+    "vigorousCode": "01232"
+  },
+  "difficulty": "basic",
+  "section": "3 Indoor",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "AirBike Calorie Target",
+      "description": "Adjust the saddle, place feet securely on pedals and coordinate pedalling with pushing and pulling the moving handles; read the calorie target on the console. Finish at the calorie target shown by the machine console; this is not the app’s estimated energy expenditure.",
+      "sectionTitle": "Indoor"
+    },
+    "es": {
+      "title": "AirBike por calorías",
+      "description": "Ajusta sillín, asegura pies en pedales y coordina pedaleo con empuje y tracción de asas móviles; lee calorías en consola. Termina al alcanzar las calorías de la consola; no es la estimación de gasto de la aplicación.",
+      "sectionTitle": "En interior"
+    },
+    "pt": {
+      "title": "AirBike por calorias",
+      "description": "Ajuste selim, firme pés nos pedais e coordene pedalada com empurrar e puxar alças móveis; leia calorias no painel. Termine ao atingir as calorias do painel; não é a estimativa de gasto do aplicativo.",
+      "sectionTitle": "Em ambiente interno"
+    },
+    "fr": {
+      "title": "Objectif calorique sur AirBike",
+      "description": "Réglez la selle, placez les pieds sur les pédales et coordonnez pédalage et poussée-traction des poignées ; lisez les calories à la console. Arrêtez-vous à l’objectif calorique de la console ; il diffère de la dépense estimée par l’application.",
+      "sectionTitle": "En intérieur"
+    },
+    "de": {
+      "title": "AirBike-Kalorienziel",
+      "description": "Stelle den Sattel ein, setze die Füße sicher auf die Pedale und koordiniere Treten mit Drücken und Ziehen der beweglichen Griffe; lies das Kalorienziel ab. Beende beim Kalorienziel auf der Gerätekonsole; es ist nicht der geschätzte Energieverbrauch der App.",
+      "sectionTitle": "In Innenräumen"
+    },
+    "it": {
+      "title": "AirBike a calorie",
+      "description": "Regola la sella, sistema i piedi sui pedali e coordina pedalata e spinta-trazione delle maniglie mobili; leggi il target sulla console. Termina al target calorico della console, distinto dal consumo stimato dall’app.",
+      "sectionTitle": "Al chiuso"
+    },
+    "zh-Hans": {
+      "title": "风阻单车卡路里目标",
+      "description": "调好坐垫、双脚稳放踏板，将踩踏与活动把手的推拉协调起来，从控制台读取卡路里目标。 以器械控制台显示的卡路里目标为准；该数值不同于应用估算的能量消耗。",
+      "sectionTitle": "室内"
+    },
+    "ja": {
+      "title": "エアバイクカロリー目標",
+      "description": "サドルを合わせ足をペダルに置き、ペダリングとハンドルの押し引きを合わせ、コンソールのカロリーを確認します。 機器のコンソールのカロリー目標で終了します。アプリの推定消費量とは別の値です。",
+      "sectionTitle": "屋内"
+    },
+    "ko": {
+      "title": "에어바이크 칼로리 목표",
+      "description": "안장을 맞추고 발을 페달에 안정시켜 페달링과 움직이는 손잡이 밀고 당기기를 맞추며 콘솔 목표를 확인하세요. 기기 콘솔의 칼로리 목표에 도달하면 마칩니다. 앱의 예상 에너지 소모량과는 다릅니다.",
+      "sectionTitle": "실내"
+    },
+    "th": {
+      "title": "แอร์ไบค์เป้าหมายแคลอรี",
+      "description": "ปรับเบาะ วางเท้ามั่นบนบันได ประสานปั่นกับดันดึงด้ามเคลื่อน อ่านเป้าแคลอรีบนจอ จบเมื่อถึงเป้าหมายแคลอรีบนหน้าจอเครื่อง ซึ่งไม่ใช่ค่าพลังงานที่แอปประมาณ",
+      "sectionTitle": "ในร่ม"
+    },
+    "ru": {
+      "title": "AirBike на калории",
+      "description": "Отрегулируйте седло, устойчиво поставьте стопы на педали и согласуйте вращение с толканием и тягой подвижных рукоятей; цель калорий смотрите на консоли. Завершайте по цели калорий на консоли тренажёра; это не оценка расхода энергии приложением.",
+      "sectionTitle": "В помещении"
+    },
+    "uk": {
+      "title": "AirBike на калорії",
+      "description": "Відрегулюйте сідло, стійко поставте стопи на педалі й узгодьте обертання зі штовханням і тягою рухомих руків’їв; ціль калорій дивіться на консолі. Завершуйте за ціллю калорій на консолі тренажера; це не оцінка витрат енергії застосунком.",
+      "sectionTitle": "У приміщенні"
+    }
+  },
+  "initialValue": 20
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "productID": "yoga",
-  "minimumAppVersion": "1.1.7",
+  "minimumAppVersion": "1.1.12",
   "tags": [
     {
       "colorType": "red",
@@ -235,6 +235,100 @@
         },
         "uk": {
           "title": "Відпочинок"
+        }
+      }
+    },
+    {
+      "colorType": "blue",
+      "folder": "WarmUp",
+      "id": "9",
+      "icon": "Yoga/exercises/WarmUp/Icon.png",
+      "symbolName": "figure.jumprope",
+      "title": "Warm-up",
+      "workoutType": "warmUp",
+      "translations": {
+        "en": {
+          "title": "Warm-up"
+        },
+        "es": {
+          "title": "Calentamiento"
+        },
+        "pt": {
+          "title": "Aquecimento"
+        },
+        "fr": {
+          "title": "Échauffement"
+        },
+        "de": {
+          "title": "Aufwärmen"
+        },
+        "it": {
+          "title": "Riscaldamento"
+        },
+        "zh-Hans": {
+          "title": "热身"
+        },
+        "ja": {
+          "title": "ウォームアップ"
+        },
+        "ko": {
+          "title": "준비 운동"
+        },
+        "th": {
+          "title": "อบอุ่นร่างกาย"
+        },
+        "ru": {
+          "title": "Разминка"
+        },
+        "uk": {
+          "title": "Розминка"
+        }
+      }
+    },
+    {
+      "colorType": "indigo",
+      "folder": "CoreTraining",
+      "id": "14",
+      "icon": "Yoga/exercises/CoreTraining/Icon.png",
+      "symbolName": "figure.strengthtraining.functional",
+      "title": "Core",
+      "workoutType": "coreTraining",
+      "translations": {
+        "en": {
+          "title": "Core"
+        },
+        "es": {
+          "title": "Zona media"
+        },
+        "pt": {
+          "title": "Core"
+        },
+        "fr": {
+          "title": "Sangle abdominale"
+        },
+        "de": {
+          "title": "Rumpf"
+        },
+        "it": {
+          "title": "Core"
+        },
+        "zh-Hans": {
+          "title": "核心训练"
+        },
+        "ja": {
+          "title": "体幹"
+        },
+        "ko": {
+          "title": "코어"
+        },
+        "th": {
+          "title": "แกนกลางลำตัว"
+        },
+        "ru": {
+          "title": "Корпус"
+        },
+        "uk": {
+          "title": "Корпус"
         }
       }
     },
@@ -518,6 +612,178 @@
     {
       "json": "Yoga/exercises/Cooldown/standingSideStretch/standingSideStretch.json",
       "icon": "Yoga/exercises/Cooldown/standingSideStretch/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/lowLunge/lowLunge.json",
+      "icon": "Yoga/exercises/Yoga/lowLunge/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/halfSplit/halfSplit.json",
+      "icon": "Yoga/exercises/Yoga/halfSplit/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/boundAnglePose/boundAnglePose.json",
+      "icon": "Yoga/exercises/Yoga/boundAnglePose/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/reclinedFigureFour/reclinedFigureFour.json",
+      "icon": "Yoga/exercises/Yoga/reclinedFigureFour/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/happyBaby/happyBaby.json",
+      "icon": "Yoga/exercises/Yoga/happyBaby/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/threadTheNeedle/threadTheNeedle.json",
+      "icon": "Yoga/exercises/Yoga/threadTheNeedle/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/puppyPose/puppyPose.json",
+      "icon": "Yoga/exercises/Yoga/puppyPose/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/gatePose/gatePose.json",
+      "icon": "Yoga/exercises/Yoga/gatePose/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/seatedSideBend/seatedSideBend.json",
+      "icon": "Yoga/exercises/Yoga/seatedSideBend/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/reclinedSpinalTwist/reclinedSpinalTwist.json",
+      "icon": "Yoga/exercises/Yoga/reclinedSpinalTwist/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/reclinedLegStretchWithStrap/reclinedLegStretchWithStrap.json",
+      "icon": "Yoga/exercises/Yoga/reclinedLegStretchWithStrap/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/legsUpTheWall/legsUpTheWall.json",
+      "icon": "Yoga/exercises/Yoga/legsUpTheWall/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/supportedFish/supportedFish.json",
+      "icon": "Yoga/exercises/Yoga/supportedFish/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/locustPose/locustPose.json",
+      "icon": "Yoga/exercises/Yoga/locustPose/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/sphinxPose/sphinxPose.json",
+      "icon": "Yoga/exercises/Yoga/sphinxPose/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/eagleArms/eagleArms.json",
+      "icon": "Yoga/exercises/Yoga/eagleArms/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/garlandPose/garlandPose.json",
+      "icon": "Yoga/exercises/Yoga/garlandPose/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/halfLordOfTheFishes/halfLordOfTheFishes.json",
+      "icon": "Yoga/exercises/Yoga/halfLordOfTheFishes/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/standingForwardFold/standingForwardFold.json",
+      "icon": "Yoga/exercises/Yoga/standingForwardFold/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/halfLift/halfLift.json",
+      "icon": "Yoga/exercises/Yoga/halfLift/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/trianglePose/trianglePose.json",
+      "icon": "Yoga/exercises/Yoga/trianglePose/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/extendedSideAngle/extendedSideAngle.json",
+      "icon": "Yoga/exercises/Yoga/extendedSideAngle/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/reverseWarrior/reverseWarrior.json",
+      "icon": "Yoga/exercises/Yoga/reverseWarrior/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/warriorThree/warriorThree.json",
+      "icon": "Yoga/exercises/Yoga/warriorThree/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/armCirclesRepetitions/armCirclesRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/armCirclesRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/neckMobilityRepetitions/neckMobilityRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/neckMobilityRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/shoulderCirclesRepetitions/shoulderCirclesRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/shoulderCirclesRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/handOpenCloseRepetitions/handOpenCloseRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/handOpenCloseRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/ankleCirclesRepetitions/ankleCirclesRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/ankleCirclesRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/hipCirclesRepetitions/hipCirclesRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/hipCirclesRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/wristCirclesRepetitions/wristCirclesRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/wristCirclesRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/WarmUp/thoracicRotationsRepetitions/thoracicRotationsRepetitions.json",
+      "icon": "Yoga/exercises/WarmUp/thoracicRotationsRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/sidePlankHipLiftRepetitions/sidePlankHipLiftRepetitions.json",
+      "icon": "Yoga/exercises/CoreTraining/sidePlankHipLiftRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/plankShoulderTapRepetitions/plankShoulderTapRepetitions.json",
+      "icon": "Yoga/exercises/CoreTraining/plankShoulderTapRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/sidePlankReachThroughRepetitions/sidePlankReachThroughRepetitions.json",
+      "icon": "Yoga/exercises/CoreTraining/sidePlankReachThroughRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/plank/plank.json",
+      "icon": "Yoga/exercises/CoreTraining/plank/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/sidePlank/sidePlank.json",
+      "icon": "Yoga/exercises/CoreTraining/sidePlank/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/deadBugRepetitions/deadBugRepetitions.json",
+      "icon": "Yoga/exercises/CoreTraining/deadBugRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/birdDogRepetitions/birdDogRepetitions.json",
+      "icon": "Yoga/exercises/CoreTraining/birdDogRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/CoreTraining/hollowHold/hollowHold.json",
+      "icon": "Yoga/exercises/CoreTraining/hollowHold/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/catCowRepetitions/catCowRepetitions.json",
+      "icon": "Yoga/exercises/Yoga/catCowRepetitions/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/dynamicBridge/dynamicBridge.json",
+      "icon": "Yoga/exercises/Yoga/dynamicBridge/Icon.png"
+    },
+    {
+      "json": "Yoga/exercises/Yoga/modifiedSunSalutation/modifiedSunSalutation.json",
+      "icon": "Yoga/exercises/Yoga/modifiedSunSalutation/Icon.png"
     }
   ],
   "workouts": [

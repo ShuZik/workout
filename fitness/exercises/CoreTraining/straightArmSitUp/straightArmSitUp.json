@@ -1,0 +1,87 @@
+{
+  "id": "14.45",
+  "key": "core_training_straight_arm_sit_up",
+  "title": "Straight-Arm Sit-Up",
+  "description": "Lie on the back with knees bent and arms reaching upward; curl into sitting while keeping arms straight, then lower slowly. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Straight-Arm Sit-Up",
+      "description": "Lie on the back with knees bent and arms reaching upward; curl into sitting while keeping arms straight, then lower slowly. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Abdominal con brazos extendidos",
+      "description": "Túmbate con rodillas flexionadas y brazos hacia arriba; incorpórate manteniendo brazos rectos y baja despacio. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Abdominal com braços estendidos",
+      "description": "Deite com joelhos dobrados e braços para cima; sente mantendo os braços retos e desça devagar. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Redressement assis bras tendus",
+      "description": "Allongez-vous, genoux fléchis et bras vers le haut ; redressez-vous assis, bras tendus, puis redescendez lentement. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Sit-up mit gestreckten Armen",
+      "description": "Liege mit gebeugten Knien und nach oben gestreckten Armen; rolle zum Sitzen auf und senke langsam, Arme weiter gestreckt. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Sit-up a braccia tese",
+      "description": "Sdraiati con ginocchia piegate e braccia verso l’alto; sali seduto mantenendo le braccia tese e scendi lentamente. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "直臂仰卧起坐",
+      "description": "仰卧屈膝，双臂向上伸直；保持直臂卷起至坐姿，再缓慢下放。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ストレートアームシットアップ",
+      "description": "仰向けで膝を曲げ、腕を上に伸ばしたまま起き上がり、ゆっくり下ろします。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "팔 편 싯업",
+      "description": "무릎을 굽혀 누워 팔을 위로 뻗고 팔을 편 채 앉아 올라왔다 천천히 내려가세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ซิตอัปแขนเหยียด",
+      "description": "นอนหงายงอเข่า เหยียดแขนขึ้น ม้วนตัวนั่งโดยแขนตรง แล้วค่อยลดลง นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Подъём корпуса с прямыми руками",
+      "description": "Лягте на спину с согнутыми коленями и вытянутыми вверх руками; поднимите корпус до седа, сохраняя руки прямыми, и медленно опуститесь. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Підйом корпуса з прямими руками",
+      "description": "Ляжте на спину із зігнутими колінами й витягнутими вгору руками; підніміть корпус до сіду, зберігаючи руки прямими, і повільно опустіться. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "База"
+    }
+  },
+  "repeatCount": 12
+}

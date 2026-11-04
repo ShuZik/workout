@@ -1,0 +1,87 @@
+{
+  "id": "14.51",
+  "key": "core_training_side_plank_reach_through_repetitions",
+  "title": "Side Plank Reach-Through",
+  "description": "Hold a side plank with your elbow under your shoulder. Reach the upper arm beneath your torso, then rotate your chest open without dropping your hips; switch sides. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "basic",
+  "section": "2 Base",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Side Plank Reach-Through",
+      "description": "Hold a side plank with your elbow under your shoulder. Reach the upper arm beneath your torso, then rotate your chest open without dropping your hips; switch sides. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Rotación en plancha lateral",
+      "description": "Mantén una plancha lateral con el codo bajo el hombro. Pasa el brazo superior bajo el torso y abre el pecho sin bajar las caderas; cambia de lado. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Rotação em prancha lateral",
+      "description": "Mantenha a prancha lateral com o cotovelo sob o ombro. Passe o braço de cima por baixo do tronco e gire abrindo o peito sem baixar o quadril; troque o lado. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Rotation en planche latérale",
+      "description": "Tenez une planche latérale, coude sous l’épaule. Passez le bras supérieur sous le buste puis ouvrez la poitrine sans abaisser les hanches; changez de côté. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Rotation im Seitstütz",
+      "description": "Halte den Seitstütz mit dem Ellbogen unter der Schulter. Führe den oberen Arm unter den Rumpf und drehe die Brust wieder auf, ohne die Hüfte zu senken; wechsle die Seite. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Rotazione in plank laterale",
+      "description": "Mantieni il plank laterale con il gomito sotto la spalla. Passa il braccio superiore sotto il busto, poi apri il petto senza abbassare il bacino; cambia lato. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "侧平板穿臂旋转",
+      "description": "保持侧平板支撑，肘部位于肩部下方。上侧手臂穿过躯干下方，再转动胸部打开身体，不要让髋部下沉；换侧进行。 一次完整动作计为一次。单侧练习请每侧完成目标次数。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "サイドプランクリーチスルー",
+      "description": "肘を肩の下に置いてサイドプランクを保ちます。上の腕を体の下へ通し、腰を落とさず胸を開くように回転して戻し、反対側も行います。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "사이드 플랭크 회전",
+      "description": "팔꿈치를 어깨 아래에 두고 사이드 플랭크를 유지하세요. 위쪽 팔을 몸통 아래로 뻗은 뒤 엉덩이를 내리지 않고 가슴을 열며 돌아오고 반대쪽도 하세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ไซด์แพลงก์สอดแขน",
+      "description": "ค้างไซด์แพลงก์โดยวางศอกใต้ไหล่ สอดแขนข้างบนใต้ลำตัวแล้วหมุนเปิดหน้าอกโดยไม่ลดสะโพก จากนั้นสลับข้าง นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Поворот в боковой планке",
+      "description": "Удерживайте боковую планку с локтем под плечом. Проведите верхнюю руку под корпусом, затем раскройте грудь поворотом, не опуская таз; смените сторону. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Поворот у бічній планці",
+      "description": "Утримуйте бічну планку з ліктем під плечем. Проведіть верхню руку під корпусом, потім розкрийте груди поворотом, не опускаючи таз; змініть бік. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік.",
+      "sectionTitle": "База"
+    }
+  },
+  "repeatCount": 12
+}

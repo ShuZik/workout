@@ -1,0 +1,88 @@
+{
+  "id": "23.41",
+  "key": "cross_training_sandbag_to_shoulder",
+  "title": "Sandbag to Shoulder",
+  "description": "Lift the bag from the floor close to the body, extend hips and guide it onto one shoulder; lower under control and alternate shoulders. Enter the total external load used, in kilograms.",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "difficulty": "intermediate",
+  "section": "5 Mixed Load",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "valueType": "countAndWeight",
+  "initialValue": 6,
+  "initialValue2": 10,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Sandbag to Shoulder",
+      "description": "Lift the bag from the floor close to the body, extend hips and guide it onto one shoulder; lower under control and alternate shoulders. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Mixed Load"
+    },
+    "es": {
+      "title": "Saco al hombro",
+      "description": "Levanta el saco del suelo cerca del cuerpo, extiende caderas y guíalo a un hombro; baja con control y alterna. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Carga mixta"
+    },
+    "pt": {
+      "title": "Saco de areia ao ombro",
+      "description": "Levante o saco do chão junto ao corpo, estenda quadris e guie para um ombro; baixe com controle e alterne. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Carga mista"
+    },
+    "fr": {
+      "title": "Sac de sable à l’épaule",
+      "description": "Soulevez le sac près du corps, étendez les hanches et guidez-le sur une épaule ; redescendez sous contrôle et alternez. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Charge mixte"
+    },
+    "de": {
+      "title": "Sandsack auf die Schulter",
+      "description": "Hebe den Sack körpernah vom Boden, strecke die Hüfte und führe ihn auf eine Schulter; senke kontrolliert und wechsle die Schulter. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Gemischte Lasten"
+    },
+    "it": {
+      "title": "Sandbag alla spalla",
+      "description": "Solleva il sacco vicino al corpo, estendi le anche e guidalo su una spalla; abbassa controllando e alterna. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Carico misto"
+    },
+    "zh-Hans": {
+      "title": "沙袋上肩",
+      "description": "从地面贴身提起沙袋，伸髋将其引导至一侧肩上，控制放下并换肩。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "混合负重"
+    },
+    "ja": {
+      "title": "サンドバッグ・トゥ・ショルダー",
+      "description": "床から体に近づけて袋を持ち上げ、股関節を伸ばして片肩に導き、制御して下ろして交代します。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "ミックス負荷"
+    },
+    "ko": {
+      "title": "샌드백 투 숄더",
+      "description": "샌드백을 몸 가까이 바닥에서 들어 골반을 펴며 한 어깨로 유도하고 통제해 내린 뒤 교대하세요. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "혼합 부하"
+    },
+    "th": {
+      "title": "ยกกระสอบขึ้นไหล่",
+      "description": "ยกกระสอบจากพื้นชิดตัว เหยียดสะโพกนำขึ้นไหล่ ลดอย่างควบคุมและสลับไหล่ กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "น้ำหนักผสม"
+    },
+    "ru": {
+      "title": "Подъём мешка на плечо",
+      "description": "Поднимите мешок с пола близко к корпусу, разогните таз и направьте на плечо, контролируемо опустите и чередуйте плечи. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Смешанная нагрузка"
+    },
+    "uk": {
+      "title": "Підйом мішка на плече",
+      "description": "Підніміть мішок із підлоги близько до корпуса, розігніть таз і спрямуйте на плече, контрольовано опустіть та чергуйте плечі. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Змішане навантаження"
+    }
+  }
+}

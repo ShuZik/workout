@@ -1,0 +1,87 @@
+{
+  "id": "13.139",
+  "key": "strength_dumbbell_concentration_curl",
+  "title": "Dumbbell Concentration Curl",
+  "description": "Sit with feet wide and support the upper arm against the inner thigh. Curl the dumbbell without moving the shoulder, then lower fully; switch sides. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "section": "6 Isolation",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "initialValue": 12,
+  "initialValue2": 2,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Dumbbell Concentration Curl",
+      "description": "Sit with feet wide and support the upper arm against the inner thigh. Curl the dumbbell without moving the shoulder, then lower fully; switch sides. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+      "sectionTitle": "Isolation"
+    },
+    "es": {
+      "title": "Curl concentrado con mancuerna",
+      "description": "Siéntate con pies separados y apoya el brazo contra el muslo interno. Flexiona sin mover el hombro, baja por completo y cambia de lado. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado. El peso corresponde a una mancuerna.",
+      "sectionTitle": "Aislamiento"
+    },
+    "pt": {
+      "title": "Rosca concentrada com halter",
+      "description": "Sente com pés afastados e apoie o braço na parte interna da coxa. Flexione sem mover o ombro, desça totalmente e troque de lado. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado. O peso é de um halter.",
+      "sectionTitle": "Isolamento"
+    },
+    "fr": {
+      "title": "Curl concentré avec haltère",
+      "description": "Assis pieds écartés, appuyez le haut du bras contre l’intérieur de la cuisse. Fléchissez sans bouger l’épaule, descendez complètement puis changez de côté. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté. Le poids correspond à un haltère.",
+      "sectionTitle": "Isolation"
+    },
+    "de": {
+      "title": "Konzentrationscurl",
+      "description": "Sitze breit und stütze den Oberarm an der Oberschenkelinnenseite. Beuge ohne Schulterbewegung, senke vollständig und wechsle die Seite. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite. Das Gewicht gilt für eine Kurzhantel.",
+      "sectionTitle": "Isolation"
+    },
+    "it": {
+      "title": "Curl di concentrazione",
+      "description": "Siediti a piedi larghi e appoggia il braccio alla coscia interna. Fletti senza muovere la spalla, abbassa completamente e cambia lato. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato. Il peso si riferisce a un manubrio.",
+      "sectionTitle": "Isolamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃集中弯举",
+      "description": "坐姿双脚分开，上臂靠大腿内侧，肩部不动地屈肘举起哑铃，再完整下放并换侧。 一次完整动作计为一次。单侧练习请每侧完成目标次数。 重量为单只哑铃的重量。",
+      "sectionTitle": "孤立训练"
+    },
+    "ja": {
+      "title": "コンセントレーションカール",
+      "description": "足を開いて座り、上腕を内腿に当て、肩を動かさず曲げて十分下ろし、左右を替えます。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。 重量はダンベル1個分です。",
+      "sectionTitle": "アイソレーション"
+    },
+    "ko": {
+      "title": "덤벨 컨센트레이션 컬",
+      "description": "발을 벌려 앉아 위팔을 허벅지 안쪽에 대고 어깨를 움직이지 않으며 굽혔다 완전히 내리고 교대하세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요. 무게는 덤벨 하나의 중량입니다.",
+      "sectionTitle": "고립 운동"
+    },
+    "th": {
+      "title": "คอนเซนเทรชันเคิร์ล",
+      "description": "นั่งเท้ากว้างยันต้นแขนกับต้นขาด้านใน งอแขนโดยไหล่ไม่ขยับ ลดเต็มแล้วสลับข้าง นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง น้ำหนักระบุสำหรับดัมเบลหนึ่งอัน",
+      "sectionTitle": "ฝึกแยกกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Концентрированное сгибание с гантелью",
+      "description": "Сидя с широко поставленными стопами уприте плечо во внутреннюю сторону бедра; сгибайте руку без движения плечевого сустава, полностью опускайте и меняйте сторону. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону. Вес указан для одной гантели.",
+      "sectionTitle": "Изолирующие упражнения"
+    },
+    "uk": {
+      "title": "Концентроване згинання з гантелею",
+      "description": "Сидячи з широко поставленими стопами упріть плече у внутрішній бік стегна; згинайте руку без руху плечового суглоба, повністю опускайте й змінюйте бік. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік. Вага вказана для однієї гантелі.",
+      "sectionTitle": "Ізолювальні вправи"
+    }
+  }
+}

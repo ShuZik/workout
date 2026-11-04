@@ -1,0 +1,89 @@
+{
+  "id": "14.29",
+  "key": "core_training_farmer_hold",
+  "title": "Farmer’s Hold",
+  "description": "Hold a dumbbell in each hand at your sides, stand tall and keep your shoulders level without shrugging or leaning. Breathe steadily for the selected time, then lower the weights under control; enter the combined weight of both dumbbells.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "timeAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 3.5,
+    "vigorous": 3.5,
+    "lightCode": "02054",
+    "moderateCode": "02054",
+    "vigorousCode": "02054"
+  },
+  "difficulty": "intermediate",
+  "section": "2 Base",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Farmer’s Hold",
+      "description": "Hold a dumbbell in each hand at your sides, stand tall and keep your shoulders level without shrugging or leaning. Breathe steadily for the selected time, then lower the weights under control; enter the combined weight of both dumbbells.",
+      "sectionTitle": "Base"
+    },
+    "es": {
+      "title": "Sujeción del granjero",
+      "description": "Sujeta una mancuerna en cada mano a los lados, mantén el cuerpo erguido y los hombros nivelados sin encogerlos ni inclinarte. Respira con regularidad durante el tiempo elegido y baja las pesas con control; introduce el peso total de ambas mancuernas.",
+      "sectionTitle": "Base"
+    },
+    "pt": {
+      "title": "Sustentação do fazendeiro",
+      "description": "Segure um halter em cada mão ao lado do corpo, fique ereto e mantenha os ombros nivelados, sem encolher nem inclinar o tronco. Respire de forma constante pelo tempo escolhido e baixe os pesos com controle; informe o peso total dos dois halteres.",
+      "sectionTitle": "Base"
+    },
+    "fr": {
+      "title": "Maintien du fermier",
+      "description": "Tenez un haltère dans chaque main le long du corps, restez droit et gardez les épaules de niveau sans les hausser ni vous pencher. Respirez régulièrement pendant le temps choisi, puis reposez les poids avec contrôle ; indiquez le poids total des deux haltères.",
+      "sectionTitle": "Base"
+    },
+    "de": {
+      "title": "Farmer’s Hold",
+      "description": "Halte in jeder Hand eine Kurzhantel neben dem Körper, stehe aufrecht und halte die Schultern gerade, ohne sie hochzuziehen oder dich zu neigen. Atme während der gewählten Zeit gleichmäßig und setze die Gewichte kontrolliert ab; trage das Gesamtgewicht beider Hanteln ein.",
+      "sectionTitle": "Basis"
+    },
+    "it": {
+      "title": "Tenuta del contadino",
+      "description": "Tieni un manubrio per mano lungo i fianchi, resta eretto e mantieni le spalle alla stessa altezza senza sollevarle né inclinarti. Respira regolarmente per il tempo scelto, poi appoggia i pesi con controllo; inserisci il peso totale dei due manubri.",
+      "sectionTitle": "Base"
+    },
+    "zh-Hans": {
+      "title": "农夫静态持握",
+      "description": "双手各握一只哑铃放于身体两侧，身体直立，双肩保持水平，不耸肩、不侧倾。在设定时间内平稳呼吸，随后控制着放下哑铃；重量填写两只哑铃的总重量。",
+      "sectionTitle": "基础"
+    },
+    "ja": {
+      "title": "ファーマーズホールド",
+      "description": "両手にダンベルを1個ずつ持って体の横に下げ、上体を起こして肩を水平に保ちます。肩をすくめたり体を傾けたりせず、設定時間中は呼吸を続けてください。ゆっくり下ろし、重量は2個の合計を入力します。",
+      "sectionTitle": "基礎"
+    },
+    "ko": {
+      "title": "파머스 홀드",
+      "description": "양손에 덤벨을 하나씩 들고 몸 옆에 둔 채 똑바로 서세요. 어깨를 으쓱하거나 몸을 기울이지 말고 어깨 높이를 유지하세요. 정해진 시간 동안 고르게 호흡한 뒤 천천히 내려놓고 중량은 두 덤벨의 합계로 입력하세요.",
+      "sectionTitle": "기초"
+    },
+    "th": {
+      "title": "ยืนถือดัมเบลข้างลำตัว",
+      "description": "ถือดัมเบลข้างละหนึ่งอันข้างลำตัว ยืนตรง รักษาระดับไหล่โดยไม่ยักไหล่หรือเอียงตัว หายใจสม่ำเสมอตามเวลาที่เลือก แล้ววางน้ำหนักลงอย่างควบคุม ระบุน้ำหนักรวมของดัมเบลทั้งสองอัน",
+      "sectionTitle": "พื้นฐาน"
+    },
+    "ru": {
+      "title": "Удержание гантелей стоя",
+      "description": "Держите по гантели в каждой руке вдоль тела, стойте прямо и сохраняйте плечи на одном уровне, не поднимая их и не наклоняясь. Ровно дышите в течение выбранного времени, затем плавно опустите гантели; указывайте их суммарный вес.",
+      "sectionTitle": "База"
+    },
+    "uk": {
+      "title": "Утримання гантелей стоячи",
+      "description": "Тримайте по гантелі в кожній руці вздовж тіла, стійте прямо й зберігайте плечі на одному рівні, не піднімаючи їх і не нахиляючись. Рівно дихайте протягом обраного часу, потім плавно опустіть гантелі; зазначайте їхню загальну вагу.",
+      "sectionTitle": "База"
+    }
+  },
+  "durationSeconds": 30,
+  "initialValue2": 20,
+  "state": "active"
+}

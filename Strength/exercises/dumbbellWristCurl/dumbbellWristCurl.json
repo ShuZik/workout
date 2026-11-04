@@ -1,0 +1,87 @@
+{
+  "id": "13.144",
+  "key": "strength_dumbbell_wrist_curl",
+  "title": "Dumbbell Wrist Curl",
+  "description": "Support the forearm palm-up on the thigh with the hand over the edge. Curl only at the wrist through a comfortable range and lower slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "section": "6 Isolation",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "initialValue": 12,
+  "initialValue2": 1,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Dumbbell Wrist Curl",
+      "description": "Support the forearm palm-up on the thigh with the hand over the edge. Curl only at the wrist through a comfortable range and lower slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+      "sectionTitle": "Isolation"
+    },
+    "es": {
+      "title": "Flexión de muñeca con mancuerna",
+      "description": "Apoya antebrazo palma arriba en muslo con mano fuera. Flexiona solo muñeca en rango cómodo y baja despacio. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado. El peso corresponde a una mancuerna.",
+      "sectionTitle": "Aislamiento"
+    },
+    "pt": {
+      "title": "Flexão de punho com halter",
+      "description": "Apoie antebraço palma acima na coxa com mão fora. Flexione só o punho em amplitude confortável e baixe devagar. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado. O peso é de um halter.",
+      "sectionTitle": "Isolamento"
+    },
+    "fr": {
+      "title": "Flexion du poignet avec haltère",
+      "description": "Appuyez l’avant-bras paume en haut sur la cuisse, main dépassant le bord. Fléchissez seulement le poignet sans forcer et descendez lentement. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté. Le poids correspond à un haltère.",
+      "sectionTitle": "Isolation"
+    },
+    "de": {
+      "title": "Handgelenkcurl",
+      "description": "Stütze den Unterarm mit Handfläche nach oben auf dem Oberschenkel, Hand über dem Rand. Beuge nur das Handgelenk angenehm weit und senke langsam. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite. Das Gewicht gilt für eine Kurzhantel.",
+      "sectionTitle": "Isolation"
+    },
+    "it": {
+      "title": "Flessione del polso con manubrio",
+      "description": "Appoggia l’avambraccio col palmo in alto sulla coscia, mano oltre il bordo. Fletti solo il polso entro un arco comodo e abbassa lentamente. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato. Il peso si riferisce a un manubrio.",
+      "sectionTitle": "Isolamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃腕弯举",
+      "description": "前臂掌心向上撑在大腿上，手越出边缘，仅在舒适范围屈腕，再缓慢下放。 一次完整动作计为一次。单侧练习请每侧完成目标次数。 重量为单只哑铃的重量。",
+      "sectionTitle": "孤立训练"
+    },
+    "ja": {
+      "title": "ダンベルリストカール",
+      "description": "前腕を腿に置き手のひらを上にし、手を縁から出して手首だけ無理なく曲げ、ゆっくり下ろします。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。 重量はダンベル1個分です。",
+      "sectionTitle": "アイソレーション"
+    },
+    "ko": {
+      "title": "덤벨 리스트 컬",
+      "description": "손바닥이 위로 향하게 팔뚝을 허벅지에 대고 손을 끝 밖으로 내밀어 손목만 편안히 굽혔다 천천히 내리세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요. 무게는 덤벨 하나의 중량입니다.",
+      "sectionTitle": "고립 운동"
+    },
+    "th": {
+      "title": "งอข้อมือดัมเบล",
+      "description": "วางท่อนแขนฝ่ามือขึ้นบนต้นขามือพ้นขอบ งอเฉพาะข้อมือช่วงสบายแล้วลดช้า นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง น้ำหนักระบุสำหรับดัมเบลหนึ่งอัน",
+      "sectionTitle": "ฝึกแยกกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Сгибание кисти с гантелью",
+      "description": "Предплечье ладонью вверх положите на бедро, кисть за краем; сгибайте только запястье в комфортной амплитуде и медленно опускайте. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону. Вес указан для одной гантели.",
+      "sectionTitle": "Изолирующие упражнения"
+    },
+    "uk": {
+      "title": "Згинання кисті з гантелею",
+      "description": "Передпліччя долонею вгору покладіть на стегно, кисть за краєм; згинайте лише зап’ясток у комфортній амплітуді й повільно опускайте. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік. Вага вказана для однієї гантелі.",
+      "sectionTitle": "Ізолювальні вправи"
+    }
+  }
+}

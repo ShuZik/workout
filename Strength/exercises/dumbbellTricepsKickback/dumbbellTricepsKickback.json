@@ -1,0 +1,87 @@
+{
+  "id": "13.140",
+  "key": "strength_dumbbell_triceps_kickback",
+  "title": "Dumbbell Triceps Kickback",
+  "description": "Hinge forward with the back stable and support yourself with the free hand. Keep the upper arm beside the trunk, extend the elbow backward and bend it slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "section": "6 Isolation",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "initialValue": 12,
+  "initialValue2": 2,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Dumbbell Triceps Kickback",
+      "description": "Hinge forward with the back stable and support yourself with the free hand. Keep the upper arm beside the trunk, extend the elbow backward and bend it slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+      "sectionTitle": "Isolation"
+    },
+    "es": {
+      "title": "Extensión de tríceps hacia atrás",
+      "description": "Inclina el tronco estable y apóyate con la mano libre. Mantén el brazo junto al cuerpo, extiende el codo atrás y flexiona despacio. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado. El peso corresponde a una mancuerna.",
+      "sectionTitle": "Aislamiento"
+    },
+    "pt": {
+      "title": "Coice de tríceps com halter",
+      "description": "Incline o tronco estável apoiando a mão livre. Mantenha o braço junto ao corpo, estenda o cotovelo atrás e flexione devagar. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado. O peso é de um halter.",
+      "sectionTitle": "Isolamento"
+    },
+    "fr": {
+      "title": "Extension triceps en arrière",
+      "description": "Inclinez le buste stable en appui sur la main libre. Gardez le haut du bras près du tronc, tendez le coude en arrière et repliez lentement. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté. Le poids correspond à un haltère.",
+      "sectionTitle": "Isolation"
+    },
+    "de": {
+      "title": "Trizeps-Kickback",
+      "description": "Beuge dich mit stabilem Rücken vor und stütze die freie Hand. Halte den Oberarm am Rumpf, strecke den Ellenbogen nach hinten und beuge langsam. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite. Das Gewicht gilt für eine Kurzhantel.",
+      "sectionTitle": "Isolation"
+    },
+    "it": {
+      "title": "Kickback per tricipiti",
+      "description": "Inclina il busto stabile sostenendoti con la mano libera. Tieni il braccio accanto al tronco, estendi il gomito indietro e piega lentamente. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato. Il peso si riferisce a un manubrio.",
+      "sectionTitle": "Isolamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃后伸臂",
+      "description": "屈髋保持背部稳定，自由手支撑；上臂贴近躯干，向后伸肘，再缓慢屈肘。 一次完整动作计为一次。单侧练习请每侧完成目标次数。 重量为单只哑铃的重量。",
+      "sectionTitle": "孤立训练"
+    },
+    "ja": {
+      "title": "トライセプスキックバック",
+      "description": "背中を安定させて前傾し、空いている手で支えます。上腕を体側に保ち、肘を後ろへ伸ばしてゆっくり曲げます。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。 重量はダンベル1個分です。",
+      "sectionTitle": "アイソレーション"
+    },
+    "ko": {
+      "title": "덤벨 트라이셉스 킥백",
+      "description": "허리를 안정시켜 숙이고 빈손을 짚으세요. 위팔을 몸통 옆에 고정하고 팔꿈치를 뒤로 폈다 천천히 굽히세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요. 무게는 덤벨 하나의 중량입니다.",
+      "sectionTitle": "고립 운동"
+    },
+    "th": {
+      "title": "ไตรเซปส์คิกแบ็ก",
+      "description": "พับสะโพกหลังมั่นคงใช้มือว่างยัน ต้นแขนข้างตัว เหยียดศอกไปหลังแล้วงอช้า นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง น้ำหนักระบุสำหรับดัมเบลหนึ่งอัน",
+      "sectionTitle": "ฝึกแยกกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Разгибание руки назад с гантелью",
+      "description": "Наклонитесь с ровной спиной и опорой свободной рукой; держите плечо у корпуса, разгибайте локоть назад и медленно сгибайте. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону. Вес указан для одной гантели.",
+      "sectionTitle": "Изолирующие упражнения"
+    },
+    "uk": {
+      "title": "Розгинання руки назад із гантелею",
+      "description": "Нахиліться з рівною спиною й опорою вільною рукою; тримайте плече біля корпуса, розгинайте лікоть назад і повільно згинайте. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік. Вага вказана для однієї гантелі.",
+      "sectionTitle": "Ізолювальні вправи"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "13.154",
+  "key": "strength_dumbbell_shrug",
+  "title": "Dumbbell Shrug",
+  "description": "Stand with dumbbells at the sides and arms straight. Lift the shoulders toward the ears without rolling them or tilting the head, then lower slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "section": "6 Isolation",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "initialValue": 12,
+  "initialValue2": 2,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Dumbbell Shrug",
+      "description": "Stand with dumbbells at the sides and arms straight. Lift the shoulders toward the ears without rolling them or tilting the head, then lower slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+      "sectionTitle": "Isolation"
+    },
+    "es": {
+      "title": "Encogimiento de hombros con mancuernas",
+      "description": "De pie con mancuernas a los lados y brazos rectos, eleva hombros hacia orejas sin girarlos ni inclinar cabeza y baja despacio. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado. El peso corresponde a una mancuerna.",
+      "sectionTitle": "Aislamiento"
+    },
+    "pt": {
+      "title": "Encolhimento com halteres",
+      "description": "Em pé com halteres aos lados e braços retos, eleve ombros às orelhas sem rodá-los nem inclinar cabeça e baixe devagar. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado. O peso é de um halter.",
+      "sectionTitle": "Isolamento"
+    },
+    "fr": {
+      "title": "Haussement d’épaules avec haltères",
+      "description": "Debout, haltères aux côtés et bras tendus, montez les épaules vers les oreilles sans rouler ni incliner la tête, puis baissez lentement. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté. Le poids correspond à un haltère.",
+      "sectionTitle": "Isolation"
+    },
+    "de": {
+      "title": "Kurzhantel-Schulterheben",
+      "description": "Stehe mit Hanteln seitlich und geraden Armen. Hebe die Schultern zu den Ohren ohne Kreisen oder Kopfneigung und senke langsam. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite. Das Gewicht gilt für eine Kurzhantel.",
+      "sectionTitle": "Isolation"
+    },
+    "it": {
+      "title": "Scrollate con manubri",
+      "description": "In piedi con manubri ai lati e braccia tese, solleva spalle alle orecchie senza ruotarle o inclinare la testa e abbassa lentamente. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato. Il peso si riferisce a un manubrio.",
+      "sectionTitle": "Isolamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃耸肩",
+      "description": "站立、哑铃在体侧、手臂伸直，双肩向耳朵提起，不绕肩或歪头，再缓慢放下。 一次完整动作计为一次。单侧练习请每侧完成目标次数。 重量为单只哑铃的重量。",
+      "sectionTitle": "孤立训练"
+    },
+    "ja": {
+      "title": "ダンベルシュラッグ",
+      "description": "腕を伸ばして体側に持ち、肩を回さず頭を傾けず耳に近づけて上げ、ゆっくり下ろします。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。 重量はダンベル1個分です。",
+      "sectionTitle": "アイソレーション"
+    },
+    "ko": {
+      "title": "덤벨 슈러그",
+      "description": "덤벨을 옆에 들고 팔을 편 채 서서 어깨를 돌리거나 고개를 기울이지 않고 귀 쪽으로 올렸다 천천히 내리세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요. 무게는 덤벨 하나의 중량입니다.",
+      "sectionTitle": "고립 운동"
+    },
+    "th": {
+      "title": "ยักไหล่ดัมเบล",
+      "description": "ยืนถือดัมเบลข้างตัวแขนตรง ยกไหล่หาใบหูไม่หมุนหรือเอียงศีรษะแล้วลดช้า นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง น้ำหนักระบุสำหรับดัมเบลหนึ่งอัน",
+      "sectionTitle": "ฝึกแยกกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Подъём плеч с гантелями",
+      "description": "Стоя с гантелями по бокам и прямыми руками поднимайте плечи к ушам без круговых движений и наклона головы, затем медленно опускайте. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону. Вес указан для одной гантели.",
+      "sectionTitle": "Изолирующие упражнения"
+    },
+    "uk": {
+      "title": "Піднімання плечей із гантелями",
+      "description": "Стоячи з гантелями з боків і прямими руками піднімайте плечі до вух без колових рухів і нахилу голови, потім повільно опускайте. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік. Вага вказана для однієї гантелі.",
+      "sectionTitle": "Ізолювальні вправи"
+    }
+  }
+}

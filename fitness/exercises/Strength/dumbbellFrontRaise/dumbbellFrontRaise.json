@@ -1,0 +1,87 @@
+{
+  "id": "13.141",
+  "key": "strength_dumbbell_front_raise",
+  "title": "Dumbbell Front Raise",
+  "description": "Stand without leaning back. Raise the dumbbells forward to shoulder height with soft elbows, then lower without momentum. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "section": "6 Isolation",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "initialValue": 12,
+  "initialValue2": 2,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Dumbbell Front Raise",
+      "description": "Stand without leaning back. Raise the dumbbells forward to shoulder height with soft elbows, then lower without momentum. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+      "sectionTitle": "Isolation"
+    },
+    "es": {
+      "title": "Elevación frontal con mancuernas",
+      "description": "De pie sin inclinarte atrás, eleva mancuernas delante hasta hombros con codos suaves y baja sin impulso. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado. El peso corresponde a una mancuerna.",
+      "sectionTitle": "Aislamiento"
+    },
+    "pt": {
+      "title": "Elevação frontal com halteres",
+      "description": "Em pé sem inclinar atrás, eleve halteres à frente até ombros com cotovelos suaves e baixe sem embalo. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado. O peso é de um halter.",
+      "sectionTitle": "Isolamento"
+    },
+    "fr": {
+      "title": "Élévation frontale avec haltères",
+      "description": "Debout sans cambrer, montez les haltères devant à hauteur d’épaules, coudes souples, puis baissez sans élan. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté. Le poids correspond à un haltère.",
+      "sectionTitle": "Isolation"
+    },
+    "de": {
+      "title": "Kurzhantel-Frontheben",
+      "description": "Stehe ohne Rücklage, hebe die Hanteln mit weichen Ellenbogen vorn auf Schulterhöhe und senke ohne Schwung. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite. Das Gewicht gilt für eine Kurzhantel.",
+      "sectionTitle": "Isolation"
+    },
+    "it": {
+      "title": "Alzata frontale con manubri",
+      "description": "In piedi senza inclinarti indietro, alza i manubri davanti fino alle spalle con gomiti morbidi e abbassa senza slancio. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato. Il peso si riferisce a un manubrio.",
+      "sectionTitle": "Isolamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃前平举",
+      "description": "直立不后仰，肘部微屈，将哑铃向前举至肩高，再无惯性下放。 一次完整动作计为一次。单侧练习请每侧完成目标次数。 重量为单只哑铃的重量。",
+      "sectionTitle": "孤立训练"
+    },
+    "ja": {
+      "title": "ダンベルフロントレイズ",
+      "description": "後ろに反らず立ち、肘を緩めて前方へ肩の高さまで上げ、反動なく下ろします。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。 重量はダンベル1個分です。",
+      "sectionTitle": "アイソレーション"
+    },
+    "ko": {
+      "title": "덤벨 프런트 레이즈",
+      "description": "뒤로 젖히지 않고 서서 팔꿈치를 부드럽게 해 덤벨을 앞으로 어깨 높이까지 들었다 반동 없이 내리세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요. 무게는 덤벨 하나의 중량입니다.",
+      "sectionTitle": "고립 운동"
+    },
+    "th": {
+      "title": "ยกดัมเบลด้านหน้า",
+      "description": "ยืนไม่เอนหลัง ยกดัมเบลไปหน้าระดับไหล่ศอกผ่อน แล้วลดไม่เหวี่ยง นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง น้ำหนักระบุสำหรับดัมเบลหนึ่งอัน",
+      "sectionTitle": "ฝึกแยกกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Подъём гантелей перед собой",
+      "description": "Стоя без отклонения назад поднимайте гантели вперёд до плеч с мягкими локтями, опускайте без маха. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону. Вес указан для одной гантели.",
+      "sectionTitle": "Изолирующие упражнения"
+    },
+    "uk": {
+      "title": "Підйом гантелей перед собою",
+      "description": "Стоячи без відхилення назад піднімайте гантелі вперед до плечей із м’якими ліктями, опускайте без маху. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік. Вага вказана для однієї гантелі.",
+      "sectionTitle": "Ізолювальні вправи"
+    }
+  }
+}

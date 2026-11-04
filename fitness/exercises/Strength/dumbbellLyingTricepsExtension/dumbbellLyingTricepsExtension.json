@@ -1,0 +1,87 @@
+{
+  "id": "13.143",
+  "key": "strength_dumbbell_lying_triceps_extension",
+  "title": "Lying Dumbbell Triceps Extension",
+  "description": "Lie on a bench holding the dumbbells above the shoulders. Keep the upper arms steady, bend the elbows to lower beside the head, then extend without flaring. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "section": "6 Isolation",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "initialValue": 12,
+  "initialValue2": 2,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Lying Dumbbell Triceps Extension",
+      "description": "Lie on a bench holding the dumbbells above the shoulders. Keep the upper arms steady, bend the elbows to lower beside the head, then extend without flaring. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+      "sectionTitle": "Isolation"
+    },
+    "es": {
+      "title": "Extensión de tríceps tumbado",
+      "description": "Túmbate en banco con mancuernas sobre hombros. Fija brazos, dobla codos para bajar junto a cabeza y extiende sin abrirlos. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado. El peso corresponde a una mancuerna.",
+      "sectionTitle": "Aislamiento"
+    },
+    "pt": {
+      "title": "Extensão de tríceps deitado",
+      "description": "Deite no banco com halteres acima dos ombros. Firme braços, dobre cotovelos para baixar ao lado da cabeça e estenda sem abri-los. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado. O peso é de um halter.",
+      "sectionTitle": "Isolamento"
+    },
+    "fr": {
+      "title": "Extension triceps allongé",
+      "description": "Allongé sur un banc, haltères au-dessus des épaules, gardez les bras fixes, pliez les coudes vers les côtés de la tête puis tendez sans les écarter. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté. Le poids correspond à un haltère.",
+      "sectionTitle": "Isolation"
+    },
+    "de": {
+      "title": "Liegendes Trizepsstrecken",
+      "description": "Liege auf einer Bank mit Hanteln über den Schultern. Halte die Oberarme still, beuge die Ellenbogen neben den Kopf und strecke ohne Ausweichen. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite. Das Gewicht gilt für eine Kurzhantel.",
+      "sectionTitle": "Isolation"
+    },
+    "it": {
+      "title": "Estensione tricipiti da sdraiato",
+      "description": "Sdraiato su panca con manubri sopra le spalle, tieni ferme le braccia, piega i gomiti vicino alla testa e stendi senza allargarli. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato. Il peso si riferisce a un manubrio.",
+      "sectionTitle": "Isolamento"
+    },
+    "zh-Hans": {
+      "title": "仰卧哑铃臂屈伸",
+      "description": "仰卧长凳，哑铃举至肩上方；稳定上臂，屈肘降至头两侧，再伸肘不外展。 一次完整动作计为一次。单侧练习请每侧完成目标次数。 重量为单只哑铃的重量。",
+      "sectionTitle": "孤立训练"
+    },
+    "ja": {
+      "title": "ライイングトライセプスエクステンション",
+      "description": "ベンチに仰向けで肩の上に重りを持ち、上腕を固定して頭の横へ肘を曲げ、開かず伸ばします。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。 重量はダンベル1個分です。",
+      "sectionTitle": "アイソレーション"
+    },
+    "ko": {
+      "title": "라잉 덤벨 트라이셉스 익스텐션",
+      "description": "벤치에 누워 어깨 위에 덤벨을 들고 위팔을 고정해 머리 옆으로 팔꿈치를 굽혔다 벌어지지 않게 펴세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요. 무게는 덤벨 하나의 중량입니다.",
+      "sectionTitle": "고립 운동"
+    },
+    "th": {
+      "title": "เหยียดไตรเซปส์ท่านอน",
+      "description": "นอนบนม้านั่งถือดัมเบลเหนือไหล่ ต้นแขนนิ่ง งอศอกข้างศีรษะแล้วเหยียดไม่กาง นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง น้ำหนักระบุสำหรับดัมเบลหนึ่งอัน",
+      "sectionTitle": "ฝึกแยกกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Разгибание рук с гантелями лёжа",
+      "description": "Лёжа на скамье держите гантели над плечами; фиксируйте плечи, сгибайте локти к бокам головы и разгибайте без разведения. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону. Вес указан для одной гантели.",
+      "sectionTitle": "Изолирующие упражнения"
+    },
+    "uk": {
+      "title": "Розгинання рук із гантелями лежачи",
+      "description": "Лежачи на лаві тримайте гантелі над плечима; фіксуйте плечі, згинайте лікті до боків голови й розгинайте без розведення. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік. Вага вказана для однієї гантелі.",
+      "sectionTitle": "Ізолювальні вправи"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "13.138",
+  "key": "strength_dumbbell_hammer_curl",
+  "title": "Dumbbell Hammer Curl",
+  "description": "Stand tall with palms facing each other. Keep elbows beside the ribs, curl without swinging, and lower slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "section": "6 Isolation",
+  "availableFrom": "1.1.12",
+  "availableUntil": null,
+  "initialValue": 12,
+  "initialValue2": 2,
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "translations": {
+    "en": {
+      "title": "Dumbbell Hammer Curl",
+      "description": "Stand tall with palms facing each other. Keep elbows beside the ribs, curl without swinging, and lower slowly. Count one complete movement as one repetition. For one-sided exercises, complete the target on each side. The weight is for one dumbbell.",
+      "sectionTitle": "Isolation"
+    },
+    "es": {
+      "title": "Curl martillo con mancuernas",
+      "description": "De pie con palmas enfrentadas, mantén codos junto a las costillas, flexiona sin balancear y baja despacio. Cuenta un movimiento completo como una repetición. En ejercicios unilaterales, completa el objetivo por cada lado. El peso corresponde a una mancuerna.",
+      "sectionTitle": "Aislamiento"
+    },
+    "pt": {
+      "title": "Rosca martelo com halteres",
+      "description": "Em pé com palmas voltadas entre si, mantenha cotovelos junto às costelas, flexione sem balanço e desça devagar. Conte um movimento completo como uma repetição. Em exercícios unilaterais, complete a meta de cada lado. O peso é de um halter.",
+      "sectionTitle": "Isolamento"
+    },
+    "fr": {
+      "title": "Curl marteau avec haltères",
+      "description": "Debout, paumes face à face, gardez les coudes près des côtes, fléchissez sans élan puis descendez lentement. Comptez un mouvement complet pour une répétition. Pour un exercice unilatéral, réalisez l’objectif de chaque côté. Le poids correspond à un haltère.",
+      "sectionTitle": "Isolation"
+    },
+    "de": {
+      "title": "Kurzhantel-Hammercurl",
+      "description": "Stehe aufrecht, Handflächen zueinander. Halte die Ellenbogen an den Rippen, beuge ohne Schwung und senke langsam. Eine vollständige Bewegung zählt als eine Wiederholung. Bei einseitigen Übungen gilt das Ziel je Seite. Das Gewicht gilt für eine Kurzhantel.",
+      "sectionTitle": "Isolation"
+    },
+    "it": {
+      "title": "Curl a martello con manubri",
+      "description": "In piedi con palmi rivolti tra loro, tieni i gomiti vicino alle costole, fletti senza slancio e scendi lentamente. Conta un movimento completo come una ripetizione. Negli esercizi unilaterali completa l’obiettivo per lato. Il peso si riferisce a un manubrio.",
+      "sectionTitle": "Isolamento"
+    },
+    "zh-Hans": {
+      "title": "哑铃锤式弯举",
+      "description": "直立、双掌相对，肘部贴近肋侧，无摆动屈肘上举，再缓慢下放。 一次完整动作计为一次。单侧练习请每侧完成目标次数。 重量为单只哑铃的重量。",
+      "sectionTitle": "孤立训练"
+    },
+    "ja": {
+      "title": "ダンベルハンマーカール",
+      "description": "手のひらを向かい合わせて立ち、肘を体側に保ち、反動なく曲げてゆっくり下ろします。 一連の動作を1回と数え、片側ずつ行う運動は左右それぞれ目標回数を行います。 重量はダンベル1個分です。",
+      "sectionTitle": "アイソレーション"
+    },
+    "ko": {
+      "title": "덤벨 해머 컬",
+      "description": "손바닥을 마주 보게 서서 팔꿈치를 옆구리에 두고 반동 없이 굽혔다 천천히 내리세요. 완전한 동작을 1회로 세고 한쪽씩 하는 운동은 양쪽 각각 목표를 수행하세요. 무게는 덤벨 하나의 중량입니다.",
+      "sectionTitle": "고립 운동"
+    },
+    "th": {
+      "title": "ดัมเบลแฮมเมอร์เคิร์ล",
+      "description": "ยืนตรงฝ่ามือหากัน ศอกข้างซี่โครง งอไม่เหวี่ยงแล้วลดช้า นับการเคลื่อนไหวครบเป็นหนึ่งครั้ง ท่าทีละข้างให้ทำเป้าหมายต่อข้าง น้ำหนักระบุสำหรับดัมเบลหนึ่งอัน",
+      "sectionTitle": "ฝึกแยกกล้ามเนื้อ"
+    },
+    "ru": {
+      "title": "Сгибания молотком с гантелями",
+      "description": "Встаньте прямо ладонями друг к другу, удерживайте локти у рёбер, сгибайте руки без раскачки и медленно опускайте. Одно полное движение — одно повторение. В односторонних упражнениях выполняйте цель на каждую сторону. Вес указан для одной гантели.",
+      "sectionTitle": "Изолирующие упражнения"
+    },
+    "uk": {
+      "title": "Згинання молотком із гантелями",
+      "description": "Станьте прямо долонями одна до одної, тримайте лікті біля ребер, згинайте руки без розгойдування й повільно опускайте. Один повний рух — одне повторення. В однобічних вправах виконуйте ціль на кожен бік. Вага вказана для однієї гантелі.",
+      "sectionTitle": "Ізолювальні вправи"
+    }
+  }
+}

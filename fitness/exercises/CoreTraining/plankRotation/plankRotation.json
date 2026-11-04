@@ -1,0 +1,87 @@
+{
+  "id": "14.48",
+  "key": "core_training_plank_rotation",
+  "title": "Plank Rotation",
+  "description": "From high plank, pivot onto one hand and the sides of the feet, open the chest and raise the free arm, then return and alternate. Count one complete movement returning to the starting position as one repetition.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "stepper",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 2.8,
+    "moderate": 3.8,
+    "vigorous": 7.5,
+    "lightCode": "02024",
+    "moderateCode": "02022",
+    "vigorousCode": "02020"
+  },
+  "difficulty": "intermediate",
+  "section": "3 Intermediate",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Plank Rotation",
+      "description": "From high plank, pivot onto one hand and the sides of the feet, open the chest and raise the free arm, then return and alternate. Count one complete movement returning to the starting position as one repetition.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Rotación en plancha",
+      "description": "Desde plancha alta, pivota sobre una mano y bordes de pies, abre pecho y eleva el brazo libre; vuelve y alterna. Cuenta como una repetición un movimiento completo que vuelve a la posición inicial.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Rotação na prancha",
+      "description": "Da prancha alta, gire sobre uma mão e laterais dos pés, abra o peito e eleve o braço livre; retorne e alterne. Conte como uma repetição um movimento completo que volta à posição inicial.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Rotation en planche",
+      "description": "En planche haute, pivotez sur une main et les bords des pieds, ouvrez la poitrine et levez le bras libre ; revenez et alternez. Comptez une répétition pour un mouvement complet avec retour à la position initiale.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "Plank-Rotation",
+      "description": "Drehe aus dem hohen Stütz auf eine Hand und die Fußseiten, öffne die Brust und hebe den freien Arm; kehre zurück und wechsle. Eine vollständige Bewegung mit Rückkehr in die Ausgangsposition zählt als eine Wiederholung.",
+      "sectionTitle": "Mittelstufe"
+    },
+    "it": {
+      "title": "Rotazione in plank",
+      "description": "Dal plank alto, ruota su una mano e sui lati dei piedi, apri il petto e alza il braccio libero; torna e alterna. Conta come una ripetizione un movimento completo con ritorno alla posizione iniziale.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "平板转体",
+      "description": "从高平板转至一手和双脚侧缘支撑，打开胸部、举起自由臂，再返回并交替。 完成一次动作并回到起始姿势计为一次。",
+      "sectionTitle": "中级"
+    },
+    "ja": {
+      "title": "プランクローテーション",
+      "description": "ハイプランクから片手と足の側面に回り、胸を開いて反対腕を上げ、戻って交代します。 開始姿勢に戻るまでの一連の動作を1回と数えます。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "플랭크 로테이션",
+      "description": "하이 플랭크에서 한 손과 발 옆면으로 돌아 가슴을 열고 자유 팔을 든 뒤 돌아와 교대하세요. 시작 자세로 돌아오는 완전한 동작을 1회로 셉니다.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "แพลงก์หมุนตัว",
+      "description": "จากแพลงก์สูง หมุนบนมือข้างหนึ่งและขอบเท้า เปิดอกยกแขนอิสระ แล้วกลับสลับข้าง นับการเคลื่อนไหวครบหนึ่งรอบจนกลับสู่ท่าเริ่มต้นเป็นหนึ่งครั้ง",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Развороты в планке",
+      "description": "Из высокой планки развернитесь на одну руку и боковые поверхности стоп, раскройте грудь и поднимите свободную руку, вернитесь и смените сторону. Одно полное движение с возвращением в исходную позицию считайте одним повторением.",
+      "sectionTitle": "Средний уровень"
+    },
+    "uk": {
+      "title": "Розвороти в планці",
+      "description": "Із високої планки розверніться на одну руку та бічні поверхні стоп, розкрийте груди й підніміть вільну руку, поверніться та змініть бік. Один повний рух із поверненням у вихідну позицію рахуйте як одне повторення.",
+      "sectionTitle": "Середній рівень"
+    }
+  },
+  "repeatCount": 12
+}

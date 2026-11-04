@@ -1,0 +1,88 @@
+{
+  "id": "13.136",
+  "key": "strength_landmine_shoulder_press",
+  "title": "Landmine Shoulder Press",
+  "description": "Secure one bar end in a landmine socket. Press the free end forward and upward from shoulder height, keeping ribs down; lower and repeat per side. Enter the total external load used, in kilograms.",
+  "colorType": "purple",
+  "workoutType": "strength",
+  "valueType": "countAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "basic",
+  "section": "2 Training",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Landmine Shoulder Press",
+      "description": "Secure one bar end in a landmine socket. Press the free end forward and upward from shoulder height, keeping ribs down; lower and repeat per side. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Training"
+    },
+    "es": {
+      "title": "Press de hombro landmine",
+      "description": "Fija un extremo en un soporte landmine. Empuja el extremo libre adelante y arriba desde el hombro sin abrir costillas; baja y repite por lado. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Entrenamiento"
+    },
+    "pt": {
+      "title": "Desenvolvimento landmine",
+      "description": "Fixe uma ponta no suporte landmine. Empurre a ponta livre à frente e acima do ombro sem abrir costelas; baixe e repita por lado. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Treino"
+    },
+    "fr": {
+      "title": "Développé landmine",
+      "description": "Fixez une extrémité dans le support landmine. Poussez l’autre vers l’avant et le haut depuis l’épaule, côtes basses ; redescendez, puis changez de côté. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Entraînement"
+    },
+    "de": {
+      "title": "Landmine-Schulterdrücken",
+      "description": "Fixiere ein Stangenende im Landmine-Gelenk. Drücke das freie Ende von der Schulter nach vorn oben, ohne die Rippen aufzurichten; senke und übe je Seite. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Training"
+    },
+    "it": {
+      "title": "Press landmine",
+      "description": "Fissa un’estremità nel supporto landmine. Spingi l’altra avanti e in alto dalla spalla, coste basse; abbassa e ripeti per lato. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Allenamento"
+    },
+    "zh-Hans": {
+      "title": "地雷管推举",
+      "description": "将杠铃一端固定在地雷管底座，另一端从肩高向前上推，保持肋骨下收，控制下放，每侧练习。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "训练"
+    },
+    "ja": {
+      "title": "ランドマインプレス",
+      "description": "バーの一端を固定し、肩の高さから前上方へ押します。肋骨を開かず下ろし、左右それぞれ行います。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "トレーニング"
+    },
+    "ko": {
+      "title": "랜드마인 숄더 프레스",
+      "description": "바 한쪽을 랜드마인에 고정하고 다른 쪽을 어깨에서 앞위로 밀며 갈비뼈를 내린 채 내리고 양쪽 수행하세요. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "훈련"
+    },
+    "th": {
+      "title": "กดไหล่แลนด์ไมน์",
+      "description": "ยึดปลายบาร์ในฐานแลนด์ไมน์ กดปลายอิสระจากระดับไหล่ไปหน้าและขึ้น เก็บซี่โครง ลดแล้วทำต่อข้าง กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "การฝึก"
+    },
+    "ru": {
+      "title": "Жим с закреплённым концом грифа",
+      "description": "Закрепите конец грифа в лэндмайн-опоре. Жмите свободный конец от плеча вперёд-вверх, не выпячивая рёбра; опускайте и повторяйте на каждую сторону. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Тренировка"
+    },
+    "uk": {
+      "title": "Жим із закріпленим кінцем грифа",
+      "description": "Закріпіть кінець грифа в лендмайн-опорі. Тисніть вільний кінець від плеча вперед-угору, не випинаючи ребра; опускайте й повторюйте на кожен бік. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Тренування"
+    }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
+}

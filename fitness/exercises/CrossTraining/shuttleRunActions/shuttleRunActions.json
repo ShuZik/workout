@@ -1,0 +1,87 @@
+{
+  "id": "23.36",
+  "key": "cross_training_shuttle_run_actions",
+  "title": "10 m Shuttle Runs",
+  "description": "Place two markers 10 metres apart on a clear surface. Run from one to the other, slow down before turning, and count each one-way trip as one action; five actions equal 50 metres.",
+  "colorType": "red",
+  "workoutType": "crossTraining",
+  "valueType": "actionCount",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "vigorous",
+    "light": 7.5,
+    "moderate": 11,
+    "vigorous": 11,
+    "lightCode": "12020",
+    "moderateCode": "02078",
+    "vigorousCode": "02078"
+  },
+  "difficulty": "basic",
+  "section": "2 Bodyweight",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "10 m Shuttle Runs",
+      "description": "Place two markers 10 metres apart on a clear surface. Run from one to the other, slow down before turning, and count each one-way trip as one action; five actions equal 50 metres.",
+      "sectionTitle": "Bodyweight"
+    },
+    "es": {
+      "title": "Carreras de ida y vuelta de 10 m",
+      "description": "Coloca dos marcas a 10 metros de distancia en una superficie despejada. Corre de una a otra, reduce la velocidad antes de girar y cuenta cada trayecto de ida como una acción; cinco acciones equivalen a 50 metros.",
+      "sectionTitle": "Peso corporal"
+    },
+    "pt": {
+      "title": "Corridas de vaivém de 10 m",
+      "description": "Coloque duas marcações a 10 metros de distância em uma superfície livre. Corra de uma à outra, desacelere antes de virar e conte cada trecho em um sentido como uma ação; cinco ações equivalem a 50 metros.",
+      "sectionTitle": "Peso corporal"
+    },
+    "fr": {
+      "title": "Navettes de 10 m",
+      "description": "Placez deux repères espacés de 10 mètres sur une surface dégagée. Courez de l’un à l’autre, ralentissez avant de tourner et comptez chaque aller simple comme une action ; cinq actions correspondent à 50 mètres.",
+      "sectionTitle": "Poids du corps"
+    },
+    "de": {
+      "title": "10-m-Pendelläufe",
+      "description": "Stelle zwei Markierungen im Abstand von 10 Metern auf einer freien Fläche auf. Laufe von einer zur anderen, bremse vor dem Wenden ab und zähle jede einfache Strecke als eine Aktion; fünf Aktionen ergeben 50 Meter.",
+      "sectionTitle": "Körpergewicht"
+    },
+    "it": {
+      "title": "Corse a navetta da 10 m",
+      "description": "Posiziona due segnali a 10 metri di distanza su una superficie libera. Corri dall’uno all’altro, rallenta prima di girarti e conta ogni tratta in un solo senso come un’azione; cinque azioni equivalgono a 50 metri.",
+      "sectionTitle": "Corpo libero"
+    },
+    "zh-Hans": {
+      "title": "10米折返跑",
+      "description": "在无障碍的场地上设置两个相距10米的标志。从一个标志跑到另一个标志，转身前减速；每完成一个单程计为一次动作，五次共50米。",
+      "sectionTitle": "自重"
+    },
+    "ja": {
+      "title": "10mシャトルラン",
+      "description": "障害物のない場所に10m間隔で目印を2つ置きます。目印の間を走り、折り返す前に減速してください。片道を1動作と数え、5動作で50mになります。",
+      "sectionTitle": "自重"
+    },
+    "ko": {
+      "title": "10m 왕복 달리기",
+      "description": "장애물이 없는 바닥에 표식을 10m 간격으로 두 개 놓으세요. 표식 사이를 달리고 방향을 바꾸기 전에 속도를 줄이세요. 편도 한 구간을 동작 1회로 세며 5회는 50m입니다.",
+      "sectionTitle": "맨몸"
+    },
+    "th": {
+      "title": "วิ่งกลับตัวระยะ 10 เมตร",
+      "description": "วางจุดหมายสองจุดห่างกัน 10 เมตรบนพื้นที่โล่ง วิ่งจากจุดหนึ่งไปอีกจุดหนึ่งและชะลอความเร็วก่อนกลับตัว โดยนับการวิ่งเที่ยวเดียวเป็นหนึ่งครั้ง ดังนั้นห้าครั้งเท่ากับ 50 เมตร",
+      "sectionTitle": "น้ำหนักตัว"
+    },
+    "ru": {
+      "title": "Челночные отрезки по 10 м",
+      "description": "Поставьте две отметки на расстоянии 10 метров на свободной площадке. Бегите от одной к другой, замедляйтесь перед разворотом и считайте каждый отрезок в одну сторону одним действием; пять действий — 50 метров.",
+      "sectionTitle": "Собственный вес"
+    },
+    "uk": {
+      "title": "Човникові відрізки по 10 м",
+      "description": "Поставте дві позначки на відстані 10 метрів на вільному майданчику. Біжіть від однієї до іншої, сповільнюйтеся перед розворотом і рахуйте кожен відрізок в один бік як одну дію; п’ять дій — 50 метрів.",
+      "sectionTitle": "Власна вага"
+    }
+  },
+  "repeatCount": 5
+}

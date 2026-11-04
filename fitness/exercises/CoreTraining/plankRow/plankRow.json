@@ -1,0 +1,88 @@
+{
+  "id": "14.47",
+  "key": "core_training_plank_row",
+  "title": "Plank Row",
+  "description": "In a wide-foot high plank on stable dumbbells, row one weight toward the hip without rotating the pelvis; lower and alternate arms. Enter the total external load used, in kilograms.",
+  "colorType": "indigo",
+  "workoutType": "coreTraining",
+  "valueType": "countAndWeight",
+  "energyProfile": {
+    "source": "adultCompendium2024",
+    "unit": "MET",
+    "defaultIntensity": "moderate",
+    "light": 3.5,
+    "moderate": 5,
+    "vigorous": 6,
+    "lightCode": "02054",
+    "moderateCode": "02052",
+    "vigorousCode": "02050"
+  },
+  "difficulty": "intermediate",
+  "section": "3 Intermediate",
+  "availableFrom": "1.1.7",
+  "availableUntil": null,
+  "translations": {
+    "en": {
+      "title": "Plank Row",
+      "description": "In a wide-foot high plank on stable dumbbells, row one weight toward the hip without rotating the pelvis; lower and alternate arms. Enter the total external load used, in kilograms.",
+      "sectionTitle": "Intermediate"
+    },
+    "es": {
+      "title": "Remo en plancha",
+      "description": "En plancha alta con pies separados sobre mancuernas estables, rema hacia la cadera sin girar pelvis; baja y alterna brazos. Introduce la carga externa total utilizada, en kilogramos.",
+      "sectionTitle": "Intermedio"
+    },
+    "pt": {
+      "title": "Remada na prancha",
+      "description": "Em prancha alta com pés afastados sobre halteres estáveis, reme até o quadril sem girar a pelve; baixe e alterne braços. Informe a carga externa total utilizada, em quilogramas.",
+      "sectionTitle": "Intermediário"
+    },
+    "fr": {
+      "title": "Rowing en planche",
+      "description": "En planche haute, pieds écartés sur des haltères stables, tirez une charge vers la hanche sans tourner le bassin ; alternez. Saisissez la charge externe totale utilisée, en kilogrammes.",
+      "sectionTitle": "Intermédiaire"
+    },
+    "de": {
+      "title": "Rudern im Plank",
+      "description": "Im hohen Stütz mit breiten Füßen auf stabilen Hanteln ziehst du ein Gewicht zur Hüfte, ohne das Becken zu drehen; senke und wechsle. Trage die gesamte verwendete Zusatzlast in Kilogramm ein.",
+      "sectionTitle": "Mittelstufe"
+    },
+    "it": {
+      "title": "Rematore in plank",
+      "description": "In plank alto, piedi larghi su manubri stabili, tira un peso all’anca senza ruotare il bacino; abbassa e alterna. Inserisci il carico esterno totale utilizzato, in chilogrammi.",
+      "sectionTitle": "Intermedio"
+    },
+    "zh-Hans": {
+      "title": "平板哑铃划船",
+      "description": "双脚宽距、双手撑稳固哑铃进入高平板，单臂将哑铃拉向髋部，不转动骨盆，放下后交替。 输入使用的外部负重总重量，单位为千克。",
+      "sectionTitle": "中级"
+    },
+    "ja": {
+      "title": "プランクロウ",
+      "description": "安定したダンベルで脚を広くしたハイプランクを作り、骨盤を回さず片手を腰へ引き、下ろして交代します。 使用する外部負荷の合計重量をキログラムで入力します。",
+      "sectionTitle": "中級"
+    },
+    "ko": {
+      "title": "플랭크 로우",
+      "description": "안정된 덤벨을 잡고 발을 넓힌 하이 플랭크에서 골반 회전 없이 한 무게를 골반으로 당겼다 내리고 교대하세요. 사용하는 외부 부하의 총중량을 킬로그램으로 입력하세요.",
+      "sectionTitle": "중급"
+    },
+    "th": {
+      "title": "แพลงก์ดึงดัมเบล",
+      "description": "แพลงก์สูงเท้ากว้างบนดัมเบลมั่นคง ดึงข้างหนึ่งหาสะโพกโดยไม่หมุนเชิงกราน ลดแล้วสลับแขน กรอกน้ำหนักภายนอกรวมที่ใช้เป็นกิโลกรัม",
+      "sectionTitle": "ระดับกลาง"
+    },
+    "ru": {
+      "title": "Тяга гантели в планке",
+      "description": "В высокой планке с широко поставленными стопами на устойчивых гантелях тяните одну к тазу без его поворота; опускайте и чередуйте руки. Укажите суммарную массу используемого внешнего отягощения в килограммах.",
+      "sectionTitle": "Средний уровень"
+    },
+    "uk": {
+      "title": "Тяга гантелі в планці",
+      "description": "У високій планці з широко поставленими стопами на стійких гантелях тягніть одну до таза без його повороту; опускайте та чергуйте руки. Укажіть загальну масу використаного зовнішнього обтяження в кілограмах.",
+      "sectionTitle": "Середній рівень"
+    }
+  },
+  "initialValue": 10,
+  "initialValue2": 10
+}
